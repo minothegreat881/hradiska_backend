@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_content_rich_texts",
+  "info": {
+    "displayName": "Rich Text",
+    "icon": "file-text",
+    "description": "Text content block"
+  },
+  "options": {},
+  "attributes": {
+    "body": {
+      "type": "blocks"
+    }
+  }
+}

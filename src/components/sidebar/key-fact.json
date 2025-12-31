@@ -1,0 +1,43 @@
+{
+  "collectionName": "components_sidebar_key_facts",
+  "info": {
+    "displayName": "Kľúčový fakt",
+    "icon": "info-circle",
+    "description": "Jednotlivý fakt pre bočný panel"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true,
+      "maxLength": 100
+    },
+    "value": {
+      "type": "string",
+      "required": true,
+      "maxLength": 255
+    },
+    "icon": {
+      "type": "enumeration",
+      "enum": [
+        "calendar",
+        "users",
+        "map",
+        "building",
+        "crown",
+        "sword",
+        "shield",
+        "scroll",
+        "book",
+        "star",
+        "flag",
+        "mountain",
+        "tree",
+        "water",
+        "fire",
+        "custom"
+      ],
+      "default": "star"
+    }
+  }
+}

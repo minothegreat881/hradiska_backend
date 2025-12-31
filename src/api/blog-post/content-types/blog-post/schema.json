@@ -1,0 +1,107 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blog_posts",
+  "info": {
+    "singularName": "blog-post",
+    "pluralName": "blog-posts",
+    "displayName": "Blog Post",
+    "description": "Blog articles for Hradiska.sk"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "maxLength": 255
+    },
+    "slug": {
+      "type": "uid",
+      "targetField": "title",
+      "required": true
+    },
+    "excerpt": {
+      "type": "text",
+      "maxLength": 500
+    },
+    "coverImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "gallery": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "category": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::blog-category.blog-category",
+      "inversedBy": "posts"
+    },
+    "tags": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::blog-tag.blog-tag",
+      "inversedBy": "posts"
+    },
+    "authorName": {
+      "type": "string",
+      "maxLength": 100
+    },
+    "featured": {
+      "type": "boolean",
+      "default": false
+    },
+    "readingTime": {
+      "type": "integer",
+      "min": 1
+    },
+    "metaTitle": {
+      "type": "string",
+      "maxLength": 70
+    },
+    "metaDescription": {
+      "type": "text",
+      "maxLength": 160
+    },
+    "quotes": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.quote"
+    },
+    "blocks": {
+      "type": "dynamiczone",
+      "components": [
+        "content.rich-text",
+        "content.image-block",
+        "content.quote-block",
+        "content.image-gallery"
+      ]
+    },
+    "location": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sidebar.location"
+    },
+    "keyFacts": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sidebar.key-fact"
+    },
+    "timeline": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sidebar.timeline-event"
+    }
+  }
+}

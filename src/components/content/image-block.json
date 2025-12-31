@@ -1,0 +1,113 @@
+{
+  "collectionName": "components_content_image_blocks",
+  "info": {
+    "displayName": "Image Block",
+    "icon": "image",
+    "description": "Single image with position control and optional pairing (SCEAR-style)"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "alt": {
+      "type": "string",
+      "required": true,
+      "maxLength": 255
+    },
+    "caption": {
+      "type": "string",
+      "maxLength": 500
+    },
+    "position": {
+      "type": "enumeration",
+      "enum": [
+        "left",
+        "right",
+        "center",
+        "full"
+      ],
+      "default": "center"
+    },
+    "pairWithNext": {
+      "type": "boolean",
+      "default": false
+    },
+    "width": {
+      "type": "enumeration",
+      "enum": [
+        "30",
+        "40",
+        "50",
+        "60",
+        "100"
+      ],
+      "default": "50"
+    },
+    "aspectRatio": {
+      "type": "enumeration",
+      "enum": [
+        "3:2",
+        "16:9",
+        "4:3",
+        "1:1",
+        "2:3",
+        "9:16",
+        "3:4",
+        "auto"
+      ],
+      "default": "auto"
+    },
+    "objectPosition": {
+      "type": "string",
+      "default": "center center",
+      "maxLength": 50
+    },
+    "showCaption": {
+      "type": "boolean",
+      "default": true
+    },
+    "rounded": {
+      "type": "boolean",
+      "default": true
+    },
+    "shadow": {
+      "type": "boolean",
+      "default": true
+    },
+    "secondImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "layout": {
+      "type": "enumeration",
+      "enum": [
+        "full-width",
+        "left-float",
+        "right-float",
+        "center",
+        "side-by-side",
+        "breakout"
+      ],
+      "default": "full-width"
+    },
+    "size": {
+      "type": "enumeration",
+      "enum": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "default": "medium"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_shared_quotes",
+  "info": {
+    "displayName": "Quote",
+    "icon": "quote",
+    "description": "Historical or poetic quote with attribution"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text",
+      "required": true
+    },
+    "author": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_sidebar_timeline_events",
+  "info": {
+    "displayName": "Udalosť časovej osi",
+    "icon": "clock",
+    "description": "Udalosť na časovej osi"
+  },
+  "options": {},
+  "attributes": {
+    "year": {
+      "type": "string",
+      "required": true,
+      "maxLength": 50
+    },
+    "title": {
+      "type": "string",
+      "required": true,
+      "maxLength": 255
+    },
+    "description": {
+      "type": "text",
+      "maxLength": 500
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "founding",
+        "battle",
+        "construction",
+        "destruction",
+        "discovery",
+        "event",
+        "era"
+      ],
+      "default": "event"
+    }
+  }
+}

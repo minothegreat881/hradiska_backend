@@ -1,0 +1,37 @@
+{
+  "collectionName": "components_sidebar_locations",
+  "info": {
+    "displayName": "Lokalita",
+    "icon": "map-marker-alt",
+    "description": "GPS koordináty a názov lokality pre mapu"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "maxLength": 255
+    },
+    "latitude": {
+      "type": "float",
+      "required": true,
+      "min": -90,
+      "max": 90
+    },
+    "longitude": {
+      "type": "float",
+      "required": true,
+      "min": -180,
+      "max": 180
+    },
+    "region": {
+      "type": "string",
+      "maxLength": 100
+    },
+    "country": {
+      "type": "string",
+      "default": "Slovensko",
+      "maxLength": 100
+    }
+  }
+}
