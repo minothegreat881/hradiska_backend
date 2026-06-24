@@ -1,0 +1,29 @@
+{
+  "location": {
+    "name": "Mikulčice / Kopčany",
+    "country": "Česko"
+  },
+  "category": "l148rpkbsf47iy63jb0afpwn",
+  "coverImage": 82,
+  "excerpt": "Jedno z najvýznamnejších opevnených hradištných sídiel Veľkej Moravy — 12 kostolov, znaky mestského usporiadania, pravdepodobné sídlo prvých Mojmírovcov. Po rozpade Moravy ostali pamiatky zakonzervované pod nánosmi záplav.",
+  "blocksInsertAt": [
+    {
+      "afterHeading": "Kopčany - Slovenská časť Mikulčíc",
+      "offset": 2,
+      "block": {
+        "__component": "content.image-block",
+        "image": 49,
+        "alt": "Veľkomoravský kostolík v Kopčanoch",
+        "caption": "Kostol sv. Margity Antiochijskej v Kopčanoch — najstaršia stojaca stavba na Slovensku",
+        "width": "50",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "position": "right",
+        "showCaption": true,
+        "pairWithNext": false,
+        "rounded": true,
+        "shadow": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_source_items",
+  "info": {
+    "displayName": "Source Item",
+    "icon": "link",
+    "description": "Jeden záznam v zozname zdrojov (text + voliteľná URL)"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}

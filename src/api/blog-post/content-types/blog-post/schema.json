@@ -66,6 +66,16 @@
       "type": "integer",
       "min": 1
     },
+    "originalPublishedDate": {
+      "type": "datetime",
+      "description": "Pôvodný publish dátum (napr. z Blogger migrácie). Strapi managed publishedAt sa nastavuje pri publish action; frontend zobrazuje originalPublishedDate || publishedAt."
+    },
+    "comments": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::blog-comment.blog-comment",
+      "mappedBy": "post"
+    },
     "metaTitle": {
       "type": "string",
       "maxLength": 70
@@ -85,7 +95,9 @@
         "content.rich-text",
         "content.image-block",
         "content.quote-block",
-        "content.image-gallery"
+        "content.image-gallery",
+        "content.embed",
+        "content.sources"
       ]
     },
     "location": {

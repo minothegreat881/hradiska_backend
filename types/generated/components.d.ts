@@ -1,9 +1,37 @@
 import type { Schema, Struct } from '@strapi/strapi';
 
+export interface ContentEmbed extends Struct.ComponentSchema {
+  collectionName: 'components_content_embeds';
+  info: {
+    description: 'Embedded extern\u00FD obsah \u2014 YouTube / Sketchfab 3D model / Vimeo / Blogger video';
+    displayName: 'Embed';
+    icon: 'play';
+  };
+  attributes: {
+    caption: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 255;
+      }>;
+    embedId: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 100;
+      }>;
+    provider: Schema.Attribute.Enumeration<
+      ['youtube', 'sketchfab', 'vimeo', 'blogger']
+    > &
+      Schema.Attribute.Required;
+    url: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
+  };
+}
+
 export interface ContentImageBlock extends Struct.ComponentSchema {
   collectionName: 'components_content_image_blocks';
   info: {
-    description: 'Single image with position control and optional pairing (SCEAR-style)';
+    description: 'Single image with position control and optional pairing';
     displayName: 'Image Block';
     icon: 'image';
   };
@@ -22,17 +50,6 @@ export interface ContentImageBlock extends Struct.ComponentSchema {
         maxLength: 500;
       }>;
     image: Schema.Attribute.Media<'images'> & Schema.Attribute.Required;
-    layout: Schema.Attribute.Enumeration<
-      [
-        'full-width',
-        'left-float',
-        'right-float',
-        'center',
-        'side-by-side',
-        'breakout',
-      ]
-    > &
-      Schema.Attribute.DefaultTo<'full-width'>;
     objectPosition: Schema.Attribute.String &
       Schema.Attribute.SetMinMaxLength<{
         maxLength: 50;
@@ -40,15 +57,12 @@ export interface ContentImageBlock extends Struct.ComponentSchema {
       Schema.Attribute.DefaultTo<'center center'>;
     pairWithNext: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     position: Schema.Attribute.Enumeration<
-      ['left', 'right', 'center', 'full']
+      ['left', 'right', 'center', 'full', 'breakout']
     > &
       Schema.Attribute.DefaultTo<'center'>;
     rounded: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
-    secondImage: Schema.Attribute.Media<'images'>;
     shadow: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
     showCaption: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
-    size: Schema.Attribute.Enumeration<['small', 'medium', 'large']> &
-      Schema.Attribute.DefaultTo<'medium'>;
     width: Schema.Attribute.Enumeration<['30', '40', '50', '60', '100']> &
       Schema.Attribute.DefaultTo<'50'>;
   };
@@ -94,6 +108,21 @@ export interface ContentRichText extends Struct.ComponentSchema {
   };
 }
 
+export interface ContentSources extends Struct.ComponentSchema {
+  collectionName: 'components_content_sources';
+  info: {
+    description: 'Zoznam zdrojov a literat\u00FAry (samostatn\u00FD blok, nie rich-text)';
+    displayName: 'Sources';
+    icon: 'book';
+  };
+  attributes: {
+    intro: Schema.Attribute.Text;
+    items: Schema.Attribute.Component<'shared.source-item', true>;
+    title: Schema.Attribute.String &
+      Schema.Attribute.DefaultTo<'Zdroje a literat\u00FAra'>;
+  };
+}
+
 export interface SharedQuote extends Struct.ComponentSchema {
   collectionName: 'components_shared_quotes';
   info: {
@@ -105,6 +134,19 @@ export interface SharedQuote extends Struct.ComponentSchema {
     author: Schema.Attribute.String;
     source: Schema.Attribute.String;
     text: Schema.Attribute.Text & Schema.Attribute.Required;
+  };
+}
+
+export interface SharedSourceItem extends Struct.ComponentSchema {
+  collectionName: 'components_shared_source_items';
+  info: {
+    description: 'Jeden z\u00E1znam v zozname zdrojov (text + volite\u013En\u00E1 URL)';
+    displayName: 'Source Item';
+    icon: 'link';
+  };
+  attributes: {
+    text: Schema.Attribute.Text;
+    url: Schema.Attribute.String;
   };
 }
 
@@ -233,11 +275,14 @@ export interface SidebarTimelineEvent extends Struct.ComponentSchema {
 declare module '@strapi/strapi' {
   export module Public {
     export interface ComponentSchemas {
+      'content.embed': ContentEmbed;
       'content.image-block': ContentImageBlock;
       'content.image-gallery': ContentImageGallery;
       'content.quote-block': ContentQuoteBlock;
       'content.rich-text': ContentRichText;
+      'content.sources': ContentSources;
       'shared.quote': SharedQuote;
+      'shared.source-item': SharedSourceItem;
       'sidebar.key-fact': SidebarKeyFact;
       'sidebar.location': SidebarLocation;
       'sidebar.timeline-event': SidebarTimelineEvent;

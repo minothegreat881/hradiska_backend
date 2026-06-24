@@ -1,4 +1,11 @@
 export default ({ env }) => ({
+  // Ignore changes in migration scripts dir — upload.mjs writes payload.json
+  // and upload-log.json during runs which would otherwise trigger a Strapi
+  // restart mid-upload and crash the worker (EBUSY on sharp temp files).
+  watchIgnoreFiles: [
+    './scripts/**',
+    '**/scripts/**',
+  ],
   auth: {
     secret: env('ADMIN_JWT_SECRET'),
   },

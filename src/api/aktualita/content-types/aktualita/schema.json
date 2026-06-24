@@ -1,0 +1,58 @@
+{
+  "kind": "collectionType",
+  "collectionName": "aktuality",
+  "info": {
+    "singularName": "aktualita",
+    "pluralName": "aktuality",
+    "displayName": "Aktualita",
+    "description": "Krátke príspevky o činnosti občianskeho združenia (brigády, nové tabule, podujatia, výskum)"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nazov": {
+      "type": "string",
+      "required": true,
+      "maxLength": 160
+    },
+    "obsah": {
+      "type": "richtext"
+    },
+    "fotky": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "typAktivity": {
+      "type": "enumeration",
+      "enum": [
+        "brigada",
+        "nova_tabula",
+        "socha_pamatnik",
+        "podujatie",
+        "vyskum",
+        "ine"
+      ],
+      "default": "ine",
+      "required": true
+    },
+    "datum": {
+      "type": "date",
+      "required": true
+    },
+    "hradiskoSlug": {
+      "type": "string",
+      "maxLength": 120,
+      "description": "Voliteľný názov hradiska zo zoznamu data/hradiska.ts (napr. 'Spišský hrad'). Frontend podľa neho dohľadá marker na mape."
+    },
+    "zvyraznene": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

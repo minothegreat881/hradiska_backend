@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_content_sources",
+  "info": {
+    "displayName": "Sources",
+    "icon": "book",
+    "description": "Zoznam zdrojov a literatúry (samostatný blok, nie rich-text)"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "default": "Zdroje a literatúra"
+    },
+    "intro": {
+      "type": "text"
+    },
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.source-item"
+    }
+  }
+}

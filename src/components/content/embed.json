@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_content_embeds",
+  "info": {
+    "displayName": "Embed",
+    "icon": "play",
+    "description": "Embedded externý obsah — YouTube / Sketchfab 3D model / Vimeo / Blogger video"
+  },
+  "options": {},
+  "attributes": {
+    "provider": {
+      "type": "enumeration",
+      "enum": [
+        "youtube",
+        "sketchfab",
+        "vimeo",
+        "blogger"
+      ],
+      "required": true
+    },
+    "embedId": {
+      "type": "string",
+      "maxLength": 100
+    },
+    "url": {
+      "type": "string",
+      "required": true,
+      "maxLength": 500
+    },
+    "caption": {
+      "type": "string",
+      "maxLength": 255
+    }
+  }
+}

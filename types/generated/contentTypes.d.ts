@@ -430,6 +430,52 @@ export interface AdminUser extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiAktualitaAktualita extends Struct.CollectionTypeSchema {
+  collectionName: 'aktuality';
+  info: {
+    description: 'Kr\u00E1tke pr\u00EDspevky o \u010Dinnosti ob\u010Dianskeho zdru\u017Eenia (brig\u00E1dy, nov\u00E9 tabule, podujatia, v\u00FDskum)';
+    displayName: 'Aktualita';
+    pluralName: 'aktuality';
+    singularName: 'aktualita';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    datum: Schema.Attribute.Date & Schema.Attribute.Required;
+    fotky: Schema.Attribute.Media<'images', true>;
+    hradiskoSlug: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 120;
+      }>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::aktualita.aktualita'
+    > &
+      Schema.Attribute.Private;
+    nazov: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 160;
+      }>;
+    obsah: Schema.Attribute.RichText;
+    publishedAt: Schema.Attribute.DateTime;
+    typAktivity: Schema.Attribute.Enumeration<
+      ['brigada', 'nova_tabula', 'socha_pamatnik', 'podujatie', 'vyskum', 'ine']
+    > &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'ine'>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    zvyraznene: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+  };
+}
+
 export interface ApiBlogCategoryBlogCategory
   extends Struct.CollectionTypeSchema {
   collectionName: 'blog_categories';
@@ -467,6 +513,71 @@ export interface ApiBlogCategoryBlogCategory
   };
 }
 
+export interface ApiBlogCommentBlogComment extends Struct.CollectionTypeSchema {
+  collectionName: 'blog_comments';
+  info: {
+    description: 'Koment\u00E1re k blog \u010Dl\u00E1nkom \u2014 public POST od n\u00E1v\u0161tevn\u00EDkov, admin moderation pred zobrazen\u00EDm.';
+    displayName: 'Blog Comment';
+    pluralName: 'blog-comments';
+    singularName: 'blog-comment';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    approved: Schema.Attribute.Boolean &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<false>;
+    authorEmail: Schema.Attribute.Email;
+    authorName: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 100;
+      }>;
+    authorProfile: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
+    content: Schema.Attribute.Text &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 5000;
+      }>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    inReplyTo: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 200;
+      }>;
+    likes: Schema.Attribute.Integer &
+      Schema.Attribute.SetMinMax<
+        {
+          min: 0;
+        },
+        number
+      > &
+      Schema.Attribute.DefaultTo<0>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::blog-comment.blog-comment'
+    > &
+      Schema.Attribute.Private;
+    originalDate: Schema.Attribute.DateTime;
+    post: Schema.Attribute.Relation<'manyToOne', 'api::blog-post.blog-post'>;
+    publishedAt: Schema.Attribute.DateTime;
+    sourceBlogger: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    sourceBloggerId: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 200;
+      }>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiBlogPostBlogPost extends Struct.CollectionTypeSchema {
   collectionName: 'blog_posts';
   info: {
@@ -489,11 +600,17 @@ export interface ApiBlogPostBlogPost extends Struct.CollectionTypeSchema {
         'content.image-block',
         'content.quote-block',
         'content.image-gallery',
+        'content.embed',
+        'content.sources',
       ]
     >;
     category: Schema.Attribute.Relation<
       'manyToOne',
       'api::blog-category.blog-category'
+    >;
+    comments: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::blog-comment.blog-comment'
     >;
     coverImage: Schema.Attribute.Media<'images'>;
     createdAt: Schema.Attribute.DateTime;
@@ -521,6 +638,7 @@ export interface ApiBlogPostBlogPost extends Struct.CollectionTypeSchema {
       Schema.Attribute.SetMinMaxLength<{
         maxLength: 70;
       }>;
+    originalPublishedDate: Schema.Attribute.DateTime;
     publishedAt: Schema.Attribute.DateTime;
     quotes: Schema.Attribute.Component<'shared.quote', true>;
     readingTime: Schema.Attribute.Integer &
@@ -1089,7 +1207,9 @@ declare module '@strapi/strapi' {
       'admin::transfer-token': AdminTransferToken;
       'admin::transfer-token-permission': AdminTransferTokenPermission;
       'admin::user': AdminUser;
+      'api::aktualita.aktualita': ApiAktualitaAktualita;
       'api::blog-category.blog-category': ApiBlogCategoryBlogCategory;
+      'api::blog-comment.blog-comment': ApiBlogCommentBlogComment;
       'api::blog-post.blog-post': ApiBlogPostBlogPost;
       'api::blog-tag.blog-tag': ApiBlogTagBlogTag;
       'plugin::content-releases.release': PluginContentReleasesRelease;

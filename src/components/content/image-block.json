@@ -3,7 +3,7 @@
   "info": {
     "displayName": "Image Block",
     "icon": "image",
-    "description": "Single image with position control and optional pairing (SCEAR-style)"
+    "description": "Single image with position control and optional pairing"
   },
   "options": {},
   "attributes": {
@@ -30,7 +30,8 @@
         "left",
         "right",
         "center",
-        "full"
+        "full",
+        "breakout"
       ],
       "default": "center"
     },
@@ -79,35 +80,6 @@
     "shadow": {
       "type": "boolean",
       "default": true
-    },
-    "secondImage": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images"
-      ]
-    },
-    "layout": {
-      "type": "enumeration",
-      "enum": [
-        "full-width",
-        "left-float",
-        "right-float",
-        "center",
-        "side-by-side",
-        "breakout"
-      ],
-      "default": "full-width"
-    },
-    "size": {
-      "type": "enumeration",
-      "enum": [
-        "small",
-        "medium",
-        "large"
-      ],
-      "default": "medium"
     }
   }
 }

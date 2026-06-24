@@ -129,3 +129,11 @@ dist
 build
 .strapi-updater.json
 .strapi-cloud.json
+
+############################
+# Blog migration — transient outputs
+############################
+scripts/blog-migrate/out/*.payload.json
+scripts/blog-migrate/out/*.upload-log.json
+scripts/blog-migrate/out/_dry-run-report.json
+scripts/blog-migrate/out/_verify.json

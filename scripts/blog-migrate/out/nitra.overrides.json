@@ -1,0 +1,153 @@
+{
+  "location": {
+    "name": "Nitra",
+    "country": "Slovensko"
+  },
+  "category": "l148rpkbsf47iy63jb0afpwn",
+  "blocksInsertAt": [
+    {
+      "afterHeading": "1. Nitra - hrad",
+      "offset": 4,
+      "block": {
+        "__component": "content.image-block",
+        "image": 91,
+        "alt": "Letecký pohľad na Nitriansky hrad",
+        "caption": "Letecký pohľad na Nitriansky hrad",
+        "width": "50",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "position": "right",
+        "showCaption": true,
+        "pairWithNext": false,
+        "rounded": true,
+        "shadow": true
+      }
+    },
+    {
+      "afterHeading": "2. Nitra - Martinský vrch",
+      "offset": 2,
+      "block": {
+        "__component": "content.image-block",
+        "image": 98,
+        "alt": "Martinský kostol",
+        "caption": "Martinský kostol na Martinskom vrchu",
+        "width": "50",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "position": "left",
+        "showCaption": true,
+        "pairWithNext": false,
+        "rounded": true,
+        "shadow": true
+      }
+    },
+    {
+      "afterHeading": "3. Nitra - Lupka",
+      "offset": 2,
+      "block": {
+        "__component": "content.image-block",
+        "image": 119,
+        "alt": "Lupka — letecký pohľad",
+        "caption": "Letecký pohľad na hradisko Lupka",
+        "width": "50",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "position": "right",
+        "showCaption": true,
+        "pairWithNext": false,
+        "rounded": true,
+        "shadow": true
+      }
+    },
+    {
+      "afterHeading": "3. Nitra - Lupka",
+      "offset": 4,
+      "block": {
+        "__component": "content.image-block",
+        "image": 99,
+        "alt": "Nálezy z hradiska Lupka",
+        "caption": "Nálezy z hradiska Lupka",
+        "width": "40",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "position": "left",
+        "showCaption": true,
+        "pairWithNext": false,
+        "rounded": true,
+        "shadow": true
+      }
+    },
+    {
+      "afterHeading": "4. Nitra - Zobor",
+      "offset": 2,
+      "block": {
+        "__component": "content.image-block",
+        "image": 127,
+        "alt": "Zobor — letecký pohľad",
+        "caption": "Letecký pohľad na hradisko Zobor",
+        "width": "50",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "position": "right",
+        "showCaption": true,
+        "pairWithNext": false,
+        "rounded": true,
+        "shadow": true
+      }
+    },
+    {
+      "afterHeading": "4. Nitra - Zobor",
+      "offset": 6,
+      "block": {
+        "__component": "content.image-block",
+        "image": 149,
+        "alt": "Pôdorys hradiska Zobor podľa Janšáka",
+        "caption": "Pôdorys hradiska Zobor (Š. Janšák)",
+        "width": "50",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "position": "left",
+        "showCaption": true,
+        "pairWithNext": false,
+        "rounded": true,
+        "shadow": true
+      }
+    },
+    {
+      "afterHeading": "4. Nitra - Zobor",
+      "offset": 10,
+      "block": {
+        "__component": "content.image-block",
+        "image": 109,
+        "alt": "Nálezy zo Zobora — AVANS 2008",
+        "caption": "Nálezy zo Zobora (AVANS 2008)",
+        "width": "50",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "position": "right",
+        "showCaption": true,
+        "pairWithNext": false,
+        "rounded": true,
+        "shadow": true
+      }
+    },
+    {
+      "afterHeading": "6. Nitra – Šindolka",
+      "offset": 2,
+      "block": {
+        "__component": "content.image-block",
+        "image": 92,
+        "alt": "Nitra — pohľad na lokality v okolí",
+        "caption": "Nitra — pohľad na okolité hradiská",
+        "width": "50",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "position": "right",
+        "showCaption": true,
+        "pairWithNext": false,
+        "rounded": true,
+        "shadow": true
+      }
+    }
+  ]
+}
