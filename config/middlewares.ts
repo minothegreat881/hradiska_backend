@@ -5,19 +5,23 @@ const envOrigins = (process.env.CORS_ORIGINS || '')
   .map((s) => s.trim())
   .filter(Boolean);
 
-const defaultPatterns: RegExp[] = [
-  /^http:\/\/localhost:\d+$/, // dev: Vite na ľubovoľnom porte
-  /^http:\/\/127\.0\.0\.1:\d+$/,
-  /^https:\/\/.*\.vercel\.app$/, // Vercel preview + prod
+const allowedPatterns: RegExp[] = [
+  /^http:\/\/localhost(?::\d+)?$/,
+  /^http:\/\/127\.0\.0\.1(?::\d+)?$/,
+  /^https:\/\/.*\.vercel\.app$/,
   /^https:\/\/.*\.ngrok-free\.app$/,
-  /^https:\/\/.*\.ngrok-free\.dev$/, // ngrok 3.20+ default doménový suffix
+  /^https:\/\/.*\.ngrok-free\.dev$/, // ngrok 3.20+ default suffix
   /^https:\/\/.*\.ngrok\.io$/,
   /^https:\/\/.*\.ngrok\.app$/,
   /^https:\/\/.*\.ngrok\.dev$/,
   /^https:\/\/.*\.trycloudflare\.com$/,
 ];
 
-const allowedOrigins = [...envOrigins, ...defaultPatterns];
+function isAllowedOrigin(origin: string): boolean {
+  if (!origin) return false;
+  if (envOrigins.includes(origin)) return true;
+  return allowedPatterns.some((re) => re.test(origin));
+}
 
 export default [
   'strapi::logger',
@@ -26,7 +30,11 @@ export default [
   {
     name: 'strapi::cors',
     config: {
-      origin: allowedOrigins,
+      // koa-cors origin: function(ctx) → string|null. Vracia echo origin ak je allowed.
+      origin: (ctx: any) => {
+        const origin = ctx.request.header.origin;
+        return isAllowedOrigin(origin) ? origin : '';
+      },
       credentials: true,
       headers: ['Content-Type', 'Authorization', 'Origin', 'Accept'],
       methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'HEAD', 'OPTIONS'],
