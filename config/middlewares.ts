@@ -9,8 +9,11 @@ const defaultPatterns: RegExp[] = [
   /^http:\/\/localhost:\d+$/, // dev: Vite na ľubovoľnom porte
   /^http:\/\/127\.0\.0\.1:\d+$/,
   /^https:\/\/.*\.vercel\.app$/, // Vercel preview + prod
-  /^https:\/\/.*\.ngrok-free\.app$/, // ngrok free tunely (frontend cez ngrok — netypické)
+  /^https:\/\/.*\.ngrok-free\.app$/,
+  /^https:\/\/.*\.ngrok-free\.dev$/, // ngrok 3.20+ default doménový suffix
   /^https:\/\/.*\.ngrok\.io$/,
+  /^https:\/\/.*\.ngrok\.app$/,
+  /^https:\/\/.*\.ngrok\.dev$/,
   /^https:\/\/.*\.trycloudflare\.com$/,
 ];
 
