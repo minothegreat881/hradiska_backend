@@ -899,6 +899,16 @@ Zistené priamym prehliadaním publikovaného článku (screenshoty), nie automa
 
 **Dopad na už migrované články:** Arkona bola tiež postihnutá (b) aj (c) fixmi — re-uploadnutá v tejto session. Blatnohrad/Mikulčice/Velehrad/Wogastisburg regresne overené ako nedotknuté (0 zmien v počte blokov/citácií), takže pravdepodobne nemajú tento vzor v zdrojovom HTML — ale vizuálne neboli kontrolované, len automatizovane.
 
+### 9.13 Ďalšie 3 bugy z druhého kola vizuálnej kontroly (Velehrad, Wogastisburg — vyriešené)
+
+**d) Prázdny prvý blok tiež kradol drop-cap (Velehrad, extract.mjs, celoplošný fix).** `cleanupOrphanChildren` vyprázdni `body` odseku bez reálneho textu, ale nechala stáť samotný (teraz prázdny) `content.rich-text` blok — ak bol PRVÝ v článku, frontend naň napriek prázdnote naviazal drop-cap (nič sa nezobrazilo, žiadna iniciála v celom článku). Fix: `content.rich-text` blok s `body: []` sa po `cleanupOrphanChildren` úplne odstráni z výstupu. Postihlo aj Nitru (70→68 blokov pri re-teste).
+
+**e) `<i><b>` opačné poradie vnorenia unikalo quote-block detekcii (Wogastisburg, extract.mjs, celoplošný fix).** Dva rôzne detekčné miesta (§4.5 vnorené quoteDivs pre básne/verše, §4 bold-only-div pre nadpisy/citáty) hľadali `<b>` ako priamy potomok (`> b`, `> div > b`) — dobový citát so štruktúrou `<div><i><b>text</b></i></div>` (kurzíva OBALUJE tučné písmo, opačne než zvyčajné `<b><i>`) tak ostal ako obyčajný `content.rich-text` odsek namiesto `content.quote-block`. Fix: rozšírený selektor o `> i > b` (§4) a symetrický i/b check (§4.5). Fredegarova kronika vo Wogastisburgu sa teraz správne rozpozná ako quote-block.
+
+**f) Drop-cap na nadpise namiesto odseku — hlbšia, frontendová oprava (3. variant tej istej rodiny bugov: d + Nitra §9.12a + toto).** Po presunutí atribúcie citátu preč (viď §9.12a vzor), sa novým "prvým rich-text blokom" niekedy stane blok obsahujúci LEN nadpis (`type: 'heading'`), nie odsek — `renderRichText` aplikuje drop-cap výhradne na `type: 'paragraph'` uzly, takže nadpis ho jednoducho preskočí a *žiadny* nasledujúci blok už drop-cap nedostane (`isFirstRichTextBlock` je `true` len pre JEDEN konkrétny index). **Fix (frontend, `DynamicZoneRenderer.tsx`, celoplošný):** `firstRichTextIndex` teraz hľadá prvý `content.rich-text` blok, ktorý má aspoň jeden `paragraph` uzol s reálnym textom (nielen akýkoľvek rich-text blok) — rieši naraz prázdne bloky (d), nadpisové bloky (f) aj krátke citačné odseky (§9.12a) ako jedna všeobecná trieda bugov, bez potreby ručne opravovať dáta pri každom budúcom výskyte.
+
+**Poučenie:** táto rodina bugov (zlý "prvý rich-text blok") mala 3 rôzne dátové príčiny (prázdny blok, citácia, nadpis) ale JEDNU spoločnú frontendovú slabinu — `firstRichTextIndex` bol príliš naivný. Fix (f) je teraz robustný voči všetkým variantom naraz, vrátane akýchkoľvek budúcich neobjavených.
+
 ---
 
 ## 10. Recovery procedure — ak nová Claude session
