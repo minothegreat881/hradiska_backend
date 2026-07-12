@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/B%C3%AD%C5%88a?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/B%C3%AD%C5%88a"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-4502446212086467118"
+        },
+        "published": {
+          "$t": "2011-10-28T23:12:00.015+02:00"
+        },
+        "updated": {
+          "$t": "2021-07-12T12:59:26.852+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Bíňa"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Bíňa"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div style=\"margin-bottom: 0in;\">\nV obci Bíňa na juhu Slovenska sa nachádzajú pozostatky mohutného zemného opevnenia, jedného z najväčších v Karpatskej kotline. Jedinečnosť a impozantnosť tohto hradiska upútavala už oddávna pozornosť historických geografov, historikov a v neposlednom rade i archeológov.</div>\n<div style=\"margin-bottom: 0in;\">\n<iframe frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=47.922698,18.642898&amp;spn=0.010066,0.018239&amp;z=15&amp;output=embed\" width=\"425\"></iframe><br />\n<small><a href=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=47.922698,18.642898&amp;spn=0.010066,0.018239&amp;z=15&amp;source=embed\" style=\"color: blue; text-align: left;\">Zvětšit mapu</a></small> </div>\n<div style=\"margin-bottom: 0in;\">\n<b>Geografická   poloha   lokality</b></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nMiesto pre stavbu rozsiahleho opevnenia v Bíni vybrali jeho budovatelia veľmi dômyselne. Nikde v údolí Hrona niet totiž takého prirodzene výhodného miesta, ktoré by postavením valových prstencov dalo priestor tej rozlohy, ako to nachádzame práve tu. Táto výhoda terénu spočíva nielen v samostatnom vyvýšení terasy, ktorá pri bínskom kostole dosahuje výšku až 17 m nad hladinou Hrona a nikde neklesá pod 10 m, ale aj v tom, že veľká časť takto vyvýšeného terénu je prirodzene chránená — na východnej strane po celej dĺžke opevneného priestoru Hronom a strmým, miestami až zvislým brehom rieky. Umelé opevnenie v Bíni sa stavalo tak, aby túto prírodou danú a výhodnú bezpečnosť čo najlepšie využilo a primerane zvýšilo. Priebeh celého umelého pevnostného systému vytýčili tak, že jednotlivé pásma valov vždy vhodne nadviazali na  prirodzené terénne útvary, ktoré tak tvorili súčasť opevňovacieho systému. Veľkou výhodou pre staviteľov bolo i to, že hlina v Bíni je veľmi súdržná a umožňovala stavbu dosť vysokých zemných násypov bez toho, aby sa vnútri alebo zvonku museli  spevňovať nejakou konštrukciou,  ktorá  by teleso valu držala pohromade.</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\"><br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh3D7MXQc5azN19ZU1_-yNhhAwERRhgq1L4c7FBG6mbyS57q8z8iYvY90wV4pTkMj7v3E-NPQrP7HqP5X2YwTR1OgaZ7iPIJapKI_GvdyKbjpk61Ub6OOLltBvKNS3lRyQb-6gQjBd5_M/s1600/1+mapovanie+1764.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"179\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh3D7MXQc5azN19ZU1_-yNhhAwERRhgq1L4c7FBG6mbyS57q8z8iYvY90wV4pTkMj7v3E-NPQrP7HqP5X2YwTR1OgaZ7iPIJapKI_GvdyKbjpk61Ub6OOLltBvKNS3lRyQb-6gQjBd5_M/s320/1+mapovanie+1764.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Bíňa na I. voj. mapovaní 1764 - je viditeľné, kde sa vonkajší vaj napájal na stredný </td></tr>\n</tbody></table>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdRu6JQPuPQTko0pkyNUkIXUkhu-BZt8ZdkAFnU6dom-OnAkSvgmFKX6dL97zv2OnBkdk3clVfXRECHUCJD8eBrKTgOViyVxses7OU36QgE0oy3cfJAAxCBe3kCZS9Ja-HpJv_xgPQcds/s1600/b%C3%AD%C5%88a+2+voj+map1.jpg\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"177\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdRu6JQPuPQTko0pkyNUkIXUkhu-BZt8ZdkAFnU6dom-OnAkSvgmFKX6dL97zv2OnBkdk3clVfXRECHUCJD8eBrKTgOViyVxses7OU36QgE0oy3cfJAAxCBe3kCZS9Ja-HpJv_xgPQcds/s320/b%C3%AD%C5%88a+2+voj+map1.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><span face=\"Arial, Tahoma, Helvetica, FreeSans, sans-serif\" style=\"background-color: white; color: #333333; font-size: 11px; line-height: 16px;\">Bíňa na II. vojenskom mapovaní z polovice 19. storočia. Zreteľne vidieť valy</span></td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<u><b>Opis    pozostatkov   bínskeho hradiska</b></u></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nCelková rozloha plochy, ktorú obkľučujú valy, je vyše 107 ha a celková dĺžka všetkých troch prstencov valov 5100 m. Ide teda o rozlohu, akú nemá nijaké z doteraz známych hradísk hospodársko-správneho alebo vojensko-obranného charakteru z tzv. hradištnej doby na Slovensku, Česku ani v najbližších susedných štátoch.  Osídlenie opevnenej plochy sa sústreďuje len na vyvýšené časti hronskej terasy, medzi západným brehom Hrona a bývalým vnútorným valom. Len v severnej časti, v okolí bývalého kaštieľa, zasahuje osídlenie aj do priestorov mimo vnútorného valu, teda na miesta, ktoré boli často osídľované už v praveku a ku ktorým sa viazalo aj neskoršie stredoveké a novoveké osídlenie. Táto plocha, ktorá sa obyčajne využívala na trvalejšie osídlenie, je len malou časťou, približne pätinou celkovej rozlohy opevnenej plochy. Priestor medzi vonkajším a vnútorným valom, ktorý predstavuje ostatnú, asi štvornásobne väčšiu plochu, neukazuje totiž nijaké stopy trvalejšieho osídlenia ani z čias blízkych dobe vybudovania valov, ani z neskorších storočí.  <br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpXcLX2AXy-ITbFBaXASjqf_j2kLZMOBzE5fzNz8WsFE2ejrSMcsxzOUTxzHIVjFDT3mNq3EQZsTySL22E127jV94iC6sIsbW-nnY3gufFt96sCV5KX8gJkcbhdUtsJjRhyphenhyphenFDu61BQrX8/s1600/P4061306.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpXcLX2AXy-ITbFBaXASjqf_j2kLZMOBzE5fzNz8WsFE2ejrSMcsxzOUTxzHIVjFDT3mNq3EQZsTySL22E127jV94iC6sIsbW-nnY3gufFt96sCV5KX8gJkcbhdUtsJjRhyphenhyphenFDu61BQrX8/s320/P4061306.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Naša umelecká predstava o vzhľade hradiska v 9-11. storočí, autor &nbsp;T. Humaj. <br />\nĎalšie fotky najdete<a href=\"http://www.hradiska.sk/2013/04/bina-kresba.html\" target=\"_blank\"> TU</a>&nbsp;</td></tr>\n</tbody></table>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Vonkajší   val</b></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nValy Bínskeho hradiska skúmal a výborne popísal už v 30. rokoch – kto iný ako Štefan Janšák. V celej južnej a juhozápadnej časti bol tento val  &nbsp;čiastočne vybudovaný na severnom brehu  jarku, ktorý využili budovatelia na zvýšenie bezpečnosti opevnenia i kvôli úspore práce. Jarok sa  dotýkal valu pri jeho vonkajšej päte a svojou prirodzenou hĺbkou — 4 až 6 m - značne prispieval  k neprístupnosti valu. Na mieste, kde bol kedysi val, zostal dnes prirodzený mierny svah klesajúci k potôčiku. Po severnom brehu potôčika, kolmo na svah, vedie od západu na východ úzka ulička k Hronu. Na jednom úseku presekáva val hradská vedúca z Bíne do Kamenina a Štúrova. Dosť hlboké koryto potôčika preklenuje tu most. Preto val v tejto časti celkom chýba. Val je sploštený, na južnej strane čiastočne po dĺžke rozkopaný a na severnej strane rozhrnutý do susedných záhrad a domov. V krátkom úseku si zachoval ešte dosial prevýšenie nad priľahlými záhradami. Na južnej strane sa val zvažuje do prirodzeného jarku a koruna valu nad dnom jarku sa dvíha do výšky až 6,40 m. Na viacerých častiach  je val už úplne rozkopaný a materiál z neho rozvezený. Na jeho mieste sú riedko postavené domčeky.  V časti valu vzniklo veľké hlinisko, ktoré sa ešte v 70. rokoch využívalo. Na úseku medzi 620. až 700. metrom bol ešte r. 1934, teda v čase spracúvania Janšákovho opisu bínskych valov, 80 m dlhý úsek zachovaného valu, no ten už dnes tiež chýba. Pôvodný val v  úseku medzi 800. až 1100. metrom prebiehal už mimo dnešnej obce a  bol v úplne rovnom teréne. Na juhozápadnej strane smerom navonok tiahne sa pozdĺž valu priekopa, z ktorej sa vyberal materiál na stavbu valu. Na viacerých ďalších miestach je val prerazený otvormi, ktoré vznikli v novoveku. Je však možné natrafiť aj na úseky, ktoré zostali veľmi dobre zachovalé takže umožňujú dostatočný výskum.  </div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWPONN6U0bPbQoB1bjNAg1mDLiVNApVtvRIWvL1WRY9Qw3BymMR6GIuIXNnS63ZCArmZTJpKEQA0Cf6LFwqPijO97U2sEHiEOXpBF9zjjjU_dRjdasoCEitrC-b07b1bce2Lcz5zDi49g/s1600/p1010105q.jpg\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWPONN6U0bPbQoB1bjNAg1mDLiVNApVtvRIWvL1WRY9Qw3BymMR6GIuIXNnS63ZCArmZTJpKEQA0Cf6LFwqPijO97U2sEHiEOXpBF9zjjjU_dRjdasoCEitrC-b07b1bce2Lcz5zDi49g/s320/p1010105q.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Rez valom na ktorom je dobre viditeľné, kde bola zasadená palisáda</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIP-cdvEo9uy90KPlZzOMnL4v5n0J3wXDNMWwZvEghTKMfbsKiMnz-KNOj0xSPmeUqrZFw5CaF7ykWC3QEEq0Fbz0aWL-VQ9qe1JTPXw1LaeVY3emnbDlHDQ4hH_SNO_4R8GVxAgvcRK0/s1600/p1010099kpiag.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"108\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIP-cdvEo9uy90KPlZzOMnL4v5n0J3wXDNMWwZvEghTKMfbsKiMnz-KNOj0xSPmeUqrZFw5CaF7ykWC3QEEq0Fbz0aWL-VQ9qe1JTPXw1LaeVY3emnbDlHDQ4hH_SNO_4R8GVxAgvcRK0/s320/p1010099kpiag.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0IMRpatS79TZ53wxBfV3A67SulRBiyJtcbiPTh_wtuKz95JHUphuSN0N43Y6RCunfmF-Aa24xWCAC-d3gp8C1CNBkqfk71_pqZbeoqTy9-2M1VNCh8y8lYrIbT7NorCOiBqHZ6hj4xBY/s1600/profilvalu.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"100\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0IMRpatS79TZ53wxBfV3A67SulRBiyJtcbiPTh_wtuKz95JHUphuSN0N43Y6RCunfmF-Aa24xWCAC-d3gp8C1CNBkqfk71_pqZbeoqTy9-2M1VNCh8y8lYrIbT7NorCOiBqHZ6hj4xBY/s320/profilvalu.jpg\" width=\"320\" /></a></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Stredný   val</b></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nTento val bol čiastočne vybudovaný pozdĺž prirodzeného jarku. Jeho južný svah sa zachoval takmer po celej dĺžke. Aj na časti tohto valu sú postavené  domy a záhrady. Ďalej je val prerušený štátnou hradskou. Na niektorých miestach je val úplne rozobratý, koryto jarku zasypané a na ich mieste stoja budovy miestnej školy. V jej okolí, na sever od cesty, badať menší, 1 — 2 m vysoký stupeň, ktorý je tu jedinou stopou po niekdajšom opevnení. V nasledujúcich úsekoch na niektorých miestach je badateľná bývalá priekopa vnútorného valu. Na 1250. metri vidno slabý ohyb pozostatku valu smerom na východ, ktorým sa asi stredný val pripájal k vonkajšiemu valu.<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxcxFSNAhL0gBYNd-MRpgusqNqOMutjaGOwOmJDePiNqnyiUk2eQRNzo-uiqVd_WLj_-bxgfZGoI-5CHfDXOT9qknFwUYuziUeTfxOG15CfH3mefXfwOgrjynSJxZrPk9RA97nnbGojAs/s1600/jansak.jpg\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"167\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxcxFSNAhL0gBYNd-MRpgusqNqOMutjaGOwOmJDePiNqnyiUk2eQRNzo-uiqVd_WLj_-bxgfZGoI-5CHfDXOT9qknFwUYuziUeTfxOG15CfH3mefXfwOgrjynSJxZrPk9RA97nnbGojAs/s320/jansak.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Rez valom podľa Š. Janšáka</td></tr>\n</tbody></table>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n</div>\n<div style=\"margin-bottom: 0in;\">\n<b>Vnútorný   val</b></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nVo vzdialenosti 100 m od bodu 0 pri strednom vale smerom na sever je opäť prirodzený zárez do hronskej terasy, ústiaci dosť hlbokým, ale suchým jarkom do Hrona. Na severnom brehu tohto jarku stál kedysi vnútorný val opevnenia a pri bode 0 nadväzoval na Hron. V dalšom úseku, v mieste kde štátna hradská miernym ohybom pretína predpokladaný val a v jej okolí, na širšom, doteraz nezastavanom priestore, ktorý tu tvorí akési návsie, je terén taký urovnaný a upravený, že všetky stopy a náznaky valu i priekopy úplne zmizli.  Na severozápad od štátnej hradskej, kde je terén zastavaný alebo upravený na záhrady, niet tiež nijakých stôp po vale. Len v úseku od 240. do 330. metra možno vidieť náznaky plytkej a širokej priehlbiny, ktorá sa potom výraznejšie ukazuje ďalej na sever v úseku medzi 620.   až  720.   metrom,  kde  má  zachované  dno a strmé svahy takmer v pôvodnom stave. Môžeme ju s istotou identifikovať ako bývalú priekopu vnútorného valu, ktorý ležal od nej na východ.  </div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrPuiWTavHpRoHg_69Z55ye_bUtVQ71wsZmAOYztYRVRcqwsrfW-0bE1vO96W6msRVFT-Corvbq7zFMN7GeIu78syqiOgI998MZ4O69YJSvCaJKUhbpOTyPZ26emNnJy84hqfrAfw3Oa0/s1600/rotunda+bina.jpg\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrPuiWTavHpRoHg_69Z55ye_bUtVQ71wsZmAOYztYRVRcqwsrfW-0bE1vO96W6msRVFT-Corvbq7zFMN7GeIu78syqiOgI998MZ4O69YJSvCaJKUhbpOTyPZ26emNnJy84hqfrAfw3Oa0/s320/rotunda+bina.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Rotunda v Bíni</td></tr>\n</tbody></table>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nZ opisu valov i nákresov ich situácie v teréne možno vyčítať, že budovatelia sledovali pri ich stavbe istý princíp; trojitým prstencom valov chceli chrániť najviac vyvýšenú časť terasy v okolí kostola. Hoci ostatná plocha terasy je takmer rovinná, nepostavili tri dokonalé rovnobežné polelipsovité valy, ale využili konfiguráciu terénu, jednak aby zvýšili neprístupnosť valov, a tak znemožnili, resp. čo najviac sťažili vstup do opevneného priestoru, jednak aby zhospodárnili prácu. Stalo sa tak vedením valov nad prirodzenými jarkami. Preto vzdialenosť južného konca vonkajšieho valu od južného konca stredného valu je veľká, kdežto medzi oboma južnými koncami stredného a vnútorného valu je len 100 m. Stredný val sa na severe nepripája — ako ostatné dva valy — k hronskej terase, ale len k vonkajšiemu valu, lebo tu bolo možné využiť potôčik a priľahlé močariny na sever od valu. Obidva valy majú v zachovalejších partiách značné rozmery. V päte sa pohybuje ich šírka okolo 22 — 28 m a výška okolo 8 —9 m.  Na dvoch miestach tvoria valy akési sedlá, a to medzi 1420. až 1600. metrom pri vonkajšom a medzi 900. až 1000. metrom pri strednom vale. Je zaujímavé, že aj priekopa je v týchto miestach značne plytšia, ba pri vonkajšom vale chýba. Týmto smerom mohol byť vedľajší prístup dovnútra opevneného priestoru, i ked hlavné vstupné brány museli byť, v súlade so smerom hlavnej  komunikácie v údolí Hrona, ktorá tu prechádza od juhu na sever približne na miestach, po ktorých ide aj dnešná štátna hradská.</div>\n<div style=\"margin-bottom: 0in;\">\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNswwB_MTCHo47gdXPWV_4Q2JrdtAM95HsEdslh8O17Yuav4jMQzIoUVeyLAQ64Ffd3cTBq0bIoXk9Qo08yXSrWTYffbQ-J2nUdCjjYFT5jChlUDxc1h8YzmykD-ypBpq-Z7AzK70_sk/s1600/17a_Bina.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"207\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlNswwB_MTCHo47gdXPWV_4Q2JrdtAM95HsEdslh8O17Yuav4jMQzIoUVeyLAQ64Ffd3cTBq0bIoXk9Qo08yXSrWTYffbQ-J2nUdCjjYFT5jChlUDxc1h8YzmykD-ypBpq-Z7AzK70_sk/s320/17a_Bina.jpg\" width=\"320\" /></a></div>\n<br />\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nPlocha opevneného priestoru medzi Hronom a vonkajším valom je podľa výpočtu Š. Janšáka 107,58 ha, z toho areál medzi stredným a vonkajším valom približne 65 ha a plocha medzi hronskou terasou a stredným valom 42,58 ha. Plocha uzavretá vnútorným valom a hronským brehom mohla, mať okolo 15,60 ha. Kubatúra zeminy, ktorú bolo treba pri budovaní valov nasypať do ich telesa, predstavuje ca 253 000 m3. Táto práca trvala približne 6 mesiacov pri 500 robotníkoch s denným výkonom 3 m3. Svojou rozlohou je to najrozsiahlejší súvislé opevnený priestor na Slovensku a jeden z najväčších v celej Karpatskej kotline.<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9X7lvIreNZOd0vUVf1UzG0rw0dM7Nt7B9EchqvpXVqmgFUBCy63YNbGQE55XZl_MLkdsryOdxcA8VyzHreDkp511H32CzRIFHZsuzpImnVIQGQYZ4yknbjkbAWEJNffwTGjcVrwGGX18/s1600/bina+CB+letecky.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"204\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9X7lvIreNZOd0vUVf1UzG0rw0dM7Nt7B9EchqvpXVqmgFUBCy63YNbGQE55XZl_MLkdsryOdxcA8VyzHreDkp511H32CzRIFHZsuzpImnVIQGQYZ4yknbjkbAWEJNffwTGjcVrwGGX18/s320/bina+CB+letecky.jpg\" width=\"320\" /></a></div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nCelý vnútorný val je už takmer 100 rokov rozobratý a rozvezený, preto nemožno posúdiť jeho vzťah k staršej sídliskovej vrstve. V okolí novších priesekov cez ostatné dva valy sa pod ich násypmi-nedali zistiť nijaké kultúrne pozostatky.</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Konštrukcia valov</b></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nBíňske opevnenie predstavuje výnimočný jav medzi ostatnými slovanskými hradiskami na území Slovenska, pretože ani jeden z valov neobsahuje žiadnu vnútornú výstuž, ani inú konštrukciu (typickú pre iné hradiská), ktorá držala teleso valu.  Teleso valu tu bolo navŕšené z hnedožltej spraše, premiešanej s viac alebo menej šedou humusovitou hlinou. Vrstvy relatívne čistej a sterilnej spraše sa nepravidelne striedali so šikmo položenými tenšími i hrubšími vrstvami nasypaného humusu. Na druhej strane treba uviesť, že hlina v Bíni je taká kvalitná a kompaktná, že dokázala udržať pomerne strmé svahy valov až podnes. Na vrchole valu bola pravdepodobne umiestnená drevená palisáda, ktorej stopy zreteľne vidieť na rezoch valom z novších výskumov. Absencia typického prvku pre Veľkomoravské hradiská – akejkoľvek konštrukcie valu dokonca viedla (spolu s inými indíciami) archeológov v 60. rokoch k záveru, že Bínske hradisko bolo postavené až po páde Veľkej Moravy a že sa nejedná o typické slovanské hradisko, ale o pevnosť, postavenú kráľom Štefanom v čase jeho vojny proti Kopáňovi. Zároveň však na inom mieste pripúšťa,  že val mohol vzniknúť  po polovici IX. storočia, čo by ešte zapadalo do rámca rozkvetu Veľkomoravskej ríše. Aj najnovšie výskumy na hradisku posunuli datovanie Bínskeho opevnenia do Veľkomoravského obdobia (9. storočie).  Jeden z najvýznamnejších slovenských archeológov PhDr. Karol Pieta, DrSc. vo <a href=\"https://www.vedatechnika.sk/SK/VedaASpolocnost/NCPVaT/video/Stranky/2009-KarolPieta.aspx\">Vedeckej cukrárni</a>&nbsp;dňa 27. 10. 2009 napríklad jednoznačne uviedol, že najnovšie exaktné metódy datovania posunuli vybudovanie bínskeho opevnenia do čias existencie Veľkej Moravy (viď cca minúta 46-48). Poznatky a závery o možnostiach datovania bínskeho obranného systému sa získali len pri severnej časti vonkajšieho valu a jednej časti stredného valu. Vnútorný val sa nepodarilo presnejšie datovať, ale zrejme možno logicky predpokladať, že tento val nie je mladší ako ostatné dva valy.  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhka2oC30-kKD1pyTnTHfu-5DSw2_hfikuL7yu92JvaRYIN4y6eCbcT2muC2SHeBtRIfEXQUf91MgEWfBTbyJ7cq9-ylMC6-U2boZSiQXCeeQP8Vkc2vB_r3jhze3-sRA0smCm3NYZm1hc/s1600/beny065.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhka2oC30-kKD1pyTnTHfu-5DSw2_hfikuL7yu92JvaRYIN4y6eCbcT2muC2SHeBtRIfEXQUf91MgEWfBTbyJ7cq9-ylMC6-U2boZSiQXCeeQP8Vkc2vB_r3jhze3-sRA0smCm3NYZm1hc/s320/beny065.jpg\" width=\"320\" /></a></div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nVo všetkých zachovaných úsekoch sú valy charakteristické nápadnou mohutnosťou násypu, ktorý dosahuje výšku 4 — 9,40 m a v základni šírku 16 — 24 m. Rozmery valu sa menia len podľa toho, kde a na akom mieste je vybudovaný, t. j. výška umelého násypu býva menšia, ak bol nasypaný na okraji prirodzeného terénneho stupňa, a väčšia, ak bol postavený na rovine. Iné rozdiely v tvare a vzhľade valov sú len dôsledkom mladších zásahov. Tak isto charakterizuje pozostatky celého bínskeho opevnenia mohutná priekopa na vonkajšej strane valov. Jej veľkosť sa tiež prispôsobila konfigurácii terénu. Podľa zachovaných pozostatkov priekopy pri bývalom vnútornom vale, ktorý je dnes už úplne rozobratý, dá sa usudzovať, že aj tento val mal približne taký istý profil a vzhľad ako zachované časti stredného a vonkajšieho valu.</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nK priekope, ktorá sa nachádza pred valom bolo zistené, že pôvodné dno priekopy bolo ešte o 280 cm hlbšie než terajšia úroveň jej dna, ktorá má aj dnes oproti okolitému terénu značnú hĺbku — 4 m. Takto výškový rozdiel medzi terajšou korunou valu a zisteným spodkom priekopy robí 11,5 m. V čase krátko po postavení valov musel byť tento rozdiel značne vyšší, pretože i pôvodná výska valu bola väčšia, najmenej o 2 m. Svahy priekopy sa smerom ku dnu zbiehali a prechádzali do mierne zaobleného, pomerne úzkeho dna.  </div>\n<div style=\"margin-bottom: 0in;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9Nxduz3-LqJzUK_UrBsgAGRhBMi-RGZs_PJZfK7HOW7nL1n1CYFEAR9KGXsNV8KaKehIBNBo3BGayp-SB-Ya-U0aAuWQy4KwX3mSgrvIXt755uGTGceWoDI-b_0W-sAZJ_p53VSpP7I/s1600/c%CC%8Crepy1.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9Nxduz3-LqJzUK_UrBsgAGRhBMi-RGZs_PJZfK7HOW7nL1n1CYFEAR9KGXsNV8KaKehIBNBo3BGayp-SB-Ya-U0aAuWQy4KwX3mSgrvIXt755uGTGceWoDI-b_0W-sAZJ_p53VSpP7I/s320/c%CC%8Crepy1.jpg\" width=\"316\" /></a></div>\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Archeologický   výskum   bínskeho opevnenia  </b> </div>\n<div style=\"margin-bottom: 0in;\">\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nV niektorých častiach valu boli už pri výskume v 60. rokoch, ale aj v roku 2008 objavené hroby, zahĺbené do telesa valu v priebehu stredoveku. Ďalej v areáli hradiska boli objavené pozostatky viacerých chát - polozemníc, datovaných do obdobia Veľkej Moravy. V jednej sa zachovali  miestami pozostatky pôvodných stien z vyhladenej a stvrdnutej spraše. Pozdĺž jednotlivých stien zachovali sa aj výrazné stopy po koloch v podobe menších kruhovitých jám; v jednej z nich — v juhozápadnom rohu chaty — zachovali sa aj zvyšky zuhoľnateného dreva z kola. V hornej časti výplne chaty, našlo sa 27 úlomkov kameňov. Na viacerých z nich badať stopy po opracovaní na podobu žarnovov, ktoré však neboli dokončené, pretože pri práci sa kameň alebo rozlomil, alebo výrobok sa ináč pokazil a v jeho opracovávaní sa ďalej nepokračovalo. Podľa toho sa zdá, že v blízkosti chaty pracoval nejaký výrobca žarnovov a ten nepodarené a pokazené,   resp.   zlámané   žarnovy  odhadzoval   do chaty, ktorá vtedy už bola opustená. Nález je výrazným dokladom špecializovanej výroby žarnovov na tejto lokalite v dobe veľkomoravskej. V chate boli objavené mnohé keramické črepy. Ďalej bol objavený  pozostatok jednoduchej hrnčiarskej pece. V nej sa vypaľovali aj nádoby, z ktorých pochádzajú nájdené črepy.</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiugazd6qJNt2_sGJxzH0n0OiHwC1ZKRo77VB6-QHgp2ahUZfo9uaUfy2AnKN2nU0kD2TrBGMaEu7odL3I1oqkYeUnxeDY5y4PEWemqdFwEQP46RHpVzZHktFVBvPqeF-m6ZNL77kcSUOU/s1600/p1010014h.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiugazd6qJNt2_sGJxzH0n0OiHwC1ZKRo77VB6-QHgp2ahUZfo9uaUfy2AnKN2nU0kD2TrBGMaEu7odL3I1oqkYeUnxeDY5y4PEWemqdFwEQP46RHpVzZHktFVBvPqeF-m6ZNL77kcSUOU/s320/p1010014h.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAJx6vRxT27Y4AlhBP8JwdSy_t4zLEtNFFeEZ0J3riZcZ79QQsMa2P-xLOWlTJHRFnlg4zTy9H34isPclBVuscGTVMrxpGQYewXH_GyHrhH-VsLsOyCy-AbG961tKIKR_CKy5NhCWnhUY/s1600/p1010109y.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAJx6vRxT27Y4AlhBP8JwdSy_t4zLEtNFFeEZ0J3riZcZ79QQsMa2P-xLOWlTJHRFnlg4zTy9H34isPclBVuscGTVMrxpGQYewXH_GyHrhH-VsLsOyCy-AbG961tKIKR_CKy5NhCWnhUY/s320/p1010109y.jpg\" width=\"320\" /></a></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nPriamo pod korunou valového násypu prišlo sa na misovitú priehlbinu — objekt ktorý mal priemer 155 cm a siahal do hĺbky 26 cm.  Najskôr tu išlo o nejaký výrobný objekt, kde sa pracovalo so silným žiarom. Svedčia o tom silne prepálené steny objektu. Neďaleko od tohto objektu zistila sa  obilná jama, v ktorej sa našli výrazné úlomky z hrncov,  zdobených vlnovkou. Ďalším objektom je časť chaty-polozemnice, v ktorej sa zistili zvyšky ohniska. Opísané objekty boli prekryté valovým násypom. Na základe týchto zistení dospeli archeológovia v 60. rokoch k  záveru o relatívne mladšom pôvode valu, než sú pamiatky, ktoré sa našli pod ním.  Hornú hranicu datovania valu zase tvoria objekty a hroby, ktoré boli evidentne vbudované do telesa valu po jeho vybudovaní a ktoré sú datované do  začiatku druhej polovice XII. storočia.  </div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Najzaujímavejšie nálezy z bínskeho  hradiska  </b> </div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRXevQSv4Gw3z86LFeeXQBVkDfj_xMHoyVvevWHSOiUuRpuBfv2ZKisoXraxudrrBdCzZgu8DEwmoej4B87TQc8F9QorVzbKPqkLBKRgB7n91yVdOfAvXk2_Y3SBXPWyaIPlI3UPRUdQk/s1600/sperk.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"281\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRXevQSv4Gw3z86LFeeXQBVkDfj_xMHoyVvevWHSOiUuRpuBfv2ZKisoXraxudrrBdCzZgu8DEwmoej4B87TQc8F9QorVzbKPqkLBKRgB7n91yVdOfAvXk2_Y3SBXPWyaIPlI3UPRUdQk/s320/sperk.jpg\" width=\"320\" /></a></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nV&nbsp;areáli hradiska boli teda zadokumentované pamiatky z doby veľkomoravskej, sťahovania národov, rímskych provincií, laténskej a z&nbsp;neolitu. Naznačenú veľkomoravskú dobu prezrádzajú svojím charakterom už na prvý pohľad sídliskové objekty — chaty a objekty súvisiace s osídlením (obilná jama a&nbsp;pod.) Pri sídliskových objektoch išlo o štvorcové, do zeme zahĺbené príbytky s ohniskom alebo krbom v jednom z rohov. Takéto príbytky sú pre veľkomoravské obdobie typické a charakteristické na širokom území obývanom Slovanmi, najmä v nížinnom prostredí. Jeden z&nbsp;objektov – chata - mala pri juhovýchodnom rohu výklenok, vyčnievajúci smerom na juh z jej pravdepodobne štvorcového obvodu. Podľa silne prepálených vnútorných stien môže tu ísť jedine o pec, ktorá bola dosť veľká, a preto mohla slúžiť nielen na vykurovanie obytného priestoru, ale aj na pečenie chleba. Ani v jednom prípade sa v objektoch nenašli také predmety, ktoré by tam boli zanechali ich obyvatelia preto, lebo by museli snáď príbytok opustiť náhle v dôsledku nejakej katastrofy. Všetky príbytky, zdá sa, boli opustené zámerne, a preto sa v nich nenašlo nič z pôvodného zariadenia.</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nNa lokalite sa našlo množstvo črepov väčšinou z hrncovitých, ojedinelé aj fľaškovitých nádob s jednoduchým zaobleným alebo zvisle zrezaným okrajom, vytvárajúcim niekedy na vnútornej strane jemný žliabok. Črepy zo stien a dien nádob prezrádzajú výrobu technikou obtáčania, teda na ručnom hrnčiarskom kruhu. Ich výzdobu najčastejšie tvorila jednoduchá alebo viacnásobná rytá vlnovka, kombinovaná s hustými pásmi obvodových rýh alebo plytko rytá obvodová špirála.  </div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Poklad hrivien</b><br />\n<b><br />\n</b><br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZG6gcnEfEaZtILLMHLPuDRdKpHIu4rzAyPwdD4opDpBaSi5bD9EyrltQ772UBIPTd_oTZ_0j-yOPsZKK1-pbklTyCsH48Kc-MLv9APyCNyDSIckpiJ4X_C2JRKXbsXDpm0jYxIWdPPY4/s1600/hrivny+SNM.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZG6gcnEfEaZtILLMHLPuDRdKpHIu4rzAyPwdD4opDpBaSi5bD9EyrltQ772UBIPTd_oTZ_0j-yOPsZKK1-pbklTyCsH48Kc-MLv9APyCNyDSIckpiJ4X_C2JRKXbsXDpm0jYxIWdPPY4/s320/hrivny+SNM.jpg\" width=\"320\" /></a></div>\n<b><br />\n</b></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nV severozápadnom rohu jednej z veľkomoravských chát sa našiel  nad hrobom, ktorý bol vykopaný pod jej dlážkou, poklad železných hrivien. Tento poklad je značne spoľahlivejším datovacím prostriedkom než keramika.  Poklady sekerovitých hrivien sú u nás najčastejšie v IX. stor. a len ojedinelé sa vyskytujú ešte v prvej polovici X. stor. Polovicu X. stor. možno teda považovať za najneskorší možný termín, keď sa bínsky poklad mohol dostať do zeme. Istý čas pred zakopáním pokladu bol na tom istom mieste vykopaný hrob, ktorý porušil dlážku a časť krbu v chate. Keďže hrob sa zistil veľmi plytko pod úrovňou dlážky, treba predpokladať, že tu bol vykopaný v čase, keď už zahĺbený priestor chaty bol aspoň sčasti zasypaný. Preto chata i úlomky keramiky, ktoré sa do nej sekundárne dostali, musia byť najmenej o 5—10 rokov staršie ako hrob. Aj ten už sám osebe, bez ohľadu na to, že bol nad ním poklad hrivien, možno datovať najneskoršie do druhej polovice IX. storočia, pretože sa v ňom našiel charakteristický veľkomoravský hrniec. Takéto datovanie potvrdzuje aj nález sklovitej perly v jednom zo susedných hrobov, patriacich do toho istého časového horizontu ako hrob v chate; takéto perly sa totiž vyskytli  doteraz len na pohrebiskách z veľkomoravskej a staršej doby. Z uvedeného jasne vyplýva, že chatu spolu s keramickými nálezmi a úlomkami nedohotovených žarnovov v jej výplni možno datovať najneskoršie do polovice IX. storočia.<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggpI1L7NZp4K5D1HbHdUEKi_Rz3IFkynQoBXOvxnXVusug3v4HjbfagcRw5tXH0fFh2iGhLkKt2ipuVeH0ToKnSV55K6F5zWOpzehEJzTppQgL6IdUl2VfN3UbQum8FXQuErdwRK3OlTU/s1600/hrob.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"186\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggpI1L7NZp4K5D1HbHdUEKi_Rz3IFkynQoBXOvxnXVusug3v4HjbfagcRw5tXH0fFh2iGhLkKt2ipuVeH0ToKnSV55K6F5zWOpzehEJzTppQgL6IdUl2VfN3UbQum8FXQuErdwRK3OlTU/s320/hrob.jpg\" width=\"320\" /></a></div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<b>Hrob manželky slovanského veľmoža</b></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nZo všetkých veľkomoravských veľmožských hrobov, ktoré boli nájdené na území Slovenskej republiky sa ten najbohatší nachádza práve v Bíni. Objavený bol v roku 1983.  Ide o hrob v ktorom bola pochovaná žena vo veku 17 až 24 rokov. Obsahoval 14 strieborných  náušníc, strieborný i bronzový prsteň a tiež štyri strieborné tepané gombíky. Tento mimoriadne bohatý inventár dopĺňali dva železné nožíky. Šperky, ktoré sa v tomto hrobe našli, nosili príslušníci najbohatších veľmožských rodov, aké poznáme z veľkomoravských centier v Mikulčiciach alebo v Starom Meste pri Uherskom Hradišti. Je možné, že pochovaná žena bola príslušníčka šľachtického nitrianskeho, alebo moravského rodu a do Bíne sa vydala. Skutočnosť, že tu bolo dostatočne dôstojné prostredie pre život tak bohatej dámy, naznačuje pozíciu Bíne v 9. storočí ako sídla slovanskej elity ovládajúcej dolné Pohronie.</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjigSLz4bBzBhY_MsipbvSQMkuAsu-OMk_nPmHjun1mA3X48_F7syTUvsrcrpSdcDmWdZg_GwD7sXmLggVXzx2jjVGTr4Dbo7V_uGsZKnI2ACXXcXJ5FGMX-LaQvkL863EgYKEnKT5xHns/s1600/sperky2.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjigSLz4bBzBhY_MsipbvSQMkuAsu-OMk_nPmHjun1mA3X48_F7syTUvsrcrpSdcDmWdZg_GwD7sXmLggVXzx2jjVGTr4Dbo7V_uGsZKnI2ACXXcXJ5FGMX-LaQvkL863EgYKEnKT5xHns/s320/sperky2.jpg\" width=\"233\" /></a></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nV dobe veľkomoravskej teda bolo v Bíni veľmi veľké a dôležité osídlenie (v jednej z desiatich doteraz odkrytých chát sa  prišlo aj na výrazné dôkazy o miestnej výrobe žarnovov). Z obdobia po zániku Veľkomoravskej ríše nezisťujeme tu ani archeologické, ani historické doklady o potrebe, ktorá by si bola vynútila také mohutné a rozsiahle opevnenie. Stopy osídlenia z tejto doby tu síce sú, približne na tých istých miestach, ku ktorým sa viazalo aj staršie osídlenie, ale tie nepoukazujú zatiaľ na nejaké zvláštne postavenie Bíne v tomto období.<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbytsNNKrFfDbtfHz-Fjp3jioi2gTq0NHhyphenhyphenzXGWLO-77u8-vc7Pwk0DSltnD3VMEwb2AmZpp3msiixa2hfGdGj3Y7tt4sKyY9uG1tIyiybWCXSt4gzNyituFHk3v8qSMFRqcGYTuepqk/s1600/Naus%25CC%258Cnice.png\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbytsNNKrFfDbtfHz-Fjp3jioi2gTq0NHhyphenhyphenzXGWLO-77u8-vc7Pwk0DSltnD3VMEwb2AmZpp3msiixa2hfGdGj3Y7tt4sKyY9uG1tIyiybWCXSt4gzNyituFHk3v8qSMFRqcGYTuepqk/s1600/Naus%25CC%258Cnice.png\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxpC2xDqqOIWh6DcmK5bVWTq7rqOlO-G2UUk4AGy4dx2LKo_P1CLgbu3bjFmjZh64O_bguJPQO7e9GMRIyP8mgj81A7SwndDkQRpYnL1cFXx958FlZrgDQdm2wm5sAq-PaEzaBdcb4OdA/s1600/prsten.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxpC2xDqqOIWh6DcmK5bVWTq7rqOlO-G2UUk4AGy4dx2LKo_P1CLgbu3bjFmjZh64O_bguJPQO7e9GMRIyP8mgj81A7SwndDkQRpYnL1cFXx958FlZrgDQdm2wm5sAq-PaEzaBdcb4OdA/s1600/prsten.jpg\" /></a></div>\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nAko už bolo spomenuté vyššie, archeológovia v 60. rokoch dospeli k záveru, že bínske opevnenie nemalo charakter obvyklého hradiska s nejakým dôležitým hospodársko-správnym a centrálnym postavením pre určitý územný celok, ako známe veľkomoravské a mladšie hradiská na území Slovenska, Moravy, Čiech, Poľska, SSSR i Nemecka. Usudzovali, že tu išlo skôr o opevnenie, ktorého vybudovanie si vyžiadala nejaká náhla a prechodná potreba, ktorá nenadväzovala na predchádzajúci význam lokality a ktorá podstatnejšie neovplyvnila ani ďalší vývoj jej osídlenia.&nbsp;</div>\n<div style=\"margin-bottom: 0in;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge73AMjgLEqvl163s_zOxW87whrs8uDKEU_dKR8Bl7tdRzbgX_qX0TYOijBJvjbHAP5t7KfJbIDQxYoqrqJd1FEQlRVd2Nst08Wz-DdO3nMjMsv7Z6gITyZjlmqjQNkBff6eGmLImqWesh/s1600/Bin%25CC%258Ca+naus%25CC%258Cnice2.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"160\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge73AMjgLEqvl163s_zOxW87whrs8uDKEU_dKR8Bl7tdRzbgX_qX0TYOijBJvjbHAP5t7KfJbIDQxYoqrqJd1FEQlRVd2Nst08Wz-DdO3nMjMsv7Z6gITyZjlmqjQNkBff6eGmLImqWesh/s320/Bin%25CC%258Ca+naus%25CC%258Cnice2.jpg\" width=\"320\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrl3hjtZU12gaQzlC9RMuk1oFUfCIM_8yxCi7Mz3XQuXL6NlSTHL-GXLNmKH3HhzIIpjxU4-ctHuWutdfHmhBZkmSChyphenhyphenkcZZ5lFZPVKdBsaLwhfN2vCAAxLRFoQZWXXC1Ub1JSZpZCe1l7/s1600/bi%25CC%2581n%25CC%258Ca+naus%25CC%258Cnice1.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrl3hjtZU12gaQzlC9RMuk1oFUfCIM_8yxCi7Mz3XQuXL6NlSTHL-GXLNmKH3HhzIIpjxU4-ctHuWutdfHmhBZkmSChyphenhyphenkcZZ5lFZPVKdBsaLwhfN2vCAAxLRFoQZWXXC1Ub1JSZpZCe1l7/s320/bi%25CC%2581n%25CC%258Ca+naus%25CC%258Cnice1.jpg\" width=\"308\" /></a></div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nJedným z názorov je, že bínske opevnenie vzniklo v čase postupu maďarských kočovných a bojovníckych kmeňov dovnútra terajšieho územia Slovenska, čo spadá približne do prvých desaťročí X. storočia. Pokúsil sa o to už Š. Janšák, opierajúc sa pritom hlavne o Anonymovu zprávu, podľa ktorej sa Maďari zastavili pri akomsi zemnom hrade, zvanom Varod, keď prenikali na územie Slovenska hore Pohroním. Aj B. Chropovský prikláňa sa vo svojej  štúdii o slovanských hradiskách na Slovensku k starším názorom, že bínske hradisko bolo vybudované ešte pred príchodom Maďarov, a opiera sa pritom  o skutočnosť, že v Bíni bolo už vo veľkomoravskej dobe významné sídliskové centrum. Ako však už bolo spomenuté vyššie, moderná archeológia sa priklonila k záveru, že mohutné opevnenie bínskeho hradiska má Veľkomoravský pôvod.  </div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Vybudoval opevnenie Štefan I. spolu s Huntom a Poznanom? </b> </div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nReprezentantom staršieho, dnes už prekonaného názoru je teória o tom, že bínske opevnenie vzniklo až v čase povstania Kopáňa proti Štefanovi koncom X. storočia, pričom tento názor podrobne rozviedol Habovštiak v 60. rokoch. Pre zaujímavosť prinášam aj tento názor. Musím však podotknúť, že aj samotný Habovštiak upozorňoval na to, že takéto vysvetlenie nie je definitívne a že budú potrebné ďalšie výskumy, aby sa jeho vierohodnosť preverila.<br />\n<br />\n<i><span class=\"Apple-style-span\" style=\"font-size: x-small;\">Súvislosť bínskeho opevnenia s touto udalosťou nepriamo poukazuje i staršia tradícia, ktorú zaznamenal ešte Matej Bel, ktorý však akoby sám chcel oslabiť vierohodnosť tejto tradície a vyjadril určitú pochybnosť o jej pravdivosti. Táto pochybnosť je naozaj na mieste, pretože podľa vývoja udalostí v období Koppányovho povstania nie je pravdepodobné, že by sa vtedy Koppány mohol zdržiavať na Slovensku, jeho doménou bolo územie na severnom brehu Blatenského jazera v okolí Vesprému a on sám sídlil v Šomoďvári. Ak teda máme spomenutú tradíciu naďalej považovať za istý druh prameňa pre vysvetlenie funkcie bínskeho hradiska, môžeme ju chápať nanajvýš tak, že prezrádza a naznačuje len čas vzniku opevnenia, ale pokiaľ ide o jej pôvodcu, skôr tu možno počítať so Štefanom I., resp. jeho prívržencami, a nie s Koppányom.</span></i></div>\n<div style=\"margin-bottom: 0in;\">\n<i><span class=\"Apple-style-span\" style=\"font-size: x-small;\"><br />\n</span></i></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<i><span class=\"Apple-style-span\" style=\"font-size: x-small;\">Tento predpoklad má oporu v stredovekých uhorských kronikách z XIII. —XV. stor., ktoré, keď opisujú vojnu Štefana I. proti šomoďskému vojvodovi Koppányoví, doslova uvádzajú: ,,Ked Štefan zhromaždil vojsko, vyrazil proti svojmu nepriateľovi a pri rieke Hron bol opásaný mečom. Tam ustanovil za svojich telesných strážcov dvoch veľmožov (slovenského pôvodu pozn. Orgoň), Hunta a Poznana.\". Tak isto stredovekí uhorskí kronikári opisujúc rod Huntovcov a Poznanovcov hovoria: „Prišli aj Hunt a Poznaň, ktorí sv. Stefana podľa nemeckých zvykov opásali mečom v rieke Hron\". Podľa uvedeného jasne vidieť, že kráľ Štefan I. sa v Čase Koppányovho povstania zdržiaval niekde nad Dunajom na brehu Hrona, zaiste však nie ďaleko od Ostrihoma, ktorý bol jeho rodiskom a sídlom. Pravda, je otázne, nakoľko tu údajom stredovekých kroník možno veriť a nakoľko možno Štefanov tábor lokalizovať práve do Bíne. Povstanie Koppányovo a jeho úspešná likvidácia vojskami a prívržencami kráľa Štefana I. v r. 997—998 je historický fakt, doložený najmä v zakladacej listine pannonhalmského opátstva z r. 1001. Ňou kráľ Štefan I. obdaroval pannonhalmský kláštor rozsiahlymi majetkami väčšinou na území, ktoré predtým okupoval jeho odporca Koppány, aby splnil sľub daný pred jeho porážkou.  Avšak kronikářova zmienka o tom, že kráľ Štefan I. pred bojovým stretnutím s Koppányom bol pri rieke Hron opásaný mečom na znak uznania jeho dospelosti, nie je už taká jednoznačná, aby sme si ju bez ďalšieho skúmania mohli vysvetľovať tak, že sa to stalo práve v Bíni.</span></i></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<i><span class=\"Apple-style-span\" style=\"font-size: x-small;\">Existujú však ďalšie argumenty na podopretie takejto možnosti, najmä ak posudzujeme celkovú situáciu zo širšieho hľadiska. V počiatočnom štádiu povstania nemohol si byť kráľ Štefan I. úplne istý svojou morálnou i početnou prevahou a budúcim víťazstvom nad Kopáňom, ako napokon o tom svedčí aj jeho sľub, že ak nad ním zvíťazí, postaví v Pannonhalme kláštor a bohato ho obdarí majetkami, ktorý neskoršie aj splnil. Kopáň mal totiž na svojej strane veľa prívržencov. Zhromaždil okolo seba tých príslušníkov staromaďarského kmeňového zväzu, ktorým neboli po vôli snahy a plány kráľa Štefana I. skoncovať s kočovným spôsobom života, prikloniť sa ku kresťanstvu a vôbec západnej civilizácii, ako aj jeho úsilie o vybudovanie pevného feudálneho štátu. Išlo teda o prívržencov starého pastiersko-nomádskeho slobodného života, s ktorými aj neskorší uhorskí králi mali ešte dlho ťažkosti. Preto je možné a pochopiteľné, že v týchto preň dosť neistých časoch využil Štefan I. oporu domácich slovanských   veľmožských   rodov    —    Huntovcov   a Poznanovcov i niektorých cudzích bojovníkov, (Vencellín) — a dal postaviť veľký opevnený zemný tábor, ktorý slúžil na zhromaždenie väčšieho počtu vojska i jeho výzbroje a výstroja na jedno miesto (za vtedajších spravodajských a organizačných možností je to úplne pochopiteľné) a zároveň by bol vhodným a bezpečným útočišťom, keby sa prevaha nepriateľa dočasne prejavila.</span></i></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<i><span class=\"Apple-style-span\" style=\"font-size: x-small;\">Dôvodom pre zhromaždenie vojska práve nad Dunajom bola azda i snaha Štefana I., aby touto riekou boli jeho prívrženci oddelení od južných oblastí krajiny, kde sa Koppányov vplyv a sympatie k nemu pomerne rýchle rozšírili. Postavenie takého tábora práve v Bíni mohlo byť výhodné z viacerých hľadísk. Išlo o miesto, ktoré vylučovalo možnosť náhleho prepadu z juhu (dobrú prirodzenú prekážku tu tvoril Dunaj) a zároveň bolo  blízko Ostrihomu takže pri dobrej viditeľnosti sa pomocou signálov dalo s ním udržiavať spojenie. Napokon aj svojou prirodzenou polohou bolo toto miesto výhodné a vhodné na vybudovanie opevneného vojenského tábora (tri prirodzené úžľabiny na južnej strane obce, poloha dominujúca nad okolitým terénom). Rozčlenenie opevnenej plochy troma polkruhovitými prstencami valových násypov na tri časti možno vysvetliť jednak požiadavkou dokonalejšej obrany, jednak potrebou oddeleného utáborenia veliteľov, radových bojovníkov, koní a dobytka s proviantom a bojovou technikou.Habovštiak ďalej uvádza, že vybudovanie opevnenia bolo aj v technických možnostiach štefanovho vojska, pričom pri asi 1000 robotníkoch a výkone približne 3 m3 zeminy na jedného za pracovný deň mohlo byť hotové približne za tri mesiace, čo napokon nie je taká dlhá doba, aby sme vznik tunajšieho opevnenia — osobitne v čase ohrozenia — nemohli predpokladať.</span></i></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nPri tejto príležitosti sa však treba zamyslieť nad problémom budovania zemných opevnení u Maďarov vôbec. O starých Maďaroch podľa Leva Múdreho vieme, že budovanie zemných a iných stálejších opevnení nebolo u nich zvykom. Nevyžadoval si to ani spôsob ich boja, ktorý Lev Múdry charakterizuje ako boj náhlym prepadom, bez nejakého pravidelného usporiadania a zoradenia. Táto skutočnosť prejavuje sa výrazne aj v archeológii, ktorá doteraz nepozná nejaký hrad alebo hradisko, vybudované príslušníkmi maďarského kmeňového zväzu počas ich obsadzovania Podunajska  a bojových  výprav na  západ.Budovani opevnení sa teda zrejme uskutočňovalo s pomocou domáceho obyvateľstva, od ktorého mohli Maďari aj niektoré techniky budovania takýchto objektov prevziať.  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nPokiaľ ide o  obdobie, do ktorého sa kládlo aj vybudovanie bínskeho opevnenia Štefanom I., t. j. koniec X. stor., nemáme zatiaľ na Slovensku doklady o podobných stavbách. Táto skutočnosť je zase jedným s argumentov  proti datovaniu bínskeho opevnenia do obdobia po páde Veľkej Moravy.  Ďalším argumentom môže byť aj otázka, či Štefan skutočne potreboval chrániť svoje iste veľmi početné vojsko až takýmto rozsiahlym a náročným opevnením.  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nZa zmienku stojí ešte jeden fakt, ktorý môže súvisieť s tým, čo naznačujú spomenuté naračné pramene. Je to skutočnosť, že časť Bíne daroval kráľ Štefan I. Huntovmu synovi Binovi, po ktorom  dostala obec aj svoje pomenovanie.  Dozvedáme sa o tom v bzovíckej listine z r. 1135. Toto obdarovanie Huntovho syna časťou Bíne môže tiež v istom zmysle súvisieť so snahou Štefana I. odvďačiť sa Huntovcom za poskytnutú pomoc práve týmto územím, ktoré bolo osídlené a s ktorým sa viac než s inými spájala jeho vďačnosť voči Huntovcom.<br />\n<br />\nFoto 26.10.2013:<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyKCGINGfZslEve6icY2HJLNXgH_-KVWNuyBP8qrQPse_JXAEb2hj-0LZyEzCiaPhC6azasvz9-xWMC4tD5bTz9ODVYbJdc5xQC9JhyphenhyphenyvQFatpo4D0QokZt9au6bWh6UB0hKP-96F_sj8/s1600/IMG_3951.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyKCGINGfZslEve6icY2HJLNXgH_-KVWNuyBP8qrQPse_JXAEb2hj-0LZyEzCiaPhC6azasvz9-xWMC4tD5bTz9ODVYbJdc5xQC9JhyphenhyphenyvQFatpo4D0QokZt9au6bWh6UB0hKP-96F_sj8/s320/IMG_3951.JPG\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAsUHLTcNyXfgc0a9aWwUauPRKSJniPq-fHEIFHWyvCL0A43Rkb6oc1omdVP-F_eUDPQKl4WVf_0pCTpSiGBLSu-_MleERMg232oeLx7jNpX1TxWliDfWI2UoJ70Tw9zbMoQMd9le-zw0/s1600/IMG_3954.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAsUHLTcNyXfgc0a9aWwUauPRKSJniPq-fHEIFHWyvCL0A43Rkb6oc1omdVP-F_eUDPQKl4WVf_0pCTpSiGBLSu-_MleERMg232oeLx7jNpX1TxWliDfWI2UoJ70Tw9zbMoQMd9le-zw0/s320/IMG_3954.JPG\" width=\"213\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Rotunda a kostol sa nachádzali vo vnútornom okruhu opevnenia</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFD0DM4BUYCICIRZl1vUYpk2vkHvc569AVxO9BSCHJr1z0uBFxI7No4cdORpA2gZdrWSrdSiR6uFP1TVpYos3pm0tVIUQlDG9htYKWGsqPuXyBdVZblwQTkp4jooa4_XsLUIPPqCB7M-E/s1600/IMG_3959.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFD0DM4BUYCICIRZl1vUYpk2vkHvc569AVxO9BSCHJr1z0uBFxI7No4cdORpA2gZdrWSrdSiR6uFP1TVpYos3pm0tVIUQlDG9htYKWGsqPuXyBdVZblwQTkp4jooa4_XsLUIPPqCB7M-E/s320/IMG_3959.JPG\" width=\"213\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivWWZVo1Orn8DhyphenhyphenmcdhEWozmYi7onBGhR0C1FhdxzazheHNnHr5NggaPF7nQATUVpa6I83pDXDvqHletrcv_K2aG8catA9rvZNF-KH8VFvZdMeyRNDDPvnYzkSPPLetzHOT34-tK1bSI8/s1600/IMG_3961.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivWWZVo1Orn8DhyphenhyphenmcdhEWozmYi7onBGhR0C1FhdxzazheHNnHr5NggaPF7nQATUVpa6I83pDXDvqHletrcv_K2aG8catA9rvZNF-KH8VFvZdMeyRNDDPvnYzkSPPLetzHOT34-tK1bSI8/s320/IMG_3961.JPG\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgamilsAXqQGj9m8eIn8vt9IgkWiHvYMnHSDW0K1TtSbFHT7-enTbhSdLlL3rkmj7vjsq33blZ-3GQUGLhqpWX5BI4ZuZEJTxZjixu9bQMY4lx2OWMyyNswdFv11ATSLeSuUf0eo93EwOA/s1600/IMG_3962.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgamilsAXqQGj9m8eIn8vt9IgkWiHvYMnHSDW0K1TtSbFHT7-enTbhSdLlL3rkmj7vjsq33blZ-3GQUGLhqpWX5BI4ZuZEJTxZjixu9bQMY4lx2OWMyyNswdFv11ATSLeSuUf0eo93EwOA/s320/IMG_3962.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">niekoľko metrov za kostolom sa svah v minulosti zrútil do Hrona, podobne ako útes Arkony do mora</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNKVUvDz-K1btzTTeFk57m7qK2HYjUrTBgIvLE3HVGNGQz7FZFd5JgxKLRNDAgCrUaWQBo9hjy5LQX6wABODDQRz_nwGa2IxFff8lJ0MolSuUSdx2kc7tek5sIZ5WAok9VHD-b_leecpA/s1600/IMG_3967.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNKVUvDz-K1btzTTeFk57m7qK2HYjUrTBgIvLE3HVGNGQz7FZFd5JgxKLRNDAgCrUaWQBo9hjy5LQX6wABODDQRz_nwGa2IxFff8lJ0MolSuUSdx2kc7tek5sIZ5WAok9VHD-b_leecpA/s320/IMG_3967.JPG\" width=\"213\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">hradisko vyčnieva niekoľko metrov nad hladinu Hrona</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDaXjaBW2JKJPIgggoM4_28sDycLzyGUaK0l4eX4j4J0s7S4Syz_svnReFEcRUg6X7r6BP7uk49Elo4GfoPjXcoAhN0OwZPTy-0l8Dz3WNEP29F7i1Q6dxecT8szpfL0FVU0CUXzUvHQ/s1600/IMG_3969.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDaXjaBW2JKJPIgggoM4_28sDycLzyGUaK0l4eX4j4J0s7S4Syz_svnReFEcRUg6X7r6BP7uk49Elo4GfoPjXcoAhN0OwZPTy-0l8Dz3WNEP29F7i1Q6dxecT8szpfL0FVU0CUXzUvHQ/s320/IMG_3969.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj41ZSuzqKNI_tq1zgy0LLphJ4onRn2f5cJESKzFX3Ms0HKVxKpr9fGtsWBs64672MzGmxhwKinLw8sY-PFOc4K7Du4Rib3abLiEhCoFYFlIg5caaotTYXAtQ9bMrjMrx5IaEYGCGvVH8w/s1600/IMG_3970.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj41ZSuzqKNI_tq1zgy0LLphJ4onRn2f5cJESKzFX3Ms0HKVxKpr9fGtsWBs64672MzGmxhwKinLw8sY-PFOc4K7Du4Rib3abLiEhCoFYFlIg5caaotTYXAtQ9bMrjMrx5IaEYGCGvVH8w/s320/IMG_3970.JPG\" width=\"213\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzFEa4BsQnc6BnFu3ng93ATZseZ9ND3-5MiiHApFJuhUh5m6Guo-seypdKRtuj_Rp72fchzIbSKerHwPVH9SJ8xGEXIryx-mfUqocWt2wnfKoMIB3921RRshBOZTHk-_DorUyQp_xMEko/s1600/IMG_3971.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzFEa4BsQnc6BnFu3ng93ATZseZ9ND3-5MiiHApFJuhUh5m6Guo-seypdKRtuj_Rp72fchzIbSKerHwPVH9SJ8xGEXIryx-mfUqocWt2wnfKoMIB3921RRshBOZTHk-_DorUyQp_xMEko/s320/IMG_3971.JPG\" width=\"213\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXTiY_C067EHwh5iTtwEKLABlgpP2pPXa9t2C57_sxX9N041eTGeo-XHqkQCX8jnCBIeGlk9Gf9mzTutByTAqflMGCOwyVIzbo2F3JLwHiQHnoKYgikdo8KJQg579NRcZ-6Mmm0DVNuOE/s1600/IMG_3974.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXTiY_C067EHwh5iTtwEKLABlgpP2pPXa9t2C57_sxX9N041eTGeo-XHqkQCX8jnCBIeGlk9Gf9mzTutByTAqflMGCOwyVIzbo2F3JLwHiQHnoKYgikdo8KJQg579NRcZ-6Mmm0DVNuOE/s320/IMG_3974.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir2Fth0Nf6-fZKWWr-JVfUpzrtr7I1QNf8mH-hnjpN9pBYKLWhvHhIJwW5cXOoVj4ZoGmG4anhCxvXOiscqVjenRwbnuv1uAhNDfaPUVqUYaG_9eoF-3_FA2N9NcTiXAgiy4TmKSZiWUc/s1600/IMG_3976.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir2Fth0Nf6-fZKWWr-JVfUpzrtr7I1QNf8mH-hnjpN9pBYKLWhvHhIJwW5cXOoVj4ZoGmG4anhCxvXOiscqVjenRwbnuv1uAhNDfaPUVqUYaG_9eoF-3_FA2N9NcTiXAgiy4TmKSZiWUc/s320/IMG_3976.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiULq8UwoVZ8b9lPiozkSKiq9yqMx7BXiQMNshhlYRHk82VXAdK9Rxfh2xdxpwWLW3pBIRFHsVwyobXFStZndTyYGRMYPBvjHSMnskCbahwmPQ5UcOqod0_WRPCuWrEaSLhmhX3psaid6I/s1600/IMG_3982.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiULq8UwoVZ8b9lPiozkSKiq9yqMx7BXiQMNshhlYRHk82VXAdK9Rxfh2xdxpwWLW3pBIRFHsVwyobXFStZndTyYGRMYPBvjHSMnskCbahwmPQ5UcOqod0_WRPCuWrEaSLhmhX3psaid6I/s320/IMG_3982.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwr_62Dv3_zjarf0hKgN56rZOI8xjz3_DmwhV2Z8Pjze5GgMtCQxde9tqEiEuPVdaV-CeaB4_O6FkCj_ZTaepikK6zqxDZRG1K0dikr_EWitfWAq7B7ob8CBTlqLJXBiX0Tb5Hbu2dM0o/s1600/IMG_3983.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwr_62Dv3_zjarf0hKgN56rZOI8xjz3_DmwhV2Z8Pjze5GgMtCQxde9tqEiEuPVdaV-CeaB4_O6FkCj_ZTaepikK6zqxDZRG1K0dikr_EWitfWAq7B7ob8CBTlqLJXBiX0Tb5Hbu2dM0o/s320/IMG_3983.JPG\" width=\"213\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVI9NyiM2pdYQcc9x5kJ_GWUoF2QYHN1On2OJXGaiq1aFg6a4Ugeb2vrDyCw-PmFWiNxKSeFEWEDU6IScjmbt_438o493McLfwBBqu3p45roXkg9nU5S8GLTqT_7fKQOD6hxt6k1rFYQ/s1600/IMG_4013.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuVI9NyiM2pdYQcc9x5kJ_GWUoF2QYHN1On2OJXGaiq1aFg6a4Ugeb2vrDyCw-PmFWiNxKSeFEWEDU6IScjmbt_438o493McLfwBBqu3p45roXkg9nU5S8GLTqT_7fKQOD6hxt6k1rFYQ/s320/IMG_4013.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitXiZW2pWrJlBvrhQXcXZcyMPVX4T2fbWGlZCCXICdEk34YE9GFef4YfrjBNitCApYwnfzHH6ZLDS7JI7HRjSTHPr7-E4dRsOuTtKVl_P_zOkLPKHAVNs91SJk55nP4dNOcqVaVHIjuIU/s1600/IMG_4022.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitXiZW2pWrJlBvrhQXcXZcyMPVX4T2fbWGlZCCXICdEk34YE9GFef4YfrjBNitCApYwnfzHH6ZLDS7JI7HRjSTHPr7-E4dRsOuTtKVl_P_zOkLPKHAVNs91SJk55nP4dNOcqVaVHIjuIU/s320/IMG_4022.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Vonkajší val s priekopou</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGE6FmoKXOc7_7nKQc1Ztrtb3FzBUstZdqv5at-4CWd1QoA7wOkohMqLtgyd3YPiRNP8y2mAUplb13a0M_g-0qNcuR7gf1_0EBaS-We6MfLDhLbu-wjszUwm9cq8sxxVQ6HoHY7IauHCc/s1600/IMG_4023.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGE6FmoKXOc7_7nKQc1Ztrtb3FzBUstZdqv5at-4CWd1QoA7wOkohMqLtgyd3YPiRNP8y2mAUplb13a0M_g-0qNcuR7gf1_0EBaS-We6MfLDhLbu-wjszUwm9cq8sxxVQ6HoHY7IauHCc/s320/IMG_4023.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">pri porovnaní s ľudskou postavou vynikne mohutnosť valu</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWHJAa5f8PdaJ8cEMx-DQBWaB9QnTZXFZOltTWtcwp8DPNM2o6R1tuEkl2IGn8C69azdxNSQBeqTTQKHQEbKH_Omhm_eDJ8_5MQ8RJ1UvG-qPx-CJdIdJ0QTFHoCooWeI38awgW4O-XVM/s1600/IMG_4028.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWHJAa5f8PdaJ8cEMx-DQBWaB9QnTZXFZOltTWtcwp8DPNM2o6R1tuEkl2IGn8C69azdxNSQBeqTTQKHQEbKH_Omhm_eDJ8_5MQ8RJ1UvG-qPx-CJdIdJ0QTFHoCooWeI38awgW4O-XVM/s320/IMG_4028.JPG\" width=\"213\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">pohľad z koruny valu do priekopy</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtjFEyxMve_YFtIGVMrHiZenBeUBWBtD1lOxsQ4LhjYY6J7mwcXmAbQro8pnfg-rUWZZAMSYrAQFoOf1LhP2H8F5VJPFOCScDkyLIVOCntqDJZUD0Bi87OeclTuZr4H8d2WNYriHpJ40/s1600/IMG_4029.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCtjFEyxMve_YFtIGVMrHiZenBeUBWBtD1lOxsQ4LhjYY6J7mwcXmAbQro8pnfg-rUWZZAMSYrAQFoOf1LhP2H8F5VJPFOCScDkyLIVOCntqDJZUD0Bi87OeclTuZr4H8d2WNYriHpJ40/s320/IMG_4029.JPG\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYm6kpng5RxFJqlhtGYu5pmn0fVGGWHBPPxvvNP7NmgNKW3a_nBvSe3Y9VstvCGk31QuY11Dg-LXI1uPEXJmoGoxG-UmNFWBCUGgrIo_EexVAzNar6RnONt2Ex-uCw_Iwc7US0b2kTPeA/s1600/IMG_4032.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYm6kpng5RxFJqlhtGYu5pmn0fVGGWHBPPxvvNP7NmgNKW3a_nBvSe3Y9VstvCGk31QuY11Dg-LXI1uPEXJmoGoxG-UmNFWBCUGgrIo_EexVAzNar6RnONt2Ex-uCw_Iwc7US0b2kTPeA/s320/IMG_4032.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">na korune valu</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvzi1bYNnV2L768iaSVnkcyR1Svvn-VT7oMZ-RamJ3WNErEWJ9UaOyJL8aszsVkEx8BGAAcl7AzaY7A-yryrBSnIbLFK08xWTUKBAU_brjxez4O1WHR3iD4gn5KHyqHDU_VhQid3MXhE/s1600/IMG_4034.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtvzi1bYNnV2L768iaSVnkcyR1Svvn-VT7oMZ-RamJ3WNErEWJ9UaOyJL8aszsVkEx8BGAAcl7AzaY7A-yryrBSnIbLFK08xWTUKBAU_brjxez4O1WHR3iD4gn5KHyqHDU_VhQid3MXhE/s320/IMG_4034.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">tu vidieť, ako sa val v diaľke stáča do ľava</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqSPvwPY8ovEYxFf-e-q52mcxjm2JTMXWGSXx-Lkj0r2YbxEdqm98WF72x0jkj9c-PipFN-FKSQ_nyvTTpwhYBiWnvlh1IeuTrRDbWdUlwNbRc4JN0-YO4xIgX99CSbXLdSkotbaW13LI/s1600/IMG_4037.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqSPvwPY8ovEYxFf-e-q52mcxjm2JTMXWGSXx-Lkj0r2YbxEdqm98WF72x0jkj9c-PipFN-FKSQ_nyvTTpwhYBiWnvlh1IeuTrRDbWdUlwNbRc4JN0-YO4xIgX99CSbXLdSkotbaW13LI/s320/IMG_4037.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6dHU70bUVotlLfC56LXxLjMFGIrAO3zNR-l8OssnVeazpt7MMYvLuloPfnGKzNvEZ8qx7qJI-Hb7y_aHTFlbaizVZRGTop4D4XU53z7v46PcSYpt0kHKGqpmwQ6WOw1sf5-fHtYE3s0k/s1600/IMG_4042.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6dHU70bUVotlLfC56LXxLjMFGIrAO3zNR-l8OssnVeazpt7MMYvLuloPfnGKzNvEZ8qx7qJI-Hb7y_aHTFlbaizVZRGTop4D4XU53z7v46PcSYpt0kHKGqpmwQ6WOw1sf5-fHtYE3s0k/s320/IMG_4042.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">v tejto časti je val prerušený stavbou železnice</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0gaRpBWP9g95bDGlag3lC9nBTLpS1W43TFCeWLuzOGcjf5q4VxTsCBQ6iz5w3glYbwiBXsl74JlWAiOX60uImqQyP0MfmVpjY0J7q7DshBqcakfMYadM-088ScwZBFtYzID_Ayle9tUs/s1600/IMG_4043.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0gaRpBWP9g95bDGlag3lC9nBTLpS1W43TFCeWLuzOGcjf5q4VxTsCBQ6iz5w3glYbwiBXsl74JlWAiOX60uImqQyP0MfmVpjY0J7q7DshBqcakfMYadM-088ScwZBFtYzID_Ayle9tUs/s320/IMG_4043.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">pohľad do vnútra areálu hradiska - v pozadí vidieť časť prostredného valu</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr5VMq6QgP0PTD5DRN5SPbTBJCzuETBpbOjg_ZDrdpN3-fRbAcOPHCohf0J2C5H1kVphCLJI4Qa1a0GNGrTsJ5sAyOiSeikg3uYHnz8qYQRCsBtfNqszZq1WcHzkIEpNsjEo6Wb-5zOAI/s1600/IMG_4047.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr5VMq6QgP0PTD5DRN5SPbTBJCzuETBpbOjg_ZDrdpN3-fRbAcOPHCohf0J2C5H1kVphCLJI4Qa1a0GNGrTsJ5sAyOiSeikg3uYHnz8qYQRCsBtfNqszZq1WcHzkIEpNsjEo6Wb-5zOAI/s320/IMG_4047.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">koľajnice prechádzajú priamo cez priekopu</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixeIFpjFT7KVoqWv053huZEbqJ8xeK2jhTXM-QL2DrHexYRKJcE1a9LLXbByreR4ryZB4SIE-r0demHLB4ygD9u86yEH9ZEu2_v8E-qklpFLFmJBd-qPdjAW2i6K1_6vQGuBAOO0NGc7U/s1600/IMG_4048.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixeIFpjFT7KVoqWv053huZEbqJ8xeK2jhTXM-QL2DrHexYRKJcE1a9LLXbByreR4ryZB4SIE-r0demHLB4ygD9u86yEH9ZEu2_v8E-qklpFLFmJBd-qPdjAW2i6K1_6vQGuBAOO0NGc7U/s320/IMG_4048.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxkbviCsG53t_akd0-nPWaVkTDz_X7AnsK8CNE7xSb-o1bWZP9cWoJP0cn9GAE09FlMWRD0M9hOE_JbltL8JWU98AcLEe2u8daXq_GJGsRgcLZ1V4F6rtM1IH1ePLBQ8tdGVBcLgXj2n4/s1600/IMG_4049.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxkbviCsG53t_akd0-nPWaVkTDz_X7AnsK8CNE7xSb-o1bWZP9cWoJP0cn9GAE09FlMWRD0M9hOE_JbltL8JWU98AcLEe2u8daXq_GJGsRgcLZ1V4F6rtM1IH1ePLBQ8tdGVBcLgXj2n4/s320/IMG_4049.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdlNB11u62i_e1-oo56TMtIKpFYG079N6avOZLM0_iAkdm03JqSBmrEsb1s2dZN5qmeY2e-uw3mqvlxXOO6mI-kLe8xXAI84hlKkxgIVqTxKJ0MdrM-VXsaA90nAkOge0PV3zl2iHbvBk/s1600/IMG_4052.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdlNB11u62i_e1-oo56TMtIKpFYG079N6avOZLM0_iAkdm03JqSBmrEsb1s2dZN5qmeY2e-uw3mqvlxXOO6mI-kLe8xXAI84hlKkxgIVqTxKJ0MdrM-VXsaA90nAkOge0PV3zl2iHbvBk/s320/IMG_4052.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDPrQUGpjJoNW9LZhVV5Q3TVKpXvJ5kTR9BhqvqfU23QfYcb5orGU1vdjzI5ig8LDKlNsR3yqQXrE4z2nAUsU3gx91jKl392y-8ps0r1tC0hVCIgRvIiDT47MRkcyEJDZ0zvOZGtqOMQ0/s1600/IMG_4053.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDPrQUGpjJoNW9LZhVV5Q3TVKpXvJ5kTR9BhqvqfU23QfYcb5orGU1vdjzI5ig8LDKlNsR3yqQXrE4z2nAUsU3gx91jKl392y-8ps0r1tC0hVCIgRvIiDT47MRkcyEJDZ0zvOZGtqOMQ0/s320/IMG_4053.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFx8MrcYwcK5EQfFIRJ2WUniBfdqLh5pl0W6rnX3eNkYyzXRysH_1P_jJp9hVf81ZmlBnqrZ3zLIZf6IZHHT2mCsNKeuaMJnrkz7f22SY9EKK2ngdcatYNtu7Ubc7vpJDRpeZfpspp8l4/s1600/IMG_4057.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFx8MrcYwcK5EQfFIRJ2WUniBfdqLh5pl0W6rnX3eNkYyzXRysH_1P_jJp9hVf81ZmlBnqrZ3zLIZf6IZHHT2mCsNKeuaMJnrkz7f22SY9EKK2ngdcatYNtu7Ubc7vpJDRpeZfpspp8l4/s320/IMG_4057.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzM5D5C4EDxPZJxVkZZxWO3KBAoZygjFQBlp2rqR4spE0xXNYqG2LTV_YpR2EHhUuNoqI5N1z5296av0bC4PJiZvCEaUidMwsUBGW2BRDUOCveEF2iHsiKIM5F5zTVSo2y89AEshlDkqM/s1600/IMG_4059.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzM5D5C4EDxPZJxVkZZxWO3KBAoZygjFQBlp2rqR4spE0xXNYqG2LTV_YpR2EHhUuNoqI5N1z5296av0bC4PJiZvCEaUidMwsUBGW2BRDUOCveEF2iHsiKIM5F5zTVSo2y89AEshlDkqM/s320/IMG_4059.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrn-9kE15X5KP96AsTFUdRnkyv0wJdt08w4-TcCnJ_cpaV2SblOI3wEAVApD7ODcWSoa2DfdE1YnYJGcCrfwjJgQU5m-w7C0KmeTmNtkOZ9iPCexSA2ccQIr1tfHUfJVNggfwu2azkgc/s1600/IMG_4062.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrn-9kE15X5KP96AsTFUdRnkyv0wJdt08w4-TcCnJ_cpaV2SblOI3wEAVApD7ODcWSoa2DfdE1YnYJGcCrfwjJgQU5m-w7C0KmeTmNtkOZ9iPCexSA2ccQIr1tfHUfJVNggfwu2azkgc/s320/IMG_4062.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipdl_BlcQyB_G2xzgR7gpT3xEs8D25lODfxEDMv2iWKtYPHRaLO7IkgkEER0GY-8hnNU-32dbmrk_7NW37fQG-fPhNKjYDAGq7J2-wsW63ByTeq7H_oNcyemeKijhsDHU8taSlbREc7X4/s1600/IMG_4064.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipdl_BlcQyB_G2xzgR7gpT3xEs8D25lODfxEDMv2iWKtYPHRaLO7IkgkEER0GY-8hnNU-32dbmrk_7NW37fQG-fPhNKjYDAGq7J2-wsW63ByTeq7H_oNcyemeKijhsDHU8taSlbREc7X4/s320/IMG_4064.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHvT_YYBKUs8HD42EdXo0woDgZg8mSIrcR8z1uFucqJcWR0o9KhXD_UODOEHIqFqHIiWSA7nx4TdUmSVRhZOe8iWq7QocNCbeLTHMgFLO5sP5xerqI8Y4ZYsHXf_IlNXhKeBf3FhlLw7E/s1600/IMG_4069.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHvT_YYBKUs8HD42EdXo0woDgZg8mSIrcR8z1uFucqJcWR0o9KhXD_UODOEHIqFqHIiWSA7nx4TdUmSVRhZOe8iWq7QocNCbeLTHMgFLO5sP5xerqI8Y4ZYsHXf_IlNXhKeBf3FhlLw7E/s320/IMG_4069.JPG\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRet_JJSoAHMEVLEuTWSlldBNvIgc1t3B2OgVxsqbbiZMBshmGtHzEzAYZAQNXLAsP7b9Vx1elDQoC06j0XUWJSOg46X0O1ELNOhxG1esMyGDv6AsUi1I4nngEdSHZHKxZye6JukXfms4/s1600/IMG_4071.JPG\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRet_JJSoAHMEVLEuTWSlldBNvIgc1t3B2OgVxsqbbiZMBshmGtHzEzAYZAQNXLAsP7b9Vx1elDQoC06j0XUWJSOg46X0O1ELNOhxG1esMyGDv6AsUi1I4nngEdSHZHKxZye6JukXfms4/s320/IMG_4071.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">v časti priekopy postavili krížovú cestu</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMV84r6k5D_r9WgcmJVlbDQ_OotwikY_-ryxK3e04X_-yB5K-SdyaMBhoaIKZd_s_PwdosBZP6sLSbPrGsE91Ro0B9K7npMG7pExDfejRz2Gyjl1BCpZFDwELHyGh_Hz09bEbFW5BGPTg/s1600/IMG_4077.JPG\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMV84r6k5D_r9WgcmJVlbDQ_OotwikY_-ryxK3e04X_-yB5K-SdyaMBhoaIKZd_s_PwdosBZP6sLSbPrGsE91Ro0B9K7npMG7pExDfejRz2Gyjl1BCpZFDwELHyGh_Hz09bEbFW5BGPTg/s320/IMG_4077.JPG\" width=\"320\" /></a></div>\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\nSpracoval: Orgoň</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nLit:</div>\n<div style=\"margin-bottom: 0in;\">\nVladimír Turčan a kolektív: Archeologické pamiatky - Kultúrne krásy Slovenska, Dajama, 2009  </div>\n<div style=\"margin-bottom: 0in;\">\nHabovštiak: K otázke datovania hradiska v Bíni, Slovenská archeologia 14, 1966, 439-486</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<a href=\"https://www.vedatechnika.sk/SK/VedaASpolocnost/NCPVaT/video/Stranky/2009-KarolPieta.aspx\">https://www.vedatechnika.sk/SK/VedaASpolocnost/NCPVaT/video/Stranky/2009-KarolPieta.aspx</a></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nP. Bednár – Z. Poláková – M. Ruttkay (Archeologický ústav SAV Nitra) – J. Henning (J.-W. Gothe Universität vo Frankfurte nad Mohanom): <span style=\"font-family: TimesNewRomanPSMT;\"><span style=\"font-size: small;\">Bíňa – výskum pri vale 2. </span></span> </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span style=\"font-family: TimesNewRomanPSMT;\"><span style=\"font-size: small;\">http://www.skyscrapercity.com/showthread.php?t=904992&amp;page=4</span></span><br />\n<span style=\"font-family: TimesNewRomanPSMT;\"><span style=\"font-size: small;\">http://archivportal.arcanum.hu/maps/html/katfelm2b_google.html</span></span><br />\n<span style=\"font-family: TimesNewRomanPSMT;\"><span style=\"font-size: small;\">http://geo.enviroportal.sk/sluzby/zobrazovacie-sluzby-priestorovych-udajov/rastre/historicke-mapovanie-slovenska/vojenske-mapovanie-i-1764-1787 </span></span></div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/4502446212086467118/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/10/bina.html#comment-form",
+            "title": "1 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/4502446212086467118"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/4502446212086467118"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/10/bina.html",
+            "title": "Bíňa"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh3D7MXQc5azN19ZU1_-yNhhAwERRhgq1L4c7FBG6mbyS57q8z8iYvY90wV4pTkMj7v3E-NPQrP7HqP5X2YwTR1OgaZ7iPIJapKI_GvdyKbjpk61Ub6OOLltBvKNS3lRyQb-6gQjBd5_M/s72-c/1+mapovanie+1764.JPG",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "1"
+        }
+      }
+    ]
+  }
+}
