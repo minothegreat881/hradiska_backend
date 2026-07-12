@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Tlma%C4%8De+-+Festunok?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Tlma%C4%8De%20-%20Festunok"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-546495035599198940"
+        },
+        "published": {
+          "$t": "2011-06-21T21:37:00.002+02:00"
+        },
+        "updated": {
+          "$t": "2015-09-13T08:52:04.561+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Tlmače - Festunok"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Tlmače - Festunok"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br />\n<small><a href=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=48.291959,18.525889&amp;spn=0.004997,0.00912&amp;z=16&amp;source=embed\" style=\"color: blue; text-align: left;\">Zväčšiť mapu</a></small><br />\nHradisko Festunok (v starších názvoch „Festung“, alebo „Hradze“) je výbežkom pahorkatiny, dvíhajúcej sa medzi riekou Žitavou a Hronom. Nachádza sa medzi Tlmačmi a Kozárovcami, na pravom brehu Hrona, katastri obce Kozárovce. Tieto kopce boli kedysi súčasťou Štiavnického pohoria, od ktorého ich oddelil Hron. Rieka svojou eróznou činnosťou v týchto miestach vytvorila zaujímavý geografický útvar, známy pod pomenovaním Slovenská brána. Jeho zvyšky boli také výrazné a nápadné, že ich zachytili aj kartografi z konca 19. a zo začiatku 20. storočia.  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQhH4JbhdFKHrvRQaVnCW2MOPLgVAK6F_a_x0wQ1vocYUNOc9mE7Cn97QU-7SyyD_aXixY2Yt1nE9k_e_osdkFnUBPKtSa8iLfq6qH5qHfuNEGt2z-XmXd1ulbhYV51EWL9fci-Vhw-c/s1600/festunok1.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"207\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQhH4JbhdFKHrvRQaVnCW2MOPLgVAK6F_a_x0wQ1vocYUNOc9mE7Cn97QU-7SyyD_aXixY2Yt1nE9k_e_osdkFnUBPKtSa8iLfq6qH5qHfuNEGt2z-XmXd1ulbhYV51EWL9fci-Vhw-c/s320/festunok1.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 11px;\">Hradisko Festunok na mape z&nbsp;roku 1843</span></td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPJUx5lJRAI2L6IOzlbU1FTcqLJrffZT9GoXBbCXaU4nJNENNzDDPgUUkdZ_msnmM7KCaYd9LxSOeOgsfy5o2QRt21UJsEoGyciVxII_6sbsKSYSelUNKQptdM_7wpQCy5W3GYeGprlEA/s1600/10_Tlmace.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"212\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPJUx5lJRAI2L6IOzlbU1FTcqLJrffZT9GoXBbCXaU4nJNENNzDDPgUUkdZ_msnmM7KCaYd9LxSOeOgsfy5o2QRt21UJsEoGyciVxII_6sbsKSYSelUNKQptdM_7wpQCy5W3GYeGprlEA/s320/10_Tlmace.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Letecký pohľad na hradisko</td></tr>\n</tbody></table>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nHradisko Festunok je situované pri vstupe z juhu do Slovenskej brány, ktorej jednu stranu tvorí Tlmačská skala so spomenutým hradiskom a druhú vrch Kusá hora. Kopec s hradiskom (výška 24m nad hladinou Hrona) má charakter skalného poloostrova, vybiehajúceho a príkro sa zvažujúceho z troch strán do inundačného územia Hrona. Hradisko sa skladalo z dvoch častí: jednej novšej, valmi a priekopami dobre opevnenej a  druhej staršej, bez opevnenia. Staršie neolitické hradisko bez opevnenia (alebo azda i s opevneniami, ktoré však neskorší stavitelia porušili) malo všetky výhody aké poskytuje vysoko sa dvíhajúca terasa, chránená z dvoch strán prirodzeným, príkrim svahom (smerom k Hronu) a na strane tretej temer kolmou skalou.  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgevyH86HqnswqQ8LRYVmYl0LOVCFVrdw3mU5uBYk6j7Q0uXzPT6pzVY_QdOdYhN40ZPVMG9mCSaLJOiBJstGE9S7Je3C1j0TZoikTb3cMaYweFAtMgvTq1CyZY_ak1aPtyWFN7ikZr99w/s1600/festunok2.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"223\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgevyH86HqnswqQ8LRYVmYl0LOVCFVrdw3mU5uBYk6j7Q0uXzPT6pzVY_QdOdYhN40ZPVMG9mCSaLJOiBJstGE9S7Je3C1j0TZoikTb3cMaYweFAtMgvTq1CyZY_ak1aPtyWFN7ikZr99w/s320/festunok2.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 11px;\">Plastický nákres hradiska Festunok podľa záznamu Janšáka<br />\n(1 - rieka Hron, 2 - valy, 3 - skala, 4 - obetný kameň,<br />\n5 - malý val, 6 - južná brána, 7 - severná brána)</span></td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nHradisko bolo zložené z obvodového valu v tvare nepravidelného štvoruholníka, s rozmermi hlavných osí 150x190 m pozostávalo z mohutného valu, ktorý na južnej strane prebiehal miernym oblúkom ponad príkry svah skalného vŕška. V severovýchodnej časti bolo opevnenie prerušené vstupom do hradiska, ktorý bol zabezpečený jednak valom vysunutým pred opevnenie, jednak výbežkom stojacim mimo obvodového valu posunutým dovnútra hradiska a pripájajúcim sa severným koncom k hlavnému obvodovému valu. Tak vznikla v partii vstupu akási predsieň s dvoma vstupnými bránami, z ktorých prvá bola široká 10 a  druhá 6m. Zvláštnosťou hradiska v Kozárovciach je svojrázne riešenie jeho vstupu systémom dvojitej brány, vytvorenej jednak prerušením obvodového valu na východnej strane, jednak výbežkom valu smerom na východ a malým predsunutým valom postaveným paralelne s východným valom tesne nad terénnym zlomom. Vnútorná časť medzi oboma bránami, ktorá tvorí akúsi predsieň hradiska a cez ktorú viedla cesta naň, bola vydláždená drobnými kameňmi. Riešenie vstupu do hradiska dvojitou bránou pri jednoduchom valovom opevnení nie je zatiaľ známe z iných lokalít. </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqctPGgvn4SaOY3ypVFEP3czPPbxwPXnVOlOq8Gl0kuLlxoNuqWj8fdwrKQgbURrCO0RpMnoDR9WTo0pE12K-Segw1bySJi08cpZSlh9zU45mlvnupEqnCGO1WFAE2Y8YJnvTowu7SkXs/s1600/festunok3.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"178\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqctPGgvn4SaOY3ypVFEP3czPPbxwPXnVOlOq8Gl0kuLlxoNuqWj8fdwrKQgbURrCO0RpMnoDR9WTo0pE12K-Segw1bySJi08cpZSlh9zU45mlvnupEqnCGO1WFAE2Y8YJnvTowu7SkXs/s320/festunok3.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 11px;\">Rekonštrukcia valu na základe archeologického výskumu od A. Habovštiaka - 1968</span></td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiufsjBMnPxooBmAO0UrY-qd8KH1jvP6eJ0KDy4LEgSxHKgJV-ZiOs6ua52QIzKjhVR5heGMBcrxD90BCbyzB2P7JgbBPt0dufPW0sT3ttLdERlisQ4JWOs3Gpgz_1AVOSrq9rApJ3UADE/s1600/habov.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"303\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiufsjBMnPxooBmAO0UrY-qd8KH1jvP6eJ0KDy4LEgSxHKgJV-ZiOs6ua52QIzKjhVR5heGMBcrxD90BCbyzB2P7JgbBPt0dufPW0sT3ttLdERlisQ4JWOs3Gpgz_1AVOSrq9rApJ3UADE/s320/habov.jpg\" width=\"320\" /></a></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9hVhIidRqyLDTdcggA9WZm95kX5VxxJfAhr6jlFMtWEyfwplHGS4leZiEAH2I-HvJi-RJF4gIdThtoS2TVfq-564NnvWGhGvgAVG2tNTQBh2fEuaqqtA3RikRHIzNoobFl8vz9tj2ka0/s1600/1950.png\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"182\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9hVhIidRqyLDTdcggA9WZm95kX5VxxJfAhr6jlFMtWEyfwplHGS4leZiEAH2I-HvJi-RJF4gIdThtoS2TVfq-564NnvWGhGvgAVG2tNTQBh2fEuaqqtA3RikRHIzNoobFl8vz9tj2ka0/s320/1950.png\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">na fotografii z roku 1950</td></tr>\n</tbody></table>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nSevernú a západnú časť opevnenia tvoril súvislý mohutný val s výraznou priekopou na vonkajšej strane: priekopa pokračovala v krátkom úseku aj na južnej strane. Druhotne bolo opevnenie prerušené len v juhozápadnej časti a to kvôli ľahšiemu prístupu do areálu voľakedajšieho hradiska aj z južnej strany. Val mal na vonkajšej strane výšku 5-6m (od dna priekopy) a na vnútornej strane 2-3m. Priekopa bola vykopaná len na severnej, západnej a časti južnej strany, t.j. tam, kde opevnenie nebolo chránené aj svahom alebo skalným zrázom (mala priemernú hĺbku 1,5-2m). Celková dĺžka valu na jeho hrebeni činila 560m a plocha hradiska 1,84ha. Opevnenie na časti východnej (pri vstupe), severnej a západnej strany pozostávalo z drevozemného valu a z kamenného múru na vonkajšej strane. Drevo zemná časť, široká 320-330cm, pozostávala z nasypanej hliny a vrstiev drevených brvien, kladených na spôsob roštovej konštrukcie naprieč i pozdĺž valu. Na spodku valu boli poukladané veľké lomové kamene. Drevozemná konštrukcia bola s najväčšou pravdepodobnosťou z vnútornej strany zakončená stenou z pozdĺžnych trámov držaných zvislými kolmi. Kamenný múr na vonkajšej strane, postavený z lomových kameňov – andezitového tufu a ojedinele i pieskovca – kladených nasucho, bol 140-150cm široký, takže celková šírka obidvoch častí valu činila 470-500cm. Uprostred hradiska bol obetný kameň asi 2m dlhý, 1m široký a 1m vysoký, ktorý ležal smerom od východu na západ. Okolo obetného kameňa bol malý val.  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5jwgzDT6Y0aYERX6zKrbOQEzSdr1jOEaVqfaURkkNTWSUU2vbaffhsmtYiS7fqZN79yFPF5j8lL58FsAE0dB65FA2Hoza6t_i_9jm_BjVGO-jTcQ_oxl9voAaJrJ3A9qmbIlj7iQLaoI/s1600/festunok4.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"211\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5jwgzDT6Y0aYERX6zKrbOQEzSdr1jOEaVqfaURkkNTWSUU2vbaffhsmtYiS7fqZN79yFPF5j8lL58FsAE0dB65FA2Hoza6t_i_9jm_BjVGO-jTcQ_oxl9voAaJrJ3A9qmbIlj7iQLaoI/s320/festunok4.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"font-family: Arial, Helvetica, sans-serif; font-size: 11px;\">Archeologické nálezy na hradisku Festunok<br />\n(Š. Janšák - Staré osídlenie Slovenska, 1928)</span></td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nNálezy keramiky nasvedčujú, že poslednými obyvateľmi boli Slovania. Opísaný spôsob budovania opevnenia bol u západných Slovanov bežný – s menšími obmenami, ktoré boli podmienené jednak konfiguráciou terénu, jednak zdrojmi stavebného materiálu. Na území Slovenska sa valy s drevenou roštovou konštrukciou a kamenným múrom na vonkajšej strane zistili na viacerých lokalitách so slovanskými hradiskami. Hradiská s podobným charakterom opevnenia sú známe aj z Moravy, Čiech a Poľska.  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_6o1wAr0mYLfyHkNU0ZozXa1zkPhXXuiFQG1ewHdxZ-jHSOnSjPaBMb6ZwbrnqSqHzstZYQXUhf3xLVjaLnqBwJezzxC_-7idClwGZ8MhZY66GUBLHYlOlBcuHwxICEhSEvVB5VL0PW8/s1600/festun+pla%25CC%2581n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_6o1wAr0mYLfyHkNU0ZozXa1zkPhXXuiFQG1ewHdxZ-jHSOnSjPaBMb6ZwbrnqSqHzstZYQXUhf3xLVjaLnqBwJezzxC_-7idClwGZ8MhZY66GUBLHYlOlBcuHwxICEhSEvVB5VL0PW8/s320/festun+pla%25CC%2581n.jpg\" width=\"273\" /></a></div>\n<br />\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nTieto hradiská mali podľa J. Dekana v súhlase s Kosmovými správami tvoriť východnú hranicu Nitrianskeho kniežatstva. Pre pochopenie a vysvetlenie funkcie hradiska v Kozárovciach má však najväčší význam jeho geografická poloha a celková situácia v rámci širokého okolia. Hradisko leží totiž na strategicky veľmi významnom a dôležitom mieste, priamo pri vstupe do Slovenskej brány, ktorou viedla dôležitá cesta z juhu na stredné Slovensko, do oblasti bohatých rudných ložísk. Takýto dôležitý prechod bolo treba strážiť a chrániť, resp. vybudovať pri ňom opevnenie, ktoré by v čase nepriateľských útokov slúžilo ako strategický bod, no aj ako útočište obyvateľstvu z blízkeho okolia. Nebolo však v tejto oblasti jediné. V neveľkej vzdialenosti (asi 1km) na juh od neho sú zvyšky polohou i rozlohou veľmi podobného, doteraz bližšie neskúmaného hradiska Grác na vrchu Pipíška v chotári Malých Kozmáloviec.  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmbF_QPbB3q-mjBg_RQaCXolxNiDiTKOocPYMY8LB1tr0bYY5V8vy2lpiLkI0Bc9IpEt6pj6Yqu2xYv1oZgcp3S9KmhTxlu5z8QxQ-xxEzbdjapq0YnUuxv3p9vvi89Og94wsZjUjSsA/s1600/festunok5.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"239\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmbF_QPbB3q-mjBg_RQaCXolxNiDiTKOocPYMY8LB1tr0bYY5V8vy2lpiLkI0Bc9IpEt6pj6Yqu2xYv1oZgcp3S9KmhTxlu5z8QxQ-xxEzbdjapq0YnUuxv3p9vvi89Og94wsZjUjSsA/s320/festunok5.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Hradisko dnes</td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nĎalším opevneným sídliskom v Slovenskej bráne, resp. na jej východnej strane, mohlo byť hradisko Krivín oproti Psiarom v chotári obce Rybník: jeho valové opevnenie sa odlišuje od ostatných doteraz spomínaných hradísk na Pohroní (je členené na päť nádvorí) a pochádzajú z neho nálezy podobného charakteru ako z hradiska v Kozárovciach. Takmer oproti predošlému leží donedávna neznáme opevnené sídlisko – hradisko na Beňadickej skale. Má tú istú konštrukciu valu ako to v Kozárovciach a zistili sa na ňom aj podobné nálezy z 9.-10. stor. Ak teda v oblasti Slovenskej brány, na území, ktorého dĺžka nepresahuje 7 km, nachádzame najmenej štyri hradiská, ktoré svojou vyvýšenou polohou a bezprostrednou blízkosťou k ceste vedúcej hore Pohroním i celkovým charakterom osídlenia a technikou budovania vykazujú nápadnú príbuznosť, nezostáva iné, ako považovať ich za celok a systém. Hradisko v Kozárovciach malo, podobne ako ďalšie príbuzné hradiská v oblasti Slovenskej brány, strategicko-strážnu a útočnú funkciu. Archeologickým potvrdením správnosti takéhoto ponímania funkcie hradiska v Kozárovciach a v celej oblasti Slovenskej brány mohli by byť i nálezy železných hrotov šípov, ktoré zaiste súvisia s bojovníckou a strážnou činnosťou jeho obyvateľov. Svedectvo o prítomnosti bojovníkov v širšom okolí Kozároviec už v čase pred vybudovaním spomenutých hradísk môže byť nález bojovníckych hrobov s mečom karolínskeho typu, strmeňmi a kopijami z konca 8. alebo zo začiatku 9. stor. v Malých Kozmálovciach.  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiThapISx1KXB83TSGoweKfKmlSO2m81F9T1xHcRAsKRz8UlJ7EFpI_xc1Qcl9g4ZMie-1EIoJX5QMjfnwcFpXmsSfoBrbLb1tSwKHuCeXiJw8TNypRxD-uVaBsiyoeFMpLvxe4EmptyWA/s1600/festunok6.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"239\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiThapISx1KXB83TSGoweKfKmlSO2m81F9T1xHcRAsKRz8UlJ7EFpI_xc1Qcl9g4ZMie-1EIoJX5QMjfnwcFpXmsSfoBrbLb1tSwKHuCeXiJw8TNypRxD-uVaBsiyoeFMpLvxe4EmptyWA/s320/festunok6.jpg\" width=\"320\" /></a></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nStrategickú polohu Slovenskej brány si uvedomoval aj knieža Gejza I., neskorší uhorsky kráľ a založil v Hronskom Beňadiku v roku 1075 opátstvo, aby mal pod kontrolou vstup na sever Slovenska, do banských miest. Aj dávno po zániku hradiska, bolo hradisko využívané na vojenské účely. 17. júla 1664 sa začali na Hrone boje medzi cisárskym vojskom a Turkami. Cisárska armáda pod vedením generála Louisa de Souchesa mala stanovište na kozároveckých lúkach a na Festunku, odkiaľ 19. júla začala útok smerom na Čajkov a Levice.  <br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv1OsdjKLlTdhVEy4rxEios5cbWPP4Eww0hUuE0cuKLsYi6tXKTsoILv8xahI9Zrot3vqEZiEvRtr5LClRspmpQvLMyhzwJAmLCTWR2g8S5g_5LuJeFyGy1hw8qHnXmssk0-TmxNNbX10/s1600/festun+val.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv1OsdjKLlTdhVEy4rxEios5cbWPP4Eww0hUuE0cuKLsYi6tXKTsoILv8xahI9Zrot3vqEZiEvRtr5LClRspmpQvLMyhzwJAmLCTWR2g8S5g_5LuJeFyGy1hw8qHnXmssk0-TmxNNbX10/s320/festun+val.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pohľad na val hradiska</td></tr>\n</tbody></table>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsuHdchgNTohCh3Baflc4QbSxGB7twzZ1hUXi7RjqVbbdJXbfj8j4fauuysMZXBbfsEkB3ghCEopmQXhiWzupbXeheI33_eNfrNhEQR23kH3zTuNt21B-Ik-gQnqsso8tbWUUZbEUVTw/s1600/tolmacs101.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsuHdchgNTohCh3Baflc4QbSxGB7twzZ1hUXi7RjqVbbdJXbfj8j4fauuysMZXBbfsEkB3ghCEopmQXhiWzupbXeheI33_eNfrNhEQR23kH3zTuNt21B-Ik-gQnqsso8tbWUUZbEUVTw/s320/tolmacs101.jpg\" width=\"320\" /></a></div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nHradisko Festunok ešte v polovici dvadsiateho storočia patrilo medzi šesť najzachovalejších hradísk na Slovensku. Hradisko vydržalo 1000 rokov vo veľmi dobrom stave. Lenže súdruhovia rozhodli a hradisko rozparcelovali na pozemky pre vinice a záhradky.  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDwmJkODQxWdEDHfrJesEr0xDdsvlWyKOFixHDWYvqkafd2c2kv6LZXjqOD-cVzhGEtGpTUK_cVw_eGIyScnXMMPhDi3YVobeAgr0-yo9GmnE_UAOJZgIPbgaxgBi5Uxh7raNE0v56r5g/s1600/IMG_4127.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDwmJkODQxWdEDHfrJesEr0xDdsvlWyKOFixHDWYvqkafd2c2kv6LZXjqOD-cVzhGEtGpTUK_cVw_eGIyScnXMMPhDi3YVobeAgr0-yo9GmnE_UAOJZgIPbgaxgBi5Uxh7raNE0v56r5g/s320/IMG_4127.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht5qaEfT_aoardhUh_U1ECJNB3RXcBMiGgUFeFzUtpmlpXcdvyjOx2Qffw_OxuIKoz88goqYcp9ALtPFI98-nrn-Cd8QNEQbRcS3ROgWfvD3nrQaZUt_gOgicP2d9KWGxF82tkuzprJek/s1600/IMG_4128.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht5qaEfT_aoardhUh_U1ECJNB3RXcBMiGgUFeFzUtpmlpXcdvyjOx2Qffw_OxuIKoz88goqYcp9ALtPFI98-nrn-Cd8QNEQbRcS3ROgWfvD3nrQaZUt_gOgicP2d9KWGxF82tkuzprJek/s320/IMG_4128.JPG\" width=\"213\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfcQD9HsghX3DHi6-4g-wKapTYDcEMKxsOXTvYZL9iDzosBvF4RfDHvvinQc9RT1h9kYdEXYpGCc3jFKyvLw0ShCe6vvFEcJ0St871y5QUtokM6iu1O1QVD2ylFZoB084GPoBaCz_S0pk/s1600/IMG_4131.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfcQD9HsghX3DHi6-4g-wKapTYDcEMKxsOXTvYZL9iDzosBvF4RfDHvvinQc9RT1h9kYdEXYpGCc3jFKyvLw0ShCe6vvFEcJ0St871y5QUtokM6iu1O1QVD2ylFZoB084GPoBaCz_S0pk/s320/IMG_4131.JPG\" width=\"320\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1d86uw4xalHYx4BbcyJnnuRmvFqBYoqZ25msZGvxYJCj7pdWCR4RoKCLDCNjbKXRooYoF1RQA1g-tZbikZ6LBqJEtDekF08cjUuWJe5gfmKI4kEJkZfCcZ4G4zUZMIHn4SlW3EET8XEM/s1600/IMG_4134.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1d86uw4xalHYx4BbcyJnnuRmvFqBYoqZ25msZGvxYJCj7pdWCR4RoKCLDCNjbKXRooYoF1RQA1g-tZbikZ6LBqJEtDekF08cjUuWJe5gfmKI4kEJkZfCcZ4G4zUZMIHn4SlW3EET8XEM/s320/IMG_4134.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">vnútorná plocha je ideálna rovinka</td></tr>\n</tbody></table>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfF1TpdB1FfubNghrDfCToNcgZjhati1dVA-nqvsCz_9DeySwgFgVIWwzd_fyTeoKOn2harBF-vkDL5cZiE6hWYLMIx9VNFrYxfpaunoLVkaObjwbVvm9SPgBb3s4A_XPnyADMDkHBY3M/s1600/IMG_4138.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfF1TpdB1FfubNghrDfCToNcgZjhati1dVA-nqvsCz_9DeySwgFgVIWwzd_fyTeoKOn2harBF-vkDL5cZiE6hWYLMIx9VNFrYxfpaunoLVkaObjwbVvm9SPgBb3s4A_XPnyADMDkHBY3M/s320/IMG_4138.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\nFoto Matúš Martinák:<br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2aysZFGvTwBo_GqIZvX1mNA4YmuJ_u07bALhMnPk9LqH6bEDxLmg4AaWghy1NPGzXWPf6K_m8JudTi-DQ1KH9vm3uxkxiPQSXzJMnxae20UHShcIam3APKpz5aFyScSRu5ewmPpiU8xU/s1600/11998620_1105979149419756_1890152003_n.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2aysZFGvTwBo_GqIZvX1mNA4YmuJ_u07bALhMnPk9LqH6bEDxLmg4AaWghy1NPGzXWPf6K_m8JudTi-DQ1KH9vm3uxkxiPQSXzJMnxae20UHShcIam3APKpz5aFyScSRu5ewmPpiU8xU/s320/11998620_1105979149419756_1890152003_n.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Opevnenie v severnej časti hradiska</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkVqhGIiHc4Dmp3rajPNxHVO_uiLpfVNvZmjwztCY5760f1RKuRmCTc_HlwBxlpI41JUSOm8vvPg6xi_4jMtgMNENe9hgVTmceMBibx6o0fpJeqQnhVXloU4zPEEvigMLobnLIuPbiz9k/s1600/11999933_1105979122753092_53309266_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkVqhGIiHc4Dmp3rajPNxHVO_uiLpfVNvZmjwztCY5760f1RKuRmCTc_HlwBxlpI41JUSOm8vvPg6xi_4jMtgMNENe9hgVTmceMBibx6o0fpJeqQnhVXloU4zPEEvigMLobnLIuPbiz9k/s320/11999933_1105979122753092_53309266_n.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI9FpL8NxRLTsz4RXVRGTexBs1UwUewLiL4zw4J7HYOW3CFEKcoBag8TYFsEINDSlLIvMMKSZBCHlYeyGd4EmtkuRz5tcWmyRr3IMep71_fdgLJa5ITInltKLEDb6ts0JXCFw52LhMFts/s1600/12020109_1105979152753089_682852542_o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI9FpL8NxRLTsz4RXVRGTexBs1UwUewLiL4zw4J7HYOW3CFEKcoBag8TYFsEINDSlLIvMMKSZBCHlYeyGd4EmtkuRz5tcWmyRr3IMep71_fdgLJa5ITInltKLEDb6ts0JXCFw52LhMFts/s320/12020109_1105979152753089_682852542_o.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFVrs5ifgDShlrtzffzLocgFUpJEd9x_hNeWHFPdahDo9M33Z4qBBVNqO6ptVGrv9TUji-zq56NXq6qnqQBb8XqjfrZMmBvRt2uR8UfKzd8RqYSBRwfro1iM9EtUx59H6wM7Zc_nDQ224/s1600/12016658_1105980069419664_1214246658_n.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFVrs5ifgDShlrtzffzLocgFUpJEd9x_hNeWHFPdahDo9M33Z4qBBVNqO6ptVGrv9TUji-zq56NXq6qnqQBb8XqjfrZMmBvRt2uR8UfKzd8RqYSBRwfro1iM9EtUx59H6wM7Zc_nDQ224/s320/12016658_1105980069419664_1214246658_n.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Opevnenie v západnej časti</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzHa4jbdMGRI-NyHj1Jpx4sbQGJffJ2ZE1ApRZgxVXvwKtabpTG4MpOvMur3vkNrjvIffY7bg8ApSNQWcHm7YlwOgRX6aVH0OHZ1r2LYeF21nd65aShb8YhGeNt5F9DbG78A4qKZkOOQI/s1600/12015460_1105980082752996_1450652895_o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzHa4jbdMGRI-NyHj1Jpx4sbQGJffJ2ZE1ApRZgxVXvwKtabpTG4MpOvMur3vkNrjvIffY7bg8ApSNQWcHm7YlwOgRX6aVH0OHZ1r2LYeF21nd65aShb8YhGeNt5F9DbG78A4qKZkOOQI/s320/12015460_1105980082752996_1450652895_o.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nPoužitá literatúra a pramene:</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nJanšák, Štefan: Staré osídlenie Slovenska, 1928.</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nHabovštiak, Anton: Hradisko z 9.-10. storočia v Tlmačoch, 1973.</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nKronika obce Kozárovce  <br />\nhttp://jupiter.elte.hu/terkep+lista2.php</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nPeter Ižold, 1. apríl 2008  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nČlánok prevzatý zo stránky <a href=\"http://www.zitava.sk/zitava/zitava.php?page_id=pravek_festunok\">http://www.zitava.sk/zitava/zitava.php?page_id=pravek_festunok</a> so súhlasom autora<br />\nhttp://www.cevnad.sav.sk/aktuality.html#2_1</div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/546495035599198940/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/06/tlmace-festunok.html#comment-form",
+            "title": "0 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/546495035599198940"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/546495035599198940"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/06/tlmace-festunok.html",
+            "title": "Tlmače - Festunok"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQhH4JbhdFKHrvRQaVnCW2MOPLgVAK6F_a_x0wQ1vocYUNOc9mE7Cn97QU-7SyyD_aXixY2Yt1nE9k_e_osdkFnUBPKtSa8iLfq6qH5qHfuNEGt2z-XmXd1ulbhYV51EWL9fci-Vhw-c/s72-c/festunok1.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}
