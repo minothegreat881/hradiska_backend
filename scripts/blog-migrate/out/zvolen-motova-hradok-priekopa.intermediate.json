@@ -1,0 +1,922 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\zvolen-motova-post.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8095673105153615956",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/09/nn-zvolen-cast-motova-hradok-priekopa.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/8095673105153615956/comments/default",
+    "extractedAt": "2026-07-12T20:40:51.522Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&t=h&vpsrc=0&ll=48.56494,19.137336&spn=0.001243,0.00228&z=18&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 17,
+      "captionedImages": 8,
+      "separatorImages": 9
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Zvolen - Môťová,  hrádok Priekopa",
+    "slug": "zvolen-motova-hradok-priekopa",
+    "excerpt": "Výskum včasnostredovekých hradísk na Slovensku a zároveň aj vo Zvolenskej kotline sa spája s menami Štefana Janšáka a Jána Eisnera, ktorí ako prví popísali hrádok Priekopa vo Zvolene, časti Môťová a Š. Janšák ho geodeticky zameral. V novodobej…",
+    "authorName": "Orgon",
+    "publishedAt": "2011-09-18T23:11:00.008+02:00",
+    "originalPublishedDate": "2011-09-18T23:11:00.008+02:00",
+    "updatedAt": "2019-08-22T07:18:17.760+02:00",
+    "readingTime": 9,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlubyCzDEqNoOH6L7pcSGAwYlCGtN-OsvzE7Z8-ZfYWkvCnbRPJT-FyCYseZ8HFKrnekCjoiOO-49QC0yDO7NbZxyG4pFHhopzNKKV054uENFK4AwIrH5w7qV_j5pHaHeUcamy4US4aw/s0/PA123191.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlubyCzDEqNoOH6L7pcSGAwYlCGtN-OsvzE7Z8-ZfYWkvCnbRPJT-FyCYseZ8HFKrnekCjoiOO-49QC0yDO7NbZxyG4pFHhopzNKKV054uENFK4AwIrH5w7qV_j5pHaHeUcamy4US4aw/s1600/PA123191.JPG",
+      "filename": "PA123191.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlubyCzDEqNoOH6L7pcSGAwYlCGtN-OsvzE7Z8-ZfYWkvCnbRPJT-FyCYseZ8HFKrnekCjoiOO-49QC0yDO7NbZxyG4pFHhopzNKKV054uENFK4AwIrH5w7qV_j5pHaHeUcamy4US4aw/s1600/PA123191.JPG",
+        "displayedWidth": 320,
+        "displayedHeight": 216,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlubyCzDEqNoOH6L7pcSGAwYlCGtN-OsvzE7Z8-ZfYWkvCnbRPJT-FyCYseZ8HFKrnekCjoiOO-49QC0yDO7NbZxyG4pFHhopzNKKV054uENFK4AwIrH5w7qV_j5pHaHeUcamy4US4aw/s0/PA123191.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlubyCzDEqNoOH6L7pcSGAwYlCGtN-OsvzE7Z8-ZfYWkvCnbRPJT-FyCYseZ8HFKrnekCjoiOO-49QC0yDO7NbZxyG4pFHhopzNKKV054uENFK4AwIrH5w7qV_j5pHaHeUcamy4US4aw/s1600/PA123191.JPG",
+        "filename": "PA123191.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlubyCzDEqNoOH6L7pcSGAwYlCGtN-OsvzE7Z8-ZfYWkvCnbRPJT-FyCYseZ8HFKrnekCjoiOO-49QC0yDO7NbZxyG4pFHhopzNKKV054uENFK4AwIrH5w7qV_j5pHaHeUcamy4US4aw/s1600/PA123191.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 216,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "naša umelecká predstava o vzhľade hradiska v 9. storočí - autor Tomáš Humaj"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjRE-XI6elaVtoowmHrcTtD3iAkJRa_07Nhp6VBKVUSTQ8vS5nriE-Bl_rEFGSRQTck5_TM9sIhX0MDbGZf8Fxj2itNXY1kgxBbMO7I8CwO5Q3_iXx6jZ92w7OdvJVYpsPlVaBEGHwvk/s0/scan0043.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjRE-XI6elaVtoowmHrcTtD3iAkJRa_07Nhp6VBKVUSTQ8vS5nriE-Bl_rEFGSRQTck5_TM9sIhX0MDbGZf8Fxj2itNXY1kgxBbMO7I8CwO5Q3_iXx6jZ92w7OdvJVYpsPlVaBEGHwvk/s1600/scan0043.jpg",
+        "filename": "scan0043.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjRE-XI6elaVtoowmHrcTtD3iAkJRa_07Nhp6VBKVUSTQ8vS5nriE-Bl_rEFGSRQTck5_TM9sIhX0MDbGZf8Fxj2itNXY1kgxBbMO7I8CwO5Q3_iXx6jZ92w7OdvJVYpsPlVaBEGHwvk/s1600/scan0043.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 245,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Plán hradiska podľa Š. Janšáka"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXsF73aGx3b-aHHL1EJq07WbR7Nt3bZDPupnRNJuZWg4EMbjPkCyAGJCWKVaLf0SJlOH7DmYq8R3QNwfoz51bVDb4Pk9YVSlOYbAjkWzWTLF6kv4jf3dggfw6M4dlNy7sZb450a491-vxj/s0/Zvrchu.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXsF73aGx3b-aHHL1EJq07WbR7Nt3bZDPupnRNJuZWg4EMbjPkCyAGJCWKVaLf0SJlOH7DmYq8R3QNwfoz51bVDb4Pk9YVSlOYbAjkWzWTLF6kv4jf3dggfw6M4dlNy7sZb450a491-vxj/s1600/Zvrchu.jpg",
+        "filename": "Zvrchu.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXsF73aGx3b-aHHL1EJq07WbR7Nt3bZDPupnRNJuZWg4EMbjPkCyAGJCWKVaLf0SJlOH7DmYq8R3QNwfoz51bVDb4Pk9YVSlOYbAjkWzWTLF6kv4jf3dggfw6M4dlNy7sZb450a491-vxj/s1600/Zvrchu.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 159,
+          "originalWidth": 1600,
+          "originalHeight": 798
+        },
+        "caption": "Naša 3D rekonštrukcia hradiska (Dwarf digital a hradiska.sk)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2HfTEzjeu0cu0TMfXgt198cpnTCrXelDfttSJtxfGJLT-CL-vcDVjlJbZM4Tmb80OjruLBwWBuxG3CS4YBtEX_fJyuNOSG5U5zh75XfepVU4vdkefZc5_YVawyMRcXID099OsE49Duk/s0/mf344.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2HfTEzjeu0cu0TMfXgt198cpnTCrXelDfttSJtxfGJLT-CL-vcDVjlJbZM4Tmb80OjruLBwWBuxG3CS4YBtEX_fJyuNOSG5U5zh75XfepVU4vdkefZc5_YVawyMRcXID099OsE49Duk/s1600/mf344.jpg",
+        "filename": "mf344.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2HfTEzjeu0cu0TMfXgt198cpnTCrXelDfttSJtxfGJLT-CL-vcDVjlJbZM4Tmb80OjruLBwWBuxG3CS4YBtEX_fJyuNOSG5U5zh75XfepVU4vdkefZc5_YVawyMRcXID099OsE49Duk/s1600/mf344.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU-chnUYTND2J_gRQKJ693XCCpbcF_4gSSOVKzxiT7Zm7uZPCslKNxwI7sprbXhDkekwHh-IZgO22vB00ICF4XpqUQi1KOdapS4BbmKaZUJP3yUokDZoOpt7vA-nOjrWeUnxOBavxrCCk/s0/Motova_rez+valom.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU-chnUYTND2J_gRQKJ693XCCpbcF_4gSSOVKzxiT7Zm7uZPCslKNxwI7sprbXhDkekwHh-IZgO22vB00ICF4XpqUQi1KOdapS4BbmKaZUJP3yUokDZoOpt7vA-nOjrWeUnxOBavxrCCk/s1600/Motova_rez+valom.JPG",
+        "filename": "Motova_rez+valom.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU-chnUYTND2J_gRQKJ693XCCpbcF_4gSSOVKzxiT7Zm7uZPCslKNxwI7sprbXhDkekwHh-IZgO22vB00ICF4XpqUQi1KOdapS4BbmKaZUJP3yUokDZoOpt7vA-nOjrWeUnxOBavxrCCk/s1600/Motova_rez+valom.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 209,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Motova rez valom – veľké lomové kamene pochádzajú z 1. Fázy opevnenia. Na ich deštrukcii je vonkajšia komora, zosilnená bermou – časť je viditeľná úplne vpravo"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B48oS7ebNGIZ9nRAwXLgXgUjK7ReRJXm9fn3e2NrXziP-2Z2w5tgaKS3u06txTPJPBDJzwjzisXXp-ROQLRddyowgNP18jAxi-ve48uegtgKYkMGdWuLljJf-7jftWedx76R9q_-f6A/s0/M%C3%B4%C5%A5_2.bmp",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B48oS7ebNGIZ9nRAwXLgXgUjK7ReRJXm9fn3e2NrXziP-2Z2w5tgaKS3u06txTPJPBDJzwjzisXXp-ROQLRddyowgNP18jAxi-ve48uegtgKYkMGdWuLljJf-7jftWedx76R9q_-f6A/s1600/M%C3%B4%C5%A5_2.bmp",
+        "filename": "Môť_2.bmp",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B48oS7ebNGIZ9nRAwXLgXgUjK7ReRJXm9fn3e2NrXziP-2Z2w5tgaKS3u06txTPJPBDJzwjzisXXp-ROQLRddyowgNP18jAxi-ve48uegtgKYkMGdWuLljJf-7jftWedx76R9q_-f6A/s1600/M%C3%B4%C5%A5_2.bmp",
+          "displayedWidth": 320,
+          "displayedHeight": 229,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "deštrukcia kamenného valu, vľavo hlinené ílovité jadro, vpravo prepálená vonkajšia komora a česť bermy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYz5EF87zJg7sJzrBA3JJYlLEwcoohPp8Kcq4jyDJHqbXSuMauC_kP9KTg4dZBFF4VuBIZn4RE_efqbDy-7b3ci5LzneTot84SlWcERNUxxKSCfW_4fsk88HUjdcVvr_dIPa-5kKFh0o/s0/M%C3%B4%C5%A5ov%C3%A10010.bmp",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYz5EF87zJg7sJzrBA3JJYlLEwcoohPp8Kcq4jyDJHqbXSuMauC_kP9KTg4dZBFF4VuBIZn4RE_efqbDy-7b3ci5LzneTot84SlWcERNUxxKSCfW_4fsk88HUjdcVvr_dIPa-5kKFh0o/s1600/M%C3%B4%C5%A5ov%C3%A10010.bmp",
+        "filename": "Môťová0010.bmp",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYz5EF87zJg7sJzrBA3JJYlLEwcoohPp8Kcq4jyDJHqbXSuMauC_kP9KTg4dZBFF4VuBIZn4RE_efqbDy-7b3ci5LzneTot84SlWcERNUxxKSCfW_4fsk88HUjdcVvr_dIPa-5kKFh0o/s1600/M%C3%B4%C5%A5ov%C3%A10010.bmp",
+          "displayedWidth": 320,
+          "displayedHeight": 212,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "val rezaný v juhových. časti, pekne vidieť prvú fázu výstavby opevnenia z lomového kameňa a na jej deštrukcii prepálenú vrstvu komory s kolom"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaxkAdgjEvHS8kNGt8tUfRdk-lyihcUsp1dX8GdOaN4lOx3uK24aLUYoKpeWsXauuHasJ-cDupK78n9iUmY-GkBMHq4ihMBeLZNIn0nLm2AqmFApmJFB_Kbyyq2cERB2WXEm11Zaq5KMA/s0/ZV_Mot0014_1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaxkAdgjEvHS8kNGt8tUfRdk-lyihcUsp1dX8GdOaN4lOx3uK24aLUYoKpeWsXauuHasJ-cDupK78n9iUmY-GkBMHq4ihMBeLZNIn0nLm2AqmFApmJFB_Kbyyq2cERB2WXEm11Zaq5KMA/s1600/ZV_Mot0014_1.jpg",
+        "filename": "ZV_Mot0014_1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaxkAdgjEvHS8kNGt8tUfRdk-lyihcUsp1dX8GdOaN4lOx3uK24aLUYoKpeWsXauuHasJ-cDupK78n9iUmY-GkBMHq4ihMBeLZNIn0nLm2AqmFApmJFB_Kbyyq2cERB2WXEm11Zaq5KMA/s1600/ZV_Mot0014_1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 216,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "záhradkárska chatka je postavená na bývalej priekope, vidno hlbku priekopy za chatkou"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8MuXrrwsVkhOIjm6tDSe3f3mkOTy6LyURH5FfYfV8ksFAG_zEdri7Ota08iPJZZhRKp4dODDRXts8HsZdtiO3XiczDGv3V_DXiGgTpkAVnHT4i9K-z4zTNLCVZ3Sm02y7jWR0C_UMyKg/s0/mf384.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8MuXrrwsVkhOIjm6tDSe3f3mkOTy6LyURH5FfYfV8ksFAG_zEdri7Ota08iPJZZhRKp4dODDRXts8HsZdtiO3XiczDGv3V_DXiGgTpkAVnHT4i9K-z4zTNLCVZ3Sm02y7jWR0C_UMyKg/s1600/mf384.jpg",
+        "filename": "mf384.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8MuXrrwsVkhOIjm6tDSe3f3mkOTy6LyURH5FfYfV8ksFAG_zEdri7Ota08iPJZZhRKp4dODDRXts8HsZdtiO3XiczDGv3V_DXiGgTpkAVnHT4i9K-z4zTNLCVZ3Sm02y7jWR0C_UMyKg/s1600/mf384.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh92YGuFECaLrTZIyn9ghDtOhdHOb9NLBFIys5m0b3-fGBL9LJI_Lt7XIMWhk0yD8kdfCfn9C2T62SMl0WL_zfROmnAz2HPzzvBeo14y1NOta8UdGqCf8AeYz8f3UFwuUcxgno8bjmiA-o/s0/mf622.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh92YGuFECaLrTZIyn9ghDtOhdHOb9NLBFIys5m0b3-fGBL9LJI_Lt7XIMWhk0yD8kdfCfn9C2T62SMl0WL_zfROmnAz2HPzzvBeo14y1NOta8UdGqCf8AeYz8f3UFwuUcxgno8bjmiA-o/s1600/mf622.jpg",
+        "filename": "mf622.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh92YGuFECaLrTZIyn9ghDtOhdHOb9NLBFIys5m0b3-fGBL9LJI_Lt7XIMWhk0yD8kdfCfn9C2T62SMl0WL_zfROmnAz2HPzzvBeo14y1NOta8UdGqCf8AeYz8f3UFwuUcxgno8bjmiA-o/s1600/mf622.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ly9bFOtDOaJJlLZtpgo11gy_5V6b4HfSEXW0Xs2BtzUiXMkr5suXUpmXB1eJwWa8TVbGoH94cy6SFA0rTz5hXIeXc3mHyLaml-62AX-dhF_ofvAIYtSGjmm-2TXmxzgnh7HL1hQC6ZA/s0/1950.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ly9bFOtDOaJJlLZtpgo11gy_5V6b4HfSEXW0Xs2BtzUiXMkr5suXUpmXB1eJwWa8TVbGoH94cy6SFA0rTz5hXIeXc3mHyLaml-62AX-dhF_ofvAIYtSGjmm-2TXmxzgnh7HL1hQC6ZA/s1600/1950.jpg",
+        "filename": "1950.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7ly9bFOtDOaJJlLZtpgo11gy_5V6b4HfSEXW0Xs2BtzUiXMkr5suXUpmXB1eJwWa8TVbGoH94cy6SFA0rTz5hXIeXc3mHyLaml-62AX-dhF_ofvAIYtSGjmm-2TXmxzgnh7HL1hQC6ZA/s1600/1950.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 177,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Hradisko v roku 1950"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguLtUDiN8tqop5vALoBp_PmYBsOCC4vQcQXGanUzYf7Ve5PO5TPQsScz43Tfls4kMQrmp-JcDbbOgXvYkUZbAmNb_uqNCDbmtPenBVtIkk_7znvB4P5sgkmEzbZF7JlT0HISvoXkM8lR8/s0/IMG_1565.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguLtUDiN8tqop5vALoBp_PmYBsOCC4vQcQXGanUzYf7Ve5PO5TPQsScz43Tfls4kMQrmp-JcDbbOgXvYkUZbAmNb_uqNCDbmtPenBVtIkk_7znvB4P5sgkmEzbZF7JlT0HISvoXkM8lR8/s1600/IMG_1565.JPG",
+        "filename": "IMG_1565.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguLtUDiN8tqop5vALoBp_PmYBsOCC4vQcQXGanUzYf7Ve5PO5TPQsScz43Tfls4kMQrmp-JcDbbOgXvYkUZbAmNb_uqNCDbmtPenBVtIkk_7znvB4P5sgkmEzbZF7JlT0HISvoXkM8lR8/s1600/IMG_1565.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwkCugK7KWoP4BCsdaQi8Zk5g19spIqhC61g6wi1jMXvbIGZTRrFihhoQPQ35clRL41yYAw3ZJ-CiyiMUbgMk9kqsPUlrtMNbgm1K4L877cBNSEKbSwF1OQJC7OoUNdj-uCVPr35C4ukk/s0/IMG_1566.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwkCugK7KWoP4BCsdaQi8Zk5g19spIqhC61g6wi1jMXvbIGZTRrFihhoQPQ35clRL41yYAw3ZJ-CiyiMUbgMk9kqsPUlrtMNbgm1K4L877cBNSEKbSwF1OQJC7OoUNdj-uCVPr35C4ukk/s1600/IMG_1566.JPG",
+        "filename": "IMG_1566.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwkCugK7KWoP4BCsdaQi8Zk5g19spIqhC61g6wi1jMXvbIGZTRrFihhoQPQ35clRL41yYAw3ZJ-CiyiMUbgMk9kqsPUlrtMNbgm1K4L877cBNSEKbSwF1OQJC7OoUNdj-uCVPr35C4ukk/s1600/IMG_1566.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLp8XRZP8lEMQY9KFnrR8cJTt5sq6hO-5jaevhkv5Lt-SSeSrjAax97juDkFfRfUiAVqTeGphHO9zHQwafvEZ6RR1kBcZNX45Z86e0z9WuaKI76qBYJ5tWM7iSPoSiAI4XYAl2JUhy_-Y/s0/IMG_1568.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLp8XRZP8lEMQY9KFnrR8cJTt5sq6hO-5jaevhkv5Lt-SSeSrjAax97juDkFfRfUiAVqTeGphHO9zHQwafvEZ6RR1kBcZNX45Z86e0z9WuaKI76qBYJ5tWM7iSPoSiAI4XYAl2JUhy_-Y/s1600/IMG_1568.JPG",
+        "filename": "IMG_1568.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLp8XRZP8lEMQY9KFnrR8cJTt5sq6hO-5jaevhkv5Lt-SSeSrjAax97juDkFfRfUiAVqTeGphHO9zHQwafvEZ6RR1kBcZNX45Z86e0z9WuaKI76qBYJ5tWM7iSPoSiAI4XYAl2JUhy_-Y/s1600/IMG_1568.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5SP1WEOGYXs0-cVVIvNAnsdnR7eHsBd6nK9C9Pu1e7uZpwlqaiCLPh7vvgnFjumeZW0owTBsWsZY-bVyELvZ7AD2WfQI3X7KQcTVAvZy7vaKvy2xlhTIrxdjSLcV7pXgxEsOLu3N2-DM/s0/IMG_1577.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5SP1WEOGYXs0-cVVIvNAnsdnR7eHsBd6nK9C9Pu1e7uZpwlqaiCLPh7vvgnFjumeZW0owTBsWsZY-bVyELvZ7AD2WfQI3X7KQcTVAvZy7vaKvy2xlhTIrxdjSLcV7pXgxEsOLu3N2-DM/s1600/IMG_1577.JPG",
+        "filename": "IMG_1577.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5SP1WEOGYXs0-cVVIvNAnsdnR7eHsBd6nK9C9Pu1e7uZpwlqaiCLPh7vvgnFjumeZW0owTBsWsZY-bVyELvZ7AD2WfQI3X7KQcTVAvZy7vaKvy2xlhTIrxdjSLcV7pXgxEsOLu3N2-DM/s1600/IMG_1577.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH2xQLnpOllsm2oe_9OWWBaNO_ET7vJyxZM5HqBi9OLcZedjMfsDrntnJpJCtQfKP-W5sXTlmgTUU46bX7-KP1pdLmZZmFD8z76Modi6JIoFhkVSfHn1fborvgffR8S9leReF_8Zh_kc0/s0/IMG_1582.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH2xQLnpOllsm2oe_9OWWBaNO_ET7vJyxZM5HqBi9OLcZedjMfsDrntnJpJCtQfKP-W5sXTlmgTUU46bX7-KP1pdLmZZmFD8z76Modi6JIoFhkVSfHn1fborvgffR8S9leReF_8Zh_kc0/s1600/IMG_1582.JPG",
+        "filename": "IMG_1582.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH2xQLnpOllsm2oe_9OWWBaNO_ET7vJyxZM5HqBi9OLcZedjMfsDrntnJpJCtQfKP-W5sXTlmgTUU46bX7-KP1pdLmZZmFD8z76Modi6JIoFhkVSfHn1fborvgffR8S9leReF_8Zh_kc0/s1600/IMG_1582.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrRWh-HFm469YczOW1rYyML8y__jxuxvCiilBsmIOKfxr7JeR6MJNEyvSYHvqkt3DxMajTad7oVyASBBER4iVNr8Xklq2Cq71Ec454qaO_j6Eo5uZWNh2484EnZ9Jqj3hGAqypx5kZWuU/s0/IMG_1594.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrRWh-HFm469YczOW1rYyML8y__jxuxvCiilBsmIOKfxr7JeR6MJNEyvSYHvqkt3DxMajTad7oVyASBBER4iVNr8Xklq2Cq71Ec454qaO_j6Eo5uZWNh2484EnZ9Jqj3hGAqypx5kZWuU/s1600/IMG_1594.JPG",
+        "filename": "IMG_1594.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrRWh-HFm469YczOW1rYyML8y__jxuxvCiilBsmIOKfxr7JeR6MJNEyvSYHvqkt3DxMajTad7oVyASBBER4iVNr8Xklq2Cq71Ec454qaO_j6Eo5uZWNh2484EnZ9Jqj3hGAqypx5kZWuU/s1600/IMG_1594.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Zvolen - Môťová"
+    ],
+    "category": null,
+    "location": {
+      "name": "Zvolen - Môťová, hrádok Priekopa",
+      "latitude": 48.56494,
+      "longitude": 19.137336,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Nad sútokom Slatiny a Neresnice v Môťovej, asi 1 km juhovýchodne od Zvolenského zámku, na severnom úpätí Javoria",
+        "icon": "mountain"
+      },
+      {
+        "label": "Rozmery",
+        "value": "Nepravidelný obdĺžnik max. 165 × 95 m, výmera 9891 m², plocha valu 1886 m²",
+        "icon": "shield"
+      },
+      {
+        "label": "Opevnenie — 1. fáza",
+        "value": "1,60 m široký kamenný múr z nasucho kladeného lomového kameňa (biotitické granolity), na vonkajšej strane hlinitého jadra",
+        "icon": "shield"
+      },
+      {
+        "label": "Opevnenie — 2. fáza",
+        "value": "1,40 m široká komorová konštrukcia s prevlhčeným žltým ílom; šírka valu sa touto prestavbou zdvojnásobila",
+        "icon": "shield"
+      },
+      {
+        "label": "Opevnenie — 3. fáza",
+        "value": "Obvodný kamenný murovaný múr na maltu (šírka 120 cm) nad komorovou konštrukciou, datovaný do 11. storočia",
+        "icon": "building"
+      },
+      {
+        "label": "Priekopa",
+        "value": "Hrotitá, šijovitá, s doloženou hĺbkou 380 cm; súčasná výška valu 290 cm, šírka pri päte 18 m",
+        "icon": "mountain"
+      },
+      {
+        "label": "Súčasný stav",
+        "value": "Zdevastované záhradkárskou osadou od roku 1967 — plató rozparcelované, priekopa čiastočne zasypaná, chatky postavené priamo na hrádku",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "9. storočie",
+        "title": "Vznik hradiska",
+        "description": "Objekt 1/90 datovaný na základe veľkomoravskej keramiky do 9. storočia — hradisko plnilo úlohu lokálneho správneho centra, zrejme aj v pohnutých časoch zániku Veľkej Moravy.",
+        "type": "founding"
+      },
+      {
+        "year": "10. – 11. storočie",
+        "title": "Pokračujúce osídlenie",
+        "description": "Ostatné preskúmané objekty obsahujú keramiku typickú pre toto obdobie.",
+        "type": "event"
+      },
+      {
+        "year": "11. storočie",
+        "title": "Tretia stavebná fáza opevnenia",
+        "description": "Na hlinito-kamenný val postavený v prvej fáze pribudol po obvode kamenný murovaný múr (šírka 120 cm); zánik hrádku sa dáva do súvisu s budovaním župného hradu na Pustom hrade.",
+        "type": "construction"
+      },
+      {
+        "year": "1263",
+        "title": "Listina Bela IV. (mylne priraďovaná)",
+        "description": "Pôvodne sa predpokladalo, že hradisko je doložené v tejto listine, no ukázalo sa, že sa vzťahuje na Hrádok v Lieskovci, nie na Priekopu.",
+        "type": "event"
+      },
+      {
+        "year": "1336",
+        "title": "Zmienka o zemi „Hradík\"",
+        "description": "Správa o predaji dediny Sampor komesovi Ondrejovi spomína časť zeme „Hradík\" pri Zvolene (terre Hradik prope civitatem Zolium), ktorú M. Ďurková spája s hrádkom Priekopa.",
+        "type": "event"
+      },
+      {
+        "year": "30. roky 20. storočia",
+        "title": "Prvé zameranie a amatérske výkopy",
+        "description": "Š. Janšák zameral lokalitu (spolu s J. Eisnerom publikovaná ako Môťovský hrádok); učiteľ Jozef Kabát a profesor Jakub Trnka so žiakmi vykonávali amatérske výkopy.",
+        "type": "discovery"
+      },
+      {
+        "year": "1958",
+        "title": "Zasypanie koryta Slatiny",
+        "description": "Pôvodné 6 m hlboké koryto rieky Slatiny, ktoré poskytovalo prirodzenú ochranu z východnej strany, bolo po tomto roku zasypané.",
+        "type": "destruction"
+      },
+      {
+        "year": "1967",
+        "title": "Pridelenie lokality záhradkárom",
+        "description": "Napriek zápisu do zoznamu chránených pamiatok MsNV pridelil plató hrádku Slovenskému zväzu záhradkárov — porušenie zákona o ochrane kultúrnych pamiatok.",
+        "type": "destruction"
+      },
+      {
+        "year": "1988 – 1990",
+        "title": "Systematický archeologický výskum",
+        "description": "Štyri výskumné sezóny pod vedením Marty Mácelovej odkryli profil valu, dve (neskôr tri) stavebné fázy opevnenia a 12 sídliskových objektov.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výskum včasnostredovekých hradísk na Slovensku a zároveň aj vo Zvolenskej kotline sa spája s menami Štefana Janšáka a Jána Eisnera, ktorí ako prví popísali hrádok Priekopa vo Zvolene, časti Môťová a Š. Janšák ho geodeticky zameral. V novodobej histórii sa výskumu hradiska venovala Marta Mácelová, od ktorej pochádza aj nasledujúci článok, kde zhrnula najdôležitejšie poznatky o hradisku.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výšinné hradisko Priekopa sa vypína nad sútokom Slatiny a Neresnice v miestnej časti Môťová, vextraviláne na parcele č. 1411/4550/4. Leží asi 1 km juhovýchodne od Zvolenského zámku, na severnom úpätí pohoria Javorie. Pôvodný tvar (neporušeného) hradiska spolu s fortifikačnými objektami mal tvar nepravidelného obdĺžnika o max. dĺžke 165 m a šírke 95 m, výmere 9891 m.2 Teleso obranného valu má rozsah plochy 1886 m2. Na južnej strane, kde hradisko dosahovalo svoju max. šírku, bola vybudovaná jeho hlavná obrana. Obranu zabezpečovala hrotitá, šijovitá priekopa. Tesne za ňou, z pohľadu exteriéru sa nachádza sčasti zachovaný deštruovaný obranný drevozemný val (začistená šírka pri päte 14,5 m), ktorého výška v súčasnosti dosahuje 290 cm. "
+              },
+              {
+                "type": "text",
+                "text": "Hradisko zaraďujeme medzi lokálne správne centrá územno-administratívnych celkov (podľa Hulínka), tzn. medzi významnejšie hradiská Veľkej Moravy, pričom úlohu zrejme plnilo aj v pohnutých časoch jej zániku. (pozn. Orgoň)",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlubyCzDEqNoOH6L7pcSGAwYlCGtN-OsvzE7Z8-ZfYWkvCnbRPJT-FyCYseZ8HFKrnekCjoiOO-49QC0yDO7NbZxyG4pFHhopzNKKV054uENFK4AwIrH5w7qV_j5pHaHeUcamy4US4aw/s0/PA123191.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlubyCzDEqNoOH6L7pcSGAwYlCGtN-OsvzE7Z8-ZfYWkvCnbRPJT-FyCYseZ8HFKrnekCjoiOO-49QC0yDO7NbZxyG4pFHhopzNKKV054uENFK4AwIrH5w7qV_j5pHaHeUcamy4US4aw/s1600/PA123191.JPG",
+          "filename": "PA123191.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPlubyCzDEqNoOH6L7pcSGAwYlCGtN-OsvzE7Z8-ZfYWkvCnbRPJT-FyCYseZ8HFKrnekCjoiOO-49QC0yDO7NbZxyG4pFHhopzNKKV054uENFK4AwIrH5w7qV_j5pHaHeUcamy4US4aw/s1600/PA123191.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 216,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "naša umelecká predstava o vzhľade hradiska v 9. storočí - autor Tomáš Humaj",
+        "caption": "naša umelecká predstava o vzhľade hradiska v 9. storočí - autor Tomáš Humaj",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Napriek zápisu archeologickej lokality do ŠZKP, vr. 1967 MsNV určil lokalitu pre účely individuálnej záhradkárskej činnosti a pridelil ju Slovenskému zväzu záhradkárov. Týmto rozhodnutím došlo k porušeniu zákona 5/58 SNR Zb. o ochrane kultúrnych pamiatok. Po neúčinnom zásahu pamiatkových orgánov po roku 1968 bolo plató hrádku rozparcelované a dané do dočasného užívania 19 záhradkárom, ďalšie tri parcely boli vymerané z vonkajšej strany a upravené na záhradky na zasypanej priekope. Záhradkári nedodržiavaním zásad pamiatkovej starostlivosti a ochrany zdevastovali kultúrnu vrstvu vnútorného areálu i časť valového telesa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lokalita je známa od 30. rokov 20. stor., kedy ju zameral Š. Janšák a spolu s J. Eisnerom publikovali ako Môťovský hrádok. Ako hradisko Priekopa ju do literatúry uviedol už Š. Janšák a neskôr aj G. Balaša podľa miestneho názvu, ktorý označuje časť fortifikačného systému lokality. Záujem o lokalitu prejavili už v 30. rokoch 20. stor. odborný učiteľ Jozef Kabát a profesor meštianskej školy vo Zvolene Jakub Trnka, ktorý so svojimi žiakmi podnikal vtedy ešte na nezalesnenej homolovitej vyvýšenine amatérske výkopy. Medzi jeho žiakov patril aj miestny rodák Ján Tuhársky, ktorý výdatne pomáhal radami aj počas systematického výskumu v roku 1990 a upozornil nás na miesta na svojej parcele, kde nachádza pri obrábaní pôdy črepový materiál. Parcelu poskytol na preskúmanie, kde sme na ním vytýčenej ploche našli tri objekty. Profesor J. Trnka črepy z Môťovského hrádku poslal do SNM v Martine a o nálezoch informoval J. Eisnera. V tomto období vydali vtedajšie štátne orgány povolenie k vybudovaniu rómskej osady pod západným svahom hradiska nad Neresníckym potokom. Ako stavebný materiál na jej výstavbu bol použitý kameň z valového telesa, o čom svedčia základy jediného doposiaľ stojaceho domu z rómskej osady. To bol prvý krok k devastácii lokality, ďalšími boli úpravy pri zasýpaní koryta Slatiny a budovaním záhradkárskej osady sa dielo skazy dokončilo.\n \n   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjRE-XI6elaVtoowmHrcTtD3iAkJRa_07Nhp6VBKVUSTQ8vS5nriE-Bl_rEFGSRQTck5_TM9sIhX0MDbGZf8Fxj2itNXY1kgxBbMO7I8CwO5Q3_iXx6jZ92w7OdvJVYpsPlVaBEGHwvk/s0/scan0043.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjRE-XI6elaVtoowmHrcTtD3iAkJRa_07Nhp6VBKVUSTQ8vS5nriE-Bl_rEFGSRQTck5_TM9sIhX0MDbGZf8Fxj2itNXY1kgxBbMO7I8CwO5Q3_iXx6jZ92w7OdvJVYpsPlVaBEGHwvk/s1600/scan0043.jpg",
+          "filename": "scan0043.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjRE-XI6elaVtoowmHrcTtD3iAkJRa_07Nhp6VBKVUSTQ8vS5nriE-Bl_rEFGSRQTck5_TM9sIhX0MDbGZf8Fxj2itNXY1kgxBbMO7I8CwO5Q3_iXx6jZ92w7OdvJVYpsPlVaBEGHwvk/s1600/scan0043.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 245,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Plán hradiska podľa Š. Janšáka",
+        "caption": "Plán hradiska podľa Š. Janšáka",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výskum sa realizoval v štyroch výskumných sezónach na základe odporučení vstupných odborných komisií, resp. odporučení záverečnej komisie po každej výskumnej sezóne. V roku 1988 sa sústredil na začistenie deštrukčného rezu - pravého ramena umelého vstupu do hradiska a odkrytie profilu valu vertikálnym rezom. Tromi sondami na plošine sa zisťovala hrúbka neporušeného kultúrneho horizontu. Úlohou druhej výskumnej sezóny (1989) bolo zistiť konštrukčné postupy pri výstavbe fortifikácie plošným odkryvom a ďalšími sondami sa sledovalo osídlenie vnútorného areálu hradiska. V roku 1990 sa výskum robil vo vnútornom areáli aj na svahoch hrádku. Posledná výskumná sezóna v roku 1990 priniesla čiastkové poznatky o západnej polovici hradiska, kde sa sledoval pôvodný terén so včasnostredovekými objektmi, ktoré boli zakonzervované vyrovnávaním plošiny a náplavami. V budúcnosti sa ešte naskytá reálna šanca zistiť neporušený kultúrny horizont v tejto časti a zároveň dosledovať predpokladaný vstup. Nepochopenie zo strany užívateľov neumožnilo niektoré objekty doskúmať."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXsF73aGx3b-aHHL1EJq07WbR7Nt3bZDPupnRNJuZWg4EMbjPkCyAGJCWKVaLf0SJlOH7DmYq8R3QNwfoz51bVDb4Pk9YVSlOYbAjkWzWTLF6kv4jf3dggfw6M4dlNy7sZb450a491-vxj/s0/Zvrchu.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXsF73aGx3b-aHHL1EJq07WbR7Nt3bZDPupnRNJuZWg4EMbjPkCyAGJCWKVaLf0SJlOH7DmYq8R3QNwfoz51bVDb4Pk9YVSlOYbAjkWzWTLF6kv4jf3dggfw6M4dlNy7sZb450a491-vxj/s1600/Zvrchu.jpg",
+          "filename": "Zvrchu.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXsF73aGx3b-aHHL1EJq07WbR7Nt3bZDPupnRNJuZWg4EMbjPkCyAGJCWKVaLf0SJlOH7DmYq8R3QNwfoz51bVDb4Pk9YVSlOYbAjkWzWTLF6kv4jf3dggfw6M4dlNy7sZb450a491-vxj/s1600/Zvrchu.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 159,
+            "originalWidth": 1600,
+            "originalHeight": 798
+          }
+        },
+        "alt": "Naša 3D rekonštrukcia hradiska (Dwarf digital a hradiska.sk)",
+        "caption": "Naša 3D rekonštrukcia hradiska (Dwarf digital a hradiska.sk)",
+        "position": "left",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Fortifikačný systém"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Môťovské hradisko svojou veľkosťou patrí k menším opevneným sídliskám s rozlohou 9891 m2. Prírodný útvar nazývaný obtočník, výrazný ostroh na ktorom bolo vybudované hradisko, je situovaný nad sútokom Slatiny a Neresnice. Prírodnú ochranu na východnej strane zabezpečoval strmý zráz a hlboké koryto rieky Slatiny, ktoré bolo zasypané až po roku 1958. Zo západnej strany ho obmýval potok Neresnica. Koryto Slatiny pred úpravou dosahovalo hĺbku cca 6 m. Na južnej strane, ktorá leží na severnej strane pohoria Javorie a nebola chránená, vybudovali mohutný fortifikačný systém, pozostávajúci z kamenného a hlinito-dreveného valu a priekopy. Súčasná výška šijovitého valu je 290 cm a celková šírka pri päte valu je 18 m."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V rokoch 1988 - 1989 sa výskum zameral na začistenie umelého vstupu na hradisko vertikálnym rezom, čím sa získal jeho profil. V odkrytom profile sa zistili dve fázy výstavby."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V prvej fáze bol vybudovaný 1,60 m široký čelný kamenný múr bez maltového pojiva z vonkajšej strany hlinitého jadra. Materiál jadra sa zhoduje s materiálom, z ktorého sú aj svahy južne od lokality. Kamenný múr bol vybudovaný zlomového, nasucho kladeného kameňa - biolitických granolitov. Najbližší zdroj typovo blízkej horniny pochádza zlomu vo Zvolene, miestnej časti Lieskovec. Múr z nasucho kladených kameňov chránil hradisko po celom obvode. Pri stavbe tejto fázy fortifikácie sa okrem lomového kameňa pravdepodobne použili aj okruhliaky z pyroxenických andezitov z rieky Hron. Dochovaná výška múru je dnes 1,20 m, šírka kamenno-hlinitého valu bola okolo 4 m.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Druhú fázu výstavby opevnenia tvorí val s komorovými konštrukciami, čím sa zdvojnásobila jeho šírka. Na deštrukcii vonkajšej strany múru z nasucho kladených kameňov bola vybudovaná 1,40 m široká komorová konštrukcia s prevlhčeným pieskovo-žltým ílom. Ten po uschnutí stvrdol. Zistili sa i spálené zvyšky kolovej konštrukcie komory. Po oboch stranách sú viditeľné stopy sekundárne prepálených kolov priemeru 8 cm, ktoré majú sivočiernu až tehlovočervenú farbu. Steny komory boli vypletené štiepaným drevom, konármi a prútím, ktoré sa zachovali ako odtlačky v mazanici. Na vonkajšej časti komoru stabilizovala berma. Základ komôr tvorili horizontálne uložené brvná, ktoré sú dobre viditeľné v profile. Tieto sa stabilizovali vertikálnymi kolmi vo vzdialenosti 40 cm od seba, zafixované boli veľkými kameňmi. Ďalšie konštrukčné prvky použité pri výstavbe sa nezistili. Vo vnútornej polovici valu, vzhľadom na šírku deštrukcie, predpokladáme existenciu najmenej dvoch komôr (mohutná drevená konštrukcia s nabitou hlinou). Tento predpoklad však výskum 100 % nepotvrdil.\n \n Fotodokumentácia z výskumu a popis k nej od Dr. Mácelovej (za poskytnutie týchto materiálov pre našu stránku ďakujeme):\n   \n   \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2HfTEzjeu0cu0TMfXgt198cpnTCrXelDfttSJtxfGJLT-CL-vcDVjlJbZM4Tmb80OjruLBwWBuxG3CS4YBtEX_fJyuNOSG5U5zh75XfepVU4vdkefZc5_YVawyMRcXID099OsE49Duk/s0/mf344.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2HfTEzjeu0cu0TMfXgt198cpnTCrXelDfttSJtxfGJLT-CL-vcDVjlJbZM4Tmb80OjruLBwWBuxG3CS4YBtEX_fJyuNOSG5U5zh75XfepVU4vdkefZc5_YVawyMRcXID099OsE49Duk/s1600/mf344.jpg",
+          "filename": "mf344.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2HfTEzjeu0cu0TMfXgt198cpnTCrXelDfttSJtxfGJLT-CL-vcDVjlJbZM4Tmb80OjruLBwWBuxG3CS4YBtEX_fJyuNOSG5U5zh75XfepVU4vdkefZc5_YVawyMRcXID099OsE49Duk/s1600/mf344.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Zvolen - Môťová,  hrádok Priekopa",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Domnievame sa, že pri výstavbe strednej časti valu sa spotrebovalo veľa dreva, pretože výplň komôr tvorila hrudkovitá, tehlovočervená prepálená hlina. V spodnej časti bola nad horizontálne kladenými brvnami jedna vrstva andezitových kameňov, ktorá zrejme súvisela s konštrukciou základu komôr. Pri korune valu v hrúbke 80 - 100 cm sa zistili mohutné bloky spečenej prepálenej hliny premiešanej andezitmi a vápencami. Andezity pochádzajú z neďalekej Neresnickej doliny, biele uhličitanové horniny pripomínajú vypálené hasené vápno. Na pretavených zvyškoch sú odtlačené zvyšky dreva. Troskovitá spečenina vznikla pravdepodobne za prispenia veľkého množstva dreva a mohutným požiarom a to drevenej palisády a komorovej konštrukcie vo vnútri valu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Odkryvom vonkajšej polovice valu v juhozápadnej časti v bývalej cigánskej kolónii sa potvrdila rovnaká stavebná technika valu. Fortifikácia s komorovými prepálenými vrstvami bola potvrdená v severozápadnej časti hrádku suťovým zásypom. Po celej východnej strane chýbajú dôkazy o existencii komorovej konštrukcie. Sondou vytýčenou v juhovýchodnej časti v extraviláne sa potvrdila pravdepodobná hĺbka priekopy - 380 cm. Väčšia časť bývalej priekopy bola zasypaná v súvislosti s prerazením prístupovej cesty na hrádok."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU-chnUYTND2J_gRQKJ693XCCpbcF_4gSSOVKzxiT7Zm7uZPCslKNxwI7sprbXhDkekwHh-IZgO22vB00ICF4XpqUQi1KOdapS4BbmKaZUJP3yUokDZoOpt7vA-nOjrWeUnxOBavxrCCk/s0/Motova_rez+valom.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU-chnUYTND2J_gRQKJ693XCCpbcF_4gSSOVKzxiT7Zm7uZPCslKNxwI7sprbXhDkekwHh-IZgO22vB00ICF4XpqUQi1KOdapS4BbmKaZUJP3yUokDZoOpt7vA-nOjrWeUnxOBavxrCCk/s1600/Motova_rez+valom.JPG",
+          "filename": "Motova_rez+valom.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU-chnUYTND2J_gRQKJ693XCCpbcF_4gSSOVKzxiT7Zm7uZPCslKNxwI7sprbXhDkekwHh-IZgO22vB00ICF4XpqUQi1KOdapS4BbmKaZUJP3yUokDZoOpt7vA-nOjrWeUnxOBavxrCCk/s1600/Motova_rez+valom.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 209,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Motova rez valom – veľké lomové kamene pochádzajú z 1. Fázy opevnenia. Na ich deštrukcii je vonkajšia komora, zosilnená bermou – časť je viditeľná úplne vpravo",
+        "caption": "Motova rez valom – veľké lomové kamene pochádzajú z 1. Fázy opevnenia. Na ich deštrukcii je vonkajšia komora, zosilnená bermou – časť je viditeľná úplne vpravo",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sledovaním fortifikácie v severovýchodnej časti hrádku sondou a v juhovýchodnej časti sondou sa potvrdila existencia tretej stavebnej fázy, keď na hlinito-kamenný val postavený v prvej fáze, bol po obvode postavený kamenný murovaný. Na vonkajšej polovici valu nad komorovou konštrukciou bol zistený 60 cm hlboký zachovalý obvodný kamenný múr, murovaný na maltu. Šírka muriva je 120 cm. Táto tretia stavebná fáza na južnej strane nebola zistená. Nebola preukázaná ani na juhozápadnej strane, nakoľko po korune valu vedie v súčasnosti drôtené oplotenie záhradkárskej osady. Nevieme zodpovedať otázku, či toto opevnenie bolo dokončené, pre jeho datovanie chýba oporný materiál. Chýbajú aj relevantné doklady o prepojení poslednej fázy opevnenia s najmladším horizontom keramiky z 11. stor. Zánikový horizont neveľkého hrádku s mohutnou fortifikáciou dávame do súvisu s budovaním väčšieho centra formujúcej sa hradskej správy, budovaním župného hradu na Pustom hrade. Po ukončení výskumu bol profil valu zakonzervovaný obložením brvnami a nahrnutím 20 m2 zeminy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B48oS7ebNGIZ9nRAwXLgXgUjK7ReRJXm9fn3e2NrXziP-2Z2w5tgaKS3u06txTPJPBDJzwjzisXXp-ROQLRddyowgNP18jAxi-ve48uegtgKYkMGdWuLljJf-7jftWedx76R9q_-f6A/s0/M%C3%B4%C5%A5_2.bmp",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B48oS7ebNGIZ9nRAwXLgXgUjK7ReRJXm9fn3e2NrXziP-2Z2w5tgaKS3u06txTPJPBDJzwjzisXXp-ROQLRddyowgNP18jAxi-ve48uegtgKYkMGdWuLljJf-7jftWedx76R9q_-f6A/s1600/M%C3%B4%C5%A5_2.bmp",
+          "filename": "Môť_2.bmp",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8B48oS7ebNGIZ9nRAwXLgXgUjK7ReRJXm9fn3e2NrXziP-2Z2w5tgaKS3u06txTPJPBDJzwjzisXXp-ROQLRddyowgNP18jAxi-ve48uegtgKYkMGdWuLljJf-7jftWedx76R9q_-f6A/s1600/M%C3%B4%C5%A5_2.bmp",
+            "displayedWidth": 320,
+            "displayedHeight": 229,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "deštrukcia kamenného valu, vľavo hlinené ílovité jadro, vpravo prepálená vonkajšia komora a česť bermy",
+        "caption": "deštrukcia kamenného valu, vľavo hlinené ílovité jadro, vpravo prepálená vonkajšia komora a česť bermy",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Sídliskové objekty"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výskum vo vnútri areálu sa realizoval štrnástimi sondami, v ktorých bolo zistených 12 objektov, resp. ich častí. Rozloženie sond bolo determinované súčasným stavom výsadby stromov, kríkov a iného porastu, tiež existujúcimi stavbami v areáli. Kultúrny horizont bol veľmi porušený a v dôsledku 20 rokov trvajúcich zásahov doň dočasnými užívateľmi sa pravdepodobne väčšia časť materiálnej kultúry nachádzajúcej sa na východnej polovici areálu znehodnotila."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Vyhodnotenie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Priamy datovací materiál k jednotlivým fázam výstavby fortifikácie sme výskumom nezískali. Vchod do hradiska, ktorý sa predpokladá na západnej strane, sa v odkrytej sonde IV/90 nepotvrdil, nakoľko práve na západnej strane došlo k najväčšiemu vyrovnávaniu terénu pri zakladaní záhradkárskej osady. Počas štyroch výskumných sezón sa vo vnútornom areáli hradiska preskúmalo 12 objektov, ktoré boli viac-menej porušené zásahmi záhradkárov do kultúrneho horizontu. Jeden objekt (1/90) je na základe veľkomoravskej keramiky datovaný do 9. stor., v ostatných objektoch bola keramika typická pre 10. -11. stor."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYz5EF87zJg7sJzrBA3JJYlLEwcoohPp8Kcq4jyDJHqbXSuMauC_kP9KTg4dZBFF4VuBIZn4RE_efqbDy-7b3ci5LzneTot84SlWcERNUxxKSCfW_4fsk88HUjdcVvr_dIPa-5kKFh0o/s0/M%C3%B4%C5%A5ov%C3%A10010.bmp",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYz5EF87zJg7sJzrBA3JJYlLEwcoohPp8Kcq4jyDJHqbXSuMauC_kP9KTg4dZBFF4VuBIZn4RE_efqbDy-7b3ci5LzneTot84SlWcERNUxxKSCfW_4fsk88HUjdcVvr_dIPa-5kKFh0o/s1600/M%C3%B4%C5%A5ov%C3%A10010.bmp",
+          "filename": "Môťová0010.bmp",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYz5EF87zJg7sJzrBA3JJYlLEwcoohPp8Kcq4jyDJHqbXSuMauC_kP9KTg4dZBFF4VuBIZn4RE_efqbDy-7b3ci5LzneTot84SlWcERNUxxKSCfW_4fsk88HUjdcVvr_dIPa-5kKFh0o/s1600/M%C3%B4%C5%A5ov%C3%A10010.bmp",
+            "displayedWidth": 320,
+            "displayedHeight": 212,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "val rezaný v juhových. časti, pekne vidieť prvú fázu výstavby opevnenia z lomového kameňa a na jej deštrukcii prepálenú vrstvu komory s kolom",
+        "caption": "val rezaný v juhových. časti, pekne vidieť prvú fázu výstavby opevnenia z lomového kameňa a na jej deštrukcii prepálenú vrstvu komory s kolom",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pôvodne autorkou práce publikovaný názor, že hradisko je písomne doložené v listine Bela IV. z roku 1263, ktorou vracia obyvateľom Zvolena pôdu zabratú zvolenským županom sa nevzťahuje na hrádok Priekopa, ale na Hrádok v Lieskovci. Z roku 1336 sa v správe o predaji dediny Sampor dobronivskému podkastelánovi komesovi Ondrejovi spomína časť zeme „Hradík\" pri Zvolene (terre Hradik prope civitatem Zolium), ktorý M. Ďurková spája s hrádkom Priekopa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "K hradisku Môťová sa vzťahuje zaujímavá povesť z 10. storočia -"
+              },
+              {
+                "type": "link",
+                "url": "http://slovanske-hradiska.blogspot.com/search/label/S%C3%BAmrak%20Ve%C4%BEkej%20Moravy%20-%20poves%C5%A5%20z%2010.%20storo%C4%8Dia",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Súmrak Veľkej Moravy"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n \n Súčasný stav hradiska: Typicky Slovenský. Hradisko nie je nijako označené, informačná tabuľa ktorá sa nachádza vo vstupnej bráne slúži na mnoho vecí, len nie na informovanie o hradisku, oplotené, zatvorená brána. Zahradkárom prajem veľa bezstarostných chvíľ v sladkej nevedomosti."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaxkAdgjEvHS8kNGt8tUfRdk-lyihcUsp1dX8GdOaN4lOx3uK24aLUYoKpeWsXauuHasJ-cDupK78n9iUmY-GkBMHq4ihMBeLZNIn0nLm2AqmFApmJFB_Kbyyq2cERB2WXEm11Zaq5KMA/s0/ZV_Mot0014_1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaxkAdgjEvHS8kNGt8tUfRdk-lyihcUsp1dX8GdOaN4lOx3uK24aLUYoKpeWsXauuHasJ-cDupK78n9iUmY-GkBMHq4ihMBeLZNIn0nLm2AqmFApmJFB_Kbyyq2cERB2WXEm11Zaq5KMA/s1600/ZV_Mot0014_1.jpg",
+          "filename": "ZV_Mot0014_1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaxkAdgjEvHS8kNGt8tUfRdk-lyihcUsp1dX8GdOaN4lOx3uK24aLUYoKpeWsXauuHasJ-cDupK78n9iUmY-GkBMHq4ihMBeLZNIn0nLm2AqmFApmJFB_Kbyyq2cERB2WXEm11Zaq5KMA/s1600/ZV_Mot0014_1.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 216,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "záhradkárska chatka je postavená na bývalej priekope, vidno hlbku priekopy za chatkou",
+        "caption": "záhradkárska chatka je postavená na bývalej priekope, vidno hlbku priekopy za chatkou",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Spracoval: Orgoň",
+            "url": null
+          },
+          {
+            "text": "Článok bol prevzatý z publikácie:",
+            "url": null
+          },
+          {
+            "text": "http://www.fhv.umb.sk/app/user.php?ACTION=PUBLICATION&user=macelova",
+            "url": "http://www.fhv.umb.sk/app/user.php?ACTION=PUBLICATION&user=macelova"
+          },
+          {
+            "text": "Marta Mácelová : Slovanské osídlenie v období od 6. do 12. storočia in Osídlenie Zvolenskej kotliny od včasného stredoveku do polovice 19. storočia, Banská Bystrica 2009 Celú publikáciu nájdete vo formáte PDF na adrese:",
+            "url": null
+          },
+          {
+            "text": "http://jupiter.elte.hu/terkep+lista2.php",
+            "url": "http://jupiter.elte.hu/terkep+lista2.php"
+          },
+          {
+            "text": "Obrázky prevzaté zo zaujímavej stránky:",
+            "url": null
+          },
+          {
+            "text": "Foto:",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "attribution",
+        "text": "Článok bol prevzatý z publikácie:"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.fhv.umb.sk/app/user.php?ACTION=PUBLICATION&user=macelova",
+        "title": "http://www.fhv.umb.sk/app/user.php?ACTION=PUBLICATION&user=macelova"
+      },
+      {
+        "type": "book",
+        "text": "Marta Mácelová : Slovanské osídlenie v období od 6. do 12. storočia in Osídlenie Zvolenskej kotliny od včasného stredoveku do polovice 19. storočia, Banská Bystrica 2009 Celú publikáciu nájdete vo formáte PDF na adrese:"
+      },
+      {
+        "type": "external-url",
+        "url": "http://jupiter.elte.hu/terkep+lista2.php",
+        "title": "http://jupiter.elte.hu/terkep+lista2.php"
+      },
+      {
+        "type": "attribution",
+        "text": "Obrázky prevzaté zo zaujímavej stránky:"
+      },
+      {
+        "type": "attribution",
+        "text": "Foto:"
+      }
+    ]
+  }
+}
