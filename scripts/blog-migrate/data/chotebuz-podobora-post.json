@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Chot%C4%9Bbuz+-+Podobora+%28CZ%29?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Chot%C4%9Bbuz%20-%20Podobora%20%28CZ%29"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-3266288756468240485"
+        },
+        "published": {
+          "$t": "2012-07-17T20:07:00.000+02:00"
+        },
+        "updated": {
+          "$t": "2014-03-16T09:26:17.754+01:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Chotěbuz - Podobora (CZ)"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Chotěbuz - Podobora"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<br />\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nHradisko Chotěbuz – Podobora je vzdialené asi 2 km severovýchodne od stredu obce v priestore Těšínskej pahorkatiny a leží v nadmorskej výške cca 275 metrov nad morom, na ostrožine vymedzenej na západe žľabom s potokom, na avšak z väčšej časti jeho okraj tvorí strmý zráz. V tejto časti tiekla v minulosti rieka Olša a v jej blízkosti bol brod, ktorý bol strážený práve hradiskom. Hradisko sa tu vypína do výšky až 20 metrov nad okolitý terén, a teda bolo veľmi dobre strategicky umiestnené. </div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\n<iframe frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;ll=49.788042,18.58964&amp;spn=0.001212,0.00228&amp;z=18&amp;output=embed\" width=\"425\"></iframe><br />\n<small><a href=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;ll=49.788042,18.58964&amp;spn=0.001212,0.00228&amp;z=18&amp;source=embed\" style=\"color: blue; text-align: left;\">Zväčšiť mapu</a></small> </div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nHradisko zohrávalo veľmi dôležitú úlohu už v čase lužickej kultúry, neskôr bolo osídlené v halštatskom období, ale najvýznamnejšie osídlenie tu badať v dobe slovanskej, kedy bolo postavené mohutné opevnenie predovšetkým na akropole hradiska. Keď sa neskôr sídlom tešínskeho kniežaťa stal tešínsky hrad a v jeho podhradí vyrástlo mesto Tešín, bolo hradisko na mnoho storočí opustené. Prvé zmienky o archeologických nálezoch z hradiska pochádzajú z 19. storočia. Neskôr sa hradisko stalo miestom systematického archeologického výskumu. </div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUR_m3ynn8vY1lLDexR4-7GLVtt4gBSp5hNkKe8vZWz4xO_fa77bvx-5ebqwVvJrmtmkSzwaWubaKT3QDPBTRsMahooMD_2vDH9d7GPnAYALBst0egJTgSU2DPyazlxeitEbfIL6dWI0/s1600/IMG_1301.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUR_m3ynn8vY1lLDexR4-7GLVtt4gBSp5hNkKe8vZWz4xO_fa77bvx-5ebqwVvJrmtmkSzwaWubaKT3QDPBTRsMahooMD_2vDH9d7GPnAYALBst0egJTgSU2DPyazlxeitEbfIL6dWI0/s320/IMG_1301.JPG\" height=\"213\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Ráčte vstúpiť ...</td></tr>\n</tbody></table>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nHradisko vzniklo ako jedno z opevnených sídlisk umiestnených pozdĺž obchodnej cesty, spájajúcej cez Moravskú bránu sever s juhom Európy. Po radu storočí tvorilo významné sídlo obrany tejto kupeckej cesty, a tiež miesto obchodu a opevnené sídlo pre svojich obyvateľov. Zaniklo až so vznikom hradu v Těšíne. Preto sa mu tiež často hovorí Starý Tešín. </div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn90h14Kq9mvsCUSI0TgdwlbgOiPmXZWDdP1eIewW-FG8s0S7GF7QJfRDNP6L15HHRnHoHp3rhVzUrBNh7dNhebAxw3CKDQtEVfEbq9mdA72QRtCgNcxVFIY5qjCh8oh1RUkAhyFlV_nY/s1600/IMG_1153.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn90h14Kq9mvsCUSI0TgdwlbgOiPmXZWDdP1eIewW-FG8s0S7GF7QJfRDNP6L15HHRnHoHp3rhVzUrBNh7dNhebAxw3CKDQtEVfEbq9mdA72QRtCgNcxVFIY5qjCh8oh1RUkAhyFlV_nY/s320/IMG_1153.JPG\" height=\"213\" width=\"320\" /></a></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nCelková dĺžka hradiska je asi 400 m šírka asi 110 m, vnútorná rozloha dňu 1,8 ha. Hradisko sa skladá z troch častí: akropola, prvé a druhé predhradie. Najvýraznejšie bola opevnená akropola a prvé predhradie. Opevnenie druhého predhradia nebolo dokončené a je tiež v teréne menej viditeľné. Východná strana hradiska bola poznamenaná zosuvmi pôdy. Pravdepodobne bola ohradená iba ľahkou palisádou, pretože prirodzenú ochranu tu poskytovala rieka Olša pretekajúca priamo pod hradiskom a pravdepodobne aj potok na západnej strane, na ktorého koryto nadväzuje priekopa prvého predhradia. </div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitPcbxEVjr3nrRKtU3iEOPzm_Etx4EJt4aNo2MjOq6NjiNeyeHERLwz7iyLWASM68to2_chlld2ZIVG59cbroHMoZ7STYoHPW2u0uola1yS6rswxq2zLr0r-htD83Dm5wjGuk66NNqzO8/s1600/Mapka+2.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitPcbxEVjr3nrRKtU3iEOPzm_Etx4EJt4aNo2MjOq6NjiNeyeHERLwz7iyLWASM68to2_chlld2ZIVG59cbroHMoZ7STYoHPW2u0uola1yS6rswxq2zLr0r-htD83Dm5wjGuk66NNqzO8/s320/Mapka+2.jpg\" height=\"207\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Plán hradiska s vyznačenými &nbsp;sondami pri výskume</td></tr>\n</tbody></table>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\nHalštatské obdobie</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nAko už bolo naznačené, hradisko bolo osídlené najskôr ľudom lužickej kultúry v neskorej dobe bronzovej a neskôr v staršej dobe železnej (halštatská kultúra). V Halštatskom období bola osídlená akropola a z tohto obdobia sa tu našli pozostatky po kolových obydliach, zásobnicové jamy, keramika a rôzne iné nélezy. Predhradia zrejme v tej dobe netvorili súčasť hradiska. Hradisko bolo v dobe halštatskej niekoľkokrát napadnuté nepriateľmi, pričom v 5. storočí pred našim letopočtom bolo hradisko zničené a život sa medzi jeho hradby vrátila až v čase po príchode Slovanov.</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZDdVDaiu9PfOierQrYWU16mNYj1PHFnCXbuTkdoStN5toG8NSXKja6qRAxPMG2MLM4BHNz7imBH1K9NvsNRFyuuP26vSJSesriJS-hnPqCWJSp3lNG8-OBYNHQ5AcdslGBREiTMC6e6U/s1600/IMG_1148.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZDdVDaiu9PfOierQrYWU16mNYj1PHFnCXbuTkdoStN5toG8NSXKja6qRAxPMG2MLM4BHNz7imBH1K9NvsNRFyuuP26vSJSesriJS-hnPqCWJSp3lNG8-OBYNHQ5AcdslGBREiTMC6e6U/s320/IMG_1148.JPG\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX1LlGtUn39yVyMrUeXSfm7friKbL9HFWPuvZv6Ki3T9Y0dtZqWWE-uTXIRvrZgZNnModVBBmfEbaIk8vzSLppv5qPQWZnSaPm9Dlgb1I8zb9ax_FQLLBiWcyP0KhpC8dl8oPI_kYu4nw/s1600/IMG_1143.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX1LlGtUn39yVyMrUeXSfm7friKbL9HFWPuvZv6Ki3T9Y0dtZqWWE-uTXIRvrZgZNnModVBBmfEbaIk8vzSLppv5qPQWZnSaPm9Dlgb1I8zb9ax_FQLLBiWcyP0KhpC8dl8oPI_kYu4nw/s320/IMG_1143.JPG\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCc-sNk_gbVSyklFOhbwVR7qx63J_yQO4eJLSFpSN0wC0pUdaU67Xtj0s9rmiYQT5tUQ6RQn3kTL1u-a1_iN-NuhUOeJiVe_qNZhqUBYPKTCJS1Ug9N-anHbdeoCdLvWZ59dRTMBO1k4o/s1600/IMG_1178.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCc-sNk_gbVSyklFOhbwVR7qx63J_yQO4eJLSFpSN0wC0pUdaU67Xtj0s9rmiYQT5tUQ6RQn3kTL1u-a1_iN-NuhUOeJiVe_qNZhqUBYPKTCJS1Ug9N-anHbdeoCdLvWZ59dRTMBO1k4o/s320/IMG_1178.JPG\" height=\"213\" width=\"320\" /></a></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\nSlovanské obdobie</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nV 2. polovici 8. storočia prišlo do priestoru hradiska slovanské obyvateľstvo a vtedy sa v ňom opäť naplno rozvinul život. Slovania znovu postavili opevnenie na akropole a vybudovali aj opevnenie oboch predhradí.</div>\n<div style=\"margin-bottom: 0in;\">\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX4UCOqSiRwyl2xnL8GXJ74vwY1R81h7oT58iaJt9m2qZtHBJQIgEE2wmEiJrliiRc5Hsu3V5-vMJLexGEnFXn7RzcVdFbxPkIh-n_AIkiGR6m28lpc_iWiDy1xldxNhLj0pLpgwG2_Bs/s1600/IMG_1175.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX4UCOqSiRwyl2xnL8GXJ74vwY1R81h7oT58iaJt9m2qZtHBJQIgEE2wmEiJrliiRc5Hsu3V5-vMJLexGEnFXn7RzcVdFbxPkIh-n_AIkiGR6m28lpc_iWiDy1xldxNhLj0pLpgwG2_Bs/s320/IMG_1175.JPG\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK2i2QLnoI_kAha4jfcIA0p7XdTVlKQbch0Mq4b_PSa7tu6STS1rpqzm3VqW8adeFyZVwUSdWlb8jaK9mO4spdh8dxJCd9q_S9mbaDloZzCxDkCQBVFihOn69MthROg4Uyf8JcBAumv_M/s1600/IMG_1176.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK2i2QLnoI_kAha4jfcIA0p7XdTVlKQbch0Mq4b_PSa7tu6STS1rpqzm3VqW8adeFyZVwUSdWlb8jaK9mO4spdh8dxJCd9q_S9mbaDloZzCxDkCQBVFihOn69MthROg4Uyf8JcBAumv_M/s320/IMG_1176.JPG\" height=\"213\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pece &nbsp;a žarnovy</td></tr>\n</tbody></table>\n<br />\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\nOpevnenie</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nAkropole v tej dobe jednoznačné dominoval mohutný val ohraničujúci jej južnú časť, pred ktorým bola ešte výrazná hrotitá priekopa. Pôvodne bola na vrchole valu drevená hradba komorovej konštrukcie, ktorá využívala starší halštatský val a bola vyplnená zeminou. Čelná stena hradby bola omazaná ílom, ktorý mal zabrániť prípadnému požiaru. Vstup na Akropolu cez val zaisťovala brána spojená s prvý predhradím pravdepodobné mostíkom. Zvyšok akropoly bol prírodnými podmienkami chránený natoľko dostatočne (strmý zráz na ktorom nerástli žiadne stromy a rieka po jeho stranách), že nebolo treba ho výraznejšie opevňovať. Ochranu tu zaisťoval pravdepodobne palisádový plot. Samotná akropola však nemohla pojať početnejšie slovanský ľud, a preto boli postupne k akropole pričlenené ešte dve predhradia, hoci opevnenie druhého nebolo úplne dokončené. Každá časť bola samostatne opevnená priekopami a valmi. Priekopy mali hrotitý tvar. Valy na prvom a druhom predhradí boli bez vnútornej konštrukcie, na akropole ako už bolo spomenuté stála na temene staršieho valu drevená nadstavba o šírke 4-5 m a na prvom predhradí bol násyp spevnený z vnútornej aj vonkajšej strany palisádou, tvorenou 20-40 cm hrubými kolmi z jedľového, v menšej miere z dubového dreva. Aj táto stena bola omazaná ílom, ktorý mal brániť prípadnému požiaru. Priekopa prvého predhradia je široká 15-17 m a na severozápade prechádza plynule do prírodnej strže. Vznikla zrejme v 8. až 9. storočí. Tiež Druhé predhradie bolo opevnené valom a priekopou s dĺžkou 150 m Na rozdiel od predošlých dvoch častí hradiska je opevnenie druhého predhradia pomernej nevýrazné v teréne a tiahne sa od valu a priekopy prvého predhradia miernym oblúkom ku zrázu nad vodným tokom. Toto opevnenie zrejme vzniklo v staršej fáze slovanského osídlenia.</div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUw4FaiMoZ12YuIT6vKG7zGgaKrbgYTNLsz8gueYnWW5_dl2bwdw9LAmT9zTpXj8yoP0hSHenQgKuxmConbsWf30eG6ulMEkHdcU7gJbCXTo4y1hVJYSyIGpCVOTQdrr6yXTTfhpnCG0U/s1600/IMG_1393.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUw4FaiMoZ12YuIT6vKG7zGgaKrbgYTNLsz8gueYnWW5_dl2bwdw9LAmT9zTpXj8yoP0hSHenQgKuxmConbsWf30eG6ulMEkHdcU7gJbCXTo4y1hVJYSyIGpCVOTQdrr6yXTTfhpnCG0U/s320/IMG_1393.JPG\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9r4z7il-IOHyR8UBsFUgJDO8Cb8oILxMXsqzND-o9s4ljron5qec0wTKjD-zkLrBa_DfsFic8FQYFeWMARA3V818dUw5QanaDGeBRoYSXJKgebv9biMGJGsZNUQklU8QeKONWv-VFXKg/s1600/IMG_1368.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9r4z7il-IOHyR8UBsFUgJDO8Cb8oILxMXsqzND-o9s4ljron5qec0wTKjD-zkLrBa_DfsFic8FQYFeWMARA3V818dUw5QanaDGeBRoYSXJKgebv9biMGJGsZNUQklU8QeKONWv-VFXKg/s320/IMG_1368.JPG\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7BIh2pQFbtL9pfdrOl_p-w9KTz6HFiuUgCvGr_vsK70D2R-ByDrOaFWREFmhPs40mUq7YlcDuLsqEoJuDHO9lzXBBAngT-bHC2j9UYYxHMVVkul0UCwChMzscp9c05JY96JXNDpFk6ZM/s1600/IMG_1370.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7BIh2pQFbtL9pfdrOl_p-w9KTz6HFiuUgCvGr_vsK70D2R-ByDrOaFWREFmhPs40mUq7YlcDuLsqEoJuDHO9lzXBBAngT-bHC2j9UYYxHMVVkul0UCwChMzscp9c05JY96JXNDpFk6ZM/s320/IMG_1370.JPG\" height=\"320\" width=\"213\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Vynikajúco zrekonštruovaná veža ...</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghxyJe72Kp8ffgnBLj9NH0KdCe3wCL6tDmMiltX5-Wya3tL5nrfyPdagvpG7iXEVa8R0PMES_g8KXx7Mc41goWQW8ckLkP3tYagYT_4trYCPMevQuB-SZKHCadIDj_-mmyH1jRyT5NeKA/s1600/IMG_1372.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghxyJe72Kp8ffgnBLj9NH0KdCe3wCL6tDmMiltX5-Wya3tL5nrfyPdagvpG7iXEVa8R0PMES_g8KXx7Mc41goWQW8ckLkP3tYagYT_4trYCPMevQuB-SZKHCadIDj_-mmyH1jRyT5NeKA/s320/IMG_1372.JPG\" height=\"213\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">A komorová hradba</td></tr>\n</tbody></table>\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Vnútorná zástavba hradiska</b></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nMedzi sídliskové aktivity slovanského obdobia radíme najmä obytné, výrobné, ekonomické či kultové stavby. Slovania pokryli plochu akropoly a čiastočne i prvého predhradia vrstvou štrku, ktorá mala vyrovnať terénne nerovnosti spôsobené predchádzajúcim osídlením a zároveň fungovala ako vrstva drenážne (zaisťovala odvod vody, aby na hradisku v dobe dlhších dažďov nebola vrstva blata a ílu). Táto štrková vrstva však spôsobila, že dnes nie je možné archeologicky zachytiť pozostatky stavieb stojacich na povrchu tejto vrstvy. U objektov zahĺbených zachytávame iba ich najspodnejšej časti zahĺbené do staršej halštatskej vrstvy.<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-dGI2tvTv60N6pxdapaKJgEyYo7WS1fjJwxJ_GpyLQH0XEsANXZh1XHGpeCLykM_C0r0-gXRne_fdSLUz6wuaXlJeoiFUwUzv3d-Mh6I_FOdF7TjXtQFTPWkUlVK6F_go5_Za7h4Wgc0/s1600/IMG_1374.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-dGI2tvTv60N6pxdapaKJgEyYo7WS1fjJwxJ_GpyLQH0XEsANXZh1XHGpeCLykM_C0r0-gXRne_fdSLUz6wuaXlJeoiFUwUzv3d-Mh6I_FOdF7TjXtQFTPWkUlVK6F_go5_Za7h4Wgc0/s320/IMG_1374.JPG\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVSrcqSwb7VRyvutO0oLg_2dV42VQV64AwPAH19mV3DELY0hLPWeUf9mdRHyv9bOeBhA7MAEd8S1XSgPN043grqGfbXbCCkjZs4NPy0nMiQzV3yczI0umYNZzqEtOxG0RQ7Pxf8M2WD08/s1600/IMG_1209.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVSrcqSwb7VRyvutO0oLg_2dV42VQV64AwPAH19mV3DELY0hLPWeUf9mdRHyv9bOeBhA7MAEd8S1XSgPN043grqGfbXbCCkjZs4NPy0nMiQzV3yczI0umYNZzqEtOxG0RQ7Pxf8M2WD08/s320/IMG_1209.JPG\" height=\"213\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pohostinnosť Slovanských dievčat ...</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ghMclRYeGK9Z4rzWJIUAHo3zvMV5zNfHPkHdl5KgNEw2tvFZT-YIQyNXkhkIn-iUjKsHeV4vqNJoKXRny4OsqFvBopuVaWv8pdpFKh4sko8-We8dnkGI1fZP_6d2PjfQ7RoMLjMku54/s1600/IMG_1228.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ghMclRYeGK9Z4rzWJIUAHo3zvMV5zNfHPkHdl5KgNEw2tvFZT-YIQyNXkhkIn-iUjKsHeV4vqNJoKXRny4OsqFvBopuVaWv8pdpFKh4sko8-We8dnkGI1fZP_6d2PjfQ7RoMLjMku54/s320/IMG_1228.JPG\" height=\"320\" width=\"213\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie8udDxUcg2dtiLjH5iw2dzxGng-RVetqVORDXctzHdqp3tGwI4x76nsz15g7Ytc3ybg9sCBr-wvJFpHLtkrvE9kRRhuAF2G-X1_i-32JPH-6oerN_eMhqwyPl4HKP67wNmcURoEVP15o/s1600/IMG_1247.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie8udDxUcg2dtiLjH5iw2dzxGng-RVetqVORDXctzHdqp3tGwI4x76nsz15g7Ytc3ybg9sCBr-wvJFpHLtkrvE9kRRhuAF2G-X1_i-32JPH-6oerN_eMhqwyPl4HKP67wNmcURoEVP15o/s320/IMG_1247.JPG\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEietj4h14n_MbTPu7-CUD42uAbdTyTQu5dzGsUw7ZpXmJGA7aNPs24FADtu5BO4SxSM51-ydBpOMPkJ6DmrEDcTOPhbxVXF6pjRxu_3fDHRIVzpDOsorWqPpL_k5arO3lGXnT9My3xoX90/s1600/IMG_1249.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEietj4h14n_MbTPu7-CUD42uAbdTyTQu5dzGsUw7ZpXmJGA7aNPs24FADtu5BO4SxSM51-ydBpOMPkJ6DmrEDcTOPhbxVXF6pjRxu_3fDHRIVzpDOsorWqPpL_k5arO3lGXnT9My3xoX90/s320/IMG_1249.JPG\" height=\"320\" width=\"213\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Dôležitý detail zadnej strany palisády - z dôvodu &nbsp;výšky palisády bolo nutné z obranných dôvodov vybudovať z vnútornej strany ochodzu, po ktorej sa mohli pohybovať obrancovia tak, aby mohli účinne brániť priestor medzi cimbúriami&nbsp;</td></tr>\n</tbody></table>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYt22UilcfMr1mRy5NIMs6KTDVUi2fsihUMIA3UUig9-qTa1mlvCpkhgZad-JPvomRz-SC6MdrELckJt_eOsf-1ZCPLjb9_6Jv4VxQ9-0BKki0HEmDxgg98WQyvl5WwmGNfrWwIw2bPhY/s1600/Sva%CC%88tyn%CC%8Ca.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYt22UilcfMr1mRy5NIMs6KTDVUi2fsihUMIA3UUig9-qTa1mlvCpkhgZad-JPvomRz-SC6MdrELckJt_eOsf-1ZCPLjb9_6Jv4VxQ9-0BKki0HEmDxgg98WQyvl5WwmGNfrWwIw2bPhY/s320/Sva%CC%88tyn%CC%8Ca.jpg\" height=\"263\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pohanská svätyňa z Chotěbuzi</td></tr>\n</tbody></table>\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Sídliskové objekty </b></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nPatria tu stavby budované a používané ľuďmi na obývanie. Jedná sa predovšetkým o zahĺbené sídelné objekty, v ktorých sa našli pozostatky vykurovacieho zariadenia (ohniska či pece). Medzery medzi drevenými kmeňmi u všetkých konštrukcii boli vymastené ílom, čo zaisťovalo tepelnú izoláciu objektu. Vnútri sa nachádzalo vykurovacie zariadenie, bolo tu nájdené tiež množstvo zuhoľnateného obilia. Objavený bol tiež objekt, ktorý tvorili dva plytké vyšliapané ovály a pozostatky ohniska. Môžeme tu uvažovať o zrubovej nadzemnej konštrukcii tohto objektu.</div>\n<div style=\"margin-bottom: 0in;\">\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPg0OaVn7HJ3tqFbU0IbPdXL8Nuehhe8pXn3f3SxeLxfsO0nV07ePO9Lvi5q6lf6v56w34ZBAeL2v9VHKhfVsCM6uF-XY2Ki6zX0O3KGGV91Urqrfo5VmMStiGRHMWL0FYr7df5Dl6m8k/s1600/IMG_1235.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPg0OaVn7HJ3tqFbU0IbPdXL8Nuehhe8pXn3f3SxeLxfsO0nV07ePO9Lvi5q6lf6v56w34ZBAeL2v9VHKhfVsCM6uF-XY2Ki6zX0O3KGGV91Urqrfo5VmMStiGRHMWL0FYr7df5Dl6m8k/s320/IMG_1235.JPG\" height=\"213\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Nástroje výrobcu krúžkového brnenia</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnLI61j2c26Us0Zn56hi1bgoBt5UlV9KZe_9f-oOw-5758Y-fS9U6aWhRTWifRz6xCo1wlDmasFCtZUJP3aUZhqiduwfbqlZHKY0ul30j64Vgo0O-p-IM02zKe17wofv5OMG5_Q2ZWLGM/s1600/IMG_1279.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnLI61j2c26Us0Zn56hi1bgoBt5UlV9KZe_9f-oOw-5758Y-fS9U6aWhRTWifRz6xCo1wlDmasFCtZUJP3aUZhqiduwfbqlZHKY0ul30j64Vgo0O-p-IM02zKe17wofv5OMG5_Q2ZWLGM/s320/IMG_1279.JPG\" height=\"320\" width=\"213\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Kúpte si ...</td></tr>\n</tbody></table>\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Výrobné a hospodárske objekty</b></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nRadíme tu pozostatky stavieb či zariadení, ktoré slúžili na výrobu predmetov, spracovávanie a skladovanie surovín alebo potravín, alebo ustajnené dobytka. Ide väčšinou o rôzne piecky, ohnisko či iné vykurovacie objekty, ktoré slúžili väčšinou na spracovanie surovín, napr. kováčske spracovanie rudy či pre výrobu pálenej keramiky. Ďalším druhom sú pozostatky hospodárskych objektov, súvisiacich s poľnohospodárskou výrobou. Ide najčastejšie o zásobné a skladovacie jamy, a objekty spojené s chovom domáceho zvieratstva.</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Kultový objekt</b></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nNa hradisku bol rozpoznaný kultový pohanský objekt na prvom predhradí. Archeologickým výskumom tu bol zachytený pravouhlý útvar, otvorený k západu. Steny tohto útvaru o rozmeroch 3,2 x 5,2 x 5,8 m tvorili drevené koly, z ktorých časť neboli snáď ani koly v pravom slova zmysle, ale len guľatina, zrejme určená na sedenie. Približné uprostred tohto zoskupenia bola odkrytá zhorená drevená schránka s rozmermi 1 x 1 m. Či táto schránka slúžila na uchovávanie uctievaných predmetov, či ako podstavec sochy nám neznámeho božstva, nemožno bohužiaľ s presnosťou určiť.</div>\n<div style=\"margin-bottom: 0in;\">\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCc8DsHPIqvhQ5gFoB90B_i9-cDiHIN72EZay6HckOCRlmfBPkok_815hp93Eqr-K2PJmZIKwV2GvgNFKhYE7OqMCyvYxnKTH27DFxowZZLceDLX5lGT7mvZm6wFdceJqu_dtGsBT5LkI/s1600/IMG_1266.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCc8DsHPIqvhQ5gFoB90B_i9-cDiHIN72EZay6HckOCRlmfBPkok_815hp93Eqr-K2PJmZIKwV2GvgNFKhYE7OqMCyvYxnKTH27DFxowZZLceDLX5lGT7mvZm6wFdceJqu_dtGsBT5LkI/s320/IMG_1266.JPG\" height=\"320\" width=\"213\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Predvádzanie slovanských božstiev sa občas neobíde bez milých rozpakov...</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHO_a_fK-7UYQiQrD-9Z-YsWIlmAM339teWqDQa4tJfN-amoJkUsR1c97OHkHHgc8Pq7_-V_lwkFHiCKsOU8hcKfv5hPl85dCqp8VOxjFc3RnnCg0NTNvm8qgNsBhzdnr46uqQJq679Y/s1600/IMG_1267.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHO_a_fK-7UYQiQrD-9Z-YsWIlmAM339teWqDQa4tJfN-amoJkUsR1c97OHkHHgc8Pq7_-V_lwkFHiCKsOU8hcKfv5hPl85dCqp8VOxjFc3RnnCg0NTNvm8qgNsBhzdnr46uqQJq679Y/s320/IMG_1267.JPG\" height=\"320\" width=\"213\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhssEDCjz4musUd91g1EQaaWXtblxEWTuRfmQP695UZlWZygxaOsiwpk1bZE5C54-SQqIsOt8IaSuShkcBoB5i36cmhwJ8CWiC4tKM-tYeEyNnncOw49k4OyRv_tU39jA3zv8yCelVyxlc/s1600/IMG_1270.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhssEDCjz4musUd91g1EQaaWXtblxEWTuRfmQP695UZlWZygxaOsiwpk1bZE5C54-SQqIsOt8IaSuShkcBoB5i36cmhwJ8CWiC4tKM-tYeEyNnncOw49k4OyRv_tU39jA3zv8yCelVyxlc/s320/IMG_1270.JPG\" height=\"320\" width=\"213\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS7Pcedajr7qp6nOfgAyTyV7JrjlVNi25Vizb1iVNSGK-f-V-wztVPcp15BvhZtSEArvtYvD10GVbvfnNEnr3thnsOinGHNLwjm1C11dtuuGyXFZqRkSG1eSAfR2WfjW6uP12EmQGwr_M/s1600/IMG_1276.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS7Pcedajr7qp6nOfgAyTyV7JrjlVNi25Vizb1iVNSGK-f-V-wztVPcp15BvhZtSEArvtYvD10GVbvfnNEnr3thnsOinGHNLwjm1C11dtuuGyXFZqRkSG1eSAfR2WfjW6uP12EmQGwr_M/s320/IMG_1276.JPG\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtchVOU7h5u_kOAsx3eBvi4T8UXJedE7VFqlAjp8CNOdp_ENDYoBHttxegmNajp2Ph-KzYboAqkRXoARCr9J-zPRIPqIu1HQXbJDaX4xSBU0K-tYJWNWxD7uXcWagGrrXIRyxdY_XhmUY/s1600/IMG_1171.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtchVOU7h5u_kOAsx3eBvi4T8UXJedE7VFqlAjp8CNOdp_ENDYoBHttxegmNajp2Ph-KzYboAqkRXoARCr9J-zPRIPqIu1HQXbJDaX4xSBU0K-tYJWNWxD7uXcWagGrrXIRyxdY_XhmUY/s320/IMG_1171.JPG\" height=\"320\" width=\"213\" /></a></div>\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nOblasť dnešného tešínskeho Sliezska, sa dostala do sféry vplyvu Veľkej Moravy a bola po určitú dobu aj jej súčasťou. Niekedy na prelome 9. a 10. storočia či na samom začiatku 10. storočia, v súvislosti s upadajúcou ríšou Mojmírovcov, kedy sa zvlášť okrajové územia snažili odtrhnúť, došlo aj k strate území severne od Moravskej brány. Že sa to neobišlo bez krviprelievania a násilia, prezrádzajú mohutné požiarové vrstvy na akropole a prvom predhradí. ale tiež napr. železné hroty šípov vo vnútornej palisáde valu. Po týchto búrlivých udalostiach život na hradisku takmer na celé 10. storočie, keď nemáme ani žiadne písomné zmienky o tomto regióne, ustáva. Až v poslednej štvrtine tohto storočia sa na lokalitu vracia osídlenie. Hradisko už však nikdy nezískalo zašlý lesk. Aj kultúra tohto obdobia je pomerne chudobnejšia a osídlená plocha menšia. Obyvateľstvo sídlilo v pravouhlých zemniacich krytých sedlovou strechou. Živilo sa pestovaním obilia a chovom dobytka.</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nPribližne v polovici 11. storočia bolo hradisko postupne opúšťané obyvateľstvom. Ako životaschopnejšia sa totiž za dané politickej situácie ukázala poloha vysunutá tesne nad pravý breh rieky Olša na Zámockom vrchu v dnešnom poľskom Tešíne, kde v priebehu 2. polovice 10. storočia na starších pravekých základoch vznikla úplne nová fortifikácia, ktoré sa pomerne skoro stala významným centrom jedného z piastovských hradských obvodov v Sliezsku.</div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\n<b>Hradisko dnes – Archeoskanzen </b></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"justify\" style=\"margin-bottom: 0in;\">\nDnes na hradisku nájdete <a href=\"http://www.archeopark-chotebuz.cz/\" target=\"_blank\">archeoskanzen</a>, ktorý má podľa môjho názoru najlepšie zrekonštruovanú hradbu zo všetkých slovanských archeoskanzenov. Okrem komorovej a palisádovej hradby nadchne aj vstupná brána v obrannej veži, most cez priekopu a tiež rozširujúca sa vnútorná zástavba zložená s viacerých obytných domov, keramických pecí a pohanskej svätyne. Cez víkendy a sviatky Vám návštevu mimoriedne pútavým a zaujímavým spôsobom spríjemní historická skupina <a href=\"http://www.tizon.cz/\" target=\"_blank\">Tizon</a>, ktorá návštevníkom priblíži život v dobe Slovanskej. Stanete sa svedkami nielen bojov, ale uvidíte pri práci kováča, obchodníkov a dozviete sa mnoho o pohanských božstvách Slovanov. Návštevu hradiska vrelo odporúčam. <br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio0xTTmPCzkRqpKTZkyiSjpicgdSUFCLbzInWCZAeYOYSmai4PAk6sq0Wa2rIj4Dx0tsScUmQl6VyS7S-e5T7cbOKN1POb9_gqEkFb-6E-r5p9EuWeBFr42DZNVr-j5_IDmLDU4SE0-pU/s1600/IMG_1139.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio0xTTmPCzkRqpKTZkyiSjpicgdSUFCLbzInWCZAeYOYSmai4PAk6sq0Wa2rIj4Dx0tsScUmQl6VyS7S-e5T7cbOKN1POb9_gqEkFb-6E-r5p9EuWeBFr42DZNVr-j5_IDmLDU4SE0-pU/s320/IMG_1139.JPG\" height=\"240\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<object class=\"BLOGGER-youtube-video\" classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0\" data-thumbnail-src=\"http://i.ytimg.com/vi/m3EqOGbC5_Q/0.jpg\" height=\"266\" width=\"320\"><param name=\"movie\" value=\"http://www.youtube.com/v/m3EqOGbC5_Q?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata\" /><param name=\"bgcolor\" value=\"#FFFFFF\" /><param name=\"allowFullScreen\" value=\"true\" /><embed width=\"320\" height=\"266\"  src=\"http://www.youtube.com/v/m3EqOGbC5_Q?version=3&f=user_uploads&c=google-webdrive-0&app=youtube_gdata\" type=\"application/x-shockwave-flash\" allowfullscreen=\"true\"></embed></object></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<iframe allowfullscreen='allowfullscreen' webkitallowfullscreen='webkitallowfullscreen' mozallowfullscreen='mozallowfullscreen' width='320' height='266' src='https://www.youtube.com/embed/edaGuvlSufc?feature=player_embedded' frameborder='0'></iframe></div>\n<br />\n<br />\nFotogaléria:<br />\n<br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpCtqoY-SHSkGINDgADok1kiSJUTBXwrnLbFtX64ofJQrjOMOswur7NZD6D0t5QxkFcse5THpQUoKSGkA4KNKHLXZr69toB9MrUY-30N97Lp2goynG1cP8DX1XeDb9UFu3c8-cFkLIVi0/s1600/251821_10151003306462347_6857774_n.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpCtqoY-SHSkGINDgADok1kiSJUTBXwrnLbFtX64ofJQrjOMOswur7NZD6D0t5QxkFcse5THpQUoKSGkA4KNKHLXZr69toB9MrUY-30N97Lp2goynG1cP8DX1XeDb9UFu3c8-cFkLIVi0/s320/251821_10151003306462347_6857774_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Mohutný val s priekopov prvého predhradia - vonkajšia strana hradby</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTyyoJT3tmilHBz34JVGoL_HS0BVzFMQjBh4DzCKu7K4Q4L2YIh0KC2qGTiG0Jyk_lXgni0HlaYTEumLcYMY6pI7SEjAdbAGAjFwaSpEY2BF_OKndLPhcOQOUe0rBb9Uc1cuqms5exFpo/s1600/252764_10151003305717347_1708427226_n.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTyyoJT3tmilHBz34JVGoL_HS0BVzFMQjBh4DzCKu7K4Q4L2YIh0KC2qGTiG0Jyk_lXgni0HlaYTEumLcYMY6pI7SEjAdbAGAjFwaSpEY2BF_OKndLPhcOQOUe0rBb9Uc1cuqms5exFpo/s320/252764_10151003305717347_1708427226_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Vnútorná strana hradby prvého predhradia</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-17NlfroGHFTqqJhXINn0dHFthU4k0igpjcm1Wkgjq73DrLZB9xDccxFzrAF9TtPCKed7Be8wMpyXcA1zc-w3A27jobf_HhYo4kiAgAivlxF308gBA4mKnp2Z_hsaEJ_4xEzFrVm5tU/s1600/283785_10151003302132347_1740490271_n.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-17NlfroGHFTqqJhXINn0dHFthU4k0igpjcm1Wkgjq73DrLZB9xDccxFzrAF9TtPCKed7Be8wMpyXcA1zc-w3A27jobf_HhYo4kiAgAivlxF308gBA4mKnp2Z_hsaEJ_4xEzFrVm5tU/s320/283785_10151003302132347_1740490271_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Brána do prvého predhradia</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsE_S4RkwGEOK8MF6774qpX3DKKu4v33CKX5iDHHxWlPR0fZpUiS8573eMZNtzxV_L4aVHPRbwoGJSuM6M_Adk4-oZS8CLY4HrkK_wFNpKRJZ7qASkS_1a4P2FtqHC0dYuhQkmdDYYSYw/s1600/293131_10151003311432347_1890206661_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsE_S4RkwGEOK8MF6774qpX3DKKu4v33CKX5iDHHxWlPR0fZpUiS8573eMZNtzxV_L4aVHPRbwoGJSuM6M_Adk4-oZS8CLY4HrkK_wFNpKRJZ7qASkS_1a4P2FtqHC0dYuhQkmdDYYSYw/s320/293131_10151003311432347_1890206661_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9eDa6HLTXwHFLQCLjqYBc2BZXWMGfiKt6yF0phE0rXw22ViEaUJ6imhwhq-0hJbnqcj0iHOS5snfpUqxFVYZfrha_z-KZepsgpYP6xNi4XerBYKXdn7pkrHN_3gYre9iWGxBe5aMsS_M/s1600/315438_10151003311232347_361292764_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9eDa6HLTXwHFLQCLjqYBc2BZXWMGfiKt6yF0phE0rXw22ViEaUJ6imhwhq-0hJbnqcj0iHOS5snfpUqxFVYZfrha_z-KZepsgpYP6xNi4XerBYKXdn7pkrHN_3gYre9iWGxBe5aMsS_M/s320/315438_10151003311232347_361292764_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK6QU4Ot4hAPGaVJcofwISY7RdVkmEjvI_7tsGJmbY2d6W5_pj8jctvySiVmyaO_KJ2g2b9cL34NjTRwNGI-MaOQ0p4cR235f0FykE5JqRoeBZY7quVEGgcse-sr56FPeOyX7LIsWQoZQ/s1600/315462_10151003307967347_783382591_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK6QU4Ot4hAPGaVJcofwISY7RdVkmEjvI_7tsGJmbY2d6W5_pj8jctvySiVmyaO_KJ2g2b9cL34NjTRwNGI-MaOQ0p4cR235f0FykE5JqRoeBZY7quVEGgcse-sr56FPeOyX7LIsWQoZQ/s320/315462_10151003307967347_783382591_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzTMgsJbWCwES6uqLNGEBtjroUbrlTl8mTLmYO35BioKhRzus67n9wmxwN4nsLJWL4cQ8dMHjpUpFqWkyAf_oZF38iisM_zpFdS3q8SstjFATafeD_cEk5qMvxiycs8Ni6HtAlE9vISYo/s1600/318737_10151003310507347_932383227_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzTMgsJbWCwES6uqLNGEBtjroUbrlTl8mTLmYO35BioKhRzus67n9wmxwN4nsLJWL4cQ8dMHjpUpFqWkyAf_oZF38iisM_zpFdS3q8SstjFATafeD_cEk5qMvxiycs8Ni6HtAlE9vISYo/s320/318737_10151003310507347_932383227_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1DstoYaNdnuH2oL1HKVCwJxfTVx-ETlvoQa1BNkC_YeBc5WgfRuhpbXN_nLNnNuVCawUpQ4cYkcOyJTba092BwL7kmKEyBFIJxyarAUYtcxfU3pD45HlVIqyt0BaXg2j5NBSn14VRppA/s1600/318893_386942868032930_706752025_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1DstoYaNdnuH2oL1HKVCwJxfTVx-ETlvoQa1BNkC_YeBc5WgfRuhpbXN_nLNnNuVCawUpQ4cYkcOyJTba092BwL7kmKEyBFIJxyarAUYtcxfU3pD45HlVIqyt0BaXg2j5NBSn14VRppA/s320/318893_386942868032930_706752025_n.jpg\" hda=\"true\" height=\"212\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRTl2BiMEI3Jyiqd6L2o-4EDKhC3xeBcNkW41Do6UhTAghUUQUfGdSn6ANjOblj7ECcv43Kjm1PusZBpvW7kOKzRi-LwuPCp-eJSh6ii6R65kq5MkoWhcHij9C6C2OpfluicyBaOkdv2s/s1600/391449_10151003308602347_1194919740_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRTl2BiMEI3Jyiqd6L2o-4EDKhC3xeBcNkW41Do6UhTAghUUQUfGdSn6ANjOblj7ECcv43Kjm1PusZBpvW7kOKzRi-LwuPCp-eJSh6ii6R65kq5MkoWhcHij9C6C2OpfluicyBaOkdv2s/s320/391449_10151003308602347_1194919740_n.jpg\" hda=\"true\" height=\"320\" width=\"213\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsEH3upwxcF9W2rPK6CjUjQFxwwACJOca9F9oo-be67jyCGX3FaaNyMHQXi7Cmq0SgCPOQMn5AUjDI8BxoIIk3xMzT43xGGRfJfK9P4OSjebGyxzS4pqw9WrwOqqfgThxplfL04_xKjbU/s1600/417483_386938748033342_1876008232_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsEH3upwxcF9W2rPK6CjUjQFxwwACJOca9F9oo-be67jyCGX3FaaNyMHQXi7Cmq0SgCPOQMn5AUjDI8BxoIIk3xMzT43xGGRfJfK9P4OSjebGyxzS4pqw9WrwOqqfgThxplfL04_xKjbU/s320/417483_386938748033342_1876008232_n.jpg\" hda=\"true\" height=\"212\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMKSpZ1h-eINHwfq5hDbJUem52GnhHOzyasewYKZvuWBfSa5Iu-OzgqjutTl91MMEGF7aEAyqZFiK0bhW-V93_HaDlR0MkbSvaLrWxJyJa9gu_DxPcmR5F8xBi-h90ZfPKJsr0N395o1s/s1600/417574_10151003307642347_457566087_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMKSpZ1h-eINHwfq5hDbJUem52GnhHOzyasewYKZvuWBfSa5Iu-OzgqjutTl91MMEGF7aEAyqZFiK0bhW-V93_HaDlR0MkbSvaLrWxJyJa9gu_DxPcmR5F8xBi-h90ZfPKJsr0N395o1s/s320/417574_10151003307642347_457566087_n.jpg\" hda=\"true\" height=\"320\" width=\"213\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYdZPS8Hi15dOIqOpqaJUt4TA5P_WIYNfY9QxGjTZ01WlSAKYMzC2HBeIXc6B10jS7hE5reXTavcIn-KdQh3QmIpS_cHQlLs8k_tS4AxcsREI_y_mOrs3aBXHnCJ3q2H-XpKITvQdLBXM/s1600/431924_10151003308447347_778096153_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYdZPS8Hi15dOIqOpqaJUt4TA5P_WIYNfY9QxGjTZ01WlSAKYMzC2HBeIXc6B10jS7hE5reXTavcIn-KdQh3QmIpS_cHQlLs8k_tS4AxcsREI_y_mOrs3aBXHnCJ3q2H-XpKITvQdLBXM/s320/431924_10151003308447347_778096153_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw3IC-6wVXmvcB8DBm9vajt_zvfDz-CuVkfN1-9SfSzmvmm_FEejoXNwAr9-XRsEqbjYpM9qGU5aUv-LjyUr3T5LwvX7HnGeftVrX4NlAKRVJvJ5phr2VnCD4MRYf_8Myk4RV30VD3azc/s1600/483232_10151003302762347_1305188317_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw3IC-6wVXmvcB8DBm9vajt_zvfDz-CuVkfN1-9SfSzmvmm_FEejoXNwAr9-XRsEqbjYpM9qGU5aUv-LjyUr3T5LwvX7HnGeftVrX4NlAKRVJvJ5phr2VnCD4MRYf_8Myk4RV30VD3azc/s320/483232_10151003302762347_1305188317_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhop5_KDQmNV1FgauowjxSYSecH2X3PrQwI6nJe0Ingx3g2SSY43IORtUtV1kDW5Sz22NGWjyjHt7tKVZkryxuxri5_PP0OYuhxk2JQct0sbnX9kW2jTft70HM6zhR9PcEFAS29amahb50/s1600/484127_10151003295182347_40377435_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhop5_KDQmNV1FgauowjxSYSecH2X3PrQwI6nJe0Ingx3g2SSY43IORtUtV1kDW5Sz22NGWjyjHt7tKVZkryxuxri5_PP0OYuhxk2JQct0sbnX9kW2jTft70HM6zhR9PcEFAS29amahb50/s320/484127_10151003295182347_40377435_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT8tQDvXJ71aCCn9s9tki3akgTs-Yjv_PlwP-_7zzCioEKULy0gSg6Yq0pIdTQzYWmAjBBMJXB1zChfa-z8iHWdVJjAFlCbAM7bwx9De19iTqEzhaE0aujxVNBbTV1ly99MugM5d4Y9js/s1600/487745_10151003307807347_1353356710_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT8tQDvXJ71aCCn9s9tki3akgTs-Yjv_PlwP-_7zzCioEKULy0gSg6Yq0pIdTQzYWmAjBBMJXB1zChfa-z8iHWdVJjAFlCbAM7bwx9De19iTqEzhaE0aujxVNBbTV1ly99MugM5d4Y9js/s320/487745_10151003307807347_1353356710_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQkAa9g4qNduAJ0RpnsjSWUy_lQFjmUSPgL2z153iAVBL2VOsTY-tfIjraf5-uVs1hPbQgyi5MYOI3-NzyJDp_JltoMWwTpUR4p7c_icQFcGmeVUPSNQIjPRWK6swMAxMcXfmEmZ4bztA/s1600/531362_10151003306962347_1655349312_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQkAa9g4qNduAJ0RpnsjSWUy_lQFjmUSPgL2z153iAVBL2VOsTY-tfIjraf5-uVs1hPbQgyi5MYOI3-NzyJDp_JltoMWwTpUR4p7c_icQFcGmeVUPSNQIjPRWK6swMAxMcXfmEmZ4bztA/s320/531362_10151003306962347_1655349312_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWPwsFRKBQlk9izm10kZELbAsmdhlDMPnI6Ls_4K3ht6_nL_hzNXMLLbBgW8uOpjwTwhtEzl8darNW6iN_dgOSks8CpEd8dUvNmyNL36Q41bpylqc3RqHh0Txh9j_EATQCJXAqUUBZSW4/s1600/548547_386942071366343_2116647423_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWPwsFRKBQlk9izm10kZELbAsmdhlDMPnI6Ls_4K3ht6_nL_hzNXMLLbBgW8uOpjwTwhtEzl8darNW6iN_dgOSks8CpEd8dUvNmyNL36Q41bpylqc3RqHh0Txh9j_EATQCJXAqUUBZSW4/s320/548547_386942071366343_2116647423_n.jpg\" hda=\"true\" height=\"212\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE5-OeCkY4uh5yK1Xh7pJm8qheALjsqhiD5H__K3mtkkjOmle7qL08lu-lqEHQox5a1qWm9UCBjCubI1M5hcrzm70VUUBKDBbuKcv6vsuw9OD3jFEz3Z31h9UqGEAriJznRvYaldWyOas/s1600/559352_386938378033379_1890908608_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE5-OeCkY4uh5yK1Xh7pJm8qheALjsqhiD5H__K3mtkkjOmle7qL08lu-lqEHQox5a1qWm9UCBjCubI1M5hcrzm70VUUBKDBbuKcv6vsuw9OD3jFEz3Z31h9UqGEAriJznRvYaldWyOas/s320/559352_386938378033379_1890908608_n.jpg\" hda=\"true\" height=\"212\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEnAMpe9aeZGIJg65ZKOIodG7Rll8IXRmNPiR0rxjW7tOEsZoE_Ar24WdVlON0RyuEVf4gn6Mmjh0UwCpqctrUtNAIfKsJ88RDckU_5k4II6MeFRDzfeJ6x9q0LhIIKBF3CrNZVekU7TY/s1600/564023_386940991366451_947384902_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEnAMpe9aeZGIJg65ZKOIodG7Rll8IXRmNPiR0rxjW7tOEsZoE_Ar24WdVlON0RyuEVf4gn6Mmjh0UwCpqctrUtNAIfKsJ88RDckU_5k4II6MeFRDzfeJ6x9q0LhIIKBF3CrNZVekU7TY/s320/564023_386940991366451_947384902_n.jpg\" hda=\"true\" height=\"212\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHFT9M4sA7EETGPyQAPXMCtL_SHO2qWdm7fZJtkuJF2WzxGoJvtdN-Lp_-jYzVABT02EhZAmr9k7_3U6oa7_XZ7KL_kAUdKjefzGP49Fp3aOJLOntjTuWiR2C9Uc02mxdREe2RMXLTkXE/s1600/578698_10151003294172347_2081728437_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHFT9M4sA7EETGPyQAPXMCtL_SHO2qWdm7fZJtkuJF2WzxGoJvtdN-Lp_-jYzVABT02EhZAmr9k7_3U6oa7_XZ7KL_kAUdKjefzGP49Fp3aOJLOntjTuWiR2C9Uc02mxdREe2RMXLTkXE/s320/578698_10151003294172347_2081728437_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3j1VjBImzcZEpXPBkoaHdJEW1_2sbqkJg_4DJSO9hr6irlBVo7IsNlN9prZX24_ju4GL-G6oBi4NGoEY75bTjlgIxAsP6DJYqMTOdHygfvGOO6gQK4pcXUR9F_qE5W0IIDYfLEtOP0IA/s1600/580926_10151003307132347_847971963_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3j1VjBImzcZEpXPBkoaHdJEW1_2sbqkJg_4DJSO9hr6irlBVo7IsNlN9prZX24_ju4GL-G6oBi4NGoEY75bTjlgIxAsP6DJYqMTOdHygfvGOO6gQK4pcXUR9F_qE5W0IIDYfLEtOP0IA/s320/580926_10151003307132347_847971963_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTzVGMbwJD36rck3js_HaYWJ5RfdMnO30hWPN6bedVQwOh2lK5djzbbsyC1odAzQUOQjNcNxQ2PektPT6mfFrulF0fZEc6kEaBiX0ykAt-Dy1JzWCKQ9nUD0htecW73-U6T4AHz6PZf7o/s1600/600726_10151003307462347_458440725_n.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTzVGMbwJD36rck3js_HaYWJ5RfdMnO30hWPN6bedVQwOh2lK5djzbbsyC1odAzQUOQjNcNxQ2PektPT6mfFrulF0fZEc6kEaBiX0ykAt-Dy1JzWCKQ9nUD0htecW73-U6T4AHz6PZf7o/s320/600726_10151003307462347_458440725_n.jpg\" hda=\"true\" height=\"213\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pohľad na Akropolu od brány prvého predhradia</td></tr>\n</tbody></table>\n3D pohľad na Chotebuz:<br />\n<br />\n<a href=\"http://www.360travel.cz/chotebuz-archeopark-vez\">http://www.360travel.cz/chotebuz-archeopark-vez</a><br />\n<br />\n<br />\nOrgoň<br />\n<br />\nLiteratúra:<br />\n<br />\nhttp://www.cas.cz/miranda2/export/sitesavcr/data.avcr.cz/o_avcr/zakladni_informace/dokumenty/anotace/2012/img/8/obr_arub_2c_3.jpg<br />\n<div style=\"margin-bottom: 0in;\">\nMiloš Čižmář: Encyklopedie hradišť na Moravě a ve Slezsku , Libri, &nbsp;2004</div>\n<div style=\"margin-bottom: 0in;\">\nInformačné tabule hradiska Chotěbuz <br />\n<a href=\"http://www.archeopark-chotebuz.cz/\">http://www.archeopark-chotebuz.cz/</a> <br />\nFoto: Orgoň, Miro B</div>\n</div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/3266288756468240485/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2012/07/chotebuz-podobora.html#comment-form",
+            "title": "0 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/3266288756468240485"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/3266288756468240485"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2012/07/chotebuz-podobora.html",
+            "title": "Chotěbuz - Podobora"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCUR_m3ynn8vY1lLDexR4-7GLVtt4gBSp5hNkKe8vZWz4xO_fa77bvx-5ebqwVvJrmtmkSzwaWubaKT3QDPBTRsMahooMD_2vDH9d7GPnAYALBst0egJTgSU2DPyazlxeitEbfIL6dWI0/s72-c/IMG_1301.JPG",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}
