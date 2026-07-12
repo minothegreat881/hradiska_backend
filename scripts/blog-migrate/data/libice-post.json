@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Libice+-+hlavn%C3%A9+hradisko+Sl%C3%A1vnikovcov+%28CZ%29?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Libice%20-%20hlavn%C3%A9%20hradisko%20Sl%C3%A1vnikovcov%20%28CZ%29"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-4942540560935634483"
+        },
+        "published": {
+          "$t": "2011-08-05T11:00:00.001+02:00"
+        },
+        "updated": {
+          "$t": "2013-07-12T12:51:20.473+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div style=\"text-align: justify;\">\nLibice, hlavní hradiště Slavníkovců, jednoho z nejmocnějších rodů v  Čechách v období raného středověku, bylo centrem většího teritoria,  které Slavníkovci ovládali ve východních Čechách. Nacházelo se na  vyvýšenině nedaleko soutoku Labe s Cidlinou. Libice ovšem nebyla pouze  sídlem knížecího rodu a správním centrem knížectví, ale také místem  ražby slavníkovských denárů.<br />\n<br />\n<a href=\"http://www.slovane.cz/foto/hrad/libice/libice02.jpg\" target=\"_blank\"><img align=\"right\" alt=\"sousoší vojtěcha a radima\" border=\"0\" hspace=\"3\" src=\"http://www.slovane.cz/foto/hrad/libice/libice02.jpg\" width=\"400\" /></a>  Prostor předhradí pozdějšího slavníkovského hradiště byl osídlen už v mladší  době bronzové. Archeologické nálezy prokázaly existenci lidu kultury mohylové,  lužické a knovízské, ale z východního cípu předhradí pocházejí také nálezy z  doby římské. Po krátkém přechodném období se v 6. století na Libici usadilo  slovanské obyvatelstvo a přineslo s sebou keramiku pražského typu. V průběhu 8.  století prokazatelně došlo k nárůstu populace a v 9. století zde již stálo dobře  opevněné hradiště. Byly zjištěny dvě fáze opevnění. Starší opevnění bylo tvořeno  hliněnou hradbou s roštem a vnější kamennou zdí. Ve druhé fázi byla postavena  hradba se třemi řadami komor o šířce 4,5m a vnitřní i vnější hradební zeď byla  vystavěna z opuky. Před hradbou probíhal široký příkop. První konkrétní zmínku o  Slavníkovcích máme v Kosmově kronice k roku 981, kdy údajně zemřel kníže Slavník.  Po celé slavníkovské období bylo předhradí hustě osídleno a stával zde také  kostel Panny Marie s malým pohřebištěm okolo. Později dostal gotickou podobu a v  letech 1774 – 1777 byl vrcholně barokně přestavěn. V souvislosti s josefínskými  reformami byl ale zrušen a dnes slouží jako fara. V jihovýchodní části předhradí  byla odkryta další stavba, pravděpodobně kněžský dům, a v místech dnešního  hřbitovního kostela sv. Vojtěcha zřejmě stával již v 10. století kostel  zasvěcený sv. Bonifácovi. <br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGL05-v6peu8CUiFb37oeZF7bHes5H7K0E7dCo7qNm1PWn9f-UiPghHs5GpWRdyaRg_LbPZwEY_dmbQsGICkDS59qaxdPKsoxNCy2OXmZEEHN-EqIDoGeQJ4xbpETTSYEM05j6lPCVDcc/s1600/1.01eliskreta.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"192\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGL05-v6peu8CUiFb37oeZF7bHes5H7K0E7dCo7qNm1PWn9f-UiPghHs5GpWRdyaRg_LbPZwEY_dmbQsGICkDS59qaxdPKsoxNCy2OXmZEEHN-EqIDoGeQJ4xbpETTSYEM05j6lPCVDcc/s320/1.01eliskreta.JPG\" width=\"320\" /></a></div>\n<br />\n<br /></div>\n<div style=\"text-align: justify;\">\nUvnitř opevnění vlastní akropole průzkum doložil větší stavební aktivitu v  polovině 10. století. Konkrétně bylo odkryto základové zdivo kostela ze druhé  poloviny 10. století. Jednalo se o jednolodní stavbu otonského typu s transeptem  se dvěma tribunami a krátkým presbytářem zakončeným apsidou. V prostoru mezi  touto apsidou a jižním křídlem transeptu bylo nalezeno zdivo dvou malých  místnosti, patrně baptisteria a sakristie. V těsné blízkosti kostela na jižní  straně byly zjištěny zbytky dřevěné budovy považované za slavníkovský palác,  který byl propojen s kostelem. Prokázáno bylo také naprosté zničení hradiště v  roce 995, které je podloženo písemnými prameny. Na místě slavníkovského paláce  byl poté nově postaven kastelánský dům. Obnoveno bylo i hradiště, ovšem  tentokrát už jako přemyslovský opěrný bod, jehož opevnění nebylo tak mohutné  jako předchozí. Kastelán zde působil až do doby kolem roku 1120, kdy přenesl své  sídlo do předhradí. V průběhu 12. století ztratilo upadající libické hradiště  svoji funkci i význam a vytratilo se z písemných pramenů. Až v roce 1228 je  Libice zmíněna jako ves v držení kláštera sv. Jiří na Pražském hradě. </div>\n<div style=\"text-align: justify;\">\n<a href=\"http://www.slovane.cz/foto/hrad/libice/libice01.jpg\" target=\"_blank\"><img align=\"left\" alt=\"slavníkovské hradiště libice\" border=\"0\" hspace=\"3\" src=\"http://www.slovane.cz/foto/hrad/libice/libice01.jpg\" width=\"400\" /> </a> Libice je v centru pozornosti badatelů už od 16. století. Odborné výzkumy  prováděl na konci 19. století Josef Ladislav Píč a později Jan Hellich. V letech  1949-1953 byl dr. Rudolfem Turkem z Národního muzea proveden detailní  archeologický průzkum lokality, při němž byly odkryty nejen zbytky staveb, ale  také mnohé velice hodnotné předměty, které dokládají velmi vysokou kulturní  úroveň obyvatel slavníkovského hradiště. Drobné předměty, které se zachovaly i  přes násilnou destrukci prostoru, dokumentují čilé obchodní styky Libice nejen s  celou oblastí Čech, ale i s Velkou Moravou a objevily se dokonce i importy z  prostředí vikingského, karolinského a balkánského. Nálezy vykreslují Libici  druhé poloviny 10. století jako kvetoucí, prosperující hradiště, centrum  obchodu, kultury a církevního života. </div>\n<div style=\"text-align: justify;\">\nV roce 1961 bylo libické hradiště vyhlášeno archeologickou památkovou  rezervací, v roce 1979 bylo zřízeno ochranné pásmo a samotná akropole hradiště  je od roku 1989 chráněna jako národní kulturní památka. Od roku 1974 provádí  Archeologický ústav AV ČR každoroční záchranné archeologické výzkumy v předhradí  a do současné doby bylo takto prozkoumáno necelých 6 % plochy předhradí. Tyto  výzkumy detailně mapují vývoj opevnění v průběhu 10. století. Letecký průzkum  lokality provedený v roce 2000 přinesl řadu poznatků o vnitřním členění akropole  a poskytl podněty pro další výzkum. V prostoru hradiště a v jeho okolí bylo  zachyceno několik pohřebišť, na nichž se pohřbívalo po celý raný středověk.  Často byly zjištěny pohřby příslušníků vyšších společenských vrstev, kteří se  již prokazatelně klonili ke křesťanství. Nejvýznamnější akcí poslední doby na  území akropole bylo umístění bronzového sousoší sv. Vojtěcha a sv. Radima v  těsné blízkosti odkrytého zdiva kostela v roce 2000. Umístění sousoší předcházel  záchranný archeologický výzkum. <br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc76mAiTf_TDu0fIpX5xI1I4iqeHdy9ZSvIvedlYNeyfkDKFNY7gRvWDXqWTThNTOhVEdsni1zp1_5X3mzk3rSqGrzqH2y0nNy5JVoSQzxtLAmEH25zIF0jqF5PiLcXyju99wJ6SBi_LQ/s1600/libice_pohrebiste_na_hradisti.gif\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"305\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc76mAiTf_TDu0fIpX5xI1I4iqeHdy9ZSvIvedlYNeyfkDKFNY7gRvWDXqWTThNTOhVEdsni1zp1_5X3mzk3rSqGrzqH2y0nNy5JVoSQzxtLAmEH25zIF0jqF5PiLcXyju99wJ6SBi_LQ/s320/libice_pohrebiste_na_hradisti.gif\" width=\"320\" /></a></div>\n<br /></div>\n<div style=\"text-align: justify;\">\n;  Z hlediska památkové péče je v dané lokalitě prvořadým úkolem zajištění  archeologického naleziště v prostoru akropole a zamezení nežádoucích zásahů do  podkladových vrstev terénu předhradí (obec Libice). </div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nČlánok prevzatý z výbornej stránky http://www.slovane.cz/view.php?cisloclanku=2008040009</div>\n<div style=\"text-align: justify;\">\n</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<b>Vyvraždenie Slavnikovcov</b></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nKto boli Slávnikovci?</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nZrejme predovšetkým tí neskôr narodení, ktorí už nemali v škole spoločný Česko-Slovenský dejepis vôbec nepoznajú rod Slávnikovcov a ich tragický osud pri upevňovaní ranofeudálneho Českého štátu. Preto si dovolím stručný exkurz do tohto mierne obskúrneho obdobia v dejinách Přemyslovcov a priblížime si jeden z najväčších a najstarších masakrov v Českých dejinách, ktorý v konečnom dôsledku prispel k upevneniu moci rodu Přemyslovcov.<br />\n<br /></div>\n<div style=\"text-align: justify;\">\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-PKryTLi_CHtvtU0CyWt8DIg0y-hK9aFG598pUrRmhhQyXAF0q_r04uSTxzSRTJKAZpeZ67246etbB3BthUJ5Zozkpe9pLgRZ6FR0oguxHcNDa0NlHmb5lHLUu7IsHfX02uopyyZk1hk/s1600/Model.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"120\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-PKryTLi_CHtvtU0CyWt8DIg0y-hK9aFG598pUrRmhhQyXAF0q_r04uSTxzSRTJKAZpeZ67246etbB3BthUJ5Zozkpe9pLgRZ6FR0oguxHcNDa0NlHmb5lHLUu7IsHfX02uopyyZk1hk/s320/Model.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Rekonštrukcia sakrálnej stavby a paláca na hradisku</td></tr>\n</tbody></table>\n<br /></div>\n<div style=\"text-align: justify;\">\n</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Najskôr je potrebné osvetliť situáciu vo vtedajších kniežacích Čechách. Po smrti svätého Václava sa vlády ujal jeho brat Boleslav I. Tým sa začala éra vzostupu kniežatstva. Boleslav sa dokázal vymaniť z područia Franskej ríše, stal sa jej partnerom (\"pomoc\" v bitke pri Lechu 955). Český štát sa stal významnou mocnosťou strednej Európy, potom čo sa podarilo obsadiť Sliezsko, Krakovsko a preniknúť až k terajším hraniciam Bieloruska. V týchto oblastiach dával knieža \"chytať\" obyvateľstvo, ktoré neskôr bolo predávané ako otroci v Prahe. Navyše tadiaľ viedla diaľková kupecká cesta a jej kontrolou Přemyslovci nadobúdali tiež zisky. Väčšinu peňazí z predaja dostalo kniežacie vojsko, ktorého velitelia boli rozosiati po celom území kniežatstva. Ako sa neskôr ukázalo, systém nebol príliš stabilný. </span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Vzostup rodu Slávnikovcov&nbsp; začal v druhej polovici 10. storočia. Pred masakrom im patrila oblasť vo východných Čechách. Ich centrum bolo hradisko&nbsp; Libice nad Cidlinou. Bližšie neznámy sobáš potvrdzuje spätosť so Saskou cisárskou dynastiou. Dá sa predpokladať, že saská dynastie chcela mať v Slavníkovcoch českú protiváhu Přemyslovcom a je nutné povedať, že&nbsp; Slavníkovci určite neboli proti. Podarilo sa im presadiť do úradu pražského biskupa Vojtecha – z rodu Slávnikovcov. Vtedy sa už časy menili. Kniežaťom bol Boleslavov rovnomenný syn - Boleslav II. Za neho vzniklo pražské biskupstvo, ktorej prvým biskupom sa stal Sas znalý slovenských pomerov - Dětmar. Druhým biskupom sa stal z diplomatických dôvodov Slavníkovec Vojtech. Znepriateliť si Slavníkovcov by sa Přemyslovcom mohlo kruto nevyplatiť. </span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Masaker</span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Násilný akt prebehol v roku 995. Vtedy bol Vojtech po nezhodách s kniežaťom už rok preč z Čiech. Napätie medzi vládnucimi Přemyslovci a ambicióznymi Slavníkovcami silnelo. Táto \"kokurencia\" nebola jediným dôvodom. </span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">V Čechách sa začínala prejavovať kríza. Kniežatstvo začalo strácať svoje dŕžavy nadobudnuté pred generáciou. Stratilo Malopoľsko, Krakov a okolo roku 990 (Poľskí bádatelia predpokladajú predchádzajúce desaťročia) Sliezsko. Klesali tak kniežacie príjmy, ktoré potom (ne) dostávali vojaci. Vojaci, ktorým sa podarilo uniknúť zo Sliezska situáciu tiež nezlepšili. Slabá ekonomika, založená na podmanených územiach, kniežacie vojsko nemohla vyživiť. Morálka bola tiež zlá. Drastický čin mohol zlepšiť narušenú morálku družiny a priniesť peniaze zo slavníkovského územia. Ďalším dôvodom boli mocenské ambície ďalšieho rodu, tentoraz Vršovcov. </span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Šesťdesiatročný, ťažko chorý vládca aj z dôvodu silného tlaku ostatných veľmožov (a údajne aj v súvislosti so svojimi návalmi zúrivosti a pomätenia), vydal rozkaz k zničeniu Slavníkovcov. Každopádne dokonale využil situácie. </span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Nemecký cisár pripravoval výpravu proti pohanským Obodritom. Česi poslali dva kontingenty. Jeden poslali Přemyslovci, a viedol ho syn kniežaťa - Boleslav Ryšavý (neskôr knieža Boleslav III.). Druhý (Slavníkovský) viedol najstarší syn Slavníka, Soběbor. Sídlo Slavníkovcov - Libice, bolo bez skúsených bojovníkov len s malou posádkou. Tá bola vedená štyrmi bratmi. Boli to: Spytimír, Dobraslav, Porej, Čáslav. </span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">27. 9. 995 začal pod vedením Vršovcov útok na Libice. Družina rozprášila okolitý ľud a obliehala Libice. Obrancovia chceli deň pred sviatkom svätého Václava nebojovať, ale útočníci im to nedovolili. Začal tuhý boj v ktorom, aj cez svoju odvahu, obrancovia nemali šancu. Museli sa uchýliť do kostola. Útočníci im dali nádej, že ich nechajú nažive. Akonáhle vyšli z kostola, boli všetci pobití vrátane žien a detí. </span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Jediní dvaja Slavníkovci, ktorí prežili - Vojtěch a Soběbor, dožili v Poľsku v azyle Boleslava chrabrého. Libice boli venované Vršovcom, ale tých v roku 1108 stihol rovnaký osud. Boli tiež vyvraždení. Smrťou Boleslava II. (999) začala v kniežatstve kríza, pri ktorej sa niekoľkokrát vystriedal panovník. Moravu dobyl poľský panovník Boleslav Chrabrý (na chvíľu sa stal i kniežaťom Čiech), držal ju do roku 1019.</span></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nOrgoň</div>\n<div style=\"text-align: justify;\">\n</div>\nZdroj: http://www.e-stredovek.cz/view.php?cisloclanku=2005082901"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/4942540560935634483/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/08/libice-hlavne-hradisko-slavnikovcov-cz.html#comment-form",
+            "title": "0 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/4942540560935634483"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/4942540560935634483"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/08/libice-hlavne-hradisko-slavnikovcov-cz.html",
+            "title": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGL05-v6peu8CUiFb37oeZF7bHes5H7K0E7dCo7qNm1PWn9f-UiPghHs5GpWRdyaRg_LbPZwEY_dmbQsGICkDS59qaxdPKsoxNCy2OXmZEEHN-EqIDoGeQJ4xbpETTSYEM05j6lPCVDcc/s72-c/1.01eliskreta.JPG",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}
