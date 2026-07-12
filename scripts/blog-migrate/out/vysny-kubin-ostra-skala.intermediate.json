@@ -1,0 +1,965 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\vysny-kubin-post.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1265471835434893861",
+    "bloggerPostUrl": "http://www.hradiska.sk/2014/10/vysny-kubin-ostra-skala.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1265471835434893861/comments/default",
+    "extractedAt": "2026-07-12T20:35:09.935Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&ll=49.192082,19.332569&spn=0.011289,0.032659&t=h&z=16&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 22,
+      "captionedImages": 4,
+      "separatorImages": 18
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Vyšný Kubín - OSTRÁ SKALA ",
+    "slug": "vysny-kubin-ostra-skala",
+    "excerpt": "Významným keltským a neskôr slovanským hradiskom na území Oravy bola Ostrá skala, ktorá sa nachádza severne od Vyšného Kubína. Leží v tesnej blízkosti iného významného hradiska – Tupá skala, známeho najmä osídlením z obdobia lužickej kultúry. Z…",
+    "authorName": "Orgon",
+    "publishedAt": "2014-10-09T20:25:00.001+02:00",
+    "originalPublishedDate": "2014-10-09T20:25:00.001+02:00",
+    "updatedAt": "2014-10-10T10:43:06.147+02:00",
+    "readingTime": 8,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s0/Demian.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s1600/Demian.jpg",
+      "filename": "Demian.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s1600/Demian.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 240,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s0/Demian.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s1600/Demian.jpg",
+        "filename": "Demian.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s1600/Demian.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "foto: Tomáš Demian"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOsf3SQjhyRNu2C99p9emqxLx4n_MD3N3YMjlRzyJ0UUHgyYuiqMcHKIPqnXTAh4nBKUhsMUqTG-rMhlPcbtR23yfRr-QU6_5fuURNSWEyJAvsQ51uTDWaqUI0zJq-Ty-MIKAOcqsZcB4/s0/a.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOsf3SQjhyRNu2C99p9emqxLx4n_MD3N3YMjlRzyJ0UUHgyYuiqMcHKIPqnXTAh4nBKUhsMUqTG-rMhlPcbtR23yfRr-QU6_5fuURNSWEyJAvsQ51uTDWaqUI0zJq-Ty-MIKAOcqsZcB4/s1600/a.jpg",
+        "filename": "a.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOsf3SQjhyRNu2C99p9emqxLx4n_MD3N3YMjlRzyJ0UUHgyYuiqMcHKIPqnXTAh4nBKUhsMUqTG-rMhlPcbtR23yfRr-QU6_5fuURNSWEyJAvsQ51uTDWaqUI0zJq-Ty-MIKAOcqsZcB4/s1600/a.jpg",
+          "displayedWidth": 310,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdooZ2LtzR8hMDdO92FTvqicwhc3i8361vECAgDokjn2WiqySt3b9EkIcMw0TkhWA7MKCk4NITdfbyyxHEDBGOXhY-MvzMsNWns99yLS_UoxJI5Vryz4HZryIVPXNng8lsThxi9qf9Fg/s0/Ostra%CC%81+a+Tupa%CC%81+skala.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdooZ2LtzR8hMDdO92FTvqicwhc3i8361vECAgDokjn2WiqySt3b9EkIcMw0TkhWA7MKCk4NITdfbyyxHEDBGOXhY-MvzMsNWns99yLS_UoxJI5Vryz4HZryIVPXNng8lsThxi9qf9Fg/s1600/Ostra%CC%81+a+Tupa%CC%81+skala.jpg",
+        "filename": "Ostrá+a+Tupá+skala.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdooZ2LtzR8hMDdO92FTvqicwhc3i8361vECAgDokjn2WiqySt3b9EkIcMw0TkhWA7MKCk4NITdfbyyxHEDBGOXhY-MvzMsNWns99yLS_UoxJI5Vryz4HZryIVPXNng8lsThxi9qf9Fg/s1600/Ostra%CC%81+a+Tupa%CC%81+skala.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Tupá a Ostrá skala (foto: T. Demian)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42styi7pJCAjEhWGtjuwrUAkdlDGc_-ITFj9Ggy9QPjliXykADobeukYtqomM97TNlfMeOfufALa2tUL_gOHlycKHvM6-KnBZ4V9uKtW0eRXdBvDJ4y1Q88qUft6dslQOJiTVRbbHL_A/s0/c.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42styi7pJCAjEhWGtjuwrUAkdlDGc_-ITFj9Ggy9QPjliXykADobeukYtqomM97TNlfMeOfufALa2tUL_gOHlycKHvM6-KnBZ4V9uKtW0eRXdBvDJ4y1Q88qUft6dslQOJiTVRbbHL_A/s1600/c.jpg",
+        "filename": "c.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42styi7pJCAjEhWGtjuwrUAkdlDGc_-ITFj9Ggy9QPjliXykADobeukYtqomM97TNlfMeOfufALa2tUL_gOHlycKHvM6-KnBZ4V9uKtW0eRXdBvDJ4y1Q88qUft6dslQOJiTVRbbHL_A/s1600/c.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 208,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5_JPSnTamULwAn6H23d0GhDO2Rp81SF4AAllcFdqKg60MZrHe7Q4eUV8tC3OxBLSAwKQI8usFFNq88oqlohffLoxq1r30Hqmr4owWAjOTxQOfvquLVQF98Y93dSwkO-8ZRdjubG2RsM/s0/333.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5_JPSnTamULwAn6H23d0GhDO2Rp81SF4AAllcFdqKg60MZrHe7Q4eUV8tC3OxBLSAwKQI8usFFNq88oqlohffLoxq1r30Hqmr4owWAjOTxQOfvquLVQF98Y93dSwkO-8ZRdjubG2RsM/s1600/333.jpg",
+        "filename": "333.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5_JPSnTamULwAn6H23d0GhDO2Rp81SF4AAllcFdqKg60MZrHe7Q4eUV8tC3OxBLSAwKQI8usFFNq88oqlohffLoxq1r30Hqmr4owWAjOTxQOfvquLVQF98Y93dSwkO-8ZRdjubG2RsM/s1600/333.jpg",
+          "displayedWidth": 222,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB9bf6lWOE75as-tzuQAZ3IVWmPmZhpUQWrp6hFyZ1yUPSBJXy2yvXauVo8tkH03OmwCBS9p1tUQV8RzCq5NMxh0gIWyN6P0ZTcoKQ82mprLMB5vezBh8xump39rvM953AbxE9sOnC2F0/s0/1540266_746713422075076_3419791315904626063_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB9bf6lWOE75as-tzuQAZ3IVWmPmZhpUQWrp6hFyZ1yUPSBJXy2yvXauVo8tkH03OmwCBS9p1tUQV8RzCq5NMxh0gIWyN6P0ZTcoKQ82mprLMB5vezBh8xump39rvM953AbxE9sOnC2F0/s1600/1540266_746713422075076_3419791315904626063_o.jpg",
+        "filename": "1540266_746713422075076_3419791315904626063_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB9bf6lWOE75as-tzuQAZ3IVWmPmZhpUQWrp6hFyZ1yUPSBJXy2yvXauVo8tkH03OmwCBS9p1tUQV8RzCq5NMxh0gIWyN6P0ZTcoKQ82mprLMB5vezBh8xump39rvM953AbxE9sOnC2F0/s1600/1540266_746713422075076_3419791315904626063_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Kelti (Vae Victis)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPNYo_b6upvYgMS-txipaxgKv6eOgS-8JoKL7yq6OsAiqjmMUNgbf6Nk6iRHz5xaEm5BuFrV3p9lXFcBifvM2DQtfn_p_GwgyLbVpgMzu_u31P1AEcXantxDvtQPkTpnXl4-i-BHwdeQ/s0/Ostra%CC%81+a+Tupa%CC%81+skala+1950.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPNYo_b6upvYgMS-txipaxgKv6eOgS-8JoKL7yq6OsAiqjmMUNgbf6Nk6iRHz5xaEm5BuFrV3p9lXFcBifvM2DQtfn_p_GwgyLbVpgMzu_u31P1AEcXantxDvtQPkTpnXl4-i-BHwdeQ/s1600/Ostra%CC%81+a+Tupa%CC%81+skala+1950.jpg",
+        "filename": "Ostrá+a+Tupá+skala+1950.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPNYo_b6upvYgMS-txipaxgKv6eOgS-8JoKL7yq6OsAiqjmMUNgbf6Nk6iRHz5xaEm5BuFrV3p9lXFcBifvM2DQtfn_p_GwgyLbVpgMzu_u31P1AEcXantxDvtQPkTpnXl4-i-BHwdeQ/s1600/Ostra%CC%81+a+Tupa%CC%81+skala+1950.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 149,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Tupá a Ostrá skala na ortofoto mape z 50. rokov"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvjklsO88t9hXXApjoU9dKb-Tj3evaHegn226gNYp516iDQZ4LNzymGXkGKSzvXIUvIZZnk4DWIa_X4oqmIQ89ulj8yLVBnJmLFHoRezg3q-hu6Se-fmud4rEVXcqrwlboJBBOIdXfpZw/s0/b.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvjklsO88t9hXXApjoU9dKb-Tj3evaHegn226gNYp516iDQZ4LNzymGXkGKSzvXIUvIZZnk4DWIa_X4oqmIQ89ulj8yLVBnJmLFHoRezg3q-hu6Se-fmud4rEVXcqrwlboJBBOIdXfpZw/s1600/b.jpg",
+        "filename": "b.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvjklsO88t9hXXApjoU9dKb-Tj3evaHegn226gNYp516iDQZ4LNzymGXkGKSzvXIUvIZZnk4DWIa_X4oqmIQ89ulj8yLVBnJmLFHoRezg3q-hu6Se-fmud4rEVXcqrwlboJBBOIdXfpZw/s1600/b.jpg",
+          "displayedWidth": 294,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP3J8kGZemriFKt0w1RuAmNmU3kx6tthH4_3i16g4ZxvwDtYbNp6YiXH_jciVn7o8bpj1_V3CqNQQZhXW3WVj2wlsm6xxMlPV1wbOjTTE9SiBip_u13ZYpPPL__906EY3YmPploBi4_YM/s0/224a.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP3J8kGZemriFKt0w1RuAmNmU3kx6tthH4_3i16g4ZxvwDtYbNp6YiXH_jciVn7o8bpj1_V3CqNQQZhXW3WVj2wlsm6xxMlPV1wbOjTTE9SiBip_u13ZYpPPL__906EY3YmPploBi4_YM/s1600/224a.jpg",
+        "filename": "224a.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP3J8kGZemriFKt0w1RuAmNmU3kx6tthH4_3i16g4ZxvwDtYbNp6YiXH_jciVn7o8bpj1_V3CqNQQZhXW3WVj2wlsm6xxMlPV1wbOjTTE9SiBip_u13ZYpPPL__906EY3YmPploBi4_YM/s1600/224a.jpg",
+          "displayedWidth": 222,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguXfejQ6Olf9sRW5IVfY26KNPoFdhXC4_Hc1DhgGR5b-_Ktn3KZuipzS-NY4civzxIn7h8l4dOjJII6LR1an9Ndwitu9XiXCTCXbvdJb388mohrj1Ue4ezwIuHsVPKgvrWlReAGCPF8e4/s0/181.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguXfejQ6Olf9sRW5IVfY26KNPoFdhXC4_Hc1DhgGR5b-_Ktn3KZuipzS-NY4civzxIn7h8l4dOjJII6LR1an9Ndwitu9XiXCTCXbvdJb388mohrj1Ue4ezwIuHsVPKgvrWlReAGCPF8e4/s1600/181.jpg",
+        "filename": "181.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguXfejQ6Olf9sRW5IVfY26KNPoFdhXC4_Hc1DhgGR5b-_Ktn3KZuipzS-NY4civzxIn7h8l4dOjJII6LR1an9Ndwitu9XiXCTCXbvdJb388mohrj1Ue4ezwIuHsVPKgvrWlReAGCPF8e4/s1600/181.jpg",
+          "displayedWidth": 222,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCuGwo3BM0cK5MJNh2AGKW6iC4MOURFhOWP8U06dFzzR1WaoknZN_CSyLTNTFlz5dUBkI75E8SF6XTchvlhiK7pz88m6vyBeWUwbuAW98TiQlUPjqxfbpdhIy0rmwKQq5fLdVlw2p4pE/s0/h.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCuGwo3BM0cK5MJNh2AGKW6iC4MOURFhOWP8U06dFzzR1WaoknZN_CSyLTNTFlz5dUBkI75E8SF6XTchvlhiK7pz88m6vyBeWUwbuAW98TiQlUPjqxfbpdhIy0rmwKQq5fLdVlw2p4pE/s1600/h.jpg",
+        "filename": "h.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCuGwo3BM0cK5MJNh2AGKW6iC4MOURFhOWP8U06dFzzR1WaoknZN_CSyLTNTFlz5dUBkI75E8SF6XTchvlhiK7pz88m6vyBeWUwbuAW98TiQlUPjqxfbpdhIy0rmwKQq5fLdVlw2p4pE/s1600/h.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 254,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqgkr2pBkDHRhZWBqQZdi5CNFK_-FHyw9iJleeiu3l7MpUwWWasopIhGwGSk702GXz-ipJfFM8Q8xb6nZcEFhDUt1yi_QJVdWcS7sRmgNuV_Qhxz_xPkUv4dXGVFv2HvqWEXlfIaNgxk/s0/d.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqgkr2pBkDHRhZWBqQZdi5CNFK_-FHyw9iJleeiu3l7MpUwWWasopIhGwGSk702GXz-ipJfFM8Q8xb6nZcEFhDUt1yi_QJVdWcS7sRmgNuV_Qhxz_xPkUv4dXGVFv2HvqWEXlfIaNgxk/s1600/d.jpg",
+        "filename": "d.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqgkr2pBkDHRhZWBqQZdi5CNFK_-FHyw9iJleeiu3l7MpUwWWasopIhGwGSk702GXz-ipJfFM8Q8xb6nZcEFhDUt1yi_QJVdWcS7sRmgNuV_Qhxz_xPkUv4dXGVFv2HvqWEXlfIaNgxk/s1600/d.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 288,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE6JAJ_-LsXla8jy2jsGk8jaFphlcMp5OE6NeTvApdEmLgC-FRY4g1e2jTJLF_8A-h2HKysPmylrDJONtnVyqdLGQGNy0nOv5KlftKYMKTIVUK8aaw3jBolNLDwaP1-TirvpXV_ckI_8I/s0/f.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE6JAJ_-LsXla8jy2jsGk8jaFphlcMp5OE6NeTvApdEmLgC-FRY4g1e2jTJLF_8A-h2HKysPmylrDJONtnVyqdLGQGNy0nOv5KlftKYMKTIVUK8aaw3jBolNLDwaP1-TirvpXV_ckI_8I/s1600/f.jpg",
+        "filename": "f.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE6JAJ_-LsXla8jy2jsGk8jaFphlcMp5OE6NeTvApdEmLgC-FRY4g1e2jTJLF_8A-h2HKysPmylrDJONtnVyqdLGQGNy0nOv5KlftKYMKTIVUK8aaw3jBolNLDwaP1-TirvpXV_ckI_8I/s1600/f.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 307,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeZkvxtwKjhWq_FQKygVpnOt0jPcWDcknBHlISgyz8uokt5PLghz7FHtxGwBnNstwYOtwJSodENHzfUAEusuO3r11a58L7pmE37OxBpI0qkh0vZl4T19QI_PMarHx53LKrVBsXpjlm3w/s0/g.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeZkvxtwKjhWq_FQKygVpnOt0jPcWDcknBHlISgyz8uokt5PLghz7FHtxGwBnNstwYOtwJSodENHzfUAEusuO3r11a58L7pmE37OxBpI0qkh0vZl4T19QI_PMarHx53LKrVBsXpjlm3w/s1600/g.jpg",
+        "filename": "g.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeZkvxtwKjhWq_FQKygVpnOt0jPcWDcknBHlISgyz8uokt5PLghz7FHtxGwBnNstwYOtwJSodENHzfUAEusuO3r11a58L7pmE37OxBpI0qkh0vZl4T19QI_PMarHx53LKrVBsXpjlm3w/s1600/g.jpg",
+          "displayedWidth": 277,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyiEavzIGjkGaHKKA62zrmVFZK_Yumzlrtl5okMzFOh65G_ZUwWT6-pZbjx9SXV2qhxckbGAjOvigADtcjY7ssOEeTRMlGKw8k_4yOEG1urYfbvbzlH3PUwDo7ieGNYjLuP2tsikfoPh0/s0/352.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyiEavzIGjkGaHKKA62zrmVFZK_Yumzlrtl5okMzFOh65G_ZUwWT6-pZbjx9SXV2qhxckbGAjOvigADtcjY7ssOEeTRMlGKw8k_4yOEG1urYfbvbzlH3PUwDo7ieGNYjLuP2tsikfoPh0/s1600/352.jpg",
+        "filename": "352.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyiEavzIGjkGaHKKA62zrmVFZK_Yumzlrtl5okMzFOh65G_ZUwWT6-pZbjx9SXV2qhxckbGAjOvigADtcjY7ssOEeTRMlGKw8k_4yOEG1urYfbvbzlH3PUwDo7ieGNYjLuP2tsikfoPh0/s1600/352.jpg",
+          "displayedWidth": 222,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5rnnxsTdLjA8zcxQw10NE5BUv_S_IOYbfxK0DWicbKRlJSBbgUN66BwW16xQfhxUQJUUROdF1VNal0DEswUG6rIXY-_iM9JPAorOzyZza2N0aa0poKMzRl21jUCT-N2bRtsodHx8-gQ8/s0/365.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5rnnxsTdLjA8zcxQw10NE5BUv_S_IOYbfxK0DWicbKRlJSBbgUN66BwW16xQfhxUQJUUROdF1VNal0DEswUG6rIXY-_iM9JPAorOzyZza2N0aa0poKMzRl21jUCT-N2bRtsodHx8-gQ8/s1600/365.jpg",
+        "filename": "365.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5rnnxsTdLjA8zcxQw10NE5BUv_S_IOYbfxK0DWicbKRlJSBbgUN66BwW16xQfhxUQJUUROdF1VNal0DEswUG6rIXY-_iM9JPAorOzyZza2N0aa0poKMzRl21jUCT-N2bRtsodHx8-gQ8/s1600/365.jpg",
+          "displayedWidth": 222,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyejnBIOvgvKMVyyqLxt-TfeIj-O6AEIIP6gfuKNBPpzoxDRG5dOuTkbrDAMbLTwMFiKkae0DWXsJCXqwKYGYfdbu8RfQdfipCOoE_2FmUKmryRot6qPGazl0yd5PxtRQl6rUtADVVosM/s0/02_architektura.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyejnBIOvgvKMVyyqLxt-TfeIj-O6AEIIP6gfuKNBPpzoxDRG5dOuTkbrDAMbLTwMFiKkae0DWXsJCXqwKYGYfdbu8RfQdfipCOoE_2FmUKmryRot6qPGazl0yd5PxtRQl6rUtADVVosM/s1600/02_architektura.jpg",
+        "filename": "02_architektura.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyejnBIOvgvKMVyyqLxt-TfeIj-O6AEIIP6gfuKNBPpzoxDRG5dOuTkbrDAMbLTwMFiKkae0DWXsJCXqwKYGYfdbu8RfQdfipCOoE_2FmUKmryRot6qPGazl0yd5PxtRQl6rUtADVVosM/s1600/02_architektura.jpg",
+          "displayedWidth": 317,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphFIvVzOXciRXiBzppPU94a_vPr1osVS0CzOOlwjM7hY9Fjemfx6-QATfUMo5mnNAhdjXjlxoVdPgHzm14ZwAUZJwUh5Ii2voQppObnbWoJmoWdeJSvnAVjaGXu2sBrqZzuvCQbXbKQQ/s0/03_Baca_s_ovcami_v_pozadi_skalky.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphFIvVzOXciRXiBzppPU94a_vPr1osVS0CzOOlwjM7hY9Fjemfx6-QATfUMo5mnNAhdjXjlxoVdPgHzm14ZwAUZJwUh5Ii2voQppObnbWoJmoWdeJSvnAVjaGXu2sBrqZzuvCQbXbKQQ/s1600/03_Baca_s_ovcami_v_pozadi_skalky.jpg",
+        "filename": "03_Baca_s_ovcami_v_pozadi_skalky.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphFIvVzOXciRXiBzppPU94a_vPr1osVS0CzOOlwjM7hY9Fjemfx6-QATfUMo5mnNAhdjXjlxoVdPgHzm14ZwAUZJwUh5Ii2voQppObnbWoJmoWdeJSvnAVjaGXu2sBrqZzuvCQbXbKQQ/s1600/03_Baca_s_ovcami_v_pozadi_skalky.jpg",
+          "displayedWidth": 317,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKEuQDSYYXz_GA21GlIAX3R421WTEUygxYxSwy_EjCnOuhk15e03YZNwOv5GaHqmtHLlpOfEs1HFXgcVO0Hqiv38xF4EMnDfeESubzWT8y6g4WbomQ8Jl0_IPC9aBUgzHDC92ArQWYUik/s0/08_Koliba_pod_Tupou_a_Ostrou_skalou.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKEuQDSYYXz_GA21GlIAX3R421WTEUygxYxSwy_EjCnOuhk15e03YZNwOv5GaHqmtHLlpOfEs1HFXgcVO0Hqiv38xF4EMnDfeESubzWT8y6g4WbomQ8Jl0_IPC9aBUgzHDC92ArQWYUik/s1600/08_Koliba_pod_Tupou_a_Ostrou_skalou.jpg",
+        "filename": "08_Koliba_pod_Tupou_a_Ostrou_skalou.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKEuQDSYYXz_GA21GlIAX3R421WTEUygxYxSwy_EjCnOuhk15e03YZNwOv5GaHqmtHLlpOfEs1HFXgcVO0Hqiv38xF4EMnDfeESubzWT8y6g4WbomQ8Jl0_IPC9aBUgzHDC92ArQWYUik/s1600/08_Koliba_pod_Tupou_a_Ostrou_skalou.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidXci0MLn9R7uaZKQSiVMH5IyLW48MlBNbHzYLYpCMdPmyx8akhGY1UgVXLIepzzNwUte2uqWNrMCG6azKWEgt4g6x5WP7I1XWI9IjTSRJfMAAys-4O7WFq2W7j6SHaITFS7A4OSSk50c/s0/10_pastva_pod_skalkami.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidXci0MLn9R7uaZKQSiVMH5IyLW48MlBNbHzYLYpCMdPmyx8akhGY1UgVXLIepzzNwUte2uqWNrMCG6azKWEgt4g6x5WP7I1XWI9IjTSRJfMAAys-4O7WFq2W7j6SHaITFS7A4OSSk50c/s1600/10_pastva_pod_skalkami.jpg",
+        "filename": "10_pastva_pod_skalkami.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidXci0MLn9R7uaZKQSiVMH5IyLW48MlBNbHzYLYpCMdPmyx8akhGY1UgVXLIepzzNwUte2uqWNrMCG6azKWEgt4g6x5WP7I1XWI9IjTSRJfMAAys-4O7WFq2W7j6SHaITFS7A4OSSk50c/s1600/10_pastva_pod_skalkami.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 218,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_qiDAcomayPYVxmddntiQcc-LGKmnZY4p1iZRQaT3w5LhTiu0H4aMn_T4G8tZ2epRhffj5hLhsa4c_EUtUWjvVal8JqJxRL-Fn_ptZYmf1gj9OzzvKyomQRWUa_vApTKjX4-cdLUMW1k/s0/11_pohlad_od_juhu.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_qiDAcomayPYVxmddntiQcc-LGKmnZY4p1iZRQaT3w5LhTiu0H4aMn_T4G8tZ2epRhffj5hLhsa4c_EUtUWjvVal8JqJxRL-Fn_ptZYmf1gj9OzzvKyomQRWUa_vApTKjX4-cdLUMW1k/s1600/11_pohlad_od_juhu.jpg",
+        "filename": "11_pohlad_od_juhu.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_qiDAcomayPYVxmddntiQcc-LGKmnZY4p1iZRQaT3w5LhTiu0H4aMn_T4G8tZ2epRhffj5hLhsa4c_EUtUWjvVal8JqJxRL-Fn_ptZYmf1gj9OzzvKyomQRWUa_vApTKjX4-cdLUMW1k/s1600/11_pohlad_od_juhu.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 312,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhphc-218Yof5-iomAKqM-hTsudkFMAkj8sqcclYjgO8_szqbbG66zQT8Nh_OY0-f8DG5yFPtaQwRJd0J72pOtnazgHHvHaCaPTJZ992f_kHuSPZXe5QgNgdTZr7lqQhhU8MotA_ljWiuc/s0/17_vysnokubinske_skaly.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhphc-218Yof5-iomAKqM-hTsudkFMAkj8sqcclYjgO8_szqbbG66zQT8Nh_OY0-f8DG5yFPtaQwRJd0J72pOtnazgHHvHaCaPTJZ992f_kHuSPZXe5QgNgdTZr7lqQhhU8MotA_ljWiuc/s1600/17_vysnokubinske_skaly.jpg",
+        "filename": "17_vysnokubinske_skaly.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhphc-218Yof5-iomAKqM-hTsudkFMAkj8sqcclYjgO8_szqbbG66zQT8Nh_OY0-f8DG5yFPtaQwRJd0J72pOtnazgHHvHaCaPTJZ992f_kHuSPZXe5QgNgdTZr7lqQhhU8MotA_ljWiuc/s1600/17_vysnokubinske_skaly.jpg",
+          "displayedWidth": 223,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Vyšný Kubín - OSTRÁ SKALA"
+    ],
+    "category": null,
+    "location": {
+      "name": "Vyšný Kubín - Ostrá skala",
+      "latitude": 49.192082,
+      "longitude": 19.332569,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Severne od Vyšného Kubína, tesne pri susednom hradisku Tupá skala; z juhu chránené 50 – 70 m vysokými skalnými stenami",
+        "icon": "mountain"
+      },
+      {
+        "label": "Tri nádvoria",
+        "value": "Dolné (za bránou), stredné (najviac nálezov) a najvyššie (val s drevenou komorovou konštrukciou)",
+        "icon": "building"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "Kamenný múr vyše 2 m vysoký s drevenou palisádou, spolu s murivom dosahujúci vyše 3 m; slovanský val v tvare nesymetrickej podkovy s plochou 2500 m²",
+        "icon": "shield"
+      },
+      {
+        "label": "Halová stavba",
+        "value": "Dlhá stavba so strechou podopretou stredovými stĺpmi na najvyššej polohe, so zrubovými stenami a rákosovou strechou",
+        "icon": "building"
+      },
+      {
+        "label": "Významné nálezy",
+        "value": "Bronzové ramienko váh, tri zlaté statéry (2. stor. pred n. l.), laténske spony, kostený hrebeň zo strednej doby rímskej",
+        "icon": "star"
+      },
+      {
+        "label": "Rozloha slovanského hradiska",
+        "value": "Tri nádvoria s rozlohou približne 1,5 – 2 ha",
+        "icon": "shield"
+      },
+      {
+        "label": "Zdroj",
+        "value": "Spracoval Orgoň, podľa Pavla Čaploviča",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "koniec halštatskej doby",
+        "title": "Zánik hradiska na Tupej skale",
+        "description": "Lužické osídlenie a jeho hradisko na susednej Tupej skale bolo zničené.",
+        "type": "destruction"
+      },
+      {
+        "year": "stredný latén",
+        "title": "Kelti obsadzujú Ostrú skalu",
+        "description": "Ľud púchovskej kultúry (splynutie lužického obyvateľstva s Keltami) vybudoval na Ostrej skale pevný hrádok, obklopený osadou pri jej úpätí.",
+        "type": "founding"
+      },
+      {
+        "year": "2. storočie pred n. l.",
+        "title": "Zlaté statéry",
+        "description": "Tri zlaté statéry (napodobeniny filipovských mincí) nájdené na lokalite v 19. storočí, dokladajúce rozvoj sídelnej aglomerácie v strednom laténe.",
+        "type": "event"
+      },
+      {
+        "year": "70 ± 55 n. l.",
+        "title": "Prvý katastrofický termín (C14)",
+        "description": "Karbónová analýza roštovej konštrukcie horného valu — zničenie zachytené aj na susedných Trninách.",
+        "type": "destruction"
+      },
+      {
+        "year": "35 ± 40 n. l.",
+        "title": "Druhá datovaná fáza deštrukcie",
+        "description": "Karbonizované trámy z objektov na strednom nádvorí, prisypané planírkou.",
+        "type": "destruction"
+      },
+      {
+        "year": "173 – 180 n. l.",
+        "title": "Odchod Kotínov do Panónie",
+        "description": "Vzorka z horného valu (220 ± 45 n. l.) približne zodpovedá obdobiu markomanských vojen a vysídlenia Kotínov spolu s Markomanmi a Kvádmi — časť Kvádov na Slovensku zostala.",
+        "type": "event"
+      },
+      {
+        "year": "9. storočie",
+        "title": "Slovania obnovujú hradisko",
+        "description": "Slovania objavili strategickú polohu Ostrej skaly, obnovili opevnenia a vybudovali nové obydlia; využili pritom zvyšky staršej laténskej fortifikácie.",
+        "type": "founding"
+      },
+      {
+        "year": "prelom 8. a 9. storočia",
+        "title": "Zahĺbené obydlie s pecou",
+        "description": "Kultúrna vrstva s ďalšími sídliskovými objektmi a ohniskami; nálezy ostrôh, kôs, kovaní vedierok, nožov, sekier a britiev.",
+        "type": "construction"
+      },
+      {
+        "year": "druhá polovica 9. – 10. storočie",
+        "title": "Kontinuita osídlenia",
+        "description": "Preukázaná kontinuita medzi oboma hlavnými časovými horizontmi využitia lokality.",
+        "type": "event"
+      },
+      {
+        "year": "10. – 12./13. storočie",
+        "title": "Mladšie osídlenie so zrubovou konštrukciou",
+        "description": "Príbytky so zrubovou konštrukciou (zuhoľnatené zvyšky trámov); hradisko pretrvalo až do 12. storočia, pravdepodobne ako správne sídlo aj v počiatkoch uhorského štátu.",
+        "type": "event"
+      },
+      {
+        "year": "11. storočie",
+        "title": "Včlenenie Oravy do uhorského štátu",
+        "description": "Orava sa stala súčasťou uhorského ranofeudálneho štátu; hrad Orava v tom čase ešte neexistoval.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Významným keltským a neskôr slovanským hradiskom na území Oravy bola Ostrá skala, ktorá sa nachádza severne od Vyšného Kubína. Leží v tesnej blízkosti iného významného hradiska – Tupá skala, známeho najmä osídlením z obdobia lužickej kultúry. Z južnej strany je hradisko chránené 50 až 70 m vysokými skalnými stenami, kým severná strana má miernejší sklon, využívaný v praveku na prístupovú cestu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "KELTI NA OSTREJ SKALE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Predchádzajúce lužické osídlenie a jeho významné hradisko na Tupej skale bolo niekedy na konci halštatského obdobia zničené a v strednej dobe laténskej zaujali Ostrú skalu Kelti (resp.presnejšie ľud púchovskej kultúry, vyformovaný splynutím pôvodného lužického obyvateľstva s keltami), ktorí na nej vybudovali pevný hrádok. Ich osada sa potom rozprestierala okolo úpätia Ostrej skaly. Strmý terén sídliska plne vyhovoval a ešte umocňoval neprístupnosť dobudovanými fortifikáciami. Sídlisko v okolí Ostrej skaly zabezpečovalo hrádok vodou, potravinami a prácou a na druhej strane obyvateľstvo sa mohlo v čase nebezpečenstva dostať za hradby opevnenia a najsť tu útočisko pred nepriateľmi. Obranné zariadenia boli i na Ostrej skale závislé od dostatočného počtu schopných obrancov, ale neposkytovali už ochranu pre dobytok, ktorý musel ostať na úpätí alebo v horách. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Spomenuté sídlisko sa rozprestiera v polohe Chmelínce s prameňom pitnej vody, v polohe Za lúky a Železný laz s iným prameňom, v Medziskalí (medzi Ostrou a Tupou skalou) a čiastočne i v polohe Janovie lazy s ďalším prameňom stálej vody. Na sídliskách sa našli zlomky keramiky halštatskej a púchovskej kultúry. Chýbajú kovové, kostěné a iné nástroje. Jediný žarnov so stredovou dierou poukazuje na laténsky pôvod."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s0/Demian.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s1600/Demian.jpg",
+          "filename": "Demian.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s1600/Demian.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "foto: Tomáš Demian",
+        "caption": "foto: Tomáš Demian",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prístup na Ostrú skalu viedol z priestoru Medziskalia od západu v severnom svahu cestou (dnes chodník), pričom v strede dĺžky, na lome terénu, prechádzalo sa pôvodne cez opevnenú bránu. Na tento chránený vstup do sídliska upozorňuje navŕšený kameň, azda i prírodný rastlý podklad z dolnej (severnej) strany, na ktorý nadväzuje dolný zemný val. Z hornej strany drevenej brány bol súbežne popod kamenný múr výraznejší, ešte dnes badateľný chodník, azda berma s predprsňou na ochranu brány. Za bránou bolo dolné nádvorie s pomerne skloneným terénom k severu a pokračujúcou cestou (chodníkom)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vstup na stredné nádvorie umožňovala z východnej strany druhá brána poza vyvýšené kruhovité ukončenie valového muriva a palisády. Vybudovaním valového a palisádového muriva do 3,5 m výšky dosiahlo sa z hornej strany i planírovaním vyrovnanie terénu pozdĺž celej palisády až k západnej vyhliadke. Tento priestor sa v úlohe stredného nádvoria používal na najrôznejšie účely, v dôsledku čoho sa tu vyskytovalo i najviac nálezov. Boli situované väčšinou pod vrchnou slovanskou vrstvou, ale na niektorých miestach dosahovali i najvyššiu úroveň. Podľa toho usudzujeme, že nádvorie nebolo vždy rovné a preskupenie vrstiev záviselo od presunov zeminy v tých-ktorých obdobiach. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOsf3SQjhyRNu2C99p9emqxLx4n_MD3N3YMjlRzyJ0UUHgyYuiqMcHKIPqnXTAh4nBKUhsMUqTG-rMhlPcbtR23yfRr-QU6_5fuURNSWEyJAvsQ51uTDWaqUI0zJq-Ty-MIKAOcqsZcB4/s0/a.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOsf3SQjhyRNu2C99p9emqxLx4n_MD3N3YMjlRzyJ0UUHgyYuiqMcHKIPqnXTAh4nBKUhsMUqTG-rMhlPcbtR23yfRr-QU6_5fuURNSWEyJAvsQ51uTDWaqUI0zJq-Ty-MIKAOcqsZcB4/s1600/a.jpg",
+          "filename": "a.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOsf3SQjhyRNu2C99p9emqxLx4n_MD3N3YMjlRzyJ0UUHgyYuiqMcHKIPqnXTAh4nBKUhsMUqTG-rMhlPcbtR23yfRr-QU6_5fuURNSWEyJAvsQ51uTDWaqUI0zJq-Ty-MIKAOcqsZcB4/s1600/a.jpg",
+            "displayedWidth": 310,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Vyšný Kubín - OSTRÁ SKALA ",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pomerne strmý terén sklonený k severu bol najskôr rozdelený na tri časti. Prvá z nich mohla byť voči okoliu obohnaná menším zemným valom s drevenou palisádou. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Druhý priestor bol od predošlého ohradený kamenným múrom, viac než 2 m vysokým, z ktorého prevažná časť sa zachovala podnes s kolovými jamami pôvodnej krytej drevenej palisády. Pred múrom bol kameňom vyložený chodník, azda na boj zblízka. Dolná časť drevenej zrubovej palisády bola obložená tiež kamenným murivom, pravdepodobne proti ohňu, takže súvislé kamenné murivo dosahovalo takto viac než 3 m výšky a tvorilo hotové hradné múry. Dnes je vrchná časť muriva až po jeho základ zosunutá a ostatné murivo väčšinou na pôvodnom mieste prisypané prevažne zemou . Tento stav mohol vzniknúť dôsledkom rozsiahlejších slovanských úprav, keď bola zmetená značná časť zeminy z nádvoria aj s početným púchovským črepovým a kovovým materiálom, prikrývajúcim dnes kamenné murivo po celej jeho dĺžke."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdooZ2LtzR8hMDdO92FTvqicwhc3i8361vECAgDokjn2WiqySt3b9EkIcMw0TkhWA7MKCk4NITdfbyyxHEDBGOXhY-MvzMsNWns99yLS_UoxJI5Vryz4HZryIVPXNng8lsThxi9qf9Fg/s0/Ostra%CC%81+a+Tupa%CC%81+skala.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdooZ2LtzR8hMDdO92FTvqicwhc3i8361vECAgDokjn2WiqySt3b9EkIcMw0TkhWA7MKCk4NITdfbyyxHEDBGOXhY-MvzMsNWns99yLS_UoxJI5Vryz4HZryIVPXNng8lsThxi9qf9Fg/s1600/Ostra%CC%81+a+Tupa%CC%81+skala.jpg",
+          "filename": "Ostrá+a+Tupá+skala.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdooZ2LtzR8hMDdO92FTvqicwhc3i8361vECAgDokjn2WiqySt3b9EkIcMw0TkhWA7MKCk4NITdfbyyxHEDBGOXhY-MvzMsNWns99yLS_UoxJI5Vryz4HZryIVPXNng8lsThxi9qf9Fg/s1600/Ostra%CC%81+a+Tupa%CC%81+skala.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Tupá a Ostrá skala (foto: T. Demian)",
+        "caption": "Tupá a Ostrá skala (foto: T. Demian)",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Len tretia, najvyššia časť bola ohradená vysokým zemným valom s drevenou komorovou konštrukciou . Sídliskové objekty boli situované v dvoch výškové rozdielnych radoch v smere S—J na spôsob galérie. Horný rad dosahoval najvyššiu polohu Ostrej skaly a jeho základ bol starostlivo nivelovaný. Okrem zreteľného zahĺbenia do svahovitého terénu udávali pôvodnú niveláciu i početné črepy ležiace v jednej úrovni, akoby na podlahe tejto stavby. Ide o črepy z netuhovaných, hrebeňovaných nádob, len v nepatrnej miere sa našli črepy hladké, halštatského rázu. Stredom stavby stáli masívne stĺpy, z ktorých zostali v podklade vyhĺbené jamy. Zdá sa, že ide o dlhú stavbu so strechou podopretou stredovými stĺpmi, siahajúcou aspoň z východnej strany až k zemi. Môže teda ísť o tzv. halovú formu stavby s ohniskami na zvýšenej podsade, so zrubovými stenami a rákosovou strechou."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42styi7pJCAjEhWGtjuwrUAkdlDGc_-ITFj9Ggy9QPjliXykADobeukYtqomM97TNlfMeOfufALa2tUL_gOHlycKHvM6-KnBZ4V9uKtW0eRXdBvDJ4y1Q88qUft6dslQOJiTVRbbHL_A/s0/c.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42styi7pJCAjEhWGtjuwrUAkdlDGc_-ITFj9Ggy9QPjliXykADobeukYtqomM97TNlfMeOfufALa2tUL_gOHlycKHvM6-KnBZ4V9uKtW0eRXdBvDJ4y1Q88qUft6dslQOJiTVRbbHL_A/s1600/c.jpg",
+          "filename": "c.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42styi7pJCAjEhWGtjuwrUAkdlDGc_-ITFj9Ggy9QPjliXykADobeukYtqomM97TNlfMeOfufALa2tUL_gOHlycKHvM6-KnBZ4V9uKtW0eRXdBvDJ4y1Q88qUft6dslQOJiTVRbbHL_A/s1600/c.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 208,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Vyšný Kubín - OSTRÁ SKALA ",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Druhý stavebný rad bol o niečo nižšie v strmom teréne, ktorého niveláciu udávali tiež črepy, ale potrebné rozpätie sa dosahovalo osadením podperných stĺpov, z ktorých sa tiež zachovali kolové jamy. Celkove vrchol Ostrej skaly pozostával len z dvoch zistených radov sídliskových budov, okrem rôznych prístreškov pre kone, psov a iný inventár, ohradené spoločným vysokým zemným valom a drevenou palisádou obloženou kameňmi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zo zaujímavých nálezov treba spomenúť najmä bronzové ramienko váh na váženie drahých kovov, pochádzajúce zo stredného nádvoria, používané najčastejšie pri dávkovaní mincového strížku. Je tiež treba spomenúť tri zlaté smince -statéry ktoré sa tu našli v 19. storočí. Ich datovanie spadá do 2. storočia pred n. l., teda do stredného laténu, keď sa po halštatskom osídlení Tupej skaly začala vyvíjať sídelná aglomerácia okolo Ostrej skaly. Oba statéry MT sú veľmi pokročilými napodobeninami zlatých filipovských mincí. Pre názornosť možno uviesť, že jeden zlatý statér mal hodnotu 20 drachiem. Našli sa tu tiež laténske spony. Keramiku predstavujú džbány a amfory."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5_JPSnTamULwAn6H23d0GhDO2Rp81SF4AAllcFdqKg60MZrHe7Q4eUV8tC3OxBLSAwKQI8usFFNq88oqlohffLoxq1r30Hqmr4owWAjOTxQOfvquLVQF98Y93dSwkO-8ZRdjubG2RsM/s0/333.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5_JPSnTamULwAn6H23d0GhDO2Rp81SF4AAllcFdqKg60MZrHe7Q4eUV8tC3OxBLSAwKQI8usFFNq88oqlohffLoxq1r30Hqmr4owWAjOTxQOfvquLVQF98Y93dSwkO-8ZRdjubG2RsM/s1600/333.jpg",
+          "filename": "333.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5_JPSnTamULwAn6H23d0GhDO2Rp81SF4AAllcFdqKg60MZrHe7Q4eUV8tC3OxBLSAwKQI8usFFNq88oqlohffLoxq1r30Hqmr4owWAjOTxQOfvquLVQF98Y93dSwkO-8ZRdjubG2RsM/s1600/333.jpg",
+            "displayedWidth": 222,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Vyšný Kubín - OSTRÁ SKALA ",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zvyšky dreva a drevených konštrukcií umožnili i datovanie v rámci absolútnej chronológie, rozborom uhlíka C14. Karbónová analýza roštovej konštrukcie horného valu pripúšťa prvý katastrofický termín (Trniny, Ostrá skala) k roku 70±55 n. l. Druhá vzorka je z priestoru stredného nádvoria, kde sa našli karbonizované trámy z deštrukcie objektov prisypaných planírkou a datujú túto fázu k roku 35 ± 40 n. l."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kým na Trninách prestal život po zlome letopočtu, na Ostrej skale pokračoval ďalej. Vidno to na ďalšom vývoji keramiky so znateľne odlišnou formou výzdoby sudovitých hrncov. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ďalšia vzorka z drevenej vrstvy horného valu udáva termín 220 ± 45 n. 1., čo približne zodpovedá dobe odchodu Kotínov do Panónie (173 — 180 n. 1.) v súvislosti s markomanskými vojnami proti Rimanom. S Markomanmi a Kvádmi boli údajne vysídlení aj Kotíni, no časť Kvádov, ako ukazujú iné pramene, na Slovensku zostala. Na Ostrej skale bol osídlený celý severný svah medzi horným a stredným valom. V priestore sedla sa zistili kolové jamy sledujúce kameňom štětovaný chodník, rôzne terénne úpravy s črepmi ručne lepenej a hrebeňovanej keramiky."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB9bf6lWOE75as-tzuQAZ3IVWmPmZhpUQWrp6hFyZ1yUPSBJXy2yvXauVo8tkH03OmwCBS9p1tUQV8RzCq5NMxh0gIWyN6P0ZTcoKQ82mprLMB5vezBh8xump39rvM953AbxE9sOnC2F0/s0/1540266_746713422075076_3419791315904626063_o.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB9bf6lWOE75as-tzuQAZ3IVWmPmZhpUQWrp6hFyZ1yUPSBJXy2yvXauVo8tkH03OmwCBS9p1tUQV8RzCq5NMxh0gIWyN6P0ZTcoKQ82mprLMB5vezBh8xump39rvM953AbxE9sOnC2F0/s1600/1540266_746713422075076_3419791315904626063_o.jpg",
+          "filename": "1540266_746713422075076_3419791315904626063_o.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB9bf6lWOE75as-tzuQAZ3IVWmPmZhpUQWrp6hFyZ1yUPSBJXy2yvXauVo8tkH03OmwCBS9p1tUQV8RzCq5NMxh0gIWyN6P0ZTcoKQ82mprLMB5vezBh8xump39rvM953AbxE9sOnC2F0/s1600/1540266_746713422075076_3419791315904626063_o.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Kelti (Vae Victis)",
+        "caption": "Kelti (Vae Victis)",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na okraji stredného nádvoria, popri kamennom múre, sa tiež našla jemná laténska maľovaná keramika. Mladšie obdobie doby rímskej signalizujú i na Ostrej skale železné spony so žliabkovým zachycovačom. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Významným nálezom z mladšej doby rímskej je kostený hrebeň zo stredného nádvoria zložený z dvoch polkruhových kostěných platničiek, zdobených okolo okraja rebríkovitým vzorom a na spodnej rovnej časti dvojitou vlnovkou s meandrom. Podobne a velmi pôsobivo je zdobené i obloženie zubovej časti, ktoré dohromady držalo železné nitovanie. Z Ostrej skaly pochádza ďalej bochníkovitý krúžok z tmavozeleného skla, najskôr súčasť stolovej hry."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V dobe halštatskej mohla byť Ostrá skala pomocným hospodárskym objektom, ale až v strednom laténe sa stávala strediskom a postupne najznámejším púchovským sídliskom na Orave v dobe laténskej a rímskej. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPNYo_b6upvYgMS-txipaxgKv6eOgS-8JoKL7yq6OsAiqjmMUNgbf6Nk6iRHz5xaEm5BuFrV3p9lXFcBifvM2DQtfn_p_GwgyLbVpgMzu_u31P1AEcXantxDvtQPkTpnXl4-i-BHwdeQ/s0/Ostra%CC%81+a+Tupa%CC%81+skala+1950.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPNYo_b6upvYgMS-txipaxgKv6eOgS-8JoKL7yq6OsAiqjmMUNgbf6Nk6iRHz5xaEm5BuFrV3p9lXFcBifvM2DQtfn_p_GwgyLbVpgMzu_u31P1AEcXantxDvtQPkTpnXl4-i-BHwdeQ/s1600/Ostra%CC%81+a+Tupa%CC%81+skala+1950.jpg",
+          "filename": "Ostrá+a+Tupá+skala+1950.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPNYo_b6upvYgMS-txipaxgKv6eOgS-8JoKL7yq6OsAiqjmMUNgbf6Nk6iRHz5xaEm5BuFrV3p9lXFcBifvM2DQtfn_p_GwgyLbVpgMzu_u31P1AEcXantxDvtQPkTpnXl4-i-BHwdeQ/s1600/Ostra%CC%81+a+Tupa%CC%81+skala+1950.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 149,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Tupá a Ostrá skala na ortofoto mape z 50. rokov",
+        "caption": "Tupá a Ostrá skala na ortofoto mape z 50. rokov",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "SLOVANIA NA OSTREJ SKALE"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ostrú skalu ako výhodnú strategickú polohu pre vybudovanie opevnenia objavili opäť v 9. storočí n.l. naši predkovia Slovania, ktorí na hradisku opäť obnovili opevnenia a vybudovali nové obydlia. Slovanský opevňovací systém v závere 8. stor. a v 9. stor. využil zvyšky fortifikácií z predchádzajúcich období. Rovnako sa nadviazalo na staršiu úpravu vnútorného priestoru hradiska, keď sa palisádovou ohradou rozdelilo opevnené sídlisko na tri nádvoria s rozlohou približne 1,5-2 ha. Val, v pôdoryse majúci tvar nesymetrickej podkovy, chránil najvyššiu sídliskovú plochu s rozlohou 2500 m2. Val má svoj pôvod v dobe laténskej, pričom Slovania ho navŕšili a vsadili doň drevenú ohradu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z prelomu 8. a 9. stor. pochádza kultúrna vrstva, zahĺbené obydlie s pecou a ďalšie sídliskové objekty s ohniskami. Z nálezov treba spomenúť tri ostrohy, kosy, kovania vedierok, nože, sekery, britvy a zbrane. Z mladšieho obdobia, časovo zaradeného do 10. stor. až na prelom 12./13. stor., boli v pôdoryse rozpoznané príbytky so zrubovou konštrukciou (zuholnatené zvyšky drevených trámov). Opevnené sídlisko pravdepodobne v prvom časovom horizonte plnilo centrálnu správnu funkciu v regióne. Na základe dlhodobo prebiehajúceho prehodnocovania nálezovej situácie (železné predmety - zbrane, výstroj koňa) je už preukázaná kontinuita osídlenia od druhej polovice 9. stor. až do 10. stor. Išlo o obdobie medzi oboma najdôležitejšími medzníkmi včasnostredovekého využitia tejto lokality. Nedosahuje však takú intenzitu ako v oboch dominantných časových úsekoch."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvjklsO88t9hXXApjoU9dKb-Tj3evaHegn226gNYp516iDQZ4LNzymGXkGKSzvXIUvIZZnk4DWIa_X4oqmIQ89ulj8yLVBnJmLFHoRezg3q-hu6Se-fmud4rEVXcqrwlboJBBOIdXfpZw/s0/b.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvjklsO88t9hXXApjoU9dKb-Tj3evaHegn226gNYp516iDQZ4LNzymGXkGKSzvXIUvIZZnk4DWIa_X4oqmIQ89ulj8yLVBnJmLFHoRezg3q-hu6Se-fmud4rEVXcqrwlboJBBOIdXfpZw/s1600/b.jpg",
+          "filename": "b.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvjklsO88t9hXXApjoU9dKb-Tj3evaHegn226gNYp516iDQZ4LNzymGXkGKSzvXIUvIZZnk4DWIa_X4oqmIQ89ulj8yLVBnJmLFHoRezg3q-hu6Se-fmud4rEVXcqrwlboJBBOIdXfpZw/s1600/b.jpg",
+            "displayedWidth": 294,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Vyšný Kubín - OSTRÁ SKALA ",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na hradisku boli pravdepodobne sústredené aj orgány regionálnej správy. Orava sa včlenila do uhorského ranofeudálneho štátu až niekedy v období 11. storočia. Vzhľadom na to, že hradisko vo Vyšnom Kubíne pretrvalo až do 12. storočia predpokladáme, že v istej forme aj v počiatkoch uhorského štátu pretrvalo ako správne sídlo, nakoľko hrad Orava ešte neexistoval"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Spracoval: Orgoň",
+            "url": null
+          },
+          {
+            "text": "Pavol Čaplovič: Orava v praveku a včasnej dobe dejinnej, Osveta 1987",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "Pavol Čaplovič: Orava v praveku a včasnej dobe dejinnej, Osveta 1987"
+      }
+    ]
+  }
+}

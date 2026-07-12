@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Vy%C5%A1n%C3%BD+Kub%C3%ADn+-+OSTR%C3%81+SKALA?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Vy%C5%A1n%C3%BD%20Kub%C3%ADn%20-%20OSTR%C3%81%20SKALA"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-1265471835434893861"
+        },
+        "published": {
+          "$t": "2014-10-09T20:25:00.001+02:00"
+        },
+        "updated": {
+          "$t": "2014-10-10T10:43:06.147+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Vyšný Kubín - OSTRÁ SKALA"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Vyšný Kubín - OSTRÁ SKALA "
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div style=\"text-align: justify;\">\nVýznamným keltským a neskôr slovanským hradiskom na území Oravy bola Ostrá skala, ktorá sa nachádza severne od Vyšného Kubína. Leží v tesnej blízkosti iného významného hradiska – Tupá skala, známeho najmä osídlením z obdobia lužickej kultúry. Z južnej strany je hradisko chránené 50 až 70 m vysokými skalnými stenami, kým severná strana má miernejší sklon, využívaný v praveku na prístupovú cestu.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<iframe frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"https://maps.google.com/?ie=UTF8&amp;ll=49.192082,19.332569&amp;spn=0.011289,0.032659&amp;t=h&amp;z=16&amp;output=embed\" width=\"425\"></iframe><br />\n<small><a href=\"https://maps.google.com/?ie=UTF8&amp;ll=49.192082,19.332569&amp;spn=0.011289,0.032659&amp;t=h&amp;z=16&amp;source=embed\" style=\"color: blue; text-align: left;\">Zväčšiť mapu</a></small></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<b>KELTI NA OSTREJ SKALE</b></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nPredchádzajúce lužické osídlenie a jeho významné hradisko na Tupej skale bolo niekedy na konci halštatského obdobia zničené a v strednej dobe laténskej zaujali Ostrú skalu Kelti (resp.presnejšie ľud púchovskej kultúry, vyformovaný splynutím pôvodného lužického obyvateľstva s keltami), ktorí na nej vybudovali pevný hrádok. Ich osada sa potom rozprestierala okolo úpätia Ostrej skaly. Strmý terén sídliska plne vyhovoval a ešte umocňoval neprístupnosť dobudovanými fortifikáciami. Sídlisko v okolí Ostrej skaly zabezpečovalo hrádok vodou, potravinami a prácou a na druhej strane obyvateľstvo sa mohlo v čase nebezpečenstva dostať za hradby opevnenia a najsť tu útočisko pred nepriateľmi. Obranné zariadenia boli i na Ostrej skale závislé od dostatočného počtu schopných obrancov, ale neposkytovali už ochranu pre dobytok, ktorý musel ostať na úpätí alebo v horách.&nbsp;</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOsf3SQjhyRNu2C99p9emqxLx4n_MD3N3YMjlRzyJ0UUHgyYuiqMcHKIPqnXTAh4nBKUhsMUqTG-rMhlPcbtR23yfRr-QU6_5fuURNSWEyJAvsQ51uTDWaqUI0zJq-Ty-MIKAOcqsZcB4/s1600/a.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOsf3SQjhyRNu2C99p9emqxLx4n_MD3N3YMjlRzyJ0UUHgyYuiqMcHKIPqnXTAh4nBKUhsMUqTG-rMhlPcbtR23yfRr-QU6_5fuURNSWEyJAvsQ51uTDWaqUI0zJq-Ty-MIKAOcqsZcB4/s1600/a.jpg\" height=\"320\" width=\"310\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s1600/Demian.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC7OdTiW6k4bIfgSOc6a4wlIACUuDdgpGLSO6RnW-UXd28Xp1uxo30WZK-ELprsAnw0ZQ34b4I5Log06qaap2AtjJikVJmiJYzBw5RDMhK8CIIqfTHVL2328dn-MMGAzaP_K9D1Ds5ODA/s1600/Demian.jpg\" height=\"240\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">foto: Tomáš Demian</td></tr>\n</tbody></table>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nSpomenuté sídlisko sa rozprestiera v polohe Chmelínce s prameňom pitnej vody, v polohe Za lúky a Železný laz s iným prameňom, v Medziskalí (medzi Ostrou a Tupou skalou) a čiastočne i v polohe Janovie lazy s ďalším prameňom stálej vody. Na sídliskách sa našli zlomky keramiky halštatskej a púchovskej kultúry. Chýbajú kovové, kostěné a iné nástroje. Jediný žarnov so stredovou dierou poukazuje na laténsky pôvod.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42styi7pJCAjEhWGtjuwrUAkdlDGc_-ITFj9Ggy9QPjliXykADobeukYtqomM97TNlfMeOfufALa2tUL_gOHlycKHvM6-KnBZ4V9uKtW0eRXdBvDJ4y1Q88qUft6dslQOJiTVRbbHL_A/s1600/c.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42styi7pJCAjEhWGtjuwrUAkdlDGc_-ITFj9Ggy9QPjliXykADobeukYtqomM97TNlfMeOfufALa2tUL_gOHlycKHvM6-KnBZ4V9uKtW0eRXdBvDJ4y1Q88qUft6dslQOJiTVRbbHL_A/s1600/c.jpg\" height=\"208\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nPrístup na Ostrú skalu viedol z priestoru Medziskalia od západu v severnom svahu cestou (dnes chodník), pričom v strede dĺžky, na lome terénu, prechádzalo sa pôvodne cez opevnenú bránu. Na tento chránený vstup do sídliska upozorňuje navŕšený kameň, azda i prírodný rastlý podklad z dolnej (severnej) strany, na ktorý nadväzuje dolný zemný val. Z hornej strany drevenej brány bol súbežne popod kamenný múr výraznejší, ešte dnes badateľný chodník, azda berma s predprsňou na ochranu brány. Za bránou bolo dolné nádvorie s pomerne skloneným terénom k severu a pokračujúcou cestou (chodníkom).</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5_JPSnTamULwAn6H23d0GhDO2Rp81SF4AAllcFdqKg60MZrHe7Q4eUV8tC3OxBLSAwKQI8usFFNq88oqlohffLoxq1r30Hqmr4owWAjOTxQOfvquLVQF98Y93dSwkO-8ZRdjubG2RsM/s1600/333.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF5_JPSnTamULwAn6H23d0GhDO2Rp81SF4AAllcFdqKg60MZrHe7Q4eUV8tC3OxBLSAwKQI8usFFNq88oqlohffLoxq1r30Hqmr4owWAjOTxQOfvquLVQF98Y93dSwkO-8ZRdjubG2RsM/s1600/333.jpg\" height=\"320\" width=\"222\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nVstup na stredné nádvorie umožňovala z východnej strany druhá brána poza vyvýšené kruhovité ukončenie valového muriva a palisády. Vybudovaním valového a palisádového muriva do 3,5 m výšky dosiahlo sa z hornej strany i planírovaním vyrovnanie terénu pozdĺž celej palisády až k západnej vyhliadke. Tento priestor sa v úlohe stredného nádvoria používal na najrôznejšie účely, v dôsledku čoho sa tu vyskytovalo i najviac nálezov. Boli situované väčšinou pod vrchnou slovanskou vrstvou, ale na niektorých miestach dosahovali i najvyššiu úroveň. Podľa toho usudzujeme, že nádvorie nebolo vždy rovné a preskupenie vrstiev záviselo od presunov zeminy v tých-ktorých obdobiach.&nbsp;</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdooZ2LtzR8hMDdO92FTvqicwhc3i8361vECAgDokjn2WiqySt3b9EkIcMw0TkhWA7MKCk4NITdfbyyxHEDBGOXhY-MvzMsNWns99yLS_UoxJI5Vryz4HZryIVPXNng8lsThxi9qf9Fg/s1600/Ostra%CC%81+a+Tupa%CC%81+skala.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpdooZ2LtzR8hMDdO92FTvqicwhc3i8361vECAgDokjn2WiqySt3b9EkIcMw0TkhWA7MKCk4NITdfbyyxHEDBGOXhY-MvzMsNWns99yLS_UoxJI5Vryz4HZryIVPXNng8lsThxi9qf9Fg/s1600/Ostra%CC%81+a+Tupa%CC%81+skala.jpg\" height=\"240\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Tupá a Ostrá skala (foto: T. Demian)</td></tr>\n</tbody></table>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nPomerne strmý terén sklonený k severu bol najskôr rozdelený na tri časti. Prvá z nich mohla byť voči okoliu obohnaná menším zemným valom s drevenou palisádou.&nbsp;</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nDruhý priestor bol od predošlého ohradený kamenným múrom, viac než 2 m vysokým, z ktorého prevažná časť sa zachovala podnes s kolovými jamami pôvodnej krytej drevenej palisády. Pred múrom bol kameňom vyložený chodník, azda na boj zblízka. Dolná časť drevenej zrubovej palisády bola obložená tiež kamenným murivom, pravdepodobne proti ohňu, takže súvislé kamenné murivo dosahovalo takto viac než 3 m výšky a tvorilo hotové hradné múry. Dnes je vrchná časť muriva až po jeho základ zosunutá a ostatné murivo väčšinou na pôvodnom mieste prisypané prevažne zemou . Tento stav mohol vzniknúť dôsledkom rozsiahlejších slovanských úprav, keď bola zmetená značná časť zeminy z nádvoria aj s početným púchovským črepovým a kovovým materiálom, prikrývajúcim dnes kamenné murivo po celej jeho dĺžke.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvjklsO88t9hXXApjoU9dKb-Tj3evaHegn226gNYp516iDQZ4LNzymGXkGKSzvXIUvIZZnk4DWIa_X4oqmIQ89ulj8yLVBnJmLFHoRezg3q-hu6Se-fmud4rEVXcqrwlboJBBOIdXfpZw/s1600/b.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvjklsO88t9hXXApjoU9dKb-Tj3evaHegn226gNYp516iDQZ4LNzymGXkGKSzvXIUvIZZnk4DWIa_X4oqmIQ89ulj8yLVBnJmLFHoRezg3q-hu6Se-fmud4rEVXcqrwlboJBBOIdXfpZw/s1600/b.jpg\" height=\"320\" width=\"294\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nLen tretia, najvyššia časť bola ohradená vysokým zemným valom s drevenou komorovou konštrukciou . Sídliskové objekty boli situované v dvoch výškové rozdielnych radoch v smere S—J na spôsob galérie. Horný rad dosahoval najvyššiu polohu Ostrej skaly a jeho základ bol starostlivo nivelovaný. Okrem zreteľného zahĺbenia do svahovitého terénu udávali pôvodnú niveláciu i početné črepy ležiace v jednej úrovni, akoby na podlahe tejto stavby. Ide o črepy z netuhovaných, hrebeňovaných nádob, len v nepatrnej miere sa našli črepy hladké, halštatského rázu. Stredom stavby stáli masívne stĺpy, z ktorých zostali v podklade vyhĺbené jamy. Zdá sa, že ide o dlhú stavbu so strechou podopretou stredovými stĺpmi, siahajúcou aspoň z východnej strany až k zemi. Môže teda ísť o tzv. halovú formu stavby s ohniskami na zvýšenej podsade, so zrubovými stenami a rákosovou strechou.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nDruhý stavebný rad bol o niečo nižšie v strmom teréne, ktorého niveláciu udávali tiež črepy, ale potrebné rozpätie sa dosahovalo osadením podperných stĺpov, z ktorých sa tiež zachovali kolové jamy. Celkove vrchol Ostrej skaly pozostával len z dvoch zistených radov sídliskových budov, okrem rôznych prístreškov pre kone, psov a iný inventár, ohradené spoločným vysokým zemným valom a drevenou palisádou obloženou kameňmi.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP3J8kGZemriFKt0w1RuAmNmU3kx6tthH4_3i16g4ZxvwDtYbNp6YiXH_jciVn7o8bpj1_V3CqNQQZhXW3WVj2wlsm6xxMlPV1wbOjTTE9SiBip_u13ZYpPPL__906EY3YmPploBi4_YM/s1600/224a.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP3J8kGZemriFKt0w1RuAmNmU3kx6tthH4_3i16g4ZxvwDtYbNp6YiXH_jciVn7o8bpj1_V3CqNQQZhXW3WVj2wlsm6xxMlPV1wbOjTTE9SiBip_u13ZYpPPL__906EY3YmPploBi4_YM/s1600/224a.jpg\" height=\"320\" width=\"222\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nZo zaujímavých nálezov treba spomenúť najmä bronzové ramienko váh na váženie drahých kovov, pochádzajúce zo stredného nádvoria, používané najčastejšie pri dávkovaní mincového strížku. Je tiež treba spomenúť tri zlaté smince -statéry ktoré sa tu našli v 19. storočí. Ich datovanie spadá do 2. storočia pred n. l., teda do stredného laténu, keď sa po halštatskom osídlení Tupej skaly začala vyvíjať sídelná aglomerácia okolo Ostrej skaly. Oba statéry MT sú veľmi pokročilými napodobeninami zlatých filipovských mincí. Pre názornosť možno uviesť, že jeden zlatý statér mal hodnotu 20 drachiem. Našli sa tu tiež laténske spony. Keramiku predstavujú džbány a amfory.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nZvyšky dreva a drevených konštrukcií umožnili i datovanie v rámci absolútnej chronológie, rozborom uhlíka C 14. Karbónová analýza roštovej konštrukcie horného valu pripúšťa prvý katastrofický termín (Trniny, Ostrá skala) k roku 70±55 n. I. Druhá vzorka je z priestoru stredného nádvoria, kde sa našli karbonizované trámy z deštrukcie objektov prisypaných planírkou a datujú túto fázu k roku 35 ± 40 n. 1.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB9bf6lWOE75as-tzuQAZ3IVWmPmZhpUQWrp6hFyZ1yUPSBJXy2yvXauVo8tkH03OmwCBS9p1tUQV8RzCq5NMxh0gIWyN6P0ZTcoKQ82mprLMB5vezBh8xump39rvM953AbxE9sOnC2F0/s1600/1540266_746713422075076_3419791315904626063_o.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB9bf6lWOE75as-tzuQAZ3IVWmPmZhpUQWrp6hFyZ1yUPSBJXy2yvXauVo8tkH03OmwCBS9p1tUQV8RzCq5NMxh0gIWyN6P0ZTcoKQ82mprLMB5vezBh8xump39rvM953AbxE9sOnC2F0/s1600/1540266_746713422075076_3419791315904626063_o.jpg\" height=\"213\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><a href=\"http://www.kelti.info/\" target=\"_blank\">Kelti (Vae Victis)&nbsp;</a></td></tr>\n</tbody></table>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nKým na Trninách prestal život po zlome letopočtu, na Ostrej skale pokračoval ďalej. Vidno to na ďalšom vývoji keramiky so znateľne odlišnou formou výzdoby sudovitých hrncov.&nbsp;</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nĎalšia vzorka z drevenej vrstvy horného valu udáva termín 220 ± 45 n. 1., čo približne zodpovedá dobe odchodu Kotínov do Panónie (173 — 180 n. 1.) v súvislosti s markomanskými vojnami proti Rimanom. S Markomanmi a Kvádmi boli údajne vysídlení aj Kotíni, no časť Kvádov, ako ukazujú iné pramene, na Slovensku zostala. Na Ostrej skale bol osídlený celý severný svah medzi horným a stredným valom. V priestore sedla sa zistili kolové jamy sledujúce kameňom štětovaný chodník, rôzne terénne úpravy s črepmi ručne lepenej a hrebeňovanej keramiky.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguXfejQ6Olf9sRW5IVfY26KNPoFdhXC4_Hc1DhgGR5b-_Ktn3KZuipzS-NY4civzxIn7h8l4dOjJII6LR1an9Ndwitu9XiXCTCXbvdJb388mohrj1Ue4ezwIuHsVPKgvrWlReAGCPF8e4/s1600/181.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguXfejQ6Olf9sRW5IVfY26KNPoFdhXC4_Hc1DhgGR5b-_Ktn3KZuipzS-NY4civzxIn7h8l4dOjJII6LR1an9Ndwitu9XiXCTCXbvdJb388mohrj1Ue4ezwIuHsVPKgvrWlReAGCPF8e4/s1600/181.jpg\" height=\"320\" width=\"222\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nNa okraji stredného nádvoria, popri kamennom múre, sa tiež našla jemná laténska maľovaná keramika. Mladšie obdobie doby rímskej signalizujú i na Ostrej skale železné spony so žliabkovým zachycovačom.&nbsp;</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPNYo_b6upvYgMS-txipaxgKv6eOgS-8JoKL7yq6OsAiqjmMUNgbf6Nk6iRHz5xaEm5BuFrV3p9lXFcBifvM2DQtfn_p_GwgyLbVpgMzu_u31P1AEcXantxDvtQPkTpnXl4-i-BHwdeQ/s1600/Ostra%CC%81+a+Tupa%CC%81+skala+1950.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlPNYo_b6upvYgMS-txipaxgKv6eOgS-8JoKL7yq6OsAiqjmMUNgbf6Nk6iRHz5xaEm5BuFrV3p9lXFcBifvM2DQtfn_p_GwgyLbVpgMzu_u31P1AEcXantxDvtQPkTpnXl4-i-BHwdeQ/s1600/Ostra%CC%81+a+Tupa%CC%81+skala+1950.jpg\" height=\"149\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Tupá a Ostrá skala na ortofoto mape z 50. rokov</td></tr>\n</tbody></table>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nVýznamným nálezom z mladšej doby rímskej je kostený hrebeň zo stredného nádvoria zložený z dvoch polkruhových kostěných platničiek, zdobených okolo okraja rebríkovitým vzorom a na spodnej rovnej časti dvojitou vlnovkou s meandrom. Podobne a velmi pôsobivo je zdobené i obloženie zubovej časti, ktoré dohromady držalo železné nitovanie. Z Ostrej skaly pochádza ďalej bochníkovitý krúžok z tmavozeleného skla, najskôr súčasť stolovej hry.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nV dobe halštatskej mohla byť Ostrá skala pomocným hospodárskym objektom, ale až v strednom laténe sa stávala strediskom a postupne najznámejším púchovským sídliskom na Orave v dobe laténskej a rímskej.&nbsp;</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<b>SLOVANIA NA OSTREJ SKALE</b></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nOstrú skalu ako výhodnú strategickú polohu pre vybudovanie opevnenia objavili opäť v 9. storočí n.l. naši predkovia Slovania, ktorí na hradisku opäť obnovili opevnenia a vybudovali nové obydlia. Slovanský opevňovací systém v závere 8. stor. a v 9. stor. využil zvyšky fortifikácií z predchádzajúcich období. Rovnako sa nadviazalo na staršiu úpravu vnútorného priestoru hradiska, keď sa palisádovou ohradou rozdelilo opevnené sídlisko na tri nádvoria s rozlohou približne 1,5-2 ha. Val, v pôdoryse majúci tvar nesymetrickej podkovy, chránil najvyššiu sídliskovú plochu s rozlohou 2500 m2. Val má svoj pôvod v dobe laténskej, pričom Slovania ho navŕšili a vsadili doň drevenú ohradu.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCuGwo3BM0cK5MJNh2AGKW6iC4MOURFhOWP8U06dFzzR1WaoknZN_CSyLTNTFlz5dUBkI75E8SF6XTchvlhiK7pz88m6vyBeWUwbuAW98TiQlUPjqxfbpdhIy0rmwKQq5fLdVlw2p4pE/s1600/h.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieCuGwo3BM0cK5MJNh2AGKW6iC4MOURFhOWP8U06dFzzR1WaoknZN_CSyLTNTFlz5dUBkI75E8SF6XTchvlhiK7pz88m6vyBeWUwbuAW98TiQlUPjqxfbpdhIy0rmwKQq5fLdVlw2p4pE/s1600/h.jpg\" height=\"254\" width=\"320\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nZ prelomu 8. a 9. stor. pochádza kultúrna vrstva, zahĺbené obydlie s pecou a ďalšie sídliskové objekty s ohniskami. Z nálezov treba spomenúť tri ostrohy, kosy, kovania vedierok, nože, sekery, britvy a zbrane. Z mladšieho obdobia, časovo zaradeného do 10. stor. až na prelom 12./13. stor., boli v pôdoryse rozpoznané príbytky so zrubovou konštrukciou (zuholnatené zvyšky drevených trámov). Opevnené sídlisko pravdepodobne v prvom časovom horizonte plnilo centrálnu správnu funkciu v regióne. Na základe dlhodobo prebiehajúceho prehodnocovania nálezovej situácie (železné predmety - zbrane, výstroj koňa) je už preukázaná kontinuita osídlenia od druhej polovice 9. stor. až do 10. stor. Išlo o obdobie medzi oboma najdôležitejšími medzníkmi včasnostredovekého využitia tejto lokality. Nedosahuje však takú intenzitu ako v oboch dominantných časových úsekoch.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqgkr2pBkDHRhZWBqQZdi5CNFK_-FHyw9iJleeiu3l7MpUwWWasopIhGwGSk702GXz-ipJfFM8Q8xb6nZcEFhDUt1yi_QJVdWcS7sRmgNuV_Qhxz_xPkUv4dXGVFv2HvqWEXlfIaNgxk/s1600/d.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNqgkr2pBkDHRhZWBqQZdi5CNFK_-FHyw9iJleeiu3l7MpUwWWasopIhGwGSk702GXz-ipJfFM8Q8xb6nZcEFhDUt1yi_QJVdWcS7sRmgNuV_Qhxz_xPkUv4dXGVFv2HvqWEXlfIaNgxk/s1600/d.jpg\" height=\"288\" width=\"320\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE6JAJ_-LsXla8jy2jsGk8jaFphlcMp5OE6NeTvApdEmLgC-FRY4g1e2jTJLF_8A-h2HKysPmylrDJONtnVyqdLGQGNy0nOv5KlftKYMKTIVUK8aaw3jBolNLDwaP1-TirvpXV_ckI_8I/s1600/f.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE6JAJ_-LsXla8jy2jsGk8jaFphlcMp5OE6NeTvApdEmLgC-FRY4g1e2jTJLF_8A-h2HKysPmylrDJONtnVyqdLGQGNy0nOv5KlftKYMKTIVUK8aaw3jBolNLDwaP1-TirvpXV_ckI_8I/s1600/f.jpg\" height=\"307\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeZkvxtwKjhWq_FQKygVpnOt0jPcWDcknBHlISgyz8uokt5PLghz7FHtxGwBnNstwYOtwJSodENHzfUAEusuO3r11a58L7pmE37OxBpI0qkh0vZl4T19QI_PMarHx53LKrVBsXpjlm3w/s1600/g.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijeZkvxtwKjhWq_FQKygVpnOt0jPcWDcknBHlISgyz8uokt5PLghz7FHtxGwBnNstwYOtwJSodENHzfUAEusuO3r11a58L7pmE37OxBpI0qkh0vZl4T19QI_PMarHx53LKrVBsXpjlm3w/s1600/g.jpg\" height=\"320\" width=\"277\" /></a></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyiEavzIGjkGaHKKA62zrmVFZK_Yumzlrtl5okMzFOh65G_ZUwWT6-pZbjx9SXV2qhxckbGAjOvigADtcjY7ssOEeTRMlGKw8k_4yOEG1urYfbvbzlH3PUwDo7ieGNYjLuP2tsikfoPh0/s1600/352.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyiEavzIGjkGaHKKA62zrmVFZK_Yumzlrtl5okMzFOh65G_ZUwWT6-pZbjx9SXV2qhxckbGAjOvigADtcjY7ssOEeTRMlGKw8k_4yOEG1urYfbvbzlH3PUwDo7ieGNYjLuP2tsikfoPh0/s1600/352.jpg\" height=\"320\" width=\"222\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5rnnxsTdLjA8zcxQw10NE5BUv_S_IOYbfxK0DWicbKRlJSBbgUN66BwW16xQfhxUQJUUROdF1VNal0DEswUG6rIXY-_iM9JPAorOzyZza2N0aa0poKMzRl21jUCT-N2bRtsodHx8-gQ8/s1600/365.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5rnnxsTdLjA8zcxQw10NE5BUv_S_IOYbfxK0DWicbKRlJSBbgUN66BwW16xQfhxUQJUUROdF1VNal0DEswUG6rIXY-_iM9JPAorOzyZza2N0aa0poKMzRl21jUCT-N2bRtsodHx8-gQ8/s1600/365.jpg\" height=\"320\" width=\"222\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nNa hradisku boli pravdepodobne sústredené aj orgány regionálnej správy. Orava sa včlenila do uhorského ranofeudálneho štátu až niekedy v období 11. storočia. Vzhľadom na to, že hradisko vo Vyšnom Kubíne pretrvalo až do 12. storočia predpokladáme, že v istej forme aj v počiatkoch uhorského štátu pretrvalo ako správne sídlo, nakoľko hrad Orava ešte neexistoval</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nSpracoval: Orgoň</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nLit:&nbsp;</div>\n<div style=\"text-align: justify;\">\nPavol Čaplovič: Orava v praveku a včasnej dobe dejinnej, Osveta 1987</div>\nDrahoslav Hulínek, Michal Čajka: Včasnostredoveké hradiská na Orave v kontexte hradísk na Strednom a Západnom Slovensku, Slovenská archeológia LII-1, 2004 <br />\n<br />\nNa záver ako bonus prinášame niekoľko unikátnych starých fotografií, na ktorých je zachytená Ostrá skala. Fotky sú prevzaté <a href=\"http://www.vysnykubin.sk/obec-v-historickej-fotografii\" target=\"_blank\">zo stránky obce Vyšný Kubín&nbsp;</a><br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyejnBIOvgvKMVyyqLxt-TfeIj-O6AEIIP6gfuKNBPpzoxDRG5dOuTkbrDAMbLTwMFiKkae0DWXsJCXqwKYGYfdbu8RfQdfipCOoE_2FmUKmryRot6qPGazl0yd5PxtRQl6rUtADVVosM/s1600/02_architektura.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyejnBIOvgvKMVyyqLxt-TfeIj-O6AEIIP6gfuKNBPpzoxDRG5dOuTkbrDAMbLTwMFiKkae0DWXsJCXqwKYGYfdbu8RfQdfipCOoE_2FmUKmryRot6qPGazl0yd5PxtRQl6rUtADVVosM/s1600/02_architektura.jpg\" height=\"320\" width=\"317\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphFIvVzOXciRXiBzppPU94a_vPr1osVS0CzOOlwjM7hY9Fjemfx6-QATfUMo5mnNAhdjXjlxoVdPgHzm14ZwAUZJwUh5Ii2voQppObnbWoJmoWdeJSvnAVjaGXu2sBrqZzuvCQbXbKQQ/s1600/03_Baca_s_ovcami_v_pozadi_skalky.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphFIvVzOXciRXiBzppPU94a_vPr1osVS0CzOOlwjM7hY9Fjemfx6-QATfUMo5mnNAhdjXjlxoVdPgHzm14ZwAUZJwUh5Ii2voQppObnbWoJmoWdeJSvnAVjaGXu2sBrqZzuvCQbXbKQQ/s1600/03_Baca_s_ovcami_v_pozadi_skalky.jpg\" height=\"320\" width=\"317\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKEuQDSYYXz_GA21GlIAX3R421WTEUygxYxSwy_EjCnOuhk15e03YZNwOv5GaHqmtHLlpOfEs1HFXgcVO0Hqiv38xF4EMnDfeESubzWT8y6g4WbomQ8Jl0_IPC9aBUgzHDC92ArQWYUik/s1600/08_Koliba_pod_Tupou_a_Ostrou_skalou.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKEuQDSYYXz_GA21GlIAX3R421WTEUygxYxSwy_EjCnOuhk15e03YZNwOv5GaHqmtHLlpOfEs1HFXgcVO0Hqiv38xF4EMnDfeESubzWT8y6g4WbomQ8Jl0_IPC9aBUgzHDC92ArQWYUik/s1600/08_Koliba_pod_Tupou_a_Ostrou_skalou.jpg\" height=\"320\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidXci0MLn9R7uaZKQSiVMH5IyLW48MlBNbHzYLYpCMdPmyx8akhGY1UgVXLIepzzNwUte2uqWNrMCG6azKWEgt4g6x5WP7I1XWI9IjTSRJfMAAys-4O7WFq2W7j6SHaITFS7A4OSSk50c/s1600/10_pastva_pod_skalkami.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidXci0MLn9R7uaZKQSiVMH5IyLW48MlBNbHzYLYpCMdPmyx8akhGY1UgVXLIepzzNwUte2uqWNrMCG6azKWEgt4g6x5WP7I1XWI9IjTSRJfMAAys-4O7WFq2W7j6SHaITFS7A4OSSk50c/s1600/10_pastva_pod_skalkami.jpg\" height=\"218\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_qiDAcomayPYVxmddntiQcc-LGKmnZY4p1iZRQaT3w5LhTiu0H4aMn_T4G8tZ2epRhffj5hLhsa4c_EUtUWjvVal8JqJxRL-Fn_ptZYmf1gj9OzzvKyomQRWUa_vApTKjX4-cdLUMW1k/s1600/11_pohlad_od_juhu.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_qiDAcomayPYVxmddntiQcc-LGKmnZY4p1iZRQaT3w5LhTiu0H4aMn_T4G8tZ2epRhffj5hLhsa4c_EUtUWjvVal8JqJxRL-Fn_ptZYmf1gj9OzzvKyomQRWUa_vApTKjX4-cdLUMW1k/s1600/11_pohlad_od_juhu.jpg\" height=\"312\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhphc-218Yof5-iomAKqM-hTsudkFMAkj8sqcclYjgO8_szqbbG66zQT8Nh_OY0-f8DG5yFPtaQwRJd0J72pOtnazgHHvHaCaPTJZ992f_kHuSPZXe5QgNgdTZr7lqQhhU8MotA_ljWiuc/s1600/17_vysnokubinske_skaly.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhphc-218Yof5-iomAKqM-hTsudkFMAkj8sqcclYjgO8_szqbbG66zQT8Nh_OY0-f8DG5yFPtaQwRJd0J72pOtnazgHHvHaCaPTJZ992f_kHuSPZXe5QgNgdTZr7lqQhhU8MotA_ljWiuc/s1600/17_vysnokubinske_skaly.jpg\" height=\"320\" width=\"223\" /></a></div>\n<br />\n<div>\n<br /></div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/1265471835434893861/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2014/10/vysny-kubin-ostra-skala.html#comment-form",
+            "title": "0 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/1265471835434893861"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/1265471835434893861"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2014/10/vysny-kubin-ostra-skala.html",
+            "title": "Vyšný Kubín - OSTRÁ SKALA "
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOsf3SQjhyRNu2C99p9emqxLx4n_MD3N3YMjlRzyJ0UUHgyYuiqMcHKIPqnXTAh4nBKUhsMUqTG-rMhlPcbtR23yfRr-QU6_5fuURNSWEyJAvsQ51uTDWaqUI0zJq-Ty-MIKAOcqsZcB4/s72-c/a.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}
