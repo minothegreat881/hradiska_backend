@@ -1,0 +1,581 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\beckov-post.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-851482859445434986",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/07/beckov-slovanske-hradisko.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/851482859445434986/comments/default",
+    "extractedAt": "2026-07-12T19:24:46.604Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&t=h&vpsrc=0&ll=48.790658,17.898413&spn=0.002474,0.00456&z=17&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 8,
+      "captionedImages": 0,
+      "separatorImages": 8
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Beckov (Slovanské Hradisko)",
+    "slug": "beckov-slovanske-hradisko",
+    "excerpt": "Hrad Beckov sa v pôvodných slovenských povestiach spája s menom Štibora zo Štiboríc (tiež Ctibor zo Ctiboríc, alebo Stibor zo Stiboríc). Dokonca ho vraj podľa jednej z nich dal tento významný veľmož postaviť pre svojho šaša za oddanosť a verné…",
+    "authorName": "Orgon",
+    "publishedAt": "2011-07-17T19:32:00.002+02:00",
+    "originalPublishedDate": "2011-07-17T19:32:00.002+02:00",
+    "updatedAt": "2016-04-12T09:13:47.912+02:00",
+    "readingTime": 6,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1sYxa7qGgLGE6ZOMVltYIs9pvzDQ2NDjJTVwYDVvqcV2GGxN4DU7UBmOkbf1IA0KRiHbydD5YJ_gInezzIlzQ0KPsZYHiLcrDm1U5snN2etcJlWud_WSGDGw4zraoIYVO_asfn1T-Ho/s0/IMG_9762.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1sYxa7qGgLGE6ZOMVltYIs9pvzDQ2NDjJTVwYDVvqcV2GGxN4DU7UBmOkbf1IA0KRiHbydD5YJ_gInezzIlzQ0KPsZYHiLcrDm1U5snN2etcJlWud_WSGDGw4zraoIYVO_asfn1T-Ho/s1600/IMG_9762.JPG",
+      "filename": "IMG_9762.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1sYxa7qGgLGE6ZOMVltYIs9pvzDQ2NDjJTVwYDVvqcV2GGxN4DU7UBmOkbf1IA0KRiHbydD5YJ_gInezzIlzQ0KPsZYHiLcrDm1U5snN2etcJlWud_WSGDGw4zraoIYVO_asfn1T-Ho/s1600/IMG_9762.JPG",
+        "displayedWidth": 240,
+        "displayedHeight": 320,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1sYxa7qGgLGE6ZOMVltYIs9pvzDQ2NDjJTVwYDVvqcV2GGxN4DU7UBmOkbf1IA0KRiHbydD5YJ_gInezzIlzQ0KPsZYHiLcrDm1U5snN2etcJlWud_WSGDGw4zraoIYVO_asfn1T-Ho/s0/IMG_9762.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1sYxa7qGgLGE6ZOMVltYIs9pvzDQ2NDjJTVwYDVvqcV2GGxN4DU7UBmOkbf1IA0KRiHbydD5YJ_gInezzIlzQ0KPsZYHiLcrDm1U5snN2etcJlWud_WSGDGw4zraoIYVO_asfn1T-Ho/s1600/IMG_9762.JPG",
+        "filename": "IMG_9762.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1sYxa7qGgLGE6ZOMVltYIs9pvzDQ2NDjJTVwYDVvqcV2GGxN4DU7UBmOkbf1IA0KRiHbydD5YJ_gInezzIlzQ0KPsZYHiLcrDm1U5snN2etcJlWud_WSGDGw4zraoIYVO_asfn1T-Ho/s1600/IMG_9762.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv2hhHAwNmrePto0iz1Eoi4Hdw9u2qOhkaDKG3jGRFbdLTPYQYqG34GQKkQdZGLCKug2pf1Uh2G6yZeifiUutWPowrUR0lMLjTifpXsPRfmwFaI9rzeuQ4If87Ux0N164p35JZ9dkF48/s0/vez%CC%8Ca.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv2hhHAwNmrePto0iz1Eoi4Hdw9u2qOhkaDKG3jGRFbdLTPYQYqG34GQKkQdZGLCKug2pf1Uh2G6yZeifiUutWPowrUR0lMLjTifpXsPRfmwFaI9rzeuQ4If87Ux0N164p35JZ9dkF48/s1600/vez%CC%8Ca.jpg",
+        "filename": "veža.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv2hhHAwNmrePto0iz1Eoi4Hdw9u2qOhkaDKG3jGRFbdLTPYQYqG34GQKkQdZGLCKug2pf1Uh2G6yZeifiUutWPowrUR0lMLjTifpXsPRfmwFaI9rzeuQ4If87Ux0N164p35JZ9dkF48/s1600/vez%CC%8Ca.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 293,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_Ov-Dwgsc-k9Ed1qr31aGKGlAj6EVA3Ha8t6PBXX4rdxN4lbs7BeXeXSdotY5i2hA3XrClaiLiXN71mGo7l9Q64aN3bH5FoEnzxhgDjVJZlTf37zTtp8CDKJVmEVdtYl7NOwcUTP1m8/s0/483057_560401117305523_975227186_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_Ov-Dwgsc-k9Ed1qr31aGKGlAj6EVA3Ha8t6PBXX4rdxN4lbs7BeXeXSdotY5i2hA3XrClaiLiXN71mGo7l9Q64aN3bH5FoEnzxhgDjVJZlTf37zTtp8CDKJVmEVdtYl7NOwcUTP1m8/s1600/483057_560401117305523_975227186_n.jpg",
+        "filename": "483057_560401117305523_975227186_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_Ov-Dwgsc-k9Ed1qr31aGKGlAj6EVA3Ha8t6PBXX4rdxN4lbs7BeXeXSdotY5i2hA3XrClaiLiXN71mGo7l9Q64aN3bH5FoEnzxhgDjVJZlTf37zTtp8CDKJVmEVdtYl7NOwcUTP1m8/s1600/483057_560401117305523_975227186_n.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ6-MwLyns6Be-0UShbClalvOwkRrqyEazBqjbNkCLubwWYHjD-Hf26EPCraZShdcA0WPvAMwJyovRiMebvPd6dtvTHu0gXyPb2A5Ak38UUYk2E01CQFL__Zp56KhAdPiB7qnBflt-Osc/s0/emailov%25C3%25A1+spona.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ6-MwLyns6Be-0UShbClalvOwkRrqyEazBqjbNkCLubwWYHjD-Hf26EPCraZShdcA0WPvAMwJyovRiMebvPd6dtvTHu0gXyPb2A5Ak38UUYk2E01CQFL__Zp56KhAdPiB7qnBflt-Osc/s1600/emailov%25C3%25A1+spona.jpg",
+        "filename": "emailov%C3%A1+spona.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ6-MwLyns6Be-0UShbClalvOwkRrqyEazBqjbNkCLubwWYHjD-Hf26EPCraZShdcA0WPvAMwJyovRiMebvPd6dtvTHu0gXyPb2A5Ak38UUYk2E01CQFL__Zp56KhAdPiB7qnBflt-Osc/s1600/emailov%25C3%25A1+spona.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 211,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRz38Qdb9a458khagNryJ-EXq6ks0ANFzw1nEGE5CXPsLQ7d30HbhoypqtISGayQyEV1hOysl3wAH14tlY_Ck-tk2RfAB3LB0vbN3xOdmT3Mh5swGk2gOrl2DjfKy1yjRFN9GLSFPDoek/s0/pic%25C3%25AD+roh.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRz38Qdb9a458khagNryJ-EXq6ks0ANFzw1nEGE5CXPsLQ7d30HbhoypqtISGayQyEV1hOysl3wAH14tlY_Ck-tk2RfAB3LB0vbN3xOdmT3Mh5swGk2gOrl2DjfKy1yjRFN9GLSFPDoek/s1600/pic%25C3%25AD+roh.jpg",
+        "filename": "pic%C3%AD+roh.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRz38Qdb9a458khagNryJ-EXq6ks0ANFzw1nEGE5CXPsLQ7d30HbhoypqtISGayQyEV1hOysl3wAH14tlY_Ck-tk2RfAB3LB0vbN3xOdmT3Mh5swGk2gOrl2DjfKy1yjRFN9GLSFPDoek/s1600/pic%25C3%25AD+roh.jpg",
+          "displayedWidth": 177,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3cROKRWpIsbDwcBhDOW9SNNQOlzomCsAApPT5Q2JhkR0FHgT_VxeNMyTsyfGO-MYHx_nWYQdSpahxllqNQklmcOIk4C1QrAUhDWhqFOfUjN1LpAf1JfVR2eAuRVhnBK_g9DUbAsWbkww/s0/slov+keramika+z+hradu.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3cROKRWpIsbDwcBhDOW9SNNQOlzomCsAApPT5Q2JhkR0FHgT_VxeNMyTsyfGO-MYHx_nWYQdSpahxllqNQklmcOIk4C1QrAUhDWhqFOfUjN1LpAf1JfVR2eAuRVhnBK_g9DUbAsWbkww/s1600/slov+keramika+z+hradu.jpg",
+        "filename": "slov+keramika+z+hradu.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3cROKRWpIsbDwcBhDOW9SNNQOlzomCsAApPT5Q2JhkR0FHgT_VxeNMyTsyfGO-MYHx_nWYQdSpahxllqNQklmcOIk4C1QrAUhDWhqFOfUjN1LpAf1JfVR2eAuRVhnBK_g9DUbAsWbkww/s1600/slov+keramika+z+hradu.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 199,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdTvMmWSLv6SnvkURiJu1mprU1Qqy1_t3YJekWW-izuXC5DpVdxqDfZpNHCEF5oWHm2-zfxPntbR3KsDyoQAUCSdBsMCrdDuRkOldZEZywD5Vv1hLwKM2TvqseUXekKD_5FN0h7HdAKwk/s0/slovansk%25C3%25A1+n%25C3%25A1doba.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdTvMmWSLv6SnvkURiJu1mprU1Qqy1_t3YJekWW-izuXC5DpVdxqDfZpNHCEF5oWHm2-zfxPntbR3KsDyoQAUCSdBsMCrdDuRkOldZEZywD5Vv1hLwKM2TvqseUXekKD_5FN0h7HdAKwk/s1600/slovansk%25C3%25A1+n%25C3%25A1doba.jpg",
+        "filename": "slovansk%C3%A1+n%C3%A1doba.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdTvMmWSLv6SnvkURiJu1mprU1Qqy1_t3YJekWW-izuXC5DpVdxqDfZpNHCEF5oWHm2-zfxPntbR3KsDyoQAUCSdBsMCrdDuRkOldZEZywD5Vv1hLwKM2TvqseUXekKD_5FN0h7HdAKwk/s1600/slovansk%25C3%25A1+n%25C3%25A1doba.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 259,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Beckov (Slovanské Hradisko)"
+    ],
+    "category": null,
+    "location": {
+      "name": "Beckov",
+      "latitude": 48.790658,
+      "longitude": 17.898413,
+      "region": null,
+      "country": null
+    },
+    "keyFacts": [
+      {
+        "label": "Rozloha slovanského hradiska",
+        "value": "1,45 ha, najvyšší bod 253 m n. m.",
+        "icon": "mountain"
+      },
+      {
+        "label": "Rozloha pravekého osídlenia",
+        "value": "Až 2,5 ha (neskorolaténske a včasnorímske obdobie)",
+        "icon": "mountain"
+      },
+      {
+        "label": "Výskum",
+        "value": "Systematicky skúmané pod vedením M. Kodoňovej a Š. Tóthovej (Pamiatkový ústav SR)",
+        "icon": "scroll"
+      },
+      {
+        "label": "Funkcia",
+        "value": "Strážny bod chrániaci vstup do oblasti trenčianskeho centra, nie samostatné mocenské centrum",
+        "icon": "shield"
+      },
+      {
+        "label": "Anonymova kronika",
+        "value": "Castrum \"Blundus\" (maď. Blondóc) stotožnené s Beckovom",
+        "icon": "book"
+      },
+      {
+        "label": "Štibor zo Štiboríc",
+        "value": "Vlastnil ~18 hradov a ~300 dedín, hrad dostal od Žigmunda Luxemburského",
+        "icon": "crown"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "koniec 5. – polovica 7. stor.",
+        "title": "Najstaršie slovanské osídlenie (Sady)",
+        "description": "Keramika pražského typu, polozemnica s pecou z obdobia prenikania slovanského obyvateľstva.",
+        "type": "founding"
+      },
+      {
+        "year": "koniec 7. – zač. 8. stor.",
+        "title": "Jama a studňa",
+        "description": "Studňa hlboká 295 cm s priemerom 205 cm.",
+        "type": "discovery"
+      },
+      {
+        "year": "druhá polovica 9. storočia",
+        "title": "Vznik hradiska",
+        "description": "Opevnené slovanské sídlisko vzniklo s najväčšou pravdepodobnosťou v tomto období ako strážny bod na strednom Považí.",
+        "type": "founding"
+      },
+      {
+        "year": "prelom 9. a 10. stor.",
+        "title": "Ďalšie osídlenie",
+        "description": "8 objektov (polozemnica, sídliskové jamy s keramickými nálezmi).",
+        "type": "discovery"
+      },
+      {
+        "year": "930 – 940",
+        "title": "Staromaďarské nájazdy",
+        "description": "Dosiahli maximálne severnú hranicu Bratislava – Hlohovec – Nitra – Levice – Rimavská Sobota, do stredného Považia nezasiahli.",
+        "type": "event"
+      },
+      {
+        "year": "po roku 1017",
+        "title": "Formálne súčasťou Uhorska",
+        "description": "Za vlády Štefana I. (1000 – 1038), hoci faktické zabratie prišlo neskôr.",
+        "type": "event"
+      },
+      {
+        "year": "1077 – 1095",
+        "title": "Faktické pripojenie k Uhorsku",
+        "description": "Za vlády kráľa Ladislava I. bola južná časť Trenčianskeho komitátu fakticky zabratá do uhorského štátu.",
+        "type": "event"
+      },
+      {
+        "year": "13. storočie",
+        "title": "Vznik kamenného hradu",
+        "description": "Počiatky kamenného hradu na mieste staršieho hradiska.",
+        "type": "construction"
+      },
+      {
+        "year": "1388",
+        "title": "Hrad dostáva Štibor zo Štiboríc",
+        "description": "Od uhorského kráľa Žigmunda Luxemburského — najvýznamnejšie obdobie v dejinách hradu.",
+        "type": "event"
+      },
+      {
+        "year": "1975",
+        "title": "Nález zničenej slovanskej osady",
+        "description": "Juhozápadne od poľnohospodárskeho družstva.",
+        "type": "discovery"
+      },
+      {
+        "year": "1983",
+        "title": "Doklady osídlenia z 10. storočia",
+        "description": "Nájdené \"za skalicami\".",
+        "type": "discovery"
+      },
+      {
+        "year": "začiatok 18. storočia",
+        "title": "Zánik hradu",
+        "description": "Kontinuita osídlenia trvala až po zánik hradu začiatkom 18. storočia.",
+        "type": "destruction"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Slovania na beckovskom hradnom brale\n \n \n "
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hrad Beckov sa v pôvodných slovenských povestiach spája s menom Štibora zo Štiboríc (tiež Ctibor zo Ctiboríc, alebo Stibor zo Stiboríc). Dokonca ho vraj podľa jednej z nich dal tento významný veľmož postaviť pre svojho šaša za oddanosť a verné služby, keď na jednej z poľovačiek veľmi dobre zabával hostí. V skutočnosti bolo beckovské hradné bralo osídlené už od čias praveku. Ľudia na tejto strategicky výnimočnej polohe žili už v neskorolaténskom období a v dobe rímskej a neskôr na nej bolo vybudované včasnostredoveké slovanské hradisko."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrBX7ioN4NNkXXWPgyhrmnUQBcZ8bHebtvBvOQT5DIRcw0cZr_E8Ds8aSCxZ2kMBUzpy-edirM1xm-OekBD-qkDrie7Nc6RvuSYfAtBB0vptu8szxLMjHEs1nfeFLRod8s6lEem0GYJPc/s1600/beckov1.jpg",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradné bralo sa nachádza v obci Beckov, ktorá sa rozprestiera na východnej strane Váhu, severovýchodne od Nového Mesta Nad Váhom a juhozápadne od mýtami opradeného Trenčína. Včasnostredoveké sídlisko bolo na skalnej vyvýšenine. Bolo postavené na mieste, kde bol v neskorších obdobiach stredoveku vybudovaný kamenný hrad. Počiatky kamenného hradu siahajú najneskôr do 13. storočia a jeho zvyšky sa v súčasnosti vypínajú nad obcou. Z tejto skutočnosti vyplýva, že hrad Beckov nedal postaviť Štibor zo Štiboríc. Dostal ho od uhorského kráľa Žigmunda Luxemburského v roku 1388. S týmto mužom sa však spája najvýznamnejšie obdobie v dejinách hradu, keď bol obľúbeným veľmožom kráľa Žigmunda. Štibor zo Štiboríc bol pôvodom Poliak a patril k najbohatším oligarchom vo vtedajšom Uhorsku. Vlastnil približne 18 hradov a okolo 300 dedín, pričom sa vždy snažil hájiť záujmy kráľa Žigmunda.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1sYxa7qGgLGE6ZOMVltYIs9pvzDQ2NDjJTVwYDVvqcV2GGxN4DU7UBmOkbf1IA0KRiHbydD5YJ_gInezzIlzQ0KPsZYHiLcrDm1U5snN2etcJlWud_WSGDGw4zraoIYVO_asfn1T-Ho/s0/IMG_9762.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1sYxa7qGgLGE6ZOMVltYIs9pvzDQ2NDjJTVwYDVvqcV2GGxN4DU7UBmOkbf1IA0KRiHbydD5YJ_gInezzIlzQ0KPsZYHiLcrDm1U5snN2etcJlWud_WSGDGw4zraoIYVO_asfn1T-Ho/s1600/IMG_9762.JPG",
+          "filename": "IMG_9762.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp1sYxa7qGgLGE6ZOMVltYIs9pvzDQ2NDjJTVwYDVvqcV2GGxN4DU7UBmOkbf1IA0KRiHbydD5YJ_gInezzIlzQ0KPsZYHiLcrDm1U5snN2etcJlWud_WSGDGw4zraoIYVO_asfn1T-Ho/s1600/IMG_9762.JPG",
+            "displayedWidth": 240,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Beckov (Slovanské Hradisko)",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "VÝZNAM SLOVANSKÉHO HRADISKA"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Táto lokalita bola systematicky skúmaná pod vedením pracovníčok Pamiatkového ústavu Slovenskej republiky M. Kodoňovej a Š. Tóthovej. Včasnostredoveké opevnené slovanské sídlisko ako jedno zo strategicko-vojenských strážnych bodov na strednom Považí vzniklo s najväčšou pravdepodobnosťou v druhej polovici 9. storočia. Rozprestieralo sa približne na celej ploche neskoršieho stredovekého hradu z 13. - 18. storočia o rozlohe 1,45 ha s najvyššou nadmorskou výškou v severozápadnej časti brala - 253 m. Táto skutočnosť zatiaľ celkom nekorešponduje s predchádzajúcim neskorolaténskym (neskorokeltským) a včasnorímskym osídlením, ktoré jednoznačne presahovalo rozmery plochy obhospodarovanej kamenným hradom. Plocha tohto pravekého osídlenia zaberala až 2,5 ha územia skalnej vyvýšeniny.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Včasnostredoveké hradisko počas vlády Slovanov nebolo významnejším politicko-spoločenským centrom. Beckovské opevnené sídlisko malo predovšetkým dôležitú vojensko-strážnu funkciu vďaka dobrej strategickej polohe, ktorá bola v patričnej miere využívaná aj v ďalších obdobiach. Plnilo úlohu výnimočnej pevnosti, chrániacej vstup do oblasti spravovanej \"trenčianskym\" územnosprávnym včasnostredovekým centrom vo veľkomoravskom a poveľkomoravskom období. Tento veľkomoravský trenčiansky územný celok kontinuálne tvoril základ kastelániu \"Trecen\". Budúceho trenčianskeho komitátu v Uhorskom kráľovstve. Beckovské hradisko teda bolo predsunutým strážnym bodom trenčianskeho centrálneho opevneného sídliska - dvorca spravovaného veľkomoravským veľmožom."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv2hhHAwNmrePto0iz1Eoi4Hdw9u2qOhkaDKG3jGRFbdLTPYQYqG34GQKkQdZGLCKug2pf1Uh2G6yZeifiUutWPowrUR0lMLjTifpXsPRfmwFaI9rzeuQ4If87Ux0N164p35JZ9dkF48/s0/vez%CC%8Ca.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv2hhHAwNmrePto0iz1Eoi4Hdw9u2qOhkaDKG3jGRFbdLTPYQYqG34GQKkQdZGLCKug2pf1Uh2G6yZeifiUutWPowrUR0lMLjTifpXsPRfmwFaI9rzeuQ4If87Ux0N164p35JZ9dkF48/s1600/vez%CC%8Ca.jpg",
+          "filename": "veža.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv2hhHAwNmrePto0iz1Eoi4Hdw9u2qOhkaDKG3jGRFbdLTPYQYqG34GQKkQdZGLCKug2pf1Uh2G6yZeifiUutWPowrUR0lMLjTifpXsPRfmwFaI9rzeuQ4If87Ux0N164p35JZ9dkF48/s1600/vez%CC%8Ca.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 293,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Beckov (Slovanské Hradisko)",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "ARCHEOLÓGIA A ANONYMUS"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nálezy keramiky a zvyškov obytných objektov tiež potvrdzujú, že tu bolo včasnostredoveké slovanské výšinné sídlisko, ktorého počiatky zasahujú do druhej polovice 9. až prvej polovice 10. storočia. Výšinné, s najväčšou pravdepodobnosťou opevnené sídlisko, tu vznikalo vo veľkomoravskom období. Kontinuita osídlenia tu jednoznačne pretrvávala od veľkomoravského obdobia cez poveľkomoravské obdobie, vpád Maďarov, počiatky uhorského štátu až po zánik hradu začiatkom 18. storočia. Práve s poveľkomoravským časovým horizontom môžeme dať do súvislosti správu kronikára Bela III. magistra P. tzv. Anonyma. Pochádza z prelomu 12. a 13. storočia a hovorí o dobytí hradov Šintava, Hlohovec, Trenčín, Bana a Blundus staromaďarskými vojenskými družinami v čase ich príchodu do Karpatskej kotliny. Prostredníctvom jazykovej interpretácie maďarského názvu pre Beckov - \"Blondóc\", môžeme v Anonymovej kronike spomínaný castrum Blundus stotožniť s beckovským skalným ostrohom s veľkomoravským a poveľkomoravským výšinným sídliskom, kde neskôr vznikol hrad z 13. - 18. stor. Táto interpretácia je v súčasnosti aj vďaka najnovším výsledkom posledného archeologického výskumu viac-menej potvrdená. Dokazuje to množstvo nálezov z veľkomoravského a poveľkomoravského obdobia, ktoré sprostredkovane vypovedajú, že v tom čase tu opevnené sídlisko existovalo. Blundus teda môžeme dať do súvislosti s beckovskou hradnou vyvýšeninou. Anonymova správa o dobytí \"castrórum\" Trenčín a Beckov sa však nezakladá na pravde, lebo staromaďarské vojenské skupiny zasiahli svojimi severnými výpadmi ešte v rokoch 930 - 940 maximálne po severnú hranicu Bratislava - Hlohovec - Nitra - Levice - Rimavská Sobota. Bolo pre nich strategicky nevýhodné ísť do údolia stredného Považia obkoleseného horami Považského Inovca a Bielych Karpát. Toto tvrdenie podporuje aj skutočnosť, že prevažná časť považského podolia - budúca južná časť Trenčianskeho komitátu - bola fakticky zabratá do vznikajúceho uhorského štátu pravdepodobne až počas vlády kráľa Ladislava I. (1077 - 1095). Aj keď po formálnej územnosprávnej stránke bola súčasťou Uhorska už po roku 1017 za vlády Štefana I. 1000 - 1038. Vyvrátenie aj tejto Anonymovej interpretácie o dobýjaní slovanských hradísk maďarskými kočovnými bojovníkmi len dokazuje už dlhšie známu nevieryhodnosť tohto prameňa."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_Ov-Dwgsc-k9Ed1qr31aGKGlAj6EVA3Ha8t6PBXX4rdxN4lbs7BeXeXSdotY5i2hA3XrClaiLiXN71mGo7l9Q64aN3bH5FoEnzxhgDjVJZlTf37zTtp8CDKJVmEVdtYl7NOwcUTP1m8/s0/483057_560401117305523_975227186_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_Ov-Dwgsc-k9Ed1qr31aGKGlAj6EVA3Ha8t6PBXX4rdxN4lbs7BeXeXSdotY5i2hA3XrClaiLiXN71mGo7l9Q64aN3bH5FoEnzxhgDjVJZlTf37zTtp8CDKJVmEVdtYl7NOwcUTP1m8/s1600/483057_560401117305523_975227186_n.jpg",
+          "filename": "483057_560401117305523_975227186_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL_Ov-Dwgsc-k9Ed1qr31aGKGlAj6EVA3Ha8t6PBXX4rdxN4lbs7BeXeXSdotY5i2hA3XrClaiLiXN71mGo7l9Q64aN3bH5FoEnzxhgDjVJZlTf37zTtp8CDKJVmEVdtYl7NOwcUTP1m8/s1600/483057_560401117305523_975227186_n.jpg",
+            "displayedWidth": 240,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Beckov (Slovanské Hradisko)",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potvrdzuje to aj nálezová situácia na slovanskom veľmožskom Dvorci v Ducovom pri Piešťanoch nachádzajúcom sa južne od Beckova. Veď na ňom môžeme výrazné stopy po dobytí datovať až do druhej polovice 10. storočia a nie s okamžitým zánikom po páde Veľkej Moravy. Beckov sa pritom nachádza od Ducového podstatne severnejšie a tým aj pre kočovné obyvateľstvo menej zaujímavom území."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zle zachovaná nálezová situácia neumožnila lepšie rozoznať fortifikácie z 9. príp. 10. - 11. stor., ale môžeme o nej podľa autoriek výskumu hypoteticky uvažovať v priestoroch neskoršie vybudovaného tzv. dolného hradu z 13. - 18. stor. Samotná výhodná poloha z hľadiska terénu - skalný ostroh, ktorý chráni zo severozápadnej strany takmer neprekonateľné skalné bralo - priam vypovedajú o strategicko-vojenskej a strážnej funkcii lokality. Tá aj napriek týmto skutočnostiam zostáva naďalej zahalená rúškom tajomstva a to nielen v súvislosti so stredovekom, ale aj pravekom. Tieto riadky jednoznačne potvrdzujú významné strategické postavenie Beckovského skalného, hradného brala v rámci slovanských hradísk na území Slovenska. Význam tejto lokality v období včasného stredoveku zdôrazňuje aj tá skutočnosť, že ďalšie slovanské lokality poznáme aj z katastra obce Beckov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Drahoslav Hulínek"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Článok bol prevzatý zo stránky http://www.historickarevue.com/archiv_37.html a prinášame ho so súhlasom autora - archeológa SAHI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pokiaľ ide o ostatné archeologické nálezy z priestoru Beckova, je potrebné spomenúť nález sídliska v časti Sady - keramika pražského typu z obdobia konca 5. stor. až polovice 7. storočia, z obdobia prenikania slovanského obyvateľstva. Našla sa tu obytná polozemnica s pecou s kupolou z lomového kameňa, keramika bola ručne modelovaná. Druhý nález je z konca 7. a zač. 8. stor. - ide o jamu a studňu hlbokú 295 cm s priemerom 205 cm a tretí nález je z prelomu 9. a 10. stor. - 8 objektov (polozemnica, sídliskové jamy s keramickými nálezmi.(6) Archeologický výskum Beckovského hradu potvrdil existenciu vyspelého veľkomoravského sídliska na hrade s bohatým nálezom keramiky(7). V lokalite juhozápadne od poľnohospodárskeho družstva sa našla v r. 1975 zničená slovanská osada(8). Aj v obci , ulice Slnečná a Zelená , sa našli pozostatky polozemníc, keramika, železný nôž a stratený meč. Za skalicami sa našli v r. 1983 doklady osídlenia z obdobia 10. stor."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nasledujúce fotografie pochádzajú z knihy J. Karlík a kol.: Beckov 1, Dejiny obce do roku 1918, WillArt 2006:"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "http://www.obec-beckov.sk/index.php?name=historia&page=16",
+            "url": "http://www.obec-beckov.sk/index.php?name=historia&page=16"
+          },
+          {
+            "text": "Foto: Orgoň, V. Satko",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "http://www.obec-beckov.sk/index.php?name=historia&page=16",
+        "title": "http://www.obec-beckov.sk/index.php?name=historia&page=16"
+      },
+      {
+        "type": "attribution",
+        "text": "Foto: Orgoň, V. Satko"
+      }
+    ]
+  }
+}
