@@ -1,0 +1,810 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\nitrianska-blatnica-post.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3254298880125207665",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/03/nitrianska-blatnica.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3254298880125207665/comments/default",
+    "extractedAt": "2026-07-12T20:02:24.372Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&ll=48.584276,17.963682&spn=0.002846,0.007752&t=h&z=18&vpsrc=6&output=embed"
+      ],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/1j0X6f0ekS4"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 15,
+      "captionedImages": 3,
+      "separatorImages": 10
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Hradisko Nitrianska Blatnica - rotunda Blatnický Ďurko",
+    "slug": "hradisko-nitrianska-blatnica-rotunda-blatnicky-durko",
+    "excerpt": "Vo vzdialenosti 6 km východne od dvorca v Ducovom, už na ponitrianskej strane masívu Marhátu, v lesnom pásme vo výške 450 m n. m, takmer 5 km od Nitrianskej Blatnice, stojí Kostolík sv. Juraja, tradičné miesto pútí obyvateľov z okolitých častí…",
+    "authorName": "Orgon",
+    "publishedAt": "2011-03-30T22:11:00.000+02:00",
+    "originalPublishedDate": "2011-03-30T22:11:00.000+02:00",
+    "updatedAt": "2020-04-28T09:38:47.358+02:00",
+    "readingTime": 7,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s0/fotka+30-40+roky+%C4%8Eurko.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s1600/fotka+30-40+roky+%C4%8Eurko.jpg",
+      "filename": "fotka+30-40+roky+Ďurko.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s1600/fotka+30-40+roky+%C4%8Eurko.jpg",
+        "displayedWidth": 239,
+        "displayedHeight": 320,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s0/fotka+30-40+roky+%C4%8Eurko.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s1600/fotka+30-40+roky+%C4%8Eurko.jpg",
+        "filename": "fotka+30-40+roky+Ďurko.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s1600/fotka+30-40+roky+%C4%8Eurko.jpg",
+          "displayedWidth": 239,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad na kostolík v období cca 20. - 30. rokov 20. storočia. Pri kostolíku ešte v tej dobe stála budova starej horárne a pôvodne cirkevnej školy pre šľachtické deti. Na fotografii je dobre vidieť návršie na ktorom pôvodne stál veľmožský dvorec, súčasťou ktorého bola aj rotunda, podobne ako to bolo v Ducovom (archív Ladislava Banáka )"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWlXeMzlQBNXM7NKSjgWpBKQ9f7J_I5bWO6ZWiDodrGNtcO5EA6wmMseMMxOT45vMk738qTJZDTHxk0PMbtB3ocv2aXGfyH1cgJ9BWQ9ISk5wzsOEXd5EIR-7uGU-eU4vCD9ea6cHL0w/s0/malba.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWlXeMzlQBNXM7NKSjgWpBKQ9f7J_I5bWO6ZWiDodrGNtcO5EA6wmMseMMxOT45vMk738qTJZDTHxk0PMbtB3ocv2aXGfyH1cgJ9BWQ9ISk5wzsOEXd5EIR-7uGU-eU4vCD9ea6cHL0w/s1600/malba.jpg",
+        "filename": "malba.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWlXeMzlQBNXM7NKSjgWpBKQ9f7J_I5bWO6ZWiDodrGNtcO5EA6wmMseMMxOT45vMk738qTJZDTHxk0PMbtB3ocv2aXGfyH1cgJ9BWQ9ISk5wzsOEXd5EIR-7uGU-eU4vCD9ea6cHL0w/s1600/malba.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 166,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwF0W_pb_jHPDxXGTpJr1qiVJ9uPnKC2ucvNV-U0_wAY5xZ5Ucid4MD-onC4tlQM-MPoFDX9cLZaOpI0SQug3OOW97hxWTRJtGAmeXsflKY40Nwp_BKqXmf1eavUduvUkwRHRlhqPtrAU/s0/Nitrianska+Blatnica1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwF0W_pb_jHPDxXGTpJr1qiVJ9uPnKC2ucvNV-U0_wAY5xZ5Ucid4MD-onC4tlQM-MPoFDX9cLZaOpI0SQug3OOW97hxWTRJtGAmeXsflKY40Nwp_BKqXmf1eavUduvUkwRHRlhqPtrAU/s1600/Nitrianska+Blatnica1.jpg",
+        "filename": "Nitrianska+Blatnica1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwF0W_pb_jHPDxXGTpJr1qiVJ9uPnKC2ucvNV-U0_wAY5xZ5Ucid4MD-onC4tlQM-MPoFDX9cLZaOpI0SQug3OOW97hxWTRJtGAmeXsflKY40Nwp_BKqXmf1eavUduvUkwRHRlhqPtrAU/s1600/Nitrianska+Blatnica1.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Nálezy z Veľkomoravského obdobia pri kostole"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj32mW88IV1REtRuQ_hu1zDlRN3zg_mSk68B92-7PlLfi8C1BJECDB4Oq96OYmWJBNQgG421SKMWrqGVr9WX8Gb7mSiiwIbxu2V_6FNErQviXGSb1RqsGE9TJmXlgJw3oXV__iqmXiCv8/s0/blatnica.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj32mW88IV1REtRuQ_hu1zDlRN3zg_mSk68B92-7PlLfi8C1BJECDB4Oq96OYmWJBNQgG421SKMWrqGVr9WX8Gb7mSiiwIbxu2V_6FNErQviXGSb1RqsGE9TJmXlgJw3oXV__iqmXiCv8/s1600/blatnica.jpg",
+        "filename": "blatnica.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj32mW88IV1REtRuQ_hu1zDlRN3zg_mSk68B92-7PlLfi8C1BJECDB4Oq96OYmWJBNQgG421SKMWrqGVr9WX8Gb7mSiiwIbxu2V_6FNErQviXGSb1RqsGE9TJmXlgJw3oXV__iqmXiCv8/s1600/blatnica.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 182,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZZlEX2mr2Lh-2xicWk7CFIvMT-I15hULsGJfgavGLgufkVGGQTKk093fFne3JRnvTRvtOise5eN7HHKtKOGXn73j6BES51ZT37tR7YLnBq7jFH8Jx9FZewbwmsCmeMiF-QMpDlGZHRnM/s0/Nitrianska+Blatnica123.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZZlEX2mr2Lh-2xicWk7CFIvMT-I15hULsGJfgavGLgufkVGGQTKk093fFne3JRnvTRvtOise5eN7HHKtKOGXn73j6BES51ZT37tR7YLnBq7jFH8Jx9FZewbwmsCmeMiF-QMpDlGZHRnM/s1600/Nitrianska+Blatnica123.jpg",
+        "filename": "Nitrianska+Blatnica123.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZZlEX2mr2Lh-2xicWk7CFIvMT-I15hULsGJfgavGLgufkVGGQTKk093fFne3JRnvTRvtOise5eN7HHKtKOGXn73j6BES51ZT37tR7YLnBq7jFH8Jx9FZewbwmsCmeMiF-QMpDlGZHRnM/s1600/Nitrianska+Blatnica123.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ETWvCcz6mr-3ybY8tzfr8jiPyI_9PV5mx1JGAnNYfXXNBaofUBBJ9kQQwTLwB7-F2zuuvwnxyqUCFRdJscQ1gvJ7t8MPbh3PpujpjsTeysjGJ9l703ebHDJLMawNMNEomMyPNX8TNTo/s0/DSC09092.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ETWvCcz6mr-3ybY8tzfr8jiPyI_9PV5mx1JGAnNYfXXNBaofUBBJ9kQQwTLwB7-F2zuuvwnxyqUCFRdJscQ1gvJ7t8MPbh3PpujpjsTeysjGJ9l703ebHDJLMawNMNEomMyPNX8TNTo/s1600/DSC09092.JPG",
+        "filename": "DSC09092.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ETWvCcz6mr-3ybY8tzfr8jiPyI_9PV5mx1JGAnNYfXXNBaofUBBJ9kQQwTLwB7-F2zuuvwnxyqUCFRdJscQ1gvJ7t8MPbh3PpujpjsTeysjGJ9l703ebHDJLMawNMNEomMyPNX8TNTo/s1600/DSC09092.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hit_wWSb6532Fbe7kNOVajA2BwM6rc1L8J125TuSnlH19jg_uwA5o2_T_mHaIbUtKWoJr-kFqEDLmov8hyphenhyphengno1jDxDGa5_GLmgt-Iw7O6jEQSEGJB1MtvhWeIwt5Qh4modf27iPIjfA/s0/DSC09106.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hit_wWSb6532Fbe7kNOVajA2BwM6rc1L8J125TuSnlH19jg_uwA5o2_T_mHaIbUtKWoJr-kFqEDLmov8hyphenhyphengno1jDxDGa5_GLmgt-Iw7O6jEQSEGJB1MtvhWeIwt5Qh4modf27iPIjfA/s1600/DSC09106.JPG",
+        "filename": "DSC09106.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hit_wWSb6532Fbe7kNOVajA2BwM6rc1L8J125TuSnlH19jg_uwA5o2_T_mHaIbUtKWoJr-kFqEDLmov8hyphenhyphengno1jDxDGa5_GLmgt-Iw7O6jEQSEGJB1MtvhWeIwt5Qh4modf27iPIjfA/s1600/DSC09106.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDtisJI86YB6_ZOIaVB1JjGyC_OU3tPTUU2qOi_bdGo9F0kSrUaKNVF2DaSKojMSa3YLEM1wGJkKUKJ3J2DT2ZKTUCQJycbrTltV_hurP3p2ZZDlLkSFHCCcBdgG-Vp-_h4V1Iczaaio/s0/DSC09110.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDtisJI86YB6_ZOIaVB1JjGyC_OU3tPTUU2qOi_bdGo9F0kSrUaKNVF2DaSKojMSa3YLEM1wGJkKUKJ3J2DT2ZKTUCQJycbrTltV_hurP3p2ZZDlLkSFHCCcBdgG-Vp-_h4V1Iczaaio/s1600/DSC09110.JPG",
+        "filename": "DSC09110.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDtisJI86YB6_ZOIaVB1JjGyC_OU3tPTUU2qOi_bdGo9F0kSrUaKNVF2DaSKojMSa3YLEM1wGJkKUKJ3J2DT2ZKTUCQJycbrTltV_hurP3p2ZZDlLkSFHCCcBdgG-Vp-_h4V1Iczaaio/s1600/DSC09110.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07hEL70qCl80GvJBLiPjzc9-wM_xS4lL54mrv9JfHJlnMMOGsEmBrYRr-k0PlRxPk-_HUElCDfCcZGMNKXF9w3OiZ3kTpxESD1zwOMq5l9GTTZitwHJKqWwdG2hHqRk01Wd1BXGaSZoI/s0/DSC09122.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07hEL70qCl80GvJBLiPjzc9-wM_xS4lL54mrv9JfHJlnMMOGsEmBrYRr-k0PlRxPk-_HUElCDfCcZGMNKXF9w3OiZ3kTpxESD1zwOMq5l9GTTZitwHJKqWwdG2hHqRk01Wd1BXGaSZoI/s1600/DSC09122.JPG",
+        "filename": "DSC09122.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07hEL70qCl80GvJBLiPjzc9-wM_xS4lL54mrv9JfHJlnMMOGsEmBrYRr-k0PlRxPk-_HUElCDfCcZGMNKXF9w3OiZ3kTpxESD1zwOMq5l9GTTZitwHJKqWwdG2hHqRk01Wd1BXGaSZoI/s1600/DSC09122.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY5u_Kferqa60yWRdUm_1lhRaFjVGMOUcL0tB3V1bZxWbI6EqPpHY3wd0iWRZPnWcgFXXjb3HWNUi_zFCFkkw8M15GIONT596_JqxnkIzkWaFT2jgQO64P4g3GmMmXDPo0F25FZ5feZL0/s0/DSC09126.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY5u_Kferqa60yWRdUm_1lhRaFjVGMOUcL0tB3V1bZxWbI6EqPpHY3wd0iWRZPnWcgFXXjb3HWNUi_zFCFkkw8M15GIONT596_JqxnkIzkWaFT2jgQO64P4g3GmMmXDPo0F25FZ5feZL0/s1600/DSC09126.JPG",
+        "filename": "DSC09126.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY5u_Kferqa60yWRdUm_1lhRaFjVGMOUcL0tB3V1bZxWbI6EqPpHY3wd0iWRZPnWcgFXXjb3HWNUi_zFCFkkw8M15GIONT596_JqxnkIzkWaFT2jgQO64P4g3GmMmXDPo0F25FZ5feZL0/s1600/DSC09126.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Lx3PGPp9xf4TRnKcDE0hUOTKZ9_4Tci-8yha2eHtTm3kLTRb9DQqcF8Sk4_2nn2plbSUX2OYTJLzomTpy4_Z918FzKxDcjqNwmDGwN0658bOIjuIYN80MBs24IcwYgX4D2_J1vse_aU/s0/DSC09128.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Lx3PGPp9xf4TRnKcDE0hUOTKZ9_4Tci-8yha2eHtTm3kLTRb9DQqcF8Sk4_2nn2plbSUX2OYTJLzomTpy4_Z918FzKxDcjqNwmDGwN0658bOIjuIYN80MBs24IcwYgX4D2_J1vse_aU/s1600/DSC09128.JPG",
+        "filename": "DSC09128.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Lx3PGPp9xf4TRnKcDE0hUOTKZ9_4Tci-8yha2eHtTm3kLTRb9DQqcF8Sk4_2nn2plbSUX2OYTJLzomTpy4_Z918FzKxDcjqNwmDGwN0658bOIjuIYN80MBs24IcwYgX4D2_J1vse_aU/s1600/DSC09128.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRV4PtcVIrX-wD17-7zKu1oVB-dRDBQuK1BkEg5bD8o9zmDjfuiRIaAazufls86Y_LrJk4-_ycDzgQFTH1RZM0926kYN8n6E5pIWDNof-Bcix1oqM2k9Y7Wt_OnlOgyVj2cBlL8sf4hJc/s0/DSC09133.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRV4PtcVIrX-wD17-7zKu1oVB-dRDBQuK1BkEg5bD8o9zmDjfuiRIaAazufls86Y_LrJk4-_ycDzgQFTH1RZM0926kYN8n6E5pIWDNof-Bcix1oqM2k9Y7Wt_OnlOgyVj2cBlL8sf4hJc/s1600/DSC09133.JPG",
+        "filename": "DSC09133.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRV4PtcVIrX-wD17-7zKu1oVB-dRDBQuK1BkEg5bD8o9zmDjfuiRIaAazufls86Y_LrJk4-_ycDzgQFTH1RZM0926kYN8n6E5pIWDNof-Bcix1oqM2k9Y7Wt_OnlOgyVj2cBlL8sf4hJc/s1600/DSC09133.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraSAkjHsYQNHiTMa-Gt1hjQo2fEv-2PQHDkLANTtG5Bv4xsJNiyd9_FJJJaNNOfWIc1LEGyOehiL3ZBqh6u7F-Uq0AjUr61RmE6NEjXJ7CQ92IQyGx4aBlOqYrR1JJg8A8UPom7TC_g4/s0/DSC09199.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraSAkjHsYQNHiTMa-Gt1hjQo2fEv-2PQHDkLANTtG5Bv4xsJNiyd9_FJJJaNNOfWIc1LEGyOehiL3ZBqh6u7F-Uq0AjUr61RmE6NEjXJ7CQ92IQyGx4aBlOqYrR1JJg8A8UPom7TC_g4/s1600/DSC09199.JPG",
+        "filename": "DSC09199.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraSAkjHsYQNHiTMa-Gt1hjQo2fEv-2PQHDkLANTtG5Bv4xsJNiyd9_FJJJaNNOfWIc1LEGyOehiL3ZBqh6u7F-Uq0AjUr61RmE6NEjXJ7CQ92IQyGx4aBlOqYrR1JJg8A8UPom7TC_g4/s1600/DSC09199.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTWCHjDqE723xm-MdwBL3iwUDRh2XfmQCAr4MF1p1iB-AWj-4OjkhKQe3Rrgtue_T1aWbkxoO19zZS-qm4sbKhGWkb7JM2NFDdETRFxmPY7Qp2GeG0-Gv62m2Yd_aDS96-ssfIYx_y5E/s0/DSC09242.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTWCHjDqE723xm-MdwBL3iwUDRh2XfmQCAr4MF1p1iB-AWj-4OjkhKQe3Rrgtue_T1aWbkxoO19zZS-qm4sbKhGWkb7JM2NFDdETRFxmPY7Qp2GeG0-Gv62m2Yd_aDS96-ssfIYx_y5E/s1600/DSC09242.JPG",
+        "filename": "DSC09242.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTWCHjDqE723xm-MdwBL3iwUDRh2XfmQCAr4MF1p1iB-AWj-4OjkhKQe3Rrgtue_T1aWbkxoO19zZS-qm4sbKhGWkb7JM2NFDdETRFxmPY7Qp2GeG0-Gv62m2Yd_aDS96-ssfIYx_y5E/s1600/DSC09242.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "(archív Ladislava Banáka )"
+      }
+    ],
+    "tags": [
+      "Kostoly z Veľkej Moravy",
+      "Nitrianska Blatnica - Veľmožský dvorec",
+      "Rotunda Blatnický Ďurko"
+    ],
+    "category": null,
+    "location": {
+      "name": "Nitrianska Blatnica",
+      "latitude": 48.584276,
+      "longitude": 17.963682,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "6 km východne od dvorca v Ducovom, v lesnom pásme masívu Marhát vo výške 450 m n. m., takmer 5 km od Nitrianskej Blatnice",
+        "icon": "mountain"
+      },
+      {
+        "label": "Rotunda Blatnický Ďurko",
+        "value": "Kruhová loď s podkovovitou apsidou, vnútorný priemer 730 cm, hrúbka múrov 73 cm — zhodné rozmery ako rotunda v Ducovom",
+        "icon": "building"
+      },
+      {
+        "label": "Dvorec — staršia fáza",
+        "value": "Nepravidelný kvadratický pôdorys obohnaný palisádami, plocha okolo 9000 m²",
+        "icon": "shield"
+      },
+      {
+        "label": "Dvorec — mladšia fáza",
+        "value": "Podstatne menšia, asi 3500 m², zrejme s hospodárskou funkciou (exploatácia blízkeho náleziska železnej rudy)",
+        "icon": "shield"
+      },
+      {
+        "label": "Cintorín pri rotunde",
+        "value": "Vyše 120 hrobov z 11. až polovice 13. storočia, výrazne prevažujú mužské kostry — svedčí o baníckej populácii",
+        "icon": "users"
+      },
+      {
+        "label": "Ťažba železnej rudy",
+        "value": "V lesnom pásme katastrov Nitrianskej Blatnice a Vozokán rad kutacích jám a píng, najväčšia s priemerom do 20 m a hĺbkou asi 8 m",
+        "icon": "mountain"
+      },
+      {
+        "label": "Výskumník",
+        "value": "Lokalitu skúmal Alexander Ruttkay — ten istý, ktorý skúmal aj Kostolec (Ducové)",
+        "icon": "scroll"
+      },
+      {
+        "label": "Dnes",
+        "value": "Tradičné pútnické miesto, na sv. Juraja sa v kostolíku ešte dnes slúži omša",
+        "icon": "star"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "9. storočie",
+        "title": "Vznik staršieho dvorca",
+        "description": "Starší veľmožský dvorec pri Nitrianskej Blatnici vznikol v 9. storočí, čiastočne súčasne s dvorcom v Ducovom.",
+        "type": "founding"
+      },
+      {
+        "year": "doba Svätoplukova (9. storočie)",
+        "title": "Vybudovanie rotundy Blatnický Ďurko",
+        "description": "Rotunda so zhodnými rozmermi ako kostolík v Ducovom (vnútorný priemer 730 cm, hrúbka múrov 73 cm) — obe merané longobardskou stopou (36,5 cm), tak ako dvojapsidová rotunda v Mikulčiciach.",
+        "type": "construction"
+      },
+      {
+        "year": "10. – 11. storočie",
+        "title": "Vznik mladšieho, menšieho dvorca",
+        "description": "Druhý dvorec s plochou asi 3500 m² (oproti 9000 m² staršej fázy), zrejme s hospodárskou funkciou spojenou s ťažbou železnej rudy.",
+        "type": "construction"
+      },
+      {
+        "year": "11. storočie",
+        "title": "Zánik mladšieho dvorca, vznik malej osady",
+        "description": "Po zániku dvorca tu vznikla malá osada so zrubovými príbytkami, vonkajšími pecami a dechtárskymi jamami; okolo rotundy vznikol prikostolný cintorín.",
+        "type": "event"
+      },
+      {
+        "year": "1185",
+        "title": "Listina kráľa Bela III.",
+        "description": "Spomína Stojislava, ktorému kráľ za hrdinstvo v boji udelil matke do doživotného užívania majetky nazývané Sárfew (Blatnica).",
+        "type": "event"
+      },
+      {
+        "year": "polovica 13. storočia",
+        "title": "Zánik osady aj funkcie rotundy",
+        "description": "Zanikla aj pôvodná funkcia rotundy; približne v tom čase zaniklo aj niekoľko ďalších osád v okolí, ktorých polia zarástli lesom.",
+        "type": "destruction"
+      },
+      {
+        "year": "1530",
+        "title": "Obnova kostolíka Annou Thurzovou",
+        "description": "Kostolík dala z ruín znovu vystavať Anna Thurzová na pamiatku manžela Františka, ktorý padol pri Moháči.",
+        "type": "event"
+      },
+      {
+        "year": "1974, 1976 – 1980",
+        "title": "Archeologický výskum",
+        "description": "Terénne obhliadky a výskum potvrdili, že Kostol sv. Juraja vznikol už vo včasnom stredoveku, s rozmermi zhodnými s rotundou v Ducovom.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vo vzdialenosti 6 km východne od dvorca v Ducovom, už na ponitrianskej strane masívu Marhátu, v lesnom pásme vo výške 450 m n. m, takmer 5 km od Nitrianskej Blatnice, stojí Kostolík sv. Juraja, tradičné miesto pútí obyvateľov z okolitých častí Považia a Ponitria.   \n \n"
+              },
+              {
+                "type": "text",
+                "text": "\n  \n  Podľa písomných prameňov, o ktoré sa opiera staršia literatúra, kostolík dala z ruín znovu vystavať roku 1530 Anna Thurzová na pamiatku svojho manžela Františka, ktorý padol pri Moháči. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Terénne obhliadky a následný archeologický výskum, ktorý sa tu uskutočnil v rokoch 1974,1976-1980, ukázali, že Kostol sv. Juraja vznikol už vo včasnom stredoveku a že šírka múrov, kruhová loď a podkovovitá apsida sú rozmermi úplne zhodné s rotundou v Ducovom. Kostolík s miestnym označením Jurko mal dve stredoveké fázy - predrománsku a románsku. Okolo roku 1530 sa tu uskutočnila v listinách spomenutá oprava a renesančné zaklenutie starobylej stavby, ktorá bola už dávnejšie v ruinách. Dnešný vzhľad kostolíka s vežou a tzv. pustovňou zodpovedá prestavbám v polovici 17. storočia. Uvedenými prestavbami sa síce kostol ako taký zachoval až do dnešných dní, avšak jeho vzhľad, najmä pokiaľ ide o hornú časť je podstatne odlišný od pôvodnej veľkomoravskej stavby. Táto prestavby a súčasný vzhľad preto nevzbudzuje až taký pocit starobylosti ako je to pri Kopčianskom kostole Sv. Margity. Napriek neskorším prestavbám sa však stále jedná o pôvodne veľkomoravský kostolík.\n \n    "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s0/fotka+30-40+roky+%C4%8Eurko.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s1600/fotka+30-40+roky+%C4%8Eurko.jpg",
+          "filename": "fotka+30-40+roky+Ďurko.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s1600/fotka+30-40+roky+%C4%8Eurko.jpg",
+            "displayedWidth": 239,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Pohľad na kostolík v období cca 20. - 30. rokov 20. storočia. Pri kostolíku ešte v tej dobe stála budova starej horárne a pôvodne cirkevnej školy pre šľachtické deti. Na fotografii je dobre vidieť návršie na ktorom pôvodne stál veľmožský dvorec, súčasťou ",
+        "caption": "Pohľad na kostolík v období cca 20. - 30. rokov 20. storočia. Pri kostolíku ešte v tej dobe stála budova starej horárne a pôvodne cirkevnej školy pre šľachtické deti. Na fotografii je dobre vidieť návršie na ktorom pôvodne stál veľmožský dvorec, súčasťou ktorého bola aj rotunda, podobne ako to bolo v Ducovom (archív Ladislava Banáka )",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pavel Dvořák v knihe Stopy dávnej minulosti 3 uvádza, že \"Kostolík svätého Juraja má základy - s presnosťou na centimetre - rovnako veľké ako veľkomoravský kostolík v Ducovom, vzdialený len sedem kilometrov po ceste pomedzi horské chrbty. Ďurko a Kostolec teda ležia na ceste, ktorá spájala Mikulčice a Nitru. Bolo šťastie, že Kostolec aj Nitrianska Blatnica mali toho istého výskumníka, Alexandra Ruttkaya, lebo ťažko povedať, či by si niekto iný všimol, že vnútorné priemery oboch rotúnd (730 centimetrov) a hrúbka ich múrov (73 centimetrov) sú identické. Všetky rozmery sú odvodené od základnej dĺžkovej miery - 36,5 centimetra, od tzv. longobardskej stopy (obe rotundy majú zhodné aj stavebné rozmery, zvonku merajú vyše 12,2 metra, znútra takmer 11 metrov). Ňou zamerali aj ďalší veľkomoravský kostol, dvojapsidovú rotundu v Mikulčiciach. Roku 1975 sa začalo odkrývať okolie a architektúra kaplnky. Ukázalo sa, že v starých múroch možno spoľahlivo rozoznať najstaršiu časť stavby: kruhovú rotundu a podkovovitú apsidu. Mala neobyčajne plytké základy, 20 - 30 cm hlboké, ale miestami opreté o skalné podložie. Pôvodné múry z plochých kameňov spájaných maltou siahali asi do metrovej výšky. Pridané murivo, oddelené jasne viditeľnou cezúrou, vyzeralo celkom inak.\" Blatnického Ďurka zrejme postavili v tých istých časoch ako rotundu v Ducovom alebo dvojapsidovú rotundu v Mikulčiciach. Všetky tri stavby patria do čias Svätopluka a majú totožné rozmery.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWlXeMzlQBNXM7NKSjgWpBKQ9f7J_I5bWO6ZWiDodrGNtcO5EA6wmMseMMxOT45vMk738qTJZDTHxk0PMbtB3ocv2aXGfyH1cgJ9BWQ9ISk5wzsOEXd5EIR-7uGU-eU4vCD9ea6cHL0w/s0/malba.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWlXeMzlQBNXM7NKSjgWpBKQ9f7J_I5bWO6ZWiDodrGNtcO5EA6wmMseMMxOT45vMk738qTJZDTHxk0PMbtB3ocv2aXGfyH1cgJ9BWQ9ISk5wzsOEXd5EIR-7uGU-eU4vCD9ea6cHL0w/s1600/malba.jpg",
+          "filename": "malba.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWlXeMzlQBNXM7NKSjgWpBKQ9f7J_I5bWO6ZWiDodrGNtcO5EA6wmMseMMxOT45vMk738qTJZDTHxk0PMbtB3ocv2aXGfyH1cgJ9BWQ9ISk5wzsOEXd5EIR-7uGU-eU4vCD9ea6cHL0w/s1600/malba.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 166,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradisko Nitrianska Blatnica - rotunda Blatnický Ďurko",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe3r-VBGC_BWYwdnY_pPejALm0YaSZxFVSvOxMtdPoyWBLkcIrZxhJyGedhBHx7oMNOqNNSDJeFhqcUkU6ZvBdjcj4_S0kXVuV_VPJ6PwKtv4abQvJVm1SddopRia7yXHYcLd927sf-Y/s1600/Nitrianska+Blatnica12.jpg",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Alexander Ruttkay vo svojom článku VÝZNAMNE ARCHEOLOGICKÉ LOKALITY Z VČASNÉHO STREDOVEKU V OBLASTI POVAŽSKÉHO INOVCA uvádza, že \"podľa výsledkov archeologického výskumu bola Rotunda sv. Juraja súčasťou včasnostredovekého dvorca. Bola však situovaná v rámci samostatného sídla na malom ostrohu nad vlastným areálom dvorca. Z predpokladaného sídla pri rotunde sa v teréne dotknutom stavbou školy, zmenenej v 19. storočí na horáreň, zistil len fragment objektu zahĺbeného do skalného podložia a našli sa tam keramické zlomky z 9.-10. storočia. Na malom cintoríne pri rotunde boli aj kosti z porušených hrobov spred 11. storočia, v blízkosti vchodu na západnej strane lode sa našiel napríklad aj veľký kľúč patriaci k včasnostredovekej fáze rotundy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dvorec",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " sa nachádzal pod ostrohom s rotundou na plošine Púšť. Výskum sa mohol zamerať len na malú časť priestoru dvorca. Možno však konštatovať, že na preskúmaných plochách lúky, pod ktorou pretekal kedysi malý potok, bola v minulosti orbou zničená väčšina nadzemných objektov . Rozsah a chronologické vzťahy dvorca bolo možné sledovať hlavne na základe priebehu palisádových žľabov zahĺbených do skalného podložia a sídliskovú zástavbu s nadzemnými príbytkami indikovali už len kamene z pecí a črepový materiál. Dvorec má dve chronologické fázy. V obidvoch prípadoch ide o nepravidelný kvadratický pôdorys priestoru obohnaného palisádami. Staršia fáza mala plochu okolo 9000 m2, mladšia bola podstatne menšia, asi 3500 m2. Dvorec mohol mať na rozdiel od dvorca v Ducovom zvýraznenú najmä hospodársku funkciu, spojenú zrejme s exploatáciou blízkeho náleziská železnej rudy. Poznatky o obidvoch fázach dvorca a ich napojenia na komunikácie z Ponitria na Považie bude možné rozšíriť najmä výskumom na južnej strane lúky Púšť, ktorá sa primkýna k ceste na priesmyk Gajda (602 m n. m.) južne od Marhátu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwF0W_pb_jHPDxXGTpJr1qiVJ9uPnKC2ucvNV-U0_wAY5xZ5Ucid4MD-onC4tlQM-MPoFDX9cLZaOpI0SQug3OOW97hxWTRJtGAmeXsflKY40Nwp_BKqXmf1eavUduvUkwRHRlhqPtrAU/s0/Nitrianska+Blatnica1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwF0W_pb_jHPDxXGTpJr1qiVJ9uPnKC2ucvNV-U0_wAY5xZ5Ucid4MD-onC4tlQM-MPoFDX9cLZaOpI0SQug3OOW97hxWTRJtGAmeXsflKY40Nwp_BKqXmf1eavUduvUkwRHRlhqPtrAU/s1600/Nitrianska+Blatnica1.jpg",
+          "filename": "Nitrianska+Blatnica1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwF0W_pb_jHPDxXGTpJr1qiVJ9uPnKC2ucvNV-U0_wAY5xZ5Ucid4MD-onC4tlQM-MPoFDX9cLZaOpI0SQug3OOW97hxWTRJtGAmeXsflKY40Nwp_BKqXmf1eavUduvUkwRHRlhqPtrAU/s1600/Nitrianska+Blatnica1.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Nálezy z Veľkomoravského obdobia pri kostole",
+        "caption": "Nálezy z Veľkomoravského obdobia pri kostole",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vývoj pri Nitrianskej Blatnici sa odzrkadľuje v zistení dvoch asynchrónnych dvorcov. Starší dvorec vznikol už v 9. storočí. Bol teda čiastočne súčasný s dvorcom v Ducovom. Druhý (menší) dvorec je mladší, patrí do 10.-11. storočia. V priebehu 11. storočia, po zániku mladšieho dvorca, tu vznikla malá osada. Objekty, ktoré s ňou súvisia, bolo možné rozpoznať len v terénnej depresii v blízkosti dávneho potoka. Zistili sa stopy nadzemných, asi zrubových príbytkov, vonkajšie pece a dechtárske jamy Románsku prestavbu prekonala pravdepodobne už predtým poškodená rotunda. Od 11. do polovice 13. storočia bol okolo nej prikostolný cintorín, ktorý bol úplne preskúmaný. Z vyše 120 hrobov, ktoré svedčia o málo početnej pochovanej populácii, výrazne prevažujú kostry mužov. Rodová asymetria populácie je vcelku neobvyklá, svedčí o špecifikách spôsobu života.\" Vznik, život i zánik neveľkej osady zrejme súvisel so zdrojom železnej rudy, a prítomnosť baníkov vysvetľuje neveľký počet ženských hrobov pri kaplnke: ťažba rudy bola robota pre chlapov. Na dávnu ťažbu rudy na východných svahoch Marhátu poukázali najprv geológovia. V teréne sa v lesnom pásme v katastroch Nitrianskej Blatnice a Vozokán zistili celý rad priehlbní a vyvýšenín, ktoré možno považovať za kutacie jamy a pingy. Asi najväčšia z nich má priemer do 20 m a hĺbku asi 8 m.   \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj32mW88IV1REtRuQ_hu1zDlRN3zg_mSk68B92-7PlLfi8C1BJECDB4Oq96OYmWJBNQgG421SKMWrqGVr9WX8Gb7mSiiwIbxu2V_6FNErQviXGSb1RqsGE9TJmXlgJw3oXV__iqmXiCv8/s0/blatnica.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj32mW88IV1REtRuQ_hu1zDlRN3zg_mSk68B92-7PlLfi8C1BJECDB4Oq96OYmWJBNQgG421SKMWrqGVr9WX8Gb7mSiiwIbxu2V_6FNErQviXGSb1RqsGE9TJmXlgJw3oXV__iqmXiCv8/s1600/blatnica.jpg",
+          "filename": "blatnica.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj32mW88IV1REtRuQ_hu1zDlRN3zg_mSk68B92-7PlLfi8C1BJECDB4Oq96OYmWJBNQgG421SKMWrqGVr9WX8Gb7mSiiwIbxu2V_6FNErQviXGSb1RqsGE9TJmXlgJw3oXV__iqmXiCv8/s1600/blatnica.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 182,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradisko Nitrianska Blatnica - rotunda Blatnický Ďurko",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "1j0X6f0ekS4",
+        "url": "https://www.youtube.com/embed/1j0X6f0ekS4",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ruttkay ďalej pokračuje: \"Zánik osady aj pôvodnej funkcie rotundy nastal najneskôr okolo polovice 13. storočia. Približne v tom období zaniklo aj niekoľko iných osád a čiastočne kultivovaná pôda zarástla lesom. Svedčia o tom zachované plužiny a cestné záseky v lesnom pásme a celý rad pravdepodobných názvov týchto osád v metáciách Radošinej a Nitrianskej Blatnice zo 14. a 15. storočia. Sú to napríklad názvy Prylecz, Prynyoa, Dehchyche, Lwsne, Grechyk, Stopparcz.\" "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zaujímavú vec v súvislosti s kostolom a okolím píše Dvořák: \"Jestvuje jedna informácia v listine kráľa Bela III. z roku 1185, ktorá je síce menej spoľahlivá, ale o to zaujímavejšia, lebo sa v nej spomína akýsi Stojislav, ktorý v boji utrpel také ťažké rany, že kráľ po jeho smrti dal Stojislavovej matke ako odmenu za synovo hrdinstvo do doživotného užívania rozsiahle majetky jej syna. To nebola bežná prax, ženám sa majetky neudeľovali, dostávali ich ako odmenu bojovníci, a ak nebolo mužského potomka, vracali sa kráľovi. Ťažko povedať, čo konkrétne viedlo Bela III. k málo zvyčajnému kroku, je však dôležité, že spomenuté majetky sa volali Sárfew, teda Blatnica, a Stojislav je slovanské meno. Je to naozaj nezvyčajná situácia, ak blatnický šľachtic so slovanským menom dve storočia po páde Veľkej Moravy položí život za kráľa a kráľ sa odvďačí takým spôsobom. Ťažko povedať, či je to náhoda, alebo kus pozoruhodných dejín. Písomných pamiatok je málo, ľudová tradícia je, naopak, veľmi živá. Na sv. Juraja sa v kostole ešte aj dnes slúži omša, kostolík je odnepamäti pútnickým miestom, za medzivojnovej republiky sa tu konali trhy a napríklad v roku 1935 sem vraj prišlo až štyridsaťtisíc pútnikov. Na tomto mieste bolo čosi dávno zabudnuté, tradícia len pripomína, že to nie je obyčajný kostolík, ale rady si s tým nevedela.\" "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZZlEX2mr2Lh-2xicWk7CFIvMT-I15hULsGJfgavGLgufkVGGQTKk093fFne3JRnvTRvtOise5eN7HHKtKOGXn73j6BES51ZT37tR7YLnBq7jFH8Jx9FZewbwmsCmeMiF-QMpDlGZHRnM/s0/Nitrianska+Blatnica123.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZZlEX2mr2Lh-2xicWk7CFIvMT-I15hULsGJfgavGLgufkVGGQTKk093fFne3JRnvTRvtOise5eN7HHKtKOGXn73j6BES51ZT37tR7YLnBq7jFH8Jx9FZewbwmsCmeMiF-QMpDlGZHRnM/s1600/Nitrianska+Blatnica123.jpg",
+          "filename": "Nitrianska+Blatnica123.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZZlEX2mr2Lh-2xicWk7CFIvMT-I15hULsGJfgavGLgufkVGGQTKk093fFne3JRnvTRvtOise5eN7HHKtKOGXn73j6BES51ZT37tR7YLnBq7jFH8Jx9FZewbwmsCmeMiF-QMpDlGZHRnM/s1600/Nitrianska+Blatnica123.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradisko Nitrianska Blatnica - rotunda Blatnický Ďurko",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Spracoval: Orgoň "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pavel Dvořák: Stopy dávnej minulosti 3 (Zrod národa), vydavateľstvo Rak, 2004  Alexander Ruttkay: VÝZNAMNE ARCHEOLOGICKÉ LOKALITY Z VČASNÉHO STREDOVEKU V OBLASTI POVAŽSKÉHO INOVCA (in Pieta K., Ruttkay A., Ruttkay M .:2006, Bojná, Hospodárske a politické centrum Nitrianskeho kniežactva, Nitra  www.rotundajurko.sk  www.apsida.sk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "3D foto: www.sme.sk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Foto (Ľubomír Červený):"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Spracoval: Orgoň",
+            "url": null
+          },
+          {
+            "text": "Pavel Dvořák: Stopy dávnej minulosti 3 (Zrod národa), vydavateľstvo Rak, 2004",
+            "url": null
+          },
+          {
+            "text": "Alexander Ruttkay: VÝZNAMNE ARCHEOLOGICKÉ LOKALITY Z VČASNÉHO STREDOVEKU V OBLASTI POVAŽSKÉHO INOVCA (in Pieta K., Ruttkay A., Ruttkay M .:2006, Bojná, Hospodárske a politické centrum Nitrianskeho kniežactva, Nitra",
+            "url": null
+          },
+          {
+            "text": "http://www.rotundajurko.sk",
+            "url": "http://www.rotundajurko.sk"
+          },
+          {
+            "text": "http://www.apsida.sk",
+            "url": "http://www.apsida.sk"
+          },
+          {
+            "text": "http://www.sme.sk",
+            "url": "http://www.sme.sk"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ETWvCcz6mr-3ybY8tzfr8jiPyI_9PV5mx1JGAnNYfXXNBaofUBBJ9kQQwTLwB7-F2zuuvwnxyqUCFRdJscQ1gvJ7t8MPbh3PpujpjsTeysjGJ9l703ebHDJLMawNMNEomMyPNX8TNTo/s1600/DSC09092.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ETWvCcz6mr-3ybY8tzfr8jiPyI_9PV5mx1JGAnNYfXXNBaofUBBJ9kQQwTLwB7-F2zuuvwnxyqUCFRdJscQ1gvJ7t8MPbh3PpujpjsTeysjGJ9l703ebHDJLMawNMNEomMyPNX8TNTo/s1600/DSC09092.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hit_wWSb6532Fbe7kNOVajA2BwM6rc1L8J125TuSnlH19jg_uwA5o2_T_mHaIbUtKWoJr-kFqEDLmov8hyphenhyphengno1jDxDGa5_GLmgt-Iw7O6jEQSEGJB1MtvhWeIwt5Qh4modf27iPIjfA/s1600/DSC09106.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hit_wWSb6532Fbe7kNOVajA2BwM6rc1L8J125TuSnlH19jg_uwA5o2_T_mHaIbUtKWoJr-kFqEDLmov8hyphenhyphengno1jDxDGa5_GLmgt-Iw7O6jEQSEGJB1MtvhWeIwt5Qh4modf27iPIjfA/s1600/DSC09106.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDtisJI86YB6_ZOIaVB1JjGyC_OU3tPTUU2qOi_bdGo9F0kSrUaKNVF2DaSKojMSa3YLEM1wGJkKUKJ3J2DT2ZKTUCQJycbrTltV_hurP3p2ZZDlLkSFHCCcBdgG-Vp-_h4V1Iczaaio/s1600/DSC09110.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDtisJI86YB6_ZOIaVB1JjGyC_OU3tPTUU2qOi_bdGo9F0kSrUaKNVF2DaSKojMSa3YLEM1wGJkKUKJ3J2DT2ZKTUCQJycbrTltV_hurP3p2ZZDlLkSFHCCcBdgG-Vp-_h4V1Iczaaio/s1600/DSC09110.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07hEL70qCl80GvJBLiPjzc9-wM_xS4lL54mrv9JfHJlnMMOGsEmBrYRr-k0PlRxPk-_HUElCDfCcZGMNKXF9w3OiZ3kTpxESD1zwOMq5l9GTTZitwHJKqWwdG2hHqRk01Wd1BXGaSZoI/s1600/DSC09122.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07hEL70qCl80GvJBLiPjzc9-wM_xS4lL54mrv9JfHJlnMMOGsEmBrYRr-k0PlRxPk-_HUElCDfCcZGMNKXF9w3OiZ3kTpxESD1zwOMq5l9GTTZitwHJKqWwdG2hHqRk01Wd1BXGaSZoI/s1600/DSC09122.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY5u_Kferqa60yWRdUm_1lhRaFjVGMOUcL0tB3V1bZxWbI6EqPpHY3wd0iWRZPnWcgFXXjb3HWNUi_zFCFkkw8M15GIONT596_JqxnkIzkWaFT2jgQO64P4g3GmMmXDPo0F25FZ5feZL0/s1600/DSC09126.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY5u_Kferqa60yWRdUm_1lhRaFjVGMOUcL0tB3V1bZxWbI6EqPpHY3wd0iWRZPnWcgFXXjb3HWNUi_zFCFkkw8M15GIONT596_JqxnkIzkWaFT2jgQO64P4g3GmMmXDPo0F25FZ5feZL0/s1600/DSC09126.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Lx3PGPp9xf4TRnKcDE0hUOTKZ9_4Tci-8yha2eHtTm3kLTRb9DQqcF8Sk4_2nn2plbSUX2OYTJLzomTpy4_Z918FzKxDcjqNwmDGwN0658bOIjuIYN80MBs24IcwYgX4D2_J1vse_aU/s1600/DSC09128.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Lx3PGPp9xf4TRnKcDE0hUOTKZ9_4Tci-8yha2eHtTm3kLTRb9DQqcF8Sk4_2nn2plbSUX2OYTJLzomTpy4_Z918FzKxDcjqNwmDGwN0658bOIjuIYN80MBs24IcwYgX4D2_J1vse_aU/s1600/DSC09128.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRV4PtcVIrX-wD17-7zKu1oVB-dRDBQuK1BkEg5bD8o9zmDjfuiRIaAazufls86Y_LrJk4-_ycDzgQFTH1RZM0926kYN8n6E5pIWDNof-Bcix1oqM2k9Y7Wt_OnlOgyVj2cBlL8sf4hJc/s1600/DSC09133.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRV4PtcVIrX-wD17-7zKu1oVB-dRDBQuK1BkEg5bD8o9zmDjfuiRIaAazufls86Y_LrJk4-_ycDzgQFTH1RZM0926kYN8n6E5pIWDNof-Bcix1oqM2k9Y7Wt_OnlOgyVj2cBlL8sf4hJc/s1600/DSC09133.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraSAkjHsYQNHiTMa-Gt1hjQo2fEv-2PQHDkLANTtG5Bv4xsJNiyd9_FJJJaNNOfWIc1LEGyOehiL3ZBqh6u7F-Uq0AjUr61RmE6NEjXJ7CQ92IQyGx4aBlOqYrR1JJg8A8UPom7TC_g4/s1600/DSC09199.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraSAkjHsYQNHiTMa-Gt1hjQo2fEv-2PQHDkLANTtG5Bv4xsJNiyd9_FJJJaNNOfWIc1LEGyOehiL3ZBqh6u7F-Uq0AjUr61RmE6NEjXJ7CQ92IQyGx4aBlOqYrR1JJg8A8UPom7TC_g4/s1600/DSC09199.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTWCHjDqE723xm-MdwBL3iwUDRh2XfmQCAr4MF1p1iB-AWj-4OjkhKQe3Rrgtue_T1aWbkxoO19zZS-qm4sbKhGWkb7JM2NFDdETRFxmPY7Qp2GeG0-Gv62m2Yd_aDS96-ssfIYx_y5E/s1600/DSC09242.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTWCHjDqE723xm-MdwBL3iwUDRh2XfmQCAr4MF1p1iB-AWj-4OjkhKQe3Rrgtue_T1aWbkxoO19zZS-qm4sbKhGWkb7JM2NFDdETRFxmPY7Qp2GeG0-Gv62m2Yd_aDS96-ssfIYx_y5E/s1600/DSC09242.JPG"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "Pavel Dvořák: Stopy dávnej minulosti 3 (Zrod národa), vydavateľstvo Rak, 2004"
+      },
+      {
+        "type": "book",
+        "text": "Alexander Ruttkay: VÝZNAMNE ARCHEOLOGICKÉ LOKALITY Z VČASNÉHO STREDOVEKU V OBLASTI POVAŽSKÉHO INOVCA (in Pieta K., Ruttkay A., Ruttkay M .:2006, Bojná, Hospodárske a politické centrum Nitrianskeho kniežactva, Nitra"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.rotundajurko.sk",
+        "title": "http://www.rotundajurko.sk"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.apsida.sk",
+        "title": "http://www.apsida.sk"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.sme.sk",
+        "title": "http://www.sme.sk"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ETWvCcz6mr-3ybY8tzfr8jiPyI_9PV5mx1JGAnNYfXXNBaofUBBJ9kQQwTLwB7-F2zuuvwnxyqUCFRdJscQ1gvJ7t8MPbh3PpujpjsTeysjGJ9l703ebHDJLMawNMNEomMyPNX8TNTo/s1600/DSC09092.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ETWvCcz6mr-3ybY8tzfr8jiPyI_9PV5mx1JGAnNYfXXNBaofUBBJ9kQQwTLwB7-F2zuuvwnxyqUCFRdJscQ1gvJ7t8MPbh3PpujpjsTeysjGJ9l703ebHDJLMawNMNEomMyPNX8TNTo/s1600/DSC09092.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hit_wWSb6532Fbe7kNOVajA2BwM6rc1L8J125TuSnlH19jg_uwA5o2_T_mHaIbUtKWoJr-kFqEDLmov8hyphenhyphengno1jDxDGa5_GLmgt-Iw7O6jEQSEGJB1MtvhWeIwt5Qh4modf27iPIjfA/s1600/DSC09106.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hit_wWSb6532Fbe7kNOVajA2BwM6rc1L8J125TuSnlH19jg_uwA5o2_T_mHaIbUtKWoJr-kFqEDLmov8hyphenhyphengno1jDxDGa5_GLmgt-Iw7O6jEQSEGJB1MtvhWeIwt5Qh4modf27iPIjfA/s1600/DSC09106.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDtisJI86YB6_ZOIaVB1JjGyC_OU3tPTUU2qOi_bdGo9F0kSrUaKNVF2DaSKojMSa3YLEM1wGJkKUKJ3J2DT2ZKTUCQJycbrTltV_hurP3p2ZZDlLkSFHCCcBdgG-Vp-_h4V1Iczaaio/s1600/DSC09110.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDtisJI86YB6_ZOIaVB1JjGyC_OU3tPTUU2qOi_bdGo9F0kSrUaKNVF2DaSKojMSa3YLEM1wGJkKUKJ3J2DT2ZKTUCQJycbrTltV_hurP3p2ZZDlLkSFHCCcBdgG-Vp-_h4V1Iczaaio/s1600/DSC09110.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07hEL70qCl80GvJBLiPjzc9-wM_xS4lL54mrv9JfHJlnMMOGsEmBrYRr-k0PlRxPk-_HUElCDfCcZGMNKXF9w3OiZ3kTpxESD1zwOMq5l9GTTZitwHJKqWwdG2hHqRk01Wd1BXGaSZoI/s1600/DSC09122.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07hEL70qCl80GvJBLiPjzc9-wM_xS4lL54mrv9JfHJlnMMOGsEmBrYRr-k0PlRxPk-_HUElCDfCcZGMNKXF9w3OiZ3kTpxESD1zwOMq5l9GTTZitwHJKqWwdG2hHqRk01Wd1BXGaSZoI/s1600/DSC09122.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY5u_Kferqa60yWRdUm_1lhRaFjVGMOUcL0tB3V1bZxWbI6EqPpHY3wd0iWRZPnWcgFXXjb3HWNUi_zFCFkkw8M15GIONT596_JqxnkIzkWaFT2jgQO64P4g3GmMmXDPo0F25FZ5feZL0/s1600/DSC09126.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY5u_Kferqa60yWRdUm_1lhRaFjVGMOUcL0tB3V1bZxWbI6EqPpHY3wd0iWRZPnWcgFXXjb3HWNUi_zFCFkkw8M15GIONT596_JqxnkIzkWaFT2jgQO64P4g3GmMmXDPo0F25FZ5feZL0/s1600/DSC09126.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Lx3PGPp9xf4TRnKcDE0hUOTKZ9_4Tci-8yha2eHtTm3kLTRb9DQqcF8Sk4_2nn2plbSUX2OYTJLzomTpy4_Z918FzKxDcjqNwmDGwN0658bOIjuIYN80MBs24IcwYgX4D2_J1vse_aU/s1600/DSC09128.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Lx3PGPp9xf4TRnKcDE0hUOTKZ9_4Tci-8yha2eHtTm3kLTRb9DQqcF8Sk4_2nn2plbSUX2OYTJLzomTpy4_Z918FzKxDcjqNwmDGwN0658bOIjuIYN80MBs24IcwYgX4D2_J1vse_aU/s1600/DSC09128.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRV4PtcVIrX-wD17-7zKu1oVB-dRDBQuK1BkEg5bD8o9zmDjfuiRIaAazufls86Y_LrJk4-_ycDzgQFTH1RZM0926kYN8n6E5pIWDNof-Bcix1oqM2k9Y7Wt_OnlOgyVj2cBlL8sf4hJc/s1600/DSC09133.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRV4PtcVIrX-wD17-7zKu1oVB-dRDBQuK1BkEg5bD8o9zmDjfuiRIaAazufls86Y_LrJk4-_ycDzgQFTH1RZM0926kYN8n6E5pIWDNof-Bcix1oqM2k9Y7Wt_OnlOgyVj2cBlL8sf4hJc/s1600/DSC09133.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraSAkjHsYQNHiTMa-Gt1hjQo2fEv-2PQHDkLANTtG5Bv4xsJNiyd9_FJJJaNNOfWIc1LEGyOehiL3ZBqh6u7F-Uq0AjUr61RmE6NEjXJ7CQ92IQyGx4aBlOqYrR1JJg8A8UPom7TC_g4/s1600/DSC09199.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraSAkjHsYQNHiTMa-Gt1hjQo2fEv-2PQHDkLANTtG5Bv4xsJNiyd9_FJJJaNNOfWIc1LEGyOehiL3ZBqh6u7F-Uq0AjUr61RmE6NEjXJ7CQ92IQyGx4aBlOqYrR1JJg8A8UPom7TC_g4/s1600/DSC09199.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTWCHjDqE723xm-MdwBL3iwUDRh2XfmQCAr4MF1p1iB-AWj-4OjkhKQe3Rrgtue_T1aWbkxoO19zZS-qm4sbKhGWkb7JM2NFDdETRFxmPY7Qp2GeG0-Gv62m2Yd_aDS96-ssfIYx_y5E/s1600/DSC09242.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTWCHjDqE723xm-MdwBL3iwUDRh2XfmQCAr4MF1p1iB-AWj-4OjkhKQe3Rrgtue_T1aWbkxoO19zZS-qm4sbKhGWkb7JM2NFDdETRFxmPY7Qp2GeG0-Gv62m2Yd_aDS96-ssfIYx_y5E/s1600/DSC09242.JPG"
+      }
+    ]
+  }
+}

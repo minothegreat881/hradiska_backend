@@ -1,0 +1,970 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Nitrianska+Blatnica+-+Ve%C4%BEmo%C5%BEsk%C3%BD+dvorec?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Nitrianska%20Blatnica%20-%20Ve%C4%BEmo%C5%BEsk%C3%BD%20dvorec"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-3254298880125207665"
+        },
+        "published": {
+          "$t": "2011-03-30T22:11:00.000+02:00"
+        },
+        "updated": {
+          "$t": "2020-04-28T09:38:47.358+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Kostoly z Veľkej Moravy"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Nitrianska Blatnica - Veľmožský dvorec"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Rotunda Blatnický Ďurko"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Hradisko Nitrianska Blatnica - rotunda Blatnický Ďurko"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n</div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n</div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<span style=\"font-size: small;\"><br />\n</span></div>\n<div style=\"text-align: justify;\">\n<div style=\"font-family: Arial, Helvetica, sans-serif;\">\n<span style=\"font-size: small;\">&nbsp;&nbsp;&nbsp;&nbsp; Vo vzdialenosti 6 km východne od dvorca v Ducovom, už na ponitrianskej strane masívu Marhátu, v lesnom pásme vo výške 450 m n. m, takmer 5 km od Nitrianskej Blatnice, stojí Kostolík sv. Juraja, tradičné miesto pútí obyvateľov z okolitých častí Považia a Ponitria.&nbsp;</span></div>\n<div style=\"font-family: Arial, Helvetica, sans-serif;\">\n<span style=\"font-size: small;\"><br /></span></div>\n<span style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><iframe frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"https://maps.google.com/?ie=UTF8&amp;ll=48.584276,17.963682&amp;spn=0.002846,0.007752&amp;t=h&amp;z=18&amp;vpsrc=6&amp;output=embed\" width=\"425\"></iframe><br /><small><a href=\"https://maps.google.com/?ie=UTF8&amp;ll=48.584276,17.963682&amp;spn=0.002846,0.007752&amp;t=h&amp;z=18&amp;vpsrc=6&amp;source=embed\" style=\"color: blue; text-align: left;\">Zväčšiť mapu</a></small></span><br />\n<div style=\"font-family: Arial, Helvetica, sans-serif;\">\n<span style=\"font-size: small;\"><br /></span></div>\n<div style=\"font-family: Arial, Helvetica, sans-serif;\">\n<span style=\"font-size: small;\">Podľa písomných prameňov, o ktoré sa opiera staršia literatúra, kostolík dala z ruín znovu vystavať&nbsp; roku 1530 Anna Thurzová na pamiatku svojho manžela Františka, ktorý padol pri Moháči.</span></div>\n</div>\n<div>\n<div style=\"font-family: Arial, Helvetica, sans-serif;\">\n<span style=\"font-size: small;\"><br />\n</span></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s1600/fotka+30-40+roky+%C4%8Eurko.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s1600/fotka+30-40+roky+%C4%8Eurko.jpg\" width=\"239\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><span style=\"font-size: x-small; text-align: start;\">Pohľad na kostolík v období cca 20. - 30. rokov 20. storočia. Pri kostolíku ešte v tej dobe stála budova starej horárne a pôvodne cirkevnej školy pre šľachtické deti. Na fotografii je dobre vidieť návršie na ktorom pôvodne stál veľmožský dvorec, súčasťou ktorého bola aj rotunda, podobne ako to bolo v Ducovom (archív </span><br />\n<span class=\"_5yl5\" data-reactid=\".a5.1:$mid=11442424975477=266d8bddd3724f20383.2:0.0.0.0.0\"><span data-reactid=\".a5.1:$mid=11442424975477=266d8bddd3724f20383.2:0.0.0.0.0.0\">Ladislava Banáka )</span></span></td></tr>\n</tbody></table>\n<div class=\"separator\" style=\"clear: both; font-family: Arial, Helvetica, sans-serif; text-align: center;\">\n</div>\n<div class=\"separator\" style=\"clear: both; font-family: Arial, Helvetica, sans-serif; text-align: center;\">\n<span style=\"font-size: small;\"></span></div>\n<div style=\"font-family: Arial, Helvetica, sans-serif;\">\n<div style=\"text-align: justify;\">\n<span style=\"font-size: small;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Terénne obhliadky a následný archeologický výskum, ktorý sa tu uskutočnil v rokoch 1974,1976-1980, ukázali, že Kostol sv. Juraja vznikol už vo včasnom stredoveku a že šírka múrov, kruhová loď a podkovovitá apsida sú rozmermi úplne zhodné s rotundou v Ducovom. Kostolík s miestnym označením Jurko mal dve stredoveké fázy - predrománsku a románsku. Okolo roku 1530 sa tu uskutočnila v listinách spomenutá oprava a renesančné zaklenutie starobylej stavby, ktorá bola už dávnejšie v ruinách. Dnešný vzhľad kostolíka s vežou a tzv. pustovňou zodpovedá prestavbám v polovici 17. storočia. Uvedenými prestavbami sa síce kostol ako taký zachoval až do dnešných dní, avšak jeho vzhľad, najmä pokiaľ ide o hornú časť je podstatne odlišný od pôvodnej veľkomoravskej stavby. Táto prestavby a súčasný vzhľad preto nevzbudzuje až taký pocit starobylosti ako je to pri Kopčianskom kostole Sv. Margity. Napriek neskorším prestavbám sa však stále jedná o pôvodne veľkomoravský kostolík.</span><br />\n<span style=\"font-size: small;\"><br /></span></div>\n</div>\n<div style=\"font-family: Arial, Helvetica, sans-serif;\">\n<div style=\"text-align: justify;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWlXeMzlQBNXM7NKSjgWpBKQ9f7J_I5bWO6ZWiDodrGNtcO5EA6wmMseMMxOT45vMk738qTJZDTHxk0PMbtB3ocv2aXGfyH1cgJ9BWQ9ISk5wzsOEXd5EIR-7uGU-eU4vCD9ea6cHL0w/s1600/malba.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"166\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbWlXeMzlQBNXM7NKSjgWpBKQ9f7J_I5bWO6ZWiDodrGNtcO5EA6wmMseMMxOT45vMk738qTJZDTHxk0PMbtB3ocv2aXGfyH1cgJ9BWQ9ISk5wzsOEXd5EIR-7uGU-eU4vCD9ea6cHL0w/s320/malba.jpg\" width=\"320\" /></a></div>\n<span style=\"font-size: small;\"><br />\n</span></div>\n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div style=\"font-family: Arial, Helvetica, sans-serif;\">\n<span style=\"font-size: small;\"><br />\n</span></div>\n<div style=\"font-family: Arial, Helvetica, sans-serif;\">\n<div style=\"text-align: justify;\">\n<span style=\"font-size: small;\">&nbsp;&nbsp;&nbsp; Pavel Dvořák v knihe Stopy dávnej minulosti 3 uvádza, že \"</span><span lang=\"CS\" style=\"font-size: small;\">Kostolík svätého Juraja má základy - s presnosťou na centimetre - rovnako veľké ako veľkomoravský kostolík v Ducovom, vzdialený len sedem kilometrov po ceste pomedzi horské chrbty. Ďurko a Kostolec teda ležia na ceste, ktorá spájala Mikulčice a Nitru. Bolo šťastie, že Kostolec aj Nitrianska Blatnica mali toho istého výskumníka, Alexandra Ruttkaya, lebo ťažko povedať, či by si niekto iný všimol, že vnútorné priemery oboch rotúnd (730 centimetrov) a hrúbka ich múrov (73 centimetrov) sú identické. Všetky rozmery sú odvodené od základnej dĺžkovej miery - 36,5 centimetra, od tzv. longobardskej stopy (obe rotundy majú zhodné aj stavebné rozmery, zvonku merajú vyše 12,2 metra, znútra takmer 11 metrov). Ňou zamerali aj ďalší veľkomoravský kostol, dvojapsidovú rotundu v Mikulčiciach. Roku 1975 sa začalo odkrývať okolie a architektúra kaplnky. Ukázalo sa, že v starých múroch možno spoľahlivo rozoznať najstaršiu časť stavby: kruhovú rotundu a podkovovitú apsidu. Mala neobyčajne plytké základy, 20 - 30 cm hlboké, ale miestami opreté o skalné podložie. Pôvodné múry z&nbsp;plochých kameňov spájaných maltou siahali asi do metrovej výšky. Pridané murivo, oddelené jasne viditeľnou cezúrou, vyzeralo celkom inak.\" </span><span lang=\"CS\" style=\"font-size: small;\">Blatnického Ďurka zrejme postavili v tých istých časoch ako rotundu v&nbsp;Ducovom alebo dvojapsidovú rotundu v Mikulčiciach. Všetky tri stavby patria do čias Svätopluka a majú totožné rozmery.</span></div>\n</div>\n</div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<span style=\"font-size: small;\"><br />\n</span></div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<span style=\"font-size: small;\"><br />\n</span></div>\n<div class=\"separator\" style=\"clear: both; font-family: Arial,Helvetica,sans-serif; text-align: center;\">\n<span style=\"font-size: small;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe3r-VBGC_BWYwdnY_pPejALm0YaSZxFVSvOxMtdPoyWBLkcIrZxhJyGedhBHx7oMNOqNNSDJeFhqcUkU6ZvBdjcj4_S0kXVuV_VPJ6PwKtv4abQvJVm1SddopRia7yXHYcLd927sf-Y/s1600/Nitrianska+Blatnica12.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320px\" r6=\"true\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSe3r-VBGC_BWYwdnY_pPejALm0YaSZxFVSvOxMtdPoyWBLkcIrZxhJyGedhBHx7oMNOqNNSDJeFhqcUkU6ZvBdjcj4_S0kXVuV_VPJ6PwKtv4abQvJVm1SddopRia7yXHYcLd927sf-Y/s320/Nitrianska+Blatnica12.jpg\" width=\"209px\" /></a></span></div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<span style=\"font-size: small;\"><br />\n</span></div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<span style=\"font-size: small;\">&nbsp;&nbsp;&nbsp;&nbsp; Alexander Ruttkay vo svojom článku&nbsp; VÝZNAMNE ARCHEOLOGICKÉ LOKALITY Z VČASNÉHO STREDOVEKU V OBLASTI POVAŽSKÉHO INOVCA uvádza, že \"podľa výsledkov archeologického výskumu bola Rotunda sv. Juraja súčasťou včasnostredovekého dvorca. Bola však situovaná v rámci samostatného sídla na malom ostrohu nad vlastným areálom dvorca. Z predpokladaného sídla pri rotunde sa v teréne dotknutom stavbou školy, zmenenej v 19. storočí na horáreň, zistil len fragment objektu zahĺbeného do skalného podložia a našli sa tam keramické zlomky z 9.-10. storočia. Na malom cintoríne pri rotunde boli aj kosti z porušených hrobov spred 11. storočia, v blízkosti vchodu na západnej strane lode sa našiel napríklad aj veľký kľúč patriaci k včasnostredovekej fáze rotundy.</span></div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<span style=\"font-size: small;\"><br />\n</span></div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<span style=\"font-size: small;\"><br />\n</span></div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><span style=\"font-size: small;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwF0W_pb_jHPDxXGTpJr1qiVJ9uPnKC2ucvNV-U0_wAY5xZ5Ucid4MD-onC4tlQM-MPoFDX9cLZaOpI0SQug3OOW97hxWTRJtGAmeXsflKY40Nwp_BKqXmf1eavUduvUkwRHRlhqPtrAU/s1600/Nitrianska+Blatnica1.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320px\" r6=\"true\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwF0W_pb_jHPDxXGTpJr1qiVJ9uPnKC2ucvNV-U0_wAY5xZ5Ucid4MD-onC4tlQM-MPoFDX9cLZaOpI0SQug3OOW97hxWTRJtGAmeXsflKY40Nwp_BKqXmf1eavUduvUkwRHRlhqPtrAU/s320/Nitrianska+Blatnica1.jpg\" width=\"139px\" /></a></span></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><span style=\"font-size: small;\">Nálezy z Veľkomoravského&nbsp;obdobia pri kostole</span></td><td class=\"tr-caption\" style=\"text-align: center;\"><span style=\"font-size: small;\"><br />\n</span></td></tr>\n</tbody></table>\n<span style=\"font-size: small;\"><br />\n</span></div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj32mW88IV1REtRuQ_hu1zDlRN3zg_mSk68B92-7PlLfi8C1BJECDB4Oq96OYmWJBNQgG421SKMWrqGVr9WX8Gb7mSiiwIbxu2V_6FNErQviXGSb1RqsGE9TJmXlgJw3oXV__iqmXiCv8/s1600/blatnica.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"182\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj32mW88IV1REtRuQ_hu1zDlRN3zg_mSk68B92-7PlLfi8C1BJECDB4Oq96OYmWJBNQgG421SKMWrqGVr9WX8Gb7mSiiwIbxu2V_6FNErQviXGSb1RqsGE9TJmXlgJw3oXV__iqmXiCv8/s320/blatnica.jpg\" width=\"320\" /></a></div>\n<span style=\"font-size: small;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>&nbsp;</b></span><br />\n<span style=\"font-size: small;\"><b><br />\n</b></span><br />\n<span style=\"font-size: small;\"><b>Dvorec</b> sa nachádzal pod ostrohom s rotundou na plošine Púšť. Výskum sa mohol zamerať len na malú časť priestoru dvorca. Možno však konštatovať, že na preskúmaných plochách lúky, pod ktorou pretekal kedysi malý potok, bola v minulosti orbou zničená väčšina nadzemných objektov . Rozsah a chronologické vzťahy dvorca bolo možné sledovať hlavne na základe priebehu palisádových žľabov zahĺbených do skalného podložia a sídliskovú zástavbu s nadzemnými príbytkami indikovali už len kamene z pecí a črepový materiál. Dvorec má dve chronologické fázy. V obidvoch prípadoch ide o nepravidelný kvadratický pôdorys priestoru obohnaného palisádami. Staršia fáza mala plochu okolo 9000 m2, mladšia bola podstatne menšia, asi 3500 m2. Dvorec mohol mať na rozdiel od dvorca v Ducovom zvýraznenú najmä hospodársku funkciu, spojenú zrejme s exploatáciou blízkeho náleziská železnej rudy. Poznatky o obidvoch fázach dvorca a ich napojenia na komunikácie z Ponitria na Považie bude možné rozšíriť najmä výskumom na južnej strane lúky Púšť, ktorá sa primkýna k ceste na priesmyk Gajda (602 m n. m.) južne od Marhátu.</span></div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<span style=\"font-size: small;\"><br />\n</span><br />\n<span style=\"font-size: small;\"><br />\n</span><br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<span style=\"font-size: small;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZZlEX2mr2Lh-2xicWk7CFIvMT-I15hULsGJfgavGLgufkVGGQTKk093fFne3JRnvTRvtOise5eN7HHKtKOGXn73j6BES51ZT37tR7YLnBq7jFH8Jx9FZewbwmsCmeMiF-QMpDlGZHRnM/s1600/Nitrianska+Blatnica123.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"189px\" r6=\"true\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZZlEX2mr2Lh-2xicWk7CFIvMT-I15hULsGJfgavGLgufkVGGQTKk093fFne3JRnvTRvtOise5eN7HHKtKOGXn73j6BES51ZT37tR7YLnBq7jFH8Jx9FZewbwmsCmeMiF-QMpDlGZHRnM/s320/Nitrianska+Blatnica123.jpg\" width=\"320px\" /></a></span></div>\n</div>\n<div style=\"text-align: justify;\">\n<div style=\"font-family: arial, helvetica, sans-serif;\">\n<span style=\"font-size: small;\">&nbsp;&nbsp;&nbsp;&nbsp; Vývoj pri Nitrianskej Blatnici sa odzrkadľuje v zistení dvoch asynchrónnych dvorcov. Starší dvorec vznikol už v 9. storočí. Bol teda čiastočne súčasný s dvorcom v Ducovom. Druhý (menší) dvorec je mladší, patrí do 10.-11. storočia. V priebehu 11. storočia, po zániku mladšieho dvorca, tu vznikla malá osada. Objekty, ktoré s ňou súvisia, bolo možné rozpoznať len v terénnej depresii v blízkosti dávneho potoka. Zistili sa stopy nadzemných, asi zrubových príbytkov, vonkajšie pece a dechtárske jamy&nbsp; Románsku prestavbu prekonala pravdepodobne už predtým poškodená rotunda. Od 11. do polovice 13. storočia bol okolo nej prikostolný cintorín, ktorý bol úplne preskúmaný. Z vyše 120 hrobov, ktoré svedčia o málo početnej pochovanej populácii, výrazne prevažujú kostry mužov. Rodová asymetria populácie je vcelku neobvyklá, svedčí o špecifikách spôsobu života.\" </span><span lang=\"CS\" style=\"font-size: small;\">Vznik, život i zánik neveľkej osady zrejme súvisel so zdrojom železnej rudy, a prítomnosť baníkov vysvetľuje neveľký počet ženských hrobov pri kaplnke: ťažba rudy bola robota pre chlapov. </span><span style=\"font-size: small;\">Na dávnu ťažbu rudy na východných svahoch Marhátu poukázali najprv geológovia. V teréne sa v lesnom pásme v katastroch Nitrianskej Blatnice a Vozokán zistili celý rad priehlbní a vyvýšenín, ktoré možno považovať za kutacie jamy a pingy. Asi najväčšia z nich má priemer do 20 m a hĺbku asi 8 m.&nbsp;</span></div>\n<div style=\"font-family: arial, helvetica, sans-serif;\">\n<br /></div>\n<span style=\"font-family: arial, helvetica, sans-serif;\"><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/1j0X6f0ekS4\" width=\"560\"></iframe></span><br />\n<div style=\"font-family: arial, helvetica, sans-serif;\">\n<br /></div>\n<div style=\"font-family: arial, helvetica, sans-serif;\">\n&nbsp; &nbsp; Ruttkay ďalej pokračuje: \"Zánik osady aj pôvodnej funkcie rotundy nastal najneskôr okolo polovice 13. storočia. Približne v tom období zaniklo aj niekoľko iných osád a čiastočne kultivovaná pôda zarástla lesom. Svedčia o tom zachované plužiny a cestné záseky v lesnom pásme a celý rad pravdepodobných názvov týchto osád v metáciách Radošinej a Nitrianskej Blatnice zo 14. a 15. storočia. Sú to napríklad názvy Prylecz, Prynyoa, Dehchyche, Lwsne, Grechyk, Stopparcz.\"</div>\n</div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<span style=\"font-size: small;\">&nbsp; </span></div>\n<div style=\"font-family: Arial,Helvetica,sans-serif; text-align: justify;\">\n<span style=\"font-size: small;\">&nbsp;&nbsp;&nbsp; <metricconverter productid=\"8 m\" w:st=\"on\">&nbsp; Zaujímavú vec v súvislosti s kostolom a okolím píše Dvořák: </metricconverter></span><span lang=\"CS\" style=\"font-size: small;\">\"Jestvuje&nbsp; jedna informácia v listine kráľa Bela III. z roku 1185, ktorá je síce menej spoľahlivá, ale o to zaujímavejšia, lebo sa v nej spomína akýsi Stojislav, ktorý v boji utrpel také ťažké rany, že kráľ po jeho smrti dal Stojislavovej matke ako odmenu za synovo hrdinstvo do doživotného užívania rozsiahle majetky jej syna. To nebola bežná prax, ženám sa majetky neudeľovali, dostávali ich ako odmenu bojovníci, a ak nebolo mužského potomka, vracali sa kráľovi. Ťažko povedať, čo konkrétne viedlo Bela III. k málo zvyčajnému kroku, je však dôležité, že spomenuté majetky sa volali Sárfew, teda Blatnica, a Stojislav je slovanské meno. Je to naozaj nezvyčajná situácia, ak blatnický šľachtic so &nbsp;slovanským menom dve storočia po páde Veľkej Moravy položí život za kráľa a kráľ sa odvďačí takým spôsobom. Ťažko povedať, či je to náhoda, alebo kus pozoruhodných dejín. Písomných pamiatok je málo, ľudová tradícia je, naopak, veľmi živá. Na sv. Juraja sa v kostole ešte aj dnes slúži omša, kostolík je odnepamäti pútnickým miestom, za medzivojnovej republiky sa tu konali trhy a napríklad v&nbsp;roku 1935 sem vraj prišlo až štyridsaťtisíc pútnikov. Na tomto mieste bolo čosi dávno zabudnuté, tradícia len pripomína, že to nie je obyčajný kostolík, ale rady si s tým nevedela.</span><span style=\"font-size: small;\"><metricconverter productid=\"8 m\" w:st=\"on\">\"&nbsp;</metricconverter></span><br />\n<br />\nSpracoval: Orgoň <span style=\"font-size: small;\"><br />\n</span><br />\n<div style=\"text-align: justify;\">\n<span style=\"font-size: small;\">Pavel Dvořák: Stopy dávnej minulosti 3 (Zrod národa), vydavateľstvo Rak, 2004</span></div>\n<div style=\"text-align: justify;\">\n<span style=\"font-size: small;\">Alexander Ruttkay: VÝZNAMNE ARCHEOLOGICKÉ LOKALITY Z VČASNÉHO STREDOVEKU V OBLASTI POVAŽSKÉHO INOVCA&nbsp;(in Pieta K., Ruttkay A., Ruttkay M .:2006, Bojná, Hospodárske a politické centrum Nitrianskeho kniežactva, Nitra</span></div>\n<div style=\"text-align: justify;\">\n<span style=\"font-size: small;\">www.rotundajurko.sk</span></div>\n<div style=\"text-align: justify;\">\n<span style=\"font-size: small;\">www.apsida.sk</span><br />\n<span style=\"font-size: small;\">3D foto: www.sme.sk</span><br />\n<span style=\"font-size: small;\"><br /></span>\n<span style=\"font-size: small;\">Foto (Ľubomír Červený):</span><br />\n<span style=\"font-size: small;\"><br /></span>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ETWvCcz6mr-3ybY8tzfr8jiPyI_9PV5mx1JGAnNYfXXNBaofUBBJ9kQQwTLwB7-F2zuuvwnxyqUCFRdJscQ1gvJ7t8MPbh3PpujpjsTeysjGJ9l703ebHDJLMawNMNEomMyPNX8TNTo/s1600/DSC09092.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_ETWvCcz6mr-3ybY8tzfr8jiPyI_9PV5mx1JGAnNYfXXNBaofUBBJ9kQQwTLwB7-F2zuuvwnxyqUCFRdJscQ1gvJ7t8MPbh3PpujpjsTeysjGJ9l703ebHDJLMawNMNEomMyPNX8TNTo/s1600/DSC09092.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hit_wWSb6532Fbe7kNOVajA2BwM6rc1L8J125TuSnlH19jg_uwA5o2_T_mHaIbUtKWoJr-kFqEDLmov8hyphenhyphengno1jDxDGa5_GLmgt-Iw7O6jEQSEGJB1MtvhWeIwt5Qh4modf27iPIjfA/s1600/DSC09106.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2Hit_wWSb6532Fbe7kNOVajA2BwM6rc1L8J125TuSnlH19jg_uwA5o2_T_mHaIbUtKWoJr-kFqEDLmov8hyphenhyphengno1jDxDGa5_GLmgt-Iw7O6jEQSEGJB1MtvhWeIwt5Qh4modf27iPIjfA/s1600/DSC09106.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDtisJI86YB6_ZOIaVB1JjGyC_OU3tPTUU2qOi_bdGo9F0kSrUaKNVF2DaSKojMSa3YLEM1wGJkKUKJ3J2DT2ZKTUCQJycbrTltV_hurP3p2ZZDlLkSFHCCcBdgG-Vp-_h4V1Iczaaio/s1600/DSC09110.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRDtisJI86YB6_ZOIaVB1JjGyC_OU3tPTUU2qOi_bdGo9F0kSrUaKNVF2DaSKojMSa3YLEM1wGJkKUKJ3J2DT2ZKTUCQJycbrTltV_hurP3p2ZZDlLkSFHCCcBdgG-Vp-_h4V1Iczaaio/s1600/DSC09110.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07hEL70qCl80GvJBLiPjzc9-wM_xS4lL54mrv9JfHJlnMMOGsEmBrYRr-k0PlRxPk-_HUElCDfCcZGMNKXF9w3OiZ3kTpxESD1zwOMq5l9GTTZitwHJKqWwdG2hHqRk01Wd1BXGaSZoI/s1600/DSC09122.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg07hEL70qCl80GvJBLiPjzc9-wM_xS4lL54mrv9JfHJlnMMOGsEmBrYRr-k0PlRxPk-_HUElCDfCcZGMNKXF9w3OiZ3kTpxESD1zwOMq5l9GTTZitwHJKqWwdG2hHqRk01Wd1BXGaSZoI/s1600/DSC09122.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY5u_Kferqa60yWRdUm_1lhRaFjVGMOUcL0tB3V1bZxWbI6EqPpHY3wd0iWRZPnWcgFXXjb3HWNUi_zFCFkkw8M15GIONT596_JqxnkIzkWaFT2jgQO64P4g3GmMmXDPo0F25FZ5feZL0/s1600/DSC09126.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY5u_Kferqa60yWRdUm_1lhRaFjVGMOUcL0tB3V1bZxWbI6EqPpHY3wd0iWRZPnWcgFXXjb3HWNUi_zFCFkkw8M15GIONT596_JqxnkIzkWaFT2jgQO64P4g3GmMmXDPo0F25FZ5feZL0/s1600/DSC09126.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Lx3PGPp9xf4TRnKcDE0hUOTKZ9_4Tci-8yha2eHtTm3kLTRb9DQqcF8Sk4_2nn2plbSUX2OYTJLzomTpy4_Z918FzKxDcjqNwmDGwN0658bOIjuIYN80MBs24IcwYgX4D2_J1vse_aU/s1600/DSC09128.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Lx3PGPp9xf4TRnKcDE0hUOTKZ9_4Tci-8yha2eHtTm3kLTRb9DQqcF8Sk4_2nn2plbSUX2OYTJLzomTpy4_Z918FzKxDcjqNwmDGwN0658bOIjuIYN80MBs24IcwYgX4D2_J1vse_aU/s1600/DSC09128.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRV4PtcVIrX-wD17-7zKu1oVB-dRDBQuK1BkEg5bD8o9zmDjfuiRIaAazufls86Y_LrJk4-_ycDzgQFTH1RZM0926kYN8n6E5pIWDNof-Bcix1oqM2k9Y7Wt_OnlOgyVj2cBlL8sf4hJc/s1600/DSC09133.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRV4PtcVIrX-wD17-7zKu1oVB-dRDBQuK1BkEg5bD8o9zmDjfuiRIaAazufls86Y_LrJk4-_ycDzgQFTH1RZM0926kYN8n6E5pIWDNof-Bcix1oqM2k9Y7Wt_OnlOgyVj2cBlL8sf4hJc/s1600/DSC09133.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraSAkjHsYQNHiTMa-Gt1hjQo2fEv-2PQHDkLANTtG5Bv4xsJNiyd9_FJJJaNNOfWIc1LEGyOehiL3ZBqh6u7F-Uq0AjUr61RmE6NEjXJ7CQ92IQyGx4aBlOqYrR1JJg8A8UPom7TC_g4/s1600/DSC09199.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraSAkjHsYQNHiTMa-Gt1hjQo2fEv-2PQHDkLANTtG5Bv4xsJNiyd9_FJJJaNNOfWIc1LEGyOehiL3ZBqh6u7F-Uq0AjUr61RmE6NEjXJ7CQ92IQyGx4aBlOqYrR1JJg8A8UPom7TC_g4/s1600/DSC09199.JPG\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTWCHjDqE723xm-MdwBL3iwUDRh2XfmQCAr4MF1p1iB-AWj-4OjkhKQe3Rrgtue_T1aWbkxoO19zZS-qm4sbKhGWkb7JM2NFDdETRFxmPY7Qp2GeG0-Gv62m2Yd_aDS96-ssfIYx_y5E/s1600/DSC09242.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTWCHjDqE723xm-MdwBL3iwUDRh2XfmQCAr4MF1p1iB-AWj-4OjkhKQe3Rrgtue_T1aWbkxoO19zZS-qm4sbKhGWkb7JM2NFDdETRFxmPY7Qp2GeG0-Gv62m2Yd_aDS96-ssfIYx_y5E/s1600/DSC09242.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><span style=\"font-size: x-small; text-align: start;\">(archív </span><br />\n<span class=\"_5yl5\" data-reactid=\".a5.1:$mid=11442424975477=266d8bddd3724f20383.2:0.0.0.0.0\"><span data-reactid=\".a5.1:$mid=11442424975477=266d8bddd3724f20383.2:0.0.0.0.0.0\">Ladislava Banáka )</span></span></td></tr>\n</tbody></table>\n<span style=\"font-size: small;\"><br /></span></div>\n<span style=\"font-size: small;\"><metricconverter productid=\"8 m\" w:st=\"on\">&nbsp;</metricconverter> </span></div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/3254298880125207665/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/03/nitrianska-blatnica.html#comment-form",
+            "title": "0 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/3254298880125207665"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/3254298880125207665"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/03/nitrianska-blatnica.html",
+            "title": "Hradisko Nitrianska Blatnica - rotunda Blatnický Ďurko"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiwAX5mExP_K4vR9lwVu2tdHg2YDyZ5Bmkt9h9nS3XJYKXMGNTQ-H-NU98yJ9Q3FlBdzG-f1bgTaLHbX8bz7YFGXLU5jFUhTbejJs_ipl4Ry2IxS751uzttkPjieYcXgposSkQ_6NAuVs/s72-c/fotka+30-40+roky+%C4%8Eurko.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}
