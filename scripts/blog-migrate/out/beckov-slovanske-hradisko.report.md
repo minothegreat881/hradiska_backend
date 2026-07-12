@@ -7,8 +7,8 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ✅ Text: pokrytie 100.00% vs originál (gramaticky opravené slová vyňaté: 0) — nič nechýba ✅
-- ✅ Obrázky evidované: telo (3) ⊆ galéria (7) — žiadny sa nestratil
+- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Obrázky evidované: telo (4) ⊆ galéria (8) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 12, keyFacts 6
 - ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
@@ -16,16 +16,16 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 15 |
+| rich-text (odseky/nadpisy) | 14 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
-| image-block (v tele) | 3 |
+| image-block (v tele) | 4 |
 | embed (video/3D) | 0 |
 | sources (zdroje) | 1 → 2 položiek |
 
 ## Obrázky
-- **galéria:** 7 (0 s popisom)
-- **v tele článku:** 3 (0 s popisom) — IMG_9762.JPG, veža.jpg, 483057_560401117305523_975227186_n.jpg
+- **galéria:** 8 (0 s popisom)
+- **v tele článku:** 4 (0 s popisom) — beckov1.jpg, IMG_9762.JPG, veža.jpg, 483057_560401117305523_975227186_n.jpg
 
 ## Sidebar
 - **Časová os (timeline):** 12 položiek
@@ -54,7 +54,6 @@
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 7831 znakov (1095 slov)
-- **pokrytie textu vs originál:** 100.00% ✅
+- **text tela:** 7830 znakov (1095 slov)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

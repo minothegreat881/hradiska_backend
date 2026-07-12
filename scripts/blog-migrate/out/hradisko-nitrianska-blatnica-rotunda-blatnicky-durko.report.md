@@ -8,7 +8,7 @@
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
 - ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
-- ✅ Obrázky evidované: telo (5) ⊆ galéria (14) — žiadny sa nestratil
+- ✅ Obrázky evidované: telo (5) ⊆ galéria (15) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 8, keyFacts 8
 - ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
@@ -16,7 +16,7 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 13 |
+| rich-text (odseky/nadpisy) | 12 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 5 |
@@ -24,8 +24,8 @@
 | sources (zdroje) | 1 → 15 položiek |
 
 ## Obrázky
-- **galéria:** 14 (3 s popisom)
-- **v tele článku:** 5 (2 s popisom) — fotka+30-40+roky+Ďurko.jpg, malba.jpg, Nitrianska+Blatnica1.jpg, blatnica.jpg, Nitrianska+Blatnica123.jpg
+- **galéria:** 15 (3 s popisom)
+- **v tele článku:** 5 (2 s popisom) — fotka+30-40+roky+Ďurko.jpg, malba.jpg, Nitrianska+Blatnica1.jpg, Nitrianska+Blatnica12.jpg, blatnica.jpg
 
 ## Sidebar
 - **Časová os (timeline):** 8 položiek
@@ -52,6 +52,6 @@
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 8277 znakov (1245 slov)
+- **text tela:** 8276 znakov (1245 slov)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

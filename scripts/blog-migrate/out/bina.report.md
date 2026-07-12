@@ -7,8 +7,8 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ✅ Text: pokrytie 99.90% vs originál (gramaticky opravené slová vyňaté: 0) — zvyšné mimo: tšit, lit (over: map-widget/tvary/odkazy)
-- ✅ Obrázky evidované: telo (16) ⊆ galéria (51) — žiadny sa nestratil
+- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Obrázky evidované: telo (20) ⊆ galéria (57) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 12, keyFacts 6
 - ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
@@ -16,16 +16,16 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 45 |
+| rich-text (odseky/nadpisy) | 39 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
-| image-block (v tele) | 16 |
+| image-block (v tele) | 20 |
 | embed (video/3D) | 0 |
 | sources (zdroje) | 1 → 8 položiek |
 
 ## Obrázky
-- **galéria:** 51 (18 s popisom)
-- **v tele článku:** 16 (6 s popisom) — 1+mapovanie+1764.JPG, bíňa+2+voj+map1.jpg, P4061306.JPG, p1010105q.jpg, jansak.jpg, rotunda+bina.jpg, 17a_Bina.jpg, bina+CB+letecky.jpg, beny065.jpg, črepy1.jpg, hrivny+SNM.jpg, hrob.jpg, Naus%CC%8Cnice.png, prsten.jpg, Bin%CC%8Ca+naus%CC%8Cnice2.jpg, bi%CC%81n%CC%8Ca+naus%CC%8Cnice1.jpg
+- **galéria:** 57 (18 s popisom)
+- **v tele článku:** 20 (6 s popisom) — 1+mapovanie+1764.JPG, bíňa+2+voj+map1.jpg, P4061306.JPG, p1010105q.jpg, jansak.jpg, rotunda+bina.jpg, p1010099kpiag.jpg, profilvalu.jpg, 17a_Bina.jpg, bina+CB+letecky.jpg, beny065.jpg, črepy1.jpg, p1010014h.jpg, p1010109y.jpg, sperk.jpg, hrivny+SNM.jpg, hrob.jpg, sperky2.jpg, Naus%CC%8Cnice.png, prsten.jpg
 
 ## Sidebar
 - **Časová os (timeline):** 12 položiek
@@ -54,7 +54,6 @@
 
 ## Ostatné
 - **komentáre:** 1
-- **text tela:** 26967 znakov (4126 slov)
-- **pokrytie textu vs originál:** 99.90% (mimo: tšit, lit)
+- **text tela:** 26961 znakov (4126 slov)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

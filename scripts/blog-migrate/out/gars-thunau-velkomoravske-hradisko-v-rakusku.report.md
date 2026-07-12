@@ -8,7 +8,7 @@
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
 - ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
-- ✅ Obrázky evidované: telo (2) ⊆ galéria (14) — žiadny sa nestratil
+- ✅ Obrázky evidované: telo (7) ⊆ galéria (19) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 7, keyFacts 8
 - ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
@@ -16,16 +16,16 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 19 |
+| rich-text (odseky/nadpisy) | 14 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
-| image-block (v tele) | 2 |
+| image-block (v tele) | 7 |
 | embed (video/3D) | 0 |
 | sources (zdroje) | 1 → 10 položiek |
 
 ## Obrázky
-- **galéria:** 14 (11 s popisom)
-- **v tele článku:** 2 (0 s popisom) — Gars+%283%29.JPG, Gars+%288%29.JPG
+- **galéria:** 19 (11 s popisom)
+- **v tele článku:** 7 (0 s popisom) — 1.jpg, 2.jpg, 3.jpg, 5.jpg, 6.jpg, Gars+%283%29.JPG, Gars+%288%29.JPG
 
 ## Sidebar
 - **Časová os (timeline):** 7 položiek
@@ -51,6 +51,6 @@
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 11111 znakov (1624 slov)
+- **text tela:** 11106 znakov (1624 slov)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

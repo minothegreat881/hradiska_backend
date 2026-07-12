@@ -8,7 +8,7 @@
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
 - ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
-- ✅ Obrázky evidované: telo (7) ⊆ galéria (44) — žiadny sa nestratil
+- ✅ Obrázky evidované: telo (7) ⊆ galéria (48) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 7, keyFacts 8
 - ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
@@ -16,7 +16,7 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 33 |
+| rich-text (odseky/nadpisy) | 29 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 7 |
@@ -24,7 +24,7 @@
 | sources (zdroje) | 1 → 6 položiek |
 
 ## Obrázky
-- **galéria:** 44 (15 s popisom)
+- **galéria:** 48 (15 s popisom)
 - **v tele článku:** 7 (7 s popisom) — IMG_1301.JPG, Mapka+2.jpg, IMG_1176.JPG, IMG_1370.JPG, IMG_1372.JPG, IMG_1209.JPG, IMG_1249.JPG
 
 ## Sidebar
@@ -51,6 +51,6 @@
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 9344 znakov (1343 slov)
+- **text tela:** 9340 znakov (1343 slov)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

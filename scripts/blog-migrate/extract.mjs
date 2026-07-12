@@ -699,6 +699,21 @@ function convertDivToBlocks($, div, ctx, opts = {}) {
     return blocks;
   }
 
+  // Edge case: top-level `el` je priamo `<div class="separator">` (nie zabalený
+  // v ďalšom wrapper-dive so susedným textom). walkDocOrder nižšie deteguje
+  // `div.separator` len ako DIEŤA prehľadávaného uzla — ak je separator div sám
+  // topLevel prvkom, prepadne do "ostatné (div bez obrázkov) → inline" vetvy a
+  // `<a><img></a>` sa spracuje ako obyčajný odkaz s prázdnym textom (obrázok sa
+  // stratí z tela, zostane len prázdny rich-text link). Bug našiel viacero po sebe
+  // idúcich osamotených separator-divov na konci Vyšehradu/Nitrianske Pravno.
+  if ($(div).hasClass?.('separator') && $(div).find('img').length) {
+    for (const a of $(div).find('a:has(img)').toArray()) {
+      const block = imageBlockFromSeparator($, a, ctx);
+      if (block) blocks.push(block);
+    }
+    return blocks;
+  }
+
   // Obrázky (tr-caption tabuľky, separator divy), embed (non-map iframe) a text sa
   // vydávajú v DOKUMENTOVOM PORADÍ cez walkDocOrder (nižšie, krok 5) — už žiadne
   // front-loading obrázkov pred text. Google Maps iframe walkDocOrder ticho preskočí.
