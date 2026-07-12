@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Orava?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Orava"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-4182578466606469592"
+        },
+        "published": {
+          "$t": "2011-05-24T09:15:00.000+02:00"
+        },
+        "updated": {
+          "$t": "2015-02-04T22:29:52.743+01:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Orava"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Slovanské Hradiská na Orave"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<b style=\"mso-bidi-font-weight: normal;\">Vyšný Kubín-Ostrá Skala</b></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nJedna z najviac preskúmaných lokalít Oravy - <a href=\"http://www.hradiska.sk/search/label/Vy%C5%A1n%C3%BD%20Kub%C3%ADn%20-%20OSTR%C3%81%20SKALA\" target=\"_blank\">Ostrá skala nad Vyšným Kubínom </a>- bola osídlená od eneolitu. Výhodná poloha ju predurčila na vybudovanie pravekého opevneného sídliska. Po stavebných úpravách bola táto poloha druhotne využitá vo včasnom stredoveku. Ostrá skala bola s prestávkami archeologicky skúmaná od počiatkov šesťdesiatych rokov až do konca sedemdesiatych rokov 20. stor.&nbsp;</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s1600/orava+pl%25C3%25A1n+hradiska.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s320/orava+pl%25C3%25A1n+hradiska.JPG\" height=\"192\" width=\"320\" /></a></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nObec Vyšný Kubín (s nadmorskou výškou v strede 525 m, v chotári 490-1612 m) sa nachádza juhovýchodne od Dolného Kubína na severozápadnom svahu Chočských vrchov v doline potoka Leštiny. Poloha Ostrá skala (812 m n. m.) je lokalizovaná na skalnatom útvare severne od obce. Vo včasnostredovekom období mala ťažisko osídlenia v dvoch horizontoch. Z prelomu 8. a 9. stor. pochádza kultúrna vrstva, zahĺbené obydlie s pecou a ďalšie sídliskové objekty s ohniskami. Z nálezov treba spomenúť tri ostrohy, kosy, kovania vedierok, nože, sekery, britvy a&nbsp;zbrane. Z mladšieho obdobia, časovo zaradeného do 10. stor. až na prelom 12./13. stor., boli v pôdoryse rozpoznané príbytky so zrubovou konštrukciou (zuholnatené zvyšky drevených trámov). Opevnené sídlisko pravdepodobne v prvom časovom horizonte plnilo centrálnu správnu funkciu v regióne. Na základe dlhodobo prebiehajúceho prehodnocovania nálezovej situácie (železné predmety - zbrane, výstroj koňa) je už preukázaná kontinuita osídlenia od druhej polovice 9. stor. až do 10. stor. Išlo o obdobie medzi oboma najdôležitejšími medzníkmi včasnostredovekého využitia tejto lokality. Nedosahuje však takú intenzitu ako v oboch dominantných časových úsekoch.</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAji0napDSDTDzHTi7HNodqv6pGBbFmTJ9_yOyA3lfwCD7dkcyWfwDnDuEdEgekmDpN9yDoD0RXIWq2QTCrYvZ6QtH2zfTcvWT_Cb5p8oeJlSNyfm_RSbuRvuwOAwcoW_WjMPvbFf4JBQ/s1600/ostr%25C3%25A1+skala.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAji0napDSDTDzHTi7HNodqv6pGBbFmTJ9_yOyA3lfwCD7dkcyWfwDnDuEdEgekmDpN9yDoD0RXIWq2QTCrYvZ6QtH2zfTcvWT_Cb5p8oeJlSNyfm_RSbuRvuwOAwcoW_WjMPvbFf4JBQ/s320/ostr%25C3%25A1+skala.jpg\" height=\"240\" width=\"320\" /></a></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nSlovanský opevňovací systém v závere 8. stor. a v 9. stor. využil zvyšky fortifikácií z&nbsp;predchádzajúcich období. Rovnako sa nadviazalo na staršiu úpravu vnútorného priestoru hradiska, keď sa palisádovou ohradou rozdelilo opevnené sídlisko na tri nádvoria s rozlohou približne 1,5-2 ha. Val, v pôdoryse majúci tvar nesymetrickej podkovy, chránil najvyššiu sídliskovú plochu s rozlohou 2500 m2. Val má svoj pôvod v dobe laténskej, pričom Slovania ho navŕšili a vsadili doň drevenú ohradu.</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3sDEYdriGv4At1KfgrEV_FGW69bo-yzCRH0Z0e4SD7d97IFoGLlNlmDY0njuwxhaMDTLLniUgmVFhm0ifs3KgmwKVdnd4mFv4jewfeV8ZMBZym4MjPbjmWpvLI5dqd8fI3SgaA8MMVk/s1600/ostr%25C3%25A1+skala1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3sDEYdriGv4At1KfgrEV_FGW69bo-yzCRH0Z0e4SD7d97IFoGLlNlmDY0njuwxhaMDTLLniUgmVFhm0ifs3KgmwKVdnd4mFv4jewfeV8ZMBZym4MjPbjmWpvLI5dqd8fI3SgaA8MMVk/s320/ostr%25C3%25A1+skala1.jpg\" height=\"240\" width=\"320\" /></a></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9geLlSpsspiP0CWaeGKg7eyHzVd1w5sTawMa-lULT1hvrshQtBqeT0tpShOUDLsrTCMhMyYQDx9AIcUkeTys9mhy6hB4pCw5-vcAPgmJijopebHut79UBJdaXVdZMXL0y2Hh9_poFthc/s1600/Ostr%C3%A1+a+Tup%C3%A1+skala.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9geLlSpsspiP0CWaeGKg7eyHzVd1w5sTawMa-lULT1hvrshQtBqeT0tpShOUDLsrTCMhMyYQDx9AIcUkeTys9mhy6hB4pCw5-vcAPgmJijopebHut79UBJdaXVdZMXL0y2Hh9_poFthc/s1600/Ostr%C3%A1+a+Tup%C3%A1+skala.jpg\" height=\"240\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Tupá a Ostrá Skala (autor Tomáš Demian)</td></tr>\n</tbody></table>\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nNa hradisku boli pravdepodobne sústredené aj orgány regionálnej správy. Orava sa včlenila do uhorského ranofeudálneho štátu až niekedy v období 11. storočia. Vzhľadom na to, že hradisko vo Vyšnom Kubíne pretrvalo až do 12. storočia predpokladáme, že v istej forme aj v počiatkoch uhorského štátu pretrvalo ako správne sídlo, nakoľko hrad Orava ešte neexistoval</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<b style=\"mso-bidi-font-weight: normal;\">Dolný Kubín- Veľký Bysterec-Trniny</b></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nVýšinná poloha pôvodne osídlená v eneolite, dobe laténskej a staršej dobe rímskej. Na základe niektorých nálezov sa predpokladá, že táto poloha bola využitá aj vo včasnom stredoveku. Najmä vďaka nálezom zlatých a strieborných mincí bola lokalita intenzívne prekopávaná už od prvej polovice 19. storočia mnohými amatérskymi bádateľmi, ako aj miestnymi obyvateľmi. Krátky zisťovací výskum pod vedením P. Čaploviča uskutočnilo Oravské múzeum v rokoch 1957  a 1958. Na tento výskum nadviazali ďalšie výskumné práce na lokalite, ktoré prebehli koncom sedemdesiatych rokov a v osemdesiatych rokoch 20. storočia.</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvFyX6KwUITcptvrS1E42vtpeuM5a9hGcMMwnwbHaKvgcJWInWqn8psB4Arv3sn9nEEbGXzS17UzB0os5UrtpcpaGSBoa_R4LcqW-l55qERSCWsnyxGADrMNW4FNADKaQNkscwZfCfbc/s1600/orava+n%25C3%25A1lezy.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvFyX6KwUITcptvrS1E42vtpeuM5a9hGcMMwnwbHaKvgcJWInWqn8psB4Arv3sn9nEEbGXzS17UzB0os5UrtpcpaGSBoa_R4LcqW-l55qERSCWsnyxGADrMNW4FNADKaQNkscwZfCfbc/s320/orava+n%25C3%25A1lezy.jpg\" height=\"171\" width=\"320\" /></a></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nMestskou časťou centra dolnej Oravy, teda Dolného Kubína, je Velký Bysterec (s nadmorskou výškou v strede 470 m, v chotári 465-650 m). Leží v juhozápadnej časti Oravskej vrchoviny. Lokalita sa rozprestiera severozápadne od centra mesta na výšinnej polohe Trniny. O tom, čí tu bolo slovanské opevnené sídlisko, môžeme podľa Húlinka zatiaľ uvažovať iba v teoretickej rovine. Usudzuje sa o tom na základe dvoch starších nálezov (známych ešte v predminulom storočí) z Trnín, a to trojdielnych kovaní karolínskeho typu. Z lokality pochádzajú aj ďalšie nálezy (železný nožík, resp. britva) datované do obdobia včasného stredoveku. Spomenuté nálezy však nemusia byť jednoznačným dôkazom existencie opevnenej polohy, datovanej v jej počiatkoch už do záveru 8. stor. Nevylučujú sa však ani včasnostredoveké stavebné zásahy do opevnenia, pôvodne pochádzajúceho z obdobia púchovskej kultúry. Tento názor zastávajú viacerí archeológovia.</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<b style=\"mso-bidi-font-weight: normal;\">Istebné - Hrádok</b></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nLokalitu Hrádok v Istebnom tvorí prirodzene chránený ostroh nad riekou Orava, ktorý bol osídlený už v praveku. V dobe halštatskej sa tu rozprestieralo opevnené sídlisko. Vo včasnom stredoveku bola plocha Hrádku opäť osídlená. Hrádok výrazne utrpel stavbou železnice v roku 1898, kedy bola nenávratne zničená veľká časť plochy hradiska. Na nepoškodených miestach lokality prebehli koncom päťdesiatych a v druhej polovici šesťdesiatych rokov 20. storočia výskumné práce.<br />\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIXhVYpEMRU88PbUWI9LmhrhTAXt3gHoyyEsXJWQyVbA8XMExbRaKJ-2J5tgEYUYFY15FNRaIwr9pQGFlBUecCTnYBz6zQupKNAcnYW8AJsn2CzJOYQ3q4yCsTwF8Qoc5lzQinJNzRn0E/s1600/istebne%CC%81+hra%CC%81dok.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIXhVYpEMRU88PbUWI9LmhrhTAXt3gHoyyEsXJWQyVbA8XMExbRaKJ-2J5tgEYUYFY15FNRaIwr9pQGFlBUecCTnYBz6zQupKNAcnYW8AJsn2CzJOYQ3q4yCsTwF8Qoc5lzQinJNzRn0E/s320/istebne%CC%81+hra%CC%81dok.jpg\" height=\"165\" width=\"320\" /></a></div>\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nDolnooravská obec Istebné (s nadmorskou výškou v strede 500  m, v chotári 455-1224 m) leží na styku výbežkov Malej Fatry a Oravskej vrchoviny (Pramene II 1992,18,19). Výšinná poloha Hrádok, kde sa získali najmä keramické nálezy z 8.-9. a 10.-12. stor., je lokalizovaná južne od obce. Slovanské obyvateľstvo tu využilo predchádzajúce halštatské hradisko. Na deštrukcii staršieho halštatského valu osadili vo včasnom stredoveku slovanskú palisádu </div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<b style=\"mso-bidi-font-weight: normal;\">Oravský Podzámok-Hrad</b></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nDominantný prírodný útvar, na ktorom od 13. stor. stojí Oravský hrad, bol spolu so svojím blízkym okolím osídlený už v praveku. Z jeho okolia pochádzajú nálezy z doby halštatskej a z obdobia púchovskej kultúry. Vo včasnom stredoveku sa na tejto polohe pravdepodobne nachádzalo výšinné sídlisko.</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nObec Oravský Podzámok (s nadmorskou výškou v strede 520  m, v chotári 495-1224 m) sa rozprestiera severne od Dolného Kubína v Oravskej vrchovine a zároveň na južných svahoch Oravskej Magury. Sídlisko z 9. stor. je lokalizované na ploche (výšinná poloha), kde v súčasnosti stojí pôvodom stredoveký hrad. Na hlavnom nádvorí sa objavili pri generálnej rekonštrukcii hradu zlomky slovanskej keramiky, s najväčšou pravdepodobnosťou z 9. stor. Do toho istého časového horizontu môžu patriť aj železné zliatky nájdené tiež pri renovácii na hlavnom nádvorí. Pri tejto výšinnej polohe môžeme uvažovať o opevnenom sídlisku i zo včasnostredovekého obdobia z dôvodu jej výhodných, strategických prírodných dispozícií.<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGb367Rq75MWm8KVauyZdik6nkpgeimb9mPYvcCloOiowV6-1W1V-kbV2WS5ejmGZR2u8zL2gMTTgTCFvgrQHcWaGEQNQYeefiVM1U0hTKaJEMvBjiXUnGXPXM5_L84ZSFoIxhyphenhyphenWvm5BA/s1600/Orava.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGb367Rq75MWm8KVauyZdik6nkpgeimb9mPYvcCloOiowV6-1W1V-kbV2WS5ejmGZR2u8zL2gMTTgTCFvgrQHcWaGEQNQYeefiVM1U0hTKaJEMvBjiXUnGXPXM5_L84ZSFoIxhyphenhyphenWvm5BA/s320/Orava.jpg\" height=\"161\" width=\"320\" /></a></div>\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<b>Oravská skupina</b></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Oravská skupina resp. oravský typ bola lokálna skupina lužického kultúrneho komplexu na severnom povodí Váhu, Orave a v Turci cca. od 750 pred Kr. až do 300 pred Kr. (ale rozkvitala a relevantne je doložená vlastne až od 550 pred Kr., teda od Ha D2) .</span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Po roku 550 pred Kr. bolo územie oravskej skupiny husto osídlené, čo dokladá hustá sieť hradísk aj jednoduchých osád, ako aj pohrebiská s veľkým počtom hrobov. Najvýznamnejšie hradiská oravskej skupiny boli Tupá Skala (nad Vyšným Kubínom) a Istebné Hrádok. Hradiská sa už stavali aj za pomoci kameňa, žili z remesla a chovu oviec a vykazujú náznaky vnútornej urbanizácie. Oravská skupina sa vyznačuje špecifickou keramikou (výzdobu tvoria ryhy, prevládajú amforovité a baňaté nádoby, esovite prehnuté šálky), špecifickými bronzami (diadémy a nákrčníky zhotovené z masívnej tordovanej alebo hladkej tyčinky a zakončené ružicami, honosné ihlice atď.) a zmenami v pohrebnom ríte (viac žiarových bezurnových hrobov so zvyškami kremácie uloženými v jamke alebo prikrytámi pieskovcovou doskou). Lokality žiarových pohrebísk sú napr. Dolný Kubín, Vyšný Kubín, Oravský Podzámok. Oravská skupina bola v úzkom kontakte s susedným územím dnešného Poľska, čo dokazuje podoba hradísk.</span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\"><b>Halštatské hradisko v Dubovej </b></span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">&nbsp;</span>  </div>\n<div class=\"MsoNormal\">\n<span lang=\"CS\">Halštatská doba, ako nazývame staršiu dobu železnú, bolo obdobie praveku 700 až 400 rokov pred Kristom. V tom čase bolo osídlenie Oravy relatívne husté. Archeologicky dokázané sú opevnené sídliská napríklad v Tvrdošíne, Podbieli, Istebnom – Hrádok, Vyšnom Kubíne – Tupá a Ostrá skala, Žaškov – Hrádok, Jasenica – Hrdoš, Mezibrodie, Oravský podzámok, Sedliacka Dubová - Žiar, a tiež popolnicové hroby a nechránené sídliská. Všetky opevnené sídliská majú charakter výšinného hradiska, t.j. postavené na kopci, pričom boli vybudované na takých miestach, aby bolo vidieť z jedného hradiska na druhé. Takto vybudovaný obranný systém s využitím dymovej signalizácie tvoril silný obranný celok miestneho kniežatstva. Údolia rieky Orava, a jej postranných prítokov poskytovali poľnohospodársku pôdu, najmä však výhodné prechody, a umožnovali komunikačné spojenie s hlavnými obchodnými cestami vedúcimi cez Oravu a Liptov. Význam týchto ciest reflektuje s hromadnými nálezmi bronzov z Komjatnej, Žaškova, Osádky, Pucova, Istebného – Hrádok, Nižnej a Krásnej Hôrky. </span></div>\n<div class=\"MsoNormal\">\n<span lang=\"CS\">Hrádok v Dubovej teda nie je osamotený objekt. Bol situovaný na temene kopca výrazne sa zarezávajúceho do údolia Oravy, kadiaľ viedla stará obchodná cesta. Terajšie zvyšky opevneného areálu dubovianskeho kostolíka sa priamo opierajú o mohutný val halštatského hradiska. Podla doterajšieho bádania šlo o objekt s prevládajúcimi pevnostnými črtami. </span></div>\n<div align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">\n<span lang=\"CS\"></span></div>\n<div align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">\n<span lang=\"CS\"><br />\n</span></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWUvxfaXBLRNYEktjaHX6fFedXVAksxOsN9xcnfzD-vx47n2teDqcviG0Xzm-YIc_atom8gXT8q7ckTINLWbiXK3DOsDMOOW1v-FnOP_YDnAlrj_3zjdEka1fY8nJvz0QyeV1yY2SHvEI/s1600/halstat.gif\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWUvxfaXBLRNYEktjaHX6fFedXVAksxOsN9xcnfzD-vx47n2teDqcviG0Xzm-YIc_atom8gXT8q7ckTINLWbiXK3DOsDMOOW1v-FnOP_YDnAlrj_3zjdEka1fY8nJvz0QyeV1yY2SHvEI/s1600/halstat.gif\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><span lang=\"CS\">Obr. 1: Pokus o rekonštrukciu halštatského hradiska na Žiari. (podľa P. Čaplovica) </span></td></tr>\n</tbody></table>\n<div align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">\n<span lang=\"CS\"><br />\n</span></div>\n<div align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\">\n<span lang=\"CS\"><br />\n</span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Dominantou pevnosti bol asi 6 m vysoký šijový val, zo severnej strany odde2ujúci hradný vrch od ostatného hrebeňa (šije). Základ valu bola roštovo-skriňová konštrukcia z drevenej guľatiny naplnená červenou prepálenou hlinou. Vonkajšia strana valu bola opatrená kamenným podporným múrom, ktorý zvyšoval jeho obranyschopnosť. Jeho zadná časť sa mierne zvažovala do nádvoria. Na najvyššom bode valu bola pravdepodobne drevená strážnica – varta, odkiaľ hradná stráž mala najlepší prehľad o prístupovej ceste a celom okolí. Šijový zemný val ako celok pôsobil dojmom mohutnej bašty, ktorá bola kľúčovým prvkom v opevnení halštatského hradiska. </span></div>\n<div>\n</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Ostatné opevnenie bolo zabezpečené drevenou, 4 metre širokou obrannou chodbou, postavenou na 1 meter vysokej kamennej nadmurovke. Chodba bola pravdepodobne zvonku obložená pieskovcovými kameňmi a krytá drevenou strechou. Najprístupnejšie miesta k opevneniu boli zabezpečené klinovou 2 metre hlbokou priekopou. Vstup do areálu pevnosti bol zabezpečený vstupnou vežou a mostom ponad priekopu. </span></div>\n<div style=\"text-align: justify;\">\n</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Ako som uviedol hradisko malo predovšetkým vojenský účel, preto obydlia slúžili hlave ako ubytovne pre vojakov a kapitána pevnosti. Budovy na nádvorí stavali minimálne 9 metrov od obrannej chodby, z ktorých sa na pôvodných miestach našli črepy a mazanica. </span></div>\n<div style=\"text-align: justify;\">\n</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">Pod hradným vrchom bola osada, kde bol hlavný hospodársky život okolitého obyvateľstva. Podhradská obec bola situovaná na mieste súčasnej obce Sedliacka Dubová na ulici vedúcej od Obecného úradu k cintorínu, kde boli odkryté základy viacerých halštatských usadlostí a črepy halštatského rázu, ale objavili sa už aj zosilnené okraje hrebeňovaných nádob, obsahujúcich už tuhu zo staršej doby laténskej. Halštatské domy boli postavené stupňovite v radoch na úbočí Žiaru, pretože v tom čase rieka Orava mohla ešte zaplavovat údolie. </span></div>\n<div style=\"text-align: justify;\">\n</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<span lang=\"CS\">O histórii dubovianského hrádku vieme veľmi málo, iba vieme datovať jeho zánik do strednej doby laténskej v 3. až 2. storočí pred Kristom. Príčinou zániku bol požiar, ktorý spálil hrádok aj podhradie. Predpokladá sa, že zanikol spolu s hradiskom v Istebnom. Pravdepodobne obidve hradiská boli dobyté a vypálené. </span></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\n<br /></div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nTéma Slovanských hradísk na Orave je podrobne spracovaná v&nbsp;obsiahlom článku Drahoslava Hulínka, Michala Čajku: Včasnostredoveké hradiská na Orave v kontexte hradísk na Strednom a Západnom Slovensku, Slovenská archeológia LII-1, 2004. Väčšinu textu som čerpal práve z&nbsp;tohto článku.</div>\n<div class=\"MsoNormal\" style=\"text-align: justify;\">\nhttp://sk.wikipedia.org/wiki/Oravsk%C3%A1_skupina<br />\nhttp://www.dubovakostolik.sk/history/pravek.html </div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/4182578466606469592/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/05/slovanske-hradiska-na-orave.html#comment-form",
+            "title": "2 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/4182578466606469592"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/4182578466606469592"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/05/slovanske-hradiska-na-orave.html",
+            "title": "Slovanské Hradiská na Orave"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s72-c/orava+pl%25C3%25A1n+hradiska.JPG",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "2"
+        }
+      }
+    ]
+  }
+}

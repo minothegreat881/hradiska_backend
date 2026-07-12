@@ -1,0 +1,881 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\orava-post.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-4182578466606469592",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/05/slovanske-hradiska-na-orave.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/4182578466606469592/comments/default",
+    "extractedAt": "2026-07-12T20:17:45.909Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 2,
+    "comments": [
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-2226589420607422768",
+        "bloggerPostId": "2226589420607422768",
+        "author": "Anonymous",
+        "authorProfile": null,
+        "published": "2022-11-18T12:54:59.093+01:00",
+        "updated": "2022-11-18T12:54:59.093+01:00",
+        "content": "Datovanie Kubina do 8. stor. je neudrziatelne. Skor prelom 9. a 10. Vyplyva to nielen z prehodnotenia datovania hradisk na severe SK ale aj VM hmotnej kultury, najma ostroh.",
+        "inReplyToArticle": "http://www.hradiska.sk/2011/05/slovanske-hradiska-na-orave.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      },
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-8641326183782674295",
+        "bloggerPostId": "8641326183782674295",
+        "author": "Anonymous",
+        "authorProfile": null,
+        "published": "2012-08-08T12:42:28.905+02:00",
+        "updated": "2012-08-08T12:42:28.905+02:00",
+        "content": "Som velmi poteseny vasimi zaujimavymi clankami a poznatkami.",
+        "inReplyToArticle": "http://www.hradiska.sk/2011/05/slovanske-hradiska-na-orave.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      }
+    ],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 8,
+      "captionedImages": 2,
+      "separatorImages": 6
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Slovanské Hradiská na Orave",
+    "slug": "slovanske-hradiska-na-orave",
+    "excerpt": "Jedna z najviac preskúmaných lokalít Oravy - Ostrá skala nad Vyšným Kubínom - bola osídlená od eneolitu. Výhodná poloha ju predurčila na vybudovanie pravekého opevneného sídliska. Po stavebných úpravách bola táto poloha druhotne využitá vo včasnom…",
+    "authorName": "Orgon",
+    "publishedAt": "2011-05-24T09:15:00.000+02:00",
+    "originalPublishedDate": "2011-05-24T09:15:00.000+02:00",
+    "updatedAt": "2015-02-04T22:29:52.743+01:00",
+    "readingTime": 8,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s0/orava+pl%25C3%25A1n+hradiska.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s1600/orava+pl%25C3%25A1n+hradiska.JPG",
+      "filename": "orava+pl%C3%A1n+hradiska.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s1600/orava+pl%25C3%25A1n+hradiska.JPG",
+        "displayedWidth": 320,
+        "displayedHeight": 192,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s0/orava+pl%25C3%25A1n+hradiska.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s1600/orava+pl%25C3%25A1n+hradiska.JPG",
+        "filename": "orava+pl%C3%A1n+hradiska.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s1600/orava+pl%25C3%25A1n+hradiska.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 192,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9geLlSpsspiP0CWaeGKg7eyHzVd1w5sTawMa-lULT1hvrshQtBqeT0tpShOUDLsrTCMhMyYQDx9AIcUkeTys9mhy6hB4pCw5-vcAPgmJijopebHut79UBJdaXVdZMXL0y2Hh9_poFthc/s0/Ostr%C3%A1+a+Tup%C3%A1+skala.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9geLlSpsspiP0CWaeGKg7eyHzVd1w5sTawMa-lULT1hvrshQtBqeT0tpShOUDLsrTCMhMyYQDx9AIcUkeTys9mhy6hB4pCw5-vcAPgmJijopebHut79UBJdaXVdZMXL0y2Hh9_poFthc/s1600/Ostr%C3%A1+a+Tup%C3%A1+skala.jpg",
+        "filename": "Ostrá+a+Tupá+skala.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9geLlSpsspiP0CWaeGKg7eyHzVd1w5sTawMa-lULT1hvrshQtBqeT0tpShOUDLsrTCMhMyYQDx9AIcUkeTys9mhy6hB4pCw5-vcAPgmJijopebHut79UBJdaXVdZMXL0y2Hh9_poFthc/s1600/Ostr%C3%A1+a+Tup%C3%A1+skala.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Tupá a Ostrá Skala (autor Tomáš Demian)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAji0napDSDTDzHTi7HNodqv6pGBbFmTJ9_yOyA3lfwCD7dkcyWfwDnDuEdEgekmDpN9yDoD0RXIWq2QTCrYvZ6QtH2zfTcvWT_Cb5p8oeJlSNyfm_RSbuRvuwOAwcoW_WjMPvbFf4JBQ/s0/ostr%25C3%25A1+skala.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAji0napDSDTDzHTi7HNodqv6pGBbFmTJ9_yOyA3lfwCD7dkcyWfwDnDuEdEgekmDpN9yDoD0RXIWq2QTCrYvZ6QtH2zfTcvWT_Cb5p8oeJlSNyfm_RSbuRvuwOAwcoW_WjMPvbFf4JBQ/s1600/ostr%25C3%25A1+skala.jpg",
+        "filename": "ostr%C3%A1+skala.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAji0napDSDTDzHTi7HNodqv6pGBbFmTJ9_yOyA3lfwCD7dkcyWfwDnDuEdEgekmDpN9yDoD0RXIWq2QTCrYvZ6QtH2zfTcvWT_Cb5p8oeJlSNyfm_RSbuRvuwOAwcoW_WjMPvbFf4JBQ/s1600/ostr%25C3%25A1+skala.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3sDEYdriGv4At1KfgrEV_FGW69bo-yzCRH0Z0e4SD7d97IFoGLlNlmDY0njuwxhaMDTLLniUgmVFhm0ifs3KgmwKVdnd4mFv4jewfeV8ZMBZym4MjPbjmWpvLI5dqd8fI3SgaA8MMVk/s0/ostr%25C3%25A1+skala1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3sDEYdriGv4At1KfgrEV_FGW69bo-yzCRH0Z0e4SD7d97IFoGLlNlmDY0njuwxhaMDTLLniUgmVFhm0ifs3KgmwKVdnd4mFv4jewfeV8ZMBZym4MjPbjmWpvLI5dqd8fI3SgaA8MMVk/s1600/ostr%25C3%25A1+skala1.jpg",
+        "filename": "ostr%C3%A1+skala1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3sDEYdriGv4At1KfgrEV_FGW69bo-yzCRH0Z0e4SD7d97IFoGLlNlmDY0njuwxhaMDTLLniUgmVFhm0ifs3KgmwKVdnd4mFv4jewfeV8ZMBZym4MjPbjmWpvLI5dqd8fI3SgaA8MMVk/s1600/ostr%25C3%25A1+skala1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvFyX6KwUITcptvrS1E42vtpeuM5a9hGcMMwnwbHaKvgcJWInWqn8psB4Arv3sn9nEEbGXzS17UzB0os5UrtpcpaGSBoa_R4LcqW-l55qERSCWsnyxGADrMNW4FNADKaQNkscwZfCfbc/s0/orava+n%25C3%25A1lezy.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvFyX6KwUITcptvrS1E42vtpeuM5a9hGcMMwnwbHaKvgcJWInWqn8psB4Arv3sn9nEEbGXzS17UzB0os5UrtpcpaGSBoa_R4LcqW-l55qERSCWsnyxGADrMNW4FNADKaQNkscwZfCfbc/s1600/orava+n%25C3%25A1lezy.jpg",
+        "filename": "orava+n%C3%A1lezy.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvFyX6KwUITcptvrS1E42vtpeuM5a9hGcMMwnwbHaKvgcJWInWqn8psB4Arv3sn9nEEbGXzS17UzB0os5UrtpcpaGSBoa_R4LcqW-l55qERSCWsnyxGADrMNW4FNADKaQNkscwZfCfbc/s1600/orava+n%25C3%25A1lezy.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 171,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIXhVYpEMRU88PbUWI9LmhrhTAXt3gHoyyEsXJWQyVbA8XMExbRaKJ-2J5tgEYUYFY15FNRaIwr9pQGFlBUecCTnYBz6zQupKNAcnYW8AJsn2CzJOYQ3q4yCsTwF8Qoc5lzQinJNzRn0E/s0/istebne%CC%81+hra%CC%81dok.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIXhVYpEMRU88PbUWI9LmhrhTAXt3gHoyyEsXJWQyVbA8XMExbRaKJ-2J5tgEYUYFY15FNRaIwr9pQGFlBUecCTnYBz6zQupKNAcnYW8AJsn2CzJOYQ3q4yCsTwF8Qoc5lzQinJNzRn0E/s1600/istebne%CC%81+hra%CC%81dok.jpg",
+        "filename": "istebné+hrádok.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIXhVYpEMRU88PbUWI9LmhrhTAXt3gHoyyEsXJWQyVbA8XMExbRaKJ-2J5tgEYUYFY15FNRaIwr9pQGFlBUecCTnYBz6zQupKNAcnYW8AJsn2CzJOYQ3q4yCsTwF8Qoc5lzQinJNzRn0E/s1600/istebne%CC%81+hra%CC%81dok.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 165,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGb367Rq75MWm8KVauyZdik6nkpgeimb9mPYvcCloOiowV6-1W1V-kbV2WS5ejmGZR2u8zL2gMTTgTCFvgrQHcWaGEQNQYeefiVM1U0hTKaJEMvBjiXUnGXPXM5_L84ZSFoIxhyphenhyphenWvm5BA/s0/Orava.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGb367Rq75MWm8KVauyZdik6nkpgeimb9mPYvcCloOiowV6-1W1V-kbV2WS5ejmGZR2u8zL2gMTTgTCFvgrQHcWaGEQNQYeefiVM1U0hTKaJEMvBjiXUnGXPXM5_L84ZSFoIxhyphenhyphenWvm5BA/s1600/Orava.jpg",
+        "filename": "Orava.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGb367Rq75MWm8KVauyZdik6nkpgeimb9mPYvcCloOiowV6-1W1V-kbV2WS5ejmGZR2u8zL2gMTTgTCFvgrQHcWaGEQNQYeefiVM1U0hTKaJEMvBjiXUnGXPXM5_L84ZSFoIxhyphenhyphenWvm5BA/s1600/Orava.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 161,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWUvxfaXBLRNYEktjaHX6fFedXVAksxOsN9xcnfzD-vx47n2teDqcviG0Xzm-YIc_atom8gXT8q7ckTINLWbiXK3DOsDMOOW1v-FnOP_YDnAlrj_3zjdEka1fY8nJvz0QyeV1yY2SHvEI/s0/halstat.gif",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWUvxfaXBLRNYEktjaHX6fFedXVAksxOsN9xcnfzD-vx47n2teDqcviG0Xzm-YIc_atom8gXT8q7ckTINLWbiXK3DOsDMOOW1v-FnOP_YDnAlrj_3zjdEka1fY8nJvz0QyeV1yY2SHvEI/s1600/halstat.gif",
+        "filename": "halstat.gif",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWUvxfaXBLRNYEktjaHX6fFedXVAksxOsN9xcnfzD-vx47n2teDqcviG0Xzm-YIc_atom8gXT8q7ckTINLWbiXK3DOsDMOOW1v-FnOP_YDnAlrj_3zjdEka1fY8nJvz0QyeV1yY2SHvEI/s1600/halstat.gif",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Obr. 1: Pokus o rekonštrukciu halštatského hradiska na Žiari. (podľa P. Čaplovica)"
+      }
+    ],
+    "tags": [
+      "Orava"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Vyšný Kubín — Ostrá skala",
+        "value": "Najviac preskúmaná lokalita Oravy (812 m n. m.), osídlená od eneolitu; opevnenie s tromi nádvoriami na ploche 1,5 – 2 ha",
+        "icon": "mountain"
+      },
+      {
+        "label": "Dolný Kubín — Veľký Bysterec-Trniny",
+        "value": "Výšinná poloha s nálezmi karolínskych kovaní; slovanské opevnenie zatiaľ len v teoretickej rovine",
+        "icon": "shield"
+      },
+      {
+        "label": "Istebné — Hrádok",
+        "value": "Ostroh nad riekou Orava, halštatské hradisko druhotne využité vo včasnom stredoveku; časť zničená stavbou železnice (1898)",
+        "icon": "building"
+      },
+      {
+        "label": "Oravský Podzámok — Hrad",
+        "value": "Výšinné sídlisko z 9. storočia na mieste, kde od 13. storočia stojí Oravský hrad",
+        "icon": "crown"
+      },
+      {
+        "label": "Hradisko v Dubovej",
+        "value": "Halštatské hradisko so 6 m vysokým šijovým valom, kamenným podporným múrom, obrannou chodbou a vstupnou vežou s mostom",
+        "icon": "shield"
+      },
+      {
+        "label": "Oravská skupina",
+        "value": "Lokálna skupina lužického kultúrneho komplexu s vlastnou keramikou a bronzmi, v úzkom kontakte so susedným Poľskom",
+        "icon": "star"
+      },
+      {
+        "label": "Zdroj",
+        "value": "Väčšina textu čerpaná z: Drahoslav Hulínek, Michal Čajka — Včasnostredoveké hradiská na Orave v kontexte hradísk na Strednom a Západnom Slovensku, Slovenská archeológia LII-1, 2004",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "750 – 300 pred Kr.",
+        "title": "Oravská skupina lužického kultúrneho komplexu",
+        "description": "Lokálna skupina osídľujúca severné povodie Váhu, Oravu a Turiec; relevantne doložená od roku 550 pred Kr. (Ha D2), s hustou sieťou hradísk a osád.",
+        "type": "founding"
+      },
+      {
+        "year": "700 – 400 pred Kr. (halštatská doba)",
+        "title": "Sústava výšinných hradísk",
+        "description": "Opevnené sídliská v Tvrdošíne, Podbieli, Istebnom, Vyšnom Kubíne (Tupá a Ostrá skala), Žaškove, Jasenici, Mezibrodí, Oravskom Podzámku a Sedliackej Dubovej — vzájomne viditeľné, s dymovou signalizáciou.",
+        "type": "construction"
+      },
+      {
+        "year": "3. – 2. storočie pred Kr.",
+        "title": "Zánik hradiska v Dubovej",
+        "description": "Požiar zničil hrádok aj podhradie v strednej dobe laténskej; predpokladá sa súčasný zánik s hradiskom v Istebnom, obe pravdepodobne dobyté a vypálené.",
+        "type": "destruction"
+      },
+      {
+        "year": "prelom 8. a 9. storočia",
+        "title": "Slovanské osídlenie Ostrej skaly",
+        "description": "Kultúrna vrstva, zahĺbené obydlie s pecou a ďalšie sídliskové objekty s ohniskami na Ostrej skale nad Vyšným Kubínom; slovanský opevňovací systém využil staršie laténske valy.",
+        "type": "founding"
+      },
+      {
+        "year": "9. storočie",
+        "title": "Osídlenie na mieste Oravského hradu",
+        "description": "Zlomky slovanskej keramiky a železné zliatky objavené pri rekonštrukcii hlavného nádvoria dnešného Oravského hradu.",
+        "type": "event"
+      },
+      {
+        "year": "druhá polovica 9. – 10. storočie",
+        "title": "Kontinuita osídlenia Ostrej skaly",
+        "description": "Preukázaná kontinuita medzi oboma hlavnými časovými horizontmi využitia lokality, hoci s nižšou intenzitou.",
+        "type": "event"
+      },
+      {
+        "year": "10. – 12./13. storočie",
+        "title": "Mladšie osídlenie Ostrej skaly",
+        "description": "Príbytky so zrubovou konštrukciou; hradisko vo Vyšnom Kubíne pretrvalo až do 12. storočia, pravdepodobne ako správne sídlo aj v počiatkoch uhorského štátu.",
+        "type": "event"
+      },
+      {
+        "year": "11. storočie",
+        "title": "Včlenenie Oravy do uhorského štátu",
+        "description": "Orava sa stala súčasťou uhorského ranofeudálneho štátu; hrad Orava v tom čase ešte neexistoval.",
+        "type": "event"
+      },
+      {
+        "year": "1898",
+        "title": "Poškodenie Hrádku v Istebnom",
+        "description": "Stavba železnice nenávratne zničila veľkú časť plochy hradiska.",
+        "type": "destruction"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Vyšný Kubín-Ostrá Skala"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jedna z najviac preskúmaných lokalít Oravy - "
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/search/label/Vy%C5%A1n%C3%BD%20Kub%C3%ADn%20-%20OSTR%C3%81%20SKALA",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Ostrá skala nad Vyšným Kubínom"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "- bola osídlená od eneolitu. Výhodná poloha ju predurčila na vybudovanie pravekého opevneného sídliska. Po stavebných úpravách bola táto poloha druhotne využitá vo včasnom stredoveku. Ostrá skala bola s prestávkami archeologicky skúmaná od počiatkov šesťdesiatych rokov až do konca sedemdesiatych rokov 20. stor. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Obec Vyšný Kubín (s nadmorskou výškou v strede 525 m, v chotári 490-1612 m) sa nachádza juhovýchodne od Dolného Kubína na severozápadnom svahu Chočských vrchov v doline potoka Leštiny. Poloha Ostrá skala (812 m n. m.) je lokalizovaná na skalnatom útvare severne od obce. Vo včasnostredovekom období mala ťažisko osídlenia v dvoch horizontoch. Z prelomu 8. a 9. stor. pochádza kultúrna vrstva, zahĺbené obydlie s pecou a ďalšie sídliskové objekty s ohniskami. Z nálezov treba spomenúť tri ostrohy, kosy, kovania vedierok, nože, sekery, britvy a zbrane. Z mladšieho obdobia, časovo zaradeného do 10. stor. až na prelom 12./13. stor., boli v pôdoryse rozpoznané príbytky so zrubovou konštrukciou (zuholnatené zvyšky drevených trámov). Opevnené sídlisko pravdepodobne v prvom časovom horizonte plnilo centrálnu správnu funkciu v regióne. Na základe dlhodobo prebiehajúceho prehodnocovania nálezovej situácie (železné predmety - zbrane, výstroj koňa) je už preukázaná kontinuita osídlenia od druhej polovice 9. stor. až do 10. stor. Išlo o obdobie medzi oboma najdôležitejšími medzníkmi včasnostredovekého využitia tejto lokality. Nedosahuje však takú intenzitu ako v oboch dominantných časových úsekoch."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s0/orava+pl%25C3%25A1n+hradiska.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s1600/orava+pl%25C3%25A1n+hradiska.JPG",
+          "filename": "orava+pl%C3%A1n+hradiska.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgiB7DuLEIrNYBO3FAH95fm_pouUgp59TLVikV9lBeVyUc0_H7p5SP9-GsM9yEhUNnes5jd0lO8D-4qjQ2sHz_kHg84A1qIuMHDueSCrVNYEa88lbwQi1IfLgH1PCYTwkcZJMEz6ZQqOU/s1600/orava+pl%25C3%25A1n+hradiska.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 192,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Slovanské Hradiská na Orave",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Slovanský opevňovací systém v závere 8. stor. a v 9. stor. využil zvyšky fortifikácií z predchádzajúcich období. Rovnako sa nadviazalo na staršiu úpravu vnútorného priestoru hradiska, keď sa palisádovou ohradou rozdelilo opevnené sídlisko na tri nádvoria s rozlohou približne 1,5-2 ha. Val, v pôdoryse majúci tvar nesymetrickej podkovy, chránil najvyššiu sídliskovú plochu s rozlohou 2500 m2. Val má svoj pôvod v dobe laténskej, pričom Slovania ho navŕšili a vsadili doň drevenú ohradu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na hradisku boli pravdepodobne sústredené aj orgány regionálnej správy. Orava sa včlenila do uhorského ranofeudálneho štátu až niekedy v období 11. storočia. Vzhľadom na to, že hradisko vo Vyšnom Kubíne pretrvalo až do 12. storočia predpokladáme, že v istej forme aj v počiatkoch uhorského štátu pretrvalo ako správne sídlo, nakoľko hrad Orava ešte neexistoval"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9geLlSpsspiP0CWaeGKg7eyHzVd1w5sTawMa-lULT1hvrshQtBqeT0tpShOUDLsrTCMhMyYQDx9AIcUkeTys9mhy6hB4pCw5-vcAPgmJijopebHut79UBJdaXVdZMXL0y2Hh9_poFthc/s0/Ostr%C3%A1+a+Tup%C3%A1+skala.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9geLlSpsspiP0CWaeGKg7eyHzVd1w5sTawMa-lULT1hvrshQtBqeT0tpShOUDLsrTCMhMyYQDx9AIcUkeTys9mhy6hB4pCw5-vcAPgmJijopebHut79UBJdaXVdZMXL0y2Hh9_poFthc/s1600/Ostr%C3%A1+a+Tup%C3%A1+skala.jpg",
+          "filename": "Ostrá+a+Tupá+skala.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9geLlSpsspiP0CWaeGKg7eyHzVd1w5sTawMa-lULT1hvrshQtBqeT0tpShOUDLsrTCMhMyYQDx9AIcUkeTys9mhy6hB4pCw5-vcAPgmJijopebHut79UBJdaXVdZMXL0y2Hh9_poFthc/s1600/Ostr%C3%A1+a+Tup%C3%A1+skala.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Tupá a Ostrá Skala (autor Tomáš Demian)",
+        "caption": "Tupá a Ostrá Skala (autor Tomáš Demian)",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Dolný Kubín- Veľký Bysterec-Trniny"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výšinná poloha pôvodne osídlená v eneolite, dobe laténskej a staršej dobe rímskej. Na základe niektorých nálezov sa predpokladá, že táto poloha bola využitá aj vo včasnom stredoveku. Najmä vďaka nálezom zlatých a strieborných mincí bola lokalita intenzívne prekopávaná už od prvej polovice 19. storočia mnohými amatérskymi bádateľmi, ako aj miestnymi obyvateľmi. Krátky zisťovací výskum pod vedením P. Čaploviča uskutočnilo Oravské múzeum v rokoch 1957 a 1958. Na tento výskum nadviazali ďalšie výskumné práce na lokalite, ktoré prebehli koncom sedemdesiatych rokov a v osemdesiatych rokoch 20. storočia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Mestskou časťou centra dolnej Oravy, teda Dolného Kubína, je Velký Bysterec (s nadmorskou výškou v strede 470 m, v chotári 465-650 m). Leží v juhozápadnej časti Oravskej vrchoviny. Lokalita sa rozprestiera severozápadne od centra mesta na výšinnej polohe Trniny. O tom, čí tu bolo slovanské opevnené sídlisko, môžeme podľa Húlinka zatiaľ uvažovať iba v teoretickej rovine. Usudzuje sa o tom na základe dvoch starších nálezov (známych ešte v predminulom storočí) z Trnín, a to trojdielnych kovaní karolínskeho typu. Z lokality pochádzajú aj ďalšie nálezy (železný nožík, resp. britva) datované do obdobia včasného stredoveku. Spomenuté nálezy však nemusia byť jednoznačným dôkazom existencie opevnenej polohy, datovanej v jej počiatkoch už do záveru 8. stor. Nevylučujú sa však ani včasnostredoveké stavebné zásahy do opevnenia, pôvodne pochádzajúceho z obdobia púchovskej kultúry. Tento názor zastávajú viacerí archeológovia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAji0napDSDTDzHTi7HNodqv6pGBbFmTJ9_yOyA3lfwCD7dkcyWfwDnDuEdEgekmDpN9yDoD0RXIWq2QTCrYvZ6QtH2zfTcvWT_Cb5p8oeJlSNyfm_RSbuRvuwOAwcoW_WjMPvbFf4JBQ/s0/ostr%25C3%25A1+skala.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAji0napDSDTDzHTi7HNodqv6pGBbFmTJ9_yOyA3lfwCD7dkcyWfwDnDuEdEgekmDpN9yDoD0RXIWq2QTCrYvZ6QtH2zfTcvWT_Cb5p8oeJlSNyfm_RSbuRvuwOAwcoW_WjMPvbFf4JBQ/s1600/ostr%25C3%25A1+skala.jpg",
+          "filename": "ostr%C3%A1+skala.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAji0napDSDTDzHTi7HNodqv6pGBbFmTJ9_yOyA3lfwCD7dkcyWfwDnDuEdEgekmDpN9yDoD0RXIWq2QTCrYvZ6QtH2zfTcvWT_Cb5p8oeJlSNyfm_RSbuRvuwOAwcoW_WjMPvbFf4JBQ/s1600/ostr%25C3%25A1+skala.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Slovanské Hradiská na Orave",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Istebné - Hrádok"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lokalitu Hrádok v Istebnom tvorí prirodzene chránený ostroh nad riekou Orava, ktorý bol osídlený už v praveku. V dobe halštatskej sa tu rozprestieralo opevnené sídlisko. Vo včasnom stredoveku bola plocha Hrádku opäť osídlená. Hrádok výrazne utrpel stavbou železnice v roku 1898, kedy bola nenávratne zničená veľká časť plochy hradiska. Na nepoškodených miestach lokality prebehli koncom päťdesiatych a v druhej polovici šesťdesiatych rokov 20. storočia výskumné práce.\n \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dolnooravská obec Istebné (s nadmorskou výškou v strede 500 m, v chotári 455-1224 m) leží na styku výbežkov Malej Fatry a Oravskej vrchoviny (Pramene II 1992,18,19). Výšinná poloha Hrádok, kde sa získali najmä keramické nálezy z 8.-9. a 10.-12. stor., je lokalizovaná južne od obce. Slovanské obyvateľstvo tu využilo predchádzajúce halštatské hradisko. Na deštrukcii staršieho halštatského valu osadili vo včasnom stredoveku slovanskú palisádu "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3sDEYdriGv4At1KfgrEV_FGW69bo-yzCRH0Z0e4SD7d97IFoGLlNlmDY0njuwxhaMDTLLniUgmVFhm0ifs3KgmwKVdnd4mFv4jewfeV8ZMBZym4MjPbjmWpvLI5dqd8fI3SgaA8MMVk/s0/ostr%25C3%25A1+skala1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3sDEYdriGv4At1KfgrEV_FGW69bo-yzCRH0Z0e4SD7d97IFoGLlNlmDY0njuwxhaMDTLLniUgmVFhm0ifs3KgmwKVdnd4mFv4jewfeV8ZMBZym4MjPbjmWpvLI5dqd8fI3SgaA8MMVk/s1600/ostr%25C3%25A1+skala1.jpg",
+          "filename": "ostr%C3%A1+skala1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3sDEYdriGv4At1KfgrEV_FGW69bo-yzCRH0Z0e4SD7d97IFoGLlNlmDY0njuwxhaMDTLLniUgmVFhm0ifs3KgmwKVdnd4mFv4jewfeV8ZMBZym4MjPbjmWpvLI5dqd8fI3SgaA8MMVk/s1600/ostr%25C3%25A1+skala1.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Slovanské Hradiská na Orave",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Oravský Podzámok-Hrad"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dominantný prírodný útvar, na ktorom od 13. stor. stojí Oravský hrad, bol spolu so svojím blízkym okolím osídlený už v praveku. Z jeho okolia pochádzajú nálezy z doby halštatskej a z obdobia púchovskej kultúry. Vo včasnom stredoveku sa na tejto polohe pravdepodobne nachádzalo výšinné sídlisko."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Obec Oravský Podzámok (s nadmorskou výškou v strede 520 m, v chotári 495-1224 m) sa rozprestiera severne od Dolného Kubína v Oravskej vrchovine a zároveň na južných svahoch Oravskej Magury. Sídlisko z 9. stor. je lokalizované na ploche (výšinná poloha), kde v súčasnosti stojí pôvodom stredoveký hrad. Na hlavnom nádvorí sa objavili pri generálnej rekonštrukcii hradu zlomky slovanskej keramiky, s najväčšou pravdepodobnosťou z 9. stor. Do toho istého časového horizontu môžu patriť aj železné zliatky nájdené tiež pri renovácii na hlavnom nádvorí. Pri tejto výšinnej polohe môžeme uvažovať o opevnenom sídlisku i zo včasnostredovekého obdobia z dôvodu jej výhodných, strategických prírodných dispozícií.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvFyX6KwUITcptvrS1E42vtpeuM5a9hGcMMwnwbHaKvgcJWInWqn8psB4Arv3sn9nEEbGXzS17UzB0os5UrtpcpaGSBoa_R4LcqW-l55qERSCWsnyxGADrMNW4FNADKaQNkscwZfCfbc/s0/orava+n%25C3%25A1lezy.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvFyX6KwUITcptvrS1E42vtpeuM5a9hGcMMwnwbHaKvgcJWInWqn8psB4Arv3sn9nEEbGXzS17UzB0os5UrtpcpaGSBoa_R4LcqW-l55qERSCWsnyxGADrMNW4FNADKaQNkscwZfCfbc/s1600/orava+n%25C3%25A1lezy.jpg",
+          "filename": "orava+n%C3%A1lezy.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBvFyX6KwUITcptvrS1E42vtpeuM5a9hGcMMwnwbHaKvgcJWInWqn8psB4Arv3sn9nEEbGXzS17UzB0os5UrtpcpaGSBoa_R4LcqW-l55qERSCWsnyxGADrMNW4FNADKaQNkscwZfCfbc/s1600/orava+n%25C3%25A1lezy.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 171,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Slovanské Hradiská na Orave",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Oravská skupina"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Oravská skupina resp. oravský typ bola lokálna skupina lužického kultúrneho komplexu na severnom povodí Váhu, Orave a v Turci cca. od 750 pred Kr. až do 300 pred Kr. (ale rozkvitala a relevantne je doložená vlastne až od 550 pred Kr., teda od Ha D2) ."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po roku 550 pred Kr. bolo územie oravskej skupiny husto osídlené, čo dokladá hustá sieť hradísk aj jednoduchých osád, ako aj pohrebiská s veľkým počtom hrobov. Najvýznamnejšie hradiská oravskej skupiny boli Tupá Skala (nad Vyšným Kubínom) a Istebné Hrádok. Hradiská sa už stavali aj za pomoci kameňa, žili z remesla a chovu oviec a vykazujú náznaky vnútornej urbanizácie. Oravská skupina sa vyznačuje špecifickou keramikou (výzdobu tvoria ryhy, prevládajú amforovité a baňaté nádoby, esovite prehnuté šálky), špecifickými bronzami (diadémy a nákrčníky zhotovené z masívnej tordovanej alebo hladkej tyčinky a zakončené ružicami, honosné ihlice atď.) a zmenami v pohrebnom ríte (viac žiarových bezurnových hrobov so zvyškami kremácie uloženými v jamke alebo prikrytámi pieskovcovou doskou). Lokality žiarových pohrebísk sú napr. Dolný Kubín, Vyšný Kubín, Oravský Podzámok. Oravská skupina bola v úzkom kontakte s susedným územím dnešného Poľska, čo dokazuje podoba hradísk."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIXhVYpEMRU88PbUWI9LmhrhTAXt3gHoyyEsXJWQyVbA8XMExbRaKJ-2J5tgEYUYFY15FNRaIwr9pQGFlBUecCTnYBz6zQupKNAcnYW8AJsn2CzJOYQ3q4yCsTwF8Qoc5lzQinJNzRn0E/s0/istebne%CC%81+hra%CC%81dok.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIXhVYpEMRU88PbUWI9LmhrhTAXt3gHoyyEsXJWQyVbA8XMExbRaKJ-2J5tgEYUYFY15FNRaIwr9pQGFlBUecCTnYBz6zQupKNAcnYW8AJsn2CzJOYQ3q4yCsTwF8Qoc5lzQinJNzRn0E/s1600/istebne%CC%81+hra%CC%81dok.jpg",
+          "filename": "istebné+hrádok.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIXhVYpEMRU88PbUWI9LmhrhTAXt3gHoyyEsXJWQyVbA8XMExbRaKJ-2J5tgEYUYFY15FNRaIwr9pQGFlBUecCTnYBz6zQupKNAcnYW8AJsn2CzJOYQ3q4yCsTwF8Qoc5lzQinJNzRn0E/s1600/istebne%CC%81+hra%CC%81dok.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 165,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Slovanské Hradiská na Orave",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Halštatské hradisko v Dubovej ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Halštatská doba, ako nazývame staršiu dobu železnú, bolo obdobie praveku 700 až 400 rokov pred Kristom. V tom čase bolo osídlenie Oravy relatívne husté. Archeologicky dokázané sú opevnené sídliská napríklad v Tvrdošíne, Podbieli, Istebnom – Hrádok, Vyšnom Kubíne – Tupá a Ostrá skala, Žaškov – Hrádok, Jasenica – Hrdoš, Mezibrodie, Oravský podzámok, Sedliacka Dubová - Žiar, a tiež popolnicové hroby a nechránené sídliská. Všetky opevnené sídliská majú charakter výšinného hradiska, t.j. postavené na kopci, pričom boli vybudované na takých miestach, aby bolo vidieť z jedného hradiska na druhé. Takto vybudovaný obranný systém s využitím dymovej signalizácie tvoril silný obranný celok miestneho kniežatstva. Údolia rieky Orava, a jej postranných prítokov poskytovali poľnohospodársku pôdu, najmä však výhodné prechody, a umožnovali komunikačné spojenie s hlavnými obchodnými cestami vedúcimi cez Oravu a Liptov. Význam týchto ciest reflektuje s hromadnými nálezmi bronzov z Komjatnej, Žaškova, Osádky, Pucova, Istebného – Hrádok, Nižnej a Krásnej Hôrky. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGb367Rq75MWm8KVauyZdik6nkpgeimb9mPYvcCloOiowV6-1W1V-kbV2WS5ejmGZR2u8zL2gMTTgTCFvgrQHcWaGEQNQYeefiVM1U0hTKaJEMvBjiXUnGXPXM5_L84ZSFoIxhyphenhyphenWvm5BA/s0/Orava.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGb367Rq75MWm8KVauyZdik6nkpgeimb9mPYvcCloOiowV6-1W1V-kbV2WS5ejmGZR2u8zL2gMTTgTCFvgrQHcWaGEQNQYeefiVM1U0hTKaJEMvBjiXUnGXPXM5_L84ZSFoIxhyphenhyphenWvm5BA/s1600/Orava.jpg",
+          "filename": "Orava.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGb367Rq75MWm8KVauyZdik6nkpgeimb9mPYvcCloOiowV6-1W1V-kbV2WS5ejmGZR2u8zL2gMTTgTCFvgrQHcWaGEQNQYeefiVM1U0hTKaJEMvBjiXUnGXPXM5_L84ZSFoIxhyphenhyphenWvm5BA/s1600/Orava.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 161,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Slovanské Hradiská na Orave",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hrádok v Dubovej teda nie je osamotený objekt. Bol situovaný na temene kopca výrazne sa zarezávajúceho do údolia Oravy, kadiaľ viedla stará obchodná cesta. Terajšie zvyšky opevneného areálu dubovianskeho kostolíka sa priamo opierajú o mohutný val halštatského hradiska. Podla doterajšieho bádania šlo o objekt s prevládajúcimi pevnostnými črtami. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dominantou pevnosti bol asi 6 m vysoký šijový val, zo severnej strany oddeľujúci hradný vrch od ostatného hrebeňa (šije). Základ valu bola roštovo-skriňová konštrukcia z drevenej guľatiny naplnená červenou prepálenou hlinou. Vonkajšia strana valu bola opatrená kamenným podporným múrom, ktorý zvyšoval jeho obranyschopnosť. Jeho zadná časť sa mierne zvažovala do nádvoria. Na najvyššom bode valu bola pravdepodobne drevená strážnica – varta, odkiaľ hradná stráž mala najlepší prehľad o prístupovej ceste a celom okolí. Šijový zemný val ako celok pôsobil dojmom mohutnej bašty, ktorá bola kľúčovým prvkom v opevnení halštatského hradiska. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWUvxfaXBLRNYEktjaHX6fFedXVAksxOsN9xcnfzD-vx47n2teDqcviG0Xzm-YIc_atom8gXT8q7ckTINLWbiXK3DOsDMOOW1v-FnOP_YDnAlrj_3zjdEka1fY8nJvz0QyeV1yY2SHvEI/s0/halstat.gif",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWUvxfaXBLRNYEktjaHX6fFedXVAksxOsN9xcnfzD-vx47n2teDqcviG0Xzm-YIc_atom8gXT8q7ckTINLWbiXK3DOsDMOOW1v-FnOP_YDnAlrj_3zjdEka1fY8nJvz0QyeV1yY2SHvEI/s1600/halstat.gif",
+          "filename": "halstat.gif",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWUvxfaXBLRNYEktjaHX6fFedXVAksxOsN9xcnfzD-vx47n2teDqcviG0Xzm-YIc_atom8gXT8q7ckTINLWbiXK3DOsDMOOW1v-FnOP_YDnAlrj_3zjdEka1fY8nJvz0QyeV1yY2SHvEI/s1600/halstat.gif",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Obr. 1: Pokus o rekonštrukciu halštatského hradiska na Žiari. (podľa P. Čaplovica)",
+        "caption": "Obr. 1: Pokus o rekonštrukciu halštatského hradiska na Žiari. (podľa P. Čaplovica)",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ostatné opevnenie bolo zabezpečené drevenou, 4 metre širokou obrannou chodbou, postavenou na 1 meter vysokej kamennej nadmurovke. Chodba bola pravdepodobne zvonku obložená pieskovcovými kameňmi a krytá drevenou strechou. Najprístupnejšie miesta k opevneniu boli zabezpečené klinovou 2 metre hlbokou priekopou. Vstup do areálu pevnosti bol zabezpečený vstupnou vežou a mostom ponad priekopu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ako som uviedol hradisko malo predovšetkým vojenský účel, preto obydlia slúžili hlave ako ubytovne pre vojakov a kapitána pevnosti. Budovy na nádvorí stavali minimálne 9 metrov od obrannej chodby, z ktorých sa na pôvodných miestach našli črepy a mazanica. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pod hradným vrchom bola osada, kde bol hlavný hospodársky život okolitého obyvateľstva. Podhradská obec bola situovaná na mieste súčasnej obce Sedliacka Dubová na ulici vedúcej od Obecného úradu k cintorínu, kde boli odkryté základy viacerých halštatských usadlostí a črepy halštatského rázu, ale objavili sa už aj zosilnené okraje hrebeňovaných nádob, obsahujúcich už tuhu zo staršej doby laténskej. Halštatské domy boli postavené stupňovite v radoch na úbočí Žiaru, pretože v tom čase rieka Orava mohla ešte zaplavovat údolie. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "O histórii dubovianského hrádku vieme veľmi málo, iba vieme datovať jeho zánik do strednej doby laténskej v 3. až 2. storočí pred Kristom. Príčinou zániku bol požiar, ktorý spálil hrádok aj podhradie. Predpokladá sa, že zanikol spolu s hradiskom v Istebnom. Pravdepodobne obidve hradiská boli dobyté a vypálené. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Téma Slovanských hradísk na Orave je podrobne spracovaná v obsiahlom článku Drahoslava Hulínka, Michala Čajku: Včasnostredoveké hradiská na Orave v kontexte hradísk na Strednom a Západnom Slovensku, Slovenská archeológia LII-1, 2004. Väčšinu textu som čerpal práve z tohto článku."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "http://sk.wikipedia.org/wiki/Oravsk%C3%A1_skupina",
+            "url": "http://sk.wikipedia.org/wiki/Oravsk%C3%A1_skupina"
+          },
+          {
+            "text": "http://www.dubovakostolik.sk/history/pravek.html",
+            "url": "http://www.dubovakostolik.sk/history/pravek.html"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "http://sk.wikipedia.org/wiki/Oravsk%C3%A1_skupina",
+        "title": "http://sk.wikipedia.org/wiki/Oravsk%C3%A1_skupina"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.dubovakostolik.sk/history/pravek.html",
+        "title": "http://www.dubovakostolik.sk/history/pravek.html"
+      }
+    ]
+  }
+}
