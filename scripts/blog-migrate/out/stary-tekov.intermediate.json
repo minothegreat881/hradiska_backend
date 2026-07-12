@@ -1,0 +1,576 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\stary-tekov-post.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-556692350263317296",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/09/stary-tekov.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/556692350263317296/comments/default",
+    "extractedAt": "2026-07-12T20:23:14.482Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&t=h&ll=48.246454,18.535373&spn=0.002501,0.00456&z=17&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 14,
+      "captionedImages": 3,
+      "separatorImages": 11
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Starý Tekov",
+    "slug": "stary-tekov",
+    "excerpt": "Obec Starý Tekov spomína už uhorský kronikár Anonymus ako miesto, kde Borš, jeden z vodcov Arpádovho vojska, údajne založil hrad, ktorý sa neskôr stal sídlom župy; uvádza ju i zakladacia listina hronskobeňadického opátstva z r. 1075. Rozprestiera sa…",
+    "authorName": "Orgon",
+    "publishedAt": "2011-09-28T17:45:00.008+02:00",
+    "originalPublishedDate": "2011-09-28T17:45:00.008+02:00",
+    "updatedAt": "2024-11-03T11:02:08.342+01:00",
+    "readingTime": 5,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglQIb-bEqTY6PXh3NZX3AKjIyEWb4k_B1n1P8NkrwpE1eBKd8WDLXUbRyJp1w5OnEGsFLzZn3iTTp9k-CcgwpG52fu9zDOPRuuKbwSzHeB3WZajW3xozMhrEebb5-0c8SOTw-lbIy9Ttc/s0/Na%25CC%2581lez.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglQIb-bEqTY6PXh3NZX3AKjIyEWb4k_B1n1P8NkrwpE1eBKd8WDLXUbRyJp1w5OnEGsFLzZn3iTTp9k-CcgwpG52fu9zDOPRuuKbwSzHeB3WZajW3xozMhrEebb5-0c8SOTw-lbIy9Ttc/s1600/Na%25CC%2581lez.jpg",
+      "filename": "Na%CC%81lez.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglQIb-bEqTY6PXh3NZX3AKjIyEWb4k_B1n1P8NkrwpE1eBKd8WDLXUbRyJp1w5OnEGsFLzZn3iTTp9k-CcgwpG52fu9zDOPRuuKbwSzHeB3WZajW3xozMhrEebb5-0c8SOTw-lbIy9Ttc/s1600/Na%25CC%2581lez.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 316,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglQIb-bEqTY6PXh3NZX3AKjIyEWb4k_B1n1P8NkrwpE1eBKd8WDLXUbRyJp1w5OnEGsFLzZn3iTTp9k-CcgwpG52fu9zDOPRuuKbwSzHeB3WZajW3xozMhrEebb5-0c8SOTw-lbIy9Ttc/s0/Na%25CC%2581lez.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglQIb-bEqTY6PXh3NZX3AKjIyEWb4k_B1n1P8NkrwpE1eBKd8WDLXUbRyJp1w5OnEGsFLzZn3iTTp9k-CcgwpG52fu9zDOPRuuKbwSzHeB3WZajW3xozMhrEebb5-0c8SOTw-lbIy9Ttc/s1600/Na%25CC%2581lez.jpg",
+        "filename": "Na%CC%81lez.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglQIb-bEqTY6PXh3NZX3AKjIyEWb4k_B1n1P8NkrwpE1eBKd8WDLXUbRyJp1w5OnEGsFLzZn3iTTp9k-CcgwpG52fu9zDOPRuuKbwSzHeB3WZajW3xozMhrEebb5-0c8SOTw-lbIy9Ttc/s1600/Na%25CC%2581lez.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 316,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkTc6NLw_O3JJCI8Ps8pK4h9qjEWGvRa8Sy4B3LTcxMWmhQv4pD0pRSVntL0cJgJFyXLAiMaeyLmYpAw2nHJmwtnMG1NBgGy5TnnzvlyTJTLwog5Yue-mHD2yCfpmwj2PDwfz2lCXM2SQ/s0/jan%25C5%25A1%25C3%25A1k.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkTc6NLw_O3JJCI8Ps8pK4h9qjEWGvRa8Sy4B3LTcxMWmhQv4pD0pRSVntL0cJgJFyXLAiMaeyLmYpAw2nHJmwtnMG1NBgGy5TnnzvlyTJTLwog5Yue-mHD2yCfpmwj2PDwfz2lCXM2SQ/s1600/jan%25C5%25A1%25C3%25A1k.JPG",
+        "filename": "jan%C5%A1%C3%A1k.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkTc6NLw_O3JJCI8Ps8pK4h9qjEWGvRa8Sy4B3LTcxMWmhQv4pD0pRSVntL0cJgJFyXLAiMaeyLmYpAw2nHJmwtnMG1NBgGy5TnnzvlyTJTLwog5Yue-mHD2yCfpmwj2PDwfz2lCXM2SQ/s1600/jan%25C5%25A1%25C3%25A1k.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 310,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Plán hradiska podľa Š. Janšáka"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPn8yOsdaESsKbn__nFndi6HPXyM7v4TOHy1VM8FXhSpLLJAVlOKIbzWGaGdMcvlHHZa8lEijf2x5-ScIRkS7okGjdXAR6eDr2BzoaOLPA7GRXCdyh0p8gUHLg9Udy0MNiXM23J2i-UxI/s0/foto12.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPn8yOsdaESsKbn__nFndi6HPXyM7v4TOHy1VM8FXhSpLLJAVlOKIbzWGaGdMcvlHHZa8lEijf2x5-ScIRkS7okGjdXAR6eDr2BzoaOLPA7GRXCdyh0p8gUHLg9Udy0MNiXM23J2i-UxI/s1600/foto12.JPG",
+        "filename": "foto12.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPn8yOsdaESsKbn__nFndi6HPXyM7v4TOHy1VM8FXhSpLLJAVlOKIbzWGaGdMcvlHHZa8lEijf2x5-ScIRkS7okGjdXAR6eDr2BzoaOLPA7GRXCdyh0p8gUHLg9Udy0MNiXM23J2i-UxI/s1600/foto12.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI18KWE0fiBCgTh6lFu-YQdq1Dm4REnzDA2bFpbAbBA4KPrC40e1_I2RDv1n3RXFsJh7C2r6oXnM3LPUPhEmqLzYzUlIzSimsqKhvkT_l0i2Z27FeAbG3yWT329ojRuUiyuXeu5LMWdOE/s0/13a_StTekov.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI18KWE0fiBCgTh6lFu-YQdq1Dm4REnzDA2bFpbAbBA4KPrC40e1_I2RDv1n3RXFsJh7C2r6oXnM3LPUPhEmqLzYzUlIzSimsqKhvkT_l0i2Z27FeAbG3yWT329ojRuUiyuXeu5LMWdOE/s1600/13a_StTekov.jpg",
+        "filename": "13a_StTekov.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI18KWE0fiBCgTh6lFu-YQdq1Dm4REnzDA2bFpbAbBA4KPrC40e1_I2RDv1n3RXFsJh7C2r6oXnM3LPUPhEmqLzYzUlIzSimsqKhvkT_l0i2Z27FeAbG3yWT329ojRuUiyuXeu5LMWdOE/s1600/13a_StTekov.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 212,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9XEBImAE5NQABVYx0pbNohEB9No-wpptm3ubGXZhUqO5fECTYysen0Tnk7kpm1YZSO8tOjTVOBmNvoyIJ-QWdVe17iH5xMTNQZS6yu8vgmw0UhiJUWwIEbnNXd1A1xYuczrZTSQJhKJo/s0/foto2.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9XEBImAE5NQABVYx0pbNohEB9No-wpptm3ubGXZhUqO5fECTYysen0Tnk7kpm1YZSO8tOjTVOBmNvoyIJ-QWdVe17iH5xMTNQZS6yu8vgmw0UhiJUWwIEbnNXd1A1xYuczrZTSQJhKJo/s1600/foto2.JPG",
+        "filename": "foto2.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9XEBImAE5NQABVYx0pbNohEB9No-wpptm3ubGXZhUqO5fECTYysen0Tnk7kpm1YZSO8tOjTVOBmNvoyIJ-QWdVe17iH5xMTNQZS6yu8vgmw0UhiJUWwIEbnNXd1A1xYuczrZTSQJhKJo/s1600/foto2.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 183,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Tc5Qe56ZSVhHb1JNg96II7X-ShDs-R7Cn2L1ZYFKUwicwk7sqXdzjbxK2mza4QS_ZjELngificm_tsEOaBTTQDPIow4MC9eqhR1TDjLEi0h_FF0_DiywJNolle5ojs7Nw1s68dq9hbs/s0/1004029_3155856273179_1346215186_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Tc5Qe56ZSVhHb1JNg96II7X-ShDs-R7Cn2L1ZYFKUwicwk7sqXdzjbxK2mza4QS_ZjELngificm_tsEOaBTTQDPIow4MC9eqhR1TDjLEi0h_FF0_DiywJNolle5ojs7Nw1s68dq9hbs/s1600/1004029_3155856273179_1346215186_n.jpg",
+        "filename": "1004029_3155856273179_1346215186_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Tc5Qe56ZSVhHb1JNg96II7X-ShDs-R7Cn2L1ZYFKUwicwk7sqXdzjbxK2mza4QS_ZjELngificm_tsEOaBTTQDPIow4MC9eqhR1TDjLEi0h_FF0_DiywJNolle5ojs7Nw1s68dq9hbs/s1600/1004029_3155856273179_1346215186_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Nasledujúce 4 foto: Tomáš Humaj"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9vJl7tPTqLcb42SjdqlAo3Z6qKp7_OcKkQajuW7li8_my6QMir-z1U2IYybQxYpchHCdK23jVckqji4seEDTrDe-3e-JiO1DegMhWEq5tGLCZ1Jv3dMhqt29chlzHoFDUG2qQMzp99A/s0/1005074_3155862673339_1590546420_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9vJl7tPTqLcb42SjdqlAo3Z6qKp7_OcKkQajuW7li8_my6QMir-z1U2IYybQxYpchHCdK23jVckqji4seEDTrDe-3e-JiO1DegMhWEq5tGLCZ1Jv3dMhqt29chlzHoFDUG2qQMzp99A/s1600/1005074_3155862673339_1590546420_n.jpg",
+        "filename": "1005074_3155862673339_1590546420_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX9vJl7tPTqLcb42SjdqlAo3Z6qKp7_OcKkQajuW7li8_my6QMir-z1U2IYybQxYpchHCdK23jVckqji4seEDTrDe-3e-JiO1DegMhWEq5tGLCZ1Jv3dMhqt29chlzHoFDUG2qQMzp99A/s1600/1005074_3155862673339_1590546420_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb3W94R-mo4OOc_uwfTthPLmQT91vFTjRx9Dfcq6G2Sbr3d38VkX_28ZTne2GP55vtaRdja8qEFnLg8ZRuIqA2h_v7nSrS31rsCLFxiK7mQaSlwROuDfHyAkykGy3a20gD1TeVTrzorI0/s0/1016655_3155875593662_553348219_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb3W94R-mo4OOc_uwfTthPLmQT91vFTjRx9Dfcq6G2Sbr3d38VkX_28ZTne2GP55vtaRdja8qEFnLg8ZRuIqA2h_v7nSrS31rsCLFxiK7mQaSlwROuDfHyAkykGy3a20gD1TeVTrzorI0/s1600/1016655_3155875593662_553348219_n.jpg",
+        "filename": "1016655_3155875593662_553348219_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb3W94R-mo4OOc_uwfTthPLmQT91vFTjRx9Dfcq6G2Sbr3d38VkX_28ZTne2GP55vtaRdja8qEFnLg8ZRuIqA2h_v7nSrS31rsCLFxiK7mQaSlwROuDfHyAkykGy3a20gD1TeVTrzorI0/s1600/1016655_3155875593662_553348219_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Dobre viditeľný val opevnenia"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1lMJKEEYg3CU5rnsAJpgOMOntHt3Fvznv4uuzJPgU43-b6r2iFYBOssudZUb3tCeDnU6xV2Eb5zAtaF7USnzyKjtFvnl5eRcdOd-LKYV7CxYyaEx5ZGLCOv9Gqf_bb9Hi5GWzGPUJg4c/s0/1044182_3155868593487_1536329795_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1lMJKEEYg3CU5rnsAJpgOMOntHt3Fvznv4uuzJPgU43-b6r2iFYBOssudZUb3tCeDnU6xV2Eb5zAtaF7USnzyKjtFvnl5eRcdOd-LKYV7CxYyaEx5ZGLCOv9Gqf_bb9Hi5GWzGPUJg4c/s1600/1044182_3155868593487_1536329795_n.jpg",
+        "filename": "1044182_3155868593487_1536329795_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1lMJKEEYg3CU5rnsAJpgOMOntHt3Fvznv4uuzJPgU43-b6r2iFYBOssudZUb3tCeDnU6xV2Eb5zAtaF7USnzyKjtFvnl5eRcdOd-LKYV7CxYyaEx5ZGLCOv9Gqf_bb9Hi5GWzGPUJg4c/s1600/1044182_3155868593487_1536329795_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje6f0Zcu8DqP4PoIGH8SbgnS7yhFZ6ZlnHuWMrqURz7fzdrQYA9IowUzbRcIRE-mhrWZVFovx2bWYAeH3jSLXPTHmDHEzoKIBDOW1RsTFU1fz9q6G9XfCVgsuhg8Y_bLLbHPQTyENzfxmCrdXBpMspmlk2IdhPwh7gFhai7m_WKv2O5kQlaNmyldBent0B/s0/465647709_1640225953194636_3545115669344310711_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje6f0Zcu8DqP4PoIGH8SbgnS7yhFZ6ZlnHuWMrqURz7fzdrQYA9IowUzbRcIRE-mhrWZVFovx2bWYAeH3jSLXPTHmDHEzoKIBDOW1RsTFU1fz9q6G9XfCVgsuhg8Y_bLLbHPQTyENzfxmCrdXBpMspmlk2IdhPwh7gFhai7m_WKv2O5kQlaNmyldBent0B/s1600/465647709_1640225953194636_3545115669344310711_n.jpg",
+        "filename": "465647709_1640225953194636_3545115669344310711_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje6f0Zcu8DqP4PoIGH8SbgnS7yhFZ6ZlnHuWMrqURz7fzdrQYA9IowUzbRcIRE-mhrWZVFovx2bWYAeH3jSLXPTHmDHEzoKIBDOW1RsTFU1fz9q6G9XfCVgsuhg8Y_bLLbHPQTyENzfxmCrdXBpMspmlk2IdhPwh7gFhai7m_WKv2O5kQlaNmyldBent0B/s3051/465647709_1640225953194636_3545115669344310711_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 144,
+          "originalWidth": 3051,
+          "originalHeight": 1373
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyNiBcJx_QKKCQdhrLWjp8VSJ1LjucTJjCBDOvDZAw5EntynjhbwfkAqVWA5TZiKUFnY0Qcczqrr2QwSznBwt2nJMj3IzbVZSxvErdR675U2bWd21hJRFgDTj6G6SICXC5QTYcers1XFyY6hcnBQFZcJKj4aDRaFvYNnd63s15OiMijqFVRTYcIPd0r2Do/s0/465647548_1640225803194651_4497216266262387648_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyNiBcJx_QKKCQdhrLWjp8VSJ1LjucTJjCBDOvDZAw5EntynjhbwfkAqVWA5TZiKUFnY0Qcczqrr2QwSznBwt2nJMj3IzbVZSxvErdR675U2bWd21hJRFgDTj6G6SICXC5QTYcers1XFyY6hcnBQFZcJKj4aDRaFvYNnd63s15OiMijqFVRTYcIPd0r2Do/s1600/465647548_1640225803194651_4497216266262387648_n.jpg",
+        "filename": "465647548_1640225803194651_4497216266262387648_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyNiBcJx_QKKCQdhrLWjp8VSJ1LjucTJjCBDOvDZAw5EntynjhbwfkAqVWA5TZiKUFnY0Qcczqrr2QwSznBwt2nJMj3IzbVZSxvErdR675U2bWd21hJRFgDTj6G6SICXC5QTYcers1XFyY6hcnBQFZcJKj4aDRaFvYNnd63s15OiMijqFVRTYcIPd0r2Do/s3051/465647548_1640225803194651_4497216266262387648_n.jpg",
+          "displayedWidth": 144,
+          "displayedHeight": 320,
+          "originalWidth": 1373,
+          "originalHeight": 3051
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP_zhsngU8ofxlGwMC508uKL6uJi4LC_0IvhRR6V7q8OCK2cRMie7GZS-pesWk7rJm6tZI_3vMCMp7xRburc1zREzNBebt3-jCAyKDKpifC8LqIRjYFyBt-ZPaMZFaZ91Xi6QomTRzmDP4DgrBSekuN2N8qZ5_OHk5lRs5b7peQEmgfH1boUMT7UzQ02ek/s0/465277534_1640226046527960_58594833550013977_n%20(1).jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP_zhsngU8ofxlGwMC508uKL6uJi4LC_0IvhRR6V7q8OCK2cRMie7GZS-pesWk7rJm6tZI_3vMCMp7xRburc1zREzNBebt3-jCAyKDKpifC8LqIRjYFyBt-ZPaMZFaZ91Xi6QomTRzmDP4DgrBSekuN2N8qZ5_OHk5lRs5b7peQEmgfH1boUMT7UzQ02ek/s1600/465277534_1640226046527960_58594833550013977_n%20(1).jpg",
+        "filename": "465277534_1640226046527960_58594833550013977_n (1).jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP_zhsngU8ofxlGwMC508uKL6uJi4LC_0IvhRR6V7q8OCK2cRMie7GZS-pesWk7rJm6tZI_3vMCMp7xRburc1zREzNBebt3-jCAyKDKpifC8LqIRjYFyBt-ZPaMZFaZ91Xi6QomTRzmDP4DgrBSekuN2N8qZ5_OHk5lRs5b7peQEmgfH1boUMT7UzQ02ek/s3051/465277534_1640226046527960_58594833550013977_n%20(1).jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 144,
+          "originalWidth": 3051,
+          "originalHeight": 1373
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiiwb6U6mRJCRL9mr7TN3h9NequdpZdBjNmWvfeU3Mhgj_Hddj2Muq0WSng4rqC7xBhfTq6hPFeRSvnPhwJQpG4b9cFVFPIRXvhVtkxRRAH2LkdZCurxbljidUDSmlk4s2eSywkKOGqln7Syj48RVthCckLjgWyZe5vRsowAqN5RAiptZNtclxxDzXVN90/s0/465218365_1640226173194614_412522650708230986_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiiwb6U6mRJCRL9mr7TN3h9NequdpZdBjNmWvfeU3Mhgj_Hddj2Muq0WSng4rqC7xBhfTq6hPFeRSvnPhwJQpG4b9cFVFPIRXvhVtkxRRAH2LkdZCurxbljidUDSmlk4s2eSywkKOGqln7Syj48RVthCckLjgWyZe5vRsowAqN5RAiptZNtclxxDzXVN90/s1600/465218365_1640226173194614_412522650708230986_n.jpg",
+        "filename": "465218365_1640226173194614_412522650708230986_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiiwb6U6mRJCRL9mr7TN3h9NequdpZdBjNmWvfeU3Mhgj_Hddj2Muq0WSng4rqC7xBhfTq6hPFeRSvnPhwJQpG4b9cFVFPIRXvhVtkxRRAH2LkdZCurxbljidUDSmlk4s2eSywkKOGqln7Syj48RVthCckLjgWyZe5vRsowAqN5RAiptZNtclxxDzXVN90/s3051/465218365_1640226173194614_412522650708230986_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 144,
+          "originalWidth": 3051,
+          "originalHeight": 1373
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7CE0rHdOf5lxUBjv1_JDV9-irQw_lWqu_OQQODyFZtpG6hacVaTAV3p8Qezgnsymdy5Pjo9NriuNY4lweaf9xDVtwV3coeTMJyltACbEsfrCnyFGpGy6NAxnmxQLNwk2SMdP8qqb-cAQ9etHneKnVj12Q5x_dHomz3P4uwSJOTYboYptfWtxpB1VH8YF9/s0/465171737_1640226083194623_245855394285895621_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7CE0rHdOf5lxUBjv1_JDV9-irQw_lWqu_OQQODyFZtpG6hacVaTAV3p8Qezgnsymdy5Pjo9NriuNY4lweaf9xDVtwV3coeTMJyltACbEsfrCnyFGpGy6NAxnmxQLNwk2SMdP8qqb-cAQ9etHneKnVj12Q5x_dHomz3P4uwSJOTYboYptfWtxpB1VH8YF9/s1600/465171737_1640226083194623_245855394285895621_n.jpg",
+        "filename": "465171737_1640226083194623_245855394285895621_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7CE0rHdOf5lxUBjv1_JDV9-irQw_lWqu_OQQODyFZtpG6hacVaTAV3p8Qezgnsymdy5Pjo9NriuNY4lweaf9xDVtwV3coeTMJyltACbEsfrCnyFGpGy6NAxnmxQLNwk2SMdP8qqb-cAQ9etHneKnVj12Q5x_dHomz3P4uwSJOTYboYptfWtxpB1VH8YF9/s2168/465171737_1640226083194623_245855394285895621_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 129,
+          "originalWidth": 2168,
+          "originalHeight": 872
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Starý Tekov"
+    ],
+    "category": null,
+    "location": {
+      "name": "Starý Tekov",
+      "latitude": 48.246454,
+      "longitude": 18.535373,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Trachytový kopec pôvodne obtekaný dvoma ramenami Hrona; vrcholová plošina v tvare nepravidelnej elipsy (650 × 100 – 135 m)",
+        "icon": "mountain"
+      },
+      {
+        "label": "Tri časti hradiska",
+        "value": "Severovýchodná (Várheď — hradný vrch), stredná (Tekovská ulica) a juhozápadná (Starý kostol) — každá s vlastným stredovekým vývinom",
+        "icon": "building"
+      },
+      {
+        "label": "Kamenný feudálny hrad",
+        "value": "Stál na východnej časti Várheďu, dnes úplne zaniknutý; opevnenie postupne palisáda → hradba z nasucho kladených kameňov",
+        "icon": "shield"
+      },
+      {
+        "label": "Dnešný stav Várheďu",
+        "value": "Od konca 18. storočia slúži ako cintorín, čo znemožnilo súvislejší archeologický výskum",
+        "icon": "scroll"
+      },
+      {
+        "label": "Románsky/gotický kostol",
+        "value": "Zvyšky románskeho muriva zo starostlivo opracovaných tufových kvádrov; terajší gotický kostol postavený v 14. storočí, prestavaný koncom 17. storočia",
+        "icon": "building"
+      },
+      {
+        "label": "Kláštorný kostol (juhozápad)",
+        "value": "Základy obdĺžnikovej stavby 4,3 × 5,5 m, presbytérium polygonálne uzavreté, 16 preskúmaných hrobov bez sprievodných nálezov",
+        "icon": "scroll"
+      },
+      {
+        "label": "Paralely",
+        "value": "Ako aj Bratislava, Nitra a Zemplín — komitátne hrady vznikli na miestach starších opevnených slovanských centier",
+        "icon": "star"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "pred príchodom Maďarov",
+        "title": "Predpokladané slovanské hradisko",
+        "description": "Lokalita bola osídlená už pred založením hradu vojvodcom Boršom; sídlisko mohlo mať centrálne postavenie v rámci celej dolnopohronskej oblasti.",
+        "type": "founding"
+      },
+      {
+        "year": "9. – 10. storočie (ojedinele 7. – 8.)",
+        "title": "Slovanská keramika na Várheďi",
+        "description": "Výskum roku 1968 priniesol pomerne veľa slovanskej keramiky z tohto obdobia.",
+        "type": "event"
+      },
+      {
+        "year": "podľa Anonymovej kroniky",
+        "title": "Založenie hradu Boršom",
+        "description": "Uhorský kronikár Anonymus uvádza Starý Tekov ako miesto, kde Borš, jeden z vodcov Arpádovho vojska, údajne založil hrad, ktorý sa neskôr stal sídlom župy.",
+        "type": "founding"
+      },
+      {
+        "year": "11. storočie",
+        "title": "Vznik románskeho kostola",
+        "description": "V okolí kostola sa pochovávalo najneskôr od 11. storočia (doložené mincami z hrobov); murivo terajšieho kostola obsahuje zvyšky románskej stavby.",
+        "type": "construction"
+      },
+      {
+        "year": "1075",
+        "title": "Zakladacia listina hronskobeňadického opátstva",
+        "description": "Listina spomína obec Starý Tekov.",
+        "type": "event"
+      },
+      {
+        "year": "1206, 1240 – 1246",
+        "title": "Písomné zmienky o hrade",
+        "description": "Hrad sa spomína roku 1206 a v rokoch 1240 – 1246, s uvedenými županmi Geche a Verner.",
+        "type": "event"
+      },
+      {
+        "year": "1241 – 1242",
+        "title": "Tatársky vpád",
+        "description": "Hrad neposkytol dostatočné útočište ani mešťanom z podhradia; poškodila sa pri tom výsadná listina Starého Tekova.",
+        "type": "destruction"
+      },
+      {
+        "year": "1253",
+        "title": "Kráľ Belo IV. prepisuje listinu",
+        "description": "Kráľ Belo IV. konfirmoval a nanovo prepísal poškodenú výsadnú listinu Starého Tekova.",
+        "type": "event"
+      },
+      {
+        "year": "2. polovica 13. storočia",
+        "title": "Úpadok významu hradu",
+        "description": "Význam hradu začal upadať.",
+        "type": "destruction"
+      },
+      {
+        "year": "1320",
+        "title": "Presun sídla župy do Levíc",
+        "description": "Župan Imrich de Beche prenáša sídlo župy — novým centrom sa stáva hrad v neďalekých Leviciach.",
+        "type": "destruction"
+      },
+      {
+        "year": "1895",
+        "title": "Obhliadka ruín kláštorného kostola",
+        "description": "Maďarský historik P. Gerecze zaznamenal, že ruiny kostola s polygonálne uzavretým presbytériom (šírka 6,05 m) v juhozápadnej časti kopca ešte stáli.",
+        "type": "discovery"
+      },
+      {
+        "year": "1949, 1968",
+        "title": "Zisťovacie archeologické výskumy",
+        "description": "Výskumy priniesli dôležité poznatky o osídlení všetkých troch častí lokality (A. Habovštiak, P. Bednár).",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Obec Starý Tekov spomína už uhorský kronikár Anonymus ako miesto, kde Borš, jeden z vodcov Arpádovho vojska, údajne založil hrad, ktorý sa neskôr stal sídlom župy; uvádza ju i zakladacia listina hronskobeňadického opátstva z r. 1075. Rozprestiera sa na trachytovom kopci, obtekanom pôvodne dvoma ramenami Hrona. Vrcholová plošina kopca, vystupujúca miestami až 10 m nad okolitý terén, má tvar nepravidelnej elipsy (650 X 100—135 m), ktorej dlhšia os smeruje od severovýchodu na juhozápad. Dvoma priesekmi prechádzajúcimi cez vyvýšeninu cesty je plošina rozdelená na tri časti: severovýchodnú, strednú a juhozápadnú; každá z nich mala v stredoveku svoj osobitný vývin. Na všetkých troch sa uskutočnili v rokoch 1949 a 1968 zisťovacie výskumy, ktoré priniesli niektoré dôležité poznatky o ich osídlení.\n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najvýraznejšia je severovýchodná časť kopca. Je to v pôdoryse ovál (cca 180 X 135 m), ktorého východná, vyššie položená časť (rozmery 135X70 m) sa dodnes volá Várherf (hradný vrch); od konca 18. stor. slúži ako cintorín. Západná, o niečo menšia časť (135 X 110 m) má vrcholové plateau o 3 m nizsie ako východná a je dnes zastavaná domami a obsadená záhradami. Na východnej, vyššie položenej časti kopca stál v stredoveku kamenný feudálny hrad, z ktorého sa však v teréne už nič nezachovalo. Začiatkom tohto storočia bolo možné na lokalite vidieť i zvyšky zemných opevnení, teda valov, ktoré s najväčšou pravdepodobnosťou obopínali vyvýšeninu na jej obvode. No ani z nich sa už nič nezachovalo, lebo okraje kopca sa predlžovaním dvorov domov pod ním (Hradná ulica) značne posunuli dovnútra dakedajšieho opevneného areálu, preto jeho rozloha je dnes oproti pôvodnej o niečo menšia. Výskumy A. Habovštiaka a P. Bednára priniesli poznatky, akým spôsobom bol hrad opevnený, v prvej fáze išlo pravdepodobne o palisádu, ktorú neskôr nahradila hradba s nasucho kladených kameňov a z výsledkov týchto výskumov môžeme predpokladať, že hrad nebol prestavaný na kamenný.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výskum r. 1968 priniesol okrem iného pomerne veľa slovanskej keramiky, datovateľnej do 9. —10., v ojedinelých prípadoch aj do 7.-8. stor. Pretože celá plocha Várheďu sa od konca 18. stor. používa ako cintorín, nezostala na ňom nijaká väčšia neporušená plocha, ktorá by umožňovala sledovať zvyšky niekdajších objektov z doby slovanskej, z ktorých tieto nálezy pochádzajú, alebo zvyšky múrov stredovekého hradu (v sondách sa prichádzalo len na väčšie-menšie zhluky kameňov)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglQIb-bEqTY6PXh3NZX3AKjIyEWb4k_B1n1P8NkrwpE1eBKd8WDLXUbRyJp1w5OnEGsFLzZn3iTTp9k-CcgwpG52fu9zDOPRuuKbwSzHeB3WZajW3xozMhrEebb5-0c8SOTw-lbIy9Ttc/s0/Na%25CC%2581lez.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglQIb-bEqTY6PXh3NZX3AKjIyEWb4k_B1n1P8NkrwpE1eBKd8WDLXUbRyJp1w5OnEGsFLzZn3iTTp9k-CcgwpG52fu9zDOPRuuKbwSzHeB3WZajW3xozMhrEebb5-0c8SOTw-lbIy9Ttc/s1600/Na%25CC%2581lez.jpg",
+          "filename": "Na%CC%81lez.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglQIb-bEqTY6PXh3NZX3AKjIyEWb4k_B1n1P8NkrwpE1eBKd8WDLXUbRyJp1w5OnEGsFLzZn3iTTp9k-CcgwpG52fu9zDOPRuuKbwSzHeB3WZajW3xozMhrEebb5-0c8SOTw-lbIy9Ttc/s1600/Na%25CC%2581lez.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 316,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Starý Tekov",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podľa nálezov možno usudzovať, že lokalita bola osídlená už pred založením hradu vojvodcom Boršom, teda pred príchodom Maďarov na toto územie. Podľa celkovej plochy, charakteru lokality, konfigurácie terénu a zvyškov zemných valov možno predpokladať, že sídlisko bolo opevnené, resp. bolo hradiskom, ktoré mohlo mať centrálne postavenie v rámci celej dolnopohronskej oblasti a neskôr Tekovskej župy. Na slovanské hradisko v Starom Tekove poukazuje i to, že aj iné stredoveké komitátne hrady vznikli na miestach starších opevnených slovanských centier (Bratislava, Nitra, Zemplín). Lokalita však bola neskoršou zástavbou a najmä cintorínom veľmi porušená, preto zostanú uvedené nálezy a pozorovania pravdepodobne navždy len torzom toho, čo mohlo dosvedčovať jej bývalý význam. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Stredná (najrozsiahlejšia) časť kopca je takmer celá zastavaná dvoma radmi domov tvoriacimi Tekovskú ulicu, ktorá sa na severovýchodnej strane rozširuje do malého trojuholníkového námestia s kostolom a cintorínom. Murivo terajšieho kostola obsahuje v časti severnej steny lode zvyšky románskeho muriva — vrstvu starostlivo opracovaných tufových kvádrov na veľmi, pevných základoch zo zalievaného muriva. V okolí kostola sa pochovávalo najneskoršie už v 11. stor., o čom svedčia nálezy z niektorých hrobov (mince). Podľa toho možno usudzovať, že aj kostol tu už stál v čase začiatkov pochovávania, t. j. v 11 stor. Jeho podobu dnes ťažko zrekonštruovať, pretože na jeho mieste postavili niekedy v 14. stor. terajší gotický, koncom 17. stor. prestavaný kostol, ktorý akiste sčasti využil a sčasti prekryl zvyšky staršieho románskeho kostola.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkTc6NLw_O3JJCI8Ps8pK4h9qjEWGvRa8Sy4B3LTcxMWmhQv4pD0pRSVntL0cJgJFyXLAiMaeyLmYpAw2nHJmwtnMG1NBgGy5TnnzvlyTJTLwog5Yue-mHD2yCfpmwj2PDwfz2lCXM2SQ/s0/jan%25C5%25A1%25C3%25A1k.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkTc6NLw_O3JJCI8Ps8pK4h9qjEWGvRa8Sy4B3LTcxMWmhQv4pD0pRSVntL0cJgJFyXLAiMaeyLmYpAw2nHJmwtnMG1NBgGy5TnnzvlyTJTLwog5Yue-mHD2yCfpmwj2PDwfz2lCXM2SQ/s1600/jan%25C5%25A1%25C3%25A1k.JPG",
+          "filename": "jan%C5%A1%C3%A1k.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkTc6NLw_O3JJCI8Ps8pK4h9qjEWGvRa8Sy4B3LTcxMWmhQv4pD0pRSVntL0cJgJFyXLAiMaeyLmYpAw2nHJmwtnMG1NBgGy5TnnzvlyTJTLwog5Yue-mHD2yCfpmwj2PDwfz2lCXM2SQ/s1600/jan%25C5%25A1%25C3%25A1k.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 310,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Plán hradiska podľa Š. Janšáka",
+        "caption": "Plán hradiska podľa Š. Janšáka",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vo dvoroch niektorých domov sa pri zemných prácach viackrát našla stredoveká ale i slovanská keramika, datovateľná do 9.—10. stor. Z toho možno usudzovať, že i táto časť lokality, ktorú môžeme pokladať za podhradskú osadu sídliska na Várhedi, bola osídlená už vo veľkomoravskom období."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Juhozápadná (najmenšia a tiež zastavaná) časť kopca je zaujímavá tým, že tu mal podľa tradície stáť stredoveký kláštor s kostolom. Maďarský historik P. Gerecze dokonca uvádza, že ruiny kostola, ktorého presbytérium malo šírku 6,05 m a bolo polygonálne uzavreté, stáli ešte v čase jeho obhliadky r. 1895. Asi preto starší ľudia túto polohu dodnes nazývajú Starý kostol, hoci na povrchu už dnes niet náznakov po kostole. Krátkym záchranným vyskumom r. 1968 na mieste jedného rozobratého domu sa zistila časť základov staršej stredovekej stavby obdĺžnikového pôdorysu s vnútornými rozmermi 4,3 X 5,5 m, orientovanej dlhšou osou v smere Z-V. Na južnom svahu vyvýšeniny bolo preskúmaných 16 hrobov cintorína, v ktorých neboli nijaké sprievodné nálezy, a časť kostnice. V ruinách rozobratého domu sa zistilo vyše 70 výrazne opracovaných kvádrov. To všetko naznačuje, že na týchto miestach v stredoveku naozaj kostol bol, a to najpravdepodobnejšie kláštorný, ako uvádza i P. Berecze. Za účasť kláštora možno považovať zistenú obdĺžnikovú stavbu, kým celkový pôdorys kláštora a kostola sa pre neskoršiu zástavbu a územnú obmedzenosť výskumu nepodarilo súvislejšie zachytiť. Prekvapuje, že ani v písomných prameňoch sa o tejto lokalite nezachovali nijaké zmienky napriek tomu, že tu išlo o objekty z neskoršieho stredoveku. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPn8yOsdaESsKbn__nFndi6HPXyM7v4TOHy1VM8FXhSpLLJAVlOKIbzWGaGdMcvlHHZa8lEijf2x5-ScIRkS7okGjdXAR6eDr2BzoaOLPA7GRXCdyh0p8gUHLg9Udy0MNiXM23J2i-UxI/s0/foto12.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPn8yOsdaESsKbn__nFndi6HPXyM7v4TOHy1VM8FXhSpLLJAVlOKIbzWGaGdMcvlHHZa8lEijf2x5-ScIRkS7okGjdXAR6eDr2BzoaOLPA7GRXCdyh0p8gUHLg9Udy0MNiXM23J2i-UxI/s1600/foto12.JPG",
+          "filename": "foto12.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPn8yOsdaESsKbn__nFndi6HPXyM7v4TOHy1VM8FXhSpLLJAVlOKIbzWGaGdMcvlHHZa8lEijf2x5-ScIRkS7okGjdXAR6eDr2BzoaOLPA7GRXCdyh0p8gUHLg9Udy0MNiXM23J2i-UxI/s1600/foto12.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Starý Tekov",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Počas tatárskeho vpádu v rokoch 1241-1242 hrad neposkytol dostatočné útočište ani mešťanom z podhradia. Na úteku pred nepriateľom sa poškodila výsadná listina Starého Tekova, ktorú im potom kráľ Belo IV. v roku 1253 prepísal a konfirmoval. Hrad sa spomína roku 1206 a v rokoch 1240 – 1246 a uvádzajú župani Geche a Verner, význam hradu však začal upadať v druhej polovici 13. storočia až a roku 1320 župan Imrich de Beche prenáša sídlo župy a tak sa stal novým centrom župy hrad v neďalekých Leviciach."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Článok prevzatý z: Habovštiak: Starý Tekov, okres Levice In: Chropovský: Významné Slovanské náleziská na Slovensku 1978 , str. 193-195",
+            "url": null
+          },
+          {
+            "text": "Foto, plánik hradiska a časť textu: HUSZÁR, Róbert: Stredoveké opevnenia na Pohroní (13. – 16. stor.). *Diplomová práca+. Univerzita Komenského v Bratislave. Filozofická fakulta; katedra archeológie.",
+            "url": null
+          },
+          {
+            "text": "Foto Orgoň 2.11.2024:",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Článok prevzatý z: Habovštiak: Starý Tekov, okres Levice In: Chropovský: Významné Slovanské náleziská na Slovensku 1978 , str. 193-195"
+      },
+      {
+        "type": "book",
+        "text": "Foto, plánik hradiska a časť textu: HUSZÁR, Róbert: Stredoveké opevnenia na Pohroní (13. – 16. stor.). *Diplomová práca+. Univerzita Komenského v Bratislave. Filozofická fakulta; katedra archeológie."
+      },
+      {
+        "type": "attribution",
+        "text": "Foto Orgoň 2.11.2024:"
+      }
+    ]
+  }
+}
