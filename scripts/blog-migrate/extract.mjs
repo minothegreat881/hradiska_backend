@@ -1453,7 +1453,10 @@ function buildExcerpt($, bodyRoot, maxLen = 250) {
     const $clone = $(div).clone();
     // BUG 6: okrem média odstráň aj mapový odkaz "Zväčšiť mapu"/"View Larger Map"
     // (`<small><a href="...maps.google...">`), inak preniká do excerptu.
-    $clone.find('iframe, img, table.tr-caption-container, div.separator, a[href*="maps.google"], a[href*="/maps"]').remove();
+    // Odstráň aj básne (data-poem/data-poem-skip z markPoemRuns) — verše sú lyrické,
+    // nie faktický popis článku, a nesmú sa dostať do excerptu ako "prvý odsek".
+    $clone.find('iframe, img, table.tr-caption-container, div.separator, a[href*="maps.google"], a[href*="/maps"], [data-poem], [data-poem-skip]').remove();
+    if ($(div).is('[data-poem], [data-poem-skip]')) continue;
     const t = $clone.text().replace(/[ \s]+/g, ' ').trim();
     if (t.length >= 60) {
       const truncated = t.length > maxLen ? t.slice(0, maxLen).replace(/\s+\S*$/, '') + '…' : t;

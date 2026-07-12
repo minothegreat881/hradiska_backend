@@ -7,8 +7,8 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ✅ Text: pokrytie 99.12% vs originál (gramaticky opravené slová vyňaté: 23) — zvyšné mimo: tworcza10, group, slavonic, temple, rugian, peninsula, from, vimeo, fotky, citovaný (over: map-widget/tvary/odkazy)
-- ✅ Obrázky evidované: telo (11) ⊆ galéria (26) — žiadny sa nestratil
+- ✅ Text: pokrytie 99.76% vs originál (gramaticky opravené slová vyňaté: 23) — zvyšné mimo: fotky, citovaný, piesne (over: map-widget/tvary/odkazy)
+- ✅ Obrázky evidované: telo (10) ⊆ galéria (25) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 10, keyFacts 10
 - ✅ Gramatika: 26 opráv aplikovaných (audit súbor)
@@ -18,13 +18,14 @@
 |---|---|
 | rich-text (odseky/nadpisy) | 26 |
 | quote-block (dobové pramene) | 0 |
-| image-block (v tele) | 11 |
+| poem (básne/verše) | 5 |
+| image-block (v tele) | 10 |
 | embed (video/3D) | 1 |
 | sources (zdroje) | 1 → 5 položiek |
 
 ## Obrázky
-- **galéria:** 26 (18 s popisom)
-- **v tele článku:** 11 (9 s popisom) — retra.jpeg, fischerinsel++modla.jpeg, vnutro+svatyne.jpg, 800px-Burgwall_Arkona.jpg, Retra+2.jpeg, arkona2.jpg, 450px-Svantevit-Statue.jpg, zvrhnutie+Svantovíta.JPG, arkona+temnozor.jpg, arkona.jpg, ark1.jpg
+- **galéria:** 25 (18 s popisom)
+- **v tele článku:** 10 (9 s popisom) — retra.jpeg, fischerinsel++modla.jpeg, vnutro+svatyne.jpg, 800px-Burgwall_Arkona.jpg, arkona2.jpg, 450px-Svantevit-Statue.jpg, zvrhnutie+Svantovíta.JPG, arkona+temnozor.jpg, arkona.jpg, ark1.jpg
 
 ## Sidebar
 - **Časová os (timeline):** 10 položiek
@@ -93,7 +94,7 @@
 
 ## Ostatné
 - **komentáre:** 13
-- **text tela:** 13402 znakov (2022 slov)
-- **pokrytie textu vs originál:** 99.12% (mimo: tworcza10, group, slavonic, temple, rugian, peninsula, from, vimeo)
+- **text tela:** 13415 znakov (2023 slov)
+- **pokrytie textu vs originál:** 99.76% (mimo: fotky, citovaný, piesne)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

@@ -57,8 +57,13 @@ async function reportFor(slug, feedPath) {
   const bodyImgCap = bodyImgs.filter(b => b.caption).length;
   const sourcesBlk = p.blocks.find(b => b.__component === 'content.sources');
   const sourcesItems = sourcesBlk ? (sourcesBlk.items || []).length : 0;
-  // text
-  const bodyText = p.blocks.filter(b => b.__component === 'content.rich-text').flatMap(b => b.body || []).map(n => (n.children || []).map(c => c.text || '').join('')).join(' ');
+  // text (rich-text odseky + básne — poem.text je surový string, nie blocks pole)
+  const bodyText = p.blocks
+    .filter(b => b.__component === 'content.rich-text')
+    .flatMap(b => b.body || [])
+    .map(n => (n.children || []).map(c => c.text || '').join(''))
+    .concat(p.blocks.filter(b => b.__component === 'content.poem').map(b => b.text || ''))
+    .join(' ');
   const bodyChars = bodyText.length;
   const bodyWords = bodyText.split(/\s+/).filter(Boolean).length;
   // komentáre
@@ -81,7 +86,7 @@ async function reportFor(slug, feedPath) {
       const words = s => (s || '').replace(/ /g, ' ').toLowerCase().replace(/[^a-z0-9áäčďéíĺľňóôŕšťúýž ]/gi, ' ').split(/\s+/).filter(w => w.length >= 3);
       const orig = words($.root().text());
       const parts = [];
-      p.blocks.forEach(b => { if (b.__component === 'content.rich-text') b.body.forEach(n => (n.children || []).forEach(c => { parts.push(c.text || ''); if (c.type === 'link') parts.push((c.children || []).map(x => x.text || '').join('')); })); else if (b.__component === 'content.quote-block') { parts.push(b.text || ''); parts.push(b.author || ''); } else if (b.__component === 'content.sources') (b.items || []).forEach(it => parts.push(it.text || '')); else if (b.__component === 'content.image-block' && b.caption) parts.push(b.caption); });
+      p.blocks.forEach(b => { if (b.__component === 'content.rich-text') b.body.forEach(n => (n.children || []).forEach(c => { parts.push(c.text || ''); if (c.type === 'link') parts.push((c.children || []).map(x => x.text || '').join('')); })); else if (b.__component === 'content.quote-block') { parts.push(b.text || ''); parts.push(b.author || ''); } else if (b.__component === 'content.poem') { parts.push(b.text || ''); } else if (b.__component === 'content.sources') (b.items || []).forEach(it => parts.push(it.text || '')); else if (b.__component === 'content.image-block' && b.caption) parts.push(b.caption); });
       (p.gallery || []).forEach(g => { if (g.caption) parts.push(g.caption); });
       const set = new Set(words(parts.join(' ')));
       const IGN = new Set(['zväčšiť', 'mapu', 'mapa', 'view', 'larger', 'map']);
@@ -134,6 +139,7 @@ async function reportFor(slug, feedPath) {
   L.push(`| typ | počet |`); L.push(`|---|---|`);
   L.push(`| rich-text (odseky/nadpisy) | ${bc['content.rich-text'] || 0} |`);
   L.push(`| quote-block (dobové pramene) | ${bc['content.quote-block'] || 0} |`);
+  L.push(`| poem (básne/verše) | ${bc['content.poem'] || 0} |`);
   L.push(`| image-block (v tele) | ${bc['content.image-block'] || 0} |`);
   L.push(`| embed (video/3D) | ${bc['content.embed'] || 0} |`);
   L.push(`| sources (zdroje) | ${bc['content.sources'] || 0}${sourcesItems ? ' → ' + sourcesItems + ' položiek' : ''} |`);
