@@ -1,22 +1,25 @@
 {
   "$meta": {
-    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label-najvyznamnejsie.json",
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\spisske-tomasovce-post.json",
     "sourceLabel": null,
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-7896023863370868350",
     "bloggerPostUrl": "http://www.hradiska.sk/2011/03/spisske-tomasovce.html",
     "repliesLink": "http://www.hradiska.sk/feeds/7896023863370868350/comments/default",
-    "extractedAt": "2026-06-12T15:06:12.894Z",
+    "extractedAt": "2026-07-12T20:47:49.453Z",
     "coverImageNeedsReview": true,
     "commentCount": 1,
     "comments": [
       {
         "id": "tag:blogger.com,1999:blog-6818054921907446479.post-858227442002551681",
+        "bloggerPostId": "858227442002551681",
         "author": "Anonymous",
         "authorProfile": null,
         "published": "2022-11-18T12:15:07.343+01:00",
         "updated": "2022-11-18T12:15:07.343+01:00",
         "content": "No s tym Nitrianskym kniezatstvom na Spisi to by som to neprehanal....",
-        "inReplyTo": "http://www.hradiska.sk/2011/03/spisske-tomasovce.html"
+        "inReplyToArticle": "http://www.hradiska.sk/2011/03/spisske-tomasovce.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
       }
     ],
     "checks": {
@@ -33,17 +36,19 @@
       "captionedImages": 20,
       "separatorImages": 3
     },
+    "poemCount": 0,
+    "poemSingleFlags": [],
     "sanityFlags": [
-      "zeroCitations",
       "longRichText"
     ]
   },
   "blogPost": {
     "title": "Spišské Tomášovce",
     "slug": "spisske-tomasovce",
-    "excerpt": "Poloha Hradisko I sa nachádza na rozhraní Slovenského raja s Hornádskou kotlinou a katastrov obcí Spišské Tomášovce a Smižany (okr. Spišská Nová Ves) na ľavobreží Hornádu pri jeho sútoku s Tomášovským potokom. Hoci názvom Hradisko I bolo pôvodne…",
+    "excerpt": "Významné hradisko Nitrianskeho kniežatstva na východnom Slovensku podrobne skúmal v poslednej dobe predovšetkým Peter Šalkovský, ktorý čiastkové výsledky výskumov zverejnil v roku 2006. Nasledovný článok čerpá predovšetkým z výsledkov jeho výskumu.",
     "authorName": "Orgon",
     "publishedAt": "2011-03-23T20:31:00.000+01:00",
+    "originalPublishedDate": "2011-03-23T20:31:00.000+01:00",
     "updatedAt": "2014-04-22T20:42:04.842+02:00",
     "readingTime": 15,
     "featured": false,
@@ -54,7 +59,9 @@
       "blogger": {
         "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0xkm6kX9cOny_vGEy9UULaJIy8fSxsZhGhR0T0wdVhXzGz5XC8x8dGNfU2Z34Em-3jGiVvCtFXwesOy1HEwyx16VrfALRMtYAF-AnCK20iVWVfwUGMQAhNbIQiQt-byEiCnN0nH0a85k/s1600/hradisko-cingov-02.jpg",
         "displayedWidth": 320,
-        "displayedHeight": 240
+        "displayedHeight": 240,
+        "originalWidth": null,
+        "originalHeight": null
       }
     },
     "gallery": [
@@ -65,8 +72,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0xkm6kX9cOny_vGEy9UULaJIy8fSxsZhGhR0T0wdVhXzGz5XC8x8dGNfU2Z34Em-3jGiVvCtFXwesOy1HEwyx16VrfALRMtYAF-AnCK20iVWVfwUGMQAhNbIQiQt-byEiCnN0nH0a85k/s1600/hradisko-cingov-02.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Umelecká predstava vzhľadu hradiska podľa plániku Dr. Javorského. Autor: Spyros (Obrázok nie je možné bez súhlasu jeho autora ďalej šíriť. Ak chcete obrázok použiť, požiadajte autora o súhlas)"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7eKNrUrRK2GNTQUMjc-X_s75yZvNJd2zrpgi-Vxbw6_8CyfgALnLm7uHOHTSWpcnXM9tDLXHcxJ0D4mEUXC1SMAP6QK36GF9pLLG4LvDfSjA-s4M5kRcPPyAsQV3Sezgwy9kA2jgqgHo/s0/pla%CC%81n+stary%CC%81.jpg",
@@ -75,28 +85,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7eKNrUrRK2GNTQUMjc-X_s75yZvNJd2zrpgi-Vxbw6_8CyfgALnLm7uHOHTSWpcnXM9tDLXHcxJ0D4mEUXC1SMAP6QK36GF9pLLG4LvDfSjA-s4M5kRcPPyAsQV3Sezgwy9kA2jgqgHo/s1600/pla%CC%81n+stary%CC%81.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 300
-        }
-      },
-      {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s0/tom3.jpg",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s1600/tom3.jpg",
-        "filename": "tom3.jpg",
-        "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s1600/tom3.jpg",
-          "displayedWidth": null,
-          "displayedHeight": null
-        }
-      },
-      {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s0/tom4.jpg",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s1600/tom4.jpg",
-        "filename": "tom4.jpg",
-        "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s1600/tom4.jpg",
-          "displayedWidth": null,
-          "displayedHeight": null
-        }
+          "displayedHeight": 300,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Plánik Dr. Javorského"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGkt2RMnRgTtzd8u_yeLJisrvs0hchHur0_mwIElu8_igPcVtxqLgeO-u0cms9t0m1Uv9GE5uvdh0gO7ddIkWUhF8gg3oZLFncTcwoRTychmxT1aCrC8BXLyPcc8J8qltvnsVQXJU7-AE/s0/SpTom-areal+hradiska.tif",
@@ -105,8 +98,37 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGkt2RMnRgTtzd8u_yeLJisrvs0hchHur0_mwIElu8_igPcVtxqLgeO-u0cms9t0m1Uv9GE5uvdh0gO7ddIkWUhF8gg3oZLFncTcwoRTychmxT1aCrC8BXLyPcc8J8qltvnsVQXJU7-AE/s1600/SpTom-areal+hradiska.tif",
           "displayedWidth": 277,
-          "displayedHeight": 320
-        }
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Novší, presnejší pôdorys hradiska (Dr. Šalkovský)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s0/tom3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s1600/tom3.jpg",
+        "filename": "tom3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s1600/tom3.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s0/tom4.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s1600/tom4.jpg",
+        "filename": "tom4.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s1600/tom4.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DF8iTRvYSN5OnbE2KSydY5ZoolyHLTbv8KGq46zEKPtFWrutA8EUnpO1zKLgQ9s5qvzW4VehlSd_JdMfOBP3L5IGrVioXHBvfMD8AVqh5vL-aqU0eGMtUHOvK6fTBwIhwecRVXjUyvM/s0/tom5.jpg",
@@ -115,8 +137,24 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DF8iTRvYSN5OnbE2KSydY5ZoolyHLTbv8KGq46zEKPtFWrutA8EUnpO1zKLgQ9s5qvzW4VehlSd_JdMfOBP3L5IGrVioXHBvfMD8AVqh5vL-aqU0eGMtUHOvK6fTBwIhwecRVXjUyvM/s1600/tom5.jpg",
           "displayedWidth": null,
-          "displayedHeight": null
-        }
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmJbV-J9TxWehOpWRZt9JVnk1Wc3PzySJ_5_-pVQHFYlBezuhoWL2fLDqi7f9iOH6uOPG00tTD-VvRe210w5xUxZksrDVx0M_tgjE_gHYDLvllE70oFkL7p-mrI_Svvtbab2HJJHDtvMc/s0/mapa.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmJbV-J9TxWehOpWRZt9JVnk1Wc3PzySJ_5_-pVQHFYlBezuhoWL2fLDqi7f9iOH6uOPG00tTD-VvRe210w5xUxZksrDVx0M_tgjE_gHYDLvllE70oFkL7p-mrI_Svvtbab2HJJHDtvMc/s1600/mapa.jpg",
+        "filename": "mapa.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmJbV-J9TxWehOpWRZt9JVnk1Wc3PzySJ_5_-pVQHFYlBezuhoWL2fLDqi7f9iOH6uOPG00tTD-VvRe210w5xUxZksrDVx0M_tgjE_gHYDLvllE70oFkL7p-mrI_Svvtbab2HJJHDtvMc/s1600/mapa.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 232,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Teoretická príprava: začneme od sedla s podhradím P2 (tam je hotel Čingov a chata Hradisko), nájdeme cestu hore, preskúmame akropolu a zídeme na podhradie P3 s hotelom Flora"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9XD5ygWSYnjLvvXnnT8Pd57kCYspv8A1rZAeFOhyphenhyphenvg_lsB77qadfZVHjTFU772R0g5GFUZhs1D7PmNrEX7e5BhNPKwDxPuQtqditnyKZbOWSEXuvPLjRWMpBYifYrE1V43wG70zMgSWM/s0/992829_10201131722969199_1267919116_n.jpg",
@@ -125,8 +163,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9XD5ygWSYnjLvvXnnT8Pd57kCYspv8A1rZAeFOhyphenhyphenvg_lsB77qadfZVHjTFU772R0g5GFUZhs1D7PmNrEX7e5BhNPKwDxPuQtqditnyKZbOWSEXuvPLjRWMpBYifYrE1V43wG70zMgSWM/s1600/992829_10201131722969199_1267919116_n.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Keď vidíte túto skalnú hlavu, už ste blízko pri hradisku."
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6yiAd8BVt1_pv-v5tecAZUlDm69jtRe3a22n0Dr8p16jcgfUIrpPRVpHX0UuWPFKuhdKPTU_XO-rA98CyP7calfsvfaqSEcTvvaPMqM3xUjO1aBZu5duELFpeCdcYxYs8jZFhuEAKeYg/s0/a.jpg",
@@ -135,8 +176,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6yiAd8BVt1_pv-v5tecAZUlDm69jtRe3a22n0Dr8p16jcgfUIrpPRVpHX0UuWPFKuhdKPTU_XO-rA98CyP7calfsvfaqSEcTvvaPMqM3xUjO1aBZu5duELFpeCdcYxYs8jZFhuEAKeYg/s1600/a.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Akropola hradiska I a západné predhradie (Pod hradiskom) s hotelom Flora od Sovej skaly."
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx35RJ9_IKGUQFa44SailmXeXObzOOH_HiDJ-Zsyz4Bapm002LfAdkPLneWFYopSEcWbNC5cV1NU1G9AB7ZEZD7HllrscqUG8eevR0Eh6tZnOvSchrd9w9WTldcPBXGWnguZduT-CN-hA/s0/b.jpg",
@@ -145,8 +189,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx35RJ9_IKGUQFa44SailmXeXObzOOH_HiDJ-Zsyz4Bapm002LfAdkPLneWFYopSEcWbNC5cV1NU1G9AB7ZEZD7HllrscqUG8eevR0Eh6tZnOvSchrd9w9WTldcPBXGWnguZduT-CN-hA/s1600/b.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Ešte raz pohľad od Sovej skaly, celé temeno Hradiska je zarasten"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuPiDaQL6mlcqnrr0xwd0bXNkGQ5dK92HbLCBzNG8seHtbTN429BgrXM2kJlYSLPgQ0gYzxvgF637rg8t4kQIVYAoOypbDf0aPbPaE6XUxl2Rh0Tjpwt8G5tczHtonyfvuNW_mSyc2h3c/s0/c.jpg",
@@ -155,8 +202,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuPiDaQL6mlcqnrr0xwd0bXNkGQ5dK92HbLCBzNG8seHtbTN429BgrXM2kJlYSLPgQ0gYzxvgF637rg8t4kQIVYAoOypbDf0aPbPaE6XUxl2Rh0Tjpwt8G5tczHtonyfvuNW_mSyc2h3c/s1600/c.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pamätná tabuľa pred hotelom Čingov (P2)"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qA1q6TnAJjav8Hq_62SxWKaBlkHKzQxNZ6Aofv4r-68dxQLYBFCHeJtTB0Pipg6XrDIFTsEkiPmC76eOtUcLV24x2_j-2NGCMg-aAutAIWGK3U1dhrvpCBXAb8hfTGcs0l9Mar-JDks/s0/d.jpg",
@@ -165,8 +215,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qA1q6TnAJjav8Hq_62SxWKaBlkHKzQxNZ6Aofv4r-68dxQLYBFCHeJtTB0Pipg6XrDIFTsEkiPmC76eOtUcLV24x2_j-2NGCMg-aAutAIWGK3U1dhrvpCBXAb8hfTGcs0l9Mar-JDks/s1600/d.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Chata Hradisko pod akropolou na P2. Tu niekde bolo aj pohrebisko"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtleStVYhceml6jbOyuQ0ffsK7uvKMoK_y_BiAbNhfd7jHB9HsGdqzA8cF9hNEW3Lp1njDD4isRDVjY7992CE9bbXS1Xzr8cCppdu9Oj2vjL5v0C7Ul-odC2AhyphenhyphenkhH__UiCyVvRfcDtrM/s0/e.jpg",
@@ -175,8 +228,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtleStVYhceml6jbOyuQ0ffsK7uvKMoK_y_BiAbNhfd7jHB9HsGdqzA8cF9hNEW3Lp1njDD4isRDVjY7992CE9bbXS1Xzr8cCppdu9Oj2vjL5v0C7Ul-odC2AhyphenhyphenkhH__UiCyVvRfcDtrM/s1600/e.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Niekde tam hore je akropola, len treba zdolať zelené vojsko. Cestu nevidím žiadnu! Mala by tu niekde byť aj praveká cesta na hradisko..."
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ETSYEDA2gGVVjV_dXlovHCAMtaHKGlq7yFIY_lMoruNn4BWcwzC0UPxmjiilsLXrSS5vd92S9VHRAAFynDGn03UMZwb_IBdTE1eod1KfE_pcm2mkHAvcOznaf3Vs_8TQbIWM0v4r3sk/s0/f.jpg",
@@ -185,8 +241,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ETSYEDA2gGVVjV_dXlovHCAMtaHKGlq7yFIY_lMoruNn4BWcwzC0UPxmjiilsLXrSS5vd92S9VHRAAFynDGn03UMZwb_IBdTE1eod1KfE_pcm2mkHAvcOznaf3Vs_8TQbIWM0v4r3sk/s1600/f.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Kto hľadá, nájde. Aj takúto cestu (alebo terasu?) na akropole. Ktovie, kde začína, to sa dá zistiť asi len keď opadne tá vegetácia."
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0IR1hg65nZPyrJA9lU0ile9WR9HRDeveZiTS3z2jkzY_fwJkOhB2VCSPgGxhxYOTktsJbmGflYew8vYvceOg9ibHevGU_qRg6rgO-ZGPEDlpvmWT8AVr9KcvTeY5mhK1SzvaDST-czRk/s0/g.jpg",
@@ -195,8 +254,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0IR1hg65nZPyrJA9lU0ile9WR9HRDeveZiTS3z2jkzY_fwJkOhB2VCSPgGxhxYOTktsJbmGflYew8vYvceOg9ibHevGU_qRg6rgO-ZGPEDlpvmWT8AVr9KcvTeY5mhK1SzvaDST-czRk/s1600/g.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Odkrytý múrik"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqZz8eYTyJKWVC0aYswXinsPOXS5ZgdTPUmfBEU4V-Czg2N0WCc6Bq0jyHyNZXFW-yUTBmT-65YTGwiz6XMIKfhjRJJFCj9WawUb2GJ5PgtAVgG5FdFXYwWKNcf6ImUshyzSDBRrhUKs4/s0/h.jpg",
@@ -205,8 +267,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqZz8eYTyJKWVC0aYswXinsPOXS5ZgdTPUmfBEU4V-Czg2N0WCc6Bq0jyHyNZXFW-yUTBmT-65YTGwiz6XMIKfhjRJJFCj9WawUb2GJ5PgtAVgG5FdFXYwWKNcf6ImUshyzSDBRrhUKs4/s1600/h.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Sucho kladený múrik"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvcoCkj8dCtsamsTdUKwmynlnpEZ3wUr8vbXOnHctHU8v-NX-WxoPwj2_f2i9qYz9FjtcVLIqhNwM_LMuNGKyuUzWHxOoRINNsl6lZndMubZfY3WjE-tlilvWkAk2ghD7USiTQ1e5aFQQ/s0/i.jpg",
@@ -215,8 +280,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvcoCkj8dCtsamsTdUKwmynlnpEZ3wUr8vbXOnHctHU8v-NX-WxoPwj2_f2i9qYz9FjtcVLIqhNwM_LMuNGKyuUzWHxOoRINNsl6lZndMubZfY3WjE-tlilvWkAk2ghD7USiTQ1e5aFQQ/s1600/i.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Porušený múrik"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeAbqhXWKOJ56P-uB1WdzuWJpYmtAkJ317dQeaLM1BPNdT3Zt7R0YZd9WHtAAjQHifWxwXfd6PoR4EaM8xEUMCaH8s4PWtMTyegjD_t9CwMHWnF8jUATfnX4Ekel2zmFs8Wj6ppC0hEx0/s0/j.jpg",
@@ -225,8 +293,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeAbqhXWKOJ56P-uB1WdzuWJpYmtAkJ317dQeaLM1BPNdT3Zt7R0YZd9WHtAAjQHifWxwXfd6PoR4EaM8xEUMCaH8s4PWtMTyegjD_t9CwMHWnF8jUATfnX4Ekel2zmFs8Wj6ppC0hEx0/s1600/j.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Výhľad z akropoly na Soviu skalu (na druhom brehu Hornádu)"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfpRzCoYAJZRVVhLDQK9TJoW5AAgBZbXQfpn_E8v8AnH5dJ93z2Sz0IMauFdijJfDFSbryvzHGdoigxSkvoBVisp4Q6k_3BbY8_5FXMLAUhi4pE9uxtFqBw7ViL_K0T1X6AV8YQOfTuCk/s0/k.jpg",
@@ -235,8 +306,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfpRzCoYAJZRVVhLDQK9TJoW5AAgBZbXQfpn_E8v8AnH5dJ93z2Sz0IMauFdijJfDFSbryvzHGdoigxSkvoBVisp4Q6k_3BbY8_5FXMLAUhi4pE9uxtFqBw7ViL_K0T1X6AV8YQOfTuCk/s1600/k.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Výhľad na západ smerom k prielomu Hornádu"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju_g3zfoTNodAYptdU0EqyiCqJI2LptmaH62l3UQzVKdeiBsTXAOmDaYPekKKANm36xmR-kYiEHUbtfdvmnqSTsh9kbj1fIjsJh4GW0hoIQRYIgNJQ6ALRhgF_z-9NZ3FYdNL-Hc8xERY/s0/l.jpg",
@@ -245,8 +319,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju_g3zfoTNodAYptdU0EqyiCqJI2LptmaH62l3UQzVKdeiBsTXAOmDaYPekKKANm36xmR-kYiEHUbtfdvmnqSTsh9kbj1fIjsJh4GW0hoIQRYIgNJQ6ALRhgF_z-9NZ3FYdNL-Hc8xERY/s1600/l.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "A sme na predhradí P3 (Pod Hradiskom) - pohľad na východ na zarastenú akropolu"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhARXxuPMbD80v5PdmKXNsJkgcYyAwwpHkYgbz_G-ZYWrkI8N5dfsIi7LND1SJg07_EWMOsZYC04kX0uLEFgtQmYavfOnRwjU7zEUtBA6To879HWAi00J53XXnwt_Zhdlt-uh-rhuA772g/s0/m.jpg",
@@ -255,8 +332,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhARXxuPMbD80v5PdmKXNsJkgcYyAwwpHkYgbz_G-ZYWrkI8N5dfsIi7LND1SJg07_EWMOsZYC04kX0uLEFgtQmYavfOnRwjU7zEUtBA6To879HWAi00J53XXnwt_Zhdlt-uh-rhuA772g/s1600/m.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z okraja predhradia - opevnenej terasy Pod Hradiskom - na západ do strmej dolinky Tomášovského potoka"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTkfFfC-XzJdWF5cpPCKgGtXJu-K4mKQBckeA81XGys3Q5n30R8UCAuYj0AleH7f-p0LkRVMoT_98RtA4Dj6JYZlrug16pPcJ5GWcT1qQIJU1pMDOL1LylhDWr8WD-98v_mHv6ACKEcfw/s0/n.jpg",
@@ -265,8 +345,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTkfFfC-XzJdWF5cpPCKgGtXJu-K4mKQBckeA81XGys3Q5n30R8UCAuYj0AleH7f-p0LkRVMoT_98RtA4Dj6JYZlrug16pPcJ5GWcT1qQIJU1pMDOL1LylhDWr8WD-98v_mHv6ACKEcfw/s1600/n.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad na opevnený areál od toho rušivo hnusného hotela. (BTW nedávno ho rekonštruovali a už sa vraj nevolá Flóra, ale Grandhotel Spiš)"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv3NJeuRm8yxjE397xrixU0GQFbN5S0y3XXURc4LAVhuleWq3uCHlHdpfsXMYObK2GZTSCRgp9nzTyoQ8hPzy6P1foB_5J4nvTc8qwVreunESOJ0Vt5KUtrVbCpkkcW43kNgb8uBVN6ZI/s0/o.jpg",
@@ -275,8 +358,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv3NJeuRm8yxjE397xrixU0GQFbN5S0y3XXURc4LAVhuleWq3uCHlHdpfsXMYObK2GZTSCRgp9nzTyoQ8hPzy6P1foB_5J4nvTc8qwVreunESOJ0Vt5KUtrVbCpkkcW43kNgb8uBVN6ZI/s1600/o.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Južný cíp terasy Pod hradiskom"
       }
     ],
     "tags": [
@@ -285,14 +371,87 @@
     ],
     "category": null,
     "location": {
-      "name": null,
+      "name": "Spišské Tomášovce - Hradisko I",
       "latitude": 48.947562,
       "longitude": 20.490918,
       "region": null,
-      "country": null
+      "country": "Slovensko"
     },
-    "keyFacts": [],
-    "timeline": [],
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Ľavý breh Hornádu pri sútoku s Tomášovským potokom, na rozhraní Slovenského raja a Hornádskej kotliny; akropola na vápencovom brale 540 – 567 m n. m.",
+        "icon": "mountain"
+      },
+      {
+        "label": "Rozloha",
+        "value": "Terasa podhradia asi 3 ha (lichobežníkovitý areál), spolu s akropolou 5 – 6 ha; valy s celkovou dĺžkou okolo 600 m",
+        "icon": "shield"
+      },
+      {
+        "label": "Konštrukcia valu",
+        "value": "Čelný suchý múr z lomového kameňa, komorová (miestami roštová) drevozemná výstuž; najmasívnejšia časť pri severovýchodnej bráne (spolu 3,9 – 4 m)",
+        "icon": "shield"
+      },
+      {
+        "label": "Severozápadné nárožie",
+        "value": "„Bastiónovitá\" konštrukcia s tromi vejárovito usporiadanými drevenými komorami, spevnená minimálne 2,5 m širokou kamennou priečkou",
+        "icon": "building"
+      },
+      {
+        "label": "Hlavná brána",
+        "value": "Kliešťovitý typ, západné krídlo dlhé 7,8 m; vstup široký 2,8 m, zužujúci sa dovnútra na 2 m",
+        "icon": "building"
+      },
+      {
+        "label": "Odhadovaná výška opevnenia",
+        "value": "Priemerný val 1,6 – 2,1 m, najmasívnejší 2,1 – 2,6 m; s palisádovou predprsňou celkovo až 3,6 – 4,1 m v severnom vale",
+        "icon": "shield"
+      },
+      {
+        "label": "Regionálny kontext",
+        "value": "Jedno zo 14 publikovaných slovenských hradísk s rovnakou fortifikačnou technikou (spolu s Pobedimom, Bojnou, Nitrou, Devínom a ďalšími)",
+        "icon": "star"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "doba rímska",
+        "title": "Pôvod polkruhového valovitého objektu",
+        "description": "Objekt vo vnútri areálu bol pravdepodobne pôvodne vybudovaný v dobe rímskej a počas existencie slovanského hradiska znovu zrekonštruovaný a využitý v obrannom systéme.",
+        "type": "founding"
+      },
+      {
+        "year": "koniec 8. – polovica 9. storočia",
+        "title": "Existencia opevneného valu",
+        "description": "Doba existencie valu doložená objektmi s archaickou keramikou, ostrohou s háčikmi, neskoroavarským bronzovým nákončím a bronzovou náušnicou.",
+        "type": "construction"
+      },
+      {
+        "year": "polovica 9. storočia",
+        "title": "Zánik hradiska požiarom",
+        "description": "Masívne stopy prepálenia valu svedčia o zničení požiarom; niektoré úvahy spájajú zánik s procesom etatizácie a včlenením Spiša do moravského štátu.",
+        "type": "destruction"
+      },
+      {
+        "year": "2. polovica 9. storočia",
+        "title": "Existencia otvoreného sídliska",
+        "description": "Po zániku valu tu pravdepodobne existovalo už len otvorené sídlisko, trvajúce do 10. storočia; analogické nálezy (Břeclav-Pohansko, Bratislava, Devín) datované do tohto obdobia.",
+        "type": "event"
+      },
+      {
+        "year": "koniec 9. – 1. pol. 10. storočia",
+        "title": "Detské hroby s byzantsko-orientálnymi náušnicami",
+        "description": "Solitérne detské hroby za hotelom Flóra so striebornými hrozienkovitými náušnicami podporujú dataciu druhého hradiska (Hradisko II) na Čingove.",
+        "type": "discovery"
+      },
+      {
+        "year": "2006",
+        "title": "Publikovanie výsledkov výskumu",
+        "description": "Peter Šalkovský zverejnil čiastkové výsledky svojho podrobného výskumu hradiska, z ktorých tento článok predovšetkým čerpá.",
+        "type": "discovery"
+      }
+    ],
     "quotes": [],
     "blocks": [
       {
@@ -303,7 +462,21 @@
             "children": [
               {
                 "type": "text",
-                "text": "Poloha Hradisko I sa nachádza na rozhraní Slovenského raja s Hornádskou kotlinou a katastrov obcí Spišské Tomášovce a Smižany (okr. Spišská Nová Ves) na ľavobreží Hornádu pri jeho sútoku s Tomášovským potokom. Hoci názvom Hradisko I bolo pôvodne označované iba vápencové bralo (540-567 m n. m.), ktorého plošina je opevnená a kde sa predpokladala akropola, dnes tak nazývame celú lokalitu, teda aj bezprostredné okolie rozčlenené do troch polôh Hradisko bolo zložené z „akropoly\" umiestnenej na dominantnom brale a z „podhradia či podhradí\" na relatívne plochom západnom a severovýchodnom predpolí."
+                "text": "Významné hradisko Nitrianskeho kniežatstva na východnom Slovensku podrobne skúmal v poslednej dobe predovšetkým Peter Šalkovský, ktorý čiastkové výsledky výskumov zverejnil v roku 2006. Nasledovný článok čerpá predovšetkým z výsledkov jeho výskumu.\n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Poloha Hradisko I sa nachádza na rozhraní Slovenského raja s Hornádskou kotlinou a katastrov obcí Spišské Tomášovce a Smižany (okr. Spišská Nová Ves) na ľavobreží Hornádu pri jeho sútoku s Tomášovským potokom. Hoci názvom Hradisko I bolo pôvodne označované iba vápencové bralo (540-567 m n. m.), ktorého plošina je opevnená a kde sa predpokladala akropola, dnes tak nazývame celú lokalitu, teda aj bezprostredné okolie rozčlenené do troch polôh Hradisko bolo zložené z „akropoly\" umiestnenej na dominantnom brale a z „podhradia či podhradí\" na relatívne plochom západnom a severovýchodnom predpolí. "
               }
             ]
           }
@@ -324,27 +497,6 @@
         ]
       },
       {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0xkm6kX9cOny_vGEy9UULaJIy8fSxsZhGhR0T0wdVhXzGz5XC8x8dGNfU2Z34Em-3jGiVvCtFXwesOy1HEwyx16VrfALRMtYAF-AnCK20iVWVfwUGMQAhNbIQiQt-byEiCnN0nH0a85k/s0/hradisko-cingov-02.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0xkm6kX9cOny_vGEy9UULaJIy8fSxsZhGhR0T0wdVhXzGz5XC8x8dGNfU2Z34Em-3jGiVvCtFXwesOy1HEwyx16VrfALRMtYAF-AnCK20iVWVfwUGMQAhNbIQiQt-byEiCnN0nH0a85k/s1600/hradisko-cingov-02.jpg",
-          "filename": "hradisko-cingov-02.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0xkm6kX9cOny_vGEy9UULaJIy8fSxsZhGhR0T0wdVhXzGz5XC8x8dGNfU2Z34Em-3jGiVvCtFXwesOy1HEwyx16VrfALRMtYAF-AnCK20iVWVfwUGMQAhNbIQiQt-byEiCnN0nH0a85k/s1600/hradisko-cingov-02.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Umelecká predstava vzhľadu hradiska podľa plániku Dr. Javorského. Autor: Spyros (Obrázok nie je možné bez súhlasu jeho autora ďalej šíriť. Ak chcete obrázok použiť, požiadajte autora o súhlas)",
-        "caption": "Umelecká predstava vzhľadu hradiska podľa plániku Dr. Javorského. Autor: Spyros (Obrázok nie je možné bez súhlasu jeho autora ďalej šíriť. Ak chcete obrázok použiť, požiadajte autora o súhlas)",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -352,32 +504,11 @@
             "children": [
               {
                 "type": "text",
-                "text": "Pomerne plochá terasa Tomášovského potoka bola rozčlenená na dve časti. Dominantná časť bola opevnená valmi z troch strán - zo severnej, západnej a južnej, vytvárajúc tak približne lichobežníkovitý areál s plochou asi 3 ha v nadmorskej výške 507-527 m. Na štvrtej - východnej strane (dlhej cca 297 m) sa valy pripínali skoro kolmo k prudko stúpajúcemu skalnému svahu hradiska s vrcholovým plató v nadmorskej výške 560-567 m. Pri skúmaní hlavného areálu „podhradia\" bol takmer kompletne odkrytý severný val a 90 m zo západného valu."
+                "text": "Pomerne plochá terasa Tomášovského potoka bola rozčlenená na dve časti. Dominantná časť bola opevnená valmi z troch strán - zo severnej, západnej a južnej, vytvárajúc tak približne lichobežníkovitý areál s plochou asi 3 ha v nadmorskej výške 507-527 m. Na štvrtej - východnej strane (dlhej cca 297 m) sa valy pripínali skoro kolmo k prudko stúpajúcemu skalnému svahu hradiska s vrcholovým plató v nadmorskej výške 560-567 m. Pri skúmaní hlavného areálu „podhradia\" bol takmer kompletne odkrytý severný val a 90 m zo západného valu.\n \n "
               }
             ]
           }
         ]
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7eKNrUrRK2GNTQUMjc-X_s75yZvNJd2zrpgi-Vxbw6_8CyfgALnLm7uHOHTSWpcnXM9tDLXHcxJ0D4mEUXC1SMAP6QK36GF9pLLG4LvDfSjA-s4M5kRcPPyAsQV3Sezgwy9kA2jgqgHo/s0/pla%CC%81n+stary%CC%81.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7eKNrUrRK2GNTQUMjc-X_s75yZvNJd2zrpgi-Vxbw6_8CyfgALnLm7uHOHTSWpcnXM9tDLXHcxJ0D4mEUXC1SMAP6QK36GF9pLLG4LvDfSjA-s4M5kRcPPyAsQV3Sezgwy9kA2jgqgHo/s1600/pla%CC%81n+stary%CC%81.jpg",
-          "filename": "plán+starý.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7eKNrUrRK2GNTQUMjc-X_s75yZvNJd2zrpgi-Vxbw6_8CyfgALnLm7uHOHTSWpcnXM9tDLXHcxJ0D4mEUXC1SMAP6QK36GF9pLLG4LvDfSjA-s4M5kRcPPyAsQV3Sezgwy9kA2jgqgHo/s1600/pla%CC%81n+stary%CC%81.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 300
-          }
-        },
-        "alt": "Plánik Dr. Javorského",
-        "caption": "Plánik Dr. Javorského",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -396,76 +527,22 @@
       {
         "__component": "content.image-block",
         "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s0/tom3.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s1600/tom3.jpg",
-          "filename": "tom3.jpg",
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0xkm6kX9cOny_vGEy9UULaJIy8fSxsZhGhR0T0wdVhXzGz5XC8x8dGNfU2Z34Em-3jGiVvCtFXwesOy1HEwyx16VrfALRMtYAF-AnCK20iVWVfwUGMQAhNbIQiQt-byEiCnN0nH0a85k/s0/hradisko-cingov-02.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0xkm6kX9cOny_vGEy9UULaJIy8fSxsZhGhR0T0wdVhXzGz5XC8x8dGNfU2Z34Em-3jGiVvCtFXwesOy1HEwyx16VrfALRMtYAF-AnCK20iVWVfwUGMQAhNbIQiQt-byEiCnN0nH0a85k/s1600/hradisko-cingov-02.jpg",
+          "filename": "hradisko-cingov-02.jpg",
           "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s1600/tom3.jpg",
-            "displayedWidth": null,
-            "displayedHeight": null
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0xkm6kX9cOny_vGEy9UULaJIy8fSxsZhGhR0T0wdVhXzGz5XC8x8dGNfU2Z34Em-3jGiVvCtFXwesOy1HEwyx16VrfALRMtYAF-AnCK20iVWVfwUGMQAhNbIQiQt-byEiCnN0nH0a85k/s1600/hradisko-cingov-02.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
           }
         },
-        "alt": "",
-        "caption": "",
-        "position": "center",
-        "showCaption": false,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Osobitne zosilnenou konštrukciou boli riešené strategicky a staticky najcitlivejšie miesta - severozápadné nárožie, brána v severovýchodnom rohu a brána aj priepust v západnej časti severného valu. Pri severozápadnom nároží bol priestor medzi dvomi dlhými komorami spevnený masívnou, minimálne 2,5 m širokou kamennou priečkou cez celú šírku valu. Podobnými priečkami, širokými 80-100 cm, bola z oboch strán spevnená „bastiónovitá\" konštrukcia nárožia, vnútri vystužená tromi lichobežníkovitými, vejárovité usporiadanými drevenými komorami s priečnymi brvnami hlboko vnorenými do čelnej plenty zosilnenej na cca 100 cm. Obdobné spevňujúce priečky sa zistili napríklad aj v severozápadnom úseku opevnenia akropoly v Mikulčiciach."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s0/tom4.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s1600/tom4.jpg",
-          "filename": "tom4.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s1600/tom4.jpg",
-            "displayedWidth": null,
-            "displayedHeight": null
-          }
-        },
-        "alt": "",
-        "caption": "",
-        "position": "center",
-        "showCaption": false,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGkt2RMnRgTtzd8u_yeLJisrvs0hchHur0_mwIElu8_igPcVtxqLgeO-u0cms9t0m1Uv9GE5uvdh0gO7ddIkWUhF8gg3oZLFncTcwoRTychmxT1aCrC8BXLyPcc8J8qltvnsVQXJU7-AE/s0/SpTom-areal+hradiska.tif",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGkt2RMnRgTtzd8u_yeLJisrvs0hchHur0_mwIElu8_igPcVtxqLgeO-u0cms9t0m1Uv9GE5uvdh0gO7ddIkWUhF8gg3oZLFncTcwoRTychmxT1aCrC8BXLyPcc8J8qltvnsVQXJU7-AE/s1600/SpTom-areal+hradiska.tif",
-          "filename": "SpTom-areal+hradiska.tif",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGkt2RMnRgTtzd8u_yeLJisrvs0hchHur0_mwIElu8_igPcVtxqLgeO-u0cms9t0m1Uv9GE5uvdh0gO7ddIkWUhF8gg3oZLFncTcwoRTychmxT1aCrC8BXLyPcc8J8qltvnsVQXJU7-AE/s1600/SpTom-areal+hradiska.tif",
-            "displayedWidth": 277,
-            "displayedHeight": 320
-          }
-        },
-        "alt": "Novší, presnejší pôdorys hradiska (Dr. Šalkovský)",
-        "caption": "Novší, presnejší pôdorys hradiska (Dr. Šalkovský)",
-        "position": "center",
+        "alt": "Umelecká predstava vzhľadu hradiska podľa plániku Dr. Javorského. Autor: Spyros (Obrázok nie je možné bez súhlasu jeho autora ďalej šíriť. Ak chcete obrázok použiť, požiadajte autora o súhlas)",
+        "caption": "Umelecká predstava vzhľadu hradiska podľa plániku Dr. Javorského. Autor: Spyros (Obrázok nie je možné bez súhlasu jeho autora ďalej šíriť. Ak chcete obrázok použiť, požiadajte autora o súhlas)",
+        "position": "right",
         "showCaption": true,
-        "width": "60",
+        "width": "50",
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
@@ -478,11 +555,48 @@
             "children": [
               {
                 "type": "text",
-                "text": "Absencia stôp malých komôr, resp. dlhé komory východne i južne od „nárožnej bašty\" boli interpretované ako obytné objekty vstavané do telesa valu. Podporujú to stopy podláh a nálezy drobných predmetov, ako aj spevnenie valu priečnymi múrmi nielen priamo v nároží, ale tiež zo západnej strany tretieho takéhoto objektu. Západné krídlo hlavnej brány, dlhé 7,8 m, oplentované rovnakou technikou ako celý val, teda z lámaných zlepencov a pieskovcov, bolo zachované až do výšky 60 cm. Presahovalo smerom dovnútra areálu skoro 5 m a dosahovalo v nároží hrúbku vyše 2 m. Znútra bolo ukončené veľkou kolovou jamou s priemerom 27 cm (pravdepodobne súčasťou systému brány). Vstup vpredu bol široký okolo 2,8 m, smerom dovnútra sa mierne šikmo zužoval na cca 2 m. Takáto brána patrí ku kliešťovitému typu. Priebeh prístupovej cesty možno predpokladať v priamom smere zo severu pozdĺž svahu akropoly. Priekopa až pred bránu nepokračovala (asi zo statických dôvodov). Končila 3 m západne, pričom v medzipriestore boli zistené kolové jamy, ktoré tu naznačujú existenciu akejsi krátkej predsunutej palisádovej zásteny."
+                "text": "Osobitne zosilnenou konštrukciou boli riešené strategicky a staticky najcitlivejšie miesta - severozápadné nárožie, brána v severovýchodnom rohu a brána aj priepust v západnej časti severného valu. Pri severozápadnom nároží bol priestor medzi dvomi dlhými komorami spevnený masívnou, minimálne 2,5 m širokou kamennou priečkou cez celú šírku valu. Podobnými priečkami, širokými 80-100 cm, bola z oboch strán spevnená „bastiónovitá\" konštrukcia nárožia, vnútri vystužená tromi lichobežníkovitými, vejárovité usporiadanými drevenými komorami s priečnymi brvnami hlboko vnorenými do čelnej plenty zosilnenej na cca 100 cm. Obdobné spevňujúce priečky sa zistili napríklad aj v severozápadnom úseku opevnenia akropoly v Mikulčiciach. "
               }
             ]
           }
         ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Absencia stôp malých komôr, resp. dlhé komory východne i južne od „nárožnej bašty\" boli interpretované ako obytné objekty vstavané do telesa valu. Podporujú to stopy podláh a nálezy drobných predmetov, ako aj spevnenie valu priečnymi múrmi nielen priamo v nároží, ale tiež zo západnej strany tretieho takéhoto objektu. Západné krídlo hlavnej brány, dlhé 7,8 m, oplentované rovnakou technikou ako celý val, teda z lámaných zlepencov a pieskovcov, bolo zachované až do výšky 60 cm. Presahovalo smerom dovnútra areálu skoro 5 m a dosahovalo v nároží hrúbku vyše 2 m. Znútra bolo ukončené veľkou kolovou jamou s priemerom 27 cm (pravdepodobne súčasťou systému brány). Vstup vpredu bol široký okolo 2,8 m, smerom dovnútra sa mierne šikmo zužoval na cca 2 m. Takáto brána patrí ku kliešťovitému typu. Priebeh prístupovej cesty možno predpokladať v priamom smere zo severu pozdĺž svahu akropoly. Priekopa až pred bránu nepokračovala (asi zo statických dôvodov). Končila 3 m západne, pričom v medzipriestore boli zistené kolové jamy, ktoré tu naznačujú existenciu akejsi krátkej predsunutej palisádovej zásteny. \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7eKNrUrRK2GNTQUMjc-X_s75yZvNJd2zrpgi-Vxbw6_8CyfgALnLm7uHOHTSWpcnXM9tDLXHcxJ0D4mEUXC1SMAP6QK36GF9pLLG4LvDfSjA-s4M5kRcPPyAsQV3Sezgwy9kA2jgqgHo/s0/pla%CC%81n+stary%CC%81.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7eKNrUrRK2GNTQUMjc-X_s75yZvNJd2zrpgi-Vxbw6_8CyfgALnLm7uHOHTSWpcnXM9tDLXHcxJ0D4mEUXC1SMAP6QK36GF9pLLG4LvDfSjA-s4M5kRcPPyAsQV3Sezgwy9kA2jgqgHo/s1600/pla%CC%81n+stary%CC%81.jpg",
+          "filename": "plán+starý.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7eKNrUrRK2GNTQUMjc-X_s75yZvNJd2zrpgi-Vxbw6_8CyfgALnLm7uHOHTSWpcnXM9tDLXHcxJ0D4mEUXC1SMAP6QK36GF9pLLG4LvDfSjA-s4M5kRcPPyAsQV3Sezgwy9kA2jgqgHo/s1600/pla%CC%81n+stary%CC%81.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 300,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Plánik Dr. Javorského",
+        "caption": "Plánik Dr. Javorského",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -499,27 +613,6 @@
         ]
       },
       {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DF8iTRvYSN5OnbE2KSydY5ZoolyHLTbv8KGq46zEKPtFWrutA8EUnpO1zKLgQ9s5qvzW4VehlSd_JdMfOBP3L5IGrVioXHBvfMD8AVqh5vL-aqU0eGMtUHOvK6fTBwIhwecRVXjUyvM/s0/tom5.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DF8iTRvYSN5OnbE2KSydY5ZoolyHLTbv8KGq46zEKPtFWrutA8EUnpO1zKLgQ9s5qvzW4VehlSd_JdMfOBP3L5IGrVioXHBvfMD8AVqh5vL-aqU0eGMtUHOvK6fTBwIhwecRVXjUyvM/s1600/tom5.jpg",
-          "filename": "tom5.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DF8iTRvYSN5OnbE2KSydY5ZoolyHLTbv8KGq46zEKPtFWrutA8EUnpO1zKLgQ9s5qvzW4VehlSd_JdMfOBP3L5IGrVioXHBvfMD8AVqh5vL-aqU0eGMtUHOvK6fTBwIhwecRVXjUyvM/s1600/tom5.jpg",
-            "displayedWidth": null,
-            "displayedHeight": null
-          }
-        },
-        "alt": "",
-        "caption": "",
-        "position": "center",
-        "showCaption": false,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -534,6 +627,29 @@
         ]
       },
       {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGkt2RMnRgTtzd8u_yeLJisrvs0hchHur0_mwIElu8_igPcVtxqLgeO-u0cms9t0m1Uv9GE5uvdh0gO7ddIkWUhF8gg3oZLFncTcwoRTychmxT1aCrC8BXLyPcc8J8qltvnsVQXJU7-AE/s0/SpTom-areal+hradiska.tif",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGkt2RMnRgTtzd8u_yeLJisrvs0hchHur0_mwIElu8_igPcVtxqLgeO-u0cms9t0m1Uv9GE5uvdh0gO7ddIkWUhF8gg3oZLFncTcwoRTychmxT1aCrC8BXLyPcc8J8qltvnsVQXJU7-AE/s1600/SpTom-areal+hradiska.tif",
+          "filename": "SpTom-areal+hradiska.tif",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGkt2RMnRgTtzd8u_yeLJisrvs0hchHur0_mwIElu8_igPcVtxqLgeO-u0cms9t0m1Uv9GE5uvdh0gO7ddIkWUhF8gg3oZLFncTcwoRTychmxT1aCrC8BXLyPcc8J8qltvnsVQXJU7-AE/s1600/SpTom-areal+hradiska.tif",
+            "displayedWidth": 277,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Novší, presnejší pôdorys hradiska (Dr. Šalkovský)",
+        "caption": "Novší, presnejší pôdorys hradiska (Dr. Šalkovský)",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -541,11 +657,34 @@
             "children": [
               {
                 "type": "text",
-                "text": "Typ valov hlavného areálu s vonkajším kamenným múrom a vnútornou drevenou, miestami aj kamennou stenou, s jadrom rôznej drevozemnej, najmä komorovej konštrukcie, vyskytujúci sa vo viacerých variáciách, predstavuje hlavnú fortifikačnú techniku slovanského stredodunajského (veľkomoravského) obranného staviteľstva v 9. stor. Z územia Slovenska je publikovaných 14 takýchto lokalít - Pobedim, Mužla, Bratislava-Devínska Nová Ves (Na pieskoch a Nad lomom), Bratislava-Hrad, Jur pri Bratislave, Tlmače, Hronský Beňadik (s čelným kamenným múrom a vnútornou drevenou stenou), Nitra-Hrad (val I a II), Nitra-Martinský vrch, Bojná, Majcichov, Detva. Na Morave a v Čechách sa identifikovalo asi 10 takýchto lokalít (napr. Mikulčice, Břeclav-Pohansko, Sudomérice, Uherské Hradište, Nejdek, Tašovice) a na ďalších môžeme takúto fortifikačnú techniku predpokladať Doklady podobných opevnení poznáme i v priestore medzi tokmi Labe a Sála na lužicko-srbských územiach, kde sa všeobecne spájajú s východofranským vplyvom na miestnu slovanskú obrannú architektúru Plenty tomášovského opevnenia boli budované pomerne starostlivo, ťažiskovo z plocho lámaného kameňa. Tvar prepáleného podložia indikuje komorovú výstuž telesa valu, tvorenú pravdepodobne klasickými zrubmi majúcimi spredu na sucho kladenú kamennú plentu a aspoň miestami aj zadnú stenu spevnenú zvislými kolmi či subtílnejšou, nižšou kamennou plentou. Komorová armatúra predstavuje oproti roštovej či klieštinovej dokonalejší spôsob zaistenia stability valu, pretože eliminovala negatívne pôsobenie vodorovných síl. Analógie k dlhým komorám v telese tomášovského valu nepoznáme."
+                "text": "Typ valov hlavného areálu s vonkajším kamenným múrom a vnútornou drevenou, miestami aj kamennou stenou, s jadrom rôznej drevozemnej, najmä komorovej konštrukcie, vyskytujúci sa vo viacerých variáciách, predstavuje hlavnú fortifikačnú techniku slovanského stredodunajského (veľkomoravského) obranného staviteľstva v 9. stor. Z územia Slovenska je publikovaných 14 takýchto lokalít - Pobedim, Mužla, Bratislava-Devínska Nová Ves (Na pieskoch a Nad lomom), Bratislava-Hrad, Jur pri Bratislave, Tlmače, Hronský Beňadik (s čelným kamenným múrom a vnútornou drevenou stenou), Nitra-Hrad (val I a II), Nitra-Martinský vrch, Bojná, Majcichov, Detva. Na Morave a v Čechách sa identifikovalo asi 10 takýchto lokalít (napr. Mikulčice, Břeclav-Pohansko, Sudomérice, Uherské Hradište, Nejdek, Tašovice) a na ďalších môžeme takúto fortifikačnú techniku predpokladať Doklady podobných opevnení poznáme i v priestore medzi tokmi Labe a Sála na lužicko-srbských územiach, kde sa všeobecne spájajú s východofranským vplyvom na miestnu slovanskú obrannú architektúru Plenty tomášovského opevnenia boli budované pomerne starostlivo, ťažiskovo z plocho lámaného kameňa. Tvar prepáleného podložia indikuje komorovú výstuž telesa valu, tvorenú pravdepodobne klasickými zrubmi majúcimi spredu na sucho kladenú kamennú plentu a aspoň miestami aj zadnú stenu spevnenú zvislými kolmi či subtílnejšou, nižšou kamennou plentou. Komorová armatúra predstavuje oproti roštovej či klieštinovej dokonalejší spôsob zaistenia stability valu, pretože eliminovala negatívne pôsobenie vodorovných síl. Analógie k dlhým komorám v telese tomášovského valu nepoznáme. "
               }
             ]
           }
         ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s0/tom3.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s1600/tom3.jpg",
+          "filename": "tom3.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghHyIz_ma406OWiyQpETcZ3wYLoG9oWvqkXrJlQNz6BM_mW4hvyMaajaYmGBHaB59q12kjaK4OMrKePpHkm6OnO7_cydr-rxSsv3cPfHQiXvivTqroVMt_8tg7BnIjDbmabSWVytRtfA0/s1600/tom3.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Spišské Tomášovce",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -576,6 +715,29 @@
         ]
       },
       {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s0/tom4.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s1600/tom4.jpg",
+          "filename": "tom4.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhotBvEuQEcLFxLdGuJKSXHQb4uN9xQVvxlWetvUkFfck3G4DPj77NHWF2ZgS6XWGGuRdMXpO6XONU6RravQ0SryS1BYf2Z3hBdban899FaTwssNsEa7UaBtB9QDar7uB9GbD54HSIoYCo/s1600/tom4.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Spišské Tomášovce",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -588,6 +750,29 @@
             ]
           }
         ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DF8iTRvYSN5OnbE2KSydY5ZoolyHLTbv8KGq46zEKPtFWrutA8EUnpO1zKLgQ9s5qvzW4VehlSd_JdMfOBP3L5IGrVioXHBvfMD8AVqh5vL-aqU0eGMtUHOvK6fTBwIhwecRVXjUyvM/s0/tom5.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DF8iTRvYSN5OnbE2KSydY5ZoolyHLTbv8KGq46zEKPtFWrutA8EUnpO1zKLgQ9s5qvzW4VehlSd_JdMfOBP3L5IGrVioXHBvfMD8AVqh5vL-aqU0eGMtUHOvK6fTBwIhwecRVXjUyvM/s1600/tom5.jpg",
+          "filename": "tom5.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2DF8iTRvYSN5OnbE2KSydY5ZoolyHLTbv8KGq46zEKPtFWrutA8EUnpO1zKLgQ9s5qvzW4VehlSd_JdMfOBP3L5IGrVioXHBvfMD8AVqh5vL-aqU0eGMtUHOvK6fTBwIhwecRVXjUyvM/s1600/tom5.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Spišské Tomášovce",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -626,7 +811,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Východiskové argumenty k datovaniu valu priniesli viaceré nálezové situácie, predovšetkým objekty blízko valu, prekryté jeho deštrukciou. Dobu existencie valu reprezentujú pravdepodobne objekty s archaickou keramikou, ostrohou s háčikmi, neskoroavarským bronzovým jazykovitým nákončím s esovitým rastlinným ornamentom a bronzovou náušnicou, s možným datovaním od konca 8. do polovice 9. stor."
+                "text": "Východiskové argumenty k datovaniu valu priniesli viaceré nálezové situácie, predovšetkým objekty blízko valu, prekryté jeho deštrukciou. Dobu existencie valu reprezentujú pravdepodobne objekty s archaickou keramikou, ostrohou s háčikmi, neskoroavarským bronzovým jazykovitým nákončím s esovitým rastlinným ornamentom a bronzovou náušnicou, s možným datovaním od konca 8. do polovice 9. stor. "
               }
             ]
           }
@@ -640,7 +825,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Dobu po zániku valu indikuje ostroha s trojuholníkovitými pochádzajúca z hornej vrstvy nad deštrukciou valu. Analógie (Bŕeclav-Pohansko, Bratislava, Devín) sú datované do druhej polovice 9. stor. alebo do klasického veľkomoravského horizontu. Vtedy tu už pravdepodobne existovalo iba otvorené sídlisko, ktorého trvanie zatiaľ rámcovo datujeme do druhej polovice 9. stor. až 10. stor. Masívne stopy prepálenia valu svedčia o jeho zničení požiarom. Iba ako pracovné konštrukcie možno označiť úvahy spájajúce jeho zánik s procesom etatizácie niekedy v prvej polovici 9. stor. a včlenením územia Spiša do moravského štátu. Tieto úvahy a chronológiu podporujú nálezy solitérnych detských hrobov v polohe za hotelom Flóra, v ktorých boli strieborné hrozienkovité náušnice so zdobeným spodným oblúkom, byzantsko-orientálneho rázu datovateľné do konca 9. stor., s prežívaním v prvej polovici 10. stor. Pravdepodobne s touto dobou, t. j. s klasickým veľkomoravským a poveľkomoravským obdobím, korešponduje vznik a fungovanie druhého hradiska (Hradisko II), situovaného asi 800 m juhozápadne na pravom brehu Hornádu, na ostrožnom výbežku (530-540 m n. m.) vrchu Čingov, známeho z prieskumov a menších sondážnych akcií Polkruhový valovitý objekt vo vnútri areálu bol pravdepodobne pôvodne vybudovaný v dobe rímskej a počas existencie slovanského hradiska opäť zrekonštruovaný a využitý v rámci existujúceho obranného systému lokality. Druh použitej fortifikácie a typy obytnej architektúry terasy Tomášovského potoka naznačujú jeho intenzívne využitie tak na bývanie, ako i na hospodársky život. Charakterom a dĺžkou valov i plošne sa tento areál radí k stredne veľkým hradiskám. Plocha terasy, s rozlohou približne 3,3 ha, bola opevnená valmi s celkovou dĺžkou okolo 600 m (520 + 80 m). V spektre hradísk z územia Slovenska sa rozlohou radí pred hradiská Jur pri Bratislave, Starý Tekov, Tlmače, Kozmálovce, Hronský Beňadik, Zemplín. Spolu s akropolou, ktorá z obranných dôvodov nutne musela byť súčasťou jedného opevneného celku, dosahovala táto lokalita okolo 5-6 ha, čo je približne porovnateľné s hradiskami v Jaseňové, Devíne či na Bratislavskom hrade. Tomášovské hradisko však nedosahovalo dimenzie a asi ani ekonomický a vojenský význam hradísk v Pobedime, Majcichove, Bojnej a v Nitre, ani centrálnych moravských hradísk."
+                "text": "Dobu po zániku valu indikuje ostroha s trojuholníkovitými pochádzajúca z hornej vrstvy nad deštrukciou valu. Analógie (Břeclav-Pohansko, Bratislava, Devín) sú datované do druhej polovice 9. stor. alebo do klasického veľkomoravského horizontu. Vtedy tu už pravdepodobne existovalo iba otvorené sídlisko, ktorého trvanie zatiaľ rámcovo datujeme do druhej polovice 9. stor. až 10. stor. Masívne stopy prepálenia valu svedčia o jeho zničení požiarom. Iba ako pracovné konštrukcie možno označiť úvahy spájajúce jeho zánik s procesom etatizácie niekedy v prvej polovici 9. stor. a včlenením územia Spiša do moravského štátu. Tieto úvahy a chronológiu podporujú nálezy solitérnych detských hrobov v polohe za hotelom Flóra, v ktorých boli strieborné hrozienkovité náušnice so zdobeným spodným oblúkom, byzantsko-orientálneho rázu datovateľné do konca 9. stor., s prežívaním v prvej polovici 10. stor. Pravdepodobne s touto dobou, t. j. s klasickým veľkomoravským a poveľkomoravským obdobím, korešponduje vznik a fungovanie druhého hradiska (Hradisko II), situovaného asi 800 m juhozápadne na pravom brehu Hornádu, na ostrožnom výbežku (530-540 m n. m.) vrchu Čingov, známeho z prieskumov a menších sondážnych akcií Polkruhový valovitý objekt vo vnútri areálu bol pravdepodobne pôvodne vybudovaný v dobe rímskej a počas existencie slovanského hradiska opäť zrekonštruovaný a využitý v rámci existujúceho obranného systému lokality. Druh použitej fortifikácie a typy obytnej architektúry terasy Tomášovského potoka naznačujú jeho intenzívne využitie tak na bývanie, ako i na hospodársky život. Charakterom a dĺžkou valov i plošne sa tento areál radí k stredne veľkým hradiskám. Plocha terasy, s rozlohou približne 3,3 ha, bola opevnená valmi s celkovou dĺžkou okolo 600 m (520 + 80 m). V spektre hradísk z územia Slovenska sa rozlohou radí pred hradiská Jur pri Bratislave, Starý Tekov, Tlmače, Kozmálovce, Hronský Beňadik, Zemplín. Spolu s akropolou, ktorá z obranných dôvodov nutne musela byť súčasťou jedného opevneného celku, dosahovala táto lokalita okolo 5-6 ha, čo je približne porovnateľné s hradiskami v Jaseňové, Devíne či na Bratislavskom hrade. Tomášovské hradisko však nedosahovalo dimenzie a asi ani ekonomický a vojenský význam hradísk v Pobedime, Majcichove, Bojnej a v Nitre, ani centrálnych moravských hradísk."
               }
             ]
           }
@@ -654,7 +839,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Fortifikácia a materiálna kultúra hradiska odráža nielen regionálne osobitosti tunajšieho slovanského osídlenia v úseku od 8. do 10. stor., ale aj jeho interakcie tak s Nitrianskym kniežatstvom či Veľkou Moravou na juhozápade, ako i s poľskými kmeňmi v Povislí na severe."
+                "text": "Fortifikácia a materiálna kultúra hradiska odráža nielen regionálne osobitosti tunajšieho slovanského osídlenia v úseku od 8. do 10. stor., ale aj jeho interakcie tak s Nitrianskym kniežatstvom či Veľkou Moravou na juhozápade, ako i s poľskými kmeňmi v Povislí na severe. \n \n \n "
               },
               {
                 "type": "text",
@@ -664,396 +849,75 @@
               },
               {
                 "type": "text",
-                "text": "\n "
-              },
-              {
-                "type": "text",
                 "text": "\nHillfort I - Spisske Tomasovce",
                 "bold": true
               },
               {
                 "type": "text",
-                "text": "\n  \n  A second colonization of the Spis by the Slavs took place in the 7th - 8 century. Settlement was most intense in Čingov in Slovak Paradise, which was built large fortification significant Nitra principality in eastern Slovakia. Already about half of the 8th century fortifications hillfort completed and started construction of fortification works extramural settlement. Such precise fortification of Slavic Slavic hillfort from foryard of-Great Moravian period in Slovakia it was not known. In some publications, the site is inaccurately known as hillfort Čingov.  \n  Fortified area with an area of about 12 hectares is own fort (400 x 300 m) and ward (Podhradisko).  \n  Location Hillfort I (Hradisko I) with the coordinates N 48°56.7839'; E 20°29.3900' is located on the border with the Slovak Paradise Hornádska Basin communities and land and Spišské Tomášovce and Smižany (District - Spišská Nová Ves) on the left bank of the Hornád at its confluence with the brook Tomášovský. Although the name Hradisko I was originally referred only limestone cliffs (540-567 m asl), the platform is a fortified acropolis which is anticipated today and called the whole site, therefore the immediate surroundings, broken down into three positions. The fortification was composed of 'Acropolis' located on a dominant hill and \"extramural or under the castle\" on a relatively flat foreground of the west and north-east.  \n  Type fortilities outside the main area with stone wall and internal wooden, sometimes even a stone wall, with a core of different wood-ground, particularly of ventricular structures occurring in several variations, is a major Slavic fortification technique Central Danube (Large Moravian) defense construction in the 9th century.  \n  Overall, we expect the average level of fortification rampart 1.6 to 2.1 m and 2.1 to 2.6 meters up to a massive reinforced earth element. It is evident that most of the material and effort was invested into the North Wall intersecting almost equal access relatively flat terrain Hornád Basin, which were both well taken. Along with the acropolis, which is for defense reasons, necessarily had to be part of a fortified whole, reached the site about 5-6 ha, which is roughly comparable to roost in Ash, Devin and the Bratislava Castle.  \n  Fortification and material culture reflects not only regional particularities of the local Slavic population in the section from 8 to 10 century, but also its interaction with the Principality of Nitra and Great Moravia in the southwest, as is the Polish tribes in the north of sagging.  \n  Up to half of the ninth century it was the only administrative, cultural and economic center in the area under the Tatras. Invasion of the Great Moravian troops in Spis disappeared.  \n  Hillfort I (Hradisko I) therefore likely to disappear in battles with Mojmir Pribina, became the victim of efforts to subjugate Mojmír Pribina Principality of Nitra and the Moravian principality join. Apparently it was a genuine war. Approximately the same time a fire destroyed the roost in Majcichov in Trnava, but also remote fortress in the Orava region (Sharp rock and Dull rock). If it was one attack, and that assumption seems very likely, then the Principality of Nitra be unexpectedly large.  \n  In the second half of the ninth century were built on the hillforts Čingov (Hradisko II) and Dreveník, which lasted up to 13 lives century. At that time people accepted Christianity Spis. Slavic culture lasted until the connection more to the Ugrian state.  \n  Since the late 9th century, with survival in the first half of the 10th century, presumably by this time, that is a classic Great Moravia and the post Moravian period, corresponds to the establishment and operation of the second hillfort (Hradisko II) Hillfort II with the coordinates N 48°56.4423'; E 20°28.9500', situated about 800 m southwest of the right bank of the Hornád, on the promontory tip (530-540 m asl) mountain Čingov known from surveys and sounding smaller shares.  \n  Besides Hillfort I (Hradisko I) passed the yellow tourist path no. 8737 and green Educational path of youth with information panel, in which the search box and begin to learn the necessary information to calculate the coordinates of 1st Stage.\n \n Fotogaléria od Kvetky M.: \n"
+                "text": "\n  \n  A second colonization of the Spis by the Slavs took place in the 7th - 8 century. Settlement was most intense in Čingov in Slovak Paradise, which was built large fortification significant Nitra principality in eastern Slovakia. Already about half of the 8th century fortifications hillfort completed and started construction of fortification works extramural settlement. Such precise fortification of Slavic hillfort from foryard of-Great Moravian period in Slovakia it was not known. In some publications, the site is inaccurately known as hillfort Čingov.  \n  Fortified area with an area of about 12 hectares is own fort (400 x 300 m) and ward (Podhradisko).  \n  Location Hillfort I (Hradisko I) with the coordinates N 48°56.7839'; E 20°29.3900' is located on the border with the Slovak Paradise Hornádska Basin communities and land and Spišské Tomášovce and Smižany (District - Spišská Nová Ves) on the left bank of the Hornád at its confluence with the brook Tomášovský. Although the name Hradisko I was originally referred only limestone cliffs (540-567 m asl), the platform is a fortified acropolis which is anticipated today and called the whole site, therefore the immediate surroundings, broken down into three positions. The fortification was composed of 'Acropolis' located on a dominant hill and \"extramural or under the castle\" on a relatively flat foreground of the west and north-east.  \n  Type fortilities outside the main area with stone wall and internal wooden, sometimes even a stone wall, with a core of different wood-ground, particularly of ventricular structures occurring in several variations, is a major Slavic fortification technique Central Danube (Large Moravian) defense construction in the 9th century.  \n  Overall, we expect the average level of fortification rampart 1.6 to 2.1 m and 2.1 to 2.6 meters up to a massive reinforced earth element. It is evident that most of the material and effort was invested into the North Wall intersecting almost equal access relatively flat terrain Hornád Basin, which were both well taken. Along with the acropolis, which is for defense reasons, necessarily had to be part of a fortified whole, reached the site about 5-6 ha, which is roughly comparable to roost in Ash, Devin and the Bratislava Castle.  \n  Fortification and material culture reflects not only regional particularities of the local Slavic population in the section from 8 to 10 century, but also its interaction with the Principality of Nitra and Great Moravia in the southwest, as is the Polish tribes in the north of sagging.  \n  Up to half of the ninth century it was the only administrative, cultural and economic center in the area under the Tatras. Invasion of the Great Moravian troops in Spis disappeared.  \n  Hillfort I (Hradisko I) therefore likely to disappear in battles with Mojmir Pribina, became the victim of efforts to subjugate Mojmír Pribina Principality of Nitra and the Moravian principality join. Apparently it was a genuine war. Approximately the same time a fire destroyed the roost in Majcichov in Trnava, but also remote fortress in the Orava region (Sharp rock and Dull rock). If it was one attack, and that assumption seems very likely, then the Principality of Nitra be unexpectedly large.  \n  In the second half of the ninth century were built on the hillforts Čingov (Hradisko II) and Dreveník, which lasted up to 13 lives century. At that time people accepted Christianity Spis. Slavic culture lasted until the connection more to the Ugrian state.  \n  Since the late 9th century, with survival in the first half of the 10th century, presumably by this time, that is a classic Great Moravia and the post Moravian period, corresponds to the establishment and operation of the second hillfort (Hradisko II) Hillfort II with the coordinates N 48°56.4423'; E 20°28.9500', situated about 800 m southwest of the right bank of the Hornád, on the promontory tip (530-540 m asl) mountain Čingov known from surveys and sounding smaller shares.  \n  Besides Hillfort I (Hradisko I) passed the yellow tourist path no. 8737 and green Educational path of youth with information panel, in which the search box and begin to learn the necessary information to calculate the coordinates of 1st Stage.\n \n Fotogaléria od Kvetky M.: \n"
               }
             ]
           }
         ]
       },
       {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9XD5ygWSYnjLvvXnnT8Pd57kCYspv8A1rZAeFOhyphenhyphenvg_lsB77qadfZVHjTFU772R0g5GFUZhs1D7PmNrEX7e5BhNPKwDxPuQtqditnyKZbOWSEXuvPLjRWMpBYifYrE1V43wG70zMgSWM/s0/992829_10201131722969199_1267919116_n.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9XD5ygWSYnjLvvXnnT8Pd57kCYspv8A1rZAeFOhyphenhyphenvg_lsB77qadfZVHjTFU772R0g5GFUZhs1D7PmNrEX7e5BhNPKwDxPuQtqditnyKZbOWSEXuvPLjRWMpBYifYrE1V43wG70zMgSWM/s1600/992829_10201131722969199_1267919116_n.jpg",
-          "filename": "992829_10201131722969199_1267919116_n.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9XD5ygWSYnjLvvXnnT8Pd57kCYspv8A1rZAeFOhyphenhyphenvg_lsB77qadfZVHjTFU772R0g5GFUZhs1D7PmNrEX7e5BhNPKwDxPuQtqditnyKZbOWSEXuvPLjRWMpBYifYrE1V43wG70zMgSWM/s1600/992829_10201131722969199_1267919116_n.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Keď vidíte túto skalnú hlavu, už ste blízko pri hradisku.",
-        "caption": "Keď vidíte túto skalnú hlavu, už ste blízko pri hradisku.",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6yiAd8BVt1_pv-v5tecAZUlDm69jtRe3a22n0Dr8p16jcgfUIrpPRVpHX0UuWPFKuhdKPTU_XO-rA98CyP7calfsvfaqSEcTvvaPMqM3xUjO1aBZu5duELFpeCdcYxYs8jZFhuEAKeYg/s0/a.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6yiAd8BVt1_pv-v5tecAZUlDm69jtRe3a22n0Dr8p16jcgfUIrpPRVpHX0UuWPFKuhdKPTU_XO-rA98CyP7calfsvfaqSEcTvvaPMqM3xUjO1aBZu5duELFpeCdcYxYs8jZFhuEAKeYg/s1600/a.jpg",
-          "filename": "a.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6yiAd8BVt1_pv-v5tecAZUlDm69jtRe3a22n0Dr8p16jcgfUIrpPRVpHX0UuWPFKuhdKPTU_XO-rA98CyP7calfsvfaqSEcTvvaPMqM3xUjO1aBZu5duELFpeCdcYxYs8jZFhuEAKeYg/s1600/a.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Akropola hradiska I a západné predhradie (Pod hradiskom) s hotelom Flora od Sovej skaly.",
-        "caption": "Akropola hradiska I a západné predhradie (Pod hradiskom) s hotelom Flora od Sovej skaly.",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx35RJ9_IKGUQFa44SailmXeXObzOOH_HiDJ-Zsyz4Bapm002LfAdkPLneWFYopSEcWbNC5cV1NU1G9AB7ZEZD7HllrscqUG8eevR0Eh6tZnOvSchrd9w9WTldcPBXGWnguZduT-CN-hA/s0/b.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx35RJ9_IKGUQFa44SailmXeXObzOOH_HiDJ-Zsyz4Bapm002LfAdkPLneWFYopSEcWbNC5cV1NU1G9AB7ZEZD7HllrscqUG8eevR0Eh6tZnOvSchrd9w9WTldcPBXGWnguZduT-CN-hA/s1600/b.jpg",
-          "filename": "b.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx35RJ9_IKGUQFa44SailmXeXObzOOH_HiDJ-Zsyz4Bapm002LfAdkPLneWFYopSEcWbNC5cV1NU1G9AB7ZEZD7HllrscqUG8eevR0Eh6tZnOvSchrd9w9WTldcPBXGWnguZduT-CN-hA/s1600/b.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Ešte raz pohľad od Sovej skaly, celé temeno Hradiska je zarasten",
-        "caption": "Ešte raz pohľad od Sovej skaly, celé temeno Hradiska je zarasten",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuPiDaQL6mlcqnrr0xwd0bXNkGQ5dK92HbLCBzNG8seHtbTN429BgrXM2kJlYSLPgQ0gYzxvgF637rg8t4kQIVYAoOypbDf0aPbPaE6XUxl2Rh0Tjpwt8G5tczHtonyfvuNW_mSyc2h3c/s0/c.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuPiDaQL6mlcqnrr0xwd0bXNkGQ5dK92HbLCBzNG8seHtbTN429BgrXM2kJlYSLPgQ0gYzxvgF637rg8t4kQIVYAoOypbDf0aPbPaE6XUxl2Rh0Tjpwt8G5tczHtonyfvuNW_mSyc2h3c/s1600/c.jpg",
-          "filename": "c.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuPiDaQL6mlcqnrr0xwd0bXNkGQ5dK92HbLCBzNG8seHtbTN429BgrXM2kJlYSLPgQ0gYzxvgF637rg8t4kQIVYAoOypbDf0aPbPaE6XUxl2Rh0Tjpwt8G5tczHtonyfvuNW_mSyc2h3c/s1600/c.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Pamätná tabuľa pred hotelom Čingov (P2)",
-        "caption": "Pamätná tabuľa pred hotelom Čingov (P2)",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qA1q6TnAJjav8Hq_62SxWKaBlkHKzQxNZ6Aofv4r-68dxQLYBFCHeJtTB0Pipg6XrDIFTsEkiPmC76eOtUcLV24x2_j-2NGCMg-aAutAIWGK3U1dhrvpCBXAb8hfTGcs0l9Mar-JDks/s0/d.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qA1q6TnAJjav8Hq_62SxWKaBlkHKzQxNZ6Aofv4r-68dxQLYBFCHeJtTB0Pipg6XrDIFTsEkiPmC76eOtUcLV24x2_j-2NGCMg-aAutAIWGK3U1dhrvpCBXAb8hfTGcs0l9Mar-JDks/s1600/d.jpg",
-          "filename": "d.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qA1q6TnAJjav8Hq_62SxWKaBlkHKzQxNZ6Aofv4r-68dxQLYBFCHeJtTB0Pipg6XrDIFTsEkiPmC76eOtUcLV24x2_j-2NGCMg-aAutAIWGK3U1dhrvpCBXAb8hfTGcs0l9Mar-JDks/s1600/d.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Chata Hradisko pod akropolou na P2. Tu niekde bolo aj pohrebisko",
-        "caption": "Chata Hradisko pod akropolou na P2. Tu niekde bolo aj pohrebisko",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtleStVYhceml6jbOyuQ0ffsK7uvKMoK_y_BiAbNhfd7jHB9HsGdqzA8cF9hNEW3Lp1njDD4isRDVjY7992CE9bbXS1Xzr8cCppdu9Oj2vjL5v0C7Ul-odC2AhyphenhyphenkhH__UiCyVvRfcDtrM/s0/e.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtleStVYhceml6jbOyuQ0ffsK7uvKMoK_y_BiAbNhfd7jHB9HsGdqzA8cF9hNEW3Lp1njDD4isRDVjY7992CE9bbXS1Xzr8cCppdu9Oj2vjL5v0C7Ul-odC2AhyphenhyphenkhH__UiCyVvRfcDtrM/s1600/e.jpg",
-          "filename": "e.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtleStVYhceml6jbOyuQ0ffsK7uvKMoK_y_BiAbNhfd7jHB9HsGdqzA8cF9hNEW3Lp1njDD4isRDVjY7992CE9bbXS1Xzr8cCppdu9Oj2vjL5v0C7Ul-odC2AhyphenhyphenkhH__UiCyVvRfcDtrM/s1600/e.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Niekde tam hore je akropola, len treba zdolať zelené vojsko. Cestu nevidím žiadnu! Mala by tu niekde byť aj praveká cesta na hradisko...",
-        "caption": "Niekde tam hore je akropola, len treba zdolať zelené vojsko. Cestu nevidím žiadnu! Mala by tu niekde byť aj praveká cesta na hradisko...",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ETSYEDA2gGVVjV_dXlovHCAMtaHKGlq7yFIY_lMoruNn4BWcwzC0UPxmjiilsLXrSS5vd92S9VHRAAFynDGn03UMZwb_IBdTE1eod1KfE_pcm2mkHAvcOznaf3Vs_8TQbIWM0v4r3sk/s0/f.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ETSYEDA2gGVVjV_dXlovHCAMtaHKGlq7yFIY_lMoruNn4BWcwzC0UPxmjiilsLXrSS5vd92S9VHRAAFynDGn03UMZwb_IBdTE1eod1KfE_pcm2mkHAvcOznaf3Vs_8TQbIWM0v4r3sk/s1600/f.jpg",
-          "filename": "f.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ETSYEDA2gGVVjV_dXlovHCAMtaHKGlq7yFIY_lMoruNn4BWcwzC0UPxmjiilsLXrSS5vd92S9VHRAAFynDGn03UMZwb_IBdTE1eod1KfE_pcm2mkHAvcOznaf3Vs_8TQbIWM0v4r3sk/s1600/f.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Kto hľadá, nájde. Aj takúto cestu (alebo terasu?) na akropole. Ktovie, kde začína, to sa dá zistiť asi len keď opadne tá vegetácia.",
-        "caption": "Kto hľadá, nájde. Aj takúto cestu (alebo terasu?) na akropole. Ktovie, kde začína, to sa dá zistiť asi len keď opadne tá vegetácia.",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0IR1hg65nZPyrJA9lU0ile9WR9HRDeveZiTS3z2jkzY_fwJkOhB2VCSPgGxhxYOTktsJbmGflYew8vYvceOg9ibHevGU_qRg6rgO-ZGPEDlpvmWT8AVr9KcvTeY5mhK1SzvaDST-czRk/s0/g.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0IR1hg65nZPyrJA9lU0ile9WR9HRDeveZiTS3z2jkzY_fwJkOhB2VCSPgGxhxYOTktsJbmGflYew8vYvceOg9ibHevGU_qRg6rgO-ZGPEDlpvmWT8AVr9KcvTeY5mhK1SzvaDST-czRk/s1600/g.jpg",
-          "filename": "g.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0IR1hg65nZPyrJA9lU0ile9WR9HRDeveZiTS3z2jkzY_fwJkOhB2VCSPgGxhxYOTktsJbmGflYew8vYvceOg9ibHevGU_qRg6rgO-ZGPEDlpvmWT8AVr9KcvTeY5mhK1SzvaDST-czRk/s1600/g.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Odkrytý múrik",
-        "caption": "Odkrytý múrik",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqZz8eYTyJKWVC0aYswXinsPOXS5ZgdTPUmfBEU4V-Czg2N0WCc6Bq0jyHyNZXFW-yUTBmT-65YTGwiz6XMIKfhjRJJFCj9WawUb2GJ5PgtAVgG5FdFXYwWKNcf6ImUshyzSDBRrhUKs4/s0/h.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqZz8eYTyJKWVC0aYswXinsPOXS5ZgdTPUmfBEU4V-Czg2N0WCc6Bq0jyHyNZXFW-yUTBmT-65YTGwiz6XMIKfhjRJJFCj9WawUb2GJ5PgtAVgG5FdFXYwWKNcf6ImUshyzSDBRrhUKs4/s1600/h.jpg",
-          "filename": "h.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqZz8eYTyJKWVC0aYswXinsPOXS5ZgdTPUmfBEU4V-Czg2N0WCc6Bq0jyHyNZXFW-yUTBmT-65YTGwiz6XMIKfhjRJJFCj9WawUb2GJ5PgtAVgG5FdFXYwWKNcf6ImUshyzSDBRrhUKs4/s1600/h.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Sucho kladený múrik",
-        "caption": "Sucho kladený múrik",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvcoCkj8dCtsamsTdUKwmynlnpEZ3wUr8vbXOnHctHU8v-NX-WxoPwj2_f2i9qYz9FjtcVLIqhNwM_LMuNGKyuUzWHxOoRINNsl6lZndMubZfY3WjE-tlilvWkAk2ghD7USiTQ1e5aFQQ/s0/i.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvcoCkj8dCtsamsTdUKwmynlnpEZ3wUr8vbXOnHctHU8v-NX-WxoPwj2_f2i9qYz9FjtcVLIqhNwM_LMuNGKyuUzWHxOoRINNsl6lZndMubZfY3WjE-tlilvWkAk2ghD7USiTQ1e5aFQQ/s1600/i.jpg",
-          "filename": "i.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvcoCkj8dCtsamsTdUKwmynlnpEZ3wUr8vbXOnHctHU8v-NX-WxoPwj2_f2i9qYz9FjtcVLIqhNwM_LMuNGKyuUzWHxOoRINNsl6lZndMubZfY3WjE-tlilvWkAk2ghD7USiTQ1e5aFQQ/s1600/i.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Porušený múrik",
-        "caption": "Porušený múrik",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeAbqhXWKOJ56P-uB1WdzuWJpYmtAkJ317dQeaLM1BPNdT3Zt7R0YZd9WHtAAjQHifWxwXfd6PoR4EaM8xEUMCaH8s4PWtMTyegjD_t9CwMHWnF8jUATfnX4Ekel2zmFs8Wj6ppC0hEx0/s0/j.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeAbqhXWKOJ56P-uB1WdzuWJpYmtAkJ317dQeaLM1BPNdT3Zt7R0YZd9WHtAAjQHifWxwXfd6PoR4EaM8xEUMCaH8s4PWtMTyegjD_t9CwMHWnF8jUATfnX4Ekel2zmFs8Wj6ppC0hEx0/s1600/j.jpg",
-          "filename": "j.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeAbqhXWKOJ56P-uB1WdzuWJpYmtAkJ317dQeaLM1BPNdT3Zt7R0YZd9WHtAAjQHifWxwXfd6PoR4EaM8xEUMCaH8s4PWtMTyegjD_t9CwMHWnF8jUATfnX4Ekel2zmFs8Wj6ppC0hEx0/s1600/j.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Výhľad z akropoly na Soviu skalu (na druhom brehu Hornádu)",
-        "caption": "Výhľad z akropoly na Soviu skalu (na druhom brehu Hornádu)",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfpRzCoYAJZRVVhLDQK9TJoW5AAgBZbXQfpn_E8v8AnH5dJ93z2Sz0IMauFdijJfDFSbryvzHGdoigxSkvoBVisp4Q6k_3BbY8_5FXMLAUhi4pE9uxtFqBw7ViL_K0T1X6AV8YQOfTuCk/s0/k.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfpRzCoYAJZRVVhLDQK9TJoW5AAgBZbXQfpn_E8v8AnH5dJ93z2Sz0IMauFdijJfDFSbryvzHGdoigxSkvoBVisp4Q6k_3BbY8_5FXMLAUhi4pE9uxtFqBw7ViL_K0T1X6AV8YQOfTuCk/s1600/k.jpg",
-          "filename": "k.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfpRzCoYAJZRVVhLDQK9TJoW5AAgBZbXQfpn_E8v8AnH5dJ93z2Sz0IMauFdijJfDFSbryvzHGdoigxSkvoBVisp4Q6k_3BbY8_5FXMLAUhi4pE9uxtFqBw7ViL_K0T1X6AV8YQOfTuCk/s1600/k.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Výhľad na západ smerom k prielomu Hornádu",
-        "caption": "Výhľad na západ smerom k prielomu Hornádu",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju_g3zfoTNodAYptdU0EqyiCqJI2LptmaH62l3UQzVKdeiBsTXAOmDaYPekKKANm36xmR-kYiEHUbtfdvmnqSTsh9kbj1fIjsJh4GW0hoIQRYIgNJQ6ALRhgF_z-9NZ3FYdNL-Hc8xERY/s0/l.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju_g3zfoTNodAYptdU0EqyiCqJI2LptmaH62l3UQzVKdeiBsTXAOmDaYPekKKANm36xmR-kYiEHUbtfdvmnqSTsh9kbj1fIjsJh4GW0hoIQRYIgNJQ6ALRhgF_z-9NZ3FYdNL-Hc8xERY/s1600/l.jpg",
-          "filename": "l.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju_g3zfoTNodAYptdU0EqyiCqJI2LptmaH62l3UQzVKdeiBsTXAOmDaYPekKKANm36xmR-kYiEHUbtfdvmnqSTsh9kbj1fIjsJh4GW0hoIQRYIgNJQ6ALRhgF_z-9NZ3FYdNL-Hc8xERY/s1600/l.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "A sme na predhradí P3 (Pod Hradiskom) - pohľad na východ na zarastenú akropolu",
-        "caption": "A sme na predhradí P3 (Pod Hradiskom) - pohľad na východ na zarastenú akropolu",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhARXxuPMbD80v5PdmKXNsJkgcYyAwwpHkYgbz_G-ZYWrkI8N5dfsIi7LND1SJg07_EWMOsZYC04kX0uLEFgtQmYavfOnRwjU7zEUtBA6To879HWAi00J53XXnwt_Zhdlt-uh-rhuA772g/s0/m.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhARXxuPMbD80v5PdmKXNsJkgcYyAwwpHkYgbz_G-ZYWrkI8N5dfsIi7LND1SJg07_EWMOsZYC04kX0uLEFgtQmYavfOnRwjU7zEUtBA6To879HWAi00J53XXnwt_Zhdlt-uh-rhuA772g/s1600/m.jpg",
-          "filename": "m.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhARXxuPMbD80v5PdmKXNsJkgcYyAwwpHkYgbz_G-ZYWrkI8N5dfsIi7LND1SJg07_EWMOsZYC04kX0uLEFgtQmYavfOnRwjU7zEUtBA6To879HWAi00J53XXnwt_Zhdlt-uh-rhuA772g/s1600/m.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Pohľad z okraja predhradia - opevnenej terasy Pod Hradiskom - na západ do strmej dolinky Tomášovského potoka",
-        "caption": "Pohľad z okraja predhradia - opevnenej terasy Pod Hradiskom - na západ do strmej dolinky Tomášovského potoka",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTkfFfC-XzJdWF5cpPCKgGtXJu-K4mKQBckeA81XGys3Q5n30R8UCAuYj0AleH7f-p0LkRVMoT_98RtA4Dj6JYZlrug16pPcJ5GWcT1qQIJU1pMDOL1LylhDWr8WD-98v_mHv6ACKEcfw/s0/n.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTkfFfC-XzJdWF5cpPCKgGtXJu-K4mKQBckeA81XGys3Q5n30R8UCAuYj0AleH7f-p0LkRVMoT_98RtA4Dj6JYZlrug16pPcJ5GWcT1qQIJU1pMDOL1LylhDWr8WD-98v_mHv6ACKEcfw/s1600/n.jpg",
-          "filename": "n.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTkfFfC-XzJdWF5cpPCKgGtXJu-K4mKQBckeA81XGys3Q5n30R8UCAuYj0AleH7f-p0LkRVMoT_98RtA4Dj6JYZlrug16pPcJ5GWcT1qQIJU1pMDOL1LylhDWr8WD-98v_mHv6ACKEcfw/s1600/n.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Pohľad na opevnený areál od toho rušivo hnusného hotela. (BTW nedávno ho rekonštruovali a už sa vraj nevolá Flóra, ale Grandhotel Spiš)",
-        "caption": "Pohľad na opevnený areál od toho rušivo hnusného hotela. (BTW nedávno ho rekonštruovali a už sa vraj nevolá Flóra, ale Grandhotel Spiš)",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv3NJeuRm8yxjE397xrixU0GQFbN5S0y3XXURc4LAVhuleWq3uCHlHdpfsXMYObK2GZTSCRgp9nzTyoQ8hPzy6P1foB_5J4nvTc8qwVreunESOJ0Vt5KUtrVbCpkkcW43kNgb8uBVN6ZI/s0/o.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv3NJeuRm8yxjE397xrixU0GQFbN5S0y3XXURc4LAVhuleWq3uCHlHdpfsXMYObK2GZTSCRgp9nzTyoQ8hPzy6P1foB_5J4nvTc8qwVreunESOJ0Vt5KUtrVbCpkkcW43kNgb8uBVN6ZI/s1600/o.jpg",
-          "filename": "o.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv3NJeuRm8yxjE397xrixU0GQFbN5S0y3XXURc4LAVhuleWq3uCHlHdpfsXMYObK2GZTSCRgp9nzTyoQ8hPzy6P1foB_5J4nvTc8qwVreunESOJ0Vt5KUtrVbCpkkcW43kNgb8uBVN6ZI/s1600/o.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Južný cíp terasy Pod hradiskom",
-        "caption": "Južný cíp terasy Pod hradiskom",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
           {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Spracoval: Orgoň \n PETER ŠALKOVSKÝ: VÝSKUM A REKONŠTRUKCIA FORTIFIKÁCIE ZÁPADNÉHO AREÁLU VČASNOSTREDOVEKÉHO HRADISKA V SPIŠSKÝCH TOMÁŠOVCIACH, SLOVENSKÁ ARCHEOLÓGIA LIV-2, 2006, 239-257\n \n J. Béreš/Javorský/Slivka 1987 - J. Béreš/F. Javorský/M. Slivka: Spiš v 6.-13. storočí v archeologických prameňoch."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
+            "text": "Spracoval: Orgoň",
+            "url": null
+          },
           {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Béreš/Salkovský 1978 - J. Béreš/P. Salkovský 1978: Výskum slovanského hradiska v Spišských Tomášovciach. AVANS 1977,1978, 36-38. \n \n Anglický preklad prevzatý z:"
-              },
-              {
-                "type": "link",
-                "url": "http://www.geocaching.com/seek/cache_details.aspx?guid=70eee66f-61bf-4ec7-b5f5-be9b52406ae1",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "http://www.geocaching.com/seek/cache_details.aspx?guid=70eee66f-61bf-4ec7-b5f5-be9b52406ae1"
-                  }
-                ]
-              }
-            ]
+            "text": "PETER ŠALKOVSKÝ: VÝSKUM A REKONŠTRUKCIA FORTIFIKÁCIE ZÁPADNÉHO AREÁLU VČASNOSTREDOVEKÉHO HRADISKA V SPIŠSKÝCH TOMÁŠOVCIACH, SLOVENSKÁ ARCHEOLÓGIA LIV-2, 2006, 239-257",
+            "url": null
+          },
+          {
+            "text": "J. Béreš/Javorský/Slivka 1987 - J. Béreš/F. Javorský/M. Slivka: Spiš v 6.-13. storočí v archeologických prameňoch.",
+            "url": null
+          },
+          {
+            "text": "Béreš/Salkovský 1978 - J. Béreš/P. Salkovský 1978: Výskum slovanského hradiska v Spišských Tomášovciach. AVANS 1977,1978, 36-38.",
+            "url": null
+          },
+          {
+            "text": "http://www.geocaching.com/seek/cache_details.aspx?guid=70eee66f-61bf-4ec7-b5f5-be9b52406ae1",
+            "url": "http://www.geocaching.com/seek/cache_details.aspx?guid=70eee66f-61bf-4ec7-b5f5-be9b52406ae1"
+          },
+          {
+            "text": "Anglický preklad prevzatý z:",
+            "url": null
           }
         ]
       }
     ],
-    "citations": []
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "PETER ŠALKOVSKÝ: VÝSKUM A REKONŠTRUKCIA FORTIFIKÁCIE ZÁPADNÉHO AREÁLU VČASNOSTREDOVEKÉHO HRADISKA V SPIŠSKÝCH TOMÁŠOVCIACH, SLOVENSKÁ ARCHEOLÓGIA LIV-2, 2006, 239-257"
+      },
+      {
+        "type": "book",
+        "text": "J. Béreš/Javorský/Slivka 1987 - J. Béreš/F. Javorský/M. Slivka: Spiš v 6.-13. storočí v archeologických prameňoch."
+      },
+      {
+        "type": "book",
+        "text": "Béreš/Salkovský 1978 - J. Béreš/P. Salkovský 1978: Výskum slovanského hradiska v Spišských Tomášovciach. AVANS 1977,1978, 36-38."
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.geocaching.com/seek/cache_details.aspx?guid=70eee66f-61bf-4ec7-b5f5-be9b52406ae1",
+        "title": "http://www.geocaching.com/seek/cache_details.aspx?guid=70eee66f-61bf-4ec7-b5f5-be9b52406ae1"
+      },
+      {
+        "type": "attribution",
+        "text": "Anglický preklad prevzatý z:"
+      }
+    ]
   }
 }
