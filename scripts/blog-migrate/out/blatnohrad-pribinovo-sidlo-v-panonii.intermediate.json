@@ -1,11 +1,11 @@
 {
   "$meta": {
-    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label-blatnohrad.json",
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\post.json",
     "sourceLabel": "Blatnohrad  - Pribinovo sídlo v Panónii (H)",
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5585145261232962542",
     "bloggerPostUrl": "http://www.hradiska.sk/2011/05/blatnohrad-po-nemecky-mosapurc-dnes.html",
     "repliesLink": "http://www.hradiska.sk/feeds/5585145261232962542/comments/default",
-    "extractedAt": "2026-06-13T19:34:59.239Z",
+    "extractedAt": "2026-07-12T13:54:05.959Z",
     "coverImageNeedsReview": true,
     "commentCount": 5,
     "comments": [
@@ -84,6 +84,8 @@
       "captionedImages": 10,
       "separatorImages": 19
     },
+    "poemCount": 0,
+    "poemSingleFlags": [],
     "sanityFlags": []
   },
   "blogPost": {
@@ -214,30 +216,17 @@
         "caption": "Našťastie aké-také výskumy sa robia aj v dnešnej dobe"
       },
       {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfszygOSn8qXSGT89hRQzxekBFeLBdB646H_rMshkfUNGXUoJdRBTzcEeTpvfIHTQfXBqdo9ZgoXPSgkrI0wBhTW7xG23Q5tOKinsjbrLRJKBeaUPBeSKaKii48ge53IluUyffhHJ2ja2/s0/ostrohy.JPG",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfszygOSn8qXSGT89hRQzxekBFeLBdB646H_rMshkfUNGXUoJdRBTzcEeTpvfIHTQfXBqdo9ZgoXPSgkrI0wBhTW7xG23Q5tOKinsjbrLRJKBeaUPBeSKaKii48ge53IluUyffhHJ2ja2/s1600/ostrohy.JPG",
-        "filename": "ostrohy.JPG",
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4Sn8IIu9uEf2GOPCk9xia_-LMvbsYBkC4xCK2yJ4JWTMPEGhipr4By_85D6QEDfV3O3C-3GL84g_6EkycvunMTvhDax7glOv6QLry0BY8Xe6Tj5BoWKfKASptr67jwaashsdzU60Xz0/s0/blat+kosti.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4Sn8IIu9uEf2GOPCk9xia_-LMvbsYBkC4xCK2yJ4JWTMPEGhipr4By_85D6QEDfV3O3C-3GL84g_6EkycvunMTvhDax7glOv6QLry0BY8Xe6Tj5BoWKfKASptr67jwaashsdzU60Xz0/s1600/blat+kosti.jpg",
+        "filename": "blat+kosti.jpg",
         "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfszygOSn8qXSGT89hRQzxekBFeLBdB646H_rMshkfUNGXUoJdRBTzcEeTpvfIHTQfXBqdo9ZgoXPSgkrI0wBhTW7xG23Q5tOKinsjbrLRJKBeaUPBeSKaKii48ge53IluUyffhHJ2ja2/s1600/ostrohy.JPG",
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4Sn8IIu9uEf2GOPCk9xia_-LMvbsYBkC4xCK2yJ4JWTMPEGhipr4By_85D6QEDfV3O3C-3GL84g_6EkycvunMTvhDax7glOv6QLry0BY8Xe6Tj5BoWKfKASptr67jwaashsdzU60Xz0/s1600/blat+kosti.jpg",
           "displayedWidth": 320,
           "displayedHeight": 240,
           "originalWidth": null,
           "originalHeight": null
         },
-        "caption": null
-      },
-      {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh622_pOavVtIjtcvgnlPjw3fuorSf2F_yks9FAEczAezD8_F5AMhylvjiTyPxWIWlIdFqp3TaeH0iaiwLVxL3n5_4b74iHvXIJKoa19IM_Zozf-2TigrZZQ-ZvwrionLVDBMbA3JM4VI8/s0/Pribina_0002.jpg",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh622_pOavVtIjtcvgnlPjw3fuorSf2F_yks9FAEczAezD8_F5AMhylvjiTyPxWIWlIdFqp3TaeH0iaiwLVxL3n5_4b74iHvXIJKoa19IM_Zozf-2TigrZZQ-ZvwrionLVDBMbA3JM4VI8/s1600/Pribina_0002.jpg",
-        "filename": "Pribina_0002.jpg",
-        "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh622_pOavVtIjtcvgnlPjw3fuorSf2F_yks9FAEczAezD8_F5AMhylvjiTyPxWIWlIdFqp3TaeH0iaiwLVxL3n5_4b74iHvXIJKoa19IM_Zozf-2TigrZZQ-ZvwrionLVDBMbA3JM4VI8/s1600/Pribina_0002.jpg",
-          "displayedWidth": 317,
-          "displayedHeight": 320,
-          "originalWidth": null,
-          "originalHeight": null
-        },
-        "caption": "Z publikácie Napísané zostáva"
+        "caption": "Takto nahádzané kosti na jednej hromade som zatiaľ nevidel"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin2Zs3GK7D9NR5GzEOYWmEMH-9IYO1MJLlmEkuLyuwWcBthCeuGJy5taCEaG_oUBkzrTUiA9UqCDMn6i46-6FBHmpSR0cvoEky3-nEAmQt5F-eRZj-qG7ksIH0qBvRXWxRpGj5hFAPs48/s0/IMG_0004.jpg",
@@ -383,6 +372,19 @@
         "caption": null
       },
       {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfszygOSn8qXSGT89hRQzxekBFeLBdB646H_rMshkfUNGXUoJdRBTzcEeTpvfIHTQfXBqdo9ZgoXPSgkrI0wBhTW7xG23Q5tOKinsjbrLRJKBeaUPBeSKaKii48ge53IluUyffhHJ2ja2/s0/ostrohy.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfszygOSn8qXSGT89hRQzxekBFeLBdB646H_rMshkfUNGXUoJdRBTzcEeTpvfIHTQfXBqdo9ZgoXPSgkrI0wBhTW7xG23Q5tOKinsjbrLRJKBeaUPBeSKaKii48ge53IluUyffhHJ2ja2/s1600/ostrohy.JPG",
+        "filename": "ostrohy.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfszygOSn8qXSGT89hRQzxekBFeLBdB646H_rMshkfUNGXUoJdRBTzcEeTpvfIHTQfXBqdo9ZgoXPSgkrI0wBhTW7xG23Q5tOKinsjbrLRJKBeaUPBeSKaKii48ge53IluUyffhHJ2ja2/s1600/ostrohy.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI47zpFLTJsZXk-pxzKJ4vhf-LpNRCdse2UGgymLyE4zAMgq2UfC8ARCth2-tl629UMTa8-0Z2YjkDs_zaeFnPfewS6zOQzuoZXDxzE_09pajUjl955oF8-aSDj2Bf3r_5UVHllhWVo7DT/s0/nau%25C5%25A12.JPG",
         "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI47zpFLTJsZXk-pxzKJ4vhf-LpNRCdse2UGgymLyE4zAMgq2UfC8ARCth2-tl629UMTa8-0Z2YjkDs_zaeFnPfewS6zOQzuoZXDxzE_09pajUjl955oF8-aSDj2Bf3r_5UVHllhWVo7DT/s1600/nau%25C5%25A12.JPG",
         "filename": "nau%C5%A12.JPG",
@@ -474,17 +476,17 @@
         "caption": null
       },
       {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4Sn8IIu9uEf2GOPCk9xia_-LMvbsYBkC4xCK2yJ4JWTMPEGhipr4By_85D6QEDfV3O3C-3GL84g_6EkycvunMTvhDax7glOv6QLry0BY8Xe6Tj5BoWKfKASptr67jwaashsdzU60Xz0/s0/blat+kosti.jpg",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4Sn8IIu9uEf2GOPCk9xia_-LMvbsYBkC4xCK2yJ4JWTMPEGhipr4By_85D6QEDfV3O3C-3GL84g_6EkycvunMTvhDax7glOv6QLry0BY8Xe6Tj5BoWKfKASptr67jwaashsdzU60Xz0/s1600/blat+kosti.jpg",
-        "filename": "blat+kosti.jpg",
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh622_pOavVtIjtcvgnlPjw3fuorSf2F_yks9FAEczAezD8_F5AMhylvjiTyPxWIWlIdFqp3TaeH0iaiwLVxL3n5_4b74iHvXIJKoa19IM_Zozf-2TigrZZQ-ZvwrionLVDBMbA3JM4VI8/s0/Pribina_0002.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh622_pOavVtIjtcvgnlPjw3fuorSf2F_yks9FAEczAezD8_F5AMhylvjiTyPxWIWlIdFqp3TaeH0iaiwLVxL3n5_4b74iHvXIJKoa19IM_Zozf-2TigrZZQ-ZvwrionLVDBMbA3JM4VI8/s1600/Pribina_0002.jpg",
+        "filename": "Pribina_0002.jpg",
         "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4Sn8IIu9uEf2GOPCk9xia_-LMvbsYBkC4xCK2yJ4JWTMPEGhipr4By_85D6QEDfV3O3C-3GL84g_6EkycvunMTvhDax7glOv6QLry0BY8Xe6Tj5BoWKfKASptr67jwaashsdzU60Xz0/s1600/blat+kosti.jpg",
-          "displayedWidth": 320,
-          "displayedHeight": 240,
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh622_pOavVtIjtcvgnlPjw3fuorSf2F_yks9FAEczAezD8_F5AMhylvjiTyPxWIWlIdFqp3TaeH0iaiwLVxL3n5_4b74iHvXIJKoa19IM_Zozf-2TigrZZQ-ZvwrionLVDBMbA3JM4VI8/s1600/Pribina_0002.jpg",
+          "displayedWidth": 317,
+          "displayedHeight": 320,
           "originalWidth": null,
           "originalHeight": null
         },
-        "caption": null
+        "caption": "Z publikácie Napísané zostáva"
       }
     ],
     "tags": [
@@ -498,8 +500,128 @@
       "region": null,
       "country": "Maďarsko"
     },
-    "keyFacts": [],
-    "timeline": [],
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Zalavár, ~9 km juhozápadne od Balatonu (Maďarsko)",
+        "icon": "map"
+      },
+      {
+        "label": "Zakladateľ",
+        "value": "Knieža Pribina, po ňom syn Koceľ",
+        "icon": "crown"
+      },
+      {
+        "label": "Rozmery hradu",
+        "value": "Základy Pribinovho hradu 150 × 200 metrov",
+        "icon": "building"
+      },
+      {
+        "label": "Hranice kniežatstva",
+        "value": "Na juhu po Drávu, na východe po Dunaj, na severe po Veszprém, na západe do Štajerska a Korutánska",
+        "icon": "flag"
+      },
+      {
+        "label": "Hlaholský nález",
+        "value": "Črep z r. 2009 — najstaršie zachované písmená hlaholiky, datovaný do doby okolo roku 870",
+        "icon": "scroll"
+      },
+      {
+        "label": "Žiaci Cyrila a Metoda",
+        "value": "Vyše 50 vyučovaných počas ich pol roka v Blatnohrade (867)",
+        "icon": "book"
+      },
+      {
+        "label": "Počet kostolov",
+        "value": "Vyše 30 postavených počas misijného obdobia",
+        "icon": "building"
+      },
+      {
+        "label": "Zánik hradu",
+        "value": "Vyhodený do vzduchu v roku 1702, aby nepadol do rúk kurucom",
+        "icon": "fire"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "798",
+        "title": "Christianizácia Panónie",
+        "description": "Karol Veľký poveril soľnohradského arcibiskupa Arna pokresťančením Panónie.",
+        "type": "event"
+      },
+      {
+        "year": "828",
+        "title": "Prvý kresťanský chrám v Nitre",
+        "description": "Pribina vybudoval v Nitre prvý kresťanský chrám na počesť svojej manželky, Ratbodovej dcéry.",
+        "type": "construction"
+      },
+      {
+        "year": "833",
+        "title": "Mojmír I. dobýva Nitru, Pribina uteká k Frankom",
+        "description": "Mojmír I. dobyl Nitrianske kniežatstvo a pripojil ho k Morave. Pribina utiekol k Frankom a bol pokrstený v chráme sv. Martina v Traismaueri.",
+        "type": "battle"
+      },
+      {
+        "year": "840–846",
+        "title": "Pribina dostáva do léna Dolnú Panóniu",
+        "description": "Franský kráľ Ľudovít Nemec dal Pribinovi do léna územie Dolnej Panónie pri Blatenskom jazere.",
+        "type": "founding"
+      },
+      {
+        "year": "850",
+        "title": "Postavený prvý kostol kniežatstva",
+        "description": "Prvý z chrámov na tomto území bol zasvätený Panne Márii; do Pribinovej smrti pribudlo ďalších 12.",
+        "type": "construction"
+      },
+      {
+        "year": "861",
+        "title": "Koniec Pribinovho života",
+        "description": "Na konci Pribinovho života bolo jeho kniežatstvo významným susedom Veľkej Moravy, Chorvátska a Bulharska.",
+        "type": "event"
+      },
+      {
+        "year": "867",
+        "title": "Cyril a Metod v Blatnohrade",
+        "description": "Cyril a Metod sa počas svojej misie na Veľkej Morave zastavili na pol roka v Blatnohrade a vyučovali vyše päťdesiat žiakov.",
+        "type": "event"
+      },
+      {
+        "year": "869",
+        "title": "Metod ustanovený metropolitom",
+        "description": "Pápežská kúria na podnet Koceľa ustanovila Metoda za panónskeho a veľkomoravského metropolitu.",
+        "type": "event"
+      },
+      {
+        "year": "876–877",
+        "title": "Smrť kniežaťa Koceľa",
+        "description": "Knieža Koceľ zomrel v roku 876 alebo 877, keď sa blížil koniec Veľkej Moravy.",
+        "type": "event"
+      },
+      {
+        "year": "900–901",
+        "title": "Príchod starých Maďarov",
+        "description": "Franský cisár Arnulf prenechal Blatnohradské kniežatstvo prichádzajúcim Maďarom.",
+        "type": "destruction"
+      },
+      {
+        "year": "1019",
+        "title": "Štefan I. zakladá kláštor",
+        "description": "Prvý uhorský kráľ Štefan založil v Blatnohrade kláštor na počesť svätého Hadriána.",
+        "type": "founding"
+      },
+      {
+        "year": "1702",
+        "title": "Hrad vyhodený do vzduchu",
+        "description": "Aby sa nedostal do rúk kurucom, bol hrad v roku 1702 vyhodený do vzduchu.",
+        "type": "destruction"
+      },
+      {
+        "year": "2009",
+        "title": "Nález črepu s hlaholským nápisom",
+        "description": "Nález vyvolal veľký rozruch — najstaršie zachované písmená hlaholiky, datované do doby okolo roku 870.",
+        "type": "discovery"
+      }
+    ],
     "quotes": [],
     "blocks": [
       {
@@ -511,16 +633,34 @@
               {
                 "type": "text",
                 "text": "Blatnohrad (po nemecky Mosapurc), dnes Zalavár asi 9 km juhozápadne od Balatonu, bolo sídelné mesto Pribinu v Blatenskom kniežatstve po tom, ako musel opustiť svoju pôvodnú dŕžavu v Nitriansku. Za jeho nástupcu Koceľa bol Blatnohrad strediskom vzdelanosti Slovenov. V roku 2009 veľký rozruch vyvolal nález črepu, na ktorom je čitateľný zlomok textu písaného hlaholikou."
-              },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
-                "type": "link",
-                "url": "http://maps.google.com/?ie=UTF8&t=h&vpsrc=0&ll=46.660755,17.1382&spn=0.002577,0.00456&z=17&source=embed",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "View Larger Map"
-                  }
-                ]
+                "type": "text",
+                "text": "Na nápise črepu pochádzajúceho z džbánu alebo fľaše jasne vidno písmená \"i\" a \"o\" (zvané iže a on), čiže spolu \"io\". Môže to byť napríklad časť nejakého mena. Zatiaľ sa nedá presne určiť, o aký jazyk ide. V objasnení možno pomôžu bádatelia z krajín používajúcich cyriliku. Tento nález má mimoriadnu hodnotu pre slovanskú kultúru. Jedná sa totiž o najstaršie zachované písmená v hlaholike. Nie je dokonca vylúčené, že ich písal samotný Metod, prípadne niektorý z jeho žiakov, pretože v rokoch 866-867 sa zdržiavali práve v Blatnohrade."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Blatnohrad bol postavený na prirodzenej vyvýšenine resp. ostrove medzi močiarmi a pozostával z troch väčších častí: z opevneného zemepanského hradiska, centrálne umiestnenej cirkevnej časti, kde sa nachádzal aj pútnický kostol, a z obytnej štvrte, latinsky zvanej suburbium."
               }
             ]
           }
@@ -557,7 +697,21 @@
             "children": [
               {
                 "type": "text",
-                "text": "Na nápise črepu pochádzajúceho z džbánu alebo fľaše jasne vidno písmená \"i\" a \"o\" (zvané iže a on), čiže spolu \"io\". Môže to byť napríklad časť nejakého mena. Zatiaľ sa nedá presne určiť, o aký jazyk ide. V objasnení možno pomôžu bádatelia z krajín používajúcich cyriliku. Tento nález má mimoriadnu hodnotu pre slovanskú kultúru. Jedná sa totiž o najstaršie zachované písmená v hlaholike. Nie je dokonca vylúčené, že ich písal samotný Metod, prípadne niektorý z jeho žiakov, pretože v rokoch 866-867 sa zdržiavali práve v Blatnohrade."
+                "text": "Väčšina budov - medzi nimi aj arcibiskupská rezidencia, ktorej pozostatky boli odkryté v rokoch 2000-2007 - bola postavená z dreva. Keramický úlomok s hlaholským nápisom sa našiel v najhlbšej časti tri metre hlbokej priekopy, ktorá kedysi delila niekdajšie hradisko od cirkevnej časti. Na základe vrstiev nad ním nemožno tento nález datovať do neskoršej doby ako okolo roku 870. Doposiaľ známe hlaholské nápisy pochádzajú z 10.-11. storočia, preto je Blatnohradský nález zvláštny."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Mnoho Slovákov a najmä tí, ktorí cestujú cez maďarský Balaton ďalej do Chorvátska ani netušia, že prechádzajú oblasťou, v ktorej kedysi vládlo nitrianske knieža Pribina a jeho syn Koceľ. Asi 2 km od mesta Nagykanizsa je križovatka, na ktorej sa dá odbočiť smerom do kúpeľného mesta Zalakaros. Približne po pätnástich kilometroch, keď prejdete obce Garabonc, Nagyrada a Zalaszabar, si všimnete hnedú orientačnú tabuľu v maďarskom a anglickom jazyku. Bude vás navigovať na pamätník - súsošie sv. Cyrila a Metoda k obci Zalavár. Je postavené na mieste, ktorému sa kedysi hovorilo Blatnohrad, Mosapurch alebo Mosaburg. Ako opevnené hradisko v strede močaristého terénu rieky Sala (Zala) ho vybudoval knieža Pribina."
               }
             ]
           }
@@ -594,122 +748,11 @@
             "children": [
               {
                 "type": "text",
-                "text": "Blatnohrad bol postavený na prirodzenej vyvýšenine resp. ostrove medzi močiarmi a pozostával z troch väčších častí: z opevneného zemepanského hradiska, centrálne umiestenej cirkevnej časti, kde sa nachádzal aj pútnický kostol, a z obytnej štvrte, latinsky zvanej suburbium."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Väčšina budov - medzi nimi aj arcibiskupská rezidencia, ktorej pozostatky boli odkryté v rokoch 2000-2007 - bola postavená z dreva. Keramický úlomok s hlaholským nápisom sa našiel v najhlbšej časti tri metre hlbokej priekopy, ktorá kedysi delila niekdajšie hradisko od cirkevnej časti. Na základe vrstiev nad ním nemožno tento nález datovať do neskoršej doby ako okolo roku 870. Doposiaľ známe hlaholské nápisy pochádzajú z 10.-11. storočia, preto je Blatnohradský nález zvláštny."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil_aKGkpHeUoICep8j3kVXzNYhjpUgsAw-6qG4yxVQUy_Sr-ejH5llniqW4NrVMpofkDnIxCa4XvPjL4QCf8GBXA1VLMAum0TKjYr-b4vYc63p1B9sHGq6aQRopY2dZyew_BHwELTpivs3/s0/zbrane+pohrebisko.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil_aKGkpHeUoICep8j3kVXzNYhjpUgsAw-6qG4yxVQUy_Sr-ejH5llniqW4NrVMpofkDnIxCa4XvPjL4QCf8GBXA1VLMAum0TKjYr-b4vYc63p1B9sHGq6aQRopY2dZyew_BHwELTpivs3/s1600/zbrane+pohrebisko.jpg",
-          "filename": "zbrane+pohrebisko.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil_aKGkpHeUoICep8j3kVXzNYhjpUgsAw-6qG4yxVQUy_Sr-ejH5llniqW4NrVMpofkDnIxCa4XvPjL4QCf8GBXA1VLMAum0TKjYr-b4vYc63p1B9sHGq6aQRopY2dZyew_BHwELTpivs3/s1600/zbrane+pohrebisko.jpg",
-            "displayedWidth": 265,
-            "displayedHeight": 320,
-            "originalWidth": 1015,
-            "originalHeight": 1223
-          }
-        },
-        "alt": "Zbrane a ostrohy z pohrebiska v Blatnohrade",
-        "caption": "Zbrane a ostrohy z pohrebiska v Blatnohrade",
-        "position": "left",
-        "showCaption": true,
-        "width": "40",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Mnoho Slovákov a najmä tí, ktorí cestujú cez maďarský Balaton ďalej do Chorvátska ani netušia, že prechádzajú oblasťou, v ktorej kedysi vládlo nitrianske knieža Pribina a jeho syn Koceľ. Asi 2 km od mesta Nagykanizsa je križovatka, na ktorej sa dá odbočiť smerom do kúpeľného mesta Zalakaros. Približne po pätnástich kilometroch, keď prejdete obce Garabonc, Nagyrada a Zalaszabar, si všimnete hnedú orientačnú tabuľu v maďarskom a anglickom jazyku. Bude vás navigovať na pamätník -súsošie sv. Cyrila a Metoda k obci Zalavár. Je postavené na mieste, ktorému sa kedysi hovorilo Blatnohrad, Mosapurch alebo Mosaburg. Ako opevnené hradisko v strede močaristého terénu rieky Sala (Zala) ho vybudoval knieža Pribina."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqLTXTPK39A00EXJwv0BsfybZoScdyyF8wfRpWnW6x5LfJ3ZI22bEx0jylTEBRYDW0IqTkz1Fl7Y3m6uP8xd4-CieV75iNrVsskKQouYBXrUfMX98kAJQ9pu5zCB10YxdzqRX10mYp0f8/s0/blatnohrad+mapa.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqLTXTPK39A00EXJwv0BsfybZoScdyyF8wfRpWnW6x5LfJ3ZI22bEx0jylTEBRYDW0IqTkz1Fl7Y3m6uP8xd4-CieV75iNrVsskKQouYBXrUfMX98kAJQ9pu5zCB10YxdzqRX10mYp0f8/s1600/blatnohrad+mapa.jpg",
-          "filename": "blatnohrad+mapa.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqLTXTPK39A00EXJwv0BsfybZoScdyyF8wfRpWnW6x5LfJ3ZI22bEx0jylTEBRYDW0IqTkz1Fl7Y3m6uP8xd4-CieV75iNrVsskKQouYBXrUfMX98kAJQ9pu5zCB10YxdzqRX10mYp0f8/s1600/blatnohrad+mapa.jpg",
-            "displayedWidth": 225,
-            "displayedHeight": 320,
-            "originalWidth": null,
-            "originalHeight": null
-          }
-        },
-        "alt": "Schematický nákres časti hradiska",
-        "caption": "Schematický nákres časti hradiska",
-        "position": "left",
-        "showCaption": true,
-        "width": "40",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
                 "text": "Blatnohrad bol centrom jeho kniežatstva, ktoré až do príchodu starých Maďarov tvorilo rozsiahle územie: na juhu siahalo až po rieku Drávu, na východe po rieku Dunaj, na severe k mestu Veszprém a na západe presahovalo do dnešného Štajerska, Korutánska a Slovinska. Patrili k nemu súčasné mestá Veszprém a Szombathely v Maďarsku, Leibnitz v Štajersku a Ptuj v Slovinsku."
               }
             ]
           }
         ]
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRY86wltR3xITm3nRskp_SAf0cKI2Ruw-ylu9p7yjrnnKkRu0PYTnPDfbNreZxs-d7_gO1ExKoo1CCoeq10Hg_LE8S-U2fRzad3fSboum984CTDwwwJerftLvTrfREXqENu2p0kdoWkL0/s0/blatnohrad1.gif",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRY86wltR3xITm3nRskp_SAf0cKI2Ruw-ylu9p7yjrnnKkRu0PYTnPDfbNreZxs-d7_gO1ExKoo1CCoeq10Hg_LE8S-U2fRzad3fSboum984CTDwwwJerftLvTrfREXqENu2p0kdoWkL0/s1600/blatnohrad1.gif",
-          "filename": "blatnohrad1.gif",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRY86wltR3xITm3nRskp_SAf0cKI2Ruw-ylu9p7yjrnnKkRu0PYTnPDfbNreZxs-d7_gO1ExKoo1CCoeq10Hg_LE8S-U2fRzad3fSboum984CTDwwwJerftLvTrfREXqENu2p0kdoWkL0/s1600/blatnohrad1.gif",
-            "displayedWidth": 320,
-            "displayedHeight": 192,
-            "originalWidth": null,
-            "originalHeight": null
-          }
-        },
-        "alt": "Náušnice nezaprú svoj pôvod od Slovanských šperkárov",
-        "caption": "Náušnice nezaprú svoj pôvod od Slovanských šperkárov",
-        "position": "right",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -743,19 +786,19 @@
       {
         "__component": "content.image-block",
         "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMuruh_C3nCeV7-6ApoNruZouSZu-BHVEkEBIur_4QUurmbvwcYjvwuLxsc2BNkVLKneyUoxdOw_udetJmLE9MsM0VXP76qLr2s8Xr4ETgYedFiH-2P2Yg_czddQnKzCsYgAzbH67DNZk/s0/Zalav%2525C3%2525A1r_-_Convent.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMuruh_C3nCeV7-6ApoNruZouSZu-BHVEkEBIur_4QUurmbvwcYjvwuLxsc2BNkVLKneyUoxdOw_udetJmLE9MsM0VXP76qLr2s8Xr4ETgYedFiH-2P2Yg_czddQnKzCsYgAzbH67DNZk/s1600/Zalav%2525C3%2525A1r_-_Convent.jpg",
-          "filename": "Zalav%25C3%25A1r_-_Convent.jpg",
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil_aKGkpHeUoICep8j3kVXzNYhjpUgsAw-6qG4yxVQUy_Sr-ejH5llniqW4NrVMpofkDnIxCa4XvPjL4QCf8GBXA1VLMAum0TKjYr-b4vYc63p1B9sHGq6aQRopY2dZyew_BHwELTpivs3/s0/zbrane+pohrebisko.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil_aKGkpHeUoICep8j3kVXzNYhjpUgsAw-6qG4yxVQUy_Sr-ejH5llniqW4NrVMpofkDnIxCa4XvPjL4QCf8GBXA1VLMAum0TKjYr-b4vYc63p1B9sHGq6aQRopY2dZyew_BHwELTpivs3/s1600/zbrane+pohrebisko.jpg",
+          "filename": "zbrane+pohrebisko.jpg",
           "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMuruh_C3nCeV7-6ApoNruZouSZu-BHVEkEBIur_4QUurmbvwcYjvwuLxsc2BNkVLKneyUoxdOw_udetJmLE9MsM0VXP76qLr2s8Xr4ETgYedFiH-2P2Yg_czddQnKzCsYgAzbH67DNZk/s1600/Zalav%2525C3%2525A1r_-_Convent.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 227,
-            "originalWidth": null,
-            "originalHeight": null
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil_aKGkpHeUoICep8j3kVXzNYhjpUgsAw-6qG4yxVQUy_Sr-ejH5llniqW4NrVMpofkDnIxCa4XvPjL4QCf8GBXA1VLMAum0TKjYr-b4vYc63p1B9sHGq6aQRopY2dZyew_BHwELTpivs3/s1600/zbrane+pohrebisko.jpg",
+            "displayedWidth": 265,
+            "displayedHeight": 320,
+            "originalWidth": 1015,
+            "originalHeight": 1223
           }
         },
-        "alt": "Pôdorys baziliky",
-        "caption": "Pôdorys baziliky",
+        "alt": "Zbrane a ostrohy z pohrebiska v Blatnohrade",
+        "caption": "Zbrane a ostrohy z pohrebiska v Blatnohrade",
         "position": "right",
         "showCaption": true,
         "width": "40",
@@ -794,22 +837,22 @@
       {
         "__component": "content.image-block",
         "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUWMNdsPahitDs_e2r-xxp6AYWkSifzjO-vVD5QWNO5AE57VMkOlqVI2L2PNlgvZpm43xyxGd1jtmGD3gsjFhbwzECTkQxKrXvnDYvh52WTDcD6-UIKNxEP4gaRO4WcPEv1oXGVYAORYE/s0/Zalavar-Bazilika-3D.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUWMNdsPahitDs_e2r-xxp6AYWkSifzjO-vVD5QWNO5AE57VMkOlqVI2L2PNlgvZpm43xyxGd1jtmGD3gsjFhbwzECTkQxKrXvnDYvh52WTDcD6-UIKNxEP4gaRO4WcPEv1oXGVYAORYE/s1600/Zalavar-Bazilika-3D.jpg",
-          "filename": "Zalavar-Bazilika-3D.jpg",
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqLTXTPK39A00EXJwv0BsfybZoScdyyF8wfRpWnW6x5LfJ3ZI22bEx0jylTEBRYDW0IqTkz1Fl7Y3m6uP8xd4-CieV75iNrVsskKQouYBXrUfMX98kAJQ9pu5zCB10YxdzqRX10mYp0f8/s0/blatnohrad+mapa.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqLTXTPK39A00EXJwv0BsfybZoScdyyF8wfRpWnW6x5LfJ3ZI22bEx0jylTEBRYDW0IqTkz1Fl7Y3m6uP8xd4-CieV75iNrVsskKQouYBXrUfMX98kAJQ9pu5zCB10YxdzqRX10mYp0f8/s1600/blatnohrad+mapa.jpg",
+          "filename": "blatnohrad+mapa.jpg",
           "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUWMNdsPahitDs_e2r-xxp6AYWkSifzjO-vVD5QWNO5AE57VMkOlqVI2L2PNlgvZpm43xyxGd1jtmGD3gsjFhbwzECTkQxKrXvnDYvh52WTDcD6-UIKNxEP4gaRO4WcPEv1oXGVYAORYE/s1600/Zalavar-Bazilika-3D.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 232,
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqLTXTPK39A00EXJwv0BsfybZoScdyyF8wfRpWnW6x5LfJ3ZI22bEx0jylTEBRYDW0IqTkz1Fl7Y3m6uP8xd4-CieV75iNrVsskKQouYBXrUfMX98kAJQ9pu5zCB10YxdzqRX10mYp0f8/s1600/blatnohrad+mapa.jpg",
+            "displayedWidth": 225,
+            "displayedHeight": 320,
             "originalWidth": null,
             "originalHeight": null
           }
         },
-        "alt": "3D rekonštrukcia baziliky",
-        "caption": "3D rekonštrukcia baziliky",
-        "position": "right",
+        "alt": "Schematický nákres časti hradiska",
+        "caption": "Schematický nákres časti hradiska",
+        "position": "left",
         "showCaption": true,
-        "width": "50",
+        "width": "40",
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
@@ -845,22 +888,22 @@
       {
         "__component": "content.image-block",
         "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidMEt9bUkMbLysq4kJdwmkS3K9SzjqYhyphenhyphen1zrePKxYqHWaunFqC6RRgVyi-vssytUqhjw5Zp5c0emWn77bhyufu0ybOHSUXwP2rx3OW0tYcN7OhzHl1LYFvzf9-i16kdszctFqF-nAAJGo/s0/Zalavar-vykopavky3.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidMEt9bUkMbLysq4kJdwmkS3K9SzjqYhyphenhyphen1zrePKxYqHWaunFqC6RRgVyi-vssytUqhjw5Zp5c0emWn77bhyufu0ybOHSUXwP2rx3OW0tYcN7OhzHl1LYFvzf9-i16kdszctFqF-nAAJGo/s1600/Zalavar-vykopavky3.jpg",
-          "filename": "Zalavar-vykopavky3.jpg",
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRY86wltR3xITm3nRskp_SAf0cKI2Ruw-ylu9p7yjrnnKkRu0PYTnPDfbNreZxs-d7_gO1ExKoo1CCoeq10Hg_LE8S-U2fRzad3fSboum984CTDwwwJerftLvTrfREXqENu2p0kdoWkL0/s0/blatnohrad1.gif",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRY86wltR3xITm3nRskp_SAf0cKI2Ruw-ylu9p7yjrnnKkRu0PYTnPDfbNreZxs-d7_gO1ExKoo1CCoeq10Hg_LE8S-U2fRzad3fSboum984CTDwwwJerftLvTrfREXqENu2p0kdoWkL0/s1600/blatnohrad1.gif",
+          "filename": "blatnohrad1.gif",
           "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidMEt9bUkMbLysq4kJdwmkS3K9SzjqYhyphenhyphen1zrePKxYqHWaunFqC6RRgVyi-vssytUqhjw5Zp5c0emWn77bhyufu0ybOHSUXwP2rx3OW0tYcN7OhzHl1LYFvzf9-i16kdszctFqF-nAAJGo/s1600/Zalavar-vykopavky3.jpg",
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRY86wltR3xITm3nRskp_SAf0cKI2Ruw-ylu9p7yjrnnKkRu0PYTnPDfbNreZxs-d7_gO1ExKoo1CCoeq10Hg_LE8S-U2fRzad3fSboum984CTDwwwJerftLvTrfREXqENu2p0kdoWkL0/s1600/blatnohrad1.gif",
             "displayedWidth": 320,
-            "displayedHeight": 240,
+            "displayedHeight": 192,
             "originalWidth": null,
             "originalHeight": null
           }
         },
-        "alt": "Našťastie aké-také výskumy sa robia aj v dnešnej dobe",
-        "caption": "Našťastie aké-také výskumy sa robia aj v dnešnej dobe",
+        "alt": "Náušnice nezaprú svoj pôvod od Slovanských šperkárov",
+        "caption": "Náušnice nezaprú svoj pôvod od Slovanských šperkárov",
         "position": "right",
         "showCaption": true,
-        "width": "40",
+        "width": "60",
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
@@ -893,6 +936,29 @@
             ]
           }
         ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMuruh_C3nCeV7-6ApoNruZouSZu-BHVEkEBIur_4QUurmbvwcYjvwuLxsc2BNkVLKneyUoxdOw_udetJmLE9MsM0VXP76qLr2s8Xr4ETgYedFiH-2P2Yg_czddQnKzCsYgAzbH67DNZk/s0/Zalav%2525C3%2525A1r_-_Convent.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMuruh_C3nCeV7-6ApoNruZouSZu-BHVEkEBIur_4QUurmbvwcYjvwuLxsc2BNkVLKneyUoxdOw_udetJmLE9MsM0VXP76qLr2s8Xr4ETgYedFiH-2P2Yg_czddQnKzCsYgAzbH67DNZk/s1600/Zalav%2525C3%2525A1r_-_Convent.jpg",
+          "filename": "Zalav%25C3%25A1r_-_Convent.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMuruh_C3nCeV7-6ApoNruZouSZu-BHVEkEBIur_4QUurmbvwcYjvwuLxsc2BNkVLKneyUoxdOw_udetJmLE9MsM0VXP76qLr2s8Xr4ETgYedFiH-2P2Yg_czddQnKzCsYgAzbH67DNZk/s1600/Zalav%2525C3%2525A1r_-_Convent.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 227,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Pôdorys baziliky",
+        "caption": "Pôdorys baziliky",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -938,29 +1004,6 @@
         ]
       },
       {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfszygOSn8qXSGT89hRQzxekBFeLBdB646H_rMshkfUNGXUoJdRBTzcEeTpvfIHTQfXBqdo9ZgoXPSgkrI0wBhTW7xG23Q5tOKinsjbrLRJKBeaUPBeSKaKii48ge53IluUyffhHJ2ja2/s0/ostrohy.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfszygOSn8qXSGT89hRQzxekBFeLBdB646H_rMshkfUNGXUoJdRBTzcEeTpvfIHTQfXBqdo9ZgoXPSgkrI0wBhTW7xG23Q5tOKinsjbrLRJKBeaUPBeSKaKii48ge53IluUyffhHJ2ja2/s1600/ostrohy.JPG",
-          "filename": "ostrohy.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPfszygOSn8qXSGT89hRQzxekBFeLBdB646H_rMshkfUNGXUoJdRBTzcEeTpvfIHTQfXBqdo9ZgoXPSgkrI0wBhTW7xG23Q5tOKinsjbrLRJKBeaUPBeSKaKii48ge53IluUyffhHJ2ja2/s1600/ostrohy.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 240,
-            "originalWidth": null,
-            "originalHeight": null
-          }
-        },
-        "alt": "Blatnohrad  - Pribinovo sídlo v Panónii",
-        "caption": "",
-        "position": "center",
-        "showCaption": false,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -977,22 +1020,22 @@
       {
         "__component": "content.image-block",
         "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh622_pOavVtIjtcvgnlPjw3fuorSf2F_yks9FAEczAezD8_F5AMhylvjiTyPxWIWlIdFqp3TaeH0iaiwLVxL3n5_4b74iHvXIJKoa19IM_Zozf-2TigrZZQ-ZvwrionLVDBMbA3JM4VI8/s0/Pribina_0002.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh622_pOavVtIjtcvgnlPjw3fuorSf2F_yks9FAEczAezD8_F5AMhylvjiTyPxWIWlIdFqp3TaeH0iaiwLVxL3n5_4b74iHvXIJKoa19IM_Zozf-2TigrZZQ-ZvwrionLVDBMbA3JM4VI8/s1600/Pribina_0002.jpg",
-          "filename": "Pribina_0002.jpg",
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUWMNdsPahitDs_e2r-xxp6AYWkSifzjO-vVD5QWNO5AE57VMkOlqVI2L2PNlgvZpm43xyxGd1jtmGD3gsjFhbwzECTkQxKrXvnDYvh52WTDcD6-UIKNxEP4gaRO4WcPEv1oXGVYAORYE/s0/Zalavar-Bazilika-3D.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUWMNdsPahitDs_e2r-xxp6AYWkSifzjO-vVD5QWNO5AE57VMkOlqVI2L2PNlgvZpm43xyxGd1jtmGD3gsjFhbwzECTkQxKrXvnDYvh52WTDcD6-UIKNxEP4gaRO4WcPEv1oXGVYAORYE/s1600/Zalavar-Bazilika-3D.jpg",
+          "filename": "Zalavar-Bazilika-3D.jpg",
           "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh622_pOavVtIjtcvgnlPjw3fuorSf2F_yks9FAEczAezD8_F5AMhylvjiTyPxWIWlIdFqp3TaeH0iaiwLVxL3n5_4b74iHvXIJKoa19IM_Zozf-2TigrZZQ-ZvwrionLVDBMbA3JM4VI8/s1600/Pribina_0002.jpg",
-            "displayedWidth": 317,
-            "displayedHeight": 320,
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUWMNdsPahitDs_e2r-xxp6AYWkSifzjO-vVD5QWNO5AE57VMkOlqVI2L2PNlgvZpm43xyxGd1jtmGD3gsjFhbwzECTkQxKrXvnDYvh52WTDcD6-UIKNxEP4gaRO4WcPEv1oXGVYAORYE/s1600/Zalavar-Bazilika-3D.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 232,
             "originalWidth": null,
             "originalHeight": null
           }
         },
-        "alt": "Z publikácie Napísané zostáva",
-        "caption": "Z publikácie Napísané zostáva",
+        "alt": "3D rekonštrukcia baziliky",
+        "caption": "3D rekonštrukcia baziliky",
         "position": "right",
         "showCaption": true,
-        "width": "40",
+        "width": "50",
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
@@ -1005,7 +1048,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Knieža Koceľ zomrel v roku 876 alebo 877, keď sa blížil koniec Veľkej Moravy. Nevie sa, či zanechal po sebe mužského potomka, pretože správou Blatnohradského kniežatstva bol v roku 880 poverený chorvátsky Braslav. Franský cisár Arnulf prenechal Blatnohradské kniežatstvo (Zadunajsko) prichádzajúcim Maďarom, ktorý prišli do oblasti v rokoch 900 - 901. Štefan, prvý uhorský kráľ, v roku 1019 založil v Blatnohrade kláštor na počesť svätého Hadriána. Od konca 11. storočia je bývalý Pribinov hrad župným hradom a sídlom Zalánskej župy. V 16. storočí (po rekonštrukciách) bol začlenený do systému protitureckých pohraničných pevností. V roku 1702, aby sa nedostal do rúk kurucom, bol vyhodený do vzduchu."
+                "text": "Knieža Koceľ zomrel v roku 876 alebo 877, keď sa blížil koniec Veľkej Moravy. Nevie sa, či zanechal po sebe mužského potomka, pretože správou Blatnohradského kniežatstva bol v roku 880 poverený chorvátsky Braslav. Franský cisár Arnulf prenechal Blatnohradské kniežatstvo (Zadunajsko) prichádzajúcim Maďarom, ktorí prišli do oblasti v rokoch 900 - 901. Štefan, prvý uhorský kráľ, v roku 1019 založil v Blatnohrade kláštor na počesť svätého Hadriána. Od konca 11. storočia je bývalý Pribinov hrad župným hradom a sídlom Zalánskej župy. V 16. storočí (po rekonštrukciách) bol začlenený do systému protitureckých pohraničných pevností. V roku 1702, aby sa nedostal do rúk kurucom, bol vyhodený do vzduchu."
               }
             ]
           }
@@ -1024,6 +1067,29 @@
             ]
           }
         ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidMEt9bUkMbLysq4kJdwmkS3K9SzjqYhyphenhyphen1zrePKxYqHWaunFqC6RRgVyi-vssytUqhjw5Zp5c0emWn77bhyufu0ybOHSUXwP2rx3OW0tYcN7OhzHl1LYFvzf9-i16kdszctFqF-nAAJGo/s0/Zalavar-vykopavky3.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidMEt9bUkMbLysq4kJdwmkS3K9SzjqYhyphenhyphen1zrePKxYqHWaunFqC6RRgVyi-vssytUqhjw5Zp5c0emWn77bhyufu0ybOHSUXwP2rx3OW0tYcN7OhzHl1LYFvzf9-i16kdszctFqF-nAAJGo/s1600/Zalavar-vykopavky3.jpg",
+          "filename": "Zalavar-vykopavky3.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidMEt9bUkMbLysq4kJdwmkS3K9SzjqYhyphenhyphen1zrePKxYqHWaunFqC6RRgVyi-vssytUqhjw5Zp5c0emWn77bhyufu0ybOHSUXwP2rx3OW0tYcN7OhzHl1LYFvzf9-i16kdszctFqF-nAAJGo/s1600/Zalavar-vykopavky3.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Našťastie aké-také výskumy sa robia aj v dnešnej dobe",
+        "caption": "Našťastie aké-také výskumy sa robia aj v dnešnej dobe",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -1047,11 +1113,34 @@
             "children": [
               {
                 "type": "text",
-                "text": "V roku 798 Karol Veľký poveril solnohradského arcibiskupa Arna pokresťančením Panónie. Soľnohradské arcibiskupstvo poveril úlohou, aby odišli do tohto kraja, aby tu stavali a vysväcovali kostoly, aby sem posielali farárov a kázňami vychovávali ľud. Po páde Avarskej ríše Zalavár, sídlo kniežaťa Pribinu, tvorilo stredisko misijnej činnosti siahajúcej až po Päťkostolie. Počas tohto obdobia bolo postavených vyše tridsať kostolov. Tri v Zalavári: jeden na počesť Panny Márie, druhý na počesť svätého Jána Krstiteľa a tretí na počesť mučeníka svätého Hadriána. Rozpory, ktoré nastali po činnosti slovanského vierozvesta Metoda v rokoch 866-870, škodlivo ovplyvnili túto misijnú prácu, ktorá sa začiatkom 10. storočia ukončila."
+                "text": "V roku 798 Karol Veľký poveril soľnohradského arcibiskupa Arna pokresťančením Panónie. Soľnohradské arcibiskupstvo poveril úlohou, aby odišli do tohto kraja, aby tu stavali a vysväcovali kostoly, aby sem posielali farárov a kázňami vychovávali ľud. Po páde Avarskej ríše Zalavár, sídlo kniežaťa Pribinu, tvorilo stredisko misijnej činnosti siahajúcej až po Päťkostolie. Počas tohto obdobia bolo postavených vyše tridsať kostolov. Tri v Zalavári: jeden na počesť Panny Márie, druhý na počesť svätého Jána Krstiteľa a tretí na počesť mučeníka svätého Hadriána. Rozpory, ktoré nastali po činnosti slovanského vierozvesta Metoda v rokoch 866-870, škodlivo ovplyvnili túto misijnú prácu, ktorá sa začiatkom 10. storočia ukončila."
               }
             ]
           }
         ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4Sn8IIu9uEf2GOPCk9xia_-LMvbsYBkC4xCK2yJ4JWTMPEGhipr4By_85D6QEDfV3O3C-3GL84g_6EkycvunMTvhDax7glOv6QLry0BY8Xe6Tj5BoWKfKASptr67jwaashsdzU60Xz0/s0/blat+kosti.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4Sn8IIu9uEf2GOPCk9xia_-LMvbsYBkC4xCK2yJ4JWTMPEGhipr4By_85D6QEDfV3O3C-3GL84g_6EkycvunMTvhDax7glOv6QLry0BY8Xe6Tj5BoWKfKASptr67jwaashsdzU60Xz0/s1600/blat+kosti.jpg",
+          "filename": "blat+kosti.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji4Sn8IIu9uEf2GOPCk9xia_-LMvbsYBkC4xCK2yJ4JWTMPEGhipr4By_85D6QEDfV3O3C-3GL84g_6EkycvunMTvhDax7glOv6QLry0BY8Xe6Tj5BoWKfKASptr67jwaashsdzU60Xz0/s1600/blat+kosti.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Takto nahádzané kosti na jednej hromade som zatiaľ nevidel",
+        "caption": "Takto nahádzané kosti na jednej hromade som zatiaľ nevidel",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -1076,22 +1165,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Pribinovu a Koceľovú éru nepriamo pripomínajú zvyšky baziliky na ostrove Récéskút. Na mieste asi pôvodného oltára stojí kovový kríž, na ktorom je tabuľka s týmto textom: \"Toto miesto vysvätili v 850-om roku\". Nič viac."
-              },
-              {
-                "type": "text",
-                "text": "Preložili sme pre Vás odborné články od maďarských archeológov o výskumoch Blatnohradu a jeho okolia. Najdete ich tu:",
-                "bold": true
-              },
-              {
-                "type": "link",
-                "url": "http://www.hradiska.sk/search/label/M.%20Sz%C5%91ke%3A%20Najnov%C5%A1ie%20v%C3%BDskumy%20v%20Blatnohrade%20a%20okol%C3%AD",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
-                  }
-                ]
+                "text": "Pribinovu a Koceľovu éru nepriamo pripomínajú zvyšky baziliky na ostrove Récéskút. Na mieste asi pôvodného oltára stojí kovový kríž, na ktorom je tabuľka s týmto textom: \"Toto miesto vysvätili v 850-om roku\". Nič viac."
               }
             ]
           }
@@ -1145,6 +1219,10 @@
           {
             "text": "http://epa.oszk.hu/01600/01613/00005/pdf/zm_05_1994_251-320.pdf",
             "url": "http://epa.oszk.hu/01600/01613/00005/pdf/zm_05_1994_251-320.pdf"
+          },
+          {
+            "text": "Orgoň",
+            "url": null
           }
         ]
       }
@@ -1206,6 +1284,10 @@
         "type": "external-url",
         "url": "http://epa.oszk.hu/01600/01613/00005/pdf/zm_05_1994_251-320.pdf",
         "title": "http://epa.oszk.hu/01600/01613/00005/pdf/zm_05_1994_251-320.pdf"
+      },
+      {
+        "type": "attribution",
+        "text": "Orgoň"
       }
     ]
   }

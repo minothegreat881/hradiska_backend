@@ -1,0 +1,27 @@
+{
+  "timeline": [
+    { "year": "798", "title": "Christianizácia Panónie", "description": "Karol Veľký poveril soľnohradského arcibiskupa Arna pokresťančením Panónie.", "type": "event" },
+    { "year": "828", "title": "Prvý kresťanský chrám v Nitre", "description": "Pribina vybudoval v Nitre prvý kresťanský chrám na počesť svojej manželky, Ratbodovej dcéry.", "type": "construction" },
+    { "year": "833", "title": "Mojmír I. dobýva Nitru, Pribina uteká k Frankom", "description": "Mojmír I. dobyl Nitrianske kniežatstvo a pripojil ho k Morave. Pribina utiekol k Frankom a bol pokrstený v chráme sv. Martina v Traismaueri.", "type": "battle" },
+    { "year": "840–846", "title": "Pribina dostáva do léna Dolnú Panóniu", "description": "Franský kráľ Ľudovít Nemec dal Pribinovi do léna územie Dolnej Panónie pri Blatenskom jazere.", "type": "founding" },
+    { "year": "850", "title": "Postavený prvý kostol kniežatstva", "description": "Prvý z chrámov na tomto území bol zasvätený Panne Márii; do Pribinovej smrti pribudlo ďalších 12.", "type": "construction" },
+    { "year": "861", "title": "Koniec Pribinovho života", "description": "Na konci Pribinovho života bolo jeho kniežatstvo významným susedom Veľkej Moravy, Chorvátska a Bulharska.", "type": "event" },
+    { "year": "867", "title": "Cyril a Metod v Blatnohrade", "description": "Cyril a Metod sa počas svojej misie na Veľkej Morave zastavili na pol roka v Blatnohrade a vyučovali vyše päťdesiat žiakov.", "type": "event" },
+    { "year": "869", "title": "Metod ustanovený metropolitom", "description": "Pápežská kúria na podnet Koceľa ustanovila Metoda za panónskeho a veľkomoravského metropolitu.", "type": "event" },
+    { "year": "876–877", "title": "Smrť kniežaťa Koceľa", "description": "Knieža Koceľ zomrel v roku 876 alebo 877, keď sa blížil koniec Veľkej Moravy.", "type": "event" },
+    { "year": "900–901", "title": "Príchod starých Maďarov", "description": "Franský cisár Arnulf prenechal Blatnohradské kniežatstvo prichádzajúcim Maďarom.", "type": "destruction" },
+    { "year": "1019", "title": "Štefan I. zakladá kláštor", "description": "Prvý uhorský kráľ Štefan založil v Blatnohrade kláštor na počesť svätého Hadriána.", "type": "founding" },
+    { "year": "1702", "title": "Hrad vyhodený do vzduchu", "description": "Aby sa nedostal do rúk kurucom, bol hrad v roku 1702 vyhodený do vzduchu.", "type": "destruction" },
+    { "year": "2009", "title": "Nález črepu s hlaholským nápisom", "description": "Nález vyvolal veľký rozruch — najstaršie zachované písmená hlaholiky, datované do doby okolo roku 870.", "type": "discovery" }
+  ],
+  "keyFacts": [
+    { "label": "Poloha", "value": "Zalavár, ~9 km juhozápadne od Balatonu (Maďarsko)", "icon": "map" },
+    { "label": "Zakladateľ", "value": "Knieža Pribina, po ňom syn Koceľ", "icon": "crown" },
+    { "label": "Rozmery hradu", "value": "Základy Pribinovho hradu 150 × 200 metrov", "icon": "building" },
+    { "label": "Hranice kniežatstva", "value": "Na juhu po Drávu, na východe po Dunaj, na severe po Veszprém, na západe do Štajerska a Korutánska", "icon": "flag" },
+    { "label": "Hlaholský nález", "value": "Črep z r. 2009 — najstaršie zachované písmená hlaholiky, datovaný do doby okolo roku 870", "icon": "scroll" },
+    { "label": "Žiaci Cyrila a Metoda", "value": "Vyše 50 vyučovaných počas ich pol roka v Blatnohrade (867)", "icon": "book" },
+    { "label": "Počet kostolov", "value": "Vyše 30 postavených počas misijného obdobia", "icon": "building" },
+    { "label": "Zánik hradu", "value": "Vyhodený do vzduchu v roku 1702, aby nepadol do rúk kurucom", "icon": "fire" }
+  ]
+}
