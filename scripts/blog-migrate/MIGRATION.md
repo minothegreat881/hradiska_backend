@@ -45,6 +45,8 @@ node scripts/blog-migrate/report.mjs --slug=<slug> --feed=data/<post>.json
 - **Agent 2 (gramatika):** LEN pravopis, žiadne preformulovanie. Ochrana: **štrukturálna** (vidí len `content.rich-text`, quote-blocky nikdy) + **lexikálna** (`protected-terms.json`) + **pri pochybnosti nechať a označiť**. Viď §18.
 - **Re-upload zachováva ručnú prácu:** quote-blocky, embed, obrázky, galéria, kategória, tagy sa pri PUT **nesmú stratiť** — payload sa stavia z GET živého článku, mení sa len čo treba.
 - **Audit súbory** (`.timeline.json`, `.grammar.json`) sú oddelené od surového extraktu — rollback + prehľad. Token natrvalo v `.env` (§6.2).
+- **Básne = quote-block, ale iný komponent:** centrovaný kurzívový beh ≥2 veršov → `content.poem` (nie `content.rich-text`, nie `quote-block`). Detekcia je automatická (pre-pass `markPoemRuns`), žiadny manuálny krok. Viď §20.
+- **Zdrojová sekcia (Fáza 1) sa nesmie duplikovať v tele:** `content.sources`/citácie AJ trim z tela musia súhlasiť — over pri každom novom článku s "atribučným" markerom (Spracoval/Foto/Zdroj) uprostred väčšieho divu. Viď §9.6.
 
 ---
 
@@ -811,6 +813,34 @@ const article = mockArticle || (strapiPost ? {
 | ImageWithFallback absolute conflict | `position: relative` na obale, `absolute inset-0 w-full h-full object-cover` na img |
 | Lightbox containing block (transform v parent) | `createPortal(<Lightbox>, document.body)` |
 | Mock comments hard-coded | `CommentSection` fetchuje cez `STRAPI_URL` + `postDocumentId` prop |
+| Dlhé URL v komentári pretekali cez box | `overflowWrap: 'anywhere'` na `<p>` s `comment.content` (`CommentSection.tsx`) |
+| `location.name` sa zobrazoval malými písmenami ("Mys arkona, rujana") | `ArticleSidebar.tsx` robil `charAt(0).toUpperCase() + slice(1).toLowerCase()` na celý viacslovný názov — Strapi dáta sú už správne, transform úplne odstránený |
+
+### 9.6 Sources-split trim loop — 2 bugy (Arkona, vyriešené v6.1)
+
+Zdrojová sekcia (Fáza 1) sa v tele nesmie duplikovať — `content.sources` sa stavia z `sourcePostLines`, ale telo (`mainDivs`/internal-split `produced`) musí tie isté riadky **vystrihnúť** cez `looksLikeSources` heuristiku v `buildBlocksFromBody`. Pri Arkone zlyhala dvojnásobne:
+
+| # | Bug | Symptom | Fix |
+|---|-----|---------|-----|
+| 1 | `looksLikeSources` URL regex vyžadoval doslovné `https?://` | Blogger preklep bez dvojbodky (`http//pospolitost.wordpress.com/...`) nezhodol regex → trim slučka sa zastavila **na poslednom bloku** a nič nevystrihla (Spracoval/bibliografia/2×URL ostali duplicitne v tele AJ v `content.sources`) | Dvojbodka voliteľná: `https?:?\/\//` — rovnaká zmena aj v `classifyCitation`/`classifyCitationFromLines` (URL sa navyše normalizuje, dvojbodka sa doplní späť pri uložení) |
+| 2 | Extrakcia textu v trim slučke čítala `c.text` priamo | `type:'link'` deti (odkazy) majú text v `c.children[0].text`, nie `c.text` — glejnutý odkaz na konci odseku (`"...Praha 2002"` + `<a>http://www.sho.sk/</a>`) bol pre kontrolu "neviditeľný", takže `looksLikeSources` vrátilo `false` aj keď blok reálne obsahoval URL | Extrakcia berie `c.url` (skutočný href) namiesto zobrazeného textu odkazu pre link-type deti |
+
+Regresne overené na Blatnohrad/Mikulčice/Velehrad/Wogastisburg — identické počty blokov/citácií pred aj po (0 zmien).
+
+### 9.7 Komentáre — nedekódované HTML entity (Arkona, vyriešené)
+
+`upload.mjs` pri importe komentárov (Pass 1) čistil HTML tagy a `&nbsp;`, ale nedekódoval ostatné entity (`&quot;`, `&amp;`, `&lt;`, `&gt;`, `&#39;`...) — v texte ostávalo napr. `pre memosk29&quot;Podivne...&quot;` namiesto skutočných úvodzoviek.
+
+**Fix:** `decodeHTML` z balíka `entities` (tranzitívna závislosť cheeria, netreba pridávať do `package.json` — rovnaký prístup ako `dotenv`). `decodeHTML` dekóduje `&nbsp;` na skutočné U+00A0, preto sa ešte normalizuje späť na bežnú medzeru (`.replace(/ /g, ' ')`), konzistentne s `NBSP_RE` v `extract.mjs`.
+
+```js
+import { decodeHTML as decodeHtmlEntities } from 'entities';
+const cleanText = decodeHtmlEntities((c.content || '').replace(/<[^>]+>/g, ''))
+  .replace(/ /g, ' ')
+  .trim();
+```
+
+**Fix je len pre budúce importy** (nový komentár cez Pass 1 create). Už zmigrované komentáre s entitami sa neopravia automaticky pri re-uploade (Pass 1 ich cez `sourceBloggerId` len REUSE-uje, netýka sa ich). Audit naprieč všetkými 6 vtedy živými článkami napočítal **14/57** postihnutých komentárov — opravené jednorazovo cieleným `PUT /api/blog-comments/<documentId>` (len `content`, nedotklo sa `documentId`/likes/threadingu). Ak sa objavia ďalšie staré komentáre s entitami (napr. po dokončení zvyšných 11 článkov), rovnaký jednorazový patch-skript zopakovať.
 
 ---
 
@@ -1023,8 +1053,10 @@ curl -s -o $null -w "%{http_code}`n" http://localhost:1337/_health
 > Strapi schéma: `blog-post` (s `coverImage`, `gallery`, `blocks` dynamiczone, `comments` 1:N), `blog-comment` (verejné POST + like/unlike).
 > Komentáre: `sourceBloggerId` numeric pre idempotency, threading cez `link[rel=related]` z Blogger feedu (`inReplyTo` = parent Strapi documentId).
 > Token pre upload je natrvalo v `hradiska-strapi/.env` (`STRAPI_TOKEN=`, Full Access) a `upload.mjs` ho načíta sám cez dotenv — netreba ho zadávať (viď 6.2). Manuálne overrides cez `out/<slug>.overrides.json` (blocksPrepend/Append/InsertAt + plain fields).
-> Blatnohrad hotový: documentId `gl8j9bym0c322wqg15l6t7lb`, 35 blocks, gallery 29, comments 5, cover `blatnohrad-rekonstrukcia-letecky.png` (id=38).
-> Cieľ: postupne 13 článkov z labelu Najvýznamnejšie hradiská. Pred dávkou opraviť parser pre Google Maps `pb=`, embed videí, Bojná false positive citations, Divinka stub.
+> **6 článkov live v Strapi.** Plný v6 pipeline (sidebar + gramatika aplikovaná): **Arkona** (documentId `lfaky9t9qtgoi8qygfyflmd8`, 5× `content.poem`, 23 rich-text, timeline 10, keyFacts 10), **Staré Mesto-Velehrad**, **Wogastisburg** — referenčné, `report.mjs` verdikt ✅ MIGRÁCIA ÚPLNÁ. **Blatnohrad, Mikulčice-Kopčany, Nitra** predchádzajú v6 — v DB majú `timeline: []`/`keyFacts: []` (0 položiek), plánované kompletné znovu-nasadenie (zmazať + nahrať nanovo cez v6).
+> **Básne (`content.poem`, v6.1):** centrovaný kurzívový beh ≥2 veršov sa deteguje automaticky (`markPoemRuns` pre-pass v `extract.mjs`, žiadny manuálny krok), excerpt ich preskakuje, `report.mjs` ich počíta do pokrytia. Frontend `PoemRenderer` má vlastný vizuál (ornamentálny rám — parchment panel, ornament nad textom, zlatá atribúcia). Viď §20.
+> **Sources-split (v6.1, §9.6)** a **entity dekódovanie v komentároch (§9.7)** opravené — obe automaticky pre budúce články, žiadny manuálny zásah netreba.
+> Cieľ: dobehnúť Blatnohrad/Mikulčice/Nitra cez v6, potom postupne zvyšných 11 článkov z labelu Najvýznamnejšie hradiská. Pred dávkou opraviť parser pre Google Maps `pb=`, embed videí, Bojná false positive citations, Divinka stub (§11.1 — stále otvorené).
 
 ---
 
@@ -1091,6 +1123,42 @@ Obsah reportu: bloky (rich-text/quote/image/embed/sources), obrázky (telo/galé
 | `<slug>.grammar.json` | 3 | schválené gram. opravy before→after (Agent 2) |
 | `<slug>.report.md` | 6 | finálny report (štatistika) |
 | `protected-terms.json` | — | globálny glosár chránených termínov (rastie) |
+
+---
+
+## 20. Básne (`content.poem`) — detekcia, extrakcia, vizuál (v6.1)
+
+Pôvodne parser spracoval centrované kurzívové verše ako obyčajný `content.rich-text` odsek — zalomenie po veršoch aj centrovanie sa stratili (nájdené na Arkone: 5 básní o Arkone/Rujane splynutých s okolitým textom). Fáza 1 teraz básne rozpoznáva a extrahuje ako samostatný komponent, plne automaticky.
+
+### 20.1 Detekcia — `markPoemRuns` (pre-pass v `buildBlocksFromBody`)
+
+Beh ≥2 po sebe idúcich veršov (centrovaný `<div>` + kurzíva, prípadne oddelené prázdnymi centrovanými divmi = predel strofy) sa označí v DOM (`data-poem` na prvom verši, `data-poem-skip` na ostatných), aby ich `convertDivToBlocks`/`walkDocOrder` vydali ako `content.poem` namiesto `content.rich-text`.
+
+```
+poemVerseInfo(div):  text-align:center + obsahuje <i>/<em> + žiadny <img>  → {verse: text}
+                      text-align:center + prázdny                          → {empty: true} (predel strofy)
+                      inak                                                  → null
+
+markPoemRuns: beh (V|_)+ s ≥2 veršami (V) → content.poem (text: verše spojené \n, strofy oddelené \n\n)
+              beh s 1 veršom → NIE báseň (meta.poemSingleFlags, spracuje sa ako bežný text)
+              <br> vnútri behu NEPRETŔHA (verše na riadkoch v rámci jedného <div>)
+              próza/obrázok/tabuľka beh PRETRHNE (vzdialené básne sa prirodzene oddelia)
+```
+
+**Regresne overené** (0 falošných pozitív): Blatnohrad, Mikulčice-Kopčany, Staré Mesto-Velehrad, Wogastisburg — žiadny `content.poem` blok, excerpty nedotknuté. Arkona: 35/35 veršov zachytených v 5 samostatných `content.poem` blokoch (článok prekladá básne prózou/nadpisom/obrázkami — 5 blokov je vernejšie originálu než umelé zlúčenie do menej celkov).
+
+### 20.2 Nadväzujúce opravy
+
+- **`buildExcerpt`** teraz zo svojich kandidátov odstraňuje `[data-poem], [data-poem-skip]` elementy pred meraním dĺžky textu — inak si zoberie prvú báseň ako "prvý zmysluplný odsek" (bug nájdený na Arkone, excerpt bol báseň č. 1 namiesto prózy).
+- **`report.mjs`** počíta text z `content.poem` blokov (nielen `content.rich-text`) do % pokrytia — inak nahlasoval verše presunuté do básne ako "chýbajúce".
+
+### 20.3 Manuálne pole (nezautomatizovateľné)
+
+`author`/`source` na konkrétnej básni (napr. báseň citujúca pieseň) sa dopĺňa ručne do `blogPost.blocks[].author`/`.source` v `intermediate.json` pred uploadom — nedá sa odvodiť z textu. Príklad (Arkona, báseň 5): `author: "Ancestral Volkhves"`, `source: "A Ruiny Prehovoria, Keď Stíchne Čas"`.
+
+### 20.4 Frontend — `PoemRenderer` (Variant A: ornamentálny rám)
+
+Vlastný vizuál, zámerne odlišný od `quote-block` (ten má zlatý ľavý okraj): podfarbený panel (`rgba(196,165,116,0.07)`), tenké orámovanie, ornament (linka–kosoštvorec–linka) nad veršami, atribúcia oddelená zlatou linkou pod textom, uppercase + letter-spacing (rovnaký vzor ako `QuoteBlock`'s Feather+cite). Farby/písmo výhradne z existujúcej palety (`#a87437`/`#7d4f1d`, Georgia serif) — 3 varianty (rám / iniciála / bočný ornament) navrhnuté ako HTML mockup a odsúhlasené pred zápisom.
 
 ---
 

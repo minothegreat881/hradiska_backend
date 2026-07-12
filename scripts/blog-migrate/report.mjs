@@ -24,6 +24,7 @@ const FEED_MAP = {
   'wogastisburg-najvyznamnejsie-hradisko-samovej-rise': 'data/wogastisburg-post.json',
   'blatnohrad-pribinovo-sidlo-v-panonii': 'data/post.json',
   'mikulcice-kopcany': 'data/mikulcice-post.json',
+  'arkona-retra-a-ine-pohanske-svatyne-zapadnych-slovanov': 'data/arkona-post.json',
 };
 
 function catOf(reason) {
