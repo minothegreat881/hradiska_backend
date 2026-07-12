@@ -20,6 +20,7 @@ import { resolve, dirname, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
 import dotenv from 'dotenv';
+import { decodeHTML as decodeHtmlEntities } from 'entities';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -689,7 +690,13 @@ async function doRealUpload(intermediate, payload, mediaArray, options) {
         console.log(`       ${c.author}: REUSE (sourceBloggerId=${key.slice(-12)})`);
         continue;
       }
-      const cleanText = (c.content || '').replace(/<[^>]+>/g, '').replace(/&nbsp;/g, ' ').trim();
+      // Blogger komentáre sú HTML — po odstránení tagov treba ešte dekódovať entity
+      // (&quot; &amp; &lt; &gt; &#39; &nbsp;...), inak ostanú v texte surové ako "&quot;".
+      // decodeHTML dekóduje &nbsp; na skutočný U+00A0 (nie medzeru) — normalizuj naspäť
+      // na bežnú medzeru, konzistentne s NBSP_RE normalizáciou v extract.mjs.
+      const cleanText = decodeHtmlEntities((c.content || '').replace(/<[^>]+>/g, ''))
+        .replace(/ /g, ' ')
+        .trim();
       try {
         const data = {
           authorName: c.author,
