@@ -1,0 +1,829 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\klucov-post.json",
+    "sourceLabel": "Klučov (CZ)",
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3350681544716201279",
+    "bloggerPostUrl": "http://www.hradiska.sk/2014/05/klucov.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3350681544716201279/comments/default",
+    "extractedAt": "2026-07-12T19:54:11.212Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3039.285006711463!2d14.908040966267881!3d50.0956610086674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ssk!2ssk!4v1400353188841"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 16,
+      "captionedImages": 2,
+      "separatorImages": 14
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Klučov",
+    "slug": "klucov",
+    "excerpt": "Lokalita a slovanské osídlenie Lokalita hradiska sa dnes nachádza v katastri obce Klučov. Vyvýšenina na ktorej sa rozprestieralo slovanské hradisko je dnes využívaná poľnohospodárskov činnosťou. Slovanské hradisko bolo na návrší, ktoré sa zvažuje…",
+    "authorName": "Orgon",
+    "publishedAt": "2014-05-18T20:20:00.001+02:00",
+    "originalPublishedDate": "2014-05-18T20:20:00.001+02:00",
+    "updatedAt": "2014-05-21T22:59:42.185+02:00",
+    "readingTime": 5,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEily2hTbXYRAvflnfbPRUkdJEOmjOmQTJoZ6YZs5fab0uNOVJ5Nv34_cxlCiuZ4O_FERoC-0eiKDA47YhxSSixSYv31ZtutU3QFk-1fxeT3gMkeiCVDW8oTzNHI3_KK2aScUcl6RMpvimA/s0/Sken+5.jpeg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEily2hTbXYRAvflnfbPRUkdJEOmjOmQTJoZ6YZs5fab0uNOVJ5Nv34_cxlCiuZ4O_FERoC-0eiKDA47YhxSSixSYv31ZtutU3QFk-1fxeT3gMkeiCVDW8oTzNHI3_KK2aScUcl6RMpvimA/s1600/Sken+5.jpeg",
+      "filename": "Sken+5.jpeg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEily2hTbXYRAvflnfbPRUkdJEOmjOmQTJoZ6YZs5fab0uNOVJ5Nv34_cxlCiuZ4O_FERoC-0eiKDA47YhxSSixSYv31ZtutU3QFk-1fxeT3gMkeiCVDW8oTzNHI3_KK2aScUcl6RMpvimA/s1600/Sken+5.jpeg",
+        "displayedWidth": 320,
+        "displayedHeight": 240,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEily2hTbXYRAvflnfbPRUkdJEOmjOmQTJoZ6YZs5fab0uNOVJ5Nv34_cxlCiuZ4O_FERoC-0eiKDA47YhxSSixSYv31ZtutU3QFk-1fxeT3gMkeiCVDW8oTzNHI3_KK2aScUcl6RMpvimA/s0/Sken+5.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEily2hTbXYRAvflnfbPRUkdJEOmjOmQTJoZ6YZs5fab0uNOVJ5Nv34_cxlCiuZ4O_FERoC-0eiKDA47YhxSSixSYv31ZtutU3QFk-1fxeT3gMkeiCVDW8oTzNHI3_KK2aScUcl6RMpvimA/s1600/Sken+5.jpeg",
+        "filename": "Sken+5.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEily2hTbXYRAvflnfbPRUkdJEOmjOmQTJoZ6YZs5fab0uNOVJ5Nv34_cxlCiuZ4O_FERoC-0eiKDA47YhxSSixSYv31ZtutU3QFk-1fxeT3gMkeiCVDW8oTzNHI3_KK2aScUcl6RMpvimA/s1600/Sken+5.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCYFC_cZJmqyhS0nS1C4u3tAi9FfK1pR0HAddnY3gVEg3u34aCb7khndiCfu7SdGimp6Lz2KWHuway9O5ixMQrVU13gjCmZtIgOPKFH9UViU_8v2fDfSt5QqZ_sZdCnvpIkmckw-DBuU/s0/Bez+na%CC%81zvu.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCYFC_cZJmqyhS0nS1C4u3tAi9FfK1pR0HAddnY3gVEg3u34aCb7khndiCfu7SdGimp6Lz2KWHuway9O5ixMQrVU13gjCmZtIgOPKFH9UViU_8v2fDfSt5QqZ_sZdCnvpIkmckw-DBuU/s1600/Bez+na%CC%81zvu.jpg",
+        "filename": "Bez+názvu.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCYFC_cZJmqyhS0nS1C4u3tAi9FfK1pR0HAddnY3gVEg3u34aCb7khndiCfu7SdGimp6Lz2KWHuway9O5ixMQrVU13gjCmZtIgOPKFH9UViU_8v2fDfSt5QqZ_sZdCnvpIkmckw-DBuU/s1600/Bez+na%CC%81zvu.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 182,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTVXZsyLYRirWAq0cl1FZYvWtuzz0fYamMdoLOmPbWxKGSKoWXmVXrFCzNn4PnsP2fdsqWOQHbs3ulVgiOFPJa40Ey-Gdt1Ep8YtzMe5Rayh6j7XN6ui0edF5ZBfGcdH5t0oOkOCZdxJk/s0/Bez+na%CC%81zvu6.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTVXZsyLYRirWAq0cl1FZYvWtuzz0fYamMdoLOmPbWxKGSKoWXmVXrFCzNn4PnsP2fdsqWOQHbs3ulVgiOFPJa40Ey-Gdt1Ep8YtzMe5Rayh6j7XN6ui0edF5ZBfGcdH5t0oOkOCZdxJk/s1600/Bez+na%CC%81zvu6.jpg",
+        "filename": "Bez+názvu6.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTVXZsyLYRirWAq0cl1FZYvWtuzz0fYamMdoLOmPbWxKGSKoWXmVXrFCzNn4PnsP2fdsqWOQHbs3ulVgiOFPJa40Ey-Gdt1Ep8YtzMe5Rayh6j7XN6ui0edF5ZBfGcdH5t0oOkOCZdxJk/s1600/Bez+na%CC%81zvu6.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 176,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI8yKSVO8f-7FoFCJBtRnM1UPx2g8yowRywpqN60Ekv6lP5SymabgKtZZseYpDsNQBsgwor-Z2HggSbA8ysevY4DPMaiPXWhUzDZ9t6uV7v4xa5scod6plBPtafnDgkaHZaxTIZANggMU/s0/Nova%CC%81+rekons%CC%8Ctrukcia.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI8yKSVO8f-7FoFCJBtRnM1UPx2g8yowRywpqN60Ekv6lP5SymabgKtZZseYpDsNQBsgwor-Z2HggSbA8ysevY4DPMaiPXWhUzDZ9t6uV7v4xa5scod6plBPtafnDgkaHZaxTIZANggMU/s1600/Nova%CC%81+rekons%CC%8Ctrukcia.jpg",
+        "filename": "Nová+rekonštrukcia.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI8yKSVO8f-7FoFCJBtRnM1UPx2g8yowRywpqN60Ekv6lP5SymabgKtZZseYpDsNQBsgwor-Z2HggSbA8ysevY4DPMaiPXWhUzDZ9t6uV7v4xa5scod6plBPtafnDgkaHZaxTIZANggMU/s1600/Nova%CC%81+rekons%CC%8Ctrukcia.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 259,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Najnovšia rekonštrukcia opevnenia (Bajerová) obsahuje niekoľko zmien oproti pôvodnej"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpfIr1bl3KHeShAROKlNryRpX9d7b-aJdrj2vI-ty5wkWcMQAb9C0t0Zuo1Tk1XojAckZZdZfdxLBaY_Ep6VK_VhJfrg-hJgdYu2NLg2iRAUgV-S8WE3lB6-quzcFaN0avtaERMi0glxQ/s0/Bez+na%CC%81zvu5.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpfIr1bl3KHeShAROKlNryRpX9d7b-aJdrj2vI-ty5wkWcMQAb9C0t0Zuo1Tk1XojAckZZdZfdxLBaY_Ep6VK_VhJfrg-hJgdYu2NLg2iRAUgV-S8WE3lB6-quzcFaN0avtaERMi0glxQ/s1600/Bez+na%CC%81zvu5.jpg",
+        "filename": "Bez+názvu5.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpfIr1bl3KHeShAROKlNryRpX9d7b-aJdrj2vI-ty5wkWcMQAb9C0t0Zuo1Tk1XojAckZZdZfdxLBaY_Ep6VK_VhJfrg-hJgdYu2NLg2iRAUgV-S8WE3lB6-quzcFaN0avtaERMi0glxQ/s1600/Bez+na%CC%81zvu5.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 194,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rcq_te0TAz7dIZpCrIX_to9wHU8MKEZ2sGSm4-ItOz8dWSBvA13opx_Lt5TNi6dwlF9siZMn3xwvPOBqiMDTxLsluItjzhO78YH4_-75kBP4SJyqnfhrZ3BLWZmpOZM7LrpDBFXEse0/s0/Bez+na%CC%81zvu2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rcq_te0TAz7dIZpCrIX_to9wHU8MKEZ2sGSm4-ItOz8dWSBvA13opx_Lt5TNi6dwlF9siZMn3xwvPOBqiMDTxLsluItjzhO78YH4_-75kBP4SJyqnfhrZ3BLWZmpOZM7LrpDBFXEse0/s1600/Bez+na%CC%81zvu2.jpg",
+        "filename": "Bez+názvu2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rcq_te0TAz7dIZpCrIX_to9wHU8MKEZ2sGSm4-ItOz8dWSBvA13opx_Lt5TNi6dwlF9siZMn3xwvPOBqiMDTxLsluItjzhO78YH4_-75kBP4SJyqnfhrZ3BLWZmpOZM7LrpDBFXEse0/s1600/Bez+na%CC%81zvu2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 137,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUcP9yl0a2WElal0DY0pZoQu0CnNFe5q4_yUupv8fPH8wVda4_2yebdjsVXuDTMbhoefGBHHe_faqUJiE-zLEgWOC_pOA26-_QEbB_xbK6gxR735pP3Js9z6vV88IrB2C134nOXNFKh4/s0/Bez+na%25CC%2581zvu15.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUcP9yl0a2WElal0DY0pZoQu0CnNFe5q4_yUupv8fPH8wVda4_2yebdjsVXuDTMbhoefGBHHe_faqUJiE-zLEgWOC_pOA26-_QEbB_xbK6gxR735pP3Js9z6vV88IrB2C134nOXNFKh4/s1600/Bez+na%25CC%2581zvu15.jpg",
+        "filename": "Bez+na%CC%81zvu15.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUcP9yl0a2WElal0DY0pZoQu0CnNFe5q4_yUupv8fPH8wVda4_2yebdjsVXuDTMbhoefGBHHe_faqUJiE-zLEgWOC_pOA26-_QEbB_xbK6gxR735pP3Js9z6vV88IrB2C134nOXNFKh4/s1600/Bez+na%25CC%2581zvu15.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg91cj4h_GK79fpIVCKEwYX30p77eMhp-u7FkqKCz1HFxbf2vug_d-Cc8gnk0458wdzRsJNdDQCE7BI_zN6EzouI7QYZwFEeFEbJewxJHDY0Sbs4cZepAWV2YaJgYgX1EOy0Cw0FuPwvhI/s0/Bez+na%CC%81zvu18.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg91cj4h_GK79fpIVCKEwYX30p77eMhp-u7FkqKCz1HFxbf2vug_d-Cc8gnk0458wdzRsJNdDQCE7BI_zN6EzouI7QYZwFEeFEbJewxJHDY0Sbs4cZepAWV2YaJgYgX1EOy0Cw0FuPwvhI/s1600/Bez+na%CC%81zvu18.jpg",
+        "filename": "Bez+názvu18.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg91cj4h_GK79fpIVCKEwYX30p77eMhp-u7FkqKCz1HFxbf2vug_d-Cc8gnk0458wdzRsJNdDQCE7BI_zN6EzouI7QYZwFEeFEbJewxJHDY0Sbs4cZepAWV2YaJgYgX1EOy0Cw0FuPwvhI/s1600/Bez+na%CC%81zvu18.jpg",
+          "displayedWidth": 250,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS8c2EYFpsjyN203ZNeLGZCAvOs69NcOs2RgcF-j3n3TQL3PV392OUflJ1JeH0G5KAdGNDdOz0QyMh2G0x59-YeigYANN8w5oUPMFesP7GCJc8CnSo6FBwG3sGmWxJ3-jlWUHWQpjbWFA/s0/Bez+na%CC%81zvu11.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS8c2EYFpsjyN203ZNeLGZCAvOs69NcOs2RgcF-j3n3TQL3PV392OUflJ1JeH0G5KAdGNDdOz0QyMh2G0x59-YeigYANN8w5oUPMFesP7GCJc8CnSo6FBwG3sGmWxJ3-jlWUHWQpjbWFA/s1600/Bez+na%CC%81zvu11.png",
+        "filename": "Bez+názvu11.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS8c2EYFpsjyN203ZNeLGZCAvOs69NcOs2RgcF-j3n3TQL3PV392OUflJ1JeH0G5KAdGNDdOz0QyMh2G0x59-YeigYANN8w5oUPMFesP7GCJc8CnSo6FBwG3sGmWxJ3-jlWUHWQpjbWFA/s1600/Bez+na%CC%81zvu11.png",
+          "displayedWidth": 320,
+          "displayedHeight": 194,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCqaVINnXSblnv9MrrdSDe9ycirGel3E_5WIQy8KAqdxzW1wNAMg10LfKeaDE8ZzoEtLNnmnDndV5RTUbPHEMDHX4LwpRoPIHGT1dK5Z5jPC3MXohbimnZEy-beqSDVGvmpwxsD3F7OI/s0/Bez+na%CC%81zvu13.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCqaVINnXSblnv9MrrdSDe9ycirGel3E_5WIQy8KAqdxzW1wNAMg10LfKeaDE8ZzoEtLNnmnDndV5RTUbPHEMDHX4LwpRoPIHGT1dK5Z5jPC3MXohbimnZEy-beqSDVGvmpwxsD3F7OI/s1600/Bez+na%CC%81zvu13.jpg",
+        "filename": "Bez+názvu13.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRCqaVINnXSblnv9MrrdSDe9ycirGel3E_5WIQy8KAqdxzW1wNAMg10LfKeaDE8ZzoEtLNnmnDndV5RTUbPHEMDHX4LwpRoPIHGT1dK5Z5jPC3MXohbimnZEy-beqSDVGvmpwxsD3F7OI/s1600/Bez+na%CC%81zvu13.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 186,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGP2M6gibbNTfUbXXNQXJi56Ruw9WooIx3fzNZMmL_Pz19fsYjAw_TeTeftrdDItPmTF7io4fCpoIlLvL4R3nWyksMX_3d2QAGjMdj56ppXBU_70DWMKj3cT6NlQhDAm5wC6jPoWU2nN4/s0/Bez+na%CC%81zvu20.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGP2M6gibbNTfUbXXNQXJi56Ruw9WooIx3fzNZMmL_Pz19fsYjAw_TeTeftrdDItPmTF7io4fCpoIlLvL4R3nWyksMX_3d2QAGjMdj56ppXBU_70DWMKj3cT6NlQhDAm5wC6jPoWU2nN4/s1600/Bez+na%CC%81zvu20.jpg",
+        "filename": "Bez+názvu20.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGP2M6gibbNTfUbXXNQXJi56Ruw9WooIx3fzNZMmL_Pz19fsYjAw_TeTeftrdDItPmTF7io4fCpoIlLvL4R3nWyksMX_3d2QAGjMdj56ppXBU_70DWMKj3cT6NlQhDAm5wC6jPoWU2nN4/s1600/Bez+na%CC%81zvu20.jpg",
+          "displayedWidth": 239,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrCFWxzrRnzAsMnPoJO_I2B8oKXTOZt7BYBdbEBvyhxVKwJ5oDI8AJvEFrni487c2dvToN1CYsXwW3vJ7ih2-YuaZr_umf2Sl6p2N3meQkSYgv7SEr1K_QLBFuDZxzQgx63jJQqjk65ZE/s0/Bez+na%CC%81zvu7.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrCFWxzrRnzAsMnPoJO_I2B8oKXTOZt7BYBdbEBvyhxVKwJ5oDI8AJvEFrni487c2dvToN1CYsXwW3vJ7ih2-YuaZr_umf2Sl6p2N3meQkSYgv7SEr1K_QLBFuDZxzQgx63jJQqjk65ZE/s1600/Bez+na%CC%81zvu7.jpg",
+        "filename": "Bez+názvu7.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrCFWxzrRnzAsMnPoJO_I2B8oKXTOZt7BYBdbEBvyhxVKwJ5oDI8AJvEFrni487c2dvToN1CYsXwW3vJ7ih2-YuaZr_umf2Sl6p2N3meQkSYgv7SEr1K_QLBFuDZxzQgx63jJQqjk65ZE/s1600/Bez+na%CC%81zvu7.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 274,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNbl6TdnKmGeUIkv1Jz7MqywIRzNtSeVY6j0Tee6HNlYqh_9mhD3uxIyAx9lh27cMEqtpKAo5VAg2tzXI0zTbEqqBGHykNOB8OHT9kzQgceTw_aMbdaEHEAAfK8PZU4T7h_0IZFrZPNZ4/s0/Bez+na%CC%81zvu4.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNbl6TdnKmGeUIkv1Jz7MqywIRzNtSeVY6j0Tee6HNlYqh_9mhD3uxIyAx9lh27cMEqtpKAo5VAg2tzXI0zTbEqqBGHykNOB8OHT9kzQgceTw_aMbdaEHEAAfK8PZU4T7h_0IZFrZPNZ4/s1600/Bez+na%CC%81zvu4.jpg",
+        "filename": "Bez+názvu4.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNbl6TdnKmGeUIkv1Jz7MqywIRzNtSeVY6j0Tee6HNlYqh_9mhD3uxIyAx9lh27cMEqtpKAo5VAg2tzXI0zTbEqqBGHykNOB8OHT9kzQgceTw_aMbdaEHEAAfK8PZU4T7h_0IZFrZPNZ4/s1600/Bez+na%CC%81zvu4.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 209,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifhjc7fKo5ywXDj2N7YVU8efnxSsARg2Sm18zTOJw1c3EhI9sO6tCGJX1eebqOAyQsO7mbRWET3SEUTSsM0e9ijAEc7J4uCDCSqWTPcSjUJ1LymGioEqnpn-RhaPhXNPYO7_qDHdCZbIk/s0/Bez+na%CC%81zvu19.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifhjc7fKo5ywXDj2N7YVU8efnxSsARg2Sm18zTOJw1c3EhI9sO6tCGJX1eebqOAyQsO7mbRWET3SEUTSsM0e9ijAEc7J4uCDCSqWTPcSjUJ1LymGioEqnpn-RhaPhXNPYO7_qDHdCZbIk/s1600/Bez+na%CC%81zvu19.jpg",
+        "filename": "Bez+názvu19.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifhjc7fKo5ywXDj2N7YVU8efnxSsARg2Sm18zTOJw1c3EhI9sO6tCGJX1eebqOAyQsO7mbRWET3SEUTSsM0e9ijAEc7J4uCDCSqWTPcSjUJ1LymGioEqnpn-RhaPhXNPYO7_qDHdCZbIk/s1600/Bez+na%CC%81zvu19.jpg",
+          "displayedWidth": 269,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw-F2miGTapzvYjHw_c-LJbiyWu0-cuH9bwvtoZNRBnqwQ3f9yLCfKz5_sbdY7O6x9Qx37vj0pUMb4zDm2joOBkbOKCsVoVc77ZOOH0-hq8_eEDAT-LiqLU2gkEjobPzBE7_Kn824LKCY/s0/Bez+na%CC%81zvu21.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw-F2miGTapzvYjHw_c-LJbiyWu0-cuH9bwvtoZNRBnqwQ3f9yLCfKz5_sbdY7O6x9Qx37vj0pUMb4zDm2joOBkbOKCsVoVc77ZOOH0-hq8_eEDAT-LiqLU2gkEjobPzBE7_Kn824LKCY/s1600/Bez+na%CC%81zvu21.jpg",
+        "filename": "Bez+názvu21.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw-F2miGTapzvYjHw_c-LJbiyWu0-cuH9bwvtoZNRBnqwQ3f9yLCfKz5_sbdY7O6x9Qx37vj0pUMb4zDm2joOBkbOKCsVoVc77ZOOH0-hq8_eEDAT-LiqLU2gkEjobPzBE7_Kn824LKCY/s1600/Bez+na%CC%81zvu21.jpg",
+          "displayedWidth": 234,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIBPrYkbs7KEl_iiqSFynqGfjOZd0T4NDdJKReogRo3bbSNgdPnM_L8wybpralPhTfAkkF54iLmv691OWObn7Stdi4m_DnKkktOYbZt3snE6trSE1AtKj_cbIVR7zepae_Fy_VP8VX7hQ/s0/Bez+na%CC%81zvu9.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIBPrYkbs7KEl_iiqSFynqGfjOZd0T4NDdJKReogRo3bbSNgdPnM_L8wybpralPhTfAkkF54iLmv691OWObn7Stdi4m_DnKkktOYbZt3snE6trSE1AtKj_cbIVR7zepae_Fy_VP8VX7hQ/s1600/Bez+na%CC%81zvu9.jpg",
+        "filename": "Bez+názvu9.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIBPrYkbs7KEl_iiqSFynqGfjOZd0T4NDdJKReogRo3bbSNgdPnM_L8wybpralPhTfAkkF54iLmv691OWObn7Stdi4m_DnKkktOYbZt3snE6trSE1AtKj_cbIVR7zepae_Fy_VP8VX7hQ/s1600/Bez+na%CC%81zvu9.jpg",
+          "displayedWidth": 238,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": {
+      "name": "Klučov",
+      "latitude": 50.0956610086674,
+      "longitude": 14.908040966267881,
+      "region": null,
+      "country": "Česko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Vyvýšenina v katastri obce Klučov, zvažujúca sa južným smerom do údolia; oblasťou preteká rieka Šembera",
+        "icon": "mountain"
+      },
+      {
+        "label": "Význam",
+        "value": "Jedno z najstarších hradísk svojho typu (opevnené výšinné hradisko) na území Čiech, Moravy a Slovenska",
+        "icon": "crown"
+      },
+      {
+        "label": "Obranná sieť",
+        "value": "Spolu s hradiskami Přistoupim, Doubravčice a Tismice tvorilo obrannú a hospodársku základňu pri dôležitej obchodnej ceste",
+        "icon": "shield"
+      },
+      {
+        "label": "Staršie (vnútorné) opevnenie",
+        "value": "Drevozemná hradba s priekopou, miestami zábrana zo zvislo a šikmo zasadených kolov — bez použitia kameňa",
+        "icon": "shield"
+      },
+      {
+        "label": "Vežovitá brána",
+        "value": "Šírka okolo 7 m, predsunutá pred hradbu, dĺžka vstupu 11 – 12 m, so zvýšeným podlažím a priezormi",
+        "icon": "building"
+      },
+      {
+        "label": "Tajná chodba",
+        "value": "Podzemná chodba pri severozápadnom okraji hradiska viedla šikmo až k hladine rieky — prístup k vode pri obliehaní",
+        "icon": "scroll"
+      },
+      {
+        "label": "Výška hradby",
+        "value": "Približne 2,5 m, umocnená priekopou v jej tesnej blízkosti",
+        "icon": "mountain"
+      },
+      {
+        "label": "Vnútorná zástavba",
+        "value": "Slovanské polozemnice a väčšie množstvo sýpok — jám na skladovanie obilia a potravín",
+        "icon": "star"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "mladšia doba kamenná",
+        "title": "Najstaršie stopy osídlenia",
+        "description": "Na lokalite boli odkryté neolitické stopy, ku ktorým sa neskôr pridala priekopa súvisiaca s opevnením osady ľudu Unětickej kultúry zo staršej doby bronzovej.",
+        "type": "founding"
+      },
+      {
+        "year": "polovica 8. storočia",
+        "title": "Vznik slovanského hradiska",
+        "description": "Vznik hradiska a súčasne aj vnútorného (staršieho) opevnenia — drevozemná hradba s priekopou a predsunutou kolovou zábranou.",
+        "type": "founding"
+      },
+      {
+        "year": "1. polovica 9. storočia",
+        "title": "Vybudovanie mladšieho opevnenia",
+        "description": "Nová hradba na východnej strane s vežovitou bránou predsunutou pred líniu opevnenia do priestoru prerušenej priekopy.",
+        "type": "construction"
+      },
+      {
+        "year": "okolo polovice 9. storočia",
+        "title": "Zánik hradiska",
+        "description": "Zánik hradiska je predpokladaný približne o jedno storočie po jeho vzniku.",
+        "type": "destruction"
+      },
+      {
+        "year": "15. storočie",
+        "title": "Husitský vojenský tábor",
+        "description": "Po zániku slovanského hradiska bolo návršie ešte krátkodobo využívané ako husitský vojenský tábor.",
+        "type": "event"
+      },
+      {
+        "year": "1970",
+        "title": "Kudrnáčova monografia",
+        "description": "Jaroslav Kudrnáč vydáva prácu Klučov, Staroslovanské hradiště ve středních Čechách (Praha, 1970), zhrňujúcu výsledky výskumu.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lokalita a slovanské osídlenie",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lokalita hradiska sa dnes nachádza v katastri obce Klučov. Vyvýšenina na ktorej sa rozprestieralo slovanské hradisko je dnes využívaná poľnohospodárskov činnosťou. Slovanské hradisko bolo na návrší, ktoré sa zvažuje južným smerom do údolia . Oblasťou preteká rieka Šembera, jej ramená a prítoky . Strategická poloha v kopcovitom teréne bola využívaná už prvými kmeňmi Slovanov.    "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vznik samotného hradiska, a súčasne vnútorného opevnenia, je datovaný do polovice 8. storočia , jeho zánik je potom predpokladaný o jedno storočie neskôr. Okrem slovanského osídlenia boli však na lokalite odkryté už neolitické stopy. Zo staršej doby bronzovej pochádza priekopa, ktorá súvisela s opevnením osady ľudu Unětickej kultúry. Po zániku slovanského hradiska bolo návršie ešte krátkodobo využívané ako husitský vojenský tábor.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEily2hTbXYRAvflnfbPRUkdJEOmjOmQTJoZ6YZs5fab0uNOVJ5Nv34_cxlCiuZ4O_FERoC-0eiKDA47YhxSSixSYv31ZtutU3QFk-1fxeT3gMkeiCVDW8oTzNHI3_KK2aScUcl6RMpvimA/s0/Sken+5.jpeg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEily2hTbXYRAvflnfbPRUkdJEOmjOmQTJoZ6YZs5fab0uNOVJ5Nv34_cxlCiuZ4O_FERoC-0eiKDA47YhxSSixSYv31ZtutU3QFk-1fxeT3gMkeiCVDW8oTzNHI3_KK2aScUcl6RMpvimA/s1600/Sken+5.jpeg",
+          "filename": "Sken+5.jpeg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEily2hTbXYRAvflnfbPRUkdJEOmjOmQTJoZ6YZs5fab0uNOVJ5Nv34_cxlCiuZ4O_FERoC-0eiKDA47YhxSSixSYv31ZtutU3QFk-1fxeT3gMkeiCVDW8oTzNHI3_KK2aScUcl6RMpvimA/s1600/Sken+5.jpeg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Klučov",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Archeologický význam lokality hradiska v Klučove tkvie práve v čase jeho vzniku. Jedná sa o jedno z najstarších hradísk svojho typu ( opevnené výšinné hradisko ) na území Čiech, Moravy a Slovenska. Hradisko sa nachádzalo v oblasti, kde spoločne s ďalšími hradiskami ( Přistoupim, Doubravčice a Tismice ) tvorila obrannú a hospodársku záklaňu pri dôležitej obchodnej ceste. Vo vnútri hradiska sa zachytili rôzne špecializované remeslá, pričom na druhej strane poľnohospodárstvo bolo evidentne vytesnené za hranice opevnenia do priľahlých osád.    "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Opevnenie",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Staršie opevnenie Klučova tvorila drevozemná hradba s priekopou a miestami zábrana zo zvislo a šikmo zasadených kolov. Mladšie opevnenie potom reprezentuje drevozemná hradba a brána čelného typu vsunutá do priestoru prerušenej priekopy. Pri konštrukcii valu nebol použitý kameň. Táto konštrukcia bez kameňa je typická pre prvé slovanská hradiska. Starší val opevnenia je označovaný tiež ako vnútorný, pretože mladší val ho čiastočne obklopoval."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCYFC_cZJmqyhS0nS1C4u3tAi9FfK1pR0HAddnY3gVEg3u34aCb7khndiCfu7SdGimp6Lz2KWHuway9O5ixMQrVU13gjCmZtIgOPKFH9UViU_8v2fDfSt5QqZ_sZdCnvpIkmckw-DBuU/s0/Bez+na%CC%81zvu.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCYFC_cZJmqyhS0nS1C4u3tAi9FfK1pR0HAddnY3gVEg3u34aCb7khndiCfu7SdGimp6Lz2KWHuway9O5ixMQrVU13gjCmZtIgOPKFH9UViU_8v2fDfSt5QqZ_sZdCnvpIkmckw-DBuU/s1600/Bez+na%CC%81zvu.jpg",
+          "filename": "Bez+názvu.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZCYFC_cZJmqyhS0nS1C4u3tAi9FfK1pR0HAddnY3gVEg3u34aCb7khndiCfu7SdGimp6Lz2KWHuway9O5ixMQrVU13gjCmZtIgOPKFH9UViU_8v2fDfSt5QqZ_sZdCnvpIkmckw-DBuU/s1600/Bez+na%CC%81zvu.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 182,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Klučov",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Staršia fáza opevnenia zaberala celú plochu temena návršia. Opevnenie tvorila drevozemná hradba s priekopou pred ňou, v niektorých úsekoch boli rozpoznané zvyšky ďalšieho fortifikačného prvku, ktorým bola zábrana predsunutá pred priekopu, tvorená kolmými a šikmými kolmi. Staršia fáza opevnenia vybiehala na východ do cípu, kde bol vybudovaný prístup na hradisko v podobe bočnej brány.   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Mladšiu fázu opevnenia tvorili hradba, vybudovaná v prvej polovici 9. storočia na východnej strane, ktorá sa primykala svojim južným a severným koncom k vnútornému opevneniu hradiska. Pred hradbou sa nachádzali opäť priekopy. Vo východnom úseku bol mohutný vstup, ktorý bol rekonštruovaný ako vežovitá brána predsunutá pred líniu hradby do priestoru prerušenej priekopy.   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vnútorná priekopa mala rôznu šírku, v závislosti na danostiach terénu. Za priekopou boli potom odkryté rady guľových jamiek, ktoré na niektorých miestach nahradil súvislý žliabok. Jamky boli na niektorých miestach zachované vo dvojiciach a tvoril tak dve paralelné rady. Pred priekopou južného a východného úseku sa vo vzdialenosti 4 až 5,8 m nachádzala ďalšia priekopa, ktorej hĺbka sa pohybovala okolo 1,45 m a jej horná šírka bola okolo 3 m. V niektorých miestach aj tu boli viditeľné menšie guľové jamky po drevených koloch.   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTVXZsyLYRirWAq0cl1FZYvWtuzz0fYamMdoLOmPbWxKGSKoWXmVXrFCzNn4PnsP2fdsqWOQHbs3ulVgiOFPJa40Ey-Gdt1Ep8YtzMe5Rayh6j7XN6ui0edF5ZBfGcdH5t0oOkOCZdxJk/s0/Bez+na%CC%81zvu6.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTVXZsyLYRirWAq0cl1FZYvWtuzz0fYamMdoLOmPbWxKGSKoWXmVXrFCzNn4PnsP2fdsqWOQHbs3ulVgiOFPJa40Ey-Gdt1Ep8YtzMe5Rayh6j7XN6ui0edF5ZBfGcdH5t0oOkOCZdxJk/s1600/Bez+na%CC%81zvu6.jpg",
+          "filename": "Bez+názvu6.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTVXZsyLYRirWAq0cl1FZYvWtuzz0fYamMdoLOmPbWxKGSKoWXmVXrFCzNn4PnsP2fdsqWOQHbs3ulVgiOFPJa40Ey-Gdt1Ep8YtzMe5Rayh6j7XN6ui0edF5ZBfGcdH5t0oOkOCZdxJk/s1600/Bez+na%CC%81zvu6.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 176,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": ".",
+        "caption": ".",
+        "position": "right",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jeden prístup na hradisko bol umožnený úzkym priestorom, ktorý vznikol medzi priekopou a predsunutou zábranou. Začínal v mieste prerušenia zábrany a pokračoval smerom na juh. Šírka prechodu bola 4 až 5 m a tvoril bránu tzv. bočného vstupu. Prechod cez priekopu a vstup na vlastné hradisko bol umožnený pravdepodobne cez premostenie priekopy. Bočná brána umožňovala kontrolu prichádzajúcich, zabraňovala priamemu útoku na vstup do hradiska a pri prípadnom vniknutí nepriateľa do úzkeho priestoru umožňovala jeho bočné napadnutie a ostreľovanie. Strategická funkcia bočnej brány bola navyše umocnená nižšou polohou uličky, než bol terén s priekopami a hradbami. Obrancovia, stojaci na vrchole hradby boli vo zvýhodnenom vyššom bode ako útočník a prevýšenie znemožňovalo dobyvateľom zaútočiť na hradbu priamo.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI8yKSVO8f-7FoFCJBtRnM1UPx2g8yowRywpqN60Ekv6lP5SymabgKtZZseYpDsNQBsgwor-Z2HggSbA8ysevY4DPMaiPXWhUzDZ9t6uV7v4xa5scod6plBPtafnDgkaHZaxTIZANggMU/s0/Nova%CC%81+rekons%CC%8Ctrukcia.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI8yKSVO8f-7FoFCJBtRnM1UPx2g8yowRywpqN60Ekv6lP5SymabgKtZZseYpDsNQBsgwor-Z2HggSbA8ysevY4DPMaiPXWhUzDZ9t6uV7v4xa5scod6plBPtafnDgkaHZaxTIZANggMU/s1600/Nova%CC%81+rekons%CC%8Ctrukcia.jpg",
+          "filename": "Nová+rekonštrukcia.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI8yKSVO8f-7FoFCJBtRnM1UPx2g8yowRywpqN60Ekv6lP5SymabgKtZZseYpDsNQBsgwor-Z2HggSbA8ysevY4DPMaiPXWhUzDZ9t6uV7v4xa5scod6plBPtafnDgkaHZaxTIZANggMU/s1600/Nova%CC%81+rekons%CC%8Ctrukcia.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 259,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Najnovšia rekonštrukcia opevnenia (Bajerová) obsahuje niekoľko zmien oproti pôvodnej",
+        "caption": "Najnovšia rekonštrukcia opevnenia (Bajerová) obsahuje niekoľko zmien oproti pôvodnej",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vežovitá brána",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na hlavnom vchode do hradiska bola identifikovaná a zrekonštruovaná drevená brána s vežovitou nadstavbou. Celková šírka brány mala okolo 7 m a v strednej časti bola brána rozdelená silným nosným stĺpom. Strop brány tvorilo pravdepodobne podlažie, ktoré zaberalo celú šírku vstupu a umožňovalo prístup na horné podlažie veže. Obrancov na tomto podlaží zrejme bránila drevená predprseň. Týmto podlažím v strednej časti prechádzali stĺpy veže. Predpokladá sa tiež zvýšené poschodie vo veži s priezormi. Vlastný vstup bránou bol vďaka predsunutí brány pred vonkajšiu líniu hradby dlhý 11 až 12 m, šírka obidvoch samostatných vstupov bola asi 1,4 m. Vstup bol teda tesne, ale zároveň dostatočne priestranný pre priechod ľudí, dobytka a prípadných užších povozov (ako dokazujú aj objavené stopy vozidla a rozchod ich kolies na Klučově či iných lokalitách). Vchody mohli kryť vráta, ktoré uzatvárali celý priestor vstupu, avšak stopy po nich neboli pozorované.   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpfIr1bl3KHeShAROKlNryRpX9d7b-aJdrj2vI-ty5wkWcMQAb9C0t0Zuo1Tk1XojAckZZdZfdxLBaY_Ep6VK_VhJfrg-hJgdYu2NLg2iRAUgV-S8WE3lB6-quzcFaN0avtaERMi0glxQ/s0/Bez+na%CC%81zvu5.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpfIr1bl3KHeShAROKlNryRpX9d7b-aJdrj2vI-ty5wkWcMQAb9C0t0Zuo1Tk1XojAckZZdZfdxLBaY_Ep6VK_VhJfrg-hJgdYu2NLg2iRAUgV-S8WE3lB6-quzcFaN0avtaERMi0glxQ/s1600/Bez+na%CC%81zvu5.jpg",
+          "filename": "Bez+názvu5.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpfIr1bl3KHeShAROKlNryRpX9d7b-aJdrj2vI-ty5wkWcMQAb9C0t0Zuo1Tk1XojAckZZdZfdxLBaY_Ep6VK_VhJfrg-hJgdYu2NLg2iRAUgV-S8WE3lB6-quzcFaN0avtaERMi0glxQ/s1600/Bez+na%CC%81zvu5.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 194,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Klučov",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na jednom mieste opevnenia boli rozpoznané pozostatky po drevenej veži, ktorá mala tiež dôležitý význam pri obrane hradiska."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tajná chodba",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Mimoriadne zaujímavý bol objav podzemnej chodby, ktorá bola vybudovaná pri severozápadnom okraji hradiska. Chodba viedla šikmo do hĺbky až na úroveň hladiny rieky a umožňovala tak obyvateľom hradika v prípade obliehnia prístup k zdroju kvalitnej vody."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Fortifikácia Klučova spájala stavebné prvky starobylé, siahajúce až do mladšej doby kamennej s empirickými skúsenosťami svojich staviteľov, ktoré mohli byť neskôr ešte zdokonaľované . Hradisko patrí k najstarším svojho typu. Tomu zodpovedá aj zdanlivo jednoduchá konštrukcia opevnenia. Hradba síce nedosahovala výšok ako opevnenia mladších hradísk, ale pri výške 2,5 m predstavoval pre obranu prekážku, ktorú nebolo možné ľahko bežnými prostriedkami danej doby prekonať. Výška hradby bola navyše umocnená priekopa v jej tesnej blízkosti.   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rcq_te0TAz7dIZpCrIX_to9wHU8MKEZ2sGSm4-ItOz8dWSBvA13opx_Lt5TNi6dwlF9siZMn3xwvPOBqiMDTxLsluItjzhO78YH4_-75kBP4SJyqnfhrZ3BLWZmpOZM7LrpDBFXEse0/s0/Bez+na%CC%81zvu2.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rcq_te0TAz7dIZpCrIX_to9wHU8MKEZ2sGSm4-ItOz8dWSBvA13opx_Lt5TNi6dwlF9siZMn3xwvPOBqiMDTxLsluItjzhO78YH4_-75kBP4SJyqnfhrZ3BLWZmpOZM7LrpDBFXEse0/s1600/Bez+na%CC%81zvu2.jpg",
+          "filename": "Bez+názvu2.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rcq_te0TAz7dIZpCrIX_to9wHU8MKEZ2sGSm4-ItOz8dWSBvA13opx_Lt5TNi6dwlF9siZMn3xwvPOBqiMDTxLsluItjzhO78YH4_-75kBP4SJyqnfhrZ3BLWZmpOZM7LrpDBFXEse0/s1600/Bez+na%CC%81zvu2.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 137,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Klučov",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na hradisku bola skúmaná aj vnútorná zástavba, kde boli zistené typické slovanské polozemnice a väčšie množstvo sýpok - jám určených na skladovanie obilia a potravín. Práve tieto objekty z Klučova prispeli významnou mierou k poznaniu vnútornej zástavby slovanských hradísk a funkcie sýpok vo včasnostredovakom období. Medzi veľmi zaujímavé nálezy patrí tiež dobre zachovaná hlinená pražnica, viacero kamených žarnovou a mnohé kovové nálezy, ktoré dokresľujú život na hradisku v období 8. a 9. storočia.   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Spracoval: Orgoň"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lit:"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jaroslav Kudrnáč: Klučov, Staroslovanské hradište ve středních Čechách, Praha, 1970"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bc. Anna Bajerova: Člověk jako budovatel a obhájce hradeb 9. až 12. století ve střední Evrope, Brno 2009 "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Spracoval: Orgoň",
+            "url": null
+          },
+          {
+            "text": "Jaroslav Kudrnáč: Klučov, Staroslovanské hradište ve středních Čechách, Praha, 1970",
+            "url": null
+          },
+          {
+            "text": "Bc. Anna Bajerova: Člověk jako budovatel a obhájce hradeb 9. až 12. století ve střední Evrope, Brno 2009",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "Jaroslav Kudrnáč: Klučov, Staroslovanské hradište ve středních Čechách, Praha, 1970"
+      },
+      {
+        "type": "book",
+        "text": "Bc. Anna Bajerova: Člověk jako budovatel a obhájce hradeb 9. až 12. století ve střední Evrope, Brno 2009"
+      }
+    ]
+  }
+}
