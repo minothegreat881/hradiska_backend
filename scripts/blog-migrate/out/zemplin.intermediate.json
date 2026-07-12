@@ -1,0 +1,789 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\zemplin-post.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-2996452338992423527",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/11/zemplin.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/2996452338992423527/comments/default",
+    "extractedAt": "2026-07-12T20:37:41.999Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&t=h&vpsrc=0&ll=48.440661,21.812775&spn=0.004982,0.00912&z=16&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 18,
+      "captionedImages": 8,
+      "separatorImages": 10
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Zemplín",
+    "slug": "zemplin",
+    "excerpt": "Obec Zemplín patrí k významným stredoeurópskym archeologickým náleziskám. Leží v južnej časti rovnomenného regiónu na pravom brehu rieky, ktorá sa od sútoku Ondavy s Latoricou z neznámych dôvodov nazýva Bodrog. Jej intravilán a blízke okolie bolo…",
+    "authorName": "Orgon",
+    "publishedAt": "2011-11-09T20:33:00.008+01:00",
+    "originalPublishedDate": "2011-11-09T20:33:00.008+01:00",
+    "updatedAt": "2017-05-31T14:50:08.695+02:00",
+    "readingTime": 4,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s0/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s1600/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg",
+      "filename": "Dron+Prista%C5%A1+Ma%C4%8Fari.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s1600/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 180,
+        "originalWidth": 1600,
+        "originalHeight": 900
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s0/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s1600/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg",
+        "filename": "Dron+Prista%C5%A1+Ma%C4%8Fari.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s1600/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1600,
+          "originalHeight": 900
+        },
+        "caption": "Foto z archívu KPÚ Košice poskytol Martin Pristáš"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4X8WQbzGsAy84dIrBKo7ZBgYz4J5gYBdekgO0VIM2hyphenhyphenKDPBxcCL2h-LebMNjN-EccMBpSDQiNaOfWcpOC_Q1K_F836h71qpxkarYg82_jPtNwHGvyzHlwb3kZnVQJIadUmKZi2nsIy-k/s0/zemplin.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4X8WQbzGsAy84dIrBKo7ZBgYz4J5gYBdekgO0VIM2hyphenhyphenKDPBxcCL2h-LebMNjN-EccMBpSDQiNaOfWcpOC_Q1K_F836h71qpxkarYg82_jPtNwHGvyzHlwb3kZnVQJIadUmKZi2nsIy-k/s1600/zemplin.jpg",
+        "filename": "zemplin.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4X8WQbzGsAy84dIrBKo7ZBgYz4J5gYBdekgO0VIM2hyphenhyphenKDPBxcCL2h-LebMNjN-EccMBpSDQiNaOfWcpOC_Q1K_F836h71qpxkarYg82_jPtNwHGvyzHlwb3kZnVQJIadUmKZi2nsIy-k/s1600/zemplin.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 204,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pôdorys hradiska podľa Štefana Janšáka"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1FcvECHzpZpgpBS6PFTIVvGuqNMx-aL4FbFe7cX0sNtkSQvElzUUkNi7Je2IcHIlhjMdZXn6iA_s4ASnxpLdFDbaKJx1CT9qKpyRmyBv9Uf5ad8KeRvLX7USHZyzzPgHO17-ria3UK6w/s0/zempHRvychod.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1FcvECHzpZpgpBS6PFTIVvGuqNMx-aL4FbFe7cX0sNtkSQvElzUUkNi7Je2IcHIlhjMdZXn6iA_s4ASnxpLdFDbaKJx1CT9qKpyRmyBv9Uf5ad8KeRvLX7USHZyzzPgHO17-ria3UK6w/s1600/zempHRvychod.jpg",
+        "filename": "zempHRvychod.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1FcvECHzpZpgpBS6PFTIVvGuqNMx-aL4FbFe7cX0sNtkSQvElzUUkNi7Je2IcHIlhjMdZXn6iA_s4ASnxpLdFDbaKJx1CT9qKpyRmyBv9Uf5ad8KeRvLX7USHZyzzPgHO17-ria3UK6w/s1600/zempHRvychod.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Východná časť hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK0upqL_eYpWJ5FL1Quh8XA8K3awjwmYJIFItvaV6gHwEBIb2OhyphenhyphenNsbny_Fvn6S4eLR_P9jeTBu9rdvRfUi73Fuf_yyGOvgMhsr_QL20cq71-3J1bF54ow1H2j-KSl671OBTN_lZmmiw/s0/Voj+map2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK0upqL_eYpWJ5FL1Quh8XA8K3awjwmYJIFItvaV6gHwEBIb2OhyphenhyphenNsbny_Fvn6S4eLR_P9jeTBu9rdvRfUi73Fuf_yyGOvgMhsr_QL20cq71-3J1bF54ow1H2j-KSl671OBTN_lZmmiw/s1600/Voj+map2.jpg",
+        "filename": "Voj+map2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK0upqL_eYpWJ5FL1Quh8XA8K3awjwmYJIFItvaV6gHwEBIb2OhyphenhyphenNsbny_Fvn6S4eLR_P9jeTBu9rdvRfUi73Fuf_yyGOvgMhsr_QL20cq71-3J1bF54ow1H2j-KSl671OBTN_lZmmiw/s1600/Voj+map2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 188,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTX1SyQ4J5XHus27oLk1k5eYHJsKWJhMHfqx81ycxbPeHwKKYShWEmWUg0pnydWvyA_5SEJ2B2_UuFgaAn8wKB1nCke32RTHMTO1GGg29AejtGsg6nhdOxqQRjGH36kJWh9a5rkNwdkxU/s0/zempHRzapVALu.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTX1SyQ4J5XHus27oLk1k5eYHJsKWJhMHfqx81ycxbPeHwKKYShWEmWUg0pnydWvyA_5SEJ2B2_UuFgaAn8wKB1nCke32RTHMTO1GGg29AejtGsg6nhdOxqQRjGH36kJWh9a5rkNwdkxU/s1600/zempHRzapVALu.jpg",
+        "filename": "zempHRzapVALu.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTX1SyQ4J5XHus27oLk1k5eYHJsKWJhMHfqx81ycxbPeHwKKYShWEmWUg0pnydWvyA_5SEJ2B2_UuFgaAn8wKB1nCke32RTHMTO1GGg29AejtGsg6nhdOxqQRjGH36kJWh9a5rkNwdkxU/s1600/zempHRzapVALu.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z valu na slepé rameno Bodrogu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnT-FixOiv0hGjAZ1N6btmTeOnO5pbEFxRan6T-3XTCEEFPMuatr5aypChg6m4IweIjq_PEQw1eCcbDazlaqXlR4-f4dPRUOllqXC-L44qLHsO81h4Odx7-WyK7M6Eh9FZHi7Yj1jXpI/s0/zemplin+zdaleka.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnT-FixOiv0hGjAZ1N6btmTeOnO5pbEFxRan6T-3XTCEEFPMuatr5aypChg6m4IweIjq_PEQw1eCcbDazlaqXlR4-f4dPRUOllqXC-L44qLHsO81h4Odx7-WyK7M6Eh9FZHi7Yj1jXpI/s1600/zemplin+zdaleka.JPG",
+        "filename": "zemplin+zdaleka.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnT-FixOiv0hGjAZ1N6btmTeOnO5pbEFxRan6T-3XTCEEFPMuatr5aypChg6m4IweIjq_PEQw1eCcbDazlaqXlR4-f4dPRUOllqXC-L44qLHsO81h4Odx7-WyK7M6Eh9FZHi7Yj1jXpI/s1600/zemplin+zdaleka.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 288,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Zemplín zďaleka"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0eX3p5MAPjPlSm0jfBA5E4ZCLj6KhNf7hGFdl20meiV1OBl6LPJaUslZ8u8xNTjE9Q7Rytq9S_5dL5VIb0z5PGQfh5-0EVBAYldeL5xsIQImhhMy7CqdH6uwv8Ccjz-rbtk5JFrwobx4/s0/kostoly.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0eX3p5MAPjPlSm0jfBA5E4ZCLj6KhNf7hGFdl20meiV1OBl6LPJaUslZ8u8xNTjE9Q7Rytq9S_5dL5VIb0z5PGQfh5-0EVBAYldeL5xsIQImhhMy7CqdH6uwv8Ccjz-rbtk5JFrwobx4/s1600/kostoly.jpg",
+        "filename": "kostoly.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0eX3p5MAPjPlSm0jfBA5E4ZCLj6KhNf7hGFdl20meiV1OBl6LPJaUslZ8u8xNTjE9Q7Rytq9S_5dL5VIb0z5PGQfh5-0EVBAYldeL5xsIQImhhMy7CqdH6uwv8Ccjz-rbtk5JFrwobx4/s1600/kostoly.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Kostoly stoja na vyvysenine uprostred hradiska. Vpredu je novsi greckokatolicky kostol, vzadu je povodny romansko-goticky neskor prestavany kalvinsky kostol. Tam, kde stoja kostoly, bol kamenny zupny hrad."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJpdoKGesVOqV7O2VK-YB16ZKBZuUmZPtCEUydQRCEtOyfyqgssrPCvIsh2pQg7Rd91nuNuhbf-rr50YvMKiNwunEln6ks3oCMO9MHLkYpvTs6_QCuLyC64keWB1XAP3uOjGhYQjHN6fM/s0/Stare%25CC%2581+foto.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJpdoKGesVOqV7O2VK-YB16ZKBZuUmZPtCEUydQRCEtOyfyqgssrPCvIsh2pQg7Rd91nuNuhbf-rr50YvMKiNwunEln6ks3oCMO9MHLkYpvTs6_QCuLyC64keWB1XAP3uOjGhYQjHN6fM/s1600/Stare%25CC%2581+foto.jpg",
+        "filename": "Stare%CC%81+foto.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJpdoKGesVOqV7O2VK-YB16ZKBZuUmZPtCEUydQRCEtOyfyqgssrPCvIsh2pQg7Rd91nuNuhbf-rr50YvMKiNwunEln6ks3oCMO9MHLkYpvTs6_QCuLyC64keWB1XAP3uOjGhYQjHN6fM/s1600/Stare%25CC%2581+foto.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 229,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrC-wTA-lwZPDA4T3Aycm1xWh8nj-lSFi6XoJzL_kcSjW7Bq4heIxanavBF2nM7jh-JO7SFPnPLMlEPVyjPCUbEt4NzyN7yB9VGy_gstX2nWYOtXIYEPsxaiEpZmt6TkXBpYGRS1WWWoo/s0/c%25CC%258Crepy+z+valu+1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrC-wTA-lwZPDA4T3Aycm1xWh8nj-lSFi6XoJzL_kcSjW7Bq4heIxanavBF2nM7jh-JO7SFPnPLMlEPVyjPCUbEt4NzyN7yB9VGy_gstX2nWYOtXIYEPsxaiEpZmt6TkXBpYGRS1WWWoo/s1600/c%25CC%258Crepy+z+valu+1.jpg",
+        "filename": "c%CC%8Crepy+z+valu+1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrC-wTA-lwZPDA4T3Aycm1xWh8nj-lSFi6XoJzL_kcSjW7Bq4heIxanavBF2nM7jh-JO7SFPnPLMlEPVyjPCUbEt4NzyN7yB9VGy_gstX2nWYOtXIYEPsxaiEpZmt6TkXBpYGRS1WWWoo/s1600/c%25CC%258Crepy+z+valu+1.jpg",
+          "displayedWidth": 212,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4x2k4HCe6kmmeshs4TIXi0X6bU5qpQsLP2j1UgA49BGSSh1_UD7XnaSC2kiqHGvqVMAzVbq8YRRjS0O9qTr6lt9BRkZeCoEACfSeIHSdHdZiotRqeidylK7pGDORQ9hUCPmd1uTZwazg/s0/c%25CC%258Crepy+z+valu+2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4x2k4HCe6kmmeshs4TIXi0X6bU5qpQsLP2j1UgA49BGSSh1_UD7XnaSC2kiqHGvqVMAzVbq8YRRjS0O9qTr6lt9BRkZeCoEACfSeIHSdHdZiotRqeidylK7pGDORQ9hUCPmd1uTZwazg/s1600/c%25CC%258Crepy+z+valu+2.jpg",
+        "filename": "c%CC%8Crepy+z+valu+2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4x2k4HCe6kmmeshs4TIXi0X6bU5qpQsLP2j1UgA49BGSSh1_UD7XnaSC2kiqHGvqVMAzVbq8YRRjS0O9qTr6lt9BRkZeCoEACfSeIHSdHdZiotRqeidylK7pGDORQ9hUCPmd1uTZwazg/s1600/c%25CC%258Crepy+z+valu+2.jpg",
+          "displayedWidth": 292,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQJ4FJj_kWVbieIvhifBEWK1R5eS309-pfe5QtDo4jkXc_K62oM3i7YATT6cFogEaktJvqccWv01E1R2M8sAHB1QLMxW2hmWh2C8rE8s8TTztjJA5ioPP_wbul3vPwuJ1hC5QfQxUSA4/s0/202350_4387506050540_1603850428_o.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQJ4FJj_kWVbieIvhifBEWK1R5eS309-pfe5QtDo4jkXc_K62oM3i7YATT6cFogEaktJvqccWv01E1R2M8sAHB1QLMxW2hmWh2C8rE8s8TTztjJA5ioPP_wbul3vPwuJ1hC5QfQxUSA4/s1600/202350_4387506050540_1603850428_o.jpeg",
+        "filename": "202350_4387506050540_1603850428_o.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQJ4FJj_kWVbieIvhifBEWK1R5eS309-pfe5QtDo4jkXc_K62oM3i7YATT6cFogEaktJvqccWv01E1R2M8sAHB1QLMxW2hmWh2C8rE8s8TTztjJA5ioPP_wbul3vPwuJ1hC5QfQxUSA4/s1600/202350_4387506050540_1603850428_o.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "V pozedí mohutný val hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoLFBPSwWBLTZ0l9IL56ZEtLqrJ0mZUk-hLHQVZ715zYooAt64ce0VW_MIOJi9gPY23HIcKyaNn-mxsXNURVtgZDh79otbdtHHMrEWREzL6Z5I3IWwdAUwnYEYnsRO_rUegroNelntYc/s0/278147_4387500050390_2092685301_o.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoLFBPSwWBLTZ0l9IL56ZEtLqrJ0mZUk-hLHQVZ715zYooAt64ce0VW_MIOJi9gPY23HIcKyaNn-mxsXNURVtgZDh79otbdtHHMrEWREzL6Z5I3IWwdAUwnYEYnsRO_rUegroNelntYc/s1600/278147_4387500050390_2092685301_o.jpeg",
+        "filename": "278147_4387500050390_2092685301_o.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoLFBPSwWBLTZ0l9IL56ZEtLqrJ0mZUk-hLHQVZ715zYooAt64ce0VW_MIOJi9gPY23HIcKyaNn-mxsXNURVtgZDh79otbdtHHMrEWREzL6Z5I3IWwdAUwnYEYnsRO_rUegroNelntYc/s1600/278147_4387500050390_2092685301_o.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwOKBJ2QAQnPVb6vvnkcI-R4aNJQuxl33zYnW-igifBSw1IuaKVdFD78rJ6r64pTf11FwO8SVs8bn-qTmHwW-7oXWLrQgYNK4fVFrHuj-xRXjfz0GzOKo8ozzxNnbAVEUGoWDpQT08aOQ/s0/333371_4387494730257_1911740740_o.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwOKBJ2QAQnPVb6vvnkcI-R4aNJQuxl33zYnW-igifBSw1IuaKVdFD78rJ6r64pTf11FwO8SVs8bn-qTmHwW-7oXWLrQgYNK4fVFrHuj-xRXjfz0GzOKo8ozzxNnbAVEUGoWDpQT08aOQ/s1600/333371_4387494730257_1911740740_o.jpeg",
+        "filename": "333371_4387494730257_1911740740_o.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwOKBJ2QAQnPVb6vvnkcI-R4aNJQuxl33zYnW-igifBSw1IuaKVdFD78rJ6r64pTf11FwO8SVs8bn-qTmHwW-7oXWLrQgYNK4fVFrHuj-xRXjfz0GzOKo8ozzxNnbAVEUGoWDpQT08aOQ/s1600/333371_4387494730257_1911740740_o.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdhA5WSP7RooDNzSakQkOTSc6bu0qzZY1sphxiSm5sgImt3NhYbwr9g8abhWHRLagahl5-d3Wo7Ndwcr7JM6mU3AJP2Z1OfzskpDqDyKy_pj-CvKXl4M2dYeqnkAcxBdUHsITRzwjpBc/s0/411847_4387503810484_1608660548_o.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdhA5WSP7RooDNzSakQkOTSc6bu0qzZY1sphxiSm5sgImt3NhYbwr9g8abhWHRLagahl5-d3Wo7Ndwcr7JM6mU3AJP2Z1OfzskpDqDyKy_pj-CvKXl4M2dYeqnkAcxBdUHsITRzwjpBc/s1600/411847_4387503810484_1608660548_o.jpeg",
+        "filename": "411847_4387503810484_1608660548_o.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdhA5WSP7RooDNzSakQkOTSc6bu0qzZY1sphxiSm5sgImt3NhYbwr9g8abhWHRLagahl5-d3Wo7Ndwcr7JM6mU3AJP2Z1OfzskpDqDyKy_pj-CvKXl4M2dYeqnkAcxBdUHsITRzwjpBc/s1600/411847_4387503810484_1608660548_o.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtY6WiopsJQHEuxUEKSsGknU1X7PMqhOmKojX3EL9OqC6AijBFo_PRXeb2E1m1d6TI_tEaFH3mrWzBQ9-J4FJiUmhRlkNUuk3eAomu01cL5Pc0e3D-2PTwcIrDnmZNc8UHZ0l3HyP3o0I/s0/469340_4387495530277_739299579_o.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtY6WiopsJQHEuxUEKSsGknU1X7PMqhOmKojX3EL9OqC6AijBFo_PRXeb2E1m1d6TI_tEaFH3mrWzBQ9-J4FJiUmhRlkNUuk3eAomu01cL5Pc0e3D-2PTwcIrDnmZNc8UHZ0l3HyP3o0I/s1600/469340_4387495530277_739299579_o.jpeg",
+        "filename": "469340_4387495530277_739299579_o.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtY6WiopsJQHEuxUEKSsGknU1X7PMqhOmKojX3EL9OqC6AijBFo_PRXeb2E1m1d6TI_tEaFH3mrWzBQ9-J4FJiUmhRlkNUuk3eAomu01cL5Pc0e3D-2PTwcIrDnmZNc8UHZ0l3HyP3o0I/s1600/469340_4387495530277_739299579_o.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Koruna valu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhut2Ro5EnNFykCL5CZPPUP4KFmGb1OO2HMRhOp1ujryOIXyZIL4o7SuYcYoZKR45QtdNZ17YH3hjVfWFQSWNvUbryealvZj5kgMZQjS-4LEjEGsidixt9-KT8rCVlrbAMC8ByblX6njMA/s0/469415_4387496010289_900907351_o.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhut2Ro5EnNFykCL5CZPPUP4KFmGb1OO2HMRhOp1ujryOIXyZIL4o7SuYcYoZKR45QtdNZ17YH3hjVfWFQSWNvUbryealvZj5kgMZQjS-4LEjEGsidixt9-KT8rCVlrbAMC8ByblX6njMA/s1600/469415_4387496010289_900907351_o.jpeg",
+        "filename": "469415_4387496010289_900907351_o.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhut2Ro5EnNFykCL5CZPPUP4KFmGb1OO2HMRhOp1ujryOIXyZIL4o7SuYcYoZKR45QtdNZ17YH3hjVfWFQSWNvUbryealvZj5kgMZQjS-4LEjEGsidixt9-KT8rCVlrbAMC8ByblX6njMA/s1600/469415_4387496010289_900907351_o.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWgJc3RKi1Cl3vMpQK33-TWUJXm3ZLQ_KPss2-Nla-O0vIMItLP2Xrjh96rKAgpdamQ4cwsVy1cM7_34wvn22egAf0TKSZ-ryAhyphenhyphenpEeGl3v010HKFt948AQGMLTn6OuplgrRD4EkilcQ/s0/469566_4387498010339_1964375423_o.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWgJc3RKi1Cl3vMpQK33-TWUJXm3ZLQ_KPss2-Nla-O0vIMItLP2Xrjh96rKAgpdamQ4cwsVy1cM7_34wvn22egAf0TKSZ-ryAhyphenhyphenpEeGl3v010HKFt948AQGMLTn6OuplgrRD4EkilcQ/s1600/469566_4387498010339_1964375423_o.jpeg",
+        "filename": "469566_4387498010339_1964375423_o.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWgJc3RKi1Cl3vMpQK33-TWUJXm3ZLQ_KPss2-Nla-O0vIMItLP2Xrjh96rKAgpdamQ4cwsVy1cM7_34wvn22egAf0TKSZ-ryAhyphenhyphenpEeGl3v010HKFt948AQGMLTn6OuplgrRD4EkilcQ/s1600/469566_4387498010339_1964375423_o.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Uud-L9TZ_WzQZmb8_B3zsAGedS6NYljb-VuiBinBmMv0Owjf22074vOHEgGYNX39illAMSdZHUCb6TEkBl3H6gU8nKRDkQ1Hn10c7ccQzQ6ZMCZUlVUPLcYRR3iwvKVgEseKf-g6wlQ/s0/471321_4387502570453_1256998678_o.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Uud-L9TZ_WzQZmb8_B3zsAGedS6NYljb-VuiBinBmMv0Owjf22074vOHEgGYNX39illAMSdZHUCb6TEkBl3H6gU8nKRDkQ1Hn10c7ccQzQ6ZMCZUlVUPLcYRR3iwvKVgEseKf-g6wlQ/s1600/471321_4387502570453_1256998678_o.jpeg",
+        "filename": "471321_4387502570453_1256998678_o.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Uud-L9TZ_WzQZmb8_B3zsAGedS6NYljb-VuiBinBmMv0Owjf22074vOHEgGYNX39illAMSdZHUCb6TEkBl3H6gU8nKRDkQ1Hn10c7ccQzQ6ZMCZUlVUPLcYRR3iwvKVgEseKf-g6wlQ/s1600/471321_4387502570453_1256998678_o.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Zemplín"
+    ],
+    "category": null,
+    "location": {
+      "name": "Zemplín",
+      "latitude": 48.440661,
+      "longitude": 21.812775,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Návršie Hradisko na východnom okraji obce, skalný ostroh vo výške 121 m, asi 1,5 km od sútoku Ondavy a Latorice",
+        "icon": "mountain"
+      },
+      {
+        "label": "Rozmery hradiska",
+        "value": "Oválny pôdorys 240 × 150 m, val kopírujúci okraje vyvýšeniny, výška asi 4 m",
+        "icon": "shield"
+      },
+      {
+        "label": "Konštrukcia valu",
+        "value": "Na západe hlinený val s jadrom z nasucho kladených kameňov, na východe (nad strmým brehom Bodrogu) drevená palisáda",
+        "icon": "shield"
+      },
+      {
+        "label": "Typ Zemplín",
+        "value": "Štruktúra osídlenia sa stala modelovým pojmom pre podobné sídliská vo východokeltskom prostredí",
+        "icon": "star"
+      },
+      {
+        "label": "Remeslá",
+        "value": "Výroba maľovanej keramiky (hrnčiarska dielňa s pecou s priemerom rošta až 1,8 m) a metalurgické dielne",
+        "icon": "crown"
+      },
+      {
+        "label": "Etnicita",
+        "value": "Zmiešané keltsko-dácke obyvateľstvo v kontaktnej zóne dvoch kultúrnych svetov",
+        "icon": "users"
+      },
+      {
+        "label": "Zdroj",
+        "value": "Vladimír Turčan a kolektív: Archeologické pamiatky - Kultúrne krásy Slovenska, Dajama, 2009",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "od 5. tisícročia pred Kr.",
+        "title": "Opakované praveké osídlenie",
+        "description": "Strategicky výhodná vyvýšenina poskytovala prirodzenú ochranu pred nepriateľom aj pred povodňami z rozvodneného Bodrogu.",
+        "type": "founding"
+      },
+      {
+        "year": "1. storočie pred Kr.",
+        "title": "Opevnenie hradiska",
+        "description": "Vznikol sídliskový komplex s etnicky zmiešaným keltsko-dáckym obyvateľstvom — hradisko na oválnom pôdoryse 240 × 150 m obklopené menšími výrobnými osadami, tzv. typ Zemplín.",
+        "type": "construction"
+      },
+      {
+        "year": "okolo polovice 1. storočia pred n. l.",
+        "title": "Obdobie najväčšieho rozkvetu",
+        "description": "Dôležité stredisko výroby maľovanej keramiky, metalurgie a obchodu, sprostredkúvajúce kontakty medzi Panóniou, severným Slovenskom a Malopoľskom.",
+        "type": "event"
+      },
+      {
+        "year": "1. storočie n. l.",
+        "title": "Zánik keltsko-dáckeho osídlenia",
+        "description": "Osídlenie postupne doznieva a koncom storočia zaniká pod tlakom postupujúcich Germánov, nositeľov przeworskej kultúry.",
+        "type": "destruction"
+      },
+      {
+        "year": "koniec 9. – 11. storočie",
+        "title": "Slovania obnovujú hradisko",
+        "description": "Slovania využili priestor niekdajšieho keltsko-dáckeho hradiska, doplnili a spevnili staršie valové opevnenie na východnej strane.",
+        "type": "founding"
+      },
+      {
+        "year": "10. storočie",
+        "title": "Rozsiahla prestavba opevnenia",
+        "description": "Pravdepodobne pod hrozbou útokov staromaďarských kmeňov obyvatelia hradiska zvýšili a spevnili val po celom obvode.",
+        "type": "construction"
+      },
+      {
+        "year": "8. – 9. storočie",
+        "title": "Veľkomoravský hrob na Szélmalomdombe",
+        "description": "Hrob z doby veľkomoravskej nájdený na mohylníku z doby rímskej — dokladá, že v Zemplíne vtedy žil väčší počet ľudí a musel existovať rozsiahlejší cintorín.",
+        "type": "discovery"
+      },
+      {
+        "year": "prelom 12. a 13. storočia",
+        "title": "Zmienka u Anonyma",
+        "description": "Historický román Anonyma uvádza, že miesto sa stalo útočiskom slovienskeho veliteľa utekajúceho z hradiska Uh (dnešný Užhorod) pred Maďarmi vedenými Álmošom.",
+        "type": "event"
+      },
+      {
+        "year": "prelom 11. a 12. storočia",
+        "title": "Posledná úprava valu, prestavba na hrad",
+        "description": "Hradisko sa začalo prestavovať na hrad — postavená kamenná administratívna budova a pravdepodobne aj kostol menších rozmerov.",
+        "type": "construction"
+      },
+      {
+        "year": "1261",
+        "title": "Najstarší písomný prameň o obci",
+        "description": "Obec sa priamo uvádza ako villa Zemplén; vyvinula sa zo staršej osady existujúcej v tesnej blízkosti ranofeudálneho hradu.",
+        "type": "event"
+      },
+      {
+        "year": "do konca 13. storočia",
+        "title": "Majetok uhorských kráľov",
+        "description": "Hrad a dedina boli majetkom uhorských kráľov a centrom zemplínskeho komitátu — významná pevnosť na severnej hranici formujúceho sa uhorského štátu.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Obec Zemplín patrí k významným stredoeurópskym archeologickým náleziskám. Leží v južnej časti rovnomenného regiónu na pravom brehu rieky, ktorá sa od sútoku Ondavy s Latoricou z neznámych dôvodov nazýva Bodrog. Jej intravilán a blízke okolie bolo intenzívne osídľované od mladšej doby kamennej. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hlavnou príčinou, prečo si ľudia práve na tomto mieste zakladali svoje sídla, boli dobré podmienky pre rozvoj poľnohospodárstva a strategicky výhodná poloha blízko dôležitej potiskej diaľkovej cesty z juhu na sever. Jedna z jej vetiev smerovala popri bodrogu a jeho prítokoch ku karpatským priesmykom. Najstarší písomný prameň o obci, kde sa priamo uvádza ako villa zemplén, pochádza z roku 1261. vyvinula sa zo staršej osady existujúcej v tesnej blízkosti ranofeudálneho hradu. Do konca 13. storočia bol hrad a dedina majetkom uhorských kráľov a centrom zemplínskeho komitátu. K neprehliadnuteľným pamiatkam patrí návršie "
+              },
+              {
+                "type": "text",
+                "text": "Hradisko",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " na východnom okraji obce s dobre zachovaným valovým opevnením na skalnom ostrohovitom návrší v nadmorskej výške 121 m. V rovinatej krajine s priemernou nadmorskou výškou okolo 100 m predstavuje návršie dominantný terénny útvar vzdialený asi jeden a pol kilometra od sútoku Ondavy a Latorice. Strategicky výhodná poloha vyvýšeniny poskytovala obyvateľom prirodzenú ochranu pred nepriateľom a v čase záplav aj pred vodou z rozvodnených ramien Bodrogu a bola od 5. tisícročia pred Kr. opakovane využívaná pre osídlenie. Opevnená však bola až v 1. stor. pred Kr. V tom čase vznikol na území dnešnej obce sídliskový komplex s etnicky zmiešaným keltsko-dáckym obyvateľstvom. Komplex pozostával z hradiska obklopeného menšími výrobnými osadami. \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Štruktúra osídlenia v Zemplíne nazvaná ako typ Zemplín sa stala modelom pre označenie podobných sídlisk vo východokeltskom prostredí. Hradisko v Zemplíne vybudované na skalnom ostrohu s oválnym pôdorysom a plochou 240 x 150 m bolo obohnané valom, ktorý kopíroval okraje vyvýšeniny. Konštrukcia opevnenia nebola rovnaká. Hlinený val na západnej, ľahšie prístupnej strane mal jadro z kameňov kladených na sucho. Na východnej strane v úseku, kde skalná stena strmo klesala k Bodrogu, bola iba drevená palisáda. Predpokladá sa, že val dosahoval výšku asi štyroch metrov a na hrebeni bol ukončený palisádou. Hlavná brána do hradiska sa nachádzala na južnej strane. Vo východnej časti hradiska bola preskúmaná čiastočne zahĺbená chata obdĺžnikového pôdorysu s ohniskom a typickou dvojkolovou konštrukciou. Hospodárskym zázemím keltsko-dáckeho hradiska boli menšie sídliskové bunky rozložené v tesnej blízkosti po celej pravostrannej terase Bodrogu. V osadách sa vykonávala aj špecializovaná remeselná výroba. Patrila k nej hlavne výroba maľovanej keramiky, pričom areál hrnčiarskych pracovísk sa rozprestieral v severozápadnej časti obce, kde sa podarilo preskúmať dielňu s veľkou hrnčiarskou pecou s priemerom rošta až 1,8 m."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s0/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s1600/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg",
+          "filename": "Dron+Prista%C5%A1+Ma%C4%8Fari.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s1600/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 180,
+            "originalWidth": 1600,
+            "originalHeight": 900
+          }
+        },
+        "alt": "Foto z archívu KPÚ Košice poskytol Martin Pristáš",
+        "caption": "Foto z archívu KPÚ Košice poskytol Martin Pristáš",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na hradisku tiež boli sústredené metalurgické dielne. Súčasťou sídliskovej aglomerácie v Zemplíne bolo kultové miesto, ktoré ležalo juhozápadne od hradiska. V laténskej dobe získal Zemplín spoločensky a hospodársky nadradené postavenie voči blízkym súdobým osadám. Obyvateľstvo Zemplína bolo etnicky zmiešané, pretože územie ležalo v kontaktnej zóne medzi dvoma etnicky a kultúrne rozdielnymi svetmi - keltským a dáckym. Obdobie najväčšieho rozkvetu zažíva okolo polovice 1. storočia pred n. l. V tom čase sa stáva dôležitým strediskom výroby kvalitnej maľovanej keramiky, metalurgie a obchodu. Jeho význam prerastá hranice regiónu. Plní úlohu sprostredkovateľa kontaktov medzi Panóniou, severným Slovenskom a Malopoľskom. V 1. storočí n. l. keltsko-dácke osídlenie Zemplína postupne doznieva a koncom storočia pod tlakom zo severu postupujúcich Germánov, nositeľov przeworskej kultúry, zaniká."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4X8WQbzGsAy84dIrBKo7ZBgYz4J5gYBdekgO0VIM2hyphenhyphenKDPBxcCL2h-LebMNjN-EccMBpSDQiNaOfWcpOC_Q1K_F836h71qpxkarYg82_jPtNwHGvyzHlwb3kZnVQJIadUmKZi2nsIy-k/s0/zemplin.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4X8WQbzGsAy84dIrBKo7ZBgYz4J5gYBdekgO0VIM2hyphenhyphenKDPBxcCL2h-LebMNjN-EccMBpSDQiNaOfWcpOC_Q1K_F836h71qpxkarYg82_jPtNwHGvyzHlwb3kZnVQJIadUmKZi2nsIy-k/s1600/zemplin.jpg",
+          "filename": "zemplin.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4X8WQbzGsAy84dIrBKo7ZBgYz4J5gYBdekgO0VIM2hyphenhyphenKDPBxcCL2h-LebMNjN-EccMBpSDQiNaOfWcpOC_Q1K_F836h71qpxkarYg82_jPtNwHGvyzHlwb3kZnVQJIadUmKZi2nsIy-k/s1600/zemplin.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 204,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Pôdorys hradiska podľa Štefana Janšáka",
+        "caption": "Pôdorys hradiska podľa Štefana Janšáka",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Od konca 9. až do 11. stor. využili priestor niekdajšieho keltsko-dáckeho hradiska Slovania. Staršie valové opevnenie na východnej strane doplnili a po celom obvode spevnili. V 10. storočí, pravdepodobne pod hrozbou útokov staromaďarských kmeňov prenikajúcich do Karpatskej kotliny, pristúpili obyvatelia hradiska k rozsiahlej prestavbe opevnenia, ktoré po celom obvode zvýšili a spevnili. Zlomky keramiky dokazujúce kontinuitu Slovanov sa nachádzajú na rôznych miestach v intraviláne i bezprostrednom okolí Zemplína."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Okrem obydlia z Kertalje o tom dokazuje aj hrob z 8.-9. storočia – doba veľkomoravská – nájdený na mohylníku z doby rímskej na Szélmalomdombe. Je isté, že v tom čase v Zemplíne žil väčší počet ľudí, teda musel existovať aj rozsiahlejší cintorín. O hradisku je zmienka v historickom románe tzv. Anonyma z prelomu 12. a 13. storočia. Podľa nej sa toto miesto stalo útočiskom slovienskeho veliteľa utekajúceho z hradiska Uh (dnešný Užhorod), na ktoré útočili Maďari pod vedením Álmoša. Na mieste slovanského hradiska vznikol neskôr hrad. Hradisko v 11. storočí a hrad do konca 13. storočia patrili uhorským kráľom. Bola to významná pevnosť na severnej hranici formujúceho sa uhorského štátu, sídlo župana a centrum komitátu Zemplín. K poslednej úprave valu došlo pravdepodobne na prelome 11. a 12. storočia, kedy sa hradisko začalo prestavovať na hrad. Postavili kamennú administratívnu budovu a asi aj kostol menších rozmerov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1FcvECHzpZpgpBS6PFTIVvGuqNMx-aL4FbFe7cX0sNtkSQvElzUUkNi7Je2IcHIlhjMdZXn6iA_s4ASnxpLdFDbaKJx1CT9qKpyRmyBv9Uf5ad8KeRvLX7USHZyzzPgHO17-ria3UK6w/s0/zempHRvychod.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1FcvECHzpZpgpBS6PFTIVvGuqNMx-aL4FbFe7cX0sNtkSQvElzUUkNi7Je2IcHIlhjMdZXn6iA_s4ASnxpLdFDbaKJx1CT9qKpyRmyBv9Uf5ad8KeRvLX7USHZyzzPgHO17-ria3UK6w/s1600/zempHRvychod.jpg",
+          "filename": "zempHRvychod.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1FcvECHzpZpgpBS6PFTIVvGuqNMx-aL4FbFe7cX0sNtkSQvElzUUkNi7Je2IcHIlhjMdZXn6iA_s4ASnxpLdFDbaKJx1CT9qKpyRmyBv9Uf5ad8KeRvLX7USHZyzzPgHO17-ria3UK6w/s1600/zempHRvychod.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Východná časť hradiska",
+        "caption": "Východná časť hradiska",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Spracoval Orgoň"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Foto:"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lit:"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vladimír Turčan a kolektív: Archeologické pamiatky - Kultúrne krásy Slovenska, Dajama, 2009"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": "Foto:",
+        "items": [
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQJ4FJj_kWVbieIvhifBEWK1R5eS309-pfe5QtDo4jkXc_K62oM3i7YATT6cFogEaktJvqccWv01E1R2M8sAHB1QLMxW2hmWh2C8rE8s8TTztjJA5ioPP_wbul3vPwuJ1hC5QfQxUSA4/s1600/202350_4387506050540_1603850428_o.jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQJ4FJj_kWVbieIvhifBEWK1R5eS309-pfe5QtDo4jkXc_K62oM3i7YATT6cFogEaktJvqccWv01E1R2M8sAHB1QLMxW2hmWh2C8rE8s8TTztjJA5ioPP_wbul3vPwuJ1hC5QfQxUSA4/s1600/202350_4387506050540_1603850428_o.jpeg"
+          },
+          {
+            "text": "V pozedí mohutný val hradiska",
+            "url": null
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoLFBPSwWBLTZ0l9IL56ZEtLqrJ0mZUk-hLHQVZ715zYooAt64ce0VW_MIOJi9gPY23HIcKyaNn-mxsXNURVtgZDh79otbdtHHMrEWREzL6Z5I3IWwdAUwnYEYnsRO_rUegroNelntYc/s1600/278147_4387500050390_2092685301_o.jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoLFBPSwWBLTZ0l9IL56ZEtLqrJ0mZUk-hLHQVZ715zYooAt64ce0VW_MIOJi9gPY23HIcKyaNn-mxsXNURVtgZDh79otbdtHHMrEWREzL6Z5I3IWwdAUwnYEYnsRO_rUegroNelntYc/s1600/278147_4387500050390_2092685301_o.jpeg"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwOKBJ2QAQnPVb6vvnkcI-R4aNJQuxl33zYnW-igifBSw1IuaKVdFD78rJ6r64pTf11FwO8SVs8bn-qTmHwW-7oXWLrQgYNK4fVFrHuj-xRXjfz0GzOKo8ozzxNnbAVEUGoWDpQT08aOQ/s1600/333371_4387494730257_1911740740_o.jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwOKBJ2QAQnPVb6vvnkcI-R4aNJQuxl33zYnW-igifBSw1IuaKVdFD78rJ6r64pTf11FwO8SVs8bn-qTmHwW-7oXWLrQgYNK4fVFrHuj-xRXjfz0GzOKo8ozzxNnbAVEUGoWDpQT08aOQ/s1600/333371_4387494730257_1911740740_o.jpeg"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdhA5WSP7RooDNzSakQkOTSc6bu0qzZY1sphxiSm5sgImt3NhYbwr9g8abhWHRLagahl5-d3Wo7Ndwcr7JM6mU3AJP2Z1OfzskpDqDyKy_pj-CvKXl4M2dYeqnkAcxBdUHsITRzwjpBc/s1600/411847_4387503810484_1608660548_o.jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdhA5WSP7RooDNzSakQkOTSc6bu0qzZY1sphxiSm5sgImt3NhYbwr9g8abhWHRLagahl5-d3Wo7Ndwcr7JM6mU3AJP2Z1OfzskpDqDyKy_pj-CvKXl4M2dYeqnkAcxBdUHsITRzwjpBc/s1600/411847_4387503810484_1608660548_o.jpeg"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtY6WiopsJQHEuxUEKSsGknU1X7PMqhOmKojX3EL9OqC6AijBFo_PRXeb2E1m1d6TI_tEaFH3mrWzBQ9-J4FJiUmhRlkNUuk3eAomu01cL5Pc0e3D-2PTwcIrDnmZNc8UHZ0l3HyP3o0I/s1600/469340_4387495530277_739299579_o.jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtY6WiopsJQHEuxUEKSsGknU1X7PMqhOmKojX3EL9OqC6AijBFo_PRXeb2E1m1d6TI_tEaFH3mrWzBQ9-J4FJiUmhRlkNUuk3eAomu01cL5Pc0e3D-2PTwcIrDnmZNc8UHZ0l3HyP3o0I/s1600/469340_4387495530277_739299579_o.jpeg"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhut2Ro5EnNFykCL5CZPPUP4KFmGb1OO2HMRhOp1ujryOIXyZIL4o7SuYcYoZKR45QtdNZ17YH3hjVfWFQSWNvUbryealvZj5kgMZQjS-4LEjEGsidixt9-KT8rCVlrbAMC8ByblX6njMA/s1600/469415_4387496010289_900907351_o.jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhut2Ro5EnNFykCL5CZPPUP4KFmGb1OO2HMRhOp1ujryOIXyZIL4o7SuYcYoZKR45QtdNZ17YH3hjVfWFQSWNvUbryealvZj5kgMZQjS-4LEjEGsidixt9-KT8rCVlrbAMC8ByblX6njMA/s1600/469415_4387496010289_900907351_o.jpeg"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWgJc3RKi1Cl3vMpQK33-TWUJXm3ZLQ_KPss2-Nla-O0vIMItLP2Xrjh96rKAgpdamQ4cwsVy1cM7_34wvn22egAf0TKSZ-ryAhyphenhyphenpEeGl3v010HKFt948AQGMLTn6OuplgrRD4EkilcQ/s1600/469566_4387498010339_1964375423_o.jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWgJc3RKi1Cl3vMpQK33-TWUJXm3ZLQ_KPss2-Nla-O0vIMItLP2Xrjh96rKAgpdamQ4cwsVy1cM7_34wvn22egAf0TKSZ-ryAhyphenhyphenpEeGl3v010HKFt948AQGMLTn6OuplgrRD4EkilcQ/s1600/469566_4387498010339_1964375423_o.jpeg"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Uud-L9TZ_WzQZmb8_B3zsAGedS6NYljb-VuiBinBmMv0Owjf22074vOHEgGYNX39illAMSdZHUCb6TEkBl3H6gU8nKRDkQ1Hn10c7ccQzQ6ZMCZUlVUPLcYRR3iwvKVgEseKf-g6wlQ/s1600/471321_4387502570453_1256998678_o.jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Uud-L9TZ_WzQZmb8_B3zsAGedS6NYljb-VuiBinBmMv0Owjf22074vOHEgGYNX39illAMSdZHUCb6TEkBl3H6gU8nKRDkQ1Hn10c7ccQzQ6ZMCZUlVUPLcYRR3iwvKVgEseKf-g6wlQ/s1600/471321_4387502570453_1256998678_o.jpeg"
+          },
+          {
+            "text": "Vladimír Turčan a kolektív: Archeologické pamiatky - Kultúrne krásy Slovenska, Dajama, 2009",
+            "url": null
+          },
+          {
+            "text": "B.Benedik: Slovanské nálezy z výskumu valu na hradisku v Zemplíne, Štúdijné zvesti 14, 1964",
+            "url": null
+          },
+          {
+            "text": "http://www.sav.sk/index?lang=sk&charset=&doc=services-news&news_no=2829",
+            "url": "http://www.sav.sk/index?lang=sk&charset=&doc=services-news&news_no=2829"
+          },
+          {
+            "text": "http://archivportal.arcanum.hu/maps/html/katfelm2b_google.html",
+            "url": "http://archivportal.arcanum.hu/maps/html/katfelm2b_google.html"
+          },
+          {
+            "text": "http://geo.enviroportal.sk/sluzby/zobrazovacie-sluzby-priestorovych-udajov/rastre/historicke-mapovanie-slovenska/vojenske-mapovanie-i-1764-1787",
+            "url": "http://geo.enviroportal.sk/sluzby/zobrazovacie-sluzby-priestorovych-udajov/rastre/historicke-mapovanie-slovenska/vojenske-mapovanie-i-1764-1787"
+          },
+          {
+            "text": "http://www.zsphorova.sk/dejepis/vm1.html",
+            "url": "http://www.zsphorova.sk/dejepis/vm1.html"
+          },
+          {
+            "text": "Foto v texte: Kveta",
+            "url": null
+          },
+          {
+            "text": "Foto pod textom: Viliam Olbricht",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Foto:"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQJ4FJj_kWVbieIvhifBEWK1R5eS309-pfe5QtDo4jkXc_K62oM3i7YATT6cFogEaktJvqccWv01E1R2M8sAHB1QLMxW2hmWh2C8rE8s8TTztjJA5ioPP_wbul3vPwuJ1hC5QfQxUSA4/s1600/202350_4387506050540_1603850428_o.jpeg",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQJ4FJj_kWVbieIvhifBEWK1R5eS309-pfe5QtDo4jkXc_K62oM3i7YATT6cFogEaktJvqccWv01E1R2M8sAHB1QLMxW2hmWh2C8rE8s8TTztjJA5ioPP_wbul3vPwuJ1hC5QfQxUSA4/s1600/202350_4387506050540_1603850428_o.jpeg"
+      },
+      {
+        "type": "book",
+        "text": "V pozedí mohutný val hradiska"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoLFBPSwWBLTZ0l9IL56ZEtLqrJ0mZUk-hLHQVZ715zYooAt64ce0VW_MIOJi9gPY23HIcKyaNn-mxsXNURVtgZDh79otbdtHHMrEWREzL6Z5I3IWwdAUwnYEYnsRO_rUegroNelntYc/s1600/278147_4387500050390_2092685301_o.jpeg",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoLFBPSwWBLTZ0l9IL56ZEtLqrJ0mZUk-hLHQVZ715zYooAt64ce0VW_MIOJi9gPY23HIcKyaNn-mxsXNURVtgZDh79otbdtHHMrEWREzL6Z5I3IWwdAUwnYEYnsRO_rUegroNelntYc/s1600/278147_4387500050390_2092685301_o.jpeg"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwOKBJ2QAQnPVb6vvnkcI-R4aNJQuxl33zYnW-igifBSw1IuaKVdFD78rJ6r64pTf11FwO8SVs8bn-qTmHwW-7oXWLrQgYNK4fVFrHuj-xRXjfz0GzOKo8ozzxNnbAVEUGoWDpQT08aOQ/s1600/333371_4387494730257_1911740740_o.jpeg",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwOKBJ2QAQnPVb6vvnkcI-R4aNJQuxl33zYnW-igifBSw1IuaKVdFD78rJ6r64pTf11FwO8SVs8bn-qTmHwW-7oXWLrQgYNK4fVFrHuj-xRXjfz0GzOKo8ozzxNnbAVEUGoWDpQT08aOQ/s1600/333371_4387494730257_1911740740_o.jpeg"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdhA5WSP7RooDNzSakQkOTSc6bu0qzZY1sphxiSm5sgImt3NhYbwr9g8abhWHRLagahl5-d3Wo7Ndwcr7JM6mU3AJP2Z1OfzskpDqDyKy_pj-CvKXl4M2dYeqnkAcxBdUHsITRzwjpBc/s1600/411847_4387503810484_1608660548_o.jpeg",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdhA5WSP7RooDNzSakQkOTSc6bu0qzZY1sphxiSm5sgImt3NhYbwr9g8abhWHRLagahl5-d3Wo7Ndwcr7JM6mU3AJP2Z1OfzskpDqDyKy_pj-CvKXl4M2dYeqnkAcxBdUHsITRzwjpBc/s1600/411847_4387503810484_1608660548_o.jpeg"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtY6WiopsJQHEuxUEKSsGknU1X7PMqhOmKojX3EL9OqC6AijBFo_PRXeb2E1m1d6TI_tEaFH3mrWzBQ9-J4FJiUmhRlkNUuk3eAomu01cL5Pc0e3D-2PTwcIrDnmZNc8UHZ0l3HyP3o0I/s1600/469340_4387495530277_739299579_o.jpeg",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtY6WiopsJQHEuxUEKSsGknU1X7PMqhOmKojX3EL9OqC6AijBFo_PRXeb2E1m1d6TI_tEaFH3mrWzBQ9-J4FJiUmhRlkNUuk3eAomu01cL5Pc0e3D-2PTwcIrDnmZNc8UHZ0l3HyP3o0I/s1600/469340_4387495530277_739299579_o.jpeg"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhut2Ro5EnNFykCL5CZPPUP4KFmGb1OO2HMRhOp1ujryOIXyZIL4o7SuYcYoZKR45QtdNZ17YH3hjVfWFQSWNvUbryealvZj5kgMZQjS-4LEjEGsidixt9-KT8rCVlrbAMC8ByblX6njMA/s1600/469415_4387496010289_900907351_o.jpeg",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhut2Ro5EnNFykCL5CZPPUP4KFmGb1OO2HMRhOp1ujryOIXyZIL4o7SuYcYoZKR45QtdNZ17YH3hjVfWFQSWNvUbryealvZj5kgMZQjS-4LEjEGsidixt9-KT8rCVlrbAMC8ByblX6njMA/s1600/469415_4387496010289_900907351_o.jpeg"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWgJc3RKi1Cl3vMpQK33-TWUJXm3ZLQ_KPss2-Nla-O0vIMItLP2Xrjh96rKAgpdamQ4cwsVy1cM7_34wvn22egAf0TKSZ-ryAhyphenhyphenpEeGl3v010HKFt948AQGMLTn6OuplgrRD4EkilcQ/s1600/469566_4387498010339_1964375423_o.jpeg",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWgJc3RKi1Cl3vMpQK33-TWUJXm3ZLQ_KPss2-Nla-O0vIMItLP2Xrjh96rKAgpdamQ4cwsVy1cM7_34wvn22egAf0TKSZ-ryAhyphenhyphenpEeGl3v010HKFt948AQGMLTn6OuplgrRD4EkilcQ/s1600/469566_4387498010339_1964375423_o.jpeg"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Uud-L9TZ_WzQZmb8_B3zsAGedS6NYljb-VuiBinBmMv0Owjf22074vOHEgGYNX39illAMSdZHUCb6TEkBl3H6gU8nKRDkQ1Hn10c7ccQzQ6ZMCZUlVUPLcYRR3iwvKVgEseKf-g6wlQ/s1600/471321_4387502570453_1256998678_o.jpeg",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Uud-L9TZ_WzQZmb8_B3zsAGedS6NYljb-VuiBinBmMv0Owjf22074vOHEgGYNX39illAMSdZHUCb6TEkBl3H6gU8nKRDkQ1Hn10c7ccQzQ6ZMCZUlVUPLcYRR3iwvKVgEseKf-g6wlQ/s1600/471321_4387502570453_1256998678_o.jpeg"
+      },
+      {
+        "type": "book",
+        "text": "Vladimír Turčan a kolektív: Archeologické pamiatky - Kultúrne krásy Slovenska, Dajama, 2009"
+      },
+      {
+        "type": "book",
+        "text": "B.Benedik: Slovanské nálezy z výskumu valu na hradisku v Zemplíne, Štúdijné zvesti 14, 1964"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.sav.sk/index?lang=sk&charset=&doc=services-news&news_no=2829",
+        "title": "http://www.sav.sk/index?lang=sk&charset=&doc=services-news&news_no=2829"
+      },
+      {
+        "type": "external-url",
+        "url": "http://archivportal.arcanum.hu/maps/html/katfelm2b_google.html",
+        "title": "http://archivportal.arcanum.hu/maps/html/katfelm2b_google.html"
+      },
+      {
+        "type": "external-url",
+        "url": "http://geo.enviroportal.sk/sluzby/zobrazovacie-sluzby-priestorovych-udajov/rastre/historicke-mapovanie-slovenska/vojenske-mapovanie-i-1764-1787",
+        "title": "http://geo.enviroportal.sk/sluzby/zobrazovacie-sluzby-priestorovych-udajov/rastre/historicke-mapovanie-slovenska/vojenske-mapovanie-i-1764-1787"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.zsphorova.sk/dejepis/vm1.html",
+        "title": "http://www.zsphorova.sk/dejepis/vm1.html"
+      },
+      {
+        "type": "book",
+        "text": "Foto v texte: Kveta"
+      },
+      {
+        "type": "book",
+        "text": "Foto pod textom: Viliam Olbricht"
+      }
+    ]
+  }
+}

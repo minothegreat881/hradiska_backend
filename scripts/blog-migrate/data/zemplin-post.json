@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Zempl%C3%ADn?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Zempl%C3%ADn"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-2996452338992423527"
+        },
+        "published": {
+          "$t": "2011-11-09T20:33:00.008+01:00"
+        },
+        "updated": {
+          "$t": "2017-05-31T14:50:08.695+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Zemplín"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Zemplín"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nObec Zemplín patrí k významným stredoeurópskym archeologickým náleziskám.  Leží v južnej časti rovnomenného regiónu na pravom brehu rieky, ktorá sa od sútoku Ondavy s Latoricou z neznámych dôvodov nazýva Bodrog. Jej intravilán a blízke okolie bolo intenzívne osídľované od mladšej doby kamennej. &nbsp;</div>\n<br />\n<br />\n<iframe frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=48.440661,21.812775&amp;spn=0.004982,0.00912&amp;z=16&amp;output=embed\" width=\"425\"></iframe><br />\n<small><a href=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=48.440661,21.812775&amp;spn=0.004982,0.00912&amp;z=16&amp;source=embed\" style=\"color: blue; text-align: left;\">Zvětšit mapu</a></small><br />\n<br />\n<br />\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nHlavnou príčinou, prečo si ľudia práve na tomto mieste zakladali svoje sídla, boli dobré podmienky pre rozvoj poľnohospodárstva a strategicky výhodná poloha blízko dôležitej potiskej diaľkovej cesty z juhu na sever. Jedna z jej vetiev smerovala popri bodrogu a jeho prítokoch ku karpatským priesmykom.  Najstarší písomný prameň o obci, kde sa priamo uvádza ako villa zemplén, pochádza z roku 1261. vyvinula sa zo staršej osady existujúcej v tesnej blízkosti ranofeudálneho hradu. Do konca 13. storočia bol hrad a dedina majetkom uhorských kráľov a centrom zemplínskeho komitátu. K  neprehliadnuteľným pamiatkam patrí návršie <b>Hradisko</b> na východnom okraji obce s dobre zachovaným valovým opevnením na skalnom ostrohovitom návrší v nadmorskej výške 121 m. V rovinatej krajine s priemernou nadmorskou výškou okolo 100 m predstavuje návršie dominantný terénny útvar vzdialený asi jeden a pol kilometra od sútoku Ondavy a Latorice. Strategicky výhodná poloha vyvýšeniny poskytovala obyvateľom prirodzenú ochranu pred nepriateľom a v čase záplav aj pred vodou z rozvodnených ramien Bodrogu a bola od 5. tisícročia pred Kr. opakovane využívaná pre osídlenie.  Opevnená však bola až v 1. stor. pred Kr. V tom čase vznikol na území dnešnej obce sídliskový komplex s etnicky zmiešaným keltsko-dáckym obyvateľstvom. Komplex pozostával z hradiska obklopeného menšími výrobnými osadami.  <br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s1600/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" data-original-height=\"900\" data-original-width=\"1600\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s320/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Foto z archívu KPÚ Košice poskytol Martin Pristáš</td></tr>\n</tbody></table>\n<br />\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK0upqL_eYpWJ5FL1Quh8XA8K3awjwmYJIFItvaV6gHwEBIb2OhyphenhyphenNsbny_Fvn6S4eLR_P9jeTBu9rdvRfUi73Fuf_yyGOvgMhsr_QL20cq71-3J1bF54ow1H2j-KSl671OBTN_lZmmiw/s1600/Voj+map2.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"188\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK0upqL_eYpWJ5FL1Quh8XA8K3awjwmYJIFItvaV6gHwEBIb2OhyphenhyphenNsbny_Fvn6S4eLR_P9jeTBu9rdvRfUi73Fuf_yyGOvgMhsr_QL20cq71-3J1bF54ow1H2j-KSl671OBTN_lZmmiw/s320/Voj+map2.jpg\" width=\"320\" /></a></div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nŠtruktúra osídlenia v Zemplíne nazvaná ako typ Zemplín sa  stala modelom pre označenie podobných sídlisk vo východokeltskom prostredí. Hradisko  v Zemplíne vybudované na skalnom ostrohu s oválnym pôdorysom a plochou 240 x 150 m  bolo obohnané valom, ktorý kopíroval okraje vyvýšeniny. Konštrukcia opevnenia nebola  rovnaká. Hlinený val na západnej, ľahšie prístupnej strane mal jadro z kameňov kladených  na sucho. Na východnej strane v úseku, kde skalná stena strmo klesala k Bodrogu, bola iba  drevená palisáda. Predpokladá sa, že val dosahoval výšku asi štyroch metrov a na hrebeni bol ukončený palisádou. Hlavná brána do II hradiska sa nachádzala na južnej strane. Vo východnej časti hradiska bola preskúmaná čiastočne zahĺbená chata obdĺžnikového pôdorysu s ohniskom a typickou dvojkolovou konštrukciou.  Hospodárskym zázemím keltsko-dáckeho hradiska boli menšie sídliskové bunky rozložené v tesnej blízkosti po celej pravostrannej terase Bodrogu. V osadách sa vykonávala aj špecializovaná remeselná výroba. Patrila k nej hlavne výroba maľovanej keramiky, pričom areál hrnčiarskych pracovísk sa rozprestieral v severozápadnej časti obce, kde sa podarilo preskúmať dielňu s veľkou hrnčiarskou pecou s priemerom rošu až 1,8 m.</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4X8WQbzGsAy84dIrBKo7ZBgYz4J5gYBdekgO0VIM2hyphenhyphenKDPBxcCL2h-LebMNjN-EccMBpSDQiNaOfWcpOC_Q1K_F836h71qpxkarYg82_jPtNwHGvyzHlwb3kZnVQJIadUmKZi2nsIy-k/s1600/zemplin.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"204\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4X8WQbzGsAy84dIrBKo7ZBgYz4J5gYBdekgO0VIM2hyphenhyphenKDPBxcCL2h-LebMNjN-EccMBpSDQiNaOfWcpOC_Q1K_F836h71qpxkarYg82_jPtNwHGvyzHlwb3kZnVQJIadUmKZi2nsIy-k/s320/zemplin.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pôdorys hradiska podľa Štefana Janšáka</td></tr>\n</tbody></table>\n<br />\nNa hradisku tiež boli sústredené metalurgické dielne. Súčasťou sídliskovej aglomerácie v Zemplíne bolo kultové miesto, ktoré ležalo juhozápadne od hradiska. V laténskej dobe získal Zemplín spoločensky a hospodársky nadradené postavenie voči blízkym súdobým osadám. Obyvateľstvo Zemplína bolo etnicky zmiešané, pretože územie ležalo v kontaktnej zóne medzi dvoma etnicky a kultúrne rozdielnymi svetmi - keltským a dáckym. Obdobie najväčšieho rozkvetu zažíva okolo polovice 1. storočia pred n. 1. V tom čase sa stáva dôležitým strediskom výroby kvalitnej maľovanej keramiky, metalurgie a obchodu. Jeho význam prerastá hranice regiónu. Plní úlohu sprostredkovateľa kontaktov medzi Panóniou, severným Slovenskom a Malopoľskom. V 1. storočí n. 1. keltsko-dácke osídlenie Zemplína postupne doznieva a koncom storočia pod tlakom zo severu postupujúcich Germánov, nositeľov przeworskej kultúry, zaniká.<br />\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1FcvECHzpZpgpBS6PFTIVvGuqNMx-aL4FbFe7cX0sNtkSQvElzUUkNi7Je2IcHIlhjMdZXn6iA_s4ASnxpLdFDbaKJx1CT9qKpyRmyBv9Uf5ad8KeRvLX7USHZyzzPgHO17-ria3UK6w/s1600/zempHRvychod.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1FcvECHzpZpgpBS6PFTIVvGuqNMx-aL4FbFe7cX0sNtkSQvElzUUkNi7Je2IcHIlhjMdZXn6iA_s4ASnxpLdFDbaKJx1CT9qKpyRmyBv9Uf5ad8KeRvLX7USHZyzzPgHO17-ria3UK6w/s320/zempHRvychod.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Východná časť hradiska</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTX1SyQ4J5XHus27oLk1k5eYHJsKWJhMHfqx81ycxbPeHwKKYShWEmWUg0pnydWvyA_5SEJ2B2_UuFgaAn8wKB1nCke32RTHMTO1GGg29AejtGsg6nhdOxqQRjGH36kJWh9a5rkNwdkxU/s1600/zempHRzapVALu.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTX1SyQ4J5XHus27oLk1k5eYHJsKWJhMHfqx81ycxbPeHwKKYShWEmWUg0pnydWvyA_5SEJ2B2_UuFgaAn8wKB1nCke32RTHMTO1GGg29AejtGsg6nhdOxqQRjGH36kJWh9a5rkNwdkxU/s320/zempHRzapVALu.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">&nbsp;     <br />\n<div style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;times&quot; , &quot;times new roman&quot; , serif;\">Pohľad z&nbsp;valu na slepé rameno Bodrogu</span></div>\n</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnT-FixOiv0hGjAZ1N6btmTeOnO5pbEFxRan6T-3XTCEEFPMuatr5aypChg6m4IweIjq_PEQw1eCcbDazlaqXlR4-f4dPRUOllqXC-L44qLHsO81h4Odx7-WyK7M6Eh9FZHi7Yj1jXpI/s1600/zemplin+zdaleka.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"288\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnT-FixOiv0hGjAZ1N6btmTeOnO5pbEFxRan6T-3XTCEEFPMuatr5aypChg6m4IweIjq_PEQw1eCcbDazlaqXlR4-f4dPRUOllqXC-L44qLHsO81h4Odx7-WyK7M6Eh9FZHi7Yj1jXpI/s320/zemplin+zdaleka.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Zemplín zďaleka</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0eX3p5MAPjPlSm0jfBA5E4ZCLj6KhNf7hGFdl20meiV1OBl6LPJaUslZ8u8xNTjE9Q7Rytq9S_5dL5VIb0z5PGQfh5-0EVBAYldeL5xsIQImhhMy7CqdH6uwv8Ccjz-rbtk5JFrwobx4/s1600/kostoly.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0eX3p5MAPjPlSm0jfBA5E4ZCLj6KhNf7hGFdl20meiV1OBl6LPJaUslZ8u8xNTjE9Q7Rytq9S_5dL5VIb0z5PGQfh5-0EVBAYldeL5xsIQImhhMy7CqdH6uwv8Ccjz-rbtk5JFrwobx4/s320/kostoly.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\"><div class=\"p1\">\nKostoly stoja na vyvysenine uprostred hradiska. Vpredu je novsi greckokatolicky kostol, vzadu je povodny romansko-goticky neskor prestavany kalvinsky kostol. Tam, kde stoja kostoly, bol kamenny zupny hrad.</div>\n</td></tr>\n</tbody></table>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJpdoKGesVOqV7O2VK-YB16ZKBZuUmZPtCEUydQRCEtOyfyqgssrPCvIsh2pQg7Rd91nuNuhbf-rr50YvMKiNwunEln6ks3oCMO9MHLkYpvTs6_QCuLyC64keWB1XAP3uOjGhYQjHN6fM/s1600/Stare%25CC%2581+foto.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"229\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJpdoKGesVOqV7O2VK-YB16ZKBZuUmZPtCEUydQRCEtOyfyqgssrPCvIsh2pQg7Rd91nuNuhbf-rr50YvMKiNwunEln6ks3oCMO9MHLkYpvTs6_QCuLyC64keWB1XAP3uOjGhYQjHN6fM/s320/Stare%25CC%2581+foto.jpg\" width=\"320\" /></a></div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nOd konca 9. až do 11. stor. využili priestor niekdajšieho keltsko-dáckeho hradiska Slovania. Staršie valové opevnenie na východnej strane doplnili a po celom obvode spevnili.  V 10. storočí, pravdepodobne pod hrozbou  útokov staromaďarských  kmeňov prenikajúcich do Karpatskej kotliny, pristúpili obyvatelia hradiska k rozsiahlej prestavbe opevnenia, ktoré po celom obvode zvýšili a spevnili. Zlomky keramiky dokazujúce kontinuitu Slovanov sa nachádzajú na rôznych miestach v intraviláne i bezprostrednom okolí Zemplína.<br />\n<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrC-wTA-lwZPDA4T3Aycm1xWh8nj-lSFi6XoJzL_kcSjW7Bq4heIxanavBF2nM7jh-JO7SFPnPLMlEPVyjPCUbEt4NzyN7yB9VGy_gstX2nWYOtXIYEPsxaiEpZmt6TkXBpYGRS1WWWoo/s1600/c%25CC%258Crepy+z+valu+1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrC-wTA-lwZPDA4T3Aycm1xWh8nj-lSFi6XoJzL_kcSjW7Bq4heIxanavBF2nM7jh-JO7SFPnPLMlEPVyjPCUbEt4NzyN7yB9VGy_gstX2nWYOtXIYEPsxaiEpZmt6TkXBpYGRS1WWWoo/s320/c%25CC%258Crepy+z+valu+1.jpg\" width=\"212\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4x2k4HCe6kmmeshs4TIXi0X6bU5qpQsLP2j1UgA49BGSSh1_UD7XnaSC2kiqHGvqVMAzVbq8YRRjS0O9qTr6lt9BRkZeCoEACfSeIHSdHdZiotRqeidylK7pGDORQ9hUCPmd1uTZwazg/s1600/c%25CC%258Crepy+z+valu+2.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4x2k4HCe6kmmeshs4TIXi0X6bU5qpQsLP2j1UgA49BGSSh1_UD7XnaSC2kiqHGvqVMAzVbq8YRRjS0O9qTr6lt9BRkZeCoEACfSeIHSdHdZiotRqeidylK7pGDORQ9hUCPmd1uTZwazg/s320/c%25CC%258Crepy+z+valu+2.jpg\" width=\"292\" /></a></div>\n<br />\nOkrem obydlia z Kertalje o tom dokazuje aj hrob z 8.-9. storočia – doba veľkomoravská – nájdený na mohylníku z doby rímskej na Szélmalomdombe. Je isté, že v tom čase v Zemplíne žil väčší počet ľudí, teda musel existovať aj rozsiahlejší cintorín. O hradisku je zmienka v historickom románe tzv. Anonyma z prelomu 12. a 13. storočia. Podľa nej sa toto miesto stalo útočiskom slovienskeho veliteľa utekajúceho z hradiska Uh (dnešný Užhorod), na ktoré útočili Maďari pod vedením Álmoša. Na mieste slovanského hradiska vznikol neskôr hrad. Hradisko v 11. storočí a hrad do konca 13. storočia patrili uhorským kráľom. Bola to významná pevnosť na severnej hranici formujúceho sa uhorského štátu, sídlo župana a centrum komitátu Zemplín.  K poslednej úprave valu došlo pravdepodobne na prelome 11. a 12. storočia, kedy sa hradisko začalo prestavovať na hrad. Postavili kamennú administratívnu budovu a asi aj kostol menších rozmerov.<br />\n<br />\nSpracoval Orgoň<br />\n<br />\nFoto:<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQJ4FJj_kWVbieIvhifBEWK1R5eS309-pfe5QtDo4jkXc_K62oM3i7YATT6cFogEaktJvqccWv01E1R2M8sAHB1QLMxW2hmWh2C8rE8s8TTztjJA5ioPP_wbul3vPwuJ1hC5QfQxUSA4/s1600/202350_4387506050540_1603850428_o.jpeg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioQJ4FJj_kWVbieIvhifBEWK1R5eS309-pfe5QtDo4jkXc_K62oM3i7YATT6cFogEaktJvqccWv01E1R2M8sAHB1QLMxW2hmWh2C8rE8s8TTztjJA5ioPP_wbul3vPwuJ1hC5QfQxUSA4/s320/202350_4387506050540_1603850428_o.jpeg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">V pozedí mohutný val hradiska</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoLFBPSwWBLTZ0l9IL56ZEtLqrJ0mZUk-hLHQVZ715zYooAt64ce0VW_MIOJi9gPY23HIcKyaNn-mxsXNURVtgZDh79otbdtHHMrEWREzL6Z5I3IWwdAUwnYEYnsRO_rUegroNelntYc/s1600/278147_4387500050390_2092685301_o.jpeg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggoLFBPSwWBLTZ0l9IL56ZEtLqrJ0mZUk-hLHQVZ715zYooAt64ce0VW_MIOJi9gPY23HIcKyaNn-mxsXNURVtgZDh79otbdtHHMrEWREzL6Z5I3IWwdAUwnYEYnsRO_rUegroNelntYc/s320/278147_4387500050390_2092685301_o.jpeg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwOKBJ2QAQnPVb6vvnkcI-R4aNJQuxl33zYnW-igifBSw1IuaKVdFD78rJ6r64pTf11FwO8SVs8bn-qTmHwW-7oXWLrQgYNK4fVFrHuj-xRXjfz0GzOKo8ozzxNnbAVEUGoWDpQT08aOQ/s1600/333371_4387494730257_1911740740_o.jpeg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwOKBJ2QAQnPVb6vvnkcI-R4aNJQuxl33zYnW-igifBSw1IuaKVdFD78rJ6r64pTf11FwO8SVs8bn-qTmHwW-7oXWLrQgYNK4fVFrHuj-xRXjfz0GzOKo8ozzxNnbAVEUGoWDpQT08aOQ/s320/333371_4387494730257_1911740740_o.jpeg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdhA5WSP7RooDNzSakQkOTSc6bu0qzZY1sphxiSm5sgImt3NhYbwr9g8abhWHRLagahl5-d3Wo7Ndwcr7JM6mU3AJP2Z1OfzskpDqDyKy_pj-CvKXl4M2dYeqnkAcxBdUHsITRzwjpBc/s1600/411847_4387503810484_1608660548_o.jpeg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdhA5WSP7RooDNzSakQkOTSc6bu0qzZY1sphxiSm5sgImt3NhYbwr9g8abhWHRLagahl5-d3Wo7Ndwcr7JM6mU3AJP2Z1OfzskpDqDyKy_pj-CvKXl4M2dYeqnkAcxBdUHsITRzwjpBc/s320/411847_4387503810484_1608660548_o.jpeg\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtY6WiopsJQHEuxUEKSsGknU1X7PMqhOmKojX3EL9OqC6AijBFo_PRXeb2E1m1d6TI_tEaFH3mrWzBQ9-J4FJiUmhRlkNUuk3eAomu01cL5Pc0e3D-2PTwcIrDnmZNc8UHZ0l3HyP3o0I/s1600/469340_4387495530277_739299579_o.jpeg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtY6WiopsJQHEuxUEKSsGknU1X7PMqhOmKojX3EL9OqC6AijBFo_PRXeb2E1m1d6TI_tEaFH3mrWzBQ9-J4FJiUmhRlkNUuk3eAomu01cL5Pc0e3D-2PTwcIrDnmZNc8UHZ0l3HyP3o0I/s320/469340_4387495530277_739299579_o.jpeg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Koruna valu</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhut2Ro5EnNFykCL5CZPPUP4KFmGb1OO2HMRhOp1ujryOIXyZIL4o7SuYcYoZKR45QtdNZ17YH3hjVfWFQSWNvUbryealvZj5kgMZQjS-4LEjEGsidixt9-KT8rCVlrbAMC8ByblX6njMA/s1600/469415_4387496010289_900907351_o.jpeg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhut2Ro5EnNFykCL5CZPPUP4KFmGb1OO2HMRhOp1ujryOIXyZIL4o7SuYcYoZKR45QtdNZ17YH3hjVfWFQSWNvUbryealvZj5kgMZQjS-4LEjEGsidixt9-KT8rCVlrbAMC8ByblX6njMA/s320/469415_4387496010289_900907351_o.jpeg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWgJc3RKi1Cl3vMpQK33-TWUJXm3ZLQ_KPss2-Nla-O0vIMItLP2Xrjh96rKAgpdamQ4cwsVy1cM7_34wvn22egAf0TKSZ-ryAhyphenhyphenpEeGl3v010HKFt948AQGMLTn6OuplgrRD4EkilcQ/s1600/469566_4387498010339_1964375423_o.jpeg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicWgJc3RKi1Cl3vMpQK33-TWUJXm3ZLQ_KPss2-Nla-O0vIMItLP2Xrjh96rKAgpdamQ4cwsVy1cM7_34wvn22egAf0TKSZ-ryAhyphenhyphenpEeGl3v010HKFt948AQGMLTn6OuplgrRD4EkilcQ/s320/469566_4387498010339_1964375423_o.jpeg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Uud-L9TZ_WzQZmb8_B3zsAGedS6NYljb-VuiBinBmMv0Owjf22074vOHEgGYNX39illAMSdZHUCb6TEkBl3H6gU8nKRDkQ1Hn10c7ccQzQ6ZMCZUlVUPLcYRR3iwvKVgEseKf-g6wlQ/s1600/471321_4387502570453_1256998678_o.jpeg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Uud-L9TZ_WzQZmb8_B3zsAGedS6NYljb-VuiBinBmMv0Owjf22074vOHEgGYNX39illAMSdZHUCb6TEkBl3H6gU8nKRDkQ1Hn10c7ccQzQ6ZMCZUlVUPLcYRR3iwvKVgEseKf-g6wlQ/s320/471321_4387502570453_1256998678_o.jpeg\" width=\"320\" /></a></div>\n<br />\n<br />\nLit:<br />\n<span class=\"Apple-style-span\" style=\"color: #333333; line-height: 16px;\"></span><br />\n<div style=\"font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 14px; margin-bottom: 0in;\">\nVladimír Turčan a kolektív: Archeologické pamiatky - Kultúrne krásy Slovenska, Dajama, 2009<br />\nB.Benedik: Slovanské nálezy z výskumu valu na hradisku v Zemplíne, Štúdijné zvesti 14, 1964 </div>\n<div style=\"font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 14px; margin-bottom: 0in;\">\n<div lang=\"sk-SK\" style=\"margin-bottom: 0.19in; margin-top: 0.19in;\">\nhttp://www.sav.sk/index?lang=sk&amp;charset=&amp;doc=services-news&amp;news_no=2829</div>\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">http://archivportal.arcanum.hu/maps/html/katfelm2b_google.html<br />\nhttp://geo.enviroportal.sk/sluzby/zobrazovacie-sluzby-priestorovych-udajov/rastre/historicke-mapovanie-slovenska/vojenske-mapovanie-i-1764-1787</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">            </span><br />\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">http://www.zsphorova.sk/dejepis/vm1.html</span><br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Foto v texte: Kveta&nbsp;</span><br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Foto pod textom: Viliam Olbricht</span></div>\n</div>\n</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/2996452338992423527/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/11/zemplin.html#comment-form",
+            "title": "0 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/2996452338992423527"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/2996452338992423527"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/11/zemplin.html",
+            "title": "Zemplín"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpiExWZBgmc1hTaLWgTDpcoEkEXYNeh023N9Hx81zLAl1xxSo-LmzgEsheTq9qSwymOmb1_oN4GcZM2wLS5Z72mHiWLaL2BkPf-vVPSnhqP6Xr-lMU1xbyPTr2bchLjcdRyGMGExVH9aA/s72-c/Dron+Prista%25C5%25A1+Ma%25C4%258Fari.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}
