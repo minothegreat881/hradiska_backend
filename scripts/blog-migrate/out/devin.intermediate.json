@@ -1,22 +1,25 @@
 {
   "$meta": {
-    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label-najvyznamnejsie.json",
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\devin-post.json",
     "sourceLabel": null,
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-6052716803741084992",
     "bloggerPostUrl": "http://www.hradiska.sk/2010/12/devin.html",
     "repliesLink": "http://www.hradiska.sk/feeds/6052716803741084992/comments/default",
-    "extractedAt": "2026-06-12T15:06:14.063Z",
+    "extractedAt": "2026-07-12T20:47:45.793Z",
     "coverImageNeedsReview": true,
     "commentCount": 1,
     "comments": [
       {
         "id": "tag:blogger.com,1999:blog-6818054921907446479.post-859413943955823859",
+        "bloggerPostId": "859413943955823859",
         "author": "Anonymous",
         "authorProfile": null,
         "published": "2013-08-24T22:31:15.933+02:00",
         "updated": "2013-08-24T22:31:15.933+02:00",
         "content": "Na Devinsku Kobylu chodim viac krat do roka a casto som si hovoril, ze si musim konecne zaznacit do mapy, kde su hradiska Na Pieskach a Nad Lomom a pohladat ich v terene. Stale som to odkladal a az teraz vdaka tejto stranke som zistil, ze som ich mal vlastne cely cas pod nosom. Takze dakujem, a je naozaj skoda, ze chybaju informacne tabule.",
-        "inReplyTo": "http://www.hradiska.sk/2010/12/devin.html"
+        "inReplyToArticle": "http://www.hradiska.sk/2010/12/devin.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
       }
     ],
     "checks": {
@@ -35,17 +38,19 @@
       "captionedImages": 33,
       "separatorImages": 24
     },
+    "poemCount": 1,
+    "poemSingleFlags": [],
     "sanityFlags": [
-      "longRichText",
       "multipleMapIframes"
     ]
   },
   "blogPost": {
     "title": "Devín",
     "slug": "devin",
-    "excerpt": "Rimania Germáni predstavovali veľké nebezpečenstvo pre Rímsku ríšu a z dôvodu tohto nebezpečenstva postavila rímska armáda okrem iných miest aj pozdĺž toku Dunaja sústavu opevnení nazývanú Limes Romanus. Už po prvom kontakte so slovenským územím si…",
+    "excerpt": "\"Kráľ Ľudovít vytiahol v mesiaci august s veľkým vojskom za Dunaj a obľahol Rastislava v akomsi meste, ktoré sa v reči onoho národa nazýva Dowina. Ten (Rastislav) však keď sa neodvažoval stretnúť s kráľovými vojskami , a keď videl, že nemá kadiaľ by…",
     "authorName": "Orgon",
     "publishedAt": "2010-12-27T00:36:00.009+01:00",
+    "originalPublishedDate": "2010-12-27T00:36:00.009+01:00",
     "updatedAt": "2021-03-11T09:29:39.097+01:00",
     "readingTime": 20,
     "featured": false,
@@ -56,7 +61,9 @@
       "blogger": {
         "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWyizGC_pShlXzUMsUU_nN7kdrccFqKag7MefM3H6xCo-2JWuc_8JyA2-bTr8sPWmAeS2OJlbO-iRXPewuj33QqNzfQkMlXsUMed642MbCnzthHaIBNhp2_h4KBBQMab9ujIlgqUO8GA4/s1600/P3241171.JPG",
         "displayedWidth": 320,
-        "displayedHeight": 240
+        "displayedHeight": 240,
+        "originalWidth": null,
+        "originalHeight": null
       }
     },
     "gallery": [
@@ -67,8 +74,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWyizGC_pShlXzUMsUU_nN7kdrccFqKag7MefM3H6xCo-2JWuc_8JyA2-bTr8sPWmAeS2OJlbO-iRXPewuj33QqNzfQkMlXsUMed642MbCnzthHaIBNhp2_h4KBBQMab9ujIlgqUO8GA4/s1600/P3241171.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Naša umelecká predstava o vzhľade hradiska v 9. storočí. Ďalšie obrázky TU"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8bj3f8bqkemgzo_lig6tU7vdZdjAJ1zOzIwRAHOAyCFZcTD3_Zki2ZOQEe1LChc03PxdKXUAPf6pP9mi64_8V1Zffmmqs4wlN2SA2IIX6hKsXqUP_7cpGYPwa7q8oNhZEQYCSOxxUoY/s0/DSC_0517.JPG",
@@ -77,8 +87,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8bj3f8bqkemgzo_lig6tU7vdZdjAJ1zOzIwRAHOAyCFZcTD3_Zki2ZOQEe1LChc03PxdKXUAPf6pP9mi64_8V1Zffmmqs4wlN2SA2IIX6hKsXqUP_7cpGYPwa7q8oNhZEQYCSOxxUoY/s1600/DSC_0517.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Devín v časoch kniežaťa Rastislava v 9. storočí podľa predstavy maliara z 30. rokov"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguc4UvkqYgMcr3ils6kgyvIolZs3nTkHut5kSuYm_AEhfxNMir34Oz2vPLPIeuASzfSmcii6HMM-2l1PEi8cNBVKFgVqK66IkmjT2b5mmFelW3ne5AHal2LzxcWZnnTtaVQto3OtoA9Q4/s0/obraz+Pinkava+1937.TIF",
@@ -87,8 +100,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguc4UvkqYgMcr3ils6kgyvIolZs3nTkHut5kSuYm_AEhfxNMir34Oz2vPLPIeuASzfSmcii6HMM-2l1PEi8cNBVKFgVqK66IkmjT2b5mmFelW3ne5AHal2LzxcWZnnTtaVQto3OtoA9Q4/s1600/obraz+Pinkava+1937.TIF",
           "displayedWidth": 320,
-          "displayedHeight": 196
-        }
+          "displayedHeight": 196,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Staroslovanský tábor na Devíne, Autor: Anton Pinkava. 1937"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUroi4gGUsOlqnFwRNikC_4IibaVjzTwANRWwHHB7IccOVorldCkLtRpnIOT7XbOpNUeYQgZZMml628BNiLWMAUKmSSZbSYx3Eeam7jyMkTsuadCjhsOYeCqf9Gdrj55n28YzSFILtpQ0/s0/biatec.jpg",
@@ -97,18 +113,24 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUroi4gGUsOlqnFwRNikC_4IibaVjzTwANRWwHHB7IccOVorldCkLtRpnIOT7XbOpNUeYQgZZMml628BNiLWMAUKmSSZbSYx3Eeam7jyMkTsuadCjhsOYeCqf9Gdrj55n28YzSFILtpQ0/s1600/biatec.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Nález keltských mincí"
       },
       {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s0/Dev%25C3%25ADn+hrad.jpg",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s1600/Dev%25C3%25ADn+hrad.jpg",
-        "filename": "Dev%C3%ADn+hrad.jpg",
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq6OeFhkstpbMGGLA8iB_SLSht7XN9RjJqDpHmoIYEzzfF0yr2FB9zrNSzjw1yVDSxDn3wUvqlHizoRtdq0pV3WsTwlE0nPi_Cc_jBKuP-LMQEUhgOJTy-qiosM7bycp6yIBua5WlN9XM/s0/perperuna.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq6OeFhkstpbMGGLA8iB_SLSht7XN9RjJqDpHmoIYEzzfF0yr2FB9zrNSzjw1yVDSxDn3wUvqlHizoRtdq0pV3WsTwlE0nPi_Cc_jBKuP-LMQEUhgOJTy-qiosM7bycp6yIBua5WlN9XM/s1600/perperuna.jpg",
+        "filename": "perperuna.jpg",
         "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s1600/Dev%25C3%25ADn+hrad.jpg",
-          "displayedWidth": 320,
-          "displayedHeight": 166
-        }
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq6OeFhkstpbMGGLA8iB_SLSht7XN9RjJqDpHmoIYEzzfF0yr2FB9zrNSzjw1yVDSxDn3wUvqlHizoRtdq0pV3WsTwlE0nPi_Cc_jBKuP-LMQEUhgOJTy-qiosM7bycp6yIBua5WlN9XM/s1600/perperuna.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Slovenky - Devín skrášľovali už pred viac ako 1100 rokmi"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirGTyNfmW-72MsRpDJYmh8rMUS_L36wZMNrqEoYRy9WsHJ0-EHS38GSXTjdPZwSQfyEflAvxf7fhq_XRbHuMB4q2uG_i47UL9rxaDcIE58-5SPrGVXasmJTareSwMJMGhOvc84Rg4jIWA/s0/devi%25CC%2581n+po%25CC%2582dorys+9+st.jpg",
@@ -117,8 +139,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirGTyNfmW-72MsRpDJYmh8rMUS_L36wZMNrqEoYRy9WsHJ0-EHS38GSXTjdPZwSQfyEflAvxf7fhq_XRbHuMB4q2uG_i47UL9rxaDcIE58-5SPrGVXasmJTareSwMJMGhOvc84Rg4jIWA/s1600/devi%25CC%2581n+po%25CC%2582dorys+9+st.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 267
-        }
+          "displayedHeight": 267,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Devínske hradisko v 9. storočí podľa Štefanovičovej"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVCpPy1d7L_g5ZkW2NnN_4nXy6_bbcnqiMatTRgB1yhbej2qSJaveEV5fgAIsTDyHAXj1-hqneCLK059L4dDdyqe2KOdqP-aCWgBCynxN_QNc20HQxprPm3uxaUfySsxVOBzYpR-Vk8sw/s0/devin+mapa.jpg",
@@ -127,8 +152,24 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVCpPy1d7L_g5ZkW2NnN_4nXy6_bbcnqiMatTRgB1yhbej2qSJaveEV5fgAIsTDyHAXj1-hqneCLK059L4dDdyqe2KOdqP-aCWgBCynxN_QNc20HQxprPm3uxaUfySsxVOBzYpR-Vk8sw/s1600/devin+mapa.jpg",
           "displayedWidth": 205,
-          "displayedHeight": 320
-        }
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "1-Centrálne hradisko(dnešný hrad), 3-Na Pieskach, 4-Nad Lomom"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid-3x-XXICVE-CGq6ppNewddyq-Mh8QvlK8mD5MswUYr9ACucXEC0pAV3088kgHY-OFS51AfC7Jzi5zbYQJbLt66T2ZoPwkJAOV1-p3qSfwHfCojGnlMfiwRlcs7gcOYy9YN9tY03g7p0/s0/POV-56.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid-3x-XXICVE-CGq6ppNewddyq-Mh8QvlK8mD5MswUYr9ACucXEC0pAV3088kgHY-OFS51AfC7Jzi5zbYQJbLt66T2ZoPwkJAOV1-p3qSfwHfCojGnlMfiwRlcs7gcOYy9YN9tY03g7p0/s1600/POV-56.jpg",
+        "filename": "POV-56.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid-3x-XXICVE-CGq6ppNewddyq-Mh8QvlK8mD5MswUYr9ACucXEC0pAV3088kgHY-OFS51AfC7Jzi5zbYQJbLt66T2ZoPwkJAOV1-p3qSfwHfCojGnlMfiwRlcs7gcOYy9YN9tY03g7p0/s1600/POV-56.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuR-qyNhgs_cXNZ_oyzs1zdcFl3rBVn3DX0J6n-_MLR1HLZPyuEXND1jJiKdbZwLbID8dXOfFFhji2zfvhq-lWQgJNHAQqUwSCnhkydSYAklAHjL1w-zCg1Nlvm_osjHcuUM1luYFEuKA/s0/kostol12.jpg",
@@ -137,8 +178,37 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuR-qyNhgs_cXNZ_oyzs1zdcFl3rBVn3DX0J6n-_MLR1HLZPyuEXND1jJiKdbZwLbID8dXOfFFhji2zfvhq-lWQgJNHAQqUwSCnhkydSYAklAHjL1w-zCg1Nlvm_osjHcuUM1luYFEuKA/s1600/kostol12.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Základy Veľkomoravského kostola s maketou"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiArXQI-5Q3WZq5LlGbtWRngcE-GtCZRZNZdCF7pPANhEicjMfEVx19ZNk-d5bYju7OKf9PVNRk6Ph3SolYe5kcjulrjscm95O1RKMfWaaDscQKWQrrFY7tZIkRAit2RpprrrFyb39V3sE/s0/POV-59.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiArXQI-5Q3WZq5LlGbtWRngcE-GtCZRZNZdCF7pPANhEicjMfEVx19ZNk-d5bYju7OKf9PVNRk6Ph3SolYe5kcjulrjscm95O1RKMfWaaDscQKWQrrFY7tZIkRAit2RpprrrFyb39V3sE/s1600/POV-59.jpg",
+        "filename": "POV-59.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiArXQI-5Q3WZq5LlGbtWRngcE-GtCZRZNZdCF7pPANhEicjMfEVx19ZNk-d5bYju7OKf9PVNRk6Ph3SolYe5kcjulrjscm95O1RKMfWaaDscQKWQrrFY7tZIkRAit2RpprrrFyb39V3sE/s1600/POV-59.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd25wdCQNVQowIJD08cNuqA8_mOF5jqSQ0pPJagRpfX27Z_wYz1JtQl1Q9MrdiH4oB6uTZriT3eteZmiUgZKQ6NhliBUOZphPxyqzdGxmtvm2Nb7hRrhpPfyJD4MuKR8XLMMfedwQlY74/s0/POV-63.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd25wdCQNVQowIJD08cNuqA8_mOF5jqSQ0pPJagRpfX27Z_wYz1JtQl1Q9MrdiH4oB6uTZriT3eteZmiUgZKQ6NhliBUOZphPxyqzdGxmtvm2Nb7hRrhpPfyJD4MuKR8XLMMfedwQlY74/s1600/POV-63.jpg",
+        "filename": "POV-63.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd25wdCQNVQowIJD08cNuqA8_mOF5jqSQ0pPJagRpfX27Z_wYz1JtQl1Q9MrdiH4oB6uTZriT3eteZmiUgZKQ6NhliBUOZphPxyqzdGxmtvm2Nb7hRrhpPfyJD4MuKR8XLMMfedwQlY74/s1600/POV-63.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKNTfsjP_gN5WtDS76cYwLKFwfzQXlIGcbC01MgNH5Acyy1OLy29anQRXTTHent2eF06vfAlOYnYYGq2VwUbNH9bANjvn7FTmDdNaDb59MKUrZ2PYeRakPqVD5U15EtEzPQ7kP_r4UCgI/s0/na%25CC%2581lezy+devin.jpg",
@@ -147,18 +217,115 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKNTfsjP_gN5WtDS76cYwLKFwfzQXlIGcbC01MgNH5Acyy1OLy29anQRXTTHent2eF06vfAlOYnYYGq2VwUbNH9bANjvn7FTmDdNaDb59MKUrZ2PYeRakPqVD5U15EtEzPQ7kP_r4UCgI/s1600/na%25CC%2581lezy+devin.jpg",
           "displayedWidth": 237,
-          "displayedHeight": 320
-        }
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Slovanské nálezy z Devína"
       },
       {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJdgIYqf0CML12WBjUiCxF8RFuGGIQEULaH9udTpN9NzDWUDbqUEtqMXDMrAYxVchANgl0MugUc8qMM7vX_u4g4SVF9Sc6txSNpCDkkJRBfl2wofSOrZ5Y1M92LFKxLWIvLDI7gN2IPvM/s0/Lom.jpg",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJdgIYqf0CML12WBjUiCxF8RFuGGIQEULaH9udTpN9NzDWUDbqUEtqMXDMrAYxVchANgl0MugUc8qMM7vX_u4g4SVF9Sc6txSNpCDkkJRBfl2wofSOrZ5Y1M92LFKxLWIvLDI7gN2IPvM/s1600/Lom.jpg",
-        "filename": "Lom.jpg",
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTaRG7tH_JUh8sENrOIBWLKrqdMOyaUFHGukSrrbWjWHFaidiAUjmoBKvAIzSuo987BVLFefV_c2ZlVsc7uKssuZR_dCzFewR85DuL4WNjLV2rLVnMJbn_fJCZJW_mkvjp3xj4pMDKnReE/s0/Vitraz%25CC%258Ce+HArmadyova+2020.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTaRG7tH_JUh8sENrOIBWLKrqdMOyaUFHGukSrrbWjWHFaidiAUjmoBKvAIzSuo987BVLFefV_c2ZlVsc7uKssuZR_dCzFewR85DuL4WNjLV2rLVnMJbn_fJCZJW_mkvjp3xj4pMDKnReE/s1600/Vitraz%25CC%258Ce+HArmadyova+2020.jpg",
+        "filename": "Vitraz%CC%8Ce+HArmadyova+2020.jpg",
         "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJdgIYqf0CML12WBjUiCxF8RFuGGIQEULaH9udTpN9NzDWUDbqUEtqMXDMrAYxVchANgl0MugUc8qMM7vX_u4g4SVF9Sc6txSNpCDkkJRBfl2wofSOrZ5Y1M92LFKxLWIvLDI7gN2IPvM/s1600/Lom.jpg",
-          "displayedWidth": 313,
-          "displayedHeight": 320
-        }
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTaRG7tH_JUh8sENrOIBWLKrqdMOyaUFHGukSrrbWjWHFaidiAUjmoBKvAIzSuo987BVLFefV_c2ZlVsc7uKssuZR_dCzFewR85DuL4WNjLV2rLVnMJbn_fJCZJW_mkvjp3xj4pMDKnReE/s675/Vitraz%25CC%258Ce+HArmadyova+2020.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 558,
+          "originalHeight": 675
+        },
+        "caption": "Vitrážovaná výzdoba okna kostola (Harmadyová 2020)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlToJITQ_Inr_kYcN_OF54uzot995d_AfoInqX2xe53dwvtkNLJ2G74pzTNW6yAFcGHBujOYacOMeDjpUpD3IYdVIJSorCU-0u-A7MdO6InKCFwJ1EeEU8BN1XhTc8rjzQ-AAWbCZFel8/s0/POV-194.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlToJITQ_Inr_kYcN_OF54uzot995d_AfoInqX2xe53dwvtkNLJ2G74pzTNW6yAFcGHBujOYacOMeDjpUpD3IYdVIJSorCU-0u-A7MdO6InKCFwJ1EeEU8BN1XhTc8rjzQ-AAWbCZFel8/s1600/POV-194.jpg",
+        "filename": "POV-194.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlToJITQ_Inr_kYcN_OF54uzot995d_AfoInqX2xe53dwvtkNLJ2G74pzTNW6yAFcGHBujOYacOMeDjpUpD3IYdVIJSorCU-0u-A7MdO6InKCFwJ1EeEU8BN1XhTc8rjzQ-AAWbCZFel8/s1600/POV-194.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlObMqRmIF1OY7Q1RtBwCvxpTZ76V1pDmDjvs9Xi2epXih-atd4QNAohvrRL9DI5bo5uJLyIwuWjWtrpFa2awnp-_J8snw6y9jCzCOUF02zgsOpbojJX6BqzsetXvZRmyWUg6g5JeGVBY/s0/POV-195.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlObMqRmIF1OY7Q1RtBwCvxpTZ76V1pDmDjvs9Xi2epXih-atd4QNAohvrRL9DI5bo5uJLyIwuWjWtrpFa2awnp-_J8snw6y9jCzCOUF02zgsOpbojJX6BqzsetXvZRmyWUg6g5JeGVBY/s1600/POV-195.jpg",
+        "filename": "POV-195.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlObMqRmIF1OY7Q1RtBwCvxpTZ76V1pDmDjvs9Xi2epXih-atd4QNAohvrRL9DI5bo5uJLyIwuWjWtrpFa2awnp-_J8snw6y9jCzCOUF02zgsOpbojJX6BqzsetXvZRmyWUg6g5JeGVBY/s1600/POV-195.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgV7HtitiNhykQc3HrMffKtGHvTZgb14iIa94wyqxwx76YjGPofPd7TzA5nqfbq_vPVLACrktTSefXQquRE7EkjZdB0zO72OF1Lv7ZGriAk8owSm1IsPExcaIUd0QJC7pHwBTWdC79hWI/s0/POV-57.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgV7HtitiNhykQc3HrMffKtGHvTZgb14iIa94wyqxwx76YjGPofPd7TzA5nqfbq_vPVLACrktTSefXQquRE7EkjZdB0zO72OF1Lv7ZGriAk8owSm1IsPExcaIUd0QJC7pHwBTWdC79hWI/s1600/POV-57.jpg",
+        "filename": "POV-57.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgV7HtitiNhykQc3HrMffKtGHvTZgb14iIa94wyqxwx76YjGPofPd7TzA5nqfbq_vPVLACrktTSefXQquRE7EkjZdB0zO72OF1Lv7ZGriAk8owSm1IsPExcaIUd0QJC7pHwBTWdC79hWI/s1600/POV-57.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s0/Dev%25C3%25ADn+hrad.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s1600/Dev%25C3%25ADn+hrad.jpg",
+        "filename": "Dev%C3%ADn+hrad.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s1600/Dev%25C3%25ADn+hrad.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 166,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcHbGocxGZyJnYZBQM8cUhbTON1pwFk6zCL28qnOy2kS34JOE_FnG5cK7o-COlXCuZRLXHCNcm2a2-XA_qwkRzgoK5HxXAHMzZ4_K4lS-nYM6ZMy3fthqec3ENKhyDM-8xffmp8Uljjg/s0/devi%25CC%2581n+s%25CC%258Cperky.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcHbGocxGZyJnYZBQM8cUhbTON1pwFk6zCL28qnOy2kS34JOE_FnG5cK7o-COlXCuZRLXHCNcm2a2-XA_qwkRzgoK5HxXAHMzZ4_K4lS-nYM6ZMy3fthqec3ENKhyDM-8xffmp8Uljjg/s1600/devi%25CC%2581n+s%25CC%258Cperky.jpg",
+        "filename": "devi%CC%81n+s%CC%8Cperky.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcHbGocxGZyJnYZBQM8cUhbTON1pwFk6zCL28qnOy2kS34JOE_FnG5cK7o-COlXCuZRLXHCNcm2a2-XA_qwkRzgoK5HxXAHMzZ4_K4lS-nYM6ZMy3fthqec3ENKhyDM-8xffmp8Uljjg/s1600/devi%25CC%2581n+s%25CC%258Cperky.jpg",
+          "displayedWidth": 275,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSVD4S-KweZp2zYuZJI6TVljs2sRFxk6wOJ6GYHY2rwxlf4vNG24BiwZ2p-9h0mcc2RCNmWOvJIK-4m_AoxGP-b26pP3cYX9oK0buhr04-Y54M33k8j9U9q0fx0AqyrwXgSolzIqHk26A/s0/kostol1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSVD4S-KweZp2zYuZJI6TVljs2sRFxk6wOJ6GYHY2rwxlf4vNG24BiwZ2p-9h0mcc2RCNmWOvJIK-4m_AoxGP-b26pP3cYX9oK0buhr04-Y54M33k8j9U9q0fx0AqyrwXgSolzIqHk26A/s1600/kostol1.jpg",
+        "filename": "kostol1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSVD4S-KweZp2zYuZJI6TVljs2sRFxk6wOJ6GYHY2rwxlf4vNG24BiwZ2p-9h0mcc2RCNmWOvJIK-4m_AoxGP-b26pP3cYX9oK0buhr04-Y54M33k8j9U9q0fx0AqyrwXgSolzIqHk26A/s1600/kostol1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 182,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk_Sm1P-_xumt_jPucgHmW-aXtuJjKJY_MmoJizVZU4gDpAtpTmRiwXM7n3ZQ8Wi6eDIyPQNhRCMZaXQwyJBisjE-bwWwwRaqIndwkAEictCjwWLWgH_XG0HeM_9q0qtqvRcKPSTQrMD4/s0/dev%25C3%25ADn.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk_Sm1P-_xumt_jPucgHmW-aXtuJjKJY_MmoJizVZU4gDpAtpTmRiwXM7n3ZQ8Wi6eDIyPQNhRCMZaXQwyJBisjE-bwWwwRaqIndwkAEictCjwWLWgH_XG0HeM_9q0qtqvRcKPSTQrMD4/s1600/dev%25C3%25ADn.jpg",
+        "filename": "dev%C3%ADn.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk_Sm1P-_xumt_jPucgHmW-aXtuJjKJY_MmoJizVZU4gDpAtpTmRiwXM7n3ZQ8Wi6eDIyPQNhRCMZaXQwyJBisjE-bwWwwRaqIndwkAEictCjwWLWgH_XG0HeM_9q0qtqvRcKPSTQrMD4/s1600/dev%25C3%25ADn.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 216,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJVdeoPR22M15V12G_Qbg8clRIYW5Vsd5xVrR9qLdDbBtRFJbCe9FeIHdKOWrbQo_lS3CqTH1soQK4iby3hZ0x1Bc2KIykKXBJ8NTK8dc3sRogeCiM-__iFJ9trlvjjfMaRXVhPugbXen/s0/Lom+a+Piesky.jpg",
@@ -167,8 +334,102 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJVdeoPR22M15V12G_Qbg8clRIYW5Vsd5xVrR9qLdDbBtRFJbCe9FeIHdKOWrbQo_lS3CqTH1soQK4iby3hZ0x1Bc2KIykKXBJ8NTK8dc3sRogeCiM-__iFJ9trlvjjfMaRXVhPugbXen/s1600/Lom+a+Piesky.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 233
-        }
+          "displayedHeight": 233,
+          "originalWidth": 1600,
+          "originalHeight": 1168
+        },
+        "caption": "Pohľad na obe hradiská. V popredí Piesky, v pozadí Lom"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG1slJ4XFz7GgDq0MHoUq3Rnd7iHRuKUDNrFFriBD4siBsKIx598o0u4yBrb4jVADb9Yy9jTDwViuKUDM__sdPPk3q20bzWY1-zhjFMX0nsA-ZwiPdy17L6lVqCehMqnSyM0IYITzIFQs/s0/Na%CC%81doba+svastika.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG1slJ4XFz7GgDq0MHoUq3Rnd7iHRuKUDNrFFriBD4siBsKIx598o0u4yBrb4jVADb9Yy9jTDwViuKUDM__sdPPk3q20bzWY1-zhjFMX0nsA-ZwiPdy17L6lVqCehMqnSyM0IYITzIFQs/s1600/Na%CC%81doba+svastika.jpg",
+        "filename": "Nádoba+svastika.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG1slJ4XFz7GgDq0MHoUq3Rnd7iHRuKUDNrFFriBD4siBsKIx598o0u4yBrb4jVADb9Yy9jTDwViuKUDM__sdPPk3q20bzWY1-zhjFMX0nsA-ZwiPdy17L6lVqCehMqnSyM0IYITzIFQs/s1600/Na%CC%81doba+svastika.jpg",
+          "displayedWidth": 239,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuC0vOQ4ckOEvojdlB5WiVd02cuRk1KlviroPCRyXqdNxUotcdK6DUaovUL1Z15apqie5wFjdA3i5TfU5swHWD5mhL38xGFRydZFoAr_2zWHxXUGrU2mxg4qpsCJYdqeb1yKlpUzPZP_0/s0/IMG_8158+A.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuC0vOQ4ckOEvojdlB5WiVd02cuRk1KlviroPCRyXqdNxUotcdK6DUaovUL1Z15apqie5wFjdA3i5TfU5swHWD5mhL38xGFRydZFoAr_2zWHxXUGrU2mxg4qpsCJYdqeb1yKlpUzPZP_0/s1600/IMG_8158+A.jpg",
+        "filename": "IMG_8158+A.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuC0vOQ4ckOEvojdlB5WiVd02cuRk1KlviroPCRyXqdNxUotcdK6DUaovUL1Z15apqie5wFjdA3i5TfU5swHWD5mhL38xGFRydZFoAr_2zWHxXUGrU2mxg4qpsCJYdqeb1yKlpUzPZP_0/s1600/IMG_8158+A.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi__OJkmC9us6UaCSz6L6H3_dyo-Si5suF7ys9d9py4ENmX7ZX4nKYUwROk3MdvJsqCWSgvPBVzyeYTKCvAAz0MElya-LMaMiiHS3mh5JYcMVKEgYtc4Co3RoquQwEpZwVb8p961nAvoHc/s0/IMG_8157+A.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi__OJkmC9us6UaCSz6L6H3_dyo-Si5suF7ys9d9py4ENmX7ZX4nKYUwROk3MdvJsqCWSgvPBVzyeYTKCvAAz0MElya-LMaMiiHS3mh5JYcMVKEgYtc4Co3RoquQwEpZwVb8p961nAvoHc/s1600/IMG_8157+A.jpg",
+        "filename": "IMG_8157+A.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi__OJkmC9us6UaCSz6L6H3_dyo-Si5suF7ys9d9py4ENmX7ZX4nKYUwROk3MdvJsqCWSgvPBVzyeYTKCvAAz0MElya-LMaMiiHS3mh5JYcMVKEgYtc4Co3RoquQwEpZwVb8p961nAvoHc/s1600/IMG_8157+A.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJdgIYqf0CML12WBjUiCxF8RFuGGIQEULaH9udTpN9NzDWUDbqUEtqMXDMrAYxVchANgl0MugUc8qMM7vX_u4g4SVF9Sc6txSNpCDkkJRBfl2wofSOrZ5Y1M92LFKxLWIvLDI7gN2IPvM/s0/Lom.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJdgIYqf0CML12WBjUiCxF8RFuGGIQEULaH9udTpN9NzDWUDbqUEtqMXDMrAYxVchANgl0MugUc8qMM7vX_u4g4SVF9Sc6txSNpCDkkJRBfl2wofSOrZ5Y1M92LFKxLWIvLDI7gN2IPvM/s1600/Lom.jpg",
+        "filename": "Lom.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJdgIYqf0CML12WBjUiCxF8RFuGGIQEULaH9udTpN9NzDWUDbqUEtqMXDMrAYxVchANgl0MugUc8qMM7vX_u4g4SVF9Sc6txSNpCDkkJRBfl2wofSOrZ5Y1M92LFKxLWIvLDI7gN2IPvM/s1600/Lom.jpg",
+          "displayedWidth": 313,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV-jYlv9X53_pwRjqVhgIRotl_4bh8xF1MvvMCbly8es8OTj5DpILxfZ6G3k4To9GsRkS0Wk5Wgoy1LVXPi-Woq-J8xE2EddNPyuyFF9CMir8mRgvahJURfXm1GgO5OAH1kjAPgFXtLE/s0/PIESKY+kresba+kvalita.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV-jYlv9X53_pwRjqVhgIRotl_4bh8xF1MvvMCbly8es8OTj5DpILxfZ6G3k4To9GsRkS0Wk5Wgoy1LVXPi-Woq-J8xE2EddNPyuyFF9CMir8mRgvahJURfXm1GgO5OAH1kjAPgFXtLE/s1600/PIESKY+kresba+kvalita.jpg",
+        "filename": "PIESKY+kresba+kvalita.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSV-jYlv9X53_pwRjqVhgIRotl_4bh8xF1MvvMCbly8es8OTj5DpILxfZ6G3k4To9GsRkS0Wk5Wgoy1LVXPi-Woq-J8xE2EddNPyuyFF9CMir8mRgvahJURfXm1GgO5OAH1kjAPgFXtLE/s1600/PIESKY+kresba+kvalita.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 78,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6FLKZvc2Skc4tR-3EpEith8scO2N8Rjpt32kLluzbrb8HesyPKYemloRkz5qUEaHPnMFYPLxt-uRIinBwHzcBgnoG_htitO9JD0eNaaWhzKqw8vMcQAZK2ZRrXyonX8Ik9xEW0mTKTe9Z/s0/25074940_192557144628198_5285784146417041619_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6FLKZvc2Skc4tR-3EpEith8scO2N8Rjpt32kLluzbrb8HesyPKYemloRkz5qUEaHPnMFYPLxt-uRIinBwHzcBgnoG_htitO9JD0eNaaWhzKqw8vMcQAZK2ZRrXyonX8Ik9xEW0mTKTe9Z/s1600/25074940_192557144628198_5285784146417041619_o.jpg",
+        "filename": "25074940_192557144628198_5285784146417041619_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6FLKZvc2Skc4tR-3EpEith8scO2N8Rjpt32kLluzbrb8HesyPKYemloRkz5qUEaHPnMFYPLxt-uRIinBwHzcBgnoG_htitO9JD0eNaaWhzKqw8vMcQAZK2ZRrXyonX8Ik9xEW0mTKTe9Z/s1600/25074940_192557144628198_5285784146417041619_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 233,
+          "originalWidth": 1600,
+          "originalHeight": 1168
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8uzdqvu54fqGzkCFyK6l7xJFpxYBcnS5u1DIv5ybc060qRw716dfFOk3ZRj6deAXnyeCPqRVInUnbUJluDU7X8ym-w6pZ6xFE83R6cFogmI8nNEXbdiN5NwD6XwVx5a50PyJlSRRh0SI/s0/val+piesky.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8uzdqvu54fqGzkCFyK6l7xJFpxYBcnS5u1DIv5ybc060qRw716dfFOk3ZRj6deAXnyeCPqRVInUnbUJluDU7X8ym-w6pZ6xFE83R6cFogmI8nNEXbdiN5NwD6XwVx5a50PyJlSRRh0SI/s1600/val+piesky.jpg",
+        "filename": "val+piesky.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8uzdqvu54fqGzkCFyK6l7xJFpxYBcnS5u1DIv5ybc060qRw716dfFOk3ZRj6deAXnyeCPqRVInUnbUJluDU7X8ym-w6pZ6xFE83R6cFogmI8nNEXbdiN5NwD6XwVx5a50PyJlSRRh0SI/s1600/val+piesky.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 171,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mkwlVsTFRQzD_g9KFjn8fzaLxp_awS_qfzzC7v4xUgMjF5mjPmZchF2M440ujjwLCqSttD5e3eNthmhcNsK-K0_IMHUNdxtyZqitpYorSgJbOPlNHEEeGSmG5eWfLUngTPYs4xAJnmE_/s0/DJI_0090.JPG",
@@ -177,8 +438,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mkwlVsTFRQzD_g9KFjn8fzaLxp_awS_qfzzC7v4xUgMjF5mjPmZchF2M440ujjwLCqSttD5e3eNthmhcNsK-K0_IMHUNdxtyZqitpYorSgJbOPlNHEEeGSmG5eWfLUngTPYs4xAJnmE_/s1600/DJI_0090.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": 800,
+          "originalHeight": 600
+        },
+        "caption": "Piesky"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_RBSagDVD2VMo49NqnGvPOumAeCtmwGpx-XV0B_GU7bGm1kVRwh6rqtD-4O6RRqDYql6U2hWFNnPwCM81iQqt9mBBGWbtIx7A6jJd3N4FLzyofUBvVhS4FGRD-1N4fHfTZZLJI4us6V7d/s0/24993389_192549431295636_6340346409760163392_n.jpg",
@@ -187,8 +451,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_RBSagDVD2VMo49NqnGvPOumAeCtmwGpx-XV0B_GU7bGm1kVRwh6rqtD-4O6RRqDYql6U2hWFNnPwCM81iQqt9mBBGWbtIx7A6jJd3N4FLzyofUBvVhS4FGRD-1N4fHfTZZLJI4us6V7d/s1600/24993389_192549431295636_6340346409760163392_n.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": "Pohľad na vnútornú plochu hradiska Piesky"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifcSsuL4cU6Bp_Xp-K2QyHC27_K8rvAtg65noTPD5kdX073TCRelxVJsBX0bm1SAK5XEzr-1xZ8T3NVr5GJzX73oOeTaV0-xMvwFpBQCMeDTSSZaG_ScG-CaoBz4aQu9QnF0SdC1KDINs/s0/IMG_9061.jpg",
@@ -197,8 +464,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifcSsuL4cU6Bp_Xp-K2QyHC27_K8rvAtg65noTPD5kdX073TCRelxVJsBX0bm1SAK5XEzr-1xZ8T3NVr5GJzX73oOeTaV0-xMvwFpBQCMeDTSSZaG_ScG-CaoBz4aQu9QnF0SdC1KDINs/s1600/IMG_9061.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Dobre zachovalá časť valu na severozápade"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-HbjNyHIkXPqp9lHhnsYXsRPfm13IGkMZ1uLSV7rNBgH9hEDq1-9KwAWh9mOuDw7PHFjO9_ttMr47HjrOZjg2ZXh-y9EYnbL6DQ-VcjLgC7iTTAiHI1ZtxUHn9RTJ6esbVrQmyFsG5z8/s0/IMG_9062.jpg",
@@ -207,8 +477,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-HbjNyHIkXPqp9lHhnsYXsRPfm13IGkMZ1uLSV7rNBgH9hEDq1-9KwAWh9mOuDw7PHFjO9_ttMr47HjrOZjg2ZXh-y9EYnbL6DQ-VcjLgC7iTTAiHI1ZtxUHn9RTJ6esbVrQmyFsG5z8/s1600/IMG_9062.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Vnútorný priestor hradiska - v pozadí prerušený severozápadný val"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnYsWL9pSM_lejWG3FuuyiMB2jV9ggg9Rn8ITpcQLQ0LVTkshrjVTGZPAHOeygmu31miOf4LqkH0td11mkP5aez9Jhi_carpb5bFit-zSGOPLMy1DCb2GJDayVASzrRrgngcaQy4zGlUI/s0/IMG_9068.jpg",
@@ -217,8 +490,24 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnYsWL9pSM_lejWG3FuuyiMB2jV9ggg9Rn8ITpcQLQ0LVTkshrjVTGZPAHOeygmu31miOf4LqkH0td11mkP5aez9Jhi_carpb5bFit-zSGOPLMy1DCb2GJDayVASzrRrgngcaQy4zGlUI/s1600/IMG_9068.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad na východnú časť hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMsleot33PfHAtOlv5dK43p3TrUvC11W9-sNA4a006wUiD3G93bYEkvoigCiPBoMPPixvq0WseF13rfVdgPDWNd0ECq_Sp5EGY8r-3S4WlEEs70JJYKBYSyvrCWH2HiEtl8GBfe5ZYgvA/s0/IMG_9092.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMsleot33PfHAtOlv5dK43p3TrUvC11W9-sNA4a006wUiD3G93bYEkvoigCiPBoMPPixvq0WseF13rfVdgPDWNd0ECq_Sp5EGY8r-3S4WlEEs70JJYKBYSyvrCWH2HiEtl8GBfe5ZYgvA/s1600/IMG_9092.jpg",
+        "filename": "IMG_9092.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMsleot33PfHAtOlv5dK43p3TrUvC11W9-sNA4a006wUiD3G93bYEkvoigCiPBoMPPixvq0WseF13rfVdgPDWNd0ECq_Sp5EGY8r-3S4WlEEs70JJYKBYSyvrCWH2HiEtl8GBfe5ZYgvA/s1600/IMG_9092.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPzuB_JdNGtTevH71jbBIzjORTfD9vYFIuL5vxeHvkICUrW4DsB4PdKbim6ihKowV0zo39ht42sz9t1_j_dRAreqG2CxdOTna166xmoUq3UEn0qUdnqU6GzFAq2l9mAXsCw6KlcxA8QR4/s0/IMG_9094.jpg",
@@ -227,8 +516,24 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPzuB_JdNGtTevH71jbBIzjORTfD9vYFIuL5vxeHvkICUrW4DsB4PdKbim6ihKowV0zo39ht42sz9t1_j_dRAreqG2CxdOTna166xmoUq3UEn0qUdnqU6GzFAq2l9mAXsCw6KlcxA8QR4/s1600/IMG_9094.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Kultúrna vrstva?"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilfRfrj4FbQIJ5_5V5evf3PgOqHY9N9oAKHjNiGAqrYVq-JTlWWTd8svCOLVLpg2Jf0I-fAb-TkrtmhhOpl2HShwrJlcDFUdtBNnLZExwuWjNvHFui-ax4GCRQWqrburT3Tzyd290WmCA/s0/IMG_9095.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilfRfrj4FbQIJ5_5V5evf3PgOqHY9N9oAKHjNiGAqrYVq-JTlWWTd8svCOLVLpg2Jf0I-fAb-TkrtmhhOpl2HShwrJlcDFUdtBNnLZExwuWjNvHFui-ax4GCRQWqrburT3Tzyd290WmCA/s1600/IMG_9095.jpg",
+        "filename": "IMG_9095.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilfRfrj4FbQIJ5_5V5evf3PgOqHY9N9oAKHjNiGAqrYVq-JTlWWTd8svCOLVLpg2Jf0I-fAb-TkrtmhhOpl2HShwrJlcDFUdtBNnLZExwuWjNvHFui-ax4GCRQWqrburT3Tzyd290WmCA/s1600/IMG_9095.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJppsH4EaE8CFjVE_Nui0R_X0D-MBnwTenwPMJ5c1xygY-xkvYzKh4Fz3hEV7Lva4By0um6bTWu8owQ3GFeUgkDkMLt5Va6oL4wIaQIzLXLh8RcIkW95kdXyvWLsY9V9mt56WmmnMDaiM/s0/IMG_9097.jpg",
@@ -237,8 +542,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJppsH4EaE8CFjVE_Nui0R_X0D-MBnwTenwPMJ5c1xygY-xkvYzKh4Fz3hEV7Lva4By0um6bTWu8owQ3GFeUgkDkMLt5Va6oL4wIaQIzLXLh8RcIkW95kdXyvWLsY9V9mt56WmmnMDaiM/s1600/IMG_9097.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Celkový pohľad na plochu hradiska"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCmoKsgj1QeotlABqDUjeisUETlyNFdU_2EgiXLR-foS8UNnh7R1A9TEfe84yR1vBTrRVT73EItDbv7VYq5A0XX2vX0y43o7lzytdZ4wdTk1ONq2sNuF0i1J9eIXif5S3F7QCrs-AWNZ0/s0/IMG_9101.jpg",
@@ -247,8 +555,24 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCmoKsgj1QeotlABqDUjeisUETlyNFdU_2EgiXLR-foS8UNnh7R1A9TEfe84yR1vBTrRVT73EItDbv7VYq5A0XX2vX0y43o7lzytdZ4wdTk1ONq2sNuF0i1J9eIXif5S3F7QCrs-AWNZ0/s1600/IMG_9101.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Priebeh valu na severovýchode"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEsXTe2QWD_RRXBAljdZhaAejXgbf9DaEFtFMsJnkoD2C2gO7xLV0ji2siezOdmYg73-nHoE8h3siBH6P7iNI7OaF0ygHqrFkSLtTEKQVZUeegNz9bxMDoNnLMus8IazDLvYZpDRQEWeI/s0/IMG_9102.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEsXTe2QWD_RRXBAljdZhaAejXgbf9DaEFtFMsJnkoD2C2gO7xLV0ji2siezOdmYg73-nHoE8h3siBH6P7iNI7OaF0ygHqrFkSLtTEKQVZUeegNz9bxMDoNnLMus8IazDLvYZpDRQEWeI/s1600/IMG_9102.jpg",
+        "filename": "IMG_9102.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEsXTe2QWD_RRXBAljdZhaAejXgbf9DaEFtFMsJnkoD2C2gO7xLV0ji2siezOdmYg73-nHoE8h3siBH6P7iNI7OaF0ygHqrFkSLtTEKQVZUeegNz9bxMDoNnLMus8IazDLvYZpDRQEWeI/s1600/IMG_9102.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKpT0EsChw2jVnzaqxjRFIOi9SxCk0EK8aLGxOAJm2ayqpeZrAtq1rI6gUkfif1eUtoKmQWeAYRovcz4yNaE4tLMbcDyeZ38i7tTSeHTcsdCtH70MX_NPjZhfBWVsRhn3bYoSCxwkNSKo/s0/IMG_9103.jpg",
@@ -257,8 +581,76 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKpT0EsChw2jVnzaqxjRFIOi9SxCk0EK8aLGxOAJm2ayqpeZrAtq1rI6gUkfif1eUtoKmQWeAYRovcz4yNaE4tLMbcDyeZ38i7tTSeHTcsdCtH70MX_NPjZhfBWVsRhn3bYoSCxwkNSKo/s1600/IMG_9103.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Známy Sandberg, nachádza sa priamo pod hradiskom Na Pieskách"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5_Rt3repd3ZLgpYxFikTujl32S1LudQbuNRnZWpsr40ZsPxey7rfDOmgxM9sPniaQvtSMF-FGqQw09BHb9smltImbr6n6O_7s5xCj432GKSbhqXBepJHAly5IHzlgx46aKuaF8EqeZc/s0/IMG_9109.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5_Rt3repd3ZLgpYxFikTujl32S1LudQbuNRnZWpsr40ZsPxey7rfDOmgxM9sPniaQvtSMF-FGqQw09BHb9smltImbr6n6O_7s5xCj432GKSbhqXBepJHAly5IHzlgx46aKuaF8EqeZc/s1600/IMG_9109.jpg",
+        "filename": "IMG_9109.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ5_Rt3repd3ZLgpYxFikTujl32S1LudQbuNRnZWpsr40ZsPxey7rfDOmgxM9sPniaQvtSMF-FGqQw09BHb9smltImbr6n6O_7s5xCj432GKSbhqXBepJHAly5IHzlgx46aKuaF8EqeZc/s1600/IMG_9109.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQAvrhr07dumgYi_nT_dZKXVHnx7tIJMWk7VaFbtlwOFnJTqF6buWIMxdGHy2soPKNp1LhirOeX3XbFg3lRa8N2BXSODpTY806haInagIQ36bOax2ZwTEV1k3xtiGsEzAxiWSTmqs6BBU/s0/IMG_9110.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQAvrhr07dumgYi_nT_dZKXVHnx7tIJMWk7VaFbtlwOFnJTqF6buWIMxdGHy2soPKNp1LhirOeX3XbFg3lRa8N2BXSODpTY806haInagIQ36bOax2ZwTEV1k3xtiGsEzAxiWSTmqs6BBU/s1600/IMG_9110.jpg",
+        "filename": "IMG_9110.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQAvrhr07dumgYi_nT_dZKXVHnx7tIJMWk7VaFbtlwOFnJTqF6buWIMxdGHy2soPKNp1LhirOeX3XbFg3lRa8N2BXSODpTY806haInagIQ36bOax2ZwTEV1k3xtiGsEzAxiWSTmqs6BBU/s1600/IMG_9110.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDJyKcFTc2di0njzvlam8cDBq-O36f0qDDzbgvNZrD4ef7CjRkXBiesiABHsOoLfwzcmGcNRWsNEubtASmfFAguNdk-yEGpvCdxxktin3uyoCcUJfUqrdt4UtfHv3RgAwawQHGAB845H8/s0/kresby+LOM-Piesky.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDJyKcFTc2di0njzvlam8cDBq-O36f0qDDzbgvNZrD4ef7CjRkXBiesiABHsOoLfwzcmGcNRWsNEubtASmfFAguNdk-yEGpvCdxxktin3uyoCcUJfUqrdt4UtfHv3RgAwawQHGAB845H8/s1600/kresby+LOM-Piesky.jpg",
+        "filename": "kresby+LOM-Piesky.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDJyKcFTc2di0njzvlam8cDBq-O36f0qDDzbgvNZrD4ef7CjRkXBiesiABHsOoLfwzcmGcNRWsNEubtASmfFAguNdk-yEGpvCdxxktin3uyoCcUJfUqrdt4UtfHv3RgAwawQHGAB845H8/s1600/kresby+LOM-Piesky.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 110,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19MzOTFgDWujVsD7ReWlxZZMHMYYDf8WD2VtSFUsa6Y3ZEptRUd9LfFO7SqOOv-VXhaYQlARs3VFTUOoNQAztDGtyLWDYgwkoZrM4s2Byrdaiv-4f-RGe47U2oai97tipRjjMxmTKCkm/s0/24862151_192686441281935_9135413861966341048_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19MzOTFgDWujVsD7ReWlxZZMHMYYDf8WD2VtSFUsa6Y3ZEptRUd9LfFO7SqOOv-VXhaYQlARs3VFTUOoNQAztDGtyLWDYgwkoZrM4s2Byrdaiv-4f-RGe47U2oai97tipRjjMxmTKCkm/s1600/24862151_192686441281935_9135413861966341048_n.jpg",
+        "filename": "24862151_192686441281935_9135413861966341048_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19MzOTFgDWujVsD7ReWlxZZMHMYYDf8WD2VtSFUsa6Y3ZEptRUd9LfFO7SqOOv-VXhaYQlARs3VFTUOoNQAztDGtyLWDYgwkoZrM4s2Byrdaiv-4f-RGe47U2oai97tipRjjMxmTKCkm/s1600/24862151_192686441281935_9135413861966341048_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimftr2tWOMPZEd1lIGF0Rv53ie02FvGCTPvCVT09w1FEOqkICKO-AZTeO6375f_kKVl8r2i2POmbXkTVWt4VVJMmn0HvPi4YowRAR5i3yz3l21kufqepwtqgRsI5M8ed4t1Y54egvokoYC/s0/25157919_192686474615265_1762624231162288799_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimftr2tWOMPZEd1lIGF0Rv53ie02FvGCTPvCVT09w1FEOqkICKO-AZTeO6375f_kKVl8r2i2POmbXkTVWt4VVJMmn0HvPi4YowRAR5i3yz3l21kufqepwtqgRsI5M8ed4t1Y54egvokoYC/s1600/25157919_192686474615265_1762624231162288799_n.jpg",
+        "filename": "25157919_192686474615265_1762624231162288799_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimftr2tWOMPZEd1lIGF0Rv53ie02FvGCTPvCVT09w1FEOqkICKO-AZTeO6375f_kKVl8r2i2POmbXkTVWt4VVJMmn0HvPi4YowRAR5i3yz3l21kufqepwtqgRsI5M8ed4t1Y54egvokoYC/s1600/25157919_192686474615265_1762624231162288799_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeXyDTRighxzC00vhChYM-kmt3cuui2OzoxG7uKf7cclLjAw5KtmQm0KsF8XPFa2hu9Hh67dOMFOZM9tCPLxvvALlg66n9C6KumXogFgzimSrrB2DONmeQCIqWuR4Ftj901QCDvDYiDBw/s0/lom+stara%CC%81+foto.jpg",
@@ -267,8 +659,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeXyDTRighxzC00vhChYM-kmt3cuui2OzoxG7uKf7cclLjAw5KtmQm0KsF8XPFa2hu9Hh67dOMFOZM9tCPLxvvALlg66n9C6KumXogFgzimSrrB2DONmeQCIqWuR4Ftj901QCDvDYiDBw/s1600/lom+stara%CC%81+foto.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 223
-        }
+          "displayedHeight": 223,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Unikátna stará fotografia zachytáva pôvodný vzhľad hradiska s viditeľnými valmi (Pamiatky a múzeá 1/1995)"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlmZWa48zoo197iJv_GCMhaZnAN9iugkoWnRs8p3dACm-UCurRetuKnZInu-JLASNiI_0qMSdtd7bSUiAnGoaULEaKmOry8dJwLQGy7OgxOFX6oD9nQlPm4zfz_Jy68jXaLcyFmDpaY2E/s0/DJI_0086.JPG",
@@ -277,8 +672,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlmZWa48zoo197iJv_GCMhaZnAN9iugkoWnRs8p3dACm-UCurRetuKnZInu-JLASNiI_0qMSdtd7bSUiAnGoaULEaKmOry8dJwLQGy7OgxOFX6oD9nQlPm4zfz_Jy68jXaLcyFmDpaY2E/s1600/DJI_0086.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 174
-        }
+          "displayedHeight": 174,
+          "originalWidth": 800,
+          "originalHeight": 437
+        },
+        "caption": "Celkový pohľad na hradisko Lom"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM45duANe65TfqjJesuZtF3EZF1dfL1BpcqJizI6OE-lvg-UNglPPoJqurESmhiwIqDj_tOuOG0L9QmjcZvuIrJtIzh66IUmob_94f7LUPeq76x8sV2H2XW5xfPt9N-cCuS3IvIuISB4KI/s0/DJI_0089.JPG",
@@ -287,8 +685,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM45duANe65TfqjJesuZtF3EZF1dfL1BpcqJizI6OE-lvg-UNglPPoJqurESmhiwIqDj_tOuOG0L9QmjcZvuIrJtIzh66IUmob_94f7LUPeq76x8sV2H2XW5xfPt9N-cCuS3IvIuISB4KI/s1600/DJI_0089.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 202
-        }
+          "displayedHeight": 202,
+          "originalWidth": 800,
+          "originalHeight": 506
+        },
+        "caption": "Detail hradiska s viditeľnou časťou valového opevnenia vpravo"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCm1vQv7-KC4lU2SrygDmnzVbmhN2HYEIGLG9DsZfDtfSIPR-i5hbsbJLpt0znbnyGTdpbavXBzue5_cBE1Sps3xksYoyg1q1OA4rU3aaS2Uy7LMftjd9dV_RCYKmbmozs2uNancVuRZCS/s0/DJI_0110.JPG",
@@ -297,8 +698,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCm1vQv7-KC4lU2SrygDmnzVbmhN2HYEIGLG9DsZfDtfSIPR-i5hbsbJLpt0znbnyGTdpbavXBzue5_cBE1Sps3xksYoyg1q1OA4rU3aaS2Uy7LMftjd9dV_RCYKmbmozs2uNancVuRZCS/s1600/DJI_0110.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": 800,
+          "originalHeight": 600
+        },
+        "caption": "Pohľad na obe hradiská zo smeru od Devína"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ2Gdb77gYq4ww1Bedytz6DnenvsObhX4fA-ZHdeV4r9iNd5blWLTpwjz9orNkM_NbLBAirHfBZuuZpFaxU5TCbg7gwCuYSyzXjBy3RVQnVn95hTkBEbL1aHkZhXbGtyxHoHofLH0gEqs/s0/IMG_9119.jpg",
@@ -307,8 +711,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ2Gdb77gYq4ww1Bedytz6DnenvsObhX4fA-ZHdeV4r9iNd5blWLTpwjz9orNkM_NbLBAirHfBZuuZpFaxU5TCbg7gwCuYSyzXjBy3RVQnVn95hTkBEbL1aHkZhXbGtyxHoHofLH0gEqs/s1600/IMG_9119.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Zachovaný val vo východnej časti hradiska Nad Lomom"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4xCWrm-d7r5RffFhi4esLyVWX1pVpmbBCyUOfn9NbfQDrkgr3jDjajnf0TALoE9vaQiHz7RRB8x6fXHtDzT6zCAfUSnPCsWXKYYACLLxYIfrRiKM2bSIHsRFUjfFjcpandq3hzDPK2ME/s0/IMG_9123.jpg",
@@ -317,8 +724,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4xCWrm-d7r5RffFhi4esLyVWX1pVpmbBCyUOfn9NbfQDrkgr3jDjajnf0TALoE9vaQiHz7RRB8x6fXHtDzT6zCAfUSnPCsWXKYYACLLxYIfrRiKM2bSIHsRFUjfFjcpandq3hzDPK2ME/s1600/IMG_9123.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z hradiska Nad Lomom na hradisko Na Pieskách"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmts1-BU8bAxNkytRO-NfoBuq78zX5u1ey8iNE0yPWtq4ec2flGweoDsZM_hsjjaZl78DEdHmf3ICsZ28dksp7G3u2g62Qa98A1UrHejZiHZX8V-PkUfTueT-TM1XzFc-FbRVDXxY8ls/s0/IMG_9128.jpg",
@@ -327,8 +737,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmts1-BU8bAxNkytRO-NfoBuq78zX5u1ey8iNE0yPWtq4ec2flGweoDsZM_hsjjaZl78DEdHmf3ICsZ28dksp7G3u2g62Qa98A1UrHejZiHZX8V-PkUfTueT-TM1XzFc-FbRVDXxY8ls/s1600/IMG_9128.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Opäť niekoľko fotiek výborný výhľad - smerom na Moravské Pole"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh50rKNobnjMjaHs83827paQ70ZEG53yIDQJGczBSHJgLAreuKHh4jAQZMZS5T6kRJNQw0O36DAi343O8Tm27GErCfNQTyTDkPh5u_ADgAT80-Z1kah7FI9jR2wFDpy5c4letM3KNbarI8/s0/IMG_9135.jpg",
@@ -337,8 +750,24 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh50rKNobnjMjaHs83827paQ70ZEG53yIDQJGczBSHJgLAreuKHh4jAQZMZS5T6kRJNQw0O36DAi343O8Tm27GErCfNQTyTDkPh5u_ADgAT80-Z1kah7FI9jR2wFDpy5c4letM3KNbarI8/s1600/IMG_9135.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Staroslávny Devín z hradiska Nad Lomom"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6mn7jRVFhgHPblDHnkyeQqmc-0Cl5TDEXsvXFKkSkxFWFWVCG8jcbbIbent9iVcZUCb6y4mfYkC-VPOVU3bIwEffcsHR_w3JG2VuV7OnmTAN8aIKXyNm4S4nrQOA7zA0tT27Pn49S3Dw/s0/IMG_9140.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6mn7jRVFhgHPblDHnkyeQqmc-0Cl5TDEXsvXFKkSkxFWFWVCG8jcbbIbent9iVcZUCb6y4mfYkC-VPOVU3bIwEffcsHR_w3JG2VuV7OnmTAN8aIKXyNm4S4nrQOA7zA0tT27Pn49S3Dw/s1600/IMG_9140.jpg",
+        "filename": "IMG_9140.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6mn7jRVFhgHPblDHnkyeQqmc-0Cl5TDEXsvXFKkSkxFWFWVCG8jcbbIbent9iVcZUCb6y4mfYkC-VPOVU3bIwEffcsHR_w3JG2VuV7OnmTAN8aIKXyNm4S4nrQOA7zA0tT27Pn49S3Dw/s1600/IMG_9140.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir6sFK_icQP_mgfg1m7PTdftk7fd3Uu-MmihO5IW3ctU-kMQbHJC9FP1doDii98OQu4AQIGWpgt5sdYXTv4_sUX_OgGRWTNXgCR1h3JkRYeiZjZg42Wkvp1OCd9Q4YMOc-xK2KRSMmE4s/s0/IMG_9157.jpg",
@@ -347,8 +776,24 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir6sFK_icQP_mgfg1m7PTdftk7fd3Uu-MmihO5IW3ctU-kMQbHJC9FP1doDii98OQu4AQIGWpgt5sdYXTv4_sUX_OgGRWTNXgCR1h3JkRYeiZjZg42Wkvp1OCd9Q4YMOc-xK2KRSMmE4s/s1600/IMG_9157.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad na val vo východnej (dobre prístupnej) časti hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinzANX1DqnZ006nR_lgbXuLbddZMmt0AeYH_q9j4a_gt4AqsRtGYnXksN3CH4PBcX6UcyfFherv3leXg_SIbxjW8fTSMEDUyBqoJDEEGGI4vbQwrOzeRiQLLVXvjuBUx1Th-dfBgoBSQ4/s0/IMG_9161.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinzANX1DqnZ006nR_lgbXuLbddZMmt0AeYH_q9j4a_gt4AqsRtGYnXksN3CH4PBcX6UcyfFherv3leXg_SIbxjW8fTSMEDUyBqoJDEEGGI4vbQwrOzeRiQLLVXvjuBUx1Th-dfBgoBSQ4/s1600/IMG_9161.jpg",
+        "filename": "IMG_9161.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinzANX1DqnZ006nR_lgbXuLbddZMmt0AeYH_q9j4a_gt4AqsRtGYnXksN3CH4PBcX6UcyfFherv3leXg_SIbxjW8fTSMEDUyBqoJDEEGGI4vbQwrOzeRiQLLVXvjuBUx1Th-dfBgoBSQ4/s1600/IMG_9161.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicLcph-5VxMays7IHdD6H8I5TwOktImJZ34bo_cmrJtMmkF59Kqrb7vOKma7JwScTXsCf0zkQf_PNPKyq9z9tEYKX1YHNJyLYmv_Zh62Rz-FBT8pdJVIeBoFKibSk9kUWIwDrbY9gr5dY/s0/IMG_9171.jpg",
@@ -357,8 +802,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicLcph-5VxMays7IHdD6H8I5TwOktImJZ34bo_cmrJtMmkF59Kqrb7vOKma7JwScTXsCf0zkQf_PNPKyq9z9tEYKX1YHNJyLYmv_Zh62Rz-FBT8pdJVIeBoFKibSk9kUWIwDrbY9gr5dY/s1600/IMG_9171.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Ťažba piesku na hradisku Na Pieskách odkryla v niektorých miestach dobre viditeľnú kamennú plentu veľkomoravského valu"
       }
     ],
     "tags": [
@@ -367,121 +815,125 @@
     ],
     "category": null,
     "location": {
-      "name": null,
+      "name": "Devín",
       "latitude": 48.173133,
       "longitude": 16.979145,
       "region": null,
-      "country": null
+      "country": "Slovensko"
     },
-    "keyFacts": [],
-    "timeline": [],
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Ostrožná poloha nad sútokom Dunaja a Moravy, na križovatke Jantárovej a Dunajskej cesty",
+        "icon": "mountain"
+      },
+      {
+        "label": "Devínsky chlieb",
+        "value": "Zuhoľnatený okrúhly bochník (priemer cca 23 cm, cca 1 kg) z germánskeho obdobia, upečený z pšeničnej múky s prímesou ražnej",
+        "icon": "star"
+      },
+      {
+        "label": "Sústava troch hradísk",
+        "value": "Ústredné hradisko (dnešný hrad) plus satelitné hradiská Na pieskoch a Nad lomom na Devínskej kobyle, obe s roštovou konštrukciou opevnenia a stopami po zničujúcom požiari",
+        "icon": "shield"
+      },
+      {
+        "label": "Trikonchálny kostol",
+        "value": "Trojapsidová sakrálna stavba z 9. storočia, múry pokryté bielou vápennou omietkou, interiér zdobený maľbami",
+        "icon": "building"
+      },
+      {
+        "label": "Tri pohrebiská mimo hradiska",
+        "value": "Mladošovičov vinohrad (13 hrobov, J. Eisner), Staré Vinohrady (24 hrobov, 1953, Ľ. Kraskovská) a Za kostolom (122 hrobov, I. Keller)",
+        "icon": "scroll"
+      },
+      {
+        "label": "Písomné pramene",
+        "value": "Fuldské a Bertiniánske anály, Xantenské letopisy a Dejiny franských kráľov spomínajú Dowinu/Devín v súvislosti s výpravou Ľudovíta Nemca roku 864",
+        "icon": "scroll"
+      },
+      {
+        "label": "Prístup",
+        "value": "Hradiská Na pieskoch a Nad lomom sú dodnes bez akéhokoľvek turistického označenia veľkomoravského významu",
+        "icon": "star"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "mladšia doba kamenná",
+        "title": "Najstaršie osídlenie hradného kopca",
+        "description": "Kultúra lineárnej keramiky, bádenská kultúra, ľud so šnúrovou keramikou a maďarovská kultúra zanechali kultové artefakty; ľud maďarovskej kultúry postavil prvé opevnenie akropoly drevozemným valom hrubým pri základoch až 4 m.",
+        "type": "founding"
+      },
+      {
+        "year": "laténske obdobie",
+        "title": "Keltské osídlenie",
+        "description": "Nález džbánu so 70 keltskými mincami (napodobeninami rímskych denárov, razenými Eraviskami a Azalmi) na nádvorí stredného hradu.",
+        "type": "event"
+      },
+      {
+        "year": "3. – 4. storočie",
+        "title": "Rímske stavby",
+        "description": "Rimania postavili murovanú strážnu vežu na akropole a rozsiahlejšiu štvorpriestorovú budovu s apsidou na nádvorí stredného hradu, súčasť sústavy Limes Romanus.",
+        "type": "construction"
+      },
+      {
+        "year": "8. storočie",
+        "title": "Prvé slovanské hradisko",
+        "description": "Využívajúce zvyšky staršej rímskej fortifikácie (val na severnej strane); v tomto období sa ťažisko osídlenia pravdepodobne presunulo z Devínskej Novej Vsi do oblasti Devína.",
+        "type": "founding"
+      },
+      {
+        "year": "koniec 7. storočia",
+        "title": "Devín ako oporný bod Avarov",
+        "description": "Podľa historika Jána Steinhübela odtiaľto Avari ovládali Slovanov na Morave; dokladá to nárast jazdeckých hrobov v okolí a bohato vybavený hrob avarského jazdca priamo v obci Devín.",
+        "type": "event"
+      },
+      {
+        "year": "začiatok 9. storočia",
+        "title": "Moravské kniežatá sa zmocňujú Devína",
+        "description": "Po oslabení avarskej moci si moravské kniežatá opätovne podmanili Devín a začali ho prebudovávať na jednu z najvýznamnejších pevností.",
+        "type": "construction"
+      },
+      {
+        "year": "846 – 870 (vláda Rastislava)",
+        "title": "Rastislavov Devín — vrchol významu",
+        "description": "Devín chránil prechod cez Dunaj z Východnej marky aj hranicu proti Nitriansku; okolo ústredného hradiska vznikli satelitné hradiská Na pieskoch a Nad lomom na Devínskej kobyle.",
+        "type": "construction"
+      },
+      {
+        "year": "864",
+        "title": "Obliehanie Dowiny kráľom Ľudovítom Nemcom",
+        "description": "Fuldské anály zaznamenávajú, ako franský kráľ obľahol Rastislava v meste Dowina; Rastislav napokon zložil (nedodržaný) vazalský sľub — Devínske opevnenie sa ukázalo natoľko impozantné, že Ľudovít sa ani nepokúsil o jeho dobytie silou.",
+        "type": "event"
+      },
+      {
+        "year": "1984 – 1985",
+        "title": "Objavenie trojapsidovej sakrálnej stavby",
+        "description": "Trikonchálny kostol odkrytý v polohe „Nad prístaviskom\", postavený naraz (previazané múry), zdobený maľovanou omietkou podobne ako kostoly v Mikulčiciach a na Bratislavskom hrade.",
+        "type": "discovery"
+      },
+      {
+        "year": "9. storočie (sprievodné hroby)",
+        "title": "Pohrebisko pri kostole",
+        "description": "Zachovalo sa 6 hrobov datovaných do 9. storočia pri sakrálnej stavbe; neskoršie pohrebisko cez múry kostola (11. – 13. stor.) dokladá, že stavba už bola v ruinách.",
+        "type": "discovery"
+      },
+      {
+        "year": "1953",
+        "title": "Odkrytie pohrebiska Staré Vinohrady",
+        "description": "Ľ. Kraskovská odkryla 24 hrobov vrátane troch symbolických (kenotafov).",
+        "type": "discovery"
+      },
+      {
+        "year": "60. – 70. roky 20. storočia",
+        "title": "Najväčšie pohrebisko „Za kostolom\"",
+        "description": "I. Keller odkryl 122 hrobov, takmer polovicu tvorili detské hroby.",
+        "type": "discovery"
+      }
+    ],
     "quotes": [],
     "blocks": [
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWyizGC_pShlXzUMsUU_nN7kdrccFqKag7MefM3H6xCo-2JWuc_8JyA2-bTr8sPWmAeS2OJlbO-iRXPewuj33QqNzfQkMlXsUMed642MbCnzthHaIBNhp2_h4KBBQMab9ujIlgqUO8GA4/s0/P3241171.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWyizGC_pShlXzUMsUU_nN7kdrccFqKag7MefM3H6xCo-2JWuc_8JyA2-bTr8sPWmAeS2OJlbO-iRXPewuj33QqNzfQkMlXsUMed642MbCnzthHaIBNhp2_h4KBBQMab9ujIlgqUO8GA4/s1600/P3241171.JPG",
-          "filename": "P3241171.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWyizGC_pShlXzUMsUU_nN7kdrccFqKag7MefM3H6xCo-2JWuc_8JyA2-bTr8sPWmAeS2OJlbO-iRXPewuj33QqNzfQkMlXsUMed642MbCnzthHaIBNhp2_h4KBBQMab9ujIlgqUO8GA4/s1600/P3241171.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Naša umelecká predstava o vzhľade hradiska v 9. storočí. Ďalšie obrázky TU",
-        "caption": "Naša umelecká predstava o vzhľade hradiska v 9. storočí. Ďalšie obrázky TU",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8bj3f8bqkemgzo_lig6tU7vdZdjAJ1zOzIwRAHOAyCFZcTD3_Zki2ZOQEe1LChc03PxdKXUAPf6pP9mi64_8V1Zffmmqs4wlN2SA2IIX6hKsXqUP_7cpGYPwa7q8oNhZEQYCSOxxUoY/s0/DSC_0517.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8bj3f8bqkemgzo_lig6tU7vdZdjAJ1zOzIwRAHOAyCFZcTD3_Zki2ZOQEe1LChc03PxdKXUAPf6pP9mi64_8V1Zffmmqs4wlN2SA2IIX6hKsXqUP_7cpGYPwa7q8oNhZEQYCSOxxUoY/s1600/DSC_0517.JPG",
-          "filename": "DSC_0517.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8bj3f8bqkemgzo_lig6tU7vdZdjAJ1zOzIwRAHOAyCFZcTD3_Zki2ZOQEe1LChc03PxdKXUAPf6pP9mi64_8V1Zffmmqs4wlN2SA2IIX6hKsXqUP_7cpGYPwa7q8oNhZEQYCSOxxUoY/s1600/DSC_0517.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Devín v časoch kniežaťa Rastislava v 9. storočí podľa predstavy maliara z 30. rokov",
-        "caption": "Devín v časoch kniežaťa Rastislava v 9. storočí podľa predstavy maliara z 30. rokov",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguc4UvkqYgMcr3ils6kgyvIolZs3nTkHut5kSuYm_AEhfxNMir34Oz2vPLPIeuASzfSmcii6HMM-2l1PEi8cNBVKFgVqK66IkmjT2b5mmFelW3ne5AHal2LzxcWZnnTtaVQto3OtoA9Q4/s0/obraz+Pinkava+1937.TIF",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguc4UvkqYgMcr3ils6kgyvIolZs3nTkHut5kSuYm_AEhfxNMir34Oz2vPLPIeuASzfSmcii6HMM-2l1PEi8cNBVKFgVqK66IkmjT2b5mmFelW3ne5AHal2LzxcWZnnTtaVQto3OtoA9Q4/s1600/obraz+Pinkava+1937.TIF",
-          "filename": "obraz+Pinkava+1937.TIF",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguc4UvkqYgMcr3ils6kgyvIolZs3nTkHut5kSuYm_AEhfxNMir34Oz2vPLPIeuASzfSmcii6HMM-2l1PEi8cNBVKFgVqK66IkmjT2b5mmFelW3ne5AHal2LzxcWZnnTtaVQto3OtoA9Q4/s1600/obraz+Pinkava+1937.TIF",
-            "displayedWidth": 320,
-            "displayedHeight": 196
-          }
-        },
-        "alt": "Staroslovanský tábor na Devíne, Autor: Anton Pinkava. 1937",
-        "caption": "Staroslovanský tábor na Devíne, Autor: Anton Pinkava. 1937",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUroi4gGUsOlqnFwRNikC_4IibaVjzTwANRWwHHB7IccOVorldCkLtRpnIOT7XbOpNUeYQgZZMml628BNiLWMAUKmSSZbSYx3Eeam7jyMkTsuadCjhsOYeCqf9Gdrj55n28YzSFILtpQ0/s0/biatec.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUroi4gGUsOlqnFwRNikC_4IibaVjzTwANRWwHHB7IccOVorldCkLtRpnIOT7XbOpNUeYQgZZMml628BNiLWMAUKmSSZbSYx3Eeam7jyMkTsuadCjhsOYeCqf9Gdrj55n28YzSFILtpQ0/s1600/biatec.jpg",
-          "filename": "biatec.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUroi4gGUsOlqnFwRNikC_4IibaVjzTwANRWwHHB7IccOVorldCkLtRpnIOT7XbOpNUeYQgZZMml628BNiLWMAUKmSSZbSYx3Eeam7jyMkTsuadCjhsOYeCqf9Gdrj55n28YzSFILtpQ0/s1600/biatec.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Nález keltských mincí",
-        "caption": "Nález keltských mincí",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s0/Dev%25C3%25ADn+hrad.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s1600/Dev%25C3%25ADn+hrad.jpg",
-          "filename": "Dev%C3%ADn+hrad.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s1600/Dev%25C3%25ADn+hrad.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 166
-          }
-        },
-        "alt": "",
-        "caption": "",
-        "position": "center",
-        "showCaption": false,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
       {
         "__component": "content.rich-text",
         "body": [
@@ -490,8 +942,9 @@
             "children": [
               {
                 "type": "text",
-                "text": "Rimania",
-                "bold": true
+                "text": "\"Kráľ Ľudovít vytiahol v mesiaci august s veľkým vojskom za Dunaj a obľahol Rastislava v akomsi meste, ktoré sa v reči onoho národa nazýva Dowina. Ten (Rastislav) však keď sa neodvažoval stretnúť s kráľovými vojskami , a keď videl, že nemá kadiaľ by unikol, v tiesni bol nútený dať toľko rukojemných a v takom počte, ako kráľ prikázal. Nadto ešte stvrdil prísahou, že všetkými svojimi (Rastislavovými) veľmožmi bude po všetky dni kráľovi zachovávať vernosť, i keď ju dovtedy nezachovával.\"",
+                "bold": true,
+                "italic": true
               }
             ]
           }
@@ -505,7 +958,317 @@
             "children": [
               {
                 "type": "text",
-                "text": "Germáni predstavovali veľké nebezpečenstvo pre Rímsku ríšu a z dôvodu tohto nebezpečenstva postavila rímska armáda okrem iných miest aj pozdĺž toku Dunaja sústavu opevnení nazývanú Limes Romanus. Už po prvom kontakte so slovenským územím si Rimania uvedomili neobyčajnú významnosť devínskeho hradného návršia, a preto na akropole postavili murovanú strážnu vežu, ktorej základy sa podarilo odokryť v priestoroch nádvoria stredného hradu. \n   Archeológom sa podarilo zdokumentovať dve rozsiahlejšie rímske stavby na hradnom kopci a jednu rímsku vilu v neďalekej Dúbravke, v údolí na opačnom svahu Devínskej kobyly. Najrozsiahlejšia stavba sa nachádzala na nádvorí stredného hradu a hovoril som o nej už v súvislosti s nálezom keltských mincí. Išlo o budovu z 3. až 4. storočia skladajúcu sa zo štyroch miestností, z ktorých jedna bola zakončená apsidou. Dispozíciou pripomína kúpele, avšak zdá sa nelogické, aby sa takýto objekt nachádzal na kopci bez priameho prívodu vody. Účel stavby tak napriek revíznemu výskumu zostal zatiaľ otvorený. Je potešiteľné, že po odkrytí objektov v polovici deväťdesiatych rokov minulého storočia sa počiatočných finančných ťažkostiach našli nakoniec peniaze na to, aby sa tieto objekty mohli prezentovať návštevníkom hradu. Druhý väčší rímsky objekt sa nachádza na severnom svahu, o ňom si však povieme osobitne."
+                "text": "(rok 864 Fuldské anály)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Obec Devín je známa hustou koncentráciou archeologických nálezov zo všetkých archeologických období. Ako uvádza historik Anton Hrnko vo vynikajúcom dielku Devín-božská perla Slovenska, \"Jedinečnosť miesta na sútoku Moravy s Dunajom umocňuje fakt, že sa práve pod ním križovali dva najvýznamnejšie európske staroveké cestné ťahy, tzv. Jantárová a Dunajská cesta. Od najstarších čias sa pod hradným bralom a v jeho okolí stretávali obchodníci, ktorí sprostredkovávali výmenný obchod medzi severnou a južnou Európou s tými, ktorí sa vydávali s tovarmi pozdĺž Dunaja zo severozápadnej Európy na Balkán a odtiaľ ďalej cez Anatóliu až na Stredný východ a Číny a vice versa. Jantár, cín, meď, soľ, zlato, potraviny, látky a iné potrebné komodity, ktoré sa nachádzali v jednom kúte sveta, sa dopravovali na druhý koniec obchodných trás, aby sa tam vymenili za iné užitočné veci a putovali po tých istých cestách, len opačným smerom. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dnes môžeme len žasnúť nad tým, aké obrovské vzdialenosti prekonávali už starovekí obchodníci, aby dopravili potrebný tovar z jednej časti Európy do druhej. Ako dnes, tak aj vtedy obchod potreboval ochranu a údržbu obchodných ciest. Strategické miesta na frekventovaných trasách kupcov sa preto vždy opevňovali a ich obyvatelia v nevyhnutnej miere strážili a udržiavali komunikácie v použiteľnom stave. Obchodníkom sa tak dostávalo potrebnej ochrany a oni za to časť svojho zisku nechávali ochrancom v podobe rôznych mýt a poplatkov. Prospech bol teda na oboch stranách. Ak sa pri strategickom mieste navyše stretalo viacero diaľkových ciest, význam takéhoto bodu výrazne vzrastal. To bol aj prípad Devína.\" Ďalej uvádza, že \"už najstarší obyvatelia hradného kopca v mladšej dobe kamennej (kultúra lineárnej keramiky, bádenská kultúra, ľud so šnúrovou keramikou, či ľud maďarovskej kultúry) zanechali po sebe artefakty, ktoré slúžili na kultové účely. Počas usídlenia ľudu maďarovskej kultúry došlo i k prvému opevneniu devínskej akropoly drevozemným valom, ktorý pri základoch dosahoval až štvormetrovú hrúbku\" Na Devíne sa ďalej našlo množstvo nálezov z neskorších dôb, ktoré svedčia o častom kultovom a vojenskom využívaní Devína mnohými kultúrami. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWyizGC_pShlXzUMsUU_nN7kdrccFqKag7MefM3H6xCo-2JWuc_8JyA2-bTr8sPWmAeS2OJlbO-iRXPewuj33QqNzfQkMlXsUMed642MbCnzthHaIBNhp2_h4KBBQMab9ujIlgqUO8GA4/s0/P3241171.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWyizGC_pShlXzUMsUU_nN7kdrccFqKag7MefM3H6xCo-2JWuc_8JyA2-bTr8sPWmAeS2OJlbO-iRXPewuj33QqNzfQkMlXsUMed642MbCnzthHaIBNhp2_h4KBBQMab9ujIlgqUO8GA4/s1600/P3241171.JPG",
+          "filename": "P3241171.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWyizGC_pShlXzUMsUU_nN7kdrccFqKag7MefM3H6xCo-2JWuc_8JyA2-bTr8sPWmAeS2OJlbO-iRXPewuj33QqNzfQkMlXsUMed642MbCnzthHaIBNhp2_h4KBBQMab9ujIlgqUO8GA4/s1600/P3241171.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Naša umelecká predstava o vzhľade hradiska v 9. storočí. Ďalšie obrázky TU",
+        "caption": "Naša umelecká predstava o vzhľade hradiska v 9. storočí. Ďalšie obrázky TU",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.poem",
+        "text": "Děvín, milý Děvín, hrade osiralý, povězže nám, kedy tvoje hradby stály?\nMoje hradby stály v časech Rastislava: on byl vašich otců, on mých hradeb sláva.\nSláva, moje sláva, kdeže mi spočíváš? Ach, darmo, větříčku, prachy jej rozsíváš!",
+        "title": null,
+        "author": null,
+        "source": null
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "(Štúrovci 1836)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Fotograf "
+              },
+              {
+                "type": "link",
+                "url": "http://amf.sk/",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Vladimír Malý"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " pre našu stránku poskytol tieto unikátne fotky hradu (hradiska) Devín z vtáčej perspektívy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kelti",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Medzi prvé historicky známe národy, ktoré na Devíne žili patria samozrejme Kelti, ktorí nám zanechali množstvo zaujímavých nálezov, medzi ktorými sa vyníma najmä nález mincí. Hrnko k tomuto významnému nálezu uvádza, že na pozostatkoch rímskych stavieb na nádvorí stredného hradu medzi renesančným palácom a studňou našla džbán obsahujúci až 70 kusov keltských mincí. Mince neboli domáce, ba ani z razieb, ktoré vtedy produkovala významná keltská mincovňa na území dnešnej Bratislavy. Patrili medzi napodobeniny rímskych denárov, ktoré razili keltské kmene na území Zadunajska s centrom v dnešnej Budapešti – Eraviskovia a Azali. Na náleze okrem jeho numizmatickej hodnoty je zaujímavé, že nie je zrejme, kto ho vlastne uložil do zeme. Schoval ho tam ohrozený keltský obchodník zaoberajúci sa diaľkovým obchodom? V tom prípade však Rimania, ktorí upravovali terén pre svoju stavbu, museli byť veľmi nepozorní, človek by povedal, že takmer slepí. Alebo ho tam ukryl nejaký Riman ako svoju korisť alebo obchodný zisk a z neznámych dôvodov sa už nevrátil? "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8bj3f8bqkemgzo_lig6tU7vdZdjAJ1zOzIwRAHOAyCFZcTD3_Zki2ZOQEe1LChc03PxdKXUAPf6pP9mi64_8V1Zffmmqs4wlN2SA2IIX6hKsXqUP_7cpGYPwa7q8oNhZEQYCSOxxUoY/s0/DSC_0517.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8bj3f8bqkemgzo_lig6tU7vdZdjAJ1zOzIwRAHOAyCFZcTD3_Zki2ZOQEe1LChc03PxdKXUAPf6pP9mi64_8V1Zffmmqs4wlN2SA2IIX6hKsXqUP_7cpGYPwa7q8oNhZEQYCSOxxUoY/s1600/DSC_0517.JPG",
+          "filename": "DSC_0517.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8bj3f8bqkemgzo_lig6tU7vdZdjAJ1zOzIwRAHOAyCFZcTD3_Zki2ZOQEe1LChc03PxdKXUAPf6pP9mi64_8V1Zffmmqs4wlN2SA2IIX6hKsXqUP_7cpGYPwa7q8oNhZEQYCSOxxUoY/s1600/DSC_0517.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín v časoch kniežaťa Rastislava v 9. storočí podľa predstavy maliara z 30. rokov",
+        "caption": "Devín v časoch kniežaťa Rastislava v 9. storočí podľa predstavy maliara z 30. rokov",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Germáni",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V časoch po prelome letopočtov územie Slovenska obsadili Germánske kmene, najmä Markomani a Kvádi. Z čias ich pobytu na Devíne máme zdokumentovaný veľmi raritný a významný nález - staroveký chlieb. Devínsky chlieb sa našiel v zásype jamy zničenej pece spolu s viacerými druhmi obilnín a ďalšími krajcami chleba. Nálezové okolnosti svedčia o tom, že sa pripravoval na mieste z múky, ktorá sa musela mlieť zo zrna niekde v blízkosti. Okrúhly bochník v priemere asi 23 cm s hrúbkou približne 6,5 cm mohol mať v čase upečenia váhu cca 1 kg. Podľa analýzy bol upečený z pšeničnej múku s prímesou ražnej múky. Zachované krajce svedčia o tom, že chlieb vtedajší ľudia podľa rímskeho vzoru nekrájali, ale krajce odlamovali z bochníka ručne. K zničeniu pece a následnému zuhoľnateniu chleba a obilia okolo nej došlo pravdepodobne pri nejakej násilnej, neočakávanej akcii, najskôr pri vojenskom dobytí hradného vrchu, čo by nebolo v danej nepokojnej dobe nič neobvyklé. Nuž a ako mohol vtedajší chlieb chutnať? Pravdepodobne sa v mnohom nelíšil od dnešných tmavých pšenično-ražných chlebov. Ak bol dobre vypečený, určite si na ňom vtedajší obyvatelia hradu pochutili."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguc4UvkqYgMcr3ils6kgyvIolZs3nTkHut5kSuYm_AEhfxNMir34Oz2vPLPIeuASzfSmcii6HMM-2l1PEi8cNBVKFgVqK66IkmjT2b5mmFelW3ne5AHal2LzxcWZnnTtaVQto3OtoA9Q4/s0/obraz+Pinkava+1937.TIF",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguc4UvkqYgMcr3ils6kgyvIolZs3nTkHut5kSuYm_AEhfxNMir34Oz2vPLPIeuASzfSmcii6HMM-2l1PEi8cNBVKFgVqK66IkmjT2b5mmFelW3ne5AHal2LzxcWZnnTtaVQto3OtoA9Q4/s1600/obraz+Pinkava+1937.TIF",
+          "filename": "obraz+Pinkava+1937.TIF",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguc4UvkqYgMcr3ils6kgyvIolZs3nTkHut5kSuYm_AEhfxNMir34Oz2vPLPIeuASzfSmcii6HMM-2l1PEi8cNBVKFgVqK66IkmjT2b5mmFelW3ne5AHal2LzxcWZnnTtaVQto3OtoA9Q4/s1600/obraz+Pinkava+1937.TIF",
+            "displayedWidth": 320,
+            "displayedHeight": 196,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Staroslovanský tábor na Devíne, Autor: Anton Pinkava. 1937",
+        "caption": "Staroslovanský tábor na Devíne, Autor: Anton Pinkava. 1937",
+        "position": "left",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rimania",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Germáni predstavovali veľké nebezpečenstvo pre Rímsku ríšu a z dôvodu tohto nebezpečenstva postavila rímska armáda okrem iných miest aj pozdĺž toku Dunaja sústavu opevnení nazývanú Limes Romanus. Už po prvom kontakte so slovenským územím si Rimania uvedomili neobyčajnú významnosť devínskeho hradného návršia, a preto na akropole postavili murovanú strážnu vežu, ktorej základy sa podarilo odokryť v priestoroch nádvoria stredného hradu. \n   Archeológom sa podarilo zdokumentovať dve rozsiahlejšie rímske stavby na hradnom kopci a jednu rímsku vilu v neďalekej Dúbravke, v údolí na opačnom svahu Devínskej kobyly. Najrozsiahlejšia stavba sa nachádzala na nádvorí stredného hradu a hovoril som o nej už v súvislosti s nálezom keltských mincí. Išlo o budovu z 3. až 4. storočia skladajúcu sa zo štyroch miestností, z ktorých jedna bola zakončená apsidou. Dispozíciou pripomína kúpele, avšak zdá sa nelogické, aby sa takýto objekt nachádzal na kopci bez priameho prívodu vody. Účel stavby tak napriek revíznemu výskumu zostal zatiaľ otvorený. Je potešiteľné, že po odkrytí objektov v polovici deväťdesiatych rokov minulého storočia sa počiatočných finančných ťažkostiach našli nakoniec peniaze na to, aby sa tieto objekty mohli prezentovať návštevníkom hradu. Druhý väčší rímsky objekt sa nachádza na severnom svahu, o ňom si však povieme osobitne. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUroi4gGUsOlqnFwRNikC_4IibaVjzTwANRWwHHB7IccOVorldCkLtRpnIOT7XbOpNUeYQgZZMml628BNiLWMAUKmSSZbSYx3Eeam7jyMkTsuadCjhsOYeCqf9Gdrj55n28YzSFILtpQ0/s0/biatec.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUroi4gGUsOlqnFwRNikC_4IibaVjzTwANRWwHHB7IccOVorldCkLtRpnIOT7XbOpNUeYQgZZMml628BNiLWMAUKmSSZbSYx3Eeam7jyMkTsuadCjhsOYeCqf9Gdrj55n28YzSFILtpQ0/s1600/biatec.jpg",
+          "filename": "biatec.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUroi4gGUsOlqnFwRNikC_4IibaVjzTwANRWwHHB7IccOVorldCkLtRpnIOT7XbOpNUeYQgZZMml628BNiLWMAUKmSSZbSYx3Eeam7jyMkTsuadCjhsOYeCqf9Gdrj55n28YzSFILtpQ0/s1600/biatec.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Nález keltských mincí",
+        "caption": "Nález keltských mincí",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po príchoede Slovanov na naše územie sa títo samozrejme usadili aj na Devíne a v jeho okolí. Devín niektorí historici stotožňujú s bájnym Wogastisburgom, pričom táto téma je rozoberanä v samostatnom článku. Po smrti panovníka Sama naše územie opäč čiastočne ovládli Avari, aj keď ich vzťah k Slovanom už nebol tak nadradený ako pred vznikom Samovej ríše, skôr sa jednalo o spolužitie so Slovanmi, ktorí v konewčnom dôsledku Avarov úplne pohltili. Významným oporným bodom Avarov, z ktorého ovládali podľa historika Jána Steinhübela Slovanov na Morave (neskoršie Moravské kniežatstvo), bol práve Devín. Ich prítomnosť na Devíne v tomto období dokumentuje výrazný nárast jazdeckých hrobov na pohrebisku v Devínskej Novej Vsi a Záhorskej Bystrici, ale aj ojedinelý, bohato vybavený hrob avarského jazdca v centre obce Devín. Podľa menovaného historika vzrast moci Avarov na konci 7. storočia bol sprevádzaný konsolidáciou moci slovanských kniežat na Morave a v Nitriansku, ktoré neboli priamo okupované Avarmi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq6OeFhkstpbMGGLA8iB_SLSht7XN9RjJqDpHmoIYEzzfF0yr2FB9zrNSzjw1yVDSxDn3wUvqlHizoRtdq0pV3WsTwlE0nPi_Cc_jBKuP-LMQEUhgOJTy-qiosM7bycp6yIBua5WlN9XM/s0/perperuna.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq6OeFhkstpbMGGLA8iB_SLSht7XN9RjJqDpHmoIYEzzfF0yr2FB9zrNSzjw1yVDSxDn3wUvqlHizoRtdq0pV3WsTwlE0nPi_Cc_jBKuP-LMQEUhgOJTy-qiosM7bycp6yIBua5WlN9XM/s1600/perperuna.jpg",
+          "filename": "perperuna.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq6OeFhkstpbMGGLA8iB_SLSht7XN9RjJqDpHmoIYEzzfF0yr2FB9zrNSzjw1yVDSxDn3wUvqlHizoRtdq0pV3WsTwlE0nPi_Cc_jBKuP-LMQEUhgOJTy-qiosM7bycp6yIBua5WlN9XM/s1600/perperuna.jpg",
+            "displayedWidth": 213,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Slovenky - Devín skrášľovali už pred viac ako 1100 rokmi",
+        "caption": "Slovenky - Devín skrášľovali už pred viac ako 1100 rokmi",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hrnko píše, že \"po rozbrojoch vo vnútri Avarskej ríše, ktoré vyústili do zavraždenia kagana v polovici deväťdesiatych rokov 8. storočia, sa tudun pokúsil zachrániť prechodom na stranu Frankov. Karol Veľký ho síce prijal, ale na celkovom osude avarského panstva na strednom Dunaji to už nič nezmenilo. Nový kagan nebol schopný obnoviť centrálnu moc a napriek tomu, že po zdrvujúcich porážkach prijal franskú zvrchovanosť i kresťanstvo, neodvratný koniec avarského panstva nezamedzil. Slovanské kniežatá na Morave a v Nitriansku využili franské víťazstvá nad Avarmi na vlastné posilnenie a moc bývalých utláčateľov v svojom dosahu nemilosrdne likvidovali. Už začiatkom 9. storočia sa Avari sťažovali na útoky Slovanov a cisár im bol nútený určiť nové sídla mimo ich dosah. V tomto období sa moravské kniežatá pravdepodobne opätovne zmocnili Devína a začali ho prebudovávať na jednu zo svojich najvýznamnejších pevností."
               }
             ]
           }
@@ -520,17 +1283,63 @@
           "blogger": {
             "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirGTyNfmW-72MsRpDJYmh8rMUS_L36wZMNrqEoYRy9WsHJ0-EHS38GSXTjdPZwSQfyEflAvxf7fhq_XRbHuMB4q2uG_i47UL9rxaDcIE58-5SPrGVXasmJTareSwMJMGhOvc84Rg4jIWA/s1600/devi%25CC%2581n+po%25CC%2582dorys+9+st.jpg",
             "displayedWidth": 320,
-            "displayedHeight": 267
+            "displayedHeight": 267,
+            "originalWidth": null,
+            "originalHeight": null
           }
         },
         "alt": "Devínske hradisko v 9. storočí podľa Štefanovičovej",
         "caption": "Devínske hradisko v 9. storočí podľa Štefanovičovej",
-        "position": "center",
+        "position": "right",
         "showCaption": true,
-        "width": "60",
+        "width": "40",
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rastislavov Devín",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Definitívna porážka Avarov urýchlila štátotvorný i národotvorný proces stredoeurópskych Slovanov. Na území dnešnej Moravy a naddunajskej časti Dolného Rakúska až po rieku Kampu sa vytvorilo Staromoravské kniežatstvo s pravdepodobným centrom v Mikulčiciach. Na území Slovenska východne od Malých a Bielych Karpát až po Slánske vrchy s presahom do dnešného Maďarska až po Matru sa sformovalo Nitrianske kniežatstvo s centrom v Nitre. Obe kniežatstvá predstavovali počiatočnú fázu feudálneho štátu, v ktorom sa menilo postavenie rodového kniežaťa na feudálneho suveréna a príslušníci vojenských družín sa pretvárali na zárodok budúcej feudálnej vládnucej triedy – šľachty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V susedstve Staromoravského kniežatstva na pravej strane Dunaja sa rozprestierala Východná marka ako predpolie mocnej Franskej ríše, z ktorej sa nasledovníci Karola Veľkého snažili ovládať územia v alpsko-karpatskom priestore. Moravské kniežatá na obranu proti potenciálnym vojenským vpádom budovali mohutné hradiská v pohraničí i vo vnútri krajiny. Jedným z najvýznamnejších pohraničných hradísk Moravanov bol Devín, ktorý chránil nielen prechod cez Dunaj z Východnej marky, ale aj hranicu proti susednému Nitriansku, ktoré malo rovnako silnú pevnosť v priestore dnešného Bratislavského hradu."
+              }
+            ]
+          }
+        ]
       },
       {
         "__component": "content.image-block",
@@ -541,17 +1350,70 @@
           "blogger": {
             "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVCpPy1d7L_g5ZkW2NnN_4nXy6_bbcnqiMatTRgB1yhbej2qSJaveEV5fgAIsTDyHAXj1-hqneCLK059L4dDdyqe2KOdqP-aCWgBCynxN_QNc20HQxprPm3uxaUfySsxVOBzYpR-Vk8sw/s1600/devin+mapa.jpg",
             "displayedWidth": 205,
-            "displayedHeight": 320
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
           }
         },
         "alt": "1-Centrálne hradisko(dnešný hrad), 3-Na Pieskach, 4-Nad Lomom",
         "caption": "1-Centrálne hradisko(dnešný hrad), 3-Na Pieskach, 4-Nad Lomom",
-        "position": "center",
+        "position": "left",
         "showCaption": true,
-        "width": "60",
+        "width": "40",
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Devín nebol len prostou pohraničnou pevnosťou, ktorá chránila prístup dovnútra Staromoravského kniežatstva z južnej a východnej strany. Aj vzhľadom na svoju predchádzajúcu minulosť ako niekdajšie sídlo lokálnych slovanských a avarských kniežat naďalej patril k ústredným kniežacím hradom. Svedčí o tom jednak forma opevnenia a osídlenia hradného kopca, ale aj budovanie satelitných hradísk na vyvýšeninách Devínskej kobyly, ktoré posilňovali obranyschopnosť ústredného hradiska. Preskúmané hradiská v polohách Na pieskoch a Nad lomom, ktoré boli vybudované za vlády kniežaťa Rastislava, i husté osídlenie celého priestoru juhozápadného cípu dnešného Slovenska a priľahlých častí dnešného Rakúska svedčia o nebývalom význame Devína v 9. storočí. Dokladajú to aj početné bohato vybavené hroby objavené či už priamo v priestore dnešného hradu alebo v širšom okolí."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid-3x-XXICVE-CGq6ppNewddyq-Mh8QvlK8mD5MswUYr9ACucXEC0pAV3088kgHY-OFS51AfC7Jzi5zbYQJbLt66T2ZoPwkJAOV1-p3qSfwHfCojGnlMfiwRlcs7gcOYy9YN9tY03g7p0/s0/POV-56.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid-3x-XXICVE-CGq6ppNewddyq-Mh8QvlK8mD5MswUYr9ACucXEC0pAV3088kgHY-OFS51AfC7Jzi5zbYQJbLt66T2ZoPwkJAOV1-p3qSfwHfCojGnlMfiwRlcs7gcOYy9YN9tY03g7p0/s1600/POV-56.jpg",
+          "filename": "POV-56.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid-3x-XXICVE-CGq6ppNewddyq-Mh8QvlK8mD5MswUYr9ACucXEC0pAV3088kgHY-OFS51AfC7Jzi5zbYQJbLt66T2ZoPwkJAOV1-p3qSfwHfCojGnlMfiwRlcs7gcOYy9YN9tY03g7p0/s1600/POV-56.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rastislav sa mimoriadne zaslúžil aj o budovanie Devína ako kniežacieho hradu a pevnosti proti Frankom, ktorým sa vôbec nepáčila jeho samostatná a suverénna politika. Od roku 855 s ním preto viedli takmer nepretržite vojnu s cieľom zachovať vazalskú závislosť Veľkej Moravy od Východofranskej ríše, ktorá vznikla z východnej časti ríše Karola Veľkého na základe Verdunskej zmluvy z roku 843. Jedno z mnohých vojenských stretnutí Rastislava s vojskami východofranského kráľa Ľudovíta Nemca sa odohralo, ako som už spomenul v prvej kapitole, pri Devíne roku 864. Pravdepodobne bolo Ľudovítovou reakciou na príchod byzantskej misie, ale z pohľadu Frankov skončilo neúspechom, hoci si kompromisný mier vykladali ako svoje víťazstvo. Rastislav si musel veriť a predovšetkým musel dôverovať celému opevnenému komplexu Moravanov pri Devínskej bráne, keď sa nechal v hradisku obkľúčiť určite mocným a početným vojskom, a neustúpil do vnútrozemia. Devínske hradby pravdepodobne vyzerali skutočne hrozivo, keď sa vychodofranský kráľ ani len nepokúsil o ich zdolanie silou a volil kompromisnú dohodu s formálnym zložením vazalského sľubu zo strany Rastislava, o ktorom obidvaja vedeli, že nebude mať žiadnu cenu. Najlepším svedectvom o neúspechu tejto výpravy je skutočnosť, že už franský analista pri zaznamenaní udalosti skonštatoval porušenie prísahy zo strany veľkomoravského vládcu, ale najmä pokračovanie misijného diela Konštantína a Metoda."
+              }
+            ]
+          }
+        ]
       },
       {
         "__component": "content.image-block",
@@ -562,17 +1424,171 @@
           "blogger": {
             "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuR-qyNhgs_cXNZ_oyzs1zdcFl3rBVn3DX0J6n-_MLR1HLZPyuEXND1jJiKdbZwLbID8dXOfFFhji2zfvhq-lWQgJNHAQqUwSCnhkydSYAklAHjL1w-zCg1Nlvm_osjHcuUM1luYFEuKA/s1600/kostol12.jpg",
             "displayedWidth": 320,
-            "displayedHeight": 213
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
           }
         },
         "alt": "Základy Veľkomoravského kostola s maketou",
         "caption": "Základy Veľkomoravského kostola s maketou",
-        "position": "center",
+        "position": "left",
         "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V katastri obce na ostrožnej polohe nad sútokom riek Dunaja a Moravy stoja zvyšky stredovekého hradu, v areály ktorého boli objavené staršie stopy po opevňovacích prácach. Veľmi významné sú nálezy po slovanskom osídlení. Pravdepodobne už v 8.storočí bolo na mieste súčasného hradu vybudované hradisko, využívajúce zvyšky staršej fortifikácie (val na severnej strane vyhĺbený počas dobí rímskej). Z \"Fuldských análov\" sa dozvedáme k roku 864 pravdepodobne o Devínskom hradisku (Dowina). Hradisko zaberalo takmer celú plochu terajšieho stredovekého hradu. Počas panovania kniežaťa Rastislava (846-870) hradisko spolu s okolitým osídlením ak nebolo priamo centrom ríše tak určite patrilo medzi najvýznamnejšie Veľkomoravské sídla, čo potvrdzuje uvedená písomná zmienka. Okrem veľkého množstva nálezov, ktoré potvrdzujú písomné pramene, objavená trojpriestorová sakrálna stavba odkrytá v rokoch 1984-1985 v polohe \"Nad prístaviskom\". "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiArXQI-5Q3WZq5LlGbtWRngcE-GtCZRZNZdCF7pPANhEicjMfEVx19ZNk-d5bYju7OKf9PVNRk6Ph3SolYe5kcjulrjscm95O1RKMfWaaDscQKWQrrFY7tZIkRAit2RpprrrFyb39V3sE/s0/POV-59.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiArXQI-5Q3WZq5LlGbtWRngcE-GtCZRZNZdCF7pPANhEicjMfEVx19ZNk-d5bYju7OKf9PVNRk6Ph3SolYe5kcjulrjscm95O1RKMfWaaDscQKWQrrFY7tZIkRAit2RpprrrFyb39V3sE/s1600/POV-59.jpg",
+          "filename": "POV-59.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiArXQI-5Q3WZq5LlGbtWRngcE-GtCZRZNZdCF7pPANhEicjMfEVx19ZNk-d5bYju7OKf9PVNRk6Ph3SolYe5kcjulrjscm95O1RKMfWaaDscQKWQrrFY7tZIkRAit2RpprrrFyb39V3sE/s1600/POV-59.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
         "width": "60",
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nálezy",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na hradisku bola doložená trojapsidová (trikonchálna) sakrálna stavba - obvodové múry a priečky boli previazané, čo dokazuje o postavení celej stavby naraz bez následnej dostavby. Z vonkajšej strany boli múry pokryté bielou vápennou omietkou. Steny v interiéri boli pokryté omietkou, ktorá bola zdobená maľbami zemitými farbami (podobne boli zdobené napr. kostol na Bratislavskom hrade a sakrálne stavby v Mikulčiciach). Stavba svojim prevedením patrí do architektúry, ktorá vznikla v 9.storočí na Veľkej Morave. Datovaniu pomohli hroby (zachovalo sa ich 6), ktoré sa nachádzali južne v blízkosti stavby, ktoré podľa sprievodného materiálu boli zaradené do 9.stor. K časovému zaradeniu stavby pomohli i pohrebisko z ktorého niekoľko hrobov prekrývalo múry kostola. J. Eisner pohrebisko datoval na základe sprievodného materiálu a mincí do 11. a začiatku 13.storočia, čo naznačuje, že na pohrebisku sa pochovávalo v čase kedy stavba bola už zaniknutá (v ruinách). Okrem sakrálnej stavby s priľahlým pohrebiskom bolo v areály hradiska zistená husto zastavaná plocha sídliskovými stavbami. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd25wdCQNVQowIJD08cNuqA8_mOF5jqSQ0pPJagRpfX27Z_wYz1JtQl1Q9MrdiH4oB6uTZriT3eteZmiUgZKQ6NhliBUOZphPxyqzdGxmtvm2Nb7hRrhpPfyJD4MuKR8XLMMfedwQlY74/s0/POV-63.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd25wdCQNVQowIJD08cNuqA8_mOF5jqSQ0pPJagRpfX27Z_wYz1JtQl1Q9MrdiH4oB6uTZriT3eteZmiUgZKQ6NhliBUOZphPxyqzdGxmtvm2Nb7hRrhpPfyJD4MuKR8XLMMfedwQlY74/s1600/POV-63.jpg",
+          "filename": "POV-63.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd25wdCQNVQowIJD08cNuqA8_mOF5jqSQ0pPJagRpfX27Z_wYz1JtQl1Q9MrdiH4oB6uTZriT3eteZmiUgZKQ6NhliBUOZphPxyqzdGxmtvm2Nb7hRrhpPfyJD4MuKR8XLMMfedwQlY74/s1600/POV-63.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sídliskové stavby boli zistené na celej ploche hradiska, s prevažnou koncentráciou v severozápadnom rohu. Ako obydlia slúžili štvorcové nadzemné chaty zrubovej konštrukcie. Zrubové chaty boli zistené napr. pri severnom vale a na východnom svahu. Sídlisko nachádzajúce sa v areály hradiska bolo značne rozvinuté v druhej polovici 9.storočia a na začiatku 10.storočia, vzniklo možno už v 8.storočí."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnKLerGgBleLNidZerjd4GyZyFzy5EQgHVLU3FrExo5gQltdMijI4g4B-cmNZ8wyOF-vHxborXPCc6rvbG-GaQc0o0JaATm5E_PN5_rovERwiMTWk2kXVTgdoKAGTyQXvowzgdDv2Yyag/s1600/dev%25C3%25ADn+kostol.jpg",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Mimo hradiska bolo doložené rovnako intenzívne osídlenie. Okrem viacerých menších nálezov vystupujú do popredia tri pohrebiská v katastri obce Devín, ktoré naznačujú na väčší počet obyvateľov, ako je pre 9.storočie obvyklé. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pohrebisko v polohe \"Mladošovičov vinohrad\" skúmal J. Eisner. Odkryl tu len 12 hrobov, ale i napriek tomu výskum poukázal na to, že pohrebisko bolo rozsiahlejšie, nakoľko však sa nachádzalo v oblasti kultivačnej pôdy nebolo možné vo výskume pokračovať. Neskôr bol odkrytý ešte jeden hrob. Hroby i napriek malému počtu vykazujú bohatú výbavu. Len jeden hrob bol bez nálezov. Okrem keramiky a niekoľkých železných predmetov boli zo šperku zastúpené najmä hrozienkové náušnice. V hrobe č.9 boli objavené náušnice, náhrdelník zo sklených korálikov s polmesiacovitým príveskom. "
+              }
+            ]
+          }
+        ]
       },
       {
         "__component": "content.image-block",
@@ -583,77 +1599,19 @@
           "blogger": {
             "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKNTfsjP_gN5WtDS76cYwLKFwfzQXlIGcbC01MgNH5Acyy1OLy29anQRXTTHent2eF06vfAlOYnYYGq2VwUbNH9bANjvn7FTmDdNaDb59MKUrZ2PYeRakPqVD5U15EtEzPQ7kP_r4UCgI/s1600/na%25CC%2581lezy+devin.jpg",
             "displayedWidth": 237,
-            "displayedHeight": 320
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
           }
         },
         "alt": "Slovanské nálezy z Devína",
         "caption": "Slovanské nálezy z Devína",
-        "position": "center",
+        "position": "right",
         "showCaption": true,
-        "width": "60",
+        "width": "40",
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Po príchoede Slovanov na naše územie sa títo samozrejme usadili aj na Devíne a v jeho okolí. Devín niektorí historici stotožňujú s bájnym Wogastisburgom, pričom táto téma je rozoberanä v samostatnom článku. Po smrti panovníka Sama naše územie opäč čiastočne ovládli Avari, aj keď ich vzťah k Slovanom už nebol tak nadradený ako pred vznikom Samovej ríše, skôr sa jednalo o spolužitie so Slovanmi, ktorí v konewčnom dôsledku Avarov úplne pohltili. Významným oporným bodom Avarov, z ktorého ovládali podľa historika Jána Steinhübela Slovanov na Morave (neskoršie Moravské kniežatstvo), bol práve Devín. Ich prítomnosť na Devíne v tomto období dokumentuje výrazný nárast jazdeckých hrobov na pohrebisku v Devínskej Novej Vsi a Záhorskej Bystrici, ale aj ojedinelý, bohato vybavený hrob avarského jazdca v centre obce Devín. Podľa menovaného historika vzrast moci Avarov na konci 7. storočia bol sprevádzaný konsolidáciou moci slovanských kniežat na Morave a v Nitriansku, ktoré neboli priamo okupované Avarmi.\n \n \n  \n \n  Hrnko píše, že \"po rozbrojoch vo vnútri Avarskej ríše, ktoré vyústili do zavraždenia kagana v polovici deväťdesiatych rokov 8. storočia, sa tudun pokúsil zachrániť prechodom na stranu Frankov. Karol Veľký ho síce prijal, ale na celkovom osude avarského panstva na strednom Dunaji to už nič nezmenilo. Nový kagan nebol schopný obnoviť centrálnu moc a napriek tomu, že po zdrvujúcich porážkach prijal franskú zvrchovanosť i kresťanstvo, neodvratný koniec avarského panstva nezamedzil. Slovanské kniežatá na Morave a v Nitriansku využili franské víťazstvá nad Avarmi na vlastné posilnenie a moc bývalých utláčateľov v svojom dosahu nemilosrdne likvidovali. Už začiatkom 9. storočia sa Avari sťažovali na útoky Slovanov a cisár im bol nútený určiť nové sídla mimo ich dosah. V tomto období sa moravské kniežatá pravdepodobne opätovne zmocnili Devína a začali ho prebudovávať na jednu zo svojich najvýznamnejších pevností."
-              },
-              {
-                "type": "text",
-                "text": "Rastislavov Devín",
-                "bold": true
-              },
-              {
-                "type": "text",
-                "text": "\n \n  Definitívna porážka Avarov urýchlila štátotvorný i národotvorný proces stredoeurópskych Slovanov. Na území dnešnej Moravy a naddunajskej časti Dolného Rakúska až po rieku Kampu sa vytvorilo Staromoravské kniežatstvo s pravdepodobným centrom v Mikulčiciach. Na území Slovenska východne od Malých a Bielych Karpát až po Slánske vrchy s presahom do dnešného Maďarska až po Matru sa sformovalo Nitrianske kniežatstvo s centrom v Nitre. Obe kniežatstvá predstavovali počiatočnú fázu feudálneho štátu, v ktorom sa menilo postavenie rodového kniežaťa na feudálneho suveréna a príslušníci vojenských družín sa pretvárali na zárodok budúcej feudálnej vládnucej triedy – šľachty.\n \n \n  \n  \n \n  V susedstve Staromoravského kniežatstva na pravej strane Dunaja sa rozprestierala Východná marka ako predpolie mocnej Franskej ríše, z ktorej sa nasledovníci Karola Veľkého snažili ovládať územia v alpsko-karpatskom priestore. Moravské kniežatá na obranu proti potenciálnym vojenským vpádom budovali mohutné hradiská v pohraničí i vo vnútri krajiny. Jedným z najvýznamnejších pohraničných hradísk Moravanov bol Devín, ktorý chránil nielen prechod cez Dunaj z Východnej marky, ale aj hranicu proti susednému Nitriansku, ktoré malo rovnako silnú pevnosť v priestore dnešného Bratislavského hradu.\n \n  Devín nebol len prostou pohraničnou pevnosťou, ktorá chránila prístup dovnútra Staromoravského kniežatstva z južnej a východnej strany. Aj vzhľadom na svoju predchádzajúcu minulosť ako niekdajšie sídlo lokálnych slovanských a avarských kniežat naďalej patril k ústredným kniežacím hradom. Svedčí o tom jednak forma opevnenia a osídlenia hradného kopca, ale aj budovanie satelitných hradísk na vyvýšeninách Devínskej kobyly, ktoré posilňovali obranyschopnosť ústredného hradiska. Preskúmané hradiská v polohách Na pieskoch a Nad lomom, ktoré boli vybudované za vlády kniežaťa Rastislava, i husté osídlenie celého priestoru juhozápadného cípu dnešného Slovenska a priľahlých častí dnešného Rakúska svedčia o nebývalom význame Devína v 9. storočí. Dokladajú to aj početné bohato vybavené hroby objavené či už priamo v priestore dnešného hradu alebo v širšom okolí.\n \n \n  \n  \n \n   Rastislav sa mimoriadne zaslúžil aj o budovanie Devína ako kniežacieho hradu a pevnosti proti Frankom, ktorým sa vôbec nepáčila jeho samostatná a suverénna politika. Od roku 855 s ním preto viedli takmer nepretržite vojnu s cieľom zachovať vazalskú závislosť Veľkej Moravy od Východofranskej ríše, ktorá vznikla z východnej časti ríše Karola Veľkého na základe Verdunskej zmluvy z roku 843. Jedno z mnohých vojenských stretnutí Rastislava s vojskami východofranského kráľa Ľudovíta Nemca sa odohralo, ako som už spomenul v prvej kapitole, pri Devíne roku 864. Pravdepodobne bolo Ľudovítovou reakciou na príchod byzantskej misie, ale z pohľadu Frankov skončilo neúspechom, hoci si kompromisný mier vykladali ako svoje víťazstvo. Rastislav si musel veriť a predovšetkým musel dôverovať celému opevnenému komplexu Moravanov pri Devínskej bráne, keď sa nechal v hradisku obkľúčiť určite mocným a početným vojskom, a neustúpil do vnútrozemia. Devínske hradby pravdepodobne vyzerali skutočne hrozivo, keď sa vychodofranský kráľ ani len nepokúsil o ich zdolanie silou a volil kompromisnú dohodu s formálnym zložením vazalského sľubu zo strany Rastislava, o ktorom obidvaja vedeli, že nebude mať žiadnu cenu. Najlepším svedectvom o neúspechu tejto výpravy je skutočnosť, že už franský analista pri zaznamenaní udalosti skonštatoval porušenie prísahy zo strany veľkomoravského vládcu, ale najmä pokračovanie misijného diela Konštantína a Metoda.\n \n   \n  V katastri obce na ostrožnej polohe nad sútokom riek Dunaja a Moravy stoja zvyšky stredovekého hradu, v areály ktorého boli objavené staršie stopy po opevňovacích prácach. Veľmi významné sú nálezy po slovanskom osídlení. Pravdepodobne už v 8.storočí bolo na mieste súčasného hradu vybudované hradisko, využívajúce zvyšky staršej fortifikácie (val na severnej strane vyhĺbený počas dobí rímskej). Z \"Fuldských análov\" sa dozvedáme k roku 864 pravdepodobne o Devínskom hradisku (Dowina). Hradisko zaberalo takmer celú plochu terajšieho stredovekého hradu. Počas panovania kniežaťa Rastislava (846-870) hradisko spolu s okolitým osídlením ak nebolo priamo centrom ríše tak určite patrilo medzi najvýznamnejšie Veľkomoravské sídla, čo potvrdzuje uvedená písomná zmienka. Okrem veľkého množstva nálezov, ktoré potvrdzujú písomné pramene, objavená trojpriestorová sakrálna stavba odkrytá v rokoch 1984-1985 v polohe \"Nad prístaviskom\". \n \n "
-              },
-              {
-                "type": "text",
-                "text": "Nálezy",
-                "bold": true
-              },
-              {
-                "type": "text",
-                "text": "\n \n  Na hradisku bola doložená trojapsidová (trikonchálna) sakrálna stavba - obvodové múry a priečky boli previazané, čo dokazuje o postavení celej stavby naraz bez následnej dostavby. Z vonkajšej strany boli múry pokryté bielou vápennou omietkou. Steny v interiéri boli pokryté omietkou, ktorá bola zdobená maľbami zemitými farbami (podobne boli zdobené napr. kostol na Bratislavskom hrade a sakrálne stavby v Mikulčiciach). Stavba svojim prevedením patrí do architektúry, ktorá vznikla v 9.storočí na Veľkej Morave. Datovaniu pomohli hroby (zachovalo sa ich 6), ktoré sa nachádzali južne v blízkosti stavby, ktoré podľa sprievodného materiálu boli zaradené do 9.stor. K časovému zaradeniu stavby pomohli i pohrebisko z ktorého niekoľko hrobov prekrývalo múry kostola. J. Eisner pohrebisko datoval na základe sprievodného materiálu a mincí do 11. a začiatku 13.storočia, čo naznačuje, že na pohrebisku sa pochovávalo v čase kedy stavba bola už zaniknutá (v ruinách). Okrem sakrálnej stavby s priľahlým pohrebiskom bolo v areály hradiska zistená husto zastavaná plocha sídliskovými stavbami. \n \n \n   \n \n Sídliskové stavby boli zistené na celej ploche hradiska, s prevažnou koncentráciou v severozápadnom rohu. Ako obydlia slúžili štvorcové nadzemné chaty zrubovej konštrukcie. Zrubové chaty boli zistené napr. pri severnom vale a na východnom svahu. Sídlisko nachádzajúce sa v areály hradiska bolo značne rozvinuté v druhej polovici 9.storočia a na začiatku 10.storočia, vzniklo možno už v 8.storočí.\n \n \n  \n \n     \n \n \n"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Mimo hradiska bolo doložené rovnako intenzívne osídlenie. Okrem viacerých menších nálezov vystupujú do popredia tri pohrebiská v katastri obce Devín, ktoré naznačujú na väčší počet obyvateľov, ako je pre 9.storočie obvyklé."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Pohrebisko v polohe \"Mladošovičov vinohrad\" skúmal J.Eisner. Odkryl tu len 12 hrobov, ale i napriek tomu výskum poukázal na to, že pohrebisko bolo rozsiahlejšie, nakoľko však sa nachádzalo v oblasti kultivačnej pôdy nebolo možné vo výskume pokračovať. Neskôr bol odkrytý ešte jeden hrob. Hroby i napriek malému počtu vykazujú bohatú výbavu. Len jeden hrob bol bez nálezov. Okrem keramiky a niekoľkých železných predmetov boli zo šperku zastúpené najmä hrozienkové náušnice. V hrobe č.9 boli objavené náušnice, náhrdelník zo sklených korálikov s polmesiacovitým príveskom."
-              }
-            ]
-          }
-        ]
       },
       {
         "__component": "content.rich-text",
@@ -672,20 +1630,22 @@
       {
         "__component": "content.image-block",
         "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJdgIYqf0CML12WBjUiCxF8RFuGGIQEULaH9udTpN9NzDWUDbqUEtqMXDMrAYxVchANgl0MugUc8qMM7vX_u4g4SVF9Sc6txSNpCDkkJRBfl2wofSOrZ5Y1M92LFKxLWIvLDI7gN2IPvM/s0/Lom.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJdgIYqf0CML12WBjUiCxF8RFuGGIQEULaH9udTpN9NzDWUDbqUEtqMXDMrAYxVchANgl0MugUc8qMM7vX_u4g4SVF9Sc6txSNpCDkkJRBfl2wofSOrZ5Y1M92LFKxLWIvLDI7gN2IPvM/s1600/Lom.jpg",
-          "filename": "Lom.jpg",
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTaRG7tH_JUh8sENrOIBWLKrqdMOyaUFHGukSrrbWjWHFaidiAUjmoBKvAIzSuo987BVLFefV_c2ZlVsc7uKssuZR_dCzFewR85DuL4WNjLV2rLVnMJbn_fJCZJW_mkvjp3xj4pMDKnReE/s0/Vitraz%25CC%258Ce+HArmadyova+2020.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTaRG7tH_JUh8sENrOIBWLKrqdMOyaUFHGukSrrbWjWHFaidiAUjmoBKvAIzSuo987BVLFefV_c2ZlVsc7uKssuZR_dCzFewR85DuL4WNjLV2rLVnMJbn_fJCZJW_mkvjp3xj4pMDKnReE/s1600/Vitraz%25CC%258Ce+HArmadyova+2020.jpg",
+          "filename": "Vitraz%CC%8Ce+HArmadyova+2020.jpg",
           "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJdgIYqf0CML12WBjUiCxF8RFuGGIQEULaH9udTpN9NzDWUDbqUEtqMXDMrAYxVchANgl0MugUc8qMM7vX_u4g4SVF9Sc6txSNpCDkkJRBfl2wofSOrZ5Y1M92LFKxLWIvLDI7gN2IPvM/s1600/Lom.jpg",
-            "displayedWidth": 313,
-            "displayedHeight": 320
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTaRG7tH_JUh8sENrOIBWLKrqdMOyaUFHGukSrrbWjWHFaidiAUjmoBKvAIzSuo987BVLFefV_c2ZlVsc7uKssuZR_dCzFewR85DuL4WNjLV2rLVnMJbn_fJCZJW_mkvjp3xj4pMDKnReE/s675/Vitraz%25CC%258Ce+HArmadyova+2020.jpg",
+            "displayedWidth": null,
+            "displayedHeight": 320,
+            "originalWidth": 558,
+            "originalHeight": 675
           }
         },
-        "alt": "",
-        "caption": "",
-        "position": "center",
-        "showCaption": false,
-        "width": "60",
+        "alt": "Vitrážovaná výzdoba okna kostola (Harmadyová 2020)",
+        "caption": "Vitrážovaná výzdoba okna kostola (Harmadyová 2020)",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
@@ -698,7 +1658,27 @@
             "children": [
               {
                 "type": "text",
-                "text": "Zatiaľ najväčšie pohrebisko bolo odkryté v polohe \"Za kostolom\". Preskúmal ho v 60.-70.rokoch I. Keller. Bolo tu odkrytých 122 hrobov, pri niektorých bolo zistené drevené obloženie hrobovej jamy. Takmer polovicu hrobov (40 %) predstavujú detské hroby. Len v 58 hroboch boli zistené nálezy z ktorých prevažnú časť predstavuje keramika a železné nože. V ženských hroboch boli zastúpené jednoduché krúžkové náušnice, niekedy s uzlíkom alebo s vývalkami. Okrem jednoduchších náušníc boli objavené obľúbené (hlavne v 9.storočí) hrozienkové náušnice."
+                "text": "Zatiaľ najväčšie pohrebisko bolo odkryté v polohe \"Za kostolom\". Preskúmal ho v 60.-70.rokoch I. Keller. Bolo tu odkrytých 122 hrobov, pri niektorých bolo zistené drevené obloženie hrobovej jamy. Takmer polovicu hrobov (40 %) predstavujú detské hroby. Len v 58 hroboch boli zistené nálezy z ktorých prevažnú časť predstavuje keramika a železné nože. V ženských hroboch boli zastúpené jednoduché krúžkové náušnice, niekedy s uzlíkom alebo s vývalkami. Okrem jednoduchších náušníc boli objavené obľúbené (hlavne v 9.storočí) hrozienkové náušnice.\n \n \n  "
+              },
+              {
+                "type": "link",
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjokD6q4smsV6iDWDcRz8oNBTOZLuWGKoEHvUIwBjTHaBK8hCwTGFPF8_8_MUx-JIZpVCqnnh5Fj2fA6De7o8sN41GRiwcUuafxz-uuRB5A7DnRwNBGujzAB0V6TPmbtCCT3BI4FuqPRvw/s1600/dev%25C3%25ADn+piesky.jpg",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEYCX5uy7sif8BERqSOmUjgB8SX-E6HKtAdwY1YADdv7nMkz9g8-zjiU7y7sYxeIlKFn_ttJCfZcElMnkEcd5t-voqULqy98K89ysRW5otyOS8lZ3ra3xZQcPRp6VgNgTu7S8dr75gM7k/s1600/dev%25C3%25ADn+piesky2.jpg",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": ""
+                  }
+                ]
               }
             ]
           }
@@ -719,6 +1699,29 @@
         ]
       },
       {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlToJITQ_Inr_kYcN_OF54uzot995d_AfoInqX2xe53dwvtkNLJ2G74pzTNW6yAFcGHBujOYacOMeDjpUpD3IYdVIJSorCU-0u-A7MdO6InKCFwJ1EeEU8BN1XhTc8rjzQ-AAWbCZFel8/s0/POV-194.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlToJITQ_Inr_kYcN_OF54uzot995d_AfoInqX2xe53dwvtkNLJ2G74pzTNW6yAFcGHBujOYacOMeDjpUpD3IYdVIJSorCU-0u-A7MdO6InKCFwJ1EeEU8BN1XhTc8rjzQ-AAWbCZFel8/s1600/POV-194.jpg",
+          "filename": "POV-194.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlToJITQ_Inr_kYcN_OF54uzot995d_AfoInqX2xe53dwvtkNLJ2G74pzTNW6yAFcGHBujOYacOMeDjpUpD3IYdVIJSorCU-0u-A7MdO6InKCFwJ1EeEU8BN1XhTc8rjzQ-AAWbCZFel8/s1600/POV-194.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -733,6 +1736,29 @@
         ]
       },
       {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlObMqRmIF1OY7Q1RtBwCvxpTZ76V1pDmDjvs9Xi2epXih-atd4QNAohvrRL9DI5bo5uJLyIwuWjWtrpFa2awnp-_J8snw6y9jCzCOUF02zgsOpbojJX6BqzsetXvZRmyWUg6g5JeGVBY/s0/POV-195.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlObMqRmIF1OY7Q1RtBwCvxpTZ76V1pDmDjvs9Xi2epXih-atd4QNAohvrRL9DI5bo5uJLyIwuWjWtrpFa2awnp-_J8snw6y9jCzCOUF02zgsOpbojJX6BqzsetXvZRmyWUg6g5JeGVBY/s1600/POV-195.jpg",
+          "filename": "POV-195.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlObMqRmIF1OY7Q1RtBwCvxpTZ76V1pDmDjvs9Xi2epXih-atd4QNAohvrRL9DI5bo5uJLyIwuWjWtrpFa2awnp-_J8snw6y9jCzCOUF02zgsOpbojJX6BqzsetXvZRmyWUg6g5JeGVBY/s1600/POV-195.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -740,11 +1766,34 @@
             "children": [
               {
                 "type": "text",
-                "text": "Ako je zrejmé aj z uvedeného článku, Devín v časoch Veľkej Moravy nemožno chápať ako jedno samostatné hradisko, ale skôr ako rozsiahlu aglomeráciu zahŕňajúcu viaceré sídliská s hospodárskym zázemím a zároveň zahŕňajúcu sústavu najmenej troch hradísk, ktoré neslúžili iba ako refúgiá, ale jedno z nich bezpochyby ako sídlo veľmoža (priestor dnešného hradu), resp. dokonca ako kniežacie sídlo. Že teória o kniežacom význame Devína nie je iba fikcia nasvedčujú záznamy d dobových kroník, ktoré Devín priamo spomínajú v súvislosti s vojnou Rastislava s franským kráľom Ľudovítom Nemcom. O tom, že Dowina spomínaná v kronike rovná sa Devín nie je treba pochybovať, veď práve rozsiahlosť, strategická poloha a takmer nedobytnosť devínskych hradísk sa priamo núka ako mimoriadne výhodné miesto pre zorganizovanie obrany proti silnému nemeckému vojsku. Dovolím si zacitovať výňatok z článku, ktorý sa venuje záznamom vo Fuldských a Bertiniánskych análoch, týkajúcim sa Devína a jeho významu pre našich predkov."
+                "text": "Ako je zrejmé aj z uvedeného článku, Devín v časoch Veľkej Moravy nemožno chápať ako jedno samostatné hradisko, ale skôr ako rozsiahlu aglomeráciu zahŕňajúcu viaceré sídliská s hospodárskym zázemím a zároveň zahŕňajúcu sústavu najmenej troch hradísk, ktoré neslúžili iba ako refúgiá, ale jedno z nich bezpochyby ako sídlo veľmoža (priestor dnešného hradu), resp. dokonca ako kniežacie sídlo. Že teória o kniežacom význame Devína nie je iba fikcia nasvedčujú záznamy d dobových kroník, ktoré Devín priamo spomínajú v súvislosti s vojnou Rastislava s franským kráľom Ľudovítom Nemcom. O tom, že Dowina spomínaná v kronike rovná sa Devín nie je treba pochybovať, veď práve rozsiahlosť, strategická poloha a takmer nedobytnosť devínskych hradísk sa priamo núka ako mimoriadne výhodné miesto pre zorganizovanie obrany proti silnému nemeckému vojsku. Dovolím si zacitovať výňatok z článku, ktorý sa venuje záznamom vo Fuldských a Bertiniánskych análoch, týkajúcim sa Devína a jeho významu pre našich predkov. "
               }
             ]
           }
         ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgV7HtitiNhykQc3HrMffKtGHvTZgb14iIa94wyqxwx76YjGPofPd7TzA5nqfbq_vPVLACrktTSefXQquRE7EkjZdB0zO72OF1Lv7ZGriAk8owSm1IsPExcaIUd0QJC7pHwBTWdC79hWI/s0/POV-57.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgV7HtitiNhykQc3HrMffKtGHvTZgb14iIa94wyqxwx76YjGPofPd7TzA5nqfbq_vPVLACrktTSefXQquRE7EkjZdB0zO72OF1Lv7ZGriAk8owSm1IsPExcaIUd0QJC7pHwBTWdC79hWI/s1600/POV-57.jpg",
+          "filename": "POV-57.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgV7HtitiNhykQc3HrMffKtGHvTZgb14iIa94wyqxwx76YjGPofPd7TzA5nqfbq_vPVLACrktTSefXQquRE7EkjZdB0zO72OF1Lv7ZGriAk8owSm1IsPExcaIUd0QJC7pHwBTWdC79hWI/s1600/POV-57.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -775,20 +1824,8 @@
         ]
       },
       {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Kráľ Ľudovít vytiahol v mesiaci august s veľkým vojskom za Dunaj a obľahol Rastislava v akomsi meste, ktoré sa v reči onoho národa nazýva Dowina. Ten (Rastislav) však keď sa neodvažoval stretnúť s kráľovými vojskami , a keď videl, že nemá kadiaľ by unikol, v tiesni bol nútený dať toľko rukojemných a v takom počte, ako kráľ prikázal. Nadto ešte stvrdil prísahou, že všetkými svojimi (Rastislavovými) veľmožmi bude po všetky dni kráľovi zachovávať vernosť, i keď ju dovtedy nezachovával.",
-                "bold": true,
-                "italic": true
-              }
-            ]
-          }
-        ]
+        "__component": "content.quote-block",
+        "text": "Kráľ Ľudovít vytiahol v mesiaci august s veľkým vojskom za Dunaj a obľahol Rastislava v akomsi meste, ktoré sa v reči onoho národa nazýva Dowina. Ten (Rastislav) však keď sa neodvažoval stretnúť s kráľovými vojskami , a keď videl, že nemá kadiaľ by unikol, v tiesni bol nútený dať toľko rukojemných a v takom počte, ako kráľ prikázal. Nadto ešte stvrdil prísahou, že všetkými svojimi (Rastislavovými) veľmožmi bude po všetky dni kráľovi zachovávať vernosť, i keď ju dovtedy nezachovával."
       },
       {
         "__component": "content.rich-text",
@@ -819,6 +1856,29 @@
         ]
       },
       {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s0/Dev%25C3%25ADn+hrad.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s1600/Dev%25C3%25ADn+hrad.jpg",
+          "filename": "Dev%C3%ADn+hrad.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzDdw3UxrqSLJOQcWwiRDsC8hCoLgLjL-sI8lnlrvCy1c2gU9ATABriTjkBdPMjLlQhm46PJNZnQUtS20DkD6Jf_T_AoQ_PIzN2Scbq74SN9KAVFal3BD0gAul36GmERI1991AicFDNKM/s1600/Dev%25C3%25ADn+hrad.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 166,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -833,16 +1893,40 @@
         ]
       },
       {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcHbGocxGZyJnYZBQM8cUhbTON1pwFk6zCL28qnOy2kS34JOE_FnG5cK7o-COlXCuZRLXHCNcm2a2-XA_qwkRzgoK5HxXAHMzZ4_K4lS-nYM6ZMy3fthqec3ENKhyDM-8xffmp8Uljjg/s0/devi%25CC%2581n+s%25CC%258Cperky.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcHbGocxGZyJnYZBQM8cUhbTON1pwFk6zCL28qnOy2kS34JOE_FnG5cK7o-COlXCuZRLXHCNcm2a2-XA_qwkRzgoK5HxXAHMzZ4_K4lS-nYM6ZMy3fthqec3ENKhyDM-8xffmp8Uljjg/s1600/devi%25CC%2581n+s%25CC%258Cperky.jpg",
+          "filename": "devi%CC%81n+s%CC%8Cperky.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIcHbGocxGZyJnYZBQM8cUhbTON1pwFk6zCL28qnOy2kS34JOE_FnG5cK7o-COlXCuZRLXHCNcm2a2-XA_qwkRzgoK5HxXAHMzZ4_K4lS-nYM6ZMy3fthqec3ENKhyDM-8xffmp8Uljjg/s1600/devi%25CC%2581n+s%25CC%258Cperky.jpg",
+            "displayedWidth": 275,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
         "__component": "content.rich-text",
         "body": [
           {
-            "type": "paragraph",
+            "type": "heading",
             "children": [
               {
                 "type": "text",
                 "text": "Bertiniánske anály"
               }
-            ]
+            ],
+            "level": 2
           }
         ]
       },
@@ -861,20 +1945,8 @@
         ]
       },
       {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Ľudovít, kráľ Germánie, vytiahol s vojskom naproti bulharskému kaganovi menom (...), ktorý sľúbil, že sa stane kresťanom; odtiaľ sa chcel vypraviť, aby zriadil marku Vinidov, ak uvidí, že mu bude doprianý úspech.",
-                "bold": true,
-                "italic": true
-              }
-            ]
-          }
-        ]
+        "__component": "content.quote-block",
+        "text": "Ľudovít, kráľ Germánie, vytiahol s vojskom naproti bulharskému kaganovi menom (...), ktorý sľúbil, že sa stane kresťanom; odtiaľ sa chcel vypraviť, aby zriadil marku Vinidov, ak uvidí, že mu bude doprianý úspech."
       },
       {
         "__component": "content.rich-text",
@@ -889,6 +1961,29 @@
             ]
           }
         ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSVD4S-KweZp2zYuZJI6TVljs2sRFxk6wOJ6GYHY2rwxlf4vNG24BiwZ2p-9h0mcc2RCNmWOvJIK-4m_AoxGP-b26pP3cYX9oK0buhr04-Y54M33k8j9U9q0fx0AqyrwXgSolzIqHk26A/s0/kostol1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSVD4S-KweZp2zYuZJI6TVljs2sRFxk6wOJ6GYHY2rwxlf4vNG24BiwZ2p-9h0mcc2RCNmWOvJIK-4m_AoxGP-b26pP3cYX9oK0buhr04-Y54M33k8j9U9q0fx0AqyrwXgSolzIqHk26A/s1600/kostol1.jpg",
+          "filename": "kostol1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSVD4S-KweZp2zYuZJI6TVljs2sRFxk6wOJ6GYHY2rwxlf4vNG24BiwZ2p-9h0mcc2RCNmWOvJIK-4m_AoxGP-b26pP3cYX9oK0buhr04-Y54M33k8j9U9q0fx0AqyrwXgSolzIqHk26A/s1600/kostol1.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 182,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -939,6 +2034,29 @@
         ]
       },
       {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk_Sm1P-_xumt_jPucgHmW-aXtuJjKJY_MmoJizVZU4gDpAtpTmRiwXM7n3ZQ8Wi6eDIyPQNhRCMZaXQwyJBisjE-bwWwwRaqIndwkAEictCjwWLWgH_XG0HeM_9q0qtqvRcKPSTQrMD4/s0/dev%25C3%25ADn.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk_Sm1P-_xumt_jPucgHmW-aXtuJjKJY_MmoJizVZU4gDpAtpTmRiwXM7n3ZQ8Wi6eDIyPQNhRCMZaXQwyJBisjE-bwWwwRaqIndwkAEictCjwWLWgH_XG0HeM_9q0qtqvRcKPSTQrMD4/s1600/dev%25C3%25ADn.jpg",
+          "filename": "dev%C3%ADn.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk_Sm1P-_xumt_jPucgHmW-aXtuJjKJY_MmoJizVZU4gDpAtpTmRiwXM7n3ZQ8Wi6eDIyPQNhRCMZaXQwyJBisjE-bwWwwRaqIndwkAEictCjwWLWgH_XG0HeM_9q0qtqvRcKPSTQrMD4/s1600/dev%25C3%25ADn.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 216,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Devín",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -953,424 +2071,20 @@
         ]
       },
       {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJVdeoPR22M15V12G_Qbg8clRIYW5Vsd5xVrR9qLdDbBtRFJbCe9FeIHdKOWrbQo_lS3CqTH1soQK4iby3hZ0x1Bc2KIykKXBJ8NTK8dc3sRogeCiM-__iFJ9trlvjjfMaRXVhPugbXen/s0/Lom+a+Piesky.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJVdeoPR22M15V12G_Qbg8clRIYW5Vsd5xVrR9qLdDbBtRFJbCe9FeIHdKOWrbQo_lS3CqTH1soQK4iby3hZ0x1Bc2KIykKXBJ8NTK8dc3sRogeCiM-__iFJ9trlvjjfMaRXVhPugbXen/s1600/Lom+a+Piesky.jpg",
-          "filename": "Lom+a+Piesky.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJVdeoPR22M15V12G_Qbg8clRIYW5Vsd5xVrR9qLdDbBtRFJbCe9FeIHdKOWrbQo_lS3CqTH1soQK4iby3hZ0x1Bc2KIykKXBJ8NTK8dc3sRogeCiM-__iFJ9trlvjjfMaRXVhPugbXen/s1600/Lom+a+Piesky.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 233
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na Pieskách:",
+                "bold": true
+              }
+            ],
+            "level": 2
           }
-        },
-        "alt": "Pohľad na obe hradiská. V popredí Piesky, v pozadí Lom",
-        "caption": "Pohľad na obe hradiská. V popredí Piesky, v pozadí Lom",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mkwlVsTFRQzD_g9KFjn8fzaLxp_awS_qfzzC7v4xUgMjF5mjPmZchF2M440ujjwLCqSttD5e3eNthmhcNsK-K0_IMHUNdxtyZqitpYorSgJbOPlNHEEeGSmG5eWfLUngTPYs4xAJnmE_/s0/DJI_0090.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mkwlVsTFRQzD_g9KFjn8fzaLxp_awS_qfzzC7v4xUgMjF5mjPmZchF2M440ujjwLCqSttD5e3eNthmhcNsK-K0_IMHUNdxtyZqitpYorSgJbOPlNHEEeGSmG5eWfLUngTPYs4xAJnmE_/s1600/DJI_0090.JPG",
-          "filename": "DJI_0090.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mkwlVsTFRQzD_g9KFjn8fzaLxp_awS_qfzzC7v4xUgMjF5mjPmZchF2M440ujjwLCqSttD5e3eNthmhcNsK-K0_IMHUNdxtyZqitpYorSgJbOPlNHEEeGSmG5eWfLUngTPYs4xAJnmE_/s1600/DJI_0090.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Piesky",
-        "caption": "Piesky",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_RBSagDVD2VMo49NqnGvPOumAeCtmwGpx-XV0B_GU7bGm1kVRwh6rqtD-4O6RRqDYql6U2hWFNnPwCM81iQqt9mBBGWbtIx7A6jJd3N4FLzyofUBvVhS4FGRD-1N4fHfTZZLJI4us6V7d/s0/24993389_192549431295636_6340346409760163392_n.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_RBSagDVD2VMo49NqnGvPOumAeCtmwGpx-XV0B_GU7bGm1kVRwh6rqtD-4O6RRqDYql6U2hWFNnPwCM81iQqt9mBBGWbtIx7A6jJd3N4FLzyofUBvVhS4FGRD-1N4fHfTZZLJI4us6V7d/s1600/24993389_192549431295636_6340346409760163392_n.jpg",
-          "filename": "24993389_192549431295636_6340346409760163392_n.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_RBSagDVD2VMo49NqnGvPOumAeCtmwGpx-XV0B_GU7bGm1kVRwh6rqtD-4O6RRqDYql6U2hWFNnPwCM81iQqt9mBBGWbtIx7A6jJd3N4FLzyofUBvVhS4FGRD-1N4fHfTZZLJI4us6V7d/s1600/24993389_192549431295636_6340346409760163392_n.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Pohľad na vnútornú plochu hradiska Piesky",
-        "caption": "Pohľad na vnútornú plochu hradiska Piesky",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifcSsuL4cU6Bp_Xp-K2QyHC27_K8rvAtg65noTPD5kdX073TCRelxVJsBX0bm1SAK5XEzr-1xZ8T3NVr5GJzX73oOeTaV0-xMvwFpBQCMeDTSSZaG_ScG-CaoBz4aQu9QnF0SdC1KDINs/s0/IMG_9061.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifcSsuL4cU6Bp_Xp-K2QyHC27_K8rvAtg65noTPD5kdX073TCRelxVJsBX0bm1SAK5XEzr-1xZ8T3NVr5GJzX73oOeTaV0-xMvwFpBQCMeDTSSZaG_ScG-CaoBz4aQu9QnF0SdC1KDINs/s1600/IMG_9061.jpg",
-          "filename": "IMG_9061.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifcSsuL4cU6Bp_Xp-K2QyHC27_K8rvAtg65noTPD5kdX073TCRelxVJsBX0bm1SAK5XEzr-1xZ8T3NVr5GJzX73oOeTaV0-xMvwFpBQCMeDTSSZaG_ScG-CaoBz4aQu9QnF0SdC1KDINs/s1600/IMG_9061.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Dobre zachovalá časť valu na severozápade",
-        "caption": "Dobre zachovalá časť valu na severozápade",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-HbjNyHIkXPqp9lHhnsYXsRPfm13IGkMZ1uLSV7rNBgH9hEDq1-9KwAWh9mOuDw7PHFjO9_ttMr47HjrOZjg2ZXh-y9EYnbL6DQ-VcjLgC7iTTAiHI1ZtxUHn9RTJ6esbVrQmyFsG5z8/s0/IMG_9062.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-HbjNyHIkXPqp9lHhnsYXsRPfm13IGkMZ1uLSV7rNBgH9hEDq1-9KwAWh9mOuDw7PHFjO9_ttMr47HjrOZjg2ZXh-y9EYnbL6DQ-VcjLgC7iTTAiHI1ZtxUHn9RTJ6esbVrQmyFsG5z8/s1600/IMG_9062.jpg",
-          "filename": "IMG_9062.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-HbjNyHIkXPqp9lHhnsYXsRPfm13IGkMZ1uLSV7rNBgH9hEDq1-9KwAWh9mOuDw7PHFjO9_ttMr47HjrOZjg2ZXh-y9EYnbL6DQ-VcjLgC7iTTAiHI1ZtxUHn9RTJ6esbVrQmyFsG5z8/s1600/IMG_9062.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Vnútorný priestor hradiska - v pozadí prerušený severozápadný val",
-        "caption": "Vnútorný priestor hradiska - v pozadí prerušený severozápadný val",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnYsWL9pSM_lejWG3FuuyiMB2jV9ggg9Rn8ITpcQLQ0LVTkshrjVTGZPAHOeygmu31miOf4LqkH0td11mkP5aez9Jhi_carpb5bFit-zSGOPLMy1DCb2GJDayVASzrRrgngcaQy4zGlUI/s0/IMG_9068.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnYsWL9pSM_lejWG3FuuyiMB2jV9ggg9Rn8ITpcQLQ0LVTkshrjVTGZPAHOeygmu31miOf4LqkH0td11mkP5aez9Jhi_carpb5bFit-zSGOPLMy1DCb2GJDayVASzrRrgngcaQy4zGlUI/s1600/IMG_9068.jpg",
-          "filename": "IMG_9068.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnYsWL9pSM_lejWG3FuuyiMB2jV9ggg9Rn8ITpcQLQ0LVTkshrjVTGZPAHOeygmu31miOf4LqkH0td11mkP5aez9Jhi_carpb5bFit-zSGOPLMy1DCb2GJDayVASzrRrgngcaQy4zGlUI/s1600/IMG_9068.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Pohľad na východnú časť hradiska",
-        "caption": "Pohľad na východnú časť hradiska",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPzuB_JdNGtTevH71jbBIzjORTfD9vYFIuL5vxeHvkICUrW4DsB4PdKbim6ihKowV0zo39ht42sz9t1_j_dRAreqG2CxdOTna166xmoUq3UEn0qUdnqU6GzFAq2l9mAXsCw6KlcxA8QR4/s0/IMG_9094.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPzuB_JdNGtTevH71jbBIzjORTfD9vYFIuL5vxeHvkICUrW4DsB4PdKbim6ihKowV0zo39ht42sz9t1_j_dRAreqG2CxdOTna166xmoUq3UEn0qUdnqU6GzFAq2l9mAXsCw6KlcxA8QR4/s1600/IMG_9094.jpg",
-          "filename": "IMG_9094.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPzuB_JdNGtTevH71jbBIzjORTfD9vYFIuL5vxeHvkICUrW4DsB4PdKbim6ihKowV0zo39ht42sz9t1_j_dRAreqG2CxdOTna166xmoUq3UEn0qUdnqU6GzFAq2l9mAXsCw6KlcxA8QR4/s1600/IMG_9094.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Kultúrna vrstva?",
-        "caption": "Kultúrna vrstva?",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJppsH4EaE8CFjVE_Nui0R_X0D-MBnwTenwPMJ5c1xygY-xkvYzKh4Fz3hEV7Lva4By0um6bTWu8owQ3GFeUgkDkMLt5Va6oL4wIaQIzLXLh8RcIkW95kdXyvWLsY9V9mt56WmmnMDaiM/s0/IMG_9097.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJppsH4EaE8CFjVE_Nui0R_X0D-MBnwTenwPMJ5c1xygY-xkvYzKh4Fz3hEV7Lva4By0um6bTWu8owQ3GFeUgkDkMLt5Va6oL4wIaQIzLXLh8RcIkW95kdXyvWLsY9V9mt56WmmnMDaiM/s1600/IMG_9097.jpg",
-          "filename": "IMG_9097.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJppsH4EaE8CFjVE_Nui0R_X0D-MBnwTenwPMJ5c1xygY-xkvYzKh4Fz3hEV7Lva4By0um6bTWu8owQ3GFeUgkDkMLt5Va6oL4wIaQIzLXLh8RcIkW95kdXyvWLsY9V9mt56WmmnMDaiM/s1600/IMG_9097.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Celkový pohľad na plochu hradiska",
-        "caption": "Celkový pohľad na plochu hradiska",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCmoKsgj1QeotlABqDUjeisUETlyNFdU_2EgiXLR-foS8UNnh7R1A9TEfe84yR1vBTrRVT73EItDbv7VYq5A0XX2vX0y43o7lzytdZ4wdTk1ONq2sNuF0i1J9eIXif5S3F7QCrs-AWNZ0/s0/IMG_9101.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCmoKsgj1QeotlABqDUjeisUETlyNFdU_2EgiXLR-foS8UNnh7R1A9TEfe84yR1vBTrRVT73EItDbv7VYq5A0XX2vX0y43o7lzytdZ4wdTk1ONq2sNuF0i1J9eIXif5S3F7QCrs-AWNZ0/s1600/IMG_9101.jpg",
-          "filename": "IMG_9101.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCmoKsgj1QeotlABqDUjeisUETlyNFdU_2EgiXLR-foS8UNnh7R1A9TEfe84yR1vBTrRVT73EItDbv7VYq5A0XX2vX0y43o7lzytdZ4wdTk1ONq2sNuF0i1J9eIXif5S3F7QCrs-AWNZ0/s1600/IMG_9101.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Priebeh valu na severovýchode",
-        "caption": "Priebeh valu na severovýchode",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKpT0EsChw2jVnzaqxjRFIOi9SxCk0EK8aLGxOAJm2ayqpeZrAtq1rI6gUkfif1eUtoKmQWeAYRovcz4yNaE4tLMbcDyeZ38i7tTSeHTcsdCtH70MX_NPjZhfBWVsRhn3bYoSCxwkNSKo/s0/IMG_9103.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKpT0EsChw2jVnzaqxjRFIOi9SxCk0EK8aLGxOAJm2ayqpeZrAtq1rI6gUkfif1eUtoKmQWeAYRovcz4yNaE4tLMbcDyeZ38i7tTSeHTcsdCtH70MX_NPjZhfBWVsRhn3bYoSCxwkNSKo/s1600/IMG_9103.jpg",
-          "filename": "IMG_9103.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKpT0EsChw2jVnzaqxjRFIOi9SxCk0EK8aLGxOAJm2ayqpeZrAtq1rI6gUkfif1eUtoKmQWeAYRovcz4yNaE4tLMbcDyeZ38i7tTSeHTcsdCtH70MX_NPjZhfBWVsRhn3bYoSCxwkNSKo/s1600/IMG_9103.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Známy Sandberg, nachádza sa priamo pod hradiskom Na Pieskách",
-        "caption": "Známy Sandberg, nachádza sa priamo pod hradiskom Na Pieskách",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeXyDTRighxzC00vhChYM-kmt3cuui2OzoxG7uKf7cclLjAw5KtmQm0KsF8XPFa2hu9Hh67dOMFOZM9tCPLxvvALlg66n9C6KumXogFgzimSrrB2DONmeQCIqWuR4Ftj901QCDvDYiDBw/s0/lom+stara%CC%81+foto.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeXyDTRighxzC00vhChYM-kmt3cuui2OzoxG7uKf7cclLjAw5KtmQm0KsF8XPFa2hu9Hh67dOMFOZM9tCPLxvvALlg66n9C6KumXogFgzimSrrB2DONmeQCIqWuR4Ftj901QCDvDYiDBw/s1600/lom+stara%CC%81+foto.jpg",
-          "filename": "lom+stará+foto.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeXyDTRighxzC00vhChYM-kmt3cuui2OzoxG7uKf7cclLjAw5KtmQm0KsF8XPFa2hu9Hh67dOMFOZM9tCPLxvvALlg66n9C6KumXogFgzimSrrB2DONmeQCIqWuR4Ftj901QCDvDYiDBw/s1600/lom+stara%CC%81+foto.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 223
-          }
-        },
-        "alt": "Unikátna stará fotografia zachytáva pôvodný vzhľad hradiska s viditeľnými valmi (Pamiatky a múzeá 1/1995)",
-        "caption": "Unikátna stará fotografia zachytáva pôvodný vzhľad hradiska s viditeľnými valmi (Pamiatky a múzeá 1/1995)",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlmZWa48zoo197iJv_GCMhaZnAN9iugkoWnRs8p3dACm-UCurRetuKnZInu-JLASNiI_0qMSdtd7bSUiAnGoaULEaKmOry8dJwLQGy7OgxOFX6oD9nQlPm4zfz_Jy68jXaLcyFmDpaY2E/s0/DJI_0086.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlmZWa48zoo197iJv_GCMhaZnAN9iugkoWnRs8p3dACm-UCurRetuKnZInu-JLASNiI_0qMSdtd7bSUiAnGoaULEaKmOry8dJwLQGy7OgxOFX6oD9nQlPm4zfz_Jy68jXaLcyFmDpaY2E/s1600/DJI_0086.JPG",
-          "filename": "DJI_0086.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXlmZWa48zoo197iJv_GCMhaZnAN9iugkoWnRs8p3dACm-UCurRetuKnZInu-JLASNiI_0qMSdtd7bSUiAnGoaULEaKmOry8dJwLQGy7OgxOFX6oD9nQlPm4zfz_Jy68jXaLcyFmDpaY2E/s1600/DJI_0086.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 174
-          }
-        },
-        "alt": "Celkový pohľad na hradisko Lom",
-        "caption": "Celkový pohľad na hradisko Lom",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM45duANe65TfqjJesuZtF3EZF1dfL1BpcqJizI6OE-lvg-UNglPPoJqurESmhiwIqDj_tOuOG0L9QmjcZvuIrJtIzh66IUmob_94f7LUPeq76x8sV2H2XW5xfPt9N-cCuS3IvIuISB4KI/s0/DJI_0089.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM45duANe65TfqjJesuZtF3EZF1dfL1BpcqJizI6OE-lvg-UNglPPoJqurESmhiwIqDj_tOuOG0L9QmjcZvuIrJtIzh66IUmob_94f7LUPeq76x8sV2H2XW5xfPt9N-cCuS3IvIuISB4KI/s1600/DJI_0089.JPG",
-          "filename": "DJI_0089.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM45duANe65TfqjJesuZtF3EZF1dfL1BpcqJizI6OE-lvg-UNglPPoJqurESmhiwIqDj_tOuOG0L9QmjcZvuIrJtIzh66IUmob_94f7LUPeq76x8sV2H2XW5xfPt9N-cCuS3IvIuISB4KI/s1600/DJI_0089.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 202
-          }
-        },
-        "alt": "Detail hradiska s viditeľnou časťou valového opevnenia vpravo",
-        "caption": "Detail hradiska s viditeľnou časťou valového opevnenia vpravo",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCm1vQv7-KC4lU2SrygDmnzVbmhN2HYEIGLG9DsZfDtfSIPR-i5hbsbJLpt0znbnyGTdpbavXBzue5_cBE1Sps3xksYoyg1q1OA4rU3aaS2Uy7LMftjd9dV_RCYKmbmozs2uNancVuRZCS/s0/DJI_0110.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCm1vQv7-KC4lU2SrygDmnzVbmhN2HYEIGLG9DsZfDtfSIPR-i5hbsbJLpt0znbnyGTdpbavXBzue5_cBE1Sps3xksYoyg1q1OA4rU3aaS2Uy7LMftjd9dV_RCYKmbmozs2uNancVuRZCS/s1600/DJI_0110.JPG",
-          "filename": "DJI_0110.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCm1vQv7-KC4lU2SrygDmnzVbmhN2HYEIGLG9DsZfDtfSIPR-i5hbsbJLpt0znbnyGTdpbavXBzue5_cBE1Sps3xksYoyg1q1OA4rU3aaS2Uy7LMftjd9dV_RCYKmbmozs2uNancVuRZCS/s1600/DJI_0110.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "Pohľad na obe hradiská zo smeru od Devína",
-        "caption": "Pohľad na obe hradiská zo smeru od Devína",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ2Gdb77gYq4ww1Bedytz6DnenvsObhX4fA-ZHdeV4r9iNd5blWLTpwjz9orNkM_NbLBAirHfBZuuZpFaxU5TCbg7gwCuYSyzXjBy3RVQnVn95hTkBEbL1aHkZhXbGtyxHoHofLH0gEqs/s0/IMG_9119.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ2Gdb77gYq4ww1Bedytz6DnenvsObhX4fA-ZHdeV4r9iNd5blWLTpwjz9orNkM_NbLBAirHfBZuuZpFaxU5TCbg7gwCuYSyzXjBy3RVQnVn95hTkBEbL1aHkZhXbGtyxHoHofLH0gEqs/s1600/IMG_9119.jpg",
-          "filename": "IMG_9119.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ2Gdb77gYq4ww1Bedytz6DnenvsObhX4fA-ZHdeV4r9iNd5blWLTpwjz9orNkM_NbLBAirHfBZuuZpFaxU5TCbg7gwCuYSyzXjBy3RVQnVn95hTkBEbL1aHkZhXbGtyxHoHofLH0gEqs/s1600/IMG_9119.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Zachovaný val vo východnej časti hradiska Nad Lomom",
-        "caption": "Zachovaný val vo východnej časti hradiska Nad Lomom",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4xCWrm-d7r5RffFhi4esLyVWX1pVpmbBCyUOfn9NbfQDrkgr3jDjajnf0TALoE9vaQiHz7RRB8x6fXHtDzT6zCAfUSnPCsWXKYYACLLxYIfrRiKM2bSIHsRFUjfFjcpandq3hzDPK2ME/s0/IMG_9123.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4xCWrm-d7r5RffFhi4esLyVWX1pVpmbBCyUOfn9NbfQDrkgr3jDjajnf0TALoE9vaQiHz7RRB8x6fXHtDzT6zCAfUSnPCsWXKYYACLLxYIfrRiKM2bSIHsRFUjfFjcpandq3hzDPK2ME/s1600/IMG_9123.jpg",
-          "filename": "IMG_9123.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4xCWrm-d7r5RffFhi4esLyVWX1pVpmbBCyUOfn9NbfQDrkgr3jDjajnf0TALoE9vaQiHz7RRB8x6fXHtDzT6zCAfUSnPCsWXKYYACLLxYIfrRiKM2bSIHsRFUjfFjcpandq3hzDPK2ME/s1600/IMG_9123.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Pohľad z hradiska Nad Lomom na hradisko Na Pieskách",
-        "caption": "Pohľad z hradiska Nad Lomom na hradisko Na Pieskách",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmts1-BU8bAxNkytRO-NfoBuq78zX5u1ey8iNE0yPWtq4ec2flGweoDsZM_hsjjaZl78DEdHmf3ICsZ28dksp7G3u2g62Qa98A1UrHejZiHZX8V-PkUfTueT-TM1XzFc-FbRVDXxY8ls/s0/IMG_9128.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmts1-BU8bAxNkytRO-NfoBuq78zX5u1ey8iNE0yPWtq4ec2flGweoDsZM_hsjjaZl78DEdHmf3ICsZ28dksp7G3u2g62Qa98A1UrHejZiHZX8V-PkUfTueT-TM1XzFc-FbRVDXxY8ls/s1600/IMG_9128.jpg",
-          "filename": "IMG_9128.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmts1-BU8bAxNkytRO-NfoBuq78zX5u1ey8iNE0yPWtq4ec2flGweoDsZM_hsjjaZl78DEdHmf3ICsZ28dksp7G3u2g62Qa98A1UrHejZiHZX8V-PkUfTueT-TM1XzFc-FbRVDXxY8ls/s1600/IMG_9128.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Opäť niekoľko fotiek výborný výhľad - smerom na Moravské Pole",
-        "caption": "Opäť niekoľko fotiek výborný výhľad - smerom na Moravské Pole",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh50rKNobnjMjaHs83827paQ70ZEG53yIDQJGczBSHJgLAreuKHh4jAQZMZS5T6kRJNQw0O36DAi343O8Tm27GErCfNQTyTDkPh5u_ADgAT80-Z1kah7FI9jR2wFDpy5c4letM3KNbarI8/s0/IMG_9135.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh50rKNobnjMjaHs83827paQ70ZEG53yIDQJGczBSHJgLAreuKHh4jAQZMZS5T6kRJNQw0O36DAi343O8Tm27GErCfNQTyTDkPh5u_ADgAT80-Z1kah7FI9jR2wFDpy5c4letM3KNbarI8/s1600/IMG_9135.jpg",
-          "filename": "IMG_9135.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh50rKNobnjMjaHs83827paQ70ZEG53yIDQJGczBSHJgLAreuKHh4jAQZMZS5T6kRJNQw0O36DAi343O8Tm27GErCfNQTyTDkPh5u_ADgAT80-Z1kah7FI9jR2wFDpy5c4letM3KNbarI8/s1600/IMG_9135.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Staroslávny Devín z hradiska Nad Lomom",
-        "caption": "Staroslávny Devín z hradiska Nad Lomom",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir6sFK_icQP_mgfg1m7PTdftk7fd3Uu-MmihO5IW3ctU-kMQbHJC9FP1doDii98OQu4AQIGWpgt5sdYXTv4_sUX_OgGRWTNXgCR1h3JkRYeiZjZg42Wkvp1OCd9Q4YMOc-xK2KRSMmE4s/s0/IMG_9157.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir6sFK_icQP_mgfg1m7PTdftk7fd3Uu-MmihO5IW3ctU-kMQbHJC9FP1doDii98OQu4AQIGWpgt5sdYXTv4_sUX_OgGRWTNXgCR1h3JkRYeiZjZg42Wkvp1OCd9Q4YMOc-xK2KRSMmE4s/s1600/IMG_9157.jpg",
-          "filename": "IMG_9157.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir6sFK_icQP_mgfg1m7PTdftk7fd3Uu-MmihO5IW3ctU-kMQbHJC9FP1doDii98OQu4AQIGWpgt5sdYXTv4_sUX_OgGRWTNXgCR1h3JkRYeiZjZg42Wkvp1OCd9Q4YMOc-xK2KRSMmE4s/s1600/IMG_9157.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Pohľad na val vo východnej (dobre prístupnej) časti hradiska",
-        "caption": "Pohľad na val vo východnej (dobre prístupnej) časti hradiska",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicLcph-5VxMays7IHdD6H8I5TwOktImJZ34bo_cmrJtMmkF59Kqrb7vOKma7JwScTXsCf0zkQf_PNPKyq9z9tEYKX1YHNJyLYmv_Zh62Rz-FBT8pdJVIeBoFKibSk9kUWIwDrbY9gr5dY/s0/IMG_9171.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicLcph-5VxMays7IHdD6H8I5TwOktImJZ34bo_cmrJtMmkF59Kqrb7vOKma7JwScTXsCf0zkQf_PNPKyq9z9tEYKX1YHNJyLYmv_Zh62Rz-FBT8pdJVIeBoFKibSk9kUWIwDrbY9gr5dY/s1600/IMG_9171.jpg",
-          "filename": "IMG_9171.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicLcph-5VxMays7IHdD6H8I5TwOktImJZ34bo_cmrJtMmkF59Kqrb7vOKma7JwScTXsCf0zkQf_PNPKyq9z9tEYKX1YHNJyLYmv_Zh62Rz-FBT8pdJVIeBoFKibSk9kUWIwDrbY9gr5dY/s1600/IMG_9171.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Ťažba piesku na hradisku Na Pieskách odkryla v niektorých miestach dobre viditeľnú kamennú plentu veľkomoravského valu",
-        "caption": "Ťažba piesku na hradisku Na Pieskách odkryla v niektorých miestach dobre viditeľnú kamennú plentu veľkomoravského valu",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
+        ]
       },
       {
         "__component": "content.rich-text",
@@ -1380,7 +2094,21 @@
             "children": [
               {
                 "type": "text",
-                "text": "Spracoval: Orgoň"
+                "text": " Prístup na hradisko je jednoduchý: z Devínskej Novej Vsi - z ulice Pod Lipovým ide zelená značka, ktorá Vás po 10 min chôdze privedie na vrchol hradiska. Za nepochopiteľnú a neospravedlniteľnú ignoráciu však považujem, že "
+              },
+              {
+                "type": "text",
+                "text": "žiadna smerová tabuľa neupozorňuje",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " na to, že chodník ide cez hradisko. Taktiež je veľmi smutné, že v priestore hradiska "
+              },
+              {
+                "type": "text",
+                "text": "nenajdete ani zmienku o tom, že sa nachádzate na Veľkomoravskom hradisku!",
+                "bold": true
               }
             ]
           }
@@ -1391,81 +2119,96 @@
         "body": [
           {
             "type": "heading",
-            "level": 2,
             "children": [
               {
                 "type": "text",
-                "text": "Zdroje a literatúra"
+                "text": "Nad Lomom:",
+                "bold": true
               }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "link",
-                "url": "http://www.castrum.sk/page.php?id=102&ratings=1",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "http://www.castrum.sk/page.php?id=102&ratings=1"
-                  }
-                ]
-              }
-            ]
-          },
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
           {
             "type": "paragraph",
             "children": [
               {
                 "type": "text",
-                "text": "PLACHÁ, V. - HLAVICOVÁ, J. - KELLER, I. 1990: Slovanský Devín. Bratislava 1990"
-              }
-            ]
-          },
-          {
-            "type": "paragraph",
-            "children": [
+                "text": "Prístup: ",
+                "bold": true
+              },
               {
                 "type": "text",
-                "text": "Harmadyová, Staššíková-Štukovská: Vitrážové sklá s maľbou z hradu Devín in: S Licenciou 007, 2020"
+                "text": "Ešte jednoduchší ako na hradisko Na Pieskách. Žltou značkou (prípadne z druhej strany modrou) sa dostanete na Sandberg, pričom po ľavej ruke vidíte tie úžasné pieskové útvary, ktoré obsahujú veľké množstvo skamenelín a po pravej ruke je kopec, ktorý vyčnieva nad cestou a nad riekou Morava - to je hradisko Nad Lomom. Na vrchu hradiskového kopca je škaredá stavba vodárenskej spoločnosti - skutočne lepšie miesto pre jej výstavbu si nemohli za socializmu vybrať. Musím sa pochvalne vyjadriť k novej informačnej tabuli, ležiacej medzi oboma hradiskami. Obsahuje dokonca 3D model hradiska Lom, čo je zrejme v našich podmienkach unikát.\n "
               }
             ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJVdeoPR22M15V12G_Qbg8clRIYW5Vsd5xVrR9qLdDbBtRFJbCe9FeIHdKOWrbQo_lS3CqTH1soQK4iby3hZ0x1Bc2KIykKXBJ8NTK8dc3sRogeCiM-__iFJ9trlvjjfMaRXVhPugbXen/s0/Lom+a+Piesky.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJVdeoPR22M15V12G_Qbg8clRIYW5Vsd5xVrR9qLdDbBtRFJbCe9FeIHdKOWrbQo_lS3CqTH1soQK4iby3hZ0x1Bc2KIykKXBJ8NTK8dc3sRogeCiM-__iFJ9trlvjjfMaRXVhPugbXen/s1600/Lom+a+Piesky.jpg",
+          "filename": "Lom+a+Piesky.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJVdeoPR22M15V12G_Qbg8clRIYW5Vsd5xVrR9qLdDbBtRFJbCe9FeIHdKOWrbQo_lS3CqTH1soQK4iby3hZ0x1Bc2KIykKXBJ8NTK8dc3sRogeCiM-__iFJ9trlvjjfMaRXVhPugbXen/s1600/Lom+a+Piesky.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 233,
+            "originalWidth": 1600,
+            "originalHeight": 1168
+          }
+        },
+        "alt": "Pohľad na obe hradiská. V popredí Piesky, v pozadí Lom",
+        "caption": "Pohľad na obe hradiská. V popredí Piesky, v pozadí Lom",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Spracoval: Orgoň",
+            "url": null
           },
           {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "link",
-                "url": "http://lukaskrajcir.blog.sme.sk/c/169558/Velkomoravska-aglomeracia-Dowina.html#ixzz1CzVaShFp",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "http://lukaskrajcir.blog.sme.sk/c/169558/Velkomoravska-aglomeracia-Dowina.html#ixzz1CzVaShFp"
-                  }
-                ]
-              }
-            ]
+            "text": "http://www.castrum.sk/page.php?id=102&ratings=1",
+            "url": "http://www.castrum.sk/page.php?id=102&ratings=1"
           },
           {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "link",
-                "url": "http://www.hrnko.sk/2007/09/01/devin-bozska-perla-slovenska/",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "http://www.hrnko.sk/2007/09/01/devin-bozska-perla-slovenska/"
-                  }
-                ]
-              }
-            ]
+            "text": "PLACHÁ, V. - HLAVICOVÁ, J. - KELLER, I. 1990: Slovanský Devín. Bratislava 1990",
+            "url": null
+          },
+          {
+            "text": "Harmadyová, Staššíková-Štukovská: Vitrážové sklá s maľbou z hradu Devín in: S Licenciou 007, 2020",
+            "url": null
+          },
+          {
+            "text": "http://lukaskrajcir.blog.sme.sk/c/169558/Velkomoravska-aglomeracia-Dowina.html#ixzz1CzVaShFp",
+            "url": "http://lukaskrajcir.blog.sme.sk/c/169558/Velkomoravska-aglomeracia-Dowina.html#ixzz1CzVaShFp"
+          },
+          {
+            "text": "http://www.hrnko.sk/2007/09/01/devin-bozska-perla-slovenska/",
+            "url": "http://www.hrnko.sk/2007/09/01/devin-bozska-perla-slovenska/"
           }
         ]
       }
     ],
     "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
       {
         "type": "external-url",
         "url": "http://www.castrum.sk/page.php?id=102&ratings=1",
