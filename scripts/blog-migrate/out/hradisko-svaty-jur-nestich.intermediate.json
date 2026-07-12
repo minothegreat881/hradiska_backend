@@ -1,49 +1,61 @@
 {
   "$meta": {
-    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label-najvyznamnejsie.json",
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\svaty-jur-post.json",
     "sourceLabel": null,
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-6867805149846007657",
     "bloggerPostUrl": "http://www.hradiska.sk/2010/09/hradisko-nestych.html",
     "repliesLink": "http://www.hradiska.sk/feeds/6867805149846007657/comments/default",
-    "extractedAt": "2026-06-12T15:06:15.913Z",
+    "extractedAt": "2026-07-12T20:47:50.370Z",
     "coverImageNeedsReview": true,
     "commentCount": 4,
     "comments": [
       {
         "id": "tag:blogger.com,1999:blog-6818054921907446479.post-5109155686371688736",
+        "bloggerPostId": "5109155686371688736",
         "author": "Anonymous",
         "authorProfile": null,
         "published": "2014-08-27T10:52:24.962+02:00",
         "updated": "2014-08-27T10:52:24.962+02:00",
         "content": "Teraz, ked sa relativne vo velkom zachranuju zrucaniny hradov, nenasli by sa prostriedky a energia na zachranu Bieleho kamena?",
-        "inReplyTo": "http://www.hradiska.sk/2010/09/hradisko-nestych.html"
+        "inReplyToArticle": "http://www.hradiska.sk/2010/09/hradisko-nestych.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
       },
       {
         "id": "tag:blogger.com,1999:blog-6818054921907446479.post-5099296759445172258",
+        "bloggerPostId": "5099296759445172258",
         "author": "Anonymous",
         "authorProfile": null,
         "published": "2012-02-20T21:09:24.358+01:00",
         "updated": "2012-02-20T21:09:24.358+01:00",
         "content": "Ďakujem za informácie, ste fakt super.",
-        "inReplyTo": "http://www.hradiska.sk/2010/09/hradisko-nestych.html"
+        "inReplyToArticle": "http://www.hradiska.sk/2010/09/hradisko-nestych.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
       },
       {
         "id": "tag:blogger.com,1999:blog-6818054921907446479.post-2284280975493249181",
+        "bloggerPostId": "2284280975493249181",
         "author": "Orgon",
         "authorProfile": "https://www.blogger.com/profile/01396912608531297025",
         "published": "2011-10-01T08:51:11.082+02:00",
         "updated": "2011-10-01T08:51:11.082+02:00",
         "content": "Ahoj Mimi. Len pre upresnenie, hrad Biely Kameň stojí na náprotivnom kopci oproti Veľkomoravskému hradisku Neštich (južne od hradiska). Postavili ho grófi zo svätého Jura a Pezinka (ktorí mali pravdepodobne slovenský pôvod) pretože hradisko zrejme už nespĺňalo požiadavky vyššej šľachty na bývanie a obranu. Vyzerá to tak, že istú dobu existovalo hradisko aj hrad súčasne a hradisko sa vtedy mohlo využívať ako útočisko pre obyvateľov Jura, v čase ohrozenia. Inak ten hrad je tiež zaujímavý, sú tam stále zachované pôvodné múry, aj keď už dosť chátra",
-        "inReplyTo": "http://www.hradiska.sk/2010/09/hradisko-nestych.html"
+        "inReplyToArticle": "http://www.hradiska.sk/2010/09/hradisko-nestych.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
       },
       {
         "id": "tag:blogger.com,1999:blog-6818054921907446479.post-7068187044686029831",
+        "bloggerPostId": "7068187044686029831",
         "author": "Daniela Augustka",
         "authorProfile": "https://www.blogger.com/profile/14980809462648579677",
         "published": "2011-09-29T23:06:10.336+02:00",
         "updated": "2011-09-29T23:06:10.336+02:00",
         "content": "Žijem v Bratislave 40 rokov, ale donedávna som nevedela, že sa v neďalekom Svätom Juri  nachádzajú ruiny hradu Biely kameň. Je to len pár dní, čo som sa tam konečne vybrala. Bola som prekvapená veľkosťou územia, na ktorom sa hradisko nachádzalo. Len je škoda, že z bývalého hradu zostalo tak málo. Fotografie mám u mňa na blogu.",
-        "inReplyTo": "http://www.hradiska.sk/2010/09/hradisko-nestych.html"
+        "inReplyToArticle": "http://www.hradiska.sk/2010/09/hradisko-nestych.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
       }
     ],
     "checks": {
@@ -56,7 +68,7 @@
       "nonMapIframeCount": 3,
       "nonMapIframeSrcs": [
         "https://sketchfab.com/models/3e470a798c9140979af104724bfbe46c/embed?autostart=1&preload=1&ui_controls=0&ui_infos=0&ui_inspector=0&ui_stop=0&ui_watermark=1&ui_watermark_link=1",
-        "https://www.blogger.com/video.g?token=AD6v5dynL03TDBZQzN8a9qB3G58dO1minWDyfe-OxmFDLOb4kyYZrQ4QARPS7QsjGmX7DrshaVABYSpFtueuFefO_w",
+        "https://www.blogger.com/video.g?token=AD6v5dzOU5Q6mabuu4X7oj6QtHlhIABs7d7esHZy7iUFI_VAJlV074GZuQX8iM-YbQsbLLAHhDxmeIrBfT86uE3jlA",
         "//www.youtube.com/embed/rXC4T2crmaU"
       ],
       "italicCaptionCount": 0,
@@ -64,18 +76,19 @@
       "captionedImages": 16,
       "separatorImages": 21
     },
+    "poemCount": 0,
+    "poemSingleFlags": [],
     "sanityFlags": [
-      "zeroCitations",
-      "longRichText",
       "hasNonMapIframes"
     ]
   },
   "blogPost": {
     "title": "Hradisko Svätý Jur - Neštich",
     "slug": "hradisko-svaty-jur-nestich",
-    "excerpt": "Azda najstarším z týchto národov boli Germáni, ktorí na tomto území žili krátko po prelome letopočtov a vytvorili tu štátny útvar zvaný Vanniovo kráľovstvo. Z ich čias pochádzajú nálezy germánskych železných sekier. Rovnako sem spadá aj jeden z…",
+    "excerpt": "Hradisko Neštich predstavuje najstaršie zachované pozostatky staviteľstva na území mesta Svätý Jur. Okrem toho je dôkazom kontinuálneho osídlenia tejto oblasti v priebehu dvoch tisícročí a miestom, kam sa v čase nebezpečenstva utiekali celé…",
     "authorName": "Orgon",
     "publishedAt": "2010-09-05T22:14:00.012+02:00",
+    "originalPublishedDate": "2010-09-05T22:14:00.012+02:00",
     "updatedAt": "2021-07-01T17:50:22.508+02:00",
     "readingTime": 11,
     "featured": false,
@@ -86,7 +99,9 @@
       "blogger": {
         "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSTAPapf_F4qsYDBQOI_2rNhWXo_rGUywasNAB8AJ5bYd94q7o_nW9RU9fnC7ZeVevCdo_ySqBnh_oxabUYMOPsG9Ovnn1t5GPjNw4l1w0XdYEUia_cwnS946G89T0EwUIqTbnuQkceNx/s2048/Nes%25CC%258Ctich+cele+JS_male.jpg",
         "displayedWidth": 320,
-        "displayedHeight": null
+        "displayedHeight": null,
+        "originalWidth": 2048,
+        "originalHeight": 1084
       }
     },
     "gallery": [
@@ -97,8 +112,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSTAPapf_F4qsYDBQOI_2rNhWXo_rGUywasNAB8AJ5bYd94q7o_nW9RU9fnC7ZeVevCdo_ySqBnh_oxabUYMOPsG9Ovnn1t5GPjNw4l1w0XdYEUia_cwnS946G89T0EwUIqTbnuQkceNx/s2048/Nes%25CC%258Ctich+cele+JS_male.jpg",
           "displayedWidth": 320,
-          "displayedHeight": null
-        }
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1084
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5IA0WBsNrytAmAnXlwCUYZpv0doRsfu4VRnP3i4pmXfxPPCn8kcvWIc_hMvy1dMmsXpH2xlt3ssnTCxd2tEM5u7NZe567ll9FP_6X1ivYiAUIJ2qzmHl5Jh07UgIeljx_WDTqxQ_YfQo7/s0/Nes%25CC%258Ctich+Juh+JS_male.jpg",
@@ -107,68 +125,50 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5IA0WBsNrytAmAnXlwCUYZpv0doRsfu4VRnP3i4pmXfxPPCn8kcvWIc_hMvy1dMmsXpH2xlt3ssnTCxd2tEM5u7NZe567ll9FP_6X1ivYiAUIJ2qzmHl5Jh07UgIeljx_WDTqxQ_YfQo7/s2048/Nes%25CC%258Ctich+Juh+JS_male.jpg",
           "displayedWidth": 320,
-          "displayedHeight": null
-        }
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1084
+        },
+        "caption": null
       },
       {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s0/Nes%25CC%258Ctich+Sever+JS_male.jpg",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s1600/Nes%25CC%258Ctich+Sever+JS_male.jpg",
-        "filename": "Nes%CC%8Ctich+Sever+JS_male.jpg",
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU_MJPoGQD-YIUU4_Qc0jIZpP9bhls9p3pEl199RjnCfDr03_uuHf9s8W7KqxmNNegCxB36VgPZR0RTQpQxH-_Gtv66r3Zmw7LTPHCsGSEmPNOsj2ETbgQ5umd-ziWiEizVzl9-cEmjM/s0/IMG_3656.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU_MJPoGQD-YIUU4_Qc0jIZpP9bhls9p3pEl199RjnCfDr03_uuHf9s8W7KqxmNNegCxB36VgPZR0RTQpQxH-_Gtv66r3Zmw7LTPHCsGSEmPNOsj2ETbgQ5umd-ziWiEizVzl9-cEmjM/s1600/IMG_3656.JPG",
+        "filename": "IMG_3656.JPG",
         "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s2048/Nes%25CC%258Ctich+Sever+JS_male.jpg",
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU_MJPoGQD-YIUU4_Qc0jIZpP9bhls9p3pEl199RjnCfDr03_uuHf9s8W7KqxmNNegCxB36VgPZR0RTQpQxH-_Gtv66r3Zmw7LTPHCsGSEmPNOsj2ETbgQ5umd-ziWiEizVzl9-cEmjM/s1600/IMG_3656.JPG",
           "displayedWidth": 320,
-          "displayedHeight": null
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z vrcholu valu"
       },
       {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s0/IMG_6977.JPG",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s1600/IMG_6977.JPG",
-        "filename": "IMG_6977.JPG",
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLumSrY4uLxGGAhA50gEzGzm1cAMoIeC8uvjd4J3dVGQF_adTR4Ie5NO5ZHGiohY9J1sS8vspI8aklO6S0d2TOe8NQ1ds9mIgM8ryxUIv5j67UclzsMW4AIeuqUrxKnAVDvg8ylQKRaiY/s0/IMG_3687.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLumSrY4uLxGGAhA50gEzGzm1cAMoIeC8uvjd4J3dVGQF_adTR4Ie5NO5ZHGiohY9J1sS8vspI8aklO6S0d2TOe8NQ1ds9mIgM8ryxUIv5j67UclzsMW4AIeuqUrxKnAVDvg8ylQKRaiY/s1600/IMG_3687.JPG",
+        "filename": "IMG_3687.JPG",
         "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s1600/IMG_6977.JPG",
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLumSrY4uLxGGAhA50gEzGzm1cAMoIeC8uvjd4J3dVGQF_adTR4Ie5NO5ZHGiohY9J1sS8vspI8aklO6S0d2TOe8NQ1ds9mIgM8ryxUIv5j67UclzsMW4AIeuqUrxKnAVDvg8ylQKRaiY/s1600/IMG_3687.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Vnútorný priestor hradiska, v pozadí val"
       },
       {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s0/ne%25C5%25A1tich+nove33.jpg",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s1600/ne%25C5%25A1tich+nove33.jpg",
-        "filename": "ne%C5%A1tich+nove33.jpg",
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06tYsL1G4omQt7JOrLyBJeTUGPKS_QPZi6ceL3Ah19tHBQ7lusFDedtTUAMLDcqnNK-Wrg92zjNKPdZTfwUsA0qKCs7aqu4i1clgKFQYKEktPZAtE_mVSvl7VJ2zSCxlnsMBQmT4216Y/s0/IMG_6979.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06tYsL1G4omQt7JOrLyBJeTUGPKS_QPZi6ceL3Ah19tHBQ7lusFDedtTUAMLDcqnNK-Wrg92zjNKPdZTfwUsA0qKCs7aqu4i1clgKFQYKEktPZAtE_mVSvl7VJ2zSCxlnsMBQmT4216Y/s1600/IMG_6979.JPG",
+        "filename": "IMG_6979.JPG",
         "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s1600/ne%25C5%25A1tich+nove33.jpg",
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06tYsL1G4omQt7JOrLyBJeTUGPKS_QPZi6ceL3Ah19tHBQ7lusFDedtTUAMLDcqnNK-Wrg92zjNKPdZTfwUsA0qKCs7aqu4i1clgKFQYKEktPZAtE_mVSvl7VJ2zSCxlnsMBQmT4216Y/s1600/IMG_6979.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
-      },
-      {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s0/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s1600/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
-        "filename": "ne%C5%A1tich+nov%C3%A9.jpg",
-        "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s1600/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
-          "displayedWidth": 320,
-          "displayedHeight": 213
-        }
-      },
-      {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s0/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s1600/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
-        "filename": "ne%C5%A1tich+nov%C3%A922.jpg",
-        "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s1600/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
-          "displayedWidth": 320,
-          "displayedHeight": 213
-        }
-      },
-      {
-        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpm1fsgcE_chnnJnPXAYP3MP7v8g4WjSFGolct-r9Rie7jLbdfnnQIRsYWcrJKN_HFbaOg13PBOHMDu1ezlEobUaT41wOFeJxaHOFKoX8xfEqIGWQMx6LoWmWvWBOsZErQ9nz-ukhmbXQ/s0/IMG_3675.JPG",
-        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpm1fsgcE_chnnJnPXAYP3MP7v8g4WjSFGolct-r9Rie7jLbdfnnQIRsYWcrJKN_HFbaOg13PBOHMDu1ezlEobUaT41wOFeJxaHOFKoX8xfEqIGWQMx6LoWmWvWBOsZErQ9nz-ukhmbXQ/s1600/IMG_3675.JPG",
-        "filename": "IMG_3675.JPG",
-        "blogger": {
-          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpm1fsgcE_chnnJnPXAYP3MP7v8g4WjSFGolct-r9Rie7jLbdfnnQIRsYWcrJKN_HFbaOg13PBOHMDu1ezlEobUaT41wOFeJxaHOFKoX8xfEqIGWQMx6LoWmWvWBOsZErQ9nz-ukhmbXQ/s1600/IMG_3675.JPG",
-          "displayedWidth": 213,
-          "displayedHeight": 320
-        }
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Hradisko Neštich malo mohutné valy"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw77zvAyqfMlTOcPlvpOfa3fH-EI27RwaboGDpCAjXw6ldssChTzNKclDvkEB2N7RoKluxDizISsyMbCtoiS-si24Cb38BiC5L2No9CRVMpV1hn4qHcWfQHL4cGzWSuhHzrO9PV8I-GfI/s0/strmen%CC%8C+-+ruttkay.jpg",
@@ -177,8 +177,50 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw77zvAyqfMlTOcPlvpOfa3fH-EI27RwaboGDpCAjXw6ldssChTzNKclDvkEB2N7RoKluxDizISsyMbCtoiS-si24Cb38BiC5L2No9CRVMpV1hn4qHcWfQHL4cGzWSuhHzrO9PV8I-GfI/s1600/strmen%CC%8C+-+ruttkay.jpg",
           "displayedWidth": 293,
-          "displayedHeight": 320
-        }
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Jazdecký strmeň z prvej polovice 9. stor. z Neštichu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s0/Nes%25CC%258Ctich+Sever+JS_male.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s1600/Nes%25CC%258Ctich+Sever+JS_male.jpg",
+        "filename": "Nes%CC%8Ctich+Sever+JS_male.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s2048/Nes%25CC%258Ctich+Sever+JS_male.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1084
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s0/IMG_6977.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s1600/IMG_6977.JPG",
+        "filename": "IMG_6977.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s1600/IMG_6977.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s0/ne%25C5%25A1tich+nove33.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s1600/ne%25C5%25A1tich+nove33.jpg",
+        "filename": "ne%C5%A1tich+nove33.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s1600/ne%25C5%25A1tich+nove33.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQsi2SoDIw0062x6wYGzq13BPPD9zmum7GNZOvgnyjAjy7q4VwOyoy26gB4QRAiYp23bDSpcW8eFeDtrjmxlltAx1-kN8SIsUFhkNJ1Rb0PfRisEuFBaXOf-RSZqaIYyOQiB82GZNfNM/s0/lunicovity%CC%81_za%CC%81vesok.jpg",
@@ -187,8 +229,128 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQsi2SoDIw0062x6wYGzq13BPPD9zmum7GNZOvgnyjAjy7q4VwOyoy26gB4QRAiYp23bDSpcW8eFeDtrjmxlltAx1-kN8SIsUFhkNJ1Rb0PfRisEuFBaXOf-RSZqaIYyOQiB82GZNfNM/s1600/lunicovity%CC%81_za%CC%81vesok.jpg",
           "displayedWidth": 320,
-          "displayedHeight": 254
-        }
+          "displayedHeight": 254,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Jeden z najnovších nálezov - lunicovitý závesok"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s0/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s1600/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
+        "filename": "ne%C5%A1tich+nov%C3%A9.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s1600/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s0/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s1600/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
+        "filename": "ne%C5%A1tich+nov%C3%A922.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s1600/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpm1fsgcE_chnnJnPXAYP3MP7v8g4WjSFGolct-r9Rie7jLbdfnnQIRsYWcrJKN_HFbaOg13PBOHMDu1ezlEobUaT41wOFeJxaHOFKoX8xfEqIGWQMx6LoWmWvWBOsZErQ9nz-ukhmbXQ/s0/IMG_3675.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpm1fsgcE_chnnJnPXAYP3MP7v8g4WjSFGolct-r9Rie7jLbdfnnQIRsYWcrJKN_HFbaOg13PBOHMDu1ezlEobUaT41wOFeJxaHOFKoX8xfEqIGWQMx6LoWmWvWBOsZErQ9nz-ukhmbXQ/s1600/IMG_3675.JPG",
+        "filename": "IMG_3675.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpm1fsgcE_chnnJnPXAYP3MP7v8g4WjSFGolct-r9Rie7jLbdfnnQIRsYWcrJKN_HFbaOg13PBOHMDu1ezlEobUaT41wOFeJxaHOFKoX8xfEqIGWQMx6LoWmWvWBOsZErQ9nz-ukhmbXQ/s1600/IMG_3675.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwdamjpK2veVJeXL-Is_qe8WFgq0x_8xvPl8RlMSNYGLmhfai7svbsriRyTZQkuiJXZdhyNKDPq74RUG3YzVEkKH-NQTqbTmBTBY9-1roPCS8S1vdNixJ0-dDOJCU67y3WRQGIHqlSHXo/s0/Ne%25C5%25A1tich+n%25C3%25A1lezy.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwdamjpK2veVJeXL-Is_qe8WFgq0x_8xvPl8RlMSNYGLmhfai7svbsriRyTZQkuiJXZdhyNKDPq74RUG3YzVEkKH-NQTqbTmBTBY9-1roPCS8S1vdNixJ0-dDOJCU67y3WRQGIHqlSHXo/s1600/Ne%25C5%25A1tich+n%25C3%25A1lezy.jpg",
+        "filename": "Ne%C5%A1tich+n%C3%A1lezy.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwdamjpK2veVJeXL-Is_qe8WFgq0x_8xvPl8RlMSNYGLmhfai7svbsriRyTZQkuiJXZdhyNKDPq74RUG3YzVEkKH-NQTqbTmBTBY9-1roPCS8S1vdNixJ0-dDOJCU67y3WRQGIHqlSHXo/s1600/Ne%25C5%25A1tich+n%25C3%25A1lezy.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNcN6PlvJO3de2OUGIH6MLJnjlFXZi9-EMdMasOV7R06kwmhkLplKM2SG8zryM2agQFOFHaWYq7ekqjlEl116Jir2AUcK37JbFYoZDgMVevdW6LBfgYYyNgfRgiEQbhhOMaDXCiAsnh0w/s0/Ne%25C5%25A1tich+sekery.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNcN6PlvJO3de2OUGIH6MLJnjlFXZi9-EMdMasOV7R06kwmhkLplKM2SG8zryM2agQFOFHaWYq7ekqjlEl116Jir2AUcK37JbFYoZDgMVevdW6LBfgYYyNgfRgiEQbhhOMaDXCiAsnh0w/s1600/Ne%25C5%25A1tich+sekery.jpg",
+        "filename": "Ne%C5%A1tich+sekery.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNcN6PlvJO3de2OUGIH6MLJnjlFXZi9-EMdMasOV7R06kwmhkLplKM2SG8zryM2agQFOFHaWYq7ekqjlEl116Jir2AUcK37JbFYoZDgMVevdW6LBfgYYyNgfRgiEQbhhOMaDXCiAsnh0w/s1600/Ne%25C5%25A1tich+sekery.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSq_DghJIX4wJRzGMptDGF6Lucx8BPwYD2-8IGBjyMwjnszkjLOP7KgYuvig0uS_LvSC_5fWTShfov4GXIOYlTz18xCHUT6BRd7bfuE1YEeZoxQms_sae-PZAr4vpHwV5CWHB3jD3o3EI/s0/Ne%25C5%25A1tich+n%25C3%25A1lezy+2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSq_DghJIX4wJRzGMptDGF6Lucx8BPwYD2-8IGBjyMwjnszkjLOP7KgYuvig0uS_LvSC_5fWTShfov4GXIOYlTz18xCHUT6BRd7bfuE1YEeZoxQms_sae-PZAr4vpHwV5CWHB3jD3o3EI/s1600/Ne%25C5%25A1tich+n%25C3%25A1lezy+2.jpg",
+        "filename": "Ne%C5%A1tich+n%C3%A1lezy+2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSq_DghJIX4wJRzGMptDGF6Lucx8BPwYD2-8IGBjyMwjnszkjLOP7KgYuvig0uS_LvSC_5fWTShfov4GXIOYlTz18xCHUT6BRd7bfuE1YEeZoxQms_sae-PZAr4vpHwV5CWHB3jD3o3EI/s1600/Ne%25C5%25A1tich+n%25C3%25A1lezy+2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuXLI9SqH3VoiC3Azv6q7z3S5b2NlLA-MTqiT_xLLfuMcknbUBqfYdDWiUL0tQXmInnMnJn6NRem_bHW4m66DIdZ6m8KOCrGp1NspkClCgIPLn9I5QSZ3AS6W9xDyynK8iUEFCP5fQqR8/s0/K%25C4%25BEu%25C4%258De.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuXLI9SqH3VoiC3Azv6q7z3S5b2NlLA-MTqiT_xLLfuMcknbUBqfYdDWiUL0tQXmInnMnJn6NRem_bHW4m66DIdZ6m8KOCrGp1NspkClCgIPLn9I5QSZ3AS6W9xDyynK8iUEFCP5fQqR8/s1600/K%25C4%25BEu%25C4%258De.jpg",
+        "filename": "K%C4%BEu%C4%8De.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuXLI9SqH3VoiC3Azv6q7z3S5b2NlLA-MTqiT_xLLfuMcknbUBqfYdDWiUL0tQXmInnMnJn6NRem_bHW4m66DIdZ6m8KOCrGp1NspkClCgIPLn9I5QSZ3AS6W9xDyynK8iUEFCP5fQqR8/s1600/K%25C4%25BEu%25C4%258De.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDaj_qSxhgg3cswO15Hh7_VUrMUZu72qvTf2XNOcTvcQzRXubbvhaMnUTm2a8v9DZwR4fxgKVJ7AoFU86gPHcjg_x_FT1VBoOkjkTVCuvs4uPekcRJZmKA-SqqfzxqjmBx8atxFfhMW-0/s0/ne%25C5%25A1tich+valy.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDaj_qSxhgg3cswO15Hh7_VUrMUZu72qvTf2XNOcTvcQzRXubbvhaMnUTm2a8v9DZwR4fxgKVJ7AoFU86gPHcjg_x_FT1VBoOkjkTVCuvs4uPekcRJZmKA-SqqfzxqjmBx8atxFfhMW-0/s1600/ne%25C5%25A1tich+valy.jpg",
+        "filename": "ne%C5%A1tich+valy.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDaj_qSxhgg3cswO15Hh7_VUrMUZu72qvTf2XNOcTvcQzRXubbvhaMnUTm2a8v9DZwR4fxgKVJ7AoFU86gPHcjg_x_FT1VBoOkjkTVCuvs4uPekcRJZmKA-SqqfzxqjmBx8atxFfhMW-0/s1600/ne%25C5%25A1tich+valy.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 184,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCNypcXei03IWJG6abpP0HZpzmN1gMdlSH03X-mflFaeq7oY-h0nGgoX6VjnDPNHDRvblUZUxYIeK83ptOwDLqg3Wy-Mjpj52pskz0O_r8RKwoysZa0P22aMAUyyeVK636pQAg_Y44PLY/s0/tur+mapa.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCNypcXei03IWJG6abpP0HZpzmN1gMdlSH03X-mflFaeq7oY-h0nGgoX6VjnDPNHDRvblUZUxYIeK83ptOwDLqg3Wy-Mjpj52pskz0O_r8RKwoysZa0P22aMAUyyeVK636pQAg_Y44PLY/s1600/tur+mapa.jpg",
+        "filename": "tur+mapa.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCNypcXei03IWJG6abpP0HZpzmN1gMdlSH03X-mflFaeq7oY-h0nGgoX6VjnDPNHDRvblUZUxYIeK83ptOwDLqg3Wy-Mjpj52pskz0O_r8RKwoysZa0P22aMAUyyeVK636pQAg_Y44PLY/s1600/tur+mapa.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 229,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s0/IMG_6809.JPG",
@@ -197,8 +359,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s1600/IMG_6809.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Severozápadná časť valu"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s0/IMG_6814.JPG",
@@ -207,8 +372,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s1600/IMG_6814.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Západný val"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s0/IMG_6823.JPG",
@@ -217,8 +385,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s1600/IMG_6823.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Neštich je jedno z mála hradísk, kde stále prebieha výskum (Dr. Vavák)"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s0/IMG_6821.JPG",
@@ -227,8 +398,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s1600/IMG_6821.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Juhozápadný val"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s0/IMG_6829.JPG",
@@ -237,8 +411,37 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s1600/IMG_6829.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Aktuálne archeologické sondy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv1pYY0Y85L6Q6AfvTU838XSvvlF7ke9KETAaAIihHxiUl-2qzStovZeILaoUEWAdIP6q_lwhy75tLZ3uGxKUep9pAsb-UvEEK1s6sryEuj1VNqxQg-Gdz8bnJjDcTxsRO12of676phpY/s0/IMG_6831.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv1pYY0Y85L6Q6AfvTU838XSvvlF7ke9KETAaAIihHxiUl-2qzStovZeILaoUEWAdIP6q_lwhy75tLZ3uGxKUep9pAsb-UvEEK1s6sryEuj1VNqxQg-Gdz8bnJjDcTxsRO12of676phpY/s1600/IMG_6831.JPG",
+        "filename": "IMG_6831.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv1pYY0Y85L6Q6AfvTU838XSvvlF7ke9KETAaAIihHxiUl-2qzStovZeILaoUEWAdIP6q_lwhy75tLZ3uGxKUep9pAsb-UvEEK1s6sryEuj1VNqxQg-Gdz8bnJjDcTxsRO12of676phpY/s1600/IMG_6831.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSJESEBH7C-05qr0S7-kKnhBU6ktHl46zpNODjQdSfvA7n1mO-cTGxIsE1hsHL8RurxXTTgBAdFvHIaFRQXEYi51NdBMf0YcDxntciAo4zEW5mPwdt5Br5Ob8KB9-Z967_aVmFgfOA-c/s0/IMG_6832.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSJESEBH7C-05qr0S7-kKnhBU6ktHl46zpNODjQdSfvA7n1mO-cTGxIsE1hsHL8RurxXTTgBAdFvHIaFRQXEYi51NdBMf0YcDxntciAo4zEW5mPwdt5Br5Ob8KB9-Z967_aVmFgfOA-c/s1600/IMG_6832.JPG",
+        "filename": "IMG_6832.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSJESEBH7C-05qr0S7-kKnhBU6ktHl46zpNODjQdSfvA7n1mO-cTGxIsE1hsHL8RurxXTTgBAdFvHIaFRQXEYi51NdBMf0YcDxntciAo4zEW5mPwdt5Br5Ob8KB9-Z967_aVmFgfOA-c/s1600/IMG_6832.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s0/IMG_6836.JPG",
@@ -247,8 +450,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s1600/IMG_6836.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Juhozápadný val"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s0/IMG_6839.JPG",
@@ -257,8 +463,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s1600/IMG_6839.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Severozápadný val"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s0/IMG_6845.JPG",
@@ -267,8 +476,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s1600/IMG_6845.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Prechod medzi akropolou a predhradím"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s0/IMG_6855.JPG",
@@ -277,8 +489,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s1600/IMG_6855.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Rez valom, žiaľ moje \"skúsené\" oko tu nebolo schopné rozoznať stopy po vnútornej drevenej konštrukcii"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s0/IMG_6856.JPG",
@@ -287,8 +502,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s1600/IMG_6856.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Juhovýchodný val"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s0/IMG_6857.JPG",
@@ -297,8 +515,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s1600/IMG_6857.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 213
-        }
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Opäť juhovýchodný val"
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5Ou2mkSXOBETGAO_x9oZaKTZt8qcK6Xxu4jUG5EXAdA3eVZtOvIiJFOEks7wxQw8VL95wV6Fc6IjHwqFKJZr0NU2WHFVb0JfyRz0SktnyZYR1Laa_cgdi7LMgJ-JpWbOZuq1JpHiAa7f/s0/aDJI_0118a.JPG",
@@ -307,8 +528,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5Ou2mkSXOBETGAO_x9oZaKTZt8qcK6Xxu4jUG5EXAdA3eVZtOvIiJFOEks7wxQw8VL95wV6Fc6IjHwqFKJZr0NU2WHFVb0JfyRz0SktnyZYR1Laa_cgdi7LMgJ-JpWbOZuq1JpHiAa7f/s1600/aDJI_0118a.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIcJhT_p6yfJTY76S-7a9o5_nXDKFNgqGPsMVapv6jf-bAGQEQDJh93DipoPKhx4CtcKLYLwAXswYuA_Ub0IFi-ISmtlMVpmWDZvkBuH03BTQ6ewUNsYWXZR1ajx_TiEoLN7qK2L8FTaC/s0/aDJI_0081a.JPG",
@@ -317,8 +541,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIcJhT_p6yfJTY76S-7a9o5_nXDKFNgqGPsMVapv6jf-bAGQEQDJh93DipoPKhx4CtcKLYLwAXswYuA_Ub0IFi-ISmtlMVpmWDZvkBuH03BTQ6ewUNsYWXZR1ajx_TiEoLN7qK2L8FTaC/s1600/aDJI_0081a.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaMY4_GH6lh2MpyNFMMVhpC29hGFX95UNPhdz6QIM5hN1lgZ6hYlHAsDx2ozPaxYbsAr8wBxnuXYmwumN6lzisielHRKj5GCABufddmFzRywbdEavl3Dtk7PDjHahtC3rehG3Ua6FrZOq6/s0/aDJI_0104a.JPG",
@@ -327,8 +554,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaMY4_GH6lh2MpyNFMMVhpC29hGFX95UNPhdz6QIM5hN1lgZ6hYlHAsDx2ozPaxYbsAr8wBxnuXYmwumN6lzisielHRKj5GCABufddmFzRywbdEavl3Dtk7PDjHahtC3rehG3Ua6FrZOq6/s1600/aDJI_0104a.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1bdWkUDan6EoxgKVNNUdzmpy_vdiyXkPhKaACLOKw1c1bnlGvUbuBr-ExeRWVEvxtgHNhY6SE6vrT-dXwadnESNmWVnpFtk2wi6KXPMlLZhkwiTHmrReY4k-6bbX-LyYk6qHAHOm463by/s0/aDJI_0110a.JPG",
@@ -337,8 +567,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1bdWkUDan6EoxgKVNNUdzmpy_vdiyXkPhKaACLOKw1c1bnlGvUbuBr-ExeRWVEvxtgHNhY6SE6vrT-dXwadnESNmWVnpFtk2wi6KXPMlLZhkwiTHmrReY4k-6bbX-LyYk6qHAHOm463by/s1600/aDJI_0110a.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
       },
       {
         "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzslQeoyxmn36MQDn72L-H7Z9PD_XVucnv5yevejBqTuJPoapanc3YSz5eNJY0RbqlQ4b9_nFlnCFF1IrWoM9TxVDPMkf_cY6C_63BS07sMrJRMq281uKc3fIYaTCl41bmfGy2GZIIIlwg/s0/aDJI_0114a.JPG",
@@ -347,8 +580,11 @@
         "blogger": {
           "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzslQeoyxmn36MQDn72L-H7Z9PD_XVucnv5yevejBqTuJPoapanc3YSz5eNJY0RbqlQ4b9_nFlnCFF1IrWoM9TxVDPMkf_cY6C_63BS07sMrJRMq281uKc3fIYaTCl41bmfGy2GZIIIlwg/s1600/aDJI_0114a.JPG",
           "displayedWidth": 320,
-          "displayedHeight": 240
-        }
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
       }
     ],
     "tags": [
@@ -357,53 +593,132 @@
     ],
     "category": null,
     "location": {
-      "name": null,
+      "name": "Svätý Jur - Neštich",
       "latitude": 48.264327,
       "longitude": 17.197144,
       "region": null,
-      "country": null
+      "country": "Slovensko"
     },
-    "keyFacts": [],
-    "timeline": [],
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Súčasť Bratislavskej brány, jedno zo štyroch hradísk chrániacich juhovýchodnú hranicu Veľkej Moravy (spolu s Bratislavou, Devínom a Devínskou Novou Vsou)",
+        "icon": "mountain"
+      },
+      {
+        "label": "Rozloha",
+        "value": "Celkovo 3,26 ha (Nádvoria IV, III a Predhradia I, II); po prístavbe predhradí dosiahla dĺžka opevneného areálu asi 680 m",
+        "icon": "shield"
+      },
+      {
+        "label": "Konštrukcia hradby akropoly",
+        "value": "Zemina s kamením spevnená drevenými trámami (roštami); šírka hradby na predhradí minimálne 4,5 m, priekopa kónického tvaru (šírka 2,6 m, hĺbka 1,5 m)",
+        "icon": "shield"
+      },
+      {
+        "label": "Nálezy vyššej vrstvy",
+        "value": "Bronzové náušnice (analogické s pohrebiskom Lupka v Nitre), strmene, skvostný jazdecký strmeň, depot siedmich náušníc byzantsko-orientálneho štýlu",
+        "icon": "crown"
+      },
+      {
+        "label": "Remeslá",
+        "value": "Doložená výroba železa, kováčske kliešte, sekerovité hrivny ako platidlo, keramika točená na kruhu — nie však remeselnícke dielne",
+        "icon": "star"
+      },
+      {
+        "label": "Stredoveké vodovodné potrubie",
+        "value": "Hlinené potrubie v dĺžke niekoľkých kilometrov, jednotlivé časti 55 – 58 cm dlhé, so šachtičkami na odvzdušňovanie",
+        "icon": "building"
+      },
+      {
+        "label": "Výskum",
+        "value": "Podrobný archeologický výskum vedie PhDr. Július Vavák; výsledky publikované v Zo starších dejín Svätého Jura (2010)",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "krátko po prelome letopočtov",
+        "title": "Vanniovo kráľovstvo",
+        "description": "Germáni vytvorili štátny útvar; nálezy germánskych železných sekier a strieborný denár Antonia Pia (razený 138 – 161) — lokalita pravdepodobne slúžila len ako refúgium.",
+        "type": "founding"
+      },
+      {
+        "year": "720 – 750 (I. fáza neskoroavarského obdobia)",
+        "title": "Najstarší doklad prítomnosti Slovanov",
+        "description": "Bronzové prelamované kovanie s vyobrazením gryfa (avarský bronz obľúbený aj u Slovanov), nájdené na prvom predhradí.",
+        "type": "discovery"
+      },
+      {
+        "year": "posledné desaťročia 8. storočia",
+        "title": "Vybudovanie prvého opevnenia",
+        "description": "Predpokladané staršie neopevnené sídlisko bolo sčasti obohnané valmi na akropole; opevnenie sa stalo útočiskom pre priľahlú otvorenú osadu.",
+        "type": "construction"
+      },
+      {
+        "year": "30. roky 9. storočia",
+        "title": "Vznik hradiska ako obranného prvku",
+        "description": "Najpravdepodobnejšia doba vzniku, súvisiaca s bojmi medzi Moravským a Nitrianskym kniežatstvom — hradisko ako obranný prvok severnej hranice Nitrianska.",
+        "type": "founding"
+      },
+      {
+        "year": "pred vznikom Veľkej Moravy",
+        "title": "Centrum regionálnej správy",
+        "description": "Hradisko sa stalo centrom regionálnej správy ovládaným rodiacou sa mocenskou elitou — v tomto čase a priestore bez paralely okrem Devína.",
+        "type": "event"
+      },
+      {
+        "year": "833",
+        "title": "Vznik Veľkej Moravy — rozmach hradiska",
+        "description": "Po zjednotení krajín nasleduje rozšírenie opevnenia o prvé predhradie.",
+        "type": "construction"
+      },
+      {
+        "year": "2. polovica 9. storočia",
+        "title": "Vybudovanie druhého predhradia",
+        "description": "Hradisko zažíva ďalší rozmach ako regionálne centrum a remeselné stredisko; celková dĺžka opevneného areálu dosiahla približne 680 m.",
+        "type": "construction"
+      },
+      {
+        "year": "koniec 9. – 1. polovica 10. storočia",
+        "title": "Zánik chaty s depotom šperkov na akropole",
+        "description": "Obydlie s depotom siedmich náušníc, gombíkom, prsteňom, nádobou, hrotom oštepu a dýkou zaniklo požiarom.",
+        "type": "destruction"
+      },
+      {
+        "year": "koniec 10. storočia",
+        "title": "Prerušenie osídlenia",
+        "description": "Nálezy na hradisku sa dočasne prerušujú; nasledujúcich asi 200 rokov slúžilo hradisko len ako dočasný úkryt počas útokov.",
+        "type": "destruction"
+      },
+      {
+        "year": "začiatok 13. – koniec 14. storočia",
+        "title": "Obnova grófmi zo Svätého Jura a Pezinka",
+        "description": "Trvalé osídlenie obnovené, vybudovaná palácová stavba, vodovodná cisterna a hlinené potrubie v dĺžke asi 3 km; obnovený systém valov s novou bránou.",
+        "type": "construction"
+      },
+      {
+        "year": "po roku 1241 (tatársky vpád)",
+        "title": "Presun na hrad Biely Kameň",
+        "description": "Grófi pristúpili k stavbe kamenného hradu na kopci na druhej strane doliny; na Neštichu ešte dlhší čas udržiavaná stála posádka.",
+        "type": "event"
+      },
+      {
+        "year": "14. storočie",
+        "title": "Definitívne opustenie hradiska",
+        "description": "Po opustení už nikdy neexistovalo trvalé osídlenie, hoci systém valov mohol slúžiť ako úkryt aj v neskorších bojoch.",
+        "type": "destruction"
+      },
+      {
+        "year": "2010",
+        "title": "Publikovanie výsledkov výskumu",
+        "description": "PhDr. Július Vavák zverejnil aktuálne výsledky výskumu v kolektívnej monografii Zo starších dejín Svätého Jura.",
+        "type": "discovery"
+      }
+    ],
     "quotes": [],
     "blocks": [
       {
-        "__component": "content.image-gallery",
-        "imageRefs": [
-          {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSTAPapf_F4qsYDBQOI_2rNhWXo_rGUywasNAB8AJ5bYd94q7o_nW9RU9fnC7ZeVevCdo_ySqBnh_oxabUYMOPsG9Ovnn1t5GPjNw4l1w0XdYEUia_cwnS946G89T0EwUIqTbnuQkceNx/s0/Nes%25CC%258Ctich+cele+JS_male.jpg",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSTAPapf_F4qsYDBQOI_2rNhWXo_rGUywasNAB8AJ5bYd94q7o_nW9RU9fnC7ZeVevCdo_ySqBnh_oxabUYMOPsG9Ovnn1t5GPjNw4l1w0XdYEUia_cwnS946G89T0EwUIqTbnuQkceNx/s1600/Nes%25CC%258Ctich+cele+JS_male.jpg",
-            "filename": "Nes%CC%8Ctich+cele+JS_male.jpg",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSTAPapf_F4qsYDBQOI_2rNhWXo_rGUywasNAB8AJ5bYd94q7o_nW9RU9fnC7ZeVevCdo_ySqBnh_oxabUYMOPsG9Ovnn1t5GPjNw4l1w0XdYEUia_cwnS946G89T0EwUIqTbnuQkceNx/s2048/Nes%25CC%258Ctich+cele+JS_male.jpg",
-              "displayedWidth": 320,
-              "displayedHeight": null
-            }
-          },
-          {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5IA0WBsNrytAmAnXlwCUYZpv0doRsfu4VRnP3i4pmXfxPPCn8kcvWIc_hMvy1dMmsXpH2xlt3ssnTCxd2tEM5u7NZe567ll9FP_6X1ivYiAUIJ2qzmHl5Jh07UgIeljx_WDTqxQ_YfQo7/s0/Nes%25CC%258Ctich+Juh+JS_male.jpg",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5IA0WBsNrytAmAnXlwCUYZpv0doRsfu4VRnP3i4pmXfxPPCn8kcvWIc_hMvy1dMmsXpH2xlt3ssnTCxd2tEM5u7NZe567ll9FP_6X1ivYiAUIJ2qzmHl5Jh07UgIeljx_WDTqxQ_YfQo7/s1600/Nes%25CC%258Ctich+Juh+JS_male.jpg",
-            "filename": "Nes%CC%8Ctich+Juh+JS_male.jpg",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5IA0WBsNrytAmAnXlwCUYZpv0doRsfu4VRnP3i4pmXfxPPCn8kcvWIc_hMvy1dMmsXpH2xlt3ssnTCxd2tEM5u7NZe567ll9FP_6X1ivYiAUIJ2qzmHl5Jh07UgIeljx_WDTqxQ_YfQo7/s2048/Nes%25CC%258Ctich+Juh+JS_male.jpg",
-              "displayedWidth": 320,
-              "displayedHeight": null
-            }
-          },
-          {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s0/Nes%25CC%258Ctich+Sever+JS_male.jpg",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s1600/Nes%25CC%258Ctich+Sever+JS_male.jpg",
-            "filename": "Nes%CC%8Ctich+Sever+JS_male.jpg",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s2048/Nes%25CC%258Ctich+Sever+JS_male.jpg",
-              "displayedWidth": 320,
-              "displayedHeight": null
-            }
-          }
-        ],
-        "columns": "2"
-      },
-      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -411,49 +726,17 @@
             "children": [
               {
                 "type": "text",
-                "text": "Hradiská zohrávali v dejinách Veľkej Moravy nezastupiteľnú úlohu. Okrem obrannej funkcie slúžili zároveň aj ako politické a správne strediská, sídla vyššej spoločenskej vrstvy, zásobiská tovaru a miesta vhodné pre rozvoj remeselnej výroby."
+                "text": "Hradisko Neštich predstavuje najstaršie zachované pozostatky staviteľstva na území mesta Svätý Jur. Okrem toho je dôkazom kontinuálneho osídlenia tejto oblasti v priebehu dvoch tisícročí a miestom, kam sa v čase nebezpečenstva utiekali celé generácie miestnych obyvateľov. I keď po asi 700 rokoch od jeho opustenia môžeme vidieť len zbytky jeho niekdajšej slávy, stále nás dokáže ohromiť jeho obranný systém a obrovská rozloha.  "
               },
               {
                 "type": "link",
-                "url": "https://sketchfab.com/3d-models/hradisko-nestich-a-hrad-biely-kamen-nkp-3e470a798c9140979af104724bfbe46c?utm_medium=embed&utm_source=website&utm_campaign=share-popup",
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXn-Pw7elnf5JM3UV7VtUoTxDleMdsGnInBESjvAbCosV1Q-OcoEawNQpzKWVjps1GwJ007fvy2GtRFPObTdkob4pPEsNwVf6grS_wJ54EmIjhCDK3EGGoOWl5OekF9sLiqeJOBNJu870/s1600/ne%C5%A1tych+google.jpg",
                 "children": [
                   {
                     "type": "text",
-                    "text": "Hradisko Neštich a Hrad Biely Kameň - NKP"
+                    "text": ""
                   }
                 ]
-              },
-              {
-                "type": "text",
-                "text": "\n by "
-              },
-              {
-                "type": "link",
-                "url": "https://sketchfab.com/Pamiatkovy_Urad_SR?utm_medium=embed&utm_source=website&utm_campaign=share-popup",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "Pamiatkovy_Urad_SR"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "\n on "
-              },
-              {
-                "type": "link",
-                "url": "https://sketchfab.com/?utm_medium=embed&utm_source=website&utm_campaign=share-popup",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "Sketchfab"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "\n   "
               }
             ]
           }
@@ -467,11 +750,55 @@
             "children": [
               {
                 "type": "text",
-                "text": "Na juhovýchodnom úseku Veľkomoravských hraníc, nazývanom aj Bratislavská brána, plnili tieto úlohy štyri hradiská – v Bratislave, Devíne, Devínskej Novej Vsi a na Neštichu."
+                "text": "Hradiská zohrávali v dejinách Veľkej Moravy nezastupiteľnú úlohu. Okrem obrannej funkcie slúžili zároveň aj ako politické a správne strediská, sídla vyššej spoločenskej vrstvy, zásobiská tovaru a miesta vhodné pre rozvoj remeselnej výroby.\n \n  \n "
               }
             ]
           }
         ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "sketchfab",
+        "embedId": "3e470a798c9140979af104724bfbe46c",
+        "url": "https://sketchfab.com/models/3e470a798c9140979af104724bfbe46c/embed",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na juhovýchodnom úseku Veľkomoravských hraníc, nazývanom aj Bratislavská brána, plnili tieto úlohy štyri hradiská – v Bratislave, Devíne, Devínskej Novej Vsi a na Neštichu.\n \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSTAPapf_F4qsYDBQOI_2rNhWXo_rGUywasNAB8AJ5bYd94q7o_nW9RU9fnC7ZeVevCdo_ySqBnh_oxabUYMOPsG9Ovnn1t5GPjNw4l1w0XdYEUia_cwnS946G89T0EwUIqTbnuQkceNx/s0/Nes%25CC%258Ctich+cele+JS_male.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSTAPapf_F4qsYDBQOI_2rNhWXo_rGUywasNAB8AJ5bYd94q7o_nW9RU9fnC7ZeVevCdo_ySqBnh_oxabUYMOPsG9Ovnn1t5GPjNw4l1w0XdYEUia_cwnS946G89T0EwUIqTbnuQkceNx/s1600/Nes%25CC%258Ctich+cele+JS_male.jpg",
+          "filename": "Nes%CC%8Ctich+cele+JS_male.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSTAPapf_F4qsYDBQOI_2rNhWXo_rGUywasNAB8AJ5bYd94q7o_nW9RU9fnC7ZeVevCdo_ySqBnh_oxabUYMOPsG9Ovnn1t5GPjNw4l1w0XdYEUia_cwnS946G89T0EwUIqTbnuQkceNx/s2048/Nes%25CC%258Ctich+cele+JS_male.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": null,
+            "originalWidth": 2048,
+            "originalHeight": 1084
+          }
+        },
+        "alt": "Hradisko Svätý Jur - Neštich",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -509,27 +836,6 @@
         ]
       },
       {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s0/IMG_6977.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s1600/IMG_6977.JPG",
-          "filename": "IMG_6977.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s1600/IMG_6977.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 240
-          }
-        },
-        "alt": "",
-        "caption": "",
-        "position": "center",
-        "showCaption": false,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -537,7 +843,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Podľa poznatkov o kultúrach žijúcich na našom území vieme, že budovanie hradísk bolo typické pre Slovanov. Vrch na ktorom sa dnes nachádza hradisko ale svojou vynikajúcou polohou pútal aj pozornosť národov, ktoré túto oblasť obývali pred Slovanmi."
+                "text": "Podľa poznatkov o kultúrach žijúcich na našom území vieme, že budovanie hradísk bolo typické pre Slovanov. Vrch na ktorom sa dnes nachádza hradisko ale svojou vynikajúcou polohou pútal aj pozornosť národov, ktoré túto oblasť obývali pred Slovanmi.\n \n "
               }
             ]
           }
@@ -556,6 +862,29 @@
             ]
           }
         ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5IA0WBsNrytAmAnXlwCUYZpv0doRsfu4VRnP3i4pmXfxPPCn8kcvWIc_hMvy1dMmsXpH2xlt3ssnTCxd2tEM5u7NZe567ll9FP_6X1ivYiAUIJ2qzmHl5Jh07UgIeljx_WDTqxQ_YfQo7/s0/Nes%25CC%258Ctich+Juh+JS_male.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5IA0WBsNrytAmAnXlwCUYZpv0doRsfu4VRnP3i4pmXfxPPCn8kcvWIc_hMvy1dMmsXpH2xlt3ssnTCxd2tEM5u7NZe567ll9FP_6X1ivYiAUIJ2qzmHl5Jh07UgIeljx_WDTqxQ_YfQo7/s1600/Nes%25CC%258Ctich+Juh+JS_male.jpg",
+          "filename": "Nes%CC%8Ctich+Juh+JS_male.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5IA0WBsNrytAmAnXlwCUYZpv0doRsfu4VRnP3i4pmXfxPPCn8kcvWIc_hMvy1dMmsXpH2xlt3ssnTCxd2tEM5u7NZe567ll9FP_6X1ivYiAUIJ2qzmHl5Jh07UgIeljx_WDTqxQ_YfQo7/s2048/Nes%25CC%258Ctich+Juh+JS_male.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": null,
+            "originalWidth": 2048,
+            "originalHeight": 1084
+          }
+        },
+        "alt": "Hradisko Svätý Jur - Neštich",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -601,40 +930,27 @@
         ]
       },
       {
-        "__component": "content.image-gallery",
-        "imageRefs": [
-          {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s0/ne%25C5%25A1tich+nove33.jpg",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s1600/ne%25C5%25A1tich+nove33.jpg",
-            "filename": "ne%C5%A1tich+nove33.jpg",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s1600/ne%25C5%25A1tich+nove33.jpg",
-              "displayedWidth": 320,
-              "displayedHeight": 213
-            }
-          },
-          {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s0/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s1600/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
-            "filename": "ne%C5%A1tich+nov%C3%A9.jpg",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s1600/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
-              "displayedWidth": 320,
-              "displayedHeight": 213
-            }
-          },
-          {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s0/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s1600/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
-            "filename": "ne%C5%A1tich+nov%C3%A922.jpg",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s1600/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
-              "displayedWidth": 320,
-              "displayedHeight": 213
-            }
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU_MJPoGQD-YIUU4_Qc0jIZpP9bhls9p3pEl199RjnCfDr03_uuHf9s8W7KqxmNNegCxB36VgPZR0RTQpQxH-_Gtv66r3Zmw7LTPHCsGSEmPNOsj2ETbgQ5umd-ziWiEizVzl9-cEmjM/s0/IMG_3656.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU_MJPoGQD-YIUU4_Qc0jIZpP9bhls9p3pEl199RjnCfDr03_uuHf9s8W7KqxmNNegCxB36VgPZR0RTQpQxH-_Gtv66r3Zmw7LTPHCsGSEmPNOsj2ETbgQ5umd-ziWiEizVzl9-cEmjM/s1600/IMG_3656.JPG",
+          "filename": "IMG_3656.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGU_MJPoGQD-YIUU4_Qc0jIZpP9bhls9p3pEl199RjnCfDr03_uuHf9s8W7KqxmNNegCxB36VgPZR0RTQpQxH-_Gtv66r3Zmw7LTPHCsGSEmPNOsj2ETbgQ5umd-ziWiEizVzl9-cEmjM/s1600/IMG_3656.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
           }
-        ],
-        "columns": "2"
+        },
+        "alt": "Pohľad z vrcholu valu",
+        "caption": "Pohľad z vrcholu valu",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -644,7 +960,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Komplex hradiska bol podľa vtedajších zvyklostí usporiadaný tak, že v najvyššej (a zároveň najstaršej) časti sídlili význačné osoby a vojaci. Zároveň tu museli žiť aj bohaté ženy, čoho dôkazom sú nálezy bronzových náušníc. Podobné náušnice sú známe len z hradiska v Nitre (pohrebisko Lupka), čo svedčí o existujúcom prepojení medzi oboma sídlami. Rovnako významné sú aj nálezy strmeňa, náušníc dvojitým príveskom ale i dvoch nádob zachovaných v celku."
+                "text": "Komplex hradiska bol podľa vtedajších zvyklostí usporiadaný tak, že v najvyššej (a zároveň najstaršej) časti sídlili význačné osoby a vojaci. Zároveň tu museli žiť aj bohaté ženy, čoho dôkazom sú nálezy bronzových náušníc. Podobné náušnice sú známe len z hradiska v Nitre (pohrebisko Lupka), čo svedčí o existujúcom prepojení medzi oboma sídlami. Rovnako významné sú aj nálezy strmeňa, náušníc dvojitým príveskom ale i dvoch nádob zachovaných v celku.\n \n   \n "
               }
             ]
           }
@@ -665,43 +981,38 @@
         ]
       },
       {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpm1fsgcE_chnnJnPXAYP3MP7v8g4WjSFGolct-r9Rie7jLbdfnnQIRsYWcrJKN_HFbaOg13PBOHMDu1ezlEobUaT41wOFeJxaHOFKoX8xfEqIGWQMx6LoWmWvWBOsZErQ9nz-ukhmbXQ/s0/IMG_3675.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpm1fsgcE_chnnJnPXAYP3MP7v8g4WjSFGolct-r9Rie7jLbdfnnQIRsYWcrJKN_HFbaOg13PBOHMDu1ezlEobUaT41wOFeJxaHOFKoX8xfEqIGWQMx6LoWmWvWBOsZErQ9nz-ukhmbXQ/s1600/IMG_3675.JPG",
-          "filename": "IMG_3675.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpm1fsgcE_chnnJnPXAYP3MP7v8g4WjSFGolct-r9Rie7jLbdfnnQIRsYWcrJKN_HFbaOg13PBOHMDu1ezlEobUaT41wOFeJxaHOFKoX8xfEqIGWQMx6LoWmWvWBOsZErQ9nz-ukhmbXQ/s1600/IMG_3675.JPG",
-            "displayedWidth": 213,
-            "displayedHeight": 320
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podľa nálezov z ostatných hradísk je vysoko pravdepodobné, že na hradisku sa musela nachádzať aj sakrálna stavba. Kvôli obrovskej rozlohe je ale jej skorý objav len málo pravdepodobný. Zároveň ani nie je isté, či bola zhotovená z trvácneho materiálu, ktorého pozostatky mohli pretrvať do dnešných čias."
+              }
+            ]
           }
-        },
-        "alt": "",
-        "caption": "",
-        "position": "center",
-        "showCaption": false,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
+        ]
       },
       {
         "__component": "content.image-block",
         "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw77zvAyqfMlTOcPlvpOfa3fH-EI27RwaboGDpCAjXw6ldssChTzNKclDvkEB2N7RoKluxDizISsyMbCtoiS-si24Cb38BiC5L2No9CRVMpV1hn4qHcWfQHL4cGzWSuhHzrO9PV8I-GfI/s0/strmen%CC%8C+-+ruttkay.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw77zvAyqfMlTOcPlvpOfa3fH-EI27RwaboGDpCAjXw6ldssChTzNKclDvkEB2N7RoKluxDizISsyMbCtoiS-si24Cb38BiC5L2No9CRVMpV1hn4qHcWfQHL4cGzWSuhHzrO9PV8I-GfI/s1600/strmen%CC%8C+-+ruttkay.jpg",
-          "filename": "strmeň+-+ruttkay.jpg",
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLumSrY4uLxGGAhA50gEzGzm1cAMoIeC8uvjd4J3dVGQF_adTR4Ie5NO5ZHGiohY9J1sS8vspI8aklO6S0d2TOe8NQ1ds9mIgM8ryxUIv5j67UclzsMW4AIeuqUrxKnAVDvg8ylQKRaiY/s0/IMG_3687.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLumSrY4uLxGGAhA50gEzGzm1cAMoIeC8uvjd4J3dVGQF_adTR4Ie5NO5ZHGiohY9J1sS8vspI8aklO6S0d2TOe8NQ1ds9mIgM8ryxUIv5j67UclzsMW4AIeuqUrxKnAVDvg8ylQKRaiY/s1600/IMG_3687.JPG",
+          "filename": "IMG_3687.JPG",
           "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw77zvAyqfMlTOcPlvpOfa3fH-EI27RwaboGDpCAjXw6ldssChTzNKclDvkEB2N7RoKluxDizISsyMbCtoiS-si24Cb38BiC5L2No9CRVMpV1hn4qHcWfQHL4cGzWSuhHzrO9PV8I-GfI/s1600/strmen%CC%8C+-+ruttkay.jpg",
-            "displayedWidth": 293,
-            "displayedHeight": 320
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLumSrY4uLxGGAhA50gEzGzm1cAMoIeC8uvjd4J3dVGQF_adTR4Ie5NO5ZHGiohY9J1sS8vspI8aklO6S0d2TOe8NQ1ds9mIgM8ryxUIv5j67UclzsMW4AIeuqUrxKnAVDvg8ylQKRaiY/s1600/IMG_3687.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
           }
         },
-        "alt": "Jazdecký strmeň z prvej polovice 9. stor. z Neštichu",
-        "caption": "Jazdecký strmeň z prvej polovice 9. stor. z Neštichu",
-        "position": "center",
+        "alt": "Vnútorný priestor hradiska, v pozadí val",
+        "caption": "Vnútorný priestor hradiska, v pozadí val",
+        "position": "right",
         "showCaption": true,
-        "width": "60",
+        "width": "50",
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
@@ -714,44 +1025,140 @@
             "children": [
               {
                 "type": "text",
-                "text": "Podľa nálezov z ostatných hradísk je vysoko pravdepodobné, že na hradisku sa musela nachádzať aj sakrálna stavba. Kvôli obrovskej rozlohe je ale jej skorý objav len málo pravdepodobný. Zároveň ani nie je isté, či bola zhotovená z trvácneho materiálu, ktorého pozostatky mohli pretrvať do dnešných čias.\n  \n Neštich patrí medzi málo slovanských hradísk, na ktorých v súčasnosti prebieha podrobný archeologický výskum pod vedením PhDr. Júliusa Vaváka. Aktuálne výsledky výskumov vyšli v publikácii Zo starších dejín Svätého Jura“ 2010 Kolektívna monografia (spolu s ďalšími knihami sa dá kúpiť v Malokarpatskom múzeu v Pezinku). Nasledujúce poznatky čerpajú najmä z tejto publikácie."
-              },
-              {
-                "type": "text",
-                "text": "\n ",
-                "bold": true
-              },
-              {
-                "type": "text",
-                "text": "\n "
-              },
+                "text": "Neštich patrí medzi málo slovanských hradísk, na ktorých v súčasnosti prebieha podrobný archeologický výskum pod vedením PhDr. Júliusa Vaváka. Aktuálne výsledky výskumov vyšli v publikácii Zo starších dejín Svätého Jura“ 2010 Kolektívna monografia (spolu s ďalšími knihami sa dá kúpiť v Malokarpatskom múzeu v Pezinku). Nasledujúce poznatky čerpajú najmä z tejto publikácie."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
               {
                 "type": "text",
                 "text": "Nálezy - Obdobie Avarského Kaganátu",
                 "bold": true
-              },
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "text",
-                "text": "\n \n Medzi najstaršie predmety, s ktorými možno spájať prítomnosť Slovanov patrí zlomok železnej slovanskej ostrohy s háčikom. Obzvlášť dôležité sú nálezy tzv. avarských bronzov z polohy Hradisko, ktoré si našli obľubu i u Slovanov. Jedným je bronzové prelamované kovanie s vyobrazením gryfa, nájdené na prvom predhradí. v blízkosti valu predhradia a valu akropoly Predmet je zatiaľ najstarším nálezom, ktorý možno spájať s pobytom Slovanov na hradisku. Náleží do I . fázy neskoroavarského obdobia (medzi rokmi 720-750) Z polohy poznáme i mladšie avarské kovania.\n \n  "
-              },
+                "text": "Medzi najstaršie predmety, s ktorými možno spájať prítomnosť Slovanov patrí zlomok železnej slovanskej ostrohy s háčikom. Obzvlášť dôležité sú nálezy tzv. avarských bronzov z polohy Hradisko, ktoré si našli obľubu i u Slovanov. Jedným je bronzové prelamované kovanie s vyobrazením gryfa, nájdené na prvom predhradí. v blízkosti valu predhradia a valu akropoly Predmet je zatiaľ najstarším nálezom, ktorý možno spájať s pobytom Slovanov na hradisku. Náleží do I . fázy neskoroavarského obdobia (medzi rokmi 720-750) Z polohy poznáme i mladšie avarské kovania."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06tYsL1G4omQt7JOrLyBJeTUGPKS_QPZi6ceL3Ah19tHBQ7lusFDedtTUAMLDcqnNK-Wrg92zjNKPdZTfwUsA0qKCs7aqu4i1clgKFQYKEktPZAtE_mVSvl7VJ2zSCxlnsMBQmT4216Y/s0/IMG_6979.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06tYsL1G4omQt7JOrLyBJeTUGPKS_QPZi6ceL3Ah19tHBQ7lusFDedtTUAMLDcqnNK-Wrg92zjNKPdZTfwUsA0qKCs7aqu4i1clgKFQYKEktPZAtE_mVSvl7VJ2zSCxlnsMBQmT4216Y/s1600/IMG_6979.JPG",
+          "filename": "IMG_6979.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06tYsL1G4omQt7JOrLyBJeTUGPKS_QPZi6ceL3Ah19tHBQ7lusFDedtTUAMLDcqnNK-Wrg92zjNKPdZTfwUsA0qKCs7aqu4i1clgKFQYKEktPZAtE_mVSvl7VJ2zSCxlnsMBQmT4216Y/s1600/IMG_6979.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradisko Neštich malo mohutné valy",
+        "caption": "Hradisko Neštich malo mohutné valy",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
               {
                 "type": "text",
                 "text": "Obdobie Nitrianskeho kniežatstva a Veľkej Moravy",
                 "bold": true
-              },
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "text",
-                "text": "\n \n \n Ďalšími zaujímavými nálezmi sú artefakty západného pôvodu, resp. ich deriváty, ktoré možno datovať do obdobia tzv. blatnicko-mikulčického horizontu a ich výskyt sa sčasti prekrýva s cirkuláciou avarských bronzov. Bronzom tauzovaný strmeň nájdený vo vale predhradia, železné jazykovité nákončia opaskov, členenú prevliečku, platničku zdobenú vruborezom. Neskoroavarské kovania, ako i ďalšie predmety z okolia hradiska, zjavne ukazujú na záujem o lokalitu doloženú najneskôr okolo polovice 8. storočia. Predpokladané, nepriamo doložené staršie neopevnené sídlisko, mohlo byť vzápätí sčasti obohnané valmi na najmenej prístupnej časti – akropole najneskôr v posledných desaťročiach 8. storočia. Opevnenie sa stalo útočiskom pre obyvateľov priliehajúcej otvorenej osady. Dokladom po zánikovom horizonte tohto otvoreného sídliska je prepálená keramika, mazanica, zvieracie kosti, karolínsky strmeň, nájdený vo vale predhradia, napokon i rozloženie avarských bronzov. Archeologický výskum a nálezy zo súkromných zbierok za posledné roky jasne dokladajú predpoklad V. Turčana, že hradisko sa pred vznikom Veľkej Moravy stalo centrom regionálnej správy, ovládaným rodiacou sa mocenskou elitou, disponujúcou vojenskou silou. Charakter nálezov z hradiska poukazuje dokonca na skutočnosť, že to bolo centrum významné, ktoré nemá mimo hradiska na Devíne v tomto čase a priestore paralelu. Po vzniku Veľkej Moravy v roku 833 sledujeme ďalší rozmach svätojurského hradiska ako regionálneho centra a remeselného strediska. Vidíme to v rozšírení opevnenia o predhradie, ktoré sa najpravdepodobnejšie udialo po zjednotení krajín. V období 2. polovice 9. storočia zažíva hradisko rozmach, ktorý sa okrem výstavby prvého predhradia prejavil i výstavbou predhradia druhého. Pokračovanie existencie hradiska svedčí o jeho význame i po spojení krajín, kedy si Nitriansko zjavne zachovalo istú mieru samostatnosti prejavujúcu sa i v konfliktoch kniežat nitrianskych s moravskými. \n  \n "
-              },
+                "text": "Ďalšími zaujímavými nálezmi sú artefakty západného pôvodu, resp. ich deriváty, ktoré možno datovať do obdobia tzv. blatnicko-mikulčického horizontu a ich výskyt sa sčasti prekrýva s cirkuláciou avarských bronzov. Bronzom tauzovaný strmeň nájdený vo vale predhradia, železné jazykovité nákončia opaskov, členenú prevliečku, platničku zdobenú vruborezom. Neskoroavarské kovania, ako i ďalšie predmety z okolia hradiska, zjavne ukazujú na záujem o lokalitu doloženú najneskôr okolo polovice 8. storočia. Predpokladané, nepriamo doložené staršie neopevnené sídlisko, mohlo byť vzápätí sčasti obohnané valmi na najmenej prístupnej časti – akropole najneskôr v posledných desaťročiach 8. storočia. Opevnenie sa stalo útočiskom pre obyvateľov priliehajúcej otvorenej osady. Dokladom po zánikovom horizonte tohto otvoreného sídliska je prepálená keramika, mazanica, zvieracie kosti, karolínsky strmeň, nájdený vo vale predhradia, napokon i rozloženie avarských bronzov. Archeologický výskum a nálezy zo súkromných zbierok za posledné roky jasne dokladajú predpoklad V. Turčana, že hradisko sa pred vznikom Veľkej Moravy stalo centrom regionálnej správy, ovládaným rodiacou sa mocenskou elitou, disponujúcou vojenskou silou. Charakter nálezov z hradiska poukazuje dokonca na skutočnosť, že to bolo centrum významné, ktoré nemá mimo hradiska na Devíne v tomto čase a priestore paralelu. Po vzniku Veľkej Moravy v roku 833 sledujeme ďalší rozmach svätojurského hradiska ako regionálneho centra a remeselného strediska. Vidíme to v rozšírení opevnenia o predhradie, ktoré sa najpravdepodobnejšie udialo po zjednotení krajín. V období 2. polovice 9. storočia zažíva hradisko rozmach, ktorý sa okrem výstavby prvého predhradia prejavil i výstavbou predhradia druhého. Pokračovanie existencie hradiska svedčí o jeho význame i po spojení krajín, kedy si Nitriansko zjavne zachovalo istú mieru samostatnosti prejavujúcu sa i v konfliktoch kniežat nitrianskych s moravskými. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw77zvAyqfMlTOcPlvpOfa3fH-EI27RwaboGDpCAjXw6ldssChTzNKclDvkEB2N7RoKluxDizISsyMbCtoiS-si24Cb38BiC5L2No9CRVMpV1hn4qHcWfQHL4cGzWSuhHzrO9PV8I-GfI/s0/strmen%CC%8C+-+ruttkay.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw77zvAyqfMlTOcPlvpOfa3fH-EI27RwaboGDpCAjXw6ldssChTzNKclDvkEB2N7RoKluxDizISsyMbCtoiS-si24Cb38BiC5L2No9CRVMpV1hn4qHcWfQHL4cGzWSuhHzrO9PV8I-GfI/s1600/strmen%CC%8C+-+ruttkay.jpg",
+          "filename": "strmeň+-+ruttkay.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw77zvAyqfMlTOcPlvpOfa3fH-EI27RwaboGDpCAjXw6ldssChTzNKclDvkEB2N7RoKluxDizISsyMbCtoiS-si24Cb38BiC5L2No9CRVMpV1hn4qHcWfQHL4cGzWSuhHzrO9PV8I-GfI/s1600/strmen%CC%8C+-+ruttkay.jpg",
+            "displayedWidth": 293,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Jazdecký strmeň z prvej polovice 9. stor. z Neštichu",
+        "caption": "Jazdecký strmeň z prvej polovice 9. stor. z Neštichu",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
               {
                 "type": "text",
                 "text": "Zbrane – doklad prítomnosti vládnucej vrstvy",
                 "bold": true
-              },
-              {
-                "type": "text",
-                "text": "\n \n "
-              },
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "link",
                 "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhip7kZPs_L_aCtwX4xKKjSZ5_4O-lT-0W8BxiGTnZzXuUcrESk-7JeuRZOZn2V0fclUWTj4_Rz6POLFY9gny8iJVEgp9-Pn08tvQgFUQJL0K_6Q4bxKrkQ16xWg0dXixJGs4tY8U9HZCs/s1600/Ne%25C5%25A1tich+kopija.jpg",
@@ -764,20 +1171,87 @@
               },
               {
                 "type": "text",
-                "text": "Dokladmi o vojenskej zložke medzi osadníkmi sú nálezy zbraní, sekier, početných hrotov šípov, kopijí/oštepov. Dve sekery sme doposiaľ poznali z polohy Hradisko, jeden štíhly tvar a časť bradatice. V súkromných zbierkach sa však nachádza ďalších sedem sekier z tohto náleziska. Z novších nálezov si pozornosť zasluhujú predovšetkým kopije/oštepy. Z militárií sú najpočetnejšie zastúpené hroty šípov, najmä s krídelkami, menej listovité a trojlisté tvary. K výstroju jazdca patril spomínaný skvostný strmeň, ktorý akiste patril príslušníkovi vyššej spoločenskej vrstvy. Z novších nálezov sa pristavme pri ostrohách a bočniciach zubadiel. Bežnejšie nálezy predstavujú pracky opaskov. Dôležitou súčasťou výstroja bojovníka boli i nákladné drôtené košele z ktorých krúžky sme našli na viacerých miestach hradiska. \n \n  "
-              },
-              {
-                "type": "text",
-                "text": "Nástroje",
-                "bold": true
-              },
-              {
-                "type": "text",
-                "text": "\n \n Na hradisku sa našli i početné doklady o živote jeho obyvateľov, ktoré reprezentujú predmety osobnej potreby ako sú keramické nádoby a ich zlomky, rôzne typy kovaní vedierok, nože, ocieľky. Zaujímavé sú i nálezy kľúčov. Hákovité typy zastupujú nálezy zo súkromnej zbierky. Nástroje remeselné, či ich súčasti, poznáme doposiaľ (mimo sekier) len z hradiska. Zastupujú ich čepele pílok, sekery, vrták (obr. 10: 1, 2), nožnice, šidlá, keramické závažia a prasleny, kamenné brúsiky a hladidlá. Tieto predmety dokladajú prácu remeselníkov ako je spracovanie dreva, výrobu odevnú, produkciu keramiky, doloženú nepriamo početnými nálezmi črepového materiálu, ktorá bola točená na kruhu a opatrená najmä typickými zväzkami vlnoviek a línií. Kováčsku výrobu dokladajú nálezy klieští. Súvisí s ňou i výroba polotovarov a zároveň platidiel – sekerovitých hrivien v rôznych veľkostiach, nachádzaných ako v celku, tak často aj v zlomkoch. \n \n \n  \n  "
+                "text": "Dokladmi o vojenskej zložke medzi osadníkmi sú nálezy zbraní, sekier, početných hrotov šípov, kopijí/oštepov. Dve sekery sme doposiaľ poznali z polohy Hradisko, jeden štíhly tvar a časť bradatice. V súkromných zbierkach sa však nachádza ďalších sedem sekier z tohto náleziska. Z novších nálezov si pozornosť zasluhujú predovšetkým kopije/oštepy. Z militárií sú najpočetnejšie zastúpené hroty šípov, najmä s krídelkami, menej listovité a trojlisté tvary. K výstroju jazdca patril spomínaný skvostný strmeň, ktorý akiste patril príslušníkovi vyššej spoločenskej vrstvy. Z novších nálezov sa pristavme pri ostrohách a bočniciach zubadiel. Bežnejšie nálezy predstavujú pracky opaskov. Dôležitou súčasťou výstroja bojovníka boli i nákladné drôtené košele z ktorých krúžky sme našli na viacerých miestach hradiska. "
               }
             ]
           }
         ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s0/Nes%25CC%258Ctich+Sever+JS_male.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s1600/Nes%25CC%258Ctich+Sever+JS_male.jpg",
+          "filename": "Nes%CC%8Ctich+Sever+JS_male.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCuG7S6ipXL7TAg99ajR9aI0E0jzzz3s9E_W29L5xCUqnelNcpx_6IHJb0VElmCJU8g9C8JH8amTtRT3mdFFSaucMAPyE4XJXA-yMjW7VafeYThot_gT88Va_eKii7cD7SRPAAQ6PuQ8tL/s2048/Nes%25CC%258Ctich+Sever+JS_male.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": null,
+            "originalWidth": 2048,
+            "originalHeight": 1084
+          }
+        },
+        "alt": "Hradisko Svätý Jur - Neštich",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nástroje",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na hradisku sa našli i početné doklady o živote jeho obyvateľov, ktoré reprezentujú predmety osobnej potreby ako sú keramické nádoby a ich zlomky, rôzne typy kovaní vedierok, nože, ocieľky. Zaujímavé sú i nálezy kľúčov. Hákovité typy zastupujú nálezy zo súkromnej zbierky. Nástroje remeselné, či ich súčasti, poznáme doposiaľ (mimo sekier) len z hradiska. Zastupujú ich čepele pílok, sekery, vrták (obr. 10: 1, 2), nožnice, šidlá, keramické závažia a prasleny, kamenné brúsiky a hladidlá. Tieto predmety dokladajú prácu remeselníkov ako je spracovanie dreva, výrobu odevnú, produkciu keramiky, doloženú nepriamo početnými nálezmi črepového materiálu, ktorá bola točená na kruhu a opatrená najmä typickými zväzkami vlnoviek a línií. Kováčsku výrobu dokladajú nálezy klieští. Súvisí s ňou i výroba polotovarov a zároveň platidiel – sekerovitých hrivien v rôznych veľkostiach, nachádzaných ako v celku, tak často aj v zlomkoch. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s0/IMG_6977.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s1600/IMG_6977.JPG",
+          "filename": "IMG_6977.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis60bIvLue7w81DbqKQwBLVrSQDCvea-wpDyeyKy7VZPD0xxEWernlP_kYD3_y9WmRso0DWQPNuNSJlKTYpKVvKD_BicEhsrnbSLr8KxCWBF0BkCnrf1sFJ79bx60MXZ_6MFQTEew5etU/s1600/IMG_6977.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradisko Svätý Jur - Neštich",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -795,27 +1269,6 @@
         ]
       },
       {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQsi2SoDIw0062x6wYGzq13BPPD9zmum7GNZOvgnyjAjy7q4VwOyoy26gB4QRAiYp23bDSpcW8eFeDtrjmxlltAx1-kN8SIsUFhkNJ1Rb0PfRisEuFBaXOf-RSZqaIYyOQiB82GZNfNM/s0/lunicovity%CC%81_za%CC%81vesok.jpg",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQsi2SoDIw0062x6wYGzq13BPPD9zmum7GNZOvgnyjAjy7q4VwOyoy26gB4QRAiYp23bDSpcW8eFeDtrjmxlltAx1-kN8SIsUFhkNJ1Rb0PfRisEuFBaXOf-RSZqaIYyOQiB82GZNfNM/s1600/lunicovity%CC%81_za%CC%81vesok.jpg",
-          "filename": "lunicovitý_závesok.jpg",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQsi2SoDIw0062x6wYGzq13BPPD9zmum7GNZOvgnyjAjy7q4VwOyoy26gB4QRAiYp23bDSpcW8eFeDtrjmxlltAx1-kN8SIsUFhkNJ1Rb0PfRisEuFBaXOf-RSZqaIYyOQiB82GZNfNM/s1600/lunicovity%CC%81_za%CC%81vesok.jpg",
-            "displayedWidth": 320,
-            "displayedHeight": 254
-          }
-        },
-        "alt": "Jeden z najnovších nálezov - lunicovitý závesok",
-        "caption": "Jeden z najnovších nálezov - lunicovitý závesok",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
         "__component": "content.rich-text",
         "body": [
           {
@@ -823,11 +1276,34 @@
             "children": [
               {
                 "type": "text",
-                "text": "Dokladmi po klasickom horizonte veľkomoravského obdobia sú nálezy ženských šperkov podunajského typu reprezentovaných piatimi bronzovými náušnicami (jedna pozlátená) nájdenými na prvom predhradí, údajne v mieste prierezu valom. Do horizontu zapadá i nález pozláteného gombíka a depot pozostávajúci zo siedmych náušníc (dve byzantsko-orientálneho štýlu, z nich jedna pozlátená, druhá postriebrená), bronzového gombíka a prsteňa z chaty nájdenej na akropole, spolu s celou nádobou, hrotom oštepu a dýkou. Zdá sa, že obydlie zaniklo požiarom. Vzhľadom na obsah depotu môžeme uvažovať o zániku objektu niekedy koncom 9. až v priebehu 1. pol. 10. storočia. Z ďalších slovanských šperkov spomenieme kotúčovitý sklenený korálik, sklený gombík, bronzový, vybíjaním zdobený štítok prsteňa. Medzi najnovšie nálezy sa počíta nález gombíka zdobeného kvalitnou filigránovou technikou, typickou pre veľkomoravské obdobie."
+                "text": "Dokladmi po klasickom horizonte veľkomoravského obdobia sú nálezy ženských šperkov podunajského typu reprezentovaných piatimi bronzovými náušnicami (jedna pozlátená) nájdenými na prvom predhradí, údajne v mieste prierezu valom. Do horizontu zapadá i nález pozláteného gombíka a depot pozostávajúci zo siedmych náušníc (dve byzantsko-orientálneho štýlu, z nich jedna pozlátená, druhá postriebrená), bronzového gombíka a prsteňa z chaty nájdenej na akropole, spolu s celou nádobou, hrotom oštepu a dýkou. Zdá sa, že obydlie zaniklo požiarom. Vzhľadom na obsah depotu môžeme uvažovať o zániku objektu niekedy koncom 9. až v priebehu 1. pol. 10. storočia. Z ďalších slovanských šperkov spomenieme kotúčovitý sklenený korálik, sklený gombík, bronzový, vybíjaním zdobený štítok prsteňa. Medzi najnovšie nálezy sa počíta nález gombíka zdobeného kvalitnou filigránovou technikou, typickou pre veľkomoravské obdobie.\n \n "
               }
             ]
           }
         ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s0/ne%25C5%25A1tich+nove33.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s1600/ne%25C5%25A1tich+nove33.jpg",
+          "filename": "ne%C5%A1tich+nove33.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyM8tDDxeyeOyJukMMW05jq3JDYQFIGx9byjmG7P2Tfgnn94OPGnXTlW3EIuD0fEFL8YhsKHV3SHeHRpLPVsDfeapBeMRWof3pHi7k4pcXAd2ge2Sx2AmO-DFwALFiedcAq6eQrdwxTNk/s1600/ne%25C5%25A1tich+nove33.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradisko Svätý Jur - Neštich",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -852,242 +1328,11 @@
             "children": [
               {
                 "type": "text",
-                "text": "Dnes vieme, že obyvatelia stavali obydlia na miestach upravených terás, ako i v miestach prirodzených plošín. Pomerne dobrú predstavu máme o obydliach obyvateľov, ktoré zastupovali zruby. Pokiaľ ide o počet obydlí, ťažko ho stanoviť. Rádovo to mohli byť desiatky zrubov poskytujúce prístrešie, v najväčšom rozmachu, i niekoľkým stovkám obyvateľov."
+                "text": "Dnes vieme, že obyvatelia stavali obydlia na miestach upravených terás, ako i v miestach prirodzených plošín. Pomerne dobrú predstavu máme o obydliach obyvateľov, ktoré zastupovali zruby. Pokiaľ ide o počet obydlí, ťažko ho stanoviť. Rádovo to mohli byť desiatky zrubov poskytujúce prístrešie, v najväčšom rozmachu, i niekoľkým stovkám obyvateľov. "
               }
             ]
           }
         ]
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s0/IMG_6809.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s1600/IMG_6809.JPG",
-          "filename": "IMG_6809.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s1600/IMG_6809.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Severozápadná časť valu",
-        "caption": "Severozápadná časť valu",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s0/IMG_6814.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s1600/IMG_6814.JPG",
-          "filename": "IMG_6814.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s1600/IMG_6814.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Západný val",
-        "caption": "Západný val",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s0/IMG_6823.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s1600/IMG_6823.JPG",
-          "filename": "IMG_6823.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s1600/IMG_6823.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Neštich je jedno z mála hradísk, kde stále prebieha výskum (Dr. Vavák)",
-        "caption": "Neštich je jedno z mála hradísk, kde stále prebieha výskum (Dr. Vavák)",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s0/IMG_6821.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s1600/IMG_6821.JPG",
-          "filename": "IMG_6821.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s1600/IMG_6821.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Juhozápadný val",
-        "caption": "Juhozápadný val",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s0/IMG_6829.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s1600/IMG_6829.JPG",
-          "filename": "IMG_6829.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s1600/IMG_6829.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Aktuálne archeologické sondy",
-        "caption": "Aktuálne archeologické sondy",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s0/IMG_6836.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s1600/IMG_6836.JPG",
-          "filename": "IMG_6836.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s1600/IMG_6836.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Juhozápadný val",
-        "caption": "Juhozápadný val",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s0/IMG_6839.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s1600/IMG_6839.JPG",
-          "filename": "IMG_6839.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s1600/IMG_6839.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Severozápadný val",
-        "caption": "Severozápadný val",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s0/IMG_6845.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s1600/IMG_6845.JPG",
-          "filename": "IMG_6845.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s1600/IMG_6845.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Prechod medzi akropolou a predhradím",
-        "caption": "Prechod medzi akropolou a predhradím",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s0/IMG_6855.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s1600/IMG_6855.JPG",
-          "filename": "IMG_6855.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s1600/IMG_6855.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Rez valom, žiaľ moje \"skúsené\" oko tu nebolo schopné rozoznať stopy po vnútornej drevenej konštrukcii",
-        "caption": "Rez valom, žiaľ moje \"skúsené\" oko tu nebolo schopné rozoznať stopy po vnútornej drevenej konštrukcii",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s0/IMG_6856.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s1600/IMG_6856.JPG",
-          "filename": "IMG_6856.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s1600/IMG_6856.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Juhovýchodný val",
-        "caption": "Juhovýchodný val",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
-      },
-      {
-        "__component": "content.image-block",
-        "imageRef": {
-          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s0/IMG_6857.JPG",
-          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s1600/IMG_6857.JPG",
-          "filename": "IMG_6857.JPG",
-          "blogger": {
-            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s1600/IMG_6857.JPG",
-            "displayedWidth": 320,
-            "displayedHeight": 213
-          }
-        },
-        "alt": "Opäť juhovýchodný val",
-        "caption": "Opäť juhovýchodný val",
-        "position": "center",
-        "showCaption": true,
-        "width": "60",
-        "aspectRatio": "auto",
-        "rounded": true,
-        "shadow": true
       },
       {
         "__component": "content.rich-text",
@@ -1097,70 +1342,208 @@
             "children": [
               {
                 "type": "text",
-                "text": "Na hradisku sa tiež nachádzalo niekoľko neobytných, zväčša menších objektov hospodárskeho charakteru. Mohlo ísť o šopy, chlievy či stajne. Jamy predstavovali chladničky na potraviny. Zjavná je prítomnosť výrobných objektov. Nepriamo je doložená nálezmi kováčskych klieští a strusky, o ktorých sme sa zmienili."
-              },
+                "text": "Na hradisku sa tiež nachádzalo niekoľko neobytných, zväčša menších objektov hospodárskeho charakteru. Mohlo ísť o šopy, chlievy či stajne. Jamy predstavovali chladničky na potraviny. Zjavná je prítomnosť výrobných objektov. Nepriamo je doložená nálezmi kováčskych klieští a strusky, o ktorých sme sa zmienili. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
               {
                 "type": "text",
                 "text": "Konštrukcia hradby",
                 "bold": true
-              },
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "text",
-                "text": "  \n  Konštrukcia hradby na akropole bola tvorená zeminou s kamením spevnenou drevenými trámami nad sebou – azda roštami. Zo strany predhradia sa zistil kamenný múr (šírka hradby minimálne 4,5 m). Z vonkajšej strany bola vykopaná priekopa kónického tvaru (šírka 2,6 a hĺbka 1,5 m). Vnútorná priekopa tu skúmaná nebola. Tento najstarší opevnený areál bol dlhý okolo 325 m a široký najmenej 170 m. Opevnenie prvého predhradia zaniklo požiarom. Kedy sa tak udialo, ťažko povedať. I po opustení bolo počas zvyšného stredoveku hradisko refúgiom. Val prvého prehradia bol dvakrát prestavovaný, postavený zo zeminy fixovanej kolmi a trámami, z vonkajšej strany opatrený kamenným múrom (pôvodne 3 m, po prestavbe 4,5-5 m). Účinnosť opevnenia zvyšovalo zdvojenie hradby prvého predhradia. Val druhého predhradia, ako i prestavba prvého sa zrejem uskutočnili v priebehu druhej polovice 9. alebo začiatkom 10. storočia. Súčasťou opevnenia boli i priekopy vykopané pred valmi. Celková dĺžka opevneného areálu po prístavbe opevnení predhradí dosiahla približne 680 m, vrátane nízkeho valu druhého predhradia, ktorý dosiaľ nebol skúmaný. Vstupné brány do hradiska možno očakávať rovnako v dĺžkovej osi.  \n   \n  "
-              },
+                "text": "Konštrukcia hradby na akropole bola tvorená zeminou s kamením spevnenou drevenými trámami nad sebou – azda roštami. Zo strany predhradia sa zistil kamenný múr (šírka hradby minimálne 4,5 m). Z vonkajšej strany bola vykopaná priekopa kónického tvaru (šírka 2,6 a hĺbka 1,5 m). Vnútorná priekopa tu skúmaná nebola. Tento najstarší opevnený areál bol dlhý okolo 325 m a široký najmenej 170 m. Opevnenie prvého predhradia zaniklo požiarom. Kedy sa tak udialo, ťažko povedať. I po opustení bolo počas zvyšného stredoveku hradisko refúgiom. Val prvého prehradia bol dvakrát prestavovaný, postavený zo zeminy fixovanej kolmi a trámami, z vonkajšej strany opatrený kamenným múrom (pôvodne 3 m, po prestavbe 4,5-5 m). Účinnosť opevnenia zvyšovalo zdvojenie hradby prvého predhradia. Val druhého predhradia, ako i prestavba prvého sa zrejem uskutočnili v priebehu druhej polovice 9. alebo začiatkom 10. storočia. Súčasťou opevnenia boli i priekopy vykopané pred valmi. Celková dĺžka opevneného areálu po prístavbe opevnení predhradí dosiahla približne 680 m, vrátane nízkeho valu druhého predhradia, ktorý dosiaľ nebol skúmaný. Vstupné brány do hradiska možno očakávať rovnako v dĺžkovej osi.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQsi2SoDIw0062x6wYGzq13BPPD9zmum7GNZOvgnyjAjy7q4VwOyoy26gB4QRAiYp23bDSpcW8eFeDtrjmxlltAx1-kN8SIsUFhkNJ1Rb0PfRisEuFBaXOf-RSZqaIYyOQiB82GZNfNM/s0/lunicovity%CC%81_za%CC%81vesok.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQsi2SoDIw0062x6wYGzq13BPPD9zmum7GNZOvgnyjAjy7q4VwOyoy26gB4QRAiYp23bDSpcW8eFeDtrjmxlltAx1-kN8SIsUFhkNJ1Rb0PfRisEuFBaXOf-RSZqaIYyOQiB82GZNfNM/s1600/lunicovity%CC%81_za%CC%81vesok.jpg",
+          "filename": "lunicovitý_závesok.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOQsi2SoDIw0062x6wYGzq13BPPD9zmum7GNZOvgnyjAjy7q4VwOyoy26gB4QRAiYp23bDSpcW8eFeDtrjmxlltAx1-kN8SIsUFhkNJ1Rb0PfRisEuFBaXOf-RSZqaIYyOQiB82GZNfNM/s1600/lunicovity%CC%81_za%CC%81vesok.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 254,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Jeden z najnovších nálezov - lunicovitý závesok",
+        "caption": "Jeden z najnovších nálezov - lunicovitý závesok",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
               {
                 "type": "text",
                 "text": "Ďalšie osídlenie hradiska po zániku Veľkej Moravy",
                 "bold": true
-              },
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "text",
-                "text": "  \n   Zastúpenie nálezov na hradisku je dočasne prerušené na konci 10. storočia. V nasledujúcich asi 200 rokoch bolo opäť len dočasným úkrytom v čase útokov. Tento stav sa zmenil až s príchodom grófov zo Svätého jura a Pezinka, za ktorých vlastníctva sa trvalé osídlenie obnovilo pre obdobie od začiatku 13. až do konca 14. storočia. Oni nechali vybudovať palácovú stavbu, vodovodnú cisternu a hlinené potrubie v dĺžke asi 3 kilometre. Zároveň obnovili aj systém valov a dobudovali doň bránu zodpovedajúcu vtedajším trendom v budovaní šľachtických sídel.\n \n Archeológ Július Vavák predstavuje hradisko a najzaujímavejšie nálezy z neho:\n \n    \n   Napriek tomu, že grófi sa postarali o prestavbu hradiska, už o niekoľko desaťročí neskôr pristúpili k stavbe kamenného hradu na kopci na druhej strane doliny. Stalo sa tak pravdepodobne po tatarskom vpáde v roku 1241. Po ich presídlení na hrad Biely kameň bola na pôvodnom hradisku ešte dlhší čas udržiavania stála posádka. V zrúcaninách stredovekých obytných budov sa podarilo nájsť len veľmi málo nálezov, čo svedčí o pokojnom odchode obyvateľov z hradiska. Po opustení hradiska v priebehu 14. storočia už nikdy neexistovalo na jeho území trvalé osídlenie, i keď je možné že existujúci systém valov využili obyvatelia okolitých sídel ako úkryt aj pri niektorých bojoch v nasledujúcich desaťročiach.   \n    "
-              },
+                "text": "Zastúpenie nálezov na hradisku je dočasne prerušené na konci 10. storočia. V nasledujúcich asi 200 rokoch bolo opäť len dočasným úkrytom v čase útokov. Tento stav sa zmenil až s príchodom grófov zo Svätého jura a Pezinka, za ktorých vlastníctva sa trvalé osídlenie obnovilo pre obdobie od začiatku 13. až do konca 14. storočia. Oni nechali vybudovať palácovú stavbu, vodovodnú cisternu a hlinené potrubie v dĺžke asi 3 kilometre. Zároveň obnovili aj systém valov a dobudovali doň bránu zodpovedajúcu vtedajším trendom v budovaní šľachtických sídel."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Archeológ Július Vavák predstavuje hradisko a najzaujímavejšie nálezy z neho:"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "rXC4T2crmaU",
+        "url": "https://www.youtube.com/embed/rXC4T2crmaU",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Napriek tomu, že grófi sa postarali o prestavbu hradiska, už o niekoľko desaťročí neskôr pristúpili k stavbe kamenného hradu na kopci na druhej strane doliny. Stalo sa tak pravdepodobne po tatarskom vpáde v roku 1241. Po ich presídlení na hrad Biely kameň bola na pôvodnom hradisku ešte dlhší čas udržiavania stála posádka. V zrúcaninách stredovekých obytných budov sa podarilo nájsť len veľmi málo nálezov, čo svedčí o pokojnom odchode obyvateľov z hradiska. Po opustení hradiska v priebehu 14. storočia už nikdy neexistovalo na jeho území trvalé osídlenie, i keď je možné že existujúci systém valov využili obyvatelia okolitých sídel ako úkryt aj pri niektorých bojoch v nasledujúcich desaťročiach.   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s0/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s1600/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
+          "filename": "ne%C5%A1tich+nov%C3%A9.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpUrBDhFK8E-rtSNoKL0i8xPKTkdokkvJwxKsF39bNa-DH2ruwbo7Yg45Qb6S-hfx-Zd2jDqCWDKcxahON7HhFJIZWYD6Rwt7PT3orpTBhOuHQlAXbJbpYn74_zJ7Y5xWqSS620LxipwM/s1600/ne%25C5%25A1tich+nov%25C3%25A9.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradisko Svätý Jur - Neštich",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
               {
                 "type": "text",
                 "text": "Stredoveké vodovodné potrubie",
                 "bold": true
-              },
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "text",
-                "text": "    \n  V čase stredovekého osídlenia bolo nutné zabepečiť neustálu dodávku pitnej vody do priestorov hradiska. Na to slúžilo hlinené potrubie budované v dĺžke niekoľkých kilometrov, ktoré vytvorilo prepojenie hradiska s prameňom mimo systému valov. Potrubie bolo vyrobené z hliny. Jednotlivé jeho časti merali 55 -58 cm, svetelnosťou potrubí 8,5-13,0 a 7,7-13,0 zapadali jednotlivé časti dokonale jedna do druhej. Okrem rúr obsahovalo aj šachtičky, ktoré slúžili na jeho odvzdušňovanie ale aj zachytávanie nečistôt a kalu. Jednotlivé časti potrubia sú objavované už niekoľko desaťročí pri rôznych výkopových prácach. Časť objavov skončila v mestskom múzeu, ale i v súkromných zbierkach nálezcov.\n \n \n "
-              },
+                "text": "V čase stredovekého osídlenia bolo nutné zabepečiť neustálu dodávku pitnej vody do priestorov hradiska. Na to slúžilo hlinené potrubie budované v dĺžke niekoľkých kilometrov, ktoré vytvorilo prepojenie hradiska s prameňom mimo systému valov. Potrubie bolo vyrobené z hliny. Jednotlivé jeho časti merali 55 -58 cm, svetelnosťou potrubí 8,5-13,0 a 7,7-13,0 zapadali jednotlivé časti dokonale jedna do druhej. Okrem rúr obsahovalo aj šachtičky, ktoré slúžili na jeho odvzdušňovanie ale aj zachytávanie nečistôt a kalu. Jednotlivé časti potrubia sú objavované už niekoľko desaťročí pri rôznych výkopových prácach. Časť objavov skončila v mestskom múzeu, ale i v súkromných zbierkach nálezcov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
               {
                 "type": "text",
                 "text": "Prístup na hradisko a jeho označenie: ",
                 "bold": true
-              },
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "text",
-                "text": "\n "
-              },
-              {
-                "type": "text",
-                "text": "\n ",
-                "bold": true
-              },
-              {
-                "type": "text",
-                "text": "\n  "
-              },
-              {
-                "type": "text",
-                "text": "\n ",
-                "bold": true
-              },
-              {
-                "type": "text",
-                "text": "\n "
-              },
-              {
-                "type": "text",
-                "text": "\n ",
-                "bold": true
-              },
-              {
-                "type": "text",
-                "text": "\n Neštich patrí medzi slovanské hradiská s pomerne "
+                "text": "Neštich patrí medzi slovanské hradiská s pomerne "
               },
               {
                 "type": "text",
@@ -1184,11 +1567,68 @@
                 "type": "text",
                 "text": "Chválim a som rád, že sa u nás nájdu aj takto označené hradiská.",
                 "bold": true
-              },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s0/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s1600/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
+          "filename": "ne%C5%A1tich+nov%C3%A922.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyxgGjTf-u-p_aLXaMFxQSL0a-c6m0IH72WxHBHa8bUzA7SRF_f_gmGTSv1XJslZ193o2ZdAUIhnt3L_WMghCGRw8PFjo9ALaLVK34_t4mbNU1cgSlvZYQbrPV9ySX1G5x_ljzEQ_eSF4/s1600/ne%25C5%25A1tich+nov%25C3%25A922.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradisko Svätý Jur - Neštich",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "text",
-                "text": "\n \n \n Spracoval: Orgoň  \n  PhDr. Július Vavák: Nové poznatky k najstarším dejinám Svätého Jura, „Zo starších dejín Svätého Jura“ 2010, Kolektívna monografia   http://www.nestich.sk/?svatyjur=pamiatky-velkomoravske-hradisko-kostol-svateho-juraja-hrad-bielykamen\n "
-              },
+                "text": "Spracoval: Orgoň  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "PhDr. Július Vavák: Nové poznatky k najstarším dejinám Svätého Jura, „Zo starších dejín Svätého Jura“ 2010, Kolektívna monografia   http://www.nestich.sk/?svatyjur=pamiatky-velkomoravske-hradisko-kostol-svateho-juraja-hrad-bielykamen"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "link",
                 "url": "http://ukf.academia.edu/J%C3%BAliusVav%C3%A1k/Papers/693684/GOMBIKY_ZO_VCASNOSTREDOVEKEHO_HRADISKA_VO_SVATOM_JURE._KNOPFE_AUS_DEM_FRUHMITTELALTERLICHEN_BURGWALL_IN_SVATU_JUR",
@@ -1198,11 +1638,17 @@
                     "text": "Gombíky z hradiska"
                   }
                 ]
-              },
-              {
-                "type": "text",
-                "text": "\n "
-              },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "link",
                 "url": "http://ukf.academia.edu/J%C3%BAliusVav%C3%A1k/Papers/592907/NOVE_POZNATKY_K_NAJSTARSIM_DEJINAM_SVATEHO_JURA._NEW_INFORMATION_ON_THE_OLDEST_HISTORY_OF_SVATU_JUR",
@@ -1214,10 +1660,6 @@
                 ]
               },
               {
-                "type": "text",
-                "text": "  "
-              },
-              {
                 "type": "link",
                 "url": "http://www.historyweb.sk/clanky/detail/hradisko-vo-svatom-jure-svedok-davnej-minulosti#.UOi27Inm5vX",
                 "children": [
@@ -1226,72 +1668,236 @@
                     "text": "http://www.historyweb.sk/clanky/detail/hradisko-vo-svatom-jure-svedok-davnej-minulosti#.UOi27Inm5vX"
                   }
                 ]
-              },
-              {
-                "type": "text",
-                "text": "\n Neštich 5. 1. 2012:\n \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n  \n"
               }
             ]
           }
         ]
       },
       {
-        "__component": "content.image-gallery",
-        "imageRefs": [
+        "__component": "content.rich-text",
+        "body": [
           {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5Ou2mkSXOBETGAO_x9oZaKTZt8qcK6Xxu4jUG5EXAdA3eVZtOvIiJFOEks7wxQw8VL95wV6Fc6IjHwqFKJZr0NU2WHFVb0JfyRz0SktnyZYR1Laa_cgdi7LMgJ-JpWbOZuq1JpHiAa7f/s0/aDJI_0118a.JPG",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5Ou2mkSXOBETGAO_x9oZaKTZt8qcK6Xxu4jUG5EXAdA3eVZtOvIiJFOEks7wxQw8VL95wV6Fc6IjHwqFKJZr0NU2WHFVb0JfyRz0SktnyZYR1Laa_cgdi7LMgJ-JpWbOZuq1JpHiAa7f/s1600/aDJI_0118a.JPG",
-            "filename": "aDJI_0118a.JPG",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5Ou2mkSXOBETGAO_x9oZaKTZt8qcK6Xxu4jUG5EXAdA3eVZtOvIiJFOEks7wxQw8VL95wV6Fc6IjHwqFKJZr0NU2WHFVb0JfyRz0SktnyZYR1Laa_cgdi7LMgJ-JpWbOZuq1JpHiAa7f/s1600/aDJI_0118a.JPG",
-              "displayedWidth": 320,
-              "displayedHeight": 240
-            }
-          },
-          {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIcJhT_p6yfJTY76S-7a9o5_nXDKFNgqGPsMVapv6jf-bAGQEQDJh93DipoPKhx4CtcKLYLwAXswYuA_Ub0IFi-ISmtlMVpmWDZvkBuH03BTQ6ewUNsYWXZR1ajx_TiEoLN7qK2L8FTaC/s0/aDJI_0081a.JPG",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIcJhT_p6yfJTY76S-7a9o5_nXDKFNgqGPsMVapv6jf-bAGQEQDJh93DipoPKhx4CtcKLYLwAXswYuA_Ub0IFi-ISmtlMVpmWDZvkBuH03BTQ6ewUNsYWXZR1ajx_TiEoLN7qK2L8FTaC/s1600/aDJI_0081a.JPG",
-            "filename": "aDJI_0081a.JPG",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIcJhT_p6yfJTY76S-7a9o5_nXDKFNgqGPsMVapv6jf-bAGQEQDJh93DipoPKhx4CtcKLYLwAXswYuA_Ub0IFi-ISmtlMVpmWDZvkBuH03BTQ6ewUNsYWXZR1ajx_TiEoLN7qK2L8FTaC/s1600/aDJI_0081a.JPG",
-              "displayedWidth": 320,
-              "displayedHeight": 240
-            }
-          },
-          {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaMY4_GH6lh2MpyNFMMVhpC29hGFX95UNPhdz6QIM5hN1lgZ6hYlHAsDx2ozPaxYbsAr8wBxnuXYmwumN6lzisielHRKj5GCABufddmFzRywbdEavl3Dtk7PDjHahtC3rehG3Ua6FrZOq6/s0/aDJI_0104a.JPG",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaMY4_GH6lh2MpyNFMMVhpC29hGFX95UNPhdz6QIM5hN1lgZ6hYlHAsDx2ozPaxYbsAr8wBxnuXYmwumN6lzisielHRKj5GCABufddmFzRywbdEavl3Dtk7PDjHahtC3rehG3Ua6FrZOq6/s1600/aDJI_0104a.JPG",
-            "filename": "aDJI_0104a.JPG",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaMY4_GH6lh2MpyNFMMVhpC29hGFX95UNPhdz6QIM5hN1lgZ6hYlHAsDx2ozPaxYbsAr8wBxnuXYmwumN6lzisielHRKj5GCABufddmFzRywbdEavl3Dtk7PDjHahtC3rehG3Ua6FrZOq6/s1600/aDJI_0104a.JPG",
-              "displayedWidth": 320,
-              "displayedHeight": 240
-            }
-          },
-          {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1bdWkUDan6EoxgKVNNUdzmpy_vdiyXkPhKaACLOKw1c1bnlGvUbuBr-ExeRWVEvxtgHNhY6SE6vrT-dXwadnESNmWVnpFtk2wi6KXPMlLZhkwiTHmrReY4k-6bbX-LyYk6qHAHOm463by/s0/aDJI_0110a.JPG",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1bdWkUDan6EoxgKVNNUdzmpy_vdiyXkPhKaACLOKw1c1bnlGvUbuBr-ExeRWVEvxtgHNhY6SE6vrT-dXwadnESNmWVnpFtk2wi6KXPMlLZhkwiTHmrReY4k-6bbX-LyYk6qHAHOm463by/s1600/aDJI_0110a.JPG",
-            "filename": "aDJI_0110a.JPG",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1bdWkUDan6EoxgKVNNUdzmpy_vdiyXkPhKaACLOKw1c1bnlGvUbuBr-ExeRWVEvxtgHNhY6SE6vrT-dXwadnESNmWVnpFtk2wi6KXPMlLZhkwiTHmrReY4k-6bbX-LyYk6qHAHOm463by/s1600/aDJI_0110a.JPG",
-              "displayedWidth": 320,
-              "displayedHeight": 240
-            }
-          },
-          {
-            "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzslQeoyxmn36MQDn72L-H7Z9PD_XVucnv5yevejBqTuJPoapanc3YSz5eNJY0RbqlQ4b9_nFlnCFF1IrWoM9TxVDPMkf_cY6C_63BS07sMrJRMq281uKc3fIYaTCl41bmfGy2GZIIIlwg/s0/aDJI_0114a.JPG",
-            "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzslQeoyxmn36MQDn72L-H7Z9PD_XVucnv5yevejBqTuJPoapanc3YSz5eNJY0RbqlQ4b9_nFlnCFF1IrWoM9TxVDPMkf_cY6C_63BS07sMrJRMq281uKc3fIYaTCl41bmfGy2GZIIIlwg/s1600/aDJI_0114a.JPG",
-            "filename": "aDJI_0114a.JPG",
-            "blogger": {
-              "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzslQeoyxmn36MQDn72L-H7Z9PD_XVucnv5yevejBqTuJPoapanc3YSz5eNJY0RbqlQ4b9_nFlnCFF1IrWoM9TxVDPMkf_cY6C_63BS07sMrJRMq281uKc3fIYaTCl41bmfGy2GZIIIlwg/s1600/aDJI_0114a.JPG",
-              "displayedWidth": 320,
-              "displayedHeight": 240
-            }
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Neštich 5. 1. 2012:"
+              }
+            ],
+            "level": 2
           }
-        ],
-        "columns": "3"
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Spracoval: Orgoň",
+            "url": null
+          },
+          {
+            "text": "PhDr. Július Vavák: Nové poznatky k najstarším dejinám Svätého Jura, „Zo starších dejín Svätého Jura“ 2010, Kolektívna monografia",
+            "url": null
+          },
+          {
+            "text": "http://www.nestich.sk/?svatyjur=pamiatky-velkomoravske-hradisko-kostol-svateho-juraja-hrad-bielykamen",
+            "url": "http://www.nestich.sk/?svatyjur=pamiatky-velkomoravske-hradisko-kostol-svateho-juraja-hrad-bielykamen"
+          },
+          {
+            "text": "Gombíky z hradiska",
+            "url": "http://ukf.academia.edu/J%C3%BAliusVav%C3%A1k/Papers/693684/GOMBIKY_ZO_VCASNOSTREDOVEKEHO_HRADISKA_VO_SVATOM_JURE._KNOPFE_AUS_DEM_FRUHMITTELALTERLICHEN_BURGWALL_IN_SVATU_JUR"
+          },
+          {
+            "text": "Hradisko - odborný článok od Dr. Vaváka",
+            "url": "http://ukf.academia.edu/J%C3%BAliusVav%C3%A1k/Papers/592907/NOVE_POZNATKY_K_NAJSTARSIM_DEJINAM_SVATEHO_JURA._NEW_INFORMATION_ON_THE_OLDEST_HISTORY_OF_SVATU_JUR"
+          },
+          {
+            "text": "http://www.historyweb.sk/clanky/detail/hradisko-vo-svatom-jure-svedok-davnej-minulosti#.UOi27Inm5vX",
+            "url": "http://www.historyweb.sk/clanky/detail/hradisko-vo-svatom-jure-svedok-davnej-minulosti#.UOi27Inm5vX"
+          },
+          {
+            "text": "Neštich 5. 1. 2012:",
+            "url": null
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s1600/IMG_6809.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s1600/IMG_6809.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s1600/IMG_6814.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s1600/IMG_6814.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s1600/IMG_6823.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s1600/IMG_6823.JPG"
+          },
+          {
+            "text": "Neštich je jedno z mála hradísk, kde stále prebieha výskum (Dr. Vavák)",
+            "url": null
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s1600/IMG_6821.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s1600/IMG_6821.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s1600/IMG_6829.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s1600/IMG_6829.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv1pYY0Y85L6Q6AfvTU838XSvvlF7ke9KETAaAIihHxiUl-2qzStovZeILaoUEWAdIP6q_lwhy75tLZ3uGxKUep9pAsb-UvEEK1s6sryEuj1VNqxQg-Gdz8bnJjDcTxsRO12of676phpY/s1600/IMG_6831.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv1pYY0Y85L6Q6AfvTU838XSvvlF7ke9KETAaAIihHxiUl-2qzStovZeILaoUEWAdIP6q_lwhy75tLZ3uGxKUep9pAsb-UvEEK1s6sryEuj1VNqxQg-Gdz8bnJjDcTxsRO12of676phpY/s1600/IMG_6831.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSJESEBH7C-05qr0S7-kKnhBU6ktHl46zpNODjQdSfvA7n1mO-cTGxIsE1hsHL8RurxXTTgBAdFvHIaFRQXEYi51NdBMf0YcDxntciAo4zEW5mPwdt5Br5Ob8KB9-Z967_aVmFgfOA-c/s1600/IMG_6832.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSJESEBH7C-05qr0S7-kKnhBU6ktHl46zpNODjQdSfvA7n1mO-cTGxIsE1hsHL8RurxXTTgBAdFvHIaFRQXEYi51NdBMf0YcDxntciAo4zEW5mPwdt5Br5Ob8KB9-Z967_aVmFgfOA-c/s1600/IMG_6832.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s1600/IMG_6836.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s1600/IMG_6836.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s1600/IMG_6839.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s1600/IMG_6839.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s1600/IMG_6845.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s1600/IMG_6845.JPG"
+          },
+          {
+            "text": "Prechod medzi akropolou a predhradím",
+            "url": null
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s1600/IMG_6855.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s1600/IMG_6855.JPG"
+          },
+          {
+            "text": "Rez valom, žiaľ moje \"skúsené\" oko tu nebolo schopné rozoznať stopy po vnútornej drevenej konštrukcii",
+            "url": null
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s1600/IMG_6856.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s1600/IMG_6856.JPG"
+          },
+          {
+            "text": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s1600/IMG_6857.JPG",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s1600/IMG_6857.JPG"
+          }
+        ]
       }
     ],
-    "citations": []
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "PhDr. Július Vavák: Nové poznatky k najstarším dejinám Svätého Jura, „Zo starších dejín Svätého Jura“ 2010, Kolektívna monografia"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.nestich.sk/?svatyjur=pamiatky-velkomoravske-hradisko-kostol-svateho-juraja-hrad-bielykamen",
+        "title": "http://www.nestich.sk/?svatyjur=pamiatky-velkomoravske-hradisko-kostol-svateho-juraja-hrad-bielykamen"
+      },
+      {
+        "type": "external-url",
+        "url": "http://ukf.academia.edu/J%C3%BAliusVav%C3%A1k/Papers/693684/GOMBIKY_ZO_VCASNOSTREDOVEKEHO_HRADISKA_VO_SVATOM_JURE._KNOPFE_AUS_DEM_FRUHMITTELALTERLICHEN_BURGWALL_IN_SVATU_JUR",
+        "title": "Gombíky z hradiska"
+      },
+      {
+        "type": "external-url",
+        "url": "http://ukf.academia.edu/J%C3%BAliusVav%C3%A1k/Papers/592907/NOVE_POZNATKY_K_NAJSTARSIM_DEJINAM_SVATEHO_JURA._NEW_INFORMATION_ON_THE_OLDEST_HISTORY_OF_SVATU_JUR",
+        "title": "Hradisko - odborný článok od Dr. Vaváka"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.historyweb.sk/clanky/detail/hradisko-vo-svatom-jure-svedok-davnej-minulosti#.UOi27Inm5vX",
+        "title": "http://www.historyweb.sk/clanky/detail/hradisko-vo-svatom-jure-svedok-davnej-minulosti#.UOi27Inm5vX"
+      },
+      {
+        "type": "book",
+        "text": "Neštich 5. 1. 2012:"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s1600/IMG_6809.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s1600/IMG_6809.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s1600/IMG_6814.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s1600/IMG_6814.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s1600/IMG_6823.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s1600/IMG_6823.JPG"
+      },
+      {
+        "type": "book",
+        "text": "Neštich je jedno z mála hradísk, kde stále prebieha výskum (Dr. Vavák)"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s1600/IMG_6821.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s1600/IMG_6821.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s1600/IMG_6829.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s1600/IMG_6829.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv1pYY0Y85L6Q6AfvTU838XSvvlF7ke9KETAaAIihHxiUl-2qzStovZeILaoUEWAdIP6q_lwhy75tLZ3uGxKUep9pAsb-UvEEK1s6sryEuj1VNqxQg-Gdz8bnJjDcTxsRO12of676phpY/s1600/IMG_6831.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv1pYY0Y85L6Q6AfvTU838XSvvlF7ke9KETAaAIihHxiUl-2qzStovZeILaoUEWAdIP6q_lwhy75tLZ3uGxKUep9pAsb-UvEEK1s6sryEuj1VNqxQg-Gdz8bnJjDcTxsRO12of676phpY/s1600/IMG_6831.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSJESEBH7C-05qr0S7-kKnhBU6ktHl46zpNODjQdSfvA7n1mO-cTGxIsE1hsHL8RurxXTTgBAdFvHIaFRQXEYi51NdBMf0YcDxntciAo4zEW5mPwdt5Br5Ob8KB9-Z967_aVmFgfOA-c/s1600/IMG_6832.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSJESEBH7C-05qr0S7-kKnhBU6ktHl46zpNODjQdSfvA7n1mO-cTGxIsE1hsHL8RurxXTTgBAdFvHIaFRQXEYi51NdBMf0YcDxntciAo4zEW5mPwdt5Br5Ob8KB9-Z967_aVmFgfOA-c/s1600/IMG_6832.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s1600/IMG_6836.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s1600/IMG_6836.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s1600/IMG_6839.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s1600/IMG_6839.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s1600/IMG_6845.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s1600/IMG_6845.JPG"
+      },
+      {
+        "type": "book",
+        "text": "Prechod medzi akropolou a predhradím"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s1600/IMG_6855.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s1600/IMG_6855.JPG"
+      },
+      {
+        "type": "book",
+        "text": "Rez valom, žiaľ moje \"skúsené\" oko tu nebolo schopné rozoznať stopy po vnútornej drevenej konštrukcii"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s1600/IMG_6856.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s1600/IMG_6856.JPG"
+      },
+      {
+        "type": "external-url",
+        "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s1600/IMG_6857.JPG",
+        "title": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s1600/IMG_6857.JPG"
+      }
+    ]
   }
 }
