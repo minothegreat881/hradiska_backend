@@ -851,6 +851,16 @@ Rovnaká rodina ako §9.6, iný spúšťač. `looksLikeSources` (trim v tele) po
 
 **Poučenie pre budúce články:** ak sa objaví duplicita zdrojov aj po tomto fixe, over najprv `findInternalSourcesSplit` (§ vyššie v extract.mjs) vs. `looksLikeSources` (trim) — sú to DVE oddelené funkcie s vlastnými zoznamami markerov, ktoré sa musia ručne udržiavať synchrónne. Bezpečnejší dlhodobý fix (zatiaľ neurobený) by bol zdieľať jeden marker-set.
 
+#### 9.8b Sources-trim, 4.–5. bug: obrázok v strede zdrojov + neúplný "foto:" marker (Nitra, vyriešené v6.1)
+
+Nitra má sources sekciu s **vloženým obrázkom uprostred** citačných riadkov (autor dal fotku medzi dva odkazy). Pôvodná trim-slučka bola jednoduchý `while(pop)` od konca poľa, ktorý sa **zastavil na prvom nie-rich-text bloku** (`if (last.__component !== 'content.rich-text') break;`) — takže keď narazila na ten vložený obrázok, prestala trimovať, a všetky zdrojové rich-text bloky PRED obrázkom ostali v tele.
+
+**Fix:** nahradený dvojfázovým backward-scanom (`isSourceLikeRichText` + cyklus zisťujúci hranicu `cutFrom`) — obrázky/embed VNÚTRI potvrdeného zdrojového chvosta sa tiež trimujú (nie zastavia scan), ale osamotený trailing obrázok BEZ zdrojového textu za ním (legitímna posledná fotka článku) sa nechá na pokoji.
+
+Súčasne sa ukázalo, že marker pre fotokredit vyžadoval doslovné `foto:` (bez textu medzi slovom a dvojbodkou) — Nitrina "Foto hradiska Zobor a Šindolka: Anna Halčinová AVANS 2008" (opis MEDZI "Foto" a ":") tento marker nezhodla. Rozšírené na `/^\s*foto\b[^:]{0,60}:/i`.
+
+Nitra: 80 → 73 blokov po fixe (7 duplicitných zdrojových blokov odstránených), 0 zvyšných výskytov "Spracoval"/"Foto hradiska Zobor" v tele. Regresne overené na 5 ostatných článkoch (0 zmien).
+
 ### 9.9 `normalizeLeading` orezávala aj koncový whitespace (Mikulčice, vyriešené v6.1)
 
 Funkcia `normalizeLeading(s)` (aplikovaná na prvé dieťa odseku) napriek názvu orezávala `^[\s ]+` AJ `[\s ]+$` — teda aj koncovú medzeru. Keď bolo prvé dieťa odseku obyčajný text končiaci tesne pred odkazom/boldom/italic (bežné pri Blogger vetách plynulo prechádzajúcich do `<a>`, napr. "...Kopčany s kostolom " + `<a>Kostol sv. Margity...</a>`), medzera pred nasledujúcim uzlom zmizla a text sa zlepil: `"kostolomKostol"`, `"tu:Bohatstvo"`.
@@ -868,6 +878,14 @@ Pri kompletnom znovu-nasadení článku (zmazať + nahrať nanovo) `upload.mjs` 
 **Vedľajší fix v `report.mjs`:** wall-detekcia (`§19`, "max 1 obrázok za sebou") nepoznala `pairWithNext` a falošne hlásila stenu aj pri korektne spárovaných obrázkoch. Opravené — obrázok bezprostredne za `pairWithNext:true` súrodencom nepredlžuje "run" (je súčasť toho istého vizuálneho riadku). Regresne overené na 5 ostatných článkoch (0 zmien vo verdiktoch).
 
 **Poučenie pre budúci redeploy:** PRED vymazaním + nahraním nanovo skontroluj `out/<slug>.overrides.json` — ak existuje, over jeho obsah (môže byť stará kurátorská práca, ktorú chceš zachovať, ale môže kolidovať s novým dokumentovým poradím obrázkov po fixoch v extract.mjs).
+
+**Overenie stien s `blocksInsertAt` overrides — dry-run NEPOMÔŽE.** `upload.mjs --dry-run=true` **neaplikuje** `overrides.json` vôbec (len `doRealUpload` to robí) — takže dry-run payload NEUKÁŽE steny spôsobené vloženými obrázkami. Pred reálnym uploadom s viacerými `blocksInsertAt` polož vlastný simulačný skript (Node, mimo upload.mjs), ktorý napodobní presne tú istú `afterHeading`+`offset` insert logiku nad `intermediate.json.blogPost.blocks`, a skontroluje výsledné pole na 2+ po sebe idúce `content.image-block` (bez `pairWithNext` výnimky). Použité pri Nitre (8 vložení, 3 kolízie nájdené a opravené pred uploadom).
+
+### 9.11 `content.image-block.alt` má schema limit 255, `caption` má 500 (Nitra, vyriešené)
+
+`alt` sa v `extract.mjs` odvodzuje priamo z `caption` (`alt: caption || ctx.articleTitle || 'Obrázok'`), ale Strapi schema má `alt` limitované na 255 znakov, zatiaľ čo `caption` dovoľuje až 500. Autorská poznámka pod fotkou dlhšia než 255 zn. (Nitra: 264-znakový rozvláčny komentár k fotke z Lupky) prešla cez `caption` bez problému, ale ako `alt` zhodila celý `POST /api/blog-posts` s `ValidationError: blocks[N].alt must be at most 255 characters` — v strede 55-obrázkového uploadu, po úspešnom stiahnutí/reuse všetkých médií.
+
+**Fix:** `alt: (caption || ctx.articleTitle || 'Obrázok').slice(0, 255)` — orezanie bez elipsy (alt je pre screen readery, nie viditeľný čitateľovi, orezanie uprostred vety je akceptovateľné). Aplikuje sa automaticky pre všetky budúce články.
 
 ---
 
@@ -1080,10 +1098,10 @@ curl -s -o $null -w "%{http_code}`n" http://localhost:1337/_health
 > Strapi schéma: `blog-post` (s `coverImage`, `gallery`, `blocks` dynamiczone, `comments` 1:N), `blog-comment` (verejné POST + like/unlike).
 > Komentáre: `sourceBloggerId` numeric pre idempotency, threading cez `link[rel=related]` z Blogger feedu (`inReplyTo` = parent Strapi documentId).
 > Token pre upload je natrvalo v `hradiska-strapi/.env` (`STRAPI_TOKEN=`, Full Access) a `upload.mjs` ho načíta sám cez dotenv — netreba ho zadávať (viď 6.2). Manuálne overrides cez `out/<slug>.overrides.json` (blocksPrepend/Append/InsertAt + plain fields).
-> **6 článkov live v Strapi.** Plný v6 pipeline (sidebar + gramatika aplikovaná): **Arkona** (documentId `lfaky9t9qtgoi8qygfyflmd8`, 5× `content.poem`), **Staré Mesto-Velehrad**, **Wogastisburg**, **Blatnohrad** (`wwwdw03vkhivy0embsfq74no`, redeploy), **Mikulčice-Kopčany** (`emqid1imvyqts9xnv9mcwzs2`, redeploy) — `report.mjs` verdikt ✅ MIGRÁCIA ÚPLNÁ na všetkých 5. **Nitra** ako jediná ešte predchádza v6 (`timeline: []`/`keyFacts: []`) — nasleduje v poradí.
+> **Všetkých 6 pôvodných článkov je na v6 pipeline** (sidebar + gramatika aplikovaná, `report.mjs` verdikt ✅ MIGRÁCIA ÚPLNÁ): **Arkona** (`lfaky9t9qtgoi8qygfyflmd8`, 5× `content.poem`), **Staré Mesto-Velehrad**, **Wogastisburg**, **Blatnohrad** (`wwwdw03vkhivy0embsfq74no`), **Mikulčice-Kopčany** (`emqid1imvyqts9xnv9mcwzs2`), **Nitra** (`yyj3l81exo9usa5jkitd9yyy`, najkomplexnejší doteraz — 6 podlokalít, 81 blokov, 20 timeline, 9 keyFacts). Migrácia týchto 6 je HOTOVÁ.
 > **Básne (`content.poem`, v6.1):** centrovaný kurzívový beh ≥2 veršov sa deteguje automaticky (`markPoemRuns` pre-pass v `extract.mjs`, žiadny manuálny krok), excerpt ich preskakuje, `report.mjs` ich počíta do pokrytia. Frontend `PoemRenderer` má vlastný vizuál (ornamentálny rám — parchment panel, ornament nad textom, zlatá atribúcia). Viď §20.
-> **Sources-split bugy (v6.1, §9.6+§9.8, 3 samostatné príčiny)**, **entity dekódovanie v komentároch (§9.7)** a **`normalizeLeading` glejenie textu (§9.9)** opravené — všetky automaticky pre budúce články. **§9.10:** pri redeployi VŽDY skontroluj, či existuje staré `out/<slug>.overrides.json` — aplikuje sa automaticky a môže kolidovať s novým poradím obrázkov (pairWithNext rieši).
-> Cieľ: dobehnúť Nitru cez v6 (posledná zo 6 pôvodných), potom postupne zvyšných 11 článkov z labelu Najvýznamnejšie hradiská. Pred dávkou opraviť parser pre Google Maps `pb=`, embed videí, Bojná false positive citations, Divinka stub (§11.1 — stále otvorené).
+> **Sources-split bugy (v6.1, §9.6+§9.8, 5 samostatných príčin naprieč Arkonou/Blatnohradom/Nitrou)**, **entity dekódovanie v komentároch (§9.7)**, **`normalizeLeading` glejenie textu (§9.9)** a **`alt` 255-znakový limit (§9.11)** opravené — všetky automaticky pre budúce články. **§9.10:** pri redeployi VŽDY skontroluj, či existuje staré `out/<slug>.overrides.json` — aplikuje sa automaticky (LEN v `doRealUpload`, dry-run ho ignoruje!) a môže kolidovať s novým poradím obrázkov (pairWithNext rieši, over vlastnou simuláciou pred uploadom pri viacerých `blocksInsertAt`).
+> Cieľ: postupne zvyšných 11 článkov z labelu Najvýznamnejšie hradiská (Bojná, Devín, Divinka, Ducové, Havránok, Sv. Jur–Neštich, Majcichov, Molpír, Pobedim, Spišské Tomášovce — extrahované do `out/*.intermediate.json`, ešte nenahrané). Pred dávkou opraviť parser pre Google Maps `pb=`, embed videí, Bojná false positive citations, Divinka stub (§11.1 — stále otvorené).
 
 ---
 
