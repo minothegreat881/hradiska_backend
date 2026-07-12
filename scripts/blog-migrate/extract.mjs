@@ -67,7 +67,10 @@ function slugify(s) {
 
 /** Strip `&nbsp;` na začiatku odsadeného odseku (4–6× medzera ako "tab"). */
 function normalizeLeading(s) {
-  return s.replace(/^[\s ]+/, '').replace(/[\s ]+$/, '');
+  // BUG: orezavala aj koncovy whitespace zo para[0].text (nie len uvodny ako meno sluby) -
+  // ak prve dieta odseku bolo text hned nasledovany odkazom/boldom/italic, medzera pred
+  // dalsim uzlom sa stratila a text sa zlepil ("s kostolomKostol..."). Orezava LEN uvodny.
+  return s.replace(/^[\s ]+/, '');
 }
 
 /** Canonicalize URL pre dedup citácií. Normalizuje:
