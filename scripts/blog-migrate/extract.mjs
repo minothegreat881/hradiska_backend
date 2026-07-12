@@ -345,8 +345,12 @@ function extractLatLng(iframeSrc) {
   // Blogger ukladá &amp; — cheerio nám vráti dekódovanú formu, ale pre istotu:
   const decoded = iframeSrc.replace(/&amp;/g, '&');
   const m = decoded.match(/[?&]ll=(-?\d+\.\d+),(-?\d+\.\d+)/);
-  if (!m) return null;
-  return { latitude: parseFloat(m[1]), longitude: parseFloat(m[2]) };
+  if (m) return { latitude: parseFloat(m[1]), longitude: parseFloat(m[2]) };
+  // Novší embed formát (google.com/maps/embed?pb=...!2d<lng>!3d<lat>...) —
+  // !2d je longitude, !3d je latitude (poradie opačné než u starého ?ll=).
+  const pbM = decoded.match(/!2d(-?\d+\.\d+).*?!3d(-?\d+\.\d+)/);
+  if (pbM) return { latitude: parseFloat(pbM[2]), longitude: parseFloat(pbM[1]) };
+  return null;
 }
 
 /** Najjednoduchšia heuristika: rozozná holú URL ako jediný (alebo dominantný)
@@ -1453,7 +1457,7 @@ function buildSourcesBlock(citations) {
 // -----------------------------------------------------------------------------
 
 function detectLocation($, fullText, articleTitle = '', sourceLabel = null) {
-  const $iframe = $('iframe[src*="maps.google.com"]').first();
+  const $iframe = $('iframe[src*="maps.google.com"], iframe[src*="google.com/maps/embed"]').first();
   const src = $iframe.attr('src') || '';
   const ll = extractLatLng(src);
   if (!ll) return null;
@@ -1611,7 +1615,7 @@ function runChecks($, html) {
   const nonMapIframes = [];
   for (const i of allIframes) {
     const src = $(i).attr('src') || '';
-    if (/maps\.google\.com/.test(src)) mapIframes.push(src);
+    if (/maps\.google\.com/.test(src) || /google\.com\/maps\/embed/.test(src)) mapIframes.push(src);
     else nonMapIframes.push(src);
   }
 
