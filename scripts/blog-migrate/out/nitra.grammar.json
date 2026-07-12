@@ -1,0 +1,84 @@
+{
+  "corrections": [
+    {
+      "before": "a a jej okolí",
+      "after": "a jej okolí",
+      "reason": "zdvojené slovo (preklep)"
+    },
+    {
+      "before": "vládolv Nitre",
+      "after": "vládol v Nitre",
+      "reason": "chýbajúca medzera (zlepené slová)"
+    },
+    {
+      "before": "Svä-toplukom",
+      "after": "Svätoplukom",
+      "reason": "artefakt zalomenia riadku (rozdelené meno)"
+    },
+    {
+      "before": "tie_ prenasledovaným",
+      "after": "tiež prenasledovaným",
+      "reason": "chybný znak namiesto slova (encoding artefakt)"
+    },
+    {
+      "before": "kontrolovať4_ veľké",
+      "after": "kontrolovať veľké",
+      "reason": "artefakt poznámky pod čiarou"
+    },
+    {
+      "before": "Lysého(840-877)",
+      "after": "Lysého (840-877)",
+      "reason": "chýbajúca medzera pred zátvorkou"
+    },
+    {
+      "before": "výskumom v rokoch 1986 1987",
+      "after": "výskumom v rokoch 1986-1987",
+      "reason": "chýbajúca pomlčka medzi rokmi"
+    },
+    {
+      "before": "zariadenia zariadenia stavieb",
+      "after": "zariadenia stavieb",
+      "reason": "zdvojené slovo (preklep)"
+    },
+    {
+      "before": "836 , pretože",
+      "after": "836, pretože",
+      "reason": "medzera pred čiarkou (nesprávne)"
+    },
+    {
+      "before": "dokumentoch., avšak",
+      "after": "dokumentoch, avšak",
+      "reason": "zdvojená interpunkcia (bodka + čiarka)"
+    },
+    {
+      "before": "(10. a_ 8. storočie",
+      "after": "(10. až 8. storočie",
+      "reason": "artefakt encoding + chýbajúce slovo"
+    },
+    {
+      "before": "hranicou rozšírenia avar- ských pohrebísk",
+      "after": "hranicou rozšírenia avarských pohrebísk",
+      "reason": "artefakt zalomenia riadku"
+    },
+    {
+      "before": "O obrateni bavorov a korutancov na vieru",
+      "after": "O obrátení Bavorov a Korutáncov na vieru",
+      "reason": "chýbajúce dĺžne/veľké písmená v odkaze (nekonzistentné s neskorším správnym výskytom)"
+    },
+    {
+      "before": "Šibeničný vrch.Jadrom",
+      "after": "Šibeničný vrch. Jadrom",
+      "reason": "chýbajúca medzera za bodkou (hranica formátovacích uzlov)"
+    },
+    {
+      "before": "metropolami\".Nitra",
+      "after": "metropolami\". Nitra",
+      "reason": "chýbajúca medzera za bodkou (hranica formátovacích uzlov)"
+    },
+    {
+      "before": "na ktorom v 11.-12.stor. vyrástol kostol sv.Martina",
+      "after": "na ktorom v 11.-12. stor. vyrástol kostol sv. Martina",
+      "reason": "chýbajúce medzery za bodkami v skratkách"
+    }
+  ]
+}

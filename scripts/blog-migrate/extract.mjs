@@ -870,7 +870,9 @@ function imageBlockFromTrCaption($, table, ctx) {
     imageRef: ref,
     // alt: caption má prioritu (popis = najlepší alt); inak fallback článok title
     // (Strapi schema vyžaduje alt required — prázdny string blokuje publish).
-    alt: caption || ctx.articleTitle || 'Obrázok',
+    // `caption` má schema limit 500 zn., ale `alt` len 255 — dlhší caption (autorská
+    // poznámka, nie krátky popis) by inak zhodil celý POST/PUT s ValidationError.
+    alt: (caption || ctx.articleTitle || 'Obrázok').slice(0, 255),
     caption,
     position: layout.position,
     showCaption: Boolean(caption),

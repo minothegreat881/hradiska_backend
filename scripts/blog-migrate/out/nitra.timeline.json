@@ -1,0 +1,35 @@
+{
+  "timeline": [
+    { "year": "10.–8. storočie pred n. l.", "title": "Vznik hradiska Zobor", "description": "Vrcholové hradisko z doby bronzovej založil ľud lužickej kultúry v mladšej fáze neskorej doby bronzovej.", "type": "founding" },
+    { "year": "8.–9. storočie", "title": "Založené hradisko Lupka", "description": "Staré slovanské hradisko obohnané mohutným kamenným valom, strážiace prístup do Nitry od severu.", "type": "founding" },
+    { "year": "druhá tretina 9. storočia", "title": "Rozsiahle prestavby na Nitrianskom hrade", "description": "Osídlený areál na hradnom kopci bol opevnený mohutným kamenno-hlinitým valom so škrupinovou konštrukciou.", "type": "construction" },
+    { "year": "50. roky 9. storočia", "title": "Svätopluk sídli v Nitre", "description": "Svätopluk tu sídlil ako údelné knieža ešte pred svojím nástupom na veľkomoravský stolec.", "type": "event" },
+    { "year": "855?–870", "title": "Svätoplukovo údelné kniežatstvo v Nitre", "description": "Podľa Fuldských análov Svätopluk viedol údelné kniežatstvo pravdepodobne so sídlom v Nitre.", "type": "event" },
+    { "year": "862/863", "title": "Svätopluk spoluvládcom Rastislava", "description": "Svätopluk sa stal na istý čas spoluvládcom svojho strýka Rastislava.", "type": "event" },
+    { "year": "871–873", "title": "Vznik spisu O obrátení Bavorov a Korutáncov na vieru", "description": "Prvá písomná zmienka o Nitre a jej vládcovi Pribinovi, vznikla na dvore salzburského arcibiskupa Adalvina.", "type": "event" },
+    { "year": "871–894", "title": "Svätoplukova vláda nad zjednotenou Nitrou a Moravou", "description": "Po porážke franských markgrófov sa opäť zjednotila nitrianska a moravská časť štátu pod Svätoplukovou vládou.", "type": "event" },
+    { "year": "827–828 (najpravdepodobnejšie)", "title": "Kostol na Martinskom vrchu vysvätený", "description": "Ak ide o Pribinov kostol, vysvätil ho arcibiskup Adalram, ktorý bol salzburským arcibiskupom v rokoch 821–836.", "type": "construction" },
+    { "year": "prelom 11.–12. storočia", "title": "Postavený kostolík na Nitrianskom hrade", "description": "Prekrýva časť staršieho etážového pohrebiska; jeho existencia podporuje predpoklad staršieho veľkomoravského hradiska.", "type": "construction" },
+    { "year": "1. polovica 11. storočia", "title": "Požiar veľkomoravského hradu", "description": "Rozsiahly požiar prerušil rozkvet hradu na hradnom kopci; presná príčina nie je známa.", "type": "destruction" },
+    { "year": "1046–1060", "title": "Vybudovaný nový komorový val", "description": "Nové opevnenie s podobnou konštrukciou ako veľkomoravský val nahradilo pôvodné opevnenie hradu.", "type": "construction" },
+    { "year": "1111", "title": "Listina Zoborského opátstva", "description": "Najstaršia zachovaná listina z územia Slovenska — zoborský opát v nej žaluje kráľovských vyberačov dane.", "type": "discovery" },
+    { "year": "13. storočie", "title": "Zánik reprezentačného komplexu na hrade", "description": "Murovaná stavba (možné sídlo Svätopluka) zanikla pred výstavbou severného krídla paláca.", "type": "destruction" },
+    { "year": "1928", "title": "Štefan Janšák objavuje hradisko Lupka", "description": "Janšák hradisko opísal a zaradil ho do geografickej kategórie II.", "type": "discovery" },
+    { "year": "1968–1995", "title": "Výskum osady na Šindolke", "description": "Objavených 32 sídliskových zahĺbených objektov a 20 jám z doby laténskej.", "type": "discovery" },
+    { "year": "1986–1987", "title": "Sondážny výskum hradiska Zobor", "description": "Na ploche 14 árov zistené pravdepodobné hlinené podlahy dvoch obydlí a jedno ohnisko.", "type": "discovery" },
+    { "year": "1993", "title": "Archeologický výskum na Martinskom vrchu", "description": "Časti náleziska boli po výskume na povrchu zakonzervované.", "type": "discovery" },
+    { "year": "2008", "title": "Nález striebornej lúčovitej spony na Zobore", "description": "Spona datovaná až do 7. storočia — prvý nález svojho druhu z Nitry, zverejnený v AVANS 2008.", "type": "discovery" },
+    { "year": "2. svetová vojna", "title": "Zobor útočiskom prenasledovaných", "description": "Zoborskí vinohradníci vybudovali prenasledovaným v období holokaustu skromný prístrešok a zásobovali ich potravinami.", "type": "event" }
+  ],
+  "keyFacts": [
+    { "label": "Počet lokalít", "value": "6 najdôležitejších archeologických lokalít v Nitre a okolí (hrad, Martinský vrch, Lupka, Zobor, Mačací hrádok, Šindolka)", "icon": "map" },
+    { "label": "Rozloha Martinského vrchu", "value": "20 ha, opevnené kamenným valom, priekopou a dvojitými palisádami (koly priemer až 60 cm)", "icon": "mountain" },
+    { "label": "Rozloha hradiska Zobor", "value": "Okolo 15 ha, tri brány, výška opevnenia na severozápade až 7 m", "icon": "mountain" },
+    { "label": "Rozloha hradiska Lupka", "value": "3,6 ha; val vysoký 7,5 m a široký 3,5 m, priekopa hlboká 3 m", "icon": "mountain" },
+    { "label": "Val Nitrianskeho hradu", "value": "Celková šírka 5 m — kamenné múry (1 m) + hlinený násyp (3 m), spevnené dubovou roštovou armatúrou", "icon": "shield" },
+    { "label": "Kostol na Martinskom vrchu", "value": "20,1 × 7,6 m, apsida 5,4 m, základy murivo až 1–1,3 m široké", "icon": "building" },
+    { "label": "Zoborská listina (1111)", "value": "Najstaršia zachovaná listina z územia Slovenska — spor o výber mýta", "icon": "scroll" },
+    { "label": "Pohrebisko pri amfiteátri", "value": "Zničených ~1000 hrobov z 10.–11. stor. pri výstavbe, zachránených len 165", "icon": "users" },
+    { "label": "Hrnčiarske pece na Lupke", "value": "13 objavených pecí — prvý archeologický nález tohto druhu na slovanskom území v 9. storočí", "icon": "star" }
+  ]
+}

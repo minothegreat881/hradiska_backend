@@ -7,7 +7,7 @@
   "blocksInsertAt": [
     {
       "afterHeading": "1. Nitra - hrad",
-      "offset": 4,
+      "offset": 3,
       "block": {
         "__component": "content.image-block",
         "image": 91,
@@ -16,9 +16,9 @@
         "width": "50",
         "aspectRatio": "auto",
         "objectPosition": "center center",
-        "position": "right",
+        "position": "left",
         "showCaption": true,
-        "pairWithNext": false,
+        "pairWithNext": true,
         "rounded": true,
         "shadow": true
       }
@@ -70,9 +70,9 @@
         "width": "40",
         "aspectRatio": "auto",
         "objectPosition": "center center",
-        "position": "left",
+        "position": "right",
         "showCaption": true,
-        "pairWithNext": false,
+        "pairWithNext": true,
         "rounded": true,
         "shadow": true
       }
@@ -142,9 +142,9 @@
         "width": "50",
         "aspectRatio": "auto",
         "objectPosition": "center center",
-        "position": "right",
+        "position": "left",
         "showCaption": true,
-        "pairWithNext": false,
+        "pairWithNext": true,
         "rounded": true,
         "shadow": true
       }
