@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/%C5%A0ari%C5%A1sk%C3%A9+Sokolovce?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/%C5%A0ari%C5%A1sk%C3%A9%20Sokolovce"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-2804360951481796027"
+        },
+        "published": {
+          "$t": "2011-05-24T14:15:00.003+02:00"
+        },
+        "updated": {
+          "$t": "2023-01-10T16:15:18.716+01:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Šarišské Sokolovce"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Šarišské Sokolovce"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div id=\"clanecek\" style=\"text-align: justify;\">\n<h1>\n</h1>\nHradisko neďaleko Šarišských Sokoloviec, objavené J. Macákom, svojou polohou&nbsp; i opevnením sústavou valov dalo podnet k vykonaniu zisťovacieho výskumu už roku 1965, ktorý realizoval zaslúžilý bádateľ V. Budinský – Krička. Na tento pozoruhodný slovanský pamätník upozornil J. Macáka jednak ľudový názov vrchu, jednak valy a priekopy hradiska i tmavá kultúrna vrstva na miestach, kde ju narušili a odkryli kolesá traktora.<br /><br /><br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\nHradisko leží 3 km severne od Šarišských Sokoloviec v južnej časti Čergovského pohoria. Zbudovali ho na najvyššom bode strmého hornatého hrebeňa Lazíky, ťahajúceho sa medzi Bernátskym a Bodovským údolím v severo – južnom smere, na kužeľovitej hradovej hure. Je prístupné zo Šarišských Sokoloviec Bernátskym údolím, z Bodoviec po hrebeni vrchu Lazíky a z obce Hradisko z údolia Ternianky. Hradisko je zachované a väčšinou chránené hustým lesným porastom. Svojou polohou a opevneniami patrí ku klasickým ukážkam slovanského hradiska na východnom Slovensku. Najväčšia dĺžka hradiska je 253 m, najväčšia šírka 125m.<br />\nK severovýchodnému ohybu valu hradiska prilieha lúčka, ktorá sa mierne zvažuje na západ. Približne v jej strede sa na povrchu pri pokusnom výskume zistila tmavá kultúrna vrstva. Vo vrchnej časti kultúrnej vrstvy sa našlo pomerne málo zlomkov hradištnej keramiky, naproti tomu zo spodnejších častí vrstvy sa získalo mnoho črepov tejto keramiky. Bohatý výskyt črepov na mieste pokusných sond zrejme súvisí s blízkosťou zvyškov veľkého ohniska. Okrem zlomkov nádob sa našli v kultúrnej vrstve miestami aj väčšie – menšie kusy uhlíkov i ojedinelé zlomky tehloviny a dva kusy železnej trosky. Zvieracie kosti v nej neboli. Po keramických nálezoch si však najväčšiu pozornosť zasluhujú železné predmety zo spodnej časti kultúrnej vrstvy. Ocieľka, nožík a torzá troch predmetov neznámeho určenia.<br />\nPokusnými sondami získal V. Budinský – Krička archeologický materiál z vnútorného areálu hradiska, tiež mimo neho na lúčke, ktorá prilieha k valu na severovýchodnej strane. Najväčšie množstvo nálezov tvoril črepový materiál zdobený vlnovkami a rytými líniami. Neveľký počet železných predmetov tvorila neúplná ocieľka, neúplný nožík, tyčinkovitý zlomok kovania, zlomok obruče z vedierka a zlomok nožíka. Na základe získaného materiálu V. Budinský – Krička datoval jeho osídlenie predbežne do 10. stor. n. l., najneskoršie na začiatok 11. stor.<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9wHm-UxsXNQVXgqQJwmcCvLlCdvU6KA8I2XOH8eh1_Um-8yQ6khHwPm_QcjQ_JuAENSEn_d1roBzSeL9zxIGQfrmUe9lirpdiGk8wZZ5Enr1FYExIsNzFlUfP8v9pN0Z1DcVnJ5KnqRc/s1600/Nepomenovany%CC%81+12.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9wHm-UxsXNQVXgqQJwmcCvLlCdvU6KA8I2XOH8eh1_Um-8yQ6khHwPm_QcjQ_JuAENSEn_d1roBzSeL9zxIGQfrmUe9lirpdiGk8wZZ5Enr1FYExIsNzFlUfP8v9pN0Z1DcVnJ5KnqRc/s320/Nepomenovany%CC%81+12.jpg\" width=\"241\" /></a></div>\n<br />\n<br />\nS výkopom sa začalo v predhradí, kde bol sondou 1 o dĺžke 40 metrov prerezaný val deliaci predhradie na dve časti, priekopa a plocha, smerom k nivelačnému bodu. Tým bola sledovaná konštrukcia valu, rez priekopy a tiež možnosť osídlenia na ploche zvažujúcej sa smerom k valu. Keďže sa na tejto ploche nepodarilo zistiť stopy po sídliskových objektoch, sonda bola predĺžená až za vonkajšiu stranu valu, kde bola terasa, aby sa zistilo, či z tejto strany nepriliehali k valu sídliskové objekty. Ani toto predĺženie sondy 1 neposkytlo žiadne dôkazy o osídlení.<br />\nRez valom ukázal, že bol navŕšený z hliny a kameňa. Kameň bol využitý najmä na jeho spevnenie proti zosuvu zeminy do priekopy. Vo vnútri valu bol kameň v menšom množstve, bez nejakého systému uloženia, teda iba voľne nahádzaný. Nálezový inventár z valu a priekopy tvorili črepy a zvieracie kosti.<br />\nSonda 2 o dĺžke 85 metrov bola volená tak, aby bol jej výkopom prerezaný okružný val s priekopou, val s priekopou obopínajúci akropolu a časť akropoly.<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7mhwM7z9KF8hbd5S3b5fJqHCAJD5EkCMUoUTF_Lz7_k0pfohVhJEXSytAgadbLJyRB3pbA1Y2xZZxYX81Ch5txteJSous-XS63wzu6tBUsclJSSsLM32cu0Jogv6gN_pFsmbCKtYsbE/s1600/Nepomenovany%CC%81+11.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7mhwM7z9KF8hbd5S3b5fJqHCAJD5EkCMUoUTF_Lz7_k0pfohVhJEXSytAgadbLJyRB3pbA1Y2xZZxYX81Ch5txteJSous-XS63wzu6tBUsclJSSsLM32cu0Jogv6gN_pFsmbCKtYsbE/s320/Nepomenovany%CC%81+11.jpg\" width=\"231\" /></a></div>\n<br />\n<br />\nRez okružným valom ukázal, že bol tiež navŕšený z hliny a kameňa. Kameň bol využitý najmä na jeho spevnenie proti zosuvu zeminy do priekopy. Nóvum v konštrukčnom systéme jeho navŕšenia bolo zistenie stôp po zuhoľnatenom dreve, spolu s malým pásom do červena prepálenej hliny. Ide tu pravdepodobne o doznievanie systému opevnenia zo staršieho slovanského obdobia. Systém navŕšenia valu a získaný črepový materiál, železná strelka so spätnými krídlami a torzo ďalšej strelky nám podávajú dôkaz o tom, že bol vybudovaný Slovanmi zrejme v mladšom období ako prvý val, obopínajúci akropolu. V priekope priliehajúcej k valu sa mimo typického slovanského črepového materiálu, získaného pri zisťovacom výskume, ako aj pri výkope sondy 1, našiel črep s pupákovitou vypuklinou, ktorý dokazuje osídlenie hradiska už v predslovanskom období, menovite v mladšej dobe bronzovej (<i>BD –HA –HB</i>). Mimo črepového materiálu a zvieracích kostí boli v priekope objavené ďalšie železné predmety: neúplná strelka so spätnými krídelkami a (<i>polovýrobok?</i>) tvaru kladiva bez prerazenej diery na drevenú násadu.<br />\nRez prvým valom obopínajúcim akropolu ukázal, že bol vybudovaný odlišným spôsobom ako už spomínané dva valy <i>(val deliaci predhradie na dve časti a okružný val</i>). Jeho nálezy sa tiež líšia od materiálu získaného v dvoch posledne menovaných valoch. Základ, súdiac podľa zachovalých zvyškov zuhoľnateného dreva a do červena prepálenej zeminy, tvorila zrejme drevená nosná konštrukcia. Tento systém navŕšenia valu bol typický pre staršie veľkomoravské obdobie. Z neho získaný črepový materiál bol výlučne z mladšej doby bronzovej (<i>BD – HA –HB</i>). Táto skutočnosť dovoľuje vysloviť názor, že prvý val obopínajúci akropolu, svedčí o najstaršom slovanskom osídlení tejto časti. Črepový materiál a strelka so spätnými krídelkami, získané výkopom sondy v klesajúcej časti terénu, smerom k priekope priliehajúcej k okružnému valu, spolu s črepovým materiálom získaným z priekopy patriacej k najstaršiemu valu hradiska, je mladší od doby navŕšenia tohto valu.<br />\nVýkopom časti sondy 2 na akropole&nbsp; sa tak isto ako v spomínaných prípadoch sondy 1, nepodarilo získať žiadne stopy po sídliskových objektoch. Táto okolnosť viedla k tomu, že sonda 3 bola zameraná a prekopaná v dĺžke 10 metrov na rovnej čistinke juhovýchodným smerom od nivelačného bodu. Pri jej výkope pod humusovitou vrstve terénu bola objavená kultúrna jama, obsahujúca črepový materiál. Hneď pri nej bola do červena prepálená plocha, spolu so zuhoľnatenými zvyškami dreva, naznačujúca časť dlážky chaty. Pretože presahovala rozmery šírky sondy, bolo potrebné k jej úplnému zachyteniu zamerať a prekopať časť sondy 4. V jej bezprostrednej blízkosti sa našli plošne a priečne uložené kamene tvaru nepravidelného obdĺžnika, ktorý s dlážkou pravdepodobne tvoril jeden komplex. Autor ho predbežne pokladá za kamenné obloženie pece (k<i>rbu?</i>). Tento predpoklad a súvislosť s časťou dlážky chaty budú overené pokračovaním výskumu.<br />\nV druhom predhradí boli vytýčené sondy 5 a 6 o dĺžke 45 metrov kopané prerušovane. Nimi sa mala zistiť situácia na voľnom priestranstve lúčky v areáli hradiska. V obidvoch sondách sa okrem črepového materiálu našli zlomky mazanice a železnej trosky. Ani v jednej z nich sa nezachytili stopy po sídliskových objektoch, prípadne kováčskej vyhni, hoci zlomky mazanice a kusy železnej trosky sú tu ich svedectvom. Súvisí to pravdepodobne s tým, že objekty v areáli hradiska boli nadzemného charakteru, prípadne slabo zahĺbené do zeme, vyhotovené z dreva a prútia, obmazané mazanicou. Po zániku funkcie hradiska v priebehu stáročí došlo aj k ich zničeniu bez zachovania stôp (<i>splavovanie kultúrnej vrstvy</i>).<br />\nSonda 7 o dĺžke 20 metrov bola vymeraná na lesnej ceste vedúcej areálom hradiska na akropolu tak, aby preťala val s priekopou na svahu akropoly a prvého predhradia. Jej výkop mal zistiť konštrukciu valu, chronologickú súvislosť s prvým valom, obopínajúcim akropolu, i s ostatnými valmi hradiska. V tejto sonde sa opäť zistili stopy po drevenej konštrukcii valu <i>(zuhoľnatené drevo)</i>, črepový materiál z mladšej doby bronzovej, slovanského obdobia a tiež zachovalá železná listovitá kopija <i>(hĺbka 75 cm</i>). Zachovalé zvyšky zuhoľnateného dreva z konštrukcie valu, črepy z mladšej doby bronzovej, ojedinelý slovanský črep i železná listovitá kopija dovoľujú vysloviť názor, že ho vybudovalo obyvateľstvo sídliace na akropole ešte pred 10. storočím, pre zamedzenie ľahkého prístupu na akropolu zo severozápadnej strany. Bližšie chronologické začlenenie jednotlivých valov, v ktorých sa našli stopy drevenej konštrukcie, iste podajú rozbory zvyškov zuhoľnateného dreva.<br />\n<h1>\n<span style=\"font-size: small;\">Rozbor nálezového inventáru</span></h1>\n<h2>\n<span style=\"font-size: small;\">I. Keramika</span></h2>\nKeramický materiál, získaný doterajším výskumom hradiska v Šarišských Sokolovciach, tvorí najpočetnejšiu zložku nálezového inventáru. Skladá sa z početných výrazných zlomkov, z ktorých sa nedali rekonštruovať celé nádoby. Pretože ide o nálezy získané z rezov valmi, priekopami ako aj zo sond mimo nich, kde sa zlomky z nádob typologicky starších miešali so zlomkami keramiky mladšieho rázu a nie z uzavretých sídliskových objektov, vychádzame aj pri triedení, najmä slovanského materiálu z tohto aspektu.<br />\n<b>a)</b> Typologicky najstarším materiálom, ktorý sa našiel na hradisku pri doterajších výskumoch vôbec, je materiál zo staršieho úseku mladšej doby bronzovej (<i>BD – HA – HB</i>), patriaci nateraz na východnom Slovensku gávskej kultúre, ktorá sem expandovala z juhu.<br />\nPozoruhodný je najmä hrubší črepový materiál bledohnedej farby s hladkým povlakom na povrchu, ktorý pochádza pravdepodobne z väčších hrncovitých nádob. Väčšinou bol výzdoby. Len ojedinele sa na ňom vyskytla výzdoba tvaru jednoduchej oválnej vypukliny. Vyskytli sa aj ojedinelé keramické zvyšky reprezentujúce typy okrajov nádob a v jednom prípade i časť dna. Tenší črep svetlohnedej farby s mierne dovnútra zaobleným okrajom&nbsp; pochádza zrejme z misy. Dva okrajové črepy, z ktorých jeden má hrubší zaoblený okraj a druhý širší von vyhrnutý okraj, pochádzali z hrncovitých nádob. Črep z dna nádoby mal pórovitý povrch a hrubo formované nerovné dno. Za zástupcu azda domáceho mladopilinského etnika autor považuje ojedinelý hrubší črep tmavošedej farby.<br />\n<b>b)</b> Pri triedení doposiaľ získaného slovanského keramického materiálu z hradiska sa ukazuje, že jeho menšia časť úzko súvisí ešte so stredohradištnou keramikou. Väčšia časť však patrí k mladšej hradištnej keramike.<br />\nČrepy staršej slovanskej keramiky sú z tenkostenných i hrubostenných hrncov hnedej, hnedosivej a tmavosivej farby, drsného povrchu, dobre vypálených, vyhotovených z hliny s prímesou vápenca, piesku a sľudy. Hrdlá nádob, súdiac podľa niektorých okrajových črepov, boli neširoko roztvorené a na okraji zvisle, alebo šikmo skrojené. Na niektorých zlomkoch je už badateľný nábeh na profiláciu okraja nádob. Ornament na črepoch sa skladá z niekoľkonásobných vlnoviek a z pásov vodorovných línií.<br />\nK staršej skupine nálezov zo Šarišských Sokoloviec patrí snáď aj zlomok z dna hnedosivej nádoby so slabo viditeľnou časťou pravdepodobne obdĺžníkovej plastickej značky. Je v poradí druhý odlišný typ výskytu plastickej značky, získaný pri doterajšom výskume hradiska. V prvom prípade to bola časť plastickej značky v podobe štvorca.<br />\nK staršej slovanskej keramike zaraďujeme črep zdobený šikmými obvodovými pásmi, vyhotovenými vpichmi hrebeňovým nástrojom.<br />\nPodľa poznatkov z Pomoravia a iných oblastí je celkom možné, že k staršej keramike z hradiska patria aj zlomky nádob zdobené hrubo a jednotlivo rytými vlnovkami i vodorovnými líniami a naopak niektoré zlomky starobylého rázu súvisia možno už s mladšou slovanskou fázou na hradisku.<br />\nNajväčšie množstvo črepov, získaných doterajším výskumom hradiska, patrí k pokročilej hradištnej keramike. Sú to zlomky nádob už s výraznejšími znakmi profilácie okraja, alebo s rímsovitým okrajom, niekedy už veľmi blízke stredovekej keramike. Výzdobou sem patria hlavne črepy z nádob, zdobených na hrdle a pod ním hrubou rytou vlnovkou alebo vlnovkami a na tele vodorovnými líniami raz riedkymi, inokedy hustejšími alebo celkom súvisle pokrývajúcimi celý povrch. Súvislé ryhovanie tela nádob vytváralo niekedy výrazne brázdený povrch. Touto formou výzdoby sa už tieto nádoby značne približovali stredovekej keramike.<br />\nNádoby sa zhotovovali pravdepodobne už na rýchlejšie otáčanom kruhu, o čom svedčia hlavne jemné vodorovné ťahy alebo ryhy v povlaku črepov. Hlina, ako aj farba zlomkov keramiky, nie je odlišná od keramiky typologicky staršieho rázu. Niektoré okrajové črepy majú z vnútornej strany stopy po opracúvaní ozubeným náčiním. Na základe výzdoby keramiky sa dá usudzovať, že sa výzdoba ryla do povlaku nádob tupou tyčinkou, výnimočne aj hrebienkovitým nástrojom.<br />\nO tom, že keramika na hradisku v Šarišských Sokolovciach bola aj v mladšom období dôležitým artiklom, a že sa v maximálnej miere využívala, svedčí zlomok nádoby, prevŕtaný k spevneniu prasknutej časti.<br />\nV niekoľkých prípadoch sa na vnútornej strane stien črepov zachovali zvyšky čiernej organickej látky (<i>snáď stopy potravy)</i>. Chemickým rozborom by sa pravdepodobne dalo určiť, o aký druh potravy sa jedná a na základe toho by sa mohlo aj čiastočne nazrieť do ,,kuchyne” našich slovanských predkov, žijúcich na hradisku v Šarišských Sokolovciach.<br />\n<h2>\n<span style=\"font-size: small;\">II. Železné predmety</span></h2>\nZ nálezov tohto druhu získaných vo vonkajšom areáli hradiska je nepochybne najpozoruhodnejšie a najdôležitejšie torzo ocieľky zložitého tvaru s trojnásobne zahnutými ramienkami; je 8,6 cm dlhé a 3,6 cm široké. Ocieľka je celkom iného typu ako doterajšie hrobové nálezy železných kresadiel zo slovansko – avarského a staromaďarského obdobia na východnom Slovensku.<br />\nOcieľka zo Šarišských Sokoloviec&nbsp; je teda ďalšou zaujímavou a závažnou pamiatkou, upozorňujúcou na styky východného Slovenska v dobe hradištnej s Pomoravím. Ak ju možno podľa keramických nálezov z hradiska datovať až do poveľkomoravského obdobia, potom je pozoruhodné, že tento starobylý tvar slovanského kresadla práve na východnom Slovensku pretrval do začiatkov 10. stor.<br />\nNožík ma odlomený hrot a z tŕňa jeho držadla sa zachovala len nepatrná časť. Chrbát čepele je ľahko ohnutý a od tŕňa ho delí šikmý lom. Ostrie noža prebieha približne v priamej čiare paralelne so spodnou hranou držadla. Torzo je 9 cm dlhé a 1,8 cm široké. Je to bližšie nedatovateľný nožík hradištného tvaru, patriaci skôr do strednej doby hradištnej.<br />\nPlochý tyčinkovitý železný predmet tvaru dlhého lichobežníka je zlomkom kovania alebo nástroja neznámeho určenia; je 8,8 cm dlhý a najviac 2,1 cm široký.<br />\nOstatné dva železné predmety sú atypické, jeden z nich je akoby zlomkom obruče z vedierka (<i>dĺžka 3,7 cm)</i>, druhý, s oblúkovitým ostrím, je snáď zlomkom noža (<i> dĺžka 4,3 cm a max. šírka 2,1 cm</i>).<br />\nNálezy tohto druhu vo vnútorno areáli v porovnaní so získaným množstvom keramiky, tvorili iba nepatrný počet. Ich neveľká typologická škála pozostávala z troch streliek so spätnými krídelkami ukončených tuľajkou, z torza železnej strelky, listovitej kopije s kratšou okrúhlou tuľajkou a železného predmetu (<i>polovýrobok?</i>) tvaru kladiva, na ktorom chýba prerazená diera pre drevenú násadu.<br />\nŽelezné strelky so spätnými krídelkami ukončené tuľajkou sa hodili k lovu i k boju, pretože spôsobili tržnú ranu a urýchlili tak vykrvácanie. Pretože išlo o zbrane, ktoré sa mohli obyčajne použiť iba raz, nebol pri ich výrobe použitý zložitý výrobný postup. Tento druh streliek je známy už od pozdnej doby laténskej, s pretrvávaním v dobe rímskej cez dobu hradištnú až do stredoveku.<br />\nNález listovitej kopije s kratšou, kónicky rozšírenou tuľajkou a širším zosilneným listom môžeme chronologicky zaradiť do 9. stor.<br />\nŽelezný predmet (<i>polovýrobok?</i>) súdiac podľa tvaru, mal byť pôvodne kladivom. Pretože je však bez prerazenej diery pre drevenú násadu,&nbsp; ho autor považuje za polovýrobok, ktorý podľa zreteľných nárazov na tylo, ako aj nerovného konca zúženej časti bol pravdepodobne používaný ako priebojník.<br />\nMimo železných súčastí výzbroje a pracovného nástroja, sa našli pri výskume hradiska tiež kusy železnej trosky v druhom predhradí. Tieto nálezy spolu s podobnými, získanými zisťovacím výskumom mimo areálu hradiska na lúčke bezprostredne k nemu priliehajúcej, sú svedectvom jestvovania kováčskej práce tak v areáli hradiska, ako aj k nemu patriacej časti za opevnením.<br />\n<h2>\n<span style=\"font-size: small;\">III. Železná troska</span></h2>\nR. Pleiner&nbsp; z Archeologického ústavu ČSAV v Prahe vyslovil názor, že ide o odpad z kováčskej dielne. Ide v podstate o kysličníky železa, spracované v teplote nad 1200◦ . Svedčia o existencii kováčskej práce na hradisku, nie o hutníckom spracovaní železa<br />\n<h2>\n<span style=\"font-size: small;\">IV. Uhlíky</span></h2>\nVzorky uhlíkov z kultúrnej vrstvy, odkrytej na plošine mimo valu hradiska, určil E. Krippel z Geologického ústavu Dionýza Štúra v Bratislave v dvoch prípadoch ako pochádzajúce z bresta (<i>Ulmus</i>) a v jednom prípade ako pochádzajúce z buka (<i>Fagus</i>). Toto zistenie je pozoruhodné najmä preto, že na hradisku a v jeho okolí čo do lesného porastu prevláda dnes hrab.<br />\nPôvod zvyškov čiernej zuhoľnatenej bezštruktúrnej organickej látky zo stien niektorých nádob <i>(ide najskôr o stopy potravy)</i> by podľa E. Krippela bolo možné určiť snáď chemickou cestou.<br />\n<h6>\n<span style=\"font-weight: normal;\"><span face=\"Arial, Helvetica, sans-serif\" style=\"font-size: x-small;\">Zoznam použitej literatúry:<br />\nBUDINSKÝ – KRIČKA, V.: Pokusný výskum na slovanskom hradisku v Šarišských Sokolovciach, okres Prešov. In: Nové obzory, 9, Košice 1967, s. 164 – 186.<br />\nBÉREŠ, J.: Výsledky doterajšieho výskumu slovanského hradiska v Šarišských Sokolovciach. In: Nové obzory, 16, Košice 1974, s. 113 – 133.</span></span></h6>\n<h6>\n<div class=\"MsoNormal\">\n<span lang=\"CS\" style=\"font-weight: normal;\"><span face=\"Arial, Helvetica, sans-serif\" style=\"font-size: x-small;\">Pramene k dejinám osídlenia slovenska z&nbsp;konca 5. až z 13. stor. iii. časť. Východné slovensko.</span></span></div>\n</h6>\n</div><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiLNPkZf0l2-1pZpxnQq0izuDgIVLOgN9I-3XVSiHbAdRKpLKTkrtFmHzcyBdg2JFDPuU3ucgZsx-ukmLo7g_x5pp6SeETTg8QPPXB5oWU8Ukg-1qu4qbThL8PbY1unfMrErVI3upBgMThiLLCHUj5vToTMG9l9VrXyP4wxF6Dm1oITjUD4RjxxkuZbw/s2048/LIDAR.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"1176\" data-original-width=\"2048\" height=\"184\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiLNPkZf0l2-1pZpxnQq0izuDgIVLOgN9I-3XVSiHbAdRKpLKTkrtFmHzcyBdg2JFDPuU3ucgZsx-ukmLo7g_x5pp6SeETTg8QPPXB5oWU8Ukg-1qu4qbThL8PbY1unfMrErVI3upBgMThiLLCHUj5vToTMG9l9VrXyP4wxF6Dm1oITjUD4RjxxkuZbw/s320/LIDAR.jpg\" width=\"320\" /></a></div><br />\n<div style=\"background-color: transparent; border-bottom: medium none; border-color: initial; border-left: medium none; border-right: medium none; border-style: none; border-top: medium none; border-width: medium; color: black; overflow: hidden; text-align: justify; text-decoration: none;\">\n<br />\nPrevzaté zo stránky: <a href=\"http://www.valka.cz/clanek_12601.html#ixzz1NGsoA0w3\" style=\"color: #003399;\">http://www.valka.cz/clanek_12601.html#ixzz1NGsoA0w3</a></div><div style=\"background-color: transparent; border-bottom: medium none; border-color: initial; border-left: medium none; border-right: medium none; border-style: none; border-top: medium none; border-width: medium; color: black; overflow: hidden; text-align: justify; text-decoration: none;\"><br /></div><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigwUApaw_vlXFzte_YwpsthDphdTTpVU9jv5sVsI12yYxyMV_KdLfykr2-bxwlgzz27u5a4ZWp4VZyXwygablPoA1TD8PQRkui3DpX71MaZM4ayQnTevgYZA9GvFk9waS3dD9x2_hLzwU9zPlTaO93NGW_mHcfjoKmsKBdm7hZ4NX4X9V03Uea8KX_-Q/s3194/%C5%A0ari%C5%A1sk%C3%A9%20Sokolovce_015.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"3194\" data-original-width=\"2358\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigwUApaw_vlXFzte_YwpsthDphdTTpVU9jv5sVsI12yYxyMV_KdLfykr2-bxwlgzz27u5a4ZWp4VZyXwygablPoA1TD8PQRkui3DpX71MaZM4ayQnTevgYZA9GvFk9waS3dD9x2_hLzwU9zPlTaO93NGW_mHcfjoKmsKBdm7hZ4NX4X9V03Uea8KX_-Q/s320/%C5%A0ari%C5%A1sk%C3%A9%20Sokolovce_015.jpg\" width=\"236\" /></a></div><br /><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_T2cfcnPWGwh-OanvRnSmSFhEoJ67kpzLVirenPI16vOq0h_UTaM_fIgc4r4uIaE1gEG2DIE4ozPsnPmfm7X_oWsifxMIT2t3992RtWjJ-qChzkuaUad3IRfNEfQeVX8uDzRPExdxDNj_tJUb9_SpTRBAmX-MRUmfHK3J6po9EnPG_syScLmHX7wXAw/s3196/%C5%A0ari%C5%A1sk%C3%A9%20Sokolovce_014.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"3196\" data-original-width=\"2422\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_T2cfcnPWGwh-OanvRnSmSFhEoJ67kpzLVirenPI16vOq0h_UTaM_fIgc4r4uIaE1gEG2DIE4ozPsnPmfm7X_oWsifxMIT2t3992RtWjJ-qChzkuaUad3IRfNEfQeVX8uDzRPExdxDNj_tJUb9_SpTRBAmX-MRUmfHK3J6po9EnPG_syScLmHX7wXAw/s320/%C5%A0ari%C5%A1sk%C3%A9%20Sokolovce_014.jpg\" width=\"243\" /></a></div><br /><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOKeXfCRo4dtOhXmzgsHEy93r_SkU3sFRdqElf5fx76mgdiPc-0TIlm4oriRPDVZHhl-Fytv66oTI1Zb_8ceWwzFA-7U8pBKSr7vJeKovS4b3T_WUk-3aow1QPsfY7qQpR1iplycLA6YrkKTvuypAm6e6N02nxbmF4RdbrBYXjTJEr-eCFb3YzsccmNQ/s3172/%C5%A0ari%C5%A1sk%C3%A9%20Sokolovce_013.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"3172\" data-original-width=\"2463\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOKeXfCRo4dtOhXmzgsHEy93r_SkU3sFRdqElf5fx76mgdiPc-0TIlm4oriRPDVZHhl-Fytv66oTI1Zb_8ceWwzFA-7U8pBKSr7vJeKovS4b3T_WUk-3aow1QPsfY7qQpR1iplycLA6YrkKTvuypAm6e6N02nxbmF4RdbrBYXjTJEr-eCFb3YzsccmNQ/s320/%C5%A0ari%C5%A1sk%C3%A9%20Sokolovce_013.jpg\" width=\"248\" /></a></div><br /><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg34elxomW-kY5KfrinDZNEMuironzrmYouxqoZQb_pg_B17-8zWbNQRyRXAbMYI2IvB6gL77hL0O55n818j7IZYGKIeKefruRNuneuOxV1jQjeNZh4JSHmShP5rk158NbOsTBfSQMekJAYJfh-u5knb_jM7ETnW3KL20Wde-9rnyD-vUs6QuG2as7_yQ/s3196/%C5%A0ari%C5%A1sk%C3%A9%20Sokolovce_012.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" data-original-height=\"3196\" data-original-width=\"2500\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg34elxomW-kY5KfrinDZNEMuironzrmYouxqoZQb_pg_B17-8zWbNQRyRXAbMYI2IvB6gL77hL0O55n818j7IZYGKIeKefruRNuneuOxV1jQjeNZh4JSHmShP5rk158NbOsTBfSQMekJAYJfh-u5knb_jM7ETnW3KL20Wde-9rnyD-vUs6QuG2as7_yQ/s320/%C5%A0ari%C5%A1sk%C3%A9%20Sokolovce_012.jpg\" width=\"250\" /></a></div><br />\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/2804360951481796027/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/05/sarisske-sokolovce.html#comment-form",
+            "title": "2 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/2804360951481796027"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/2804360951481796027"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/05/sarisske-sokolovce.html",
+            "title": "Šarišské Sokolovce"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9wHm-UxsXNQVXgqQJwmcCvLlCdvU6KA8I2XOH8eh1_Um-8yQ6khHwPm_QcjQ_JuAENSEn_d1roBzSeL9zxIGQfrmUe9lirpdiGk8wZZ5Enr1FYExIsNzFlUfP8v9pN0Z1DcVnJ5KnqRc/s72-c/Nepomenovany%CC%81+12.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "2"
+        }
+      }
+    ]
+  }
+}
