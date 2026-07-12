@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Novohrad++%28N%C3%B3gr%C3%A1d%29+%28H%29?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Novohrad%20%20%28N%C3%B3gr%C3%A1d%29%20%28H%29"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-7756318072441931278"
+        },
+        "published": {
+          "$t": "2012-02-10T09:19:00.010+01:00"
+        },
+        "updated": {
+          "$t": "2012-02-12T08:41:07.162+01:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Novohrad  (Nógrád) (H)"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Novohrad  (Nógrád) (H)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"MsoNormal\" style=\"text-align: justify;\">Nad obcou Nógrád (Maďarsko) sa vypína osamotený kopec vulkanického pôvodu, pripomínajúci obrovský peceň chleba, na ktorom sú dobre viditeľné ruiny stredovekého hradu. &nbsp;Nadmorská výška kopca je <metricconverter productid=\"286 m\" w:st=\"on\">286 m</metricconverter>, jeho relatívna výška okolo 50-<metricconverter productid=\"60 m\" w:st=\"on\">60 m</metricconverter>, oblé svahy dookola sú veľmi strmé – skrátka je to veľmi vhodné miesto pre kontrolovanie širokého okolia a&nbsp;dá sa vynikajúco brániť.</div><div class=\"MsoNormal\" style=\"text-align: justify;\"><br />\n</div><div class=\"MsoNormal\" style=\"text-align: justify;\"><iframe frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;ll=47.906346,19.045315&amp;spn=0.005034,0.00912&amp;z=16&amp;output=embed\" width=\"425\"></iframe><br />\n<small><a href=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;ll=47.906346,19.045315&amp;spn=0.005034,0.00912&amp;z=16&amp;source=embed\" style=\"color: blue; text-align: left;\">View Larger Map</a></small></div><div class=\"MsoNormal\" style=\"text-align: justify;\"><br />\n</div><div class=\"MsoNormal\" style=\"text-align: justify;\"><div style=\"border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none;\">Nevedno, kto prvý využil tunajšie prírodné podmienky pre stavbu prvotného opevnenia, v&nbsp;období sťahovania národov tu Slovania už našli staršie primitívne obranné valy, tie obnovili a&nbsp;zdokonalili, čím postavili vlastne NOVÝ HRAD a&nbsp;dali mu aj taký názov (napr.&nbsp; Anonymova kronika ho spomína ako „Castrum Nougrad“,&nbsp; zakladacia listina Budínskej kapituly z&nbsp;roku 1299 ho označuje ako „Castrum Novigrad“).</div></div><table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIMRGVXweArxj4AdrKS2R7uLZHwOZji5EDVhQXoxT7KWtLt49X0NZV7gX3CjZgC6jlSncpWDc6o1eVzIBgLGk8g5ClHmB-kfX13ee5pTjcQNburO8mC33E-LWTMAEzKk7DFsDjOTo7IAU/s1600/mikovini.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"207\" sda=\"true\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIMRGVXweArxj4AdrKS2R7uLZHwOZji5EDVhQXoxT7KWtLt49X0NZV7gX3CjZgC6jlSncpWDc6o1eVzIBgLGk8g5ClHmB-kfX13ee5pTjcQNburO8mC33E-LWTMAEzKk7DFsDjOTo7IAU/s320/mikovini.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Na mape z roku 1739 vidíme ešte slovenský názov Novigrad</td></tr>\n</tbody></table><div class=\"MsoNormal\" style=\"border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none; text-align: justify;\"><br />\n</div><div class=\"MsoNormal\" style=\"text-align: justify;\"><table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVCr29J2QibfWmNIExZjPtSy-NKpAJk68o_DTb2ppv55BjXG6Ie6t-sko6gVI3LUEcGm7X9Y1siopGOwV6ef1uNFJJDBqYRGFeFh9v2KXblgYLZuk4_SO-WhkPsfy_LD0UPZx5nbcIPkY/s1600/2+voj+map.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"254\" sda=\"true\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVCr29J2QibfWmNIExZjPtSy-NKpAJk68o_DTb2ppv55BjXG6Ie6t-sko6gVI3LUEcGm7X9Y1siopGOwV6ef1uNFJJDBqYRGFeFh9v2KXblgYLZuk4_SO-WhkPsfy_LD0UPZx5nbcIPkY/s320/2+voj+map.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">2. vojenské mapovanie - máme tu latinskú podobu názvu a jeho Maďarskú verziu</td></tr>\n</tbody></table><table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzysc4O1qNKsA4pe7Opx2nmXqsvbZUdBPJ51ZjgfV9VgmDiem9jkJkKIvz20UKu27fVRe9az-SMWM6PpZ7XyFaGRSZ5GlQf2MimDdhr-UJG10mfnTaEFkgPoX9UCN70K6aCri2EAMf9SY/s1600/nograd_s.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"182\" sda=\"true\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzysc4O1qNKsA4pe7Opx2nmXqsvbZUdBPJ51ZjgfV9VgmDiem9jkJkKIvz20UKu27fVRe9az-SMWM6PpZ7XyFaGRSZ5GlQf2MimDdhr-UJG10mfnTaEFkgPoX9UCN70K6aCri2EAMf9SY/s320/nograd_s.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Obr. 1</td></tr>\n</tbody></table><table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj26F8KvCpFZ8fXT8JW-btQQGxSHXhMl1oUhMEAeRONXJTUDMWUiPd5xT3AwX4TqXXRzhgfKJPJ_Ueb_u_Z0OydLx-fWm_Zm0C8TB_OU6M39fetKGic3RNdFZYr62BuhwvD1nUGHEzJz3Y/s1600/var_legi.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" sda=\"true\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj26F8KvCpFZ8fXT8JW-btQQGxSHXhMl1oUhMEAeRONXJTUDMWUiPd5xT3AwX4TqXXRzhgfKJPJ_Ueb_u_Z0OydLx-fWm_Zm0C8TB_OU6M39fetKGic3RNdFZYr62BuhwvD1nUGHEzJz3Y/s320/var_legi.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Obr. 2</td></tr>\n</tbody></table><br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1ur7m3g72NezAkLI6TK4-Ntd_OFJZVUfKseclvBGHMj_9HCGtkM5roj97NtH4the81nhyphenhyphen7kfLbBMFXozPVzZMvzgcdYugehaBpQb3Gi6A779afml1CUb_wlS_vcecCB2WX70aPglvZO0/s1600/199_20070204_220645.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"214\" sda=\"true\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1ur7m3g72NezAkLI6TK4-Ntd_OFJZVUfKseclvBGHMj_9HCGtkM5roj97NtH4the81nhyphenhyphen7kfLbBMFXozPVzZMvzgcdYugehaBpQb3Gi6A779afml1CUb_wlS_vcecCB2WX70aPglvZO0/s320/199_20070204_220645.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Obr. 3</td></tr>\n</tbody></table><br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-YuuTXCspsOGyRJzvUhS2ALd6QpvyvffhHQv9K0qAaGwBdn3h6TfgEocK3pn3EpUczCkG8TVsPCeCJ7KX2kyyRhwVHW0DxS2riruFaUwg2u4uCtGjn5AZzVIAVm1Ahm1YgJOMhv2MLIs/s1600/5742_20110515_081806.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"188\" sda=\"true\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-YuuTXCspsOGyRJzvUhS2ALd6QpvyvffhHQv9K0qAaGwBdn3h6TfgEocK3pn3EpUczCkG8TVsPCeCJ7KX2kyyRhwVHW0DxS2riruFaUwg2u4uCtGjn5AZzVIAVm1Ahm1YgJOMhv2MLIs/s320/5742_20110515_081806.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Obr. 4</td></tr>\n</tbody></table><br />\n<div style=\"border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none;\">Dnes už nevieme ako vyzeral&nbsp; slovanský&nbsp; Novohrad – Novigrad na prelome IX.-X. stor., v&nbsp;tej dobe sa budovali mohutné valové opevnenia s&nbsp;drevenou komorovou konštrukciou, ktorá bola naplnená hlinou. V&nbsp;každom prípade to však bolo hradisko mimoriadneho významu, správne centrum na čele so špánom, &nbsp;a&nbsp;takým ostalo aj po príchode Maďarov,&nbsp; kedy sa z&nbsp;neho stal župný hrad a&nbsp;po ňom bola pomenovaná aj Novohradská župa. </div></div><table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB7uSavOqgXGBRRFckDzzzjimNd4Dd-ElvSphSb3ijkOSlbdTO0m4P6WrRYV7EUerqteRrt5_T4s4zVhEcq5fgjF5P5OqRN7LtDWa5bCjXKoxAEIdiNg8NapgT6Gg0fyi1yOlDRLLWsXk/s1600/da10b1a1-c6f7-4979-a2cd-eeaba471c0cf.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" sda=\"true\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB7uSavOqgXGBRRFckDzzzjimNd4Dd-ElvSphSb3ijkOSlbdTO0m4P6WrRYV7EUerqteRrt5_T4s4zVhEcq5fgjF5P5OqRN7LtDWa5bCjXKoxAEIdiNg8NapgT6Gg0fyi1yOlDRLLWsXk/s320/da10b1a1-c6f7-4979-a2cd-eeaba471c0cf.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Obr. 5</td></tr>\n</tbody></table><div class=\"MsoNormal\" style=\"border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none; text-align: justify;\"><br />\n</div><div class=\"MsoNormal\" style=\"text-align: justify;\">Spočiatku kráľovský hrad občas menil majiteľov, bránil sa aj nájazdom husitov, dvakrát sa dostal do rúk Turkom... a zakaždým bolo treba na ňom niečo opraviť či zdokonaliť.</div><div class=\"MsoNormal\" style=\"text-align: justify;\"><br />\n</div><div class=\"MsoNormal\" style=\"text-align: justify;\">Slovanské valy a&nbsp;prípadné prvé kamenné budovy&nbsp; v&nbsp;chránenom priestore za valmi boli prekryté či zničené &nbsp;početnými &nbsp;stredovekými&nbsp; dostavbami &nbsp;a&nbsp;prestavbami, &nbsp;vrátane zemných prác na temene hradného kopca.&nbsp; </div><div class=\"MsoNormal\" style=\"text-align: justify;\"><br />\n</div><div class=\"MsoNormal\" style=\"text-align: justify;\">Najvýznamnejšiu prestavbu zrealizoval v&nbsp;rokoch 1475-1506 biskup Mikuláš Báthori, keď dal podľa plánov talianskeho architekta postaviť tzv. vnútorný hrad, oddelený od vonkajšieho hradu <metricconverter productid=\"30 stôp\" w:st=\"on\">30 stôp</metricconverter> širokou a&nbsp;rovnako hlbokou, v&nbsp;skale vysekanou priekopou.&nbsp;&nbsp;Vonkajší hrad nepravidelného tvaru (o rozmeroch približne 140x90 m) bol chránený troma veľkými baštami talianskeho typu, ktoré postavili na svahoch a&nbsp;po dostavbe naplnili hlinou, čím získali ďalší priestor vnútri chráneného areálu. Za vysokými múrmi vnútorného hradu vyrástol palác, veža a&nbsp;pribudla aj do skaly vytesaná studňa. V&nbsp;roku 1685 do veže, kde skladovali pušný prach, udrel hrom a&nbsp;následný výbuch natoľko rozrumil vnútorný hrad, že Turci ho boli nútení opustiť.</div><div class=\"MsoNormal\" style=\"text-align: justify;\"><br />\n</div><div class=\"MsoNormal\" style=\"text-align: justify;\">Trosky hradu už nik viac neopravoval, naopak - v&nbsp;roku 1709 ho ešte dôkladnejšie rozrumili najprv kuruci a&nbsp;následne aj labanci, len aby z&nbsp;neho nemali úžitok tí druhí.</div><div class=\"MsoNormal\"><br />\n</div><div class=\"MsoNormal\">spracovala: Kvetka</div><div class=\"MsoNormal\"><br />\n</div><div class=\"MsoNormal\">Použité pramene:<br />\n<br />\n</div><div class=\"MsoNormal\"><a href=\"http://jupiter.elte.hu/terkep+lista2.php\">http://jupiter.elte.hu/terkep+lista2.php</a></div><div class=\"MsoNormal\"><a href=\"http://nograd-var.hu/leiras.htm\">http://nograd-var.hu/leiras.htm</a><br />\n<br />\n</div><div class=\"MsoNormal\">Rekonštrukcia – predstava a&nbsp;obrázky zhora pozri tuto:&nbsp; <a href=\"http://www.latvany-terkep.hu/magyar/oldalak/nograd_rekonstrukcios_elkepzeles/\">http://www.latvany-terkep.hu/magyar/oldalak/nograd_rekonstrukcios_elkepzeles/</a><br />\n<br />\n<div style=\"text-align: justify;\"><br />\n<div style=\"margin-bottom: 0in;\">Foto prevzaté z:</div><div style=\"margin-bottom: 0in;\"><br />\n</div><div style=\"margin-bottom: 0in;\"><div style=\"text-align: left;\"><span style=\"font-size: x-small;\">Obr. 1 <a href=\"http://www.euroregion-neogradiensis.sk/foto/nograd_s.jpg\">http://www.euroregion-neogradiensis.sk/foto/nograd_s.jpg</a></span></div></div><div style=\"margin-bottom: 0in;\"><div style=\"text-align: left;\"><span style=\"font-size: x-small;\">Obr. 2 <a href=\"http://kep.novad.hu/nograd_vara/var_legi.jpg\">http://kep.novad.hu/nograd_vara/var_legi.jpg</a></span></div></div><div style=\"margin-bottom: 0in;\"><div style=\"text-align: left;\"><span style=\"font-size: x-small;\">Obr. 3 <a href=\"http://www.geocaching.com/seek/gallery.aspx?guid=04df3489-7cee-4c83-8f76-6e7597eb71b3\">http://www.geocaching.com/seek/gallery.aspx?guid=04df3489-7cee-4c83-8f76-6e7597eb71b3</a></span></div></div><div style=\"margin-bottom: 0in;\"><div style=\"text-align: left;\"><span style=\"font-size: x-small;\">Obr. 4 <a href=\"http://www.geocaching.hu/images.geo?id=983805&amp;group=822522&amp;table=log_images\">http://www.geocaching.hu/images.geo?id=983805&amp;group=822522&amp;table=log_images</a></span></div></div><div style=\"margin-bottom: 0in;\"><div style=\"text-align: left;\"><span style=\"font-size: x-small;\">Obr. 5 <a href=\"http://www.geocaching.com/seek/gallery.aspx?guid=04df3489-7cee-4c83-8f76-6e7597eb71b3\">http://www.geocaching.com/seek/gallery.aspx?guid=04df3489-7cee-4c83-8f76-6e7597eb71b3</a></span></div></div></div><div class=\"MsoNormal\" style=\"margin: 0cm 0cm 10pt;\"><br />\nMapy:</div></div><div class=\"MsoNormal\"><a href=\"http://archivportal.arcanum.hu/maps/html/katfelm2b_google.html\">http://archivportal.arcanum.hu/maps/html/katfelm2b_google.html</a><br />\n<a href=\"http://mek.niif.hu/06400/06422/html/top_megye/megye16\">http://mek.niif.hu/06400/06422/html/top_megye/megye16</a> </div>"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/7756318072441931278/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2012/02/novohrad-nograd-h.html#comment-form",
+            "title": "0 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/7756318072441931278"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/7756318072441931278"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2012/02/novohrad-nograd-h.html",
+            "title": "Novohrad  (Nógrád) (H)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIMRGVXweArxj4AdrKS2R7uLZHwOZji5EDVhQXoxT7KWtLt49X0NZV7gX3CjZgC6jlSncpWDc6o1eVzIBgLGk8g5ClHmB-kfX13ee5pTjcQNburO8mC33E-LWTMAEzKk7DFsDjOTo7IAU/s72-c/mikovini.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}
