@@ -1480,7 +1480,12 @@ function detectLocation($, fullText, articleTitle = '', sourceLabel = null) {
   // Meno: heuristika — pre tento článok je v prvom odstavci "dnes Zalavár";
   // generalizujeme: skús nájsť "dnes <Slovo>" alebo necháme prázdne (manual fill).
   let name = null;
-  const nameMatch = fullText.match(/dnes ([A-ZÁ-ŽÄÉÍÓÚÝŤŇĽĎ][a-zá-žäéíóúýťňľď]+)/);
+  // BUG 5: `[A-ZÁ-Ž...]` je Unicode CODE-POINT rozsah (Á=U+00C1 .. Ž=U+017D), nie
+  // množina veľkých písmen — omylom zahŕňa aj malé písmená v Latin Extended-A
+  // (napr. ť=U+0165 leží medzi Á a Ž). "dnes ťažko zrekonštruovať" sa tak vydávalo
+  // za "dnes Ťažko" a `ť` sa (nesprávne) hodnotilo ako veľké písmeno (Starý Tekov:
+  // location.name = "ťažko"). Explicitný enumerovaný set namiesto rozsahu.
+  const nameMatch = fullText.match(/dnes ([A-ZÁÄČĎÉÍĽĹŇÓÔŠŤÚÝŽ][a-zá-žäéíóúýťňľď]+)/);
   if (nameMatch) name = nameMatch[1];
   // BUG 1: ak sa meno nenašlo, použij titulok článku ako pin label (bez "(CZ)" suffixu).
   // Schéma sidebar.location vyžaduje `name` — bez fallbacku by upload spadol na
@@ -1533,7 +1538,7 @@ function detectLocation($, fullText, articleTitle = '', sourceLabel = null) {
   // Region: striktne len ak v texte explicitne stojí "<Slovo> župa/kraj/marka"
   let region = null;
   const regionMatch = fullText.match(
-    /\b([A-ZÁ-Ž][a-zá-ž]+(?:ská|cká|cha|nia))\s+(župa|kraj|marka)\b/,
+    /\b([A-ZÁÄČĎÉÍĽĹŇÓÔŠŤÚÝŽ][a-zá-žäéíóúýťňľď]+(?:ská|cká|cha|nia))\s+(župa|kraj|marka)\b/,
   );
   if (regionMatch) region = `${regionMatch[1]} ${regionMatch[2]}`;
 
