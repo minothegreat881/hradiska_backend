@@ -1,14 +1,14 @@
 # Migračný report — Wogastisburg - najvýznamnejšie hradisko Samovej ríše
 
-- **slug:** `wogastisburg-najvyznamnejsie-hradisko-samovej-rise` · **documentId:** `hbz4c9q54qocbdbfbfloe3jf` · **publikované:** ✅
+- **slug:** `wogastisburg-najvyznamnejsie-hradisko-samovej-rise` · **documentId:** `ie2bdkn0p2qzjw5va83c1ejs` · **publikované:** ✅
 - **kategória:** Kniežacie sídla · **tagy:** Najvýznamnejšie hradiská, Wogastisburg · **lokalita:** —
 
 ## ✅ Integrita a úplnosť
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ✅ Text: pokrytie 99.84% vs originál (gramaticky opravené slová vyňaté: 31) — zvyšné mimo: storočie, kniha, kapitola (over: map-widget/tvary/odkazy)
-- ✅ Obrázky evidované: telo (3) ⊆ galéria (4) — žiadny sa nestratil
+- ✅ Text: pokrytie 100.00% vs originál (gramaticky opravené slová vyňaté: 31) — nič nechýba ✅
+- ✅ Obrázky evidované: telo (4) ⊆ galéria (4) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 7, keyFacts 8
 - ✅ Gramatika: 50 opráv aplikovaných (audit súbor)
@@ -16,16 +16,16 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 34 |
-| quote-block (dobové pramene) | 4 |
+| rich-text (odseky/nadpisy) | 40 |
+| quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
-| image-block (v tele) | 3 |
+| image-block (v tele) | 4 |
 | embed (video/3D) | 1 |
-| sources (zdroje) | 1 → 3 položiek |
+| sources (zdroje) | 1 → 6 položiek |
 
 ## Obrázky
 - **galéria:** 4 (3 s popisom)
-- **v tele článku:** 3 (3 s popisom) — Fredegar.jpg, samova.jpg, Wogastisburg.jpg
+- **v tele článku:** 4 (3 s popisom) — Fredegar.jpg, samova.jpg, Wogastisburg.jpg, IMG_0002.jpg
 
 ## Sidebar
 - **Časová os (timeline):** 7 položiek
@@ -113,7 +113,7 @@
 
 ## Ostatné
 - **komentáre:** 13
-- **text tela:** 19984 znakov (3013 slov)
-- **pokrytie textu vs originál:** 99.84% (mimo: storočie, kniha, kapitola)
+- **text tela:** 25811 znakov (3880 slov)
+- **pokrytie textu vs originál:** 100.00% ✅
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

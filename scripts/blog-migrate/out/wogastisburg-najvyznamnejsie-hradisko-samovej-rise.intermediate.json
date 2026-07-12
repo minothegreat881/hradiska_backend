@@ -5,7 +5,7 @@
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-7176422955333745273",
     "bloggerPostUrl": "http://www.hradiska.sk/2011/02/wogastisburg-najvyznamnejsie-hradisko.html",
     "repliesLink": "http://www.hradiska.sk/feeds/7176422955333745273/comments/default",
-    "extractedAt": "2026-06-25T10:17:46.672Z",
+    "extractedAt": "2026-07-12T18:33:55.177Z",
     "coverImageNeedsReview": true,
     "commentCount": 13,
     "comments": [
@@ -180,6 +180,8 @@
       "captionedImages": 3,
       "separatorImages": 1
     },
+    "poemCount": 0,
+    "poemSingleFlags": [],
     "sanityFlags": [
       "longRichText",
       "noLocation",
@@ -271,86 +273,149 @@
     "keyFacts": [
       {
         "label": "Obdobie",
-        "value": "7. storočie (raný stredovek)",
+        "value": "Samova ríša 623–658",
         "icon": "calendar"
       },
       {
-        "label": "Samova ríša",
-        "value": "623 – 658; prvý známy štátny útvar Slovanov",
+        "label": "Panovník",
+        "value": "Samo – kupec „z kraja senonského“, prvý panovník Slovanov",
         "icon": "crown"
       },
       {
-        "label": "Panovník",
-        "value": "Samo – kupec „z kraja senonského“, podľa prameňov pôvodom Frank, resp. Kelt",
-        "icon": "crown"
+        "label": "Pôvod Sama",
+        "value": "Podľa A. Holdera keltského pôvodu, zo senonského kraja pri meste Sens (dnes Champagne)",
+        "icon": "star"
+      },
+      {
+        "label": "Protivník",
+        "value": "Avari; neskôr Franská ríša (kráľ Dagobert I.)",
+        "icon": "sword"
       },
       {
         "label": "Hlavný prameň",
-        "value": "Fredegarova kronika (Kniha IV, kap. 48, 68, 75)",
-        "icon": "book"
+        "value": "Fredegarova kronika – jediný dôveryhodný zdroj o Samovi",
+        "icon": "scroll"
       },
       {
-        "label": "Poloha",
-        "value": "Sporná a nepotvrdená – kandidáti: Bratislava, Devín, Pomohanie, južná Morava, Albing pri ústí Enže",
+        "label": "Lokalizácia Wogastisburgu",
+        "value": "Neznáma a sporná; jadro ríše najpravdepodobnejšie v oblasti Bratislavy",
         "icon": "map"
       },
       {
-        "label": "Protivník v bitke",
-        "value": "Franská ríša – kráľ Dagobert I. (Austrázijske vojská)",
-        "icon": "sword"
+        "label": "Spojenec",
+        "value": "Knieža polabsko-lužických Srbov Dervan",
+        "icon": "flag"
+      },
+      {
+        "label": "Predmet",
+        "value": "Hradisko Wogastisburg – slovanský „burgus“ spomínaný Fredegarom",
+        "icon": "building"
       }
     ],
     "timeline": [
       {
-        "year": "620",
-        "title": "Dozrieva druhá generácia, chystá sa povstanie",
-        "description": "Podľa J. Steinhübela dorastá v Panónii druhá generácia avarsko-slovanských miešancov a pripravuje povstanie proti avarskému útlaku.",
+        "year": "okolo 620",
+        "title": "Dozretie druhej generácie a príprava povstania",
+        "description": "V Panónii dorástla druhá generácia avarsko-slovanských miešancov, ktorí pripravovali povstanie proti avarskému útlaku.",
         "type": "era"
       },
       {
-        "year": "622",
+        "year": "leto 622",
         "title": "Príchod kupca Sama",
-        "description": "V lete 622 prichádza do oblasti stredného Dunaja kupecká karavána vedená Samom a pomáha Slovanom pri povstaní proti Avarom.",
+        "description": "Na strednom Dunaji sa objavila kupecká karavána vedená Samom „z kraja senonského“; pomohol Slovanom pri povstaní a zvolili si ho za panovníka.",
         "type": "event"
       },
       {
         "year": "623",
         "title": "Vznik Samovej ríše",
-        "description": "Slovania si volia Sama za kráľa; vzniká prvý známy štátny útvar Slovanov – Samova ríša.",
+        "description": "Prvá ríša Slovanov vznikla za Dunajom na území juhozápadného Slovenska, južnej Moravy, severovýchodného Rakúska a časti Česka.",
         "type": "founding"
       },
       {
         "year": "623–624",
-        "title": "Víťazné bitky proti Avarom",
-        "description": "V bitkách rokov 623–624 Slovania pod Samovým vedením porazili Avarov a vymanili sa spod ich nadvlády.",
+        "title": "Bitky proti Avarom a vymanenie spod nadvlády",
+        "description": "Pod Samovým vedením Slovania v niekoľkých bitkách „spacifikovali“ Avarov a vymanili sa spod ich nadvlády; vznikali prvé slovanské kniežatstvá.",
         "type": "battle"
       },
       {
         "year": "po 630",
-        "title": "Roztržka s Franskou ríšou",
-        "description": "Po roku 630 sa kazia vzťahy s Dagobertom I. – po spojenectve s kniežaťom Dervanom a výpadoch Slovanov do Durínska.",
+        "title": "Zhoršenie vzťahov s Franskou ríšou",
+        "description": "Po spojenectve s kniežaťom Dervanom a výpadoch do Durínska sa pokazili vzťahy s Frankami; na Samov dvor prišiel posol Sicharius.",
         "type": "event"
       },
       {
-        "year": "~631",
-        "title": "Bitka pri Wogastisburgu",
-        "description": "Austrázijske vojská Dagoberta I. obliehajú Wogastisburg; v trojdňovej bitke sú Frankovia porazení a na úteku zanechávajú stany aj batožinu. (Presný rok sa v prameni neuvádza.)",
+        "year": "neznámy",
+        "title": "Slávna bitka pri Wogastisburgu",
+        "description": "Ústredná bitka proti Frankom, pri ktorej sa sústredilo jadro slovanských vojnových síl. Text neuvádza pre ňu konkrétny rok; časovo zapadá do konfliktu s Frankami po roku 630.",
         "type": "battle"
       },
       {
-        "year": "658",
+        "year": "po 658",
         "title": "Smrť Sama a rozpad ríše",
-        "description": "Po Samovej smrti (po roku 658) sa ríša rozpadá; na jej základoch neskôr stavia Veľká Morava.",
+        "description": "Po smrti panovníka sa ríša rozpadla; na jej základoch neskôr stavala ríša Veľkomoravská.",
         "type": "destruction"
       }
     ],
     "quotes": [],
     "blocks": [
       {
-        "__component": "content.quote-block",
-        "text": "Keď potom Austiázijci obkľúčili hrad Wogastisburg, kde sa opevnili veľmi početné oddiely udatných Vinidov (Slovanov), v trojdennom boji boli tu mnohí z Dagobertovho vojska (Franský kráľ) pobití mečom a (ostatní) zanechajúc všetky stany a batožinu, ktorú malí, zbabelo sa odtiaľ vrátili do vlastných sídiel. Potom Vinidi viac ráz vtrhli do Durínska a do ostatných krajov Franskej ríše a plienili. Ešte aj Dervan, knieža z rodu Srbov\", ktorí pochádzali z kmeňa Slovanov a už dávno patrili k Franskej ríši, pridali sa so jimi k vládcovi Samovi.",
-        "author": "Fredegarova kronika",
-        "source": "7. storočie, Kniha IV, kap. 68"
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "\"Keď potom Austiázijci obkľúčili hrad Wogastisburg, kde sa opevnili veľmi početné oddiely udatných Vinidov (Slovanov), v trojdennom boji boli tu mnohí z Dagobertovho vojska (Franský kráľ) pobití mečom a (ostatní) zanechajúc všetky stany a batožinu, ktorú malí, zbabelo sa odtiaľ vrátili do vlastných sídiel. Potom Vinidi viac ráz vtrhli do Durínska a do ostatných krajov Franskej ríše a plienili. Ešte aj Dervan, knieža z rodu Srbov\", ktorí pochádzali z kmeňa Slovanov a už dávno patrili k Franskej ríši, pridali sa so jimi k vládcovi Samovi.\" ",
+                "bold": true,
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "(7. Storočie, Fredegarova kronika, Kniha IV, Kapitola 68)\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Wogastisburg a Samova ríša"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Keď sa spýtate väčšiny Slovákov, čo to bol Wogastisburg, budete podobne ako ja nemilo prekvapení, koľko z nich nebude vedieť ani \"zaťať\". Cieľom tohto príspevku je preto priblížiť čitateľom toto mimoriadne významné slovanské hradisko a slávne momenty prvej ríše Slovanov - Samovej ríše. Samova ríša existovala od roku 623 a zanikla zrejme po smrti panovníka - tzn. po roku 658. Samo ako prvý panovník zjednotil Slovanov až do takej miery, že sa vymanili spod moci dovtedajšieho hegemóna - Avarov a vybojovali si aj úplnú nezávislosť od najmocnejšieho štátu tej doby - Franskej ríše. Tieto slávne časy pomerne vierohodne a na tú dobu podrobne zachytáva významný prameň - Fredegarova kronika."
+              }
+            ]
+          }
+        ]
       },
       {
         "__component": "content.image-block",
@@ -379,12 +444,11 @@
         "__component": "content.rich-text",
         "body": [
           {
-            "type": "heading",
-            "level": 2,
+            "type": "paragraph",
             "children": [
               {
                 "type": "text",
-                "text": "Wogastisburg a Samova ríša"
+                "text": "Nechajme teda ďalej rozprávať stredovekého kronikára o udalostiach, ktoré sa odohrali v jeho dobe a ktoré majú taký veľký význam pre naše dejiny:"
               }
             ]
           }
@@ -398,7 +462,12 @@
             "children": [
               {
                 "type": "text",
-                "text": "Keď sa spýtate väčšiny Slovákov, čo to bol Wogastisburg, budete podobne ako ja nemilo prekvapení, koľko z nich nebude vedieť ani \"zaťať\". Cieľom tohto príspevku je preto priblížiť čitateľom toto mimoriadne významné slovanské hradisko a slávne momenty prvej ríše Slovanov - Samovej ríše. Samova ríša existovala od roku 623 a zanikla zrejme po smrti panovníka - tzn. po roku 658. Samo ako prvý panovník zjednotil Slovanov až do takej miery, že sa vymanili spod moci dovtedajšieho hegemóna - Avarov a vybojovali si aj úplnú nezávislosť od najmocnejšieho štátu tej doby - Franskej ríše. Tieto slávne časy pomerne vierohodne a na tú dobu podrobne zachytáva významný prameň - Fredegarova kronika."
+                "text": "\""
+              },
+              {
+                "type": "text",
+                "text": "V štyridsiatom roku panovania Chlotara muž menom Samo, rodom Frank z kraja senonského, priviedol so sebou mnohých kupcov a uberal sa obchodovať k Slovanom prezývaných Vinidmi. Slovania sa už začali búriť proti Avarom nazývaných Hunmi a proti ich vládcovi kaganovi. Vinidi boli už oddávna predvojom (dvojšíkom - dvojplukom) Hunov; keď Huni s vojskom viedli útok proti ktorémukoľvek kmeňu, vtedy Huni stavali svoje zhromaždené vojsko na obranu táborov, Vinidi však bojovali. Ak sa víťazstvo klonilo na ich stranu, Huni vtedy útočili, aby sa zmocnili koristi, ak však Vinidi boli porážaní, podporovaní pomocným vojskom Hunov znova nabrali síl. Huni ich teda nazývali predvojom, lebo pri bojovom stretnutí tvoriac dvojité bojové šíky kráčali pred Hunmi. Huni každoročne prichádzali k Slovanom prezimovať, na lôžka si brávali manželky Slovanov a ich dcéry. Okrem iných (znášaných:) násilenstiev Slovania odvádzali Hunom poplatky. Synovia Hunov, ktorých splodili z manželiek Vinidov a (:ich:) dcér, neznášali ďalej zlo krutosti a násilia, vzpierali sa nadvláde Hunov a, ako som už spomínal, začali sa búriť. Keď Vinidi s vojskom zaútočili proti Hunom, kupec Samo, ktorého som taktiež spomenul, postupoval s nimi vo vojsku. A tu preukázal takú veľkú schopnosť proti Hunom, že to vzbudilo obdiv, a nesmierny počet z nich bol pobitý mečom Vinidov. Vinidi spoznajúc Samovu užitočnosť zvolili si ho za kráľa nad sebou, a tu šťastlivo panoval 35 rokov. Za jeho vlády Vinidi viedli mnohé boje proti Hunom. S jeho rozvahou a schopnosťou Vinidi vždy porazili Hunov. Samo mal 12 žien z kmeňa Vinidov, z ktorých splodil 22 synov a 15 dcér.\"",
+                "italic": true
               }
             ]
           }
@@ -435,17 +504,11 @@
             "children": [
               {
                 "type": "text",
-                "text": "Nechajme teda ďalej rozprávať stredovekého kronikára o udalostiach, ktoré sa odohrali v jeho dobe a ktoré majú taký veľký význam pre naše dejiny:"
+                "text": "(Kniha IV, kapitola 48)"
               }
             ]
           }
         ]
-      },
-      {
-        "__component": "content.quote-block",
-        "text": "V štyridsiatom roku panovania Chlotara muž menom Samo, rodom Frank z kraja senonského, priviedol so sebou mnohých kupcov a uberal sa obchodovať k Slovanom prezývaných Vinidmi. Slovania sa už začali búriť proti Avarom nazývaných Hunmi a proti ich vládcovi kaganovi. Vinidi boli už oddávna predvojom (dvojšíkom - dvojplukom) Hunov; keď Huni s vojskom viedli útok proti ktorémukoľvek kmeňu, vtedy Huni stavali svoje zhromaždené vojsko na obranu táborov, Vinidi však bojovali. Ak sa víťazstvo klonilo na ich stranu, Huni vtedy útočili, aby sa zmocnili koristi, ak však Vinidi boli porážaní, podporovaní pomocným vojskom Hunov znova nabrali síl. Huni ich teda nazývali predvojom, lebo pri bojovom stretnutí tvoriac dvojité bojové šíky kráčali pred Hunmi. Huni každoročne prichádzali k Slovanom prezimovať, na lôžka si brávali manželky Slovanov a ich dcéry. Okrem iných (znášaných:) násilenstiev Slovania odvádzali Hunom poplatky. Synovia Hunov, ktorých splodili z manželiek Vinidov a (:ich:) dcér, neznášali ďalej zlo krutosti a násilia, vzpierali sa nadvláde Hunov a, ako som už spomínal, začali sa búriť. Keď Vinidi s vojskom zaútočili proti Hunom, kupec Samo, ktorého som taktiež spomenul, postupoval s nimi vo vojsku. A tu preukázal takú veľkú schopnosť proti Hunom, že to vzbudilo obdiv, a nesmierny počet z nich bol pobitý mečom Vinidov. Vinidi spoznajúc Samovu užitočnosť zvolili si ho za kráľa nad sebou, a tu šťastlivo panoval 35 rokov. Za jeho vlády Vinidi viedli mnohé boje proti Hunom. S jeho rozvahou a schopnosťou Vinidi vždy porazili Hunov. Samo mal 12 žien z kmeňa Vinidov, z ktorých splodil 22 synov a 15 dcér.",
-        "author": "Fredegarova kronika",
-        "source": "Kniha IV, kap. 48"
       },
       {
         "__component": "content.rich-text",
@@ -455,7 +518,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Komentár k záznamu v kronike:"
+                "text": "Komentár k záznamu v kronike: "
               }
             ],
             "level": 2
@@ -470,7 +533,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "\"Okolo roku 620 dorástla podľa J. Steinhubela v Panónii už druhá generácia avarsko-slovanských miešancov. Práve tam vypuklo povstanie, ktoré títo pripravovali , proti avarskému útlaku. Bolo to niekedy v lete 622, keď sa v oblasti stredného Dunaja objavila kupecká karavána, vedená kupcom Samom \"z kraja senonského\". Pomohol Slovanom pri povstaní, najmä ponukou vojenských služieb. Ukázal sa ako dobrý organizátor, a tak si ho Slovania zvolili za svojho panovníka. Nasledovalo niekoľko bitiek v rokoch 623-624, kedy pod jeho vedením \"spacifikovali\" Avarov a vymanili sa s pod ich nadvlády. V časoch týchto protiavarských povstaní a bojov vznikali prvé slovanské kniežatstvá chorvátske, slavónske a korutánske."
+                "text": "\"Okolo roku 620 dorástla podľa J. Steinhübela v Panónii už druhá generácia avarsko-slovanských miešancov. Práve tam vypuklo povstanie, ktoré títo pripravovali, proti avarskému útlaku. Bolo to niekedy v lete 622, keď sa v oblasti stredného Dunaja objavila kupecká karavána, vedená kupcom Samom \"z kraja senonského\". Pomohol Slovanom pri povstaní, najmä ponukou vojenských služieb. Ukázal sa ako dobrý organizátor, a tak si ho Slovania zvolili za svojho panovníka. Nasledovalo niekoľko bitiek v rokoch 623-624, kedy pod jeho vedením \"spacifikovali\" Avarov a vymanili sa spod ich nadvlády. V časoch týchto protiavarských povstaní a bojov vznikali prvé slovanské kniežatstvá chorvátske, slavónske a korutánske."
               }
             ]
           }
@@ -484,21 +547,26 @@
             "children": [
               {
                 "type": "text",
-                "text": "Následne, podľa J. Steinhubela, po vypuknutí povstania, kmene Vinidov, Chorvátov, Srbov a čiastočne aj Dudlebov z Panónie odišli a obsadili priestor v susedstve tejto nepokojnej oblasti. Teda za Dunajom, na území juhozápadného Slovenska, južnej Moravy a pravdepodobne aj severovýchodného Rakúska a časti Česka založili slovanskú \"ríšu\". Tak do dejín vstupuje tzv. Samova ríša.\" ("
-              },
+                "text": "Následne, podľa J. Steinhübela, po vypuknutí povstania, kmene Vinidov, Chorvátov, Srbov a čiastočne aj Dudlebov z Panónie odišli a obsadili priestor v susedstve tejto nepokojnej oblasti. Teda za Dunajom, na území juhozápadného Slovenska, južnej Moravy a pravdepodobne aj severovýchodného Rakúska a časti Česka založili slovanskú \"ríšu\". Tak do dejín vstupuje tzv. Samova ríša.\" (http://dubrava.vkrp.sk)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
-                "type": "link",
-                "url": "http://dubrava.vkrp.sk",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "http://dubrava.vkrp.sk"
-                  }
-                ]
+                "type": "text",
+                "text": "\""
               },
               {
                 "type": "text",
-                "text": ")"
+                "text": "V tom roku Slovania, nazývaní Vinidmi, v ríši Samovej usmrtili veľký počet franských kupcov a olúpili ich o tovar. Toto bol začiatok roztržky medzi Dagobertom a Samom, vládcom Slovanov. I poslal Dagobert vyslanca Sycharia k Samovi s prosbou, aby za kupcov, ktorých jeho (;ľudia:) usmrtili, alebo za tovar, ktorý si neprávom prisvojili, dal riadnu náhradu. Samo nechcel Sycharia vidieť, ani by nebol dovolil, aby (:predstúpil:) pred neho. Sycharius (:teda:) oblečený odevom na spôsob Slovanov prišiel so svojimi pred zrak Samov; všetko, čo mu bolo uložené, mu oznámil. Avšak ako býva (:zvykom:) pohanstva a spupnosti u nešľachetných, Samo nedal nijakú náhradu za to, čo spáchali jeho (:ľudia:), chcel ustanoviť iba rokovanie, aby sa vo veci týchto a iných sťažnosti, ku ktorým medzi stránkami došlo, navzájom zadosť urobilo spravodlivosti. Sycharius ako pochabý vyslanec riekol Samovi prenáhlené slová, ktoré mu neboli uložené, ba aj vyhrážky, že Samo a ľud jeho ríše vraj je povinný službou Dagobertovi. Samo už urazený v odpovedí riekol: „Aj pôda, ktorú máme, patri Dagobertovi, aj my patríme jemu, ak, pravda, nariadi zachovávať s nami priateľstvo\". Sycharius odpovedal: „Nieje možné, aby kresťania a sluhovia Boží uzavierali priateľstvo so psami\". Samo na toto povedal: „Ak ste vy sluhami Božími a my psami Boha, vtedy vy neprestajne proti nemu konáte, a my sme si vzali dovolenie zubami vás roztrhať\". Sycharius bol odohnaný spred očí Samových. Keď toto Dagobertovi oznámil, Dagobert spupne rozkázal, aby vojsko z celej ríše Austrázijskej vytiahlo proti Samovi a Vinidom. Keď vojsko s tromi oddielmi v šíku zaútočilo na Vinidov, hneď aj Longobardi, podplatení Dagobertom, tak isto nepriateľsky pritiahli proti Slovanom. Slovania na týchto a na iných miestach sa oproti tomu (:vojensky:) pripravovali; do ktorého kraja vkročilo vojsko Alemanov s vojvodcom Chrodobertom, zvíťazilo. Tak isto Longobardi zvíťazili, a Alemani i Longobardi odviedli so sebou veľmi veľký počet zajatcov zo Slovanov. Keď potom Austiázijci obkľúčili hrad Wogastisburg, kde sa opevnili veľmi početné oddiely udatných Vinidov, v trojdennom boji boli tu mnohí z Dagobertovho vojska pobití mečom a (ostatní) zanechajúc všetky stany a batožinu, ktorú malí, zbabelo sa odtiaľ vrátili do vlastných sídiel. Potom Vinidi viac ráz vtrhli do Durínska a do ostatných krajov Franskej ríše a plienili. Ešte aj Dervan, knieža z rodu Srbov\", ktorí pochádzali z kmeňa Slovanov a už dávno patrili k Franskej ríši, pridali sa so jimi k vládcovi Samovi. K tomuto víťazstvu, ktoré Vinidi dosiahli nad Frankami, nedopomohla natoľko udatnosť Slovanov ako práve nerozumnosť Austrázijcov, ktorí medzitým zistili, že upadli do nenávisti Dagoberta a že by boli neprestajne olupovaní.\"",
+                "italic": true
               }
             ]
           }
@@ -528,10 +596,18 @@
         "shadow": true
       },
       {
-        "__component": "content.quote-block",
-        "text": "V tom roku Slovania, nazývaní Vinidmi, v ríši Samovej usmrtili veľký počet franských kupcov a olúpili ich o tovar. Toto bol začiatok roztržky medzi Dagobertom a Samom, vládcom Slovanov. I poslal Dagobert vyslanca Sycharia k Samovi s prosbou, aby za kupcov, ktorých jeho (;ľudia:) usmrtili, alebo za tovar, ktorý si neprávom prisvojili, dal riadnu náhradu. Samo nechcel Sycharia vidieť, ani by nebol dovolil, aby (:predstúpil:) pred neho. Sycharius (:teda:) oblečený odevom na spôsob Slovanov prišiel so svojimi pred zrak Samov; všetko, čo mu bolo uložené, mu oznámil. Avšak ako býva (:zvykom:) pohanstva a spupnosti u nešľachetných, Samo nedal nijakú náhradu za to, čo spáchali jeho (:ľudia:), chcel ustanoviť iba rokovanie, aby sa vo veci týchto a iných sťažnosti, ku ktorým medzi stránkami došlo, navzájom zadosť urobilo spravodlivosti. Sycharius ako pochabý vyslanec riekol Samovi prenáhlené slová, ktoré mu neboli uložené, ba aj vyhrážky, že Samo a ľud jeho ríše vraj je povinný službou Dagobertovi. Samo už urazený v odpovedí riekol: „Aj pôda, ktorú máme, patri Dagobertovi, aj my patríme jemu, ak, pravda, nariadi zachovávať s nami priateľstvo\". Sycharius odpovedal: „Nieje možné, aby kresťania a sluhovia Boží uzavierali priateľstvo so psami\". Samo na toto povedal: „Ak ste vy sluhami Božími a my psami Boha, vtedy vy neprestajne proti nemu konáte, a my sme si vzali dovolenie zubami vás roztrhať\". Sycharius bol odohnaný spred očí Samových. Keď toto Dagobertovi oznámil, Dagobert spupne rozkázal, aby vojsko z celej ríše Austrázijskej vytiahlo proti Samovi a Vinidom. Keď vojsko s tromi oddielmi v šíku zaútočilo na Vinidov, hneď aj Longobardi, podplatení Dagobertom, tak isto nepriateľsky pritiahli proti Slovanom. Slovania na týchto a na iných miestach sa oproti tomu (:vojensky:) pripravovali; do ktorého kraja vkročilo vojsko Alemanov s vojvodcom Chrodobertom, zvíťazilo. Tak isto Longobardi zvíťazili, a Alemani i Longobardi odviedli so sebou veľmi veľký počet zajatcov zo Slovanov. Keď potom Austiázijci obkľúčili hrad Wogastisburg, kde sa opevnili veľmi početné oddiely udatných Vinidov, v trojdennom boji boli tu mnohí z Dagobertovho vojska pobití mečom a (ostatní) zanechajúc všetky stany a batožinu, ktorú malí, zbabelo sa odtiaľ vrátili do vlastných sídiel. Potom Vinidi viac ráz vtrhli do Durínska a do ostatných krajov Franskej ríše a plienili. Ešte aj Dervan, knieža z rodu Srbov\", ktorí pochádzali z kmeňa Slovanov a už dávno patrili k Franskej ríši, pridali sa so jimi k vládcovi Samovi. K tomuto víťazstvu, ktoré Vinidi dosiahli nad Frankami, nedopomohla natoľko udatnosť Slovanov ako práve nerozumnosť Austrázijcov, ktorí medzitým zistili, že upadli do nenávisti Dagoberta a že by boli neprestajne olupovaní.",
-        "author": "Fredegarova kronika",
-        "source": "Kniha IV, kap. 68"
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "(Kniha IV, Kapitola 68)\n \n "
+              }
+            ]
+          }
+        ]
       },
       {
         "__component": "content.rich-text",
@@ -541,31 +617,63 @@
             "children": [
               {
                 "type": "text",
-                "text": "Komentár k záznamu z kroniky: \"Teda po vzniku tejto \"ríše\" Franský kráľ Dagobert I., z dynastie Merovejovcov, sprvoti uvítal existenciu slovanského mocenského útvaru za východnou hranicou. Ten totiž tvoril ochranu jeho územia pred výbojnými Avarmi. Po roku 630 však došlo k zhoršeniu vzájomných vzťahov, po tom čo Samovi Slovania uzavreli spojenectvo z polabsko-srbským kniežaťom Dervanom a podnikali pustošivé výpady do oblasti Durínska. Preto na Samov dvor zavítal franský posol Sicharius, ktorý mal byť sprosredkovaťeľom nového dohovoru. Ten obvinil Slovanov z krádeže tovaru franskej kupeckej karavány a z povraždenia franských kupcov. Ako vidíme, niektoré veci sa nemenia a obzvlášť zámienky na vyvolanie vojny zvyknú byť obzvlášť priehľadné, najstaršie časy nevynímajúc.\" ("
-              },
-              {
-                "type": "link",
-                "url": "http://dubrava.vkrp.sk",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "http://dubrava.vkrp.sk"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": ")"
+                "text": "Komentár k záznamu z kroniky: \"Teda po vzniku tejto \"ríše\" Franský kráľ Dagobert I., z dynastie Merovejovcov, sprvoti uvítal existenciu slovanského mocenského útvaru za východnou hranicou. Ten totiž tvoril ochranu jeho územia pred výbojnými Avarmi. Po roku 630 však došlo k zhoršeniu vzájomných vzťahov, po tom, čo Samovi Slovania uzavreli spojenectvo s polabsko-srbským kniežaťom Dervanom a podnikali pustošivé výpady do oblasti Durínska. Preto na Samov dvor zavítal franský posol Sicharius, ktorý mal byť sprostredkovateľom nového dohovoru. Ten obvinil Slovanov z krádeže tovaru franskej kupeckej karavány a z povraždenia franských kupcov. Ako vidíme, niektoré veci sa nemenia a obzvlášť zámienky na vyvolanie vojny zvyknú byť obzvlášť priehľadné, najstaršie časy nevynímajúc.\" (http://dubrava.vkrp.sk)"
               }
             ]
           }
         ]
       },
       {
-        "__component": "content.quote-block",
-        "text": "V jedenástom roku panovania Dagoberta, keď Vinidi na rozkaz Samov trúfalo páchali ukrutnosti a častejšie, keď prekročili ich hranice, aby plienili Franskú ríšu, napádali Durínsko a ostatné kraje, Dagobert prišiel do mesta Méty, na radu biskupov, ako aj cirkevných hodnostárov a so súhlasom všetkých veľmožov svojej ríše povýšil svojho syna Sigyberta na kráľa Austrázie a dovolil, aby za sídlo mal mesto Méty. Chuniberta, biskupa mesta Kolína, a knieža Adalgysela ustanovili za veliteľa dvora, aby spravoval ríšu. Poklad, ktorý postačoval, odovzdal synovi a primerane, ako sa patrilo, postavil (ho) na jeho čelo. Ustanovil, aby všetko, čo mu daroval, bolo osobitne potvrdené v písomných dekrétoch. Potom sa vlastným pričinením rozhodli zhodne chrániť hranicu a Franskú ríšu proti Vinidom...",
-        "author": "Fredegarova kronika",
-        "source": "Kniha IV, kap. 75"
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyAPpLBdXAFntDji3TmqljA6vW3sO9jUYK3Un0HPCgNuwx_bBD5Lsdj6_R3weW4OH78D11zaajkpsWyKy4p5ylvJZfzj8dkrW0BkbWw1Kk-ageKvTv_wrKilJy03K1qwj9JPvO_RNg2k/s0/IMG_0002.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyAPpLBdXAFntDji3TmqljA6vW3sO9jUYK3Un0HPCgNuwx_bBD5Lsdj6_R3weW4OH78D11zaajkpsWyKy4p5ylvJZfzj8dkrW0BkbWw1Kk-ageKvTv_wrKilJy03K1qwj9JPvO_RNg2k/s1600/IMG_0002.jpg",
+          "filename": "IMG_0002.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyAPpLBdXAFntDji3TmqljA6vW3sO9jUYK3Un0HPCgNuwx_bBD5Lsdj6_R3weW4OH78D11zaajkpsWyKy4p5ylvJZfzj8dkrW0BkbWw1Kk-ageKvTv_wrKilJy03K1qwj9JPvO_RNg2k/s1600/IMG_0002.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 224,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Wogastisburg - najvýznamnejšie hradisko Samovej ríše",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "\"V jedenástom roku panovania Dagoberta, keď Vinidi na rozkaz Samov trúfalo páchali ukrutnosti a častejšie, keď prekročili ich hranice, aby plienili Franskú ríšu, napádali Durínsko a ostatné kraje, Dagobert prišiel do mesta Méty, na radu biskupov, ako aj cirkevných hodnostárov a so súhlasom všetkých veľmožov svojej ríše povýšil svojho syna Sigyberta na kráľa Austrázie a dovolil, aby za sídlo mal mesto Méty. Chuniberta, biskupa mesta Kolína, a knieža Adalgysela ustanovili za veliteľa dvora, aby spravoval ríšu. Poklad, ktorý postačoval, odovzdal synovi a primerane, ako sa patrilo, postavil (ho) na jeho čelo. Ustanovil, aby všetko, čo mu daroval, bolo osobitne potvrdené v písomných dekrétoch. Potom sa vlastným pričinením rozhodli zhodne chrániť hranicu a Franskú ríšu proti Vinidom...\"",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "(Kniha IV, Kapitola 75)"
+              }
+            ]
+          }
+        ]
       },
       {
         "__component": "content.rich-text",
@@ -604,7 +712,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Kde vlastne ono slávne hradisko, (alebo \"burgus\"?), ktoré kronikár nazýva menom Wogastisburg ležalo? Na to už zrejme nikto neposkytne jednoznačný dôkaz, resp. ak by sa taký dôkaz našiel, bol by to objav storočia. Samozrejme u historikov rôznych štátov vidíme snahu \"privlastniť\" si Wogastisburg a tvrdiť, že tá či oná lokalita v ich krajine bola jednoznačne Wogastisburg. Hradisko sa lokalizovalo do Čieh, Moravy, Korutánska no a samozrejme - aby sme nezostali v hanbe ani my - Slováci, viacerí naši historici si vedia predstaviť, že týmto hradiskom bola Bratislava, alebo Devín. Sám proti tejto snahe nič nenamietam a som toho názoru, že skôr treba hľadať dôvody prečo áno, než prečo nie - na to máme dostatok historikov z iných krajín."
+                "text": "Kde vlastne ono slávne hradisko, (alebo \"burgus\"?), ktoré kronikár nazýva menom Wogastisburg ležalo? Na to už zrejme nikto neposkytne jednoznačný dôkaz, resp. ak by sa taký dôkaz našiel, bol by to objav storočia. Samozrejme u historikov rôznych štátov vidíme snahu \"privlastniť\" si Wogastisburg a tvrdiť, že tá či oná lokalita v ich krajine bola jednoznačne Wogastisburg. Hradisko sa lokalizovalo do Čiech, Moravy, Korutánska no a samozrejme - aby sme nezostali v hanbe ani my - Slováci, viacerí naši historici si vedia predstaviť, že týmto hradiskom bola Bratislava, alebo Devín. Sám proti tejto snahe nič nenamietam a som toho názoru, že skôr treba hľadať dôvody prečo áno, než prečo nie - na to máme dostatok historikov z iných krajín.\n \n "
               }
             ]
           }
@@ -625,21 +733,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Na stránke "
-              },
-              {
-                "type": "link",
-                "url": "http://www.svatohaj.sk/samovarisa.html",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "http://www.svatohaj.sk/samovarisa.html"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": " sa nachádza veľmi zaujímavý článok práve k tejto téme, ktorý si dovolím zacitovať:"
+                "text": "Na stránke http://www.svatohaj.sk/samovarisa.html sa nachádza veľmi zaujímavý článok práve k tejto téme, ktorý si dovolím zacitovať:"
               }
             ]
           }
@@ -657,7 +751,7 @@
               },
               {
                 "type": "text",
-                "text": "Fredegarova kronika je jediným dôveryhodným historickým zdrojom informácii o Samovi a jeho kráľovstve. Existuje ešte druhý zdroj: O obrátení Bavorov a Korutáncov (Conversio), ktorý však vznikol o dvesto rokov neskôr a nieje celkom dôveryhodný. Čerpal zo skromných zápisov známych pod názvom Gesta Dagoberti regis – urobených z Fredegarovej kroniky, ktoré boli rovnako tendenčným spisom. Z tohto zdroja vznikol omyl, ktorý využili romantici proti Nemeckému osočovaniu, a tvrdili že Samo bol pôvodom Slovan. Nemecký historici naopak presadzovali myšlienku že bol pôvodom Germán. Z analýzy starokeltského slovníka od A. Holdera je však jasné, že meno Samo je keltského pôvodu. A odkiaľ Samo pochádzal? Senonský kraj sa nachádzal pri dnešnom meste Sens vo Francúzku a dnes je známy pod menom Champagne. Bol to kraj v ktorom sa križovali všetky dôležité cesty a to aj smerom na východ – do povodia Dunaja. V tomto kraji sa ešte aj v šiestom storočí v hornatých častiach udržiavala keltská pohanská tradícia. Teda Samo bol pôvodom Kelt, poddaný franskej ríše, ale hlavne to bol obchodník. Obchodník, ktorý sa rovnako ako mnoho iných rozhodol zarobiť na vojnovom spore. Na spore Slovanov s Avarmi. Slovania potrebovali kvalitné zbrane, aby tak vyvážili vojenskú prevahu Avarov a to bola príhodná chvíľa pre obchod. Samo zozbieral mnohých kupcov a na čele tejto ozbrojenej karavány pobral sa na územie Slovanov. Kupecké oddiely tých čias sa o svoju ochranu starali sami, preto je veľmi pravdepodobné že samotný kupci boli zbehlý v bojovom umení, čo nám o Samovi potvrdzuje aj Fredegarova kronika. ",
+                "text": "Fredegarova kronika je jediným dôveryhodným historickým zdrojom informácií o Samovi a jeho kráľovstve. Existuje ešte druhý zdroj: O obrátení Bavorov a Korutáncov (Conversio), ktorý však vznikol o dvesto rokov neskôr a nie je celkom dôveryhodný. Čerpal zo skromných zápisov známych pod názvom Gesta Dagoberti regis – urobených z Fredegarovej kroniky, ktoré boli rovnako tendenčným spisom. Z tohto zdroja vznikol omyl, ktorý využili romantici proti nemeckému osočovaniu, a tvrdili, že Samo bol pôvodom Slovan. Nemeckí historici naopak presadzovali myšlienku, že bol pôvodom Germán. Z analýzy starokeltského slovníka od A. Holdera je však jasné, že meno Samo je keltského pôvodu. A odkiaľ Samo pochádzal? Senonský kraj sa nachádzal pri dnešnom meste Sens vo Francúzsku a dnes je známy pod menom Champagne. Bol to kraj, v ktorom sa križovali všetky dôležité cesty a to aj smerom na východ – do povodia Dunaja. V tomto kraji sa ešte aj v šiestom storočí v hornatých častiach udržiavala keltská pohanská tradícia. Teda Samo bol pôvodom Kelt, poddaný franskej ríše, ale hlavne to bol obchodník. Obchodník, ktorý sa rovnako ako mnoho iných rozhodol zarobiť na vojnovom spore. Na spore Slovanov s Avarmi. Slovania potrebovali kvalitné zbrane, aby tak vyvážili vojenskú prevahu Avarov a to bola príhodná chvíľa pre obchod. Samo zozbieral mnohých kupcov a na čele tejto ozbrojenej karavány pobral sa na územie Slovanov. Kupecké oddiely tých čias sa o svoju ochranu starali sami, preto je veľmi pravdepodobné, že samotní kupci boli zbehlí v bojovom umení, čo nám o Samovi potvrdzuje aj Fredegarova kronika. ",
                 "italic": true
               }
             ]
@@ -672,7 +766,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Dlho sa viedli spory o tom, kamže to ten Samo vlastne prišiel. Historici hľadali jadro Samovej ríše (ja som skôr za názov kráľovstvo) v Čechách vo východnom Nemecku aj v Korutánsku. Názory presadzujúce za územie Samovho kráľovstva Korutánsko sa rýchlo rozplynuli po zistení, že Conversio nieje dôveryhodným zdrojom. Korutánsky Slovania boli príliš závislí od Longobardov a o ich odboji by sme sa iste dozvedeli z ich dejín. Takisto sa vo Fredegarovej kronike spomína že neskôr podnikali výpady aj do Durínska, čo by z Korutánska nebolo práve vhodné miesto na útok proti Franskej ríši, lebo ho oddeľovalo územie Avarov, oveľa lepšie by bolo z Korutánska útočiť na Bavorsko. Čechy a Nemecko ako územie Samovho panovania jednoznačne vyvrátila archeológia. Na týchto územiach totižto nikdy neboli Avari a ani v susedných oblastiach a teda títo Slovania sa nemohli proti nim búriť. Severo-západné rozšírenie Avarov končilo zhruba na území dnešného Maďarska. Teda na severe siahalo po Dunaj a na juh košickej kotliny, na západe po rieku Leithu blízko východných rakúskych hraníc. Samova ríša sa teda musela nachádzať niekde na tejto hranici a najpočetnejšie osídlenie z tohto obdobia odkryla archeológia v oblasti Bratislavy. Tu sa našlo mnoho avarsko-slovanských pohrebísk z ktorých môžeme vypozorovať že Slovania mali na tomto území početnú prevahu a boli slobodný, pretože nosili zbrane. Toto územie zároveň leží na starej obchodnej ceste tiahnúcej sa zo Španielska cez Francúzsko do Nemecka a popri Dunaji ďalej na východ až do Orientu. Táto cesta sa tu navyše križuje so známou Jantárovou cestou tiahnúcou sa až k východobaltskému pobrežiu. ",
+                "text": "Dlho sa viedli spory o tom, kamže to ten Samo vlastne prišiel. Historici hľadali jadro Samovej ríše (ja som skôr za názov kráľovstvo) v Čechách vo východnom Nemecku aj v Korutánsku. Názory presadzujúce za územie Samovho kráľovstva Korutánsko sa rýchlo rozplynuli po zistení, že Conversio nie je dôveryhodným zdrojom. Korutánski Slovania boli príliš závislí od Longobardov a o ich odboji by sme sa iste dozvedeli z ich dejín. Takisto sa vo Fredegarovej kronike spomína, že neskôr podnikali výpady aj do Durínska, čo by z Korutánska nebolo práve vhodné miesto na útok proti Franskej ríši, lebo ho oddeľovalo územie Avarov, oveľa lepšie by bolo z Korutánska útočiť na Bavorsko. Čechy a Nemecko ako územie Samovho panovania jednoznačne vyvrátila archeológia. Na týchto územiach totižto nikdy neboli Avari a ani v susedných oblastiach a teda títo Slovania sa nemohli proti nim búriť. Severozápadné rozšírenie Avarov končilo zhruba na území dnešného Maďarska. Teda na severe siahalo po Dunaj a na juh košickej kotliny, na západe po rieku Leithu blízko východných rakúskych hraníc. Samova ríša sa teda musela nachádzať niekde na tejto hranici a najpočetnejšie osídlenie z tohto obdobia odkryla archeológia v oblasti Bratislavy. Tu sa našlo mnoho avarsko-slovanských pohrebísk, z ktorých môžeme vypozorovať, že Slovania mali na tomto území početnú prevahu a boli slobodní, pretože nosili zbrane. Toto územie zároveň leží na starej obchodnej ceste tiahnucej sa zo Španielska cez Francúzsko do Nemecka a popri Dunaji ďalej na východ až do Orientu. Táto cesta sa tu navyše križuje so známou Jantárovou cestou tiahnucou sa až k východobaltskému pobrežiu. ",
                 "italic": true
               }
             ]
@@ -687,7 +781,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Tu sa teda s najväčšou pravdepodobnosťou nachádzalo jadro Samovho kráľovstva či ríše. O tom kam až siahalo sa môžeme len dohadovať, ale je dosť možné že na územie Čiech, pretože sa k Samovej ríši pridal aj knieža lužických Srbov – Dervan. Tu pri Bratislavskej bráne, pri dobre strážených brodoch cez Dunaj sa odohrávali slávne bitky proti Avarským kmeňom. Vo Fredegarovej kronike nachádzame zmienku o tom že Avari chodili k Slovanom prezimovať. Bolo to preto, že Avari neboli naučený uchovávať seno pre kone na zimu. Boli to výborný jazdci, ktorý dokázali presne strieľať počas cvalu, oháňať sa šabľou či toporom. Vyznali sa v metalurgii, no nie v poľnohospodárstve. V boji plne využívali výhody jazdy – rýchlosť v presunoch. Boli doslova zrastený so svojimi koňmi, čomu sa prispôsobila aj ich fyziognómia. Mali krátke nohy do tvaru O a zakrpatené stupaje. Tvar hlavy mali typicky azijský – sploštenú tvár a čierne vlasy. No Slovania neboli tiež žiadny holúbkovia. Svedčia nám o tom zápisy z Bizancie, ktoré Slovanských bojovníkov oceňujú za ich prieskumnícke zručnosti. Slovania sa dokázali výborne maskovať v lesoch, prepadávať zo zálohy, bojovať v úžľabinách, močarinách a nastražiť pasce. ",
+                "text": "Tu sa teda s najväčšou pravdepodobnosťou nachádzalo jadro Samovho kráľovstva či ríše. O tom, kam až siahalo, sa môžeme len dohadovať, ale je dosť možné, že na územie Čiech, pretože sa k Samovej ríši pridal aj knieža lužických Srbov – Dervan. Tu pri Bratislavskej bráne, pri dobre strážených brodoch cez Dunaj sa odohrávali slávne bitky proti avarským kmeňom. Vo Fredegarovej kronike nachádzame zmienku o tom, že Avari chodili k Slovanom prezimovať. Bolo to preto, že Avari neboli naučení uchovávať seno pre kone na zimu. Boli to výborní jazdci, ktorí dokázali presne strieľať počas cvalu, oháňať sa šabľou či toporom. Vyznali sa v metalurgii, no nie v poľnohospodárstve. V boji plne využívali výhody jazdy – rýchlosť v presunoch. Boli doslova zrastení so svojimi koňmi, čomu sa prispôsobila aj ich fyziognómia. Mali krátke nohy do tvaru O a zakrpatené stupaje. Tvar hlavy mali typicky ázijský – sploštenú tvár a čierne vlasy. No Slovania neboli tiež žiadni holúbkovia. Svedčia nám o tom zápisy z Bizancie, ktoré slovanských bojovníkov oceňujú za ich prieskumnícke zručnosti. Slovania sa dokázali výborne maskovať v lesoch, prepadávať zo zálohy, bojovať v úžľabinách, močarinách a nastražiť pasce. ",
                 "italic": true
               }
             ]
@@ -702,7 +796,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Aby však mohla vzniknúť Samova ríša, tu žijúci Slovania sa museli dostať na úroveň hospodárenia, ktorá im umožňovala živiť neproduktívny aparát vojakov a vodcov. V neposlednom rade museli prekonať kmeňovú roztrieštenosť na čo im mohol výborne poslúžiť cudzinec. Sú známe mnohé prípady z histórie, keď ambície jednotlivých náčelníkov nedovoľovali ani jednému ujať sa vlády a preto sa ako vládca ujal práve človek z cudziny, ktorého mohli všetci akceptovať. Je tiež možné že Samo neprišiel až tak celkom do cudzieho kraja. Je pravdepodobné že tu ešte aj v jeho časoch prebývali asimilované pozostatky Keltských Kotínov, ktoré sa udržali v rudonosných horách. Samo si tu rýchlo zvykol, prisvojil si Slovanské obyčaje a spôsoby, medzi ktoré patrilo aj mnohoženstvo. Počas jeho vlády (623 – 658) Slovania zviedli mnoho bojov proti Avarom a zakaždým vyhrávali, neskôr sa dokonca obrátili aj so svojím vládcom – pôvodne Franským poddaným proti Franskej ríši a dosiahli v tomto boji nemalé úspechy. Po jeho smrti sa síce ríša rozpadla, no na jej základoch zrejme neskôr stavala ríša Veľkomoravská.\"",
+                "text": "Aby však mohla vzniknúť Samova ríša, tu žijúci Slovania sa museli dostať na úroveň hospodárenia, ktorá im umožňovala živiť neproduktívny aparát vojakov a vodcov. V neposlednom rade museli prekonať kmeňovú roztrieštenosť na čo im mohol výborne poslúžiť cudzinec. Sú známe mnohé prípady z histórie, keď ambície jednotlivých náčelníkov nedovoľovali ani jednému ujať sa vlády a preto sa ako vládca ujal práve človek z cudziny, ktorého mohli všetci akceptovať. Je tiež možné, že Samo neprišiel až tak celkom do cudzieho kraja. Je pravdepodobné, že tu ešte aj v jeho časoch prebývali asimilované pozostatky keltských Kotínov, ktoré sa udržali v rudonosných horách. Samo si tu rýchlo zvykol, prisvojil si slovanské obyčaje a spôsoby, medzi ktoré patrilo aj mnohoženstvo. Počas jeho vlády (623 – 658) Slovania zviedli mnoho bojov proti Avarom a zakaždým vyhrávali, neskôr sa dokonca obrátili aj so svojím vládcom – pôvodne franským poddaným proti Franskej ríši a dosiahli v tomto boji nemalé úspechy. Po jeho smrti sa síce ríša rozpadla, no na jej základoch zrejme neskôr stavala ríša Veľkomoravská.\"",
                 "italic": true
               }
             ]
@@ -717,7 +811,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "S mnohými názormi autora sa dá súhlasiť, napríklad konštatovanie na záver článku o tom, že Veľkomoravská ríša bola budovaná na pozostatkoch Samovej ríše je veľmi pravdepodobný. Na niektorých miestach ako napr Nitra, Devín, Mikulčice atď. mohla byť bezpochyby zachovaná kontinuita vlády regionálnych veľmožov ešte z čias Samovej ríše, aj keď zrejme nevystupovali jednotne ako súčasť jednej ríše. V následných desaťročiach po rozpade zrejme prebiehali mocenské zápasy a snahy o zjednotenie, ktoré pokračovali vznikom Nitrianskeho a Moravského kniežatstva a vyvrcholili porážkou Pribinu a vznikom Veľkej Moravy."
+                "text": "S mnohými názormi autora sa dá súhlasiť, napríklad konštatovanie na záver článku o tom, že Veľkomoravská ríša bola budovaná na pozostatkoch Samovej ríše je veľmi pravdepodobné. Na niektorých miestach ako napr. Nitra, Devín, Mikulčice atď. mohla byť bezpochyby zachovaná kontinuita vlády regionálnych veľmožov ešte z čias Samovej ríše, aj keď zrejme nevystupovali jednotne ako súčasť jednej ríše. V následných desaťročiach po rozpade zrejme prebiehali mocenské zápasy a snahy o zjednotenie, ktoré pokračovali vznikom Nitrianskeho a Moravského kniežatstva a vyvrcholili porážkou Pribinu a vznikom Veľkej Moravy."
               }
             ]
           }
@@ -731,7 +825,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Zaujímavý (aj keď netvrdím že určite správny) výklad názvu Wogastisburg priniesol aj Matúš Kučera v knihe Slovensko v dobách stredovekých, kde uvádza:"
+                "text": "Zaujímavý (aj keď netvrdím, že určite správny) výklad názvu Wogastisburg priniesol aj Matúš Kučera v knihe Slovensko v dobách stredovekých, kde uvádza:"
               }
             ]
           }
@@ -764,7 +858,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Pri ďalšom a hlbšom pátraní sa zistilo, že ono slovíčko má skutočne germánsky pôvod, ale že si ho pred Slovanmi vypožičali už Rimania a dali mu zvláštny, jedinečný obsah. Pomenovali ním pevnostné veže, ale aj veľké pevnostné zoskupenia, ktoré postavili na hranici medzi svojou ríšou a barbarským germánskym svetom. Pevnostná hranica sa tiahla pozdĺž Dunaja, ktorý sám bol ťažko prekonateľnou prekážkou pre ľudí dávneho staroveku a raného stredoveku, a nazývala sa Limes romanus. Popri nej po celej dĺžke Rimania nastavali mnoho burgov či burgusov. Napríklad len od dnešnej Budapešti cez Komárno až po Bratislavu sa ich nad podunajskou rovinou týčilo vyše štyridsať. Niektoré bolí len neveľkými strážnymi vežami, no na miestach, kde Limes križovala veľká a frekventovaná cesta alebo kde sa Dunaj dal prebrodiť aj na furmanskom voze (napríklad pri dnešnej Bratislave), vyrástli veľké a rozložité opevnené miesta — burgy. (V dnešnom Anglicku, kde sa takéto burgy dobre zachovali, poznáme podaktoré až o rozlohe 20 hektárov a Angličania ich dodnes volajú burghs.) Boli to vlastne trhoviská, kde sa stretávali rímski a barbarskí kupci a navzájom si vymieňali a predávali tovar. Takýchto obchodníckych burgov bolo na dunajskej limitnej čiare niekoľko. A o tom, že boli skutočne dobre vybrané a dlho známe, svedčí aj názov mnohých miest, ktorým slovíčko burg v mene zostalo. Poznáme Štrasburg, Ausburg, Regensburg, Salz-burg a iné názvy. Na našom území je tiež jeden, a to starý názov našej Bratislavy. Podľa slovanského kniežaťa Braslava, ktorý sídlil v hradisku na dnešnej hradnej vyvýšenine, sa utvoril názov Braslavs-burg (teda burg Braslavov), z neho Brrslavsburg a ďalej Pressburg, odkiaľ je In i krôčik k známemu Prešporok. Starý názov Bratislavy nám teda pripomína, že i nit jej dnešnom území sa rozkladal burg, v ktorom sa stretávali obchodníci a obchodovali. A keďže vieme aj to, že obchodníci voľakedy nazývali gast či gost (z čoho vzniklo naše hosť), dostali sme sa celkom blízučko k vysvetleniu záhadného Wogastisburgu. Išlo nepochybne o burg, kde sa odpradávna stretávali obchodníci — gosti. Takéto miesto navštevoval isto-iste aj kupec Samo, keď chodil do slovanských krajín, tak ako je isté, že sa netúlal po horách a kopcoch, ale šiel pekne po starej rímskej ceste povodím Dunaja. Preto Burgus hostí Wo-gastis-burg musíme hľadať pri tejto mohutnej rieke.\"",
+                "text": "Pri ďalšom a hlbšom pátraní sa zistilo, že ono slovíčko má skutočne germánsky pôvod, ale že si ho pred Slovanmi vypožičali už Rimania a dali mu zvláštny, jedinečný obsah. Pomenovali ním pevnostné veže, ale aj veľké pevnostné zoskupenia, ktoré postavili na hranici medzi svojou ríšou a barbarským germánskym svetom. Pevnostná hranica sa tiahla pozdĺž Dunaja, ktorý sám bol ťažko prekonateľnou prekážkou pre ľudí dávneho staroveku a raného stredoveku, a nazývala sa Limes romanus. Popri nej po celej dĺžke Rimania nastavali mnoho burgov či burgusov. Napríklad len od dnešnej Budapešti cez Komárno až po Bratislavu sa ich nad podunajskou rovinou týčilo vyše štyridsať. Niektoré boli len neveľkými strážnymi vežami, no na miestach, kde Limes križovala veľká a frekventovaná cesta alebo kde sa Dunaj dal prebrodiť aj na furmanskom voze (napríklad pri dnešnej Bratislave), vyrástli veľké a rozložité opevnené miesta — burgy. (V dnešnom Anglicku, kde sa takéto burgy dobre zachovali, poznáme podaktoré až o rozlohe 20 hektárov a Angličania ich dodnes volajú burghs.) Boli to vlastne trhoviská, kde sa stretávali rímski a barbarskí kupci a navzájom si vymieňali a predávali tovar. Takýchto obchodníckych burgov bolo na dunajskej limitnej čiare niekoľko. A o tom, že boli skutočne dobre vybrané a dlho známe, svedčí aj názov mnohých miest, ktorým slovíčko burg v mene zostalo. Poznáme Štrasburg, Ausburg, Regensburg, Salzburg a iné názvy. Na našom území je tiež jeden, a to starý názov našej Bratislavy. Podľa slovanského kniežaťa Braslava, ktorý sídlil v hradisku na dnešnej hradnej vyvýšenine, sa utvoril názov Braslavs-burg (teda burg Braslavov), z neho Brrslavsburg a ďalej Pressburg, odkiaľ je In i krôčik k známemu Prešporok. Starý názov Bratislavy nám teda pripomína, že i nit jej dnešnom území sa rozkladal burg, v ktorom sa stretávali obchodníci a obchodovali. A keďže vieme aj to, že obchodníci voľakedy nazývali gast či gost (z čoho vzniklo naše hosť), dostali sme sa celkom blízučko k vysvetleniu záhadného Wogastisburgu. Išlo nepochybne o burg, kde sa odpradávna stretávali obchodníci — gosti. Takéto miesto navštevoval isto-iste aj kupec Samo, keď chodil do slovanských krajín, tak ako je isté, že sa netúlal po horách a kopcoch, ale šiel pekne po starej rímskej ceste povodím Dunaja. Preto Burgus hostí Wo-gastis-burg musíme hľadať pri tejto mohutnej rieke.\"",
                 "italic": true
               }
             ]
@@ -808,7 +902,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "\"Najstarší názor pokúšajúci sa objasniť polohu tohto hradiska ho umiestňuje do Pomohania, kadiaľ viedla kráľovská cesta franských vojnových výprav na východ. Navyše sa tu stretávame s lokalitou, ktorá dodnes nesie meno \"Wogastesrode\". Túto teóriu ďalej podporuje aj existencia spomínaného spojenectva so srbským Dervanom, čo ukazuje na značný rozsah \"ríše\" smerom na západ. Trhlinu do tejto tézy však vnáža fakt, že žiadne staroslovanské hradisko z obdobia 7. storočia v tejto oblasti objavené nebolo. Navyše je otázne, či by hradisko natoľko významné, že sa pri ňom sústreďuje jadro slovanských vojnových síl, ležalo tak ďaleko na západ, na území, ktoré je pod priamym franským vplyvom. A to aj keď príjmeme myšlienku, že išlo o \"pohraničnú\" pevnosť.",
+                "text": "\"Najstarší názor pokúšajúci sa objasniť polohu tohto hradiska ho umiestňuje do Pomohania, kadiaľ viedla kráľovská cesta franských vojnových výprav na východ. Navyše sa tu stretávame s lokalitou, ktorá dodnes nesie meno \"Wogastesrode\". Túto teóriu ďalej podporuje aj existencia spomínaného spojenectva so srbským Dervanom, čo ukazuje na značný rozsah \"ríše\" smerom na západ. Trhlinu do tejto tézy však vnáša fakt, že žiadne staroslovanské hradisko z obdobia 7. storočia v tejto oblasti objavené nebolo. Navyše je otázne, či by hradisko natoľko významné, že sa pri ňom sústreďuje jadro slovanských vojnových síl, ležalo tak ďaleko na západ, na území, ktoré je pod priamym franským vplyvom. A to aj keď prijmeme myšlienku, že išlo o \"pohraničnú\" pevnosť.",
                 "italic": true
               }
             ]
@@ -838,7 +932,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Taktiež bol svojho času vyslovený názor, ktorý ho umiestňuje do severovýchodného Rakúska, do údolia Dunaja. Niečo na tom môže byť, keďže vieme, že aj korutánsky Slovania boli istý čas, s veľkou pravdepodobnosťou, Samovými spojencami.\"",
+                "text": "Taktiež bol svojho času vyslovený názor, ktorý ho umiestňuje do severovýchodného Rakúska, do údolia Dunaja. Niečo na tom môže byť, keďže vieme, že aj korutánski Slovania boli istý čas, s veľkou pravdepodobnosťou, Samovými spojencami.\"",
                 "italic": true
               }
             ]
@@ -853,21 +947,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Historik Anton Hrnko v článku Devín – božská perla Slovenska na stránke "
-              },
-              {
-                "type": "link",
-                "url": "http://www.hrnko.sk/category/slovenske-dejiny/page/5/",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "http://www.hrnko.sk/category/slovenske-dejiny/page/5/"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": " uvádza k lokalizácii Wogastisburgu nasledovné:"
+                "text": "Historik Anton Hrnko v článku Devín – božská perla Slovenska na stránke http://www.hrnko.sk/category/slovenske-dejiny/page/5/ uvádza k lokalizácii Wogastisburgu nasledovné:"
               }
             ]
           }
@@ -881,7 +961,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "\"Všetkým kritériám najlepšie vyhovuje stará rímska pevnosť pri ústi rieky Enže do Dunaja v mestečku Albing. Z mnohých opevnených miest na rímskom Limese, je málo takých, ktorých antický názov sa nezachoval. Patrí medzi ne aj pevnosť v Albingu. Pri rekonštrukcii jej názvu vychádzajú títo historici s častej praxe Rimanov, že mestá na Limese pomenovávali nie podľa mien riek, na ktorých pri Dunaji ležali, ale podľa riek ktoré sa vlievali do Dunaja oproti ním (napr. Regensburg (Rezno) riečka Regen; Passau (Pasov) – riečka Boiodurum, dnešný Ilz). Dokonca aj nemecký názov Ostrihomu je totožný s menom rieky Hron, ktorá sa oproti nemu vlieva do Dunaja (Gran). Keďže riečka oproti Albingu (dnešná Aist) sa v antike nazývala Agasta, usudzujú, že aj pevnosť na rozhraní franskej a slovanskej mocenskej sféry sa volala Agasta, z čoho mohol logicky vzniknúť germánsky názov Wogastisburg (podobne ako o čosi neskôr zo slovenskej Bräslavy vznikol nemecký názov Breslawasburg, Pressburg).",
+                "text": "\"Všetkým kritériám najlepšie vyhovuje stará rímska pevnosť pri ústí rieky Enže do Dunaja v mestečku Albing. Z mnohých opevnených miest na rímskom Limese, je málo takých, ktorých antický názov sa nezachoval. Patrí medzi ne aj pevnosť v Albingu. Pri rekonštrukcii jej názvu vychádzajú títo historici z častej praxe Rimanov, že mestá na Limese pomenovávali nie podľa mien riek, na ktorých pri Dunaji ležali, ale podľa riek, ktoré sa vlievali do Dunaja oproti nim (napr. Regensburg (Rezno) riečka Regen; Passau (Pasov) – riečka Boiodurum, dnešný Ilz). Dokonca aj nemecký názov Ostrihomu je totožný s menom rieky Hron, ktorá sa oproti nemu vlieva do Dunaja (Gran). Keďže riečka oproti Albingu (dnešná Aist) sa v antike nazývala Agasta, usudzujú, že aj pevnosť na rozhraní franskej a slovanskej mocenskej sféry sa volala Agasta, z čoho mohol logicky vzniknúť germánsky názov Wogastisburg (podobne ako o čosi neskôr zo slovenskej Bräslavy vznikol nemecký názov Breslawasburg, Pressburg).",
                 "italic": true
               }
             ]
@@ -896,7 +976,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Z uvedenej, podľa môjho názoru celkom presvedčivej argumentácie, vychádza, že Wogastisburg nemohol byť centrálnym sídelným miestom kráľa Sama. Takéto sídlo muselo byť hlbšie v zázemí, muselo byť dobre opevnené a muselo mať centrálnu polohu vo vzťahu k územiu ríše. Za najpravdepodobnejšie Samovo sídlo, alebo aspoň jedno z viacerých jeho ústredných sídel považuje historik Ján Steinhübel práve hrad Devín. Oproti vtedy už zanikajúcemu Carnuntu mal nesporne výhodu v tom, že bol proti náhlemu vpádu Avarov lepšie chránený tokom Dunaja, ale nielen ním. Už vyššie spomínaný rímsky cisár Valentinián dal roku 375 opevniť hrad nebývalo vysokým drevozemným valom, ktorý dokonalo chránil návršie hradu proti potenciálnym útočníkom z východnej a severovýchodnej strany. Je to ten istý val, ktorý neskôr dobre poslúžil aj veľkomoravskému hradisku a stredovekému hradu a ktorého mohutnosť môžeme ešte aj dnes sledovať od východnej brány smerom k severnej bráne a ktorého časť na severnej strane pred očami pamiatkarov rozobrali a stále rozoberajú miestni obyvatelia v snahe „rozšíriť“ si vlastné dvory. Aj taká môže byť pamiatková starostlivosť na Slovensku a vzťah občanov k historickej pamiatke najvyššej dôležitosti. Žiaľ, nie je to len ojedinelý prípad Devína.\"",
+                "text": "Z uvedenej, podľa môjho názoru celkom presvedčivej argumentácie, vychádza, že Wogastisburg nemohol byť centrálnym sídelným miestom kráľa Sama. Takéto sídlo muselo byť hlbšie v zázemí, muselo byť dobre opevnené a muselo mať centrálnu polohu vo vzťahu k územiu ríše. Za najpravdepodobnejšie Samovo sídlo, alebo aspoň jedno z viacerých jeho ústredných sídel považuje historik Ján Steinhübel práve hrad Devín. Oproti vtedy už zanikajúcemu Carnuntu mal nesporne výhodu v tom, že bol proti náhlemu vpádu Avarov lepšie chránený tokom Dunaja, ale nielen ním. Už vyššie spomínaný rímsky cisár Valentinián dal roku 375 opevniť hrad nebývalo vysokým drevozemným valom, ktorý dokonale chránil návršie hradu proti potenciálnym útočníkom z východnej a severovýchodnej strany. Je to ten istý val, ktorý neskôr dobre poslúžil aj veľkomoravskému hradisku a stredovekému hradu a ktorého mohutnosť môžeme ešte aj dnes sledovať od východnej brány smerom k severnej bráne a ktorého časť na severnej strane pred očami pamiatkarov rozobrali a stále rozoberajú miestni obyvatelia v snahe „rozšíriť“ si vlastné dvory. Aj taká môže byť pamiatková starostlivosť na Slovensku a vzťah občanov k historickej pamiatke najvyššej dôležitosti. Žiaľ, nie je to len ojedinelý prípad Devína.\"",
                 "italic": true
               }
             ]
@@ -978,39 +1058,22 @@
         ]
       },
       {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "heading",
-            "children": [
-              {
-                "type": "text",
-                "text": "Spracoval: Orgoň"
-              }
-            ],
-            "level": 2
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Michal Lutovský a Naďa Profantová: Sámova ríše, Academia Praha, 1995\n Matúš Kučera: Slovensko v dobách stredovekých, Mladé letá 1985"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "__component": "content.sources",
         "title": "Zdroje a literatúra",
         "intro": null,
         "items": [
+          {
+            "text": "Spracoval: Orgoň",
+            "url": null
+          },
+          {
+            "text": "Michal Lutovský a Naďa Profantová: Sámova ríše, Academia Praha, 1995",
+            "url": null
+          },
+          {
+            "text": "Matúš Kučera: Slovensko v dobách stredovekých, Mladé letá 1985",
+            "url": null
+          },
           {
             "text": "http://dubrava.vkrp.sk",
             "url": "http://dubrava.vkrp.sk"
@@ -1027,6 +1090,18 @@
       }
     ],
     "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "Michal Lutovský a Naďa Profantová: Sámova ríše, Academia Praha, 1995"
+      },
+      {
+        "type": "book",
+        "text": "Matúš Kučera: Slovensko v dobách stredovekých, Mladé letá 1985"
+      },
       {
         "type": "external-url",
         "url": "http://dubrava.vkrp.sk",
