@@ -46,7 +46,8 @@ node scripts/blog-migrate/report.mjs --slug=<slug> --feed=data/<post>.json
 - **Re-upload zachováva ručnú prácu:** quote-blocky, embed, obrázky, galéria, kategória, tagy sa pri PUT **nesmú stratiť** — payload sa stavia z GET živého článku, mení sa len čo treba.
 - **Audit súbory** (`.timeline.json`, `.grammar.json`) sú oddelené od surového extraktu — rollback + prehľad. Token natrvalo v `.env` (§6.2).
 - **Básne = quote-block, ale iný komponent:** centrovaný kurzívový beh ≥2 veršov → `content.poem` (nie `content.rich-text`, nie `quote-block`). Detekcia je automatická (pre-pass `markPoemRuns`), žiadny manuálny krok. Viď §20.
-- **Zdrojová sekcia (Fáza 1) sa nesmie duplikovať v tele:** `content.sources`/citácie AJ trim z tela musia súhlasiť — over pri každom novom článku s "atribučným" markerom (Spracoval/Foto/Zdroj) uprostred väčšieho divu. Viď §9.6.
+- **Zdrojová sekcia (Fáza 1) sa nesmie duplikovať v tele:** `content.sources`/citácie AJ trim z tela musia súhlasiť — over pri každom novom článku s "atribučným" markerom (Spracoval/Foto/Zdroj) uprostred väčšieho divu. `findInternalSourcesSplit` (kde sa zdroje začínajú) a `looksLikeSources` (čo sa z tela vystrihne) sú DVE oddelené funkcie s vlastným marker-setom — musia sa udržiavať ručne synchrónne. Viď §9.6, §9.8.
+- **Pri redeployi (zmazať+nahrať nanovo) skontroluj `out/<slug>.overrides.json`:** ak existuje zo staršej session, `upload.mjs` ho aplikuje automaticky — môže niesť žiadanú kurátorskú prácu (cover/excerpt/vložené obrázky), ale môže kolidovať s novým dokumentovým poradím po fixoch v extract.mjs (napr. 2 obrázky na tej istej pozícii → riešiť cez `pairWithNext`, nie mazať override). Viď §9.10.
 
 ---
 
@@ -842,6 +843,32 @@ const cleanText = decodeHtmlEntities((c.content || '').replace(/<[^>]+>/g, ''))
 
 **Fix je len pre budúce importy** (nový komentár cez Pass 1 create). Už zmigrované komentáre s entitami sa neopravia automaticky pri re-uploade (Pass 1 ich cez `sourceBloggerId` len REUSE-uje, netýka sa ich). Audit naprieč všetkými 6 vtedy živými článkami napočítal **14/57** postihnutých komentárov — opravené jednorazovo cieleným `PUT /api/blog-comments/<documentId>` (len `content`, nedotklo sa `documentId`/likes/threadingu). Ak sa objavia ďalšie staré komentáre s entitami (napr. po dokončení zvyšných 11 článkov), rovnaký jednorazový patch-skript zopakovať.
 
+### 9.8 Sources-split trim loop — 3. bug: bold/atribučné markery (Blatnohrad, vyriešené v6.1)
+
+Rovnaká rodina ako §9.6, iný spúšťač. `looksLikeSources` (trim v tele) poznala len `zdroj:/pramen:/literatúra:` a `https?://`, ale nezrkadlila **všetky** markery, ktoré `findInternalSourcesSplit` (rozhoduje KDE sa zdroje začínajú) už uznáva — bold "Preložili sme", `spracoval/autori/prebral/prevzaté:`, fráza "prevzatý z/preložené z". Blatnohradova 116-znaková intro veta k zdrojom ("**Preložili sme pre Vás odborné články...**") nezhodla ani jeden z troch pôvodných trim-markerov (nie je URL, nie je `zdroj:`, dlhšia než 30 znakov) → ostala duplicitne v tele aj v `content.sources`.
+
+**Fix:** trim-check rozšírený o rovnaký marker-set ako `findInternalSourcesSplit` (bold "Preložili sme", atribučné prefixy, "prevzatý/preložené z" fráza) — obe funkcie teraz musia zhodnúť rovnaký začiatok zdrojov, inak sa split a trim rozídu. Regresne overené na Mikulčice/Velehrad/Wogastisburg/Arkona (0 zmien).
+
+**Poučenie pre budúce články:** ak sa objaví duplicita zdrojov aj po tomto fixe, over najprv `findInternalSourcesSplit` (§ vyššie v extract.mjs) vs. `looksLikeSources` (trim) — sú to DVE oddelené funkcie s vlastnými zoznamami markerov, ktoré sa musia ručne udržiavať synchrónne. Bezpečnejší dlhodobý fix (zatiaľ neurobený) by bol zdieľať jeden marker-set.
+
+### 9.9 `normalizeLeading` orezávala aj koncový whitespace (Mikulčice, vyriešené v6.1)
+
+Funkcia `normalizeLeading(s)` (aplikovaná na prvé dieťa odseku) napriek názvu orezávala `^[\s ]+` AJ `[\s ]+$` — teda aj koncovú medzeru. Keď bolo prvé dieťa odseku obyčajný text končiaci tesne pred odkazom/boldom/italic (bežné pri Blogger vetách plynulo prechádzajúcich do `<a>`, napr. "...Kopčany s kostolom " + `<a>Kostol sv. Margity...</a>`), medzera pred nasledujúcim uzlom zmizla a text sa zlepil: `"kostolomKostol"`, `"tu:Bohatstvo"`.
+
+**Fix:** orezáva LEN úvodný whitespace, ako názov aj komentár nad funkciou vždy sľubovali. Diagnostika trvala dlho — bug bol v inline text-processing vrstve (`flushInlineBuf`/`normalizeLeading`), nie v sources-split logike, kde sa hľadalo najprv. Regresný test: hľadanie vzoru malé-veľké písmeno bez medzery (`/\p{Ll}\p{Lu}/gu`) v extrahovanom texte naprieč všetkými článkami — 0 výskytov po fixe.
+
+**Poučenie:** pri budúcom podozrení na "zlepený text" (dve slová bez medzery na hranici inline uzlov) hľadaj najprv v `flushInlineBuf`/`normalizeLeading`/`inlineChildren`, nie len v sources-split.
+
+### 9.10 Staré `overrides.json` sa ticho reaplikuje pri redeployi (Mikulčice, zdokumentované, nie bug)
+
+Pri kompletnom znovu-nasadení článku (zmazať + nahrať nanovo) `upload.mjs` **automaticky** aplikuje `out/<slug>.overrides.json`, ak súbor v `out/` existuje — aj keď pochádza z predchádzajúcej, staršej migračnej session. Pri Mikulčiciach to bola žiaduca vec (zachovala sa staršia kurátorská práca: cover, excerpt, lokalita, ručne vložený obrázok kostola cez `blocksInsertAt`), ale spôsobilo to vedľajší efekt: vložený obrázok pristál vedľa iného, novo-vygenerovaného obrázka na tej istej pozícii (obaja `position: right`) → vizuálna "stena" 2 obrázkov za sebou.
+
+**Fix (obsahový, nie kódový):** zmenená pozícia vloženého obrázka na `left` + `pairWithNext: true` — namiesto steny sa vykreslí ako spárovaný riadok vedľa seba (existujúci frontend mechanizmus, `DynamicZoneRenderer.tsx`).
+
+**Vedľajší fix v `report.mjs`:** wall-detekcia (`§19`, "max 1 obrázok za sebou") nepoznala `pairWithNext` a falošne hlásila stenu aj pri korektne spárovaných obrázkoch. Opravené — obrázok bezprostredne za `pairWithNext:true` súrodencom nepredlžuje "run" (je súčasť toho istého vizuálneho riadku). Regresne overené na 5 ostatných článkoch (0 zmien vo verdiktoch).
+
+**Poučenie pre budúci redeploy:** PRED vymazaním + nahraním nanovo skontroluj `out/<slug>.overrides.json` — ak existuje, over jeho obsah (môže byť stará kurátorská práca, ktorú chceš zachovať, ale môže kolidovať s novým dokumentovým poradím obrázkov po fixoch v extract.mjs).
+
 ---
 
 ## 10. Recovery procedure — ak nová Claude session
@@ -1053,10 +1080,10 @@ curl -s -o $null -w "%{http_code}`n" http://localhost:1337/_health
 > Strapi schéma: `blog-post` (s `coverImage`, `gallery`, `blocks` dynamiczone, `comments` 1:N), `blog-comment` (verejné POST + like/unlike).
 > Komentáre: `sourceBloggerId` numeric pre idempotency, threading cez `link[rel=related]` z Blogger feedu (`inReplyTo` = parent Strapi documentId).
 > Token pre upload je natrvalo v `hradiska-strapi/.env` (`STRAPI_TOKEN=`, Full Access) a `upload.mjs` ho načíta sám cez dotenv — netreba ho zadávať (viď 6.2). Manuálne overrides cez `out/<slug>.overrides.json` (blocksPrepend/Append/InsertAt + plain fields).
-> **6 článkov live v Strapi.** Plný v6 pipeline (sidebar + gramatika aplikovaná): **Arkona** (documentId `lfaky9t9qtgoi8qygfyflmd8`, 5× `content.poem`, 23 rich-text, timeline 10, keyFacts 10), **Staré Mesto-Velehrad**, **Wogastisburg** — referenčné, `report.mjs` verdikt ✅ MIGRÁCIA ÚPLNÁ. **Blatnohrad, Mikulčice-Kopčany, Nitra** predchádzajú v6 — v DB majú `timeline: []`/`keyFacts: []` (0 položiek), plánované kompletné znovu-nasadenie (zmazať + nahrať nanovo cez v6).
+> **6 článkov live v Strapi.** Plný v6 pipeline (sidebar + gramatika aplikovaná): **Arkona** (documentId `lfaky9t9qtgoi8qygfyflmd8`, 5× `content.poem`), **Staré Mesto-Velehrad**, **Wogastisburg**, **Blatnohrad** (`wwwdw03vkhivy0embsfq74no`, redeploy), **Mikulčice-Kopčany** (`emqid1imvyqts9xnv9mcwzs2`, redeploy) — `report.mjs` verdikt ✅ MIGRÁCIA ÚPLNÁ na všetkých 5. **Nitra** ako jediná ešte predchádza v6 (`timeline: []`/`keyFacts: []`) — nasleduje v poradí.
 > **Básne (`content.poem`, v6.1):** centrovaný kurzívový beh ≥2 veršov sa deteguje automaticky (`markPoemRuns` pre-pass v `extract.mjs`, žiadny manuálny krok), excerpt ich preskakuje, `report.mjs` ich počíta do pokrytia. Frontend `PoemRenderer` má vlastný vizuál (ornamentálny rám — parchment panel, ornament nad textom, zlatá atribúcia). Viď §20.
-> **Sources-split (v6.1, §9.6)** a **entity dekódovanie v komentároch (§9.7)** opravené — obe automaticky pre budúce články, žiadny manuálny zásah netreba.
-> Cieľ: dobehnúť Blatnohrad/Mikulčice/Nitra cez v6, potom postupne zvyšných 11 článkov z labelu Najvýznamnejšie hradiská. Pred dávkou opraviť parser pre Google Maps `pb=`, embed videí, Bojná false positive citations, Divinka stub (§11.1 — stále otvorené).
+> **Sources-split bugy (v6.1, §9.6+§9.8, 3 samostatné príčiny)**, **entity dekódovanie v komentároch (§9.7)** a **`normalizeLeading` glejenie textu (§9.9)** opravené — všetky automaticky pre budúce články. **§9.10:** pri redeployi VŽDY skontroluj, či existuje staré `out/<slug>.overrides.json` — aplikuje sa automaticky a môže kolidovať s novým poradím obrázkov (pairWithNext rieši).
+> Cieľ: dobehnúť Nitru cez v6 (posledná zo 6 pôvodných), potom postupne zvyšných 11 článkov z labelu Najvýznamnejšie hradiská. Pred dávkou opraviť parser pre Google Maps `pb=`, embed videí, Bojná false positive citations, Divinka stub (§11.1 — stále otvorené).
 
 ---
 
