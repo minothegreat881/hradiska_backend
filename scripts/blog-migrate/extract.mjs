@@ -1735,6 +1735,11 @@ function buildOutputForEntry(entry, commentsData, sourceFeedPath) {
   }
   removeMapsExpandLinks(blocks);
   cleanupOrphanChildren(blocks);
+  // cleanupOrphanChildren vyprázdni `body` odsekov bez reálneho textu, ale nechá
+  // samotný (teraz prázdny) content.rich-text blok stáť — ak je to PRVÝ takýto blok
+  // v článku, frontend naň napriek prázdnote naviaže "prvý rich-text blok" pre drop-cap
+  // a iniciála sa v článku nezobrazí vôbec (Velehrad: blocks[0] = {body: []}).
+  blocks = blocks.filter((b) => b.__component !== 'content.rich-text' || (b.body && b.body.length > 0));
   blocks = mergeConsecutiveQuotes(blocks);
   blocks = splitLongParagraphsBySectionHeaders(blocks);
   convertShortParagraphsToHeadings(blocks);
