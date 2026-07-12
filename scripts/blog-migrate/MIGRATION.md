@@ -887,6 +887,18 @@ Pri kompletnom znovu-nasadení článku (zmazať + nahrať nanovo) `upload.mjs` 
 
 **Fix:** `alt: (caption || ctx.articleTitle || 'Obrázok').slice(0, 255)` — orezanie bez elipsy (alt je pre screen readery, nie viditeľný čitateľovi, orezanie uprostred vety je akceptovateľné). Aplikuje sa automaticky pre všetky budúce články.
 
+### 9.12 Tri UX bugy z vizuálnej kontroly Nitry (vyriešené, 2/3 potvrdene celoplošné)
+
+Zistené priamym prehliadaním publikovaného článku (screenshoty), nie automatizovaným reportom — pripomienka, že `report.mjs` overuje integritu obsahu, nie vizuálny výsledok.
+
+**a) Drop-cap na osamotenej zátvorke.** Frontend (`DynamicZoneRenderer.tsx`) aplikuje veľkú iniciálu na PRVÝ `content.rich-text` blok v článku bez ohľadu na jeho obsah. Ak báseň/citát má krátku citačnú poznámku hneď za sebou ako samostatný odsek (Nitra: `"(Slovenské Spevy vyd. v Turč. Sv. Martine r. 1883)"` po ľudovej piesni), táto poznámka sa stane "prvým odsekom" a dropcap skončí na otváracej zátvorke namiesto na skutočnom prvom odseku. **Fix (dátový, per-článok):** presunúť citáciu do `content.quote-block.source` poľa danej básne/citátu a odstrániť samostatný blok. Nie je to (zatiaľ) automatizované v `extract.mjs` — pri budúcich článkoch s rovnakým vzorom (krátka zátvorková citácia hneď za quoteDivs blokom) over ručne v Fáze 1b.
+
+**b) Sketchfab fallback-attribution unikala do tela (extract.mjs, celoplošný fix).** Sketchfab pod každý embed automaticky vygeneruje `<div>` s 3 odkazmi (názov modelu / "by" autor / "on Sketchfab", všetky s `utm_medium=embed`). Bez filtra sa jeho text vytrhol z kontextu a objavil sa v tele ako 3 nelogické riadky. **Fix:** `isEmbedAttributionDiv()` vo `walkDocOrder` rozpozná div, ktorého JEDINÝ obsah sú sketchfab.com/utm_medium=embed odkazy (+ "by"/"on" spojky), a zahodí ho celý.
+
+**c) Bibliografické citácie zlepené bez zalomenia (extract.mjs, celoplošný fix, dodatočne potvrdené aj na Arkone).** `splitDivIntoLines()` (používa `findInternalSourcesSplit` aj `classifyCitation*`) predtým riadkovala LEN podľa `<br>` — vnorené `<div>`/`<p>` bez `<br>` medzi nimi sa ticho rekurzovali do TOHO ISTÉHO riadku. Viacero samostatných top-level `<div>` bibliografických záznamov (bežný formát: každá citácia = vlastný `<div>`, žiadny `<br>` medzi nimi) sa tak zlialo do jedného obrovského textu (Nitra: 4 samostatné záznamy → 1; Arkona: 2 → 1, potvrdené pri re-extrakcii). **Fix:** `<div>`/`<p>` teraz vždy začínajú/končia nový riadok, rovnako ako `<br>`. Frontend (`SourcesRenderer`) už mal správny `<ul><li>` per-item layout a `break-all` na dlhých URL — problém bol výhradne v dátach, nie v renderovaní.
+
+**Dopad na už migrované články:** Arkona bola tiež postihnutá (b) aj (c) fixmi — re-uploadnutá v tejto session. Blatnohrad/Mikulčice/Velehrad/Wogastisburg regresne overené ako nedotknuté (0 zmien v počte blokov/citácií), takže pravdepodobne nemajú tento vzor v zdrojovom HTML — ale vizuálne neboli kontrolované, len automatizovane.
+
 ---
 
 ## 10. Recovery procedure — ak nová Claude session
