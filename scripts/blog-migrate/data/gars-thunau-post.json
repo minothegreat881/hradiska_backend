@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Gars+-+Thunau+-+Ve%C4%BEkomoravsk%C3%A9+hradisko+v+Rak%C3%BAsku+%28A%29?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Gars%20-%20Thunau%20-%20Ve%C4%BEkomoravsk%C3%A9%20hradisko%20v%20Rak%C3%BAsku%20%28A%29"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-6332303399727562905"
+        },
+        "published": {
+          "$t": "2011-11-05T10:22:00.005+01:00"
+        },
+        "updated": {
+          "$t": "2014-07-08T10:07:42.641+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div style=\"margin-bottom: 0in;\">\n&nbsp; &nbsp; &nbsp; &nbsp;Moc Veľkomoravských kniežat – ako je známe nesiahala iba na územie Moravy, Slovenska a Čiech, ale aj na územie viacerých okolitých krajín. Možno niekoho prekvapí, že k územiu Veľkej Moravy patrila aj nezanedbateľná časť dnešného Rakúska. Dokladom o tejto skutočnosti sú viaceré Veľkomoravské hradiská  v Rakúsku, z ktorých najznámejšie je Gars-Thunau.</div>\n<div style=\"margin-bottom: 0in;\">\n<iframe frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://maps.google.com/?ie=UTF8&amp;ll=48.594499,15.653683&amp;spn=0.005428,0.016147&amp;t=h&amp;z=17&amp;vpsrc=6&amp;output=embed\" width=\"425\"></iframe><br />\n<small><a href=\"http://maps.google.com/?ie=UTF8&amp;ll=48.594499,15.653683&amp;spn=0.005428,0.016147&amp;t=h&amp;z=17&amp;vpsrc=6&amp;source=embed\" style=\"color: blue; text-align: left;\">Zvětšit mapu</a></small> </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nPrvá historická zmienka o lokalite je v darovacej listine Freisingerského kláštora. V tej je uvedené, že slovanský knieža Josef daroval pre blaho svojej duše časť svojho majetku v oblasti Kamptal do rúk biskupa kláštora vo Freisingu v Bavorsku v roku 902/903. Toto bližšie neznáme knieža bolo iste aj pánom na slovanskom hradisku medzi dnešnými mestami Gars a Thunau v oblasti Kamptal. Prvý záujem o lokalitu bol teda zo stany historikov a potom už na seba nenechali dlho čakať prvé výskumy amatérskych archeológov. V poslednej tretine 19. storočia preukázal slovanský pôvod zvyšku osídlenia Johann Krahuletz, keď tu objavil rozsiahle ranostredoveké pohrebisko. Následne boli vykonávané rozličné výskumy, ktoré ale mali skôr zberateľský charakter. V 30. rokoch 20. storočia potom bol vykonaný prvý odborný výskum. Výskum začatý roku 1965  potom preukázal mocnosť opevnenia hradiska a jeho rozlohu a skončil o 25 rokov neskôr, v roku 1990.</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Lokalita a slovanské osídlenie</b></div>\n<div style=\"margin-bottom: 0in;\">\n<b><br />\n</b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqV8SdlZjvvg21kTIONQFi5Od8iI1Lq0Zr6fOyBKZumC7vaCldHisQV9CT9B3rvvueAsCjf7Kb1_sn9-GfeM3F2W8KpC_YluFCL1cg0nem-sm0pVrxp3PGGPvGwOa0bZlF91v3_4_hyMM/s1600/1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqV8SdlZjvvg21kTIONQFi5Od8iI1Lq0Zr6fOyBKZumC7vaCldHisQV9CT9B3rvvueAsCjf7Kb1_sn9-GfeM3F2W8KpC_YluFCL1cg0nem-sm0pVrxp3PGGPvGwOa0bZlF91v3_4_hyMM/s320/1.jpg\" height=\"186\" width=\"320\" /></a></div>\n<div style=\"margin-bottom: 0in;\">\n<b><br />\n</b></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nSlovanské opevnené hradisko sa nachádzalo v oblasti Kamptal, medzi mestami Gars am Kamp a Thunau am Kamp v Dolnom Rakúsku. Sídlisko sa rozkladá na dnes husto zalesnenej vyvýšenine v blízkosti rieky Kamp. Táto lokácia je zásadná z hľadiska historického, lebo sa nachádza na východnej periférii Východofranskej ríše a na severe je v priamom kontakte s Moravou, ktorá výrazne ovplyvňovala osudy hradiska. Charakter nálezového materiálu jasne dokazuje vplyv Moravy.<br />\n<br />\nLokalita, na ktorej sa nachádza ranostredoveké hradisko Thunau / Gars je veľmi dobre strategicky položená. Vyvýšenina poskytuje dostatok priestoru pre bohatú sídelnú štruktúru. Zároveň vyššia poloha umožňuje dobré obranné podmienky hradiska. Nielenže obyvatelia mali z tejto polohy dobrý prehľad o dianí v širokej krajinu, ale zároveň stavitelia ranostredovekého opevnenia dômyselne využili topografickú situáciu ostrožny a tým výrazne zvýšili obranné schopnosti hradiska.</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nNa rozľahlej ostrožine bolo počas  systematického výskum rozlíšených niekoľko polôh, na ktorých boli odkryté stopy ranostredovekého osídlenia. Západne sa nachádza tzv. Schanze (Šance). Táto takmer pravouhlá plocha je z troch strán ohraničená ranostredovekými valom, na východe je priestor otvorený a spojený skalnatou úžinou so zvyškom hradiska. V severnom a južnom vale boli odkryté vstupy do priestoru Schanze. Západne od Schanze boli nájdené mohylové hroby a východne sa potom rozprestiera rozľahlá plocha, ktorá sa nazýva Obere Holzwiese (Horná lesná lúka). Obere Holzwiese vybieha južne do cípu vyvýšeniny, ktorá ostro klesá do údolia a rovnako ako na severnej strane je obohnaná ranostredovekým valom. Na východe potom priestor Obere Holzwiese prechádza do ďalšej časti hradiska, ktorá je označená ako Unter Holzwiese (Dolná lesná lúka). Táto plocha uzatvára ranostredovekú čast hradiska opäť prostredníctvom výrazného severného valu. Na južnej strane nebolo opevnenie rozpoznané, čo môže súvisieť s príkrym terénom, ktorý mohol poskytovať dostatočnú ochranu. Pri severovýchodnom rohu lokality je predpokladaná brána, ktorá však nebola archeologicky preukázaná. Posledná a najsevernejšia časť návršia je Nordhang (Severný svah), rozsiahle predhradie, kde  boli odkryté mohylové hroby a do opevnenej časti  hradiska už nespadá, aj keď stopy  osídlenia tu boli pozorované.  </div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQmEH_GUg6DlYp1FU4_TnHF8kl6h3Z9lInp5wxFyN4pDO97oizZsy3TkWoVyFEdDZNFp8v9p1VVLuQkE2PKpd7ERt4RzazN2AKnhMf85yi_jqSM3A1bYU_gfmhfzB9ERRVXceSTcGxHzw/s1600/2.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQmEH_GUg6DlYp1FU4_TnHF8kl6h3Z9lInp5wxFyN4pDO97oizZsy3TkWoVyFEdDZNFp8v9p1VVLuQkE2PKpd7ERt4RzazN2AKnhMf85yi_jqSM3A1bYU_gfmhfzB9ERRVXceSTcGxHzw/s320/2.jpg\" height=\"320\" width=\"281\" /></a></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nHradisko bolo osídlené už v praveku a staroveku. Príchod prvých Slovanov na lokalitu Thunau / Gars môžeme datovať do prvej polovice 9. storočia.  Osídlenci viditeľne využili prirodzenej ochrany ruín opevnenia z neskorej doby bronzovej a usídlili sa na mieste výbežku južného, do písmena V formovaného valu. Nedlho potom, na začiatku druhej polovice 9. storočia, bol už vybudovaný <b><i>kniežací dvorec</i></b> obohnaný palisádou. V rovnakej dobe tu bola začatá aj výstavba rozľahlého drevohlineného opevnenia. Otázkou zostáva, či ďalšie dve oblasti (Schanze a Unter Holzwiese), ktoré sú obohnané valom spoločne s Obere Holzwiese, boli k tejto polohe pripojené súčasne alebo boli osídlené a opevnené následne. Okolo polovice 10. storočia stráca pomaly hradisko svoj význam (pravdepodobne v dôsledku politických a ekonomických zmien, ktoré na hradisku nastali po porážke v boji s Maďarmi) a v druhej polovici 10. storočia potom nachádzame na Obere Holzwiese posledné stopy osídlenia  </div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlS1vlkNAS8NNQC0LLVknYDe2TYkfc4vGQsv79iumdlx5W3C15o4jImtcZVCvITzevV6scPXvU-_TELcQac8bxEJafmRIOauHYSB5tZ0BuI-LcV9UXUpWzYOs6reftWXewt_4IM9jY-HM/s1600/3.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlS1vlkNAS8NNQC0LLVknYDe2TYkfc4vGQsv79iumdlx5W3C15o4jImtcZVCvITzevV6scPXvU-_TELcQac8bxEJafmRIOauHYSB5tZ0BuI-LcV9UXUpWzYOs6reftWXewt_4IM9jY-HM/s320/3.jpg\" height=\"224\" width=\"320\" /></a></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<b>Opevnenie</b>  </div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nOpevnenie hradiska Thunau / Gars uzatvára rozsiahlu plochu, ktorá má v severojužnej osi priemer 140 m, v osi západovýchodnej potom 600 m. Súčasťou tohto komplexu boli tri časti. Najzápadnejšia časť, Schanze, plnila funkciu predsunutého obranného hradu, Obere a Unter Holzwiese potom boli miestom vlastného osídlenia so zástavbou, pričom na lokalite Obere Holzwiese sa nachádzal - ako už bolo spomenuté <b>Kniežací dvorec</b> ohraničený palisádovým plotom. Ako dokazujú žliabky v podloží, bol tento palisádový plot trikrát upravovaný a zakaždým uzatváral rôzne veľkú plochu. Medzi oblasťami Schanze a Obere Holzwiese je dodnes viditeľný pôvodný val z neskorej doby bronzovej. Rano stredoveké obvodové opevnenie však pravdepodobne nebolo vybudované po celom obvode plochy hradiska. O jeho existencii niet pochýb v oblasti Schanze a priľahlej severnej a západnej časti Oberie Holzwiese. Na iných miestach bol využitý  prirodzený terén, ako je napríklad južný svah Obere Holzwiese. Na juhovýchodnom okraji Obere Holzwiese bola pre zmenu využitá terénna vlna, ktorú tvorili zvyšky opevnenia z neskorej doby bronzovej. Zdá sa, že tento val bol pre zvýšenie obranyschopnosti na čelnej strane obložený kameňmi. Bola tu vytvorená provizórna hradba s  kamennou stenou, lebo pevnejšie opevnenie nebolo zjavne vzhľadom k prudkému zlomu do údolia nutné. V oblasti Unter Holzwiese nebolo opevnenie výraznejšie archeologicky zachytené, ale dá sa predpokladať, že na severe sa nachádzala drevohlinitá hradba, vrátane východnej vstupnej brány. Drevohlinitá hradba hradiska prešla dvoma stavebnými fázami. Tieto úpravy sa týkali nielen konštrukcie stavby, ale predovšetkým rozlohy, ktorú hradba vymedzovala. Hradba staršej fázy mala roštovú konštrukciu bez použitia kameňa v čele hradby, mladšiu fázu reprezentovala hradba komorovej konštrukcie s čelnou kamennou stenou.  </div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDmYtVZYf8aNlFknqAaDcAPSGIEjYagUs087yt_-1cXwNf_t9iDBRTBFoob50tLP3OgFZcrIzMUTdWYt7MBA71Ujd3MuM7p_UHB1YHETNWLbXYowNKt8DP952KMxddyfiPqPR9Di9_KQ/s1600/5.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDmYtVZYf8aNlFknqAaDcAPSGIEjYagUs087yt_-1cXwNf_t9iDBRTBFoob50tLP3OgFZcrIzMUTdWYt7MBA71Ujd3MuM7p_UHB1YHETNWLbXYowNKt8DP952KMxddyfiPqPR9Di9_KQ/s320/5.jpg\" height=\"320\" width=\"259\" /></a></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nOpevnenie na západnej lokalite Schanze bolo formované do tvaru písmena U, pričom otvorená bola plocha na východnej strane. Celková rozloha priestoru Schanze bola 100 x 170 m a interpretovaný bol ako hlavné predsunuté miesto obrany a hradba tu chránila ľahko dosiahnuteľný vstup na hradisko. Dve prirodzené terasy, Obere a Unter Holzwiese tvoria  celok, ktorý je obohnaný severným a južným úsekom opevnenia. Tieto dve hradby sú na sebe nezávislé a ich ruiny sú dnes menej viditeľné ako v prípade oblasti Schanze. Severné opevnenie je značne dlhšie ako opevnenie južné, pričom ich konštrukcia zostáva rovnaká ako v prípade opevnenia na Schanze. Ako je už uvedené vyššie, južné opevnenie nebolo vzhľadom na krajinnú situáciu nutné budovať a obyvateľom k ochrannému účinku dostatočne poslúžili ruiny opevnenia zo staršej doby bronzovej.    </div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK8mO1kQolzcetZYkWw7dioX96xEQKRMj9NpckhY2ty2zWiMiS_I0Z9NObsZX_B3obYDo06hnXUYDOKj4fam0_GcoxrZeNnVlo5RTiY-P7YR6zgCfPe0w803_tqTLAkyqiBQIVExd_iko/s1600/6.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK8mO1kQolzcetZYkWw7dioX96xEQKRMj9NpckhY2ty2zWiMiS_I0Z9NObsZX_B3obYDo06hnXUYDOKj4fam0_GcoxrZeNnVlo5RTiY-P7YR6zgCfPe0w803_tqTLAkyqiBQIVExd_iko/s320/6.jpg\" height=\"267\" width=\"320\" /></a></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nVýchodne od južnej brány bol nájdený úsek, na ktorom sonda odkryla staršie ranostredoveké opevnenie. Do výšky jedného metra siahal systém guľatín, ktoré sa prekrývali zrubovými spôsobom a neboli spojené klincami. Jednalo sa o roštovú konštrukciu, ktorá tvorila pravidelné štvorcové priestory o rozmeroch 1,5 x 1,5 m. Voľné priestory boli vyplnené kamením miestneho pôvodu a zeminou. Na čelnej strane sa nenašli stopy po kamennej stene. Hradba mladšej fázy bola tvorená komorovou konštrukciou. Komory boli tvorené neopracovanými kmeňmi s kôrou, a na ich previazanie použili  zrubovú techniku, opäť bez použitia spevnenie klincami. Pozdĺžnu stenu komory tvorili kmene 7 m dlhé a cez ne boli kladené priečne kmene dlhé okolo 5 m, vo vzájomnej vzdialenosti 2,4 m. Na nich spočívali ďalšie priečne kmene a vznikali tak ďalšie poschodia konštrukcie. Priečne kmene však zasahovali približne 1 m svojej dĺžky do konštrukcie čelnej kamennej plenty a čiastočne prečnievali aj na tylovej strane hradby.  Priestory komôr boli vysypanie zeminou a kamením.  Pred čelnou stenou komôr sa nachádzala mocná kamenná vrstva, ktorá dosahovala šírku 1,5 až 2 m.  Celkovo teda šírka základne hradby približne 7 m.</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nV západnom úseku na polohe Schanze boli odkryté malé obdĺžnikové stavby s rohovým ohniskom, stavané pravdepodobne skupinovou technikou. Stavby naliehali priamo na tylovú stenu hradby a nachádzali sa v pravidelných rozostupoch 5 m. V severovýchodnom rohu polohy Schanze bola odkrytá priehlbina vo vale, ktorá bola interpretovaná ako vstup do priestoru hradiska. Krídla hradby sa tu zalamovali smerom dovnútra hradiska, pričom pravé krídlo bolo vzhľadom k ľavému trochu dlhšie. Priehlbina medzi nimi tvorila 4,2 m a bola dlhá 5 m. Uprostred bola odkrytá rada guľových jamiek, ktorá rozdeľovala priestor na polovice.  V južnom vale, takmer oproti severnej bráne, bol odkrytý ďalší vstup do hradiska. Vstup bol opäť medzi dvoma krídlami hradby, ale mal podstatne menšie rozmery.</div>\n<div style=\"margin-bottom: 0in;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaoO1TEKum2sEpi60J61bGn7LXQs-H3D0yd_WbMa7ZA2ddGWLfgTEw8pxs5CfLMwHCwNEg0wc_qC2Laapux49GXXIsv-h1izL83zNCC-TCjspNx2UKk21dGi6u-pFuAhKDgi8JAPOl0yM/s1600/Gars+%25283%2529.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaoO1TEKum2sEpi60J61bGn7LXQs-H3D0yd_WbMa7ZA2ddGWLfgTEw8pxs5CfLMwHCwNEg0wc_qC2Laapux49GXXIsv-h1izL83zNCC-TCjspNx2UKk21dGi6u-pFuAhKDgi8JAPOl0yM/s320/Gars+%25283%2529.JPG\" height=\"218\" width=\"320\" /></a></div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nHradba mohla z vonkajšej strany dosahovať výšku až 4 m (bez palisády v korune telesa hradby). Šírka ochodze na vrchole hradby sa pohybovala okolo 4 m až 4,5 m.  Zaujímavosťou západného úseku opevnenia sú pravouhlé drevené stavby s ohniskom, ktoré sa nachádzajú na vnútornej strane hradby v pravidelných rozostupoch. Tieto objekty sú interpretované ako chyže tvorené blokovou technikou. Tieto priľahlé obytné stavby nie sú v ranom stredoveku výnimkou a domy stavané priamo na vnútornej stene valu mohli pomôcť znižovať tlak vyvíjaný na tylovú stenu hradby jej hlineným zásypom.</div>\n<div style=\"margin-bottom: 0in;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyer3rtvVkWR1jxEgwHfe-UX4aoGiAidXJKNkJ-nxQLDsbHG8G-jQnr3HfiuzkQH9gpr48eWf7aNNuFR9CqTz3k8PF0PSsC4B_C4MRAuO9EDtgYZUgYglWkzvehmTtFsJPXRFWfW7vGMA/s1600/Gars+%25288%2529.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyer3rtvVkWR1jxEgwHfe-UX4aoGiAidXJKNkJ-nxQLDsbHG8G-jQnr3HfiuzkQH9gpr48eWf7aNNuFR9CqTz3k8PF0PSsC4B_C4MRAuO9EDtgYZUgYglWkzvehmTtFsJPXRFWfW7vGMA/s320/Gars+%25288%2529.JPG\" height=\"320\" width=\"240\" /></a></div>\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\nNa základe nálezovej situácie bola vytvorená situačná rekonštrukcia južnej brány. Tá je znázornená ako viacpodlažné veža. Spodná komora predstavovala vstup do hradiska, dosahovala výšku rovnakú ako výška hradby a jej šírka bola zhodná so vzdialenosťou oboch vtiahnutých krídel brány. V úrovni ochodze sa potom nachádzalo ďalšie poschodie brány a následne nad ním ešte veža. Prístup z prvého podlažia brány je pomocou rebríka cez podlahu veže, kde je otvor chránený po oboch stranách zábradlím. Na úrovni ochodze je v celej šírke vstupu vybudovaná komora. Z nej je umožnený už navrhnutý prístup do veže. Komora je úplne vydrevená, voľný priestor predstavuje iba strieľňa a priezory a priechody pre presun z jednej strany ochodze na druhú. Vlastná ochodza v blízkosti brány je krytá predprsňou. Zvislé brvná sú od seba vzdialené približne 0,6 m. Ich výška dosahuje 2 m a hore sú zahrotené. Medzi zvislými brvnami sú vodorovne uloženie fošne. Tie dosahujú striedavo výšky 1,2 a 1,8 m a tvoria tak záštitu v podobe cimburie.  </div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span style=\"font-family: 'Times New Roman';\"><span style=\"font-size: small;\">V prvej pol. 10. storočia sa stalo hradisko obeťou útoku pravdepodobne Maďarov. Osídlenie – teraz už poľnohospodárskeho charakteru  sa prresunulo do oblasti neopevneného Untere Holzwiese, kde ešte ďalej zotrvalo až do polovice 11. storočia.  </span></span> <br />\n<span style=\"font-family: 'Times New Roman';\"><span style=\"font-size: small;\"><br />\n</span></span><br />\n<span style=\"font-family: 'Times New Roman';\"><span style=\"font-size: small;\">Spracoval Orgoň</span></span></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<br />\n<div style=\"margin-bottom: 0in;\">\nZdroj: Bc. Anna Bajerova: Člověk jako budovatel a obhájce hradeb 9. až 12. století ve střední Evrope, Brno 2009<br />\n<br />\nFoto 2014 : Adam G:<br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGX9wvVPDpMEYmKOh4KYRYDVt1bbeIXjuGBJhWpYXWulqb3ryyHylVzTVnT6u0OLDRw0DrRcIjHkmhlsjGKPzk_rN0vWYLXTODOOElFKiEDHVUlCM2W7KO32CVJAcI057ORhWThPNjNFg/s1600/1-poh%C4%BEad+na+hradisko+z+polohy+v%C3%BDskumu,+na+terase+pod+kopcom+sa+rozprestiera+tie%C5%BE+rozsiahle+pohrebisko+z+obdobia+9+a%C5%BE+10+storo%C4%8Dia.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGX9wvVPDpMEYmKOh4KYRYDVt1bbeIXjuGBJhWpYXWulqb3ryyHylVzTVnT6u0OLDRw0DrRcIjHkmhlsjGKPzk_rN0vWYLXTODOOElFKiEDHVUlCM2W7KO32CVJAcI057ORhWThPNjNFg/s1600/1-poh%C4%BEad+na+hradisko+z+polohy+v%C3%BDskumu,+na+terase+pod+kopcom+sa+rozprestiera+tie%C5%BE+rozsiahle+pohrebisko+z+obdobia+9+a%C5%BE+10+storo%C4%8Dia.JPG\" height=\"320\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pohľad na hradisko z polohy výskumu, <br />\nna terase pod kopcom sa rozprestiera tiež rozsiahle pohrebisko z obdobia 9 až 10 storočia</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Hjw_tEqRTfNi0HBW1JHKiLaLcneHIB872vFZV14TXvc8R0hSK66V7RN9CKH2ysKso0zML-SscMXuarlEwRgoEeo0C1VJMLirVo_NnNir_ONvLUpi_fVS9pqXoMxKoCu-aR4QDgNb6Wc/s1600/2-plocha+v%C3%BDskumu+s%C3%ADdliska+rak%C3%BAskeho+kolegov+z+Viedenskej+univerzity.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Hjw_tEqRTfNi0HBW1JHKiLaLcneHIB872vFZV14TXvc8R0hSK66V7RN9CKH2ysKso0zML-SscMXuarlEwRgoEeo0C1VJMLirVo_NnNir_ONvLUpi_fVS9pqXoMxKoCu-aR4QDgNb6Wc/s1600/2-plocha+v%C3%BDskumu+s%C3%ADdliska+rak%C3%BAskeho+kolegov+z+Viedenskej+univerzity.JPG\" height=\"320\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Plocha výskumu sídliska. Výskum robia archeológovia z Viedenskej univerzity</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQx6NjOEuJOK0_9PVh-y1b4T7AaGz-Yy7rC0Mcq8gGh7ydwT_U22pCbTHQioEUpg2Yoz-qASnL4BbK9rWLwrQU1GLpkGCFuXJyVQaab8nVYhEEGGXgtGHJNV5SJ5HPufWz7JdHDn6KYOo/s1600/3-p%C3%B4dorys+chaty+s+vyklenutou+pieckou+mimo+chatu+(v+pravo).JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQx6NjOEuJOK0_9PVh-y1b4T7AaGz-Yy7rC0Mcq8gGh7ydwT_U22pCbTHQioEUpg2Yoz-qASnL4BbK9rWLwrQU1GLpkGCFuXJyVQaab8nVYhEEGGXgtGHJNV5SJ5HPufWz7JdHDn6KYOo/s1600/3-p%C3%B4dorys+chaty+s+vyklenutou+pieckou+mimo+chatu+(v+pravo).JPG\" height=\"320\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">pôdorys chaty s vyklenutou pieckou mimo chatu (v pravo)</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUM2VqOk12E3kTfPWN_qbRCEFuAzD_IC6bfPjZvqrvaC5M3UkSJCysuCuBtkEU3ijwDlq7spDn1dALbBpax8f5Psrx2DCe1q0qv3KwVDE97l-S8whyphenhyphen0cOi2cG0tq-U9xXC7H-ZAAgVgcg/s1600/4-z%C3%A1sobn%C3%A1+jama.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUM2VqOk12E3kTfPWN_qbRCEFuAzD_IC6bfPjZvqrvaC5M3UkSJCysuCuBtkEU3ijwDlq7spDn1dALbBpax8f5Psrx2DCe1q0qv3KwVDE97l-S8whyphenhyphen0cOi2cG0tq-U9xXC7H-ZAAgVgcg/s1600/4-z%C3%A1sobn%C3%A1+jama.jpg\" height=\"320\" width=\"275\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">zásobná jama</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcTnIhUVAMhlFyVO-6tOFioBa10RCo-otJQmLjbNKoWreEp0IufNj_u00Jc03dH4TP1kewGxmAhTFoLgILdrySbqRH9fkv-K4JTUq315vvo_eTuQj092JxMdggNDd3yDnyvMtjvcTB7FU/s1600/8-pl%C3%A1n+hradiska.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcTnIhUVAMhlFyVO-6tOFioBa10RCo-otJQmLjbNKoWreEp0IufNj_u00Jc03dH4TP1kewGxmAhTFoLgILdrySbqRH9fkv-K4JTUq315vvo_eTuQj092JxMdggNDd3yDnyvMtjvcTB7FU/s1600/8-pl%C3%A1n+hradiska.jpg\" height=\"182\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo5mK9NMv3M6LZxtN1KOe3zhuHZ_w06zuPyO6fyWFcMYbeyP2ss9YuYyC1cIUeaPFVIl6mDf-Jr3zdKlGXoAUWxTOTUyTPatWTVXYaO7NPNzneAbXRZSEO6_6mDWzDvAw9yJHdEjCw5BQ/s1600/9-archeologick%C3%A1+z%C3%A1klad%C5%88a+v+are%C3%A1ly+hradiska.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo5mK9NMv3M6LZxtN1KOe3zhuHZ_w06zuPyO6fyWFcMYbeyP2ss9YuYyC1cIUeaPFVIl6mDf-Jr3zdKlGXoAUWxTOTUyTPatWTVXYaO7NPNzneAbXRZSEO6_6mDWzDvAw9yJHdEjCw5BQ/s1600/9-archeologick%C3%A1+z%C3%A1klad%C5%88a+v+are%C3%A1ly+hradiska.JPG\" height=\"320\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">archeologická základňa v areály hradiska</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPm9CYApoyg-eHA26W4Obgb6O1vh-FqmpYww4vP45oaJ9SYx_4ydhA7_mk13t7SaEEIbewrHxJ_szZmYk6ONA4AcW5FjMXfyksnhdjT0CiwH-QByiEZQYcdp2oyK2OSyCXLkTHsAfZY7M/s1600/10-z%C3%A1padn%C3%BD+val.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPm9CYApoyg-eHA26W4Obgb6O1vh-FqmpYww4vP45oaJ9SYx_4ydhA7_mk13t7SaEEIbewrHxJ_szZmYk6ONA4AcW5FjMXfyksnhdjT0CiwH-QByiEZQYcdp2oyK2OSyCXLkTHsAfZY7M/s1600/10-z%C3%A1padn%C3%BD+val.JPG\" height=\"320\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">západný val</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN8w5VpuVieTv-ftW0r2ckSmQk47ILgwaBKLN8FS9Tp9Lb0tI3_sVtQSbawHQJhvHYlWFtoEPY7JnoYmIMvYPiVY_P4C9Wf1tjLl10rzC9RoslsQYh7ApSPv70FCxQi_MbdG0acZx_Uo/s1600/11-pozostatok+pravekeho+valu+predeluj%C3%BAceho+are%C3%A1l+slovansk%C3%A9ho+hradiska.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAN8w5VpuVieTv-ftW0r2ckSmQk47ILgwaBKLN8FS9Tp9Lb0tI3_sVtQSbawHQJhvHYlWFtoEPY7JnoYmIMvYPiVY_P4C9Wf1tjLl10rzC9RoslsQYh7ApSPv70FCxQi_MbdG0acZx_Uo/s1600/11-pozostatok+pravekeho+valu+predeluj%C3%BAceho+are%C3%A1l+slovansk%C3%A9ho+hradiska.JPG\" height=\"320\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">pozostatok pravekeho valu predelujúceho areál slovanského hradiska</td></tr>\n</tbody></table>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRUoJTLYyYVPAz5WDljD_ejn_d2IDnRyBxkTMk8ptQYtWtg88HIblBDnyEpVSwuC6u-5PI-67Eqfen1G-jrACJRG6irJYSItJYVJqpd4mI4VK02ikD6UQhMw-T1J-nR8yIVTBJDpPjWg/s1600/12-poh%C4%BEad+na+ju%C5%BEn%C3%BA+br%C3%A1nu+z+boku.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRUoJTLYyYVPAz5WDljD_ejn_d2IDnRyBxkTMk8ptQYtWtg88HIblBDnyEpVSwuC6u-5PI-67Eqfen1G-jrACJRG6irJYSItJYVJqpd4mI4VK02ikD6UQhMw-T1J-nR8yIVTBJDpPjWg/s1600/12-poh%C4%BEad+na+ju%C5%BEn%C3%BA+br%C3%A1nu+z+boku.JPG\" height=\"320\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pohľad na južnú bránu z boku</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzQgj-JGGkRx2vXbxqQ02R-k9DRDi8IV_V1yvgsJtqVq-Qw82Q7KjyrmiCX3SJhCxd4FnDjXhUwGrz9jWYSELc5DgfvDfxOBDRIk_ruKWD0CE3pFygdflrDexXLuDgw99H0BReQXfvYQs/s1600/14-kr%C3%AD%C5%BEik+n%C3%A1jden%C3%BD+v+bl%C3%ADzkosti+severnej+br%C3%A1ny.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzQgj-JGGkRx2vXbxqQ02R-k9DRDi8IV_V1yvgsJtqVq-Qw82Q7KjyrmiCX3SJhCxd4FnDjXhUwGrz9jWYSELc5DgfvDfxOBDRIk_ruKWD0CE3pFygdflrDexXLuDgw99H0BReQXfvYQs/s1600/14-kr%C3%AD%C5%BEik+n%C3%A1jden%C3%BD+v+bl%C3%ADzkosti+severnej+br%C3%A1ny.jpg\" height=\"320\" width=\"313\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">krížik nájdený v blízkosti severnej brány</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN17VaCb2jx9RSecT3YnsObSdSbPQR_mHyjnjacXnu8EpmuB1FlQkRs5YnQ6qMeLCuP4xSjik2Rj44_zXzeHBDdKnpqVB60WiAGLi0hpJI-Ih_Tv5I5NxfichTXtn4PF-muFgZXySoCtE/s1600/15-kostol.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN17VaCb2jx9RSecT3YnsObSdSbPQR_mHyjnjacXnu8EpmuB1FlQkRs5YnQ6qMeLCuP4xSjik2Rj44_zXzeHBDdKnpqVB60WiAGLi0hpJI-Ih_Tv5I5NxfichTXtn4PF-muFgZXySoCtE/s1600/15-kostol.jpg\" height=\"212\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">kostol</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPxaGNR4dYSYsRLwaxcW35RQFSix2N9yvN0v5ryJ7OAkbh5nldRSI2jSEyikrZwZxMoTSbBF_Gl0ioCN1uHIPphCzUFkHZVuDPW1X2edb5_zK9gXF2lAdYWipTxUnaIDkAsR2PHz_LJHQ/s1600/16-pohlad+na+v%C3%BDchod+proti+toku+rieky+Kamp.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPxaGNR4dYSYsRLwaxcW35RQFSix2N9yvN0v5ryJ7OAkbh5nldRSI2jSEyikrZwZxMoTSbBF_Gl0ioCN1uHIPphCzUFkHZVuDPW1X2edb5_zK9gXF2lAdYWipTxUnaIDkAsR2PHz_LJHQ/s1600/16-pohlad+na+v%C3%BDchod+proti+toku+rieky+Kamp.JPG\" height=\"320\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">pohlad na východ proti toku rieky Kamp</td></tr>\n</tbody></table>\n<br /></div>\n</div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/6332303399727562905/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/11/gars-thunau-velkomoravske-hradisko-v.html#comment-form",
+            "title": "0 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/6332303399727562905"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/6332303399727562905"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/11/gars-thunau-velkomoravske-hradisko-v.html",
+            "title": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqV8SdlZjvvg21kTIONQFi5Od8iI1Lq0Zr6fOyBKZumC7vaCldHisQV9CT9B3rvvueAsCjf7Kb1_sn9-GfeM3F2W8KpC_YluFCL1cg0nem-sm0pVrxp3PGGPvGwOa0bZlF91v3_4_hyMM/s72-c/1.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}
