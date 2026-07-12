@@ -1476,7 +1476,13 @@ function buildExcerpt($, bodyRoot, maxLen = 250) {
     // nie faktický popis článku, a nesmú sa dostať do excerptu ako "prvý odsek".
     $clone.find('iframe, img, table.tr-caption-container, div.separator, a[href*="maps.google"], a[href*="/maps"], [data-poem], [data-poem-skip]').remove();
     if ($(div).is('[data-poem], [data-poem-skip]')) continue;
-    const t = $clone.text().replace(/[ \s]+/g, ' ').trim();
+    let t = $clone.text().replace(/[ \s]+/g, ' ').trim();
+    // Niektoré staršie články majú netypickú štruktúru (Nitra) — celý úvod vrátane
+    // krátkej citačnej poznámky v zátvorke ("(Slovenské Spevy vyd. ... 1883)") je
+    // vnorený v JEDNOM top-level dive namiesto plochých súrodeneckých divov, takže
+    // sa táto poznámka zlepí s nasledujúcim reálnym odsekom. Odstráň vedúcu zátvorkovú
+    // citáciu, ak za ňou nasleduje podstatne dlhší text (t.j. nie je to sama sebou excerpt).
+    t = t.replace(/^\([^)]{3,120}\)\s*/, (m) => (t.length - m.length >= 60 ? '' : m));
     if (t.length >= 60) {
       const truncated = t.length > maxLen ? t.slice(0, maxLen).replace(/\s+\S*$/, '') + '…' : t;
       return truncated;
