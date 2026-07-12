@@ -5,7 +5,7 @@
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-7176422955333745273",
     "bloggerPostUrl": "http://www.hradiska.sk/2011/02/wogastisburg-najvyznamnejsie-hradisko.html",
     "repliesLink": "http://www.hradiska.sk/feeds/7176422955333745273/comments/default",
-    "extractedAt": "2026-07-12T18:33:55.177Z",
+    "extractedAt": "2026-07-12T19:01:20.750Z",
     "coverImageNeedsReview": true,
     "commentCount": 13,
     "comments": [
@@ -359,34 +359,10 @@
     "quotes": [],
     "blocks": [
       {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "\"Keď potom Austiázijci obkľúčili hrad Wogastisburg, kde sa opevnili veľmi početné oddiely udatných Vinidov (Slovanov), v trojdennom boji boli tu mnohí z Dagobertovho vojska (Franský kráľ) pobití mečom a (ostatní) zanechajúc všetky stany a batožinu, ktorú malí, zbabelo sa odtiaľ vrátili do vlastných sídiel. Potom Vinidi viac ráz vtrhli do Durínska a do ostatných krajov Franskej ríše a plienili. Ešte aj Dervan, knieža z rodu Srbov\", ktorí pochádzali z kmeňa Slovanov a už dávno patrili k Franskej ríši, pridali sa so jimi k vládcovi Samovi.\" ",
-                "bold": true,
-                "italic": true
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "(7. Storočie, Fredegarova kronika, Kniha IV, Kapitola 68)\n \n "
-              }
-            ]
-          }
-        ]
+        "__component": "content.quote-block",
+        "text": "\"Keď potom Austiázijci obkľúčili hrad Wogastisburg, kde sa opevnili veľmi početné oddiely udatných Vinidov (Slovanov), v trojdennom boji boli tu mnohí z Dagobertovho vojska (Franský kráľ) pobití mečom a (ostatní) zanechajúc všetky stany a batožinu, ktorú malí, zbabelo sa odtiaľ vrátili do vlastných sídiel. Potom Vinidi viac ráz vtrhli do Durínska a do ostatných krajov Franskej ríše a plienili. Ešte aj Dervan, knieža z rodu Srbov, ktorí pochádzali z kmeňa Slovanov a už dávno patrili k Franskej ríši, pridali sa so jimi k vládcovi Samovi.\"",
+        "author": "Fredegarova kronika",
+        "source": "Kniha IV, Kapitola 68 (7. storočie)"
       },
       {
         "__component": "content.rich-text",
@@ -418,6 +394,20 @@
         ]
       },
       {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nechajme teda ďalej rozprávať stredovekého kronikára o udalostiach, ktoré sa odohrali v jeho dobe a ktoré majú taký veľký význam pre naše dejiny:"
+              }
+            ]
+          }
+        ]
+      },
+      {
         "__component": "content.image-block",
         "imageRef": {
           "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIKLbXW2ZRGokwLzoindwlJS11T5-Nzj0r4KZ3PBVSO2QfR97jSFBP9CKJ2WFh74Oe5_pP_tnH7CV46scxth8ppBhyphenhyphen4w12OMxAguQO85NsZwVt4hPSPH5AkPWi5HQUPW6fYpmDNx83_aU/s0/Fredegar.jpg",
@@ -439,20 +429,6 @@
         "aspectRatio": "auto",
         "rounded": true,
         "shadow": true
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Nechajme teda ďalej rozprávať stredovekého kronikára o udalostiach, ktoré sa odohrali v jeho dobe a ktoré majú taký veľký význam pre naše dejiny:"
-              }
-            ]
-          }
-        ]
       },
       {
         "__component": "content.rich-text",
