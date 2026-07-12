@@ -699,9 +699,12 @@ function convertDivToBlocks($, div, ctx, opts = {}) {
   // vydávajú v DOKUMENTOVOM PORADÍ cez walkDocOrder (nižšie, krok 5) — už žiadne
   // front-loading obrázkov pred text. Google Maps iframe walkDocOrder ticho preskočí.
 
-  // 4) Bold-only div = medzinadpis H2
-  //    Test: div obsahuje práve jeden <b> a žiadny iný inline text okolo
-  const bs = $(div).find('> b, > div > b').toArray();
+  // 4) Bold-only div = medzinadpis H2 (alebo dobový citát, ak má aj kurzívu — viď nižšie)
+  //    Test: div obsahuje práve jeden <b> a žiadny iný inline text okolo.
+  //    `> i > b` chytá aj opačné poradie vnorenia `<i><b>text</b></i>` (Wogastisburg:
+  //    Fredegarova kronika mala kurzívu vonku, bold vnútri — pôvodný selektor
+  //    `> b, > div > b` to nenašiel, citát ostal ako obyčajný rich-text odsek).
+  const bs = $(div).find('> b, > div > b, > i > b').toArray();
   if (bs.length === 1) {
     const bText = $(bs[0]).text().replace(/[ \s]+/g, ' ').trim();
     const wholeText = plainText($, div);
@@ -750,13 +753,17 @@ function convertDivToBlocks($, div, ctx, opts = {}) {
   const extractedQuotes = [];
   for (const nd of quoteDivs) {
     const $nd = $(nd);
-    const directBs = $nd.children('b').toArray();
+    // Blogger autor vnára bold+italic v OBOCH poradiach — `<b><i>text</i></b>` aj
+    // `<i><b>text</b></i>` (Wogastisburg: Fredegarova kronika mala kurzívu vonku).
+    let directBs = $nd.children('b').toArray();
+    let innerTag = 'i';
+    if (directBs.length !== 1) { directBs = $nd.children('i').toArray(); innerTag = 'b'; }
     if (directBs.length !== 1) continue;
     const $b = $(directBs[0]);
     const bText = $b.text().replace(/[  \s]+/g, ' ').trim();
     const ndText = plainText($, nd);
     if (!bText || bText !== ndText) continue;
-    const hasItalicInside = $b.find('i').length > 0;
+    const hasItalicInside = $b.find(innerTag).length > 0;
     if (!hasItalicInside) continue;
     // Skip krátky text (heading-like, < 20 chars) — heading detection ich rieši inde
     if (bText.length < 20) continue;
