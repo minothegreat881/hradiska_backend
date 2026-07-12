@@ -1,0 +1,1446 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\bratislava-post.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-7317433705493639858",
+    "bloggerPostUrl": "http://www.hradiska.sk/2010/12/bratislava.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/7317433705493639858/comments/default",
+    "extractedAt": "2026-07-12T19:24:48.481Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&t=h&vpsrc=0&ll=48.142709,17.10111&spn=0.002506,0.00456&z=17&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 18,
+      "captionedImages": 14,
+      "separatorImages": 4
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Bratislava",
+    "slug": "bratislava",
+    "excerpt": "Bratislavské hradisko patrí medzi 3 hradiská, resp. 3 sídelné a vojensky významné lokality z čias Veľkej Moravy (Nitrava, Dowina, Brezalauspurc) ktoré sa priamo dostali do kroník 9. a 10. storočia. Túto skutočnosť dokumentuje napr. Aventinova…",
+    "authorName": "Orgon",
+    "publishedAt": "2010-12-27T00:23:00.015+01:00",
+    "originalPublishedDate": "2010-12-27T00:23:00.015+01:00",
+    "updatedAt": "2022-05-08T11:08:53.209+02:00",
+    "readingTime": 18,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KdJpuLinPH1-BR23e0WDczHN3IVFUStwclcM7iQ9Ti6mN11RDNxoViL-y9HKJMo5pjOqOyLBRru7bScBmrcW_61Dtos-YjNMK1LaTuqyw_wwoOrhkFG0ZX3haPVM7ZKrZyFr_kczCIUi9PjkrTkwsNX69fSxpgMqlWEwIscaj3rcl1R8Oly8uyTQtA/s0/Sken%2047.jpeg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KdJpuLinPH1-BR23e0WDczHN3IVFUStwclcM7iQ9Ti6mN11RDNxoViL-y9HKJMo5pjOqOyLBRru7bScBmrcW_61Dtos-YjNMK1LaTuqyw_wwoOrhkFG0ZX3haPVM7ZKrZyFr_kczCIUi9PjkrTkwsNX69fSxpgMqlWEwIscaj3rcl1R8Oly8uyTQtA/s1600/Sken%2047.jpeg",
+      "filename": "Sken 47.jpeg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KdJpuLinPH1-BR23e0WDczHN3IVFUStwclcM7iQ9Ti6mN11RDNxoViL-y9HKJMo5pjOqOyLBRru7bScBmrcW_61Dtos-YjNMK1LaTuqyw_wwoOrhkFG0ZX3haPVM7ZKrZyFr_kczCIUi9PjkrTkwsNX69fSxpgMqlWEwIscaj3rcl1R8Oly8uyTQtA/s1511/Sken%2047.jpeg",
+        "displayedWidth": 320,
+        "displayedHeight": 311,
+        "originalWidth": 1511,
+        "originalHeight": 1470
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KdJpuLinPH1-BR23e0WDczHN3IVFUStwclcM7iQ9Ti6mN11RDNxoViL-y9HKJMo5pjOqOyLBRru7bScBmrcW_61Dtos-YjNMK1LaTuqyw_wwoOrhkFG0ZX3haPVM7ZKrZyFr_kczCIUi9PjkrTkwsNX69fSxpgMqlWEwIscaj3rcl1R8Oly8uyTQtA/s0/Sken%2047.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KdJpuLinPH1-BR23e0WDczHN3IVFUStwclcM7iQ9Ti6mN11RDNxoViL-y9HKJMo5pjOqOyLBRru7bScBmrcW_61Dtos-YjNMK1LaTuqyw_wwoOrhkFG0ZX3haPVM7ZKrZyFr_kczCIUi9PjkrTkwsNX69fSxpgMqlWEwIscaj3rcl1R8Oly8uyTQtA/s1600/Sken%2047.jpeg",
+        "filename": "Sken 47.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KdJpuLinPH1-BR23e0WDczHN3IVFUStwclcM7iQ9Ti6mN11RDNxoViL-y9HKJMo5pjOqOyLBRru7bScBmrcW_61Dtos-YjNMK1LaTuqyw_wwoOrhkFG0ZX3haPVM7ZKrZyFr_kczCIUi9PjkrTkwsNX69fSxpgMqlWEwIscaj3rcl1R8Oly8uyTQtA/s1511/Sken%2047.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 311,
+          "originalWidth": 1511,
+          "originalHeight": 1470
+        },
+        "caption": "Poklad zlatých keltských statérov a strieborných mincí z Bratislavského hradu s nápisom Biatec a Nonnos (z knihy Kelti z Bratislavy, SNM 2017)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvLoSw0p_cfIMT6v1Tr-GZaxI2XtRQcbol4rKRiB03ZMicEIqKK0ie_hPvtL7SAxbjOGqar4DlFYUrkbTfOCT6wWlkLnbL1K8HU4iqxvY3_IpA4Wpzrkkt12RZe2GLbF-QAVhi4EwqWak/s0/BA-hradisko.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvLoSw0p_cfIMT6v1Tr-GZaxI2XtRQcbol4rKRiB03ZMicEIqKK0ie_hPvtL7SAxbjOGqar4DlFYUrkbTfOCT6wWlkLnbL1K8HU4iqxvY3_IpA4Wpzrkkt12RZe2GLbF-QAVhi4EwqWak/s1600/BA-hradisko.jpg",
+        "filename": "BA-hradisko.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvLoSw0p_cfIMT6v1Tr-GZaxI2XtRQcbol4rKRiB03ZMicEIqKK0ie_hPvtL7SAxbjOGqar4DlFYUrkbTfOCT6wWlkLnbL1K8HU4iqxvY3_IpA4Wpzrkkt12RZe2GLbF-QAVhi4EwqWak/s1600/BA-hradisko.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Umelecká predstava o vzhľade bratislavského hradiska v čase Veľkej Moravy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQlGuQYyXJ-_OgP-BQrj9RgP2ubbc89a54AV-QSGRyUdbuI6FQIowseTYYRZAyDcz_HiRFYbcULfcgId3r7btVHApijZE2O7uLSRgIIyj4gX5PZSL7Q0xQOykI1rAWU32EVY84otcNhUv/s0/Hradisko+po%25CC%2582dorys+9.+st.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQlGuQYyXJ-_OgP-BQrj9RgP2ubbc89a54AV-QSGRyUdbuI6FQIowseTYYRZAyDcz_HiRFYbcULfcgId3r7btVHApijZE2O7uLSRgIIyj4gX5PZSL7Q0xQOykI1rAWU32EVY84otcNhUv/s1600/Hradisko+po%25CC%2582dorys+9.+st.jpg",
+        "filename": "Hradisko+po%CC%82dorys+9.+st.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQlGuQYyXJ-_OgP-BQrj9RgP2ubbc89a54AV-QSGRyUdbuI6FQIowseTYYRZAyDcz_HiRFYbcULfcgId3r7btVHApijZE2O7uLSRgIIyj4gX5PZSL7Q0xQOykI1rAWU32EVY84otcNhUv/s1600/Hradisko+po%25CC%2582dorys+9.+st.jpg",
+          "displayedWidth": 306,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pôdorys hradiska v 9. storočí podľa Štefanovičovej"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf_QS0Y7BzwRW4gYpkar5jjo0WlLjDZ18UMt-VK7_Q3kQspj5VAixWqGHT5l7yvftUORMO876y9W2hcqAgoMDLQAFf3WCIs8iy3x73EAeq4w57UTvC02Uq1tuc5rxHN212oY-0XT3lMTAy/s0/BA+hrad1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf_QS0Y7BzwRW4gYpkar5jjo0WlLjDZ18UMt-VK7_Q3kQspj5VAixWqGHT5l7yvftUORMO876y9W2hcqAgoMDLQAFf3WCIs8iy3x73EAeq4w57UTvC02Uq1tuc5rxHN212oY-0XT3lMTAy/s1600/BA+hrad1.jpg",
+        "filename": "BA+hrad1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf_QS0Y7BzwRW4gYpkar5jjo0WlLjDZ18UMt-VK7_Q3kQspj5VAixWqGHT5l7yvftUORMO876y9W2hcqAgoMDLQAFf3WCIs8iy3x73EAeq4w57UTvC02Uq1tuc5rxHN212oY-0XT3lMTAy/s1600/BA+hrad1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 106,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Rekonštrukcia hradby v 9. storočí"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg75myNiUxF9rFv87EWtHpUzR3sKC380hoPYLhWnHJfHw7KPH8LquF7bZkZQGpVasw4ac4GkBZT7K9Nc5McWG9KtXtoQUnIO64X_jcnZnBzFyV1cs8cATO5gZVmNFZQsIiooflqIW3L7M/s0/kostol+ba.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg75myNiUxF9rFv87EWtHpUzR3sKC380hoPYLhWnHJfHw7KPH8LquF7bZkZQGpVasw4ac4GkBZT7K9Nc5McWG9KtXtoQUnIO64X_jcnZnBzFyV1cs8cATO5gZVmNFZQsIiooflqIW3L7M/s1600/kostol+ba.jpg",
+        "filename": "kostol+ba.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg75myNiUxF9rFv87EWtHpUzR3sKC380hoPYLhWnHJfHw7KPH8LquF7bZkZQGpVasw4ac4GkBZT7K9Nc5McWG9KtXtoQUnIO64X_jcnZnBzFyV1cs8cATO5gZVmNFZQsIiooflqIW3L7M/s1600/kostol+ba.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Možný vzhľad baziliky na hradisku"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj63vO2EjvF7ImpnuMFAs7a1TZTQT3o_qElh2A3pVVlyAICcHQkVg2lGclSQ8qkw_HU4Rqz3KuIBOAbbLk76A80jym-A1xL6_yOzFWKEKoTNHJ9YFrRZtaQk0_4JmRfJYMT6Q2DIuvco0/s0/bazilika.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj63vO2EjvF7ImpnuMFAs7a1TZTQT3o_qElh2A3pVVlyAICcHQkVg2lGclSQ8qkw_HU4Rqz3KuIBOAbbLk76A80jym-A1xL6_yOzFWKEKoTNHJ9YFrRZtaQk0_4JmRfJYMT6Q2DIuvco0/s1600/bazilika.jpg",
+        "filename": "bazilika.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj63vO2EjvF7ImpnuMFAs7a1TZTQT3o_qElh2A3pVVlyAICcHQkVg2lGclSQ8qkw_HU4Rqz3KuIBOAbbLk76A80jym-A1xL6_yOzFWKEKoTNHJ9YFrRZtaQk0_4JmRfJYMT6Q2DIuvco0/s1600/bazilika.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Rekonštrukcia Baziliky"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLc5APyk35L-_A6LqhGDoXe1WOZqZgx7kgPHqewcJ8pw8uQL0YxoZEhiwsgp_KN24mLLA-Kq1RZMRdaF2a8LjRcDO09fGfBWv3KqybxcjdSXJdyZfdhhnN4sCxd_DOUe2932pAY4KVrX0f/s0/dom.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLc5APyk35L-_A6LqhGDoXe1WOZqZgx7kgPHqewcJ8pw8uQL0YxoZEhiwsgp_KN24mLLA-Kq1RZMRdaF2a8LjRcDO09fGfBWv3KqybxcjdSXJdyZfdhhnN4sCxd_DOUe2932pAY4KVrX0f/s1600/dom.jpg",
+        "filename": "dom.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLc5APyk35L-_A6LqhGDoXe1WOZqZgx7kgPHqewcJ8pw8uQL0YxoZEhiwsgp_KN24mLLA-Kq1RZMRdaF2a8LjRcDO09fGfBWv3KqybxcjdSXJdyZfdhhnN4sCxd_DOUe2932pAY4KVrX0f/s1600/dom.jpg",
+          "displayedWidth": 239,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytDLSbOdETGfO4sJ-X0zcpCLBpDuaaXTLlT_wFFWkTq7j7mHjZrmiHb1QgI-nYrR1MMD5BrNw99LTg6dBqnFenODOAWO9r12KshuySHAZ1zbrGWIoG3oAcF1jEiA3oL7QEluRwyeDD2Y/s0/kostol1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytDLSbOdETGfO4sJ-X0zcpCLBpDuaaXTLlT_wFFWkTq7j7mHjZrmiHb1QgI-nYrR1MMD5BrNw99LTg6dBqnFenODOAWO9r12KshuySHAZ1zbrGWIoG3oAcF1jEiA3oL7QEluRwyeDD2Y/s1600/kostol1.jpg",
+        "filename": "kostol1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytDLSbOdETGfO4sJ-X0zcpCLBpDuaaXTLlT_wFFWkTq7j7mHjZrmiHb1QgI-nYrR1MMD5BrNw99LTg6dBqnFenODOAWO9r12KshuySHAZ1zbrGWIoG3oAcF1jEiA3oL7QEluRwyeDD2Y/s1600/kostol1.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMjjpnIsFfOcNelwwF0SfommL2lOgdZ4dohIvtCISxxXuMhfoq1yW8JlhcR9pUErG4xkXdW1L_r5FwQA0yCHRpfwIWS9pX9KfoewRFJ54QlhzcljMjjgSqO-bUMKMDUs4TWK1420S-ZUU/s0/DSC_0129.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMjjpnIsFfOcNelwwF0SfommL2lOgdZ4dohIvtCISxxXuMhfoq1yW8JlhcR9pUErG4xkXdW1L_r5FwQA0yCHRpfwIWS9pX9KfoewRFJ54QlhzcljMjjgSqO-bUMKMDUs4TWK1420S-ZUU/s1600/DSC_0129.jpg",
+        "filename": "DSC_0129.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMjjpnIsFfOcNelwwF0SfommL2lOgdZ4dohIvtCISxxXuMhfoq1yW8JlhcR9pUErG4xkXdW1L_r5FwQA0yCHRpfwIWS9pX9KfoewRFJ54QlhzcljMjjgSqO-bUMKMDUs4TWK1420S-ZUU/s1600/DSC_0129.jpg",
+          "displayedWidth": 180,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Kráľ Svätopluk sa konečne vrátil na Bratislavské hradisko"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-LR2sLR_8W1OkyY310QNXp-rZG57y_B9sotMpb23pHk-WxFvXHLBXsSoBfc6eRQUK6pC8qctaANDDvUqyXw1tMABOQjbTX4kkaCcrciwoMQ-LIJVxZHCaemZSqA532uhLx-Uz3sbd-Y/s0/kostorlbratislava.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-LR2sLR_8W1OkyY310QNXp-rZG57y_B9sotMpb23pHk-WxFvXHLBXsSoBfc6eRQUK6pC8qctaANDDvUqyXw1tMABOQjbTX4kkaCcrciwoMQ-LIJVxZHCaemZSqA532uhLx-Uz3sbd-Y/s1600/kostorlbratislava.jpg",
+        "filename": "kostorlbratislava.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-LR2sLR_8W1OkyY310QNXp-rZG57y_B9sotMpb23pHk-WxFvXHLBXsSoBfc6eRQUK6pC8qctaANDDvUqyXw1tMABOQjbTX4kkaCcrciwoMQ-LIJVxZHCaemZSqA532uhLx-Uz3sbd-Y/s1600/kostorlbratislava.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Staršia rekonštrukcia baziliky"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUoNrKbUkkBAF2KE5Kf1zMgBEIOv5nXMr5gCkyhyphenhyphenvHgjhDsGlGDyj6PO3s7rVR6hmx9fTr5Bv-CF31IQ1_1Q4nXdMB5hCxnkGZPpVgF3kjUHP1AkxGfByljF39zFoKqaT0tc2MTxEJIDw/s0/gombi%25CC%2581k.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUoNrKbUkkBAF2KE5Kf1zMgBEIOv5nXMr5gCkyhyphenhyphenvHgjhDsGlGDyj6PO3s7rVR6hmx9fTr5Bv-CF31IQ1_1Q4nXdMB5hCxnkGZPpVgF3kjUHP1AkxGfByljF39zFoKqaT0tc2MTxEJIDw/s1600/gombi%25CC%2581k.jpg",
+        "filename": "gombi%CC%81k.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUoNrKbUkkBAF2KE5Kf1zMgBEIOv5nXMr5gCkyhyphenhyphenvHgjhDsGlGDyj6PO3s7rVR6hmx9fTr5Bv-CF31IQ1_1Q4nXdMB5hCxnkGZPpVgF3kjUHP1AkxGfByljF39zFoKqaT0tc2MTxEJIDw/s1600/gombi%25CC%2581k.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Typické Veľkomoravské šperky z hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi84aO921yJ1d5hFYss88lpzWCXtZmNVK36e-SYepIxFoghNGogQo4E5xne9v6ZDz6dFOwQq3aeG0MgMqA_0jmSz__ccoIi0i9eIm-FYMQxTdxYX-Xuaq4bQXqzcYSXzUroaFW7z39eXFI/s0/naus%25CC%258C.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi84aO921yJ1d5hFYss88lpzWCXtZmNVK36e-SYepIxFoghNGogQo4E5xne9v6ZDz6dFOwQq3aeG0MgMqA_0jmSz__ccoIi0i9eIm-FYMQxTdxYX-Xuaq4bQXqzcYSXzUroaFW7z39eXFI/s1600/naus%25CC%258C.jpg",
+        "filename": "naus%CC%8C.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi84aO921yJ1d5hFYss88lpzWCXtZmNVK36e-SYepIxFoghNGogQo4E5xne9v6ZDz6dFOwQq3aeG0MgMqA_0jmSz__ccoIi0i9eIm-FYMQxTdxYX-Xuaq4bQXqzcYSXzUroaFW7z39eXFI/s1600/naus%25CC%258C.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Gombíky z Bratislavského hradiska (P. Dvořák:Stopy dávnej minulosti 3)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6j2HW19Z4C9UDFZtS6BT_GzaFF4kXe9JPOUwFOsyvQXcfFRX0t_4WVhTytwu-mm1AyXVJJe2iFG89gnnq1a7WgqpEDtAynwVkD7DWIvixDjhQXh8LrzGUD2ws-lPCkSIlu7TJ4INNaog/s0/minca.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6j2HW19Z4C9UDFZtS6BT_GzaFF4kXe9JPOUwFOsyvQXcfFRX0t_4WVhTytwu-mm1AyXVJJe2iFG89gnnq1a7WgqpEDtAynwVkD7DWIvixDjhQXh8LrzGUD2ws-lPCkSIlu7TJ4INNaog/s1600/minca.JPG",
+        "filename": "minca.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6j2HW19Z4C9UDFZtS6BT_GzaFF4kXe9JPOUwFOsyvQXcfFRX0t_4WVhTytwu-mm1AyXVJJe2iFG89gnnq1a7WgqpEDtAynwVkD7DWIvixDjhQXh8LrzGUD2ws-lPCkSIlu7TJ4INNaog/s1600/minca.JPG",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Minca Štefana I. okolo roku 1000, ktorá sa razila v Bratislave. Je na nej uvedné (B)reslava Civ"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cgzEZgcKurN4HcGInGuSoP0dZhSI6rCmzIkMY24lYf_zfKelyqziEzYXqCxu4snun0fHE44yMLfomH9af7Um-QGsnd3ohtRb-NlVvLh6mqOVN2a6KEPZK-evOWFAX1oSe9tj5ijno6E/s0/strecha.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cgzEZgcKurN4HcGInGuSoP0dZhSI6rCmzIkMY24lYf_zfKelyqziEzYXqCxu4snun0fHE44yMLfomH9af7Um-QGsnd3ohtRb-NlVvLh6mqOVN2a6KEPZK-evOWFAX1oSe9tj5ijno6E/s1600/strecha.jpg",
+        "filename": "strecha.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cgzEZgcKurN4HcGInGuSoP0dZhSI6rCmzIkMY24lYf_zfKelyqziEzYXqCxu4snun0fHE44yMLfomH9af7Um-QGsnd3ohtRb-NlVvLh6mqOVN2a6KEPZK-evOWFAX1oSe9tj5ijno6E/s1600/strecha.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3cnAgC7OD49lgJnF1qzBy5UGG-Od-6Wt5-wHz55wZWtv9aSubJs54YzEQBvIJkWFp7RHu3IaScCHWgUFl6TMpB8FiEKobfgidrZolrGzlaN00kMyDQ8zY_ToNvt74uC_6IYGRL1HMMoD/s0/za%25CC%2581kladyjpg.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3cnAgC7OD49lgJnF1qzBy5UGG-Od-6Wt5-wHz55wZWtv9aSubJs54YzEQBvIJkWFp7RHu3IaScCHWgUFl6TMpB8FiEKobfgidrZolrGzlaN00kMyDQ8zY_ToNvt74uC_6IYGRL1HMMoD/s1600/za%25CC%2581kladyjpg.jpg",
+        "filename": "za%CC%81kladyjpg.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3cnAgC7OD49lgJnF1qzBy5UGG-Od-6Wt5-wHz55wZWtv9aSubJs54YzEQBvIJkWFp7RHu3IaScCHWgUFl6TMpB8FiEKobfgidrZolrGzlaN00kMyDQ8zY_ToNvt74uC_6IYGRL1HMMoD/s1600/za%25CC%2581kladyjpg.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 255,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQx9azRc0RXEd0dXHvHSjoa6cX2TUIR0a9hRNuyH9QJGL7-4vO_pzYTnPOhYlh9YscHvvOXCjsD1ZRS-u09GJB9_Ltx9S7gATW_XlX6oIh3LsZJEfgr7V7ZO-BekI6N8GycWWpJSRgfk/s0/na%CC%81lezy.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQx9azRc0RXEd0dXHvHSjoa6cX2TUIR0a9hRNuyH9QJGL7-4vO_pzYTnPOhYlh9YscHvvOXCjsD1ZRS-u09GJB9_Ltx9S7gATW_XlX6oIh3LsZJEfgr7V7ZO-BekI6N8GycWWpJSRgfk/s1600/na%CC%81lezy.jpg",
+        "filename": "nálezy.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQx9azRc0RXEd0dXHvHSjoa6cX2TUIR0a9hRNuyH9QJGL7-4vO_pzYTnPOhYlh9YscHvvOXCjsD1ZRS-u09GJB9_Ltx9S7gATW_XlX6oIh3LsZJEfgr7V7ZO-BekI6N8GycWWpJSRgfk/s1600/na%CC%81lezy.jpg",
+          "displayedWidth": 234,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfUbEmuPzN573BzaC1LGaIU7AIbpLdEBUyzK3ef5wGUy_iyGDy_q57a-269C7C1v8Tvo-ZZt0Z8vH5HqC06gan8Cdx4Ek89p6USWEz7XqCEReyfBOt4D46DFLOxdpiRbK96uO3B0z4olg/s0/kostol+ba1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfUbEmuPzN573BzaC1LGaIU7AIbpLdEBUyzK3ef5wGUy_iyGDy_q57a-269C7C1v8Tvo-ZZt0Z8vH5HqC06gan8Cdx4Ek89p6USWEz7XqCEReyfBOt4D46DFLOxdpiRbK96uO3B0z4olg/s1600/kostol+ba1.jpg",
+        "filename": "kostol+ba1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfUbEmuPzN573BzaC1LGaIU7AIbpLdEBUyzK3ef5wGUy_iyGDy_q57a-269C7C1v8Tvo-ZZt0Z8vH5HqC06gan8Cdx4Ek89p6USWEz7XqCEReyfBOt4D46DFLOxdpiRbK96uO3B0z4olg/s1600/kostol+ba1.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Vnútorná výzdoba baziliky (A. Fiala: Výtvarý prejav staroslovan. baziliky na BA hrade, in: Byzantská kultúra a Slovensko)"
+      }
+    ],
+    "tags": [
+      "Bratislava"
+    ],
+    "category": null,
+    "location": {
+      "name": "Bratislava",
+      "latitude": 48.142709,
+      "longitude": 17.10111,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Jedno z troch hradísk v kronikách",
+        "value": "Nitrava, Dowina, Brezalauspurc — jediné 3 lokality Veľkej Moravy priamo spomínané v kronikách 9.-10. storočia",
+        "icon": "scroll"
+      },
+      {
+        "label": "Bazilika",
+        "value": "Trojloďová stavba, celková šírka 13 m — jedna z najväčších stavieb 9. storočia vo Veľkej Morave",
+        "icon": "building"
+      },
+      {
+        "label": "Nález v studni (Ventúrska 3)",
+        "value": "7 kostier dospelých mužov + veniec 13 železných sekerovitých hrivien — unikátny nález, najväčšia koncentrácia hrivien inde je len v Pobedime",
+        "icon": "scroll"
+      },
+      {
+        "label": "Kamenný palác",
+        "value": "Rozmery 12 × 5,5 m, postavený v 9. storočí",
+        "icon": "building"
+      },
+      {
+        "label": "Pohrebisko Karlova Ves",
+        "value": "15 kostrových hrobov objavených Ľ. Kraskovskou v roku 1954, datované do polovice 9. storočia",
+        "icon": "users"
+      },
+      {
+        "label": "Keltské oppidum",
+        "value": "Zlaté mince s nápisom Biatec, stavby rímskou technikou z 1. storočia pred Kristom",
+        "icon": "star"
+      },
+      {
+        "label": "Pôvod názvu",
+        "value": "Odvodený od veľmoža Preslav alebo Breslav, ktorému hradisko zrejme patrilo",
+        "icon": "crown"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1. storočie pred Kristom",
+        "title": "Keltské oppidum",
+        "description": "Zvyšky architektúr stavaných rímskou technikou, zlaté mince s nápisom Biatec.",
+        "type": "founding"
+      },
+      {
+        "year": "8. storočie",
+        "title": "Možné najstaršie slovanské osídlenie",
+        "description": "Nález podložky na vytepávanie kruhovej plakety naznačuje prítomnosť kovotepca na hradnom kopci už pred 9. storočím.",
+        "type": "discovery"
+      },
+      {
+        "year": "začiatok 9. storočia",
+        "title": "Vznik drevozemného opevnenia",
+        "description": "Opevnenie sa používalo s viacerými prestavbami až do konca 14. storočia.",
+        "type": "construction"
+      },
+      {
+        "year": "prvá polovica 9. storočia",
+        "title": "Sekerovité hrivny v podhradí",
+        "description": "Nález pri studni na Ventúrskej ulici dokladá obchodné styky osady — hrivny sú charakteristické najmä pre toto obdobie.",
+        "type": "discovery"
+      },
+      {
+        "year": "okolo polovice 9. storočia",
+        "title": "Vznik baziliky",
+        "description": "Trojloďová stavba, najstaršia fáza; pohrebisko v Karlovej Vsi tiež datované do tohto obdobia.",
+        "type": "construction"
+      },
+      {
+        "year": "koniec 9. – začiatok 10. storočia",
+        "title": "Osídlenie podhradia",
+        "description": "Zahĺbený príbytok pri severozápadnom nároží mestských hradieb, osídlenie pri Hlavnom námestí.",
+        "type": "event"
+      },
+      {
+        "year": "najneskôr prvá polovica 10. storočia",
+        "title": "Násilná smrť mužov v studni",
+        "description": "Nahádzané kostry 7 dospelých mužov spolu s vencom sekerovitých hrivien — možná súvislosť s postupom maďarských bojových družín.",
+        "type": "destruction"
+      },
+      {
+        "year": "4. júla 907",
+        "title": "Bitka pri Brezalauspurcu",
+        "description": "Podľa salzburských letopisov sa tu odohrala bitka bavorských a maďarských vojsk, ktorá skončila úplnou porážkou Bavorov.",
+        "type": "battle"
+      },
+      {
+        "year": "10. storočie",
+        "title": "Zánik baziliky",
+        "description": "Na jej južnú časť postavili opevnenie s murovanou vežou (pravdepodobne nedokončené).",
+        "type": "destruction"
+      },
+      {
+        "year": "11. storočie",
+        "title": "Hrad komitátnym sídlom",
+        "description": "Hrad získal významnú úlohu ako komitátny hrad Uhorska a sídlo členov kráľovskej rodiny; nad ruinami prvého kostola postavili druhý.",
+        "type": "event"
+      },
+      {
+        "year": "11. – začiatok 13. storočia",
+        "title": "Intenzívne pohrebisko",
+        "description": "Okolo kostolov sa hroby nachádzali až v piatich vrstvách.",
+        "type": "event"
+      },
+      {
+        "year": "prvá tretina 13. storočia",
+        "title": "Druhý kostol naďalej v používaní",
+        "description": "Používaný až do tohto obdobia.",
+        "type": "event"
+      },
+      {
+        "year": "13. storočie",
+        "title": "Obranné veže spevňujú opevnenie",
+        "description": "Vsadené do drevozemného valu pri zachovaní pôvodnej konštrukcie.",
+        "type": "construction"
+      },
+      {
+        "year": "koniec 14. storočia",
+        "title": "Nahradenie kamennými hradbami",
+        "description": "Drevozemné opevnenie nahradili gotické kamenné hradby.",
+        "type": "construction"
+      },
+      {
+        "year": "1990",
+        "title": "Záchranný výskum",
+        "description": "Západne od krídla čestného nádvoria sa našlo množstvo rímskeho stavebného materiálu a omietok zhodných s výzdobou baziliky.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bratislavské hradisko patrí medzi 3 hradiská, resp. 3 sídelné a vojensky významné lokality z čias Veľkej Moravy (Nitrava, Dowina, Brezalauspurc) ktoré sa priamo dostali do kroník 9. a 10. storočia. Túto skutočnosť dokumentuje napr. Aventinova kronika, kde sa bitka medzi Maďarmi a Bavormi roku 907 opisuje ako bitka pri Braslavespurchu. V Salzburských análoch sa uvádza ako bitka pri Brezaluspurcu a minca kráľa Štefana z roku 1000 má v kruhopise nápis P (resp. B) reslavva civ. Pôvod názvu sa väčšinou odvodzuje od veľmoža Preslav, alebo Breslav, ktorému zrejme hradisko patrilo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Neďaleký brod cez Dunaj bol už v starších obdobiach dôležitým strategickým bodom, ktorý bol i náležite chránený z \"hradného vrchu\". Slovania si na základoch starších stavieb vybudovali významné stredisko, ktorého v mladšom období významnou dominantou bola bazilika (kostol). Hradisko bolo po celom obvode obkolesené valom.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KdJpuLinPH1-BR23e0WDczHN3IVFUStwclcM7iQ9Ti6mN11RDNxoViL-y9HKJMo5pjOqOyLBRru7bScBmrcW_61Dtos-YjNMK1LaTuqyw_wwoOrhkFG0ZX3haPVM7ZKrZyFr_kczCIUi9PjkrTkwsNX69fSxpgMqlWEwIscaj3rcl1R8Oly8uyTQtA/s0/Sken%2047.jpeg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KdJpuLinPH1-BR23e0WDczHN3IVFUStwclcM7iQ9Ti6mN11RDNxoViL-y9HKJMo5pjOqOyLBRru7bScBmrcW_61Dtos-YjNMK1LaTuqyw_wwoOrhkFG0ZX3haPVM7ZKrZyFr_kczCIUi9PjkrTkwsNX69fSxpgMqlWEwIscaj3rcl1R8Oly8uyTQtA/s1600/Sken%2047.jpeg",
+          "filename": "Sken 47.jpeg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_KdJpuLinPH1-BR23e0WDczHN3IVFUStwclcM7iQ9Ti6mN11RDNxoViL-y9HKJMo5pjOqOyLBRru7bScBmrcW_61Dtos-YjNMK1LaTuqyw_wwoOrhkFG0ZX3haPVM7ZKrZyFr_kczCIUi9PjkrTkwsNX69fSxpgMqlWEwIscaj3rcl1R8Oly8uyTQtA/s1511/Sken%2047.jpeg",
+            "displayedWidth": 320,
+            "displayedHeight": 311,
+            "originalWidth": 1511,
+            "originalHeight": 1470
+          }
+        },
+        "alt": "Poklad zlatých keltských statérov a strieborných mincí z Bratislavského hradu s nápisom Biatec a Nonnos (z knihy Kelti z Bratislavy, SNM 2017)",
+        "caption": "Poklad zlatých keltských statérov a strieborných mincí z Bratislavského hradu s nápisom Biatec a Nonnos (z knihy Kelti z Bratislavy, SNM 2017)",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Pred vznikom Veľkej Moravy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na území Bratislavy nemáme zatiaľ doložené hradisko, ktoré by sme mohli bezpečne zaradiť časovo do blatnicko-mikulčického horizontu - tzn. obdobia pred vznikom Veľkej Moravy. Na osídlenie hradného kopca v období 8. storočia však poukazuje zlomok podložky na vytepávanie kruhovej plakety, ktorý by – ako uvádza Štefanovičová, podľa spôsobu výzdoby bolo možné zaradiť do tohto časového horizontu. Na podložke je zobrazený figurálny výjav predstavujúci jazdca na koni, ktorý má pod kopytami koňa ležiacu ľudskú postavu. Postavy vystupujú v reliéfe z plochého puncovaného pozadia. Sú spracované výtvarne na vysokej úrovni. Archeológovia reliéf interpretujú ako zobrazenie triumfu nad porazeným nepriateľom. Nález teda naznačuje prítomnosť kovotepca na bratislavskom hradnom kopci, žiaľ, ďalšie doklady o jeho činnosti zatiaľ nepoznáme. Podložka na vytepávanie, sa našla severne od dnešného hradného paláca, v priestore medzi bývalou hradnou priekopou a amfiteátrom. Taktiež sa na hrade našlo niekoľko úlomkov nádob, ktoré sa radia spôsobom výroby do 8. storočia. Naznačuje to možnosť osídlenia hradného kopca aj v staršom období ako v 9. storočí, keď sa stal jedným z významných opevnených centier Veľkej Moravy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvLoSw0p_cfIMT6v1Tr-GZaxI2XtRQcbol4rKRiB03ZMicEIqKK0ie_hPvtL7SAxbjOGqar4DlFYUrkbTfOCT6wWlkLnbL1K8HU4iqxvY3_IpA4Wpzrkkt12RZe2GLbF-QAVhi4EwqWak/s0/BA-hradisko.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvLoSw0p_cfIMT6v1Tr-GZaxI2XtRQcbol4rKRiB03ZMicEIqKK0ie_hPvtL7SAxbjOGqar4DlFYUrkbTfOCT6wWlkLnbL1K8HU4iqxvY3_IpA4Wpzrkkt12RZe2GLbF-QAVhi4EwqWak/s1600/BA-hradisko.jpg",
+          "filename": "BA-hradisko.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvLoSw0p_cfIMT6v1Tr-GZaxI2XtRQcbol4rKRiB03ZMicEIqKK0ie_hPvtL7SAxbjOGqar4DlFYUrkbTfOCT6wWlkLnbL1K8HU4iqxvY3_IpA4Wpzrkkt12RZe2GLbF-QAVhi4EwqWak/s1600/BA-hradisko.jpg",
+            "displayedWidth": 240,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Umelecká predstava o vzhľade bratislavského hradiska v čase Veľkej Moravy",
+        "caption": "Umelecká predstava o vzhľade bratislavského hradiska v čase Veľkej Moravy",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Veľkomoravské hradisko - priebeh a konštrukcia opevnenia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko z obdobia Veľkej Moravy bolo opevnené mohutným valom, v prevažnej časti len s drevenou konštrukciou. Doložil to výskum na obvode východnej dolnej terasy hradného areálu, kde sa na dvoch miestach zistila nie celkom rovnaká konštrukcia. V sonde v parku sa pod dosť hrubou stredovekou navážkou prišlo na spálenú vrstvu zeminy, pod ktorou sa podarilo odkryť drevenú komoru zrúbenú z hrubých dubových trámov bez železných klinov. Komora bola smerom do hradiska otvorená, tvorili ju dve bočné steny a čelná stena a jej zachovaná výška bola 250 cm. Drevené trámy boli zotlené, ale nie spálené, nešlo teda o úmyselné prepálenie, len vrchná časť bola pravdepodobne zasiahnutá požiarom. V tejto časti opevnenia sa nedala pozorovať jeho prestavba. Podľa čelnej steny komory opevnenie prebiehalo po vrstevnici rovnobežne s neskoršou gotickou kamennou hradbou, bolo len posunuté asi o 5 m do vnútra areálu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V severnej časti bola situácia trocha odlišná. Objavila sa tu hrubá spálená vrstva, ktorá sa šírila aj smerom do hradiska a dosahovala až 2 m. Bola veľmi silno prepálená, miestami s časťami trosky spálenej až do sklovita, ktorá však za vtedajších podmienok nebola chemicky určená. Drevená konštrukcia bola v spodnej časti zrúbená do menších komôr, podobne ako v predchádzajúcom prípade, vrchná časť mala roštovú konštrukciu vyplnenú zeminou, v severnej časti sondy bola do drevenej hradby vsadená kamenná štvorcová veža, z ktorej sa zachovala západná vnútorná časť. Jej liate murivo dosahovalo hrúbku 2 m a dĺžka steny mala 10 n Vonkajšia strana bola zrejme pri výstavbe gotického opevnenia koncom 14. storočia odbúraná Veža nedosahovala základovú škáru drevozemného valu, jeho čelná stena sa zistila aj pod jej základovým murivom. Bola to jedna z obranných veží, ktorými v 13. storočí spevnili vonkajšie opevnenie pri zachovaní a využití pôvodnej drevozemnej konštrukcie. Postavená bola pôvodne v 9. storočí, neskôr, niekedy v 1l. storočí, bola jej vrchná časť prestavaná na roštovú konštrukciu. Zaujímavé je konštatovanie, že opevnenie v tomto úseku z prednej strany tvorila len čelná drevená stena, ktorá nebola spevnená kamenným múrom, hoci o kameň v bezprostrední blízkosti nebola núdza. Hradby veľkomoravských opevnení boli často z vonkajšej strany chránené kamenným múrom, a to nielen v bezprostrednej blízkosti, na hradiskách Devínskej Kobyly alebo v Neštichu pri Sv. Jure, kde bolo prírodné prostredie podobné, ale napr. v inundačnom území Mikulčic, kde sa kameň musel dovážať. Zvyšky drevenej konštrukcie bez možnosti podrobného výskumu boli zistené na severnej strane hradného areálu, pod vonkajším múrom opevnenia bašty Luginsland. Prejavili sa červenou prepálenou vrstvou a kúskami zuhoľnatených trámov. Mimoriadne dobre zachovaná drevená konštrukcia sa zistila v suteréne západnej časti krídla Luginsland, kde dosahovala hĺbku až 6 m. Nakoľko išlo o stavebný výkop v čase po oficiálnom ukončení výskumu, nebolo možné konštrukciu preskúmať, ani dokumentovať. Tvorili ju mimoriadne dobre zachované veľké dubové trámy, ktoré zuhoľnateli prirodzeným spôsobom. Stopy spálenej vrstvy s drevenými úlomkami trámov sa zistili aj pod časťou západného opevnenia a umožnili tak rekonštruovať pravdepodobný priebeh opevnenia, ktorý na východnej, severnej a západnej strane v podstate sleduje konfiguráciu terénu ako neskoršie gotické hradby."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQlGuQYyXJ-_OgP-BQrj9RgP2ubbc89a54AV-QSGRyUdbuI6FQIowseTYYRZAyDcz_HiRFYbcULfcgId3r7btVHApijZE2O7uLSRgIIyj4gX5PZSL7Q0xQOykI1rAWU32EVY84otcNhUv/s0/Hradisko+po%25CC%2582dorys+9.+st.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQlGuQYyXJ-_OgP-BQrj9RgP2ubbc89a54AV-QSGRyUdbuI6FQIowseTYYRZAyDcz_HiRFYbcULfcgId3r7btVHApijZE2O7uLSRgIIyj4gX5PZSL7Q0xQOykI1rAWU32EVY84otcNhUv/s1600/Hradisko+po%25CC%2582dorys+9.+st.jpg",
+          "filename": "Hradisko+po%CC%82dorys+9.+st.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVQlGuQYyXJ-_OgP-BQrj9RgP2ubbc89a54AV-QSGRyUdbuI6FQIowseTYYRZAyDcz_HiRFYbcULfcgId3r7btVHApijZE2O7uLSRgIIyj4gX5PZSL7Q0xQOykI1rAWU32EVY84otcNhUv/s1600/Hradisko+po%25CC%2582dorys+9.+st.jpg",
+            "displayedWidth": 306,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Pôdorys hradiska v 9. storočí podľa Štefanovičovej",
+        "caption": "Pôdorys hradiska v 9. storočí podľa Štefanovičovej",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na južnej strane mal hradný kopec prudký spád, a opevnenie tu malo priebeh v smere J—S a smerovalo na korunnú vežu dnešného paláca. Jeho vrchná časť mala"
+              },
+              {
+                "type": "text",
+                "text": " roštovú konštrukciu, jej vonkajšiu stranu spevňoval múr z lomového kameňa spájaného hlinou",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Bol hrubý 1 m, trámy opevnenia boli do neho v niektorých častiach zapustené. Zaujímavá je situácia zistená malou hĺbkovou sondou, ktorá naznačuje snáď staršie murivo pod opevnením. Priebeh valu smerom ku korunnej veži sa podarilo ešte v náznaku zistiť západne od krídla čestného nádvoria a tiež pri základoch korunnej veže, vnútri terasy pristavanej k palácu pri neskoršej stredovekej úprave. V súčasnosti poznáme vlastne celý priebeh drevozemného opevnenia, ktoré pochádza pravdepodobne zo začiatku 9. storočia a bolo používané s niekoľkými prestavbami až do konca 14. storočia, keď ho nahradili kamenné gotické hradby. Opevnenie bolo na svoju dobu veľmi mohutné a účinné, vieme aj z historických prameňov, že viackrát odolalo rôznym útokom počas vojnových zrážok, najmä v1l. Storočí."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf_QS0Y7BzwRW4gYpkar5jjo0WlLjDZ18UMt-VK7_Q3kQspj5VAixWqGHT5l7yvftUORMO876y9W2hcqAgoMDLQAFf3WCIs8iy3x73EAeq4w57UTvC02Uq1tuc5rxHN212oY-0XT3lMTAy/s0/BA+hrad1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf_QS0Y7BzwRW4gYpkar5jjo0WlLjDZ18UMt-VK7_Q3kQspj5VAixWqGHT5l7yvftUORMO876y9W2hcqAgoMDLQAFf3WCIs8iy3x73EAeq4w57UTvC02Uq1tuc5rxHN212oY-0XT3lMTAy/s1600/BA+hrad1.jpg",
+          "filename": "BA+hrad1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf_QS0Y7BzwRW4gYpkar5jjo0WlLjDZ18UMt-VK7_Q3kQspj5VAixWqGHT5l7yvftUORMO876y9W2hcqAgoMDLQAFf3WCIs8iy3x73EAeq4w57UTvC02Uq1tuc5rxHN212oY-0XT3lMTAy/s1600/BA+hrad1.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 106,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Rekonštrukcia hradby v 9. storočí",
+        "caption": "Rekonštrukcia hradby v 9. storočí",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Stavby na hradisku"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Areál vnútri opevnenia mal svoje prirodzené výškové členenie, čo sa podarilo z rôznych výškových meraní počas výskumu rekonštruovať. Najvyššia časť sa nachádzala pod západnou polovicou dnešného paláca, odkiaľ terén postupne klesal a na východe vybiehal jazykom do menšej terasy. Túto konfiguráciu využili v 9. storočí na postavenie najvýznamnejších stavieb na jeho vrchole. Na najvyššej časti sa pri výskume "
+              },
+              {
+                "type": "text",
+                "text": "zistili základy aj časť nadzákladového muriva malého kamenného paláca",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", ktorý mal pozdĺžny pôdorys orientovaný v smere Z—V. Postavený bol z lomového kameňa spájaného hlinou, s použitím opracovaných kamenných kvádrov na nárožia. Jeho steny boli lícované, zvnútra bol omietnutý, členený priečkou na dve miestnosti. Južná stena sa nezachovala, zanikla pri výstavbe gotického paláca. V severnej časti sa zistil vstupný otvor s časťou kamennej dlažby. Vykurovacie zariadenie sa pre torzovitosť nálezu nepodarilo nájsť. Jeho časové zaradenie do 9. storočia je predpokladané, vzhľadom na jeho pôdorysnú dispozíciu a vzťah k ostatným objaveným architektúram v najbližšom okolí. Rozmery objektu možnom len odhadnúť na 12x5,5 m. Možno predpokladať , že ide o prízemný palác z 9.stor."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg75myNiUxF9rFv87EWtHpUzR3sKC380hoPYLhWnHJfHw7KPH8LquF7bZkZQGpVasw4ac4GkBZT7K9Nc5McWG9KtXtoQUnIO64X_jcnZnBzFyV1cs8cATO5gZVmNFZQsIiooflqIW3L7M/s0/kostol+ba.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg75myNiUxF9rFv87EWtHpUzR3sKC380hoPYLhWnHJfHw7KPH8LquF7bZkZQGpVasw4ac4GkBZT7K9Nc5McWG9KtXtoQUnIO64X_jcnZnBzFyV1cs8cATO5gZVmNFZQsIiooflqIW3L7M/s1600/kostol+ba.jpg",
+          "filename": "kostol+ba.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg75myNiUxF9rFv87EWtHpUzR3sKC380hoPYLhWnHJfHw7KPH8LquF7bZkZQGpVasw4ac4GkBZT7K9Nc5McWG9KtXtoQUnIO64X_jcnZnBzFyV1cs8cATO5gZVmNFZQsIiooflqIW3L7M/s1600/kostol+ba.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Možný vzhľad baziliky na hradisku",
+        "caption": "Možný vzhľad baziliky na hradisku",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Východne od neho, na klesajúcom jazyku terénu, sa pod juhovýchodnou vežou dnešného paláca v suteréne podarilo objaviť "
+              },
+              {
+                "type": "text",
+                "text": "menší obytný objekt",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Mal kamennú podmurovku z lomového kameňa kladeného na hlinu, vnútorný priestor bol vymazaný žltou piesčitou hlinou a pri severovýchodnom rohu sa zistili stopy prepáleného ohniska s náznakom ohraničenia kameňmi. Zachovala sa z neho severná stena v dĺžke 4 m a časti západnej a východnej steny. Južná sa zničila počas stredovekej prestavby pri výstavbe gotického paláca. Z objektu pochádzajú nálezy črepov z keramiky zväčša točenej na kruhu, zdobenej vlnovkou, ktoré možno zaradiť do 9. storočia. Išlo zrejme o príbytok, ktorý mal na kamennej podmurovke drevenú zrubovú stavbu. Podobných stavieb z 9. storočia sa našlo málo, v tom čase ako jednoduchý príbytok prevažuje zahĺbená polozemnica, príp. stavba s kolovou konštrukciou. Podobné stavby pochádzajú z iných mocenských centier Veľkej Moravy – napr. zo Starého Města pri Uherskom Hradišti. V prípade príbytku na Bratislavskom hrade ide jednoznačne o kamennú podmurovku zrubového príbytku. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj63vO2EjvF7ImpnuMFAs7a1TZTQT3o_qElh2A3pVVlyAICcHQkVg2lGclSQ8qkw_HU4Rqz3KuIBOAbbLk76A80jym-A1xL6_yOzFWKEKoTNHJ9YFrRZtaQk0_4JmRfJYMT6Q2DIuvco0/s0/bazilika.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj63vO2EjvF7ImpnuMFAs7a1TZTQT3o_qElh2A3pVVlyAICcHQkVg2lGclSQ8qkw_HU4Rqz3KuIBOAbbLk76A80jym-A1xL6_yOzFWKEKoTNHJ9YFrRZtaQk0_4JmRfJYMT6Q2DIuvco0/s1600/bazilika.jpg",
+          "filename": "bazilika.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj63vO2EjvF7ImpnuMFAs7a1TZTQT3o_qElh2A3pVVlyAICcHQkVg2lGclSQ8qkw_HU4Rqz3KuIBOAbbLk76A80jym-A1xL6_yOzFWKEKoTNHJ9YFrRZtaQk0_4JmRfJYMT6Q2DIuvco0/s1600/bazilika.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Rekonštrukcia Baziliky",
+        "caption": "Rekonštrukcia Baziliky",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Bazilika"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "K najvýznamnejšiemu nálezu na bratislavskom hradisku nesporne patria zvyšky cirkevnej stavby na východnom výbežku hornej terasy. Podarilo sa tam zistiť časť stavby kostola, ktorá bola na juhozápadnom nároží prekrytá vežovou stavbou pravdepodobne v 10. storočí a znova aj s vežovou stavbou v tom istom úseku prekrytá novou stavbou kostola z 11. storočia. Prevrstvenie troch murív spájaných rôznym vizuálne rozlišitelným spojivom a šťastná okolnosť nálezu hrobu pod múrom z 11. storočia, kto: obsahoval charakteristický velkomoravský gombík, poskytli kľúč k časovému zaradeniu stavieb. Najstaršiu stavebnú fázu tvoril obvodový múr južnej lode a juhozápadného priečelia a tri dvojice masívnych pilierov, ktoré členili vnútorný priestor na trojlodie. Múry, a hlavne piliere boli postavené z opracovaných kamenných kvádrov, v niektorých prípadoch boli ako stavebný materiál použité druhotne architektonické články alebo kamene s vysekanými rímskymi nápismi (FECIT VERIAN). V murive boli tiež hojne použité rímske tehly alebo ich zlomky. Zväčša patrili pôvodne stavbe XIIII. rímskej légie, ktorej kolky sa na nich zachovali, materiál pochádzal z nezistenej rímskej stavby niekde v okolí. Vzhľadom na jeho množstvo predpokladáme, že stavba mohla stáť priamo na hradnom kopci. Podobné situácie sú bežné aj na iných miestach Bratislavy. V hradnom areáli zatiaľ jediným náznakom staršej kamennej stavby ako z 9. storočia bola malá časť múru viditelná len zboku pod vežovou stavbou z 10. storočia. Jej výskum však nebolo možné z technických príčin uskutočniť, a tak ostáva táto otázka otvorená. Uvedené zvyšky stavby z 9. storočia tvoria len torzo celej pôdorysnej dispozície. Nezachovalo sa severné obvodové murivo, a najmä východná časť kostola, čo znemožňuje posúdiť, ako vyzeralo sanktuárium. Zachovaný obvodový múr aj dvojice pilierov boli orientované v smere V—Z. Zvnútra bola stavba omietnutá a zdobená malbami, ktoré znázorňovali najpravdepodobnejšie figurálne výjavy. Farby malieb boli zemité — okrová, žltá, hnedočervená — a orámované širokými sivými pruhmi. Úlomky omietky s malbami sa našli hlavne pri pilieroch lode. V r. 1990 sa pri záchrannom výskume západne od krídla čestného nádvoria našlo v sekundárnej polohe nahádzané množstvo rímskeho stavebného materiálu a omietok s totožnou výmaľbou. Išlo zrejme o presunutie časti muriva po zbúraní kostola. Detaily zachovaných omietok naznačujú, že pochádzajú z okien, rámovania vstupov a pomáhajú dotvoriť predstavu o jeho vzhľade. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLc5APyk35L-_A6LqhGDoXe1WOZqZgx7kgPHqewcJ8pw8uQL0YxoZEhiwsgp_KN24mLLA-Kq1RZMRdaF2a8LjRcDO09fGfBWv3KqybxcjdSXJdyZfdhhnN4sCxd_DOUe2932pAY4KVrX0f/s0/dom.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLc5APyk35L-_A6LqhGDoXe1WOZqZgx7kgPHqewcJ8pw8uQL0YxoZEhiwsgp_KN24mLLA-Kq1RZMRdaF2a8LjRcDO09fGfBWv3KqybxcjdSXJdyZfdhhnN4sCxd_DOUe2932pAY4KVrX0f/s1600/dom.jpg",
+          "filename": "dom.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLc5APyk35L-_A6LqhGDoXe1WOZqZgx7kgPHqewcJ8pw8uQL0YxoZEhiwsgp_KN24mLLA-Kq1RZMRdaF2a8LjRcDO09fGfBWv3KqybxcjdSXJdyZfdhhnN4sCxd_DOUe2932pAY4KVrX0f/s1600/dom.jpg",
+            "displayedWidth": 239,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Bratislava",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Baziliku stavali pravdepodobne dve skupiny remeselníkov . Prvá, pravdepodobne neskúsená so stavbou podobného typu, postavila kamenné murivá dosť nepravidelne, bez pravouhlého systému. Druhá skupina staviteľov kostol dokončila a povrch muriva omietla zarovnávajúcou maltou, ktorá tvorila podklad pre jemnejšiu omietku s freskovou výzdobou."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "O zaradení stavby medzi sakrálne hovorí jej samotná dispozícia, východné orientovanie a hroby, ktoré sa okolo nachádzali. Zvyk pochovávať pri kostole bol už v 9. storočí bežný. Vzhľadom na to, že na zvyškoch staršieho kostola stál v1l. storočí druhý kostol, ktorý používali až do prvej tretiny 13. storočia, okolo stavieb sa rozkladalo intenzívne používané pohrebisko. Od začiatku 11. do začiatku 13. storočia boli na ňom hroby až v piatich vrstvách. Toto intenzívne pochovávanie zničilo pravdepodobne časť starších hrobov, preto sú nálezy z 9. storočia zastúpené len v malom počte. Odkryté hroby najstaršieho horizontu sa nachádzali na južnej strane stavby, jeden bol umiestnený západne. Obsahovali šperky, ktoré nepochybne patria k okruhu veľkomoravských šperkov, a to takých, aké používali len vo vyššie postavených vrstvách. Boli to náušnice zdobené príveskom v podobe hroznového strapca, nazývané hrozienkovité, náušnice s guľôčkami zdobenými na povrchu malými zrniečkami — granuláciou, aj jednoduché krúžkové náušnice. Všetky boli strieborné. Výrazným šperkom boli aj gombíky, ktoré sa pravdepodobne používali skôr ako ozdoba, nie na spínanie šiat. Boli duté, spojené z dvoch bronzových plechových polgulí a zdobené rytým geometrickým ornamentom."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytDLSbOdETGfO4sJ-X0zcpCLBpDuaaXTLlT_wFFWkTq7j7mHjZrmiHb1QgI-nYrR1MMD5BrNw99LTg6dBqnFenODOAWO9r12KshuySHAZ1zbrGWIoG3oAcF1jEiA3oL7QEluRwyeDD2Y/s0/kostol1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytDLSbOdETGfO4sJ-X0zcpCLBpDuaaXTLlT_wFFWkTq7j7mHjZrmiHb1QgI-nYrR1MMD5BrNw99LTg6dBqnFenODOAWO9r12KshuySHAZ1zbrGWIoG3oAcF1jEiA3oL7QEluRwyeDD2Y/s1600/kostol1.jpg",
+          "filename": "kostol1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiytDLSbOdETGfO4sJ-X0zcpCLBpDuaaXTLlT_wFFWkTq7j7mHjZrmiHb1QgI-nYrR1MMD5BrNw99LTg6dBqnFenODOAWO9r12KshuySHAZ1zbrGWIoG3oAcF1jEiA3oL7QEluRwyeDD2Y/s1600/kostol1.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Bratislava",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Časové zaradenie zvyškov stavby kostola do veľkej miery závisí od sprievodných nálezov, pretože samotná stavba nemá architektonické detaily, ktoré by umožnili jej datovanie. Táto situácia je obdobná aj na iných lokalitách s nálezmi sakrálnej architektúry v oblasti Veľkej Moravy. Podľa hrobových nálezov, ktoré sa našli okolo najstaršej stavby na bratislavskom hradisku, možno predpokladať jej vznik okolo polovice 9. storočia. Svojou trojloďovou dispozíciou, s celkovou šírkou 13 m, sa zaraďuje k najväčším stavbám 9. storočia v oblasti Veľkej Moravy. Jej dĺžku nepoznáme a nevieme tiež, aký uzáver mala na východe. Hrúbka obvodového múru sa pohybovala okolo 90 cm, piliere mali rozmery približne 100 x 100 cm. Členenie múrov antami a trojloďová dispozícia, ako aj celkové rozmery najviac približujú bratislavskú stavbu trojloďovej Bazilike sv. Jána Krstiteľa, odkrytej v Zalavári v polohe Réceskút. To naznačuje aj cestu, odkiaľ pravdepodobne prišli stavitelia alebo stavebné inšpirácie oboch stavieb, t. j. z dalmátskej oblasti. V tamojšej architektúre je aj celková dispozícia stavby aj členenie múrov antami bežné a tento prúd christianizačnej činnosti ako veľmi pravdepodobný naznačujú aj písomné pramene."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMjjpnIsFfOcNelwwF0SfommL2lOgdZ4dohIvtCISxxXuMhfoq1yW8JlhcR9pUErG4xkXdW1L_r5FwQA0yCHRpfwIWS9pX9KfoewRFJ54QlhzcljMjjgSqO-bUMKMDUs4TWK1420S-ZUU/s0/DSC_0129.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMjjpnIsFfOcNelwwF0SfommL2lOgdZ4dohIvtCISxxXuMhfoq1yW8JlhcR9pUErG4xkXdW1L_r5FwQA0yCHRpfwIWS9pX9KfoewRFJ54QlhzcljMjjgSqO-bUMKMDUs4TWK1420S-ZUU/s1600/DSC_0129.jpg",
+          "filename": "DSC_0129.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMjjpnIsFfOcNelwwF0SfommL2lOgdZ4dohIvtCISxxXuMhfoq1yW8JlhcR9pUErG4xkXdW1L_r5FwQA0yCHRpfwIWS9pX9KfoewRFJ54QlhzcljMjjgSqO-bUMKMDUs4TWK1420S-ZUU/s1600/DSC_0129.jpg",
+            "displayedWidth": 180,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Kráľ Svätopluk sa konečne vrátil na Bratislavské hradisko",
+        "caption": "Kráľ Svätopluk sa konečne vrátil na Bratislavské hradisko",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bazilika zanikla niekedy v priebehu 10.stor., kedy na jej južnú časť postavili opevnenie s murovanou vežou. Toto opevnenie malo chrániť len výšinnú časť hradiska, ale pravdepodobne nebolo dokončené."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bratislavský hrad môžeme na základe uvedených nálezov považovať za významnú veľkomoravskú pevnosť, ktorá bola cirkevným aj svetským centrom väčšej oblasti. Sídlila na ňom kniežacia družina a pravdepodobne aj cirkevný hodnostár. Významné postavenie hradu sa odráža aj v tom, že jeho názov, ako jeden z troch známych názvov z oblasti Veľkej Moravy, uviedli v salzburských letopisoch ako Brezalauspurc. Letopisec stručne uviedol, že pod ním sa odohrala strašná bitka bavorských a maďarských vojsk 4. júla r. 907, ktorá skončila úplnou porážkou Bavorov a otvorila cestu Maďarom na západ. Pravdepodobne krátko potom alebo už v tom čase stratilo bratislavské hradisko na čas svoju funkciu, hoci ho pravdepodobne Maďari nedobyli, aspoň sa o tom nezachovali nijaké náznaky. Významnú úlohu získal hrad znova v 11. storočí, keď sa stal komitátnym hradom Uhorska a sídlom členov kráľovskej rodiny."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-LR2sLR_8W1OkyY310QNXp-rZG57y_B9sotMpb23pHk-WxFvXHLBXsSoBfc6eRQUK6pC8qctaANDDvUqyXw1tMABOQjbTX4kkaCcrciwoMQ-LIJVxZHCaemZSqA532uhLx-Uz3sbd-Y/s0/kostorlbratislava.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-LR2sLR_8W1OkyY310QNXp-rZG57y_B9sotMpb23pHk-WxFvXHLBXsSoBfc6eRQUK6pC8qctaANDDvUqyXw1tMABOQjbTX4kkaCcrciwoMQ-LIJVxZHCaemZSqA532uhLx-Uz3sbd-Y/s1600/kostorlbratislava.jpg",
+          "filename": "kostorlbratislava.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-LR2sLR_8W1OkyY310QNXp-rZG57y_B9sotMpb23pHk-WxFvXHLBXsSoBfc6eRQUK6pC8qctaANDDvUqyXw1tMABOQjbTX4kkaCcrciwoMQ-LIJVxZHCaemZSqA532uhLx-Uz3sbd-Y/s1600/kostorlbratislava.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Staršia rekonštrukcia baziliky",
+        "caption": "Staršia rekonštrukcia baziliky",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Podhradie a územie dnešného starého mesta v časoch Veľkej Moravy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Oproti výrazným nálezom na hradnom kopci sú doklady osídlenia pod ním v 9. storočí oveľa skromnejšie. Pravdepodobne to zapríčiňuje najmä veľká neskoršia stredoveká a novoveká zastavanosť, ktorá bráni súvislejšiemu výskumu. Na viacerých lokalitách totiž, kde sa výskum mohol uskutočniť, sa doklady života z veľkomoravského obdobia našli, aj keď len vo fragmentárnom obraze. Na mnohých miestach západnej časti Starého mesta sa zistila sídlisková vrstva, no nakoľko sa v nej nepodarilo zachytiť objekty, dávajú nálezy predstavu len o rozsahu obývanej plochy, nie o spôsobe osídlenia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Priamo pod hradom, na východnom svahu hradného kopca, sa pri výskume neďaleko Kostola sv. Mikuláša zistila časť opevnenia, časovo zaradená do 9. storočia. Jej celkový priebeh nieje známy, ale pravdepodobne išlo o opevnenie predhradia. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUoNrKbUkkBAF2KE5Kf1zMgBEIOv5nXMr5gCkyhyphenhyphenvHgjhDsGlGDyj6PO3s7rVR6hmx9fTr5Bv-CF31IQ1_1Q4nXdMB5hCxnkGZPpVgF3kjUHP1AkxGfByljF39zFoKqaT0tc2MTxEJIDw/s0/gombi%25CC%2581k.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUoNrKbUkkBAF2KE5Kf1zMgBEIOv5nXMr5gCkyhyphenhyphenvHgjhDsGlGDyj6PO3s7rVR6hmx9fTr5Bv-CF31IQ1_1Q4nXdMB5hCxnkGZPpVgF3kjUHP1AkxGfByljF39zFoKqaT0tc2MTxEJIDw/s1600/gombi%25CC%2581k.jpg",
+          "filename": "gombi%CC%81k.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUoNrKbUkkBAF2KE5Kf1zMgBEIOv5nXMr5gCkyhyphenhyphenvHgjhDsGlGDyj6PO3s7rVR6hmx9fTr5Bv-CF31IQ1_1Q4nXdMB5hCxnkGZPpVgF3kjUHP1AkxGfByljF39zFoKqaT0tc2MTxEJIDw/s1600/gombi%25CC%2581k.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Typické Veľkomoravské šperky z hradiska",
+        "caption": "Typické Veľkomoravské šperky z hradiska",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podhradná osada sa pravdepodobne začala rozvíjať už v 9. storočí a sústredilo sa do priestoru medzi neskoršie západné mestské hradby a Ventúrsku ulicu. Z vnútornej strany mestských hradieb v ich severozápadnom nároží bol odkrytý zahĺbený príbytok z konca 9. a začiatku 10. storočia. "
+              },
+              {
+                "type": "text",
+                "text": "Príbytok bol zahĺbený do vtedajšieho terénu asi 70 cm",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " a mal pomerne veľmi dobre zachovanú vnútornú výplň. Zachovalo sa v nej torzo zuhoľnatenej drevenej konštrukcie, ktoré dovoľuje rekonštruovať niektoré stavebné detaily. Zemnica mala štvorcový pôdorys s plochou 320 cm2. "
+              },
+              {
+                "type": "text",
+                "text": "Múry tvorili štiepané dubové trámy postavené klasickou zrubovou technikou",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " s väzbou v severozápadnom a juhozápadnom rohu, v severovýchodnom a juhovýchodnom rohu však konce trámov osadili do drážky rohového stĺpa. V severovýchodnom nároží bola umiestnená pec, ktorá mala z vonkajšej strany hlinenú izoláciu od drevenej konštrukcie steny. Piecka bola kamenná. Oproti nej, v juhovýchodnom rohu, bol vstupný otvor, nad ktorým bol pravdepodobne ochranný prístrešok. Podlaha bola upravená tenkou dvojcentimetrovou vrstvou žltej hlinitej zeminy. V príbytku sa našli len tri nádoby, podla ktorých je aj časovo zaradený. Ďalšie sídliskové nálezy pochádzajú z Kapitulskej ulice 18 a z Ventúrskej ulice 6, sú to však len sídliskové jamy, ktoré vela nehovoria o usporiadaní osady, skôr o jej rozsahu. Z nálezov zatiaľ pochádza len keramický materiál, nepodarilo sa zistiť doklady výrobných objektov ani remeselnej činnosti.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi84aO921yJ1d5hFYss88lpzWCXtZmNVK36e-SYepIxFoghNGogQo4E5xne9v6ZDz6dFOwQq3aeG0MgMqA_0jmSz__ccoIi0i9eIm-FYMQxTdxYX-Xuaq4bQXqzcYSXzUroaFW7z39eXFI/s0/naus%25CC%258C.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi84aO921yJ1d5hFYss88lpzWCXtZmNVK36e-SYepIxFoghNGogQo4E5xne9v6ZDz6dFOwQq3aeG0MgMqA_0jmSz__ccoIi0i9eIm-FYMQxTdxYX-Xuaq4bQXqzcYSXzUroaFW7z39eXFI/s1600/naus%25CC%258C.jpg",
+          "filename": "naus%CC%8C.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi84aO921yJ1d5hFYss88lpzWCXtZmNVK36e-SYepIxFoghNGogQo4E5xne9v6ZDz6dFOwQq3aeG0MgMqA_0jmSz__ccoIi0i9eIm-FYMQxTdxYX-Xuaq4bQXqzcYSXzUroaFW7z39eXFI/s1600/naus%25CC%258C.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Gombíky z Bratislavského hradiska (P. Dvořák:Stopy dávnej minulosti 3)",
+        "caption": "Gombíky z Bratislavského hradiska (P. Dvořák:Stopy dávnej minulosti 3)",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z tohto hľadiska je pozoruhodný nález na Ventúrskej ulici 3 v objekte stredovekej univerzity Academie Istropolitany. Na nádvorí, ktoré vytvorili viaceré domy, sa pri výskume súvisiacom s opravou objektu "
+              },
+              {
+                "type": "text",
+                "text": "našla studňa",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", v dolnej časti vyplnená popolom a uhlíkmi. Na tejto vrstve "
+              },
+              {
+                "type": "text",
+                "text": "bolo nahádzaných sedem kostier dospelých mužov. V úrovni vrstvy kostier bol po okraji studne nesúvislý veniec 13 kusov železných sekerovitých hrivien",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Nález bol na základe niekoľkých úlomkov črepov časovo zaradený najneskôr do prvej polovice 10. storočia. Zatiaľ však nemá obdobu ani vo veľkomoravskom horizonte. Nahádzané kostry mužov svedčia o ich násilnej smrti, ku ktorej mohlo dôjsť počas nejakej vojenskej zrážky. Z toho hľadiska by mohla prísť do úvahy bojová potýčka na začiatku 10. storočia, ktorá mohla súvisieť s postupom maďarských bojových družín. Pozoruhodné je, že"
+              },
+              {
+                "type": "text",
+                "text": " muži nemali nijaké zbrane ani iné predmety, ktoré by ich dovolili zaradiť k určitej spoločenskej skupine",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Sekerovité hrivny, po obvode studne nepravidelne vo venci rozložené, sú zvláštnym predmetom, ktorý mal funkciu určitých meracích jednotiek. Plnili tiež funkciu platidla v období pred zavedením mincí. Názov predmetov je odvodený z ich tvaru, ktorý sa podobá štíhlym dlhým sekerám s ostrím na jednej strane a tylovou časťou aj s prevŕtaným otvorom na strane druhej. Predmet bol však príliš tenký a krehký na to, aby mohol byť funkčne použitý ako sekera. Sekerovité hrivny sa nachádzajú často vo väčšom množstve v pokladoch, čo nasvedčuje, že v nich bola tezaurovaná surovina, ktorá bola v tom čase vzácna. Najväčšiu koncentráciu na Slovensku poznáme z hradiska Pobedim pri Piešťanoch a jeho okolia, kde bola doložená aj rozvinutá kováčska výroba. V oblasti Bratislavy je zatiaľ jediným väčším nálezom tohto druhu. Odhliadnuc od spôsobu uloženia hrivien okolo nahádzaných mŕtvol mužov v studni, je dokladom ak nie ich výroby niekde na okraji osady, tak určite obchodných stykov, ktoré mala osada v 9. storočí. Pretože železné sekerovité hrivny sú charakteristické najmä pre prvú polovicu 9. storočia, dokladá ich nález pomerne včasnú obchodnú alebo trhovú osadu pod hradom. Toto vysvetlenie je prirodzené vzhľadom na to, že neďaleko pod južným svahom hradného kopca bol oddávna používaný brod cez Dunaj, ktorý sa iste využíval na obchodné ciele."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6j2HW19Z4C9UDFZtS6BT_GzaFF4kXe9JPOUwFOsyvQXcfFRX0t_4WVhTytwu-mm1AyXVJJe2iFG89gnnq1a7WgqpEDtAynwVkD7DWIvixDjhQXh8LrzGUD2ws-lPCkSIlu7TJ4INNaog/s0/minca.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6j2HW19Z4C9UDFZtS6BT_GzaFF4kXe9JPOUwFOsyvQXcfFRX0t_4WVhTytwu-mm1AyXVJJe2iFG89gnnq1a7WgqpEDtAynwVkD7DWIvixDjhQXh8LrzGUD2ws-lPCkSIlu7TJ4INNaog/s1600/minca.JPG",
+          "filename": "minca.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6j2HW19Z4C9UDFZtS6BT_GzaFF4kXe9JPOUwFOsyvQXcfFRX0t_4WVhTytwu-mm1AyXVJJe2iFG89gnnq1a7WgqpEDtAynwVkD7DWIvixDjhQXh8LrzGUD2ws-lPCkSIlu7TJ4INNaog/s1600/minca.JPG",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Minca Štefana I. okolo roku 1000, ktorá sa razila v Bratislave. Je na nej uvedné (B)reslava Civ",
+        "caption": "Minca Štefana I. okolo roku 1000, ktorá sa razila v Bratislave. Je na nej uvedné (B)reslava Civ",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Osada z 9. storočia v priestore medzi západnými mestskými hradbami a Ventúrskou ulicou mala svoje "
+              },
+              {
+                "type": "text",
+                "text": "pohrebisko neďaleko, v strednej časti dnešnej Panskej ulice",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", pod gotickým palácom dnešnej Mestskej galérie. Súbor hrobov, hoci je malý, poskytuje dôležité informácie pre posúdenie jeho charakteru. "
+              },
+              {
+                "type": "text",
+                "text": "Železná sekera",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " nájdená v mužskom hrobe patrí skupine nazývanej bradatice, podlá vykrojeného tela a dosť vysokých hrotitých ostňov pri otvore pre násadku. Tylo bolo pretiahnuté a oblé, ostrie rovné. Sekery tohto tvaru sú charakteristické pre 9. storočie. Na pohrebisku sa zistil "
+              },
+              {
+                "type": "text",
+                "text": "hrob muža — bojovníka, ženy a dieťaťa",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Podľa vybavenia milodarmi, a najmä prídavkom kohútích nôh, sa môžeme domnievať, že pochovaní "
+              },
+              {
+                "type": "text",
+                "text": "sa držali ešte pohanských zvykov",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Podporuje to aj hrob mŕtveho v skrčenej polohe, ktorý svedčí o tom, že kresťanstvo, ktoré v 9. storočí už v kniežacej vrstve prevládalo, postupovalo medzi jednoduchý ľud len pomaly."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cgzEZgcKurN4HcGInGuSoP0dZhSI6rCmzIkMY24lYf_zfKelyqziEzYXqCxu4snun0fHE44yMLfomH9af7Um-QGsnd3ohtRb-NlVvLh6mqOVN2a6KEPZK-evOWFAX1oSe9tj5ijno6E/s0/strecha.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cgzEZgcKurN4HcGInGuSoP0dZhSI6rCmzIkMY24lYf_zfKelyqziEzYXqCxu4snun0fHE44yMLfomH9af7Um-QGsnd3ohtRb-NlVvLh6mqOVN2a6KEPZK-evOWFAX1oSe9tj5ijno6E/s1600/strecha.jpg",
+          "filename": "strecha.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cgzEZgcKurN4HcGInGuSoP0dZhSI6rCmzIkMY24lYf_zfKelyqziEzYXqCxu4snun0fHE44yMLfomH9af7Um-QGsnd3ohtRb-NlVvLh6mqOVN2a6KEPZK-evOWFAX1oSe9tj5ijno6E/s1600/strecha.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Bratislava",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Okrem podhradnej osady pod východným svahom hradného kopca, ktorá sa stala aj východiskom pre neskorší vznik stredovekého mesta, zaznamenali malú osadu aj na úpätí južného svahu kopca. Pri výskume objektu tzv. Vodnej veže "
+              },
+              {
+                "type": "text",
+                "text": "na bývalej Vydrickej ulici odkryli tiež do zeme zapustenú polozemnicu",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Do 9. storočia ju zaraďujú nálezy keramiky. Zemnica štvorcového pôdorysu bola pravdepodobne súčasťou malej osady pri dunajskom brode."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Posledné nálezy z výskumu Hlavného námestia v Starom meste naznačujú, že osada pri západných mestských hradbách nebola jediná. Zahĺbený objekt s keramikou, ktorú možno zaradiť do konca 9. a začiatku 10. storočia, svedčí o tom, že aj v tejto, neskoršie centrálnej polohe stredovekého mesta bolo koncom 9. storočia osídlenie. Na severnej strane pod hradným kopcom sa osídlenie z 9. storočia zistilo v "
+              },
+              {
+                "type": "text",
+                "text": "sídliskovej vrstve pri Kostole sv. Trojice a pri vyústení Partizánskej ulice do Palisád",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Tu bol na dvore bývalej Evanjelickej nemocnice pri prestavbe inžinierskej siete "
+              },
+              {
+                "type": "text",
+                "text": "porušený slovanský objek",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "t, ktorý obsahoval črepový materiál z 9. storočia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3cnAgC7OD49lgJnF1qzBy5UGG-Od-6Wt5-wHz55wZWtv9aSubJs54YzEQBvIJkWFp7RHu3IaScCHWgUFl6TMpB8FiEKobfgidrZolrGzlaN00kMyDQ8zY_ToNvt74uC_6IYGRL1HMMoD/s0/za%25CC%2581kladyjpg.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3cnAgC7OD49lgJnF1qzBy5UGG-Od-6Wt5-wHz55wZWtv9aSubJs54YzEQBvIJkWFp7RHu3IaScCHWgUFl6TMpB8FiEKobfgidrZolrGzlaN00kMyDQ8zY_ToNvt74uC_6IYGRL1HMMoD/s1600/za%25CC%2581kladyjpg.jpg",
+          "filename": "za%CC%81kladyjpg.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN3cnAgC7OD49lgJnF1qzBy5UGG-Od-6Wt5-wHz55wZWtv9aSubJs54YzEQBvIJkWFp7RHu3IaScCHWgUFl6TMpB8FiEKobfgidrZolrGzlaN00kMyDQ8zY_ToNvt74uC_6IYGRL1HMMoD/s1600/za%25CC%2581kladyjpg.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 255,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Bratislava",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V priestore medzi Bratislavským a Devínským hradiskom bolo zistené hustejšie osídlenie. Okrem ojedinelých nálezov keramiky či ohnísk (Karlová Ves poloha Kútiky, za Botanickou záhradou) bolo zistené i kostrové pohrebisko. V oblasti Karlovej Vsi (na území Botanickej záhrady pri potoku Vydrica) ho odkryla roku 1954 Ľ. Kraskovská. Objavila na ňom 15 kostrových hrobov. V dvoch hroboch bolo zistené obloženie hrobu drevenými doskami. Inventár pozostával s keramiky a ozdôb. Boli zistené náušnice s hrozienkovitým klasom nad horným oblúkom alebo s granulovanými venčekmi umiestnenými protiľahle v strede oblúka. Keramika, dosť hrubého tvaru, bola zhotovená na pomaly rotujúcom hrnčiarskom kruhu. Pohrebisko pochádza asi z polovice 9. storočia.\""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Keltské oppidum a rímsky burgus"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na nádvorí hradného paláca, rovnako ako na severnej terase areálu našli archeológovia Mestského ústavu ochrany pamiatok zvyšky jedinečných architektúr z obdobia 1. storočia pred Kristom. Nálezy vzbudili veľký rozruch, v médiách sa sčasti interpretovali aj ako nájdenie pokladu. Súčasťou nálezu totiž boli aj zlaté mince s nápisom Biatec. Čo sa týka stavieb, zahraniční historici odobrili datovanie a zhodli sa, že ide o najreprezentatívnejšiu stavbu severne od Álp z neskorolaténskeho obdobia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQx9azRc0RXEd0dXHvHSjoa6cX2TUIR0a9hRNuyH9QJGL7-4vO_pzYTnPOhYlh9YscHvvOXCjsD1ZRS-u09GJB9_Ltx9S7gATW_XlX6oIh3LsZJEfgr7V7ZO-BekI6N8GycWWpJSRgfk/s0/na%CC%81lezy.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQx9azRc0RXEd0dXHvHSjoa6cX2TUIR0a9hRNuyH9QJGL7-4vO_pzYTnPOhYlh9YscHvvOXCjsD1ZRS-u09GJB9_Ltx9S7gATW_XlX6oIh3LsZJEfgr7V7ZO-BekI6N8GycWWpJSRgfk/s1600/na%CC%81lezy.jpg",
+          "filename": "nálezy.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQx9azRc0RXEd0dXHvHSjoa6cX2TUIR0a9hRNuyH9QJGL7-4vO_pzYTnPOhYlh9YscHvvOXCjsD1ZRS-u09GJB9_Ltx9S7gATW_XlX6oIh3LsZJEfgr7V7ZO-BekI6N8GycWWpJSRgfk/s1600/na%CC%81lezy.jpg",
+            "displayedWidth": 234,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Bratislava",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na Hrade sa teda v minulosti nachádzala akropola jedného z najvýznamnejších keltských hradísk - oppidum v strednej Európe. „Tieto objekty boli stavané rímskou stavebnou technikou a sú unikátnym nálezom nielen z hľadiska svojho veku, ale aj kvality. Zachovali sa v nich pôvodné interiérové omietky a liate dlažby s kamienkovou výzdobou, ktoré na Slovensku nemajú obdobu,\" hovorí Štassel."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nádvorie je podľa Štassela plné rímskych stavieb v keltskom prostredí, ktoré majú viaceré stavebné etapy. Severná terasa Hradu, pod ktorou sa má stavať podzemná garáž, má niekoľko samostatných rímskych stavieb, ktoré boli poschodové. Čo je spoločné pre všetky objekty, sú napríklad zachované kvalitné liate dlažby.\n \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Spracoval: Orgoň",
+            "url": null
+          },
+          {
+            "text": "Štefanovičová T: Najstaršie dejiny Bratislavy, Vydavateľstvo Elán , 1993",
+            "url": null
+          },
+          {
+            "text": "http://bratislava.sme.sk/c/5597858/poklad-z-bratislavskeho-hradu-prikryvaju-betonom.html",
+            "url": "http://bratislava.sme.sk/c/5597858/poklad-z-bratislavskeho-hradu-prikryvaju-betonom.html"
+          },
+          {
+            "text": "http://www.castrum.sk/page.php?id=102&ratings=1",
+            "url": "http://www.castrum.sk/page.php?id=102&ratings=1"
+          },
+          {
+            "text": "KRASKOVSKÁ, Ľ. 1962: Slovanské hradisko pri Devínskej Novej Vsi. In: SlA, 1962",
+            "url": null
+          },
+          {
+            "text": "ŠTEFANOVIČOVÁ, T. 1975: Bratislavský hrad v 9.-12. storočí. Bratislava 1975",
+            "url": null
+          },
+          {
+            "text": "http://www.bratislava.sk/vismo/dokumenty2.asp?id_org=700000&id=11020457",
+            "url": "http://www.bratislava.sk/vismo/dokumenty2.asp?id_org=700000&id=11020457"
+          },
+          {
+            "text": "Pavel Dvořák: Stopy dávnej minulosti 3 (Zrod národa), vydavateľstvo Rak, 2004",
+            "url": null
+          },
+          {
+            "text": "A. Fiala: Výtvarý prejav staroslovan. baziliky na BA hrade, in: Byzantská kultúra a Slovensko",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "Štefanovičová T: Najstaršie dejiny Bratislavy, Vydavateľstvo Elán , 1993"
+      },
+      {
+        "type": "external-url",
+        "url": "http://bratislava.sme.sk/c/5597858/poklad-z-bratislavskeho-hradu-prikryvaju-betonom.html",
+        "title": "http://bratislava.sme.sk/c/5597858/poklad-z-bratislavskeho-hradu-prikryvaju-betonom.html"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.castrum.sk/page.php?id=102&ratings=1",
+        "title": "http://www.castrum.sk/page.php?id=102&ratings=1"
+      },
+      {
+        "type": "book",
+        "text": "KRASKOVSKÁ, Ľ. 1962: Slovanské hradisko pri Devínskej Novej Vsi. In: SlA, 1962"
+      },
+      {
+        "type": "book",
+        "text": "ŠTEFANOVIČOVÁ, T. 1975: Bratislavský hrad v 9.-12. storočí. Bratislava 1975"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.bratislava.sk/vismo/dokumenty2.asp?id_org=700000&id=11020457",
+        "title": "http://www.bratislava.sk/vismo/dokumenty2.asp?id_org=700000&id=11020457"
+      },
+      {
+        "type": "book",
+        "text": "Pavel Dvořák: Stopy dávnej minulosti 3 (Zrod národa), vydavateľstvo Rak, 2004"
+      },
+      {
+        "type": "book",
+        "text": "A. Fiala: Výtvarý prejav staroslovan. baziliky na BA hrade, in: Byzantská kultúra a Slovensko"
+      }
+    ]
+  }
+}
