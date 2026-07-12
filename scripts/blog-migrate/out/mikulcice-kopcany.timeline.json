@@ -1,0 +1,25 @@
+{
+  "timeline": [
+    { "year": "7. storočie", "title": "Osídlenie územia", "description": "Územie bolo osídlené už v 7. storočí.", "type": "founding" },
+    { "year": "9. storočie", "title": "Opevnenie hradiska valmi", "description": "V 9. storočí bolo hradisko opevnené valmi.", "type": "construction" },
+    { "year": "prvá tretina 9. storočia", "title": "Postavená rotunda s dvoma apsidami", "description": "Podľa predmetov nájdených v jednom zo 190 hrobov je možné rotundu (kostol č. 6) datovať do prvej tretiny 9. storočia.", "type": "construction" },
+    { "year": "polovica 9. storočia", "title": "Rekonštrukcia kamennej hradby", "description": "Zásadná rekonštrukcia staršej kamennej hradby na mikulčických valoch, bez známok náhlej katastrofy.", "type": "construction" },
+    { "year": "856–866", "title": "Byzantský solidus v hrobe veľmoža", "description": "Nález zlatého solidu byzantského cisára Michala III. z rokov 856-866, situovaného blízko južnej základovej múry baziliky.", "type": "discovery" },
+    { "year": "10.–11. storočie", "title": "Zánik západnej časti domnelého paláca", "description": "Západný priestor obdĺžnikovej budovy úplne zničili obyvatelia sídliska, ktorí si na rozvalinách stavali domy.", "type": "destruction" },
+    { "year": "prvá polovica 10. storočia", "title": "Zánik domnelého kniežacieho paláca a kostolov", "description": "Stavba, datovaná do 9. storočia, zaniká v prvej polovici 10. storočia spolu s kostolmi.", "type": "destruction" },
+    { "year": "1960", "title": "Objavená rotunda (kostol č. 6)", "description": "Rotunda s dvoma apsidami, ktorá nemá zatiaľ v centrálnej oblasti Veľkej Moravy obdoby.", "type": "discovery" },
+    { "year": "13. storočie", "title": "Koniec osídlenia pri Kostole sv. Margity", "description": "Život v dvoch osadách v blízkosti kostola pokračoval až do 13. storočia.", "type": "event" },
+    { "year": "16.–17. storočie", "title": "Odchod posledných obyvateľov do Kopčian", "description": "Poslední obyvatelia osady z okolia Kostola sv. Margity Antiochijskej pravdepodobne odišli do dnešných Kopčian.", "type": "event" },
+    { "year": "18. storočie", "title": "Postavený nový kostol v obci", "description": "Pôvodný kostol slúžil pre priľahlé územie až do 18. storočia, kedy postavili nový kostol priamo v obci.", "type": "construction" }
+  ],
+  "keyFacts": [
+    { "label": "Poloha", "value": "Medzi Mikulčicami a Kopčanmi, pôvodne na ostrove medzi ramenami rieky Moravy", "icon": "map" },
+    { "label": "Rozloha náleziska", "value": "Archeologické náleziská sa rozkladajú na ploche 10 ha", "icon": "mountain" },
+    { "label": "Počet kostolov", "value": "Cca 12 cirkevných stavieb na pomerne malej ploche", "icon": "building" },
+    { "label": "Počet hrobov", "value": "Viac ako 2500 na hradisku, 350 pri bazilike, 190 pri rotunde", "icon": "users" },
+    { "label": "Najväčšia bazilika", "value": "Trojloďová bazilika (kostol č. 3) — 34 × 9 m, najväčšia známa veľkomoravská sakrálna stavba", "icon": "building" },
+    { "label": "Domnelý kniežací palác", "value": "Základy obdĺžnikovej budovy 26 × takmer 10 m, na najvyššom mieste hradiska", "icon": "crown" },
+    { "label": "Byzantský nález", "value": "Zlatý solidus cisára Michala III. (856-866) — doklad kontaktov s Byzanciou", "icon": "star" },
+    { "label": "Domnienka o Metodovi", "value": "V hrobe č. 580 v hlavnej lodi baziliky mohol byť pochovaný arcibiskup Metod (nepotvrdené)", "icon": "scroll" }
+  ]
+}

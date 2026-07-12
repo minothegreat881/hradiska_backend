@@ -111,8 +111,18 @@ async function reportFor(slug, feedPath) {
   const galNames = new Set((p.gallery || []).map(g => g.name));
   const bodyNotInGallery = bodyImgs.filter(b => b.image && !galNames.has(b.image.name)).map(b => b.image.name);
   checks.push({ ok: bodyNotInGallery.length === 0, label: `Obrázky evidované: telo (${bodyImgs.length}) ⊆ galéria (${galleryCnt})` + (bodyNotInGallery.length ? ` — CHÝBAJÚ v galérii: ${bodyNotInGallery.join(', ')}` : ' — žiadny sa nestratil') });
-  // 3) žiadna stena (max 1 obrázok za sebou v tele)
-  let wall = 0, run = 0; p.blocks.forEach(b => { if (b.__component === 'content.image-block') { run++; wall = Math.max(wall, run); } else run = 0; });
+  // 3) žiadna stena (max 1 obrázok za sebou v tele) — 2 obrázky s pairWithNext (opačné
+  // strany) sa vykresľujú side-by-side ako jeden riadok, nie stena pod sebou; taký pár
+  // sa počíta ako run=1, nie run=2.
+  let wall = 0, run = 0;
+  p.blocks.forEach((b, i) => {
+    if (b.__component !== 'content.image-block') { run = 0; return; }
+    const prev = p.blocks[i - 1];
+    const isPairedWithPrev = prev?.__component === 'content.image-block' && prev.pairWithNext;
+    if (isPairedWithPrev) return; // súčasť predošlého riadku, nepredlžuje run
+    run++;
+    wall = Math.max(wall, run);
+  });
   checks.push({ ok: wall <= 1, label: `Rytmus: max ${wall} obrázok za sebou (žiadna stena)` });
   // 4) sidebar (doplnok, nie strata obsahu)
   checks.push({ ok: (p.timeline || []).length > 0 && (p.keyFacts || []).length > 0, label: `Sidebar: timeline ${(p.timeline || []).length}, keyFacts ${(p.keyFacts || []).length}` + ((p.timeline || []).length ? '' : ' — agent nebežal') });

@@ -18,9 +18,9 @@
         "width": "50",
         "aspectRatio": "auto",
         "objectPosition": "center center",
-        "position": "right",
+        "position": "left",
         "showCaption": true,
-        "pairWithNext": false,
+        "pairWithNext": true,
         "rounded": true,
         "shadow": true
       }

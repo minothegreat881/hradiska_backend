@@ -18,6 +18,7 @@
 |---|---|
 | rich-text (odseky/nadpisy) | 11 |
 | quote-block (dobové pramene) | 1 |
+| poem (básne/verše) | 0 |
 | image-block (v tele) | 5 |
 | embed (video/3D) | 1 |
 | sources (zdroje) | 1 → 4 položiek |
