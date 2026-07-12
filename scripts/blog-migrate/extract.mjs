@@ -1025,13 +1025,16 @@ function classifyCitationFromLines(lines) {
       .map((s) => s.text)
       .join(' '));
     if (!textOnly) continue;
-    // URL: http/https plus aj `www.domain.tld` bez schémy (Blogger autori zvyknú písať bez `http://`)
-    const urlRegex = /https?:\/\/\S+|\bwww\.[\w-]+(?:\.[\w-]+)+\/?\S*/gi;
+    // URL: http/https (dvojbodka VOLITEĽNÁ — Blogger typo "http//..." bez nej, napr. Arkona
+    // "http//pospolitost.wordpress.com/...") plus aj `www.domain.tld` bez schémy.
+    const urlRegex = /https?:?\/\/\S+|\bwww\.[\w-]+(?:\.[\w-]+)+\/?\S*/gi;
     const urlsInText = textOnly.match(urlRegex) || [];
     for (const u of urlsInText) {
       let cleanUrl = stripNbspWs(u.replace(/[.,;)\]]+$/, ''));
       // Pridaj `http://` ak URL začína `www.` (autor písal bez schémy)
       if (/^www\./i.test(cleanUrl)) cleanUrl = 'http://' + cleanUrl;
+      // Doplň chýbajúcu dvojbodku po schéme (typo "http//..." → "http://...")
+      cleanUrl = cleanUrl.replace(/^(https?):?\/\//i, '$1://');
       if (IMAGE_URL_RE.test(cleanUrl)) continue; // obrázok, nie zdroj
       const canon = canonicalUrl(cleanUrl);
       // Canonical dedup: ak rovnaká URL bola už pridaná ako anchor (alebo skôr), zahoď
@@ -1124,13 +1127,18 @@ function buildBlocksFromBody($, bodyRoot, articleTitle = '') {
       while (produced.length > 0) {
         const last = produced[produced.length - 1];
         if (last.__component !== 'content.rich-text') break;
+        // BUG: `c.text` je undefined pre `type:'link'` deti — samotné URL je v `c.url`,
+        // zobrazený text (ktorý sa môže líšiť, napr. názov videa) je v c.children[0].text.
+        // Bez `c.url` fallbacku sa zlepené odkazy (napr. "...Praha 2002" + <a>http://www.sho.sk/</a>)
+        // v kontrole strácajú a looksLikeSources nesprávne vyhodnotí blok ako "nie zdroj".
+        const linkText = (c) => c.url ? `${c.url} ${(c.children || []).map((cc) => cc.text || '').join('')}` : '';
         const txt = (last.body || [])
-          .flatMap((n) => (n.children || []).map((c) => c.text || ''))
+          .flatMap((n) => (n.children || []).map((c) => c.text ?? linkText(c)))
           .join(' ')
           .trim();
         const looksLikeSources =
           /(zdroj[ey]?|pramen[ey]?|literat[uú]ra)\s*:/i.test(txt) ||
-          /https?:\/\//.test(txt) ||
+          /https?:?\/\//.test(txt) ||  // dvojbodka voliteľná — Blogger typo "http//..."
           /^foto\s*:/i.test(txt) ||
           txt.length < 30;
         if (!looksLikeSources) break;
@@ -1292,13 +1300,16 @@ function classifyCitation($, node) {
       .join(' '));
     if (!textOnly) continue;
 
-    // URL: http/https plus aj `www.domain.tld` bez schémy (Blogger autori zvyknú písať bez `http://`)
-    const urlRegex = /https?:\/\/\S+|\bwww\.[\w-]+(?:\.[\w-]+)+\/?\S*/gi;
+    // URL: http/https (dvojbodka VOLITEĽNÁ — Blogger typo "http//..." bez nej) plus aj
+    // `www.domain.tld` bez schémy (Blogger autori zvyknú písať bez `http://`)
+    const urlRegex = /https?:?\/\/\S+|\bwww\.[\w-]+(?:\.[\w-]+)+\/?\S*/gi;
     const urlsInText = textOnly.match(urlRegex) || [];
     for (const u of urlsInText) {
       let cleanUrl = stripNbspWs(u.replace(/[.,;)\]]+$/, ''));
       // Pridaj `http://` ak URL začína `www.` (autor písal bez schémy)
       if (/^www\./i.test(cleanUrl)) cleanUrl = 'http://' + cleanUrl;
+      // Doplň chýbajúcu dvojbodku po schéme (typo "http//..." → "http://...")
+      cleanUrl = cleanUrl.replace(/^(https?):?\/\//i, '$1://');
       if (IMAGE_URL_RE.test(cleanUrl)) continue; // obrázok, nie zdroj
       const canon = canonicalUrl(cleanUrl);
       // Canonical dedup: ak rovnaká URL bola už pridaná ako anchor (alebo skôr), zahoď

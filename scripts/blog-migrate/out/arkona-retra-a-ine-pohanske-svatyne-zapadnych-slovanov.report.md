@@ -16,12 +16,12 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 26 |
+| rich-text (odseky/nadpisy) | 23 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 5 |
 | image-block (v tele) | 10 |
 | embed (video/3D) | 1 |
-| sources (zdroje) | 1 → 5 položiek |
+| sources (zdroje) | 1 → 6 položiek |
 
 ## Obrázky
 - **galéria:** 25 (18 s popisom)
@@ -94,7 +94,7 @@
 
 ## Ostatné
 - **komentáre:** 13
-- **text tela:** 13415 znakov (2023 slov)
+- **text tela:** 13211 znakov (2003 slov)
 - **pokrytie textu vs originál:** 99.76% (mimo: fotky, citovaný, piesne)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

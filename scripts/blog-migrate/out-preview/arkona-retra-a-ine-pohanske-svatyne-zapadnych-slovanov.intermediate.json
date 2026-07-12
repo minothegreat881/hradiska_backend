@@ -5,7 +5,7 @@
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5938688369749508593",
     "bloggerPostUrl": "http://www.hradiska.sk/2011/03/arkona-retra-ine-pohanske-svatyne.html",
     "repliesLink": "http://www.hradiska.sk/feeds/5938688369749508593/comments/default",
-    "extractedAt": "2026-07-12T11:02:50.185Z",
+    "extractedAt": "2026-07-12T12:36:21.942Z",
     "coverImageNeedsReview": true,
     "commentCount": 13,
     "comments": [
@@ -1269,58 +1269,6 @@
         "shadow": true
       },
       {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Spracoval: Orgoň"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Magdalena Beranová: Slované, Panorama Praha, 1988  Pitro M., Vokáč P.: Bohové dávných Slovanú, ISV Nakladatelství, Praha 2002"
-              },
-              {
-                "type": "link",
-                "url": "http://www.sho.sk/",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": "http://www.sho.sk/"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "http//pospolitost.wordpress.com/2009/05/16/svatyne-slovanov/"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "__component": "content.sources",
         "title": "Zdroje a literatúra",
         "intro": null,
@@ -1336,6 +1284,10 @@
           {
             "text": "Magdalena Beranová: Slované, Panorama Praha, 1988 Pitro M., Vokáč P.: Bohové dávných Slovanú, ISV Nakladatelství, Praha 2002",
             "url": null
+          },
+          {
+            "text": "http://pospolitost.wordpress.com/2009/05/16/svatyne-slovanov/",
+            "url": "http://pospolitost.wordpress.com/2009/05/16/svatyne-slovanov/"
           },
           {
             "text": "http://slawenburgen.npage.de/",
@@ -1361,6 +1313,11 @@
       {
         "type": "book",
         "text": "Magdalena Beranová: Slované, Panorama Praha, 1988 Pitro M., Vokáč P.: Bohové dávných Slovanú, ISV Nakladatelství, Praha 2002"
+      },
+      {
+        "type": "external-url",
+        "url": "http://pospolitost.wordpress.com/2009/05/16/svatyne-slovanov/",
+        "title": "http://pospolitost.wordpress.com/2009/05/16/svatyne-slovanov/"
       },
       {
         "type": "external-url",
