@@ -1136,10 +1136,15 @@ function buildBlocksFromBody($, bodyRoot, articleTitle = '') {
           .flatMap((n) => (n.children || []).map((c) => c.text ?? linkText(c)))
           .join(' ')
           .trim();
+        // Rovnaké markery ako findInternalSourcesSplit (inak trim-slučka nechytí presne to,
+        // čo split-detekcia už uznala za začiatok zdrojov — napr. bold "Preložili sme",
+        // "Spracoval/Autori/Prebral/Prevzaté:", "prevzatý z/preložené z").
         const looksLikeSources =
-          /(zdroj[ey]?|pramen[ey]?|literat[uú]ra)\s*:/i.test(txt) ||
+          /(zdroj[ey]?|pramen[ey]?|literat[uú]ra|references?)\s*:/i.test(txt) ||
           /https?:?\/\//.test(txt) ||  // dvojbodka voliteľná — Blogger typo "http//..."
-          /^foto\s*:/i.test(txt) ||
+          /^\s*(spracoval|autori?|prebral|prevzat[éy]|foto)\s*:/i.test(txt) ||
+          /preložili sme/i.test(txt) ||
+          /\b(?:[čc]l[áa]nok\s+)?prevzat[ýáé]\s+z\b|\bprelo[žz]en[éeý]\s+z\b/i.test(txt) ||
           txt.length < 30;
         if (!looksLikeSources) break;
         produced.pop();
