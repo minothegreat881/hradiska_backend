@@ -1126,32 +1126,45 @@ function buildBlocksFromBody($, bodyRoot, articleTitle = '') {
     if (sourcesStartIdx !== -1) {
       const splitDiv = topLevel[sourcesStartIdx];
       const produced = convertDivToBlocks($, splitDiv, ctx, { singleSplit: true });
-      // Odrež posledný rich-text block ak obsahuje sources text (URL / "zdroj:" prefix)
-      while (produced.length > 0) {
-        const last = produced[produced.length - 1];
-        if (last.__component !== 'content.rich-text') break;
-        // BUG: `c.text` je undefined pre `type:'link'` deti — samotné URL je v `c.url`,
-        // zobrazený text (ktorý sa môže líšiť, napr. názov videa) je v c.children[0].text.
-        // Bez `c.url` fallbacku sa zlepené odkazy (napr. "...Praha 2002" + <a>http://www.sho.sk/</a>)
-        // v kontrole strácajú a looksLikeSources nesprávne vyhodnotí blok ako "nie zdroj".
+      // Odrež trailing blocky ktoré patria zdrojom (URL / "zdroj:" prefix). Robíme
+      // DVOJFÁZOVÝ scan namiesto naivného while-pop: obrázok/embed VLOŽENÝ medzi
+      // zdrojové riadky (napr. "Foto zdroja: ... [fotka] ... http://...") predtým
+      // zastavil while-loop na prvom nie-rich-text bloku (`break`), takže sa staršie
+      // zdrojové rich-text bloky PRED tým obrázkom nikdy neodrezali (Nitra bug).
+      // Fáza 1: nájdi hranicu `cutFrom` — najskorší index od ktorého VŠETKO za ním
+      // (obrázky/embed poskytnuté, rich-text len ak looksLikeSources) je súčasť zdrojov.
+      const isSourceLikeRichText = (b) => {
+        if (b.__component !== 'content.rich-text') return null; // not applicable
         const linkText = (c) => c.url ? `${c.url} ${(c.children || []).map((cc) => cc.text || '').join('')}` : '';
-        const txt = (last.body || [])
+        const txt = (b.body || [])
           .flatMap((n) => (n.children || []).map((c) => c.text ?? linkText(c)))
           .join(' ')
           .trim();
         // Rovnaké markery ako findInternalSourcesSplit (inak trim-slučka nechytí presne to,
         // čo split-detekcia už uznala za začiatok zdrojov — napr. bold "Preložili sme",
         // "Spracoval/Autori/Prebral/Prevzaté:", "prevzatý z/preložené z").
-        const looksLikeSources =
+        return (
           /(zdroj[ey]?|pramen[ey]?|literat[uú]ra|references?)\s*:/i.test(txt) ||
           /https?:?\/\//.test(txt) ||  // dvojbodka voliteľná — Blogger typo "http//..."
           /^\s*(spracoval|autori?|prebral|prevzat[éy]|foto)\s*:/i.test(txt) ||
+          // "Foto <opis>: <autor>" — fotokredit s opisom MEDZI "Foto" a dvojbodkou
+          // (Nitra: "Foto hradiska Zobor a Šindolka: Anna Halčinová AVANS 2008"),
+          // nie len holé "Foto:". Obmedzené na krátky úsek pred dvojbodkou (≤60 zn),
+          // aby nechytilo bežnú vetu, ktorá náhodou obsahuje slovo "foto" ďaleko od začiatku.
+          /^\s*foto\b[^:]{0,60}:/i.test(txt) ||
           /preložili sme/i.test(txt) ||
           /\b(?:[čc]l[áa]nok\s+)?prevzat[ýáé]\s+z\b|\bprelo[žz]en[éeý]\s+z\b/i.test(txt) ||
-          txt.length < 30;
-        if (!looksLikeSources) break;
-        produced.pop();
+          txt.length < 30
+        );
+      };
+      let cutFrom = produced.length;
+      for (let i = produced.length - 1; i >= 0; i--) {
+        const isSourceLike = isSourceLikeRichText(produced[i]);
+        if (isSourceLike === false) break; // reálny rich-text obsah → koniec zdrojového chvosta
+        if (isSourceLike === null && i === produced.length - 1) break; // posledný blok je non-rich-text a NIČ za ním nebolo zdroj → netrimuj (napr. legitímny záverečný obrázok)
+        cutFrom = i;
       }
+      produced.splice(cutFrom);
       blocks.push(...produced);
     } else if (internalSplitLines.preLines.length > 0) {
       // Fallback: ak sourcesStartIdx === -1 ale máme preLines (nestane sa typicky)
