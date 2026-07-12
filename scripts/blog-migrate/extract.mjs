@@ -589,6 +589,27 @@ function richTextLength(b) {
   return n;
 }
 
+// Rozpozná Sketchfab/oEmbed fallback-attribution <div> (model/autor/platforma odkazy,
+// vždy s `utm_medium=embed` v href) — generuje ho platforma automaticky pod každý
+// embed, nie je to autorský obsah článku. Aspoň 1 odkaz musí smerovať na sketchfab.com
+// s embed-campaign parametrom a v dive nesmie byť žiadny iný, substantívny text.
+function isEmbedAttributionDiv($, el) {
+  if (!el || el.type !== 'tag' || (el.tagName || '').toLowerCase() !== 'div') return false;
+  const $el = $(el);
+  const allLinks = $el.find('a');
+  const embedLinks = $el.find('a[href*="sketchfab.com"][href*="utm_medium=embed"]');
+  if (embedLinks.length === 0 || allLinks.length !== embedLinks.length) return false; // musí mať aspoň 1 embed-link a ŽIADNE iné odkazy
+  let residual = $el.text().replace(/[ \s]+/g, ' ').trim();
+  // Odstráň text KAŽDÉHO odkazu jednotlivo (concat linkText nie je substring wholeText,
+  // lebo medzi odkazmi je "by"/"on" — nemôžeme odčítať naraz).
+  embedLinks.each((_, a) => {
+    const t = $(a).text().replace(/[ \s]+/g, ' ').trim();
+    if (t) residual = residual.replace(t, '');
+  });
+  residual = residual.replace(/\b(by|on)\b/gi, '').replace(/[ \s]+/g, '').trim();
+  return residual.length < 5; // len spojky "by"/"on" zvyšné, žiadny reálny text
+}
+
 // Prejde potomkov `node` v DOKUMENTOVOM PORADÍ a vydáva bloky: nazbieraný inline text
 // sa flushne ako odsek(y) vždy keď narazíme na blokový obrázok/embed → obrázky ostanú
 // medzi textom presne tam, kde boli v origináli (žiadne front-loading obrázkov).
@@ -645,6 +666,11 @@ function walkDocOrder($, node, ctx, blocks, buf, opts) {
       walkDocOrder($, ch, ctx, blocks, buf, opts);
       return;
     }
+    // Sketchfab (a podobné oEmbed platformy) generujú pod <iframe> vždy sprievodný
+    // fallback-attribution <div> s odkazmi na model/autora/platformu (utm_medium=embed
+    // v každom href). Bez tohto filtra sa jeho text vytrhne z kontextu a objaví sa v tele
+    // ako 3 nelogické riadky "Hradisko Zobor…" / "by Pamiatkovy_Urad_SR" / "on Sketchfab".
+    if (isEmbedAttributionDiv($, ch)) return;
     // Ostatné (div/p/span/font bez obrázkov) → inline obsah do bufferu (ako inlineChildren).
     for (const c of inlineChildren($, ch)) buf.push(c);
   });
@@ -1268,6 +1294,17 @@ function splitDivIntoLines($, node) {
     if (tag === 'b' || tag === 'strong') {
       const t = $(n).text().replace(NBSP_RE, ' ').trim();
       if (t) lines[lines.length - 1].push({ type: 'bold-text', text: t });
+      return;
+    }
+    // BUG: nested <div>/<p> boundary predtým NEZNAMENALA nový riadok — len sa do nich
+    // ticho rekurzovalo, takže viacero samostatných top-level <div> citácií (oddelených
+    // divom, nie <br>) sa zliepalo do JEDNÉHO riadku/citácie (Nitra: 4 samostatné
+    // bibliografické záznamy sa zlepili do jedného obrovského textu). Blokové elementy
+    // teraz vždy začínajú/končia nový riadok, rovnako ako <br>.
+    if (tag === 'div' || tag === 'p') {
+      if (lines[lines.length - 1].length > 0) lines.push([]);
+      $(n).contents().each((_, c) => visit(c));
+      if (lines[lines.length - 1].length > 0) lines.push([]);
       return;
     }
     $(n).contents().each((_, c) => visit(c));

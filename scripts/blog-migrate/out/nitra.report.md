@@ -16,16 +16,16 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 49 |
+| rich-text (odseky/nadpisy) | 45 |
 | quote-block (dobové pramene) | 2 |
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 28 |
 | embed (video/3D) | 1 |
-| sources (zdroje) | 1 → 14 položiek |
+| sources (zdroje) | 1 → 18 položiek |
 
 ## Obrázky
 - **galéria:** 55 (24 s popisom)
-- **v tele článku:** 28 (24 s popisom) — mapka+hradi%CC%81sk.jpg, 1+VM.jpg, Letecky+hrad.jpg, pribinadoc2.gif, pribinadoc22.gif, P1183895.JPG, nitra+val+rek.jpg, nitra3.jpg, Letecky+hrad.jpg, Martinský+kostol.JPG, hrad.jpg, nitra+kostol+martinsky%CC%81.jpg, Lupka+letecky.jpg, Nitra+Lupka+n%C3%A1lezy.JPG, Martinský+kostol.JPG, Nitra+-+Val+rek.jpg, Nitra+rek1.jpg, Zobor+letecky.jpg, Nitra+Lupka+n%C3%A1lezy.JPG, zobor+pôdorys+janšák.jpg, N%C3%A1lezy+Zobor+AVANS+2008.jpg, 133675_4298453433554_1120360734_o.jpg, 218943_4298464273825_618096999_o.jpg, 259130_4298480154222_674329625_o.jpg, 259135_4298482434279_89593517_o.jpg, nitra3.jpg, 328686_4298470273975_317603415_o.jpg, 340761_4298473874065_1158927865_o.jpg
+- **v tele článku:** 28 (24 s popisom) — mapka+hradi%CC%81sk.jpg, 1+VM.jpg, Letecky+hrad.jpg, pribinadoc2.gif, pribinadoc22.gif, P1183895.JPG, nitra+val+rek.jpg, nitra3.jpg, Letecky+hrad.jpg, Martinský+kostol.JPG, hrad.jpg, nitra+kostol+martinsky%CC%81.jpg, Lupka+letecky.jpg, Nitra+Lupka+n%C3%A1lezy.JPG, Martinský+kostol.JPG, Nitra+-+Val+rek.jpg, Nitra+rek1.jpg, Zobor+letecky.jpg, Nitra+Lupka+n%C3%A1lezy.JPG, zobor+pôdorys+janšák.jpg, 133675_4298453433554_1120360734_o.jpg, N%C3%A1lezy+Zobor+AVANS+2008.jpg, 218943_4298464273825_618096999_o.jpg, 259130_4298480154222_674329625_o.jpg, 259135_4298482434279_89593517_o.jpg, nitra3.jpg, 328686_4298470273975_317603415_o.jpg, 340761_4298473874065_1158927865_o.jpg
 
 ## Sidebar
 - **Časová os (timeline):** 20 položiek
@@ -89,6 +89,6 @@
 
 ## Ostatné
 - **komentáre:** 1
-- **text tela:** 27148 znakov (3932 slov)
+- **text tela:** 27083 znakov (3921 slov)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._
