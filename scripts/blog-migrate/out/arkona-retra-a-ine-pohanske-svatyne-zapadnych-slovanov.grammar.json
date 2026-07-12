@@ -1,0 +1,31 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Arkona, 4.7.2026. Chránené kmene, bohemizmy, verše a URL nechané. block = nájde sa auto podľa jednoznačnosti; hint slúži pri neunikátnych.",
+  "corrections": [
+    { "hint": 2, "before": "v základoch opevnenie", "after": "v základoch opevnenia", "reason": "genitív po v základoch" },
+    { "hint": 2, "before": "boli nájdený turie rohy", "after": "boli nájdené turie rohy", "reason": "zhoda príčastia s podmetom rohy (mn.č.)" },
+    { "hint": 2, "before": "v 11. a 12. storočia", "after": "v 11. a 12. storočí", "reason": "lokál po v → storočí" },
+    { "hint": 2, "before": "Thiemar popisuje", "after": "Thietmar popisuje", "reason": "preklep mena kronikára (chránený tvar Thietmar)" },
+    { "hint": 4, "before": "stáli.Či", "after": "stáli. Či", "reason": "medzera za bodkou" },
+    { "hint": 5, "before": "z konca 11. stôl.", "after": "z konca 11. stor.", "reason": "preklep skratky storočia (stôl→stor)" },
+    { "hint": 7, "before": "byť chrámovú stavbou", "after": "byť chrámovou stavbou", "reason": "inštrumentál po byť → chrámovou" },
+    { "hint": 10, "before": "príbuznosť mená", "after": "príbuznosť mena", "reason": "genitív j.č. po príbuznosť → mena" },
+    { "hint": 13, "before": "pobaltskýi", "after": "pobaltskými", "reason": "preklep, inštrumentál mn.č." },
+    { "hint": 15, "before": "boli látkovej zásteny", "after": "boli látkové zásteny", "reason": "zhoda s podmetom zásteny (nom. mn.č.)" },
+    { "hint": 15, "before": "meč sa skvostným tepanie", "after": "meč so skvostným tepaním", "reason": "predložka so + inštrumentál tepaním" },
+    { "hint": 22, "before": "zvyšky štvorcové stavby", "after": "zvyšky štvorcovej stavby", "reason": "genitív j.č. → štvorcovej" },
+    { "hint": 22, "before": "skutočné tiež ukázal", "after": "skutočne tiež ukázal", "reason": "príslovka skutočne" },
+    { "hint": 22, "before": "vlastná svätyňe", "after": "vlastná svätyňa", "reason": "nominatív → svätyňa (preklep)" },
+    { "hint": 25, "before": "Arkonu najdete", "after": "Arkonu nájdete", "reason": "dĺžeň/bohemizmus → nájdete" },
+    { "hint": 26, "before": "ĎALŠIE SVATYNE", "after": "ĎALŠIE SVÄTYNE", "reason": "chýbajúce ä → svätyne" },
+    { "hint": 27, "before": "obyvateliaGochova", "after": "obyvatelia Gochova", "reason": "chýbajúca medzera" },
+    { "hint": 27, "before": "Herbord hovori", "after": "Herbord hovorí", "reason": "dĺžeň → hovorí" },
+    { "hint": 29, "before": "napr Rugievita", "after": "napr. Rugievita", "reason": "bodka v skratke napr." },
+    { "hint": 29, "before": "v mesteKorenica", "after": "v meste Korenica", "reason": "chýbajúca medzera" },
+    { "hint": 29, "before": "so siedmimi tvári", "after": "so siedmimi tvárami", "reason": "inštrumentál mn.č. → tvárami" },
+    { "hint": 29, "before": "a Pomoranských bohov", "after": "a pomoranských bohov", "reason": "prídavné meno malým (paralela polabských)" },
+    { "hint": 30, "before": "v hradiskuGross Raden", "after": "v hradisku Gross Raden", "reason": "chýbajúca medzera" },
+    { "hint": 30, "before": "poloostrova", "after": "polostrova", "reason": "slovenský tvar polostrov" },
+    { "hint": 32, "before": "voWolgast", "after": "vo Wolgast", "reason": "chýbajúca medzera" },
+    { "hint": 33, "before": "mestoWolin", "after": "mesto Wolin", "reason": "chýbajúca medzera" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_content_poems",
+  "info": {
+    "displayName": "Poem",
+    "icon": "feather",
+    "description": "Literárna báseň / verše (centrované, kurzíva, zalomenie po veršoch). NIE dobový prameň — ten patrí do quote-block."
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text",
+      "required": true
+    },
+    "title": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    }
+  }
+}

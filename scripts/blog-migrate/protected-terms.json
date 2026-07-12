@@ -1,0 +1,41 @@
+{
+  "_note": "Chránené termíny pre Agent 2 (gramatická korektúra). Agent ich NIKDY nepovažuje za preklep ani ich needituje. Zhoda podľa KMEŇA (case-insensitive) — pokrýva aj skloňované tvary (Nitra/Nitre/Nitry, Pribina/Pribinu/Pribinovi). Zoznam RASTIE s každým migrovaným článkom — pred spracovaním nového článku doň doplň jeho nové vlastné mená/termíny.",
+  "_stemMatch": true,
+  "persons": [
+    "Samo", "Svätopluk", "Pribina", "Rastislav", "Koceľ", "Metod", "Cyril",
+    "Karolman", "Dagobert", "Dervan", "Adalram", "Ratbod", "Hadrián",
+    "Ľudovít", "Pipin", "Wettin", "Agasta", "Sicharius",
+    "Přemysl Otakar", "Otakar", "Valentinián"
+  ],
+  "places": [
+    "Wogastisburg", "Veligrad", "Velehrad", "Nitra", "Nitriansko", "Zobor",
+    "Devín", "Dunaj", "Morava", "Panónia", "Zalavár", "Blatnohrad",
+    "Blatenské jazero", "Mikulčice", "Kopčany", "Balaton", "Bratislava",
+    "Pressburg", "Uherské Hradište", "Staré Mesto", "Albing", "Enža",
+    "Šindolka", "Bojná", "Veszprém", "Holíč", "Korutánsko", "Durínsko",
+    "Pomohanie", "Slovácko", "Keszthely", "Martinský vrch",
+    "Arkona", "Rujana", "Retra", "Feldberg", "Štetín", "Rethra", "Rujany", "Raden"
+  ],
+  "peoples": [
+    "Vinidi", "Slovania", "Sloveni", "Avari", "Frankovia", "Franská ríša",
+    "Austrázijci", "Korutánci", "Bavori", "Srbi", "Rimania", "Nemci",
+    "Ráni", "Ratari", "Luticovia", "Obodriti", "Polabskí Slovania"
+  ],
+  "deities": [
+    "Svantovít", "Svarožič", "Radegast", "Riedegost", "Rugievit", "Porenut",
+    "Porevit", "Triglav", "Perún", "Černoboh", "Belboh"
+  ],
+  "terms": [
+    "burgus", "hrivna", "sekerovitá hrivna", "limes", "akropola", "rotunda",
+    "nartex", "baptistérium", "apsida", "hlaholika", "hlaholský", "veligradský"
+  ],
+  "sources": [
+    "Fredegarova kronika", "Fuldské letopisy", "Fuldské anály", "Annales Fuldenses"
+  ],
+  "authors": [
+    "Steinhübel", "Kučera", "Lutovský", "Profantová", "Janšák", "Ruttkay",
+    "Hrubý", "Vilém Hrubý", "Chreňo", "Orgoň", "Szőke", "Muller",
+    "Thietmar", "Adam Brémsky", "Saxo", "Saxo Grammaticus", "Helmold",
+    "Schuchhardt", "Herrmann", "Beranová", "Otto"
+  ]
+}

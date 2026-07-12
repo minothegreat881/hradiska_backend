@@ -2,8 +2,49 @@
 
 Kompletný popis pipeline z Blogger feedu do Strapi: dáta, transformácie, upload, publish, override-y, frontend integrácia. Tento dokument je úplnou náhradou pamäti Claude session — z neho má byť možné v akejkoľvek novej session pokračovať bez straty kontextu.
 
-**Aktuálny referenčný článok (overený, plne funkčný v Strapi):** Blatnohrad - Pribinovo sídlo v Panónii
-**Posledný update:** Jún 2026
+**Referenčné články (overené, plne funkčné vrátane sidebaru + gramatiky):** Wogastisburg, Staré Město – Velehrad
+**Posledný update:** Júl 2026 (v6 — rozbíjanie zhlukov, sidebar-agenti, report)
+
+---
+
+## 0. KOMPLETNÝ PIPELINE (v6 — aktuálny, 6 fáz)
+
+Toto je hlavný flow. Každá fáza má samostatný artefakt (audit stopa, rollback-safe). Detaily fáz nižšie v dokumente.
+
+```
+Fáza 1  extract.mjs        → out/<slug>.intermediate.json   (telo v dok. poradí + rytmus obrázkov, galéria, lokalita, komentáre, embed, sources)
+Fáza 1b Manuálna štruktúra → quote-blocky (dobové pramene), názov lokality, kategória   (definuje CHRÁNENÉ ZÓNY pre gramatiku)
+Fáza 2  Agent 1 (sidebar)  → out/<slug>.timeline.json        (timeline[] + keyFacts[], LEN zo zdroja, overené proti telu)
+Fáza 3  Agent 2 (gramatika)→ out/<slug>.grammar.json         (before→after opravy, len pravopis, chránené zóny)
+Fáza 4  Upload / re-upload → Strapi (POST alebo idempotentný PUT so zachovaním quote/embed/obrázkov)
+Fáza 6  report.mjs         → out/<slug>.report.md            (ZÁVER: štatistika všetkého — koľko, z čoho do čoho)
+```
+
+**Príkazy (z `hradiska-strapi/`):**
+```powershell
+# Fáza 1 — extract (doc-order + rozbíjanie zhlukov, prah 800)
+node scripts/blog-migrate/extract.mjs --post=scripts/blog-migrate/data/<post>.json
+
+# Fáza 1b — manuálne: rozdeliť dobové citáty do quote-block, doplniť location.name, kategóriu (--category alebo default)
+
+# Fáza 2 + 3 — sidebar + gramatika: spusti agentov (Claude subagenty) na telo (rich-text),
+#   výsledky → out/<slug>.timeline.json + out/<slug>.grammar.json (LEN po schválení používateľom)
+
+# Fáza 4 — upload (token z .env). Nový článok: upload.mjs. Re-upload s aplikáciou audit súborov:
+#   GET živý → aplikuj grammar/timeline/keyFacts → PUT (zachová quote-blocky, embed, obrázky, galériu)
+node scripts/blog-migrate/upload.mjs --input=out/<slug>.intermediate.json --dry-run=false
+
+# Fáza 6 — report (záver)
+node scripts/blog-migrate/report.mjs --slug=<slug> --feed=data/<post>.json
+```
+
+**Kľúčové pravidlá (invarianty celého pipeline):**
+- **Rytmus obrázkov (Fáza 1):** obrázok do tela len ak od posl. obrázka v tele pribudlo ≥800 zn textu; zhluky sa „rozbíjajú" (defer-queue, captioned priorita) do neskorších medzier. **Nikdy stena** (max 1 obrázok za sebou). No-caption zhluky + overflow → galéria **s popisom**. Viď §17.
+- **Dobové citáty = quote-block:** iba pôvodný dobový prameň (kronika/listina). Napr. Fulda „svätopluk odišiel…" ostáva **malými písmenami** (článok argumentuje malými písmenami originálu). Viď §18.
+- **Agent 1 (sidebar):** timeline + keyFacts **LEN z textu článku**, žiadne externé znalosti; rok bez opory → `⚠ NEISTÝ`, nevymýšľať; pred zápisom **overiť každú zdrojovú vetu proti telu**. Viď §18.
+- **Agent 2 (gramatika):** LEN pravopis, žiadne preformulovanie. Ochrana: **štrukturálna** (vidí len `content.rich-text`, quote-blocky nikdy) + **lexikálna** (`protected-terms.json`) + **pri pochybnosti nechať a označiť**. Viď §18.
+- **Re-upload zachováva ručnú prácu:** quote-blocky, embed, obrázky, galéria, kategória, tagy sa pri PUT **nesmú stratiť** — payload sa stavia z GET živého článku, mení sa len čo treba.
+- **Audit súbory** (`.timeline.json`, `.grammar.json`) sú oddelené od surového extraktu — rollback + prehľad. Token natrvalo v `.env` (§6.2).
 
 ---
 
@@ -431,21 +472,43 @@ Plus auto-pridaný heading "Zdroje a literatúra" v rich-text body.
 # Default — dry-run (NIČ neposiela, len out/<slug>.payload.json)
 node scripts/blog-migrate/upload.mjs
 
-# Reálny upload (vyžaduje STRAPI_TOKEN)
-$env:STRAPI_TOKEN = "<full-access-token>"
+# Reálny upload — token sa načíta AUTOMATICKY z hradiska-strapi/.env (viď 6.2).
+# Netreba $env:STRAPI_TOKEN ani --token, ak je STRAPI_TOKEN vyplnený v .env.
 node scripts/blog-migrate/upload.mjs --dry-run=false
 
-# Iný článok
+# Konkrétny článok (BEZPEČNÉ — spracuje len tento jeden súbor, neiteruje celý out/)
 node scripts/blog-migrate/upload.mjs `
   --input=out/<slug>.intermediate.json `
   --category=<documentId>
+
+# (Voliteľné) jednorazový override tokenu bez zápisu do .env:
+#   $env:STRAPI_TOKEN = "<token>"   alebo   --token=<token>   (majú prednosť pred .env)
 ```
 
-### 6.2 STRAPI_TOKEN
+### 6.2 STRAPI_TOKEN — natrvalo v `.env` (auto-load cez dotenv)
 
-Vytvor v admin: `Settings → Global Settings → API Tokens → Create new token` (Full access, Unlimited duration). Token sa zobrazí raz — okamžite skopíruj.
+**Token stačí nastaviť RAZ. Od tej chvíle každý upload beží automaticky, bez zadávania cez CLI/shell.**
 
-**Bezpečnosť:** token nikdy nezdieľaj v chate. Po dokončení migrácie revoke (Delete v admin). User Hradiska má memory záznam `feedback_secrets_in_chat.md` — vždy upozorni.
+Kde token žije: `hradiska-strapi/.env`, riadok `STRAPI_TOKEN=<hodnota>` (na konci súboru, sekcia „Blog migrácia"). Súbor je v `.gitignore` (riadok `.env`) → do gitu nepôjde. `upload.mjs` ho načíta sám na začiatku cez:
+
+```js
+import dotenv from 'dotenv';
+dotenv.config({ path: resolve(__dirname, '..', '..', '.env') }); // → hradiska-strapi/.env
+```
+
+Poradie priority tokenu v skripte (`upload.mjs:48`): `--token=…` (CLI) → `process.env.STRAPI_TOKEN` (shell alebo .env) → `null`. dotenv **neprepíše** už existujúcu shell/CLI premennú.
+
+**Ako token vytvoriť (len ak v `.env` ešte nie je alebo ho treba rotovať):**
+Strapi admin → `Settings → API Tokens`. Buď **Regenerate** pri existujúcom tokene „blog-migrate", alebo **Create new token** (Token type: **Full access**, duration: **Unlimited**). Hodnota sa zobrazí **len raz** — okamžite skopíruj a vlož do `.env` za `STRAPI_TOKEN=`.
+
+⚠ **Token sa z DB späť neprečíta** — `strapi_api_tokens` uchováva len hash (stĺpec `access_key`). V admin sa existujúci token dá len premenovať alebo **regenerovať** (nová hodnota, stará sa zneplatní), nie zobraziť. Preto: ak hodnota nie je v `.env`, treba regenerovať/vytvoriť novú.
+
+**Overenie, že token v `.env` funguje (bez vypísania hodnoty):**
+```powershell
+node -e "require('dotenv').config({path:'.env'}); const t=process.env.STRAPI_TOKEN||''; fetch('http://localhost:1337/api/upload/files?pagination[pageSize]=1',{headers:{Authorization:'Bearer '+t}}).then(r=>console.log('token',r.status===200?'OK ✅':'CHYBA '+r.status))"
+```
+
+**Bezpečnosť:** token nikdy neposielaj do chatu ani do commitu. Ak sa niekedy dostane do chatu/logu, po použití ho **regeneruj** v admin (stará hodnota prestane platiť). User Hradiska má pravidlo „API kľúče/tokeny nezdieľať v chate" — vždy upozorni.
 
 ### 6.3 Krok-za-krokom flow `doRealUpload`
 
@@ -799,9 +862,9 @@ npx strapi admin:reset-user-password --email=hradiskastrapi@gmail.com
 # Interaktívne sa opýta na nové heslo
 ```
 
-### 10.5 Nový API token
+### 10.5 API token
 
-Admin → Settings → Global Settings → API Tokens → Create new (Full Access, Unlimited). Skopíruj raz, viď 6.2.
+Token je natrvalo v `hradiska-strapi/.env` (`STRAPI_TOKEN=`), načíta sa automaticky (viď 6.2). Nový/rotovaný token: Admin → Settings → API Tokens → Regenerate „blog-migrate" (alebo Create new, Full Access, Unlimited) → vlož do `.env`. Hodnota sa z admin ani DB späť neprečíta (len hash).
 
 ---
 
@@ -908,8 +971,7 @@ node scripts/blog-migrate/extract.mjs --label=scripts/blog-migrate/data/label-na
 # Upload (dry-run default)
 node scripts/blog-migrate/upload.mjs
 
-# Upload real (treba token)
-$env:STRAPI_TOKEN = "<token>"
+# Upload real — token sa berie automaticky z hradiska-strapi/.env (viď 6.2)
 node scripts/blog-migrate/upload.mjs --dry-run=false
 
 # Inspect aktuálny post
@@ -960,9 +1022,75 @@ curl -s -o $null -w "%{http_code}`n" http://localhost:1337/_health
 > Pipeline: `scripts/blog-migrate/extract.mjs` (Fáza 1, JSON na disk) → `scripts/blog-migrate/upload.mjs` (Fáza 2, REST API).
 > Strapi schéma: `blog-post` (s `coverImage`, `gallery`, `blocks` dynamiczone, `comments` 1:N), `blog-comment` (verejné POST + like/unlike).
 > Komentáre: `sourceBloggerId` numeric pre idempotency, threading cez `link[rel=related]` z Blogger feedu (`inReplyTo` = parent Strapi documentId).
-> Token pre upload v `$env:STRAPI_TOKEN` (Full Access). Manuálne overrides (custom cover, excerpt) sa po PUT prepíšu — TODO override mechanism.
+> Token pre upload je natrvalo v `hradiska-strapi/.env` (`STRAPI_TOKEN=`, Full Access) a `upload.mjs` ho načíta sám cez dotenv — netreba ho zadávať (viď 6.2). Manuálne overrides cez `out/<slug>.overrides.json` (blocksPrepend/Append/InsertAt + plain fields).
 > Blatnohrad hotový: documentId `gl8j9bym0c322wqg15l6t7lb`, 35 blocks, gallery 29, comments 5, cover `blatnohrad-rekonstrukcia-letecky.png` (id=38).
 > Cieľ: postupne 13 článkov z labelu Najvýznamnejšie hradiská. Pred dávkou opraviť parser pre Google Maps `pb=`, embed videí, Bojná false positive citations, Divinka stub.
+
+---
+
+## 17. Rytmus obrázkov — dokumentové poradie + rozbíjanie zhlukov (v6)
+
+Nahrádza staré pravidlo „captioned→telo, no-caption→galéria". Dva mechanizmy v `extract.mjs`:
+
+**A. Dokumentové poradie (`walkDocOrder` v `convertDivToBlocks`).** Prejde potomkov divu v poradí a vydáva bloky interleaved — nazbieraný text sa flushne ako odsek vždy keď narazí na obrázok/embed. Predtým sa obrázky **front-loadovali** pred text (všetky tabuľky, potom text), čím strácali kontextovú pozíciu. Teraz ostávajú medzi pasážami ako v origináli.
+
+**B. Rozbíjanie zhlukov + captioned priorita (gallery-merge).** `BODY_IMAGE_TEXT_THRESHOLD = 800`.
+- VŠETKY obrázky idú do **fronty** (dok. poradie).
+- Po každom odseku, keď od posl. obrázka v tele pribudlo **≥800 zn**, umiestni sa 1 z fronty: **najskorší captioned** (hodnotné/kontextové prednosť), inak najskorší (najbližší zhluk).
+- **1 na slot → žiadna stena** (medzi dvoma obrázkami v tele je vždy odsek). Zvyšok fronty (nezmestí sa do rytmu) → galéria, **popis zachovaný** (opravená stará null-caption diera).
+
+Prečo: staré blogy majú obrázky v zhlukoch (0 zn medzi nimi) — čistý prah ich anti-stenou nepustí do tela, ostanú v galérii, hoci telo má veľké bloky textu bez ilustrácie. Rozbíjanie ich rozpustí do medzier. Prah 800 = pomer ~obrázok/2–3 odseky, konzistentný naprieč článkami (vybraný po simulácii; Blatnohrad 9, Mikulčice 7, Velehrad 5, Wogastisburg 4).
+
+Regresne overiť po zmene: span-level úplnosť textu (100 %, false-positives = map-widget „View Larger Map", tvarové varianty, link-uzly) + max stena = 1.
+
+---
+
+## 18. Sidebar agenti (Fázy 2–3) + chránené zóny
+
+Agenti = **Claude subagenti**, ktorí čítajú telo a LEN NAVRHUJÚ; používateľ schvaľuje pred zápisom. Žiadne platené API v appke. Poradie: **telo → quote/lokalita → Agent 1 → Agent 2** (gramatika posledná, lešti finálny text; quote-splits pred ňou definujú chránené zóny).
+
+### 18.1 Agent 1 — Timeline + KeyFacts
+- **Vstup:** telo (`content.rich-text` uzly). **Výstup:** `out/<slug>.timeline.json` = `{ timeline[], keyFacts[] }` (schémy §3.3: year/title/description/type; label/value/icon).
+- **Pravidlo (memory `agent-timeline-keyfacts-source-only`):** IBA to, čo je reálne v texte. Žiadne externé/„všeobecne známe" fakty ani roky. Rok bez explicitnej opory → `⚠ NEISTÝ` (pre DB `year:"neznámy"`), **nevymýšľať** (vzor: bitka pri Wogastisburgu). Kvantitá (250 ha, 10 000 hrobov) nie sú timeline udalosti, ale môžu byť keyFact.
+- **Pred zápisom OVERIŤ:** každá zdrojová veta musí byť doslovne z tela (grep proti telu); položku bez opory vyhoď.
+- Flexibilné `year`: „623", „623–624", „po 630", „~631", „13. storočie", „50. roky 20. storočia". Frontend (`ArticleSidebar.tsx`) rendruje timeline v poradí poľa (BEZ sortovania) — neistý label ostáva na svojej chronologickej pozícii.
+
+### 18.2 Agent 2 — Gramatická korektúra
+- **Vstup:** telo (`content.rich-text`) + `scripts/blog-migrate/protected-terms.json`. **Výstup:** `out/<slug>.grammar.json` = `{ corrections: [{block, before, after, reason}] }`.
+- **Rozsah:** LEN pravopis — čiarky/bodky, i/y, dĺžne, nominatív plurálu, zhoda podmet–prísudok, predložky, veľké/malé, preklepy. **Žiadne preformulovanie / slovosled / štylistika.** Oprava platí len ak sa before/after líšia výhradne v pravopise.
+- **Ochrana v 3 vrstvách:** (1) **štrukturálna** — vidí len rich-text, `quote-block`/`sources`/`embed` **nikdy** (dobové citáty automaticky chránené); (2) **lexikálna** — `protected-terms.json` (kmeňová zhoda; vlastné mená, odborné/dobové termíny, pramene, autori — **rastie s každým článkom**); (3) **behaviorálna** — pri pochybnosti **nemeniť, označiť** do sekcie „⚠ NEISTÉ".
+- **Aplikácia:** `before` musí presne+jednoznačne sedieť s uzlom (over grep, počet=1). Aplikuje sa pri re-uploade (GET živý → replace v text-uzloch → PUT). Captions a `content.sources` sú **mimo** (URL, bibliografia).
+
+### 18.3 Re-upload so zachovaním ručnej práce
+PUT nesmie stratiť quote-blocky, embed, obrázky, galériu, kategóriu, tagy. Postup: **GET živý článok (deep populate)** → prestav write-payload (media → id, relácie → connect/set, quote/embed/sources verbatim) → aplikuj grammar na rich-text + nastav timeline/keyFacts → **PUT na documentId**. Dry-run najprv overí integritu (počty blokov, quote/embed/obrázky zachované, grammar aplikovaná 100 %). Vzor skriptu: `_woga-reupload.mjs` / `_vele-reupload.mjs` (dočasné, mazané po behu).
+
+---
+
+## 19. Fáza 6 — Report + audit súbory
+
+**`report.mjs`** (záver pipeline). Per článok vyrobí `out/<slug>.report.md` + konzolový súhrn:
+```powershell
+node scripts/blog-migrate/report.mjs --slug=<slug> [--feed=data/<post>.json]   # feed = pridá % pokrytia textu
+node scripts/blog-migrate/report.mjs --all                                       # všetky publikované
+```
+Obsah reportu: bloky (rich-text/quote/image/embed/sources), obrázky (telo/galéria/popisy + mená), **timeline** (zoznam), **keyFacts** (zoznam), **gramatika** (počet + kategórie: interpunkcia/i-y/nominatív/zhoda/predložky/veľké-malé/preklepy + tabuľka before→after), komentáre, znaky textu, % pokrytia vs originál. To je tá „jasná štatistika — koľko, z čoho do čoho, čo sa pridalo/upravilo".
+
+**Sekcia „✅ Integrita a úplnosť" (ochrana + verdikt) — na začiatku reportu:**
+- **VERDIKT:** `✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo` alebo `⚠ POZOR` (podľa text+obrázky+rytmus).
+- Text: % pokrytia vs originál, pričom **gramaticky opravené slová sú vyňaté** (pôvodný typ. tvar sa v migrovanom nenachádza, lebo bol opravený — nie stratený; auto-počíta z `<slug>.grammar.json`). Feed sa auto-mapuje (`FEED_MAP` v `report.mjs`), netreba `--feed`.
+- Obrázky evidované: telo ⊆ galéria (žiadny sa nestratil — galéria obsahuje všetky, dedup).
+- Rytmus: max 1 obrázok za sebou (žiadna stena).
+- Sidebar + gramatika (doplnky — neovplyvňujú verdikt „nič sa nestratilo", ktorý sleží na text+obrázky+rytmus).
+
+**Audit súbory v `out/` (per článok, rollback-safe, oddelené od surového extraktu):**
+| Súbor | Fáza | Obsah |
+|---|---|---|
+| `<slug>.intermediate.json` | 1 | surový extrakt (telo, galéria, lokalita, komentáre) |
+| `<slug>.overrides.json` | 4 | manuálne overrides (cover, excerpt, blocksInsertAt…) |
+| `<slug>.timeline.json` | 2 | schválená timeline + keyFacts (Agent 1) |
+| `<slug>.grammar.json` | 3 | schválené gram. opravy before→after (Agent 2) |
+| `<slug>.report.md` | 6 | finálny report (štatistika) |
+| `protected-terms.json` | — | globálny glosár chránených termínov (rastie) |
 
 ---
 

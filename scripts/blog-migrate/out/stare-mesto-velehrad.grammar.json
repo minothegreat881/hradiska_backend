@@ -1,0 +1,13 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2) — LEN pravopis. Velehrad, schválené 4.7.2026. Neisté (tohoto→tohto, nachádzajúci→nachádzajúcom) NECHANÉ bez zmeny. Fulda quote-block a dobové názvy chránené.",
+  "corrections": [
+    { "block": 3, "before": "riek ale i osobných", "after": "riek, ale i osobných", "reason": "čiarka pred priraďovacou spojkou ale" },
+    { "block": 4, "before": "okolo kláštora sa tiež začala", "after": "okolo kláštora, sa tiež začala", "reason": "uzavretie vloženej vzťažnej vety" },
+    { "block": 9, "before": "staromestskom cintoríne boli objavené", "after": "staromestskom cintoríne, boli objavené", "reason": "uzavretie vzťažnej vety pred hlavnou" },
+    { "block": 10, "before": "v historickom materiály", "after": "v historickom materiáli", "reason": "i/y, lokál slova materiál = materiáli" },
+    { "block": 10, "before": "starej Moravy aj keď sa to", "after": "starej Moravy, aj keď sa to", "reason": "čiarka pred prípustkovou spojkou aj keď" },
+    { "block": 13, "before": "dielňach keďže sa tu", "after": "dielňach, keďže sa tu", "reason": "čiarka pred príčinnou spojkou keďže" },
+    { "block": 15, "before": "zvieracích kostí pochádzalo z chovu", "after": "zvieracích kostí pochádzala z chovu", "reason": "zhoda podmet–prísudok (podmet Polovica, ž. r.)" },
+    { "block": 16, "before": "od 7. storočia ale najmä", "after": "od 7. storočia, ale najmä", "reason": "čiarka pred priraďovacou spojkou ale" }
+  ]
+}

@@ -19,8 +19,14 @@ import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import { resolve, dirname, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
+import dotenv from 'dotenv';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
+
+// Načítaj premenné z hradiska-strapi/.env (STRAPI_TOKEN a spol.). Stačí token vložiť
+// tam raz — každý ďalší upload ho použije automaticky bez zadávania cez CLI/shell.
+// dotenv defaultne NEPREPÍŠE už existujúce env premenné, takže shell/CLI má prednosť.
+dotenv.config({ path: resolve(__dirname, '..', '..', '.env') });
 
 // -----------------------------------------------------------------------------
 // CLI

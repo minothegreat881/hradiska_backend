@@ -107,6 +107,10 @@ function convertShortParagraphsToHeadings(blocks) {
       if (c?.type !== 'text') continue;
       const t = stripNbspWs(c.text || '');
       if (!t || t.length > 60) continue;
+      // BUG 4: atribučné riadky ("Foto:", "Spracoval:", "Zdroj:", "Autor:", "Prameň:")
+      // nie sú sekčné nadpisy — necháme ich ako bežný odsek (alebo ich classifyCitation
+      // zachytí, ak sú v zdrojovej sekcii). Inak vznikal nezmyselný H2 "Spracoval: Orgoň".
+      if (/^(foto|zdroj|prameň|spracoval|autor|prebral|prevzaté)\s*:/i.test(t)) continue;
       // Numbered section: "2. Nitra - Martinský vrch" → heading
       const isNumberedSection = /^\d{1,2}\.\s+[A-ZÁÄČĎÉÍĽĹŇÓÔŠŤÚÝŽ]/.test(t);
       const words = t.split(/\s+/).filter(Boolean);
@@ -456,12 +460,203 @@ function plainText($, node) {
   return $(node).text().replace(/[ \s]+/g, ' ').trim();
 }
 
+/** Z iframe `src` vytvorí content.embed blok (YouTube/Vimeo/Sketchfab) alebo null.
+ *  BUG 5: parser predtým embed negeneroval — non-map iframy sa ticho zahadzovali
+ *  (Velehradovo video sa stratilo; Wogastisburgov embed bol pridaný ručne). */
+function embedFromIframeSrc(src) {
+  if (!src) return null;
+  let m;
+  if ((m = src.match(/youtube(?:-nocookie)?\.com\/embed\/([\w-]+)/i)) ||
+      (m = src.match(/youtu\.be\/([\w-]+)/i))) {
+    return { __component: 'content.embed', provider: 'youtube', embedId: m[1],
+      url: `https://www.youtube.com/embed/${m[1]}`, caption: '' };
+  }
+  if ((m = src.match(/player\.vimeo\.com\/video\/(\d+)/i))) {
+    return { __component: 'content.embed', provider: 'vimeo', embedId: m[1],
+      url: `https://player.vimeo.com/video/${m[1]}`, caption: '' };
+  }
+  if ((m = src.match(/sketchfab\.com\/(?:models|3d-models)\/(?:[\w-]*-)?([0-9a-f]{12,})\/embed/i)) ||
+      (m = src.match(/sketchfab\.com\/models\/([\w-]+)\/embed/i))) {
+    return { __component: 'content.embed', provider: 'sketchfab', embedId: m[1],
+      url: src.split('?')[0], caption: '' };
+  }
+  return null;
+}
+
 // -----------------------------------------------------------------------------
 // Hlavná konverzia divov na bloky dynamic zone
 // -----------------------------------------------------------------------------
 
+// ----- BÁSNE (content.poem) — detekcia behu centrovaných kurzívových veršov -----
+// Klasifikuj centrovaný div: {verse} (kurzíva, bez obrázka) / {empty} (predel strofy) / null.
+function poemVerseInfo($, el) {
+  if (!el || el.type !== 'tag' || (el.tagName || '').toLowerCase() !== 'div') return null;
+  const $e = $(el);
+  if (!/text-align:\s*center/i.test($e.attr('style') || '')) return null;
+  if ($e.find('img').length) return null;                 // obrázok, nie verš
+  const t = $e.text().replace(/[  \s]+/g, ' ').trim();
+  if (!t) return { empty: true };                          // prázdny centrovaný div = predel strofy
+  if (!$e.find('i, em').length) return null;               // centrovaný text bez kurzívy = nie verš
+  // verš = kurzívový obsah (vylúči napr. „Zväčšiť mapu" z <a>, ktoré bleeduje do 1. verša)
+  const verse = $e.find('i, em').map((_, x) => $(x).text()).get().join(' ').replace(/[  \s]+/g, ' ').trim();
+  return { verse: verse || t };
+}
+
+// Pre-pass: v dokumentovom poradí nájdi behy veršov a označ ich v DOM (data-poem na 1. verši,
+// data-poem-skip na ostatných). Beh = súvislé verše + prázdne centr. divy (predel strofy);
+// próza/obrázok/tabuľka beh PRERUŠIA (tým sa 2 vzdialené básne prirodzene oddelia). Beh s
+// jediným veršom → NIE báseň (flag na kontrolu, spracuje sa normálne).
+function markPoemRuns($, root, meta) {
+  const seq = [];
+  (function walk(node) {
+    $(node).contents().each((_, ch) => {
+      if (ch.type === 'text') { if (ch.data.replace(/\s+/g, '')) seq.push({ kind: 'X' }); return; }
+      if (ch.type !== 'tag') return;
+      const info = poemVerseInfo($, ch);
+      if (info && info.verse) { seq.push({ el: ch, kind: 'V', text: info.verse }); return; }
+      if (info && info.empty) { seq.push({ el: ch, kind: '_' }); return; }
+      const tag = (ch.tagName || '').toLowerCase();
+      if (tag === 'br') return;                                    // riadkový zlom medzi veršami — NEpretrhne beh
+      if (tag === 'img' || tag === 'table' || tag === 'iframe') { seq.push({ kind: 'X' }); return; }
+      // wrapper s vnorenými veršami → rekurzia
+      if ($(ch).find('div[style*="center"] i, div[style*="center"] em').length) { walk(ch); return; }
+      // prázdny inline/element (napr. <i></i> medzi veršami) → NEpretrhne; reálny text = zlom
+      if (!$(ch).text().replace(/\s+/g, '')) return;
+      seq.push({ kind: 'X' });
+    });
+  })(root);
+  let i = 0;
+  while (i < seq.length) {
+    if (seq[i].kind !== 'V') { i++; continue; }
+    let j = i, verses = 0;
+    while (j < seq.length && (seq[j].kind === 'V' || seq[j].kind === '_')) { if (seq[j].kind === 'V') verses++; j++; }
+    const run = seq.slice(i, j);
+    if (verses >= 2) {
+      const lines = [];
+      for (const r of run) {
+        if (r.kind === 'V') lines.push(r.text);
+        else if (lines.length && lines[lines.length - 1] !== '') lines.push(''); // predel strofy
+      }
+      while (lines.length && lines[lines.length - 1] === '') lines.pop();
+      const text = lines.join('\n').replace(/\n{3,}/g, '\n\n');
+      const els = run.filter((r) => r.el).map((r) => r.el);
+      $(els[0]).attr('data-poem', encodeURIComponent(text));
+      for (let k = 1; k < els.length; k++) $(els[k]).attr('data-poem-skip', '1');
+      meta.poemCount = (meta.poemCount || 0) + 1;
+    } else {
+      const v = run.find((r) => r.kind === 'V');
+      (meta.poemSingleFlags = meta.poemSingleFlags || []).push((v && v.text || '').slice(0, 60));
+    }
+    i = j;
+  }
+}
+
+// Prevedie nazbierané inline uzly na rich-text odseky (rovnaká logika ako pôvodný
+// step 5): kompaktuje susedné texty, orezáva nábehový whitespace, delí podľa \n\n.
+function flushInlineBuf(buf, blocks, opts) {
+  if (!buf.length) return;
+  const compact = [];
+  for (const c of buf) {
+    const last = compact[compact.length - 1];
+    if (c.type === 'text' && last && last.type === 'text' && !c.bold === !last.bold && !c.italic === !last.italic) {
+      last.text += c.text;
+    } else if (c.type === 'text' && !c.text) {
+      // skip prázdne
+    } else {
+      compact.push({ ...c });
+    }
+  }
+  const paragraphs = splitInlineByDoubleNewline(compact, opts.singleSplit);
+  for (const para of paragraphs) {
+    if (para.length === 0) continue;
+    if (para[0].type === 'text') {
+      para[0].text = normalizeLeading(para[0].text);
+      if (!para[0].text) para.shift();
+    }
+    if (para.length === 0) continue;
+    blocks.push({ __component: 'content.rich-text', body: [{ type: 'paragraph', children: para }] });
+  }
+  buf.length = 0;
+}
+
+// Dĺžka textu v rich-text bloku — na výpočet rytmu (obrázok v tele podľa objemu textu).
+function richTextLength(b) {
+  let n = 0;
+  for (const node of b.body || []) for (const c of node.children || []) n += (c.text || '').length;
+  return n;
+}
+
+// Prejde potomkov `node` v DOKUMENTOVOM PORADÍ a vydáva bloky: nazbieraný inline text
+// sa flushne ako odsek(y) vždy keď narazíme na blokový obrázok/embed → obrázky ostanú
+// medzi textom presne tam, kde boli v origináli (žiadne front-loading obrázkov).
+function walkDocOrder($, node, ctx, blocks, buf, opts) {
+  $(node).contents().each((_, ch) => {
+    if (ch.type === 'text') {
+      const text = ch.data.replace(/[ \s]+/g, ' ');
+      if (text) buf.push({ type: 'text', text });
+      return;
+    }
+    if (ch.type !== 'tag') return;
+    const tag = ch.tagName.toLowerCase();
+    const $ch = $(ch);
+    // Báseň (pre-pass označil beh veršov): prvý verš → content.poem, ostatné → preskoč.
+    if (ch.attribs && ch.attribs['data-poem'] != null) {
+      flushInlineBuf(buf, blocks, opts);
+      blocks.push({ __component: 'content.poem', text: decodeURIComponent(ch.attribs['data-poem']), title: null, author: null, source: null });
+      return;
+    }
+    if (ch.attribs && ch.attribs['data-poem-skip'] != null) return;
+    if (tag === 'br') { buf.push({ type: 'text', text: '\n' }); return; }
+    // Blokový obrázok / embed → flush textu, potom vydaj blok na jeho pozícii.
+    if (tag === 'table' && $ch.hasClass('tr-caption-container')) {
+      flushInlineBuf(buf, blocks, opts);
+      const b = imageBlockFromTrCaption($, ch, ctx);
+      if (b) blocks.push(b);
+      return;
+    }
+    if (tag === 'div' && $ch.hasClass('separator') && $ch.find('img').length) {
+      flushInlineBuf(buf, blocks, opts);
+      for (const a of $ch.find('a:has(img)').toArray()) {
+        const b = imageBlockFromSeparator($, a, ctx);
+        if (b) blocks.push(b);
+      }
+      return;
+    }
+    if (tag === 'iframe') {
+      const src = $ch.attr('src') || '';
+      if (!/maps\.google\.com/.test(src)) {
+        const e = embedFromIframeSrc(src);
+        if (e) { flushInlineBuf(buf, blocks, opts); blocks.push(e); }
+      }
+      return;
+    }
+    // Inline formátovanie → do bufferu.
+    if (tag === 'b' || tag === 'strong') { for (const c of inlineChildren($, ch)) buf.push({ ...c, bold: true }); return; }
+    if (tag === 'i' || tag === 'em') { for (const c of inlineChildren($, ch)) buf.push({ ...c, italic: true }); return; }
+    if (tag === 'a') {
+      buf.push({ type: 'link', url: $ch.attr('href') || '', children: [{ type: 'text', text: $ch.text().replace(/[ \s]+/g, ' ').trim() }] });
+      return;
+    }
+    // Podstrom obsahujúci blokové obrázky/embed → rekurzia (interleave text↔obrázok).
+    if ($ch.find('table.tr-caption-container, div.separator, iframe').length > 0) {
+      walkDocOrder($, ch, ctx, blocks, buf, opts);
+      return;
+    }
+    // Ostatné (div/p/span/font bez obrázkov) → inline obsah do bufferu (ako inlineChildren).
+    for (const c of inlineChildren($, ch)) buf.push(c);
+  });
+}
+
 function convertDivToBlocks($, div, ctx, opts = {}) {
   const blocks = [];
+
+  // Báseň (pre-pass): top-level verš-div označený data-poem → content.poem; skip → nič.
+  if (div && div.attribs) {
+    if (div.attribs['data-poem'] != null) {
+      return [{ __component: 'content.poem', text: decodeURIComponent(div.attribs['data-poem']), title: null, author: null, source: null }];
+    }
+    if (div.attribs['data-poem-skip'] != null) return blocks;
+  }
 
   // Edge case: top-level `el` môže byť priamo `<table.tr-caption-container>`
   // (nie `<div>`). Spracuj ho samostatne ako single image-block.
@@ -471,35 +666,9 @@ function convertDivToBlocks($, div, ctx, opts = {}) {
     return blocks;
   }
 
-  // 1) Tabuľka tr-caption-container = single image + caption.
-  //    Po spracovaní NESMIE byť early return — div môže obsahovať aj `<div.separator>`
-  //    obrázky alebo iný obsah za tabuľkou (Blogger ich zvykne hromadiť).
-  const tables = $(div).find('table.tr-caption-container').toArray();
-  if (tables.length > 0) {
-    for (const tbl of tables) {
-      const block = imageBlockFromTrCaption($, tbl, ctx);
-      if (block) blocks.push(block);
-    }
-  }
-
-  // 2) `<div class="separator">` v rámci divu → samostatný image-block.
-  //    POZOR: spracuj separators AJ keď divu má tables — predtým bola condition
-  //    `&& tables.length === 0` ktorá vynechala obrázky v divoch typu
-  //    `<div><table tr-caption>...</table><div.separator><img></div></div>`.
-  //    Sekvenciu za sebou rieši orchestrátor (galéria).
-  const separators = $(div).find('div.separator > a:has(img)').toArray();
-  if (separators.length > 0) {
-    for (const a of separators) {
-      const block = imageBlockFromSeparator($, a, ctx);
-      if (block) blocks.push(block);
-    }
-    if (plainText($, div).length < 30 && tables.length === 0) return blocks;
-  }
-
-  // 3) `<iframe>` Google Maps — len ho TICHO ignorujeme pri paragraph processing
-  //    (location ide do sidebar). NESMIE byť early return — div môže obsahovať
-  //    aj plný úvodný odsek (Blogger autori vkladajú mapu inline do prvého divu).
-  //    Skutočné odstránenie iframu robí step 5 cez $clone.find('iframe').remove().
+  // Obrázky (tr-caption tabuľky, separator divy), embed (non-map iframe) a text sa
+  // vydávajú v DOKUMENTOVOM PORADÍ cez walkDocOrder (nižšie, krok 5) — už žiadne
+  // front-loading obrázkov pred text. Google Maps iframe walkDocOrder ticho preskočí.
 
   // 4) Bold-only div = medzinadpis H2
   //    Test: div obsahuje práve jeden <b> a žiadny iný inline text okolo
@@ -513,6 +682,11 @@ function convertDivToBlocks($, div, ctx, opts = {}) {
       const hasQuotes = /["„""''»«]/.test(bText);
       const isLong = bText.length >= 50;
       const isNumberedSection = /^\d{1,2}\.\s+\S/.test(bText);
+      // BUG 4: bold atribučný riadok ("Foto: …", "Spracoval: …") nie je nadpis —
+      // necháme prepadnúť na step 5 (bežný odsek). Pre Velehrad/Wogastisburg sú tieto
+      // riadky plain-text (rieši ich convertShortParagraphsToHeadings), tu je to len
+      // poistka pre prípadné bold varianty v ďalších článkoch.
+      const isAttribution = /^(foto|zdroj|prameň|spracoval|autor|prebral|prevzaté)\s*:/i.test(bText);
       // Numbered section "1. Nitra - hrad" → heading (aj keď má italic)
       if (isNumberedSection && bText.length < 80) {
         blocks.push({
@@ -528,7 +702,7 @@ function convertDivToBlocks($, div, ctx, opts = {}) {
         });
         return blocks;
       }
-      if (bText.length < 80) {
+      if (!isAttribution && bText.length < 80) {
         blocks.push({
           __component: 'content.rich-text',
           body: [{ type: 'heading', level: 2, children: [{ type: 'text', text: bText }] }],
@@ -572,32 +746,14 @@ function convertDivToBlocks($, div, ctx, opts = {}) {
     $(qc.elem).remove();
   }
 
-  // 5) Bežný paragraph (alebo viacero, ak vnútri sú vnorené <div>)
-  // Blogger občas vnára `<div class="separator">` aj `<table>` aj plain text
-  // do jedného `<div style="text-align: justify;">`. My sme obrazové child uzly
-  // už spracovali vyššie; teraz extrahujme čistý odstavcový text spolu s <br>.
-  // Filtrujeme out child elementy, ktoré sme už spracovali:
-  const $clone = $(div).clone();
-  $clone.find('table.tr-caption-container, div.separator, iframe').remove();
-
-  const children = inlineChildren($, $clone[0]);
-  // Rozdeľ podľa \n\n na samostatné odstavce (alebo podľa single \n ak opts.singleSplit
-  // — používa sa pre internal-sources split divs, kde Blogger oddeľuje paragraphy
-  // jednotlivými <br/> namiesto dvojitých).
-  const paragraphs = splitInlineByDoubleNewline(children, opts.singleSplit);
-  for (const para of paragraphs) {
-    if (para.length === 0) continue;
-    // Strip leading whitespace text nodu
-    if (para[0].type === 'text') {
-      para[0].text = normalizeLeading(para[0].text);
-      if (!para[0].text) para.shift();
-    }
-    if (para.length === 0) continue;
-    blocks.push({
-      __component: 'content.rich-text',
-      body: [{ type: 'paragraph', children: para }],
-    });
-  }
+  // 5) Obrázky + embed + text v dokumentovom poradí. walkDocOrder prejde potomkov
+  //    divu; nazbieraný inline text flushne ako odsek(y) vždy keď narazí na blokový
+  //    obrázok/embed, takže obrázok ostane medzi textom presne na svojej pozícii.
+  //    Blogger vnára `<div.separator>`, `<table>` aj plain text do jedného divu —
+  //    predtým sa obrázky vysypali pred text (front-loading), teraz sú interleaved.
+  const buf = [];
+  walkDocOrder($, div, ctx, blocks, buf, opts);
+  flushInlineBuf(buf, blocks, opts);
 
   return blocks;
 }
@@ -758,8 +914,10 @@ function imageBlockFromSeparator($, anchor, ctx) {
 
 /** Detekuje vnútri divu line-index, na ktorom sa začínajú zdroje. -1 ak nič.
  *  Markery: "Preložili sme", explicit slovenské "zdroj:" / "zdroje:" / "pramene:" / "literatúra:",
- *  holá URL ako jediný riadkový text, internal hradiska.sk/search/label/ alebo /YYYY/ anchory. */
-function findInternalSourcesSplit(lines) {
+ *  holá URL ako jediný riadkový text, internal hradiska.sk/search/label/ alebo /YYYY/ anchory,
+ *  a (ak opts.allowAttributionStart) trailing atribučný riadok "Spracoval:/Foto:/Autor:".
+ *  @param {{allowAttributionStart?: boolean}} [opts] */
+function findInternalSourcesSplit(lines, opts = {}) {
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     const hasBold = line.some(
@@ -774,6 +932,22 @@ function findInternalSourcesSplit(lines) {
       .map((s) => s.text)
       .join(' ');
     if (/^\s*(zdroj[ey]?|pramen[ey]?|literat[uú]ra|references?)\s*:/i.test(lineText)) {
+      return i;
+    }
+    // Atribučný marker: "Spracoval:", "Autor(i):", "Prebral:", "Prevzaté:", "Foto:".
+    // Systémový vzor — trailing atribúcia ktorá uvádza sekciu zdrojov. Starý parser
+    // ju nechával v tele ako holý odsek (Wogastisburg "Spracoval: Orgoň") alebo H2.
+    // GATED pozíciou (opts.allowAttributionStart = len druhá polovica top-level divov),
+    // lebo mid-article "Foto:" býva popis obrázka a nesmie predčasne odseknúť telo.
+    if (opts.allowAttributionStart &&
+        /^\s*(spracoval|autori?|prebral|prevzat[éy]|foto)\s*:/i.test(lineText)) {
+      return i;
+    }
+    // Fráza presunu zdroja: "(článok) prevzatý/prevzaté z …", "preložené z …".
+    // ÚZKE: vyžaduje "prevzat* z" / "preložené z" — nie holé "prevzat" (to chytá aj
+    // bežný text). Overené: vyskytuje sa iba v Staré Město - Velehrad, nie vo
+    // Wogastisburgu/Blatnohrade/Mikulčiciach (žiadna regresia ich split-pointu).
+    if (/\b(?:[čc]l[áa]nok\s+)?prevzat[ýáé]\s+z\b|\bprelo[žz]en[éeý]\s+z\b/i.test(lineText)) {
       return i;
     }
     const textOnly = stripNbspWs(line
@@ -858,6 +1032,7 @@ function classifyCitationFromLines(lines) {
       let cleanUrl = stripNbspWs(u.replace(/[.,;)\]]+$/, ''));
       // Pridaj `http://` ak URL začína `www.` (autor písal bez schémy)
       if (/^www\./i.test(cleanUrl)) cleanUrl = 'http://' + cleanUrl;
+      if (IMAGE_URL_RE.test(cleanUrl)) continue; // obrázok, nie zdroj
       const canon = canonicalUrl(cleanUrl);
       // Canonical dedup: ak rovnaká URL bola už pridaná ako anchor (alebo skôr), zahoď
       if (seenCanonical.has(canon)) continue;
@@ -870,8 +1045,11 @@ function classifyCitationFromLines(lines) {
       seenCanonical.set(canon, cleanUrl);
     }
     const residual = stripNbspWs(textOnly.replace(urlRegex, ''));
-    if (residual.split(/\s+/).filter(Boolean).length >= 4) {
-      const isAttribution = /obr[áa]zk|prevzat|stv2|fotiek|orgo[nň]/i.test(residual);
+    const residualWords = residual.split(/\s+/).filter(Boolean).length;
+    const isAttribution = /obr[áa]zk|prevzat|stv2|fotiek|orgo[nň]/i.test(residual)
+      || /^(foto|zdroj|prameň|spracoval|autor)\s*:/i.test(residual);
+    // Atribučné riadky ("Foto: Orgoň") pripúšťame aj krátke; ostatné min. 4 slová (kniha).
+    if (residualWords >= 4 || (isAttribution && residualWords >= 1)) {
       items.push({
         type: isAttribution ? 'attribution' : 'book',
         text: residual,
@@ -885,6 +1063,10 @@ function classifyCitationFromLines(lines) {
  *  do image-gallery s max 4 obrázkami na galériu (žiadne dlhé série bez textu). */
 function buildBlocksFromBody($, bodyRoot, articleTitle = '') {
   const blocks = [];
+  // Pre-pass: označ behy centrovaných kurzívových veršov ako básne (data-poem v DOM),
+  // aby ich convertDivToBlocks/walkDocOrder vydali ako content.poem, nie ako rich-text.
+  const poemMeta = {};
+  markPoemRuns($, bodyRoot, poemMeta);
   // Top-level body children: <div> AJ <table.tr-caption-container>.
   // Predtým sa čítali iba `children('div')` — to vynechalo obrázky v tabuľkách
   // ktoré Blogger občas dáva priamo pod <body> bez wrapping divu.
@@ -900,9 +1082,12 @@ function buildBlocksFromBody($, bodyRoot, articleTitle = '') {
 
   let sourcesStartIdx = -1;
   let internalSplitLines = null;
+  const attrGateFrom = Math.floor(topLevel.length / 2);
   for (let i = 0; i < topLevel.length; i++) {
     const lines = splitDivIntoLines($, topLevel[i]);
-    const lineIdx = findInternalSourcesSplit(lines);
+    // Atribučný split ("Spracoval:/Foto:/Autor:") povolený len v druhej polovici
+    // top-level divov — chráni pred predčasným odseknutím pri mid-article "Foto:".
+    const lineIdx = findInternalSourcesSplit(lines, { allowAttributionStart: i >= attrGateFrom });
     if (lineIdx === -1) continue;
     sourcesStartIdx = i;
     if (lineIdx === 0) {
@@ -964,62 +1149,53 @@ function buildBlocksFromBody($, bodyRoot, articleTitle = '') {
     }
   }
 
-  // ----- PRAVIDLÁ PRE OBRÁZKY V TELE ČLÁNKU -----
-  // 1) Captioned obrázok (má popis): ide do tela, ak predošlý blok bol rich-text.
-  //    Captioned majú prioritu — stačí gap 1 rich-text.
-  // 2) No-caption obrázok: ide do tela, ak je odstup od posledného obrázka
-  //    aspoň `MIN_NO_CAPTION_GAP` rich-text blokov. Predvolene 2 — aby
-  //    článok nebol prerušovaný obrázkami v každom druhom odseku.
-  // 3) NIKDY 2 obrázky za sebou bez rich-text medzi (žiadne stĺpce ako starý blog).
-  // 4) Všetko ostatné (captioned po obrázku, no-caption s malým gap) → top-level
-  //    `gallery` field. Plus všetky captioned aj no-caption sa tam dedup-ujú v
-  //    neskoršom kroku (sumarizujúca Fotogaléria pod článkom).
-  // 5) ŽIADNE content.image-gallery bloky v tele.
-  const MIN_NO_CAPTION_GAP = 2;
-  const galleryRefs = []; // top-level Strapi blog-post.gallery (overflow)
+  // ----- RYTMUS OBRÁZKOV V TELE (rozbíjanie zhlukov + captioned priorita) -----
+  // Cieľ: obrázok ako oddych medzi pasážami — nikdy stena, ani dlhá púšť textu, ak je
+  // po ruke obrázok. Problém starých blogov: obrázky nakopené v zhlukoch (0 znakov
+  // medzi nimi) — čistý prah ich do tela nepustí (anti-stena), ostanú visieť v galérii,
+  // hoci telo má obrovské bloky textu bez ilustrácie.
+  //
+  // Riešenie: VŠETKY obrázky idú do fronty (dokumentové poradie). Po každom odseku, keď
+  // od posledného obrázka v tele pribudlo ≥BODY_IMAGE_TEXT_THRESHOLD znakov, umiestnime 1
+  // z fronty ZA tento odsek → zhluky sa „rozpustia" do neskorších textových medzier.
+  // Výber z fronty: NAJSKORŠÍ CAPTIONED (hodnotné/kontextové obrázky majú prednosť); ak
+  // vo fronte žiaden captioned nie je, najskorší (= najbližší zhluk). 1 na slot → žiadna
+  // stena. Zvyšok fronty (nezmestí sa do rytmu) → galéria, POPIS zachovaný.
+  const BODY_IMAGE_TEXT_THRESHOLD = 800;
+  const galleryRefs = []; // top-level Strapi blog-post.gallery (overflow); prvky {...ref, caption}
   const merged = [];
-  let lastWasImage = false;
-  let richTextSinceLastImage = 0; // počiatočne 0 — prvý obrázok musí počkať na text
-  let hasSeenRichText = false;    // pravidlo: blog začína textom (drop cap na 1. odseku)
+  const deferQueue = []; // obrázky čakajúce na umiestnenie do tela (dokumentové poradie)
+  let charsSinceBodyImage = 0;
+  let seenText = false;
+  const placeFromQueue = () => {
+    // captioned priorita: najskorší obrázok s popisom; inak najskorší (najbližší zhluk)
+    let idx = deferQueue.findIndex((im) => im.showCaption && im.caption && im.caption.trim());
+    if (idx < 0) idx = 0;
+    merged.push(deferQueue.splice(idx, 1)[0]);
+    charsSinceBodyImage = 0;
+  };
   for (const b of blocks) {
     if (b.__component === 'content.rich-text') {
       merged.push(b);
-      hasSeenRichText = true;
-      richTextSinceLastImage++;
-      lastWasImage = false;
+      seenText = true;
+      charsSinceBodyImage += richTextLength(b);
+      // slot otvorený a niečo čaká → umiestni 1 (max 1 na odsek = žiadna stena)
+      if (seenText && charsSinceBodyImage >= BODY_IMAGE_TEXT_THRESHOLD && deferQueue.length) {
+        placeFromQueue();
+      }
       continue;
     }
     if (b.__component !== 'content.image-block') {
+      // embed / quote a iné bloky ostávajú v tele na svojej pozícii
       merged.push(b);
-      lastWasImage = false;
       continue;
     }
-    // PRAVIDLO: blog musí začínať textom — image-block pred prvým rich-text → gallery
-    if (!hasSeenRichText) {
-      if (b.imageRef) galleryRefs.push(b.imageRef);
-      continue;
-    }
-    if (lastWasImage) {
-      // Druhý obrázok bezprostredne za prvým — žiadne stĺpce obrázkov
-      if (b.imageRef) galleryRefs.push(b.imageRef);
-      continue;
-    }
-    const hasCaption = b.showCaption && b.caption && b.caption.trim().length > 0;
-    if (hasCaption) {
-      // Captioned majú prioritu — gap 1 rich-text stačí
-      merged.push(b);
-      lastWasImage = true;
-      richTextSinceLastImage = 0;
-      continue;
-    }
-    // No-caption: vyžaduj väčší gap aby sa nezahltili
-    if (richTextSinceLastImage >= MIN_NO_CAPTION_GAP) {
-      merged.push(b);
-      lastWasImage = true;
-      richTextSinceLastImage = 0;
-    } else {
-      if (b.imageRef) galleryRefs.push(b.imageRef);
-    }
+    // obrázok → do fronty (umiestni sa za neskorší odsek s dosť textom, alebo do galérie)
+    deferQueue.push(b);
+  }
+  // zvyšok fronty sa nezmestil do rytmu → galéria (POPIS zachovaný)
+  for (const im of deferQueue) {
+    if (im.imageRef) galleryRefs.push({ ...im.imageRef, caption: im.caption || null });
   }
 
   return {
@@ -1027,6 +1203,7 @@ function buildBlocksFromBody($, bodyRoot, articleTitle = '') {
     galleryRefs,
     sourceDivs,
     sourcePostLines: internalSplitLines?.postLines || null,
+    poemMeta,
   };
 }
 
@@ -1076,6 +1253,11 @@ function splitDivIntoLines($, node) {
     .filter((line) => line.length > 0);
 }
 
+// Obrázkové URL (blogger CDN, blogspot, prípona obrázka) NIE sú bibliografické zdroje.
+// Bez tohto filtra by sa anchory fotiek v zdrojovej sekcii (napr. 8 fotiek šperkov
+// vo Velehrade) klasifikovali ako `external-url` citácie. (Pozri aj Bojná TODO.)
+const IMAGE_URL_RE = /blogger\.googleusercontent\.com|bp\.blogspot\.com|\.(?:jpe?g|png|gif|webp|bmp|svg)(?:[?#]|$)/i;
+
 function classifyCitation($, node) {
   const items = [];
   const seenCanonical = new Map(); // canonical → preferred raw url
@@ -1084,6 +1266,7 @@ function classifyCitation($, node) {
   for (const line of lines) {
     const anchors = line.filter((s) => s.type === 'anchor' && s.href);
     for (const a of anchors) {
+      if (IMAGE_URL_RE.test(a.href)) continue; // obrázok, nie zdroj
       const canonA = canonicalUrl(a.href);
       if (seenCanonical.has(canonA)) continue;
       const isInternal = /hradiska\.sk/.test(a.href);
@@ -1116,6 +1299,7 @@ function classifyCitation($, node) {
       let cleanUrl = stripNbspWs(u.replace(/[.,;)\]]+$/, ''));
       // Pridaj `http://` ak URL začína `www.` (autor písal bez schémy)
       if (/^www\./i.test(cleanUrl)) cleanUrl = 'http://' + cleanUrl;
+      if (IMAGE_URL_RE.test(cleanUrl)) continue; // obrázok, nie zdroj
       const canon = canonicalUrl(cleanUrl);
       // Canonical dedup: ak rovnaká URL bola už pridaná ako anchor (alebo skôr), zahoď
       if (seenCanonical.has(canon)) continue;
@@ -1129,8 +1313,11 @@ function classifyCitation($, node) {
     }
 
     const residual = stripNbspWs(textOnly.replace(urlRegex, ''));
-    if (residual.split(/\s+/).filter(Boolean).length >= 4) {
-      const isAttribution = /obr[áa]zk|prevzat|stv2|fotiek|orgo[nň]/i.test(residual);
+    const residualWords = residual.split(/\s+/).filter(Boolean).length;
+    const isAttribution = /obr[áa]zk|prevzat|stv2|fotiek|orgo[nň]/i.test(residual)
+      || /^(foto|zdroj|prameň|spracoval|autor)\s*:/i.test(residual);
+    // Atribučné riadky ("Foto: Orgoň") pripúšťame aj krátke; ostatné min. 4 slová (kniha).
+    if (residualWords >= 4 || (isAttribution && residualWords >= 1)) {
       items.push({
         type: isAttribution ? 'attribution' : 'book',
         text: residual,
@@ -1177,7 +1364,7 @@ function buildSourcesBlock(citations) {
 // Location: lat/lng + region/country (region len ak doslova v texte)
 // -----------------------------------------------------------------------------
 
-function detectLocation($, fullText) {
+function detectLocation($, fullText, articleTitle = '', sourceLabel = null) {
   const $iframe = $('iframe[src*="maps.google.com"]').first();
   const src = $iframe.attr('src') || '';
   const ll = extractLatLng(src);
@@ -1188,6 +1375,12 @@ function detectLocation($, fullText) {
   let name = null;
   const nameMatch = fullText.match(/dnes ([A-ZÁ-ŽÄÉÍÓÚÝŤŇĽĎ][a-zá-žäéíóúýťňľď]+)/);
   if (nameMatch) name = nameMatch[1];
+  // BUG 1: ak sa meno nenašlo, použij titulok článku ako pin label (bez "(CZ)" suffixu).
+  // Schéma sidebar.location vyžaduje `name` — bez fallbacku by upload spadol na
+  // ValidationError. Spúšťa sa LEN keď existuje mapa (vyššie už `return null`).
+  if (!name && articleTitle) {
+    name = articleTitle.replace(/\s*\([A-Z][A-Z\/]*\)\s*$/, '').trim() || null;
+  }
 
   // Country: vlož len ak je doslova v texte (pravidlo Fázy 0 #4 sa formálne týka regiónu,
   // ale aplikujeme rovnakú zásadu — nedopĺňať odvodené hodnoty).
@@ -1215,6 +1408,19 @@ function detectLocation($, fullText) {
       country = name;
       bestCount = matches.length;
     }
+  }
+
+  // BUG 2: ak locatív v texte nič nenašiel, použij krajinu z label suffixu
+  // ("Staré Město - Velehrad (CZ)" → Česko). NIE heuristika "Morava→Česko" (krehká).
+  // Suffix je spoľahlivý identifikačný signál autora. "(CZ/SK)" → prvý kód.
+  if (!country && sourceLabel) {
+    const m = sourceLabel.match(/\(([A-Z][A-Z\/]*)\)\s*$/);
+    const code = m ? m[1].split('/')[0] : null;
+    const LABEL_COUNTRY = {
+      SK: 'Slovensko', CZ: 'Česko', H: 'Maďarsko', A: 'Rakúsko', PL: 'Poľsko',
+      UA: 'Ukrajina', D: 'Nemecko', HR: 'Chorvátsko', SLO: 'Slovinsko',
+    };
+    if (code && LABEL_COUNTRY[code]) country = LABEL_COUNTRY[code];
   }
 
   // Region: striktne len ak v texte explicitne stojí "<Slovo> župa/kraj/marka"
@@ -1245,7 +1451,9 @@ function buildExcerpt($, bodyRoot, maxLen = 250) {
   const divs = $(bodyRoot).children('div').toArray();
   for (const div of divs) {
     const $clone = $(div).clone();
-    $clone.find('iframe, img, table.tr-caption-container, div.separator').remove();
+    // BUG 6: okrem média odstráň aj mapový odkaz "Zväčšiť mapu"/"View Larger Map"
+    // (`<small><a href="...maps.google...">`), inak preniká do excerptu.
+    $clone.find('iframe, img, table.tr-caption-container, div.separator, a[href*="maps.google"], a[href*="/maps"]').remove();
     const t = $clone.text().replace(/[ \s]+/g, ' ').trim();
     if (t.length >= 60) {
       const truncated = t.length > maxLen ? t.slice(0, maxLen).replace(/\s+\S*$/, '') + '…' : t;
@@ -1416,7 +1624,7 @@ function buildOutputForEntry(entry, commentsData, sourceFeedPath) {
   const bodyRoot = $('body')[0];
   const fullText = plainText($, bodyRoot);
 
-  const { mainBlocks, galleryRefs, sourceDivs, sourcePostLines } = buildBlocksFromBody($, bodyRoot, title);
+  const { mainBlocks, galleryRefs, sourceDivs, sourcePostLines, poemMeta } = buildBlocksFromBody($, bodyRoot, title);
 
   const citations = [];
   if (sourcePostLines) {
@@ -1427,6 +1635,17 @@ function buildOutputForEntry(entry, commentsData, sourceFeedPath) {
   } else {
     for (const d of sourceDivs) {
       citations.push(...classifyCitation($, d));
+    }
+  }
+
+  // BUG 3 (časť 2): zo `sourceDivs` ide do citácií iba TEXT — `classifyCitation`
+  // obrázky ignoruje. Ak však zdrojová sekcia obsahuje reálne fotky (napr. 8 fotiek
+  // veľkomoravských šperkov z múzea vo Velehrade), vyžobreme ich a pridáme do galérie,
+  // aby sa po splite nestratili. Pracujeme na klone divu (convertDivToBlocks mutuje DOM).
+  for (const d of sourceDivs) {
+    const harvested = convertDivToBlocks($, $(d).clone()[0], { captionedIdx: 0 });
+    for (const hb of harvested) {
+      if (hb.__component === 'content.image-block' && hb.imageRef) galleryRefs.push({ ...hb.imageRef, caption: hb.caption || null });
     }
   }
 
@@ -1477,11 +1696,11 @@ function buildOutputForEntry(entry, commentsData, sourceFeedPath) {
     }
   }
   // 3) No-caption odložené orchestrátorom
-  for (const r of galleryRefs) addToGallery(r, null);
+  for (const r of galleryRefs) addToGallery(r, r.caption || null);
 
   const gallery = [...galleryMap.values()];
 
-  const location = detectLocation($, fullText);
+  const location = detectLocation($, fullText, title, sourceLabel);
   const excerpt = buildExcerpt($, bodyRoot, 250);
   const readingTime = estimateReadingTime(fullText);
   const checks = runChecks($, html);
@@ -1502,6 +1721,8 @@ function buildOutputForEntry(entry, commentsData, sourceFeedPath) {
       commentCount,
       comments,
       checks,
+      poemCount: poemMeta?.poemCount || 0,
+      poemSingleFlags: poemMeta?.poemSingleFlags || [],
     },
     blogPost: {
       title,

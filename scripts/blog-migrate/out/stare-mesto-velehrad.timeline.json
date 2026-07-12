@@ -1,0 +1,29 @@
+{
+  "_note": "Audit: schválená timeline + keyFacts (Agent 1, overené proti telu). Velehrad, schválené 4.7.2026. Kláštor = '13. storočie' (v texte, konzistentné s ostatnými storočnými položkami).",
+  "timeline": [
+    { "year": "7. storočie", "title": "Vznik sídelného centra", "description": "Sídelné centrum tu existovalo najneskôr od 7. storočia.", "type": "founding" },
+    { "year": "9. storočie", "title": "Vrchol Starého Mesta – Velehradu", "description": "V 9. storočí bolo Staré Mesto – Velehrad veľkým výrobným, obchodným a kultúrnym centrom starej Moravy.", "type": "era" },
+    { "year": "871", "title": "Zápis vo Fuldských letopisoch", "description": "Poznámka o Svätoplukovi, ktorý sa chystal oklamať Karolmana a zničiť jeho vojsko.", "type": "event" },
+    { "year": "do konca 9. storočia", "title": "Vybudovanie obranného valu", "description": "Mesto zo severozápadu ohradené 2 km valom s vodnou priekopou, uzatvárajúcim plochu až 250 ha.", "type": "construction" },
+    { "year": "11.–12. storočie", "title": "Doklad nepretržitého osídlenia", "description": "Ojedinelé hroby pod kostolom sv. Michala dokladajú súvislé osídlenie až dodnes.", "type": "event" },
+    { "year": "1131", "title": "Prvý písomný záznam názvu „Veligrad“", "description": "Najstarší písomný doklad názvu lokality v tvare „Veligrad“.", "type": "event" },
+    { "year": "1257", "title": "Založenie Uherského Hradišťa", "description": "Český kráľ Přemysl Otakar II. založil oproti Starému Mestu „Nové mesto“ / „Nový Velehrad“ (dnešné Uherské Hradište).", "type": "founding" },
+    { "year": "13. storočie", "title": "Založenie cisterciánskeho kláštora", "description": "Na velehradských pozemkoch bol založený cisterciánsky kláštor; okolo neho vznikla obec Velehrad. Text uvádza len storočie, nie konkrétny rok.", "type": "founding" },
+    { "year": "od 14. storočia", "title": "Velehrad v historických dokumentoch", "description": "Dokumenty uvádzajú Metoda ako „arcibiskupa velehradského“ a Velehrad ako hlavné mesto Moravského kráľovstva.", "type": "event" },
+    { "year": "18. storočie", "title": "Zánik kostola sv. Víta", "description": "Kostol sv. Víta na lokalite „Na kostelíku“ zanikol, neostalo z neho takmer nič.", "type": "destruction" },
+    { "year": "1936", "title": "Nález pri hĺbení kanála", "description": "Pri kopaní závlahového kanála medzi Starým Mestom a Uherským Hradišťom objavené príbytky a opracované pieskovcové kamene (možno kostol sv. Klimenta).", "type": "discovery" },
+    { "year": "50. roky 20. storočia", "title": "Začiatok intenzívneho výskumu", "description": "Od 50. rokov 20. storočia sa začal intenzívnejší archeologický výskum lokality.", "type": "discovery" }
+  ],
+  "keyFacts": [
+    { "label": "Obdobie", "value": "Najneskôr od 7. storočia, vrchol v 9. storočí (stará Morava)", "icon": "calendar" },
+    { "label": "Poloha", "value": "Staré Mesto pri Uherskom Hradišti, breh rieky Moravy, centrum Slovácka", "icon": "map" },
+    { "label": "Názvy lokality", "value": "Staré Mesto = Velehrad (písomne „Veligrad“, 1131)", "icon": "flag" },
+    { "label": "Kľúčové postavy", "value": "Svätopluk, Karolman, Metod, Přemysl Otakar II.", "icon": "crown" },
+    { "label": "Hlavné pramene", "value": "Fuldské letopisy (871), listina z roku 1131", "icon": "scroll" },
+    { "label": "Literatúra", "value": "V. Hrubý, „Antiqua civitas – Veligrad“, Ochrana pamiatok 8 (1972)", "icon": "book" },
+    { "label": "Opevnenie", "value": "Val 2 km, priekopa ~5 m široká / 2,3 m hlboká, plocha 250 ha", "icon": "shield" },
+    { "label": "Pohrebiská", "value": "Približne 10 000 hrobov na viacerých pohrebiskách", "icon": "users" },
+    { "label": "Sakrálne stavby", "value": "Dva moravské kostoly, rotunda sv. Michala (9. stor.), sv. Kliment, sv. Vít", "icon": "building" },
+    { "label": "Remeslá", "value": "Šperkárske, kováčske, kovozlievačské, kamenárske a keramické dielne", "icon": "custom" }
+  ]
+}

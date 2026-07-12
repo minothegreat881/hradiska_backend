@@ -82,6 +82,21 @@ export interface ContentImageGallery extends Struct.ComponentSchema {
   };
 }
 
+export interface ContentPoem extends Struct.ComponentSchema {
+  collectionName: 'components_content_poems';
+  info: {
+    description: 'Liter\u00E1rna b\u00E1se\u0148 / ver\u0161e (centrovan\u00E9, kurz\u00EDva, zalomenie po ver\u0161och). NIE dobov\u00FD prame\u0148 \u2014 ten patr\u00ED do quote-block.';
+    displayName: 'Poem';
+    icon: 'feather';
+  };
+  attributes: {
+    author: Schema.Attribute.String;
+    source: Schema.Attribute.String;
+    text: Schema.Attribute.Text & Schema.Attribute.Required;
+    title: Schema.Attribute.String;
+  };
+}
+
 export interface ContentQuoteBlock extends Struct.ComponentSchema {
   collectionName: 'components_content_quote_blocks';
   info: {
@@ -278,6 +293,7 @@ declare module '@strapi/strapi' {
       'content.embed': ContentEmbed;
       'content.image-block': ContentImageBlock;
       'content.image-gallery': ContentImageGallery;
+      'content.poem': ContentPoem;
       'content.quote-block': ContentQuoteBlock;
       'content.rich-text': ContentRichText;
       'content.sources': ContentSources;

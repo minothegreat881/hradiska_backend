@@ -1,0 +1,966 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-06-30T15:58:31.239+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Arkona+%28D%29?alt=json&max-results=500"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Arkona%20%28D%29"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "500"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-5938688369749508593"
+        },
+        "published": {
+          "$t": "2011-03-27T22:18:00.002+02:00"
+        },
+        "updated": {
+          "$t": "2020-04-15T09:48:50.224+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Arkona (D)"
+          },
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Náboženstvo a Legendy"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Arkona, Retra a iné pohanské svätyne západných Slovanov"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div style=\"text-align: justify;\">\n</div>\n<div style=\"text-align: justify;\">\n<div style=\"text-align: center;\">\n<iframe frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=54.679488,13.434391&amp;spn=0.034736,0.072956&amp;z=13&amp;output=embed\" width=\"425\"></iframe><br />\n<small><a href=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=54.679488,13.434391&amp;spn=0.034736,0.072956&amp;z=13&amp;source=embed\" style=\"color: blue; text-align: left;\">Zväčšiť mapu</a></small><br />\n<br />\n<i>Nad skalami Arkony týči sa orlie hniezdo </i></div>\n<div style=\"text-align: center;\">\n<i></i></div>\n<div style=\"text-align: center;\">\n<i>Kde údery vĺn bijú o východné veže </i></div>\n<div style=\"text-align: center;\">\n<i>Statočný orol sedí na skalnom tróne- </i></div>\n<div style=\"text-align: center;\">\n<i>Ochranca slovanských krajov, slobodný syn nebies </i></div>\n<div style=\"text-align: center;\">\n<i><br />\n</i></div>\n<div style=\"text-align: center;\">\n<i>Ó slovanský orol, chráň národy Slovanov </i></div>\n<div style=\"text-align: center;\">\n<i>Ochraňuj slovanské zvyky a reč </i></div>\n<div style=\"text-align: center;\">\n<i>Ochraňuj nás a našu rodnú zem </i></div>\n<div style=\"text-align: center;\">\n<i>Stráž od rána, stráž počas dňa </i></div>\n<div style=\"text-align: center;\">\n<i>Hliadkuj cez polnoc najostrejším zrakom.</i></div>\n<br />\n&nbsp;&nbsp;&nbsp; Absolútna väčšina Slovanských svätýň na našich územiach stála pod holým nebom, ako nám to potvrdzuje aj svätyňa z <a href=\"http://slovanske-hradiska.blogspot.com/search/label/Most%20pri%20Bratislave%20-%20Prv%C3%A1%20staroslovansk%C3%A1%20sv%C3%A4ty%C5%88a%20na%20Slovensku\">Mostu pri Bratislave</a>, ktorá je opísaná na inom mieste. Skutočné pohanské chrámy Slovanov v takej forme ako ich poznáme z neskoršej kresťanskej doby - tzn. zakryté budovy, vznikali iba v Polabskej a Pobaltskej oblasti. Tu nachádzame pohanské chrámy ešte v 12. storočí, zatiaľ čo na našom území pohanstvo vystriedala nová viera v jediného Boha&nbsp;už v priebehu 9. storočia, hlavne pokiaľ ide o väčšie mocenské centrá. &nbsp;Nemeckí obyvatelia Pobaltia a Polabia v priebehu 10. až 12. storočia si brali boj proti pohanstvu za zámienku pre svoje vojnové ciele a v tejto súvislosti nám zanechali početné opisy pohanských bohov a svätýň tamojších Slovanov. </div>\n<div style=\"text-align: justify;\">\n</div>\n<div style=\"text-align: justify;\">\n<br />\n<br />\n<div style=\"text-align: center;\">\n<i>Kde východné moria zvučia skaly Arkony </i></div>\n<div style=\"text-align: center;\">\n<i></i></div>\n<div style=\"text-align: center;\">\n<i>A nad strmým útesom orol vládne </i></div>\n<div style=\"text-align: center;\">\n<i>Kde v hlbokom údolí osada spočíva </i></div>\n<div style=\"text-align: center;\">\n<i>Ktorú odráža belasá hladina </i></div>\n<div style=\"text-align: center;\">\n<i><br />\n</i></div>\n<div style=\"text-align: center;\">\n<i>Tá prekrásna zem je moja Rujana </i></div>\n<div style=\"text-align: center;\">\n<i>Najmilovanejšia otčina </i></div>\n<div style=\"text-align: center;\">\n<i><br />\n</i></div>\n<div style=\"text-align: center;\">\n<br />\n<div style=\"text-align: center;\">\n<b>RETRA</b><br />\n<b><br /></b>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1nQOu7J2DM5_d4KFJ75V-LQRAFlUh6h2KWinsaPofO993oj8t74HP4Olv1fAHDJ_w2pcjL3WVF3ObMREy9GfLFmQArRQhgWADbmQajoW18q75RmNPtQr8NImTtluJcSLYlWjCokANrc0/s1600/retra.jpeg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"311\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1nQOu7J2DM5_d4KFJ75V-LQRAFlUh6h2KWinsaPofO993oj8t74HP4Olv1fAHDJ_w2pcjL3WVF3ObMREy9GfLFmQArRQhgWADbmQajoW18q75RmNPtQr8NImTtluJcSLYlWjCokANrc0/s320/retra.jpeg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Mnohí sa domnievajú, že Retrou bol ostrov Fischerinsel na jazere&nbsp;<span style=\"background-color: white; color: #333333; font-family: &quot;lucida grande&quot; , &quot;tahoma&quot; , &quot;verdana&quot; , &quot;arial&quot; , sans-serif; line-height: 17px; text-align: left;\">&nbsp;Tollensesee</span></td></tr>\n</tbody></table>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsTF8aAo_SVexcRGxl4FttZzCzs0kplhgqrmiv_9TK72vi5fZoDeqfPlzWMxB8NSmQK-QYbJJTAnBQGhyphenhyphenTPaMTIBeTWGhF6N8nTRmj2hqjk7FiKyol1svutmG_CjNOqARZr3zkOd4F004/s1600/fischerinsel++modla.jpeg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsTF8aAo_SVexcRGxl4FttZzCzs0kplhgqrmiv_9TK72vi5fZoDeqfPlzWMxB8NSmQK-QYbJJTAnBQGhyphenhyphenTPaMTIBeTWGhF6N8nTRmj2hqjk7FiKyol1svutmG_CjNOqARZr3zkOd4F004/s320/fischerinsel++modla.jpeg\" width=\"97\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Známa modla z Fischerinsel</td></tr>\n</tbody></table>\n<b><br /></b>\n<b><br /></b></div>\n</div>\n</div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Najstaršiu zmienku prináša Thietmar, a to o Riedegoste, centre kmeňa Ratarov. Drevená svätyňa tu stála uprostred hája na zvieracích rohoch v základoch, ktoré zrejme plnili apotropaickú funkciu - podobná praktika bola archeologicky zistená napríklad v základoch opevnenie v Gdansku, kde boli nájdený turie rohy. Vonkajšie steny svätyne zdobili početné vyrezávané obrazy bohov a bohýň, vnútri chrámu stáli sochy označené menami bohov v čele s hlavným božstvom Svarožičom, vedľa nich práporce a vojnové odznaky. Podľa Thietmara Merseburského, ktorý zomrel roku 1018 a podal o tomto bohu najstaršie a zároveň veľmi vierohodné správy, sa pôvodne nazýval Svarožič. Svarožič, syn boha Svaroga, boh slnka a ohňa, bol uctievaný v 11. a 12. storočia aj v Rusku. V 11. storočí sa z prameňov o polabských Slovanov meno Svarožič stráca a ten istý boh je nazývaný Radegast alebo Radigast, podľa pôvodného mena svätyne. Thiemar popisuje svätyňu i obrady veľmi podrobne. V kraji Ratarov vraj stál pevný hrad trojbokej podoby s tromi bránami, zvaný Riedegost, obklopený posvätným lesom, v ktorom sa nikdy nerúbali stromy. Dve brány tohto hradu boli prístupné pre všetkých, tretia, najmenšia, na východnej strane, viedla na chodník k jazeru. V hrade bola len jedna svätyňa, majstrovsky zbudovaná z dreva, ktorá spočívala ako už bolo povedané na základe z rohov divokých zvierat. Zvonku bola zdobená obrazmi prekrásne vyrezávaných bohov a bohýň. </div>\n<div style=\"text-align: justify;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzqccGKlAY6zzCPPVV5AnuBVavR6Vt7_jjsxsmcddNnVtB_EitrtZAyl3BwLz9IMb-YA8EehFhqAa0tZwGx6x9UHweRyO1dxHrJszLsQ4bM5aLdIumnekH6aQPFwldnQvm_tSp-KdsUXQ/s1600/vnutro+svatyne.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzqccGKlAY6zzCPPVV5AnuBVavR6Vt7_jjsxsmcddNnVtB_EitrtZAyl3BwLz9IMb-YA8EehFhqAa0tZwGx6x9UHweRyO1dxHrJszLsQ4bM5aLdIumnekH6aQPFwldnQvm_tSp-KdsUXQ/s1600/vnutro+svatyne.jpg\" /></a></div>\n<br /></div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp; Vnútri svätyne stáli sochy bohov v&nbsp; helmách a pancieroch a každý boh mal naspodku vyryté svoje meno. Prvý medzi nimi bol Svarožič (Zuarasici), obzvlášť uctievaný všetkými pohanmi. Boli tam aj zástavy, ktoré sa vynášali jedine v čase vojny. To všetko strážili kňazi, ktorí jediní mali právo sedieť, keď sa bohom obetovalo alebo keď sa ich snažili uzmieriť; ostatní prítomní stáli.<br />\n<br />\n<div style=\"text-align: center;\">\n<i>Či vidíš kraj kde čajka lieta </i></div>\n<div style=\"text-align: center;\">\n<i>Nad plážou v slnečnom kúpeli? </i></div>\n<div style=\"text-align: center;\">\n<i>Kde v skalnej úžine tróni odvážny orol. </i></div>\n<div style=\"text-align: center;\">\n<i>Do diaľav si hľadí, chráni svoju dŕžavu </i></div>\n<div style=\"text-align: center;\">\n<i>Pokrytú kŕdľami morských vtákov </i></div>\n<div style=\"text-align: center;\">\n<i>V stovkách zálivov ich hlas možno počuť </i></div>\n<div style=\"text-align: center;\">\n<i>Znova a znova...</i><br />\n<i><br /></i>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpnM__2JkE4bq7uf_g5njcMRM7fatCMAlc6u1pQeBTrMxqyjuzv1rL-Ri3KQ6P8TEJleZ8vkK4qTH6-skGiv-Cz0rruvru68BI81ucMoVefzetj6Vi2HioPuK1HulXPsHhVeTdN1-_grs/s1600/Retra+2.jpeg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"178\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpnM__2JkE4bq7uf_g5njcMRM7fatCMAlc6u1pQeBTrMxqyjuzv1rL-Ri3KQ6P8TEJleZ8vkK4qTH6-skGiv-Cz0rruvru68BI81ucMoVefzetj6Vi2HioPuK1HulXPsHhVeTdN1-_grs/s320/Retra+2.jpeg\" width=\"320\" /></a></div>\n<i><br /></i></div>\n</div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp; Neskorší svedok z konca 11. stôl. - Adam Brémsky - poznal túto svätyňu pod menom Retra, zatiaľ čo boha, ktorého zlatá socha mala spočívať na purpurovom lôžku, nazýva Redigastom. Chrám, vzdialený štyri dni cesty od Hamburgu, stál na mieste obklopenom hlbokým jazerom; cezeň viedol drevený most, po ktorom prechádzali tí, ktorí chceli obetovať alebo žiadať veštby tamojšieho orákula. Veštby sa robili pomocou posvätného koňa, ktorý prekračoval určitým spôsobom kopije. R. 1068 ukoristil tohto koňa, zrejme v bitke, kam ho vodili, biskup Burchard z Halberstadte. Retra sama však zanikla zrejme neskôr, koncom 11. alebo v 12. stor. <br />\n<br />\n<br />\n<br /></div>\n<div style=\"text-align: justify;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh29g4Bui63XwrqDg2xooM3RWSdn_RWW3_abYyamnN__KKNxE7dqSqPoeDp48m_UlZrsxB4TAPB36zqD13xBae5GUQvLye9NzbvETzboMizsxN6AVZd4AH61ynvWPnZT8g8pumrfzLAVj0/s1600/arkona.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh29g4Bui63XwrqDg2xooM3RWSdn_RWW3_abYyamnN__KKNxE7dqSqPoeDp48m_UlZrsxB4TAPB36zqD13xBae5GUQvLye9NzbvETzboMizsxN6AVZd4AH61ynvWPnZT8g8pumrfzLAVj0/s1600/arkona.jpg\" /></a></div>\n<br /></div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp; Archeológ C. Schuchhardt sa v r. 1922 pokúsil lokalizovať Retru na hradisko Feldberg na brehu rovnomenného jazera. Novšie výskumy J. Herrmanna z r. 1967 však tento predpoklad nepotvrdil; hradisko Feldberg malo síce svätyňu, avšak iného typu a okrem toho pochádza z oveľa staršej doby, zo 7.-8. stor., takže s historickou Retrou nemôže byť totožné. Tamojšia svätyňa pozostávala z jednoduchej obdĺžnikovej stavby s náznakom vstupného priestoru, oddelená od hradiska symbolickou priekopou. Jej prítomnosť na tak starobylom hradisku naznačuje,&nbsp;že takéto&nbsp;svätyne vznikali v tejto oblasti veľmi skoro. V dobe, kedy Thietmar písal svoju kroniku, museli mať polabskí Slovania už väčší počet chrámov, pretože podľa jeho svedectva mal každý kraj svoju svätyňu, aj keď každá nemusela byť chrámovú stavbou v pravom slova zmysle. </div>\n<div style=\"text-align: justify;\">\n<br />\n<div style=\"text-align: center;\">\n<b>ARKONA</b></div>\n</div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp;&nbsp; Miesto Svarožiča - Radegasta zaujal Svantovít, boh Ránov zo svätyne v Arkone na ostrove Rujana. Snáď o žiadnom slovanskom bohu sa nenapísalo toľko vedeckých i polovedeckých článkov a štúdií ako o ňom. Niektorí bádatelia uvažovali, že to vlastne nebol pohanský boh, ale pohanské zbožštenie svätého Víta, k čomu zvádzala príbuznosť mená aj niektoré údaje kronikárov. Ale nech už Svantovítovo meno vzniklo z akéhokoľvek základu, je isté, že v 12. storočí nemal s kresťanským svätcom vôbec nič spoločné a že bol plnokrvným pohanským bohom so všetkými prednosťami, mocenskými požiadavkami a atribútmi.</div>\n<div style=\"text-align: justify;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYOH3Tv2Dll3LFlezKTHnKpLfNSXT2VUmu_rnu-tlwrzeZTRmZckTTFDmE7Mn_g8IZR7ZDdf7XsReZ1x71X6JekBXvR044F5aW65MPHI1iBo8ApY9ekKm6YMJq7zhp7xgxIvI8ubvUwqo/s1600/800px-Burgwall_Arkona.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYOH3Tv2Dll3LFlezKTHnKpLfNSXT2VUmu_rnu-tlwrzeZTRmZckTTFDmE7Mn_g8IZR7ZDdf7XsReZ1x71X6JekBXvR044F5aW65MPHI1iBo8ApY9ekKm6YMJq7zhp7xgxIvI8ubvUwqo/s320/800px-Burgwall_Arkona.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pohľad na časť hradiska Arkona. Ako je vidieť, väčšia časť sa zrútila spolu s útesom do mora</td></tr>\n</tbody></table>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<i>Z hĺbok mora, z najhlbšieho dna </i></div>\n<i></i><br />\n<div style=\"text-align: center;\">\n<i>Znejú večné zvony tlmené </i></div>\n<div style=\"text-align: center;\">\n<i>Zvonia, aby zvestovali chýry o čarovnom pradávnom meste. </i></div>\n<div style=\"text-align: center;\">\n<i>V náručí prílivu potopené </i></div>\n<div style=\"text-align: center;\">\n<i>Ostali ruiny pevne stáť. </i></div>\n<div style=\"text-align: center;\">\n<i>Zanechávajú zlaté záblesky </i></div>\n<div style=\"text-align: center;\">\n<i>Jagajúce sa na povrchu mora.</i><br />\n<i><br /></i></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj947J0bEEvLpIHsCWAe9P3GVQWbkQV1J5juEf_EcC4DQF_3QrMjM16yNwH1CvGPv9VkVy_cyG_UZWaOUL9fLxj8p2x4BDemH9m_S9htUBf479mfxGahlV3XFtanp5SpXqfGHvAO3KJa5k/s1600/Nepomenovany%CC%81.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"179\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj947J0bEEvLpIHsCWAe9P3GVQWbkQV1J5juEf_EcC4DQF_3QrMjM16yNwH1CvGPv9VkVy_cyG_UZWaOUL9fLxj8p2x4BDemH9m_S9htUBf479mfxGahlV3XFtanp5SpXqfGHvAO3KJa5k/s320/Nepomenovany%CC%81.jpg\" width=\"320\" /></a></div>\n<br />\n<br />\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Svantovít sa dostal v 12. storočí na popredné miesto medzi pobaltskýi a polabskými slovanskými bohmi predovšetkým vďaka obchodným, hospodárskym a vojenským úspechom Rujany a Ránov a tiež preto, že ostatní pohanskí bohovia postupne odpadali. Prinášali mu dary nielen pohania, ale aj kresťanskí panovníci, ak chceli s Ránmi dobre vychádzať. Dane odvádzané Svantovítovi a jeho kňazom boli pravidelné a platili ich domáci i cudzinci. Patrila mu tiež tretina nepriateľskej výzbroje a koristi dobytej vo vojnách. Svantovít mal nielen kňaza, ale aj vlastnú družinu zloženú z 300 jazdcov na koňoch. Títo bojovníci odovzdávali kňazovi pre boha všetku korisť aj zisky z lúpeží a vojen. Majetok Svantovítov bol ukrytý v truhlici pod závorami a zahŕňal peniaze, ozdoby, drahé látky a iné predmety, napr. drahocenný pohár od dánskeho kráľa. </div>\n<div style=\"text-align: justify;\">\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipsA2INRRc16jktz1a5DuUs2jK7JhwAE_oVuDypDoTHmMfKobdv2zcda3TaBagVzX77aj4FqX1yP4Es6ZbX4aDi_5KsVPFGDIYfqCoZCSxn7HduwiwWTUmJNXh9pkDW2dTmdYLLXxkptY/s1600/arkona2.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipsA2INRRc16jktz1a5DuUs2jK7JhwAE_oVuDypDoTHmMfKobdv2zcda3TaBagVzX77aj4FqX1yP4Es6ZbX4aDi_5KsVPFGDIYfqCoZCSxn7HduwiwWTUmJNXh9pkDW2dTmdYLLXxkptY/s320/arkona2.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Mys Arkona dnes</td></tr>\n</tbody></table>\n<br /></div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp;&nbsp; Svantovítov chrám nestál na osamelom mieste, ale na planine uprostred mesta, bol však ohradený drevenou palisádou a mal len jeden vchod. Už sama ohrada bola zdobená vyrezávaním a maľbami, napospol vraj hrubými. Vnútri ohrady bola vonkajšia chrámová budova s červenou strechou. Vnútornú chrámovú stavbu tvorili len stĺpy, medzi ktorými boli látkovej zásteny. V nej stála ohromná socha v nadľudskej veľkosti so štyrmi krkmi a štyrmi hlavami, z ktorých dve sa pozerali dopredu a dve dozadu. Vlasy mala pristrihnuté do obvyklého účesu obyvateľov Rujany, fúzy taktiež vyholené. V pravej ruke držala kovový roh naplnený vínom. Podľa stavu vína, ktorým kňaz každým rokom roh napĺňal, sa veštila úroda v budúcom roku.&nbsp;Odev sochy siahal k holeniam a nohy boli vyrezané i s kĺbmi tak majstrovsky, že spojenie bolo viditeľné len pri starostlivom pozorovaní. Neďaleko sochy ležalo zubadlo, sedlo a početné božské odznaky, z ktorých vynikal predovšetkým meč sa skvostným tepanie pošvy a rukoväťou a strieborným zovňajškom. Do svätyne, ktorej poklady strážila spomenutá družina 300 jazdcov, smel vstúpiť len kňaz, a to so zatajeným dychom - pre každé nadýchnutie sa musel vracať ku vchodu.</div>\n<div style=\"text-align: justify;\">\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG7-tRabMtFLK0pvN5k5O_JOgkpzQozUhCPjXQ7lW1bFkF6H9-V0Dq2tF6E6wHRBc-ZVdRGfYit3EzgGHQxjz-r7o4qoIt_SbZ5PNHaFP4D3YvGuXEQ2fD7BRlI6XL4glH09bgLXL77YA/s1600/450px-Svantevit-Statue.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG7-tRabMtFLK0pvN5k5O_JOgkpzQozUhCPjXQ7lW1bFkF6H9-V0Dq2tF6E6wHRBc-ZVdRGfYit3EzgGHQxjz-r7o4qoIt_SbZ5PNHaFP4D3YvGuXEQ2fD7BRlI6XL4glH09bgLXL77YA/s320/450px-Svantevit-Statue.jpg\" width=\"240\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Socha Svantovíta dnes</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n</div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp; U Svantovíta sa tiež veštilo a konali sa posvätné obrady. Keď bola veštba nepriaznivá, odložili vojnové ťaženie alebo obchodné rokovania na dobu vhodnejšiu. Veľký význam mal kult poľnohospodársky. Každým rokom naplnil kňaz Svantovítov roh čerstvým vínom a po roku skúmal, koľko ubudlo. Keď bolo vína dosť, mala byť dobrá úroda, keď málo, neúroda. Podľa toho potom riadili ukladanie zásob a spotrebu potravín v danom roku, aby vystačili aj v rokoch neúrodných. Na poctu Svantovíta a na účely veštby piekli kruhový koláč s medom, ktorý bol takmer tak veľký ako človek. Po obrade nastala veľká slávnosť a hodovanie, pri ktorom konzumovali aj obete predložené bohu. Svantovít mal vlastného bieleho koňa, na ktorom smel jazdiť len kňaz; v noci vraj na ňom jazdil boh sám - to bol kôň spotený a špinavý. Podľa kronikára Helmonda vraj bol Svantovítovi každoročne obetovaný človek, kresťan určený žrebom. <br />\n<br />\n<iframe allowfullscreen=\"allowfullscreen\" frameborder=\"0\" height=\"400\" mozallowfullscreen=\"mozallowfullscreen\" src=\"http://player.vimeo.com/video/35500856\" webkitallowfullscreen=\"webkitallowfullscreen\" width=\"500\"></iframe> <a href=\"http://vimeo.com/35500856\">Tworcza10 Group_Slavonic temple in Arkona, Rugian Peninsula</a> from <a href=\"http://vimeo.com/tworcza10\">Tworcza10 Group</a> on <a href=\"http://vimeo.com/\">Vimeo</a>.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: center;\">\n<i>A námorník, </i></div>\n<div style=\"text-align: center;\">\n<i></i></div>\n<div style=\"text-align: center;\">\n<i>Ktorý magický blikot aspoň raz uvidí </i></div>\n<div style=\"text-align: center;\">\n<i>V oslnivej večernej zore </i></div>\n<div style=\"text-align: center;\">\n<i>Na to miesto vždy sa vráti </i></div>\n<div style=\"text-align: center;\">\n<i>Aj keď navôkol mu hrozia útesy. </i></div>\n<div style=\"text-align: center;\">\n<i>Na to miesto vždy sa vráti </i></div>\n<div style=\"text-align: center;\">\n<i>Znova a znova...</i><br />\n<i><br /></i></div>\n<div style=\"text-align: center;\">\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0bRGT0lY7MtIQenbXdx56YFqivx4Eyz1H4zccBTtG8ua8gAxfh9WKkSt5HzayvXCAoXunpsKV3lp7yfgFtCcLy88SZrCBDPY8RPMN-xcSdA9oSdMTdQBBqCHY2AfQrddsQBvjEIFW88k/s1600/zvrhnutie+Svantovi%CC%81ta.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"188\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0bRGT0lY7MtIQenbXdx56YFqivx4Eyz1H4zccBTtG8ua8gAxfh9WKkSt5HzayvXCAoXunpsKV3lp7yfgFtCcLy88SZrCBDPY8RPMN-xcSdA9oSdMTdQBBqCHY2AfQrddsQBvjEIFW88k/s320/zvrhnutie+Svantovi%CC%81ta.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Zničenie Arkony</td></tr>\n</tbody></table>\n<i><br />\n&nbsp;</i><br />\n<div style=\"text-align: justify;\">\n&nbsp; Roku 1168 bola Arkona vyvrátená vojenskými a obchodnými rivalmi Ránov - Dánmi. Dánsky kráľ Valdemar dal sochu Svantovíta pred očami zdesených a pokorených Ránov potupiť, rozsekať a spáliť. Slovanov potom prinútil dať sa pokrstiť.<br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidV23yPFFuRCXZLXQLUNHTRFJRhLao-3vT2ndYLbB21BdGOoAlkQq3UGYZjmDz6O2uZ26C2MkeF7wo_qA2zFQBIMwPQMliUpD9-jzbvOBtxOral__V_X_BoCbe3_WvkV8YH1trHqd89To/s1600/arkona+temnozor.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"308\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidV23yPFFuRCXZLXQLUNHTRFJRhLao-3vT2ndYLbB21BdGOoAlkQq3UGYZjmDz6O2uZ26C2MkeF7wo_qA2zFQBIMwPQMliUpD9-jzbvOBtxOral__V_X_BoCbe3_WvkV8YH1trHqd89To/s320/arkona+temnozor.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Hradisko Arkona - umelecká predstava (Temnozor)</td></tr>\n</tbody></table>\n</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp;&nbsp;R. 1921 sa pokúsil nemecký archeológ C. Schuchhardt Svantovítov chrám nájsť. Objavil zvyšky štvorcové stavby, v ktorých videl hľadanú svätyňu, ktorej kreslenú rekonštrukciu potom prevzala rada publikácií. Z hľadiska súčasných výskumných metód však nemožno považovať výsledky Schuchhardtova výskumu za spoľahlivé a revízny výskum H. Berlekampa z rokov 1969-1970 skutočné tiež ukázal, že to, čo Schuchhardt považoval za zvyšky chrámu, boli skôr stopy vnútorného opevnenia hradiska, zatiaľ čo vlastná svätyňe stála zrejme na mieste, ktoré už dávno pohltilo more.<br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15DOKbnDTcrNzIv0jzF79KTROfh3W-QmuxDu373gSbgzlgCflQuu28_-1_Ikz9pjGm5OMSJCCn4z-R9AJpOLFPdxkm1b9cVTUjt1gNhdBVqJ1qoLymhTUKHcn5KMq_Oms4N3qa0CSrSU/s1600/arkona.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"205\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15DOKbnDTcrNzIv0jzF79KTROfh3W-QmuxDu373gSbgzlgCflQuu28_-1_Ikz9pjGm5OMSJCCn4z-R9AJpOLFPdxkm1b9cVTUjt1gNhdBVqJ1qoLymhTUKHcn5KMq_Oms4N3qa0CSrSU/s320/arkona.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Arkona - jeden z pokusov o \"rekonštrukciu\"</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI8wy5CXA59x48O7xZlM2UHhAqfbcUhRV9qYT_O1YAncFZ8_1_Axch_MZZv0gCks9HKx5JLrih1c6v-EoppQfpEMkgaYu8C4Uao2wCNu4M4bVrpQhlKqEqGDKp9lryRaVqY0h7aJXujIE/s1600/ark1.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI8wy5CXA59x48O7xZlM2UHhAqfbcUhRV9qYT_O1YAncFZ8_1_Axch_MZZv0gCks9HKx5JLrih1c6v-EoppQfpEMkgaYu8C4Uao2wCNu4M4bVrpQhlKqEqGDKp9lryRaVqY0h7aJXujIE/s320/ark1.jpg\" width=\"264\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Fiktívna podoba svätyne v Arkone</td></tr>\n</tbody></table>\n</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp; Na Rujanskom hradisku obklopenom močarinou a vyhľadávanom len v dobách vojnového nebezpečenstva stáli ďalšie tri mohutné svätyne, skvostne zdobené, zastrešené, s purpurovými závesmi miesto stien; najväčšia z nich bola obklopená nádvorím. Uctievali v nich Rugievita, Porevita a Porenuta. <br />\n<br />\nMnožstvo fotografií a krátky text z našej výpravy na Arkonu najdete v <a href=\"http://www.hradiska.sk/search/label/V%C3%BDprava%20Arkona%202012%20-%20De%C5%88%20druh%C3%BD%20-%20Mys%20Arkona\" target=\"_blank\">tomto článku</a>.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: center;\">\n<b>ĎALŠIE SVATYNE</b></div>\n<div style=\"text-align: center;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Obdivuhodne zdobené svätyne si podľa Ebbona vystavali v hodnote 300 talentov obyvatelia <b>Gochova</b> (Chozegowa, dnešné Gutzkow); Herbord hovori len o jednom chráme. Chránili idoly neobyčajnej veľkosti a \"neuveriteľnej krásy\", s ktorými ťažko bolo možné pohnúť, takže ich bolo treba za Ottovho misijného pôsobenia najprv osekať a až potom odtiahnuť na spálenie. Neviditeľný démon, ktorý tu prebýval, ušiel pri speve veriacich, nesúcich kríž, v podobe húfu múch. </div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Z ďalších polabských a Pomoranských bohov treba spomenúť napr Rugievita v meste <b>Korenica</b>, ktorý mal idol z duba so siedmimi tvári. V Štetíne uctievali Triglava, ktorý mal tiež chrám zdobený rezbami a maľbami a ďalšie menšie svätyne. Bol to mocný boh, \"summus deus\", ktorý mal podobne ako Svantovít a Radegast svätého koňa, s ktorého pomocou sa veštilo. Biskup Otto dal jeho sochu po roku 1128 rozsekať a tri strieborné hlavy poslať do Ríma. K vyvráteniu Triglavových svätýň v Štetíne pomáhal ľud, ktorý vraj si prestal boha vážiť, keď videl, že sa sám nedokáže brániť. Pomoc ľudu však pramenila skôr z iného základu, z útlaku kňazov, bohatých obchodníkov a šľachty, ktorí hájili svoju moc práve v mene Triglavovom. <br />\n<br />\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jedna z najpozoruhodnejších slovanských chrámových stavieb bola objavená v hradisku <b>Gross Raden</b> na brehu Sternbergského jazera. Na voľnej ploche juhovýchodnej časti poloostrova stála jednopriestorová hala (7 x 11 m) spojená úzkym, stélami lemovaným chodníkom s drevenou cestou, ktorá prechádzala hradiskom. Jej obdĺžny pôdorys bol na užších stranách mierne vyklenutý a vybavený vchodmi. Steny tvoril dvojitý rad zašpicatených do zeme zapustených dosák, z ktorých vnútorná rada mala nosnú funkciu a vonkajšia ozdobnú. V okrúhlych alebo skôr kosoštvorcovo zašpicatených vyrezávaných hlaviciach na hornom konci sa nám rysujú náznaky mužských a ženských figúr. Vnútornú plochu chrámu poškodila neskoršia priekopa, takže sa nezachovali stopy po umiestnení prípadného idolu. K inventáru však patrilo 6 konských lebiek, 2 železné kópie, drevený štít a misy na nožičkách. Nad dverami chrámu bola zavesená dobytčia lebka. Hradisko Gross Raden je originálnou domácou architektúrou, ktorá dosvedčuje starú tradíciu slovanských stavieb a vyvracia akékoľvek iné vplyvy (či už keltské alebo škandinávske).</div>\n<div style=\"text-align: justify;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim4JmYT1qIIymsakpACh6K7Ob91uOWcSL7PSYjGnQWDHJsoi4wwe5ThzqK3uGKI5z_VVIa9zLNaMbBDlvnWgMR9iU4sKiWLd-tSlPa6lF-8QdbFY4zxRvdYN31D-drqYx1XtOSmEWRDgE/s1600/gross_raden.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim4JmYT1qIIymsakpACh6K7Ob91uOWcSL7PSYjGnQWDHJsoi4wwe5ThzqK3uGKI5z_VVIa9zLNaMbBDlvnWgMR9iU4sKiWLd-tSlPa6lF-8QdbFY4zxRvdYN31D-drqYx1XtOSmEWRDgE/s1600/gross_raden.jpg\" /></a></div>\n<br />\n<br /></div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chrám vo <b>Wolgast</b>, zasvätený Gerovitovi-Jarovitovi, nebol bližšie opísaný. Vieme len, že&nbsp;počas Ottovom kázania došlo k rozhnevaniu davu, pred ktorého hnevom sa jeden z klerikov zachránil útekom do chrámu, kde sa zmocnil posvätného štítu a pod jeho ochranou potom prešiel bez úhony prekvapeným davom. </div>\n<div style=\"text-align: justify;\">\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXg2fmwIJPxPZP2YT9rGt1TfV14csdjJztc2qgmLGtddIrwFIRxEPTRseRcxFS6zDk7RSbeOlL3PlpPg0hSwj5mucGru3Sk5Mm9CVRUDthgMqIr_ggODna6lHoaTPCJPFuPGbTvsFXvA4/s1600/gross-raden-tempel-2.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXg2fmwIJPxPZP2YT9rGt1TfV14csdjJztc2qgmLGtddIrwFIRxEPTRseRcxFS6zDk7RSbeOlL3PlpPg0hSwj5mucGru3Sk5Mm9CVRUDthgMqIr_ggODna6lHoaTPCJPFuPGbTvsFXvA4/s320/gross-raden-tempel-2.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Hradisko Gross Raden bolo zrekonštruované - Približná podoba pohanskej svätyne</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNrNKPK2uQ8s5EBlPo2MBIetqQj0S0gCPfBjq7FQiDfAfEHpsxX32F738ULB56CunGpwDpv-zH523S2-NM6GlFjPsY6cb8U5tjOBMgwWbo-5oaghz31Gto4tD1M3CsXwIMEHQ2CP1jQhE/s1600/gross-raden-tempel-3.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNrNKPK2uQ8s5EBlPo2MBIetqQj0S0gCPfBjq7FQiDfAfEHpsxX32F738ULB56CunGpwDpv-zH523S2-NM6GlFjPsY6cb8U5tjOBMgwWbo-5oaghz31Gto4tD1M3CsXwIMEHQ2CP1jQhE/s320/gross-raden-tempel-3.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Čelný pohľad na svätyňu</td></tr>\n</tbody></table>\n<br /></div>\n<div style=\"text-align: justify;\">\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Slávne prístavné mesto <b>Wolin</b> malo chrám zvaný \"continu\", obklopený bažinou a uchovávajúci posvätnú kopiju, zapustenú do veľkého stĺpu. Jeho latinské označenie je asi odvodené od staroslovanského ka.t, ktorému zodpovedá české kút, ruské kušča, srbské Kuča a bulharské kasta (= príbytok). Mnísi sprevádzajúci Otta ich považovali, zrejme vplyvom nedorozumenia, za kopije Júliusa Caesara - Prieflingenský mních totiž uvádza ako variantu názov mesta tiež Julin. Nie je vylúčené, že tu stáli dva chrámy, ako naznačujú dva kostoly postavené po prijatí kresťanstva na rovnakom mieste a zasvätené sv. Václavovi a sv. Vojtechovi. Triglav bol uctievaný tiež vo Woline. Tu sa biskupovi Ottovi Bamberskému podarilo zničiť len svätyňu, zlatého boha ukryl kňaz na vidieku v dutom strome a pohania mu naďalej prinášali obete.<br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3hbecX3VjGm8IeZtbD4yClMgK4cYrSoqq8eZAhaMAavjAYUJ4Cqn3gM9d4HdgGbLNVn9hhUoA75XD6FoViIx0_02LVLwUyLgelVnz2RnW3zJOa59Od5k9bIs2pPGtMJ64y70Hjk_wJY/s1600/kaparkona1.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"207\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij3hbecX3VjGm8IeZtbD4yClMgK4cYrSoqq8eZAhaMAavjAYUJ4Cqn3gM9d4HdgGbLNVn9hhUoA75XD6FoViIx0_02LVLwUyLgelVnz2RnW3zJOa59Od5k9bIs2pPGtMJ64y70Hjk_wJY/s320/kaparkona1.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">1960</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwJA4CA0-yQ7EdTddfhDSPWY7U-6jVzkaUmd16TSv2dogsQqzck9CCS3YUKuJ8ZSHMP8IjNNEF8dqLPIl9AMdu0B4ospLuVSEFSn8j3Yq8PsZQLfmMhV9bXOnXTo_eD63SJaQ9BYOr5I/s1600/kaparkona11.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwJA4CA0-yQ7EdTddfhDSPWY7U-6jVzkaUmd16TSv2dogsQqzck9CCS3YUKuJ8ZSHMP8IjNNEF8dqLPIl9AMdu0B4ospLuVSEFSn8j3Yq8PsZQLfmMhV9bXOnXTo_eD63SJaQ9BYOr5I/s320/kaparkona11.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Val z vnútornej strany</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOKC9j09eOyS4qnvu-02u8cUXHc5aAdfXTtAjqGKLkSxGQce5kRL3qSMS4wlvgRFn58GbG1L0wkYfKyviRC5ytUKv1i6tiTOzkJDTbABvdDudvgWHURRZVg5TNTbNun68JiT_rBIP-iq0/s1600/kaparkona12.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOKC9j09eOyS4qnvu-02u8cUXHc5aAdfXTtAjqGKLkSxGQce5kRL3qSMS4wlvgRFn58GbG1L0wkYfKyviRC5ytUKv1i6tiTOzkJDTbABvdDudvgWHURRZVg5TNTbNun68JiT_rBIP-iq0/s320/kaparkona12.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Opevnenie z vonkajšej strany</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqoXegz94xqyZ8RPTJk8nsu_GEtZ6AdLMFeU0VnlY87BhmmL2OLJ4YGNtzNp_22nrQkdiElj7z8i8C_dqw8pMJHOde8Yv8LByVJMps_vy65E8r02y9M5p0kcQ6uDbsm_ZvlL19v2Envvw/s1600/kaparkona2.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"284\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqoXegz94xqyZ8RPTJk8nsu_GEtZ6AdLMFeU0VnlY87BhmmL2OLJ4YGNtzNp_22nrQkdiElj7z8i8C_dqw8pMJHOde8Yv8LByVJMps_vy65E8r02y9M5p0kcQ6uDbsm_ZvlL19v2Envvw/s320/kaparkona2.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">1938</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUYWsTguXlskG2E_ERkdDYsToPqVKDVyhrb3UuWWPMhy0X89PaeQyrYvmgABZzQFxUn2UFZAyBRrrNxl-zjLHN0tSviSiPR2B91iIx1sCQdBhtNvlikshrblsqaJ_WUmA-548Sc96pSbM/s1600/kaparkona2012_3.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"217\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUYWsTguXlskG2E_ERkdDYsToPqVKDVyhrb3UuWWPMhy0X89PaeQyrYvmgABZzQFxUn2UFZAyBRrrNxl-zjLHN0tSviSiPR2B91iIx1sCQdBhtNvlikshrblsqaJ_WUmA-548Sc96pSbM/s320/kaparkona2012_3.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEism1ts660Nslrl9hZ01YYHKtZ78-Wxwcifow4D6Itq9xElSBnU_Z5nuSvyZmC_TYBPrP4-g4J2Kkb9Es3rlJ8azzazGZ0wssFJj38MSHP0dP1n1josvYYhHalLOqzGrk6KjfmV68WkRGg/s1600/kaparkona5.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEism1ts660Nslrl9hZ01YYHKtZ78-Wxwcifow4D6Itq9xElSBnU_Z5nuSvyZmC_TYBPrP4-g4J2Kkb9Es3rlJ8azzazGZ0wssFJj38MSHP0dP1n1josvYYhHalLOqzGrk6KjfmV68WkRGg/s320/kaparkona5.jpg\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihPXP4FyGdJjt8mg6w3rZA1IxonLf4nwF6op1Syft2vsUoD2Ad4x4TVwkcC9RjBT2tg1pXYTsOldJv7YbOaHAuwIWarzHur8k3ZjSqw14lwMabzmjZra_hE7xievqShvQNyoKBX3wGJPA/s1600/kaparkona7.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihPXP4FyGdJjt8mg6w3rZA1IxonLf4nwF6op1Syft2vsUoD2Ad4x4TVwkcC9RjBT2tg1pXYTsOldJv7YbOaHAuwIWarzHur8k3ZjSqw14lwMabzmjZra_hE7xievqShvQNyoKBX3wGJPA/s320/kaparkona7.jpg\" width=\"276\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Rekonšrtukcia brány</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNw-wSaYD59yKxciwLD6YxFwFNclel3zDa3NDDw-SiuK_5pka1PQocuuJPrV_DTGMOHLb1JJ5yt2kleSyBpT9ZC_8XbObSiDowHjWzVvB7f5VAo-KBp0Y3IHhQP2RXZri5sBC_H1KAlHk/s1600/kaparkona8.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNw-wSaYD59yKxciwLD6YxFwFNclel3zDa3NDDw-SiuK_5pka1PQocuuJPrV_DTGMOHLb1JJ5yt2kleSyBpT9ZC_8XbObSiDowHjWzVvB7f5VAo-KBp0Y3IHhQP2RXZri5sBC_H1KAlHk/s320/kaparkona8.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pohľady z útesu</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjynKDA9JiYKAu4uifskTliiNwHhTBOx1g7q13vq3uE75MARvHOPDvA6UoTCA4l0IeSJshGkK31DHnicZGj0yg7phNBDma8GZeiyjlrvdkAKW4lZ0b_r4RrTeYXGTmX-bjaUY9CGt3OJno/s1600/kaparkona9.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjynKDA9JiYKAu4uifskTliiNwHhTBOx1g7q13vq3uE75MARvHOPDvA6UoTCA4l0IeSJshGkK31DHnicZGj0yg7phNBDma8GZeiyjlrvdkAKW4lZ0b_r4RrTeYXGTmX-bjaUY9CGt3OJno/s320/kaparkona9.jpg\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4PjpXPqi0TQPCCTDbDsGgpgXnHEADfsxz2Ebs6pJvG64439ErUlglfrQcvOJS6isxBcuXQK9LGT8LV_hvoz2UUeVhXY6RvtK5y7BvHGDEFlRRN4S1FHDxBytCgWlbQ02a2lygP7dHQVQ/s1600/1168.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"279\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4PjpXPqi0TQPCCTDbDsGgpgXnHEADfsxz2Ebs6pJvG64439ErUlglfrQcvOJS6isxBcuXQK9LGT8LV_hvoz2UUeVhXY6RvtK5y7BvHGDEFlRRN4S1FHDxBytCgWlbQ02a2lygP7dHQVQ/s320/1168.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Dobytie Arkony 1168</td></tr>\n</tbody></table>\n<br />\n<br />\nSpracoval: Orgoň </div>\n<div style=\"text-align: justify;\">\n</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nMagdalena Beranová: Slované, Panorama Praha, 1988</div>\n<div style=\"text-align: justify;\">\nPitro M., Vokáč P.: Bohové dávných Slovanú, ISV Nakladatelství, Praha 2002</div>\n<div style=\"text-align: justify;\">\n<a href=\"http://www.sho.sk/\">http://www.sho.sk/</a><br />\nhttp//pospolitost.wordpress.com/2009/05/16/svatyne-slovanov/<br />\nFotky:&nbsp;<a href=\"http://slawenburgen.npage.de/\">http://slawenburgen.npage.de/</a><br />\n<br />\ncitovaný text piesne: <a href=\"https://www.youtube.com/watch?v=N3zygd7ZYPA\" target=\"_blank\">Ancestral Volkhves - A Ruiny Prehovoria, Ked Stichne Cas</a></div>\n<div style=\"text-align: justify;\">\n</div>\n</div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/5938688369749508593/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/03/arkona-retra-ine-pohanske-svatyne.html#comment-form",
+            "title": "13 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/5938688369749508593"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/5938688369749508593"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/03/arkona-retra-ine-pohanske-svatyne.html",
+            "title": "Arkona, Retra a iné pohanské svätyne západných Slovanov"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1nQOu7J2DM5_d4KFJ75V-LQRAFlUh6h2KWinsaPofO993oj8t74HP4Olv1fAHDJ_w2pcjL3WVF3ObMREy9GfLFmQArRQhgWADbmQajoW18q75RmNPtQr8NImTtluJcSLYlWjCokANrc0/s72-c/retra.jpeg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "13"
+        }
+      }
+    ]
+  }
+}

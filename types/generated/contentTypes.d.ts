@@ -602,6 +602,7 @@ export interface ApiBlogPostBlogPost extends Struct.CollectionTypeSchema {
         'content.image-gallery',
         'content.embed',
         'content.sources',
+        'content.poem',
       ]
     >;
     category: Schema.Attribute.Relation<

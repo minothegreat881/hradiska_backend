@@ -1,0 +1,57 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Oddelené od extraktu, aplikuje sa pri re-uploade. Wogastisburg — schválené 4.7.2026. Rok 375 (Devín) vynechaný. Bitka = neistý rok (nevymýšľame).",
+  "timeline": [
+    {
+      "year": "okolo 620",
+      "title": "Dozretie druhej generácie a príprava povstania",
+      "description": "V Panónii dorástla druhá generácia avarsko-slovanských miešancov, ktorí pripravovali povstanie proti avarskému útlaku.",
+      "type": "era"
+    },
+    {
+      "year": "leto 622",
+      "title": "Príchod kupca Sama",
+      "description": "Na strednom Dunaji sa objavila kupecká karavána vedená Samom „z kraja senonského“; pomohol Slovanom pri povstaní a zvolili si ho za panovníka.",
+      "type": "event"
+    },
+    {
+      "year": "623",
+      "title": "Vznik Samovej ríše",
+      "description": "Prvá ríša Slovanov vznikla za Dunajom na území juhozápadného Slovenska, južnej Moravy, severovýchodného Rakúska a časti Česka.",
+      "type": "founding"
+    },
+    {
+      "year": "623–624",
+      "title": "Bitky proti Avarom a vymanenie spod nadvlády",
+      "description": "Pod Samovým vedením Slovania v niekoľkých bitkách „spacifikovali“ Avarov a vymanili sa spod ich nadvlády; vznikali prvé slovanské kniežatstvá.",
+      "type": "battle"
+    },
+    {
+      "year": "po 630",
+      "title": "Zhoršenie vzťahov s Franskou ríšou",
+      "description": "Po spojenectve s kniežaťom Dervanom a výpadoch do Durínska sa pokazili vzťahy s Frankami; na Samov dvor prišiel posol Sicharius.",
+      "type": "event"
+    },
+    {
+      "year": "neznámy",
+      "title": "Slávna bitka pri Wogastisburgu",
+      "description": "Ústredná bitka proti Frankom, pri ktorej sa sústredilo jadro slovanských vojnových síl. Text neuvádza pre ňu konkrétny rok; časovo zapadá do konfliktu s Frankami po roku 630.",
+      "type": "battle"
+    },
+    {
+      "year": "po 658",
+      "title": "Smrť Sama a rozpad ríše",
+      "description": "Po smrti panovníka sa ríša rozpadla; na jej základoch neskôr stavala ríša Veľkomoravská.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    { "label": "Obdobie", "value": "Samova ríša 623–658", "icon": "calendar" },
+    { "label": "Panovník", "value": "Samo – kupec „z kraja senonského“, prvý panovník Slovanov", "icon": "crown" },
+    { "label": "Pôvod Sama", "value": "Podľa A. Holdera keltského pôvodu, zo senonského kraja pri meste Sens (dnes Champagne)", "icon": "star" },
+    { "label": "Protivník", "value": "Avari; neskôr Franská ríša (kráľ Dagobert I.)", "icon": "sword" },
+    { "label": "Hlavný prameň", "value": "Fredegarova kronika – jediný dôveryhodný zdroj o Samovi", "icon": "scroll" },
+    { "label": "Lokalizácia Wogastisburgu", "value": "Neznáma a sporná; jadro ríše najpravdepodobnejšie v oblasti Bratislavy", "icon": "map" },
+    { "label": "Spojenec", "value": "Knieža polabsko-lužických Srbov Dervan", "icon": "flag" },
+    { "label": "Predmet", "value": "Hradisko Wogastisburg – slovanský „burgus“ spomínaný Fredegarom", "icon": "building" }
+  ]
+}
