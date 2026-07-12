@@ -1,0 +1,959 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Se%C5%88a?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Se%C5%88a"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-2882958089833887277"
+        },
+        "published": {
+          "$t": "2013-11-08T18:29:00.001+01:00"
+        },
+        "updated": {
+          "$t": "2013-11-14T15:04:25.012+01:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Seňa"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Seňa"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div style=\"text-align: justify;\">\nPán Štefan Kolivoško,&nbsp;zástupca riaditeľky Verejnej knižnice J. Bocatia v Košiciach a spisovateľ,&nbsp;pre našu stránku poskytol svoj výborný článok o slovanskom hradisku Seňa (južne od Košíc, na Slovensko - Maďarskej hranici.) Za ochotu mu patrí veľká vďaka. Autorom obrázkov je Ing. Peter Zdravecký.<br />\n<br /></div>\n<div style=\"text-align: justify;\">\n\"VEĽKÝ STARÝ HRAD</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nKatastrálne územie v Seni medzi Belžanským potokom a&nbsp;železničnou stanicou poznáme pod maďarským názvom Várhely&nbsp;(Hradová, miesto hradu). Toto pomenovanie žilo v Seni v ústnej tradícií až do 70-tých rokov 20. storočia. Názov Várhely môžeme&nbsp;sledovať na katastrálnych mapách v priebehu 19. storočia, ale aj&nbsp;na špeciálnych vojenských mapách 20. storočia. Minimálne 150 rokov existuje zobrazenie územia s názvom Várhely. Samotný názov&nbsp;signalizuje existenciu hradu na uvedenom mieste. V súčasnosti však&nbsp;už nič nenasvedčuje tomu, že tu v minulosti stál hrad. Priestor je zastavaný farmou roľníckeho družstva.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh761R5-gQ3kK_hWQdBPgVo5HN1-o0Tb3fX4yDUVW4E82uv0-8G4Vv5wfOaavYLPqMCsg9WLvP5kTyjrN9wpyH_EXYrjBG7bprQeuje7aXrT3ea7W5-7S-bRV6A9l4zwqxZtCgEc5lNTFU/s1600/422545_3732536197332_1174805839_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"215\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh761R5-gQ3kK_hWQdBPgVo5HN1-o0Tb3fX4yDUVW4E82uv0-8G4Vv5wfOaavYLPqMCsg9WLvP5kTyjrN9wpyH_EXYrjBG7bprQeuje7aXrT3ea7W5-7S-bRV6A9l4zwqxZtCgEc5lNTFU/s320/422545_3732536197332_1174805839_n.jpg\" width=\"320\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div>\n<div style=\"text-align: justify;\">\nStál tu skutočne hrad, alebo ide len o náhodné pomenovanie? V&nbsp;knihe Osídlenie košickej kotliny, od známeho slovenského historika&nbsp;Branislava Varsíka, sa k problému Senianského hradu môžeme dozvedieť nasledovnú informáciu (I. diel 25 str.). \"Pozrime sa v&nbsp;tomto smere ešte aj na najbližšie okolie Abaujvár (Novum Castrum),&nbsp;ktorý vznikol za kráľa Aba Samuela (1O4l-1O44) už ako kráľovský hrad, kým starší slovanský kmeňový hrad ležal na druhej strane&nbsp;Hornádu na vyvýšenine severovýchodne od Sene\". O existencii hradu&nbsp;nepochybujú ani archeológovia Bánesz a Lamiová, avšak situujú ho &nbsp;na iné miesto ako Varsik.</div>\n</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK7oMcbQDuGI4LC84FwMaG5ZdhHuZSqQQ-US5pzhkfRyMnj3YrRiM4irnTKDzi5lIz5_tbKmju3DVkRGu-YywJq-0wbmRCE60fP47-mHQKwO8oPafgct9nZmgrYf2yFh7DHlMqJEtzxJQ/s1600/556364_3732536717345_889474925_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"215\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK7oMcbQDuGI4LC84FwMaG5ZdhHuZSqQQ-US5pzhkfRyMnj3YrRiM4irnTKDzi5lIz5_tbKmju3DVkRGu-YywJq-0wbmRCE60fP47-mHQKwO8oPafgct9nZmgrYf2yFh7DHlMqJEtzxJQ/s320/556364_3732536717345_889474925_n.jpg\" width=\"320\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nArchívne dokumenty jednoznačne svedčia v prospech existencie&nbsp;hradu. Prvá písomná zmienka, ktorú poznáme, je z roku 1255. Kráľ&nbsp;Béla IV. daruje Senianom zem Čaňu (Chon). V darovacej listine, ako vtedy bolo zvykom, opisuje hranice darovanej zeme. Časť&nbsp;hranice zeme siahala k územiu, ktoré sa nazývalo Ówár (Starý&nbsp;hrad). Ďalšia zmienka je z roku 1317. Listina sa týka metácie -&nbsp;vytýčenia severných hraníc Kechneca. Teda jedná sa o chotárne&nbsp;hranice medzi Seňou a Kechnecom. Varsik, už v spomínanej knihe,&nbsp;voľne uvádza výsledky metácie \"Severné hranice chotára Kechnec&nbsp;boli vtedy vyznačené takto: začína sa na západe pri mŕtvom ramene&nbsp;rieky Idy nazývanom Holtida (r. 1251 pri opise hraníc Bočiara&nbsp;uvádza sa toto rameno ešte ako Mortua aqua Ida, teda ešte&nbsp;slovenským názvom) a odtiaľ smerovali na východ popri ceste, ktorá&nbsp;existuje dodnes, až po samu dedinu Seňa: na južnom okraji dediny&nbsp;Sene hranice prekračovali veľkú cestu (ide o veľkú cestu, ktorá&nbsp;viedla z juhu na Košice a ďalej k Toryse) a smerovali ďalej na&nbsp;východ k Belžanskému potoku (ad rivulum Belzepataka vocatum) a po&nbsp;prekročení tohto potoka prišli k dolnej hranici hradu zvaného&nbsp;Nagyowar (pervenit ad inferiorem finem castri Nagyowar dictum)\".</div>\n</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQzO3riPM67tIKEPMhwukKpNPb_RImFqDNnlv-5ZkpJeGzCrcjlFlFhwS1lwxiwGUg9Mybr7ARB5IF0LZcNbsRyBhXdbkmoWW-bJd2g35R8D_1JTCZJWuDM5bx2QtHfDMJ0DnkNZVrUgQ/s1600/1382038_10200935325490740_1764848647_n.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"226\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQzO3riPM67tIKEPMhwukKpNPb_RImFqDNnlv-5ZkpJeGzCrcjlFlFhwS1lwxiwGUg9Mybr7ARB5IF0LZcNbsRyBhXdbkmoWW-bJd2g35R8D_1JTCZJWuDM5bx2QtHfDMJ0DnkNZVrUgQ/s320/1382038_10200935325490740_1764848647_n.jpg\" width=\"320\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nKatastrálne názvy vzťahujúce sa k hradu prežili nielen v Seni, ale aj v okolitých dedinách. V Kechneci polia, ktoré hraničili s Várhelyom nazývali Fidvár, jedná sa pravdepodobne o pôvodný maďarský názov Földvár (Zemný hrad). V chotári susednej obce Gyňov sa vyskytuje miestny názor Sárvár (Blatný hrad). Spomenuli sme už, že sa líšia názory odborníkov ohľadom presnej lokalizácie a veľkosti seňanského hradu. Varsik ho v roku 1951 lokalizuje na \"...rozsiahlej vyvýšenine uprostred roviny medzi Belžanským potokom a riečkou Szartosom, resp. podľa dedín medzi Belžou a Gyňovom. Tento hrad zaberá celú vyvýšeninu, rozprestierajúcu sa nad výškovou vrstevnicou 208 m nad morom a jeho dĺžka, rozprestierajúca sa od severu k juhu bola až 3-4 km a široká od západu k východu vyše 1 km.<br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaXXNz3eF_Js1_afwI5-HDRmR8jpJLEvySRINVi8TFktlk-f2EsNp2zR0SRqe8bYqoyTTEsk2BCZuDFn-D5FkgWPWrmSYKnMMkDQBBX59Dc-s0Q9D5tZCW2WPJcvy2pAQVXxFXfCzq9u8/s1600/VM1.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"157\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaXXNz3eF_Js1_afwI5-HDRmR8jpJLEvySRINVi8TFktlk-f2EsNp2zR0SRqe8bYqoyTTEsk2BCZuDFn-D5FkgWPWrmSYKnMMkDQBBX59Dc-s0Q9D5tZCW2WPJcvy2pAQVXxFXfCzq9u8/s320/VM1.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">hradisko presne vyznačené na mape 1. vojenského mapovania z 18. storočia</td></tr>\n</tbody></table>\n<br /></div>\n<div style=\"text-align: justify;\">\nExistenciu tohto hradu a jeho rozsiahlosť potvrdzujú nám už najstaršie listiny týkajúce sa tohto kraja, v ktorých sa uvádza tento hrad pri popisoch hraníc Čane a Felnémeti a uvádza sa už po maďarsky, ako Óvár a Nagyóvár, teda ako Starý hrad a Veľký starý hrad\". Severnú hranicu hradu Varsik lokalizuje na základe spomínanej darovacej listiny Bélu IV. z roku 1255. \"Daruje zem Čaňu (Chon) hosťom zo Sene (de Scynna) a pri tejto príležitosti sa popisujú hranice tejto zeme, ktoré na juhozápade siahali až k hornej čiastke toho miesta, ktorý sa nazýva Starý hrad (Ówár). Konkrétne sa tu uvádza, že od rieky Szartos ide hranica zeme Čaňa na juh k veľkému topoľu a odtiaľ sa predlžuje až k južnej časti toho miesta (čiže hranica zeme Čaňa išla len po svah vyvýšeniny), ktoré sa nazýva Ówár. Išlo tu o miesto na severozápad od Gyňova, kam siahala hranica Čane k svahu pôvodného Starého hradu\". Južnú časť hradu Varsik umiestňuje približne 800 m severne od senianskej železničnej stanice. Varsik pri situovaní hradu sa opieral o archívne dokumenty, ktoré sa netýkali priamo hradu.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<iframe frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"https://maps.google.com/?ie=UTF8&amp;ll=48.561045,21.278737&amp;spn=0.011389,0.031006&amp;t=h&amp;z=16&amp;vpsrc=6&amp;output=embed\" width=\"425\"></iframe><br />\n<small><a href=\"https://maps.google.com/?ie=UTF8&amp;ll=48.561045,21.278737&amp;spn=0.011389,0.031006&amp;t=h&amp;z=16&amp;vpsrc=6&amp;source=embed\" style=\"color: blue; text-align: left;\">Zväčšiť mapu</a></small></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nIný prístup si zvolili Mária Lamiová a Ladislav Bánesz. K problému pristúpili z archeologicko-topografického hľadiska. Ich závery ohľadom situovania a veľkosti hradu sú odlišné. B. Varsik vo svojej štúdii lokalizoval Óvár ako kopec, ktorý sa tiahne od severu na juh nad obcou Belža a je ohraničený potokmi Szartos a Belžanským. Je to miesto, ktoré sa zdá na prvý pohľad strategicky najvýznamnejším v okolí, a preto prirodzene vzbudzuje dojem, že hrad musel byť v týchto miestach.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nPri archeologických prieskumoch v katastri Sene sa však zistilo, že na samotnom kopci niet stôp po hradisku. Podarilo sa tu ale nájsť len stopy staršieho pravekého osídlenia, bez zvyškov fortifikácie. Teda na miestach, kam Varsik umiestnil hrad, žiadne hmotné dôkazy sa nenašli. Kde teda Veľký starý hrad ležal? Pri štúdiu dokumentov sme narazili na špeciálnu vojenskú mapu Generálneho štábu Rakúsko-Uhorskej armády z minulého storočia. Na mape možno sledovať terénnu vyvýšeninu pozdĺž cesty Belžanský potok - železničná stanica. Je zaujímavosťou, že na mape možno pozorovať pravouhlé zakončenie vyvýšeniny. Južnejšie, asi 800 m je na mape znázornená ďalšia terénna vyvýšenina, rovnobežná spredchádzajúcou. Domnievali sme sa, že ide o zvyšky valov Veľkého starého hradu.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nNaša domnienka bola podoprená publikáciou G. Györffyho Az árpád - kori Magyarország történeti földrajza. V súvislosti so Starým veľkým hradom, odvoláva sa tiež na mapy z rokov 1880-91, kde sú znázornené valy v podobe štvorca. Ak by sme mali byť presnejší ako Györffy, skôr sa jedná o lichobežník, prispôsobený daným prírodným podmienkam. Podľa zamerania Lámiovej jej severná strana, sa tiahne približne pozdĺž cesty Belžanský potok - železničná stanica, je dlhá asi 670 m, vzdialenosť medzi valmi sever-juh je 870 m. Dĺžka valu na juhu je okolo 450 m. Šírku valov uvádza 9-10 m a výšku 1 m.&nbsp;</div>\n<div style=\"text-align: justify;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Uik27VXo55IaGDHWlcAx9vTrBcACpAjPbQd7R7pmgOR3G-ensiL1KvLYYLw0uLB1zzt6Sxrdnf4q8R6yPJhxg2aHhYVa1AVyCk_SMEpCwUh1hKOecfGBJqpd0UileKBs3S6L6C1LGkw/s1600/sena1a.JPG\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"214\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9Uik27VXo55IaGDHWlcAx9vTrBcACpAjPbQd7R7pmgOR3G-ensiL1KvLYYLw0uLB1zzt6Sxrdnf4q8R6yPJhxg2aHhYVa1AVyCk_SMEpCwUh1hKOecfGBJqpd0UileKBs3S6L6C1LGkw/s320/sena1a.JPG\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcjTfRtVZtNlSxRuFgzdzdFvqcgpD8vA2IeM8t2zCcEkOJAhCgz6V_lexzQfnZffgAB_Qcz9pXz3VXBBGp8tsKZJQuZujP0oSWe6yKE-SW2BmOcZPbPBSZkCZfa8UD5C2O8zaD6efngtM/s1600/sena1b.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"214\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcjTfRtVZtNlSxRuFgzdzdFvqcgpD8vA2IeM8t2zCcEkOJAhCgz6V_lexzQfnZffgAB_Qcz9pXz3VXBBGp8tsKZJQuZujP0oSWe6yKE-SW2BmOcZPbPBSZkCZfa8UD5C2O8zaD6efngtM/s320/sena1b.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDiWnGf_5ydb4HNJrG6OC5xawobU-JoWloNs0CP60B7FAtpln-s2NBo-BFLI4v_VsPu4_Uj6zQyx_YumYOygCmAAf4CvGZSxuKpQZWz5oKEMRIYi1ZejAeOaD3vuNOdBc-UjEGHYD8e0g/s1600/sena2.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"214\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDiWnGf_5ydb4HNJrG6OC5xawobU-JoWloNs0CP60B7FAtpln-s2NBo-BFLI4v_VsPu4_Uj6zQyx_YumYOygCmAAf4CvGZSxuKpQZWz5oKEMRIYi1ZejAeOaD3vuNOdBc-UjEGHYD8e0g/s320/sena2.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSGtCziD46Y1m9KJlwBB9pl6O5rvK3_4nu5A6NnfDexbNXb_NU2rZUPYm-zRK29B4nBx4TM2L1iRoymfI-uP8TMCyrZhTK83BGMZ5QHLVC6Do_EUJ55_oKTXrNdlBitQ2ZzJC7c7I94oI/s1600/sena4.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"214\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSGtCziD46Y1m9KJlwBB9pl6O5rvK3_4nu5A6NnfDexbNXb_NU2rZUPYm-zRK29B4nBx4TM2L1iRoymfI-uP8TMCyrZhTK83BGMZ5QHLVC6Do_EUJ55_oKTXrNdlBitQ2ZzJC7c7I94oI/s320/sena4.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh00is44tVo-UnRXnv53RV3gmTBgGkA39hgPoyWHUL4huJtjLbQrSHwv0Ubs1PzlRoFSr7j0D_zkiotCAE__J3zJE30Q7Locf9cEDBn_Qr205kPgS60bgmrGd_gi7qa3jmAyZT2h548UjA/s1600/sena6.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"214\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh00is44tVo-UnRXnv53RV3gmTBgGkA39hgPoyWHUL4huJtjLbQrSHwv0Ubs1PzlRoFSr7j0D_zkiotCAE__J3zJE30Q7Locf9cEDBn_Qr205kPgS60bgmrGd_gi7qa3jmAyZT2h548UjA/s320/sena6.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cqyfxKUmXpcQO02OPh9zHri9rRRqyU4EjJJvwlZvKMOIATycpz2MV52yub7DoMMBv5n5TQiAymo5oHNSi67XA5Xkekfy0HgtxrKN-YP5hriHi7cGZVA00Xs77Ov1cN-riyMDTaArSL4/s1600/sena7.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"214\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cqyfxKUmXpcQO02OPh9zHri9rRRqyU4EjJJvwlZvKMOIATycpz2MV52yub7DoMMBv5n5TQiAymo5oHNSi67XA5Xkekfy0HgtxrKN-YP5hriHi7cGZVA00Xs77Ov1cN-riyMDTaArSL4/s320/sena7.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBUwwk6MM2NkAbMvDE3hwimcFu1F-mlErG1gWa7dxw-THdEAJZNeYe-xPEWQuOwAkwB52BBn9GPG6eUNt3ATj1GljETiYrypaO7Insn0dcLxdvNH7ghCTADd_jkyGlmlnPxfBaxDmAMYs/s1600/sena8.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"214\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBUwwk6MM2NkAbMvDE3hwimcFu1F-mlErG1gWa7dxw-THdEAJZNeYe-xPEWQuOwAkwB52BBn9GPG6eUNt3ATj1GljETiYrypaO7Insn0dcLxdvNH7ghCTADd_jkyGlmlnPxfBaxDmAMYs/s320/sena8.jpg\" width=\"320\" /></a></div>\n<br /></div>\n<div style=\"text-align: justify;\">\nV súčasnosti valy už neexistujú ani v podobe, v ktorej bola popísaná pred viac ako štyridsiatimi rokmi. Pri stavebných prácach v roku 1962 bola severná časť valu roztlačená buldozérom. Južná časť valu splynula s terénom v dôsledku intenzívneho obrábania pôdy. Východný val je na spomínanej mape čiastočne naznačený. Po západnom vale niet stopy ani na mape ale ani v teréne. Nazdávame sa, že na základe nášho prieskumu v dokumentoch môžeme jednoznačne potvrdiť hypotézu Lamiovej oproti Varsikovej. V Hadtörténeti múzeum (Vojenské historické múzeum) v Budapešti, podarilo sa nám objaviť mapu Sene a okolia z roku 1784, kde valy Veľkého starého hradu sú znázornené v úplnosti na tom mieste, kde ich situuje Lamiová. Nepoznáme presné obdobie vzniku Veľkého starého hradu v Seni. Máme však relatívne presné správy o založení Nového hradu v Abaujvári. Nový hrad bol založený pred nástupom na trón kráľa Samuela Abu (1041-1044). Pravdepodobne sa to udialo po smrti kráľa Štefana I. (1038). Starý veľký hrad bol zrejme v tom období už nevyužívateľný a z vojenského hľadiska zastaraný. <b>Varsik</b> tiež nedatuje dobu vzniku Starého veľkého hradu. Jednoznačne ale <b>hovorí o staroslovanskom kmeňovom hrade, ktorý bol strediskom širokého kraja. Teda vznik hradu môžeme posunúť pred 10. storočie. Pričom 9. a začiatok 10. storočia považujeme za hornú časovú hranicu založenia hradu. Za dolnú časovú hranicu môžeme považovať 7. - 8. storočie</b>. Stále opevnené miesta vznikajú totiž až v dobe, keď môžeme hovoriť o trvalom usadení obyvateľstva a nie v dobe sťahovania národov. Stále opevnené miesta vznikali až po uvedomení si vlastníctva určitého územia a zakotvení obyvateľstva na danom území. K výstavbe hradu bolo možné pristúpiť až potom, keď časť obyvateľstva sa nemusela priamo podieľať na obrábaní pôdy.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nNaše predstavy o hradoch sú vytvorené na základe poznania hradov postavených po 13. storočí. Veľký starý hrad bol diametrálne odlišný. Miloš Šolle vo svojej knihe Staroslovanské hradisko uvádza správu židovského obchodníka a cestovateľa Ibrahima ibn Jakuba, ktorý navštívil slovanské oblasti v 10. storočí a popísal spôsob akým stavali Slovania svoje hrady. Obchodník a cestovateľ píše nasledovné \"Väčšinu svojich hradov stavajú Slovania takto: Zájdu na lúky, bohaté na vodu a kroviny, vyznačia kolíkmi okrúhle alebo pravouhlé miesto do podoby rozsahu hradu, ktoré zamýšľajú postaviť, vykopú dookola priekopu a vykopanú zem navŕšia , pričom ju spevňujú plotmi a stĺpmi na spôsob bášt, až kým hradba nedosiahne požadovanej výšky. Na tej strane, na ktorej chcú mať vchod do hradu, vymerajú hradnú bránu a tam sa potom po drevenom moste do hradu vchádza a vychádza\". Uvedená citácia je vlastne základnou schémou stavby hradu na nížine a teda môžeme predpokladať, že podobným spôsobom bol postavený aj Senianský hrad.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nV prvom rade teda vyhĺbili sa priekopy, zo získanej zeminy navŕšila hradba. V klasickom hradištnom období, kam pravdepodobne môžeme zaradiť aj Veľký starý hrad, stavali sa dva druhy hradieb - dreveno hlinité bez kamenného čela alebo drevenohlinité s kamenným čelom. Nakoľko v Seni ani v jeho blízkom okolí sa nevyskytujú kamene väčšej hmotnosti, možno predpokladať, že hrad mal múry drevenohlinité bez kamenného čela. Múry mali úctyhodnú šírku 9-10 metrov. Nepoznáme presnú výšku múrov, ale zo samotnej šírky možno usudzovať, že dosahovali minimálne 4-5 m. Aby múr udržal svoj tvar, pevnosť a rýchle nepodliehal poveternostným vplyvom, bolo nutné použiť technológiu roštových alebo komorových valov. Brvná sa ukladali priečne na múr a vytvárali akýsi rošt, ktorý sa zasypával hlinou. Ak sa z brvien vytvárali tzv. komory a tieto sa naplňovali hlinou, hovoríme o komorovom type opevnenia.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nZ obranného hľadiska hrad bol umiestnený na veľmi dobrom mieste. Z východnej strany pretekala popri ňom riečka Szartos a zo západnej strany Belžanský potok. Je nesporné, že tieto dva vodné toky boli využité pre obranné účely hradu. Takmer s istotou možno tvrdiť, že priekopy hradu boli naplnené vodou z východnej, západnej ale aj z južnej strany. Vzhľadom na prevýšenie terénu priekopy zo severnej strany nemohli byť napustené vodou, preto tu predpokladáme najsilnejšie hradné múry.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nO obyvateľoch hradu a ich počte sa nezachovali žiadne písomné dokumenty. Z rozsahu múrov, z ich celkovej dĺžky môžeme dôjsť k určitým záverom o počte obyvateľov hradu. Pri obrane hradných múrov bolo nevyhnutné počítať s jedným mužom na 5 metrový úsek. V prípade, že by obrana bola redšia, nepriateľ mohol hrad relatívne ľahko dobyť, aj keď predpokladáme možnosť preskupenia do miest najprudšieho útoku a do najslabších miest obrany, ktorými boli vchody a brány. Predpokladaná dĺžka hradieb bola 286O metrov. Na takýto dlhý hradný múr bolo nutné v prípade boja postaviť aspoň 500- 600 bojovníkov. Celkový počet obyvateľov však bol podstatne vyšší. K počtu bojovníkov treba pripočítať aspoň trojnásobok nebojujúcich žien, detí a starcov. Takto dôjdeme k počtu asi 2000 obyvateľov hradu. Počet obyvateľov hradu v mierových dobách bol podstatne nižší. Dlhodobá koncentrácia veľkého množstva obyvateľov na pol kilometri štvorcovom nutne by viedla k nedostatku plochy na stavbu obytných a hospodárskych priestorov. V čase nebezpečenstva totiž obyvatelia nehľadali len svoju záchranu, ale aj záchranu svojho mobilného majetku a hospodárskych zvierat. Môžeme teda usudzovať, že hrad mal stálu posádku z menšieho počtu bojovníkov a v čase nebezpečenstva počty bojovníkov boli doplňované z mužov, ktorí sa za múrmi hradu ukryli z okolitých osád.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nVarsik Veľký starý hrad považuje za centrálny hrad širokého okolia. Dáva ho do súvisu s opevnenými miestami v Barci, ktoré mali brániť prenikaniu nepriateľov zo severu cez hlavnú cestu Košickej kotliny. Je potrebné podotknúť, že Veľká cesta (píšeme o nej v inej kapitole) do vzniku Nového hradu (Abaujvár) bola na pravej strane Hornádu. Podobnú úlohu ako v Barci na juhu zohrávalo opevnenie v Garadne. Podľa Varsíka má tomu nasvedčovať samotný názov Garadna (Hradná?) a miestny názov Sárvár )Blatný hrad). Po vybudovaní Nového hradu (Ujvár - Abaujvár) funkciu centrálneho hradu od Veľkého starého hradu preberá práve tento hrad. Stáva sa administratívnym a politickým strediskom župy. V raných dejinách Uhorska niekoľkokrát na seba upozorní, či už v súvislosti s kráľom Samuelom Abom alebo s kniežatami Ondrejom a Leventom. Tieto dejinné udalosti nemajú ale už priamu súvislosť s Veľkým starým hradom.\"</div>\n<div style=\"text-align: justify;\">\n<br /></div>\nŠtefan Kolivoško<br />\n<br />\nText bol uverejnený v nasledovnej publikácii: &nbsp;KOLIVOŠKO, Štefan. Seňa : kapitoly z dejín obce. 1. vyd. Seňa: Obecný úrad v Seni, 2008. 151 s. ISBN 978-80-970082-2-2 (viaz.).</div>\n<div>\n<div style=\"text-align: justify;\">\n<br /></div>\n</div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/2882958089833887277/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2013/11/sena.html#comment-form",
+            "title": "2 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/2882958089833887277"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/2882958089833887277"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2013/11/sena.html",
+            "title": "Seňa"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Unknown"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh761R5-gQ3kK_hWQdBPgVo5HN1-o0Tb3fX4yDUVW4E82uv0-8G4Vv5wfOaavYLPqMCsg9WLvP5kTyjrN9wpyH_EXYrjBG7bprQeuje7aXrT3ea7W5-7S-bRV6A9l4zwqxZtCgEc5lNTFU/s72-c/422545_3732536197332_1174805839_n.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "2"
+        }
+      }
+    ]
+  }
+}
