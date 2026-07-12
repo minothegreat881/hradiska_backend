@@ -1007,6 +1007,16 @@ function findInternalSourcesSplit(lines, opts = {}) {
       (s) => s.type === 'text' && s.text.length < 5,
     );
     if (allInternalAnchors && noOtherText) return i;
+    // Riadok/trailing div pozostávajúci LEN z odkazu/odkazov, kde zobrazený text ANCHORu
+    // JE sama URL (bežný Blogger vzor holého odkazového zoznamu bez "Zdroje:"/"Spracoval:"
+    // markeru — Břeclav-Pohansko: 3 externé <a> oddelené <br>, žiadna atribúcia).
+    // GATED rovnako ako atribúcia (len druhá polovica článku), aby nechytilo mid-article
+    // odkaz s vlastnou URL ako viditeľným textom.
+    const allBareUrlAnchors =
+      opts.allowAttributionStart &&
+      anchorsOnly.length >= 1 &&
+      anchorsOnly.every((a) => /^https?:\/\//i.test((a.title || '').trim()));
+    if (allBareUrlAnchors && noOtherText) return i;
   }
   return -1;
 }
