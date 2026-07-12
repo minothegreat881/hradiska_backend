@@ -1,7 +1,7 @@
 # Migračný report — Staré Město - Velehrad
 
-- **slug:** `stare-mesto-velehrad` · **documentId:** `pz7cngfvg6ieka867rwpscxl` · **publikované:** ✅
-- **kategória:** Kniežacie sídla · **tagy:** Hradiská na Morave · **lokalita:** Staré Město (Velehrad) (Česko)
+- **slug:** `stare-mesto-velehrad` · **documentId:** `izbrv0ajaul47aa9agtf75ya` · **publikované:** ✅
+- **kategória:** Kniežacie sídla · **tagy:** Hradiská na Morave · **lokalita:** Staré Město - Velehrad (Česko)
 
 ## ✅ Integrita a úplnosť
 
@@ -16,8 +16,8 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 11 |
-| quote-block (dobové pramene) | 1 |
+| rich-text (odseky/nadpisy) | 9 |
+| quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 5 |
 | embed (video/3D) | 1 |
@@ -72,7 +72,7 @@
 
 ## Ostatné
 - **komentáre:** 3
-- **text tela:** 8222 znakov (1244 slov)
+- **text tela:** 8283 znakov (1250 slov)
 - **pokrytie textu vs originál:** 100.00% ✅
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

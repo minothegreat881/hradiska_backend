@@ -5,7 +5,7 @@
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5212499238283057167",
     "bloggerPostUrl": "http://www.hradiska.sk/2011/04/stare-mesto-velehrad.html",
     "repliesLink": "http://www.hradiska.sk/feeds/5212499238283057167/comments/default",
-    "extractedAt": "2026-07-04T09:55:41.513Z",
+    "extractedAt": "2026-07-12T18:32:25.465Z",
     "coverImageNeedsReview": true,
     "commentCount": 3,
     "comments": [
@@ -62,6 +62,8 @@
       "captionedImages": 5,
       "separatorImages": 22
     },
+    "poemCount": 0,
+    "poemSingleFlags": [],
     "sanityFlags": [
       "hasNonMapIframes"
     ]
@@ -446,49 +448,149 @@
     ],
     "category": null,
     "location": {
-      "name": "Staré Město (Velehrad)",
+      "name": "Staré Město - Velehrad",
       "latitude": 49.066668,
       "longitude": 17.457275,
       "region": null,
       "country": "Česko"
     },
-    "keyFacts": [],
-    "timeline": [],
+    "keyFacts": [
+      {
+        "label": "Obdobie",
+        "value": "Najneskôr od 7. storočia, vrchol v 9. storočí (stará Morava)",
+        "icon": "calendar"
+      },
+      {
+        "label": "Poloha",
+        "value": "Staré Mesto pri Uherskom Hradišti, breh rieky Moravy, centrum Slovácka",
+        "icon": "map"
+      },
+      {
+        "label": "Názvy lokality",
+        "value": "Staré Mesto = Velehrad (písomne „Veligrad“, 1131)",
+        "icon": "flag"
+      },
+      {
+        "label": "Kľúčové postavy",
+        "value": "Svätopluk, Karolman, Metod, Přemysl Otakar II.",
+        "icon": "crown"
+      },
+      {
+        "label": "Hlavné pramene",
+        "value": "Fuldské letopisy (871), listina z roku 1131",
+        "icon": "scroll"
+      },
+      {
+        "label": "Literatúra",
+        "value": "V. Hrubý, „Antiqua civitas – Veligrad“, Ochrana pamiatok 8 (1972)",
+        "icon": "book"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "Val 2 km, priekopa ~5 m široká / 2,3 m hlboká, plocha 250 ha",
+        "icon": "shield"
+      },
+      {
+        "label": "Pohrebiská",
+        "value": "Približne 10 000 hrobov na viacerých pohrebiskách",
+        "icon": "users"
+      },
+      {
+        "label": "Sakrálne stavby",
+        "value": "Dva moravské kostoly, rotunda sv. Michala (9. stor.), sv. Kliment, sv. Vít",
+        "icon": "building"
+      },
+      {
+        "label": "Remeslá",
+        "value": "Šperkárske, kováčske, kovozlievačské, kamenárske a keramické dielne",
+        "icon": "custom"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "7. storočie",
+        "title": "Vznik sídelného centra",
+        "description": "Sídelné centrum tu existovalo najneskôr od 7. storočia.",
+        "type": "founding"
+      },
+      {
+        "year": "9. storočie",
+        "title": "Vrchol Starého Mesta – Velehradu",
+        "description": "V 9. storočí bolo Staré Mesto – Velehrad veľkým výrobným, obchodným a kultúrnym centrom starej Moravy.",
+        "type": "era"
+      },
+      {
+        "year": "871",
+        "title": "Zápis vo Fuldských letopisoch",
+        "description": "Poznámka o Svätoplukovi, ktorý sa chystal oklamať Karolmana a zničiť jeho vojsko.",
+        "type": "event"
+      },
+      {
+        "year": "do konca 9. storočia",
+        "title": "Vybudovanie obranného valu",
+        "description": "Mesto zo severozápadu ohradené 2 km valom s vodnou priekopou, uzatvárajúcim plochu až 250 ha.",
+        "type": "construction"
+      },
+      {
+        "year": "11.–12. storočie",
+        "title": "Doklad nepretržitého osídlenia",
+        "description": "Ojedinelé hroby pod kostolom sv. Michala dokladajú súvislé osídlenie až dodnes.",
+        "type": "event"
+      },
+      {
+        "year": "1131",
+        "title": "Prvý písomný záznam názvu „Veligrad“",
+        "description": "Najstarší písomný doklad názvu lokality v tvare „Veligrad“.",
+        "type": "event"
+      },
+      {
+        "year": "1257",
+        "title": "Založenie Uherského Hradišťa",
+        "description": "Český kráľ Přemysl Otakar II. založil oproti Starému Mestu „Nové mesto“ / „Nový Velehrad“ (dnešné Uherské Hradište).",
+        "type": "founding"
+      },
+      {
+        "year": "13. storočie",
+        "title": "Založenie cisterciánskeho kláštora",
+        "description": "Na velehradských pozemkoch bol založený cisterciánsky kláštor; okolo neho vznikla obec Velehrad. Text uvádza len storočie, nie konkrétny rok.",
+        "type": "founding"
+      },
+      {
+        "year": "od 14. storočia",
+        "title": "Velehrad v historických dokumentoch",
+        "description": "Dokumenty uvádzajú Metoda ako „arcibiskupa velehradského“ a Velehrad ako hlavné mesto Moravského kráľovstva.",
+        "type": "event"
+      },
+      {
+        "year": "18. storočie",
+        "title": "Zánik kostola sv. Víta",
+        "description": "Kostol sv. Víta na lokalite „Na kostelíku“ zanikol, neostalo z neho takmer nič.",
+        "type": "destruction"
+      },
+      {
+        "year": "1936",
+        "title": "Nález pri hĺbení kanála",
+        "description": "Pri kopaní závlahového kanála medzi Starým Mestom a Uherským Hradišťom objavené príbytky a opracované pieskovcové kamene (možno kostol sv. Klimenta).",
+        "type": "discovery"
+      },
+      {
+        "year": "50. roky 20. storočia",
+        "title": "Začiatok intenzívneho výskumu",
+        "description": "Od 50. rokov 20. storočia sa začal intenzívnejší archeologický výskum lokality.",
+        "type": "discovery"
+      }
+    ],
     "quotes": [],
     "blocks": [
       {
         "__component": "content.rich-text",
-        "body": []
-      },
-      {
-        "__component": "content.rich-text",
         "body": [
           {
             "type": "paragraph",
             "children": [
               {
                 "type": "text",
-                "text": "Staré Mesto sa takto nazýva od najstarších čias až dodnes. Vo Fuldských letopisoch nájdeme poznámku z roku 871, keď sa Svätopluk chystal oklamať Karolmana a zničiť jeho vojsko:"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.quote-block",
-        "text": "svätopluk odišiel do rastislavovho starého mesta…",
-        "author": "Fuldské letopisy",
-        "source": "rok 871"
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Niektorí historici pochybujú, že ide priamo o názov mesta a tvrdia, že je to všeobecné označenie nejakého starého mesta na Morave. V originálnych latinských textoch tohoto obdobia sú začiatočné písmená názvov miest, krajín, riek ale i osobných mien malé, preto priamo tento záznam naozaj nehovorí s úplnou istotou, či ide o vlastný názov mesta alebo len o vyjadrenie faktu, že Rastislavovo sídlo bolo staré. Ale aj niektoré iné listiny v neskorších storočiach označujú túto lokalitu (teda dnešné Staré Mesto) ako „staré mesto“ a tento názov pretrval až dodnes."
+                "text": "Staré Mesto sa takto nazýva od najstarších čias až dodnes. Vo Fuldských letopisoch nájdeme poznámku z roku 871, že: „svätopluk odišiel do rastislavovho starého mesta...“, keď sa chystal oklamať Karolmana a zničiť jeho vojsko. Niektorí historici pochybujú, že ide priamo o názov mesta a tvrdia, že je to všeobecné označenie nejakého starého mesta na Morave. V originálnych latinských textoch tohoto obdobia sú začiatočné písmená názvov miest, krajín, riek, ale i osobných mien malé, preto priamo tento záznam naozaj nehovorí s úplnou istotou, či ide o vlastný názov mesta alebo len o vyjadrenie faktu, že Rastislavovo sídlo bolo staré. Ale aj niektoré iné listiny v neskorších storočiach označujú túto lokalitu (teda dnešné Staré Mesto) ako „staré mesto“ a tento názov pretrval až dodnes. \n \n "
               }
             ]
           }
@@ -502,7 +604,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Na území tohoto mesta boli objavené rozsiahle archeologické nálezy z čias starej Moravy, takže nie je dôvod spochybňovať používanie názvu „Staré Mesto“ už v najstarších dobách. Ale zachoval sa nám ešte jeden názov pre túto oblasť: „Velehrad“. Hoci prvý písomný záznam tohoto názvu pochádza až z roku 1131 doslova ako „Veligrad“, je jasné, že tento názov musí byť oveľa starší, už z obdobia starej Moravy z 9. storočia. Keď český kráľ Přemysl Otakar II. zakladal v roku 1257 dnešné Uherské Hradište, ktoré sa nachádza na druhom brehu rieky Moravy oproti Starému Mestu, toto novozaložené mesto dostalo názov „Nové mesto“ alebo tiež „Nový Velehrad“, aby sa tak odlíšilo od susedného Starého mesta či \"starého\" Velehradu. Ale názvom Velehrad sa začínala označovať v 13. storočí aj neďaleká obec nachádzajúca sa na severozápad od Uherského Hradišťa, pretože tu bol v 13. storočí na velehradských pozemkoch založený cisterciánsky kláštor. V 13. storočí sme tu teda mali už tri miesta blízko seba s názvom „Velehrad“: Staré Mesto sa nazývalo Velehrad, vedľajšie Nové Mesto sa nazývalo Nový Velehrad a neďaleká obec, ktorá vznikla okolo kláštora sa tiež začala nazývať Velehradom. Neskôr sa však názov „Staré Mesto“ ustálil a názov Velehrad zanikol, vedľajšie novozaložené mesto s názvami „Nové Mesto“ alebo „Nový Velehrad“ sa začalo nazývať ináč: „Hradište“ (a ešte neskôr sa začalo volať Uherské Hradište) a názvy „Nové Mesto“ a „Nový Velehrad“ zanikli. Dodnes sa však zachoval názov Velehrad pre neďalekú spomínanú obec s kláštorom. Pôvodným názvom Velehrad sa teda pravdepodobne nazývala celá táto oblasť, ktorá je dnes centrom Slovácka (pozri obr.). Tu pravdepodobne sídlili naši moravskí vládcovia a vysokí cirkevní hodnostári. Z rôznych historických dokumentov od 14. storočia máme totiž zachované údaje, že Metod bol „arcibiskupom velehradským“ a že Velehrad bol hlavným mestom Moravského kráľovstva."
+                "text": "Na území tohoto mesta boli objavené rozsiahle archeologické nálezy z čias starej Moravy, takže nie je dôvod spochybňovať používanie názvu „Staré Mesto“ už v najstarších dobách. Ale zachoval sa nám ešte jeden názov pre túto oblasť: „Velehrad“. Hoci prvý písomný záznam tohoto názvu pochádza až z roku 1131 doslova ako „Veligrad“, je jasné, že tento názov musí byť oveľa starší, už z obdobia starej Moravy z 9. storočia. Keď český kráľ Přemysl Otakar II. zakladal v roku 1257 dnešné Uherské Hradište, ktoré sa nachádza na druhom brehu rieky Moravy oproti Starému Mestu, toto novozaložené mesto dostalo názov „Nové mesto“ alebo tiež „Nový Velehrad“, aby sa tak odlíšilo od susedného Starého mesta či \"starého\" Velehradu. Ale názvom Velehrad sa začínala označovať v 13. storočí aj neďaleká obec nachádzajúca sa na severozápad od Uherského Hradišťa, pretože tu bol v 13. storočí na velehradských pozemkoch založený cisterciánsky kláštor. V 13. storočí sme tu teda mali už tri miesta blízko seba s názvom „Velehrad“: Staré Mesto sa nazývalo Velehrad, vedľajšie Nové Mesto sa nazývalo Nový Velehrad a neďaleká obec, ktorá vznikla okolo kláštora, sa tiež začala nazývať Velehradom. Neskôr sa však názov „Staré Mesto“ ustálil a názov Velehrad zanikol, vedľajšie novozaložené mesto s názvami „Nové Mesto“ alebo „Nový Velehrad“ sa začalo nazývať ináč: „Hradište“ (a ešte neskôr sa začalo volať Uherské Hradište) a názvy „Nové Mesto“ a „Nový Velehrad“ zanikli. Dodnes sa však zachoval názov Velehrad pre neďalekú spomínanú obec s kláštorom. Pôvodným názvom Velehrad sa teda pravdepodobne nazývala celá táto oblasť, ktorá je dnes centrom Slovácka (pozri obr.). Tu pravdepodobne sídlili naši moravskí vládcovia a vysokí cirkevní hodnostári. Z rôznych historických dokumentov od 14. storočia máme totiž zachované údaje, že Metod bol „arcibiskupom velehradským“ a že Velehrad bol hlavným mestom Moravského kráľovstva. "
               }
             ]
           }
@@ -539,7 +641,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Archeológia potvrdila, že táto oblasť je veľmi starobylá a že tu naši predkovia žili na vysokej kultúrnej úrovni. Posledných 150 rokov sa na mnohých miestach Starého Mesta nachádzali kostrové hroby, v ktorých bolo veľa zlatých, strieborných a bronzových šperkov, železné zbrane, meče, sekery, kópie, nože a typická staroslovenská keramika z pálenej hliny. Na území Starého Mesta boli doteraz vykopané tri skládky sekerovitých hrivien s 23 kusmi a vyše 40 sekerovitých hrivien ako jednotlivé nálezy. Väčšinou tieto nálezy pochádzali z 2. polovice 9. a 1. polovice 10. storočia. Ale najmä od 50-tych rokov 20. storočia sa začalo s intenzívnejším archeologickým výskumom, ktorý priniesol nové informácie o tejto oblasti. Bolo tu odkrytých veľa príbytkov a výrobných objektov poľnohospodárskeho a remeselníckeho charakteru. Odkrytých bolo približne 10 000 hrobov na viacerých pohrebiskách! Objavené boli základy dvoch moravských kresťanských kostolov s pohrebiskami, všetko z obdobia starej Moravy. V okolí prvého kostola sa našlo okolo 2000 hrobov s 5000 predmetmi, v okolí druhého 56 hrobov s bohatými nálezmi zlatých a strieborných šperkov. Na tomto pohrebisku okolo druhého kostola teda pochovávali ľudí z vyšších spoločenských vrstiev. Prvý kostolík pochádzal ešte spred cyrilometodského obdobia, druhý bol postavený až po príchode Cyrila a Metoda na starú Moravu. V hroboch okolo prvého kostola sa našlo 104 nádob zhotovených na hrnčiarskom kruhu s vodorovnými ryhami alebo vlnkami v hornej časti nádoby, rôzne kovové náradia a zbrane, bronzové, strieborné, pozlátené a zlaté gombíky, honosné šperky, v ženských hroboch viac ako 100 kusov zlatých, strieborných a bronzových náušníc rôznych tvarov, zlaté a strieborné prstene, náhrdelníky s pestrofarebnými korálkami zo skla a bronzu so zlatými, striebornými a bronzovými príveskami."
+                "text": "Archeológia potvrdila, že táto oblasť je veľmi starobylá a že tu naši predkovia žili na vysokej kultúrnej úrovni. Posledných 150 rokov sa na mnohých miestach Starého Mesta nachádzali kostrové hroby, v ktorých bolo veľa zlatých, strieborných a bronzových šperkov, železné zbrane, meče, sekery, kópie, nože a typická staroslovenská keramika z pálenej hliny. Na území Starého Mesta boli doteraz vykopané tri skládky sekerovitých hrivien s 23 kusmi a vyše 40 sekerovitých hrivien ako jednotlivé nálezy. Väčšinou tieto nálezy pochádzali z 2. polovice 9. a 1. polovice 10. storočia. Ale najmä od 50-tych rokov 20. storočia sa začalo s intenzívnejším archeologickým výskumom, ktorý priniesol nové informácie o tejto oblasti. Bolo tu odkrytých veľa príbytkov a výrobných objektov poľnohospodárskeho a remeselníckeho charakteru. Odkrytých bolo približne 10 000 hrobov na viacerých pohrebiskách! Objavené boli základy dvoch moravských kresťanských kostolov s pohrebiskami, všetko z obdobia starej Moravy. V okolí prvého kostola sa našlo okolo 2000 hrobov s 5000 predmetmi, v okolí druhého 56 hrobov s bohatými nálezmi zlatých a strieborných šperkov. Na tomto pohrebisku okolo druhého kostola teda pochovávali ľudí z vyšších spoločenských vrstiev. Prvý kostolík pochádzal ešte spred cyrilometodského obdobia, druhý bol postavený až po príchode Cyrila a Metoda na starú Moravu. V hroboch okolo prvého kostola sa našlo 104 nádob zhotovených na hrnčiarskom kruhu s vodorovnými ryhami alebo vlnkami v hornej časti nádoby, rôzne kovové náradia a zbrane, bronzové, strieborné, pozlátené a zlaté gombíky, honosné šperky, v ženských hroboch viac ako 100 kusov zlatých, strieborných a bronzových náušníc rôznych tvarov, zlaté a strieborné prstene, náhrdelníky s pestrofarebnými korálkami zo skla a bronzu so zlatými, striebornými a bronzovými príveskami. "
               }
             ]
           }
@@ -583,7 +685,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Pod dlažbou dnešného kostola sv. Michala, ktorý stojí na dnešnom staromestskom cintoríne boli objavené základy moravskej rotundy z 9. storočia, ktorá bola určite zasvätená tomu istému svätcovi. Dnešný kostol sv. Michala stojí sčasti na základoch tejto rotundy, určite sa na jeho výstavbu použil aj zrútený stavebný materiál pôvodnej rotundy. Ojedinelé hroby, ktoré sa tu dali ešte nájsť, pochádzajú z 11.-12. storočia, čo znamená, že táto lokalita nezanikla, ale bola osídlená nepretržite až dodnes."
+                "text": "Pod dlažbou dnešného kostola sv. Michala, ktorý stojí na dnešnom staromestskom cintoríne, boli objavené základy moravskej rotundy z 9. storočia, ktorá bola určite zasvätená tomu istému svätcovi. Dnešný kostol sv. Michala stojí sčasti na základoch tejto rotundy, určite sa na jeho výstavbu použil aj zrútený stavebný materiál pôvodnej rotundy. Ojedinelé hroby, ktoré sa tu dali ešte nájsť, pochádzajú z 11.-12. storočia, čo znamená, že táto lokalita nezanikla, ale bola osídlená nepretržite až dodnes. "
               }
             ]
           }
@@ -597,7 +699,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Kostoly z obdobia starej Moravy stáli pravdepodobne ešte na ďalších dvoch miestach. Keď v roku 1936 hĺbili závlahový kanál pri ceste zo Starého Mesta do Uherského Hradišťa, narazili tu na mnohé príbytky a na akési pieskovcové, ručne opracované kamene. Viac sa tomuto nálezu nevenovala pozornosť, ale mohlo ísť o kostol sv. Klimenta, ktorý je spomínaný v historickom materiály, že kdesi v týchto miestach stál. Druhý kostol sv. Víta na lokalite „Na kostelíku“ zanikol v 18. storočí a neostalo z neho takmer nič. Jeho pôvod mohol siahať až do obdobia starej Moravy aj keď sa to doposiaľ nepotvrdilo."
+                "text": "Kostoly z obdobia starej Moravy stáli pravdepodobne ešte na ďalších dvoch miestach. Keď v roku 1936 hĺbili závlahový kanál pri ceste zo Starého Mesta do Uherského Hradišťa, narazili tu na mnohé príbytky a na akési pieskovcové, ručne opracované kamene. Viac sa tomuto nálezu nevenovala pozornosť, ale mohlo ísť o kostol sv. Klimenta, ktorý je spomínaný v historickom materiáli, že kdesi v týchto miestach stál. Druhý kostol sv. Víta na lokalite „Na kostelíku“ zanikol v 18. storočí a neostalo z neho takmer nič. Jeho pôvod mohol siahať až do obdobia starej Moravy, aj keď sa to doposiaľ nepotvrdilo. "
               }
             ]
           }
@@ -648,7 +750,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Staré mesto - Velehrad bol rozvinutým stredovekým mestom. Najmä remeselnícka výroba bola na vysokej úrovni. Nachádzali sa tu dielne na spracovanie parohov a kostí, dielne na výrobu šperkov, kamenárske, kováčske, kovozlievačské a keramické dielne, v ktorých sa vyrábala aj jemná žltá keramika antického tvaru. Boli tu objavené zvyšky železiarskych a taviacich pecí s vyhňami a základy veterného mlynu na mletie obilia. V mnohých taviacich peciach sa netavila surová ruda ale už hotový kov a bolo dokázané, že z týchto pecí pochádzajú aj šperky a ozdobné gombíky nájdené v hroboch. Kvalitne opracované zlaté šperky boli vyrobené vo velehradských špecializovaných dielňach keďže sa tu našli kvapky taveného zlata. Vyrábali sa aj mnohé železné predmety domácej spotreby a tavil sa tu a zlieval tiež cín s meďou, čím vznikol biely bronz, z ktorého sa vyrábali rôzne úžitkové a ozdobné predmety."
+                "text": "Staré mesto - Velehrad bol rozvinutým stredovekým mestom. Najmä remeselnícka výroba bola na vysokej úrovni. Nachádzali sa tu dielne na spracovanie parohov a kostí, dielne na výrobu šperkov, kamenárske, kováčske, kovozlievačské a keramické dielne, v ktorých sa vyrábala aj jemná žltá keramika antického tvaru. Boli tu objavené zvyšky železiarskych a taviacich pecí s vyhňami a základy veterného mlynu na mletie obilia. V mnohých taviacich peciach sa netavila surová ruda ale už hotový kov a bolo dokázané, že z týchto pecí pochádzajú aj šperky a ozdobné gombíky nájdené v hroboch. Kvalitne opracované zlaté šperky boli vyrobené vo velehradských špecializovaných dielňach, keďže sa tu našli kvapky taveného zlata. Vyrábali sa aj mnohé železné predmety domácej spotreby a tavil sa tu a zlieval tiež cín s meďou, čím vznikol biely bronz, z ktorého sa vyrábali rôzne úžitkové a ozdobné predmety. "
               }
             ]
           }
@@ -685,7 +787,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Rozvinuté bolo aj poľnohospodárstvo, čo dosvedčuje veľa nálezov obilných jám a sýpok a rôzneho poľnohospodárskeho náradia. Polovica nájdených zvieracích kostí pochádzalo z chovu domácich svíň, ďalej sa chovali ovce, hovädzí dobytok, kozy a hydina, najmä husi. Bežný bol rybolov. Iba 8% zvieracích kostí pochádzalo z lovu divokých zvierat, vidíme teda, že rastlinnú i živočíšnu obživu si naši predkovia zabezpečovali cieľavedome, pestovaním kultúrnych plodín alebo chovom domácich úžitkových zvierat. O ďalších archeologických nálezoch v Starom Meste aj s ich vyobrazením nájdete podrobnejšie v článku Viléma Hrubého „Antiqua civitas - Veligrad“ nachádzajúci sa v knihe „Ochrana pamiatok 8“, ktorú vydal Slovenský ústav pamiatkovej starostlivosti a ochrany prírody v Bratislave v roku 1972."
+                "text": "Rozvinuté bolo aj poľnohospodárstvo, čo dosvedčuje veľa nálezov obilných jám a sýpok a rôzneho poľnohospodárskeho náradia. Polovica nájdených zvieracích kostí pochádzala z chovu domácich svíň, ďalej sa chovali ovce, hovädzí dobytok, kozy a hydina, najmä husi. Bežný bol rybolov. Iba 8% zvieracích kostí pochádzalo z lovu divokých zvierat, vidíme teda, že rastlinnú i živočíšnu obživu si naši predkovia zabezpečovali cieľavedome, pestovaním kultúrnych plodín alebo chovom domácich úžitkových zvierat. O ďalších archeologických nálezoch v Starom Meste aj s ich vyobrazením nájdete podrobnejšie v článku Viléma Hrubého „Antiqua civitas - Veligrad“ nachádzajúci sa v knihe „Ochrana pamiatok 8“, ktorú vydal Slovenský ústav pamiatkovej starostlivosti a ochrany prírody v Bratislave v roku 1972. "
               }
             ]
           }
@@ -699,7 +801,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Predpokladá sa, že toto sídelné centrum tu existovalo už najneskôr od 7. storočia ale najmä v 9. storočí bolo Staré Mesto - Velehrad veľkým výrobným, obchodným a kultúrnym centrom starej Moravy."
+                "text": "Predpokladá sa, že toto sídelné centrum tu existovalo už najneskôr od 7. storočia, ale najmä v 9. storočí bolo Staré Mesto - Velehrad veľkým výrobným, obchodným a kultúrnym centrom starej Moravy. "
               }
             ]
           }
