@@ -1,0 +1,962 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Visegrad+-+%C4%8Fal%C5%A1ie+Ve%C4%BEkomoravsk%C3%A9+hradisko+v+Ma%C4%8Farsku+%28HU%29?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Visegrad%20-%20%C4%8Fal%C5%A1ie%20Ve%C4%BEkomoravsk%C3%A9%20hradisko%20v%20Ma%C4%8Farsku%20%28HU%29"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-6212369125088341938"
+        },
+        "published": {
+          "$t": "2011-11-27T12:12:00.010+01:00"
+        },
+        "updated": {
+          "$t": "2018-08-31T22:41:16.302+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<small><span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><iframe frameborder=\"0\" height=\"480\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=47.798281,18.980818&amp;spn=0.00173,0.003433&amp;z=18&amp;output=embed\" width=\"640\"></iframe><br />\n<small><a href=\"http://maps.google.com/?ie=UTF8&amp;t=h&amp;vpsrc=0&amp;ll=47.798281,18.980818&amp;spn=0.00173,0.003433&amp;z=18&amp;source=embed\" style=\"color: blue; text-align: left;\">Zvětšit mapu</a></small><br />\n<span class=\"Apple-style-span\" style=\"font-size: 9px;\"><br />\n</span></span></small></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<br />\n<div style=\"margin-bottom: 0in;\">\n<span style=\"font-family: &quot;arial&quot; , sans-serif;\">Visegrád sa nachádza v Maďarsku cca 7 km vzdušnou čiarou od Štúrova. Predstavuje celý komplex pamiatok, z&nbsp;ktorých dnes je najznámejší kráľovský hrad vybudovaný až po tatárskom vpáde na najvyššom kopci v&nbsp;okolí – tzv. horný hrad, v&nbsp;ktorom istý čas strážili aj uhorské korunovačné klenoty. Na úpätí tohto kopca sa rozprestiera jednak dolný hrad so Šalamúnovou vežou, ktorý kontroloval cestu pri Dunaji, jednak honosný renesančný kráľovský palác. Málokto však vie o&nbsp;staršej,  pôvodne rímskej pevnosti na vedľajšom nižšom kopci, ktorú ešte pred príchodom Starých Maďarov  využívali Sloveni v&nbsp;časoch Veľkej Moravy ako významné hradisko – správne stredisko a&nbsp;pomenovali ho Vyšegradom (výšinným hradom).&nbsp;</span> </div>\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s1600/pla%25CC%2581nik+s+popisom.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s320/pla%25CC%2581nik+s+popisom.jpg\" width=\"134\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Plán Vysegradu. Pod číslom 4 je označené hradisko (predtým rímska pevnosť) na Šibrikovom kopci</td></tr>\n</tbody></table>\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Pôvodný Vyšehrad  bol postavený na tzv. Šibrikovom kopci priamo nad Dunajom.  V&nbsp;4. stor. tu vybudovali Rimania pevnosť  v&nbsp;tvare trojuholníka obohnaného vonkajším múrom. Múry boli chránené početnými  vežami a&nbsp;v&nbsp;roku 372 postavili aj väčšiu strážnu vežu. Pevnosť tvorila zrejme súčasť severných opevnení Rímskej ríše – Limes romanus. Rímska pevnosť bola postavená na konci rokov 320-ich, má nepravidelný pôdorys, dlžka strán okolo 130x140 m. Meno pevnosti podľa Notitia Dignitatum bolo Pone Navata. Rímske stráže opustili pevnosť v&nbsp;5. stor.</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span><br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFlMznATvWGjCHXxEpjWx4Vjz_gs-4EsnzDqZF4TrW0odyotNeM3_kTn7CbmY64GLysGDk2WALEXU4IxypMM5xSC7V4FzRtsYVfsXjjQiHu8Acp4cwBmi3HM2eZTE80IDpqOUtPCIpiRE/s1600/pannonia+860.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFlMznATvWGjCHXxEpjWx4Vjz_gs-4EsnzDqZF4TrW0odyotNeM3_kTn7CbmY64GLysGDk2WALEXU4IxypMM5xSC7V4FzRtsYVfsXjjQiHu8Acp4cwBmi3HM2eZTE80IDpqOUtPCIpiRE/s320/pannonia+860.jpg\" width=\"269\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Mapa Panónie za kniežaťa Rastislava s vyznačeným Visegradom</td></tr>\n</tbody></table>\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span><br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">V&nbsp;9. stor.  využili pozostatky rímskeho opevnenia Slovania a&nbsp;vybudovali na Sibrikovom kopci hradisko. <span style=\"color: #333333;\">Visegrad okrem iného kontroloval riečne aj suché cesty v&nbsp;dunajskej úžine, ako aj okolité brody, avšak predovšetkým plnil funkciu</span> l<span style=\"color: #333333;\">okálneho správneho centra, jedného zo stredísk územných oblastí, ktoré organizačne delili Veľkú Moravu. Tieto územné jednotky, ktoré boli súčasťou nitrianskej časti Veľkej Moravy, zrejme nadväzovali na pôvodné kmeňové, ale aj  nadkmeňové útvary, formujúce sa minimálne už od prelomu 8. a 9. stor. a postupne počas existencie veľkomoravského štátu sa z nich vytvorili hradské obvody - španstvá. Doposiaľ sa mi však nepodarilo dopátrať sa k informácii, či Sloveni iba obsadili pôvodne rímsku pevnosť (ktorá v časoch Veľkej Moravy bola už niekoľko storočí rímskou posádkou opustená a teda možno predpokladať že značne schátraná) a túto iba opravili, alebo či na jej mieste vybudovali typické slovanské drevozemné opevnenie. &nbsp;</span></span><br />\n<br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"color: #333333;\">&nbsp;<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvj8bx5W02vRVOGXPMe-Y_JkmKJZyb_pZrLwHFASO9TO5MOVfiSB_fWhDNsR-KSGlgTXEeFKwCi1X8SfVVNcH0WHRbcsyoKKirzz5bAXwQkquMuMODp4ZmA9FlRaeuNsiQ2Zp2jG4_h3I/s1600/visegrad+3D.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"180\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvj8bx5W02vRVOGXPMe-Y_JkmKJZyb_pZrLwHFASO9TO5MOVfiSB_fWhDNsR-KSGlgTXEeFKwCi1X8SfVVNcH0WHRbcsyoKKirzz5bAXwQkquMuMODp4ZmA9FlRaeuNsiQ2Zp2jG4_h3I/s320/visegrad+3D.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Vydarená 3D vizualizácia pevnosti v<span style=\"color: #333333;\">o včasnom stredoveku (autor Pazirik, www.pazirik.hu)</span></td></tr>\n</tbody></table>\n</span></span><br />\n<br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"color: #333333;\">V roku 2013 na Visegrade realizovali maďarskí archeológovia nové výskumy, ktorých výsledky zhrnuli v článku v časopise Hungarian Archeology v roku 2014. Uvádzajú v ňom aj údaje, ktoré sa priamo týkajú slovanského osídlenia Šibriku. Okrem iného sa spomínajú základy predrománskeho kostola, ktorí oni datujú do 10. storočia. Pod základmi kostola bola nájdená ostroha z 8. storočia a tiež pozostatky steny vypletenej prútím, datovanej do prelomu 8. a 9. storočia.&nbsp;</span></span><br />\n<br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"color: #333333;\">Ďalej sa z vonkajšej strany kostola našiel hrob, ktorý rešpektuje múry kostola a v ktorom je pravdepodobne pochovaný kňaz. Okrem iných zaujímavých vecí v jeho hrobe našli aj časť kalicha. Tento hrob Maďari datujú opäť do 10. storočia, resp. najneskôr začiatku 11. storočia. Myslím však, že nieje vylúčené, že kostol,ako aj hrob môžu byť datované do obdobia Veľkej Moravy.&nbsp;</span></span><br />\n<br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"color: #333333;\"><span class=\"\" id=\"result_box\" lang=\"sk\"><span class=\"hps\">V článku ďalej píšu, že \"Nepochybne</span><span class=\"hps\"></span> <span class=\"hps\">slovanské pomenovanie</span> <span class=\"hps\">miesto</span> (<span class=\"hps\">názov</span> <span class=\"hps\">Visegrad</span>&nbsp;<span class=\"hps\"></span> <span class=\"hps\">zdokumentovaný v</span><span class=\"hps\"> písomných</span> <span class=\"hps\">prameňoch už</span> <span class=\"hps\">v roku</span> <span class=\"hps\">1009</span> v kombinácii<span class=\"hps\"></span> <span class=\"hps\">s</span> <span class=\"hps\">novými výsledkami výskumu</span> <span class=\"hps\">môžu</span> <span class=\"hps\">slúžiť ako</span> <span class=\"hps\">podklad</span><span class=\"hps\"></span> <span class=\"hps\">pre určenie</span> <span class=\"hps\">etnicity</span><span class=\"hps\"> obyvateľov,</span> <span class=\"hps\">ktorí</span> <span class=\"hps\">pevnosti dali</span><span class=\"hps\"> jej</span> <span class=\"hps\">meno</span>. <span class=\"hps\">Takže v tomto</span> <span class=\"hps\">svetle,</span> <span class=\"hps\">možno predpokladať</span> kontinuálne<span class=\"hps\"></span> osídlenie pôvodného slovanského obyvateľstva až do<span class=\"hps\"> skorého</span> <span class=\"hps\">Árpádovského</span> <span class=\"hps\">obdobia.</span> </span></span></span><br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"color: #333333;\">&nbsp;</span> </span><br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"color: #333333;\"><br />\n</span></span><br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEi-uReQ_vNHLhTCKeAlQFl-i7LaKGVJPrwT0wqk80b40NUjOw5zlDAqyGAH3UuQWbYhDZg8Kmfc9kyaSMBXBPy0AInvB1_UGTq0rKUVEaIsuWYfgZ00yLD28-uR3w7a17Y_NBXP9mko4/s1600/ispansagivarkephezlegi1.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEi-uReQ_vNHLhTCKeAlQFl-i7LaKGVJPrwT0wqk80b40NUjOw5zlDAqyGAH3UuQWbYhDZg8Kmfc9kyaSMBXBPy0AInvB1_UGTq0rKUVEaIsuWYfgZ00yLD28-uR3w7a17Y_NBXP9mko4/s1600/ispansagivarkephezlegi1.jpg\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Rímska pevnosť / hradisko na Šibrikovom kopci - plánik</td></tr>\n</tbody></table>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPljKOOi0NMyNqFZ3BYv7EJ-eabfaP3GLmGfr3CcToOj7f32VY0-MHFcokWOMK0GcIIoDbySbJWrsPUt3XFZHwusZ41IJq09Xxrh_sBV1T5PlQRA19HXDJRG1qfijH4PgFa211N8qbxaE/s1600/Pevnost%25CC%258C+3D.png\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPljKOOi0NMyNqFZ3BYv7EJ-eabfaP3GLmGfr3CcToOj7f32VY0-MHFcokWOMK0GcIIoDbySbJWrsPUt3XFZHwusZ41IJq09Xxrh_sBV1T5PlQRA19HXDJRG1qfijH4PgFa211N8qbxaE/s320/Pevnost%25CC%258C+3D.png\" width=\"320\" /></a></div>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilY0_ys8YzWBY1marrwCbEtPOa6G46xaTqeuBWLNewd8q2J7XgGqrk5jb5oSsJ6IEbgPKNE1qSZlJXfJdNpFbRCFUFVV5SjMpNw8diVEDVMlzT6Q_0yG6s97_lcK4fST09eEBGh3LdaMo/s1600/ispansagivarlegi1.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"213\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilY0_ys8YzWBY1marrwCbEtPOa6G46xaTqeuBWLNewd8q2J7XgGqrk5jb5oSsJ6IEbgPKNE1qSZlJXfJdNpFbRCFUFVV5SjMpNw8diVEDVMlzT6Q_0yG6s97_lcK4fST09eEBGh3LdaMo/s320/ispansagivarlegi1.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Letecký pohľad</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8lrEzYQVx7Ms2OsmagNO0EvBGaAze2QJJofkESt3tXMIm-U72I207AsB7hsXsKxzpDkcPvIejVg8-XoNVqS2b1ZmwTpVHPV6jXcDL9WZ5r38W_Qk_D3TfuVFNNDbys2KRT5ZxnKUyng/s1600/ispansagivar17.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"218\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8lrEzYQVx7Ms2OsmagNO0EvBGaAze2QJJofkESt3tXMIm-U72I207AsB7hsXsKxzpDkcPvIejVg8-XoNVqS2b1ZmwTpVHPV6jXcDL9WZ5r38W_Qk_D3TfuVFNNDbys2KRT5ZxnKUyng/s320/ispansagivar17.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Pohľad z hradiska na Dunaj</td></tr>\n</tbody></table>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYcAE2rJw_BAyxjYSAjVUCq-GWdrcMs3_hXIkv4x6jCIEVGCP5DJTvPOvj87SnStKBVmTs-h5bQ3g-suYdO_56RSqOCFQERorzKwZmzpeVuFigKGaeX8mEtZf8jo1P7MI7OR9_SF8oDFY/s1600/ispansagivar11.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"218\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYcAE2rJw_BAyxjYSAjVUCq-GWdrcMs3_hXIkv4x6jCIEVGCP5DJTvPOvj87SnStKBVmTs-h5bQ3g-suYdO_56RSqOCFQERorzKwZmzpeVuFigKGaeX8mEtZf8jo1P7MI7OR9_SF8oDFY/s320/ispansagivar11.jpg\" width=\"320\" /></a></div>\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"color: #333333;\"><br />\n</span></span><br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"color: #333333;\"><br />\n</span></span><br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"color: #333333;\"><br />\n</span></span></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2BJ7yL8-eFXQJJAQQR6SYqi1a8Ify62lR53mp5PYlhBON-fx9ObbKn9kgD8pEVUF_JetiIRLJK-qcg-XtuTiedgkiTGvnjPcdUOf11RSzQrIL2nGUSAuXenxWQUUlTE0E3fr44dzN6bA/s1600/visegradlegi77.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"226\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2BJ7yL8-eFXQJJAQQR6SYqi1a8Ify62lR53mp5PYlhBON-fx9ObbKn9kgD8pEVUF_JetiIRLJK-qcg-XtuTiedgkiTGvnjPcdUOf11RSzQrIL2nGUSAuXenxWQUUlTE0E3fr44dzN6bA/s320/visegradlegi77.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Horný hrad</td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span style=\"color: #333333;\"><span style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"color: #333333;\">Po vzniku Uhorského kráľovstva v časoch kráľa Štefana 1.  Visegrad nestratil na svojom význame a stáva sa</span> strediskom župy. Visegrád sa ako sídlo župy spomína prvýkrát r. 1009 v&nbsp;jednej listine kráľa Štefana.  V&nbsp;tejto listine je uvedené, že časťou biskupovej cirkevnej oblasti (<i>neviem aký termín tu použiť, nie som odborníčka – pozn. prekl.)</i> je aj „Visegrád civitas“ (<i><u>civitas</u></i><i> znamená </i><i><u>mesto, </u></i><i>ale tento text to tu interpretuje ako </i><i><u>župu...)</u></i>   Visegrádska župa (podobne ako vyššie sa rozprestierajúca Ostrihomská a&nbsp;nižšie Fejérska (Biela) župa) zahŕňala priľahlú oblasť na oboch brehoch Dunaja. Visegrad je jedným z dôkazov, že novovznikajúci uhorský štát prevzal administratívne členenie priamo od Veľkomoravskej ríše. Je to zároveň jeden z argumentov pre tvrdenie, že na vzniku Uhorska sa významnou mierou musela podieľať aj pôvodne moravská, resp. nitrianska šľachta, ktorá mohla zabezpečovať kontinuitu  štátnej správy a administratívneho členenia novovznikajúceho štátu.  </span></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiersFi9ClfbB4C3KNNHk2FluRDW1k_-17Ydm3PggEdnuLOpuf2dGz0Aqr6Weh84hyphenhyphenC3v9M0pZryamE4-37UCB5dASC0pwp14qzJdOnr_Al4ItLFMG9fyM0ph_XfU_jzgTRi488SEGx6CE/s1600/foto+stare%25CC%2581.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"206\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiersFi9ClfbB4C3KNNHk2FluRDW1k_-17Ydm3PggEdnuLOpuf2dGz0Aqr6Weh84hyphenhyphenC3v9M0pZryamE4-37UCB5dASC0pwp14qzJdOnr_Al4ItLFMG9fyM0ph_XfU_jzgTRi488SEGx6CE/s320/foto+stare%25CC%2581.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">&nbsp;     <br />\n<div style=\"margin-bottom: 0in;\">\n<i>Najstaršia fotka z&nbsp;roku 1872 (autor: </i>Beszédes József)</div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n<i>Vidno vľavo Sibrikov kopec, potom menší kopec so Šalamúnovou vežou a&nbsp;opevnením dolného hradu, ktorým sa dala zablokovať cesta po súši (nešla tak, ako dnes, bolo teba vystúpiť do nevysokého sedielka a&nbsp;obísť kopček), kráľovský palác – dole, hore horný hrad.</i></div>\n</td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"> V&nbsp;juhovýchodnej časti hradu našli pri vykopávkach základy väčšej kamennej budovy zo začiatku 11. stor., postavenej na ruinách stavieb z&nbsp;rímskych čias, pravdepodobne to bolo sídlo župana. Rozmery: dĺžka 16.5 m, šírka 10 resp. 9 m, vnútri bola budova rozdelená múrom na 2 miestnosti. Východná miestnosť  bola vykurovaná kamennou pecou.  </span></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuyi3bQnAnIqwIYk4zkZ_6DcTposZ0E57jhgqoqGKTGhGENMlRog8Waqtn0kGR2itjDKMHyErIVr9togAsBDtvOs8YGfJizVZfPyT4BBmknSTTVLj0NQcTML6iPbPjnlDDlEwBVxkqUHU/s1600/rytina.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"214\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuyi3bQnAnIqwIYk4zkZ_6DcTposZ0E57jhgqoqGKTGhGENMlRog8Waqtn0kGR2itjDKMHyErIVr9togAsBDtvOs8YGfJizVZfPyT4BBmknSTTVLj0NQcTML6iPbPjnlDDlEwBVxkqUHU/s320/rytina.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Rytina Visegradu cca 15.-16. stor<br />\n<br />\n<div style=\"margin-bottom: 0in;\">\n<i>Vidieť na ňom &nbsp;horný aj dolný hrad – s&nbsp;renesančným palácom kráľa Mateja a&nbsp;vľavo na menšom kopci sú pozostatky starého Visegradu aj s&nbsp;vežičkami</i></div>\n</td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><span style=\"background-color: transparent;\">Zaujímavú informáciu uvádzajú maďarskí historici SZŐKE Mátyás a Györffy, podľa ktorých </span>kráľ Ondrej I. dal postaviť ortodoxný kláštor (východného obradu) vo Visegráde, v&nbsp;doline pod Sibrikovým kopcom (ešte predtým, ako započal so stavbou opátstva v&nbsp;Tihanyi – <i>tamojší benediktínsky kláštor bol založený roku 1055, pozn. prekl</i>.). Kláštor východného obradu zrejme založil pre „gréckych“ mníchov (<i>ktovie či gréckych, možno aj slovanských!!!)</i>, ktorí prišli s&nbsp;jeho manželkou Anastáziou z&nbsp;Kijeva. Tento kláštor v&nbsp;rokoch 1220-ych prevzali benediktíni, neskôr v&nbsp;dosť zanedbanom stave r. 1490 paulíni. Počas tureckej nadvlády okolo r. 1560 celkom zanikol. Po archeologickom prieskume dnes poznáme jeho pôdorys, je tam teraz nejaká zotavovňa.<i>Pozoruhodné je, že ten „slovanský kláštor“ dal postaviť na takom mieste, kde žili aj Slovania.</i></span><br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGaXQBrXF6KujisAOCFWsFTHIVmRFfo3agtG7J7HmEz3PkuFXGNDqPsvGs078evhwt2N8DgC7_S64krBdd_ssj1PLZc-ToBamdXZ1JuBe5q1adNNIOeSDM0vn3Z2kLQ3yk0wGDvv5T6_Y/s1600/Kostol.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"294\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGaXQBrXF6KujisAOCFWsFTHIVmRFfo3agtG7J7HmEz3PkuFXGNDqPsvGs078evhwt2N8DgC7_S64krBdd_ssj1PLZc-ToBamdXZ1JuBe5q1adNNIOeSDM0vn3Z2kLQ3yk0wGDvv5T6_Y/s320/Kostol.jpg\" width=\"320\" /></a></div>\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<i><span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></i></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Počas bojov o&nbsp;korunu v&nbsp;roku 1081 dal (kráľ) sv. Ladislav zatvoriť  zvrhnutého kráľa Šalamúna do jednej veže v&nbsp;tejto pevnosti. V&nbsp;tom čase ešte nejestvovala dnešná Šalamúnova veža vo visegrádskom&nbsp;dolnom hrade. Dnes po 900 rokoch je ťažké určiť, v&nbsp;ktorej časti hradu bolo to väzenie. Ťažko sa hľadá aj vysvetlenie, prečo bol kráľovský zajtec väznený práve na tomto hrade. Snáď tu hrá rolu aj fakt, že v&nbsp;tomto čase bol Dömös sídlom podunajských majetkov Belovskej vetvy Arpádovcov,  zatiaľ čo blízky Visegrád bol sídlom Ondrejovskej vetvy.  Šalamún tak bol držaný v&nbsp;zajatí na „vlastnom“ hrade. Po roku 1063 na mieste prvého kostola postavili honosný,  dobovými freskami zdobený hlavný prepošstský kostol.</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Podobne ako ostatné župné sídla, ktoré nemali výhodnú geograficko-hospodársku polohu, aj visegrádske centrum začalo v&nbsp;12. stor. upadať. Župani sa o&nbsp;ne neveľmi starali,  zdržiavali sa hlavne na svojich majetkoch, alebo v&nbsp;blízkosti kráľa. Župné sídla pomaly klesli na úroveň dedinských trhových centier a zanedbané župné hrady sa v&nbsp;13. stor. stali  ľahkou korisťou Tatárov.&nbsp;</span><br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5DnY8HAAt-I3BiPAz_WPXITMLPwlRwXaeZOaWFSdNYm_jDBJfOayuO7FT0-PRdl-6kz4-Q4dq4PJwlHG7tebcU7J52LkZ_0_PpTC9wX-5_xa9mxjpi5C-oYYH4qEcF6ShCmHqbUPfWN0/s1600/Ostroha.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"267\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5DnY8HAAt-I3BiPAz_WPXITMLPwlRwXaeZOaWFSdNYm_jDBJfOayuO7FT0-PRdl-6kz4-Q4dq4PJwlHG7tebcU7J52LkZ_0_PpTC9wX-5_xa9mxjpi5C-oYYH4qEcF6ShCmHqbUPfWN0/s320/Ostroha.jpg\" width=\"320\" /></a></div>\n</div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Po ich odchode už župný hrad na Sibrikovom kopci neobnovili, namiesto neho postavili  jednak dnešný horný hrad Visegrád na vysokom kopci a&nbsp;dolný hrad (Šalamúnovu vežu) nedaleko starého hradiska – všetko v&nbsp;rámci programu stavania hradov Bela IV. po tatárskom vpáde.</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Pôvodný Visegrád sa už nedožil obnovy po tatárskom pustošení, pretože namiesto neho sa začalo so stavbou jednak moderného výšinného hradu a&nbsp;jednak dolného hradu nad cestou v&nbsp;blízkosti Sibrikovho kopca. K&nbsp;obytnej veži a&nbsp;múrom dolného hradu poodnášali a&nbsp;použili aj rozrumené stavebné kamene zo župného hradu.</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Ako vidieť, slovanské hradisko sa v maďarskej literatúre síce spomína, ale nič bližšie sa o ňom nedočítate, napriek tomu, že výskumy sa tam robili a v múzeu vo Visegrade je možné vidieť aj viaceré nálezy typické pre obdobie Veľkej Moravy. Žiaľ je to typický jav u našich južných susedov - ako keby zatvárali oči pred tou časťou histórie, ktorá im moc nevyhovuje. Ak by niekto mal článok, alebo odborný text týkajúci sa priamo hradiska (nálezy, konštrukcia hradby, stavby atď.) budem veľmi vďačný, keď mi ho pošle na mailovú adresu. &nbsp;</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Spracoval: Orgoň  </span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Za preklady z maďarčiny a nezištnú pomoc ďakujem Kvetke</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><br />\n</span></div>\n<div align=\"JUSTIFY\" style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Zdroje:&nbsp;</span><br />\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">Buzás Gergely–Boruzs Katalin–Merva Szabina–Tolnai Katalin: Régészeti kutatások a visegrádi Sibrik-dombon. - Archaeological investigations on Sibrik Hill at Visegrád. CommArchHung 2017, 193-235.</span><br />\nBuzás, Borusz, Merva, Tolnai: THE ISSUE OF CONTINUITY IN THE EARLY MIDDLE AGES IN LIGHT OF THE MOST RECENT ARCHAEOLOGICAL RESEARCH ON THE LATE IMPERIAL PERIOD FORT IN VISEGRÁD, Hungarian Archeology, 2014 </div>\n<div style=\"margin-bottom: 0in;\">\n<span style=\"color: blue; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><u><a href=\"http://www.sf3dvarak.hu/fenykepek/1-varak_-varkastelyok/visgerad-sibrik-domb/\">http://www.sf3dvarak.hu/fenykepek/1-varak_-varkastelyok/visgerad-sibrik-domb/</a></u></span></div>\n<div style=\"margin-bottom: 0in;\">\n<span style=\"color: blue; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><u><a href=\"http://visegradmuzeum.hu/foesperesi-templom\">http://visegradmuzeum.hu/foesperesi-templom</a></u></span></div>\n<div style=\"margin-bottom: 0in;\">\n<span style=\"color: blue; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><u><a href=\"http://jupiter.elte.hu/terkep+lista2.php\">http://jupiter.elte.hu/terkep+lista2.php</a></u></span></div>\n<div style=\"margin-bottom: 0in;\">\n<span class=\"Apple-style-span\" style=\"font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\">(<span style=\"color: blue;\"><u><a href=\"http://www.ibos.hu/Portal/Archives/LUNO/2006/Ln16/l04.pdf\">http://www.ibos.hu/Portal/Archives/LUNO/2006/Ln16/l04.pdf</a></u></span></span></div>\n<div style=\"margin-bottom: 0in;\">\n<span style=\"color: blue; font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;\"><u><a href=\"http://www.sulinet.hu/oroksegtar/data/telepulesek_ertekei/100_falu/Visegrad/pages/005_foldi_paradicsom.htm\"><i>http://www.sulinet.hu/oroksegtar/data/telepulesek_ertekei/100_falu/Visegrad/pages/005_foldi_paradicsom.htm</i></a></u></span></div>\n<div style=\"margin-bottom: 0in;\">\n<br /></div>\n<div style=\"margin-bottom: 0in;\">\n3D model prevzatý zo stránky:&nbsp; http://www.ng.hu/Root/Shared/Pictures/2015/01/07/visegrad.jpg</div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/6212369125088341938/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/11/visegrad-dalsie-velkomoravske-hradisko.html#comment-form",
+            "title": "0 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/6212369125088341938"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/6212369125088341938"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2011/11/visegrad-dalsie-velkomoravske-hradisko.html",
+            "title": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Orgon"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/01396912608531297025"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s72-c/pla%25CC%2581nik+s+popisom.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}

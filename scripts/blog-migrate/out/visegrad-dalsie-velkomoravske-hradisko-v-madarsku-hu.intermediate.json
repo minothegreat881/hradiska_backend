@@ -1,0 +1,820 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\visegrad-post.json",
+    "sourceLabel": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)",
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-6212369125088341938",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/11/visegrad-dalsie-velkomoravske-hradisko.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/6212369125088341938/comments/default",
+    "extractedAt": "2026-07-12T20:32:02.199Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&t=h&vpsrc=0&ll=47.798281,18.980818&spn=0.00173,0.003433&z=18&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 13,
+      "captionedImages": 9,
+      "separatorImages": 4
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)",
+    "slug": "visegrad-dalsie-velkomoravske-hradisko-v-madarsku-hu",
+    "excerpt": "Visegrád sa nachádza v Maďarsku cca 7 km vzdušnou čiarou od Štúrova. Predstavuje celý komplex pamiatok, z ktorých dnes je najznámejší kráľovský hrad vybudovaný až po tatárskom vpáde na najvyššom kopci v okolí – tzv. horný hrad, v ktorom istý čas…",
+    "authorName": "Orgon",
+    "publishedAt": "2011-11-27T12:12:00.010+01:00",
+    "originalPublishedDate": "2011-11-27T12:12:00.010+01:00",
+    "updatedAt": "2018-08-31T22:41:16.302+02:00",
+    "readingTime": 7,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s0/pla%25CC%2581nik+s+popisom.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s1600/pla%25CC%2581nik+s+popisom.jpg",
+      "filename": "pla%CC%81nik+s+popisom.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s1600/pla%25CC%2581nik+s+popisom.jpg",
+        "displayedWidth": 134,
+        "displayedHeight": 320,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s0/pla%25CC%2581nik+s+popisom.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s1600/pla%25CC%2581nik+s+popisom.jpg",
+        "filename": "pla%CC%81nik+s+popisom.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s1600/pla%25CC%2581nik+s+popisom.jpg",
+          "displayedWidth": 134,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Plán Vysegradu. Pod číslom 4 je označené hradisko (predtým rímska pevnosť) na Šibrikovom kopci"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFlMznATvWGjCHXxEpjWx4Vjz_gs-4EsnzDqZF4TrW0odyotNeM3_kTn7CbmY64GLysGDk2WALEXU4IxypMM5xSC7V4FzRtsYVfsXjjQiHu8Acp4cwBmi3HM2eZTE80IDpqOUtPCIpiRE/s0/pannonia+860.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFlMznATvWGjCHXxEpjWx4Vjz_gs-4EsnzDqZF4TrW0odyotNeM3_kTn7CbmY64GLysGDk2WALEXU4IxypMM5xSC7V4FzRtsYVfsXjjQiHu8Acp4cwBmi3HM2eZTE80IDpqOUtPCIpiRE/s1600/pannonia+860.jpg",
+        "filename": "pannonia+860.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFlMznATvWGjCHXxEpjWx4Vjz_gs-4EsnzDqZF4TrW0odyotNeM3_kTn7CbmY64GLysGDk2WALEXU4IxypMM5xSC7V4FzRtsYVfsXjjQiHu8Acp4cwBmi3HM2eZTE80IDpqOUtPCIpiRE/s1600/pannonia+860.jpg",
+          "displayedWidth": 269,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Mapa Panónie za kniežaťa Rastislava s vyznačeným Visegradom"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvj8bx5W02vRVOGXPMe-Y_JkmKJZyb_pZrLwHFASO9TO5MOVfiSB_fWhDNsR-KSGlgTXEeFKwCi1X8SfVVNcH0WHRbcsyoKKirzz5bAXwQkquMuMODp4ZmA9FlRaeuNsiQ2Zp2jG4_h3I/s0/visegrad+3D.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvj8bx5W02vRVOGXPMe-Y_JkmKJZyb_pZrLwHFASO9TO5MOVfiSB_fWhDNsR-KSGlgTXEeFKwCi1X8SfVVNcH0WHRbcsyoKKirzz5bAXwQkquMuMODp4ZmA9FlRaeuNsiQ2Zp2jG4_h3I/s1600/visegrad+3D.jpg",
+        "filename": "visegrad+3D.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvj8bx5W02vRVOGXPMe-Y_JkmKJZyb_pZrLwHFASO9TO5MOVfiSB_fWhDNsR-KSGlgTXEeFKwCi1X8SfVVNcH0WHRbcsyoKKirzz5bAXwQkquMuMODp4ZmA9FlRaeuNsiQ2Zp2jG4_h3I/s1600/visegrad+3D.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Vydarená 3D vizualizácia pevnosti vo včasnom stredoveku (autor Pazirik, www.pazirik.hu)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEi-uReQ_vNHLhTCKeAlQFl-i7LaKGVJPrwT0wqk80b40NUjOw5zlDAqyGAH3UuQWbYhDZg8Kmfc9kyaSMBXBPy0AInvB1_UGTq0rKUVEaIsuWYfgZ00yLD28-uR3w7a17Y_NBXP9mko4/s0/ispansagivarkephezlegi1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEi-uReQ_vNHLhTCKeAlQFl-i7LaKGVJPrwT0wqk80b40NUjOw5zlDAqyGAH3UuQWbYhDZg8Kmfc9kyaSMBXBPy0AInvB1_UGTq0rKUVEaIsuWYfgZ00yLD28-uR3w7a17Y_NBXP9mko4/s1600/ispansagivarkephezlegi1.jpg",
+        "filename": "ispansagivarkephezlegi1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEi-uReQ_vNHLhTCKeAlQFl-i7LaKGVJPrwT0wqk80b40NUjOw5zlDAqyGAH3UuQWbYhDZg8Kmfc9kyaSMBXBPy0AInvB1_UGTq0rKUVEaIsuWYfgZ00yLD28-uR3w7a17Y_NBXP9mko4/s1600/ispansagivarkephezlegi1.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Rímska pevnosť / hradisko na Šibrikovom kopci - plánik"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilY0_ys8YzWBY1marrwCbEtPOa6G46xaTqeuBWLNewd8q2J7XgGqrk5jb5oSsJ6IEbgPKNE1qSZlJXfJdNpFbRCFUFVV5SjMpNw8diVEDVMlzT6Q_0yG6s97_lcK4fST09eEBGh3LdaMo/s0/ispansagivarlegi1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilY0_ys8YzWBY1marrwCbEtPOa6G46xaTqeuBWLNewd8q2J7XgGqrk5jb5oSsJ6IEbgPKNE1qSZlJXfJdNpFbRCFUFVV5SjMpNw8diVEDVMlzT6Q_0yG6s97_lcK4fST09eEBGh3LdaMo/s1600/ispansagivarlegi1.jpg",
+        "filename": "ispansagivarlegi1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilY0_ys8YzWBY1marrwCbEtPOa6G46xaTqeuBWLNewd8q2J7XgGqrk5jb5oSsJ6IEbgPKNE1qSZlJXfJdNpFbRCFUFVV5SjMpNw8diVEDVMlzT6Q_0yG6s97_lcK4fST09eEBGh3LdaMo/s1600/ispansagivarlegi1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Letecký pohľad"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8lrEzYQVx7Ms2OsmagNO0EvBGaAze2QJJofkESt3tXMIm-U72I207AsB7hsXsKxzpDkcPvIejVg8-XoNVqS2b1ZmwTpVHPV6jXcDL9WZ5r38W_Qk_D3TfuVFNNDbys2KRT5ZxnKUyng/s0/ispansagivar17.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8lrEzYQVx7Ms2OsmagNO0EvBGaAze2QJJofkESt3tXMIm-U72I207AsB7hsXsKxzpDkcPvIejVg8-XoNVqS2b1ZmwTpVHPV6jXcDL9WZ5r38W_Qk_D3TfuVFNNDbys2KRT5ZxnKUyng/s1600/ispansagivar17.jpg",
+        "filename": "ispansagivar17.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8lrEzYQVx7Ms2OsmagNO0EvBGaAze2QJJofkESt3tXMIm-U72I207AsB7hsXsKxzpDkcPvIejVg8-XoNVqS2b1ZmwTpVHPV6jXcDL9WZ5r38W_Qk_D3TfuVFNNDbys2KRT5ZxnKUyng/s1600/ispansagivar17.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 218,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z hradiska na Dunaj"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2BJ7yL8-eFXQJJAQQR6SYqi1a8Ify62lR53mp5PYlhBON-fx9ObbKn9kgD8pEVUF_JetiIRLJK-qcg-XtuTiedgkiTGvnjPcdUOf11RSzQrIL2nGUSAuXenxWQUUlTE0E3fr44dzN6bA/s0/visegradlegi77.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2BJ7yL8-eFXQJJAQQR6SYqi1a8Ify62lR53mp5PYlhBON-fx9ObbKn9kgD8pEVUF_JetiIRLJK-qcg-XtuTiedgkiTGvnjPcdUOf11RSzQrIL2nGUSAuXenxWQUUlTE0E3fr44dzN6bA/s1600/visegradlegi77.jpg",
+        "filename": "visegradlegi77.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2BJ7yL8-eFXQJJAQQR6SYqi1a8Ify62lR53mp5PYlhBON-fx9ObbKn9kgD8pEVUF_JetiIRLJK-qcg-XtuTiedgkiTGvnjPcdUOf11RSzQrIL2nGUSAuXenxWQUUlTE0E3fr44dzN6bA/s1600/visegradlegi77.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 226,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Horný hrad"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPljKOOi0NMyNqFZ3BYv7EJ-eabfaP3GLmGfr3CcToOj7f32VY0-MHFcokWOMK0GcIIoDbySbJWrsPUt3XFZHwusZ41IJq09Xxrh_sBV1T5PlQRA19HXDJRG1qfijH4PgFa211N8qbxaE/s0/Pevnost%25CC%258C+3D.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPljKOOi0NMyNqFZ3BYv7EJ-eabfaP3GLmGfr3CcToOj7f32VY0-MHFcokWOMK0GcIIoDbySbJWrsPUt3XFZHwusZ41IJq09Xxrh_sBV1T5PlQRA19HXDJRG1qfijH4PgFa211N8qbxaE/s1600/Pevnost%25CC%258C+3D.png",
+        "filename": "Pevnost%CC%8C+3D.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPljKOOi0NMyNqFZ3BYv7EJ-eabfaP3GLmGfr3CcToOj7f32VY0-MHFcokWOMK0GcIIoDbySbJWrsPUt3XFZHwusZ41IJq09Xxrh_sBV1T5PlQRA19HXDJRG1qfijH4PgFa211N8qbxaE/s1600/Pevnost%25CC%258C+3D.png",
+          "displayedWidth": 320,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYcAE2rJw_BAyxjYSAjVUCq-GWdrcMs3_hXIkv4x6jCIEVGCP5DJTvPOvj87SnStKBVmTs-h5bQ3g-suYdO_56RSqOCFQERorzKwZmzpeVuFigKGaeX8mEtZf8jo1P7MI7OR9_SF8oDFY/s0/ispansagivar11.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYcAE2rJw_BAyxjYSAjVUCq-GWdrcMs3_hXIkv4x6jCIEVGCP5DJTvPOvj87SnStKBVmTs-h5bQ3g-suYdO_56RSqOCFQERorzKwZmzpeVuFigKGaeX8mEtZf8jo1P7MI7OR9_SF8oDFY/s1600/ispansagivar11.jpg",
+        "filename": "ispansagivar11.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYcAE2rJw_BAyxjYSAjVUCq-GWdrcMs3_hXIkv4x6jCIEVGCP5DJTvPOvj87SnStKBVmTs-h5bQ3g-suYdO_56RSqOCFQERorzKwZmzpeVuFigKGaeX8mEtZf8jo1P7MI7OR9_SF8oDFY/s1600/ispansagivar11.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 218,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiersFi9ClfbB4C3KNNHk2FluRDW1k_-17Ydm3PggEdnuLOpuf2dGz0Aqr6Weh84hyphenhyphenC3v9M0pZryamE4-37UCB5dASC0pwp14qzJdOnr_Al4ItLFMG9fyM0ph_XfU_jzgTRi488SEGx6CE/s0/foto+stare%25CC%2581.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiersFi9ClfbB4C3KNNHk2FluRDW1k_-17Ydm3PggEdnuLOpuf2dGz0Aqr6Weh84hyphenhyphenC3v9M0pZryamE4-37UCB5dASC0pwp14qzJdOnr_Al4ItLFMG9fyM0ph_XfU_jzgTRi488SEGx6CE/s1600/foto+stare%25CC%2581.jpg",
+        "filename": "foto+stare%CC%81.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiersFi9ClfbB4C3KNNHk2FluRDW1k_-17Ydm3PggEdnuLOpuf2dGz0Aqr6Weh84hyphenhyphenC3v9M0pZryamE4-37UCB5dASC0pwp14qzJdOnr_Al4ItLFMG9fyM0ph_XfU_jzgTRi488SEGx6CE/s1600/foto+stare%25CC%2581.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 206,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Najstaršia fotka z roku 1872 (autor: Beszédes József) Vidno vľavo Sibrikov kopec, potom menší kopec so Šalamúnovou vežou a opevnením dolného hradu, ktorým sa dala zablokovať cesta po súši (nešla tak, ako dnes, bolo teba vystúpiť do nevysokého sedielka a obísť kopček), kráľovský palác – dole, hore horný hrad."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuyi3bQnAnIqwIYk4zkZ_6DcTposZ0E57jhgqoqGKTGhGENMlRog8Waqtn0kGR2itjDKMHyErIVr9togAsBDtvOs8YGfJizVZfPyT4BBmknSTTVLj0NQcTML6iPbPjnlDDlEwBVxkqUHU/s0/rytina.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuyi3bQnAnIqwIYk4zkZ_6DcTposZ0E57jhgqoqGKTGhGENMlRog8Waqtn0kGR2itjDKMHyErIVr9togAsBDtvOs8YGfJizVZfPyT4BBmknSTTVLj0NQcTML6iPbPjnlDDlEwBVxkqUHU/s1600/rytina.jpg",
+        "filename": "rytina.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuyi3bQnAnIqwIYk4zkZ_6DcTposZ0E57jhgqoqGKTGhGENMlRog8Waqtn0kGR2itjDKMHyErIVr9togAsBDtvOs8YGfJizVZfPyT4BBmknSTTVLj0NQcTML6iPbPjnlDDlEwBVxkqUHU/s1600/rytina.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 214,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Rytina Visegradu cca 15.-16. stor Vidieť na ňom horný aj dolný hrad – s renesančným palácom kráľa Mateja a vľavo na menšom kopci sú pozostatky starého Visegradu aj s vežičkami"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGaXQBrXF6KujisAOCFWsFTHIVmRFfo3agtG7J7HmEz3PkuFXGNDqPsvGs078evhwt2N8DgC7_S64krBdd_ssj1PLZc-ToBamdXZ1JuBe5q1adNNIOeSDM0vn3Z2kLQ3yk0wGDvv5T6_Y/s0/Kostol.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGaXQBrXF6KujisAOCFWsFTHIVmRFfo3agtG7J7HmEz3PkuFXGNDqPsvGs078evhwt2N8DgC7_S64krBdd_ssj1PLZc-ToBamdXZ1JuBe5q1adNNIOeSDM0vn3Z2kLQ3yk0wGDvv5T6_Y/s1600/Kostol.jpg",
+        "filename": "Kostol.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGaXQBrXF6KujisAOCFWsFTHIVmRFfo3agtG7J7HmEz3PkuFXGNDqPsvGs078evhwt2N8DgC7_S64krBdd_ssj1PLZc-ToBamdXZ1JuBe5q1adNNIOeSDM0vn3Z2kLQ3yk0wGDvv5T6_Y/s1600/Kostol.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 294,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5DnY8HAAt-I3BiPAz_WPXITMLPwlRwXaeZOaWFSdNYm_jDBJfOayuO7FT0-PRdl-6kz4-Q4dq4PJwlHG7tebcU7J52LkZ_0_PpTC9wX-5_xa9mxjpi5C-oYYH4qEcF6ShCmHqbUPfWN0/s0/Ostroha.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5DnY8HAAt-I3BiPAz_WPXITMLPwlRwXaeZOaWFSdNYm_jDBJfOayuO7FT0-PRdl-6kz4-Q4dq4PJwlHG7tebcU7J52LkZ_0_PpTC9wX-5_xa9mxjpi5C-oYYH4qEcF6ShCmHqbUPfWN0/s1600/Ostroha.jpg",
+        "filename": "Ostroha.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5DnY8HAAt-I3BiPAz_WPXITMLPwlRwXaeZOaWFSdNYm_jDBJfOayuO7FT0-PRdl-6kz4-Q4dq4PJwlHG7tebcU7J52LkZ_0_PpTC9wX-5_xa9mxjpi5C-oYYH4qEcF6ShCmHqbUPfWN0/s1600/Ostroha.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 267,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": {
+      "name": "Visegrad",
+      "latitude": 47.798281,
+      "longitude": 18.980818,
+      "region": null,
+      "country": "Maďarsko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Cca 7 km vzdušnou čiarou od Štúrova, na Šibrikovom kopci (nižší vedľajší kopec oproti dnešnému hornému hradu)",
+        "icon": "mountain"
+      },
+      {
+        "label": "Rímska pevnosť Pone Navata",
+        "value": "Trojuholníkový pôdorys, rozmery cca 130 × 140 m, súčasť Limes Romanus; opustená v 5. storočí",
+        "icon": "shield"
+      },
+      {
+        "label": "Slovanský Vyšegrad",
+        "value": "Meno znamená „výšinný hrad\" — doložené v prameňoch už v roku 1009; lokálne správne centrum nitrianskej časti Veľkej Moravy",
+        "icon": "crown"
+      },
+      {
+        "label": "Predrománsky kostol",
+        "value": "Základy z 10. storočia, pod nimi ostroha z 8. storočia a stena vypletená prútím z prelomu 8./9. storočia",
+        "icon": "building"
+      },
+      {
+        "label": "Sídlo župana",
+        "value": "Kamenná budova zo začiatku 11. storočia na ruinách rímskych stavieb, 16,5 × 10/9 m, s vykurovanou miestnosťou",
+        "icon": "building"
+      },
+      {
+        "label": "Väzenie kráľa Šalamúna",
+        "value": "V roku 1081 tu bol na príkaz sv. Ladislava uväznený zosadený kráľ Šalamún",
+        "icon": "crown"
+      },
+      {
+        "label": "Dnes",
+        "value": "V múzeu vo Visegrade viditeľné nálezy typické pre obdobie Veľkej Moravy, hoci slovanské hradisko maďarská literatúra takmer nezmieňuje",
+        "icon": "star"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "koniec 320. rokov",
+        "title": "Rímska pevnosť Pone Navata",
+        "description": "Rimania vybudovali na Šibrikovom kopci trojuholníkovú pevnosť (rozmery cca 130×140 m), súčasť severných opevnení Limes Romanus.",
+        "type": "construction"
+      },
+      {
+        "year": "372",
+        "title": "Postavenie väčšej strážnej veže",
+        "description": "K rímskej pevnosti pribudla väčšia strážna veža.",
+        "type": "construction"
+      },
+      {
+        "year": "5. storočie",
+        "title": "Odchod rímskych stráží",
+        "description": "Rímske stráže opustili pevnosť.",
+        "type": "destruction"
+      },
+      {
+        "year": "9. storočie",
+        "title": "Slovanské hradisko na Šibrikovom kopci",
+        "description": "Slovania využili pozostatky rímskeho opevnenia a vybudovali hradisko — lokálne správne centrum nitrianskej časti Veľkej Moravy, pomenované Vyšegrad (výšinný hrad).",
+        "type": "founding"
+      },
+      {
+        "year": "prelom 8. a 9. storočia",
+        "title": "Staršia stena vypletená prútím",
+        "description": "Podľa výskumu z roku 2013 pozostatky steny vypletenej prútím pod základmi neskoršieho kostola.",
+        "type": "construction"
+      },
+      {
+        "year": "10. storočie (maďarské datovanie)",
+        "title": "Predrománsky kostol",
+        "description": "Základy predrománskeho kostola, pod ktorými sa našla ostroha z 8. storočia; z vonkajšej strany hrob pravdepodobne pochovaného kňaza s časťou kalicha.",
+        "type": "construction"
+      },
+      {
+        "year": "1009",
+        "title": "Prvá písomná zmienka o Visegrade ako sídle župy",
+        "description": "Listina kráľa Štefana I. spomína Visegrád civitas; Visegrádska župa zahŕňala oblasť na oboch brehoch Dunaja.",
+        "type": "event"
+      },
+      {
+        "year": "začiatok 11. storočia",
+        "title": "Kamenná budova — sídlo župana",
+        "description": "V juhovýchodnej časti hradu postavená budova (16,5 × 10/9 m) na ruinách rímskych stavieb, s vykurovanou východnou miestnosťou.",
+        "type": "construction"
+      },
+      {
+        "year": "pred 1055",
+        "title": "Ortodoxný kláštor pod Šibrikovým kopcom",
+        "description": "Kráľ Ondrej I. dal postaviť kláštor východného obradu pre mníchov prišlých s manželkou Anastáziou z Kijeva — skôr než začal stavbu opátstva v Tihany.",
+        "type": "construction"
+      },
+      {
+        "year": "1063 – 1081",
+        "title": "Prepošstský kostol a väznenie Šalamúna",
+        "description": "Po roku 1063 postavený honosný prepošstský kostol s freskami; roku 1081 dal sv. Ladislav zatvoriť zosadeného kráľa Šalamúna do veže pevnosti.",
+        "type": "event"
+      },
+      {
+        "year": "1220. roky – 1490",
+        "title": "Zmeny správy kláštora",
+        "description": "Ortodoxný kláštor prevzali v 20. rokoch 13. storočia benediktíni, neskôr roku 1490 paulíni.",
+        "type": "event"
+      },
+      {
+        "year": "12. storočie",
+        "title": "Úpadok župného centra",
+        "description": "Podobne ako iné župné sídla bez výhodnej hospodárskej polohy, aj Visegrad začal upadať na úroveň dedinského trhového centra.",
+        "type": "destruction"
+      },
+      {
+        "year": "13. storočie (tatársky vpád)",
+        "title": "Zánik župného hradu",
+        "description": "Zanedbaný župný hrad na Šibrikovom kopci padol za obeť Tatárom; po ich odchode ho už neobnovili.",
+        "type": "destruction"
+      },
+      {
+        "year": "okolo 1560",
+        "title": "Zánik kláštora",
+        "description": "Ortodoxný kláštor celkom zanikol počas tureckej nadvlády.",
+        "type": "destruction"
+      },
+      {
+        "year": "po tatárskom vpáde (13. stor.)",
+        "title": "Výstavba nového horného a dolného hradu",
+        "description": "V rámci programu Bela IV. postavili dnešný horný hrad Visegrád a dolný hrad (Šalamúnova veža); kamene zo zaniknutého župného hradu boli druhotne použité.",
+        "type": "construction"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Visegrád sa nachádza v Maďarsku cca 7 km vzdušnou čiarou od Štúrova. Predstavuje celý komplex pamiatok, z ktorých dnes je najznámejší kráľovský hrad vybudovaný až po tatárskom vpáde na najvyššom kopci v okolí – tzv. horný hrad, v ktorom istý čas strážili aj uhorské korunovačné klenoty. Na úpätí tohto kopca sa rozprestiera jednak dolný hrad so Šalamúnovou vežou, ktorý kontroloval cestu pri Dunaji, jednak honosný renesančný kráľovský palác. Málokto však vie o staršej, pôvodne rímskej pevnosti na vedľajšom nižšom kopci, ktorú ešte pred príchodom Starých Maďarov využívali Sloveni v časoch Veľkej Moravy ako významné hradisko – správne stredisko a pomenovali ho Vyšegradom (výšinným hradom).   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pôvodný Vyšehrad bol postavený na tzv. Šibrikovom kopci priamo nad Dunajom. V 4. stor. tu vybudovali Rimania pevnosť v tvare trojuholníka obohnaného vonkajším múrom. Múry boli chránené početnými vežami a v roku 372 postavili aj väčšiu strážnu vežu. Pevnosť tvorila zrejme súčasť severných opevnení Rímskej ríše – Limes romanus. Rímska pevnosť bola postavená na konci rokov 320-ich, má nepravidelný pôdorys, dlžka strán okolo 130x140 m. Meno pevnosti podľa Notitia Dignitatum bolo Pone Navata. Rímske stráže opustili pevnosť v 5. stor."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s0/pla%25CC%2581nik+s+popisom.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s1600/pla%25CC%2581nik+s+popisom.jpg",
+          "filename": "pla%CC%81nik+s+popisom.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2fRUz7-xF918eXuHK65mxyVJYsMEm78ZdSIDDhxSr_ctPaeh0o907wQkUOYoUnX7isxjZ8YUnbmIxDJZyN6Xxu9FojTPM3bPwQ-RZLg9CXDmFtufqJFHUi96gGadC5qq_cXfuMEWnhk/s1600/pla%25CC%2581nik+s+popisom.jpg",
+            "displayedWidth": 134,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Plán Vysegradu. Pod číslom 4 je označené hradisko (predtým rímska pevnosť) na Šibrikovom kopci",
+        "caption": "Plán Vysegradu. Pod číslom 4 je označené hradisko (predtým rímska pevnosť) na Šibrikovom kopci",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V 9. stor. využili pozostatky rímskeho opevnenia Slovania a vybudovali na Sibrikovom kopci hradisko. Visegrad okrem iného kontroloval riečne aj suché cesty v dunajskej úžine, ako aj okolité brody, avšak predovšetkým plnil funkciu lokálneho správneho centra, jedného zo stredísk územných oblastí, ktoré organizačne delili Veľkú Moravu. Tieto územné jednotky, ktoré boli súčasťou nitrianskej časti Veľkej Moravy, zrejme nadväzovali na pôvodné kmeňové, ale aj nadkmeňové útvary, formujúce sa minimálne už od prelomu 8. a 9. stor. a postupne počas existencie veľkomoravského štátu sa z nich vytvorili hradské obvody - španstvá. Doposiaľ sa mi však nepodarilo dopátrať sa k informácii, či Sloveni iba obsadili pôvodne rímsku pevnosť (ktorá v časoch Veľkej Moravy bola už niekoľko storočí rímskou posádkou opustená a teda možno predpokladať že značne schátraná) a túto iba opravili, alebo či na jej mieste vybudovali typické slovanské drevozemné opevnenie. \n \n  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFlMznATvWGjCHXxEpjWx4Vjz_gs-4EsnzDqZF4TrW0odyotNeM3_kTn7CbmY64GLysGDk2WALEXU4IxypMM5xSC7V4FzRtsYVfsXjjQiHu8Acp4cwBmi3HM2eZTE80IDpqOUtPCIpiRE/s0/pannonia+860.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFlMznATvWGjCHXxEpjWx4Vjz_gs-4EsnzDqZF4TrW0odyotNeM3_kTn7CbmY64GLysGDk2WALEXU4IxypMM5xSC7V4FzRtsYVfsXjjQiHu8Acp4cwBmi3HM2eZTE80IDpqOUtPCIpiRE/s1600/pannonia+860.jpg",
+          "filename": "pannonia+860.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFlMznATvWGjCHXxEpjWx4Vjz_gs-4EsnzDqZF4TrW0odyotNeM3_kTn7CbmY64GLysGDk2WALEXU4IxypMM5xSC7V4FzRtsYVfsXjjQiHu8Acp4cwBmi3HM2eZTE80IDpqOUtPCIpiRE/s1600/pannonia+860.jpg",
+            "displayedWidth": 269,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Mapa Panónie za kniežaťa Rastislava s vyznačeným Visegradom",
+        "caption": "Mapa Panónie za kniežaťa Rastislava s vyznačeným Visegradom",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V roku 2013 na Visegrade realizovali maďarskí archeológovia nové výskumy, ktorých výsledky zhrnuli v článku v časopise Hungarian Archeology v roku 2014. Uvádzajú v ňom aj údaje, ktoré sa priamo týkajú slovanského osídlenia Šibriku. Okrem iného sa spomínajú základy predrománskeho kostola, ktorí oni datujú do 10. storočia. Pod základmi kostola bola nájdená ostroha z 8. storočia a tiež pozostatky steny vypletenej prútím, datovanej do prelomu 8. a 9. storočia. \n \n Ďalej sa z vonkajšej strany kostola našiel hrob, ktorý rešpektuje múry kostola a v ktorom je pravdepodobne pochovaný kňaz. Okrem iných zaujímavých vecí v jeho hrobe našli aj časť kalicha. Tento hrob Maďari datujú opäť do 10. storočia, resp. najneskôr začiatku 11. storočia. Myslím však, že nieje vylúčené, že kostol,ako aj hrob môžu byť datované do obdobia Veľkej Moravy. \n \n V článku ďalej píšu, že \"Nepochybne slovanské pomenovanie miesto (názov Visegrad  zdokumentovaný v písomných prameňoch už v roku 1009 v kombinácii s novými výsledkami výskumu môžu slúžiť ako podklad pre určenie etnicity obyvateľov, ktorí pevnosti dali jej meno. Takže v tomto svetle, možno predpokladať kontinuálne osídlenie pôvodného slovanského obyvateľstva až do skorého Árpádovského obdobia. \n   \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvj8bx5W02vRVOGXPMe-Y_JkmKJZyb_pZrLwHFASO9TO5MOVfiSB_fWhDNsR-KSGlgTXEeFKwCi1X8SfVVNcH0WHRbcsyoKKirzz5bAXwQkquMuMODp4ZmA9FlRaeuNsiQ2Zp2jG4_h3I/s0/visegrad+3D.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvj8bx5W02vRVOGXPMe-Y_JkmKJZyb_pZrLwHFASO9TO5MOVfiSB_fWhDNsR-KSGlgTXEeFKwCi1X8SfVVNcH0WHRbcsyoKKirzz5bAXwQkquMuMODp4ZmA9FlRaeuNsiQ2Zp2jG4_h3I/s1600/visegrad+3D.jpg",
+          "filename": "visegrad+3D.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvj8bx5W02vRVOGXPMe-Y_JkmKJZyb_pZrLwHFASO9TO5MOVfiSB_fWhDNsR-KSGlgTXEeFKwCi1X8SfVVNcH0WHRbcsyoKKirzz5bAXwQkquMuMODp4ZmA9FlRaeuNsiQ2Zp2jG4_h3I/s1600/visegrad+3D.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 180,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Vydarená 3D vizualizácia pevnosti vo včasnom stredoveku (autor Pazirik, www.pazirik.hu)",
+        "caption": "Vydarená 3D vizualizácia pevnosti vo včasnom stredoveku (autor Pazirik, www.pazirik.hu)",
+        "position": "left",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po vzniku Uhorského kráľovstva v časoch kráľa Štefana I. Visegrad nestratil na svojom význame a stáva sa strediskom župy. Visegrád sa ako sídlo župy spomína prvýkrát r. 1009 v jednej listine kráľa Štefana. V tejto listine je uvedené, že časťou biskupovej cirkevnej oblasti "
+              },
+              {
+                "type": "text",
+                "text": "(neviem aký termín tu použiť, nie som odborníčka – pozn. prekl.)",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " je aj „Visegrád civitas“ (civitas znamená mesto, ale tento text to tu interpretuje ako župu...) Visegrádska župa (podobne ako vyššie sa rozprestierajúca Ostrihomská a nižšie Fejérska (Biela) župa) zahŕňala priľahlú oblasť na oboch brehoch Dunaja. Visegrad je jedným z dôkazov, že novovznikajúci uhorský štát prevzal administratívne členenie priamo od Veľkomoravskej ríše. Je to zároveň jeden z argumentov pre tvrdenie, že na vzniku Uhorska sa významnou mierou musela podieľať aj pôvodne moravská, resp. nitrianska šľachta, ktorá mohla zabezpečovať kontinuitu štátnej správy a administratívneho členenia novovznikajúceho štátu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEi-uReQ_vNHLhTCKeAlQFl-i7LaKGVJPrwT0wqk80b40NUjOw5zlDAqyGAH3UuQWbYhDZg8Kmfc9kyaSMBXBPy0AInvB1_UGTq0rKUVEaIsuWYfgZ00yLD28-uR3w7a17Y_NBXP9mko4/s0/ispansagivarkephezlegi1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEi-uReQ_vNHLhTCKeAlQFl-i7LaKGVJPrwT0wqk80b40NUjOw5zlDAqyGAH3UuQWbYhDZg8Kmfc9kyaSMBXBPy0AInvB1_UGTq0rKUVEaIsuWYfgZ00yLD28-uR3w7a17Y_NBXP9mko4/s1600/ispansagivarkephezlegi1.jpg",
+          "filename": "ispansagivarkephezlegi1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEi-uReQ_vNHLhTCKeAlQFl-i7LaKGVJPrwT0wqk80b40NUjOw5zlDAqyGAH3UuQWbYhDZg8Kmfc9kyaSMBXBPy0AInvB1_UGTq0rKUVEaIsuWYfgZ00yLD28-uR3w7a17Y_NBXP9mko4/s1600/ispansagivarkephezlegi1.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Rímska pevnosť / hradisko na Šibrikovom kopci - plánik",
+        "caption": "Rímska pevnosť / hradisko na Šibrikovom kopci - plánik",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V juhovýchodnej časti hradu našli pri vykopávkach základy väčšej kamennej budovy zo začiatku 11. stor., postavenej na ruinách stavieb z rímskych čias, pravdepodobne to bolo sídlo župana. Rozmery: dĺžka 16.5 m, šírka 10 resp. 9 m, vnútri bola budova rozdelená múrom na 2 miestnosti. Východná miestnosť bola vykurovaná kamennou pecou. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zaujímavú informáciu uvádzajú maďarskí historici SZŐKE Mátyás a Györffy, podľa ktorých kráľ Ondrej I. dal postaviť ortodoxný kláštor (východného obradu) vo Visegráde, v doline pod Sibrikovým kopcom (ešte predtým, ako započal so stavbou opátstva v Tihanyi – "
+              },
+              {
+                "type": "text",
+                "text": "tamojší benediktínsky kláštor bol založený roku 1055, pozn. prekl",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ".). Kláštor východného obradu zrejme založil pre „gréckych“ mníchov ("
+              },
+              {
+                "type": "text",
+                "text": "ktovie či gréckych, možno aj slovanských!!!)",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ", ktorí prišli s jeho manželkou Anastáziou z Kijeva. Tento kláštor v rokoch 1220-ych prevzali benediktíni, neskôr v dosť zanedbanom stave r. 1490 paulíni. Počas tureckej nadvlády okolo r. 1560 celkom zanikol. Po archeologickom prieskume dnes poznáme jeho pôdorys, je tam teraz nejaká zotavovňa."
+              },
+              {
+                "type": "text",
+                "text": "Pozoruhodné je, že ten „slovanský kláštor“ dal postaviť na takom mieste, kde žili aj Slovania.",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilY0_ys8YzWBY1marrwCbEtPOa6G46xaTqeuBWLNewd8q2J7XgGqrk5jb5oSsJ6IEbgPKNE1qSZlJXfJdNpFbRCFUFVV5SjMpNw8diVEDVMlzT6Q_0yG6s97_lcK4fST09eEBGh3LdaMo/s0/ispansagivarlegi1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilY0_ys8YzWBY1marrwCbEtPOa6G46xaTqeuBWLNewd8q2J7XgGqrk5jb5oSsJ6IEbgPKNE1qSZlJXfJdNpFbRCFUFVV5SjMpNw8diVEDVMlzT6Q_0yG6s97_lcK4fST09eEBGh3LdaMo/s1600/ispansagivarlegi1.jpg",
+          "filename": "ispansagivarlegi1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilY0_ys8YzWBY1marrwCbEtPOa6G46xaTqeuBWLNewd8q2J7XgGqrk5jb5oSsJ6IEbgPKNE1qSZlJXfJdNpFbRCFUFVV5SjMpNw8diVEDVMlzT6Q_0yG6s97_lcK4fST09eEBGh3LdaMo/s1600/ispansagivarlegi1.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Letecký pohľad",
+        "caption": "Letecký pohľad",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Počas bojov o korunu v roku 1081 dal (kráľ) sv. Ladislav zatvoriť zvrhnutého kráľa Šalamúna do jednej veže v tejto pevnosti. V tom čase ešte nejestvovala dnešná Šalamúnova veža vo visegrádskom dolnom hrade. Dnes po 900 rokoch je ťažké určiť, v ktorej časti hradu bolo to väzenie. Ťažko sa hľadá aj vysvetlenie, prečo bol kráľovský zajtec väznený práve na tomto hrade. Snáď tu hrá rolu aj fakt, že v tomto čase bol Dömös sídlom podunajských majetkov Belovskej vetvy Arpádovcov, zatiaľ čo blízky Visegrád bol sídlom Ondrejovskej vetvy. Šalamún tak bol držaný v zajatí na „vlastnom“ hrade. Po roku 1063 na mieste prvého kostola postavili honosný, dobovými freskami zdobený hlavný prepošstský kostol."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podobne ako ostatné župné sídla, ktoré nemali výhodnú geograficko-hospodársku polohu, aj visegrádske centrum začalo v 12. stor. upadať. Župani sa o ne neveľmi starali, zdržiavali sa hlavne na svojich majetkoch, alebo v blízkosti kráľa. Župné sídla pomaly klesli na úroveň dedinských trhových centier a zanedbané župné hrady sa v 13. stor. stali ľahkou korisťou Tatárov. \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8lrEzYQVx7Ms2OsmagNO0EvBGaAze2QJJofkESt3tXMIm-U72I207AsB7hsXsKxzpDkcPvIejVg8-XoNVqS2b1ZmwTpVHPV6jXcDL9WZ5r38W_Qk_D3TfuVFNNDbys2KRT5ZxnKUyng/s0/ispansagivar17.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8lrEzYQVx7Ms2OsmagNO0EvBGaAze2QJJofkESt3tXMIm-U72I207AsB7hsXsKxzpDkcPvIejVg8-XoNVqS2b1ZmwTpVHPV6jXcDL9WZ5r38W_Qk_D3TfuVFNNDbys2KRT5ZxnKUyng/s1600/ispansagivar17.jpg",
+          "filename": "ispansagivar17.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM8lrEzYQVx7Ms2OsmagNO0EvBGaAze2QJJofkESt3tXMIm-U72I207AsB7hsXsKxzpDkcPvIejVg8-XoNVqS2b1ZmwTpVHPV6jXcDL9WZ5r38W_Qk_D3TfuVFNNDbys2KRT5ZxnKUyng/s1600/ispansagivar17.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 218,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Pohľad z hradiska na Dunaj",
+        "caption": "Pohľad z hradiska na Dunaj",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po ich odchode už župný hrad na Sibrikovom kopci neobnovili, namiesto neho postavili jednak dnešný horný hrad Visegrád na vysokom kopci a dolný hrad (Šalamúnovu vežu) nedaleko starého hradiska – všetko v rámci programu stavania hradov Bela IV. po tatárskom vpáde."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pôvodný Visegrád sa už nedožil obnovy po tatárskom pustošení, pretože namiesto neho sa začalo so stavbou jednak moderného výšinného hradu a jednak dolného hradu nad cestou v blízkosti Sibrikovho kopca. K obytnej veži a múrom dolného hradu poodnášali a použili aj rozrumené stavebné kamene zo župného hradu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ako vidieť, slovanské hradisko sa v maďarskej literatúre síce spomína, ale nič bližšie sa o ňom nedočítate, napriek tomu, že výskumy sa tam robili a v múzeu vo Visegrade je možné vidieť aj viaceré nálezy typické pre obdobie Veľkej Moravy. Žiaľ je to typický jav u našich južných susedov - ako keby zatvárali oči pred tou časťou histórie, ktorá im moc nevyhovuje. Ak by niekto mal článok, alebo odborný text týkajúci sa priamo hradiska (nálezy, konštrukcia hradby, stavby atď.) budem veľmi vďačný, keď mi ho pošle na mailovú adresu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2BJ7yL8-eFXQJJAQQR6SYqi1a8Ify62lR53mp5PYlhBON-fx9ObbKn9kgD8pEVUF_JetiIRLJK-qcg-XtuTiedgkiTGvnjPcdUOf11RSzQrIL2nGUSAuXenxWQUUlTE0E3fr44dzN6bA/s0/visegradlegi77.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2BJ7yL8-eFXQJJAQQR6SYqi1a8Ify62lR53mp5PYlhBON-fx9ObbKn9kgD8pEVUF_JetiIRLJK-qcg-XtuTiedgkiTGvnjPcdUOf11RSzQrIL2nGUSAuXenxWQUUlTE0E3fr44dzN6bA/s1600/visegradlegi77.jpg",
+          "filename": "visegradlegi77.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2BJ7yL8-eFXQJJAQQR6SYqi1a8Ify62lR53mp5PYlhBON-fx9ObbKn9kgD8pEVUF_JetiIRLJK-qcg-XtuTiedgkiTGvnjPcdUOf11RSzQrIL2nGUSAuXenxWQUUlTE0E3fr44dzN6bA/s1600/visegradlegi77.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 226,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Horný hrad",
+        "caption": "Horný hrad",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Spracoval: Orgoň",
+            "url": null
+          },
+          {
+            "text": "Za preklady z maďarčiny a nezištnú pomoc ďakujem Kvetke",
+            "url": null
+          },
+          {
+            "text": "Buzás Gergely–Boruzs Katalin–Merva Szabina–Tolnai Katalin: Régészeti kutatások a visegrádi Sibrik-dombon. - Archaeological investigations on Sibrik Hill at Visegrád. CommArchHung 2017, 193-235.",
+            "url": null
+          },
+          {
+            "text": "Buzás, Borusz, Merva, Tolnai: THE ISSUE OF CONTINUITY IN THE EARLY MIDDLE AGES IN LIGHT OF THE MOST RECENT ARCHAEOLOGICAL RESEARCH ON THE LATE IMPERIAL PERIOD FORT IN VISEGRÁD, Hungarian Archeology, 2014",
+            "url": null
+          },
+          {
+            "text": "http://www.sf3dvarak.hu/fenykepek/1-varak_-varkastelyok/visgerad-sibrik-domb/",
+            "url": "http://www.sf3dvarak.hu/fenykepek/1-varak_-varkastelyok/visgerad-sibrik-domb/"
+          },
+          {
+            "text": "http://visegradmuzeum.hu/foesperesi-templom",
+            "url": "http://visegradmuzeum.hu/foesperesi-templom"
+          },
+          {
+            "text": "http://jupiter.elte.hu/terkep+lista2.php",
+            "url": "http://jupiter.elte.hu/terkep+lista2.php"
+          },
+          {
+            "text": "http://www.ibos.hu/Portal/Archives/LUNO/2006/Ln16/l04.pdf",
+            "url": "http://www.ibos.hu/Portal/Archives/LUNO/2006/Ln16/l04.pdf"
+          },
+          {
+            "text": "http://www.sulinet.hu/oroksegtar/data/telepulesek_ertekei/100_falu/Visegrad/pages/005_foldi_paradicsom.htm",
+            "url": "http://www.sulinet.hu/oroksegtar/data/telepulesek_ertekei/100_falu/Visegrad/pages/005_foldi_paradicsom.htm"
+          },
+          {
+            "text": "3D model prevzatý zo stránky:",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "Za preklady z maďarčiny a nezištnú pomoc ďakujem Kvetke"
+      },
+      {
+        "type": "book",
+        "text": "Buzás Gergely–Boruzs Katalin–Merva Szabina–Tolnai Katalin: Régészeti kutatások a visegrádi Sibrik-dombon. - Archaeological investigations on Sibrik Hill at Visegrád. CommArchHung 2017, 193-235."
+      },
+      {
+        "type": "book",
+        "text": "Buzás, Borusz, Merva, Tolnai: THE ISSUE OF CONTINUITY IN THE EARLY MIDDLE AGES IN LIGHT OF THE MOST RECENT ARCHAEOLOGICAL RESEARCH ON THE LATE IMPERIAL PERIOD FORT IN VISEGRÁD, Hungarian Archeology, 2014"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.sf3dvarak.hu/fenykepek/1-varak_-varkastelyok/visgerad-sibrik-domb/",
+        "title": "http://www.sf3dvarak.hu/fenykepek/1-varak_-varkastelyok/visgerad-sibrik-domb/"
+      },
+      {
+        "type": "external-url",
+        "url": "http://visegradmuzeum.hu/foesperesi-templom",
+        "title": "http://visegradmuzeum.hu/foesperesi-templom"
+      },
+      {
+        "type": "external-url",
+        "url": "http://jupiter.elte.hu/terkep+lista2.php",
+        "title": "http://jupiter.elte.hu/terkep+lista2.php"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.ibos.hu/Portal/Archives/LUNO/2006/Ln16/l04.pdf",
+        "title": "http://www.ibos.hu/Portal/Archives/LUNO/2006/Ln16/l04.pdf"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.sulinet.hu/oroksegtar/data/telepulesek_ertekei/100_falu/Visegrad/pages/005_foldi_paradicsom.htm",
+        "title": "http://www.sulinet.hu/oroksegtar/data/telepulesek_ertekei/100_falu/Visegrad/pages/005_foldi_paradicsom.htm"
+      },
+      {
+        "type": "attribution",
+        "text": "3D model prevzatý zo stránky:"
+      }
+    ]
+  }
+}
