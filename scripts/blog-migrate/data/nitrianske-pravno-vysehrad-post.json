@@ -1,0 +1,959 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-6818054921907446479"
+    },
+    "updated": {
+      "$t": "2026-07-09T00:11:41.931+02:00"
+    },
+    "category": [
+      {
+        "term": "Najvýznamnejšie hradiská"
+      },
+      {
+        "term": "Menšie hradiská"
+      },
+      {
+        "term": "Náboženstvo a Legendy"
+      },
+      {
+        "term": "Kostoly z Veľkej Moravy"
+      },
+      {
+        "term": "Všeobecne o hradiskách"
+      },
+      {
+        "term": "Žilina - Závodie"
+      },
+      {
+        "term": "3D Rekonštrukcie"
+      },
+      {
+        "term": "A. Gašpar: ZBEROVÉ NÁLEZY PÚCHOVSKEJ KULTÚRY ZO STREDNÉHO POVAŽIA"
+      },
+      {
+        "term": "Alexander Ruttkay:  O Svätoplukovi a Nitre"
+      },
+      {
+        "term": "Anton Intibus 1855 o okolí Trnavy"
+      },
+      {
+        "term": "Arkona (D)"
+      },
+      {
+        "term": "Bavorský geograf – prvá písomná zmienka o Nitrianskych Slovenoch"
+      },
+      {
+        "term": "Beckov (Slovanské Hradisko)"
+      },
+      {
+        "term": "Belušské Slatiny - Hradisko"
+      },
+      {
+        "term": "Blatnohrad  - Pribinovo sídlo v Panónii (H)"
+      },
+      {
+        "term": "Bohatstvo Slovenov"
+      },
+      {
+        "term": "Bohyňa Lada na hrade Lietava"
+      },
+      {
+        "term": "Bojnice"
+      },
+      {
+        "term": "Bojná"
+      },
+      {
+        "term": "Bojová taktika Maďarov a iných kočovníkov"
+      },
+      {
+        "term": "Bošáca - Srniansky Háj"
+      },
+      {
+        "term": "Bratislava"
+      },
+      {
+        "term": "Braunsberg - keltské hradisko"
+      },
+      {
+        "term": "Brekov"
+      },
+      {
+        "term": "Brodské - Veleš"
+      },
+      {
+        "term": "Bronzový poklad"
+      },
+      {
+        "term": "Bíňa"
+      },
+      {
+        "term": "Břeclav - Pohansko (CZ)"
+      },
+      {
+        "term": "Chotěbuz - Podobora (CZ)"
+      },
+      {
+        "term": "Dejiny Slovenska"
+      },
+      {
+        "term": "Detektorizmus"
+      },
+      {
+        "term": "Detva - Kalamárka"
+      },
+      {
+        "term": "Devín"
+      },
+      {
+        "term": "Devín - kresba"
+      },
+      {
+        "term": "Divinka - Veľký vrch v 9. storočí"
+      },
+      {
+        "term": "Divinka pri Žiline"
+      },
+      {
+        "term": "Divinka pri Žiline (Veľký vrch)"
+      },
+      {
+        "term": "Dolná Mariková - Hradisko Široká"
+      },
+      {
+        "term": "Dolná Mariková – Šimunky"
+      },
+      {
+        "term": "Dolné Orešany - Vápenice (alebo ako sme našli nové hradisko)"
+      },
+      {
+        "term": "Dolné Vestenice"
+      },
+      {
+        "term": "Domy Slovenov"
+      },
+      {
+        "term": "Dražovce"
+      },
+      {
+        "term": "Dreveník"
+      },
+      {
+        "term": "Ducové"
+      },
+      {
+        "term": "English"
+      },
+      {
+        "term": "Falošné runové nápisy na skalách"
+      },
+      {
+        "term": "Film o Veľkej Morave"
+      },
+      {
+        "term": "Frankovia rokujú s Moravanmi"
+      },
+      {
+        "term": "Fuldské anály"
+      },
+      {
+        "term": "Gaius Iulius Caesar - dobývanie keltských hradísk v Galii"
+      },
+      {
+        "term": "Gars - Thunau - Veľkomoravské hradisko v Rakúsku (A)"
+      },
+      {
+        "term": "Gbeľany"
+      },
+      {
+        "term": "Gora Zamkowa"
+      },
+      {
+        "term": "H.Chorvátová: K významu príveskov – amuletov z včasnostredovekých pohrebísk."
+      },
+      {
+        "term": "Hana Chorvátová: Lunice a ich význam"
+      },
+      {
+        "term": "Hatné"
+      },
+      {
+        "term": "Havránok - Liptovská Mara"
+      },
+      {
+        "term": "Hillforts and fortified settlements in Slovakia"
+      },
+      {
+        "term": "History of Slovakia"
+      },
+      {
+        "term": "Horné Plachtince - Pohanský vrch"
+      },
+      {
+        "term": "Horné Ponitrie"
+      },
+      {
+        "term": "Hradec (Prievidza)"
+      },
+      {
+        "term": "Hradisko Vršatec"
+      },
+      {
+        "term": "Hradisko Žilín - Papradno"
+      },
+      {
+        "term": "Hradiská na Morave"
+      },
+      {
+        "term": "Hradiská v oblasti Slovenskej Brány"
+      },
+      {
+        "term": "Hradište (pri Partizánskom)"
+      },
+      {
+        "term": "Hradište pod Vrátnom"
+      },
+      {
+        "term": "Hričov - Mikov kopec"
+      },
+      {
+        "term": "Hronský Beňadik"
+      },
+      {
+        "term": "Hrádok nad Váhom"
+      },
+      {
+        "term": "Humno - najstaršia zmienka"
+      },
+      {
+        "term": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+      },
+      {
+        "term": "Istebné - Hrádok"
+      },
+      {
+        "term": "Jasenica - hradisko Predná Hôrka"
+      },
+      {
+        "term": "KNIEŽATÁ A KRÁLI SLOVENSKÝCH A MORAVSKÝCH SLOVANOV A ICH SÍDLA"
+      },
+      {
+        "term": "Kamenec / Bystričany - Kamenný pán"
+      },
+      {
+        "term": "Kamenec pod Vtáčnikom"
+      },
+      {
+        "term": "Kamenec/Bystričany: O starom Krištofovi"
+      },
+      {
+        "term": "Keltské hradiská ako remeselné centrá"
+      },
+      {
+        "term": "Klapy - keltské hradisko"
+      },
+      {
+        "term": "Klučov (CZ)"
+      },
+      {
+        "term": "Klátova Nová Ves - Šiance"
+      },
+      {
+        "term": "Kniha vzácnych drahocenností"
+      },
+      {
+        "term": "Konštantín Porfyrogenetes a jeho Moravy"
+      },
+      {
+        "term": "Konštrukcia Slovanských hradísk"
+      },
+      {
+        "term": "Kopčany - Slovenská časť Mikulčíc"
+      },
+      {
+        "term": "Kopčany - The only standing building from 9 th century"
+      },
+      {
+        "term": "Kostol sv. Margity Antiochijskej – najstaršia stojaca stavba na Slovensku"
+      },
+      {
+        "term": "Kováčstvo a železné hrivny v staroveku a v slovanskom období"
+      },
+      {
+        "term": "Krása slovanských šperkov"
+      },
+      {
+        "term": "Krížová výprava proti Slovanom (1147)"
+      },
+      {
+        "term": "Kusín"
+      },
+      {
+        "term": "Kyjevské listy"
+      },
+      {
+        "term": "Ladce/Tunežice/Nozdrovice"
+      },
+      {
+        "term": "Ladislav Nádaši - Jége - Svätopluk"
+      },
+      {
+        "term": "Legenda o Orgoňovej Kýčere - Mariková"
+      },
+      {
+        "term": "Libice - hlavné hradisko Slávnikovcov (CZ)"
+      },
+      {
+        "term": "Lipt. Štiavnica - Lúčny Hríb"
+      },
+      {
+        "term": "M. Szőke: Najnovšie výskumy v Blatnohrade a okolí"
+      },
+      {
+        "term": "Majcichov"
+      },
+      {
+        "term": "Malé Kozmálovce"
+      },
+      {
+        "term": "Malý Manín"
+      },
+      {
+        "term": "Mapy a Zoznam Slovanských Hradísk"
+      },
+      {
+        "term": "Mariková-Šimunky (kresba)"
+      },
+      {
+        "term": "Maroš Demko : KYJEVSKÝ PANTEÓN"
+      },
+      {
+        "term": "Maďari v písomných prameňoch"
+      },
+      {
+        "term": "Mikulčice / Kopčany (CZ/SK)"
+      },
+      {
+        "term": "Modra - Zámčisko (Kresba)"
+      },
+      {
+        "term": "Modra-Zámčisko (Tomáš Polonský)"
+      },
+      {
+        "term": "Mohyly na Slovensku a Európe"
+      },
+      {
+        "term": "Moravany nad Váhom - Hradište"
+      },
+      {
+        "term": "Most pri Bratislave - Prvá staroslovanská svätyňa na Slovensku"
+      },
+      {
+        "term": "Mužla - Čenkov"
+      },
+      {
+        "term": "Mytológia smrti u Slovanov a iných etník"
+      },
+      {
+        "term": "Najstarší recept na medovinu (14. storočie)"
+      },
+      {
+        "term": "Nakreslite pre nás hradisko"
+      },
+      {
+        "term": "Nemecko - Slovanské hradiská"
+      },
+      {
+        "term": "Nemecká (doba bronzová)"
+      },
+      {
+        "term": "Nezbudská lúčka - Gábrišová"
+      },
+      {
+        "term": "Nimnica - Holíš"
+      },
+      {
+        "term": "Nitra"
+      },
+      {
+        "term": "Nitra v 9. storočí - kresba"
+      },
+      {
+        "term": "Nitrianska Blatnica - Veľmožský dvorec"
+      },
+      {
+        "term": "Nitrianske Pravno - Vyšehrad"
+      },
+      {
+        "term": "Nižná Myšľa - mesto z doby bronzovej"
+      },
+      {
+        "term": "Nosice-Hradisko"
+      },
+      {
+        "term": "Novohrad  (Nógrád) (H)"
+      },
+      {
+        "term": "Nálezy z hradiska Dolná Mariková  - Šimunky (Široká)"
+      },
+      {
+        "term": "Náčelníci Veletov a Obodritov (Peter Šalkovský)"
+      },
+      {
+        "term": "Náčelníci srbských lužických a sprévansko-havolanských Slovanov (Peter Šalkovský)"
+      },
+      {
+        "term": "OPEVNENÉ SÍDLISKÁ OTOMANSKEJ KULTÚRY NA VÝCHODNOM SLOVENSKU"
+      },
+      {
+        "term": "Obišovce - Stráža"
+      },
+      {
+        "term": "Okopanec - Borinka"
+      },
+      {
+        "term": "Orava"
+      },
+      {
+        "term": "Orešany - Slepý Vrch"
+      },
+      {
+        "term": "Owidz"
+      },
+      {
+        "term": "P. Schreiber: Dolná Mariková – Široká (archeologický výskum 2016)"
+      },
+      {
+        "term": "P. Schreiber: Hatné - nový múr na Hrádku"
+      },
+      {
+        "term": "P. Schreiber: Včasnostredoveké osídlenie regiónu Marikovskej doliny"
+      },
+      {
+        "term": "P. Šalkovský: NÁČELNÍCI"
+      },
+      {
+        "term": "P.Jelínek: KERAMICKÉ IDOLY Z BUDMERÍC"
+      },
+      {
+        "term": "P.Satko: Kronika duší"
+      },
+      {
+        "term": "Periodizácia dejín Slovenska"
+      },
+      {
+        "term": "Perúnov háj pri Úbreži"
+      },
+      {
+        "term": "Peter Schreiber: Nález prsteňa z Hornej Marikovej"
+      },
+      {
+        "term": "Peter Schreiber: Osídlenie Žiliny a okolia od doby rímskej po stredovek. Lokalita Divinka."
+      },
+      {
+        "term": "Peter Schreiber: Šimúnky (Široká) -  Hradište - Koscelisko – možné súvislostí"
+      },
+      {
+        "term": "Peter Schreiber: „Druhý život\" pravekej kamennej industrie"
+      },
+      {
+        "term": "Pezinok: Starý zámok II"
+      },
+      {
+        "term": "Pobedim"
+      },
+      {
+        "term": "Pobedim 3D"
+      },
+      {
+        "term": "Podbranč - Starý hrad"
+      },
+      {
+        "term": "Podtureň"
+      },
+      {
+        "term": "Pohanská - Keltské Oppidum"
+      },
+      {
+        "term": "Pohanská viera Slovanov a jej dôkazy v archeologických nálezoch"
+      },
+      {
+        "term": "Ponická Huta - Na kláštore"
+      },
+      {
+        "term": "Pov. Bystrica - Šibeničný vŕšok"
+      },
+      {
+        "term": "Pov. Bystrica – Dedovec (opevnené sídlisko)"
+      },
+      {
+        "term": "Povesti viazané k polohám Hradište a Koscelisko"
+      },
+      {
+        "term": "Povesť - Modľatín"
+      },
+      {
+        "term": "Prašník - Osada u Fajnorov"
+      },
+      {
+        "term": "Prašník - Tlstá hora"
+      },
+      {
+        "term": "Prečo to vlastne robím?"
+      },
+      {
+        "term": "Pribinova družina"
+      },
+      {
+        "term": "Prokopios (6. storočie)"
+      },
+      {
+        "term": "Prosiek - Hrádok"
+      },
+      {
+        "term": "Prosné - Keltské obetisko"
+      },
+      {
+        "term": "Prosné - Zlatý kôň"
+      },
+      {
+        "term": "Pružina - Kresba"
+      },
+      {
+        "term": "Pružina - Mesciská"
+      },
+      {
+        "term": "Pôvod význam a história najstarších hradísk"
+      },
+      {
+        "term": "Robert Müller: Okolie rieky Zala v 8.-10. stor."
+      },
+      {
+        "term": "Rotunda Blatnický Ďurko"
+      },
+      {
+        "term": "Rozdelenie veľkomoravských hradísk na Slovensku"
+      },
+      {
+        "term": "Rybník - Krivín"
+      },
+      {
+        "term": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+      },
+      {
+        "term": "Sedliacka Dubová - Žiar"
+      },
+      {
+        "term": "Selce - Hrádok"
+      },
+      {
+        "term": "Seňa"
+      },
+      {
+        "term": "Sitno"
+      },
+      {
+        "term": "Skalica - Kalvária"
+      },
+      {
+        "term": "Skalka - záhadný kostolík na hradisku"
+      },
+      {
+        "term": "Skalka Nad Váhom"
+      },
+      {
+        "term": "Skýti a ich Kurhany"
+      },
+      {
+        "term": "Skľabiňa - Mačací hrádok"
+      },
+      {
+        "term": "Slavic Wealth"
+      },
+      {
+        "term": "Slavic pagan Sanctuaries"
+      },
+      {
+        "term": "Slavic wapons (bottom of article)"
+      },
+      {
+        "term": "Slovak History"
+      },
+      {
+        "term": "Slovanská usadlosť 9. st."
+      },
+      {
+        "term": "Slovanské hradiská v Rakúsku (A)"
+      },
+      {
+        "term": "Slovanskí Bohovia v písomných prameňoch"
+      },
+      {
+        "term": "Smolenice - Molpír"
+      },
+      {
+        "term": "Spis O Obrátení Bavorov a Korutáncov"
+      },
+      {
+        "term": "Spissky Stvrtok - Slovak Mykonos"
+      },
+      {
+        "term": "Spišské Tomášovce"
+      },
+      {
+        "term": "Starobylý Rastislavov Devín a správa o ňom z roku 871"
+      },
+      {
+        "term": "Staré Město - Velehrad (CZ)"
+      },
+      {
+        "term": "Starý Koňuš"
+      },
+      {
+        "term": "Starý Plášť (Plavecký Mikuláš)"
+      },
+      {
+        "term": "Starý Tekov"
+      },
+      {
+        "term": "Strašný Muromar"
+      },
+      {
+        "term": "Stupava - Dračí hrádok"
+      },
+      {
+        "term": "Stupné - Žeravica"
+      },
+      {
+        "term": "Sučany - Skala"
+      },
+      {
+        "term": "Svätý Jur-Neštich"
+      },
+      {
+        "term": "Súmrak Veľkej Moravy - povesť z 10. storočia"
+      },
+      {
+        "term": "Tajomné znaky na skalách na Považí"
+      },
+      {
+        "term": "Tisícročné hradiská Slovanov"
+      },
+      {
+        "term": "Tlmače - Festunok"
+      },
+      {
+        "term": "Tragédia úspešného obsadenia vlasti"
+      },
+      {
+        "term": "Trenčianske Teplice - Čertova Skala"
+      },
+      {
+        "term": "Trenčín - Veľkomoravské hradisko"
+      },
+      {
+        "term": "Trzcinica (PL)"
+      },
+      {
+        "term": "Turie-Hrádek"
+      },
+      {
+        "term": "Turčianska Blatnica – Plešovica"
+      },
+      {
+        "term": "Turčianske Jaseno - Hradište"
+      },
+      {
+        "term": "Unín - Zámčisko"
+      },
+      {
+        "term": "Upíri na Veľkej Morave"
+      },
+      {
+        "term": "Veľký Tríbeč"
+      },
+      {
+        "term": "Videá"
+      },
+      {
+        "term": "Visegrad - ďalšie Veľkomoravské hradisko v Maďarsku (HU)"
+      },
+      {
+        "term": "Visolaje - slovanský mohylník"
+      },
+      {
+        "term": "Vojenstvo na Veľkej Morave a taktika obrany hradísk"
+      },
+      {
+        "term": "Vráble-Fidvár - mesto z doby bronzovej (B)"
+      },
+      {
+        "term": "Vršatecký kováč z Veľkej Moravy"
+      },
+      {
+        "term": "Vyšný Kubín - OSTRÁ SKALA"
+      },
+      {
+        "term": "Vyšný Kubín - Tupá skala"
+      },
+      {
+        "term": "Víťazstvo"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň druhý - Mys Arkona"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň prvý Gross Raden"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Raduš"
+      },
+      {
+        "term": "Výprava Arkona 2012 - Deň tretí - Wollin"
+      },
+      {
+        "term": "Výprava Poľské hradiská - Krakow a Bnin"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 - 2. časť"
+      },
+      {
+        "term": "Výprava k Vikingom 2013 1. časť"
+      },
+      {
+        "term": "Výprava poľské hradiská 2 Biskupin"
+      },
+      {
+        "term": "Výprava poľské hradiská 3 Gdansk"
+      },
+      {
+        "term": "Wenecja"
+      },
+      {
+        "term": "Wiszogrod"
+      },
+      {
+        "term": "Wogastisburg"
+      },
+      {
+        "term": "Z.S.Rajtár: Výsledky výskumu na Žibrici"
+      },
+      {
+        "term": "Zbrane Nitranov v časoch Veľkej Moravy"
+      },
+      {
+        "term": "Zbrane Nitranov za čias Veľkej Moravy"
+      },
+      {
+        "term": "Zemianske Podhradie - Martákova skala"
+      },
+      {
+        "term": "Zemianske Podhradie – Hradišťá"
+      },
+      {
+        "term": "Zemplín"
+      },
+      {
+        "term": "Zemplín - Keltské (dácke?) obetisko"
+      },
+      {
+        "term": "Zvolen - Môťová"
+      },
+      {
+        "term": "Zákonník Veľkej Moravy (Zakon Sudnyj Ljudem)"
+      },
+      {
+        "term": "Zámčisko - Modra"
+      },
+      {
+        "term": "Zámčisko - Nová Baňa"
+      },
+      {
+        "term": "Zázračný dážď zachránil Rimanov na Slovensku"
+      },
+      {
+        "term": "Čertova Skala (Trenčianske Teplice)"
+      },
+      {
+        "term": "Š. Meliš: Stopy pohanských bohov"
+      },
+      {
+        "term": "Šarišské Sokolovce"
+      },
+      {
+        "term": "Štefan Janšák: Nedobytné hradiská"
+      },
+      {
+        "term": "Štefanovičová: SLOVENSKO V ČASOCH SVÄTOPLUKOVÝCH"
+      },
+      {
+        "term": "Šútovo/Ratkovo - Hradisko"
+      },
+      {
+        "term": "Železník (Dolné Orešany)"
+      },
+      {
+        "term": "Žibrica"
+      },
+      {
+        "term": "Žilina - Zástranie - Stráník"
+      },
+      {
+        "term": "Živý starovek na Havránku"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Slovanské Hradiská"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": "Slavic Hillforts and Fortified Settlements in Slovakia and related countries from 7th to 10th Century"
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "http://www.hradiska.sk/feeds/posts/default"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/-/Nitrianske+Pravno+-+Vy%C5%A1ehrad?alt=json&max-results=1"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "http://www.hradiska.sk/search/label/Nitrianske%20Pravno%20-%20Vy%C5%A1ehrad"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Orgon"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/01396912608531297025"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "32",
+          "height": "32",
+          "src": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRf79q2mlg3o6hsyWbYMCCgv1WaA6pM0mtkWB0QdJ76W64emXoS0lwpSlUw9K5iinuoAVrX4RwIXY0RoOkY_QRl8Yy2oMkJAodsY_W7_GnMHXspVw3fuuBpiYA7JlSOlY/s220/SH+Kruh+s+dlznom1.JPG"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "1"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "1"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-6818054921907446479.post-1087325857233999639"
+        },
+        "published": {
+          "$t": "2013-10-03T22:58:00.002+02:00"
+        },
+        "updated": {
+          "$t": "2015-05-13T08:33:15.340+02:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "Nitrianske Pravno - Vyšehrad"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+        },
+        "content": {
+          "type": "html",
+          "$t": "<div class=\"western\" style=\"margin-bottom: 0cm; text-align: justify;\">\nJuhozápadná\nčasť Malej Fatry prechádza na juhu do zalesneného pohoria Žiar.\nNa hrebeni pohoria Žiar, ktorý je hranicou medzi Turcom a Nitrou,\nsa nachádza výšinné hradisko Vyšehrad v nadmorskej výške 829\nm, ktoré patrí medzi významné archeologické a prírodné\nlokality horného Ponitria a Turca.</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nNajpohodlnejší\na historicky najvýznamnejší priechod z hornej Nitry do Turca je\nten, čo vedie cez strednú časť Žiaru pri obci Nedožery a vo\nvýške asi 300 m cez obec Brezany takmer východným smerom po grúni\naž na hrebeň pohoria Žiaru, vo výške 689 m. Asi v polovici cesty\nbol v minulosti zájazdný hostinec. Táto cesta však nie je jediným\nprechodom z hornej Nitry do Turca nadväzujúcim na tzv. Soľnú\nalebo Jantárovú cestu. Druhý priechod viedol z Nitrianskeho Právna\ncez Vyšehradné popod Vyšehrad do obce Jasenovo a cesta pokračovala\nsmerom na Slovenské Pravno, kade vedie teraz hlavná cesta.</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<iframe frameborder=\"0\" height=\"350\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" src=\"https://maps.google.com/?ie=UTF8&amp;ll=48.877234,18.699653&amp;spn=0.011318,0.031006&amp;t=h&amp;z=16&amp;vpsrc=6&amp;output=embed\" width=\"425\"></iframe><br />\n<small><a href=\"https://maps.google.com/?ie=UTF8&amp;ll=48.877234,18.699653&amp;spn=0.011318,0.031006&amp;t=h&amp;z=16&amp;vpsrc=6&amp;source=embed\" style=\"color: blue; text-align: left;\">Zväčšiť mapu</a></small></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nVyšehrad\npre svoju prírodnú osobitosť i historický význam a pre\nmimoriadne dôležité zemepisné a strategické postavenie na\npredele dvoch krajov pri prastarej obchodnej ceste stal sa chránenou\nprírodnou i archeologickou pamiatkou. Patrí do katastrálneho\núzemia Nitrianskeho Pravna, v jeho väčšej blízkosti sa však nachádza &nbsp;obec Jasenovo.</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx0_Zof51wjeEn-IsByg9l2F0EFccMDlsejuYmC7G0RQV4qkXML5yq9ybdu4g01jQep5MteOOH86STx8635eeXCWgFyv2QlRAk_XcfUJj0SZCuhVRnS1dxlE71plh9M_WM0nHliQYATRQ/s1600/voj+map.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx0_Zof51wjeEn-IsByg9l2F0EFccMDlsejuYmC7G0RQV4qkXML5yq9ybdu4g01jQep5MteOOH86STx8635eeXCWgFyv2QlRAk_XcfUJj0SZCuhVRnS1dxlE71plh9M_WM0nHliQYATRQ/s320/voj+map.jpg\" width=\"312\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Vyšehrad, vyznačený na mape 2. vojenského mapovania</td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<b>Opis hradiska</b></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nHradisko\nje na južnej a východnej strane ohraničené strmými skalami, ale\naj zo západnej strany je pomerne ťažký prístup. Celková plocha\nje 455 árov. Celý areál hradiska má mocné valové opevnenie\nvzájomne od seba oddelené sústavou valov na štyri samostatné\nčasti, v ktorých môžeme jasne vidieť dvorce.</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnb3QMFjDj-Ek8Xeaqro6b_1TeOMJMQjfvWWPZSxTwHjTWl_B9H_HiYKU1hKI_UDM5p2Y7qa9eiYkFOkSdoxKiEO3iDgzhe-NVGh_YZRsp4CYT6bXiivXxRm54_2PffouYYFeCPmIokAo/s1600/mapka+s+c%CC%8Ci%CC%81slami.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"195\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnb3QMFjDj-Ek8Xeaqro6b_1TeOMJMQjfvWWPZSxTwHjTWl_B9H_HiYKU1hKI_UDM5p2Y7qa9eiYkFOkSdoxKiEO3iDgzhe-NVGh_YZRsp4CYT6bXiivXxRm54_2PffouYYFeCPmIokAo/s320/mapka+s+c%CC%8Ci%CC%81slami.jpg\" width=\"320\" /></a></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisdnJULsfJpNUsCdsfsd71YEj12vUcuBigffq7hWBpX0mxycXBDeeuQJnejNYSDCB-3-0ELV_5Lo1kvxe4zTrfWoBMBTjw2e6EVSidZR2iAUtmYOiefZJhj4uRPDDruTtyMrhRwKtTGeE/s1600/Vy%C5%A1ehrad1.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisdnJULsfJpNUsCdsfsd71YEj12vUcuBigffq7hWBpX0mxycXBDeeuQJnejNYSDCB-3-0ELV_5Lo1kvxe4zTrfWoBMBTjw2e6EVSidZR2iAUtmYOiefZJhj4uRPDDruTtyMrhRwKtTGeE/s320/Vy%C5%A1ehrad1.JPG\" width=\"216\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Model hradiska podľa M. Remiášovej. Autor fotografie: Pavol Remiáš, TASR</td></tr>\n</tbody></table>\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE_z4TH5Pr7g5fD2gOQjBZktZv6jmBlxrUD4e5QQSFwUrb9NSaCjU_fMeuWVBgNbSh3bwQu1nz76mJIaRELFLP4-tL3U4qFGXRUeNXusVPKXxs39hyphenhyphen_w6QaOPm6IIxC-iySy1hSNFMCbg/s1600/Vy%C5%A1ehrad12.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"215\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE_z4TH5Pr7g5fD2gOQjBZktZv6jmBlxrUD4e5QQSFwUrb9NSaCjU_fMeuWVBgNbSh3bwQu1nz76mJIaRELFLP4-tL3U4qFGXRUeNXusVPKXxs39hyphenhyphen_w6QaOPm6IIxC-iySy1hSNFMCbg/s320/Vy%C5%A1ehrad12.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Model hradiska podľa M. Remiášovej. Autor fotografie: Pavol Remiáš, TASR</td></tr>\n</tbody></table>\n</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<b><u>Prvá</u></b>,\nnajvyššie položená časť opevnenia asi 40 m dlhá je predelená\nnízkym valom. Od druhého dvorca je táto časť oddelená valom a\nhlbokou priekopou. V tejto časti hradiska stál bezpochyby stredoveký hrádok v 12.-14. storočí, resp. jeho najvyššia časť, avšak z logiky a zásad využívania terénnych daností za účelom obrany a &nbsp;opevňovania je zrejmé, že horná časť musela byť opevnená a obývaná aj v predchádzajúcich obdobiach - Veľkej Moravy, laténu a doby halštatskej/bronzovej. &nbsp;</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<b><u>Druhá</u></b>,\nsamostatná časť je zaujímavá svojím takmer pravidelným\nobdĺžnikovým tvarom [60X40 m], so vstupnou bránou zo SZ strany. V tejto časti bolo zistené osídlenie slovanské, stredoveké a praveké.</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<b><u>Tretia</u></b>\nčasť hradiska má najčlenitejší terén, ktorý sa z južnej\nstrany smerom k severnej terasovité znižuje. Aj tento dvorec je od\nostatných oddelený valom. Aj táto časť hradiska bola využívaná slovanmi v období Veľkej Moravy a aj po jej zániku.</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<b><u>Štvrtá</u></b>\nčasť hradiska je najnižšie položená. Jej nadmorská výška sa\npohybuje v 770 metroch. V tejto časti je i vstup na hradisko zo\nsevernej strany. Na JZ strane sa tu nachádza samostatný útvar s\nrozmermi 23X50 m, ohraničený výrazne z východnej i severnej\nstrany valom a priekopou, pri výkope ktorej vznikol i nízky\nvonkajší val. Je to pravdepodobne i funkčne samostatná časť\nhradiska vybudovaná v poslednom období existencie Vyšehradu, čo\nmožno na základe archeologických nálezov zaradiť do 15.\nstoročia. Našli sa tu však aj predmety z konca doby bronzovej.<br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9cqnpCEIG-KOI1giEsX8KCkO5i_r8bERLDfOi5JOyPUDugPQr5T8a6oXExTNWYIKMGqXX42K8De5bFeoX2Uz-rNPUwxQdPThoiwczvil2ASIpmCmvmlltiFUihHcaTVgtsJtErh2_oj8/s1600/fotka+remia%C5%A1.JPG\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"221\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9cqnpCEIG-KOI1giEsX8KCkO5i_r8bERLDfOi5JOyPUDugPQr5T8a6oXExTNWYIKMGqXX42K8De5bFeoX2Uz-rNPUwxQdPThoiwczvil2ASIpmCmvmlltiFUihHcaTVgtsJtErh2_oj8/s320/fotka+remia%C5%A1.JPG\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Vyšehrad. Autor fotografie: Pavol Remiáš, TASR</td></tr>\n</tbody></table>\n</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nAko prvý\nrobil výskum hradiska  K. A. Medvecký a našiel tam zvyšky\nkeramiky, kachlice, železnú strelku a klince. Opis a zameranie\nVyšehradu urobil nám dobre známy  Š. Janšák tiež na konci 20.\nrokov. O starších záznamoch o Vyšehrade vieme od T. Lehotského,\nP. Petica, J. Nováka a P.   Floreka. Menší výskum tu vykonal aj \nDr. A. Petrovský-Šichman roku 1963.<br />\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNi_fqQvR03qwOulP5PkCJDMGApmP5uN-fAz-VtP7ZNg5mN__ZUimDqaLxFX5mQRNp9dQMR9oSmsm6EvTgc66ZxZYGIMO-Sjx2sbliVEb7HBPW27HNkNBBObwT8biZXb_6znuzdg3dNl4/s1600/11212621_648454188617845_4392475089648575387_o.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNi_fqQvR03qwOulP5PkCJDMGApmP5uN-fAz-VtP7ZNg5mN__ZUimDqaLxFX5mQRNp9dQMR9oSmsm6EvTgc66ZxZYGIMO-Sjx2sbliVEb7HBPW27HNkNBBObwT8biZXb_6znuzdg3dNl4/s320/11212621_648454188617845_4392475089648575387_o.jpg\" width=\"320\" /></a></div>\n</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<b>Štefan\nJanšák v roku 1928 popísal hradisko nasledovne: \n</b></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<i>Zemepisný\ntvar povrchu Vyšehradu má veľkú podobnosť s ľudskou šľapajou,\nvytlačenou do piesku: strana JV tvorí jej prsty, strana SZ jej\npätu. Tomuto prirodzenému tvaru prispôsobilo sa i vedenie valov,\nktorým sú vytvorené vlastne dve úplne samostatné hradiská:  na\ndolnej plošine, ležiace o 49 m nižšie než vrchol Vyšehradu, a\nnádvoria II, III, IV, V, tvoriace spolu druhú skupinu. Hradisko \nobohnané je na SV a JV dvojitými paralelnými valmi a b c, dlhými\n75 m, zlomenými v pravom uhle. Na dvoch ostatných stranách je\nskalný útes, prebiehajúci celou svojou dĺžkou takmer vodorovne.\nVýška valov a hĺbka priekopu medzi nimi je  nepatrná, sotva 50\ncm.  Hradisko složené z nádvorí II až V obohnané je na\nvonkajšej strane obvodnými valmi  a priečnymi valmi, no rozdelené\nna štyri nádvoria. Výškové pomery týchto valov sú\nzaujímavejšie. Obvodový val má svoje najnižšie miesto  na kóte\n790 a odtiaľ stúpa po oboch stranách až na kótu 829.  Podobne i\npriečne valy majú značný spád, prispôsbujúc sa nerovnostiam\npovrchu. Len vrcholové valy majú v jadre hradiska polohu takmer\nvodorovnú. Relatívna výška obvodových valov na vnútornej strane\nje 2 až 2,5 m. Dno priekopy je pod hrebeňom valu asi 3 m. Valy,\nobkľučujúce nádvoria IV,  V sú vysoké 0,5 až 1 m. (</i>pozn.\nOrgoň: archeológovia v 70. rokoch už nespomínajú val medzi IV a\nV nádvorím<i>) Smerom navonok nedá sa, pravda, výške hovoriť,\nnakoľko umele vytvorený svah valov splýva s priľahlým\nprirodzeným bokom hory. Dĺžka valov tohoto druhého hradiska činí:\nobvodové 460 m, priečne 120 m. \n</i></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<i><br /></i></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdq0cwR40o5hYUkGJ7Z2LRRm0kv-hGcv6IALXAbthTeSoFSXfbEOU9dDITPAY8ZOKWiHDGTVYAS0AOzCxAkZpL0kSHJXPpcLPSJp8jFfpZVv79JgUqWI_5Emt-bR7Qeo97vzKrGE_cmY/s1600/jans%CC%8Ca%CC%81k+na%CC%81kres.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"238\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHdq0cwR40o5hYUkGJ7Z2LRRm0kv-hGcv6IALXAbthTeSoFSXfbEOU9dDITPAY8ZOKWiHDGTVYAS0AOzCxAkZpL0kSHJXPpcLPSJp8jFfpZVv79JgUqWI_5Emt-bR7Qeo97vzKrGE_cmY/s320/jans%CC%8Ca%CC%81k+na%CC%81kres.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Plán hradiska od Štefana Janšáka z roku 1928</td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nDr. Marta Remiášová\nuvádza vo svojom článku veľmi zaujímavú úvahu o tom, že názov\nVyšehrad, jeho mimoriadne dôležité zemepisné a strategické\npostavenie na predele dvoch krajov i pri prastarej ceste do Povislia\ndáva tušiť, že tu treba hľadať pôvodné kmeňové stredisko\ntunajších Slovanov. &nbsp;Pavel Dvořák zase vo svojich Stopách dávnej minulosti 4 na strane 68 uvádza, že <i>\"Poznanovci mali hlavné sídlo na Hornej Nitre, možno na Vyšehrade\".</i></div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<b>Výskum Dr. Remiášovej</b></div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div class=\"western\" style=\"margin-bottom: 0cm; text-align: justify;\">\nRiadny archeologický\nvýskum  na hradisku uskutočnila Marta Remiášová v 70. rokoch 20.\nstoročia. \n</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nV roku\n1970 zachytili v najvyššie položenej časti hradiska stredoveké\nosídlenie s dreveným opevnením, ktoré zničil požiar. Najmladšiu\nfázu osídlenia určujú mince z 15. storočia. Požiar zničil aj\npec doloženú sústredeným množstvom keramického materiálu a\nkachlíc. Sonda, ktorá pretínala val, upozornila na to, že val,\nkde sa v najnižšej vrstve nachádzali laténske črepy, bol\nprebudovaný v stredoveku, čo dokladali i nálezy mincí. Vnútorný\nval hornej časti hradiska mal drevenú konštrukciu a z východnej i\nsevernej strany za valom na vonkajšej strane bola priekopa.\nVyhlbovaním priekopy vznikol pravdepodobne vonkajší val, ktorý\nnie je výrazný. Nálezy z tejto časti sú prevažne z 12. až 15.\nstoročia, nachádzalo sa tu množstvo rozličných predmetov zo\nželeza: konské postroje, pánty, kľúče, reťaze, rydla, rukoväť\nzo šable, krúžky, kliny, nože a veľký počet klincov. Z iného\nmateriálu tu boli kostené ozdoby, hlinené prasleny a 25 mincí. \n</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNSZcgC1dpfp9Fj92lAen9z1j95i-dZft_B15WHidhaM2gPXHsvMW1ty5mCWsfaTpouVXoa54c8VAm8-3Yuy7OkX4I8oiZd7Rd9ZyosLMbBT5L7ewP5IO905RaYWlFR3BgwSDYz6tqYQ/s1600/scan0021.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"264\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoNSZcgC1dpfp9Fj92lAen9z1j95i-dZft_B15WHidhaM2gPXHsvMW1ty5mCWsfaTpouVXoa54c8VAm8-3Yuy7OkX4I8oiZd7Rd9ZyosLMbBT5L7ewP5IO905RaYWlFR3BgwSDYz6tqYQ/s320/scan0021.jpg\" width=\"320\" /></a></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<span style=\"font-style: normal;\">V\nrámci zisťovacieho výskumu sa <b>v </b></span><span style=\"font-style: normal;\"><span style=\"background: transparent;\"><b>druhej\na čiastočne v tretej</b></span></span><span style=\"font-style: normal;\"><b>\nčasti hradiska nachádzal slovanský materiál</b>. Podarilo sa tu\nzískať</span> keramický materiál a zvyšky dreva najmä z brány\na valu. Najvýznamnejší materiál bol práve <b>z 9. a 10. storočia</b>\nzastúpený <b>ostrohami, sekerami, hrivnou a niektorými železnými\npredmetmi (klince, nožíky, časti konského postroja</b>). Aj v tejto\nčasti hradiska je zastúpené 13.—15. storočie. Výskumom sa\npodarilo zachytiť <b>vstupnú bránu</b> do druhej časti hradiska s\nkolovými jamami pre bránové stĺpy a časťou cesty s kamennou\ndlažbou. \n</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDdAR8u-0V_LsAzFfr-PP-ymVuXLZizRQXxFzAtS-vfHj2plWxTf2bS7Uffv-EA1Zh-hJ6YKHS3EJiO2m7UwngSgBCLgVXYvOTNVB6y_PVt0yEzG0oUuy753mfOUIN-f-g9TgDnW5UvKA/s1600/scan0022.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDdAR8u-0V_LsAzFfr-PP-ymVuXLZizRQXxFzAtS-vfHj2plWxTf2bS7Uffv-EA1Zh-hJ6YKHS3EJiO2m7UwngSgBCLgVXYvOTNVB6y_PVt0yEzG0oUuy753mfOUIN-f-g9TgDnW5UvKA/s320/scan0022.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSZJXKRf3X_MOqiVTLg7D-pT-V_Vxa-9K-wS6WfWgBLul77oYRwPGALJeGAQRuw4yZynQK91xnwQzCkzR4Cwkt7AgZ9GhoO-LXLEo4uCm-vEKfd3hznNL3w6_sHipBizuxvRqZfs7EGkc/s1600/scan0023.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"262\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSZJXKRf3X_MOqiVTLg7D-pT-V_Vxa-9K-wS6WfWgBLul77oYRwPGALJeGAQRuw4yZynQK91xnwQzCkzR4Cwkt7AgZ9GhoO-LXLEo4uCm-vEKfd3hznNL3w6_sHipBizuxvRqZfs7EGkc/s320/scan0023.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4tZAfa9vMS9YWnv8tCw-tgEk50ZwbuUY0fGbNYzwLThE9TOmh-mAKEweXmRGml6U6XtTlIPzZ2wljekGp0i9E840Hu3RMElHrp1z9DlgmsR2YaZH0EFn_glEyYKZi_9NQUpIkBNwRi34/s1600/scan0024.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"277\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4tZAfa9vMS9YWnv8tCw-tgEk50ZwbuUY0fGbNYzwLThE9TOmh-mAKEweXmRGml6U6XtTlIPzZ2wljekGp0i9E840Hu3RMElHrp1z9DlgmsR2YaZH0EFn_glEyYKZi_9NQUpIkBNwRi34/s320/scan0024.jpg\" width=\"320\" /></a></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nV\nmiestach južnej strany hradiska, kde sa stretajú valy a naznačujú\nmožnosť vstupu do slovanskej časti hradiska bolo zistené \nopevnenie z obdobia laténskeho osídlenia púchovskou kultúrou. V\nčase budovania opevnenia išlo najpravdepodobnejšie o jeden val,\nprechádzajúci pozdĺž južnej strany hradiska, ktorá je pomerne\nťažko prístupná. Val bol prerušený a upevnený v 9. storočí. \nPôvodne bol val  stavaný z veľkých kameňov vyplnených drobným\nkamením a hlinou. Nálezy kolových jám a zvyšky trámov\nupozorňujú, že<b> kamenný múr mal drevenú konštrukciu.</b></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<b><br /></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYzQ4jHT_KyFVOQAK7yHkrv0E725pakSzEbIycOWReasuHbOpma9IpLxxYjMJEIK79W24gFM4MOaf2gFIxHo4tSgsCKkniBwtq7EoBX3tDT-sWu47Gm2mP_60hKDMOF0wofvIqE6pP0dA/s1600/scan0026.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"281\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYzQ4jHT_KyFVOQAK7yHkrv0E725pakSzEbIycOWReasuHbOpma9IpLxxYjMJEIK79W24gFM4MOaf2gFIxHo4tSgsCKkniBwtq7EoBX3tDT-sWu47Gm2mP_60hKDMOF0wofvIqE6pP0dA/s320/scan0026.jpg\" width=\"320\" /></a></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<b><br /></b></div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS6UJxVA8HH9WXWo-1dQY98t0LEj7q6AeVuJ4GD8kL6EX2HiYBmZvhQMVASELqu6LmAUUbNYWysY60uVOFKUdDMYJ9L2ACYeghiuZVhEO9dzu0RuZEfWrZqUnkej94UKxb-b2SVgP3dIY/s1600/etrusk.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS6UJxVA8HH9WXWo-1dQY98t0LEj7q6AeVuJ4GD8kL6EX2HiYBmZvhQMVASELqu6LmAUUbNYWysY60uVOFKUdDMYJ9L2ACYeghiuZVhEO9dzu0RuZEfWrZqUnkej94UKxb-b2SVgP3dIY/s320/etrusk.jpg\" width=\"170\" /></a></div>\n<br />\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nV\nnajnižšie položenej časti hradiska bola zachytená najstaršia\nfáza osídlenia, ktorú máme doloženú nálezmi bronzových ihlíc,\nbronzovým kosákom, bronzovou strelkou s krídelkami a zvyškami\nhalštatskej keramiky.</div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<b>Zhrnutie výskumov \n</b></div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nNiekoľkoročný\narcheologický výskum nám jednoznačne potvrdzuje, že život na\nVyšehrade pulzoval veľmi živo. <b>Vznik hradiska</b> môžeme klásť na\nzáklade niektorých nálezov bronzových predmetov až do <b>konca doby\nbronzovej a začiatku doby železnej</b>. Potvrdzujú to predovšetkým\nbronzové kosáky, bronzová surovina, ihlice, prstene a zvyšky\nkeramiky. Územie hornej Nitry malo vždy vhodnú polohu i klimatické\npodmienky, a preto aj Vyšehrad je jednou z mnohých lokalít, ktoré\nboli osídlené už v prvom tisícročí p. n. 1., okolo roku 700 p.\nn. 1. Najstaršie obyvateľstvo na Vyšehrade sídlilo <b>na najnižšie\npoloženej časti areálu hradiska</b>. Podstatne výraznejšie bolo\nosídlené hradisko v mladšej dobe železnej <b>(latén)</b> a hlavnú časť\nmateriálu tvorí keramika v zlomkoch z veľkých zásobníc, z\nvázovitých nádob.  Z ostatných materiálov sú to fragmenty\nsklenených náramkov, spony, krúžky, veľký železný nôž a iné\ndrobné železné predmety dennej potreby. Lokalitu možno pre toto\nobdobie osídlenia zaradiť k ostatným laténskym hradiskám hornej\nNitry, ktoré sú svedectvom expanzie <b>keltsko-dáckeho obyvateľstva.</b></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<b><br /></b></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmEzIytlwb1PW1KaVrzW3JDhcZ7o4St3465BKOH6ieKWb3tQO-XaXEMJOq8IDZ-UYEHwj8Jj7eBK-RQE1Pcd_cp_UjsISXtSr0QjbolEWCgFfud9r0BD_twWJrGRmZMEvt9ucXMPjKxQE/s1600/scan0027.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"241\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmEzIytlwb1PW1KaVrzW3JDhcZ7o4St3465BKOH6ieKWb3tQO-XaXEMJOq8IDZ-UYEHwj8Jj7eBK-RQE1Pcd_cp_UjsISXtSr0QjbolEWCgFfud9r0BD_twWJrGRmZMEvt9ucXMPjKxQE/s320/scan0027.jpg\" width=\"320\" /></a></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<b><br /></b></div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nTo, že\n<b>Vyšehrad bol významným centrom slovanského obyvateľstva v období\nVeľkej Moravy</b> a čiastočne i po jej rozpade, dokazujú výrazne\ndatovacie nálezy z tohto obdobia. Možno upozorniť na <b>keramiku,\nželezné náradie, sekerky, nožíky, kovania z vedierka, ostrohy,\nhrivnu, železnú misu </b>a ostatné predmety. Pri výskume sa zistilo\naj to, že slovanské obyvateľstvo si pôvodné laténske hradisko\nprebudovalo podľa svojich potrieb.&nbsp;Na hradisku sa našli objekty so zvyškami ohnísk, mazanice, množstvo poľnohospodárskeho a remeselného náradia. Žili a pracovali tu poľnohospodári, pastieri, kováči, tkáči a iní remeselníci. Zbrane, výstroj a výzbroj jazdcov sú dôkazom existencie vojenskej družiny, ktorá chránila obyvateľstvo, ktoré žilo na hradisku a v okolitých slovanských osadách.Vzájomne na seba nadväzujúce\nštyri dvorce hradiska sa v jednotlivých obdobiach, keď máme\nzachytenú existenciu obyvateľstva, nevyužívali rovnako. Menej výrazné etapy\nosídlenia máme z 10. a 11. storočia.</div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwEWBCvt0jB6FEt3nQ1g47uF0fxk_4advEXgHcS4oEtxtPJnP6Znm9rJBpUC7Xf1aPmTDBjAuWvFyzDsyk2gBCbA22F-EV1yOnn8O619jPtojc1zrwEkr2zzbM7TeXS3nugRh2hOQtfD0/s1600/scan0028.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwEWBCvt0jB6FEt3nQ1g47uF0fxk_4advEXgHcS4oEtxtPJnP6Znm9rJBpUC7Xf1aPmTDBjAuWvFyzDsyk2gBCbA22F-EV1yOnn8O619jPtojc1zrwEkr2zzbM7TeXS3nugRh2hOQtfD0/s320/scan0028.jpg\" width=\"303\" /></a></div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nV <b>12.—14.\nstoročí</b> nachádza Vyšehrad znovu svoje uplatnenie a celý areál\nhradiska, jeho opevnenie bolo prebudované a opravené na mieste\npredchádzajúceho valového opevnenia. Z celého tohto obdobia\npochádza veľké množstvo nálezov. Je to keramika, železné\npredmety dennej potreby, Časti jazdeckého výstroja, remeselnícke\nnáradie i výrobky, súčasti odevu i poľnohospodárske náradie, v\nnemalej miere sú to zbrane. Všetky tieto predmety dokazujú aktívny\nživot obyvateľstva na hrade. Podľa zistenej situácie\npredpokladáme, že tu bol vybudovaný hrad, v areáli ktorého stáli\nzrubové stavby. Už z 13. storočia poznáme písomné správy o\nVyšehrade, keď celé okolie — časť Turca a nitrianskej strany —\ntvorilo osobitný administratívny celok, ktorý <b>spravoval rod\nDiviackovcov</b>. Z roku 1277 existuje správa, že po tatárskom vpáde\nsa Vyšehrad spomínal už len ako bývalý hrad. Ladislav IV. dáva\nmagistrovi Barleovi z  Diviak  a jeho  bratom Bošany výmenou za\nmajetky v Turci, medzi nimi i Vyšehrad, ktorý im odňal ešte jeho\npredchodca Belo IV. (1235—1270) s prísľubom náhrady. Spolu s\npanstvom Diviackovcov na Vyšehrade zanikla v rokoch 1235 až 1277 i\njeho sláva.</div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLDPKS9tZMFubyaEKaMwVc39LU2XK77cy86rirh7K1Qx477Ro4JSYCqTnYn45XIJ5qwYVQ9oxBLtVzoYXDw7mvLbmgsx9Uwl-g2cZn9DtG7ENbVFk9eepUwDy2f3JdniZc8OyInRCOJY4/s1600/truba+vysehrad.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"173\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLDPKS9tZMFubyaEKaMwVc39LU2XK77cy86rirh7K1Qx477Ro4JSYCqTnYn45XIJ5qwYVQ9oxBLtVzoYXDw7mvLbmgsx9Uwl-g2cZn9DtG7ENbVFk9eepUwDy2f3JdniZc8OyInRCOJY4/s320/truba+vysehrad.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Z knihy: Pavel Dvořák: Odkryté dejiny</td></tr>\n</tbody></table>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br /></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\nPätnáste\nstoročie bolo politicky rušné. <b>Husitské výpravy</b> zasiahli\nvýznamne aj do života hornej Nitry. Nositeľom dozvukov husitského\nhnutia na Slovensku bolo pre svoju revolučnosť a demokratickosť\nbratrícke vojsko. Keď sa pre svoj protifeudálny charakter stalo\nnebezpečným svetské­mu i božskému poriadku, v rokoch\n1458—1467 ho kráľovské vojská postupne likvidovali. V tomto\nobdobí sa časť prenasledovaných bratríkov uchýlila i na\nVyšehrad, kde sa na čas opevnila. Do týchto rušných rokov treba\nklásť <b>archeologický materiál z 15. storočia</b>, ktorý predstavuje\nzbrane, rozličné železné predmety, reťaze, kliny, kovanie a\nnáradie, súčasti konských postrojov, keramiku, hlásny roh, ale\nnajmä mince z druhej polovice 15. storočia. Pri výskume sme\nzistili, že odchod posledných obyvateľov Vyšehradu nebol\ndobrovoľný, pretože práve mince, ktoré nám dokazujú toto\nobdobie, boli roztrúsené po celom areáli hradiska. \n</div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqE8I7vx_mbN31lIasQ-LRG_q5JQEmGCOd0DhKzgDc5mI4oxIywdokOJ_CglvJQVnUFsUtrl7Nu0Bmo7aSMFiyOO_hsrkQcJ91qOfGvR7lfMALrmivYLxwyQG81kYZByiDZfmHG4Z4nU/s1600/nitrianske+pravno1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"238\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqE8I7vx_mbN31lIasQ-LRG_q5JQEmGCOd0DhKzgDc5mI4oxIywdokOJ_CglvJQVnUFsUtrl7Nu0Bmo7aSMFiyOO_hsrkQcJ91qOfGvR7lfMALrmivYLxwyQG81kYZByiDZfmHG4Z4nU/s320/nitrianske+pravno1.jpg\" width=\"320\" /></a></div>\n<div align=\"JUSTIFY\" class=\"western\" style=\"margin-bottom: 0cm;\">\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkoF4q1TQ5EU-Ut-ffzqNUiFwF_mZLt0Nh8TjtA76HkVIRiN8vDERw3R2BbtkzhnkyXU6ZmXjRBVVtnR55JGZskpP_D89czRA3lkXnpGGTxTMyYKUjD2aaeYVq20v1U-MACypsmWJ0CTA/s1600/Na%CC%81l+AVANS+1974++1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkoF4q1TQ5EU-Ut-ffzqNUiFwF_mZLt0Nh8TjtA76HkVIRiN8vDERw3R2BbtkzhnkyXU6ZmXjRBVVtnR55JGZskpP_D89czRA3lkXnpGGTxTMyYKUjD2aaeYVq20v1U-MACypsmWJ0CTA/s320/Na%CC%81l+AVANS+1974++1.jpg\" width=\"262\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUN9l8VgOKlsgZLlrC3PagpxD6ARhGfODeNwykuKtA9B_ITsuHqAIExDlw83dzbEu6dOMQbdDyLQLgbzoQNQ0lclNbEiO7bL9mB_2WYZsdhiZY25GkNLvBC9IKJ82v7W9W8h49Gz9_CHA/s1600/Na%CC%81l+AVANS+1974++12.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUN9l8VgOKlsgZLlrC3PagpxD6ARhGfODeNwykuKtA9B_ITsuHqAIExDlw83dzbEu6dOMQbdDyLQLgbzoQNQ0lclNbEiO7bL9mB_2WYZsdhiZY25GkNLvBC9IKJ82v7W9W8h49Gz9_CHA/s320/Na%CC%81l+AVANS+1974++12.jpg\" width=\"242\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbm6zzw1oAAK850ioU50NM5q7L5bziPgMOzzfzR5BxHf7fCzjdeWv9YwqxOl9A5J8-4wgoYyZXBse7az61Jp9Z5FKu-etfFaCBUxPJytqAmL-QhafbCHPwjdVro0kCvhEpFfuF-LRkO4/s1600/Na%CC%81l+AVANS+1975++1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"228\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVbm6zzw1oAAK850ioU50NM5q7L5bziPgMOzzfzR5BxHf7fCzjdeWv9YwqxOl9A5J8-4wgoYyZXBse7az61Jp9Z5FKu-etfFaCBUxPJytqAmL-QhafbCHPwjdVro0kCvhEpFfuF-LRkO4/s320/Na%CC%81l+AVANS+1975++1.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsd_P0PCEylkHpBVRWVX5UlO_Muk-rUkDyqQ1F_DTsXI7p2ENpHvL9idgLLS7FF31Rx-f0UlQKFfsCPPpfOrgm5yuskYRxq6QCai881dA6obqw-TfE5jSv3RHjYne78G2vGtHp9Jd9RiQ/s1600/Na%CC%81l+AVANS+1978++1.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"320\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsd_P0PCEylkHpBVRWVX5UlO_Muk-rUkDyqQ1F_DTsXI7p2ENpHvL9idgLLS7FF31Rx-f0UlQKFfsCPPpfOrgm5yuskYRxq6QCai881dA6obqw-TfE5jSv3RHjYne78G2vGtHp9Jd9RiQ/s320/Na%CC%81l+AVANS+1978++1.jpg\" width=\"219\" /></a></div>\n<br />\n<br /></div>\n<div style=\"text-align: justify;\">\nNa tomto mieste by sme mohli&nbsp;naše rozprávanie o Vyšehradebez obáv skončiť. To by sme však čitateľov pripravili o mimoriadne zaujímavé informácie, ktoré vo svojom článku z roku 1929 uverejnil&nbsp;<span style=\"text-align: justify;\">Peter Petic a týkajú sa dejín vyšehradu tak ako to vnímal autor koncom 20. rokov 19. storočia. &nbsp;Najskôr prinášam niekoľko citácií z jeho článku, ktoré bez pochyby &nbsp;stoja za povšimnutie.&nbsp;</span></div>\n<br />\n<div style=\"text-align: justify;\">\n<i>\"Dosiaľ sa rozpráva medzi ľudom v Pravenci (dedinka pod Vyšehradom od strany nitrianskej), že „ponedielky vyšli mládenci z Pravenca na Vyšehrad, porobili si háky a cengali\". Teda musely tam byť ešte dosť dlho veže a zvony. V Lieštine pod Vyšehradom ešte doteraz nachádza sa veľa marunky; podľa podania ľudu mávalo tam vyšehradské panstvo svoje záhrady. \"</i></div>\n<div style=\"text-align: justify;\">\n<i><br /></i></div>\n<div style=\"text-align: justify;\">\n<i>\"V nemecko-pravnianskom mestskom archíve nachádza sa stará mapa Vyšehradu z roku 1779, opatrená latinsko-slovenským textom. Najdeme na nej takéto názviská: „Rivulus subterraneus — ponorný jasenovský potok\", „Nasedlovom\", „Nakrížikách\", „Lještina\", „Horné vráta\", „Navá-penici\" atď. Skrsne nám otázka, prečo sú tieto názvy už vtedy slovenské? Ako i samé názvisko „Vyšehrad\", tak i tieto slovenské názvy dosvedčujú len to, že hrad pochádza z IX.—XI. storočia a že obydlený bol Slovákmi.\" </i><br />\n<br />\n<table align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"tr-caption-container\" style=\"margin-left: auto; margin-right: auto; text-align: center;\"><tbody>\n<tr><td style=\"text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih8deWQUcIZjhteAn2rL_oBe-7Ws23i9WfdgEK9Rqa28Gm6KlRJox1CywICuDNhBxJ-vN08Ms7SlQsYt3Na-1W5Xj88bnHrtuR7bzTfoF9DwSa21btzD4aiZXMr8l7ljkLBUN0p2t3xSM/s1600/1779272_10152112736107347_485027648_n.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\"><img border=\"0\" height=\"172\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih8deWQUcIZjhteAn2rL_oBe-7Ws23i9WfdgEK9Rqa28Gm6KlRJox1CywICuDNhBxJ-vN08Ms7SlQsYt3Na-1W5Xj88bnHrtuR7bzTfoF9DwSa21btzD4aiZXMr8l7ljkLBUN0p2t3xSM/s1600/1779272_10152112736107347_485027648_n.jpg\" width=\"320\" /></a></td></tr>\n<tr><td class=\"tr-caption\" style=\"text-align: center;\">Výrez zo spomenutej mapy z roku 1779 s Hornými a Dolnými vrátami</td></tr>\n</tbody></table>\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<i><b>\"Slovenský župan na Vyšehrade.</b></i></div>\n<div style=\"text-align: justify;\">\n<i><br /></i></div>\n<div style=\"text-align: justify;\">\n<i>Cieľom nášho Vyšehradu bola pôvodne výlučne len obrana a bezpečnosť celého k nemu patriaceho územia. Tu sídlil hradný (comes castrensis) čiže župan, ktorý bol správcom hradu a k nemu patriacich obcí v čase pokojnom a veliteľom brannej moci v časoch búrlivých. Všetci obyvatelia tohoto územia tvorili vyšehradská hradnú obec a bezpochyby oni sami, dobro voľným usnesením, utvorili si svoj hrad, lebo šľachta bola ešte na týchto stranách neznáma.</i></div>\n<div style=\"text-align: justify;\">\n<i><br /></i></div>\n<div style=\"text-align: justify;\">\n<i>Vyšehradskému hradnému sotva mohol dávať rozkazy a direktívy zvolenský náčelník, ktorý bol v jednej osobe i osobným kapitánom a hlavným županom zvolenským, ktorý tiež za Arpádovcov bol hlavným veliteľom viacerých stolíc a v nich sa nachodiacich hradov, lebo vtedy načo by bol žiadal Belo IV. v polovici XIII. st. od Diviakovcov Vyšehrad, keby bol býval už dávnejšie v kráľovskej moci, ktorý, však nebol by si ani vypustil. Tu sa tratia stopy slovanských pánov Vyšehradu, ktorého sa zmocňujú cudzí dobyvatelia, a týmito sú Diviakovci.\"</i></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nOkrem horeuvedených cenných postrehov a úvah, pre nás autor v roku 1929 zachytil aj obraz Vyšehradu &nbsp;v povedomí slovenského ľudu na začiatku 20. storočia, a to vo forme piesne a povestí, viažucich sa na toto úžasné miesto.</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\nPieseň o vyšehrade, z ktorej už v tej dobe dokázal zaznamenať iba 2 strofy a ktorá sa podľa jeho názoru viaže ešte na dobu tatárskeho vpádu na Slovensko (1241-1242):</div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: center;\">\n<i>1. Vyšehrad, Vyšehrad,</i></div>\n<div style=\"text-align: center;\">\n<i>vyšehradské mosty,</i></div>\n<div style=\"text-align: center;\">\n<i>tam sa povaľujú&nbsp;</i></div>\n<div style=\"text-align: center;\">\n<i>mladých chlapcov kosti.</i></div>\n<div style=\"text-align: center;\">\n<i><br /></i></div>\n<div style=\"text-align: center;\">\n<i>2. Pravenčiansky Vyšehrádok zelená sa,</i></div>\n<div style=\"text-align: center;\">\n<i>na ňom rastie rozmarínok, netrhá sa,&nbsp;</i></div>\n<div style=\"text-align: center;\">\n<i>ja ho pôjdem odtrhnúť,&nbsp;</i></div>\n<div style=\"text-align: center;\">\n<i>keď bude mať uvädnúť.</i></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<b>Povesti o Vyšehrade</b></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<b>1. Povesť (O zakliatej paničke Vyšehradskej) :</b><i> \"Na Vyšehrade žila panička. A keďže bola pekná, mala nie jedného, ale dvoch uchádzačov-milencov. Jeden z lásky k nej vykopal tamhore hlbokú studňu, vyložil ju pálenou tehlou a čakal pri nej, kedy si príde biela panička vody načrieť. Tá však ani vo dne, ani v noci nechodila. Po dlhom očakávaní žiarlivcovi prešla trpělivost a v hneve zaklial celý Vyšehrad, ktorý sa ihneď prepadol, ale i panička ostala zakliata.</i></div>\n<div style=\"text-align: justify;\">\n<i><br /></i></div>\n<div style=\"text-align: justify;\">\n<i>Pravenčania chodievali do hory na jemalo, drevo a maliny. Chlapi, prijdúc z hory, hovorili: „Videli sme bielu pannu.\" Panna bola po pansky v bielom oblečená, za pásom štrkotal jej sväzok kľúčov, dlhé čierne vlasy spustené mala voľne dolu plecami a na hlave mala biely klobúčik. Keď padal sneh, stála pod jedlou, a keď prestal padať, chodila po ňom, zanechávajúc po sebe stopy bielych papučiek.</i></div>\n<div style=\"text-align: justify;\">\n<i><br /></i></div>\n<div style=\"text-align: justify;\">\n<i>Raz, keď tak šli Pravenčania na jemalo, videli túža bielu pannu na „klomce\" jemala sedieť. Obyvateľ pravenčiansky „Hrnčiare starý\" zavolal na ňu: „Anička, čože tam robíš?\" Myslel si, že je to jeho krásna dcéra, ale Anička veru neodpovedala. O dvanástej hodine, keď sa zvoní, vychádza biela pani a behá po hore s kľúčami. Koho stretne, tomu ich ponúka. Pri tom hovorí: „Udrite ma trikrát zpak ruky týmito kľúčami.\" Ľudia však to urobiť nechcú, lebo si myslia, že týmto by sa pani odkliala, odomkla, a komu by ich oddala, ostal by zakliaty a s týmito kľúčami musel by večne chodiť. Pravenčania týmto strašia deti, aby bály sa ísť do hory.</i></div>\n<div style=\"text-align: justify;\">\n<i><br /></i></div>\n<div style=\"text-align: justify;\">\n<i>Jeden raz ukázala sa i pastierom a maliniarkam. Vidiac pred sebou starca, volala naň: „Starký, poďte sem, voľačo vám dám\", a doložila: „Tu budete mať čolenkoľvek chcete.'' Starký však, vidiac u nej hrču kľúčov, odpovedal nasledovne: „Ach, ja ta nejdem, mladá pani, oni sa tam vari zakliata, a keby som ja ta išiel, ich by som vysvobodil a ja by sa tam-zatratil.\" Trasúceho starca prehovára pani: „Tak nejdete?\" — „Nejdem\", odpovedal starký. Vtom otvorily sa dvierka na zadnej strane jaskyne, pani vbehla dnu a nikto ju viac nevidel, lebo vtom prišiel jej ženích, ten ju v okamihu odklial a vysvobodil.\"</i></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<b>2. Povesť&nbsp;</b><b>(O zakliatej paničke Vyšehradskej)</b><b>:</b><i> \"Iná povesť zasa hovorí, že vyšehradská pani stále chodí po horách, odetá v krásnych, až po zem siahajúcich čiernych šatách. Zpopod šiat týchto vídať jej slepačie pazúry. S ňou chodí čierne psisko, vlečúc kľúče v papuli, z ktorej sa mu gebrí, tak že zdá sa byť stelesneným čertom. Raz pani táto pochytila jedného chlapa a viedla ho k veľkému stromu, ktorý od zeme až do vrchovca nemal kôry, a ani listia nebolo na ňom. Ukázala mu tento strom so slovami: „V tomto strome od spodu až do vrchu nachádza sa samé zlato. Toto zlato bude tvoje, keď ma tamtými kľúčami tri razy zpakruky uderíš. Ba keby ti tohoto zlata bolo málo, dám ti ešte i z toho, ktoré je v skale.\" Chlap sa naľakal a, tušiac čertov v blízkosti, zutekal. Preto čierna pani ešte i dnes chodí po horách a hľadá, čaká, kto by ju osvobodil. \"</i></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<b>3. Povesť (O chudobných manželoch a vyšehradskom poklade): </b><i>\"Stalo sa, že v jednej dedinke žili dvaja chudobní manželia. Veľkú biedu treli, a preto túžili po lepšom živote. Tu sa dopočuli o pokladoch vyšehradských, teraz v siedmom roku otvoriť sa majúcich. Muž vybral sa na Veľký piatok ku skale. Vtedy mala sa skala na poklady otvoriť. Čakal, ale márne čakal, lebo skala sa neotvárala. Sklamaný pobral sa domov, ale, rátajúc na šťastlivejší čas, vybral sa na Štedrý večer. Keď ta došiel, skala bola otvorená a v nej ležaly nepriehľadné kopy zlata a striebra. Skočil dnu, bral-bral do vriec, koľko len mohol, ba nevedel ani, z ktorej kopy má brať. Utekal za pokladmi až na koniec jaskyne, vtom sa skala zatvorila a milý chlapík ostal dnu. Tam ho potom zakliati ľudia kolísali v železnom belčove za celých sedem rokov, kým sa skala opäť neotvorila. Jeho žena nevedela, kam sa podel jej muž. Tušila však, že je zavretý v skale, tedy trpezlivo čakala sedem rokov a potom sobrala vrecia a utekala ku vyšehradskej skale. Skutočne, za hodinu skala sa otvorila. Vskočila dnu a hneď od kraja shŕňala poklady do vreca a ihneď i vynášala von. Za dve vrecia peňazí si nashŕňala a konečne vychytila i chudáka muža zo železného belčova, zarastaného už celkom machom, a vyskočila s ním von. Radovala sa, lebo mala i zlato i muža.\"</i><br />\n<i><br /></i>\nNový článok o hradisku: <b><a href=\"http://scriptorius.sk/sk/blog/2014/03/08/vysehrad-centralne-hradisko\" target=\"_blank\">Jozef Šebest: Vyšehrad: Cenrálne hradisko?</a></b></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfNS5r8c5L3KjTYL3tuacswOymUSSJddVXZCurCex8dYdBmSpCM2OxYPXohBnIxLpKEA1Y9GLzSPDQ9g9ozubRqb7Dvu0vsYZ9qwgseZPq6VairvkFG9eB-boxtRI_AlLL1ecvKxJ0mnA/s1600/visegrad117.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfNS5r8c5L3KjTYL3tuacswOymUSSJddVXZCurCex8dYdBmSpCM2OxYPXohBnIxLpKEA1Y9GLzSPDQ9g9ozubRqb7Dvu0vsYZ9qwgseZPq6VairvkFG9eB-boxtRI_AlLL1ecvKxJ0mnA/s320/visegrad117.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL13Nd6qEkhv6tQgLqiYK20-EIel2rDS4nl-qQ_AGWsN6Ua-05TboejVNT4ZNPmwnqQd-5sDqVmH_eVi2oi4_n9qIB0UhCV6wLpzhIWnGXBoPVuxqrdEzAidBUj-6gG-LreTIqN7ivAeA/s1600/visegrad125.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL13Nd6qEkhv6tQgLqiYK20-EIel2rDS4nl-qQ_AGWsN6Ua-05TboejVNT4ZNPmwnqQd-5sDqVmH_eVi2oi4_n9qIB0UhCV6wLpzhIWnGXBoPVuxqrdEzAidBUj-6gG-LreTIqN7ivAeA/s320/visegrad125.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjIJ1hgO5_S9jUKLzZ2jeKrf3hxf0NeH-g0eoy_CthPCyvY-y4qI-jfRY8BgXlblkJsyUxDFkVl4SOmOYSiT3Y-Pw0yp9s3gVmBmvnS1bHIAUB8TtnpZb84gBci2nRoRQ6sbkZrYXknQk/s1600/visegrad911.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjIJ1hgO5_S9jUKLzZ2jeKrf3hxf0NeH-g0eoy_CthPCyvY-y4qI-jfRY8BgXlblkJsyUxDFkVl4SOmOYSiT3Y-Pw0yp9s3gVmBmvnS1bHIAUB8TtnpZb84gBci2nRoRQ6sbkZrYXknQk/s320/visegrad911.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg34PylPBpOJA-Z-TP7TVXcMUm9TDjotMp3WHzytwuHRIi5pI1-hYcxu5SztxbG8zhCYEMNXfp3PVxDOjajteSU6xcvF-8C09zsxneaT3WCYP5VcVqF-C-Mav_DliTH7CMKLZcdOi122eY/s1600/visegrad924.webp\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg34PylPBpOJA-Z-TP7TVXcMUm9TDjotMp3WHzytwuHRIi5pI1-hYcxu5SztxbG8zhCYEMNXfp3PVxDOjajteSU6xcvF-8C09zsxneaT3WCYP5VcVqF-C-Mav_DliTH7CMKLZcdOi122eY/s320/visegrad924.webp\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9n_MGWhBiIDYfWIjV6V96H6IZ44f6JJ5BeDRBAthM3ey2cxm6CUalOyyYD7WbHU6UFnNhgk1nM_8i4vvj_lMlhQEUMVq0TeZpAfv0Pe9cAVebKrMMH0WVA5z06-bwecf03xg-4sCHXEY/s1600/visegrad941.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9n_MGWhBiIDYfWIjV6V96H6IZ44f6JJ5BeDRBAthM3ey2cxm6CUalOyyYD7WbHU6UFnNhgk1nM_8i4vvj_lMlhQEUMVq0TeZpAfv0Pe9cAVebKrMMH0WVA5z06-bwecf03xg-4sCHXEY/s320/visegrad941.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhShFpUcmknfpyDBj1IJxDrDR9jnk2i8iwzD6_eFkVUduJt3EVj7zxdWETrtDubG-2FJ5MxZl2ddsUP_Gd8Cy1XLqljkhzYTTCEakzt2oR4OxyNv1SeVaUGTU3_9nF8ktVz6cEQd9kuLKE/s1600/visegrad957.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"240\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhShFpUcmknfpyDBj1IJxDrDR9jnk2i8iwzD6_eFkVUduJt3EVj7zxdWETrtDubG-2FJ5MxZl2ddsUP_Gd8Cy1XLqljkhzYTTCEakzt2oR4OxyNv1SeVaUGTU3_9nF8ktVz6cEQd9kuLKE/s320/visegrad957.jpg\" width=\"320\" /></a></div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX5R6XMA4fXfjcOyzf6p6ywx0-JvVbGlgqW6TbjxYxsPPt7vuLb4DR7J5jOtzpXKjCa4vch3t04WTDEXFBoLw5cB-WwzAXxE26fz_0GSupJj8t_mWUMJKU3SaRfdb7x3USIsxgTmKe6iM/s1600/visegradpan004.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"145\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX5R6XMA4fXfjcOyzf6p6ywx0-JvVbGlgqW6TbjxYxsPPt7vuLb4DR7J5jOtzpXKjCa4vch3t04WTDEXFBoLw5cB-WwzAXxE26fz_0GSupJj8t_mWUMJKU3SaRfdb7x3USIsxgTmKe6iM/s320/visegradpan004.jpg\" width=\"320\" /></a></div>\n<div style=\"text-align: justify;\">\n<br /></div>\n<div style=\"text-align: justify;\">\n<br /></div>\nRemiášová, M. : Hradisko Vyšehrad. Horná Nitra 9, 1980, s. 13-29<br />\n<div style=\"text-align: justify;\">\nPeter Petic: Vyšehrad, Časopis Slovenskej Muzeálnej spoločnosti, 1928, ročník XXI</div>\nJanšák, Štefan. Niektoré Novoobjavené Hradiská Slovenské. Turč. sv. Martin: Muzeum Slov. Spol., 1928<br />\nkniha Nitrianske Pravno, 1985<br />\nAVANS 1974-1978<br />\nPavel Dvořák: Stopy dávnej minulosti 4, vydavateľstvo Rak, 2005<br />\nFoto: TASR, Mária Lukačovičová, &nbsp;http://jupiter.elte.hu/terkep+lista2.php<br />\n<div>\n<br />\n<div class=\"separator\" style=\"clear: both; text-align: center;\">\n<a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s1600/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg\" imageanchor=\"1\" style=\"margin-left: 1em; margin-right: 1em;\"><img border=\"0\" height=\"95\" src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s320/Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg\" width=\"320\" /></a></div>\n<br /></div>\n"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "http://www.hradiska.sk/feeds/1087325857233999639/comments/default",
+            "title": "Zverejniť komentáre"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2013/10/nitrianske-pravno-vysehrad.html#comment-form",
+            "title": "3 komentárov"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/1087325857233999639"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "http://www.blogger.com/feeds/6818054921907446479/posts/default/1087325857233999639"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "http://www.hradiska.sk/2013/10/nitrianske-pravno-vysehrad.html",
+            "title": "Nitrianske Pravno/Jasenovo - Vyšehrad"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Unknown"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx0_Zof51wjeEn-IsByg9l2F0EFccMDlsejuYmC7G0RQV4qkXML5yq9ybdu4g01jQep5MteOOH86STx8635eeXCWgFyv2QlRAk_XcfUJj0SZCuhVRnS1dxlE71plh9M_WM0nHliQYATRQ/s72-c/voj+map.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "3"
+        }
+      }
+    ]
+  }
+}
