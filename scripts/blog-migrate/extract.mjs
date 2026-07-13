@@ -1129,9 +1129,59 @@ function classifyCitationFromLines(lines) {
   return items;
 }
 
+/** BUG (Klučov/Ducové/Nitrianske Pravno/Pobedim/Trenčín/Vyšný Kubín/Libice — objavené pri
+ *  spätnej kontrole pokrytia textu): topLevel zber nižšie berie LEN priame `<div>`/`<table>`
+ *  deti `bodyRoot`-u. Staršie Blogger články občas majú úvodný odsek, mapový `<iframe>` alebo
+ *  záverečné zdrojové riadky ako HOLÉ textové uzly / inline tagy PRIAMO pod `<body>`, bez
+ *  obaľujúceho divu (typický artefakt kopírovania z Wordu/Google Docs) — tie topLevel zber
+ *  ticho preskočí a celý obsah (často celý úvodný odsek) sa nikdy nedostane do spracovania.
+ *  Toto ich pred zberom zabalí do syntetického `<div>` na správnej pozícii v dokumente, aby
+ *  prešli rovnakým spracovaním ako všetko ostatné. `.before()` cieli vždy na skutočný div/table
+ *  element (nie na textový uzol) — na tom staršia verzia tejto funkcie stroskotala, lebo
+ *  cheerio `.before()` na cheerio-wrapnutom textovom uzle ticho no-opne (wrapper ostane
+ *  odpojený od stromu). */
+function wrapOrphanTopLevelContent($, root) {
+  const children = [...root.childNodes];
+  let run = [];
+
+  const hasRealContent = (nodes) =>
+    nodes.some((n) => {
+      if (n.type === 'text') return n.data.replace(/\s+/g, '').length > 0;
+      if (n.type === 'tag') return (n.tagName || '').toLowerCase() !== 'br';
+      return false;
+    });
+  const flushBefore = (nextEl) => {
+    if (!run.length) return;
+    if (hasRealContent(run)) {
+      const wrapper = $('<div></div>');
+      $(nextEl).before(wrapper);
+      for (const n of run) wrapper.append($(n));
+    }
+    run = [];
+  };
+  const flushAtEnd = () => {
+    if (!run.length) return;
+    if (hasRealContent(run)) {
+      const wrapper = $('<div></div>');
+      $(root).append(wrapper);
+      for (const n of run) wrapper.append($(n));
+    }
+    run = [];
+  };
+
+  for (const ch of children) {
+    const tag = ch.type === 'tag' ? (ch.tagName || '').toLowerCase() : null;
+    const isWrapCandidate = tag === 'div' || (tag === 'table' && $(ch).hasClass('tr-caption-container'));
+    if (isWrapCandidate) flushBefore(ch);
+    else run.push(ch);
+  }
+  flushAtEnd();
+}
+
 /** Orchestrátor: prejde top-level divs, oddelí zdroje, zlúči no-caption image-blocky
  *  do image-gallery s max 4 obrázkami na galériu (žiadne dlhé série bez textu). */
 function buildBlocksFromBody($, bodyRoot, articleTitle = '') {
+  wrapOrphanTopLevelContent($, bodyRoot);
   const blocks = [];
   // Pre-pass: označ behy centrovaných kurzívových veršov ako básne (data-poem v DOM),
   // aby ich convertDivToBlocks/walkDocOrder vydali ako content.poem, nie ako rich-text.

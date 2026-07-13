@@ -16,7 +16,7 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 16 |
+| rich-text (odseky/nadpisy) | 17 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 8 |
@@ -24,7 +24,7 @@
 | sources (zdroje) | 1 → 5 položiek |
 
 ## Obrázky
-- **galéria:** 43 (18 s popisom)
+- **galéria:** 43 (10 s popisom)
 - **v tele článku:** 8 (8 s popisom) — vm.jpg, palisáda+tomáš+humaj.jpg, IMG_9561+web.jpg, doba+bronzova.jpg, vm2.jpg, bratrici.jpg, ducové+dom.jpg, ducov%C3%A9+-+n%C3%A1lezy.JPG
 
 ## Sidebar
@@ -54,6 +54,6 @@
 
 ## Ostatné
 - **komentáre:** 13
-- **text tela:** 9795 znakov (1460 slov)
+- **text tela:** 10384 znakov (1537 slov)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

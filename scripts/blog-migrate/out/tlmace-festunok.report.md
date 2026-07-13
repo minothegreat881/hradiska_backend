@@ -24,7 +24,7 @@
 | sources (zdroje) | 1 → 5 položiek |
 
 ## Obrázky
-- **galéria:** 22 (11 s popisom)
+- **galéria:** 22 (12 s popisom)
 - **v tele článku:** 6 (6 s popisom) — festunok1.jpg, 10_Tlmace.jpg, festunok2.jpg, festunok3.jpg, 1950.png, festunok4.jpg
 
 ## Sidebar

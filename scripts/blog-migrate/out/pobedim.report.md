@@ -16,12 +16,12 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 43 |
+| rich-text (odseky/nadpisy) | 44 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 21 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 4 položiek |
+| sources (zdroje) | 1 → 6 položiek |
 
 ## Obrázky
 - **galéria:** 36 (13 s popisom)
@@ -57,6 +57,6 @@
 
 ## Ostatné
 - **komentáre:** 11
-- **text tela:** 28243 znakov (4074 slov)
+- **text tela:** 28244 znakov (4074 slov)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

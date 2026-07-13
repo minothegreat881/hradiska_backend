@@ -21,10 +21,10 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 8 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 2 položiek |
+| sources (zdroje) | 1 → 5 položiek |
 
 ## Obrázky
-- **galéria:** 22 (4 s popisom)
+- **galéria:** 22 (9 s popisom)
 - **v tele článku:** 8 (4 s popisom) — Demian.jpg, a.jpg, Ostrá+a+Tupá+skala.jpg, c.jpg, 333.jpg, 1540266_746713422075076_3419791315904626063_o.jpg, Ostrá+a+Tupá+skala+1950.jpg, b.jpg
 
 ## Sidebar

@@ -8,7 +8,7 @@
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
 - ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
-- ✅ Obrázky evidované: telo (9) ⊆ galéria (42) — žiadny sa nestratil
+- ✅ Obrázky evidované: telo (9) ⊆ galéria (45) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 11, keyFacts 7
 - ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
@@ -16,15 +16,15 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 19 |
+| rich-text (odseky/nadpisy) | 18 |
 | quote-block (dobové pramene) | 1 |
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 9 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 2 položiek |
+| sources (zdroje) | 1 → 9 položiek |
 
 ## Obrázky
-- **galéria:** 42 (21 s popisom)
+- **galéria:** 45 (22 s popisom)
 - **v tele článku:** 9 (9 s popisom) — pôdorys.jpg, Mikovini+TN.jpg, starý+trenčín.png, victoriae+augustorum.png, rotunda+pôdorys.png, IMG_7149.JPG, hrad+1676.png, rotunda+trenčín.jpg, palác+13+stor.jpg
 
 ## Sidebar
@@ -54,6 +54,6 @@
 
 ## Ostatné
 - **komentáre:** 8
-- **text tela:** 13386 znakov (1968 slov)
+- **text tela:** 13380 znakov (1967 slov)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

@@ -8,7 +8,7 @@
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
 - ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
-- ✅ Obrázky evidované: telo (2) ⊆ galéria (3) — žiadny sa nestratil
+- ✅ Obrázky evidované: telo (3) ⊆ galéria (3) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 9, keyFacts 8
 - ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
@@ -16,16 +16,16 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 5 |
+| rich-text (odseky/nadpisy) | 15 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
-| image-block (v tele) | 2 |
+| image-block (v tele) | 3 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 14 položiek |
+| sources (zdroje) | 1 → 4 položiek |
 
 ## Obrázky
 - **galéria:** 3 (1 s popisom)
-- **v tele článku:** 2 (0 s popisom) — 1.01eliskreta.JPG, libice_pohrebiste_na_hradisti.gif
+- **v tele článku:** 3 (1 s popisom) — 1.01eliskreta.JPG, libice_pohrebiste_na_hradisti.gif, Model.JPG
 
 ## Sidebar
 - **Časová os (timeline):** 9 položiek
@@ -53,6 +53,6 @@
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 4948 znakov (726 slov)
+- **text tela:** 9338 znakov (1353 slov)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

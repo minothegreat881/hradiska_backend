@@ -566,64 +566,6 @@
         "shadow": true
       },
       {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "heading",
-            "children": [
-              {
-                "type": "text",
-                "text": "Spracoval Orgoň"
-              }
-            ],
-            "level": 2
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Foto:"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "heading",
-            "children": [
-              {
-                "type": "text",
-                "text": "Lit:"
-              }
-            ],
-            "level": 2
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Vladimír Turčan a kolektív: Archeologické pamiatky - Kultúrne krásy Slovenska, Dajama, 2009"
-              }
-            ]
-          }
-        ]
-      },
-      {
         "__component": "content.sources",
         "title": "Zdroje a literatúra",
         "intro": "Foto:",

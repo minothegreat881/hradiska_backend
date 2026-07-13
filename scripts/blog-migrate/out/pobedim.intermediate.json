@@ -5,7 +5,7 @@
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5341976687459101932",
     "bloggerPostUrl": "http://www.hradiska.sk/2010/06/pobedim-je-znamou-archeologickou.html",
     "repliesLink": "http://www.hradiska.sk/feeds/5341976687459101932/comments/default",
-    "extractedAt": "2026-07-12T20:47:48.606Z",
+    "extractedAt": "2026-07-13T09:01:38.105Z",
     "coverImageNeedsReview": true,
     "commentCount": 11,
     "comments": [
@@ -789,6 +789,26 @@
     ],
     "quotes": [],
     "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOCqSlcactiO31kfzfIj8kd5sNyWhACRSPXuf20d7xb8BgPAg_IqkdHeguzNAlrQvaHyLVeYf3tEEmv2lXPxrMFkvzGGqq554X6WeYbwdUGYoyAOkoqS_uN0HsPC3VWQW-_5Q6UyY-k3Q/s1600/Pobedim2.jpg",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
       {
         "__component": "content.rich-text",
         "body": [
@@ -1919,6 +1939,14 @@
           {
             "text": "http://www.pobedim.sk/index.php?id=archeologia",
             "url": "http://www.pobedim.sk/index.php?id=archeologia"
+          },
+          {
+            "text": "Laco Zrubec: Poklady Zeme, Osveta 1986",
+            "url": null
+          },
+          {
+            "text": "Niektoré obrázky prevzaté z cyklu Stopy dávnej minulosti (STV2)",
+            "url": null
           }
         ]
       }
@@ -1940,6 +1968,14 @@
         "type": "external-url",
         "url": "http://www.pobedim.sk/index.php?id=archeologia",
         "title": "http://www.pobedim.sk/index.php?id=archeologia"
+      },
+      {
+        "type": "book",
+        "text": "Laco Zrubec: Poklady Zeme, Osveta 1986"
+      },
+      {
+        "type": "attribution",
+        "text": "Niektoré obrázky prevzaté z cyklu Stopy dávnej minulosti (STV2)"
       }
     ]
   }

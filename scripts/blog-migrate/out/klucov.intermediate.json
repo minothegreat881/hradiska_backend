@@ -5,7 +5,7 @@
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3350681544716201279",
     "bloggerPostUrl": "http://www.hradiska.sk/2014/05/klucov.html",
     "repliesLink": "http://www.hradiska.sk/feeds/3350681544716201279/comments/default",
-    "extractedAt": "2026-07-12T19:54:11.212Z",
+    "extractedAt": "2026-07-13T09:01:35.410Z",
     "coverImageNeedsReview": true,
     "commentCount": 0,
     "comments": [],
@@ -30,7 +30,7 @@
   "blogPost": {
     "title": "Klučov",
     "slug": "klucov",
-    "excerpt": "Lokalita a slovanské osídlenie Lokalita hradiska sa dnes nachádza v katastri obce Klučov. Vyvýšenina na ktorej sa rozprestieralo slovanské hradisko je dnes využívaná poľnohospodárskov činnosťou. Slovanské hradisko bolo na návrší, ktoré sa zvažuje…",
+    "excerpt": "Podrobný výskum tohto slovanského hradiska sa konal v 50. rokoch, pričom sa pri ňom zistilo , že sa jedná o hradisko s významným mocenským statusom.",
     "authorName": "Orgon",
     "publishedAt": "2014-05-18T20:20:00.001+02:00",
     "originalPublishedDate": "2014-05-18T20:20:00.001+02:00",
@@ -350,6 +350,20 @@
     ],
     "quotes": [],
     "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podrobný výskum tohto slovanského hradiska sa konal v 50. rokoch, pričom sa pri ňom zistilo , že sa jedná o hradisko s významným mocenským statusom.\n "
+              }
+            ]
+          }
+        ]
+      },
       {
         "__component": "content.rich-text",
         "body": [
@@ -728,64 +742,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Na hradisku bola skúmaná aj vnútorná zástavba, kde boli zistené typické slovanské polozemnice a väčšie množstvo sýpok - jám určených na skladovanie obilia a potravín. Práve tieto objekty z Klučova prispeli významnou mierou k poznaniu vnútornej zástavby slovanských hradísk a funkcie sýpok vo včasnostredovakom období. Medzi veľmi zaujímavé nálezy patrí tiež dobre zachovaná hlinená pražnica, viacero kamených žarnovou a mnohé kovové nálezy, ktoré dokresľujú život na hradisku v období 8. a 9. storočia.   "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Spracoval: Orgoň"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "heading",
-            "children": [
-              {
-                "type": "text",
-                "text": "Lit:"
-              }
-            ],
-            "level": 2
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Jaroslav Kudrnáč: Klučov, Staroslovanské hradište ve středních Čechách, Praha, 1970"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Bc. Anna Bajerova: Člověk jako budovatel a obhájce hradeb 9. až 12. století ve střední Evrope, Brno 2009 "
+                "text": "Na hradisku bola skúmaná aj vnútorná zástavba, kde boli zistené typické slovanské polozemnice a väčšie množstvo sýpok - jám určených na skladovanie obilia a potravín. Práve tieto objekty z Klučova prispeli významnou mierou k poznaniu vnútornej zástavby slovanských hradísk a funkcie sýpok vo včasnostredovakom období. Medzi veľmi zaujímavé nálezy patrí tiež dobre zachovaná hlinená pražnica, viacero kamených žarnovou a mnohé kovové nálezy, ktoré dokresľujú život na hradisku v období 8. a 9. storočia."
               }
             ]
           }

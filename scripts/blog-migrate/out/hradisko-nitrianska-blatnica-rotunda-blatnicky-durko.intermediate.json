@@ -601,63 +601,6 @@
         "shadow": true
       },
       {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Spracoval: Orgoň "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "Pavel Dvořák: Stopy dávnej minulosti 3 (Zrod národa), vydavateľstvo Rak, 2004  Alexander Ruttkay: VÝZNAMNE ARCHEOLOGICKÉ LOKALITY Z VČASNÉHO STREDOVEKU V OBLASTI POVAŽSKÉHO INOVCA (in Pieta K., Ruttkay A., Ruttkay M .:2006, Bojná, Hospodárske a politické centrum Nitrianskeho kniežactva, Nitra  www.rotundajurko.sk  www.apsida.sk"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "paragraph",
-            "children": [
-              {
-                "type": "text",
-                "text": "3D foto: www.sme.sk"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "heading",
-            "children": [
-              {
-                "type": "text",
-                "text": "Foto (Ľubomír Červený):"
-              }
-            ],
-            "level": 2
-          }
-        ]
-      },
-      {
         "__component": "content.sources",
         "title": "Zdroje a literatúra",
         "intro": null,

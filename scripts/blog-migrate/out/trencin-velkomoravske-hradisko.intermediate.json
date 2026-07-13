@@ -5,7 +5,7 @@
     "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-7910140091049434302",
     "bloggerPostUrl": "http://www.hradiska.sk/2012/03/trencin-velkomoravske-hradisko.html",
     "repliesLink": "http://www.hradiska.sk/feeds/7910140091049434302/comments/default",
-    "extractedAt": "2026-07-12T20:27:53.816Z",
+    "extractedAt": "2026-07-13T09:01:38.960Z",
     "coverImageNeedsReview": true,
     "commentCount": 8,
     "comments": [
@@ -122,9 +122,7 @@
     },
     "poemCount": 0,
     "poemSingleFlags": [],
-    "sanityFlags": [
-      "zeroCitations"
-    ]
+    "sanityFlags": []
   },
   "blogPost": {
     "title": "Trenčín - Veľkomoravské hradisko",
@@ -1619,25 +1617,38 @@
         ]
       },
       {
-        "__component": "content.rich-text",
-        "body": [
-          {
-            "type": "heading",
-            "children": [
-              {
-                "type": "text",
-                "text": "Orgoň"
-              }
-            ],
-            "level": 2
-          }
-        ]
-      },
-      {
         "__component": "content.sources",
         "title": "Zdroje a literatúra",
         "intro": null,
         "items": [
+          {
+            "text": "http://www.trencin.sk/historia",
+            "url": "http://www.trencin.sk/historia"
+          },
+          {
+            "text": "http://www.trencin.sk/15020#FOTOGALERIA",
+            "url": "http://www.trencin.sk/15020#FOTOGALERIA"
+          },
+          {
+            "text": "http://www.slovakia3d.sk/details.aspx?oid=38&viewtype=info",
+            "url": "http://www.slovakia3d.sk/details.aspx?oid=38&viewtype=info"
+          },
+          {
+            "text": "http://www.hrady.cz",
+            "url": "http://www.hrady.cz"
+          },
+          {
+            "text": "http://www.bathory.sk/hrad-2.html",
+            "url": "http://www.bathory.sk/hrad-2.html"
+          },
+          {
+            "text": "http://www.muzeumtn.sk/trenciansky-hrad/studna-lasky.html?page_id=310",
+            "url": "http://www.muzeumtn.sk/trenciansky-hrad/studna-lasky.html?page_id=310"
+          },
+          {
+            "text": "Foto: Orgoň, Miroslav Bros",
+            "url": null
+          },
           {
             "text": "Ján Vavrus: Hradisko a hrad v Trenčíne, jeho význam a postavenie v dejinnom vývoji, in: Alexander Avenarius a Zuzana Ševčíková (eds.) - Slovensko a europsky juhovychod, Bratislava 1999",
             "url": null
@@ -1650,6 +1661,40 @@
       }
     ],
     "citations": [
+      {
+        "type": "external-url",
+        "url": "http://www.trencin.sk/historia",
+        "title": "http://www.trencin.sk/historia"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.trencin.sk/15020#FOTOGALERIA",
+        "title": "http://www.trencin.sk/15020#FOTOGALERIA"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.slovakia3d.sk/details.aspx?oid=38&viewtype=info",
+        "title": "http://www.slovakia3d.sk/details.aspx?oid=38&viewtype=info"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.hrady.cz",
+        "title": "http://www.hrady.cz"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.bathory.sk/hrad-2.html",
+        "title": "http://www.bathory.sk/hrad-2.html"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.muzeumtn.sk/trenciansky-hrad/studna-lasky.html?page_id=310",
+        "title": "http://www.muzeumtn.sk/trenciansky-hrad/studna-lasky.html?page_id=310"
+      },
+      {
+        "type": "attribution",
+        "text": "Foto: Orgoň, Miroslav Bros"
+      },
       {
         "text": "Ján Vavrus: Hradisko a hrad v Trenčíne, jeho význam a postavenie v dejinnom vývoji, in: Alexander Avenarius a Zuzana Ševčíková (eds.) - Slovensko a europsky juhovychod, Bratislava 1999",
         "url": null

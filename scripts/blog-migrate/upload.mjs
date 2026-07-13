@@ -475,26 +475,27 @@ async function doRealUpload(intermediate, payload, mediaArray, options) {
   console.log(`\n[3/5] Download + upload obrázkov (${mediaArray.length})...`);
   console.log(`     Stratégia: continue-on-error, multi-pass — failed items skúsi opätovne.`);
 
-  // hash-based dedup: keďže Strapi `hash` field nie je SHA-256, urobíme náš vlastný
-  // — najprv pre každý nový download spočítame SHA-256 a v rámci tohto behu
-  // udržiavame mapu lokálne. Pre dedup voči existujúcim files Strapi (54 ks)
-  // by sme museli každý existing stiahnuť — namiesto toho použijeme filename match
-  // ako pragmatický pre-check (žiadny z 54 nemá Blatnohrad mená, takže neaplikuje sa).
-  const existingByName = new Map();
-  for (const f of existing.files) existingByName.set(f.name, f);
+  // BUG (objavené pri spätnej kontrole integrity Mocenské centrá batchu): pôvodná
+  // verzia tejto funkcie robila dedup PODĽA MENA SÚBORU (`existingByName`) ako
+  // "pragmatický pre-check" bez sťahovania — komentár zdôvodňoval, že prvých 54
+  // súborov (Blatnohrad batch) nemalo kolízne mená, takže je to bezpečné. To sa
+  // rozpadlo hneď ako viac článkov od rôznych autorov použilo generické mená
+  // (`a.jpg`, `mapa.jpg`, `IMG_4111.JPG`...) — 20 rôznych súborov sa takto omylom
+  // "recyklovalo" naprieč 12+ nesúvisiacimi článkami (napr. Ducové aj Vyšný Kubín
+  // dostali FOTOGRAFIE zo Spišských Tomášoviec, vrátane ich popisov). Dedup teraz
+  // ide výhradne cez SHA-256 obsahu — vždy sa stiahne, spočíta hash, a až ten sa
+  // porovná (voči tomuto behu AJ voči perzistentnému indexu naprieč všetkými
+  // predošlými behmi — Strapi `hash` pole nie je SHA-256, takže cudziu Media
+  // Library takto lacno prehľadať nevieme).
+  const shaIndexPath = resolve(__dirname, 'out', '_media-sha256-index.json');
+  const shaIndex = existsSync(shaIndexPath) ? JSON.parse(readFileSync(shaIndexPath, 'utf8')) : {};
+  const saveShaIndex = () => writeFileSync(shaIndexPath, JSON.stringify(shaIndex, null, 1));
 
   const mediaIdByIndex = []; // mediaArray.index → strapi media id
   const uploadLog = [];
   const failedThisPass = [];
 
-  async function processItem(m, currentExistingByName) {
-    const candidate = currentExistingByName.get(m.filename);
-    if (candidate) {
-      console.log(`     [${m.index.toString().padStart(2)}] ${m.filename} → REUSE existing (id=${candidate.id})`);
-      mediaIdByIndex[m.index] = candidate.id;
-      uploadLog.push({ index: m.index, filename: m.filename, action: 'reused-by-name', variant: null, mediaId: candidate.id });
-      return { ok: true };
-    }
+  async function processItem(m) {
     let dl;
     try {
       dl = await downloadImage(m.preferredUrl, m.fallbackUrl);
@@ -510,10 +511,19 @@ async function doRealUpload(intermediate, payload, mediaArray, options) {
       console.log(`     [${m.index.toString().padStart(2)}] ${m.filename} → REUSE by SHA (${dl.variant}, id=${localDupe.mediaId})`);
       return { ok: true };
     }
+    const persisted = shaIndex[sha];
+    if (persisted) {
+      mediaIdByIndex[m.index] = persisted.mediaId;
+      uploadLog.push({ index: m.index, filename: m.filename, action: 'reused-by-sha-persisted', variant: dl.variant, mediaId: persisted.mediaId, sha });
+      console.log(`     [${m.index.toString().padStart(2)}] ${m.filename} → REUSE by SHA, prior run (${dl.variant}, id=${persisted.mediaId})`);
+      return { ok: true };
+    }
     try {
       const uploaded = await strapiUploadFile(dl.buffer, m.filename, dl.mimeType, m.caption);
       mediaIdByIndex[m.index] = uploaded.id;
       uploadLog.push({ index: m.index, filename: m.filename, action: 'uploaded', variant: dl.variant, size: dl.buffer.length, mediaId: uploaded.id, sha });
+      shaIndex[sha] = { mediaId: uploaded.id, filename: m.filename };
+      saveShaIndex();
       console.log(
         `     [${m.index.toString().padStart(2)}] ${m.filename} → ${dl.variant} (${(dl.buffer.length / 1024).toFixed(1)} KB) → media id=${uploaded.id}`,
       );
@@ -527,19 +537,17 @@ async function doRealUpload(intermediate, payload, mediaArray, options) {
     }
   }
 
-  // Multi-pass: pri každom passu re-loadne existing index (lebo predošlý pass nahral ďalšie)
+  // Multi-pass: opakuje len failnuté downloady/uploady (žiadny "existing index" refresh
+  // netreba — dedup je teraz sha-based cez shaIndex, ktorý sa aktualizuje priebežne).
   let remaining = [...mediaArray];
   for (let pass = 1; pass <= 6 && remaining.length > 0; pass++) {
     if (pass > 1) {
-      console.log(`\n     === PASS ${pass} (${remaining.length} remaining) — re-fetch existing index... ===`);
-      const refresh = await loadExistingMediaIndex();
-      existingByName.clear();
-      for (const f of refresh.files) existingByName.set(f.name, f);
+      console.log(`\n     === PASS ${pass} (${remaining.length} remaining) — retry po chybe... ===`);
       await new Promise((r) => setTimeout(r, 2000));
     }
     const nextRemaining = [];
     for (const m of remaining) {
-      const r = await processItem(m, existingByName);
+      const r = await processItem(m);
       if (!r.ok) nextRemaining.push(m);
     }
     remaining = nextRemaining;

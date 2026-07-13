@@ -24,7 +24,7 @@
 | sources (zdroje) | 1 → 10 položiek |
 
 ## Obrázky
-- **galéria:** 19 (11 s popisom)
+- **galéria:** 19 (12 s popisom)
 - **v tele článku:** 7 (0 s popisom) — 1.jpg, 2.jpg, 3.jpg, 5.jpg, 6.jpg, Gars+%283%29.JPG, Gars+%288%29.JPG
 
 ## Sidebar

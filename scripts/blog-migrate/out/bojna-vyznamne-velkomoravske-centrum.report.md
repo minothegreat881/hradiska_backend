@@ -24,7 +24,7 @@
 | sources (zdroje) | 1 → 30 položiek |
 
 ## Obrázky
-- **galéria:** 95 (44 s popisom)
+- **galéria:** 95 (43 s popisom)
 - **v tele článku:** 20 (10 s popisom) — novšia+vodoznak.jpg, Bojná-ráno.jpg, Bojna_od-vychodu.jpg, od+Marhátu+vodoznak.jpg, bojn%C3%A1+val.JPG, 1002746_625717190773915_778448819_n.jpg, 14632949_10154540751722347_4581121983531734189_n.jpg, puta%CC%81.jpg, Olta%CC%81r.jpg, Bojna-vstup.jpg, Bojna.jpg, Brana+foto.jpeg, bDJI_0170.JPG, bojna+mapa+s+nalezmi.jpg, bojna+mapa.jpg, Bez+názvu.jpg, PX00055.jpg, Bojna+II+foto.jpg, Zdoben%C3%A9+n%C3%A1kon%C4%8Die.JPG, bojna2+mapa.jpg
 
 ## Sidebar

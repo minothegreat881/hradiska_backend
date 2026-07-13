@@ -21,7 +21,7 @@
 | poem (básne/verše) | 1 |
 | image-block (v tele) | 16 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 1 položiek |
+| sources (zdroje) | 1 → 8 položiek |
 
 ## Obrázky
 - **galéria:** 30 (7 s popisom)
