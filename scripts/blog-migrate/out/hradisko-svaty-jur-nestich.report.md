@@ -5,27 +5,27 @@
 
 ## ✅ Integrita a úplnosť
 
-> **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
+> **⚠ POZOR — niečo sa mohlo stratiť, pozri kontroly**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
-- ✅ Obrázky evidované: telo (12) ⊆ galéria (37) — žiadny sa nestratil
-- ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
+- ✅ Text: pokrytie 99.65% vs originál (gramaticky opravené slová vyňaté: 0) — zvyšné mimo: nkp, pamiatkovy, urad, sketchfab (over: map-widget/tvary/odkazy)
+- ✅ Obrázky evidované: telo (25) ⊆ galéria (37) — žiadny sa nestratil
+- ❌ Rytmus: max 7 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 13, keyFacts 7
 - ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
 
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 37 |
+| rich-text (odseky/nadpisy) | 38 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
-| image-block (v tele) | 12 |
+| image-block (v tele) | 25 |
 | embed (video/3D) | 2 |
 | sources (zdroje) | 1 → 10 položiek |
 
 ## Obrázky
 - **galéria:** 37 (16 s popisom)
-- **v tele článku:** 12 (5 s popisom) — Nes%CC%8Ctich+cele+JS_male.jpg, Nes%CC%8Ctich+Juh+JS_male.jpg, IMG_3656.JPG, IMG_3687.JPG, IMG_6979.JPG, strmeň+-+ruttkay.jpg, Nes%CC%8Ctich+Sever+JS_male.jpg, IMG_6977.JPG, ne%C5%A1tich+nove33.jpg, lunicovitý_závesok.jpg, ne%C5%A1tich+nov%C3%A9.jpg, ne%C5%A1tich+nov%C3%A922.jpg
+- **v tele článku:** 25 (16 s popisom) — Nes%CC%8Ctich+cele+JS_male.jpg, Nes%CC%8Ctich+Juh+JS_male.jpg, IMG_3656.JPG, IMG_3687.JPG, IMG_6979.JPG, strmeň+-+ruttkay.jpg, Nes%CC%8Ctich+Sever+JS_male.jpg, IMG_6977.JPG, ne%C5%A1tich+nove33.jpg, lunicovitý_závesok.jpg, ne%C5%A1tich+nov%C3%A9.jpg, ne%C5%A1tich+nov%C3%A922.jpg, IMG_6809.JPG, IMG_6814.JPG, IMG_6823.JPG, IMG_6821.JPG, IMG_6829.JPG, IMG_6836.JPG, IMG_6839.JPG, IMG_6845.JPG, IMG_6855.JPG, IMG_6856.JPG, IMG_6857.JPG, IMG_6831.JPG, IMG_6832.JPG
 
 ## Sidebar
 - **Časová os (timeline):** 13 položiek
@@ -56,6 +56,7 @@
 
 ## Ostatné
 - **komentáre:** 4
-- **text tela:** 14199 znakov (2018 slov)
+- **text tela:** 14234 znakov (2024 slov)
+- **pokrytie textu vs originál:** 99.65% (mimo: nkp, pamiatkovy, urad, sketchfab)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

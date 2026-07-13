@@ -1596,6 +1596,197 @@
         "shadow": true
       },
       {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Fotogaléria z výskumu (5. 1. 2012)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s0/IMG_6809.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3WOPDxEqjaPNHMUXb89_UuFgzjZjMqJA2EILkjaVK0CJULyvrJZroP9dgBQZqC_n9wj7Esuar1a-kmhICz0awbBh6RaV5bBb9wQJ1PYWBWuDRqWtNQHi9Pip2BWxgH-CUQTXaCXyZZw/s1600/IMG_6809.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Severozápadná časť valu",
+        "caption": "Severozápadná časť valu",
+        "position": "left",
+        "width": "50",
+        "pairWithNext": true
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s0/IMG_6814.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZnVKAxryJ0N1jlqWgg7fLea99KMEBzVU8VwPU0-rXNL0P8WYWeROOeJNReYVhjWa_kT6ZJMFwJ6-_js43MvSr2iM66OwBi_A3Kgpv_emqCfzNrxGgjBm0YBwvKb3GQaU99_4UrKdBhqI/s1600/IMG_6814.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Západný val",
+        "caption": "Západný val",
+        "position": "right",
+        "width": "50"
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s0/IMG_6823.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLE0qA09-APF6GtOljeZLc8xS5-uoteWf_SE4Vu6M9DrFDEXNcx7L4GMJHCkXINcz1EK_EzdP0WeIUhQne3MHvTfHXKMpjcb3jfvncR39rijlYGv_rs96ANd2K_LEy6P0m1O95Hk_Zs8/s1600/IMG_6823.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Neštich je jedno z mála hradísk, kde stále prebieha výskum (Dr. Vavák)",
+        "caption": "Neštich je jedno z mála hradísk, kde stále prebieha výskum (Dr. Vavák)",
+        "position": "left",
+        "width": "50",
+        "pairWithNext": true
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s0/IMG_6821.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYK5GNGXdry522Iv2y7rIEaEWL08XvgBRXUQPKqpobQiT6dnbhr4c9PjfkNeApXZ6yVeNC-xR3w2Ct1Onz7MDrf3BqlWxIR3VRYLSTVKHl-C5a5-waFuKNeTS9MWXMx6z-P-IgSgTTtVA/s1600/IMG_6821.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Juhozápadný val",
+        "caption": "Juhozápadný val",
+        "position": "right",
+        "width": "50"
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s0/IMG_6829.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQSMzgA7Ufn9uYogsAH_bVEN5joUcnjwDviUMYSKsCrrn3xX5e9ADqfTfUs9Gxr_yghCM1y3E_-RQcMk-72SEAcgkdg-rLsQLWUFvmrzX88iEY1Pkg5JiUBmR8pJIJlBcMLT85N1TWeDU/s1600/IMG_6829.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Aktuálne archeologické sondy",
+        "caption": "Aktuálne archeologické sondy",
+        "position": "left",
+        "width": "50",
+        "pairWithNext": true
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s0/IMG_6836.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ5qoOIJDIn0P8iU6rWHyZsdO-zNLuVEJNzId6d1O3teK7jjLKubjHWQg1ycEGSBmAMBQB3XVq0f2es37Jq5s37zj2MNnG_rzTA7_xXeT4v9quAHZcbLwZW765p1PhRRMFTAgBE6siTpc/s1600/IMG_6836.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Juhozápadný val",
+        "caption": "Juhozápadný val",
+        "position": "right",
+        "width": "50"
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s0/IMG_6839.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXNi3hpoRu26ysNRkW5Ua1Z4sVbTqmt8JGeBbMWkzEKnZdIg2Jnk-uIRXRxGQwWhFC6oPwMRosOGFpd_fsTF4kESP6FD-Rb36NDU7lqrKJAFuNh8JLxl_cDCmH7USjBxELQyP2LzAX1n0/s1600/IMG_6839.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Severozápadný val",
+        "caption": "Severozápadný val",
+        "position": "left",
+        "width": "50",
+        "pairWithNext": true
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s0/IMG_6845.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipbQPjX0I19K5WMsHQiHAk5-XjEF_RWqK2u-aIaDgKLJIcUDjHuGt-2DcNBCrm0fAumX5xe9oGytxXUXbxSRK5R2rGs9erbV2rdIvJGueZAXPQADfkmV32XWULAv5EMwEFIt4b2Oz5PVY/s1600/IMG_6845.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Prechod medzi akropolou a predhradím",
+        "caption": "Prechod medzi akropolou a predhradím",
+        "position": "right",
+        "width": "50"
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s0/IMG_6855.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMO-shdTvymBPbZl1xjY0LjbLifi1FNwDVSHR6CG2HBaNazwXH6L31vfyFy7IktoeGmJEfNduSITfo_Zb_RfOnKyGtW-_RGf9aFxWfm2821WkXUfC0ekqGhHUofpMlwLUz3nMXl_mLM6M/s1600/IMG_6855.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Rez valom, žiaľ moje \"skúsené\" oko tu nebolo schopné rozoznať stopy po vnútornej drevenej konštrukcii",
+        "caption": "Rez valom, žiaľ moje \"skúsené\" oko tu nebolo schopné rozoznať stopy po vnútornej drevenej konštrukcii",
+        "position": "left",
+        "width": "50",
+        "pairWithNext": true
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s0/IMG_6856.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6pZTkCfHTWGjgwb4LkK7xyD-DjWequp0X0JqT8kYBXjbUK-T2FxIwJM3gwIXe-jq0ZxHUuHzrEmk9NoFg6D4OrpDHcvODybIlRbFA5_fzB08RqLVE5b1zOqiYrAwJD5wWXVRLz8s1EyI/s1600/IMG_6856.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Juhovýchodný val",
+        "caption": "Juhovýchodný val",
+        "position": "right",
+        "width": "50"
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s0/IMG_6857.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Fzr-zXL81HDYQQw1NkLCegKRIUdNIvZJH0ytzG7MyMjWL3p50z67GrbU1kRgqYi-N1YLn68jHOMV-_yLeSH-ZiqbappRO9McO07KN-eYso5pWniCE5StmYG4J5Ykq2wh3UbkcISOqj4/s1600/IMG_6857.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Opäť juhovýchodný val",
+        "caption": "Opäť juhovýchodný val",
+        "position": "left",
+        "width": "50",
+        "pairWithNext": true
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv1pYY0Y85L6Q6AfvTU838XSvvlF7ke9KETAaAIihHxiUl-2qzStovZeILaoUEWAdIP6q_lwhy75tLZ3uGxKUep9pAsb-UvEEK1s6sryEuj1VNqxQg-Gdz8bnJjDcTxsRO12of676phpY/s0/IMG_6831.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv1pYY0Y85L6Q6AfvTU838XSvvlF7ke9KETAaAIihHxiUl-2qzStovZeILaoUEWAdIP6q_lwhy75tLZ3uGxKUep9pAsb-UvEEK1s6sryEuj1VNqxQg-Gdz8bnJjDcTxsRO12of676phpY/s1600/IMG_6831.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Hradisko Svätý Jur - Neštich",
+        "caption": "",
+        "position": "right",
+        "width": "50"
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSJESEBH7C-05qr0S7-kKnhBU6ktHl46zpNODjQdSfvA7n1mO-cTGxIsE1hsHL8RurxXTTgBAdFvHIaFRQXEYi51NdBMf0YcDxntciAo4zEW5mPwdt5Br5Ob8KB9-Z967_aVmFgfOA-c/s0/IMG_6832.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQSJESEBH7C-05qr0S7-kKnhBU6ktHl46zpNODjQdSfvA7n1mO-cTGxIsE1hsHL8RurxXTTgBAdFvHIaFRQXEYi51NdBMf0YcDxntciAo4zEW5mPwdt5Br5Ob8KB9-Z967_aVmFgfOA-c/s1600/IMG_6832.JPG",
+          "width": 320,
+          "height": 213
+        },
+        "alt": "Hradisko Svätý Jur - Neštich",
+        "caption": "",
+        "position": "left",
+        "width": "50",
+        "pairWithNext": true
+      },
+      {
         "__component": "content.sources",
         "title": "Zdroje a literatúra",
         "intro": null,
