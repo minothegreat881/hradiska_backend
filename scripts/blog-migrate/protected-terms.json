@@ -11,7 +11,36 @@
     "Čestislav", "Zemiň", "Ján Kollár", "Karl Berg", "Ján Ch. Korec", "Ján Sokol",
     "Havlík", "Poulík", "Michal III.", "Janšák",
     "Adalvin", "Wilhelm II.", "Engilschalk", "Slavomír", "Mojmír II.",
-    "Drahoslav Hulínek", "Matej Ruttkay", "Bednár", "Samuel"
+    "Drahoslav Hulínek", "Matej Ruttkay", "Bednár", "Samuel",
+    "Štibor zo Štiboríc", "Ctibor zo Ctiboríc", "Žigmund Luxemburský",
+    "Karol Pieta", "Alexander Ruttkay", "Svätopluk II.",
+    "Habovštiak", "Poláková", "Henning Gothe",
+    "Aventinus", "Biatec",
+    "Miloš Čižmář",
+    "Anton Hrnko", "Ján Steinhübel", "Konštantín", "Ibrahim ibn Jakub",
+    "J. Eisner", "Ľ. Kraskovská", "I. Keller", "Šalamún",
+    "Andrea Slaná", "Gabriel Fusek", "Čendo",
+    "Pavel Dvořák",
+    "Anna Bajerova", "Bc. Anna Bajerova",
+    "Jaroslav Kudrnáč",
+    "Boleslav I.", "Boleslav II.", "Boleslav III.", "Vojtěch", "Soběbor",
+    "Slavník", "Dětmar", "Spytimír", "Dobraslav", "Porej", "Čáslav",
+    "Jaxa z Köpenicku", "Albrecht Medveď",
+    "Štefan Janšák", "Marta Remiášová", "Belo IV.", "Peter Petic", "Stojislav",
+    "Mikovíni", "Mikuláš Bátori",
+    "Michal Čajka", "Čaplovič",
+    "Darina Bialeková",
+    "Štefan Kolivoško", "Branislav Varsík", "Bánesz", "Lamiová",
+    "Peter Šalkovský", "Béreš", "J. Béreš",
+    "Sziklay", "Borovszky", "Jedlicska",
+    "Július Vavák", "PhDr. Július Vavák",
+    "Ján Vavrus", "Martin Vančo", "Marcus Aurélius", "Marko Aurélius",
+    "Bogomel", "Soběslav", "Břetislav II.",
+    "Ondrej I.", "Anastázia", "Szőke Mátyás", "Györffy",
+    "Tomáš Demian",
+    "Vladimír Turčan",
+    "Marta Mácelová", "Ján Tuhársky", "Jozef Kabát", "Jakub Trnka",
+    "V. Budinský-Krička", "Budinský-Krička"
   ],
   "places": [
     "Wogastisburg", "Veligrad", "Velehrad", "Nitra", "Nitriansko", "Zobor",
@@ -27,12 +56,51 @@
     "Šomoďská župa", "Zalánska župa", "Zadunajsko",
     "Slavníč", "Slivnica", "Valy", "Lužice", "Moravská Nová Ves",
     "Lupka", "Šibeničný vrch", "Mačací hrádok", "Na vŕšku", "Chrenová",
-    "Žibrica", "Veľký Lysec", "Veľký Tríbeč", "Krnča"
+    "Žibrica", "Veľký Lysec", "Veľký Tríbeč", "Krnča",
+    "Beckov", "Bojná I", "Bojná II", "Bojná III", "Bojná IV", "Modrá",
+    "Zihľavník", "Hradská dolina", "Grác", "Kozárovce", "Malé Kozmálovce",
+    "Bíňa", "Brezalauspurc", "Dowina", "Nitrava",
+    "Břeclav", "Pohansko",
+    "Chotěbuz", "Podobora", "Starý Tešín", "Olša", "Těšín", "Tešín",
+    "Devínska Nová Ves", "Devínska kobyla", "Na pieskoch", "Nad lomom",
+    "Divinka", "Veľký vrch",
+    "Ducové", "Kostolec", "Hubina", "Piešťany",
+    "Gars", "Thunau", "Schanze", "Holzwiese", "Obere Holzwiese",
+    "Unter Holzwiese", "Kamptal",
+    "Klučov",
+    "Libice", "Libice nad Cidlinou",
+    "Gross Raden", "Raddusch", "Torgelow", "Köpenick", "Spandau",
+    "Brandenburg an der Havel", "Behren-Lübchin", "Stargrad", "Oldenburg",
+    "Ukranenland",
+    "Nitrianska Blatnica",
+    "Nitrianske Pravno", "Jasenovo", "Vyšehrad", "Sárfew", "Pravenec",
+    "Novohrad", "Nógrád", "Nógrádska župa",
+    "Orava", "Tupá skala", "Ostrá skala", "Trniny", "Sedliacka Dubová",
+    "Žiar", "Jasenica", "Hrdoš", "Vyšný Kubín", "Dolný Kubín", "Istebné",
+    "Oravský Podzámok", "Žaškov",
+    "Pobedim", "Zapupovec", "Dolné pole", "Horné pole",
+    "Seňa", "Abaujvár", "Nagyowar", "Óvár", "Gyňov", "Kechnec", "Belža",
+    "Szartos", "Garadna", "Barca",
+    "Spišské Tomášovce", "Čingov", "Hornád", "Tomášovský potok",
+    "Slovenský raj",
+    "Starý Tekov", "Várheď",
+    "Svätý Jur", "Neštich", "Biely Kameň",
+    "Tlmače", "Festunok", "Slovenská brána", "Krivín", "Beňadická skala",
+    "Kozárovská Dubová",
+    "Trenčín", "Laugaricio", "Székesfehérvár", "Čerešňový sad", "Skalka",
+    "Čertova skala",
+    "Visegrad", "Šibrikov kopec", "Dömös",
+    "Zemplín", "Bodrog", "Ondava", "Latorica",
+    "Zvolen", "Môťová", "Priekopa", "Slatina", "Neresnica",
+    "Šarišské Sokolovce", "Čergov", "Lazíky"
   ],
   "peoples": [
     "Vinidi", "Slovania", "Sloveni", "Avari", "Frankovia", "Franská ríša",
     "Austrázijci", "Korutánci", "Bavori", "Srbi", "Rimania", "Nemci",
-    "Ráni", "Ratari", "Luticovia", "Obodriti", "Polabskí Slovania"
+    "Ráni", "Ratari", "Luticovia", "Obodriti", "Polabskí Slovania",
+    "Warnovia", "Wilzovia", "Wagrovia", "Dolenci", "Čerezpeňania", "Chyžania",
+    "Slavníkovci", "Vršovci", "Přemyslovci", "Kotíni", "Kvádi", "Markomani",
+    "Eraviskovia", "Azali", "Belovská vetva", "Ondrejovská vetva"
   ],
   "deities": [
     "Svantovít", "Svarožič", "Radegast", "Riedegost", "Rugievit", "Porenut",
@@ -40,15 +108,23 @@
   ],
   "terms": [
     "burgus", "hrivna", "sekerovitá hrivna", "limes", "akropola", "rotunda",
-    "nartex", "baptistérium", "apsida", "hlaholika", "hlaholský", "veligradský"
+    "nartex", "baptistérium", "apsida", "hlaholika", "hlaholský", "veligradský",
+    "curtis", "trikonchálny", "trikoncha", "tetrakoncha", "montánna archeológia",
+    "Limes Romanus"
   ],
   "sources": [
-    "Fredegarova kronika", "Fuldské letopisy", "Fuldské anály", "Annales Fuldenses"
+    "Fredegarova kronika", "Fuldské letopisy", "Fuldské anály", "Annales Fuldenses",
+    "Kosmova kronika", "Bertiniánske anály", "Xantenské anály", "Xantenské letopisy",
+    "Zoborské listiny"
   ],
   "authors": [
     "Steinhübel", "Kučera", "Lutovský", "Profantová", "Janšák", "Ruttkay",
     "Hrubý", "Vilém Hrubý", "Chreňo", "Orgoň", "Szőke", "Muller",
     "Thietmar", "Adam Brémsky", "Saxo", "Saxo Grammaticus", "Helmold",
-    "Schuchhardt", "Herrmann", "Beranová", "Otto"
+    "Schuchhardt", "Herrmann", "Beranová", "Otto",
+    "Pieta", "Habovštiak", "Bednár", "Kudrnáč", "Bajerova", "Dvořák",
+    "Turčan", "Mácelová", "Bialeková", "Šalkovský", "Kolivoško", "Varsík",
+    "Bánesz", "Lamiová", "Vavák", "Vavrus", "Vančo", "Hulínek", "Čajka",
+    "Remiášová", "Petic", "Kraskovská", "Eisner", "Keller", "Steinhübel"
   ]
 }
