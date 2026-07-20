@@ -33,6 +33,16 @@ export default factories.createCoreController(
       // nespoliehame sa len na oprávnenia roly (tie sa dajú omylom prepnúť).
       if (!user) return ctx.unauthorized('Komentovať môžu len prihlásení používatelia.');
 
+      // Anti-spam: max 5 komentárov za minútu na účet. Chráni pred botmi a
+      // omylom viacnásobného odoslania.
+      const minuteAgo = new Date(Date.now() - 60_000).toISOString();
+      const recent = await strapi.documents('api::blog-comment.blog-comment').count({
+        filters: { user: { id: user.id }, createdAt: { $gt: minuteAgo } } as any,
+      });
+      if (recent >= 5) {
+        return ctx.tooManyRequests('Priveľa komentárov za krátky čas. Skúste o chvíľu.');
+      }
+
       const body = ctx.request.body?.data ?? {};
       if (!body.content?.trim() || !body.post) return ctx.badRequest('content a post sú povinné.');
 

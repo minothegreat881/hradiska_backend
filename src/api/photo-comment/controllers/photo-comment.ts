@@ -18,6 +18,13 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
     const user = ctx.state?.user;
     if (!user) return ctx.unauthorized('Komentovať môžu len prihlásení používatelia.');
 
+    // Anti-spam: max 5 foto-komentárov za minútu na účet.
+    const minuteAgo = new Date(Date.now() - 60_000).toISOString();
+    const recent = await strapi.documents('api::photo-comment.photo-comment').count({
+      filters: { user: { id: user.id }, createdAt: { $gt: minuteAgo } } as any,
+    });
+    if (recent >= 5) return ctx.tooManyRequests('Priveľa komentárov za krátky čas. Skúste o chvíľu.');
+
     const body = ctx.request.body?.data ?? {};
     if (!body.fileId || !body.content?.trim()) return ctx.badRequest('fileId a content sú povinné.');
 
