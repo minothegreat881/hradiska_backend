@@ -29,6 +29,10 @@ export default factories.createCoreController(
       if (hasApiToken) return super.create(ctx);
 
       const user = ctx.state?.user;
+      // Komentovať smú LEN prihlásení členovia. Obrana do hĺbky priamo tu —
+      // nespoliehame sa len na oprávnenia roly (tie sa dajú omylom prepnúť).
+      if (!user) return ctx.unauthorized('Komentovať môžu len prihlásení používatelia.');
+
       const body = ctx.request.body?.data ?? {};
       if (!body.content?.trim() || !body.post) return ctx.badRequest('content a post sú povinné.');
 
@@ -37,15 +41,15 @@ export default factories.createCoreController(
       // („Invalid key post"). Document service ho prijme rovnako ako token cesta.
       const created = await strapi.documents('api::blog-comment.blog-comment').create({
         data: {
-          authorName: user ? (user.displayName || user.username) : body.authorName,
-          authorEmail: user ? user.email : body.authorEmail,
+          authorName: user.displayName || user.username,
+          authorEmail: user.email,
           content: body.content,
           post: body.post,
           inReplyTo: body.inReplyTo ?? null,
           status: 'visible',   // zobrazí sa hneď
           approved: true,      // dorovnané kvôli starému filtru
           sourceBlogger: false,
-          user: user ? user.id : null,
+          user: user.id,
         } as any,
         populate: { user: true } as any,
       });
