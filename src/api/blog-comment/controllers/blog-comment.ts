@@ -1,81 +1,122 @@
 import { factories } from '@strapi/strapi';
 
-// Custom controller: pri public POST automaticky nastaví approved=false (vyžaduje
-// admin moderation), zabráni návštevníkovi prepísať approved/sourceBlogger flagy.
+/**
+ * Komentáre k článkom.
+ *
+ * ── Model po pridaní účtov (2026-07-20) ────────────────────────────────────
+ * Komentáre sa zobrazujú HNEĎ (`status: visible`) — bez schvaľovania, podľa
+ * rozhodnutia používateľa. Admin ich môže dodatočne skryť/spam/zmazať.
+ *
+ * `status` [visible|hidden|spam] nahradil rozhodovanie cez `approved`. Pole
+ * `approved` ostáva kvôli 732 migrovaným Blogger komentárom, ale verejný filter
+ * ide už podľa `status`.
+ *
+ * Bezpečnosť:
+ *   - staff (rola `authenticated` = admin) môže všetko (moderácia)
+ *   - prihlásený člen: `user` = on sám; upraviť/zmazať len VLASTNÝ komentár
+ *   - anonymný POST (Blogger dedičstvo / neprihlásený) sa zachováva, ale bez
+ *     väzby na účet
+ */
+const isStaff = (user: any) => user?.role?.type === 'authenticated';
+
 export default factories.createCoreController(
   'api::blog-comment.blog-comment',
   ({ strapi }) => ({
     async create(ctx) {
-      // Rozlíš public requesty (no auth / users-permissions Public role) od
-      // requestov s API tokenom (Full Access) — token-authenticated requesty
-      // môžu nastaviť všetky polia vrátane approved/sourceBlogger (pre migráciu).
       const auth = ctx.state?.auth;
       const hasApiToken = auth?.strategy?.name === 'api-token';
-      if (!hasApiToken) {
-        const body = ctx.request.body?.data ?? {};
-        ctx.request.body = {
-          data: {
-            authorName: body.authorName,
-            authorEmail: body.authorEmail,
-            content: body.content,
-            post: body.post,
-            inReplyTo: body.inReplyTo,
-            approved: false,
-            sourceBlogger: false,
-          },
-        };
+      // API token (migrácia) smie nastaviť všetko.
+      if (hasApiToken) return super.create(ctx);
+
+      const user = ctx.state?.user;
+      const body = ctx.request.body?.data ?? {};
+      if (!body.content?.trim() || !body.post) return ctx.badRequest('content a post sú povinné.');
+
+      // Zápis cez document service, nie super.create: content-API sanitizácia
+      // pri užívateľskej role odmieta reláciu `post` ako holý documentId
+      // („Invalid key post"). Document service ho prijme rovnako ako token cesta.
+      const created = await strapi.documents('api::blog-comment.blog-comment').create({
+        data: {
+          authorName: user ? (user.displayName || user.username) : body.authorName,
+          authorEmail: user ? user.email : body.authorEmail,
+          content: body.content,
+          post: body.post,
+          inReplyTo: body.inReplyTo ?? null,
+          status: 'visible',   // zobrazí sa hneď
+          approved: true,      // dorovnané kvôli starému filtru
+          sourceBlogger: false,
+          user: user ? user.id : null,
+        } as any,
+        populate: { user: true } as any,
+      });
+      return { data: created };
+    },
+
+    async update(ctx) {
+      const user = ctx.state?.user;
+      if (!user) return ctx.unauthorized();
+      const rec = await strapi.documents('api::blog-comment.blog-comment').findOne({
+        documentId: ctx.params.id, populate: { user: true } as any,
+      });
+      if (!rec) return ctx.notFound();
+
+      const own = (rec as any).user?.id === user.id;
+      if (!own && !isStaff(user)) return ctx.forbidden('Môžete upraviť len vlastný komentár.');
+
+      const body = ctx.request.body?.data ?? {};
+      const data: any = {};
+      if (own && typeof body.content === 'string') { data.content = body.content; data.editedAt = new Date(); }
+      if (isStaff(user) && body.status) data.status = body.status;   // moderácia
+      ctx.request.body = { data };
+      return super.update(ctx);
+    },
+
+    async delete(ctx) {
+      const user = ctx.state?.user;
+      if (!user) return ctx.unauthorized();
+      const rec = await strapi.documents('api::blog-comment.blog-comment').findOne({
+        documentId: ctx.params.id, populate: { user: true } as any,
+      });
+      if (!rec) return ctx.notFound();
+      if ((rec as any).user?.id !== user.id && !isStaff(user)) {
+        return ctx.forbidden('Môžete zmazať len vlastný komentár.');
       }
-      return await super.create(ctx);
+      return super.delete(ctx);
     },
-    async like(ctx) {
-      // Public endpoint: zvýši counter `likes` o 1.
-      // Anti-spam riešime na frontende cez localStorage (zabráni opätovnému klik-u
-      // z toho istého zariadenia). Backend nepárkuje hlasujúcich.
-      // Strapi 5 core route param je `:id` ale internou hodnotou je documentId.
-      const documentId = ctx.params?.id || ctx.params?.documentId;
-      if (!documentId) return ctx.badRequest('id (documentId) required');
-      const existing = await strapi
-        .documents('api::blog-comment.blog-comment')
-        .findOne({ documentId });
-      if (!existing) return ctx.notFound();
-      const updated = await strapi
-        .documents('api::blog-comment.blog-comment')
-        .update({
-          documentId,
-          data: { likes: ((existing as any).likes || 0) + 1 } as any,
-        });
-      return { data: { likes: (updated as any)?.likes ?? 0 } };
-    },
-    async unlike(ctx) {
-      // Public endpoint: zníži counter `likes` o 1 (nie pod 0).
-      // Pár-uje sa s `like` — toggle vzor cez localStorage na frontende.
-      // Strapi 5 core route param je `:id` ale internou hodnotou je documentId.
-      const documentId = ctx.params?.id || ctx.params?.documentId;
-      if (!documentId) return ctx.badRequest('id (documentId) required');
-      const existing = await strapi
-        .documents('api::blog-comment.blog-comment')
-        .findOne({ documentId });
-      if (!existing) return ctx.notFound();
-      const next = Math.max(0, ((existing as any).likes || 0) - 1);
-      const updated = await strapi
-        .documents('api::blog-comment.blog-comment')
-        .update({
-          documentId,
-          data: { likes: next } as any,
-        });
-      return { data: { likes: (updated as any)?.likes ?? 0 } };
-    },
+
     async find(ctx) {
-      // Public GET vidí len approved=true komentáre
-      const auth = ctx.state?.auth;
-      const isAdminOrToken = !!auth?.credentials || !!auth?.strategy;
-      if (!isAdminOrToken) {
+      // Verejnosť vidí len viditeľné; staff (admin) vidí všetko.
+      if (!isStaff(ctx.state?.user)) {
         const q = (ctx.query || {}) as Record<string, any>;
-        const existingFilters = (q.filters && typeof q.filters === 'object' ? q.filters : {}) as Record<string, any>;
-        q.filters = { ...existingFilters, approved: { $eq: true } };
+        q.filters = { ...(q.filters || {}), status: { $eq: 'visible' } };
         ctx.query = q;
       }
-      return await super.find(ctx);
+      return super.find(ctx);
+    },
+
+    async like(ctx) {
+      // PONECHANÉ kvôli spätnej kompatibilite frontendu, ale lajky sa presúvajú
+      // na kolekciu `reaction` (per účet). Tento endpoint len zvyšuje counter.
+      const documentId = ctx.params?.id || ctx.params?.documentId;
+      if (!documentId) return ctx.badRequest('id (documentId) required');
+      const existing = await strapi.documents('api::blog-comment.blog-comment').findOne({ documentId });
+      if (!existing) return ctx.notFound();
+      const updated = await strapi.documents('api::blog-comment.blog-comment').update({
+        documentId, data: { likes: ((existing as any).likes || 0) + 1 } as any,
+      });
+      return { data: { likes: (updated as any)?.likes ?? 0 } };
+    },
+
+    async unlike(ctx) {
+      const documentId = ctx.params?.id || ctx.params?.documentId;
+      if (!documentId) return ctx.badRequest('id (documentId) required');
+      const existing = await strapi.documents('api::blog-comment.blog-comment').findOne({ documentId });
+      if (!existing) return ctx.notFound();
+      const next = Math.max(0, ((existing as any).likes || 0) - 1);
+      const updated = await strapi.documents('api::blog-comment.blog-comment').update({
+        documentId, data: { likes: next } as any,
+      });
+      return { data: { likes: (updated as any)?.likes ?? 0 } };
     },
   }),
 );
