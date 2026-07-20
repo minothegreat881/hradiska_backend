@@ -54,11 +54,25 @@
       "type": "string",
       "maxLength": 200
     },
+    "status": {
+      "type": "enumeration",
+      "enum": ["visible", "hidden", "spam"],
+      "default": "visible",
+      "required": true
+    },
+    "editedAt": {
+      "type": "datetime"
+    },
     "post": {
       "type": "relation",
       "relation": "manyToOne",
       "target": "api::blog-post.blog-post",
       "inversedBy": "comments"
+    },
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
     }
   }
 }

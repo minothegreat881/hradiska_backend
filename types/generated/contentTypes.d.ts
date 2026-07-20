@@ -547,6 +547,7 @@ export interface ApiBlogCommentBlogComment extends Struct.CollectionTypeSchema {
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    editedAt: Schema.Attribute.DateTime;
     inReplyTo: Schema.Attribute.String &
       Schema.Attribute.SetMinMaxLength<{
         maxLength: 200;
@@ -573,9 +574,16 @@ export interface ApiBlogCommentBlogComment extends Struct.CollectionTypeSchema {
       Schema.Attribute.SetMinMaxLength<{
         maxLength: 200;
       }>;
+    status: Schema.Attribute.Enumeration<['visible', 'hidden', 'spam']> &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'visible'>;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    user: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
   };
 }
 
@@ -696,6 +704,94 @@ export interface ApiBlogTagBlogTag extends Struct.CollectionTypeSchema {
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+  };
+}
+
+export interface ApiPhotoCommentPhotoComment
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'photo_comments';
+  info: {
+    description: 'Koment\u00E1re k fotografi\u00E1m v gal\u00E9rii (lightbox). Fotka nie je entita \u2014 via\u017Ee sa cez fileId z Media Library.';
+    displayName: 'Photo Comment';
+    pluralName: 'photo-comments';
+    singularName: 'photo-comment';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    content: Schema.Attribute.Text &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 5000;
+      }>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    editedAt: Schema.Attribute.DateTime;
+    fileId: Schema.Attribute.Integer & Schema.Attribute.Required;
+    inReplyTo: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 200;
+      }>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::photo-comment.photo-comment'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    status: Schema.Attribute.Enumeration<['visible', 'hidden', 'spam']> &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'visible'>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    user: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
+  };
+}
+
+export interface ApiReactionReaction extends Struct.CollectionTypeSchema {
+  collectionName: 'reactions';
+  info: {
+    description: 'Lajk viazan\u00FD na \u00FA\u010Det. Nahr\u00E1dza po\u010D\u00EDtadlo `likes` bez ochrany \u2014 jeden \u00FA\u010Det vie da\u0165 lajk raz. Unik\u00E1tnos\u0165 (user, targetType, targetId) str\u00E1\u017Ei controller.';
+    displayName: 'Reaction';
+    pluralName: 'reactions';
+    singularName: 'reaction';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::reaction.reaction'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    targetId: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 200;
+      }>;
+    targetType: Schema.Attribute.Enumeration<
+      ['comment', 'photo', 'photo-comment', 'post']
+    > &
+      Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    user: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
   };
 }
 
@@ -1158,11 +1254,20 @@ export interface PluginUsersPermissionsUser
   };
   attributes: {
     blocked: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    blockedAt: Schema.Attribute.DateTime;
+    blockedReason: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 300;
+      }>;
     confirmationToken: Schema.Attribute.String & Schema.Attribute.Private;
     confirmed: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    displayName: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 60;
+      }>;
     email: Schema.Attribute.Email &
       Schema.Attribute.Required &
       Schema.Attribute.SetMinMaxLength<{
@@ -1214,6 +1319,8 @@ declare module '@strapi/strapi' {
       'api::blog-comment.blog-comment': ApiBlogCommentBlogComment;
       'api::blog-post.blog-post': ApiBlogPostBlogPost;
       'api::blog-tag.blog-tag': ApiBlogTagBlogTag;
+      'api::photo-comment.photo-comment': ApiPhotoCommentPhotoComment;
+      'api::reaction.reaction': ApiReactionReaction;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
       'plugin::i18n.locale': PluginI18NLocale;

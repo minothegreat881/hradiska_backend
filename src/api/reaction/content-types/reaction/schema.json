@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "reactions",
+  "info": {
+    "singularName": "reaction",
+    "pluralName": "reactions",
+    "displayName": "Reaction",
+    "description": "Lajk viazaný na účet. Nahrádza počítadlo `likes` bez ochrany — jeden účet vie dať lajk raz. Unikátnosť (user, targetType, targetId) stráži controller."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "targetType": {
+      "type": "enumeration",
+      "enum": ["comment", "photo", "photo-comment", "post"],
+      "required": true
+    },
+    "targetId": {
+      "type": "string",
+      "required": true,
+      "maxLength": 200
+    },
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    }
+  }
+}

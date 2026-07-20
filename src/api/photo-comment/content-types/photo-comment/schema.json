@@ -1,0 +1,43 @@
+{
+  "kind": "collectionType",
+  "collectionName": "photo_comments",
+  "info": {
+    "singularName": "photo-comment",
+    "pluralName": "photo-comments",
+    "displayName": "Photo Comment",
+    "description": "Komentáre k fotografiám v galérii (lightbox). Fotka nie je entita — viaže sa cez fileId z Media Library."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "fileId": {
+      "type": "integer",
+      "required": true
+    },
+    "content": {
+      "type": "text",
+      "required": true,
+      "maxLength": 5000
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": ["visible", "hidden", "spam"],
+      "default": "visible",
+      "required": true
+    },
+    "inReplyTo": {
+      "type": "string",
+      "maxLength": 200
+    },
+    "editedAt": {
+      "type": "datetime"
+    },
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    }
+  }
+}
