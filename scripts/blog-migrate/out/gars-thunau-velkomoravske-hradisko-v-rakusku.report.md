@@ -7,11 +7,11 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.06% vs originál (gramaticky opravené slová vyňaté: 4) — zvyšné mimo: tšit, oberie, prresunulo, spracoval, orgoň, foto, 2014, adam (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (7) ⊆ galéria (19) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 7, keyFacts 8
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 6 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 7 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 10 položiek |
+| sources (zdroje) | 1 → 1 položiek |
 
 ## Obrázky
 - **galéria:** 19 (12 s popisom)
@@ -47,10 +47,24 @@
   - Schanze: Rozloha 100 × 170 m, tvar písmena U, otvorená na východ
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 6**
+  - veľké/malé písmená: 2
+  - preklepy: 2
+  - zhoda podmet–prísudok: 1
+  - iné: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `Moc Veľkomoravských kniežat` → `Moc veľkomoravských kniežat` | prídavné meno malým (vzor) |
+| 2 | undefined | `viaceré Veľkomoravské hradiská` → `viaceré veľkomoravské hradiská` | prídavné meno malým (vzor) |
+| 3 | undefined | `ranostredovekú čast hradiska` → `ranostredovekú časť hradiska` | chýbajúci mäkčeň (preklep) |
+| 4 | undefined | `Rano stredoveké obvodové opevnenie` → `Ranostredoveké obvodové opevnenie` | zhoda s 'ranostredovekými/ranostredovekej' použitými inde v článku |
+| 5 | undefined | `Priestory komôr boli vysypanie zeminou` → `Priestory komôr boli vysypané zeminou` | preklep koncovky |
+| 6 | undefined | `šírka základne hradby približne 7 m.` → `šírka základne hradby bola približne 7 m.` | vypadnuté sloveso |
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 11106 znakov (1624 slov)
+- **text tela:** 11086 znakov (1622 slov)
+- **pokrytie textu vs originál:** 99.06% (mimo: tšit, oberie, prresunulo, spracoval, orgoň, foto, 2014, adam)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

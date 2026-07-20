@@ -1,0 +1,26 @@
+{
+  "timeline": [
+    { "year": "koniec 8. – prvá polovica 10. storočia", "title": "Trvanie opevnenej slovanskej osady", "description": "Existencia opevnenej slovanskej osady na Dedovci je vymedzená od konca 8. do prvej polovice 10. storočia; skorší začiatok osídlenia alebo jeho dlhšie pretrvávanie nie je preukázateľné.", "type": "era" },
+    { "year": "1957 – 1958", "title": "Systematický archeologický výskum", "description": "Opevnená osada na Dedovci v Považskej Bystrici bola systematicky skúmaná pod vedením A. Petrovského-Šichmana a stala sa dosiaľ najlepšie preskúmaným sídliskom tohto obdobia na strednom Považí.", "type": "discovery" },
+    { "year": "mladšia doba rímska", "title": "Šatová spona ako vzácna „starožitnosť“", "description": "Medzi nálezmi z obdobia Veľkej Moravy sa na Dedovci vyskytla aj šatová spona z mladšej doby rímskej, ktorá zrejme zdobila šaty niektorej z obyvateliek osady ako vzácna starožitnosť.", "type": "discovery" }
+  ],
+  "keyFacts": [
+    { "label": "Preskúmaná plocha", "value": "57 × 46 m, 54 preskúmaných objektov", "icon": "map" },
+    { "label": "Opevnenie", "value": "Drevená palisáda namiesto typického drevozemného valu", "icon": "shield" },
+    { "label": "Najpočetnejší nález", "value": "12 železných nožov, z toho 7 zachovaných vcelku", "icon": "star" },
+    { "label": "Chirurgický nástroj", "value": "Nožík s krátkou čepeľou a dlhou rúčkou slúžiaci ako skalpel, s výnimočne vybrúseným ostrím", "icon": "custom" },
+    { "label": "Poľnohospodárske nástroje", "value": "Súčasť oradla, zlomok železného kosáka a krúžok na upevnenie kosy na kosisko", "icon": "mountain" },
+    { "label": "Šperky a ozdoby", "value": "Korálik z modrého skla, bronzový krúžok so záveskom (náušnica) a železný kľúč", "icon": "star" },
+    { "label": "Vedúci výskumu", "value": "Výskum viedol A. Petrovský-Šichman v rokoch 1957 – 1958", "icon": "book" }
+  ],
+  "corrections": [
+    { "before": "Poľnohoospodári", "after": "Poľnohospodári" },
+    { "before": "Považsko Bystričanov", "after": "Považskobystričanov" },
+    { "before": "škály V ich výzdobe", "after": "škály. V ich výzdobe" },
+    { "before": "dlhej rúčky ktorý plnil", "after": "dlhej rúčky, ktorý plnil" },
+    { "before": "domácku remeselnú činnosť", "after": "domácu remeselnú činnosť" },
+    { "before": "uzamykanie dvier", "after": "uzamykanie dverí" },
+    { "before": "proti vlhkú", "after": "proti vlhku" },
+    { "before": "46m", "after": "46 m" }
+  ]
+}

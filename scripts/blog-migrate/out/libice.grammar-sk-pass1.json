@@ -1,0 +1,23 @@
+{
+  "slug": "libice-hlavne-hradisko-slavnikovcov-cz",
+  "note": "grammar-sk agent, prvý prechod. NEZVYČAJNÁ štruktúra: bloky 0-6 sú v ČEŠTINE (priamo prevzaté zo Slovane.cz, viď Zdroje 'Článok prevzatý z výbornej stránky Slovane.cz') — ošetrené LEN typograficky (medzery, pomlčky), gramatika/slovník češtiny nedotknuté (rovnaký princíp ako pri protected-zone citátoch). Bloky 8-18 (Vyvraždenie Slavníkovcov) sú pôvodný slovenský text — plná gramatická korektúra.",
+  "appliedFixes": [
+    { "rule": "B typografia (česká časť, len medzery/pomlčky)", "before": "o šířce 4,5m ... V letech 1949-1953", "after": "o šířce 4,5 m ... V letech 1949 – 1953", "block": "1, 4" },
+    { "rule": "A9 malé písmená (prídavné mená z vlastných mien) + zhoda osoby slovesa", "before": "Česko-Slovenský dejepis ... Českého štátu ... a priblížime si ... Českých dejinách", "after": "česko-slovenský dejepis ... českého štátu ... a priblížim si ... českých dejinách", "block": 9 },
+    { "rule": "B typografia (úvodzovky)", "before": "(\"pomoc\" v bitke) ... dával knieža \"chytať\"", "after": "(„pomoc\" v bitke) ... dával knieža „chytať\"", "block": 11 },
+    { "rule": "A9 malé písmeno + A4 pád + B pomlčka + A4 zámeno rodu", "before": "Saskou cisárskou dynastiou ... saská dynastie chcela ... syn - Boleslav II. ... ktorej prvým biskupom ... - Dětmar", "after": "saskou cisárskou dynastiou ... saská dynastia chcela ... syn — Boleslav II. ... ktorého prvým biskupom ... — Dětmar", "block": 12 },
+    { "rule": "A4 pád (inštrumentál) + úvodzovky", "before": "medzi vládnucimi Přemyslovci a ambicióznymi Slavníkovcami ... Táto \"konkurencia\"", "after": "medzi vládnucimi Přemyslovcami a ambicióznymi Slavníkovcami ... Táto „konkurencia\"", "block": 13, "note": "'Přemyslovci' bol nominatív namiesto inštrumentálu, nekonzistentný s 'Slavníkovcami' v tej istej vete" },
+    { "rule": "A1 chýbajúca čiarka", "before": "zo Sliezska situáciu tiež nezlepšili", "after": "zo Sliezska, situáciu tiež nezlepšili", "block": 14 },
+    { "rule": "A4 predložková väzba + A4 pád", "before": "vydal rozkaz k zničeniu Slavníkovcov ... využil situácie", "after": "vydal rozkaz na zničenie Slavníkovcov ... využil situáciu", "block": 15 },
+    { "rule": "B pomlčky", "before": "syn kniežaťa - Boleslav Ryšavý ... Slavníkovcov - Libice, bolo", "after": "syn kniežaťa — Boleslav Ryšavý ... Slavníkovcov — Libice, bolo", "block": 16 },
+    { "rule": "A1 chýbajúca čiarka", "before": "Začal tuhý boj v ktorom, aj cez svoju odvahu", "after": "Začal tuhý boj, v ktorom, aj cez svoju odvahu", "block": 17 },
+    { "rule": "B pomlčka", "before": "ktorí prežili - Vojtech a Soběbor", "after": "ktorí prežili — Vojtech a Soběbor", "block": 18 }
+  ],
+  "reviewed_no_change": [
+    "Bloky 0, 2, 3, 5, 6 (čeština) — nedotknuté okrem uvedených typografických opráv, gramatika/slovník ponechané ako priamy prevzatý text.",
+    "'Libice boli venované' (blok 18) — 'Libice' ako plurale tantum (podobne ako iné české miestne názvy na -ice), gramaticky obhájiteľné, neopravené."
+  ],
+  "flags": [
+    "Blok 12: 'prvým biskupom sa stal Sas znalý slovenských pomerov — Dětmar' — vecne podozrivé, keďže Dětmar bol prvým biskupom PRAŽSKÉHO (českého) biskupstva a celý kontext článku sa týka výlučne českých dejín, nie slovenských. Vysoká pravdepodobnosť, že malo byť 'znalý českých pomerov'. NEOPRAVENÉ (mení fakt, nie len gramatiku), iba nahlásené na overenie proti zdroju."
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label-cand-Sitno.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-7986183952303248063",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/01/praveke-hradisko-na-sitne.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/7986183952303248063/comments/default",
+    "extractedAt": "2026-07-15T22:20:41.658Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://sketchfab.com/models/54c56affcad24ee5ad9ff2f1beb42be2/embed"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 6,
+      "captionedImages": 3,
+      "separatorImages": 3
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "PRAVEKÉ HRADISKO NA SITNE",
+    "slug": "praveke-hradisko-na-sitne",
+    "excerpt": "Archeologickú lokalitu Sitno ako prvý skúmal koncom minulého storočia Andrej Kmeť. Na jeho prácu neskôr nadväzovali pracovníci Slovenského banského múzea v Banskej Štiavnici (Ján Truchlík, Zora Liptáková a Jozef Labuda). V posledných rokoch v…",
+    "authorName": "PhDr. Pavol Žebrák",
+    "publishedAt": "2013-01-16T11:13:00.004+01:00",
+    "originalPublishedDate": "2013-01-16T11:13:00.004+01:00",
+    "updatedAt": "2023-02-03T10:03:36.741+01:00",
+    "readingTime": 5,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwnqDX_GcTfAyci5_fSndMba-Q8GwBZZZAyON2WnVfBKDqpLrxfdob1GbAVTqp-GLhaCd-4Z-6UsOOw_Xt-pmp-_OII60-E9AWD_KG-KIfkZe58yuHLGBwcDi4SuD42HgXIap7gYcdDs/s0/voj+map+1.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwnqDX_GcTfAyci5_fSndMba-Q8GwBZZZAyON2WnVfBKDqpLrxfdob1GbAVTqp-GLhaCd-4Z-6UsOOw_Xt-pmp-_OII60-E9AWD_KG-KIfkZe58yuHLGBwcDi4SuD42HgXIap7gYcdDs/s1600/voj+map+1.JPG",
+      "filename": "voj+map+1.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwnqDX_GcTfAyci5_fSndMba-Q8GwBZZZAyON2WnVfBKDqpLrxfdob1GbAVTqp-GLhaCd-4Z-6UsOOw_Xt-pmp-_OII60-E9AWD_KG-KIfkZe58yuHLGBwcDi4SuD42HgXIap7gYcdDs/s1600/voj+map+1.JPG",
+        "displayedWidth": 320,
+        "displayedHeight": 158,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwnqDX_GcTfAyci5_fSndMba-Q8GwBZZZAyON2WnVfBKDqpLrxfdob1GbAVTqp-GLhaCd-4Z-6UsOOw_Xt-pmp-_OII60-E9AWD_KG-KIfkZe58yuHLGBwcDi4SuD42HgXIap7gYcdDs/s0/voj+map+1.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwnqDX_GcTfAyci5_fSndMba-Q8GwBZZZAyON2WnVfBKDqpLrxfdob1GbAVTqp-GLhaCd-4Z-6UsOOw_Xt-pmp-_OII60-E9AWD_KG-KIfkZe58yuHLGBwcDi4SuD42HgXIap7gYcdDs/s1600/voj+map+1.JPG",
+        "filename": "voj+map+1.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwnqDX_GcTfAyci5_fSndMba-Q8GwBZZZAyON2WnVfBKDqpLrxfdob1GbAVTqp-GLhaCd-4Z-6UsOOw_Xt-pmp-_OII60-E9AWD_KG-KIfkZe58yuHLGBwcDi4SuD42HgXIap7gYcdDs/s1600/voj+map+1.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 158,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Sitno na 1. voj. mapovaní"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnaRZBIJO34Zejumz-i1fKkSC4nGIrqc9qlDCI4S1f2yAllMO9zm7pUiimjwp2P1tx0CgQlpFHOViaMLSiv3B5KBoUNFnX5YVR1mj8MdaS5CJwIu8bSqLpDaoG4PVewKspvVmvN8hR4A/s0/amf.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnaRZBIJO34Zejumz-i1fKkSC4nGIrqc9qlDCI4S1f2yAllMO9zm7pUiimjwp2P1tx0CgQlpFHOViaMLSiv3B5KBoUNFnX5YVR1mj8MdaS5CJwIu8bSqLpDaoG4PVewKspvVmvN8hR4A/s1600/amf.JPG",
+        "filename": "amf.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnaRZBIJO34Zejumz-i1fKkSC4nGIrqc9qlDCI4S1f2yAllMO9zm7pUiimjwp2P1tx0CgQlpFHOViaMLSiv3B5KBoUNFnX5YVR1mj8MdaS5CJwIu8bSqLpDaoG4PVewKspvVmvN8hR4A/s1600/amf.JPG",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Amfora podolskej kultúry (V. Kóša)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSr1_Nkr7DGSRPzvto8ZjvcyLvZ5Ngd9yTnfkDCE3ueKoXmTR2CrBzgsIZgOdus7zx9M8W9xSxFFZJPdpIGY9VYyF2wTPwDAGPvWQ_6iYEY6CwhWpzPbeEDdNd0YZx5XovTLykdRsL3CmL/s0/Miska+Hals%25CC%258Ctat+Sitno+%2528Balasa%2529.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSr1_Nkr7DGSRPzvto8ZjvcyLvZ5Ngd9yTnfkDCE3ueKoXmTR2CrBzgsIZgOdus7zx9M8W9xSxFFZJPdpIGY9VYyF2wTPwDAGPvWQ_6iYEY6CwhWpzPbeEDdNd0YZx5XovTLykdRsL3CmL/s1600/Miska+Hals%25CC%258Ctat+Sitno+%2528Balasa%2529.jpg",
+        "filename": "Miska+Hals%CC%8Ctat+Sitno+%28Balasa%29.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSr1_Nkr7DGSRPzvto8ZjvcyLvZ5Ngd9yTnfkDCE3ueKoXmTR2CrBzgsIZgOdus7zx9M8W9xSxFFZJPdpIGY9VYyF2wTPwDAGPvWQ_6iYEY6CwhWpzPbeEDdNd0YZx5XovTLykdRsL3CmL/s1600/Miska+Hals%25CC%258Ctat+Sitno+%2528Balasa%2529.jpg",
+          "displayedWidth": 234,
+          "displayedHeight": 320,
+          "originalWidth": 1172,
+          "originalHeight": 1600
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYKoumz42HgykDhvQsLEnXsMOSrcWu_tbdgkItK33hvoHmePfPFeVtW2aY_qPt8Uo3JFBPC_vhRHVpI7ot2oRbnAHwccn5i6K3VyFSax08lxCuf3RIkvkS0TecgWFfhoAN2Ojq9IOBB1g/s0/amf2.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYKoumz42HgykDhvQsLEnXsMOSrcWu_tbdgkItK33hvoHmePfPFeVtW2aY_qPt8Uo3JFBPC_vhRHVpI7ot2oRbnAHwccn5i6K3VyFSax08lxCuf3RIkvkS0TecgWFfhoAN2Ojq9IOBB1g/s1600/amf2.JPG",
+        "filename": "amf2.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYKoumz42HgykDhvQsLEnXsMOSrcWu_tbdgkItK33hvoHmePfPFeVtW2aY_qPt8Uo3JFBPC_vhRHVpI7ot2oRbnAHwccn5i6K3VyFSax08lxCuf3RIkvkS0TecgWFfhoAN2Ojq9IOBB1g/s1600/amf2.JPG",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Fragment amfory kyjatickej kultúry (V. Kóša)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWNbSCJ5YwD4kBnKQ2E8dkClU0nKoNZm1r2YPLze1WASDf6LIF5EYoDyZawZnbhjEbFHmVCQwt-48SVwz5qeyRj3jWzo81qeka2MbrafPK5tX_MaPRn2zGcfSCvkTSQqCyAbumzaNY0S0/s0/Poc%CC%8Cu%CC%81vadlo+a+Sitno.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWNbSCJ5YwD4kBnKQ2E8dkClU0nKoNZm1r2YPLze1WASDf6LIF5EYoDyZawZnbhjEbFHmVCQwt-48SVwz5qeyRj3jWzo81qeka2MbrafPK5tX_MaPRn2zGcfSCvkTSQqCyAbumzaNY0S0/s1600/Poc%CC%8Cu%CC%81vadlo+a+Sitno.jpg",
+        "filename": "Počúvadlo+a+Sitno.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWNbSCJ5YwD4kBnKQ2E8dkClU0nKoNZm1r2YPLze1WASDf6LIF5EYoDyZawZnbhjEbFHmVCQwt-48SVwz5qeyRj3jWzo81qeka2MbrafPK5tX_MaPRn2zGcfSCvkTSQqCyAbumzaNY0S0/s1600/Poc%CC%8Cu%CC%81vadlo+a+Sitno.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBWC1Jf83yM0oPMr6y5Z3WynOThH0L3C3Vp4eDC5Lwd1jaaQwIcaxXmqP7Jm4ysD_nK79VmVM8zkb8ETKNomTr_BjATXEoZIStLuFjfdcPjImdphUtyPE2QmBlQo0kgN9UWMLgMrI9haFLxAxHiUkzF0KW1E3A_XHZMOl2x2Y9KbQBBLmNhdASHqnsEg/s0/Depot%201984.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBWC1Jf83yM0oPMr6y5Z3WynOThH0L3C3Vp4eDC5Lwd1jaaQwIcaxXmqP7Jm4ysD_nK79VmVM8zkb8ETKNomTr_BjATXEoZIStLuFjfdcPjImdphUtyPE2QmBlQo0kgN9UWMLgMrI9haFLxAxHiUkzF0KW1E3A_XHZMOl2x2Y9KbQBBLmNhdASHqnsEg/s1600/Depot%201984.jpg",
+        "filename": "Depot 1984.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBWC1Jf83yM0oPMr6y5Z3WynOThH0L3C3Vp4eDC5Lwd1jaaQwIcaxXmqP7Jm4ysD_nK79VmVM8zkb8ETKNomTr_BjATXEoZIStLuFjfdcPjImdphUtyPE2QmBlQo0kgN9UWMLgMrI9haFLxAxHiUkzF0KW1E3A_XHZMOl2x2Y9KbQBBLmNhdASHqnsEg/s2048/Depot%201984.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Sitno"
+    ],
+    "category": null,
+    "location": {
+      "name": "Sitno",
+      "latitude": 48.3897,
+      "longitude": 18.8586,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Rozloha hradiska",
+        "value": "približne 16 hektárov, najvyššie položený opevnený bod lužickej kultúry na Slovensku",
+        "icon": "mountain"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "dve línie valov — vonkajší obvodový val a priečny val rozdeľujúci hradisko na dolnú a hornú časť",
+        "icon": "shield"
+      },
+      {
+        "label": "Najvýznamnejší nález",
+        "value": "bronzový poklad z r. 1986 (opasok, náramky, nákrčníky, záušnice, ihlica)",
+        "icon": "star"
+      },
+      {
+        "label": "Prvý výskumník",
+        "value": "Andrej Kmeť, koncom 19. storočia",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1000 – 700 pred n. l.",
+        "title": "Vznik hradiska ľudu lužickej kultúry",
+        "description": "Ľud lužickej kultúry vybudoval počas neskorej doby bronzovej mohutné valové opevnenie — najvyššie položený opevnený bod tejto kultúry na Slovensku, možno aj v strednej Európe.",
+        "type": "founding"
+      },
+      {
+        "year": "2. storočie pred n. l.",
+        "title": "Stopy po Slovanoch",
+        "description": "Zistili sa stopy po Slovanoch — rotačný žarnov a niekoľko črepov keramiky.",
+        "type": "discovery"
+      },
+      {
+        "year": "2. storočie n. l.",
+        "title": "Antická rímska minca",
+        "description": "V priestoroch akropoly sa spolu so stredovekou keramikou našla antická rímska minca z 2. storočia nášho letopočtu.",
+        "type": "discovery"
+      },
+      {
+        "year": "13. storočie",
+        "title": "Prestavba valu na stredoveké hradby",
+        "description": "Pôvodný val bol v stredoveku (asi v 13. storočí) upravený na mohutné hradby, tvoriace spolu so stredovekým hradom jednoliaty opevnený celok.",
+        "type": "construction"
+      },
+      {
+        "year": "13. – 16. storočie",
+        "title": "Stredoveké osídlenie terás",
+        "description": "Sídliskové objekty z tejto doby možno sledovať na terasách v podobe rôzne veľkých a rôzne hlbokých, približne štvorcových jám.",
+        "type": "era"
+      },
+      {
+        "year": "1986",
+        "title": "Objav bronzového pokladu",
+        "description": "Dr. Pavel Žebrák z Archeologického ústavu SAV v Nitre objavil v úkryte pod podlahou chaty významný bronzový poklad — zdobený opasok, náramky, nákrčníky, záušnice, ihlicu, drôtené krúžky a ozdoby v tvare presýpacích hodín.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Archeologickú lokalitu Sitno ako prvý skúmal koncom minulého storočia Andrej Kmeť. Na jeho prácu neskôr nadväzovali pracovníci Slovenského banského múzea v Banskej Štiavnici (Ján Truchlík, Zora Liptáková a Jozef Labuda). V posledných rokoch v súvislosti s rozsiahlejšou stavebnou činnosťou tu v spolupráci so Slovenským banským múzeom robí záchranný výskum Archeologický ústav Slovenskej akadémie vied v Nitre. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "sketchfab",
+        "embedId": "54c56affcad24ee5ad9ff2f1beb42be2",
+        "url": "https://sketchfab.com/models/54c56affcad24ee5ad9ff2f1beb42be2/embed",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "https://sketchfab.com/3d-models/hradisko-sitno-narodna-kulturna-pamiatka-54c56affcad24ee5ad9ff2f1beb42be2?utm_medium=embed&utm_campaign=share-popup&utm_content=54c56affcad24ee5ad9ff2f1beb42be2",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Hradisko Sitno - národná kultúrna pamiatka"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " by "
+              },
+              {
+                "type": "link",
+                "url": "https://sketchfab.com/Pamiatkovy_Urad_SR?utm_medium=embed&utm_campaign=share-popup&utm_content=54c56affcad24ee5ad9ff2f1beb42be2",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Pamiatkový úrad SR"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " on "
+              },
+              {
+                "type": "link",
+                "url": "https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=54c56affcad24ee5ad9ff2f1beb42be2",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Sketchfab"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Praveké hradisko zaoberá vrcholovú časť Sitna; zo severu, západu a juhu je prirodzene chránené strmými andezitovými bralami. Jediný možný prístup do prírodou opevneného priestoru je z východu. Preto práve ľud lužickej kultúry vybudoval počas neskorej doby bronzovej mohutné valové opevnenie. Tak bol vytvorený ideálny obranný systém, skladajúci sa jednak z prirodzenej ochrany skalných zrázov, jednak z umelých valov, ktoré vedú v dvoch líniách. Prvú tvorí vonkajší obvodový val, ktorý sa napája na sitnianske bralá z juhu a zo severu; mal za úlohu zachytiť prvý nápor útočníkov. Na východnej strane je dodnes dobre zachovalý, od juhu sa kombinuje so skalnými zrázmi a možno ho vidieť ako sotva viditeľnú vyvýšeninu. Celý val bol neskôr v stredoveku (asi v 13. storočí) upravený na mohutné hradby, tvoriace spolu so stredovekým hradom jednoliaty opevnený celok. Druhú líniu valového opevnenia tvorí priečny val, ktorý rozdeľuje hradisko na dolnú a hornú časť (jeho zvyšky sú viditeľné pri spodnej stanici lyžiarskeho vleku). Tento val nebol v stredoveku využitý na obranné účely. Vrchol Sitna teda môžeme, v určitom zmysle slova, nazvať akropolou, v ktorej sa nachádzal aj výdatný prameň vody."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Celý priestor hradiska má rozlohu približne 16 hektárov a je najvyššie položeným opevneným bodom ľudu lužickej kultúry počas neskorej doby bronzovej (1 000 až 700 rokov pred naším letopočtom) na Slovensku a azda aj v rámci strednej Európy. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwnqDX_GcTfAyci5_fSndMba-Q8GwBZZZAyON2WnVfBKDqpLrxfdob1GbAVTqp-GLhaCd-4Z-6UsOOw_Xt-pmp-_OII60-E9AWD_KG-KIfkZe58yuHLGBwcDi4SuD42HgXIap7gYcdDs/s0/voj+map+1.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwnqDX_GcTfAyci5_fSndMba-Q8GwBZZZAyON2WnVfBKDqpLrxfdob1GbAVTqp-GLhaCd-4Z-6UsOOw_Xt-pmp-_OII60-E9AWD_KG-KIfkZe58yuHLGBwcDi4SuD42HgXIap7gYcdDs/s1600/voj+map+1.JPG",
+          "filename": "voj+map+1.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPwnqDX_GcTfAyci5_fSndMba-Q8GwBZZZAyON2WnVfBKDqpLrxfdob1GbAVTqp-GLhaCd-4Z-6UsOOw_Xt-pmp-_OII60-E9AWD_KG-KIfkZe58yuHLGBwcDi4SuD42HgXIap7gYcdDs/s1600/voj+map+1.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 158,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Sitno na 1. voj. mapovaní",
+        "caption": "Sitno na 1. voj. mapovaní",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pri výskume akropoly v miestach stavby vysielača sa nepodarilo nájsť kultúrne objekty, ale len veľké množstvo fragmentov keramiky lužickej kultúry, ktoré nesú zjavné stopy vplyvu z oblasti kultúry kyjatickej (juh stredného Slovenska) a kultúry stredodunajských urnových polí (juh západného Slovenska). Ľud sídliaci na Sitne v neskorej dobe bronzovej žil teda na hranici týchto troch veľkých kultúr. Keramické črepy boli združené do zhlukov, z čoho možno usudzovať na bližšie neurčené sídelné objekty, pravdepodobne sezónneho rázu. Okrem keramiky sa tu našli hlinené prasleny používané pri pradení nití, kamenné žarnovy spolu s drvičmi obilia, fragmenty bronzových šperkov, napríklad, nákrčníky a ihlice, a veľké množstvo kamenných a hlinených koliesok, pravdepodobne kultového charakteru. Bronzové predmety spolu so skôr nájdenou časťou kamenného kadlubu na odlievanie bronzových dlátok potvrdzujú domnienku o existencii metalurgickej dielne v tejto časti Sitna. Pri týchto predmetoch z neskorej doby bronzovej sa v priestoroch akropoly našla stredoveká keramika a antická minca z 2. storočia nášho letopočtu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnaRZBIJO34Zejumz-i1fKkSC4nGIrqc9qlDCI4S1f2yAllMO9zm7pUiimjwp2P1tx0CgQlpFHOViaMLSiv3B5KBoUNFnX5YVR1mj8MdaS5CJwIu8bSqLpDaoG4PVewKspvVmvN8hR4A/s0/amf.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnaRZBIJO34Zejumz-i1fKkSC4nGIrqc9qlDCI4S1f2yAllMO9zm7pUiimjwp2P1tx0CgQlpFHOViaMLSiv3B5KBoUNFnX5YVR1mj8MdaS5CJwIu8bSqLpDaoG4PVewKspvVmvN8hR4A/s1600/amf.JPG",
+          "filename": "amf.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWnaRZBIJO34Zejumz-i1fKkSC4nGIrqc9qlDCI4S1f2yAllMO9zm7pUiimjwp2P1tx0CgQlpFHOViaMLSiv3B5KBoUNFnX5YVR1mj8MdaS5CJwIu8bSqLpDaoG4PVewKspvVmvN8hR4A/s1600/amf.JPG",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Amfora podolskej kultúry (V. Kóša)",
+        "caption": "Amfora podolskej kultúry (V. Kóša)",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Priestor medzi akropolou a priečnym valom (horná časť hradiska) je síce na niektorých miestach terasovite upravený, ale nesie minimálne znaky osídlenia. Zatiaľ sa nedá presne určiť, na čo tento priestor slúžil.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Priestor medzi priečnym a obvodovým valom (dolná časť hradiska) bol husto osídlený v praveku aj v stredoveku. Sídliskové objekty sú sústredené do blízkosti oboch valov, pričom stredoveké nadväzujú na terasovitú úpravu terénu. Najväčšia koncentrácia osídlenia sa však nachádza v blízkosti obvodného valu. Tu, v zložitej stratigrafii pôdnych vrstiev, komplikovanej naviac splachom pôdy z vyššie položených miest, sa objavilo nespočetné množstvo keramických črepov z neskorej doby bronzovej, analogických tým z akropoly, desiatky kamenných žarnovov a drvičov obilia, hlinené prasleny a tkáčske závažia, kamenné i hlinené kolieska, fragmenty bronzových nákrčníkov, bronzových nádob (v miestach, kde kedysi našiel Kmeť nádobu celú), neurčiteľné bronzové pliešky a bronzový vrchol šípu. Podarilo sa nájsť z tejto doby i sídliskový objekt s ohniskom, v ktorého tesnej blízkosti bol kamenný žarnov, drvič obilia, praslen i fragment závažia spolu s keramikou, ktorá svedčí o tom, že celý nálezový súbor pochádza z neskorej doby bronzovej. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSr1_Nkr7DGSRPzvto8ZjvcyLvZ5Ngd9yTnfkDCE3ueKoXmTR2CrBzgsIZgOdus7zx9M8W9xSxFFZJPdpIGY9VYyF2wTPwDAGPvWQ_6iYEY6CwhWpzPbeEDdNd0YZx5XovTLykdRsL3CmL/s0/Miska+Hals%25CC%258Ctat+Sitno+%2528Balasa%2529.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSr1_Nkr7DGSRPzvto8ZjvcyLvZ5Ngd9yTnfkDCE3ueKoXmTR2CrBzgsIZgOdus7zx9M8W9xSxFFZJPdpIGY9VYyF2wTPwDAGPvWQ_6iYEY6CwhWpzPbeEDdNd0YZx5XovTLykdRsL3CmL/s1600/Miska+Hals%25CC%258Ctat+Sitno+%2528Balasa%2529.jpg",
+          "filename": "Miska+Hals%CC%8Ctat+Sitno+%28Balasa%29.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSr1_Nkr7DGSRPzvto8ZjvcyLvZ5Ngd9yTnfkDCE3ueKoXmTR2CrBzgsIZgOdus7zx9M8W9xSxFFZJPdpIGY9VYyF2wTPwDAGPvWQ_6iYEY6CwhWpzPbeEDdNd0YZx5XovTLykdRsL3CmL/s1600/Miska+Hals%25CC%258Ctat+Sitno+%2528Balasa%2529.jpg",
+            "displayedWidth": 234,
+            "displayedHeight": 320,
+            "originalWidth": 1172,
+            "originalHeight": 1600
+          }
+        },
+        "alt": "PRAVEKÉ HRADISKO NA SITNE ",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V roku 1986 realizoval v lokalite archeologický výskum Dr. Pavel Žebrák z Archeologického ústavu SAV v Nitre. V úkryte pod podlahou chaty sa mu podarilo objaviť významný nález bronzového pokladu v podobe zdobeného opaska, náramkov, nákrčníkov, záušníc, ihlice, drôtených krúžkov a ozdoby v tvare presýpacích hodín. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vzhľadom na miniatúrnosť predmetov môžeme predpokladať, že nález patril ako šperk mladému dievčaťu, ktoré mohlo byť členom rodiny kmeňového náčelníka Sitna. Poklad z doby bronzovej je vystavený v archeologickej expozícii Starého zámku."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Stredoveké osídlenie súvisí s terasovitou úpravou terénu. Sídliskové objekty z tejto doby (zhruba 13. až 16. storočie) možno sledovať na terasách v podobe rôzne veľkých a rôzne hlbokých, približne štvorcových jám. V ich okolí sa nachádza dostatok stredovekej keramiky, stavebného železa (klince, skoby a podobne), železné podkovy, kľúče, tyčinkové zámky i nože, zdobené nepravým damaskom. V blízkosti brány, ktorá v týchto miestach plní svoju funkciu od praveku dodnes, sa našlo veľké množstvo železnej trosky, čo svedčí o stredovekej metalurgickej činnosti v tejto lokalite. Nejasná je zatiaľ súvislosť stredovekého osídlenia a hradu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYKoumz42HgykDhvQsLEnXsMOSrcWu_tbdgkItK33hvoHmePfPFeVtW2aY_qPt8Uo3JFBPC_vhRHVpI7ot2oRbnAHwccn5i6K3VyFSax08lxCuf3RIkvkS0TecgWFfhoAN2Ojq9IOBB1g/s0/amf2.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYKoumz42HgykDhvQsLEnXsMOSrcWu_tbdgkItK33hvoHmePfPFeVtW2aY_qPt8Uo3JFBPC_vhRHVpI7ot2oRbnAHwccn5i6K3VyFSax08lxCuf3RIkvkS0TecgWFfhoAN2Ojq9IOBB1g/s1600/amf2.JPG",
+          "filename": "amf2.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYKoumz42HgykDhvQsLEnXsMOSrcWu_tbdgkItK33hvoHmePfPFeVtW2aY_qPt8Uo3JFBPC_vhRHVpI7ot2oRbnAHwccn5i6K3VyFSax08lxCuf3RIkvkS0TecgWFfhoAN2Ojq9IOBB1g/s1600/amf2.JPG",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Fragment amfory kyjatickej kultúry (V. Kóša)",
+        "caption": "Fragment amfory kyjatickej kultúry (V. Kóša)",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Okrem osídlenia v neskorej dobe bronzovej a vo vrcholnom stredoveku boli zistené i stopy po Slovanoch (rotačný žarnov a niekoľko črepov keramiky z 2. storočia pred naším letopočtom). Z 2. storočia nášho letopočtu je už spomenutá rímska minca. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "LIT:"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ondrej Ožďáni – Pavel Žebrák: Depot bronzových predmetov z hradiska lužickej kultúry na Sitne, Slovenská archeológia LXV – 2, 2017, 237 – 277"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "PhDr. Pavol Žebrák\n \n"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "článok uverejnený so súhlasom autora "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Veľmi dobrý článok o Sitne nájdete aj na "
+              },
+              {
+                "type": "link",
+                "url": "https://lumyd.eu/article/praveke-hradisko-na-pekelnom-vrchu-zahada-prazdnej-akropoly-na-sitne/53",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "TOMTO ODKAZE"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

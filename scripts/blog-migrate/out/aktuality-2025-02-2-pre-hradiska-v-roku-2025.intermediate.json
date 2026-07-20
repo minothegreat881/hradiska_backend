@@ -1,0 +1,106 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2025-02-2-pre-hradiska-v-roku-2025.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3252616445402786044",
+    "bloggerPostUrl": "http://www.hradiska.sk/2025/02/2-pre-hradiska-v-roku-2025.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3252616445402786044/comments/default",
+    "extractedAt": "2026-07-18T11:21:59.575Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "2% Pre Hradiská v roku 2025",
+    "slug": "2-pre-hradiska-v-roku-2025",
+    "excerpt": "Aj v tomto roku sa uchádzame o Vaše 2% a preto ak ešte nie ste rozhodnutí, budeme Vám za pomoc veľmi vďační ...Tlačivo si môžete stiahnuť TU: Tlačivo na 2%",
+    "authorName": "Orgon",
+    "publishedAt": "2025-02-19T12:15:00.001+01:00",
+    "originalPublishedDate": "2025-02-19T12:15:00.001+01:00",
+    "updatedAt": "2025-02-19T12:15:18.385+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHH2lg8g3GK-AVyaASEDjOAtxUnvdIypY4JaNgBe-iudm3BfuHg8EGraVbBQWodJUXxfn2OUUxVMZOyH6283EPOyvFdtFlw3xeqC5AmLKhuJNIF_HvmBCzQ9rQbBpEE84wogHYkJ-GTij2qELb1hJXp6fAHTRMxfTqWzKzTgFNrVvLA79QN90VCW_cp0-5/s0/Banner%202%25%202025.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHH2lg8g3GK-AVyaASEDjOAtxUnvdIypY4JaNgBe-iudm3BfuHg8EGraVbBQWodJUXxfn2OUUxVMZOyH6283EPOyvFdtFlw3xeqC5AmLKhuJNIF_HvmBCzQ9rQbBpEE84wogHYkJ-GTij2qELb1hJXp6fAHTRMxfTqWzKzTgFNrVvLA79QN90VCW_cp0-5/s1600/Banner%202%25%202025.jpg",
+        "filename": "Banner 2% 2025.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHH2lg8g3GK-AVyaASEDjOAtxUnvdIypY4JaNgBe-iudm3BfuHg8EGraVbBQWodJUXxfn2OUUxVMZOyH6283EPOyvFdtFlw3xeqC5AmLKhuJNIF_HvmBCzQ9rQbBpEE84wogHYkJ-GTij2qELb1hJXp6fAHTRMxfTqWzKzTgFNrVvLA79QN90VCW_cp0-5/s1748/Banner%202%25%202025.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 227,
+          "originalWidth": 1748,
+          "originalHeight": 1240
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Darujte nám 2%\n"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Aj v tomto roku sa uchádzame o Vaše 2% a preto ak ešte nie ste rozhodnutí, budeme Vám za pomoc veľmi vďační ... Tlačivo si môžete stiahnuť TU: "
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/file/d/1e56fo5eRxTsMJmvHdT8QLpJpL0ldl1VA/view?usp=sharing",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Tlačivo na 2%"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

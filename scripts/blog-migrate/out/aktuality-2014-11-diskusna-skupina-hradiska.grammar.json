@@ -1,0 +1,8 @@
+{
+  "_note": "grammar-sk v7 §21 — aktualita 'Diskusná skupina Hradiská' (2014-11). Autorova SK próza.",
+  "corrections": [
+    { "hint": 0, "before": "skupinu najdete na tejto", "after": "skupinu nájdete na tejto", "reason": "diakritika najdete→nájdete (A8)" },
+    { "hint": 0, "before": "takmer 1250 členov", "after": "takmer 1 250 členov", "reason": "oddeľovač tisícov (B)" },
+    { "hint": 1, "before": "HRADISKÁ - DISKUSIA", "after": "HRADISKÁ – DISKUSIA", "reason": "spojovník → en dash (B)" }
+  ]
+}

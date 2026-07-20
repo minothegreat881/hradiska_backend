@@ -1,0 +1,114 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 12 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "mladšia doba kamenná",
+      "title": "Najstaršie osídlenie hradného kopca",
+      "description": "Kultúra lineárnej keramiky, bádenská kultúra, ľud so šnúrovou keramikou a maďarovská kultúra zanechali kultové artefakty; ľud maďarovskej kultúry postavil prvé opevnenie akropoly drevozemným valom hrubým pri základoch až 4 m.",
+      "type": "founding"
+    },
+    {
+      "year": "laténske obdobie",
+      "title": "Keltské osídlenie",
+      "description": "Nález džbánu so 70 keltskými mincami (napodobeninami rímskych denárov, razenými Eraviskami a Azalmi) na nádvorí stredného hradu.",
+      "type": "event"
+    },
+    {
+      "year": "3. – 4. storočie",
+      "title": "Rímske stavby",
+      "description": "Rimania postavili murovanú strážnu vežu na akropole a rozsiahlejšiu štvorpriestorovú budovu s apsidou na nádvorí stredného hradu, súčasť sústavy Limes Romanus.",
+      "type": "construction"
+    },
+    {
+      "year": "8. storočie",
+      "title": "Prvé slovanské hradisko",
+      "description": "Využívajúce zvyšky staršej rímskej fortifikácie (val na severnej strane); v tomto období sa ťažisko osídlenia pravdepodobne presunulo z Devínskej Novej Vsi do oblasti Devína.",
+      "type": "founding"
+    },
+    {
+      "year": "koniec 7. storočia",
+      "title": "Devín ako oporný bod Avarov",
+      "description": "Podľa historika Jána Steinhübela odtiaľto Avari ovládali Slovanov na Morave; dokladá to nárast jazdeckých hrobov v okolí a bohato vybavený hrob avarského jazdca priamo v obci Devín.",
+      "type": "event"
+    },
+    {
+      "year": "začiatok 9. storočia",
+      "title": "Moravské kniežatá sa zmocňujú Devína",
+      "description": "Po oslabení avarskej moci si moravské kniežatá opätovne podmanili Devín a začali ho prebudovávať na jednu z najvýznamnejších pevností.",
+      "type": "construction"
+    },
+    {
+      "year": "846 – 870 (vláda Rastislava)",
+      "title": "Rastislavov Devín — vrchol významu",
+      "description": "Devín chránil prechod cez Dunaj z Východnej marky aj hranicu proti Nitriansku; okolo ústredného hradiska vznikli satelitné hradiská Na pieskoch a Nad lomom na Devínskej kobyle.",
+      "type": "construction"
+    },
+    {
+      "year": "864",
+      "title": "Obliehanie Dowiny kráľom Ľudovítom Nemcom",
+      "description": "Fuldské anály zaznamenávajú, ako franský kráľ obľahol Rastislava v meste Dowina; Rastislav napokon zložil (nedodržaný) vazalský sľub — Devínske opevnenie sa ukázalo natoľko impozantné, že Ľudovít sa ani nepokúsil o jeho dobytie silou.",
+      "type": "event"
+    },
+    {
+      "year": "1984 – 1985",
+      "title": "Objavenie trojapsidovej sakrálnej stavby",
+      "description": "Trikonchálny kostol odkrytý v polohe „Nad prístaviskom\", postavený naraz (previazané múry), zdobený maľovanou omietkou podobne ako kostoly v Mikulčiciach a na Bratislavskom hrade.",
+      "type": "discovery"
+    },
+    {
+      "year": "9. storočie (sprievodné hroby)",
+      "title": "Pohrebisko pri kostole",
+      "description": "Zachovalo sa 6 hrobov datovaných do 9. storočia pri sakrálnej stavbe; neskoršie pohrebisko cez múry kostola (11. – 13. stor.) dokladá, že stavba už bola v ruinách.",
+      "type": "discovery"
+    },
+    {
+      "year": "1953",
+      "title": "Odkrytie pohrebiska Staré Vinohrady",
+      "description": "Ľ. Kraskovská odkryla 24 hrobov vrátane troch symbolických (kenotafov).",
+      "type": "discovery"
+    },
+    {
+      "year": "60. – 70. roky 20. storočia",
+      "title": "Najväčšie pohrebisko „Za kostolom\"",
+      "description": "I. Keller odkryl 122 hrobov, takmer polovicu tvorili detské hroby.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Ostrožná poloha nad sútokom Dunaja a Moravy, na križovatke Jantárovej a Dunajskej cesty",
+      "icon": "mountain"
+    },
+    {
+      "label": "Devínsky chlieb",
+      "value": "Zuhoľnatený okrúhly bochník (priemer cca 23 cm, cca 1 kg) z germánskeho obdobia, upečený z pšeničnej múky s prímesou ražnej",
+      "icon": "star"
+    },
+    {
+      "label": "Sústava troch hradísk",
+      "value": "Ústredné hradisko (dnešný hrad) plus satelitné hradiská Na pieskoch a Nad lomom na Devínskej kobyle, obe s roštovou konštrukciou opevnenia a stopami po zničujúcom požiari",
+      "icon": "shield"
+    },
+    {
+      "label": "Trikonchálny kostol",
+      "value": "Trojapsidová sakrálna stavba z 9. storočia, múry pokryté bielou vápennou omietkou, interiér zdobený maľbami",
+      "icon": "building"
+    },
+    {
+      "label": "Tri pohrebiská mimo hradiska",
+      "value": "Mladošovičov vinohrad (13 hrobov, J. Eisner), Staré Vinohrady (24 hrobov, 1953, Ľ. Kraskovská) a Za kostolom (122 hrobov, I. Keller)",
+      "icon": "scroll"
+    },
+    {
+      "label": "Písomné pramene",
+      "value": "Fuldské a Bertiniánske anály, Xantenské letopisy a Dejiny franských kráľov spomínajú Dowinu/Devín v súvislosti s výpravou Ľudovíta Nemca roku 864",
+      "icon": "scroll"
+    },
+    {
+      "label": "Prístup",
+      "value": "Hradiská Na pieskoch a Nad lomom sú dodnes bez akéhokoľvek turistického označenia veľkomoravského významu",
+      "icon": "star"
+    }
+  ]
+}

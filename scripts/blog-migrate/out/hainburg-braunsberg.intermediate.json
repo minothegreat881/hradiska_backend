@@ -1,0 +1,621 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-braunsberg-hainburg.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1229937615426324100",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/01/hainburg-braunsberg.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1229937615426324100/comments/default",
+    "extractedAt": "2026-07-15T22:20:19.003Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&ll=48.153575,16.959414&spn=0.021587,0.064631&t=h&z=15&vpsrc=6&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 25,
+      "captionedImages": 7,
+      "separatorImages": 18
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations"
+    ]
+  },
+  "blogPost": {
+    "title": "Hainburg - Braunsberg",
+    "slug": "hainburg-braunsberg",
+    "excerpt": "Hora Braunsberg, ležiaca v rakúskom mestečku Hainburg, je jedným z troch keltských hradísk, ktoré sa nachádzajú v oblasti tzv. Uhorskej brány. Tento výrazný, 376 metrov vysoký osamotený vrch si všimne každý návštevník, ktorý prechádza cez toto…",
+    "authorName": "Orgon",
+    "publishedAt": "2013-01-01T23:11:00.005+01:00",
+    "originalPublishedDate": "2013-01-01T23:11:00.005+01:00",
+    "updatedAt": "2025-02-03T22:24:40.763+01:00",
+    "readingTime": 3,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Omv4p0Y-8uGAOinds0VBf0XVPydb6AYq-Z9s2XjorT0Zaf-UUkBiBWIJFV0J_lLG6irMnagfcY1ZVW0dHj4nzH4NeYV1wNzxkBjYJMcKDgmEJd_Kk-uPhHvAfLVJA3xAQeKZDkowKhyAqBmaaR6EaTogNAYNFKdRo7z5dNVkcPxiugYDWb-Iu_6OabFy/s0/IMG_20250203_222200.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Omv4p0Y-8uGAOinds0VBf0XVPydb6AYq-Z9s2XjorT0Zaf-UUkBiBWIJFV0J_lLG6irMnagfcY1ZVW0dHj4nzH4NeYV1wNzxkBjYJMcKDgmEJd_Kk-uPhHvAfLVJA3xAQeKZDkowKhyAqBmaaR6EaTogNAYNFKdRo7z5dNVkcPxiugYDWb-Iu_6OabFy/s1600/IMG_20250203_222200.jpg",
+      "filename": "IMG_20250203_222200.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Omv4p0Y-8uGAOinds0VBf0XVPydb6AYq-Z9s2XjorT0Zaf-UUkBiBWIJFV0J_lLG6irMnagfcY1ZVW0dHj4nzH4NeYV1wNzxkBjYJMcKDgmEJd_Kk-uPhHvAfLVJA3xAQeKZDkowKhyAqBmaaR6EaTogNAYNFKdRo7z5dNVkcPxiugYDWb-Iu_6OabFy/s1437/IMG_20250203_222200.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 241,
+        "originalWidth": 1437,
+        "originalHeight": 1080
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Omv4p0Y-8uGAOinds0VBf0XVPydb6AYq-Z9s2XjorT0Zaf-UUkBiBWIJFV0J_lLG6irMnagfcY1ZVW0dHj4nzH4NeYV1wNzxkBjYJMcKDgmEJd_Kk-uPhHvAfLVJA3xAQeKZDkowKhyAqBmaaR6EaTogNAYNFKdRo7z5dNVkcPxiugYDWb-Iu_6OabFy/s0/IMG_20250203_222200.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Omv4p0Y-8uGAOinds0VBf0XVPydb6AYq-Z9s2XjorT0Zaf-UUkBiBWIJFV0J_lLG6irMnagfcY1ZVW0dHj4nzH4NeYV1wNzxkBjYJMcKDgmEJd_Kk-uPhHvAfLVJA3xAQeKZDkowKhyAqBmaaR6EaTogNAYNFKdRo7z5dNVkcPxiugYDWb-Iu_6OabFy/s1600/IMG_20250203_222200.jpg",
+        "filename": "IMG_20250203_222200.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Omv4p0Y-8uGAOinds0VBf0XVPydb6AYq-Z9s2XjorT0Zaf-UUkBiBWIJFV0J_lLG6irMnagfcY1ZVW0dHj4nzH4NeYV1wNzxkBjYJMcKDgmEJd_Kk-uPhHvAfLVJA3xAQeKZDkowKhyAqBmaaR6EaTogNAYNFKdRo7z5dNVkcPxiugYDWb-Iu_6OabFy/s1437/IMG_20250203_222200.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 241,
+          "originalWidth": 1437,
+          "originalHeight": 1080
+        },
+        "caption": "Foto: Darken Cara"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6VAVKxoGg1UbxiHxt0nvGWuTNz5no_cezx-HBIlSyCW5f_013U7KWUaOm3iwjBVUPx7e6-NgwgHLIbmnNyxEMJtNBT464FebdGMJX3U3KXVSBoy-4Z0H6RnUmO9qkYld9ttnpDUi0MqE/s0/IMG_1013.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6VAVKxoGg1UbxiHxt0nvGWuTNz5no_cezx-HBIlSyCW5f_013U7KWUaOm3iwjBVUPx7e6-NgwgHLIbmnNyxEMJtNBT464FebdGMJX3U3KXVSBoy-4Z0H6RnUmO9qkYld9ttnpDUi0MqE/s1600/IMG_1013.JPG",
+        "filename": "IMG_1013.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6VAVKxoGg1UbxiHxt0nvGWuTNz5no_cezx-HBIlSyCW5f_013U7KWUaOm3iwjBVUPx7e6-NgwgHLIbmnNyxEMJtNBT464FebdGMJX3U3KXVSBoy-4Z0H6RnUmO9qkYld9ttnpDUi0MqE/s1600/IMG_1013.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuvyuHNbo4O9UcbiV5lo3rTVUQfjggR_na-0DhpThc4U73-Nnv8G2wDHMGoLzVfzA4UDj9lKJaujD4CkfpBDJ9_pC2ndmIbAFq5ZjxL1m5hEncpRDLoIN1aM7ttuOLVdKEGWlvieXNPc/s0/plan.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuvyuHNbo4O9UcbiV5lo3rTVUQfjggR_na-0DhpThc4U73-Nnv8G2wDHMGoLzVfzA4UDj9lKJaujD4CkfpBDJ9_pC2ndmIbAFq5ZjxL1m5hEncpRDLoIN1aM7ttuOLVdKEGWlvieXNPc/s1600/plan.JPG",
+        "filename": "plan.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuvyuHNbo4O9UcbiV5lo3rTVUQfjggR_na-0DhpThc4U73-Nnv8G2wDHMGoLzVfzA4UDj9lKJaujD4CkfpBDJ9_pC2ndmIbAFq5ZjxL1m5hEncpRDLoIN1aM7ttuOLVdKEGWlvieXNPc/s1600/plan.JPG",
+          "displayedWidth": 277,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsGAA3N8NiR-oBs5iF4Ydz8dJGFUjUGntcfjJ8YSQa81rx4sFPkkOjfpYVLc-JnYsKWXpJ84-qsE777Ad9Hpvx6hvayFHlcPUggDNBnuzagEIHgrOX6P6wCYvNi0gie8aUYrXq6qjwRhM/s0/val.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsGAA3N8NiR-oBs5iF4Ydz8dJGFUjUGntcfjJ8YSQa81rx4sFPkkOjfpYVLc-JnYsKWXpJ84-qsE777Ad9Hpvx6hvayFHlcPUggDNBnuzagEIHgrOX6P6wCYvNi0gie8aUYrXq6qjwRhM/s1600/val.JPG",
+        "filename": "val.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsGAA3N8NiR-oBs5iF4Ydz8dJGFUjUGntcfjJ8YSQa81rx4sFPkkOjfpYVLc-JnYsKWXpJ84-qsE777Ad9Hpvx6hvayFHlcPUggDNBnuzagEIHgrOX6P6wCYvNi0gie8aUYrXq6qjwRhM/s1600/val.JPG",
+          "displayedWidth": 265,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjFBrsbL7cCJ_CP1ib152xogHk2QgbxjlbbamaKRy5JTwHe-ctsRua338ecfvREylEKtmGSn4mu7z0S0sXvfBMHLmpEk_bcKu-Sjg5c1Ey4t_kC8RysGaEcArq6cqgYO3O0kHSM1BzQDA/s0/c%CC%8Crepy.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjFBrsbL7cCJ_CP1ib152xogHk2QgbxjlbbamaKRy5JTwHe-ctsRua338ecfvREylEKtmGSn4mu7z0S0sXvfBMHLmpEk_bcKu-Sjg5c1Ey4t_kC8RysGaEcArq6cqgYO3O0kHSM1BzQDA/s1600/c%CC%8Crepy.JPG",
+        "filename": "črepy.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjFBrsbL7cCJ_CP1ib152xogHk2QgbxjlbbamaKRy5JTwHe-ctsRua338ecfvREylEKtmGSn4mu7z0S0sXvfBMHLmpEk_bcKu-Sjg5c1Ey4t_kC8RysGaEcArq6cqgYO3O0kHSM1BzQDA/s1600/c%CC%8Crepy.JPG",
+          "displayedWidth": 230,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbQe1EQqeyW_It5HxGLk6mFybq7iMkG8rKRXmqg0jXjX96uwY-dZ5xJp1pTV_ovkxWF4Y9Qou7IDhtyaGpFdt0NhqUBswkGy3DBSsA2PRxcbSyks5-XPOUaiXuesTu2rck5ekt3PRWGPs/s0/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbQe1EQqeyW_It5HxGLk6mFybq7iMkG8rKRXmqg0jXjX96uwY-dZ5xJp1pTV_ovkxWF4Y9Qou7IDhtyaGpFdt0NhqUBswkGy3DBSsA2PRxcbSyks5-XPOUaiXuesTu2rck5ekt3PRWGPs/s1600/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+        "filename": "Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbQe1EQqeyW_It5HxGLk6mFybq7iMkG8rKRXmqg0jXjX96uwY-dZ5xJp1pTV_ovkxWF4Y9Qou7IDhtyaGpFdt0NhqUBswkGy3DBSsA2PRxcbSyks5-XPOUaiXuesTu2rck5ekt3PRWGPs/s1600/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 95,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpEKnbXl9pyQhnPfhfjYwKrbZsayNKrjzmL-0c-tp4Xi_-_oMeqUndL5HEpwps4X1rWyc7XmLCeLq5WiRiNxiLVI8h1lhGTdQXxfVAJXBo9aLN-zRkmu8UZUgViVWlCCX17_iGOMDUplI/s0/DSC_0494.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpEKnbXl9pyQhnPfhfjYwKrbZsayNKrjzmL-0c-tp4Xi_-_oMeqUndL5HEpwps4X1rWyc7XmLCeLq5WiRiNxiLVI8h1lhGTdQXxfVAJXBo9aLN-zRkmu8UZUgViVWlCCX17_iGOMDUplI/s1600/DSC_0494.JPG",
+        "filename": "DSC_0494.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpEKnbXl9pyQhnPfhfjYwKrbZsayNKrjzmL-0c-tp4Xi_-_oMeqUndL5HEpwps4X1rWyc7XmLCeLq5WiRiNxiLVI8h1lhGTdQXxfVAJXBo9aLN-zRkmu8UZUgViVWlCCX17_iGOMDUplI/s1600/DSC_0494.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhanMqPR2Do-3kkF-CJuD7GBTGKBXnGufOjxLTFeI4GC8eb5RjvDsU_HD8zcD2JM2Xlv-fjs-q9soUZEypEv7TDtb9ruiSYBMSIOgMerBM6IWrVvInBGiPbU2fbrGVZNaxNychqFSoKv-s/s0/IMG_0933.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhanMqPR2Do-3kkF-CJuD7GBTGKBXnGufOjxLTFeI4GC8eb5RjvDsU_HD8zcD2JM2Xlv-fjs-q9soUZEypEv7TDtb9ruiSYBMSIOgMerBM6IWrVvInBGiPbU2fbrGVZNaxNychqFSoKv-s/s1600/IMG_0933.JPG",
+        "filename": "IMG_0933.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhanMqPR2Do-3kkF-CJuD7GBTGKBXnGufOjxLTFeI4GC8eb5RjvDsU_HD8zcD2JM2Xlv-fjs-q9soUZEypEv7TDtb9ruiSYBMSIOgMerBM6IWrVvInBGiPbU2fbrGVZNaxNychqFSoKv-s/s1600/IMG_0933.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJNRBBt2WGDftzOZ8M1FOprtb2awnz-srnGW64wCxRUp0Jpb5EtWxGQREHh8rqwFKL0cgXRp2wrVEWGtPcdUkV-ZHiS-xHIN6PmZMWr2dA0ZuSBU9AJVxJt2huIOhyYbKyxjIBSsoDeLU/s0/IMG_0939.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJNRBBt2WGDftzOZ8M1FOprtb2awnz-srnGW64wCxRUp0Jpb5EtWxGQREHh8rqwFKL0cgXRp2wrVEWGtPcdUkV-ZHiS-xHIN6PmZMWr2dA0ZuSBU9AJVxJt2huIOhyYbKyxjIBSsoDeLU/s1600/IMG_0939.JPG",
+        "filename": "IMG_0939.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJNRBBt2WGDftzOZ8M1FOprtb2awnz-srnGW64wCxRUp0Jpb5EtWxGQREHh8rqwFKL0cgXRp2wrVEWGtPcdUkV-ZHiS-xHIN6PmZMWr2dA0ZuSBU9AJVxJt2huIOhyYbKyxjIBSsoDeLU/s1600/IMG_0939.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Stále dobre viditeľný val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUC1-tID1468MVama5j2iw1V-NlDV-IUb2uElq0tMXSiPGuhyphenhyphen7GDFTwDpVEi4vyzrUpn0rvdeZUd4xb0-Qs2ASv31OcBlsc-xIZsHDzQw7QOtQRFKzfzDNkT-djpNYUjNCNT9TeJX-vx8/s0/IMG_0940.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUC1-tID1468MVama5j2iw1V-NlDV-IUb2uElq0tMXSiPGuhyphenhyphen7GDFTwDpVEi4vyzrUpn0rvdeZUd4xb0-Qs2ASv31OcBlsc-xIZsHDzQw7QOtQRFKzfzDNkT-djpNYUjNCNT9TeJX-vx8/s1600/IMG_0940.JPG",
+        "filename": "IMG_0940.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUC1-tID1468MVama5j2iw1V-NlDV-IUb2uElq0tMXSiPGuhyphenhyphen7GDFTwDpVEi4vyzrUpn0rvdeZUd4xb0-Qs2ASv31OcBlsc-xIZsHDzQw7QOtQRFKzfzDNkT-djpNYUjNCNT9TeJX-vx8/s1600/IMG_0940.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z hradiska na Hainburg"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcF3e_aMEVN2BhGrHBjuTlv_Bu7QIlb1i1ZEWZ_fx8JTWA4VQK0dnyHU3u8oEo3OjrPh3cCOSFFCtL8Fo4VnWMhoaMUnFphHALXTHUXCcBMaFpz5xyRjW-GU6BSz8QMmK23TqYat3GzU/s0/IMG_0941.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcF3e_aMEVN2BhGrHBjuTlv_Bu7QIlb1i1ZEWZ_fx8JTWA4VQK0dnyHU3u8oEo3OjrPh3cCOSFFCtL8Fo4VnWMhoaMUnFphHALXTHUXCcBMaFpz5xyRjW-GU6BSz8QMmK23TqYat3GzU/s1600/IMG_0941.JPG",
+        "filename": "IMG_0941.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwcF3e_aMEVN2BhGrHBjuTlv_Bu7QIlb1i1ZEWZ_fx8JTWA4VQK0dnyHU3u8oEo3OjrPh3cCOSFFCtL8Fo4VnWMhoaMUnFphHALXTHUXCcBMaFpz5xyRjW-GU6BSz8QMmK23TqYat3GzU/s1600/IMG_0941.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHyfXjRMIxmnAP4XmAE0CdDs7ndqD-TGgmX5nu7U2FOs_YUq5qeNTAyNsXXlonpldNX62ycT_KfmhzdBE4EyVhPyMWftq4GOHz4-3p2rzsJI4xb7xeLbrU1ApsnBwDrHjEKvDcGTKNb-k/s0/IMG_0942.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHyfXjRMIxmnAP4XmAE0CdDs7ndqD-TGgmX5nu7U2FOs_YUq5qeNTAyNsXXlonpldNX62ycT_KfmhzdBE4EyVhPyMWftq4GOHz4-3p2rzsJI4xb7xeLbrU1ApsnBwDrHjEKvDcGTKNb-k/s1600/IMG_0942.JPG",
+        "filename": "IMG_0942.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHyfXjRMIxmnAP4XmAE0CdDs7ndqD-TGgmX5nu7U2FOs_YUq5qeNTAyNsXXlonpldNX62ycT_KfmhzdBE4EyVhPyMWftq4GOHz4-3p2rzsJI4xb7xeLbrU1ApsnBwDrHjEKvDcGTKNb-k/s1600/IMG_0942.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiakfhTU-4-mcC5n6UqLy9PjF0NrfNVKiCe9vhVlSeQ5J7kqmYa1WgnNWidse9MqbOE4AGCR84n4Si6YIDKJXPI2rokx1kwIx0YPDNB7VXOzRWjCEYnqraN0tRgg6Xd5ALu7bEnuv4sMBM/s0/IMG_0945.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiakfhTU-4-mcC5n6UqLy9PjF0NrfNVKiCe9vhVlSeQ5J7kqmYa1WgnNWidse9MqbOE4AGCR84n4Si6YIDKJXPI2rokx1kwIx0YPDNB7VXOzRWjCEYnqraN0tRgg6Xd5ALu7bEnuv4sMBM/s1600/IMG_0945.JPG",
+        "filename": "IMG_0945.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiakfhTU-4-mcC5n6UqLy9PjF0NrfNVKiCe9vhVlSeQ5J7kqmYa1WgnNWidse9MqbOE4AGCR84n4Si6YIDKJXPI2rokx1kwIx0YPDNB7VXOzRWjCEYnqraN0tRgg6Xd5ALu7bEnuv4sMBM/s1600/IMG_0945.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhBQFWwVHc-6Y0s2rbg_2aXz23nzO6fAJ6iZKNafEl6t2xJwEVa-fROGNRxmKvLafM0S8gSkwIPzsibCO32BFP4HpXBEEUM9_-7apiweIEM6DqLouoHrayCRFQ7gV3qp-OeTE5MmA36A/s0/IMG_0951.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhBQFWwVHc-6Y0s2rbg_2aXz23nzO6fAJ6iZKNafEl6t2xJwEVa-fROGNRxmKvLafM0S8gSkwIPzsibCO32BFP4HpXBEEUM9_-7apiweIEM6DqLouoHrayCRFQ7gV3qp-OeTE5MmA36A/s1600/IMG_0951.JPG",
+        "filename": "IMG_0951.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhBQFWwVHc-6Y0s2rbg_2aXz23nzO6fAJ6iZKNafEl6t2xJwEVa-fROGNRxmKvLafM0S8gSkwIPzsibCO32BFP4HpXBEEUM9_-7apiweIEM6DqLouoHrayCRFQ7gV3qp-OeTE5MmA36A/s1600/IMG_0951.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYwhIAnMoFV-EwDJ6AyfEzluvTpCUQ1mKMB5JuGAfip7iKDFGtJLOVx7lW6qwteiy6hrs240_OspogQwLvR-okGPyu_a5snNIYTBBKLAmlbJix_6llZQCLZNi2NjMlIiZuodeiCwnMHoM/s0/IMG_0954.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYwhIAnMoFV-EwDJ6AyfEzluvTpCUQ1mKMB5JuGAfip7iKDFGtJLOVx7lW6qwteiy6hrs240_OspogQwLvR-okGPyu_a5snNIYTBBKLAmlbJix_6llZQCLZNi2NjMlIiZuodeiCwnMHoM/s1600/IMG_0954.JPG",
+        "filename": "IMG_0954.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYwhIAnMoFV-EwDJ6AyfEzluvTpCUQ1mKMB5JuGAfip7iKDFGtJLOVx7lW6qwteiy6hrs240_OspogQwLvR-okGPyu_a5snNIYTBBKLAmlbJix_6llZQCLZNi2NjMlIiZuodeiCwnMHoM/s1600/IMG_0954.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56hDgVZcOt95ptwkIfxIUrUmtyrOE-kOog2JjY-YB3WxwzaTWyMMbv2AT9X5Ld_tfsztvYL7rWtZdOc7e1H_TYpv_3iyWP0b-m1ug2wBlw6m3_v5yz8iFY9DQku1quecJKe6WrFnJfv0/s0/IMG_0955.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56hDgVZcOt95ptwkIfxIUrUmtyrOE-kOog2JjY-YB3WxwzaTWyMMbv2AT9X5Ld_tfsztvYL7rWtZdOc7e1H_TYpv_3iyWP0b-m1ug2wBlw6m3_v5yz8iFY9DQku1quecJKe6WrFnJfv0/s1600/IMG_0955.JPG",
+        "filename": "IMG_0955.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56hDgVZcOt95ptwkIfxIUrUmtyrOE-kOog2JjY-YB3WxwzaTWyMMbv2AT9X5Ld_tfsztvYL7rWtZdOc7e1H_TYpv_3iyWP0b-m1ug2wBlw6m3_v5yz8iFY9DQku1quecJKe6WrFnJfv0/s1600/IMG_0955.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9UUVIxskeOss2jrgyEBv0uQgvoCfoLvmgcVPZd4x_Jd1ZQAl9_l7Qzx8KzZgWKbhY146GOrBKCE5B9bG_FQ9OROPKdv5YxvCfIYGSDa9dG1EuBBgFg5awaYjNVD8o4lGZq8R1qCz0ZMc/s0/IMG_0956.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9UUVIxskeOss2jrgyEBv0uQgvoCfoLvmgcVPZd4x_Jd1ZQAl9_l7Qzx8KzZgWKbhY146GOrBKCE5B9bG_FQ9OROPKdv5YxvCfIYGSDa9dG1EuBBgFg5awaYjNVD8o4lGZq8R1qCz0ZMc/s1600/IMG_0956.JPG",
+        "filename": "IMG_0956.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9UUVIxskeOss2jrgyEBv0uQgvoCfoLvmgcVPZd4x_Jd1ZQAl9_l7Qzx8KzZgWKbhY146GOrBKCE5B9bG_FQ9OROPKdv5YxvCfIYGSDa9dG1EuBBgFg5awaYjNVD8o4lGZq8R1qCz0ZMc/s1600/IMG_0956.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ8Oq9vv47fXCBFpmcSr-YIm9P9osmU_5fskicaXEPJxHzHuOR7WDI79UrPO8Ci4XkJIxIUOHSTZWQET_fRWBS9ozMZ97SqVw1nDjqS3VWickdQGH1-CUdwhMWbxv0-a2Rf3y-ypNaDLg/s0/IMG_0980.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ8Oq9vv47fXCBFpmcSr-YIm9P9osmU_5fskicaXEPJxHzHuOR7WDI79UrPO8Ci4XkJIxIUOHSTZWQET_fRWBS9ozMZ97SqVw1nDjqS3VWickdQGH1-CUdwhMWbxv0-a2Rf3y-ypNaDLg/s1600/IMG_0980.JPG",
+        "filename": "IMG_0980.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ8Oq9vv47fXCBFpmcSr-YIm9P9osmU_5fskicaXEPJxHzHuOR7WDI79UrPO8Ci4XkJIxIUOHSTZWQET_fRWBS9ozMZ97SqVw1nDjqS3VWickdQGH1-CUdwhMWbxv0-a2Rf3y-ypNaDLg/s1600/IMG_0980.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamhGo-Xrf4lYuixySWHpoa7Yx7h7ap-8_EJxOAj5Gk4Uw9JGCiHAXA47NRc-cZiTXklkvPilhdZSksgppMtkuI_xjkIohT2O0ZO9ehLbfwf44qkAKVLdIqYjcwdD_UhFbD_9LcohloKM/s0/IMG_0985.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamhGo-Xrf4lYuixySWHpoa7Yx7h7ap-8_EJxOAj5Gk4Uw9JGCiHAXA47NRc-cZiTXklkvPilhdZSksgppMtkuI_xjkIohT2O0ZO9ehLbfwf44qkAKVLdIqYjcwdD_UhFbD_9LcohloKM/s1600/IMG_0985.JPG",
+        "filename": "IMG_0985.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamhGo-Xrf4lYuixySWHpoa7Yx7h7ap-8_EJxOAj5Gk4Uw9JGCiHAXA47NRc-cZiTXklkvPilhdZSksgppMtkuI_xjkIohT2O0ZO9ehLbfwf44qkAKVLdIqYjcwdD_UhFbD_9LcohloKM/s1600/IMG_0985.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrHNOK8Z2LQ2Z7epuwFEVz6o1ASWFSD4zjrDxCsW8Z0kcsvN95pyHXbVX2gCGu6MjRTnY02Z2tRIQ8VWhWxDR0BX01VD7FF2TcUcLkmb3GYz3x1sveC8ru63BGyzHkFm89VZjxBrdLjI/s0/IMG_0986.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrHNOK8Z2LQ2Z7epuwFEVz6o1ASWFSD4zjrDxCsW8Z0kcsvN95pyHXbVX2gCGu6MjRTnY02Z2tRIQ8VWhWxDR0BX01VD7FF2TcUcLkmb3GYz3x1sveC8ru63BGyzHkFm89VZjxBrdLjI/s1600/IMG_0986.JPG",
+        "filename": "IMG_0986.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrHNOK8Z2LQ2Z7epuwFEVz6o1ASWFSD4zjrDxCsW8Z0kcsvN95pyHXbVX2gCGu6MjRTnY02Z2tRIQ8VWhWxDR0BX01VD7FF2TcUcLkmb3GYz3x1sveC8ru63BGyzHkFm89VZjxBrdLjI/s1600/IMG_0986.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z hradiska na hrad Hainburg"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnILyTQxIdA3rrAsWjR-7EWFpEDEECzH0rGh5dQX02f6rq-e9QeO3qySQWrKNI2lw_1VjbJetz8v0BuCj3XcsmTzk3lkFGoar_N4pmJDhdbkWDKislhXaxuzSOCh3EQtYlSsrKbNnQWVg/s0/IMG_0990.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnILyTQxIdA3rrAsWjR-7EWFpEDEECzH0rGh5dQX02f6rq-e9QeO3qySQWrKNI2lw_1VjbJetz8v0BuCj3XcsmTzk3lkFGoar_N4pmJDhdbkWDKislhXaxuzSOCh3EQtYlSsrKbNnQWVg/s1600/IMG_0990.JPG",
+        "filename": "IMG_0990.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnILyTQxIdA3rrAsWjR-7EWFpEDEECzH0rGh5dQX02f6rq-e9QeO3qySQWrKNI2lw_1VjbJetz8v0BuCj3XcsmTzk3lkFGoar_N4pmJDhdbkWDKislhXaxuzSOCh3EQtYlSsrKbNnQWVg/s1600/IMG_0990.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Opäť viditeľné opevnenie"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixL5Q7wn7eE69DzNtXXw2WaIUXJeqfvFa9rYBTlOebFY-Swf4RZwAofhk0DR9Niw0OebfJfy3F0ewIZDeQ4KNNqgqnmlVOTbjlhK2HZ5mz1ga9vzgvCjBXS4Aq5sdm8_6FupjksXZR6Yg/s0/IMG_0994.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixL5Q7wn7eE69DzNtXXw2WaIUXJeqfvFa9rYBTlOebFY-Swf4RZwAofhk0DR9Niw0OebfJfy3F0ewIZDeQ4KNNqgqnmlVOTbjlhK2HZ5mz1ga9vzgvCjBXS4Aq5sdm8_6FupjksXZR6Yg/s1600/IMG_0994.JPG",
+        "filename": "IMG_0994.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixL5Q7wn7eE69DzNtXXw2WaIUXJeqfvFa9rYBTlOebFY-Swf4RZwAofhk0DR9Niw0OebfJfy3F0ewIZDeQ4KNNqgqnmlVOTbjlhK2HZ5mz1ga9vzgvCjBXS4Aq5sdm8_6FupjksXZR6Yg/s1600/IMG_0994.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Val spolu s vežou a palisádou"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRiEZ_1b7otycJQZgdySYiVnHBkQVEwReU875cwHRfkD4vPFaMT9he_U8fuE03tWX3CWyVBQfu0k7wCSyCIUgmr-XnB-kAqwAl6MhlCl13Vuk3TWCbKyvehpZvkOzLTPaAJs_ZIyMFd1k/s0/IMG_0997.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRiEZ_1b7otycJQZgdySYiVnHBkQVEwReU875cwHRfkD4vPFaMT9he_U8fuE03tWX3CWyVBQfu0k7wCSyCIUgmr-XnB-kAqwAl6MhlCl13Vuk3TWCbKyvehpZvkOzLTPaAJs_ZIyMFd1k/s1600/IMG_0997.JPG",
+        "filename": "IMG_0997.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRiEZ_1b7otycJQZgdySYiVnHBkQVEwReU875cwHRfkD4vPFaMT9he_U8fuE03tWX3CWyVBQfu0k7wCSyCIUgmr-XnB-kAqwAl6MhlCl13Vuk3TWCbKyvehpZvkOzLTPaAJs_ZIyMFd1k/s1600/IMG_0997.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z hradiska na Devín"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCB1j3sXWSWMPGE7DxYowg3cGM_SNMVl9VhqvSAu2TFHNH6d2mDd-mCdRG1P8QMNbGMz0hW8CcUSof4YDnNXAEcYonlcppn3DSWYE9oYsx838VzXkD3v-LPkt-jhyphenhyphen6_klZl_J8mr_w7WU/s0/IMG_1000.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCB1j3sXWSWMPGE7DxYowg3cGM_SNMVl9VhqvSAu2TFHNH6d2mDd-mCdRG1P8QMNbGMz0hW8CcUSof4YDnNXAEcYonlcppn3DSWYE9oYsx838VzXkD3v-LPkt-jhyphenhyphen6_klZl_J8mr_w7WU/s1600/IMG_1000.JPG",
+        "filename": "IMG_1000.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCB1j3sXWSWMPGE7DxYowg3cGM_SNMVl9VhqvSAu2TFHNH6d2mDd-mCdRG1P8QMNbGMz0hW8CcUSof4YDnNXAEcYonlcppn3DSWYE9oYsx838VzXkD3v-LPkt-jhyphenhyphen6_klZl_J8mr_w7WU/s1600/IMG_1000.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0erw0xCoNxw9669rr0oL26_go9q7nmxsgAtX2Xu3mZaYezRdBOQzKJ3ire3Ni836dXqnjB6RBsLMlwukrTRimICQ9TYiCUjc8V8dj2bpYFJ9vEjc6En4R-SLjpiwwjPLzh3GGajB1cEw/s0/IMG_1004.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0erw0xCoNxw9669rr0oL26_go9q7nmxsgAtX2Xu3mZaYezRdBOQzKJ3ire3Ni836dXqnjB6RBsLMlwukrTRimICQ9TYiCUjc8V8dj2bpYFJ9vEjc6En4R-SLjpiwwjPLzh3GGajB1cEw/s1600/IMG_1004.JPG",
+        "filename": "IMG_1004.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0erw0xCoNxw9669rr0oL26_go9q7nmxsgAtX2Xu3mZaYezRdBOQzKJ3ire3Ni836dXqnjB6RBsLMlwukrTRimICQ9TYiCUjc8V8dj2bpYFJ9vEjc6En4R-SLjpiwwjPLzh3GGajB1cEw/s1600/IMG_1004.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Braunsberg - keltské hradisko"
+    ],
+    "category": null,
+    "location": {
+      "name": "Hainburg - Braunsberg",
+      "latitude": 48.153575,
+      "longitude": 16.959414,
+      "region": null,
+      "country": "Rakúsko"
+    },
+    "keyFacts": [
+      {
+        "label": "Výška hory",
+        "value": "376 m, osamotený vrch pri Hainburgu (Rakúsko)",
+        "icon": "mountain"
+      },
+      {
+        "label": "Súčasť troch hradísk Uhorskej brány",
+        "value": "spolu s Devínom a oppidom na bratislavskom hradnom návrší",
+        "icon": "flag"
+      },
+      {
+        "label": "Predpokladaní stavitelia",
+        "value": "keltský kmeň Bójov",
+        "icon": "crown"
+      },
+      {
+        "label": "Strategická poloha",
+        "value": "križovatka jantárovej a dunajskej obchodnej cesty",
+        "icon": "map"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "7. – 6. storočie pred n. l.",
+        "title": "Najstaršie osídlenie v dobe halštatskej",
+        "description": "Najstaršie osídlenie s významným zastúpením badať v dobe halštatskej, kedy sa tu predpokladá dôležité stredisko; bohaté mohyly z tohto obdobia v blízkosti hradiska poukazujú na význam lokality.",
+        "type": "founding"
+      },
+      {
+        "year": "2. storočie pred n. l.",
+        "title": "Výstavba drevozemného valu",
+        "description": "Val bol datovaný do 2. storočia pred n. l. — v južnej a západnej časti hradiska dosahoval približne 1,5 m, v severnej a východnej časti asi 3 m výšky, s dvoma radmi palisády.",
+        "type": "construction"
+      },
+      {
+        "year": "1. storočie pred n. l.",
+        "title": "Keltské osídlenie s polozemnicami",
+        "description": "Ku keltskému osídleniu patrili domy — polozemnice s ohniskom a zásobnice; grafitový črepový materiál umožňuje datovanie domov do tohto obdobia.",
+        "type": "era"
+      },
+      {
+        "year": "prvé desaťročia n. l.",
+        "title": "Zánik hradiska",
+        "description": "Na opevnení je znateľný zánikový horizont, hradisko bolo zrejme v tomto období zničené, obzvlášť badateľne v priestore bývalej brány a priľahlého opevnenia.",
+        "type": "destruction"
+      },
+      {
+        "year": "cca 4. – 5. storočie",
+        "title": "Obnovenie opevnenia",
+        "description": "V nepokojnom období pádu Rímskej ríše a sťahovania národov bol pozdĺž náhornej plošiny hradiska na jeho okraji vybudovaný nasucho kladený kamenný val.",
+        "type": "construction"
+      },
+      {
+        "year": "1931",
+        "title": "Prvý archeologický výskum",
+        "description": "Prvý archeologický výskum na Braunsbergu bol vykonaný v roku 1931 a pokračoval v nasledujúcich desaťročiach až do 90. rokov 20. storočia.",
+        "type": "discovery"
+      },
+      {
+        "year": "1988",
+        "title": "Presné zameranie opevnenia",
+        "description": "V roku 1988 bolo presne zmerané a analyzované opevnenie hradiska.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hora Braunsberg, ležiaca v rakúskom mestečku Hainburg, je jedným z troch keltských hradísk, ktoré sa nachádzajú v oblasti tzv. Uhorskej brány. Tento výrazný, 376 metrov vysoký osamotený vrch si všimne každý návštevník, ktorý prechádza cez toto malebné rakúske mestečko nachádzajúce sa v bezprostrednej blízkosti Bratislavy. Na jeho vrchole váš zrak už z diaľky upúta zrekonštruovaná časť palisády a strážnej veže. Na budovaní rekonštrukcie opevnenia sa podieľali aj významní slovenskí archeológovia. Iba necelé 2 kilometre severovýchodne od Braunsbergu sa v laténskej dobe vypínalo hradisko Devín. Tretím – najvýznamnejším hradiskom v tej dobe bolo oppidum na bratislavskom hradnom návrší a podhradí, ktoré malo zrejme centrálnu funkciu. Predpokladá sa, že hradiská pred 2000 rokmi vybudoval keltský kmeň Bójov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prvý archeologický výskum na Braunsbergu bol vykonaný v roku 1931 a pokračoval v nasledujúcich desaťročiach až do 90. rokov 20. storočia. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najstaršie osídlenie ktoré malo na hradisku významné zastúpenie, badať v dobe halštatskej (staršia doba železná) – približne v 7. až 6. storočí pred naším letopočtom, kedy sa tu predpokladá dôležité stredisko. Doposiaľ sa však nepodarilo zachytiť pozostatky opevnenia z tejto doby. Bohaté mohyly, vybudované v tomto období v tesnej blízkosti hradiska poukazujú na význam lokality v tomto období."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Omv4p0Y-8uGAOinds0VBf0XVPydb6AYq-Z9s2XjorT0Zaf-UUkBiBWIJFV0J_lLG6irMnagfcY1ZVW0dHj4nzH4NeYV1wNzxkBjYJMcKDgmEJd_Kk-uPhHvAfLVJA3xAQeKZDkowKhyAqBmaaR6EaTogNAYNFKdRo7z5dNVkcPxiugYDWb-Iu_6OabFy/s0/IMG_20250203_222200.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Omv4p0Y-8uGAOinds0VBf0XVPydb6AYq-Z9s2XjorT0Zaf-UUkBiBWIJFV0J_lLG6irMnagfcY1ZVW0dHj4nzH4NeYV1wNzxkBjYJMcKDgmEJd_Kk-uPhHvAfLVJA3xAQeKZDkowKhyAqBmaaR6EaTogNAYNFKdRo7z5dNVkcPxiugYDWb-Iu_6OabFy/s1600/IMG_20250203_222200.jpg",
+          "filename": "IMG_20250203_222200.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Omv4p0Y-8uGAOinds0VBf0XVPydb6AYq-Z9s2XjorT0Zaf-UUkBiBWIJFV0J_lLG6irMnagfcY1ZVW0dHj4nzH4NeYV1wNzxkBjYJMcKDgmEJd_Kk-uPhHvAfLVJA3xAQeKZDkowKhyAqBmaaR6EaTogNAYNFKdRo7z5dNVkcPxiugYDWb-Iu_6OabFy/s1437/IMG_20250203_222200.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 241,
+            "originalWidth": 1437,
+            "originalHeight": 1080
+          }
+        },
+        "alt": "Foto: Darken Cara",
+        "caption": "Foto: Darken Cara",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V roku 1988 bolo presne zmerané a analyzované opevnenie hradiska. Bolo zistené, že v južnej a západnej časti hradiska stál približne 1,5 m vysoký drevozemný val. V severnej a východnej časti, na mierne sa zvažujúcej strane hory malo opevnenie bez palisády výšku asi 3 m. Val je datovaný do 2. storočia pred n. l. V rámci opevnenia boli identifikované dva rady palisády, jedna bola na korune valu, druhá asi 2 metre pred hradbou. V 30. rokoch boli zachytené avšak nedostatočne preskúmané kamene, ktoré zrejme tvorili čelnú kamennú plentu, naviazanú na drevozemný val. V období prvých desaťročí nášho letopočtu je na opevnení znateľný zánikový horizont, a teda v tomto období bolo zrejme hradisko zničené. V priestore bývalej brány a priľahlého opevnenia je táto deštrukcia obzvlášť badateľná."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po tomto zničení hradiska nachádzame v neskoršom období opäť stopy po obnovení opevnenia v období cca 4. – 5. storočia, tzn. v nepokojnom období pádu rímskej ríše a sťahovania národov. Vtedy pozdĺž náhornej plošiny hradiska na jeho okraji bol vybudovaný nasucho kladený kamenný val. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6VAVKxoGg1UbxiHxt0nvGWuTNz5no_cezx-HBIlSyCW5f_013U7KWUaOm3iwjBVUPx7e6-NgwgHLIbmnNyxEMJtNBT464FebdGMJX3U3KXVSBoy-4Z0H6RnUmO9qkYld9ttnpDUi0MqE/s0/IMG_1013.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6VAVKxoGg1UbxiHxt0nvGWuTNz5no_cezx-HBIlSyCW5f_013U7KWUaOm3iwjBVUPx7e6-NgwgHLIbmnNyxEMJtNBT464FebdGMJX3U3KXVSBoy-4Z0H6RnUmO9qkYld9ttnpDUi0MqE/s1600/IMG_1013.JPG",
+          "filename": "IMG_1013.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6VAVKxoGg1UbxiHxt0nvGWuTNz5no_cezx-HBIlSyCW5f_013U7KWUaOm3iwjBVUPx7e6-NgwgHLIbmnNyxEMJtNBT464FebdGMJX3U3KXVSBoy-4Z0H6RnUmO9qkYld9ttnpDUi0MqE/s1600/IMG_1013.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hainburg - Braunsberg",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ku keltskému osídleniu hradiska zaiste patrili domy – polozemnice s ohniskom a zásobnice, ktoré boli objavené počas výskumu v Hainburgu v blízkosti hradiska. Bol v nich tiež zachytený grafitový črepový materiál, ktorý umožňuje datovanie domov do obdobia 1. storočia pred naším letopočtom. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ukazuje sa, že oblasť uhorskej brány bola už v staršej dobe železnej dôležitou križovatkou významných starovekých ciest – jantárovej a tzv. dunajskej cesty, ktoré mali kľúčový význam pre diaľkový obchod tej doby. Význam tejto križovatky podtrhuje vybudovanie spomenutých troch hradísk, ktoré zrejme mali za úlohu okrem iného aj kontrolovať diaľkový obchod a ťažiť z neho."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ausgrabungen am Braunsberg, in: O. H. Urban, Katalog: Archaeologie in Hainburg, Ausstellung im WienertorMuseum, Wien 1990, 13-20."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "_note": "grammar-sk v7 §21 — aktualita 'Podpálili archeologický skanzen' (2014-04). Autorova SK próza (nie prameň). Titulok fix mimo apply-grammar (patch bp.title): 'archologický'→'archeologický'.",
+  "corrections": [
+    { "hint": 0, "before": "z vlasnej iniciatívy", "after": "z vlastnej iniciatívy", "reason": "preklep vlasnej→vlastnej (A8)" },
+    { "hint": 0, "before": "financií z EU,", "after": "financií z EÚ,", "reason": "skratka EÚ (A8)" },
+    { "hint": 1, "before": "Dňa 28.3.2014", "after": "Dňa 28. 3. 2014", "reason": "medzery v dátume (B)" },
+    { "hint": 1, "before": "v čase, kedy chceli", "after": "v čase, keď chceli", "reason": "kedy→keď vo vzťažnej vete (A8)" },
+    { "hint": 2, "before": "zhrnúť to vety", "after": "zhrnúť do vety", "reason": "preklep to→do (A8)" },
+    { "hint": 2, "before": "\"Tak im treba", "after": "„Tak im treba", "reason": "slovenská otváracia úvodzovka (B)" },
+    { "hint": 2, "before": "sprostosti.\"", "after": "sprostosti.“", "reason": "slovenská zatváracia úvodzovka (B)" },
+    { "hint": 3, "before": "VÁM !!!!", "after": "VÁM!!!!", "reason": "medzera pred interpunkciou (B)" }
+  ]
+}

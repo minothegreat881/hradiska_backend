@@ -1,0 +1,32 @@
+{
+  "slug": "libice-hlavne-hradisko-slavnikovcov-cz",
+  "sourceDraft": "out/libice.grammar-sk-pass1.json",
+  "structuralNote": "Bloky 0-7 sú česky písaný text priamo prevzatý z externého zdroja (Slovane.cz, citované v content.sources aj citations). Traktované ako chránená zóna analogicky k dobovým citátom §21.3: iba mechanická typografia (medzery pred jednotkou, spojovník→pomlčka pri rozsahu rokov), česká gramatika/slovná zásoba/pravopis nedotknuté. Bloky 9-18 ('Vyvraždenie Slavníkovcov') sú pôvodný slovenský text autora — plná gramatická korektúra podľa §21.1.",
+  "pass1AppliedFixes": [
+    { "rule": "B typografia (medzera pred jednotkou)", "block": 1, "before": "o šířce 4,5m", "after": "o šířce 4,5 m", "zone": "česká/chránená — len typografia" },
+    { "rule": "B typografia (rozsah rokov)", "block": 4, "before": "V letech 1949-1953", "after": "V letech 1949 – 1953", "zone": "česká/chránená — len typografia" },
+    { "rule": "A9 malé písmená + zhoda osoby slovesa", "block": 9, "before": "Česko-Slovenský dejepis ... Českého štátu ... a priblížime si ... Českých dejinách", "after": "česko-slovenský dejepis ... českého štátu ... a priblížim si ... českých dejinách" },
+    { "rule": "B typografia (slovenské úvodzovky)", "block": 11, "before": "(\"pomoc\" v bitke) ... dával knieža \"chytať\"", "after": "(„pomoc\" v bitke) ... dával knieža „chytať\"" },
+    { "rule": "A9 malé písmeno + A4 pád + B pomlčka + A4 zámeno rodu", "block": 12, "before": "Saskou cisárskou dynastiou ... saská dynastie chcela ... syn - Boleslav II. ... ktorej prvým biskupom ... - Dětmar", "after": "saskou cisárskou dynastiou ... saská dynastia chcela ... syn — Boleslav II. ... ktorého prvým biskupom ... — Dětmar", "note": "'ktorého' nahrádza 'ktorej' — vzťahuje sa na stredný rod 'biskupstvo', nie na predchádzajúce ženské podstatné meno" },
+    { "rule": "A4 pád (inštrumentál) + úvodzovky", "block": 13, "before": "medzi vládnucimi Přemyslovci a ambicióznymi Slavníkovcami ... Táto \"konkurencia\"", "after": "medzi vládnucimi Přemyslovcami a ambicióznymi Slavníkovcami ... Táto „konkurencia\"" },
+    { "rule": "A1 chýbajúca čiarka", "block": 14, "before": "zo Sliezska situáciu tiež nezlepšili", "after": "zo Sliezska, situáciu tiež nezlepšili" },
+    { "rule": "A4 predložková väzba + A4 pád", "block": 15, "before": "vydal rozkaz k zničeniu Slavníkovcov ... využil situácie", "after": "vydal rozkaz na zničenie Slavníkovcov ... využil situáciu" },
+    { "rule": "B pomlčky", "block": 16, "before": "syn kniežaťa - Boleslav Ryšavý ... Slavníkovcov - Libice, bolo", "after": "syn kniežaťa — Boleslav Ryšavý ... Slavníkovcov — Libice, bolo" },
+    { "rule": "A1 chýbajúca čiarka", "block": 17, "before": "Začal tuhý boj v ktorom, aj cez svoju odvahu", "after": "Začal tuhý boj, v ktorom, aj cez svoju odvahu" },
+    { "rule": "B pomlčka", "block": 18, "before": "ktorí prežili - Vojtech a Soběbor", "after": "ktorí prežili — Vojtech a Soběbor" }
+  ],
+  "pass2CrossFieldChecks": [
+    { "field": "timeline (1949 – 1953)", "finding": "už používalo en dash s medzerami zhodne s opravou v tele (blok 4)", "action": "žiadna zmena potrebná — timeline a telo konzistentné" },
+    { "field": "alt текст image-blocks ('Libice - hlavné hradisko Slávnikovcov (CZ)')", "finding": "používa jednoduchý spojovník s medzerami, zhodný s formátom title poľa (rovnaká konvencia ako pri iných článkoch s dvojčlenným názvom lokality, napr. Gars - Thunau)", "action": "žiadna zmena — titulková/lokalitná konvencia, nie veta s vsuvkou" },
+    { "field": "typografia (§21.2 sweep)", "finding": "žiadne ďalšie x-separátory, chýbajúce medzery pred jednotkou, alebo neopravené spojovníky vo vetách po aplikácii pass-1", "action": "žiadna ďalšia zmena" },
+    { "field": "protected-terms.json (Slávnikovci/Slavníkovci)", "finding": "originál CZ text dôsledne používa 'Slavníkovci' (bez mäkčeňa/dĺžňa), slovenská časť (bloky 9-18) tiež 'Slavníkovci'; iba title/slug/sourceLabel používajú 'Slávnikovcov' (s dĺžňom, slovenský prepis). Toto je existujúca nekonzistencia zdroja (dva jazyky, dva pravopisy priezviska rodu), nie gramatická chyba na opravu.", "action": "ponechané — vlastné meno v dvoch jazykových variantoch, mimo rozsahu gramatickej korektúry" }
+  ],
+  "notedNotFixed": [
+    "'Libice boli venované' (blok 18) — 'Libice' skloňované ako plurale tantum (podobne ako iné české miestne názvy na -ice); gramaticky obhájiteľné, ponechané bez zásahu."
+  ],
+  "flags": [
+    "Blok 12 — pozri out/libice-hlavne-hradisko-slavnikovcov-cz.review.json: 'znalý slovenských pomerov' pri Dětmarovi (prvom pražskom biskupovi) je vecne podozrivé, pravdepodobne malo byť 'českých pomerov'. Ponechané nezmenené, čaká na overenie proti zdroju."
+  ],
+  "quoteBlocksTouched": 0,
+  "status": "upload-ready-with-open-flag"
+}

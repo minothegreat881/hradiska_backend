@@ -1,0 +1,126 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 14 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "mladšia a neskorá doba kamenná",
+      "title": "Najstaršie osídlenie",
+      "description": "Prví roľníci sa usadili v chotári obce; doložené keramickými črepmi a kamennými nástrojmi na polohe Hradištia.",
+      "type": "founding"
+    },
+    {
+      "year": "mladšia a neskorá doba bronzová",
+      "title": "Osada lužickej kultúry",
+      "description": "Desaťročný výskum odkryl sídliskové objekty a kultové miesto uctievačov boha slnka — dôležité výrobné, obchodné a kultové miesto na strednom Považí.",
+      "type": "founding"
+    },
+    {
+      "year": "doba rímska",
+      "title": "Sídlisko s rímskymi nálezmi",
+      "description": "Fragmenty terry sigillaty, rímske mince a bronzová hlavička Siléna inkrustovaná striebrom na polohách Dolné a Horné pole.",
+      "type": "event"
+    },
+    {
+      "year": "6. storočie",
+      "title": "Prví Slovania",
+      "description": "Včasnoslovanské osady na polohách Dolné pole a Horné pole.",
+      "type": "founding"
+    },
+    {
+      "year": "8. storočie",
+      "title": "Presun osídlenia",
+      "description": "Osídlenie sa presunulo od povodia Dudváhu a Dubovej.",
+      "type": "event"
+    },
+    {
+      "year": "koniec 8. – začiatok 9. storočia",
+      "title": "Najintenzívnejšie slovanské osídlenie",
+      "description": "Na polohe Zapupovec preskúmaných takmer 30 objektov vrátane dvoch studní; obyvatelia sa venovali kováčstvu.",
+      "type": "event"
+    },
+    {
+      "year": "pred rokom 800 (blatnicko-mikulčický horizont)",
+      "title": "Vybudovanie opevneného centra",
+      "description": "Jedno z najstarších hradísk naddunajských Slovanov, s akropolou (Hradištia) aj podhradím (Podhradištia), vybudované komorovým systémom opevnenia.",
+      "type": "construction"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Centrum obchodu na Váhu",
+      "description": "Doložené nálezmi sekerovitých hrivien — vtedajšieho polotovaru a primitívneho platidla; ekonomické zázemie zahŕňalo 8 súčasných osád na ploche cca 900 ha.",
+      "type": "event"
+    },
+    {
+      "year": "pred vznikom Veľkej Moravy",
+      "title": "Násilný zánik hradiska",
+      "description": "Zničené požiarom, pravdepodobne v čase paralelne postupujúcej christianizácie a zjednocovacieho procesu — spolu s ďalšími najstaršími hradiskami ako Majcichov, Vyšný Kubín, Spišské Tomášovce a Bojná.",
+      "type": "destruction"
+    },
+    {
+      "year": "1891",
+      "title": "Prvá písomná zmienka o valoch",
+      "description": "P. Jedlicska zaznamenáva, že val na severnej strane Hradíšť tvoril hranicu medzi pobedimským a očkovským chotárom.",
+      "type": "discovery"
+    },
+    {
+      "year": "po roku 1959",
+      "title": "Odvodnenie okolitého terénu",
+      "description": "Predtým bol na severnej a západnej strane hradiska močaristý terén, ktorý poskytoval prirodzenú ochranu.",
+      "type": "event"
+    },
+    {
+      "year": "archeologický výskum (D. Bialeková)",
+      "title": "Systematický výskum fortifikácie",
+      "description": "PhDr. Darina Bialeková, neskôr čestná občianka obce, viedla výskum, ktorý zrekonštruoval presnú konštrukciu, spotrebu materiálu a organizáciu výstavby oboch fáz opevnenia.",
+      "type": "discovery"
+    },
+    {
+      "year": "7. 1. 2012",
+      "title": "Zdokumentovaný súčasný stav",
+      "description": "Lokalita hradiska sa nachádza uprostred poľa bez akéhokoľvek označenia.",
+      "type": "event"
+    },
+    {
+      "year": "10. 3. 2015",
+      "title": "Osadenie informačnej tabule",
+      "description": "Na okraji obce neďaleko hradiska pribudla informačná tabuľa o hradisku.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Juhozápadne od dnešnej obce Pobedim, v inundácii Dudváhu a Dubovej; nížinné hradisko využívajúce vodný režim ako ochranu (podobne ako Mikulčice, Pohansko pri Břeclavi, Majcichov)",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozloha",
+      "value": "Hradištia 4,1 ha, Podhradištia 3,9 ha — spolu neveľké, ale jedno z najstarších hradísk naddunajských Slovanov",
+      "icon": "shield"
+    },
+    {
+      "label": "Konštrukcia hradby (Hradištia)",
+      "value": "Komorová, komory cca 4 × 4 m, celková šírka s kamenným múrom 5,5 m, výška bez palisády 2,4 m; kamenný múr z lomového kameňa hrubý v základoch 1,5 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Konštrukcia hradby (Podhradištia)",
+      "value": "Jednoduchšia, komory cca 3 × 3 m, opletané stenami, celková šírka 4,5 m, výška 2,3 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Priekopa",
+      "value": "Hĺbka 2,05 m, šírka pri vrchnom okraji 5,70 m, zahrotený tvar",
+      "icon": "mountain"
+    },
+    {
+      "label": "Spotreba materiálu",
+      "value": "Vybudovanie opevnenia na Hradištiach (812 bm) si vyžiadalo asi 49 300 pracovných smien — pri 190 ľuďoch a 10-hodinovom dni asi 260 dní práce",
+      "icon": "crown"
+    },
+    {
+      "label": "Obrana",
+      "value": "Odhadovaných asi 260 obrancov (jeden na každých 5 m hradby), doplňovaných z 8 okolitých osád",
+      "icon": "users"
+    }
+  ]
+}

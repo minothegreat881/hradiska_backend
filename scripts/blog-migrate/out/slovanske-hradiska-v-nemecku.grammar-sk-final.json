@@ -1,0 +1,51 @@
+{
+  "slug": "slovanske-hradiska-v-nemecku",
+  "note": "grammar-sk agent, finálny prechod (pass 1 z draftu slovanske-hradiska-v-nemecku.grammar-sk-pass1.json aplikovaný priamo do intermediate.json + fresh pass 2 cross-field). Nemecké vlastné mená (Sternberg, Lübbenau, Köpenick, Mecklenburg...) neboli považované za preklepy — iba nekonzistentné/chybné tvary v pôvodnom texte boli zjednotené s KF/timeline.",
+  "pass1_applied": {
+    "criticalFixes": [
+      "Hevolanov/Helvolanov/Hevelanov zjednotené na 'Hevelanov'/'hevelanských'/'Hevelania' vo všetkých výskytoch tela (bloky 30, 33) — zhoda s KF a globálnym slovníkom mien.",
+      "'Pribislawa-Heinricha' (nemecký pravopis, blok 33) zjednotené s timeline tvarom 'Pribislava-Henricha' (2 výskyty).",
+      "Blok 22: chýbajúce meno hradiska medzi pomlčkou a čiarkou — OVERENÉ v aktuálnom súbore: odkaz 'Arkona' (content.link) už existuje na danom mieste, takže slovo NIE JE chýbajúce (draft zrejme vychádzal z inej/staršej verzie extraktu). Aplikovaná bola iba typografická oprava pomlčky pred odkazom ('- ' -> '— '); žiadny text/duplicita nepridané.",
+      "Zdroje: osamotená položka 'zdroj:' zlúčená s nasledujúcou URL do jednej položky 'zdroj: http://slawenburgen.npage.de/' — v content.sources.items AJ v top-level citations[] (pole 'text' zjednotené, štruktúra citations[] typov ponechaná nedotknutá, keďže by jej zmena mohla ovplyvniť render iných častí appky)."
+    ],
+    "appliedFixes_count": 20,
+    "appliedFixes_summary": [
+      "Blok 0 + excerpt: rímske číslice VI./XIII. -> 6./13.; 'n.l.' -> 'n. l.' (excerpt)",
+      "Bloky 3, 4: zjednotenie úvodzoviek/pomlčiek okolo 'topos', 'onom', koncovky '-in'",
+      "Blok 6 (protected, Adam Brémsky ~1066): 'svojim' -> 'svojím' (diakritika), doplnená chýbajúca koncová bodka citátu",
+      "Blok 7: rímske VII.-XII. -> 7. – 12. storočia; pomlčky uzatvárajúce vsuvku",
+      "Blok 10: čiarky pri vsuvke 'ktoré...'; geografický preklep 'Šternberk' (české mesto) -> 'Sternberg' (nemecké mesto pri Mecklenburgu)",
+      "Bloky 11, 13: '4 x 5 m' -> '4 × 5 m'; '(7 x 11 m)' -> '(7 × 11 m)'",
+      "Blok 14: chýbajúca medzera 'bráne.Dokonca' -> 'bráne. Dokonca'; čiarka pri vsuvke; 'druhý krát' -> 'druhýkrát'; 'Otta III' -> 'Otta III.'; 'macklenburgským' -> 'mecklenburským'",
+      "Bloky 15, 19 (caption+alt, propagované aj do gallery[]): 'Satršia' -> 'Staršia'; 'Novšia - ' -> 'Novšia — '",
+      "Blok 17: 'Lubbenau' -> 'Lübbenau'; 'zanechal' -> 'zanechali' (zhoda čísla)",
+      "Blok 18: vypustenie nezmyselného slova 'rírku'; 3× nadbytočná čiarka medzi podmetom/príslovkovým určením a prísudkom",
+      "Blok 20: pomlčky uzatvárajúce vsuvku; 'kedy' -> 'keď'",
+      "Blok 22: pomlčka pred odkazom 'Arkona' ('- ' -> '— ')",
+      "Blok 24: chýbajúca medzera 'UkranenlandeTorgelow' -> 'Ukranenlande Torgelow'; rímske IX.-X. -> 9. – 10. storočia; úvodzovky/pomlčky pri menách lodí 'Svarog'/'Svantovit'",
+      "Blok 27: čiarka; 'tzv' -> 'tzv.'; 'kedy' -> 'keď' + čiarka; 'Spewanov' -> 'Sprevanov'; 'JAXA z Koepenick' -> 'Jaxa z Köpenicku'; 'v 1157' -> 'v roku 1157'; 'Brandenbursku' -> 'Brandenburgu'; 'JAXA' -> 'Jaxa'; 'Koepenicku' -> 'Köpenicku'; nemecké úvodzovky pri 'Ostkolonisierung' zjednotené; 'v roku v 1178' -> 'v roku 1178'",
+      "Blok 30: 'mest' -> 'mesta'; '10. Storočia' -> '10. storočia'; 'ťažilo s výhodnej polohy' -> 'ťažilo z výhodnej polohy'; osirotená úvodzovka za 'Medveďom\\\".' odstránená",
+      "Blok 33: 'bol sídlo kniežaťa' -> 'bolo sídlom kniežaťa' (pádová väzba); 'Markgrófovi' -> 'markgrófovi' (A9)",
+      "Blok 35: nadbytočná čiarka; 'Čerzepanov' -> 'Čerezpänov'; bohemizmus 'sa jedná' -> 'že ide'; 'Saxa grammatica' -> 'Saxa Grammatica'; čiarka pri vsuvke; 'Behren Lubchin' -> 'Behren-Lübchin'",
+      "Blok 38: pomlčka 'Vagrov - ' -> 'Vagrov — '; 'nejseverozápadnejším' -> 'najseverozápadnejším'; rímske VII. -> 7. storočia; úvodzovky pri 'Oldenburger Wallmuseum'",
+      "Zdroje (sources.items + citations[]): zlúčenie 'zdroj:' + URL; 'najdete' -> 'nájdete'; odstránená nadbytočná medzera pred čiarkou"
+    ],
+    "non_issues_in_current_file": [
+      "Draft spomínal '40 -> 39 blokov (odstránený 1 úplne prázdny blok)' — v aktuálnom intermediate.json (40 blokov) nebol nájdený žiadny prázdny rich-text blok (overené skriptom). Pravdepodobne už bol vyriešený pri predchádzajúcej regenerácii extraktu. Žiadny blok neodstránený."
+    ]
+  },
+  "pass2_cross_field": {
+    "checked": ["excerpt", "keyFacts[]", "timeline[]", "gallery[] captions", "media alt/caption v blocks", "title", "tags", "citations[]", "location"],
+    "findings": [
+      "NOVÝ BUG NÁJDENÝ A OPRAVENÝ (nebol v draft-e): kmeň 'Warnovov' (KF Gross Raden + timeline) vs. telo blok 10, ktoré používalo nemecký tvar 'Warnowerov'. Zjednotené na 'Warnovov' (kanonický tvar, zhoda aj s protected-terms.json 'peoples': 'Warnovia').",
+      "NOVÝ BUG NÁJDENÝ A OPRAVENÝ (nebol v draft-e): 'Albrecht Medveď' (protected-terms.json, KF aj timeline) vs. telo, ktoré v blokoch 30 a 33 3× používalo tvar 'Albert Medveď' ('Albertom Medveďom', 'Albertovi Medveďovi', 'Albert Medveď'). Zjednotené na 'Albrecht/Albrechtom/Albrechtovi Medveď(om/ovi)' vo všetkých 3 výskytoch. Blok 27 už mal správne 'Albrechta Medveďa' pred úpravou.",
+      "gallery[] captions boli skontrolované celé (11 popisných) — po propagácii Satršia->Staršia a Novšia pomlčky sú všetky v zhode s telom.",
+      "title a tags používajú jednoduchú pomlčku ako názvový oddeľovač ('Slovanské hradiská v Nemecku', tag 'Nemecko - Slovanské hradiská') — konvencia zachovaná, nedotknuté.",
+      "location je null (sanityFlag 'noLocation') — mimo rozsahu gramatickej korektúry, nedotknuté."
+    ]
+  },
+  "protected_zones_untouched": [
+    "Blok 6 (content.quote-block, Adam Brémsky, okolo 1066) — iba 1 diakritická oprava ('svojim'->'svojím') a doplnenie koncovej bodky, žiadne iné slovo zmenené."
+  ],
+  "upload_ready": true
+}

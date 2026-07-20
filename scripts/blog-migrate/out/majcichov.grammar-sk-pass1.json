@@ -1,0 +1,47 @@
+{
+  "slug": "majcichov",
+  "note": "grammar-sk agent, PRVÝ prechod vôbec — tento článok nemal ani starú pre-v7 gramatickú úpravu (na rozdiel od ostatných troch článkov tejto dávky). Veľmi hutný, technický text (10 min čítania), telo z veľkej časti parafrázuje/preberá odbornú publikáciu Ruttkay/Fottová/Henning (2006) a dendrochronologickú štúdiu (2011) — zdroj typu 1 podľa §21 preambuly, teda podlieha bežnej korektúre (nie je to citát typu Holuby/Janšák chránený §21.3, okrem jednej explicitne uvádzacej pasáže s dvojbodkou, viď nižšie). Prevažná väčšina nálezov bola typografická (desiatky číselných rozsahov s medzerovými chybami, zmiešané pomlčky, nekonzistentné úvodzovky) a cross-field (veľké/malé písmená, dĺžne, skratka AÚ SAV) — samotná gramatika (sa/si pozícia, pádové väzby) bola vo zvyšku textu prekvapivo v poriadku.",
+  "criticalFixes": [
+    {
+      "issue": "Perex aj blok 1 mali dátumové rozpätia z pravekých období formátované nesprávne: bodka ako oddeľovač tisícov ('35.000', '8.000' namiesto '35 000', '8 000') a nadbytočné medzery vnútri zátvoriek ('( 35.000 – 8.000 ... )').",
+      "resolution": "Zjednotené na formát medzera-ako-oddeľovač-tisícov + žiadna medzera hneď za '(' / pred ')', zhodne s timeline, kde už bol správny tvar ('35 000 – 8 000 p. n. l.')."
+    }
+  ],
+  "appliedFixes": [
+    { "rule": "B typografia (oddeľovač tisícov + medzery v zátvorke) ×4 dátumových rozpätí", "before": "( 35.000 – 8.000 rokov p. n. l. ) ... ( od r. 5 000 – do r. 3 000 p. n. l. ) ... (od r. 1900 – 700 p. n. l. ) ... (od r. 700 – 300 p. n. l. )", "after": "(35 000 – 8 000 rokov p. n. l.) ... (od r. 5 000 – do r. 3 000 p. n. l.) ... (od r. 1900 – 700 p. n. l.) ... (od r. 700 – 300 p. n. l.)", "block": 1 },
+    { "rule": "A9 veľké/malé písmená (obdobie/typ hradiska malým) + cross-field zhoda s keyFacts", "before": "Veľkomoravské ochranné hradisko", "after": "veľkomoravské ochranné hradisko", "block": 2 },
+    { "rule": "A9 prídavné meno z vlastného mena malým", "before": "Okolo Majcichovského hradiska", "after": "Okolo majcichovského hradiska", "block": 2 },
+    { "rule": "B typografia (apozícia, hyphen -> em dash) + chýbajúca koncová bodka + veľké písmeno vlastného mena", "before": "mnohé maďarské názvy - farkašín (Vlčkovce), Majthény (Majcichov)", "after": "mnohé maďarské názvy — Farkašín (Vlčkovce), Majthény (Majcichov).", "block": 2 },
+    { "rule": "A8 chýbajúca diakritika + B typografia (rozsah rokov)", "before": "Zretelne viditeľné hradisko na mape 2. vojenského mapovania 1810-1869", "after": "Zreteľne viditeľné hradisko na mape 2. vojenského mapovania 1810 – 1869", "block": "gallery + 4 (alt aj caption, 3× spolu)" },
+    { "rule": "cross-field skratka (AU SAV -> AÚ SAV, §21.4 globálny vzor)", "before": "z dielne AU SAV", "after": "z dielne AÚ SAV", "block": "gallery + 5 (alt aj caption, 3× spolu)" },
+    { "rule": "preklep chýbajúca medzera pri iniciále a rok (2× rovnaká citácia)", "before": "Ruttkay M .:2006", "after": "Ruttkay M.: 2006", "block": "6, 13" },
+    { "rule": "mechanické doplnenie chýbajúcej zatváracej zátvorky (podľa paralelného úplného tvaru rovnakej citácie v bloku 6)", "before": "Nitrianskeho kniežactva, Nitra [koniec bloku, bez ')']", "after": "Nitrianskeho kniežactva, Nitra)", "block": 13 },
+    { "rule": "B typografia (× namiesto x) ×2 (telo + keyFacts)", "before": "Rozmery sú približne 220 x 300 m.", "after": "Rozmery sú približne 220 × 300 m.", "block": "6, keyFacts" },
+    { "rule": "B typografia (apozícia, hyphen -> em dash)", "before": "prerušenia valu - pravdepodobne brány", "after": "prerušenia valu — pravdepodobne brány", "block": 6 },
+    { "rule": "B typografia (apozícia, hyphen -> em dash) ×2 (telo + timeline)", "before": "viaceré objekty - zásobné jamy, hlinené kupolové pece", "after": "viaceré objekty — zásobné jamy, hlinené kupolové pece", "block": "6, timeline" },
+    { "rule": "B typografia (zjednotenie úvodzoviek — chránená citácia, iba mechanická oprava znaku)", "before": "akiste na zbudovanie palisády\".", "after": "akiste na zbudovanie palisády“.", "block": 6, "note": "priama citácia (uvedená dvojbodkou + „), text vnútri NEMENENÝ — iba nesprávny ASCII úvodzovkový znak na konci opravený na správny slovenský „...“ pár." },
+    { "rule": "A8 chýbajúca diakritika (dĺžeň v prevzatom slove)", "before": "charakteristika hradiska ako refugia", "after": "charakteristika hradiska ako refúgia", "block": 6 },
+    { "rule": "B typografia (apozícia, hyphen -> em dash)", "before": "vo vzťahu k spodnej - pochôdznej úrovni", "after": "vo vzťahu k spodnej — pochôdznej úrovni", "block": 6 },
+    { "rule": "B typografia (číselné rozsahy s medzerami) — veľký zhluk opráv v technickom opise Čelná plenta/Variant A/B (telo blok 6 aj duplicitné bloky 8, 10)", "before": "rošt - drevená guľatina ... 15-18 cm ... 480-505 cm ... (šírka 85-110 cm) ... Variant A - zachytila sa ... (85-110 cm) - v tomto prípade ... 95-140 cm ... „vydláždený\\\" ... Variant B - nedá sa vylúčiť ... širšia - možno ... 190-230 cm", "after": "rošt — drevená guľatina ... 15 – 18 cm ... 480 – 505 cm ... (šírka 85 – 110 cm) ... Variant A — zachytila sa ... (85 – 110 cm) — v tomto prípade ... 95 – 140 cm ... „vydláždený“ ... Variant B — nedá sa vylúčiť ... širšia — možno ... 190 – 230 cm", "block": "6, 8, 10" },
+    { "rule": "B typografia (číselné rozsahy + úvodzovky)", "before": "priemerom cca 15-22 cm ... šírkou 380-410 cm ... „bochníky\\\"", "after": "priemerom cca 15 – 22 cm ... šírkou 380 – 410 cm ... „bochníky“", "block": 6 },
+    { "rule": "B typografia (apozícia) + DOUBLE_PUNCTUATION (nadbytočná pomlčka pred zátvorkou)", "before": "sídlisko juhozápadne od hradiska - medzi hradiskom a riečnou terasou ... obohnané valom - (ak tento val nebol predsunutým opevnením hradiska)", "after": "sídlisko juhozápadne od hradiska — medzi hradiskom a riečnou terasou ... obohnané valom (ak tento val nebol predsunutým opevnením hradiska)", "block": 6, "note": "pomlčka tesne pred otváracou zátvorkou bola nadbytočná/duplicitná interpunkcia (dva štýly vsuvky súčasne) — ponechaná iba zátvorka, žiadny text nezmazaný." },
+    { "rule": "B typografia (rozsah rokov)", "before": "datovanie hradby do rokov 892 - 893", "after": "datovanie hradby do rokov 892 – 893", "block": 6 },
+    { "rule": "cross-field meno (Bíňa, zhoda s protected-terms.json)", "before": "Mužla-Čenkov, Brodské-Veleš, Biňa, Piešťany-Kocúrice", "after": "Mužla-Čenkov, Brodské-Veleš, Bíňa, Piešťany-Kocúrice", "block": 11 },
+    { "rule": "A7 bohemizmus (je treba -> treba)", "before": "Napriek zdanlivej podobnosti je treba brať do úvahy", "after": "Napriek zdanlivej podobnosti treba brať do úvahy", "block": 11 },
+    { "rule": "B typografia (apozícia, hyphen -> em dash) ×2 + úvodzovky", "before": "dosť výrazná - veľkosť/rozloha, mohutnosť opevnenia, „infraštruktúra\\\" a pod. ... významné postavenie - či už ako organizačno-správne", "after": "dosť výrazná — veľkosť/rozloha, mohutnosť opevnenia, „infraštruktúra“ a pod. ... významné postavenie — či už ako organizačno-správne", "block": 11 },
+    { "rule": "A8 chýbajúca diakritika (cross-field, citations)", "before": "Archeologického ústavu SAV najdete tu", "after": "Archeologického ústavu SAV nájdete tu", "block": "citations" },
+    { "rule": "B typografia (× namiesto x)", "before": "Rozmery hradiska: približne 220 x 300 m", "after": "približne 220 × 300 m", "block": "keyFacts" },
+    { "rule": "B typografia (rozsah rokov)", "before": "Datovanie hradby: 892 - 893 (dendrochronológia)", "after": "892 – 893 (dendrochronológia)", "block": "keyFacts" },
+    { "rule": "B typografia (apozícia + rozsah rokov, cross-field s telom)", "before": "timeline: 'viaceré objekty - zásobné jamy...' / 'do rokov 892 - 893'", "after": "'viaceré objekty — zásobné jamy...' / 'do rokov 892 – 893'", "block": "timeline" }
+  ],
+  "reviewed_no_change": [
+    "Telo (najmä blok 6, parafráza Ruttkay/Fottová/Henning 2006): sa/si pozícia, pádové väzby, zhoda podmet-prísudok — všetko preverené a v poriadku, žiadne zásahy nad rámec typografie.",
+    "Nemecká bibliografická citácia (Henning/Ruttkay 2011, blok 14) — ponechaná úplne nedotknutá, nejde o slovenčinu.",
+    "'refúgiá' (blok 11) — už správne s dĺžňom pred opravou, potvrdzuje správnosť opravy 'refugia' -> 'refúgia' v bloku 6.",
+    "Časté nezarovnané medzery/prázdne riadky ('\\n \\n   \\n  \\n...') v strede bloku 6 — extrakčný artefakt zo štruktúrovaných medzititulkov (Priekopa/Čelná plenta/Komora/Datovanie), netýka sa gramatiky ani typografie v úzkom zmysle, neopravované.",
+    "Zámerné doslovné opakovanie popisu Variantu A a B (bloky 6, 8, 10) — sprevádza porovnávací obrázok (blok 9), ide o editorský zámer (zhrnutie pri obrázku), nie o chybu extrakcie typu 'duplicitná veta' — opravené rovnako v oboch kópiách, nezlučované/nemazané."
+  ],
+  "flags": [
+    "Pozri out/majcichov.review.json — BIBLIO_IN_BODY/duplicita (blok 13), štrukturálna nekonzistencia medzititulku 'Nálezy' (blok 6), pravdepodobne odseknutý odkaz 'Naj' (blok 14 + citations)."
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\refugia12-hatne.single.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-2110402810755722465",
+    "bloggerPostUrl": "http://www.hradiska.sk/2012/09/hatne.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/2110402810755722465/comments/default",
+    "extractedAt": "2026-07-14T04:04:20.205Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 2,
+    "comments": [
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-3191644767915930564",
+        "bloggerPostId": "3191644767915930564",
+        "author": "Orgon AdSense",
+        "authorProfile": "https://www.blogger.com/profile/09187052428634333556",
+        "published": "2012-10-30T10:29:56.543+01:00",
+        "updated": "2012-10-30T10:29:56.543+01:00",
+        "content": "malo by to byť niekde na ich stránke, prípadne skus napísať priamo pánovi Malecovi",
+        "inReplyToArticle": "http://www.hradiska.sk/2012/09/hatne.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      },
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-4352167136207257051",
+        "bloggerPostId": "4352167136207257051",
+        "author": "ivánka",
+        "authorProfile": null,
+        "published": "2012-10-30T10:11:35.104+01:00",
+        "updated": "2012-10-30T10:11:35.104+01:00",
+        "content": "zdravím, dá sa diplomová práca juraja maleca pozrieť alebo stiahnuť online?",
+        "inReplyToArticle": "http://www.hradiska.sk/2012/09/hatne.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      }
+    ],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&t=h&ll=49.193347,18.375712&spn=0.001227,0.00228&z=18&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 24,
+      "captionedImages": 8,
+      "separatorImages": 16
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations"
+    ]
+  },
+  "blogPost": {
+    "title": "Hatné",
+    "slug": "hatne",
+    "excerpt": "Severne od obce Hatné sa po oboch stranách Marikovského potoka nachádzajú v polohe Hrádok dve menšie opevnenia, ktoré dokumentujú jedno z najstarších osídlení v celej Marikovskej doline. Štefan Janšák v roku 1930 o nich napísal nasledovné:",
+    "authorName": "Orgon",
+    "publishedAt": "2012-09-16T20:53:00.001+02:00",
+    "originalPublishedDate": "2012-09-16T20:53:00.001+02:00",
+    "updatedAt": "2021-12-29T20:17:27.442+01:00",
+    "readingTime": 6,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAH3m3-pEFjegk9W3wrcCc8pKO6oSWrV2jBfNfuUDN9699nfIoLuBkjxzMZ5saP7Rawrob3VvOav3Ij7DHHUXVfvA9vpN03Z3PJ-i8oSoxlYvJdqxTfwYBeGVIuwgmMiRDFGvp-3hZec/s0/Kresba.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAH3m3-pEFjegk9W3wrcCc8pKO6oSWrV2jBfNfuUDN9699nfIoLuBkjxzMZ5saP7Rawrob3VvOav3Ij7DHHUXVfvA9vpN03Z3PJ-i8oSoxlYvJdqxTfwYBeGVIuwgmMiRDFGvp-3hZec/s1600/Kresba.JPG",
+      "filename": "Kresba.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAH3m3-pEFjegk9W3wrcCc8pKO6oSWrV2jBfNfuUDN9699nfIoLuBkjxzMZ5saP7Rawrob3VvOav3Ij7DHHUXVfvA9vpN03Z3PJ-i8oSoxlYvJdqxTfwYBeGVIuwgmMiRDFGvp-3hZec/s1600/Kresba.JPG",
+        "displayedWidth": 320,
+        "displayedHeight": 226,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAH3m3-pEFjegk9W3wrcCc8pKO6oSWrV2jBfNfuUDN9699nfIoLuBkjxzMZ5saP7Rawrob3VvOav3Ij7DHHUXVfvA9vpN03Z3PJ-i8oSoxlYvJdqxTfwYBeGVIuwgmMiRDFGvp-3hZec/s0/Kresba.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAH3m3-pEFjegk9W3wrcCc8pKO6oSWrV2jBfNfuUDN9699nfIoLuBkjxzMZ5saP7Rawrob3VvOav3Ij7DHHUXVfvA9vpN03Z3PJ-i8oSoxlYvJdqxTfwYBeGVIuwgmMiRDFGvp-3hZec/s1600/Kresba.JPG",
+        "filename": "Kresba.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAH3m3-pEFjegk9W3wrcCc8pKO6oSWrV2jBfNfuUDN9699nfIoLuBkjxzMZ5saP7Rawrob3VvOav3Ij7DHHUXVfvA9vpN03Z3PJ-i8oSoxlYvJdqxTfwYBeGVIuwgmMiRDFGvp-3hZec/s1600/Kresba.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 226,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Romantická predstava o oboch hrádkoch, prepojených koženým mostom je založená na legende, ktorá je zachytená už koncom 19. storočia. Zaznamenal ju aj Janšák v roku 1930 (autor Tomáš Humaj)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhyK1arne2tqMuCtTJQMUzyVhNoT5hanCKSA6-yrAiA0KOu6djnXORjflHtl-3UWAYwsijqWZBk11IixNu3jGVwZvRGwU0adOq5mgh-x1zVwcElvo49y3PbdlAD0X3bSjIgOKjVwtENZPGzpDUArMwF_ZD1e7Nqjo_i9XB8gj3y1z_entcQsPYg75lXgA=s0",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhyK1arne2tqMuCtTJQMUzyVhNoT5hanCKSA6-yrAiA0KOu6djnXORjflHtl-3UWAYwsijqWZBk11IixNu3jGVwZvRGwU0adOq5mgh-x1zVwcElvo49y3PbdlAD0X3bSjIgOKjVwtENZPGzpDUArMwF_ZD1e7Nqjo_i9XB8gj3y1z_entcQsPYg75lXgA=s0",
+        "filename": "hatne-hradok-kresba-umelecka.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/a/AVvXsEhyK1arne2tqMuCtTJQMUzyVhNoT5hanCKSA6-yrAiA0KOu6djnXORjflHtl-3UWAYwsijqWZBk11IixNu3jGVwZvRGwU0adOq5mgh-x1zVwcElvo49y3PbdlAD0X3bSjIgOKjVwtENZPGzpDUArMwF_ZD1e7Nqjo_i9XB8gj3y1z_entcQsPYg75lXgA=s0",
+          "displayedWidth": 320,
+          "displayedHeight": 222,
+          "originalWidth": 1544,
+          "originalHeight": 1073
+        },
+        "caption": "Umelecká predstava o vzhľade stredovekého hrádku rodu Hatňanskovcov. (autor: Bohuš Šikulínec)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz2k815UJk1qs8cB-unJjMjhGhMMBMNZJy3M5R9DOGyE8HCpInvDGLIqnviidZIzMQLpKnPmSDqDDha55vaTErKBX3YvQosTBPrAp_OmSj6CFALqlGYdb0z1mCYuwKGgxtxULuArBESE4/s0/treci%CC%81+kamen%CC%8C+hals%CC%8Ctat+Jans%CC%8Ca%CC%81k+1930.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz2k815UJk1qs8cB-unJjMjhGhMMBMNZJy3M5R9DOGyE8HCpInvDGLIqnviidZIzMQLpKnPmSDqDDha55vaTErKBX3YvQosTBPrAp_OmSj6CFALqlGYdb0z1mCYuwKGgxtxULuArBESE4/s1600/treci%CC%81+kamen%CC%8C+hals%CC%8Ctat+Jans%CC%8Ca%CC%81k+1930.jpg",
+        "filename": "trecí+kameň+halštat+Janšák+1930.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz2k815UJk1qs8cB-unJjMjhGhMMBMNZJy3M5R9DOGyE8HCpInvDGLIqnviidZIzMQLpKnPmSDqDDha55vaTErKBX3YvQosTBPrAp_OmSj6CFALqlGYdb0z1mCYuwKGgxtxULuArBESE4/s1600/treci%CC%81+kamen%CC%8C+hals%CC%8Ctat+Jans%CC%8Ca%CC%81k+1930.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 299,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "trecí kameň Janšák datuje do halštatskej doby"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy-3KtWXgJu5jIggjpMldudvY3EvW4V9EmNAZYV0cRqa5WLSWVHJHQfAToH5SLmZr4bskL19tiyB_U3USbBf8BIR4Pqt4iA97dQLMmfNdyZca3kkdMU2U6rBtAQSTTlrJH6U2YIenMit8/s0/1495222_466342740137435_1826746415_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy-3KtWXgJu5jIggjpMldudvY3EvW4V9EmNAZYV0cRqa5WLSWVHJHQfAToH5SLmZr4bskL19tiyB_U3USbBf8BIR4Pqt4iA97dQLMmfNdyZca3kkdMU2U6rBtAQSTTlrJH6U2YIenMit8/s1600/1495222_466342740137435_1826746415_o.jpg",
+        "filename": "1495222_466342740137435_1826746415_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy-3KtWXgJu5jIggjpMldudvY3EvW4V9EmNAZYV0cRqa5WLSWVHJHQfAToH5SLmZr4bskL19tiyB_U3USbBf8BIR4Pqt4iA97dQLMmfNdyZca3kkdMU2U6rBtAQSTTlrJH6U2YIenMit8/s1600/1495222_466342740137435_1826746415_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Dve veľmi pekné vizualizácie hradísk pre nás vytvoril Antonín Lacko"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIOcObZkzBQmpCE2qcrrFGGB9gPEhNIQ8xo_j55VjLB4AeDXpiG30vnXlzsrXscRqf02eLdJY64cqjB7ymub_byruxXLidbj3k-ARfaWYVQOZKo_PSBNPSRUshQcZ61d7ZB1e3ci2SaQ/s0/Hatne%CC%81+na%CC%81kres.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIOcObZkzBQmpCE2qcrrFGGB9gPEhNIQ8xo_j55VjLB4AeDXpiG30vnXlzsrXscRqf02eLdJY64cqjB7ymub_byruxXLidbj3k-ARfaWYVQOZKo_PSBNPSRUshQcZ61d7ZB1e3ci2SaQ/s1600/Hatne%CC%81+na%CC%81kres.jpeg",
+        "filename": "Hatné+nákres.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIOcObZkzBQmpCE2qcrrFGGB9gPEhNIQ8xo_j55VjLB4AeDXpiG30vnXlzsrXscRqf02eLdJY64cqjB7ymub_byruxXLidbj3k-ARfaWYVQOZKo_PSBNPSRUshQcZ61d7ZB1e3ci2SaQ/s1600/Hatne%CC%81+na%CC%81kres.jpeg",
+          "displayedWidth": 220,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Nákres Štefana Janšáka zobrazuje stav hradiska ešte pred jeho čiastočním zničením ťažbou kameňa"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMWP7qpQSIz7xNMj1REqqHbXz3gDhOcSqPYOWTBiVCghRJLiWl5mdENiKEoZrEeFZNT4hMZ_nx1GvySC8BT7pcCa4TeRXQAcjpIfmSwovmKkg48CMasCFwk0Lu6eQ8Sb2hfpGPNJuUxJ0/s0/1618085_466925463412496_1109254365_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMWP7qpQSIz7xNMj1REqqHbXz3gDhOcSqPYOWTBiVCghRJLiWl5mdENiKEoZrEeFZNT4hMZ_nx1GvySC8BT7pcCa4TeRXQAcjpIfmSwovmKkg48CMasCFwk0Lu6eQ8Sb2hfpGPNJuUxJ0/s1600/1618085_466925463412496_1109254365_o.jpg",
+        "filename": "1618085_466925463412496_1109254365_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMWP7qpQSIz7xNMj1REqqHbXz3gDhOcSqPYOWTBiVCghRJLiWl5mdENiKEoZrEeFZNT4hMZ_nx1GvySC8BT7pcCa4TeRXQAcjpIfmSwovmKkg48CMasCFwk0Lu6eQ8Sb2hfpGPNJuUxJ0/s1600/1618085_466925463412496_1109254365_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-g3KfsK82fQFvemYEHwlouEtDAhODlA2ZCasEv_7STrBKvsZtyWWUEfixbWTIxoCuqNFWHylTmoHnZudAZsq1wnrD__DzMOx87cqqN1PeFLzQK1w_-QrFdbzIXkBn_1n2Q3QPkcfQPC8/s0/Hatne%CC%81.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-g3KfsK82fQFvemYEHwlouEtDAhODlA2ZCasEv_7STrBKvsZtyWWUEfixbWTIxoCuqNFWHylTmoHnZudAZsq1wnrD__DzMOx87cqqN1PeFLzQK1w_-QrFdbzIXkBn_1n2Q3QPkcfQPC8/s1600/Hatne%CC%81.jpeg",
+        "filename": "Hatné.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-g3KfsK82fQFvemYEHwlouEtDAhODlA2ZCasEv_7STrBKvsZtyWWUEfixbWTIxoCuqNFWHylTmoHnZudAZsq1wnrD__DzMOx87cqqN1PeFLzQK1w_-QrFdbzIXkBn_1n2Q3QPkcfQPC8/s1600/Hatne%CC%81.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 276,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pre porovnanie súčasný stav hradiska. Oprava: namiesto P. Schneider má byť uvedené P. Schreiber"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrMyjZ0HUD2xC4aV1uvxFxnu2unP7ml9CTDa6p9VynGeQYHArw9sbKB79xSD90uIb3FGsZ1LqRgnhkb4cVxOgUgphKiseUCP9K24qDLKTq5rcXsin5SvA5L9fBJMOsuPJMrhA9XQgDTeo/s0/jansak+1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrMyjZ0HUD2xC4aV1uvxFxnu2unP7ml9CTDa6p9VynGeQYHArw9sbKB79xSD90uIb3FGsZ1LqRgnhkb4cVxOgUgphKiseUCP9K24qDLKTq5rcXsin5SvA5L9fBJMOsuPJMrhA9XQgDTeo/s1600/jansak+1.jpg",
+        "filename": "jansak+1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrMyjZ0HUD2xC4aV1uvxFxnu2unP7ml9CTDa6p9VynGeQYHArw9sbKB79xSD90uIb3FGsZ1LqRgnhkb4cVxOgUgphKiseUCP9K24qDLKTq5rcXsin5SvA5L9fBJMOsuPJMrhA9XQgDTeo/s1600/jansak+1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 221,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Kresba oboch hrádkov, ako ich zahytil Š. Janšák v roku 1930"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikvki9ZqEFt1PYchElorWbLfVJwB6EBqjzaDMibGcA5uBRtgYSuelY_T0G5XG_5ctqy8N5SwLAwwNXNpnHaInAtTWohPscbbFLb-e4u_JJ71ZU2h3-9tvi-K2Bk9ziavZtPIWwlwRhHKQ/s0/jansak+2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikvki9ZqEFt1PYchElorWbLfVJwB6EBqjzaDMibGcA5uBRtgYSuelY_T0G5XG_5ctqy8N5SwLAwwNXNpnHaInAtTWohPscbbFLb-e4u_JJ71ZU2h3-9tvi-K2Bk9ziavZtPIWwlwRhHKQ/s1600/jansak+2.jpg",
+        "filename": "jansak+2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikvki9ZqEFt1PYchElorWbLfVJwB6EBqjzaDMibGcA5uBRtgYSuelY_T0G5XG_5ctqy8N5SwLAwwNXNpnHaInAtTWohPscbbFLb-e4u_JJ71ZU2h3-9tvi-K2Bk9ziavZtPIWwlwRhHKQ/s1600/jansak+2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 182,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3o2KW3dkdiKNkIlmv8P8e_a79DJ5MhHbsLNSzPPrZ-QT2bucUnld1dKNw_ihOMGtZX57Ks98z7c1quzioQ3qJ93rqRD7MFv6PugIcWxE37DdSw3fjYbv0QPFkKdy0S7XplArYJJiqs3s/s0/023w.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3o2KW3dkdiKNkIlmv8P8e_a79DJ5MhHbsLNSzPPrZ-QT2bucUnld1dKNw_ihOMGtZX57Ks98z7c1quzioQ3qJ93rqRD7MFv6PugIcWxE37DdSw3fjYbv0QPFkKdy0S7XplArYJJiqs3s/s1600/023w.jpg",
+        "filename": "023w.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3o2KW3dkdiKNkIlmv8P8e_a79DJ5MhHbsLNSzPPrZ-QT2bucUnld1dKNw_ihOMGtZX57Ks98z7c1quzioQ3qJ93rqRD7MFv6PugIcWxE37DdSw3fjYbv0QPFkKdy0S7XplArYJJiqs3s/s1600/023w.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 214,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMcGQjNPuxslVm-4VaiNnIK9YOv8BlOTewS6O7JH9au5Bse-czAyr40uBznG8HVVtjAiQu7rYGHvel1RuJT4WQArl205ura5dMP-y6VOaJ2NpfXRMEWRSrGqrtSUMCKsyjy6igSxoN1Gg/s0/1425430_597940790266469_508664285_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMcGQjNPuxslVm-4VaiNnIK9YOv8BlOTewS6O7JH9au5Bse-czAyr40uBznG8HVVtjAiQu7rYGHvel1RuJT4WQArl205ura5dMP-y6VOaJ2NpfXRMEWRSrGqrtSUMCKsyjy6igSxoN1Gg/s1600/1425430_597940790266469_508664285_o.jpg",
+        "filename": "1425430_597940790266469_508664285_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMcGQjNPuxslVm-4VaiNnIK9YOv8BlOTewS6O7JH9au5Bse-czAyr40uBznG8HVVtjAiQu7rYGHvel1RuJT4WQArl205ura5dMP-y6VOaJ2NpfXRMEWRSrGqrtSUMCKsyjy6igSxoN1Gg/s1600/1425430_597940790266469_508664285_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Naša informačná tabuľa na hradisku"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjziDXAc23uvOvRmZI5UsiL4c-tkCsRAL-1d45kyfWocOt-WjxgsA5ymTjENdri4CkwpwTsjTwGbp9WvZ2BlTtppxTplgd4Mf500JBy3n6pPEc8-3CZQDh_4NFK9EwAE_uKL5pGG9LvnpU/s0/060w.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjziDXAc23uvOvRmZI5UsiL4c-tkCsRAL-1d45kyfWocOt-WjxgsA5ymTjENdri4CkwpwTsjTwGbp9WvZ2BlTtppxTplgd4Mf500JBy3n6pPEc8-3CZQDh_4NFK9EwAE_uKL5pGG9LvnpU/s1600/060w.jpg",
+        "filename": "060w.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjziDXAc23uvOvRmZI5UsiL4c-tkCsRAL-1d45kyfWocOt-WjxgsA5ymTjENdri4CkwpwTsjTwGbp9WvZ2BlTtppxTplgd4Mf500JBy3n6pPEc8-3CZQDh_4NFK9EwAE_uKL5pGG9LvnpU/s1600/060w.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbHUhStbK8faOcYTOYx5GZoCkxHYt8bci4ogUx5LLinrqf8PPs8lJjvNTWkjapQhjVEPiBb-mp_S1LpU4PoSU8qd7GOSMc-McgFtqM-AgqmPXd63WR7MGtVfdSIkKY6cWDUK-jy5AjM-c/s0/141w.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbHUhStbK8faOcYTOYx5GZoCkxHYt8bci4ogUx5LLinrqf8PPs8lJjvNTWkjapQhjVEPiBb-mp_S1LpU4PoSU8qd7GOSMc-McgFtqM-AgqmPXd63WR7MGtVfdSIkKY6cWDUK-jy5AjM-c/s1600/141w.jpg",
+        "filename": "141w.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbHUhStbK8faOcYTOYx5GZoCkxHYt8bci4ogUx5LLinrqf8PPs8lJjvNTWkjapQhjVEPiBb-mp_S1LpU4PoSU8qd7GOSMc-McgFtqM-AgqmPXd63WR7MGtVfdSIkKY6cWDUK-jy5AjM-c/s1600/141w.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouRrj5JQWlEwxHnV-MKP9hh7K1plorkQSIWQgJRjPINLY7jNEK7KP3vHwFOmiO4slnTSJRcv_HO4DSf75PfdZb-6Pb_ONdz4ExCuxfTqbzD9eCt-bqOR6_NShGzP59HEl2pYoqBUwfpc/s0/hra%CC%81dok+1.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouRrj5JQWlEwxHnV-MKP9hh7K1plorkQSIWQgJRjPINLY7jNEK7KP3vHwFOmiO4slnTSJRcv_HO4DSf75PfdZb-6Pb_ONdz4ExCuxfTqbzD9eCt-bqOR6_NShGzP59HEl2pYoqBUwfpc/s1600/hra%CC%81dok+1.jpeg",
+        "filename": "hrádok+1.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouRrj5JQWlEwxHnV-MKP9hh7K1plorkQSIWQgJRjPINLY7jNEK7KP3vHwFOmiO4slnTSJRcv_HO4DSf75PfdZb-6Pb_ONdz4ExCuxfTqbzD9eCt-bqOR6_NShGzP59HEl2pYoqBUwfpc/s1600/hra%CC%81dok+1.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiHNEOKeipN5cTF0Ul2-4bpA28vGpvU_5pqAXWpIan3vho3DyN2h32O3nZ_X-cglGZ33MoEFuFDjGDUTzPE5Uvn34hjwVfKVX_GLXkg_ymYi0lKVVQmnRHMjubByDQ_uYzCFJGaH7teE0/s0/hra%CC%81dok+12.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiHNEOKeipN5cTF0Ul2-4bpA28vGpvU_5pqAXWpIan3vho3DyN2h32O3nZ_X-cglGZ33MoEFuFDjGDUTzPE5Uvn34hjwVfKVX_GLXkg_ymYi0lKVVQmnRHMjubByDQ_uYzCFJGaH7teE0/s1600/hra%CC%81dok+12.jpeg",
+        "filename": "hrádok+12.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiHNEOKeipN5cTF0Ul2-4bpA28vGpvU_5pqAXWpIan3vho3DyN2h32O3nZ_X-cglGZ33MoEFuFDjGDUTzPE5Uvn34hjwVfKVX_GLXkg_ymYi0lKVVQmnRHMjubByDQ_uYzCFJGaH7teE0/s1600/hra%CC%81dok+12.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPEpRvsRZbe-o0cYZ-zshEYkQ2zqF_BAnhTZAL-2Wduq_rpkNIBaHe-EIMfn-Tv9rTuSS6tzmBtNgio6O32ugzviI7mHo7XcPrXLldjaDgzt2EosnFhtf5VjmMJ0U3gHVz14qzfII5GEY/s0/mar1.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPEpRvsRZbe-o0cYZ-zshEYkQ2zqF_BAnhTZAL-2Wduq_rpkNIBaHe-EIMfn-Tv9rTuSS6tzmBtNgio6O32ugzviI7mHo7XcPrXLldjaDgzt2EosnFhtf5VjmMJ0U3gHVz14qzfII5GEY/s1600/mar1.jpeg",
+        "filename": "mar1.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPEpRvsRZbe-o0cYZ-zshEYkQ2zqF_BAnhTZAL-2Wduq_rpkNIBaHe-EIMfn-Tv9rTuSS6tzmBtNgio6O32ugzviI7mHo7XcPrXLldjaDgzt2EosnFhtf5VjmMJ0U3gHVz14qzfII5GEY/s1600/mar1.jpeg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVZxTeGAf-dq6Dmu3HZyk_Ej_hX3ON1lbi-kh05iaplovs6Iix-Bqus1l_sPzL1p_vwyU5w4F0mYKpnmkmGXPCWmjsiVb0LnFKhVM-0__ZcaIhdssoYwOjICqQYCYN4OLSZ6bhq1HLzkU/s0/SAM_2029.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVZxTeGAf-dq6Dmu3HZyk_Ej_hX3ON1lbi-kh05iaplovs6Iix-Bqus1l_sPzL1p_vwyU5w4F0mYKpnmkmGXPCWmjsiVb0LnFKhVM-0__ZcaIhdssoYwOjICqQYCYN4OLSZ6bhq1HLzkU/s1600/SAM_2029.JPG",
+        "filename": "SAM_2029.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVZxTeGAf-dq6Dmu3HZyk_Ej_hX3ON1lbi-kh05iaplovs6Iix-Bqus1l_sPzL1p_vwyU5w4F0mYKpnmkmGXPCWmjsiVb0LnFKhVM-0__ZcaIhdssoYwOjICqQYCYN4OLSZ6bhq1HLzkU/s1600/SAM_2029.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 179,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uPb06P42AaiL_U8rGGkUP0POrtFgRZVeh41ejr7y7c6bBgx7iWTGvE-F6XjH8s81QnsSrqrrdTJXhqkSjUZPuOOr2n_cgLjo44lHb4g9Sj4wAn44y2SsGVwubR6CiUpmJriw0yjUFUg/s0/SAM_2030.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uPb06P42AaiL_U8rGGkUP0POrtFgRZVeh41ejr7y7c6bBgx7iWTGvE-F6XjH8s81QnsSrqrrdTJXhqkSjUZPuOOr2n_cgLjo44lHb4g9Sj4wAn44y2SsGVwubR6CiUpmJriw0yjUFUg/s1600/SAM_2030.JPG",
+        "filename": "SAM_2030.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1uPb06P42AaiL_U8rGGkUP0POrtFgRZVeh41ejr7y7c6bBgx7iWTGvE-F6XjH8s81QnsSrqrrdTJXhqkSjUZPuOOr2n_cgLjo44lHb4g9Sj4wAn44y2SsGVwubR6CiUpmJriw0yjUFUg/s1600/SAM_2030.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 179,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeUgm0TRd_7JqWrGAEkep8LUJYRiCjkeeVjeM9BA27AO4EOXyPVViGjfDdGmIgQ9bZVkhOMsMtPFFuS0IADuCa37AhUe6hD_6_3U6ffNbagX8CH9sRKePwOS8Nq_Wc50MY4D4QXjfNopI/s0/SAM_2031.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeUgm0TRd_7JqWrGAEkep8LUJYRiCjkeeVjeM9BA27AO4EOXyPVViGjfDdGmIgQ9bZVkhOMsMtPFFuS0IADuCa37AhUe6hD_6_3U6ffNbagX8CH9sRKePwOS8Nq_Wc50MY4D4QXjfNopI/s1600/SAM_2031.JPG",
+        "filename": "SAM_2031.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeUgm0TRd_7JqWrGAEkep8LUJYRiCjkeeVjeM9BA27AO4EOXyPVViGjfDdGmIgQ9bZVkhOMsMtPFFuS0IADuCa37AhUe6hD_6_3U6ffNbagX8CH9sRKePwOS8Nq_Wc50MY4D4QXjfNopI/s1600/SAM_2031.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 179,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh30n3s03R_ZbqDlyNvj7KRh-umD9-hLvEd65qcg6fA_E_2CiHD80g0hRBkyf5v_ARZSb5nb8oVx02wV6n85cgPHwl6FAi_3hI8OtQr3zqMXJHNL3S_xjSq7xgdg-x4gacQh6zFESxFjg/s0/SAM_2032.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh30n3s03R_ZbqDlyNvj7KRh-umD9-hLvEd65qcg6fA_E_2CiHD80g0hRBkyf5v_ARZSb5nb8oVx02wV6n85cgPHwl6FAi_3hI8OtQr3zqMXJHNL3S_xjSq7xgdg-x4gacQh6zFESxFjg/s1600/SAM_2032.JPG",
+        "filename": "SAM_2032.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh30n3s03R_ZbqDlyNvj7KRh-umD9-hLvEd65qcg6fA_E_2CiHD80g0hRBkyf5v_ARZSb5nb8oVx02wV6n85cgPHwl6FAi_3hI8OtQr3zqMXJHNL3S_xjSq7xgdg-x4gacQh6zFESxFjg/s1600/SAM_2032.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 179,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioJ4PFSLA7cAqMwzQYmYUySRKnm0hOSIKr2fwUjkegm3ggFxtRSLiEVc_jyJSJPibFBxv-WHVFEVGxUrqJ5ts0eXR_5_Pet90uDOF1G1cg-rjvodqgfa5Ah6xjyuJUWjZbju7f3JKxsdU/s0/SAM_2033.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioJ4PFSLA7cAqMwzQYmYUySRKnm0hOSIKr2fwUjkegm3ggFxtRSLiEVc_jyJSJPibFBxv-WHVFEVGxUrqJ5ts0eXR_5_Pet90uDOF1G1cg-rjvodqgfa5Ah6xjyuJUWjZbju7f3JKxsdU/s1600/SAM_2033.JPG",
+        "filename": "SAM_2033.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioJ4PFSLA7cAqMwzQYmYUySRKnm0hOSIKr2fwUjkegm3ggFxtRSLiEVc_jyJSJPibFBxv-WHVFEVGxUrqJ5ts0eXR_5_Pet90uDOF1G1cg-rjvodqgfa5Ah6xjyuJUWjZbju7f3JKxsdU/s1600/SAM_2033.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 179,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiibbwsi7cAMZoFSgZY9ZA_FMq44MIHj4eHWeFhHSfnSQ4ANUYS3r8fquG4TE8Y2ACXpj5yrBbPbbwQOs3y1xaBtLeq5xrr6UxqvyS7D0G-kiQfw5_FMlj9MN1AENRjcop-rVcQsCs4k_Y/s0/SAM_2034.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiibbwsi7cAMZoFSgZY9ZA_FMq44MIHj4eHWeFhHSfnSQ4ANUYS3r8fquG4TE8Y2ACXpj5yrBbPbbwQOs3y1xaBtLeq5xrr6UxqvyS7D0G-kiQfw5_FMlj9MN1AENRjcop-rVcQsCs4k_Y/s1600/SAM_2034.JPG",
+        "filename": "SAM_2034.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiibbwsi7cAMZoFSgZY9ZA_FMq44MIHj4eHWeFhHSfnSQ4ANUYS3r8fquG4TE8Y2ACXpj5yrBbPbbwQOs3y1xaBtLeq5xrr6UxqvyS7D0G-kiQfw5_FMlj9MN1AENRjcop-rVcQsCs4k_Y/s1600/SAM_2034.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 179,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNS4zAEp2-dSeNHVIpvTNtLp8VTbnmw4z6XTt2bpCaXaUN4fSHwqcnbQp7lu1TVO0qqncZ8QbUCA_RoL4sKKvES00qQknWSs33eB0_bonxR4z_WLkzhFTdrfg0ZmKvTEod6U1lbX04v_4/s0/SAM_2035.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNS4zAEp2-dSeNHVIpvTNtLp8VTbnmw4z6XTt2bpCaXaUN4fSHwqcnbQp7lu1TVO0qqncZ8QbUCA_RoL4sKKvES00qQknWSs33eB0_bonxR4z_WLkzhFTdrfg0ZmKvTEod6U1lbX04v_4/s1600/SAM_2035.JPG",
+        "filename": "SAM_2035.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNS4zAEp2-dSeNHVIpvTNtLp8VTbnmw4z6XTt2bpCaXaUN4fSHwqcnbQp7lu1TVO0qqncZ8QbUCA_RoL4sKKvES00qQknWSs33eB0_bonxR4z_WLkzhFTdrfg0ZmKvTEod6U1lbX04v_4/s1600/SAM_2035.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 179,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9RNskTpqv3D1ncvhVQCse5RZP2qpEI9PgHDp-JFKrmGZGZcJ4JgspZtNa-4G2XEJnPQ90FDbwYarT9gy4TTIqm9dGtchHiRG8V0s0iQRB_dKPJTKuy6vj1S_QHksFTI_X5DQX6pP1RPc/s0/Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9RNskTpqv3D1ncvhVQCse5RZP2qpEI9PgHDp-JFKrmGZGZcJ4JgspZtNa-4G2XEJnPQ90FDbwYarT9gy4TTIqm9dGtchHiRG8V0s0iQRB_dKPJTKuy6vj1S_QHksFTI_X5DQX6pP1RPc/s1600/Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg",
+        "filename": "Hlavička+web-stránky_2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9RNskTpqv3D1ncvhVQCse5RZP2qpEI9PgHDp-JFKrmGZGZcJ4JgspZtNa-4G2XEJnPQ90FDbwYarT9gy4TTIqm9dGtchHiRG8V0s0iQRB_dKPJTKuy6vj1S_QHksFTI_X5DQX6pP1RPc/s1600/Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 95,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Hatné"
+    ],
+    "category": null,
+    "location": {
+      "name": "Hatné",
+      "latitude": 49.193347,
+      "longitude": 18.375712,
+      "region": null,
+      "country": null
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Severne od obce Hatné, po oboch stranách Marikovského potoka, v polohe Hrádok",
+        "icon": "map"
+      },
+      {
+        "label": "Počet opevnení",
+        "value": "Dve menšie opevnenia – Väčší a Menší hrádok",
+        "icon": "shield"
+      },
+      {
+        "label": "Najstaršie osídlenie",
+        "value": "3. tisícročie p. n. l. – ľud bádenskej kultúry",
+        "icon": "star"
+      },
+      {
+        "label": "Rozloha Väčšieho hrádku",
+        "value": "1 970 m²",
+        "icon": "mountain"
+      },
+      {
+        "label": "Ochranný val",
+        "value": "Oblúkovitý val dlhý 36 m, navonok 5 m a dovnútra 2 m vysoký",
+        "icon": "shield"
+      },
+      {
+        "label": "Majitelia",
+        "value": "Rod Hatňanských, neskôr majitelia Budatínskeho zámku",
+        "icon": "building"
+      },
+      {
+        "label": "Zničenie lokality",
+        "value": "Menší hrádok takmer úplne rozobrali obyvatelia, Väčší značne narušil kameňolom",
+        "icon": "custom"
+      },
+      {
+        "label": "Ochrana",
+        "value": "Oba hrádky sú vyhlásené za archeologické lokality",
+        "icon": "book"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "3. tisícročie p. n. l.",
+        "title": "Osídlenie ľudom bádenskej kultúry",
+        "description": "Väčší hrádok osídlil ľud bádenskej kultúry, ktorý vyhĺbil priekopu a z vyťaženej zeminy vybudoval val na ochranu plošiny.",
+        "type": "founding"
+      },
+      {
+        "year": "neskorá doba bronzová",
+        "title": "Sídlisko ľudu lužickej kultúry",
+        "description": "Okrem brala Hrádku bol osídlený aj priestor vedľa neho, kde vzniklo sídlisko ľudu lužickej kultúry; Štefan Janšák tu našiel hallštattské črepy a trecí kameň.",
+        "type": "era"
+      },
+      {
+        "year": "prelom letopočtov",
+        "title": "Opevnenie Hrádku na pravej strane potoka",
+        "description": "Opevnili Hrádok na pravej strane potoka, dnes už zničený ťažbou kameňa; v jeho blízkosti bolo sídlisko ľudu púchovskej kultúry.",
+        "type": "construction"
+      },
+      {
+        "year": "9. storočie n. l.",
+        "title": "Príchod slovanského obyvateľstva",
+        "description": "Slovanské obyvateľstvo sa tu krátko usadilo po takmer tisícročnom prerušení osídlenia.",
+        "type": "event"
+      },
+      {
+        "year": "1321",
+        "title": "Kilián získava Hatné, Prosné a Marikovú",
+        "description": "Kráľ Karol Róbert daroval Kiliánovi, prvému známemu predkovi rodu Hatňanských, obce Hatné, Prosné a Marikovú.",
+        "type": "event"
+      },
+      {
+        "year": "14. – 15. storočie",
+        "title": "Stredoveký hrádok miestneho zemepána",
+        "description": "Stredoveké nálezy z Hrádku na pravej strane potoka podľa Jozefa Moravčíka dokladajú opevnenie miestneho zemepána z rodu Hatňanských.",
+        "type": "construction"
+      },
+      {
+        "year": "1436",
+        "title": "Juraj z Hatného získava zámok Budatín",
+        "description": "Juraj z Hatného dostal od Žigmunda Luxemburgského do majetku zámok Budatín ako odmenu za verné služby.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Severne od obce Hatné sa po oboch stranách Marikovského potoka nachádzajú v polohe Hrádok dve menšie opevnenia, ktoré dokumentujú jedno z najstarších osídlení v celej Marikovskej doline. Štefan Janšák v roku 1930 o nich napísal nasledovné:\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.quote-block",
+        "text": "V doline Maríkovskej, asi v jednej tretine vzdialenosti medzi obcou Hátne a Maríková, dvíhajú sa proti sebe dva podivuhodné skalné výbežky, každý na jednej strane potôčka. Približujú sa k sebe až na vzdialenosť 80 m, čím vytvorený je v doline úzky priesmyk, sotva postačujúci pre malý potôčik, so štrkovitým plochým korytom, a pre vicinálnu cestu, šírky i kvality až príliš prispôsobenej chudobnému okoliu. Situácia oboch skalísk je taká neobyčajná, že pôsobila i na fantáziu ľudu, ktorý postavil na ne dva staré zámky, kedysi koženým mostom spojené. V bezprostrednom susedstve východného hrádku, ktorý pomenujeme „Väčším\", stojí kaplnka s cintorínom a pri južnej jeho päte drevený kríž."
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Väčší hrádok je typickým príkladom hradiska, vybudovaného na skalnom ostrohu, vybiehajúcom do údolia. Hrádok je nielen zachovalejší v porovnaní s tým náprotivným, ale aj osídlenie je tu oveľa staršie. Pochádza už z 3. tisícročia p. n. l., keď sa tu usadil ľud bádenskej kultúry. Obyvateľom hradiska stačilo vykopať 3 m hlboký jarok J k, získaný materiál upotrebiť na zbudovanie valu a b, aby vzniklo bezpečné uzavretie povrchovej plošiny. V danom prípade vyšla príroda prvým obyvateľom neobyčajne vľúdne v ústrety. Z troch strán je plošina chránená priemerne 20 m vysokou kolmou skalou. Iba na SV a S bol voľný prístup po hrebeni, zatarasený oblúkovitým valom a b, 36 m dlhým, smerom navonok 5 m, dovnútra 2 m vysokým. Jeho pokračovanie tvorí nízky, dnes sotva znateľný val c d, dlhý 18 m.\n \n  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAH3m3-pEFjegk9W3wrcCc8pKO6oSWrV2jBfNfuUDN9699nfIoLuBkjxzMZ5saP7Rawrob3VvOav3Ij7DHHUXVfvA9vpN03Z3PJ-i8oSoxlYvJdqxTfwYBeGVIuwgmMiRDFGvp-3hZec/s0/Kresba.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAH3m3-pEFjegk9W3wrcCc8pKO6oSWrV2jBfNfuUDN9699nfIoLuBkjxzMZ5saP7Rawrob3VvOav3Ij7DHHUXVfvA9vpN03Z3PJ-i8oSoxlYvJdqxTfwYBeGVIuwgmMiRDFGvp-3hZec/s1600/Kresba.JPG",
+          "filename": "Kresba.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJAH3m3-pEFjegk9W3wrcCc8pKO6oSWrV2jBfNfuUDN9699nfIoLuBkjxzMZ5saP7Rawrob3VvOav3Ij7DHHUXVfvA9vpN03Z3PJ-i8oSoxlYvJdqxTfwYBeGVIuwgmMiRDFGvp-3hZec/s1600/Kresba.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 226,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Romantická predstava o oboch hrádkoch, prepojených koženým mostom je založená na legende, ktorá je zachytená už koncom 19. storočia. Zaznamenal ju aj Janšák v roku 1930 (autor Tomáš Humaj)",
+        "caption": "Romantická predstava o oboch hrádkoch, prepojených koženým mostom je založená na legende, ktorá je zachytená už koncom 19. storočia. Zaznamenal ju aj Janšák v roku 1930 (autor Tomáš Humaj)",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Povrch hradiska, v rozlohe 1 970 m², poskytuje všetky výhody malého sídliska. Leží na južnom svahu horstva, spadajúceho do údolia a je teda chránený proti chladným vetrom. Okrem toho umelý val a b chráni bezprostredne k nemu priľahlé pásmo a vystavuje svoj južný svah slnku. Voda nevyhnutná pre život obyvateľov sa nachádza v bezprostrednej blízkosti. Nepatrná rozloha nedovoľuje striedanie viacerých opevnených dvorov, tvrdý skalný podklad bráni zbudovaniu iných zariadení, na bývanie potrebných.  \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Menší hrádok, ležiaci 80 m západne od predchádzajúceho, na pravom brehu Marikovky, zasluhuje azda len dnes toto pomenovanie. Obyvatelia okolitých obcí a kopaníc rozobrali už takmer celú vápencovú skalu, z ktorej je zložený, ponechajúc iba dva ostré, rozdielne vysoké končiare. Menší hrádok mal akiste slávnejšiu minulosť, než jeho sused, zrejme bol mocnejší i bohatší. Podivuhodnou hračkou prírody vznikol tu 20 m vysoký skalný kužeľ s malou síce, ale pohodlnou vrcholovou plošinou. Nebolo mu treba vôbec nijakej práce, aby sa stal bezpečným útočišťom, iba ak sa vytesali primitívne stupne do skaly, vedúce k jeho vrcholu. Z bývalej sily a mohutnosti ostala dnes už iba kostra, dve do neba vystreté skalné ramená, ako by o zľutovanie žiadajúce. Preto ani nemohol kartograf nič z neho zachytiť a zvečniť, ponechávajúc túto úlohu fotografickej platni. Že Menší hrádok bol kedysi Väčším, o tom svedčí značne väčšie množstvo črepov, nájdených pri jeho päte a na poliach, smerom západným od neho sa rozprestierajúcich. Nálezy sú tu bohatšie i rozličnejšie, než v prípade predošlom. Prevládajú hrubozrnné črepy málo vypálené. Jeden z úlomkov nádoby má veľmi mnoho primiešanej tuhy.  \n  Na oboch hrádkoch sa našli jemnozrnné črepy, čierne na povrchu i na lome, slabo vypálené. Prímesok nie je tuha, ale akiste prášok dreveného uhlia, ktorý možno zistiť aspoň v 50 % nájdených hallštattských, laténskych i hradištných črepov. Kde boli nádoby dokonale vypálené, zmizol úplne a niet po ňom stopy. Pri menej dobre vypálených ostáva na lome tmavá vrstva, pri celkom málo vypálených je i povrch čierny. \n \n \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhyK1arne2tqMuCtTJQMUzyVhNoT5hanCKSA6-yrAiA0KOu6djnXORjflHtl-3UWAYwsijqWZBk11IixNu3jGVwZvRGwU0adOq5mgh-x1zVwcElvo49y3PbdlAD0X3bSjIgOKjVwtENZPGzpDUArMwF_ZD1e7Nqjo_i9XB8gj3y1z_entcQsPYg75lXgA=s0",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhyK1arne2tqMuCtTJQMUzyVhNoT5hanCKSA6-yrAiA0KOu6djnXORjflHtl-3UWAYwsijqWZBk11IixNu3jGVwZvRGwU0adOq5mgh-x1zVwcElvo49y3PbdlAD0X3bSjIgOKjVwtENZPGzpDUArMwF_ZD1e7Nqjo_i9XB8gj3y1z_entcQsPYg75lXgA=s0",
+          "filename": "hatne-hradok-kresba-umelecka.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/a/AVvXsEhyK1arne2tqMuCtTJQMUzyVhNoT5hanCKSA6-yrAiA0KOu6djnXORjflHtl-3UWAYwsijqWZBk11IixNu3jGVwZvRGwU0adOq5mgh-x1zVwcElvo49y3PbdlAD0X3bSjIgOKjVwtENZPGzpDUArMwF_ZD1e7Nqjo_i9XB8gj3y1z_entcQsPYg75lXgA=s0",
+            "displayedWidth": 320,
+            "displayedHeight": 222,
+            "originalWidth": 1544,
+            "originalHeight": 1073
+          }
+        },
+        "alt": "Umelecká predstava o vzhľade stredovekého hrádku rodu Hatňanských. (autor: Bohuš Šikulínec)",
+        "caption": "Umelecká predstava o vzhľade stredovekého hrádku rodu Hatňanských. (autor: Bohuš Šikulínec)",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pokračovanie osídlenia v nasledujúcom období zatiaľ nemáme doložené, ale až z neskorej doby bronzovej a začiatku staršej doby železnej. Vtedy bolo osídlené nielen vlastné bralo Hrádku, ale aj priestor vedľa neho, kde vzniklo sídlisko ľudu lužickej kultúry. Štefan Janšák tu našiel črepy z doby hallštattskej a trecí kameň z kremencového pieskovca s najväčšou veľkosťou zrna 1 mm."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na prelome letopočtov opevnili aj Hrádok na pravej strane potoka, ktorý je žiaľ už natoľko zničený ťažbou kameňa, že z neho ostalo iba torzo. V tesnej blízkosti tohto opevnenia bolo aj sídlisko ľudu púchovskej kultúry, na ktorom sa našli zlomky nádob, kamenné osličky a kusy prepálenej mazanice z výmazu stien drevených obydlí.\n \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pokračovanie osídlenia je potom na dobu skoro jedného tisícročia prerušené, pretože slovanské obyvateľstvo sa tu usadilo až v 9. storočí n. l. Trvalo síce len krátko, ale keďže Slovania postupne zaujali celé územie severného Slovenska, bolo len otázkou času, kedy aj tu vznikne stredoveká dedina.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz2k815UJk1qs8cB-unJjMjhGhMMBMNZJy3M5R9DOGyE8HCpInvDGLIqnviidZIzMQLpKnPmSDqDDha55vaTErKBX3YvQosTBPrAp_OmSj6CFALqlGYdb0z1mCYuwKGgxtxULuArBESE4/s0/treci%CC%81+kamen%CC%8C+hals%CC%8Ctat+Jans%CC%8Ca%CC%81k+1930.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz2k815UJk1qs8cB-unJjMjhGhMMBMNZJy3M5R9DOGyE8HCpInvDGLIqnviidZIzMQLpKnPmSDqDDha55vaTErKBX3YvQosTBPrAp_OmSj6CFALqlGYdb0z1mCYuwKGgxtxULuArBESE4/s1600/treci%CC%81+kamen%CC%8C+hals%CC%8Ctat+Jans%CC%8Ca%CC%81k+1930.jpg",
+          "filename": "trecí+kameň+halštat+Janšák+1930.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz2k815UJk1qs8cB-unJjMjhGhMMBMNZJy3M5R9DOGyE8HCpInvDGLIqnviidZIzMQLpKnPmSDqDDha55vaTErKBX3YvQosTBPrAp_OmSj6CFALqlGYdb0z1mCYuwKGgxtxULuArBESE4/s1600/treci%CC%81+kamen%CC%8C+hals%CC%8Ctat+Jans%CC%8Ca%CC%81k+1930.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 299,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "trecí kameň Janšák datuje do halštatskej doby",
+        "caption": "trecí kameň Janšák datuje do halštatskej doby",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dejiny hrádkov",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jozef Moravčík uvádza, že stredoveké nálezy (14. – 15. storočie) z Hrádku na pravej strane potoka hovoria, že tu bolo zrejme opevnenie miestneho zemepána, ktorý sa v 15. storočí stal majiteľom Budatínskeho zámku. Juraj z Hatného získal Budatín od kráľa Žigmunda za svoje verné služby. Jeho prvý známy predok Kilián dostal už v roku 1321 od kráľa Karola Róberta Hatné, Prosné a Marikovú."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pravdepodobne už vtedy si tu vybudoval svoje sídlo — stredoveký hrádok, ktorý slúžil aj jeho potomkom, až kým sa nestali majiteľmi významnejšej pevnosti — Budatína. Pôvodný rozsah ani vzhľad hrádku nepoznáme, lebo jeho podstatnú časť zničil kameňolom. A tak o jeho histórii nám dnes hovoria už iba písomné záznamy a stredoveké črepy, ktoré sa tu našli. Opäť sa potvrdilo, že neuvážené zásahy do terénu značne ochudobňujú poznatky o našej dávnej minulosti, keď sa zničia dôležité objekty, ktorých výskum by mohol priniesť závažné doklady nielen k poznaniu histórie príslušnej obce, ale aj v širších súvislostiach."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy-3KtWXgJu5jIggjpMldudvY3EvW4V9EmNAZYV0cRqa5WLSWVHJHQfAToH5SLmZr4bskL19tiyB_U3USbBf8BIR4Pqt4iA97dQLMmfNdyZca3kkdMU2U6rBtAQSTTlrJH6U2YIenMit8/s0/1495222_466342740137435_1826746415_o.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy-3KtWXgJu5jIggjpMldudvY3EvW4V9EmNAZYV0cRqa5WLSWVHJHQfAToH5SLmZr4bskL19tiyB_U3USbBf8BIR4Pqt4iA97dQLMmfNdyZca3kkdMU2U6rBtAQSTTlrJH6U2YIenMit8/s1600/1495222_466342740137435_1826746415_o.jpg",
+          "filename": "1495222_466342740137435_1826746415_o.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy-3KtWXgJu5jIggjpMldudvY3EvW4V9EmNAZYV0cRqa5WLSWVHJHQfAToH5SLmZr4bskL19tiyB_U3USbBf8BIR4Pqt4iA97dQLMmfNdyZca3kkdMU2U6rBtAQSTTlrJH6U2YIenMit8/s1600/1495222_466342740137435_1826746415_o.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Dve veľmi pekné vizualizácie hradísk pre nás vytvoril Antonín Lacko",
+        "caption": "Dve veľmi pekné vizualizácie hradísk pre nás vytvoril Antonín Lacko",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V 15. storočí ďalší významný feudál z rodu Hatňanských, ktorý azda sídlil na hrádku, bol Juraj z Hatného, o ktorom vieme, že v roku 1436 dostal od Žigmunda Luxemburgského do majetku zámok Budatín. Osud oboch hrádkov zavŕšil kameňolom, ktorý jeden z objektov úplne zničil a druhý značne narušil. Oba sú vyhlásené za archeologické lokality. V obci sa traduje rozprávanie o koženom moste spájajúcom hrádky, ktorému odporujú nálezy hovoriace o tom, že hrádky neboli ani v jednom z období osídlené súčasne. Spojenie mostom je preto málo pravdepodobné."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "fotografie z vtáčej perspektívy, autorka Stanka F.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Š. Janšák: Staré osídlenie Slovenska. In: Sborník slovenskej muzeálnej spoločnosti 24, Martin 1930.",
+            "url": null
+          },
+          {
+            "text": "Moravčík, J., 2002: Opevnenia severozápadného Slovenska, Vlastivedný zborník Považia XXI:7-36",
+            "url": null
+          },
+          {
+            "text": "MALEC, Juraj: Stredoveké fortifikácie na strednom Považí. [Diplomová práca]. Univerzita Komenského v Bratislave. Filozofická fakulta; katedra archeológie.",
+            "url": null
+          },
+          {
+            "text": "Text od Jozefa Moravčíka prevzatý so súhlasom autora z knihy: Martin Olšovský, Štefan Meliš, Jozef Moravčík: Po stopách predkov, Archeológia Stredného Považia od praveku po stredovek - súbor dokumentov a fotografií, vydal vlastným nákladom Martin Olšovský v roku 2008 v počte 4 kusy.",
+            "url": null
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIOcObZkzBQmpCE2qcrrFGGB9gPEhNIQ8xo_j55VjLB4AeDXpiG30vnXlzsrXscRqf02eLdJY64cqjB7ymub_byruxXLidbj3k-ARfaWYVQOZKo_PSBNPSRUshQcZ61d7ZB1e3ci2SaQ/s0/Hatne%CC%81+na%CC%81kres.jpeg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIOcObZkzBQmpCE2qcrrFGGB9gPEhNIQ8xo_j55VjLB4AeDXpiG30vnXlzsrXscRqf02eLdJY64cqjB7ymub_byruxXLidbj3k-ARfaWYVQOZKo_PSBNPSRUshQcZ61d7ZB1e3ci2SaQ/s1600/Hatne%CC%81+na%CC%81kres.jpeg",
+          "filename": "Hatné+nákres.jpeg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSIOcObZkzBQmpCE2qcrrFGGB9gPEhNIQ8xo_j55VjLB4AeDXpiG30vnXlzsrXscRqf02eLdJY64cqjB7ymub_byruxXLidbj3k-ARfaWYVQOZKo_PSBNPSRUshQcZ61d7ZB1e3ci2SaQ/s1600/Hatne%CC%81+na%CC%81kres.jpeg",
+            "displayedWidth": 220,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Nákres Štefana Janšáka zobrazuje stav hradiska ešte pred jeho čiastočním zničením ťažbou kameňa",
+        "caption": "Nákres Štefana Janšáka zobrazuje stav hradiska ešte pred jeho čiastočním zničením ťažbou kameňa",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      }
+    ],
+    "citations": []
+  }
+}

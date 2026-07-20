@@ -1,0 +1,9 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Nitrianske Pravno/Jasenovo - Vyšehrad, 13.7.2026. Citovaný článok Petra Peticа z r.1929 vrátane ľudových povestí (bloky 35-52) — archaický/dialektálny jazyk zámerne ponechaný, opravené len mechanické artefakty.",
+  "corrections": [
+    { "hint": 34, "before": "Vyšehradebez obáv", "after": "Vyšehrade bez obáv", "reason": "chýbajúca medzera" },
+    { "hint": 39, "before": "tvorili vyšehradská hradnú obec", "after": "tvorili vyšehradskú hradnú obec", "reason": "akuzatív po tvorili" },
+    { "hint": 46, "before": "Vyšehradskej) :", "after": "Vyšehradskej):", "reason": "medzera pred dvojbodkou" },
+    { "hint": 54, "before": "Vyšehrad: Cenrálne hradisko?", "after": "Vyšehrad: Centrálne hradisko?", "reason": "preklep" }
+  ]
+}

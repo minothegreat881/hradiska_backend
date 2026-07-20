@@ -1,0 +1,19 @@
+{
+  "slug": "hradisko-nitrianska-blatnica-rotunda-blatnicky-durko",
+  "note": "grammar-sk agent, prvý prechod. Dva rozsiahle citáty (Dvořák 2004, Ruttkay 2006), oba moderná literatúra, neprevedené na quote-block. Rovnaká Ruttkayho bibliografická citácia ako v Ducovom — rovnaké preklepy v Zdrojoch, opravené rovnako.",
+  "appliedFixes": [
+    { "rule": "B typografia (chýbajúca bodka)", "before": "vo výške 450 m n. m,", "after": "vo výške 450 m n. m.,", "block": "excerpt" },
+    { "rule": "B rozsah + pomlčka + A3 zhoda čísla + A1 čiarka + A7 bohemizmus", "before": "1976-1980 ... fázy - predrománsku ... Táto prestavby ... nevzbudzuje ... o hornú časť je ... sa však stále jedná", "after": "1976 – 1980 ... fázy — predrománsku ... Tieto prestavby ... nevzbudzujú ... o hornú časť, je ... sa však stále ide", "block": 1 },
+    { "rule": "B rozsah + A1 čiarka + medzera pred zátvorkou (caption/alt)", "before": "cca 20. - 30. rokov ... návršie na ktorom ... Banáka )", "after": "cca 20. – 30. rokov ... návršie, na ktorom ... Banáka)", "block": 2, "note": "alt bol orezaný 255-znakovým limitom (MIGRATION.md §9.11), skrátený na samostatný stručný text" },
+    { "rule": "B pomlčky (v protected-zone citáte, len typografia)", "before": "základy - s presnosťou na centimetre - rovnako ... miery - 36,5 centimetra ... základy, 20 - 30 cm", "after": "základy — s presnosťou na centimetre — rovnako ... miery — 36,5 centimetra ... základy, 20 – 30 cm", "block": 3 },
+    { "rule": "A9 malé písmeno + B rozsah", "before": "bola Rotunda sv. Juraja ... z 9.-10. storočia", "after": "bola rotunda sv. Juraja ... z 9. – 10. storočia", "block": 5 },
+    { "rule": "B m² + A4 pád + preklep slovesa", "before": "9000 m2 ... 3500 m2 ... blízkeho náleziská ... sa primkýna k ceste", "after": "9000 m² ... 3500 m² ... blízkeho náleziska ... sa primyká k ceste", "block": 6 },
+    { "rule": "B rozsah", "before": "patrí do 10.-11. storočia", "after": "patrí do 10. – 11. storočia", "block": 8 },
+    { "rule": "Sources: rovnaká oprava ako v Ducovom (rovnaká citácia)", "before": "VÝZNAMNE ... M .:2006 ... kniežactva, Nitra [bez zátvorky]", "after": "VÝZNAMNÉ ... M.: 2006 ... kniežatstva, Nitra)", "block": "sources" }
+  ],
+  "reviewed_no_change": [
+    "'rady si s tým nevedela' (blok 12, citát Dvořáka) — ustálený idióm 'nevedieť si rady s niečím', nie preklep.",
+    "Citáty Dvořák (bloky 3, 12) a Ruttkay (bloky 5+6+8, 11) — moderná literatúra, neprevedené na quote-block, opravená len typografia (pomlčky, rozsahy), nie slová."
+  ],
+  "flags": []
+}

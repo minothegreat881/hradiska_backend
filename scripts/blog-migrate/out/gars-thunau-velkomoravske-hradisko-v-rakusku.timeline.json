@@ -1,0 +1,89 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 7 timeline + 8 keyFacts.",
+  "timeline": [
+    {
+      "year": "902/903",
+      "title": "Prvá historická zmienka o lokalite",
+      "description": "Darovacia listina Freisingerského kláštora — slovanský knieža Jozef daroval časť svojho majetku v oblasti Kamptal biskupovi kláštora vo Freisingu.",
+      "type": "event"
+    },
+    {
+      "year": "1. polovica 9. storočia",
+      "title": "Príchod prvých Slovanov",
+      "description": "Osídlenci využili prirodzenú ochranu ruín opevnenia z neskorej doby bronzovej a usídlili sa na výbežku južného valu.",
+      "type": "founding"
+    },
+    {
+      "year": "začiatok 2. polovice 9. storočia",
+      "title": "Vybudovanie kniežacieho dvorca",
+      "description": "Dvorec obohnaný palisádou; súčasne bola začatá výstavba rozľahlého drevohlineného opevnenia.",
+      "type": "construction"
+    },
+    {
+      "year": "okolo polovice 10. storočia",
+      "title": "Hradisko stráca význam",
+      "description": "Pravdepodobne v dôsledku politických a ekonomických zmien po porážke v boji s Maďarmi.",
+      "type": "event"
+    },
+    {
+      "year": "2. polovica 10. storočia",
+      "title": "Posledné stopy osídlenia",
+      "description": "Na lokalite Obere Holzwiese, po presune poľnohospodárskeho osídlenia do neopevnenej oblasti Untere Holzwiese.",
+      "type": "destruction"
+    },
+    {
+      "year": "posledná tretina 19. storočia",
+      "title": "Preukázaný slovanský pôvod osídlenia",
+      "description": "Johann Krahuletz objavil rozsiahle ranostredoveké pohrebisko.",
+      "type": "discovery"
+    },
+    {
+      "year": "1965 – 1990",
+      "title": "Systematický archeologický výskum",
+      "description": "Preukázal mocnosť opevnenia hradiska a jeho rozlohu.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Oblasť Kamptal medzi mestami Gars am Kamp a Thunau am Kamp v Dolnom Rakúsku, pri rieke Kamp",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozmery hradiska",
+      "value": "Priemer 140 m v osi sever – juh, 600 m v osi západ – východ",
+      "icon": "shield"
+    },
+    {
+      "label": "Tri časti",
+      "value": "Schanze (predsunutý obranný hrad), Obere Holzwiese (kniežací dvorec, sídlisko) a Unter Holzwiese",
+      "icon": "building"
+    },
+    {
+      "label": "Kniežací dvorec",
+      "value": "Na Obere Holzwiese, ohraničený palisádovým plotom trikrát prestavovaným",
+      "icon": "crown"
+    },
+    {
+      "label": "Hradba – staršia fáza",
+      "value": "Roštová konštrukcia bez kameňa v čele, výška základne cca 7 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Hradba – mladšia fáza",
+      "value": "Komorová konštrukcia s čelnou kamennou stenou, výška do 4 m, šírka ochodze 4 – 4,5 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Južná brána",
+      "value": "Viacpodlažná veža — spodná komora ako vstup, poschodie na úrovni ochodze a veža nad ním",
+      "icon": "star"
+    },
+    {
+      "label": "Schanze",
+      "value": "Rozloha 100 × 170 m, tvar písmena U, otvorená na východ",
+      "icon": "mountain"
+    }
+  ]
+}

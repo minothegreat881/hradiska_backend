@@ -1,0 +1,22 @@
+{
+  "slug": "sarisske-sokolovce",
+  "note": "grammar-sk pass 2 — cross-field konzistencia (§21.4). Mapa {before -> after} z pass 1 (out/sarisske-sokolovce.grammar-sk-pass1.json) prehnaná cez timeline[], keyFacts[], excerpt, media captions, title, tags.",
+  "crossFieldChecked": ["excerpt", "keyFacts[]", "timeline[].title", "timeline[].description", "title", "tags", "media captions/alt (žiadne — všetky prázdne)", "content.sources", "citations"],
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "D cross-field propagácia (Budinský – Krička -> Budinský-Krička)", "field": "excerpt", "before": "ktorý realizoval zaslúžilý bádateľ V. Budinský – Krička.", "after": "ktorý realizoval zaslúžilý bádateľ V. Budinský-Krička.", "note": "excerpt je doslovná zhoda s otvorením blocku 0, opravené súčasne v pass 1 Editom (rovnaký replace_all)." },
+    { "rule": "D cross-field (jednotka °C doplnená z tela do keyFacts a zjednotená tisícová medzera)", "field": "keyFacts[4].value (Kováčska práca)", "before": "spracované nad 1200°C", "after": "spracované nad 1 200 °C" },
+    { "rule": "D cross-field (telo malo 'najneskoršie' opravené na 'najneskôr' — timeline už mal správny tvar 'najneskôr', slúžil ako referencia pre opravu tela)", "field": "žiadna zmena v timeline (timeline bol už správny), telo zosúladené v pass 1", "before": "-", "after": "-" },
+    { "rule": "D cross-field (telo malo plurál 'začiatkov', timeline singulár 'začiatku' — timeline slúžil ako referencia pre opravu tela)", "field": "žiadna zmena v timeline (timeline bol už správny), telo zosúladené v pass 1", "before": "-", "after": "-" },
+    { "rule": "D cross-field spresnenie dátumového rozsahu podľa vlastných dát timeline", "field": "keyFacts[6].value (Výskumníci)", "before": "V. Budinský-Krička (1965 – 1967) a J. Béreš (pokračovanie výskumu, 1974)", "after": "V. Budinský-Krička (výskum 1965, publikácia 1967) a J. Béreš (pokračovanie výskumu, 1974)" }
+  ],
+  "reviewed_no_change": [
+    "title 'Šarišské Sokolovce' a tags ['Šarišské Sokolovce'] — chránený vlastný názov (protected-terms.json), bez zmeny.",
+    "timeline[] — všetkých 7 položiek prekontrolovaných proti opravenej verzii tela; žiadny ďalší stale tvar nájdený (roky, pomlčky, BD – HA – HB formát, Budinský-Krička spojovník — všetko už bolo v timeline v cieľovom tvare pred touto reláciou).",
+    "media captions/alt — všetky 3 obrázkové bloky majú caption:\"\" a alt:\"Šarišské Sokolovce\" (chránený názov, nezmenené), žiadny text na propagáciu.",
+    "content.sources / citations — bibliografické položky ponechané (pozri pass1 flags/reviewed_no_change, bibliografický zápis priezviska je konvencia, nie chyba); žiadna gramatická oprava z tela sa ich netýkala okrem toho, čo už bolo explicitne posúdené a ponechané."
+  ],
+  "flags": [],
+  "uploadReady": true,
+  "verifiedJsonValid": true
+}

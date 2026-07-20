@@ -1,0 +1,72 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "1938",
+      "title": "Objav hrobu slovanského bojovníka",
+      "description": "Pri rigolovaní vinohradu severne od obce sa našiel hrob slovanského bojovníka s mečom karolínskeho typu X, dvoma železnými strmeňmi a hrncovitou nádobou zdobenou vlnovkou.",
+      "type": "discovery"
+    },
+    {
+      "year": "koniec 8. – začiatok 9. storočia",
+      "title": "Datovanie hrobu bojovníka",
+      "description": "Nájdený hrob možno datovať na koniec 8. a začiatok 9. storočia.",
+      "type": "era"
+    },
+    {
+      "year": "1947",
+      "title": "Nález ďalších troch hrobov",
+      "description": "Pri kopaní piesku na terénnej vyvýšenine severne od obce medzi cestou do Tlmačov a vinicou sa zistili tri ďalšie hroby s hlinenými nádobami a železnými kópiami; nálezy sa nevyberali odborne.",
+      "type": "discovery"
+    },
+    {
+      "year": "9. – 10. storočie",
+      "title": "Datovanie osídlenia a opevnenia",
+      "description": "Podľa povrchových nálezov keramiky možno osídlenie lokality i jej opevnenie datovať do 9., resp. 10. storočia.",
+      "type": "era"
+    },
+    {
+      "year": "začiatok 10. storočia",
+      "title": "Ochrana obyvateľstva pred Starými Maďarmi",
+      "description": "Po rozpade centrálnej veľkomoravskej vlády začiatkom 10. storočia hradisko spolu s ostatnými strážnymi hradiskami v Slovenskej bráne chránilo slovenské obyvateľstvo pred útokmi starých Maďarov.",
+      "type": "era"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "4 km severozápadne od Starého Tekova, na vrchu Pipíška zvanom Grác",
+      "icon": "map"
+    },
+    {
+      "label": "Funkcia",
+      "value": "Strážne hradisko v Slovenskej bráne, chrániace vstup do Pohronia",
+      "icon": "shield"
+    },
+    {
+      "label": "Rozloha",
+      "value": "Opevnená plocha v tvare nepravidelného štvoruholníka so zaoblenými rohmi, 2,4 ha",
+      "icon": "mountain"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "Val s prevýšením 3 m smerom von a 2 m dovnútra hradiska, čiastočne stavaný z kameňa bez malty",
+      "icon": "building"
+    },
+    {
+      "label": "Hrob bojovníka (1938)",
+      "value": "Meč karolínskeho typu X, dva železné strmene a hrncovitá nádoba zdobená vlnovkou, datované na koniec 8. – začiatok 9. storočia",
+      "icon": "star"
+    },
+    {
+      "label": "Ďalšie hroby (1947)",
+      "value": "Tri hroby s hlinenými nádobami a železnými kópiami, nájdené pri kopaní piesku severne od obce",
+      "icon": "custom"
+    },
+    {
+      "label": "Datovanie osídlenia",
+      "value": "Podľa povrchových nálezov keramiky datované do 9., resp. 10. storočia",
+      "icon": "book"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 11 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "od 5. tisícročia pred Kr.",
+      "title": "Opakované praveké osídlenie",
+      "description": "Strategicky výhodná vyvýšenina poskytovala prirodzenú ochranu pred nepriateľom aj pred povodňami z rozvodneného Bodrogu.",
+      "type": "founding"
+    },
+    {
+      "year": "1. storočie pred Kr.",
+      "title": "Opevnenie hradiska",
+      "description": "Vznikol sídliskový komplex s etnicky zmiešaným keltsko-dáckym obyvateľstvom — hradisko na oválnom pôdoryse 240 × 150 m obklopené menšími výrobnými osadami, tzv. typ Zemplín.",
+      "type": "construction"
+    },
+    {
+      "year": "okolo polovice 1. storočia pred n. l.",
+      "title": "Obdobie najväčšieho rozkvetu",
+      "description": "Dôležité stredisko výroby maľovanej keramiky, metalurgie a obchodu, sprostredkúvajúce kontakty medzi Panóniou, severným Slovenskom a Malopoľskom.",
+      "type": "event"
+    },
+    {
+      "year": "1. storočie n. l.",
+      "title": "Zánik keltsko-dáckeho osídlenia",
+      "description": "Osídlenie postupne doznieva a koncom storočia zaniká pod tlakom postupujúcich Germánov, nositeľov przeworskej kultúry.",
+      "type": "destruction"
+    },
+    {
+      "year": "koniec 9. – 11. storočie",
+      "title": "Slovania obnovujú hradisko",
+      "description": "Slovania využili priestor niekdajšieho keltsko-dáckeho hradiska, doplnili a spevnili staršie valové opevnenie na východnej strane.",
+      "type": "founding"
+    },
+    {
+      "year": "10. storočie",
+      "title": "Rozsiahla prestavba opevnenia",
+      "description": "Pravdepodobne pod hrozbou útokov staromaďarských kmeňov obyvatelia hradiska zvýšili a spevnili val po celom obvode.",
+      "type": "construction"
+    },
+    {
+      "year": "8. – 9. storočie",
+      "title": "Veľkomoravský hrob na Szélmalomdombe",
+      "description": "Hrob z doby veľkomoravskej nájdený na mohylníku z doby rímskej — dokladá, že v Zemplíne vtedy žil väčší počet ľudí a musel existovať rozsiahlejší cintorín.",
+      "type": "discovery"
+    },
+    {
+      "year": "prelom 12. a 13. storočia",
+      "title": "Zmienka u Anonyma",
+      "description": "Historický román Anonyma uvádza, že miesto sa stalo útočiskom slovienskeho veliteľa utekajúceho z hradiska Uh (dnešný Užhorod) pred Maďarmi vedenými Álmošom.",
+      "type": "event"
+    },
+    {
+      "year": "prelom 11. a 12. storočia",
+      "title": "Posledná úprava valu, prestavba na hrad",
+      "description": "Hradisko sa začalo prestavovať na hrad — postavená kamenná administratívna budova a pravdepodobne aj kostol menších rozmerov.",
+      "type": "construction"
+    },
+    {
+      "year": "1261",
+      "title": "Najstarší písomný prameň o obci",
+      "description": "Obec sa priamo uvádza ako villa Zemplén; vyvinula sa zo staršej osady existujúcej v tesnej blízkosti ranofeudálneho hradu.",
+      "type": "event"
+    },
+    {
+      "year": "do konca 13. storočia",
+      "title": "Majetok uhorských kráľov",
+      "description": "Hrad a dedina boli majetkom uhorských kráľov a centrom zemplínskeho komitátu — významná pevnosť na severnej hranici formujúceho sa uhorského štátu.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Návršie Hradisko na východnom okraji obce, skalný ostroh vo výške 121 m, asi 1,5 km od sútoku Ondavy a Latorice",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozmery hradiska",
+      "value": "Oválny pôdorys 240 × 150 m, val kopírujúci okraje vyvýšeniny, výška asi 4 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Konštrukcia valu",
+      "value": "Na západe hlinený val s jadrom z nasucho kladených kameňov, na východe (nad strmým brehom Bodrogu) drevená palisáda",
+      "icon": "shield"
+    },
+    {
+      "label": "Typ Zemplín",
+      "value": "Štruktúra osídlenia sa stala modelovým pojmom pre podobné sídliská vo východokeltskom prostredí",
+      "icon": "star"
+    },
+    {
+      "label": "Remeslá",
+      "value": "Výroba maľovanej keramiky (hrnčiarska dielňa s pecou s priemerom rošta až 1,8 m) a metalurgické dielne",
+      "icon": "crown"
+    },
+    {
+      "label": "Etnicita",
+      "value": "Zmiešané keltsko-dácke obyvateľstvo v kontaktnej zóne dvoch kultúrnych svetov",
+      "icon": "users"
+    },
+    {
+      "label": "Zdroj",
+      "value": "Vladimír Turčan a kolektív: Archeologické pamiatky - Kultúrne krásy Slovenska, Dajama, 2009",
+      "icon": "scroll"
+    }
+  ]
+}

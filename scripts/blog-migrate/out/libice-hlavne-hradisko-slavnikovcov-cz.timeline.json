@@ -1,0 +1,101 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 9 timeline + 8 keyFacts.",
+  "timeline": [
+    {
+      "year": "6. storočie",
+      "title": "Príchod slovanského obyvateľstva",
+      "description": "Po krátkom prechodnom období sa na Libici usadilo slovanské obyvateľstvo a prinieslo so sebou keramiku pražského typu.",
+      "type": "founding"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Vybudovanie dobre opevneného hradiska",
+      "description": "V priebehu 8. storočia došlo k nárastu populácie, v 9. storočí tu už stálo dobre opevnené hradisko so staršou fázou opevnenia (hlinená hradba s roštom a vonkajšou kamennou stenou).",
+      "type": "construction"
+    },
+    {
+      "year": "981",
+      "title": "Prvá konkrétna zmienka o Slávnikovcoch",
+      "description": "Kosmova kronika zaznamenáva rok 981, kedy údajne zomrel knieža Slavník.",
+      "type": "event"
+    },
+    {
+      "year": "polovica 10. storočia",
+      "title": "Väčšia stavebná aktivita na akropole",
+      "description": "Odkryté základové murivo jednoloďového kostola otonského typu s transeptom a dvoma tribúnami; v blízkosti stál drevený slávnikovský palác prepojený s kostolom.",
+      "type": "construction"
+    },
+    {
+      "year": "995",
+      "title": "Zničenie hradiska",
+      "description": "Úplné zničenie hradiska doložené písomnými prameňmi. Na mieste slávnikovského paláca bol neskôr postavený kastelánsky dom, hradisko obnovené ako přemyslovský opevnený bod.",
+      "type": "destruction"
+    },
+    {
+      "year": "okolo 1120",
+      "title": "Presun sídla kastelána",
+      "description": "Kastelán pôsobil na hradisku až do tohto roku, keď preniesol svoje sídlo do predhradia.",
+      "type": "event"
+    },
+    {
+      "year": "1228",
+      "title": "Libice ako ves kláštora sv. Jiří",
+      "description": "V priebehu 12. storočia upadajúce hradisko stratilo svoju funkciu; v roku 1228 je Libice zmienená ako ves v držaní kláštora sv. Jiří na Pražskom hrade.",
+      "type": "event"
+    },
+    {
+      "year": "1949 – 1953",
+      "title": "Detailný archeologický výskum",
+      "description": "Dr. Rudolf Turek z Národného múzea preskúmal lokalitu, odkryl zvyšky stavieb a cenné predmety dokladajúce vysokú kultúrnu úroveň slávnikovského hradiska.",
+      "type": "discovery"
+    },
+    {
+      "year": "1989",
+      "title": "Vyhlásenie národnou kultúrnou pamiatkou",
+      "description": "Akropola hradiska je od tohto roku chránená ako národná kultúrna pamiatka; hradisko samotné bolo archeologickou pamiatkovou rezerváciou už od roku 1961.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Vyvýšenina neďaleko sútoku Labe s Cidlinou, dnešná obec Libice nad Cidlinou",
+      "icon": "mountain"
+    },
+    {
+      "label": "Význam",
+      "value": "Hlavné hradisko Slávnikovcov, jedného z najmocnejších rodov v Čechách raného stredoveku; miesto razby slávnikovských denárov",
+      "icon": "crown"
+    },
+    {
+      "label": "Mladšia fáza opevnenia",
+      "value": "Hradba s tromi radami komôr širokými 4,5 m, vnútorná aj vonkajšia hradobná stena z opuky, pred hradbou široká priekopa",
+      "icon": "shield"
+    },
+    {
+      "label": "Kostol na akropole",
+      "value": "Jednoloďová stavba otonského typu s transeptom, dvoma tribúnami a krátkym presbytériom zakončeným apsidou",
+      "icon": "building"
+    },
+    {
+      "label": "Kostol Panny Márie na predhradí",
+      "value": "S malým pohrebiskom okolo; neskôr gotická a barokná prestavba (1774 – 1777), dnes slúži ako fara",
+      "icon": "scroll"
+    },
+    {
+      "label": "Obchodné styky",
+      "value": "Nálezy dokladajú kontakty s Čechami, Veľkou Moravou, ako aj importy z vikingského, karolínskeho a balkánskeho prostredia",
+      "icon": "star"
+    },
+    {
+      "label": "Ochrana",
+      "value": "Archeologická pamiatková rezervácia od 1961, ochranné pásmo od 1979, akropola národnou kultúrnou pamiatkou od 1989",
+      "icon": "scroll"
+    },
+    {
+      "label": "Prieskum predhradia",
+      "value": "Archeologický ústav AV ČR vykonáva od roku 1974 každoročné záchranné výskumy; doteraz preskúmaných necelých 6 % plochy predhradia",
+      "icon": "mountain"
+    }
+  ]
+}

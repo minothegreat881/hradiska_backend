@@ -1,0 +1,7 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Zborník Hradiská – Svedkovia dávnych čias' (2015-12). Autorova formálna SK próza, čistá. Titulok (patch bp.title): '- '→'– ' (en dash).",
+  "corrections": [
+    { "hint": 0, "before": "pred viac ako 1000 rokmi", "after": "pred viac ako 1 000 rokmi", "reason": "oddeľovač tisícov (B)" },
+    { "hint": 5, "before": "máte možnosť viedieť", "after": "máte možnosť vidieť", "reason": "preklep viedieť→vidieť (A8)" }
+  ]
+}

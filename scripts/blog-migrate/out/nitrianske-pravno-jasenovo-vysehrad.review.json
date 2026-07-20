@@ -1,0 +1,26 @@
+{
+  "slug": "nitrianske-pravno-jasenovo-vysehrad",
+  "flags": [
+    {
+      "type": "AMBIGUOUS_OCR_OR_DIALECT",
+      "location": "blok 49 (protected-zone ľudová povesť)",
+      "text": "...videli túža bielu pannu na „klomce\" jemala sedieť...",
+      "issue": "'túža' pôsobí ako možný OCR artefakt/preklep (negramatické v kontexte), no ide o dobovú ľudovú prózu (protected zone) — nie je isté, či ide o chybu prepisu alebo nárečový tvar.",
+      "action": "NEOPRAVENÉ, ponechané pôvodné znenie."
+    },
+    {
+      "type": "DATE_CONTRADICTION",
+      "location": "Zdroje položka 4 vs. telo (bloky 34, 42)",
+      "text": "Zdroje: 'Peter Petic: Vyšehrad, Časopis Slovenskej Muzeálnej spoločnosti, 1928, ročník XXI' -- telo 2× uvádza rok 1929 pri tom istom článku.",
+      "issue": "Nevedno, ktorý rok je správny (bibliografický záznam vs. telo článku si protirečia).",
+      "action": "NEOPRAVENÉ, iba nahlásené — vyžaduje overenie voči pôvodnému zdroju."
+    },
+    {
+      "type": "HEADING_INLINE / ORPHANED_TRANSITION",
+      "location": "blok 54, koniec (za 3. povesťou)",
+      "text": "...Radovala sa, lebo mala i zlato i muža.\" Nový článok o hradisku: [odkaz na Jozef Šebest: Vyšehrad: Centrálne hradisko?]",
+      "issue": "Fráza 'Nový článok o hradisku:' pôsobí ako osirotený prechod, po ktorom nasleduje už iba obrázok a Zdroje — nejde o jasnú gramatickú chybu, skôr štrukturálnu zvláštnosť pôvodného článku (odkaz na externý článok bez ďalšieho textu).",
+      "action": "NEOPRAVENÉ, ponechané."
+    }
+  ]
+}

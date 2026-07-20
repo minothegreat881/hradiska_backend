@@ -1,0 +1,73 @@
+{
+  "slug": "slovanske-hradiska-v-rakusku-a",
+  "pass": 1,
+  "scope": "body (content.rich-text) + content.sources + citations. Rakúske/nemecké vlastné mená (Sand pri Raabse, Oberleis-Oberleiserberg, Maissau-Limberg, Stein an der Donau, Senftenberg, Langenlois-Schiltern, Krems an der Donau, Waldviertel, Korneuburg, Ernstbrunn, Burghügel, Raabs, Thaya) neboli menené — sú to správne cudzie vlastné mená.",
+  "corrections": [
+    {
+      "block": "blocks[0].body[0]",
+      "before": "Bolo to územie veľmi blízke s Moravou, ktoré",
+      "after": "Bolo to územie veľmi blízke Morave, ktoré",
+      "reason": "A4 pádová väzba — prídavné meno „blízky\" sa viaže s datívom (blízke Morave), nie s predložkou „s\" + inštrumentál (kalk)."
+    },
+    {
+      "block": "blocks[1].body[0] (heading)",
+      "before": "SAND PRI RAABSE nad Dyjou",
+      "after": "Sand pri Raabse nad Dyjou",
+      "reason": "Typografia/konzistencia — jediný nadpis v článku písaný celý veľkými písmenami, ostatné nadpisy majú bežné/veľké začiatočné písmeno; zjednotené so štýlom ostatných nadpisov (Maissau-Limberg, Senftenberg…). Samotný názov „Sand pri Raabse\" (cudzie vlastné meno) nebol menený."
+    },
+    {
+      "block": "blocks[7].body[0]",
+      "before": "nadväzuje pretiahla stavba o dĺžke necelých 18 m.",
+      "after": "nadväzuje pretiahla stavba s dĺžkou necelých 18 m.",
+      "reason": "A4 bohemizmus — „o dĺžke X\" → „s dĺžkou X\" (rovnaký vzor ako „sondy o dĺžke 45 metrov\" v §21.1)."
+    },
+    {
+      "block": "blocks[7].body[0]",
+      "before": "v najširšom mieste bola rada stredových kolov.",
+      "after": "v najširšom mieste bol rad stredových kolov.",
+      "reason": "A8 tvaroslovie — zámena slov „rada\" (žen., rada/pokyn) a „rad\" (muž., rad/línia); správne mužské podstatné meno „rad\" + zhoda prísudku „bol\"."
+    },
+    {
+      "block": "blocks[9].body[0]",
+      "before": "kamenného múru drevená stavba o šírke 2,3 m.",
+      "after": "kamenného múru drevená stavba s šírkou 2,3 m.",
+      "reason": "A4 bohemizmus — „o šírke X\" → „s šírkou X\"."
+    },
+    {
+      "block": "blocks[10].body[0]",
+      "before": "Na ploche 14 x 11 m na hradnom kopci",
+      "after": "Na ploche 14 × 11 m na hradnom kopci",
+      "reason": "B typografia — „x\" → „×\"."
+    },
+    {
+      "block": "blocks[11].body[0] (heading)",
+      "before": "Ďalšie Slovanské hradiská v Rakúsku",
+      "after": "Ďalšie slovanské hradiská v Rakúsku",
+      "reason": "A9 — „slovanské\" ako bežné prídavné meno od etnonyma malým písmenom (nejde o vlastný názov); zjednotené so sentence-case štýlom ostatných nadpisov v článku."
+    },
+    {
+      "block": "blocks[15].body[0] (heading) + blocks[16].body[0]",
+      "before": "Oberleis - Oberleiserberg",
+      "after": "Oberleis-Oberleiserberg",
+      "reason": "Typografia — medzery okolo spojovníka v zloženom vlastnom mene odstránené, zjednotené s tvarom už použitým v keyFacts a s ostatnými dvojčlennými rakúskymi názvami v tomto článku (Maissau-Limberg). Samotné meno nemenené, len medzerovanie."
+    },
+    {
+      "block": "blocks[17].body[0] (heading) + blocks[23].body[0]",
+      "before": "Langenlois - Schiltern",
+      "after": "Langenlois-Schiltern",
+      "reason": "Typografia — rovnaké zjednotenie medzerovania spojovníka ako Oberleis-Oberleiserberg."
+    },
+    {
+      "block": "blocks[21].body[0]",
+      "before": "Ďalšie, pravdepodobne strážne hradisko sa nachádzalo",
+      "after": "Ďalšie pravdepodobne strážne hradisko sa nachádzalo",
+      "reason": "A1 nadbytočná čiarka — „pravdepodobne strážne\" je bežný prívlastkový reťazec, nie vsuvka vyžadujúca čiarky."
+    },
+    {
+      "block": "content.sources items[1] + citations[1]",
+      "before": "Spisy archeologického ústavu av Cr Brno 17, 2001, 85-106.",
+      "after": "Spisy archeologického ústavu av Cr Brno 17, 2001, 85 – 106.",
+      "reason": "B typografia — stránkovací rozsah, spojovník → pomlčka. („av Cr\" ponechané nezmenené, pozri review.json — pravdepodobne poškodená skratka AV ČR, no nie je isté, FLAG.)"
+    }
+  ]
+}

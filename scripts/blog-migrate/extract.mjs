@@ -129,6 +129,53 @@ function convertShortParagraphsToHeadings(blocks) {
   return blocks;
 }
 
+/** Blogger autori niekedy píšu zoznam ako sériu samostatných odsekov, každý začínajúci
+ *  holým "- " (žiadny skutočný <ul>/<li> v zdrojovom HTML) — Slovanské hradiská v Nemecku:
+ *  3 odseky s toponymami, každý "- Lausitz (Lužice), Chemnitz, …". Bez tejto konverzie
+ *  sa to renderuje ako justify text s visiacimi pomlčkami a lámaním slov. Zlúči RUN
+ *  ≥2 po sebe idúcich takýchto odsekov do jedného content.rich-text s `type: 'list'`
+ *  (frontend DynamicZoneRenderer už list-blok podporuje). Jeden osamotený odsek so
+ *  "- " na začiatku (nie run) sa nechá tak — môže to byť bežná veta so spojovníkom.
+ */
+function convertDashParagraphsToList(blocks) {
+  if (!Array.isArray(blocks)) return blocks;
+  const DASH_RE = /^[-–]\s+/;
+  const isDashParagraph = (b) => {
+    if (b?.__component !== 'content.rich-text' || !Array.isArray(b.body) || b.body.length !== 1) return false;
+    const node = b.body[0];
+    if (node.type !== 'paragraph' || !Array.isArray(node.children) || node.children.length !== 1) return false;
+    const c = node.children[0];
+    return c?.type === 'text' && DASH_RE.test(stripNbspWs(c.text || ''));
+  };
+  const result = [];
+  let run = [];
+  const flush = () => {
+    if (run.length >= 2) {
+      const items = run.map((b) => {
+        const text = stripNbspWs(b.body[0].children[0].text || '').replace(DASH_RE, '').trim();
+        return { type: 'list-item', children: [{ type: 'text', text }] };
+      });
+      result.push({
+        __component: 'content.rich-text',
+        body: [{ type: 'list', format: 'unordered', children: items }],
+      });
+    } else {
+      result.push(...run);
+    }
+    run = [];
+  };
+  for (const b of blocks) {
+    if (isDashParagraph(b)) {
+      run.push(b);
+    } else {
+      flush();
+      result.push(b);
+    }
+  }
+  flush();
+  return result;
+}
+
 function mergeConsecutiveQuotes(blocks) {
   if (!Array.isArray(blocks)) return blocks;
   const result = [];
@@ -155,7 +202,12 @@ function mergeConsecutiveQuotes(blocks) {
 
 function splitLongParagraphsBySectionHeaders(blocks) {
   if (!Array.isArray(blocks)) return blocks;
-  const HEADER_RE = /(?:^|\n|\s)(\d{1,2}\.\s*[A-ZÁÄČĎÉÍĽĹŇÓÔŠŤÚÝŽ][^\n]{2,60})/g;
+  // BUG (Slovanské hradiská v Nemecku): pôvodná alternácia `(?:^|\n|\s)` pripúšťala AJ
+  // jedinú medzeru pred číslom — to isté chytá radovú číslovku uprostred vety ("Henrichom
+  // 1. Brandenburg…" = "Henrich I."), nielen skutočný začiatok nového číslovaného nadpisu
+  // ("…10. stor. 7. Brandenburg an der Havel"). Skutočné zlepené nadpisy v tomto zdroji
+  // sú oddelené `<br>` → `\n` v tele; holá medzera je vždy len pokračovanie vety.
+  const HEADER_RE = /(?:^|\n)(\d{1,2}\.\s*[A-ZÁÄČĎÉÍĽĹŇÓÔŠŤÚÝŽ][^\n]{2,60})/g;
   const result = [];
   for (const b of blocks) {
     if (b?.__component !== 'content.rich-text' || !Array.isArray(b.body)) {
@@ -431,11 +483,14 @@ function inlineChildren($, node) {
         } else if (tag === 'a') {
           const href = $(n).attr('href') || '';
           const innerText = $(n).text().replace(/[ \s]+/g, ' ').trim();
-          out.push({
-            type: 'link',
-            url: href,
-            children: [{ type: 'text', text: innerText }],
-          });
+          const hasMedia = $(n).find('img, iframe').length > 0;
+          if (innerText || hasMedia) {
+            out.push({
+              type: 'link',
+              url: href,
+              children: [{ type: 'text', text: innerText }],
+            });
+          }
         } else {
           // span, font, ... — strip wrapper, prejdi dovnútra
           for (const c of inlineChildren($, n)) out.push(c);
@@ -662,11 +717,43 @@ function walkDocOrder($, node, ctx, blocks, buf, opts) {
     if (tag === 'b' || tag === 'strong') { for (const c of inlineChildren($, ch)) buf.push({ ...c, bold: true }); return; }
     if (tag === 'i' || tag === 'em') { for (const c of inlineChildren($, ch)) buf.push({ ...c, italic: true }); return; }
     if (tag === 'a') {
-      buf.push({ type: 'link', url: $ch.attr('href') || '', children: [{ type: 'text', text: $ch.text().replace(/[ \s]+/g, ' ').trim() }] });
+      // BUG 6: bare inline `<a href="fullsize.jpg"><img .../></a>` lightbox link
+      // (not wrapped in div.separator/table.tr-caption-container — just sitting in
+      // a text-bearing div/span) fell through to the plain-link branch below. The
+      // <img> was invisible to `.text()`, so the link rendered with EMPTY text —
+      // and the frontend's `linkText || url` fallback then displayed the raw
+      // Blogger CDN image URL as a giant clickable link (Bojná: bojna13.jpg etc.).
+      // Treat any <a> wrapping an <img> as an image, never as a text link.
+      const $img = $ch.find('img').first();
+      if ($img.length) {
+        flushInlineBuf(buf, blocks, opts);
+        const b = imageBlockFromSeparator($, ch, ctx);
+        if (b) blocks.push(b);
+        return;
+      }
+      // Legacy edit artifact: an old image-lightbox <a href="....jpg"> whose <img>
+      // was later replaced by a video <iframe> without removing the stale href
+      // (found in Bojná: <a href=".../bojna13.jpg"><iframe .../></a>). The visible
+      // content is the video, not the now-unreferenced image — extract as embed.
+      const $iframe = $ch.find('iframe').first();
+      if ($iframe.length) {
+        const src = $iframe.attr('src') || '';
+        if (!/maps\.google\.com/.test(src)) {
+          const e = embedFromIframeSrc(src);
+          if (e) { flushInlineBuf(buf, blocks, opts); blocks.push(e); }
+        }
+        return;
+      }
+      const linkText = $ch.text().replace(/[ \s]+/g, ' ').trim();
+      // Anchor with no image, no video and no visible text (e.g. a leftover empty
+      // `<a href="....jpg"><br/></a>`) has nothing to render — drop it instead of
+      // emitting a link node whose empty text would fall back to showing the URL.
+      if (!linkText) return;
+      buf.push({ type: 'link', url: $ch.attr('href') || '', children: [{ type: 'text', text: linkText }] });
       return;
     }
     // Podstrom obsahujúci blokové obrázky/embed → rekurzia (interleave text↔obrázok).
-    if ($ch.find('table.tr-caption-container, div.separator, iframe').length > 0) {
+    if ($ch.find('table.tr-caption-container, div.separator, iframe, a:has(img)').length > 0) {
       walkDocOrder($, ch, ctx, blocks, buf, opts);
       return;
     }
@@ -757,6 +844,31 @@ function convertDivToBlocks($, div, ctx, opts = {}) {
         blocks.push({
           __component: 'content.rich-text',
           body: [{ type: 'heading', level: 2, children: [{ type: 'text', text: bText }] }],
+        });
+        return blocks;
+      }
+    }
+  }
+
+  // 4b) Italic-only div (žiadny <b>) = dobový citát bez tučného orámovania.
+  //     Slovanské hradiská v Nemecku: Adam Brémsky (11. stor., Gesta Hammaburgensis) je
+  //     celý div zabalený iba v <i>, žiadny <b> — predošlé pravidlo (krok 4) ho nechytilo,
+  //     ostal ako obyčajný odsek s úvodzovkami. Rovnaké prahy ako pri bold+italic vyššie
+  //     (dlhý text alebo úvodzovky), aby sa nechytila bežná krátka kurzívová zdôraznená veta.
+  // `.find('i')` (bez `>`) — Blogger balí kurzívu do 1-2 vrstiev `<span>` (štýlovanie
+  // farby/fontu), takže `<i>` nie je priamy potomok divu. Prázdne `<i>` (osamotený
+  // `<br/>` na konci odseku) sa vyradí filtrom na neprázdny text.
+  const is = $(div).find('i').toArray().filter((el) => $(el).text().trim());
+  if (is.length === 1) {
+    const iText = $(is[0]).text().replace(/[ \s]+/g, ' ').trim();
+    const wholeText = plainText($, div);
+    if (iText && iText === wholeText) {
+      const hasQuotes = /["„""''»«]/.test(iText);
+      const isLong = iText.length >= 50;
+      if (isLong || hasQuotes) {
+        blocks.push({
+          __component: 'content.quote-block',
+          text: iText,
         });
         return blocks;
       }
@@ -1004,7 +1116,11 @@ function findInternalSourcesSplit(lines, opts = {}) {
     // ÚZKE: vyžaduje "prevzat* z" / "preložené z" — nie holé "prevzat" (to chytá aj
     // bežný text). Overené: vyskytuje sa iba v Staré Město - Velehrad, nie vo
     // Wogastisburgu/Blatnohrade/Mikulčiciach (žiadna regresia ich split-pointu).
-    if (/\b(?:[čc]l[áa]nok\s+)?prevzat[ýáé]\s+z\b|\bprelo[žz]en[éeý]\s+z\b/i.test(lineText)) {
+    // DĹŽKOVÝ STROP (Obišovce): skutočná "prevzaté z" intro-veta je krátka
+    // ("Článok prevzatý z výbornej stránky X"); rovnaká fráza sa ale objavuje aj
+    // uprostred bežného dlhého odseku ako vsuvka ("...informácia prevzatá z webu
+    // obce...") — vtedy nejde o marker začiatku zdrojov, len o citáciu v texte.
+    if (lineText.length < 150 && /\b(?:[čc]l[áa]nok\s+)?prevzat[ýáé]\s+z\b|\bprelo[žz]en[éeý]\s+z\b/i.test(lineText)) {
       return i;
     }
     const textOnly = stripNbspWs(line
@@ -1267,7 +1383,7 @@ function buildBlocksFromBody($, bodyRoot, articleTitle = '') {
           // aby nechytilo bežnú vetu, ktorá náhodou obsahuje slovo "foto" ďaleko od začiatku.
           /^\s*foto\b[^:]{0,60}:/i.test(txt) ||
           /preložili sme/i.test(txt) ||
-          /\b(?:[čc]l[áa]nok\s+)?prevzat[ýáé]\s+z\b|\bprelo[žz]en[éeý]\s+z\b/i.test(txt) ||
+          (txt.length < 150 && /\b(?:[čc]l[áa]nok\s+)?prevzat[ýáé]\s+z\b|\bprelo[žz]en[éeý]\s+z\b/i.test(txt)) ||
           txt.length < 30
         );
       };
@@ -1382,6 +1498,18 @@ function splitDivIntoLines($, node) {
       if (t) lines[lines.length - 1].push({ type: 'bold-text', text: t });
       return;
     }
+    // BUG (Gars-Thunau, objavené pri audite zdrojov): obrázok + popisok
+    // (`table.tr-caption-container`, `div.separator`) sú spracované samostatne
+    // (image-block harvest, §9.13-nasl.) — ich text (najmä `<td class="tr-caption">`
+    // popisok) sa NESMIE zúčastniť aj tu, inak sa popisky duplicitne vysypú do
+    // "Zdroje a literatúra" ako falošné knižné citácie. Zastav rekurziu, len ukonči riadok.
+    if (
+      (tag === 'table' && $(n).hasClass('tr-caption-container')) ||
+      (tag === 'div' && $(n).hasClass('separator'))
+    ) {
+      if (lines[lines.length - 1].length > 0) lines.push([]);
+      return;
+    }
     // BUG: nested <div>/<p> boundary predtým NEZNAMENALA nový riadok — len sa do nich
     // ticho rekurzovalo, takže viacero samostatných top-level <div> citácií (oddelených
     // divom, nie <br>) sa zliepalo do JEDNÉHO riadku/citácie (Nitra: 4 samostatné
@@ -1490,14 +1618,26 @@ function buildSourcesBlock(citations) {
   let startIdx = 0;
   if (citations.length > 0 && (citations[0].type === 'attribution' || citations[0].type === 'book')) {
     const txt = stripNbspWs(citations[0].text || '');
-    if (/:\s*$/.test(txt) || /\btu\s*[:.]?\s*$/i.test(txt)) {
+    const isNoise =
+      /^\s*(spracoval|autori?|prebral)\b\s*:?\s*\S/i.test(txt) ||
+      /^\s*orgo[nň]\.?\s*$/i.test(txt) ||
+      /^\s*(foto|fotografie|fotogal[ée]ria)\b.*:\s*$/i.test(txt);
+    if (!isNoise && (/:\s*$/.test(txt) || /\btu\s*[:.]?\s*$/i.test(txt))) {
       intro = txt;
       startIdx = 1;
+    } else if (isNoise) {
+      startIdx = 1; // zahoď rovno, nech to neskĺzne do intro ani do items
     }
   }
   const items = [];
   for (let i = startIdx; i < citations.length; i++) {
     const c = citations[i];
+    // Poistka na poslednom mieste pred zápisom: obrázková URL sa NIKDY nesmie stať
+    // citáciou, nech prišla z ktoréhokoľvek zberného miesta vyššie (anchor/text-URL/bold).
+    // Bez tohto by ju napr. holá URL v <b> (nechytená vyššie) prepašovala do zdrojov —
+    // presne bug z Nitrianskej Blatnice/Zemplína (desiatky blogger.googleusercontent.com
+    // odkazov na fotky namiesto skutočných zdrojov). Patrí do galérie, nie sem.
+    if (IMAGE_URL_RE.test(c.url || c.text || '')) continue;
     if (c.type === 'internal-link' || c.type === 'external-url') {
       const text = stripNbspWs(c.title || c.url);
       const url = stripNbspWs(c.url);
@@ -1506,6 +1646,20 @@ function buildSourcesBlock(citations) {
     } else {
       const text = stripNbspWs(c.text);
       if (!text) continue;
+      // Autorský podpis ("Spracoval: X" / "Autor: X" / "Prebral: X", s dvojbodkou aj bez)
+      // nie je bibliografický zdroj — je to len podpis autora článku, ktorý je už
+      // v `authorName` (Blogger feed). V sekcii "Zdroje a literatúra" pôsobí ako
+      // nezmyselná položka (Devín, Chotěbuz, systémovo takmer vo všetkých článkoch).
+      if (/^\s*(spracoval|autori?|prebral)\b\s*:?\s*\S/i.test(text)) continue;
+      // Holé meno autora stránky BEZ markera ("Orgoň", "Orgon") — najkratší variant toho
+      // istého autorského podpisu (Libice: item bol doslova len "Orgoň", nič iné, žiadna
+      // dvojbodka). Úzke: iba ak je CELÁ položka len týmto menom, nič viac.
+      if (/^\s*orgo[nň]\.?\s*$/i.test(text)) continue;
+      // Nadpis fotogalérie ("Foto 2014 : Adam G:", "Fotogaléria 23.9.2012:", "Foto:")
+      // nie je zdroj — je to holý textový riadok pred sériou `table.tr-caption-container`
+      // fotiek, ktorý uvádza dávku snímok. Rozlišuje sa od legitímneho fotokreditu
+      // ("Foto: Meno Priezvisko") tým, že KONČÍ dvojbodkou namiesto mena (Gars-Thunau).
+      if (/^\s*(foto|fotografie|fotogal[ée]ria)\b.*:\s*$/i.test(text)) continue;
       items.push({ text, url: null });
     }
   }
@@ -1833,6 +1987,7 @@ function buildOutputForEntry(entry, commentsData, sourceFeedPath) {
   blocks = blocks.filter((b) => b.__component !== 'content.rich-text' || (b.body && b.body.length > 0));
   blocks = mergeConsecutiveQuotes(blocks);
   blocks = splitLongParagraphsBySectionHeaders(blocks);
+  blocks = convertDashParagraphsToList(blocks);
   convertShortParagraphsToHeadings(blocks);
   blocks = reorderHeadingBeforeImage(blocks);
   pairAdjacentImages(blocks);
@@ -1937,6 +2092,35 @@ async function fetchJson(url) {
   return res.json();
 }
 
+// Stiahne VŠETKY komentáre cez stránkovanie. Blogger komentárový feed vracia
+// defaultne len 25 položiek na stránku (aj keď openSearch$totalResults hlási viac),
+// preto treba iterovať cez max-results + start-index (1-based), inak sa pri
+// populárnych príspevkoch stratí väčšina komentárov. Vráti feed-like objekt s
+// kompletným poľom entries, aby ho parseCommentsFeed spracoval bez zmeny.
+async function fetchAllComments(repliesLink) {
+  const base = repliesLink.includes('?') ? `${repliesLink}&alt=json` : `${repliesLink}?alt=json`;
+  const PAGE = 200;
+  let startIndex = 1;
+  let total = Infinity;
+  const allEntries = [];
+  let firstFeed = null;
+  while (startIndex <= total) {
+    const url = `${base}&max-results=${PAGE}&start-index=${startIndex}`;
+    const j = await fetchJson(url);
+    if (!firstFeed) firstFeed = j;
+    const entries = j.feed?.entry || [];
+    total = parseInt(j.feed?.['openSearch$totalResults']?.$t ?? entries.length, 10) || entries.length;
+    if (entries.length === 0) break;
+    allEntries.push(...entries);
+    startIndex += entries.length;
+    if (entries.length < PAGE) break;
+  }
+  if (!firstFeed) return { feed: { entry: [] } };
+  firstFeed.feed = firstFeed.feed || {};
+  firstFeed.feed.entry = allEntries;
+  return firstFeed;
+}
+
 /** Z Blogger `link[rel=related].href` extrahuje parent comment Blogger post-id.
  *  Formát URL: `.../comments/default/<postId>` — vrátime posledný segment. */
 function extractReplyToBloggerId(href) {
@@ -2007,8 +2191,7 @@ async function main() {
       const repliesLink = entry.link?.find((l) => l.rel === 'replies')?.href;
       if (fetchComments && repliesLink) {
         try {
-          const url = repliesLink.includes('?') ? `${repliesLink}&alt=json` : `${repliesLink}?alt=json`;
-          const cj = await fetchJson(url);
+          const cj = await fetchAllComments(repliesLink);
           commentsData = parseCommentsFeed(cj);
         } catch (e) {
           console.warn(`  [warn] comments fetch failed for "${title}": ${e.message}`);
@@ -2125,10 +2308,9 @@ async function main() {
     const repliesLink = entry.link?.find((l) => l.rel === 'replies')?.href;
     if (repliesLink) {
       try {
-        const url = repliesLink.includes('?') ? `${repliesLink}&alt=json` : `${repliesLink}?alt=json`;
-        const cj = await fetchJson(url);
+        const cj = await fetchAllComments(repliesLink);
         commentsData = parseCommentsFeed(cj);
-        console.log(`     comments: fetched ${commentsData.count} from ${repliesLink}`);
+        console.log(`     comments: fetched ${commentsData.items.length}/${commentsData.count} from ${repliesLink}`);
       } catch (e) {
         console.warn(`  [warn] comments fetch failed: ${e.message}`);
       }

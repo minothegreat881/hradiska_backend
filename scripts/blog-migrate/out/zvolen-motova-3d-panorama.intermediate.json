@@ -1,0 +1,71 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-zvolen-motova-3d-panorama.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8506329042227383085",
+    "bloggerPostUrl": "http://www.hradiska.sk/2017/02/zvolen-motova-3d-panorama.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/8506329042227383085/comments/default",
+    "extractedAt": "2026-07-16T21:57:25.130Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdwarfdigital%2Fposts%2F1860559607552870%3A0&width=500"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Zvolen – Môťová 3D panoráma",
+    "slug": "zvolen-motova-3d-panorama",
+    "excerpt": "Rozhliadnite sa na veľkomoravskom hradisku Zvolen - Môťová ... Stačí na obrázok kliknúť a po otvorení obrázku potom ľavým tlačidlom myši, podržať ho a pohybovať s myškou do ľubovoľnej strany. Točením scrollovacieho kolieska je možné zi obraz…",
+    "authorName": "Orgon",
+    "publishedAt": "2017-02-12T09:56:00.000+01:00",
+    "originalPublishedDate": "2017-02-12T09:56:00.000+01:00",
+    "updatedAt": "2017-02-12T22:59:49.934+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rozhliadnite sa na veľkomoravskom hradisku Zvolen – Môťová ...\n \n Stačí na obrázok kliknúť a po otvorení obrázku potom ľavým tlačidlom myši, podržať ho a pohybovať myškou do ľubovoľnej strany. Točením scrollovacieho kolieska je možné si obraz zazoomovať ..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

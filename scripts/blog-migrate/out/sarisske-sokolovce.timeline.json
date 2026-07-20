@@ -1,0 +1,84 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 7 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "mladšia doba bronzová (BD – HA – HB)",
+      "title": "Najstaršie osídlenie — gávska kultúra",
+      "description": "Typologicky najstarší materiál na hradisku patrí gávskej kultúre, ktorá na východné Slovensko expandovala z juhu; prvý val obopínajúci akropolu svedčí o tomto najstaršom osídlení.",
+      "type": "founding"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Vybudovanie prvého valu akropoly",
+      "description": "Val s drevenou nosnou konštrukciou (zuhoľnatené drevo, do červena prepálená zemina) typický pre staršie veľkomoravské obdobie — nález listovitej kopije chronologicky zaraditeľný do 9. storočia.",
+      "type": "construction"
+    },
+    {
+      "year": "10. storočie, najneskôr začiatok 11. storočia",
+      "title": "Hlavné slovanské osídlenie",
+      "description": "V. Budinský-Krička datoval osídlenie hradiska predbežne do tohto obdobia na základe keramických a železných nálezov.",
+      "type": "event"
+    },
+    {
+      "year": "poveľkomoravské obdobie",
+      "title": "Ocieľka z Pomoravia",
+      "description": "Nezvyčajná ocieľka zložitého tvaru dokladá styky východného Slovenska s Pomoravím; tento starobylý tvar slovanského kresadla na východnom Slovensku pretrval do začiatku 10. storočia.",
+      "type": "event"
+    },
+    {
+      "year": "1965",
+      "title": "Zisťovací výskum V. Budinského-Kričku",
+      "description": "Prvý archeologický výskum podnietený objavom J. Macáka (valy, priekopy a tmavá kultúrna vrstva odkrytá kolesami traktora).",
+      "type": "discovery"
+    },
+    {
+      "year": "1967",
+      "title": "Publikovanie výsledkov výskumu",
+      "description": "V. Budinský-Krička publikuje Pokusný výskum na slovanskom hradisku v Šarišských Sokolovciach (Nové obzory 9).",
+      "type": "discovery"
+    },
+    {
+      "year": "1974",
+      "title": "Pokračovanie výskumu J. Béreša",
+      "description": "J. Béreš publikuje Výsledky doterajšieho výskumu slovanského hradiska v Šarišských Sokolovciach (Nové obzory 16).",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "3 km severne od Šarišských Sokoloviec, na najvyššom bode hrebeňa Lazíky v Čergovskom pohorí",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozmery",
+      "value": "Najväčšia dĺžka hradiska 253 m, najväčšia šírka 125 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Sústava valov",
+      "value": "Viacero valov s odlišnou konštrukciou a dobou vzniku — val akropoly (drevená konštrukcia, 9. stor.), okružný val, val deliaci predhradie, priekopy",
+      "icon": "shield"
+    },
+    {
+      "label": "Objavil",
+      "value": "J. Macák, na základe ľudového názvu vrchu, valov a priekop a tmavej kultúrnej vrstvy odkrytej traktorom",
+      "icon": "star"
+    },
+    {
+      "label": "Kováčska práca",
+      "value": "Kusy železnej trosky (kysličníky železa spracované nad 1200°C) dokladajú kováčsku, nie hutnícku činnosť na hradisku",
+      "icon": "crown"
+    },
+    {
+      "label": "Nálezy",
+      "value": "Ocieľka, nožík, tri strelky so spätnými krídelkami, listovitá kopija (9. stor.), keramika hradištného typu, predslovanský črep z mladšej doby bronzovej",
+      "icon": "scroll"
+    },
+    {
+      "label": "Výskumníci",
+      "value": "V. Budinský-Krička (1965 – 1967) a J. Béreš (pokračovanie výskumu, 1974)",
+      "icon": "scroll"
+    }
+  ]
+}

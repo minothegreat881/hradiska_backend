@@ -1,0 +1,606 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-tragedia-jedneho-uspesneho-obsadenia-vlasti.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8045575058553247340",
+    "bloggerPostUrl": "http://www.hradiska.sk/2015/06/tragedia-jedneho-uspesneho-obsadenia.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/8045575058553247340/comments/default",
+    "extractedAt": "2026-07-16T21:57:21.463Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 3,
+      "captionedImages": 3,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "longRichText",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Tragédia jedného úspešného obsadenia vlasti",
+    "slug": "tragedia-jedneho-uspesneho-obsadenia-vlasti",
+    "excerpt": "Vďaka našej spolupracovníčke pani Kvete M. Vám prinášame preklad veľmi zaujímavého článku, ktorý vyšiel na maďarskej stránke http://archeologia.hu/egy-sikeres-honfoglalas-tragediaja",
+    "authorName": "Orgon",
+    "publishedAt": "2015-06-22T17:14:00.001+02:00",
+    "originalPublishedDate": "2015-06-22T17:14:00.001+02:00",
+    "updatedAt": "2020-07-26T12:16:47.231+02:00",
+    "readingTime": 12,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGOpPFYwYcDkDY9n8Yohp9oqTjl_9IVLVJsJGe-yCJ2WuSLKMZMI-WiWF3GpQPNS7-hRgKJwlymF2cTs0hBR9L_U0n2hopdKyx4sh9UvazfZasMX9znlHsVmtLkbs-VeML-JHn9S0-AcY/s0/Bez+na%25CC%2581zvu+Hradisko+visegrad.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGOpPFYwYcDkDY9n8Yohp9oqTjl_9IVLVJsJGe-yCJ2WuSLKMZMI-WiWF3GpQPNS7-hRgKJwlymF2cTs0hBR9L_U0n2hopdKyx4sh9UvazfZasMX9znlHsVmtLkbs-VeML-JHn9S0-AcY/s1600/Bez+na%25CC%2581zvu+Hradisko+visegrad.jpg",
+      "filename": "Bez+na%CC%81zvu+Hradisko+visegrad.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGOpPFYwYcDkDY9n8Yohp9oqTjl_9IVLVJsJGe-yCJ2WuSLKMZMI-WiWF3GpQPNS7-hRgKJwlymF2cTs0hBR9L_U0n2hopdKyx4sh9UvazfZasMX9znlHsVmtLkbs-VeML-JHn9S0-AcY/s1600/Bez+na%25CC%2581zvu+Hradisko+visegrad.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 190,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGOpPFYwYcDkDY9n8Yohp9oqTjl_9IVLVJsJGe-yCJ2WuSLKMZMI-WiWF3GpQPNS7-hRgKJwlymF2cTs0hBR9L_U0n2hopdKyx4sh9UvazfZasMX9znlHsVmtLkbs-VeML-JHn9S0-AcY/s0/Bez+na%25CC%2581zvu+Hradisko+visegrad.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGOpPFYwYcDkDY9n8Yohp9oqTjl_9IVLVJsJGe-yCJ2WuSLKMZMI-WiWF3GpQPNS7-hRgKJwlymF2cTs0hBR9L_U0n2hopdKyx4sh9UvazfZasMX9znlHsVmtLkbs-VeML-JHn9S0-AcY/s1600/Bez+na%25CC%2581zvu+Hradisko+visegrad.jpg",
+        "filename": "Bez+na%CC%81zvu+Hradisko+visegrad.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGOpPFYwYcDkDY9n8Yohp9oqTjl_9IVLVJsJGe-yCJ2WuSLKMZMI-WiWF3GpQPNS7-hRgKJwlymF2cTs0hBR9L_U0n2hopdKyx4sh9UvazfZasMX9znlHsVmtLkbs-VeML-JHn9S0-AcY/s1600/Bez+na%25CC%2581zvu+Hradisko+visegrad.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 190,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "rimska pevnost na Sibrikovom vrsku vo Visegráde ktorá bola prestavaná vo včasnom stredoveku na hrad. Vydarená 3D vizualizácia pevnosti vo včasnom stredoveku (autor Pazirik, www.pazirik.hu)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2zhVdAw-DNIRA2znL5Qr0Eikp2kvBhgkgNgVTZV5zoenYQ2n-KatzI10gEnzIVXuN7nvFDdR7jHoZDhRIA5eXtsndXudg8kRo_C7byZ0GCEh9j1i9ERO3GIWTXvQaY5OFm6jAIznvUhA/s0/Bez+na%25CC%2581zvu2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2zhVdAw-DNIRA2znL5Qr0Eikp2kvBhgkgNgVTZV5zoenYQ2n-KatzI10gEnzIVXuN7nvFDdR7jHoZDhRIA5eXtsndXudg8kRo_C7byZ0GCEh9j1i9ERO3GIWTXvQaY5OFm6jAIznvUhA/s1600/Bez+na%25CC%2581zvu2.jpg",
+        "filename": "Bez+na%CC%81zvu2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2zhVdAw-DNIRA2znL5Qr0Eikp2kvBhgkgNgVTZV5zoenYQ2n-KatzI10gEnzIVXuN7nvFDdR7jHoZDhRIA5eXtsndXudg8kRo_C7byZ0GCEh9j1i9ERO3GIWTXvQaY5OFm6jAIznvUhA/s1600/Bez+na%25CC%2581zvu2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 244,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Ostroha z Visegradu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLwa5rtbRHVKulN8t0QBYTSjqnONVh5ApUm-wA-ik1NOCVygtZlfhFV98DCFKV7jisaDeVumD-OyBXmct_8rnB4mBEGtyf-lQkPKgPJMZTAOj-sbfoPFO910TIz2kF4cXZQqit94SXIk/s0/Bez+na%25CC%2581zvu5+kostol.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLwa5rtbRHVKulN8t0QBYTSjqnONVh5ApUm-wA-ik1NOCVygtZlfhFV98DCFKV7jisaDeVumD-OyBXmct_8rnB4mBEGtyf-lQkPKgPJMZTAOj-sbfoPFO910TIz2kF4cXZQqit94SXIk/s1600/Bez+na%25CC%2581zvu5+kostol.jpg",
+        "filename": "Bez+na%CC%81zvu5+kostol.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLwa5rtbRHVKulN8t0QBYTSjqnONVh5ApUm-wA-ik1NOCVygtZlfhFV98DCFKV7jisaDeVumD-OyBXmct_8rnB4mBEGtyf-lQkPKgPJMZTAOj-sbfoPFO910TIz2kF4cXZQqit94SXIk/s1600/Bez+na%25CC%2581zvu5+kostol.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 183,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "3D model kostola na Visegrade (cca 10./11. storočie)"
+      }
+    ],
+    "tags": [
+      "Tragédia úspešného obsadenia vlasti"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Téma",
+        "value": "Historiografia maďarského \"obsadenia vlasti\" a slovanská kontinuita osídlenia v karpatskej kotline",
+        "icon": "book"
+      },
+      {
+        "label": "Kľúčová lokalita",
+        "value": "Visegrád – Šibrikov kopec (rímska pevnosť prestavaná na slovanské a neskôr uhorské hradisko)",
+        "icon": "mountain"
+      },
+      {
+        "label": "Zdroj",
+        "value": "Preklad článku z maďarského webu archeologia.hu",
+        "icon": "scroll"
+      },
+      {
+        "label": "Preklad",
+        "value": "Kveta M.",
+        "icon": "book"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "polovica 6. stor.",
+        "title": "Avari vytvárajú svoju ríšu",
+        "description": "Turkojazyční Avari z Ázie vytvorili multinárodnú ríšu zahŕňajúcu celú karpatskú kotlinu.",
+        "type": "event"
+      },
+      {
+        "year": "2. polovica 7. stor.",
+        "title": "Onoguri určujú charakter Avarskej ríše",
+        "description": "Noví osadníci, Slovania a turkojazyční Onoguri, už určovali charakter celej Avarskej ríše.",
+        "type": "event"
+      },
+      {
+        "year": "polovica 7. stor.",
+        "title": "Zánik opevneného mesta pri Fenékpuszte",
+        "description": "Rímske opevnené mesto pri Fenékpuszte bolo násilne spustošené, jeho obyvatelia však mohli v okolí naďalej pokojne žiť.",
+        "type": "event"
+      },
+      {
+        "year": "koniec 8. stor.",
+        "title": "Avarská ríša stráca kontrolu",
+        "description": "Avarská ríša stráca kontrolu nad narastajúcim vnútorným napätím.",
+        "type": "event"
+      },
+      {
+        "year": "začiatok 9. stor.",
+        "title": "Rozpad Avarskej ríše",
+        "description": "Avarská ríša sa prakticky za niekoľko okamihov úplne rozpadla; obyvateľstvo Zadunajska následne s radosťou víta Karolingov.",
+        "type": "event"
+      },
+      {
+        "year": "907",
+        "title": "Bitka pri Bratislave",
+        "description": "Bitka pri Bratislave poskytla dostatočný čas milosti, počas ktorého sa podarilo ku koncu 10. storočia vytvoriť z Panónie konsolidovaný štát.",
+        "type": "event"
+      },
+      {
+        "year": "polovica 11. stor.",
+        "title": "Kresťanský feudálny štát sa rozširuje na východ",
+        "description": "Po rodinných arpádovských dynastických konfliktoch sa kresťanský feudálny štát rozšíril aj do východných oblastí karpatskej kotliny.",
+        "type": "event"
+      },
+      {
+        "year": "okolo roku 1200",
+        "title": "Gesta Hungarorum",
+        "description": "Dielo Magistra P. (Anonyma) odzrkadľuje historický prístup uhorskej aristokracie v desaťročiach okolo roku 1200.",
+        "type": "event"
+      },
+      {
+        "year": "15. stor.",
+        "title": "Tlačou vychádza dielo Simona z Kézy",
+        "description": "Dielo Simona z Kézy vyšlo aj kníhtlačou a šírilo sa v širších kruhoch.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vďaka našej spolupracovníčke pani Kvete M. Vám prinášame preklad veľmi zaujímavého článku, ktorý vyšiel na maďarskej stránke"
+              },
+              {
+                "type": "link",
+                "url": "http://archeologia.hu/egy-sikeres-honfoglalas-tragediaja",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "http://archeologia.hu/egy-sikeres-honfoglalas-tragediaja"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Môžeme ho zaradiť medzi neveľké množstvo článkov, ktoré sa v poslednom čase nesmelo objavujú u našich južných susedov, a ktoré pomaly začínajú naštrbovať vžité maďarské mýty o hrdinskom obsadení vlasti a nasledujúcich obdobiach. Z článku je zrejmé, že dnešní Maďari (aspoň časť vedeckej obce) sa musia vysporiadať s nepochybnou archeologicky doloženou prítomnosťou Slovanov v karpatskej kotline v období včasného stredoveku a s kontinuitou ich osídlenia aj po príchode Uhrov. O slovanskom osídlení Visegradu si tiež môžete prečítať v tomto samostatnom článku: "
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/search/label/Visegrad%20-%20%C4%8Fal%C5%A1ie%20Ve%C4%BEkomoravsk%C3%A9%20hradisko%20v%20Ma%C4%8Farsku%20%28HU%29",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Visegrad."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V Šalamúnovej veži vo Visegráde sa otvára výstava o takmer neznámej minulosti Uhorska, o predchádzajúcom putovaní Maďarov pred obsadením vlasti a o prispôsobení sa životu medzi národmi v karpatskej kotline. Vo vlastnom záujme sa musíme zbaviť mnohých viacstoročných falošných ilúzií. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na pripravovanej výstave spolupracovali Maď. akad. vied ... a Múzeum kráľa Mateja vo Visegráde. Výstava ukáže výsledky výskumov, ktoré za posledné roky „prekreslili“ vedecký pohľad na dejiny Maďarov pred obsadením vlasti a vzbudili veľký ohlas v tlači, a taktiež výsledky nových výskumov, ktoré tu vo Visegráde môžu ilustrovať dejinné udalosti od karolínskych čias po založenie štátu. Na základe výskumov sa vynára doteraz zväčša neznámy obraz o 8. – 10. stor., ktoré sa považujú za temné (v zmysle: neznáme) obdobie maďarskej histórie a to nás vedie k tomu, aby sme preformulovali všetko, čo si myslíme už celé storočia o najstarších dejinách maďarského štátu. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGOpPFYwYcDkDY9n8Yohp9oqTjl_9IVLVJsJGe-yCJ2WuSLKMZMI-WiWF3GpQPNS7-hRgKJwlymF2cTs0hBR9L_U0n2hopdKyx4sh9UvazfZasMX9znlHsVmtLkbs-VeML-JHn9S0-AcY/s0/Bez+na%25CC%2581zvu+Hradisko+visegrad.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGOpPFYwYcDkDY9n8Yohp9oqTjl_9IVLVJsJGe-yCJ2WuSLKMZMI-WiWF3GpQPNS7-hRgKJwlymF2cTs0hBR9L_U0n2hopdKyx4sh9UvazfZasMX9znlHsVmtLkbs-VeML-JHn9S0-AcY/s1600/Bez+na%25CC%2581zvu+Hradisko+visegrad.jpg",
+          "filename": "Bez+na%CC%81zvu+Hradisko+visegrad.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGOpPFYwYcDkDY9n8Yohp9oqTjl_9IVLVJsJGe-yCJ2WuSLKMZMI-WiWF3GpQPNS7-hRgKJwlymF2cTs0hBR9L_U0n2hopdKyx4sh9UvazfZasMX9znlHsVmtLkbs-VeML-JHn9S0-AcY/s1600/Bez+na%25CC%2581zvu+Hradisko+visegrad.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 190,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "rimska pevnost na Sibrikovom vrsku vo Visegráde ktorá bola prestavaná vo včasnom stredoveku na hrad. Vydarená 3D vizualizácia pevnosti vo včasnom stredoveku (autor Pazirik, www.pazirik.hu)",
+        "caption": "rimska pevnost na Sibrikovom vrsku vo Visegráde ktorá bola prestavaná vo včasnom stredoveku na hrad. Vydarená 3D vizualizácia pevnosti vo včasnom stredoveku (autor Pazirik, www.pazirik.hu)",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pozri sa smerom k nebu! ",
+                "bold": true,
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Isaac Asimov – jeden z najlepších sci-fi spisovateľov… medzi iným napísal jednu esej o tragédii Mesiaca… To, že mesiac denne vychádza na oblohu a zapadá z nej v rôznych miestach, viedlo ľudí k myšlienke, že stoja v stredobode sveta (geocentrický svetonázor) a trvalo veľmi dlho, kým skutočný vedecký výskum dospel k heliocentrickému obrazu sveta, a musel dokonca bojovať s dogmatickými panujúcimi názormi... ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ako to súvisí s obsadením vlasti a k dejinám storočia predchádzajúceho a nasledujúceho? ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Paralela je zrejmá: stačí sa pozrieť na ušľachtilé tváre obsadzovačov vlasti na kruhovom ",
+                "italic": true
+              },
+              {
+                "type": "link",
+                "url": "https://www.google.sk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=feszty%20korkep",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "panoramatickom Fesztyho obraze"
+                  }
+                ],
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ", na ich dôstojné držanie tela... alebo zalistovať v školskej učebnici o príslušnej dobe... a hneď je jasné, že naši predkovia boli polobohovia, svet sa točil okolo nich... a ani my, ich potomkovia, nemôžeme byť menej dokonalí, napokon v nás prúdi tá istá krv. Ako oni mali na karpatskú kotlinu právo, tak aj my máme právo na úctu od všetkých národov – a keď to nie sme schopní docieliť, tak aspoň kričme z plných pľúc, že to nám patrí. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Obsadenie vlasti, vlastne jeho historické posúdenie, vo svojej skamenelej dogmatickej vznešenosti – to je náš Mesiac. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2zhVdAw-DNIRA2znL5Qr0Eikp2kvBhgkgNgVTZV5zoenYQ2n-KatzI10gEnzIVXuN7nvFDdR7jHoZDhRIA5eXtsndXudg8kRo_C7byZ0GCEh9j1i9ERO3GIWTXvQaY5OFm6jAIznvUhA/s0/Bez+na%25CC%2581zvu2.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2zhVdAw-DNIRA2znL5Qr0Eikp2kvBhgkgNgVTZV5zoenYQ2n-KatzI10gEnzIVXuN7nvFDdR7jHoZDhRIA5eXtsndXudg8kRo_C7byZ0GCEh9j1i9ERO3GIWTXvQaY5OFm6jAIznvUhA/s1600/Bez+na%25CC%2581zvu2.jpg",
+          "filename": "Bez+na%CC%81zvu2.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2zhVdAw-DNIRA2znL5Qr0Eikp2kvBhgkgNgVTZV5zoenYQ2n-KatzI10gEnzIVXuN7nvFDdR7jHoZDhRIA5eXtsndXudg8kRo_C7byZ0GCEh9j1i9ERO3GIWTXvQaY5OFm6jAIznvUhA/s1600/Bez+na%25CC%2581zvu2.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 244,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Ostroha z Visegradu",
+        "caption": "Ostroha z Visegradu",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Naša historiografia je dosť opatrná, čo sa týka prieskumu celého storočia pred obsadením vlasti, ako aj desaťročí predchádzajúcich založeniu štátu. Nadarmo sú výsledky výskumov, keď ešte vždy platí ako štandard Anonymov opis o takmer ľudoprázdnej karpatskej kotline, ktorú si príval Maďarov poľahky prisvojil. Nestretávajú sa s odporom, a keď – s rozprávkovou ľahkosťou víťazia, zabíjajúc nepriateľov. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Magister P. (= Anonymus) nemohol dúfať, že jeho gesta, ktorá v tom čase predstavovala skôr krásnu literatúru, bude mať taký ďalekotrvajúci vplyv. Aj Nemci považovali v istých časoch (posledne za nacistov) svoje Nibelungy za zdroj svojho historického sebaurčenia – a ako to skončilo. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vráťme sa ku Gesta Hungarorum, ktorá dobre odzrkadľuje historický prístup aristokracie v desaťročiach okolo roku 1200. V časoch Magistra P. bol kráľovský dvor spola plný Západoeurópanov (Francúzov a Španielov), ktorí so sebou doniesli svoju prekvitajúciu rytiersku kultúru, romány, trubadúrske spevy, mýty o pôvode spätne až do čias Karola Veľkého. Je pochopiteľné, že aj maďarská aristokracia zatúžila po slávnej minulosti, po ospevovaní hoci vymyslených hrdinských skutkov predkov. Táto v podstate neškodná malá márnivosť v spojení s bezmedznou fantáziou Magistra P. potom zaplnila karpatskú kotlinu vymyslenými predkami a množstvom nikdy neuskutočnených bitiek. Pre históriu to však po dlhý čas predstavovalo len časovanú bombu, veď až do polovice 18. stor. to málokto čítal. Omnoho väčšej pozornosti sa tešila gesta Simona z Kézy, o 80 rokov mladšia. Tá sa snažila vytvoriť mýty o pôvode pomerne mladej (1-2 generácie trvajúcej) šľachtickej (zemianskej) vrstvy v čase, ktorý im neveľmi prial, lebo sa stávali obeťami stále silnejúcich vyšších vrstiev, barónov. V diele Simona z Kézy neskôr viacerí autori pokračovali a dopĺňali ho, napokon v 14. stor. sa zachovalo v rukopisnej forme aj vo (viedenskej) Obrázkovej Kronike. V 15. stor. vyšlo aj kníhtlačou a šírilo sa v širších kruhoch, takže sa naň nikdy nezabudlo. Najvplyvnejšia verzia diela Simona z Kézy bola Chronica Hungarorum Jána z Turca, ktorá vyšla aj knižne v 2 vydaniach za podpory kráľa Mateja. Ján z Turca už celú koncepciu diela „preformátoval“ podľa požiadaviek svojej doby. Miesto tu dostali aj dejiny nasledujúce po Šimonovi z Kézy, čo vytvorilo zdanie dôveryhodnosti celého diela, na počiatku ktorého bol Šimonom z Kézy poriadne nafúknutý mýtus o hunských prvopočiatkoch, pôvode národa. V tomto prepracovaní však vlasť právom zdedili Maďari, keďže ide o ten istý národ. Tieto dejiny sa začínajú aj končia veľkými kráľmi (Attila vs. Matej). Dielo Jána z Turca sa ukázalo trocha „hrubé“ pre kráľovský dvor (dali preto Bonfini-mu vypracovať jeho sofistikovanejšiu, ale nie menej rozprávkovú verziu, v ktorej vystupovali už aj Avari), ale jeho vplyv na spoločnosť bol ohromujúci. Ide o posledné desaťročia uhorského stredoveku, keď sa drobná a stredná šľachta stále zúfalejšie snažila ubrániť svoje privilégiá, hľadala a bránila si preto svoje korene. Ján z Turca im ponúkol skvelý obranný štít – prakticky už tisícročie tradícií na práva, veď svoje rody mohli odvodzovať rovno od obsadzovačov vlasti. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLwa5rtbRHVKulN8t0QBYTSjqnONVh5ApUm-wA-ik1NOCVygtZlfhFV98DCFKV7jisaDeVumD-OyBXmct_8rnB4mBEGtyf-lQkPKgPJMZTAOj-sbfoPFO910TIz2kF4cXZQqit94SXIk/s0/Bez+na%25CC%2581zvu5+kostol.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLwa5rtbRHVKulN8t0QBYTSjqnONVh5ApUm-wA-ik1NOCVygtZlfhFV98DCFKV7jisaDeVumD-OyBXmct_8rnB4mBEGtyf-lQkPKgPJMZTAOj-sbfoPFO910TIz2kF4cXZQqit94SXIk/s1600/Bez+na%25CC%2581zvu5+kostol.jpg",
+          "filename": "Bez+na%CC%81zvu5+kostol.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLwa5rtbRHVKulN8t0QBYTSjqnONVh5ApUm-wA-ik1NOCVygtZlfhFV98DCFKV7jisaDeVumD-OyBXmct_8rnB4mBEGtyf-lQkPKgPJMZTAOj-sbfoPFO910TIz2kF4cXZQqit94SXIk/s1600/Bez+na%25CC%2581zvu5+kostol.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 183,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "3D model kostola na Visegrade (cca 10./11. storočie)",
+        "caption": "3D model kostola na Visegrade (cca 10./11. storočie)",
+        "position": "left",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Svet hunských predkov maďarskej šľachty mohol pokojne ostať iba medzihrou, keby sa v tom čase nezačal rozkladať stredoveký uhorský štát, ktorý aj v čase svojho rozkvetu v kultúrnom zmysle zaostával za západoeurópskymi štátmi. Bitka pri Moháči a rozpad štátu na viacero častí sa postarali o dlhodobé zamrazenie prirodzeného vývoja smerom k občianskej (meštianskej) spoločnosti, nevznikol preto nárok na vytvorenie nového pohľadu na dejiny. Počas takmer 200 rokov trvajúceho tureckého panstva a aj po vyhnaní Turkov z krajiny väčšina maďarskej šľachty ešte vždy duchom hibernovala v dobe na začiatku 16. storočia, nechápala a odmietala modernizačné úsilia habsburgskej monarchie, ktoré sa prejavovali významným obmedzením šľachtických privilégií. Mnohé z týchto starých a za priam starovekých považovaných privilégií už dávno stratili aktuálnosť a zmysel, ale novopretavený duch maďarskej šľachty sa ich snažil zachovať. Mnohí sa kvôli tomu neštítili ani spolčiť sa s okupujúcou Osmanskou ríšou. Počas 18. storočia a aj v 19. storočí, keď sa nádeje opierajúce sa o Osmanov už definitívne vyparili, sa napokon definitívne vykryštalizoval tento drobnošľachtický náhľad a prístup k dejinám, až ustrnul vo verejnej mienke ako dogma už aj preto, lebo na prevahu Habsburgovcov v iných oblastiach sa dalo odpovedať jedine týmto (zachovaním ilúzie pradávnej veľkosti). Trianon, odpojenie historických oblastí Uhorska, svojím nepochybným šokovým účinkom opäť len posilnil potrebu kŕčovite sa pridržiavať veľkosti minulých čias. V dnešnej dobe však časti Maďarov už nestačia ani dedičstvo po Attilovi, maďarské pyramídy v Bosne, 30 000-ročné runové písmo, potrebujú partsko-maďarského Krista. Pravda, od falošnej minulosti sa prítomnosť nestane lepšou („žiteľnejšou“), a budúcnosť bude priam bezvýchodiskovou. Pritom príčinu toho, ako a prečo bol uhorský štát úspešný od 9. – 10. až do 15. storočia, môžeme ľahko odhaliť aj na základe našich dnešných poznatkov. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nie pustá krajina ",
+                "bold": true,
+                "italic": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vráťme sa opäť ku karpatskej kotline v 9. stor., menovite k Zadunajsku, Panónii, čo bola oblasť pod karolingským vplyvom. Novšie odkrytia na už známych archeologických náleziskách (Šibrikov kopec na Visegráde, Cella Trichora v Pätikostolí, Zalavár, Fenékpuszta) všetky vykázali prítomnosť karolingskej doby, stopy stavieb a prestavieb. Antropologický materiál z pohrebísk z 9. stor. sa ledva odlišuje od pohrebiska z 11. storočia. Hunská ríša bola v karpatskej kotline iba medzihrou. Provinciu síce opustili rímske úrady a vojská, odišli aj mnohí z tých, čo boli naviazaní na rímsku ríšsku administráciu, ale viac-menej romanizované miestne obyvateľstvo nemalo kam odísť. Na Hunmi otvorených hraniciach sa objavili privandrovalci germánskeho a iránskeho pôvodu, z ktorých značná časť pokračovala smerom na západ, ale tí, ktorí tu ostali, sa ľahko prispôsobili miestnym pomerom, už aj preto, že mnohí z nich už prichádzali ako kresťania. Keď uprostred 6. stor. turkojazyční Avari z Ázie vytvorili svoju multinárodnú ríšu, zahrňujúcu celú karpatskú kotlinu, vôbec nemali v úmysle vyhladiť či vyhnať tu žijúce národy, dokonca sa snažili o to, aby sa tu usadili aj ďalší podľa možnosti vyučení remeselníci z Balkánu a Itálie. Noví osadníci prichádzali aj zo severu a z východu: Slovania a turkojazyční Onoguri, ktorí v druhej polovici 7. stor. už určovali charakter celej Avarskej ríše. Táto viacnárodná ríša však dbala o to, aby jednotlivé skupiny jej poddaných nepomýšľali na prípadné osamostatnenie, preto nehľadela dobrým okom na to, aby poddaní žili v Rimanmi dobre opevnených mestách. Nejaký čas síce prižmúrila oko, najmä ak bola príslušná skupina dostatočne lojálna k ríši, napr. v prípade kresťanskej komunity žijúcej v blahobyte v opevnenom meste pri Fenékpuszta (dnes ju označujeme ako keszthelyskú kultúru, pozostávajúcu z miešaných romanizovaných a germánskych prvkov), ale keď sa vynoril konflikt medzi touto komunitou a ríšou, ríša tvrdo zasiahla. Rímske opevnené mesto bolo okolo polovice 7. stor. násilne spustošené, ale jeho obyvatelia, teraz už schudobnení, mohli v jeho okolí pokojne žiť naďalej. Aj inde – ako to poznáme z prípadu starovekej Sopianae (Pécs, Pätikostolie v neskorej rímskej dobe, pozn. prekl.), kde bolo opevnené mesto podobnej veľkosti ako vo Fenékpuszte, bolo toto mesto vyprázdnené, ale otvorené (nechránené) sídla romanizovaného obyvateľstva v blízkosti, ale mimo opevnenia, pretrvávali ešte po stáročia. Na konci 8. stor. však Avarská ríša už stráca kontrolu nad narastajúcim vnútorným napätím. Slovania, ktorí sa prisťahovali v predchádzajúcom storočí (za posledných 100 rokov), sa pravdepodobne chovali rovnako, ako to poznáme z lepšie dokumentovaných balkánsko-byzantských teritórií: zachovali si svoje archaické rodové organizácie, nasťahovali sa do opustenejších okrajových teritórií, do zalesnených kopcovitých oblastí, iba formálne sa podriadili Avarskej ríši, zato s obľubou vytvárali svoje vlastné opevnené strediská (hradiská), využijúc a obsadiac pritom aj také opustené rímske pevnosti, ako bol hrad vo Visegráde (na Šibrikovom kopci, pozn. prekl.). Keď sa nezrovnalosti čo do riadenia ríše pretvorili na vojenské konflikty, pominula sa aj sila, ktorá udržiavala pokope túto viacjazyčnú, viacnárodnostnú Avarskú ríšu, a tá sa na začiatku 9. stor. prakticky za niekoľko okamihov úplne rozpadla. Vo vzniknutej anarchistickej situácii sa kto mohol, uchýlil sa do bezpečia za múry ešte vždy zachovalých rímskych pevností a miest. Obyvateľstvo Zadunajska so všetkou pravdepodobnosťou s radosťou víta Karolingov, keďže prichádzajú s prísľubom poriadku, mieru a bezpečia a taktiež s kresťanstvom, ktoré z daného územia počas uplynulých stáročí ani na okamih nevymizlo. Pribina, knieža slovanského pôvodu v re-usporiadanej provincii Panónia, sústreďuje miestny ľud do okolia Mosaburgu, vedľa Slovanov je to aj romanizovaný ľud keszthelyskej kultúry, a iba náhode a tiež Metodovi, ktorý bol neskôr aj svätorečený, môžeme ďakovať za to, že nie v Mosaburgu/Zalavári bolo založené prvé panónske biskupstvo dozorované zo Salzburgu. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Noví prišelci (príchodzí) ",
+                "bold": true,
+                "italic": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Medzitým sa z oblastí Južného Uralu vydáva na cestu na západ taký ľud, v ktorého kultúre sa už mieša svet severných Ugrofínov so svetom stepí. Počas rýchleho (asi 1 generáciu trvajúceho) sťahovania sa k nemu pridali tri kmene z taktiež viacnárodnostnej Chazarskej ríše, ktorých pomenovali Kabarmi. V druhej polovici 9. stor. dorazila táto a priori multikultúrna spoločnosť do krajiny, ktorá v žiadnom prípade nebola pustá, ale v ktorej našli množstvo ďalších národov a jazykov: turkojazyčných Avarov a Bulharov, ako aj k rôznym vetvám a kmeňom patriacich Slovanov, Germánov a tiež potomkov rímskeho provinciálneho obyvateľstva. Ríša neskorých Karolingov zažívala krízu, Bulharská ríša bojovala o život a na smrť s Byzanciou, takže karpatská kotlina, situovaná mimo centier spomínaných ríš, sa stala ľahkou korisťou nových dobyvateľov. Obyvatelia viacnárodnostnej a viacjazyčnej zeme si skôr-neskôr osvojili aj jazyk dobyvateľov, aj keď títo boli vlastne v menšine. V novej ríši založenej Arpádovcami bolo potrebné zaviesť aj spoločný sprostredkujúci jazyk. Etnogenéza maďarstva sa neuskutočnila v stepiach, ale až v karpatskej kotline, a súčasťami tejto etnogenézy sú rovnako po stáročia tu žijúci Kelti, Rimania, Germáni, Avari, Slovania, ako aj prisťahovaní Maďari a Turci (myslím, že tu myslí tých Kabarov a Prabulharov, pozn. prekl.). To, že z toľkých rozličných národov sa ku koncu 11. stor. mohla vytvoriť zjednotená ríša, a v tejto ríši sa k 12. – 13. stor. vyformoval zjednotený ľud (pozn. prekl.: v zmysle štátnej príslušnosti môže byť, ale určite nie v zmysle „národ“, asi aj preto použil autor termín „ľud“), sa v neposlednom rade udialo vďaka tomu, že časť Maďarov, obsadzovačov vlasti, rýchlo pochopila situáciu a možnosti, ktoré táto krajina ponúkala. Taksony, Gejza a Štefan dosiahli úspech tým spôsobom, že základy svojej ríše začali ukladať na tých panónskych územiach, kde nebolo potrebné šíriť kresťanstvo ohňom a mečom, lebo väčšina tamojšieho obyvateľstva bola už po stáročia kresťanská a od karolingských čias poznala aj feudálny hierarchistický systém, na týchto existujúcich základoch bolo možné vystavať nový štát. Bolo potrebné už len dosadiť na vhodné miesta svojich spoľahlivých ľudí. Ľahko sa mohlo stať, že aj mnohí z bývalých vlastníkov si našli svoje miesto v novom usporiadaní. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Význam dobrodružných výprav, ako aj bitky pri Bratislave v roku 907, spočíva v tom, že poskytli dostatočný čas milosti, počas ktorého sa podarilo ku koncu 10. stor. vytvoriť z Panónie konsolidovaný štát a na rad mohlo prísť aj ovládnutie východnej časti karpatskej kotliny. Na východných teritóriách, kde chýbali základy kresťanstva a feudalizmu, pripadlo ťažisko prác na rozšírení ríše už na potomkov zakladateľov Arpádovcov z 11. stor.: princov Bela, Gejzu a Ladislava. Menovaní – súc vytlačení z kráľovstva – boli nútení vytrvať na týchto barbarských a pohanských územiach, vybudovať tu svoju moc a takto rozširovať hranice maďarského/uhorského štátu, na rozdiel od svojich kráľovských príbuzných, ktorí si v konsolidovanej západnej časti štátu užívali plody predkov – zakladateľov štátu. Až v polovici 11. stor. po rodinných arpádovských dynastických konfliktoch sa rozšíril kresťanský feudálny štát aj do východných oblastí karpatskej kotliny. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jasne vidieť, že najdôležitejšia schopnosť nie je dobýjanie, ale prispôsobenie sa, a to ako pre pôvodne tu žijúce obyvateľstvo, tak aj pre dobyvateľov a ich vedenie. Aj podľa darwinizmu: život si zachová nie najsilnejší, najrýchlejší alebo najmúdrejší, ale ten, kto sa najviac vie prispôsobiť meniacim sa podmienkam. Táto schopnosť prispôsobiť sa existovala aj v stredovekom uhorskom štáte. Prijímal a podporoval hostí – prisťahovalcov, tomu zodpovedajúc prelaďoval (niekedy úspešnejšie, inokedy menej) štátnu mašinériu, darilo sa súvisle udržiavať štátnu integritu. Vývoj občianskeho povedomia na úrovni západných krajín sa síce omeškával, aj nedostatok zmien v infraštruktúre viedol k zaostávaniu za krajinami v západnej Európe, ale osudovým úderom s nezvratnými následkami sa ukázal až turecký vpád a následné rozdelenie krajiny. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Naším tragickým Mesiacom sa pre nás stala chybná interpretácia obsadenia vlasti, ktorá skamenela v dogmu. Pravda, Asimov by nebol pravým intelektuálom, keby nenapísal aj sám sebe odpovedajúcu esej nadpísanú „Víťazstvo Mesiaca“, v ktorej dokazoval, že aj život na súši ďakuje za svoju existenciu tomuto nebeskému telesu, krúžiacemu okolo Zeme, presnejšie ním vyvolanému prílivu a odlivu. My však nemôžeme byť až takíto optimisti: v našom falošnom pohľade na históriu niet ani stopy po víťazstve. ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Preklad: Kveta M"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

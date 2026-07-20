@@ -1,0 +1,953 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-a-namerova-stepne-pyramidy-na-ukrajine.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-4772955917064601349",
+    "bloggerPostUrl": "http://www.hradiska.sk/2014/06/stepne-pyramidy-na-ukrajine.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/4772955917064601349/comments/default",
+    "extractedAt": "2026-07-16T21:57:20.508Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 7,
+      "captionedImages": 4,
+      "separatorImages": 3
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "A. Námerová: Stepné pyramídy na Ukrajine",
+    "slug": "a-namerova-stepne-pyramidy-na-ukrajine",
+    "excerpt": "Názov príspevku je požičaný a čiastočne pozmenený z pomenovania výstavy, ktorá sa konala v Krakove ešte v roku 2007. Širokej verejnosti boli vtedy predstavené výsledky výskumu skýtskeho kurhanu* Veľká Ryžanovka, ktorý sa nachádza na Ukrajine.…",
+    "authorName": "Mgr. Andrea Námerová, PhD.",
+    "publishedAt": "2014-06-22T20:59:00.001+02:00",
+    "originalPublishedDate": "2014-06-22T20:59:00.001+02:00",
+    "updatedAt": "2019-07-01T20:15:06.887+02:00",
+    "readingTime": 16,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdHfSHrWu2ZMGCHDDS1OVGa4dC_Nyrkit58tpFc-nxjXVDP8vMJO7-5g0700h4L5D2gAgR-TBHpNaLDRGTqOza7c9iHahFilvYai3Ufhrss3TkTnudpMrrprK_bgOzWdIFPuQijV6e4/s0/Scythian_Warriors.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdHfSHrWu2ZMGCHDDS1OVGa4dC_Nyrkit58tpFc-nxjXVDP8vMJO7-5g0700h4L5D2gAgR-TBHpNaLDRGTqOza7c9iHahFilvYai3Ufhrss3TkTnudpMrrprK_bgOzWdIFPuQijV6e4/s1600/Scythian_Warriors.jpg",
+      "filename": "Scythian_Warriors.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdHfSHrWu2ZMGCHDDS1OVGa4dC_Nyrkit58tpFc-nxjXVDP8vMJO7-5g0700h4L5D2gAgR-TBHpNaLDRGTqOza7c9iHahFilvYai3Ufhrss3TkTnudpMrrprK_bgOzWdIFPuQijV6e4/s1600/Scythian_Warriors.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 122,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdHfSHrWu2ZMGCHDDS1OVGa4dC_Nyrkit58tpFc-nxjXVDP8vMJO7-5g0700h4L5D2gAgR-TBHpNaLDRGTqOza7c9iHahFilvYai3Ufhrss3TkTnudpMrrprK_bgOzWdIFPuQijV6e4/s0/Scythian_Warriors.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdHfSHrWu2ZMGCHDDS1OVGa4dC_Nyrkit58tpFc-nxjXVDP8vMJO7-5g0700h4L5D2gAgR-TBHpNaLDRGTqOza7c9iHahFilvYai3Ufhrss3TkTnudpMrrprK_bgOzWdIFPuQijV6e4/s1600/Scythian_Warriors.jpg",
+        "filename": "Scythian_Warriors.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdHfSHrWu2ZMGCHDDS1OVGa4dC_Nyrkit58tpFc-nxjXVDP8vMJO7-5g0700h4L5D2gAgR-TBHpNaLDRGTqOza7c9iHahFilvYai3Ufhrss3TkTnudpMrrprK_bgOzWdIFPuQijV6e4/s1600/Scythian_Warriors.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 122,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Skýtski bojovníci - dobové zobrazenie"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigNsLQn85iMKPH1LGzyC_hmPcn4ONu962ILiwqFORFrG0PIKHQ_YLQJAM6RjxD0g_PnnEfKW5zPJbq_7FJ7B85jItEkTa0px5v66UihDDOtjRlW_MSL8ynl6p2SbmxH59S32XDaMH4Pgo/s0/3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigNsLQn85iMKPH1LGzyC_hmPcn4ONu962ILiwqFORFrG0PIKHQ_YLQJAM6RjxD0g_PnnEfKW5zPJbq_7FJ7B85jItEkTa0px5v66UihDDOtjRlW_MSL8ynl6p2SbmxH59S32XDaMH4Pgo/s1600/3.jpg",
+        "filename": "3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigNsLQn85iMKPH1LGzyC_hmPcn4ONu962ILiwqFORFrG0PIKHQ_YLQJAM6RjxD0g_PnnEfKW5zPJbq_7FJ7B85jItEkTa0px5v66UihDDOtjRlW_MSL8ynl6p2SbmxH59S32XDaMH4Pgo/s1600/3.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Približná mapa skýtskych kmeňov a iných kočoníkov podľa Herodotovho opisu. Z knihy J. Bouzek 1978: Antické Černomoří, Praha."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje2omV9sIAJmoLVJnzKP8mV-IRimAZ6qhQiTSZeQaHn7C9LgBABJ3J7dFTJTN01tYEZE50kfKh3rdgba2pRIMTW4EYDupXGkKk0BeyewQtk1B1kKlzCVrcB_fMRfMVMG6Ru07Q_p9Kju8/s0/Skythian_archer_plate_BM_E135_by_Epiktetos.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje2omV9sIAJmoLVJnzKP8mV-IRimAZ6qhQiTSZeQaHn7C9LgBABJ3J7dFTJTN01tYEZE50kfKh3rdgba2pRIMTW4EYDupXGkKk0BeyewQtk1B1kKlzCVrcB_fMRfMVMG6Ru07Q_p9Kju8/s1600/Skythian_archer_plate_BM_E135_by_Epiktetos.jpg",
+        "filename": "Skythian_archer_plate_BM_E135_by_Epiktetos.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje2omV9sIAJmoLVJnzKP8mV-IRimAZ6qhQiTSZeQaHn7C9LgBABJ3J7dFTJTN01tYEZE50kfKh3rdgba2pRIMTW4EYDupXGkKk0BeyewQtk1B1kKlzCVrcB_fMRfMVMG6Ru07Q_p9Kju8/s1600/Skythian_archer_plate_BM_E135_by_Epiktetos.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 309,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Skýt na gréckej keramike"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7JBEsdbNfT8RY0cEchEBatCW6RqatqJozZA5D8mm6DO6O4Sj66S4WVfE2dXrq5WmlU28OTSDmNHHiH-3qHTTUCjpcqiywfj5bLumIkUDwj177K-Vn7Vg4ZM4My1ncmR-DC9Oe0MHqnoA/s0/Warrior_of_Scithians.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7JBEsdbNfT8RY0cEchEBatCW6RqatqJozZA5D8mm6DO6O4Sj66S4WVfE2dXrq5WmlU28OTSDmNHHiH-3qHTTUCjpcqiywfj5bLumIkUDwj177K-Vn7Vg4ZM4My1ncmR-DC9Oe0MHqnoA/s1600/Warrior_of_Scithians.png",
+        "filename": "Warrior_of_Scithians.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7JBEsdbNfT8RY0cEchEBatCW6RqatqJozZA5D8mm6DO6O4Sj66S4WVfE2dXrq5WmlU28OTSDmNHHiH-3qHTTUCjpcqiywfj5bLumIkUDwj177K-Vn7Vg4ZM4My1ncmR-DC9Oe0MHqnoA/s1600/Warrior_of_Scithians.png",
+          "displayedWidth": 235,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "rekonštrukcia skýtskeho jazdca"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcw5ZC1pyR1LCgYurJg5Q5ggbJbhJgwpEfDci266kl2XUuYVZ-Rt0f_FJgDXp4yBC9yhyphenhyphenWACnQx0AgaiOBi0K_XT1LxSIRW5tfgcqkESSSuUUNv3MvLNcEzUcqF3NGFGZ3D6JgEw3hFAg/s0/blog_sy_4395968_6387593_tr_silbury_hill3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcw5ZC1pyR1LCgYurJg5Q5ggbJbhJgwpEfDci266kl2XUuYVZ-Rt0f_FJgDXp4yBC9yhyphenhyphenWACnQx0AgaiOBi0K_XT1LxSIRW5tfgcqkESSSuUUNv3MvLNcEzUcqF3NGFGZ3D6JgEw3hFAg/s1600/blog_sy_4395968_6387593_tr_silbury_hill3.jpg",
+        "filename": "blog_sy_4395968_6387593_tr_silbury_hill3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcw5ZC1pyR1LCgYurJg5Q5ggbJbhJgwpEfDci266kl2XUuYVZ-Rt0f_FJgDXp4yBC9yhyphenhyphenWACnQx0AgaiOBi0K_XT1LxSIRW5tfgcqkESSSuUUNv3MvLNcEzUcqF3NGFGZ3D6JgEw3hFAg/s1600/blog_sy_4395968_6387593_tr_silbury_hill3.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 195,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4QezyrNYEoXtJUGJgXlkLgmSCbhlX9wc_ybUGcdEtKHFvt4ly-lPTgrHw54J6OOWhV8-oc9HqvPRQuTyQEMIUqIEGjOEC_o_EEZGJCXHPZZG25FpnHGzyN8TFIEfnlX1uCHqECW4oaA4/s0/1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4QezyrNYEoXtJUGJgXlkLgmSCbhlX9wc_ybUGcdEtKHFvt4ly-lPTgrHw54J6OOWhV8-oc9HqvPRQuTyQEMIUqIEGjOEC_o_EEZGJCXHPZZG25FpnHGzyN8TFIEfnlX1uCHqECW4oaA4/s1600/1.jpg",
+        "filename": "1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4QezyrNYEoXtJUGJgXlkLgmSCbhlX9wc_ybUGcdEtKHFvt4ly-lPTgrHw54J6OOWhV8-oc9HqvPRQuTyQEMIUqIEGjOEC_o_EEZGJCXHPZZG25FpnHGzyN8TFIEfnlX1uCHqECW4oaA4/s1600/1.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkLju6wQwzC6OVKU8jl4OuSie_Zy2vnkdhFla3zkbET6dYHvJB9dQvUXlnQ1SPfI4yd-kQm1EEZ9jnpWnNhYkevbsoL9gGDkNSHlf3rwMVBfkSLJ0PXbv1egyL2bxf6P6NvFLxfj0vrE/s0/2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkLju6wQwzC6OVKU8jl4OuSie_Zy2vnkdhFla3zkbET6dYHvJB9dQvUXlnQ1SPfI4yd-kQm1EEZ9jnpWnNhYkevbsoL9gGDkNSHlf3rwMVBfkSLJ0PXbv1egyL2bxf6P6NvFLxfj0vrE/s1600/2.jpg",
+        "filename": "2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBkLju6wQwzC6OVKU8jl4OuSie_Zy2vnkdhFla3zkbET6dYHvJB9dQvUXlnQ1SPfI4yd-kQm1EEZ9jnpWnNhYkevbsoL9gGDkNSHlf3rwMVBfkSLJ0PXbv1egyL2bxf6P6NvFLxfj0vrE/s1600/2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 132,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Skýti a ich Kurhany"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Oblasť",
+        "value": "Severné Pričiernomorie, stepi a lesostep dnešnej Ukrajiny (aj Krym, Kaukaz, Kuban)",
+        "icon": "map"
+      },
+      {
+        "label": "Obdobie",
+        "value": "8. storočie pred Kr. – 3. storočie po Kr.",
+        "icon": "calendar"
+      },
+      {
+        "label": "Hlavný prameň",
+        "value": "Štvrtá kniha Herodotových Dejín",
+        "icon": "scroll"
+      },
+      {
+        "label": "Charakteristické znaky",
+        "value": "Skýtska triáda – konský postroj, výzbroj a zvierací štýl",
+        "icon": "star"
+      },
+      {
+        "label": "Pohrebné pamiatky",
+        "value": "Kurhany (mohyly) s kráľovskými aj radovými hrobmi",
+        "icon": "mountain"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "8. stor. pred Kr.",
+        "title": "Príchod Skýtov do severného Čiernomoria",
+        "description": "Elementy skýtskej kultúry sa po prvýkrát objavujú v Dneperskej oblasti a v lesostepi; Skýti prichádzajú do čiernomorských stepí z Ázie s už rozvinutou kultúrou.",
+        "type": "event"
+      },
+      {
+        "year": "734 – 714 pred Kr.",
+        "title": "Vpád Kimerijcov do Urartu",
+        "description": "Kimerijci, tlačení Skýtmi z čiernomorských stepí, vpadli do ríše Urartu za vlády Rusa I.",
+        "type": "event"
+      },
+      {
+        "year": "680 – 669 pred Kr.",
+        "title": "Prvé nájazdy Skýtov na Blízky východ",
+        "description": "Prvé nájazdy Skýtov na územia Blízkeho východu prišli za vlády asýrskeho kráľa Assarhadona.",
+        "type": "event"
+      },
+      {
+        "year": "630 – 625 pred Kr.",
+        "title": "Ohrozenie Egypta",
+        "description": "Skýti ohrozovali Egypt; faraón Psammetich I. ich darmi a prosbami primäl, aby ďalej nepokračovali.",
+        "type": "event"
+      },
+      {
+        "year": "594 pred Kr.",
+        "title": "Koniec nadvlády Skýtov v Prednej Ázii",
+        "description": "Médsky kráľ Kyaxares ľsťou ukončil vyše dvadsaťosemročnú nadvládu Skýtov v Oriente.",
+        "type": "event"
+      },
+      {
+        "year": "515 – 513/512 pred Kr.",
+        "title": "Ťaženie Dareia I. proti Skýtom",
+        "description": "Perzský kráľ Dareios I. tiahol proti Skýtom; podľa Herodota sa ťaženie skončilo víťazne pre Skýtov.",
+        "type": "event"
+      },
+      {
+        "year": "5. – 4. stor. pred Kr.",
+        "title": "Najväčší rozkvet Skýtie",
+        "description": "Obdobie najväčšieho a neopakujúceho sa rozkvetu Skýtie, rozvoj obchodných stykov s Grékmi a vznik bohatých kráľovských kurhanov.",
+        "type": "event"
+      },
+      {
+        "year": "339 pred Kr.",
+        "title": "Porážka kráľa Atea",
+        "description": "V boji medzi Filipom II. Macedónskym a skýtskym kráľom Ateom pri Dunaji padol vraj 90-ročný Ateas, čo malo za následok celkovú politickú destabilizáciu.",
+        "type": "event"
+      },
+      {
+        "year": "od 3. stor. pred Kr.",
+        "title": "Formovanie Neskoroskýtskej kultúry",
+        "description": "Skýti postupne prechádzajú na usadlý spôsob života; kultúra pretrváva na Kryme podľa niektorých bádateľov až do 3. storočia po Kr.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Názov príspevku je požičaný a čiastočne pozmenený z pomenovania výstavy, ktorá sa konala v Krakove ešte v roku 2007. Širokej verejnosti boli vtedy predstavené výsledky výskumu skýtskeho kurhanu* Veľká Ryžanovka, ktorý sa nachádza na Ukrajine. Pamiatky skýtskej kultúry sa nenachádzajú výlučne na Ukrajine, predsa však je to územie, v ktorom sú dominantné. Ponorme sa preto na chvíľu do starších dejín tohto regiónu – do čias, keď sa na tomto území preháňali kočovníci označení antickými autormi ako Skýti."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V oblasti dnešnej Ukrajiny, v regióne severného Pričiernomoria aj na vzdialenejších územiach sa týčia mnohé kurhany zo skýtskej epochy. Postupne ich objavovali a skúmali najprv amatéri a neskôr archeológovia. V devätnástom storočí sa popri iných významných archeologických objavoch začal vo vtedajšom Rusku „Hon za pokladmi Skýtov“. Mohylové hroby často patrili aristokratickej vrstve a ich pohreby obsahovali predmety zo vzácnych kovov – zlato, striebro, elektrón. Je samozrejmosťou, že nie každý amatérsky objaviteľ tej-ktorej mohyly bol natoľko poctivý, aby nájdené vzácne objekty doniesol do múzea, či vtedajšiemu správcovi mesta. Pravdepodobne týmto spôsobom sme stratili istú časť nálezov, ktoré by mohli dopomôcť k lepšiemu poznaniu kultúry Skýtov. Už v staroveku priťahovali dobre viditeľné mohyly rôznych vykrádačov a stali sa terčom ich rabovania. Na mnohých z nich sa však pochovávalo až do obdobia stredoveku. Ziskuchtivým zlodejom z obavy o znesvätenie preto na čas prešla chuť na tajné vniknutie do ich útrob. Veľká časť objavených predmetov z drahých kovov prisudzovaná obdobiu Skýtov sa stala svetoznáma a to najmä vďaka vynikajúcemu umeleckému zhotoveniu. Na vlastné oči je možné mnohé vzácne predmety z kurhanov obdivovať v Ermitáži, v ruskom Petrohrade. Časť originálov vystavovali v posledných desaťročiach aj v rôznych európskych metropolách."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdHfSHrWu2ZMGCHDDS1OVGa4dC_Nyrkit58tpFc-nxjXVDP8vMJO7-5g0700h4L5D2gAgR-TBHpNaLDRGTqOza7c9iHahFilvYai3Ufhrss3TkTnudpMrrprK_bgOzWdIFPuQijV6e4/s0/Scythian_Warriors.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdHfSHrWu2ZMGCHDDS1OVGa4dC_Nyrkit58tpFc-nxjXVDP8vMJO7-5g0700h4L5D2gAgR-TBHpNaLDRGTqOza7c9iHahFilvYai3Ufhrss3TkTnudpMrrprK_bgOzWdIFPuQijV6e4/s1600/Scythian_Warriors.jpg",
+          "filename": "Scythian_Warriors.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6cdHfSHrWu2ZMGCHDDS1OVGa4dC_Nyrkit58tpFc-nxjXVDP8vMJO7-5g0700h4L5D2gAgR-TBHpNaLDRGTqOza7c9iHahFilvYai3Ufhrss3TkTnudpMrrprK_bgOzWdIFPuQijV6e4/s1600/Scythian_Warriors.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 122,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Skýtski bojovníci - dobové zobrazenie",
+        "caption": "Skýtski bojovníci - dobové zobrazenie",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pri svojom štúdiu aj stretnutiach s laickou verejnosťou, či blízkymi priateľmi už roky narážam na otázku, ktorú Vám v súvislosti so Skýtmi položí každý ako prvú. „Kto to boli tí Skýti?“ Zhrnúť informácie o nich do krátkej charakteristiky majú problém aj samotní bádatelia. Rôzne aspekty s nimi spojené riešili a riešia archeológovia, historici, lingvisti, čiastočne etnológovia, vzdialenejšie kunsthistorici a príbuzné vedné odbory. Viaže sa k nim pomerne dlhá história, ako aj množstvo materiálnej kultúry a písomných dokladov. Občas je možné naraziť aj na pojem Skýtológia, čiže doslova „veda o Skýtoch“. Ak by sme sa predsa pokúsili nájsť niekoľko kľúčových slov, ktoré najlepšie vystihujú Skýtov, uvádzame tri najdôležitejšie slovné spojenia – oblasť severného Pričiernomoria, kočovníci bez stáleho domova nad hlavou a skýtska triáda. K vysvetleniu jednotlivých neznámych výrazov sa dostaneme v nasledujúcich častiach."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigNsLQn85iMKPH1LGzyC_hmPcn4ONu962ILiwqFORFrG0PIKHQ_YLQJAM6RjxD0g_PnnEfKW5zPJbq_7FJ7B85jItEkTa0px5v66UihDDOtjRlW_MSL8ynl6p2SbmxH59S32XDaMH4Pgo/s0/3.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigNsLQn85iMKPH1LGzyC_hmPcn4ONu962ILiwqFORFrG0PIKHQ_YLQJAM6RjxD0g_PnnEfKW5zPJbq_7FJ7B85jItEkTa0px5v66UihDDOtjRlW_MSL8ynl6p2SbmxH59S32XDaMH4Pgo/s1600/3.jpg",
+          "filename": "3.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigNsLQn85iMKPH1LGzyC_hmPcn4ONu962ILiwqFORFrG0PIKHQ_YLQJAM6RjxD0g_PnnEfKW5zPJbq_7FJ7B85jItEkTa0px5v66UihDDOtjRlW_MSL8ynl6p2SbmxH59S32XDaMH4Pgo/s1600/3.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Približná mapa skýtskych kmeňov a iných kočoníkov podľa Herodotovho opisu. Z knihy J. Bouzek 1978: Antické Černomoří, Praha.",
+        "caption": "Približná mapa skýtskych kmeňov a iných kočoníkov podľa Herodotovho opisu. Z knihy J. Bouzek 1978: Antické Černomoří, Praha.",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Geografická poloha"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prvý zachovaný a kompletný opis územia Skýtov máme už z obdobia antiky, od historika Herodota (IV. 101). Ešte pred ním to bol Hekataios z Milétu. Z jeho diela sa nám však zachovali len zlomky. Skýtiu opísal Herodotos ako štvorec, ktorého každá strana sa rovná dvadsiatim dňom pochodu a je dlhá štyritisíc stádií (približne dnešných 700 km). Ich územím pretekalo veľa riek, z nich splavné od mora podľa Herodota boli: Istros /dnešný Dunaj/, Tyres /dnešný Dnester/, Hipanis /dnešný južný Bug/, Borysthénes /dnešný Dneper/, Pantikapes /dnešná Konka a Ingulec/, Hypakyris /dnešný Kalančak/, Gerros /dnešná Moločna, alebo Konka/ a Tanais /dnešný Don/ (IV, 47). Najmohutnejší z nich bol Dunaj, do ktorého sa vlievajú aj iné rieky. V dnešnom geografickom ponímaní môžeme povedať, že išlo prevažne o územia stepi aj lesostepi Ukrajiny, tzv. severná Pričiernomorská oblasť. Zo staršieho obdobia sa ich stopy dajú zachytiť aj na Kubani a dokonca aj na Prednom východe. Na juhu siahali teritória Skýtov na Krym, na severovýchode ich ohraničovala rieka Don, na západe v čase najväčšieho rozmachu tvoril prirodzenú hranicu Dunaj. Je samozrejmé, že počas jednotlivých období v histórii Skýtov sa menil rozsah ich územia. Ich susedmi počas niekoľkých storočí boli napríklad Sarmati, Geti, Gréci, Taurovia, neskoršie aj Rimania. Tak by sa dala v stručnosti zhrnúť rozloha a poloha Skýtov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Otázka genézy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kto boli títo nomádi? Odkiaľ sa dostali do oblasti Čiernomoria? Prišli sem z východu, alebo obývali tento priestor oddávna? Podobné otázky si kládli bádatelia rôznych smerov dlhú dobu. Proveniencia Skýtov zaujala aj antických autorov – opäť Herodota. Otázka genézy sa tak stala na dlhý čas jednou z najdiskutovanejších tém. Kde je veľa otázok a málo odpovedí, vznikajú rôzne interpretácie. Utvorili sa dva hlavné názory na túto tému. Ide o tzv. autochtónnu a alochtónnu teóriu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zástancovia autochtónnej tézy poukazovali na podobnosť materiálnej kultúry Skýtov a nositeľov tzv. zrubovej kultúry* prítomnej v oblasti Čiernomoria. Títo v neskorej dobe bronzovej obývali široký priestor medzi Dnestrom a dnešným Minusinským krajom. Podľa tohto názoru už v 8. storočí pred Kr. žili na juhu východnej Európy spolu s Kimerijcami tiež kočovní Skýti, ktorí neskôr vyhnali Kimerijcov a na úteku časť z nich prenasledovali do Prednej Ázie. Zástancovia tiež argumentovali, že v južnej časti bývalého Ruska v 7. storočí pred Kr. začala doba železná, kým na Sibíri a vo východnej časti strednej Ázie ešte dlho prežívala tradícia doby bronzovej. Ak by Skýti prišli z hlbín Ázie, museli by so sebou priniesť archaické formy a nie rozvinutú kultúru doby železnej. „Pravlasť“ Skýtov tak podľa niektorých bádateľov ležala na východe rieky Don, kde ich susedmi boli spočiatku od Kaspického mora Masageti a Isedóni. Téza o autochtónnom pôvode Skýtov mala mnoho nedostatkov a v sedemdesiatých rokoch dvadsiatého storočia sa stala terčom kritiky zo strany odborníkov na skýtsku kultúru."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje2omV9sIAJmoLVJnzKP8mV-IRimAZ6qhQiTSZeQaHn7C9LgBABJ3J7dFTJTN01tYEZE50kfKh3rdgba2pRIMTW4EYDupXGkKk0BeyewQtk1B1kKlzCVrcB_fMRfMVMG6Ru07Q_p9Kju8/s0/Skythian_archer_plate_BM_E135_by_Epiktetos.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje2omV9sIAJmoLVJnzKP8mV-IRimAZ6qhQiTSZeQaHn7C9LgBABJ3J7dFTJTN01tYEZE50kfKh3rdgba2pRIMTW4EYDupXGkKk0BeyewQtk1B1kKlzCVrcB_fMRfMVMG6Ru07Q_p9Kju8/s1600/Skythian_archer_plate_BM_E135_by_Epiktetos.jpg",
+          "filename": "Skythian_archer_plate_BM_E135_by_Epiktetos.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje2omV9sIAJmoLVJnzKP8mV-IRimAZ6qhQiTSZeQaHn7C9LgBABJ3J7dFTJTN01tYEZE50kfKh3rdgba2pRIMTW4EYDupXGkKk0BeyewQtk1B1kKlzCVrcB_fMRfMVMG6Ru07Q_p9Kju8/s1600/Skythian_archer_plate_BM_E135_by_Epiktetos.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 309,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Skýt na gréckej keramike",
+        "caption": "Skýt na gréckej keramike",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Druhá teória sa iným slovom dá nazvať ako migračná. Počíta s tým, že sa „Skýti“ formovali už v ázijskej oblasti a do oblasti severného Pričiernomoria migrovali, prišli sem ako kultúra s pre nich charakteristickými prvkami. Pravlasť Skýtov sa do 70. rokov dvadsiateho storočia len veľmi všeobecne kládla do „hlbín Ázie“. Obhajovateľom myšlienky hrala do kariet aj Herodotova správa o tlaku kočovných Masagetov v Ázii na nich (Herodotos, IV. 11). Zástancom tejto tézy výrazne pomohli nálezy veľkých kráľovských kurhanov v Tuve – Aržanu I., Aržanu II. a iných komplexov. V oboch bola zastúpená skýtska triáda. Pohrebný rituál sa plne zhoduje s rituálom kráľovských Skýtov z oblasti Čiernomoria. Podobné prejavy a nálezy poznáme z rozsiahlého stepného územia: z Altaja, Kazachstanu, azovskej, kaukazskej, pamirskej oblasti, z hornej Oby, Minusinskej kotliny, Zabajkalska a Ordosu. Podľa bádateľa, ktorý odhaľoval kurhan Aržan I., M.P. Grjaznova, bol tento kurhan súčasný s predskýtskou dobou v severnom Čiernomorí a v Tuve predstavuje najrannejší horizont skýtskej kultúry."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V stručnosti predstavené dve hlavné tézy a z nich hlavne druhá, vystupujúca čoraz viac do popredia, majú ešte aj v súčasnosti množstvo diskusných prvkov. Otvorená zostáva otázka a nejasnosti, s ktorou archeologickou kultúrou možno Skýtov geneticky spojiť. Či to boli nositelia katakombovej kultúry, potomkovia alebo priami nositelia zrubovej kultúry, alebo či treba celú ich kultúru odvodiť zo strednej Ázie. Dnes prevláda názor, že sa Skýti do oblasti severného Čiernomoria a Kaukazu, kde ich prítomnosť môžeme doložiť zhruba od 8. storočia pred Kr., dostali z oblasti Ázie."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7JBEsdbNfT8RY0cEchEBatCW6RqatqJozZA5D8mm6DO6O4Sj66S4WVfE2dXrq5WmlU28OTSDmNHHiH-3qHTTUCjpcqiywfj5bLumIkUDwj177K-Vn7Vg4ZM4My1ncmR-DC9Oe0MHqnoA/s0/Warrior_of_Scithians.png",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7JBEsdbNfT8RY0cEchEBatCW6RqatqJozZA5D8mm6DO6O4Sj66S4WVfE2dXrq5WmlU28OTSDmNHHiH-3qHTTUCjpcqiywfj5bLumIkUDwj177K-Vn7Vg4ZM4My1ncmR-DC9Oe0MHqnoA/s1600/Warrior_of_Scithians.png",
+          "filename": "Warrior_of_Scithians.png",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7JBEsdbNfT8RY0cEchEBatCW6RqatqJozZA5D8mm6DO6O4Sj66S4WVfE2dXrq5WmlU28OTSDmNHHiH-3qHTTUCjpcqiywfj5bLumIkUDwj177K-Vn7Vg4ZM4My1ncmR-DC9Oe0MHqnoA/s1600/Warrior_of_Scithians.png",
+            "displayedWidth": 235,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "rekonštrukcia skýtskeho jazdca",
+        "caption": "rekonštrukcia skýtskeho jazdca",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Dejiny v kocke?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Stručnými sa nazvať žiaľ nedajú. Napriek tomu sa pokúsime o krátky prehľad najdôležitejších a najpútavejších udalostí z ich histórie, chronologicky na seba nadväzujúcich. Dá sa povedať, že história začína v 8. storočí pred Kr., keď sa elementy skýtskej kultúry po prvýkrát objavujú v Dneperskej oblasti a v lesostepi. Ako sme už písali, predpokladá sa, že Skýti prišli do čiernomorských stepí z Ázie s už rozvinutou kultúrou, najneskoršie v 7. storočí pred Kr."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "„Dobrodružná výprava do Prednej Ázie a Egypta“"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ešte predtým, ako upevnili svoju dominanciu nad severným Pričiernomorím, na rozľahlých stepných a lesostepných územiach, musíme spomenúť ich účasť na dejinách v Prednej Ázii. Pri čiernomorskom pobreží došlo koncom 8. storočia pred Kr. k stretu už okrajovo spomínaných Kimerijcov a Skýtov. Kimerijci, ich predchodcovia na danom území, boli tlačení Skýtmi z čiernomorských stepí, čo malo za následok, že sa časť z nich obrátila do Prednej Ázie. Časť Skýtov sa pustila do ich prenasledovania. O udalosti sa zmieňuje opäť spisovateľ Herodotos (IV. 11). Pri tejto starovekej „naháňačke“ vpadli Kimerijci do ríše Urartu a to za vlády Rusa I. (734–714 pred Kr.). Ich ďalšie vojenské akcie a pohyby v danej oblasti vynecháme. Trvali zhruba do 7. storočia pred Kr. Prvé nájazdy Skýtov na územia Blízkeho východu prišli až o storočie neskôr za vlády asýrskeho kráľa Assarhadona (680–669 pred Kr.). Záznamy o istých udalostiach s nimi spojenými našli bádatelia aj v klinopisných tabuľkách. V rokoch 675–672 pred Kr. sa podľa niekoľkých zdrojov uskutočnil sobáš skýtskeho kráľa Partatua (uvádzaný aj ako Bartatua) s dcérou kráľa Assarhadona. Od rokov 650 pred Kr. dokážeme ich stopy v Prednej Ázii zachytiť už aj prostredníctvom archeológie. Nálezy tzv. skýtskeho typu sa našli napríklad v komplexoch z Norşuntepe, Karmir-Blur, Ziwije a iné. K úspešným ťaženiam Skýtov patrilo aj ohrozovanie Egyptu v rokoch 630 – 625 pred Kr. Faraón Psammetich I. (663–610 pred Kr.) im vyšiel v ústrety s darmi a prosbami a primäl ich, aby ďalej nepokračovali. Po úspešnom „záťahu“ na Egypt sa obrátili späť a počas vlády Rusa II. (625–585 pred Kr.) zničili ríšu Urartu. Koniec nadvlády Skýtov v Prednej Ázii urobil médsky kráľ Kyaxares v roku 594 pred Kr. Víťazstvo nedosiahol v priamom boji, ale ľsťou. Pozval na hostinu popredných veliteľov, opil ich, pobil a ostatných vyhnal z krajiny. Tak skončila vyše dvadsaťosemročná nadvláda Skýtov v Oriente."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Perzská odveta"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Časť Skýtov sa po porážke v Prednej Ázii vrátila naspäť do oblasti severného Čiernomoria. Menšia skupina sa do 6. storočia pred Kr. zdržiavala na Kubani a severnom Kaukaze. Ich vtedajšiu prítomnosť možno doložiť aj archeologickým materiálom z kurhanov akým je napr. Kelermes, Kostromskaja a iné. Otázne je, prečo stopy Skýtov v tejto oblasti v 5. storočí miznú. Zvyšná časť Skýtov v oblasti severného Čiernomoria si medzitým upevnila nadvládu nad územím. Čoraz častejšie sa dostávali do kontaktu s gréckymi mestami, založenými počas Veľkej gréckej kolonizácie. V ich blízkosti sa nachádzal aj kmeň Taurov na Kryme. Na západe v oblasti Dunaja to boli trácki Géti. Ich vzťahy s okolitými spoločenstvami boli zväčša mierového charakteru. Dôležitou historickou udalosťou sa stal až pochod perzského kráľa Dareia I. proti Skýtom v rokoch 515 – 513/512 pred Kr. Dareiovu epizódu opísal vo svojej štvrtej knihe Herodotos a vykreslil ju pomerne detailne. Napriek tomu niektorí súčasní bádatelia vzniesli o pravdivosti výpravy pochybnosti. Ak by sme zostali pri Herodotovom tvrdení, že sa ťaženie naozaj uskutočnilo, skončilo sa víťazne pre Skýtov. V antickom svete si na istý čas vyslúžili reputáciu neporaziteľného národa. Po tejto udalosti nasledovalo niekoľko ďalších menších pohybov Skýtov smerom na západ, ku kmeňu Odrysov. Niekedy v rokoch 480 – 470 pred Kr. dokonca kráľ Ariapith uzatvoril manželstvo s dcérou kráľa Odrysov. Počas nasledujúcich storočí išlo zväčša len o menšie roztržky regionálneho charakteru. V 5. – 4. storočí pred Kr. došlo aj k najväčšiemu a neopakujúcemu sa rozkvetu Skýtie. Rozvíjali sa obchodné styky medzi nimi a tunajšími Grékmi. V tomto období sa objavujú tzv. bohaté kráľovské kurhany, z ktorých pochádzajú mnohé známe predmety z drahých kovov. Pomalý úpadok však nedal na seba dlho čakať."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Porážka najväčšieho skýtskeho kráľa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V roku 339 pred Kr. došlo v blízkosti Dunaja k boju medzi Filipom II. Macedónskym a skýtskym kráľom Ateom. Rovnako ako o Dareiovi, aj o hore zmienenom boji písali antickí spisovatelia z gréckeho a rímskeho prostredia. Tentokrát bitka dopadla v neprospech Skýtov, pretože v boji padol vraj 90-ročný skýtsky kráľ Ateas. Na príčiny konfliktu bádatelia nahliadajú rôzne. Bitka mala niekoľko neblahých dôsledkov. Skýti prišli o časť územia v okolí Dunaja. Časť, ktorá sa zdržiavala v tom čase v tzv. Malej Skýtii (oblasť Dobrudže), zostala odrezaná od zvyšku svojich „súkmeňovcov“. Po páde Atea nastala celková politická destabilizácia. Od roku 339 pred Kr. nedokážeme doložiť žiadneho istého a prameňmi dosvedčeného (či už literárnymi, alebo archeologickými) kráľa. Až v poslednej štvrtine 4. storočia pred Kr. zaznamenal antický autor Diodoros Sicílsky (XX. 24) panovníka menom Agar. Roky jeho vlády a územie, ktoré spravoval, však nedokážeme presne doložiť. Isté je, že práve on uzatvára tzv. dynastiu kráľovských Skýtov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Sú ešte Skýti Skýtmi, alebo Neskoroskýtska kultúra na Kryme"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Od 3. storočia pred Kr. došlo k formovaniu tzv. Neskoroskýtskej kultúry. Skýti postupne prechádzali na usadlý spôsob života, čo bolo spojené so zakladaním sídlisk a miest. Celé nové zoskupenie je však poznačené silným etnickým premiešaním. Väčšina Skýtov sa presunula na územie v údolí rieky Dneper, na Krym a malá časť zostala v už spomínanej Dobrudži. V Malej Skýtii (Dobrudža) môžeme posledný „výdych“ Skýtov zaznamenať okolo 1. storočia pred Kr. Na Kryme sa udržiavala Neskoroskýtska kultúra podľa niektorých bádateľov až do 3. storočia po Kr. Na príčiny jej vzniku sú rôzne pohľady. Opäť môžeme hovoriť o dvoch hlavných teóriach. Starší názor v Neskoroskýtskej kultúre vidí genetické naviazanie na predchádzajúcu kultúru kráľovských Skýtov. V tejto súvislosti sa potom stretávame s rozličnými vysvetleniami, prečo došlo u nich k usadlému spôsobu života a prečo prestala existovať tzv. Veľká Skýtia. Mnohé z týchto teórií rátajú s tlakom im blízkych iránskych kmeňov Sarmatov. Nárast ich materiálnej kultúry na predchádzajúcom území Skýtov tomu nasvedčuje. Istá časť bádateľov sa domnieva, že došlo možno aj ku klimatickej zmene, ktorá donútila časť z nich presťahovať sa do teplejších a úrodnejších oblastí. Druhý názor presadzuje myšlienku, že neexistuje napojenie Neskoroskýtskej kultúry na kultúru Veľkej Skýtie. Materiálna kultúra neobsahuje znaky a rysy klasickej skýtskej kultúry. Druhá teória vychádza z najnovších výskumov oblasti Krymu a v súčasnosti rady jej zástancov pribúdajú. Či si vyberieme jednu, alebo druhú, faktom zostáva to, že Skýti už od tretieho storočia strácajú svoju moc a postupom času došlo k ich asimilácii."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Písomné pamiatky o Skýtoch"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Písomné správy referujúce o Skýtoch môžeme rozdeliť do troch skupín. Sú to klinopisom písané tabuľky z Predného východu, svedectvá antických autorov a epigrafické pamiatky z gréckych kolónií na pobreží Čierneho mora. Na tomto mieste treba upozorniť na jazykovú príslušnosť Skýtov. Zaraďujú sa do indo-iránskej dialektovej jazykovej skupiny, bez literárnych pamiatok. Ako príklad sa uvádzajú dochované mená skýtskych panovníkov v dielach antických autorov a mená skýtskych úradníkov nachádzajúce sa na dekrétoch z hore uvedených antických čiernomorských miest. Množstvo informácií o Skýtoch zaznamenali práve antickí autori. Tí toho o Skýtoch napísali naozaj mnoho a informácie od nich sú rôznorodého charakteru. Po prvýkrát sa vyskytujú v antickej spisbe u Hesioda. Pochádza od neho fragment, v ktorom o nich píše ako o Skýtoch, ktorí pijú konské mlieko."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Za najdôležitejší a najvýznamnejší prameň ku Skýtom môžeme považovať Herodotovu štvrtú knihu z jeho diela Dejiny. Hoci po ňom sa o nich zmienili mnohí iní autori, väčšina mladších autorov takmer vždy čerpala z jeho informácií. Herodotos uvádza najprv stručnú históriu Skýtov, opisuje tri rôzne genealogické legendy, uvádza geografickú polohu Skýtie, rôznorodé skýtske a neskýtske kmene, zaujímavosťou je aj charakteristika skýtskych náboženských rituálov a ich panteón v porovnaní s gréckym. Súčasťou štvrtej knihy je výprava perzského kráľa Dareia proti Skýtom v roku 513 – 512 pred Kr. Jednotlivé svedectvá Herodota boli podrobené mnohými bádateľmi hlbšej analýze a porovnaniu so skutočnosťou."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Čo nezachytil Herodotos, doplnil známy antický lekár Hippokratés, konkrétne v diele O pôvode Peri aeron, hydaton, topon (O vzduchu, vode a miestach). Píše napríklad o tom, že bohaté skýtske ženy často trpeli obezitou, muži neplodnosťou a pod."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "K významným antickým autorom, ktorí sa zmieňujú širšie o „Skýtoch“, patria napríklad grécky geograf Strabón, Diodoros Sicílsky, Lukianos, Arrianos, Plínius Starší, Ovídius a iní. Títo autori však patria poväčšine do obdobia 1. storočia pred Kr. – 2. storočia po Kr. Čerpajú zväčša z Herodota, alebo iných predošlých prác. Občasne prinášajú aj nové autentické správy z oblasti Čiernomoria. Po úpadku Veľkej Skýtie začína do popredia vystupovať v literatúre nový fenomén. Skýti spĺňajú funkciu akéhokoľvek nomádskeho kmeňa v oblasti Čiernomoria. Mnohokrát nedokážeme určiť, či autor skutočne myslí historických Skýtov, alebo iné nomádske etnikum."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Záver"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "O Skýtoch a rôznych aspektoch ich histórie, archeológie, či umenia existuje veľké množstvo monografií, štúdií, správ, katalógov, alebo len krátkych článkov tomuto príspevku. Variabilita tém svedčí o neustálom záujme zo strany bádateľov rôznych smerov. K najväčším odborníkom na ich problematiku patria ruskí a ukrajinskí bádatelia. Nakoniec, územie kráľovských Skýtov sa nachádzalo práve v oblasti bývalého Sovietskeho zväzu. Pre mnohých západných a stredoeurópskych bádateľov je táto téma svojím spôsobom „exotická“. Dôkazom sú napríklad aj preklady originálnych ruských kníh do angličtiny, či nemčiny. Pokiaľ Vás téma zaujala, stačí navštíviť najbližšiu knižnicu, kde si môžete o celej problematike naštudovať viac."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Vysvetlenia k jednotlivým pojmom"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Skýtska Triáda"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kľúčovú úlohu pri doložení kultúry s podobnými znakmi na východe, aj v neskoršej európskej Skýtii, zohralo určenie rovnakých elementov. Ide o tri charakteristické črty kultúry Skýtov, prítomné v kurhanoch, poprípade na sídliskách v severnom Čiernomorí, ako aj ďaleko v stepiach v Eurázii. Je to konský postroj, výzbroj (akinakes, goryt, trojboké strelky a pod.*) a skýtsky zvierací štýl. Termín po prvýkrát použili a stanovili v 50. rokoch 20. storočia dvaja ruskí archeológovia – A.I. Meľjukova a B.N. Grakov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Zvierací štýl"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Je umelecký štýl, ktorý charakterizuje Skýtov a patrí do skýtskej triády. Prešiel niekoľkými vývojovými etapami. Na začiatku odrážalo ich umenie cítenie stepných nomádov v Ázii, ktoré bolo zoomorfné. Neskoršie pri výbojoch do Malej Ázie bolo inšpirované orientálnymi motívmi, akými sú sfingy, strom života, škorpión a pod. Po príchode do oblasti Čiernomoria do ich pôvodných predstáv zasiahli grécki umeleckí majstri, ktorí obohatili tento štýl o antropomorfné figúry. Jednotlivé fázy vývoja je možné sledovať na nálezoch z kurhanov a iných pamiatkach."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Krátka charakteristika zrubovej kultúry"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zrubová kultúra dostala názov podľa spôsobu pochovávania mŕtvych v drevených komorách – v zruboch. Nositelia tejto kultúry boli polonomádi s chovom koní a pokročilou metalurgiou (našlo sa veľké množstvo krátkych mečov, kindžálov, sekier, nožov a i.)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Krátka charakteristika katakombovej kultúry"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kultúra staršej doby bronzovej v oblasti severného Pričiernomoria a Kaukazu, datovaná 3000 – 2200 pred Kr. Keďže územie jej rozšírenia bolo veľké, vytvorili sa v rámci nej aj rôzne regionálne varianty. Pomenovanie dostala podľa špecifického pohrebného rítu. Pod navŕšenou mohylou boli jedinci pochovaní v katakombách. Obvykle bol mŕtvy vo vystretej polohe na pravom boku, v jeho blízkosti sa nachádzali hrobové dary v podobe zbraní z rôznych kovov – sekerky, strelky, nože, ale aj okrasy tela (prstene) a keramické výrobky. Zaujímavosťou sú občasné nálezy vozov v hroboch."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Kurhan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V ruskej literatúre označovaný aj ako Kurgan. Je to alternatívne pomenovanie pre mohylu, alebo tumulus. V prípade kultúry Skýtov sa používa najčastejšie označenie kurhan. Je to väčší umelý násyp z hliny, niekedy v kombinácii s kameňom, navŕšený nad kostrovým, prípadne žiarovým hrobom, alebo nad viacerými hrobmi. V mohyle sa zvyčajne rozlišuje ústredný hrob, niekedy v osobitne vybudovanej komore (často vykradnutej), a vedľajšie hroby, ktoré mali v jednotlivých obdobiach rozdielny význam. Miesto, na ktorom sa vyskytujú mohyly, sa nazýva mohylník."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcw5ZC1pyR1LCgYurJg5Q5ggbJbhJgwpEfDci266kl2XUuYVZ-Rt0f_FJgDXp4yBC9yhyphenhyphenWACnQx0AgaiOBi0K_XT1LxSIRW5tfgcqkESSSuUUNv3MvLNcEzUcqF3NGFGZ3D6JgEw3hFAg/s0/blog_sy_4395968_6387593_tr_silbury_hill3.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcw5ZC1pyR1LCgYurJg5Q5ggbJbhJgwpEfDci266kl2XUuYVZ-Rt0f_FJgDXp4yBC9yhyphenhyphenWACnQx0AgaiOBi0K_XT1LxSIRW5tfgcqkESSSuUUNv3MvLNcEzUcqF3NGFGZ3D6JgEw3hFAg/s1600/blog_sy_4395968_6387593_tr_silbury_hill3.jpg",
+          "filename": "blog_sy_4395968_6387593_tr_silbury_hill3.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcw5ZC1pyR1LCgYurJg5Q5ggbJbhJgwpEfDci266kl2XUuYVZ-Rt0f_FJgDXp4yBC9yhyphenhyphenWACnQx0AgaiOBi0K_XT1LxSIRW5tfgcqkESSSuUUNv3MvLNcEzUcqF3NGFGZ3D6JgEw3hFAg/s1600/blog_sy_4395968_6387593_tr_silbury_hill3.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 195,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "A. Námerová: Stepné pyramídy na Ukrajine",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Goryt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Je špeciálny tulec, rozdelený na dve časti, do ktorých sa odkladali luk a šípy. Nosil sa zavesený na opasku. Na obrázku hore zlatý Goryt z centrálneho hrobu z kurhanu Čertomlyk zo 4. storočia pred Kr. Vyrobili ho na objednávku grécki remeselníci."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Akinakes",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "(Gr. ἀκινάκης) – krátky (40 – 60 cm) meč. Používali ho Skýti, ale bol obľúbený aj u iných iránskych spoločenstiev, ako napríklad Sakov, Peržanov, alebo Masagetov. Prostredníctvom Skýtov sa dostal do oblasti Pričiernomoria, ale ich nálezy dokumentujeme aj v ázijskej oblasti. Na obrázku meč v zlatom puzdre zo skýtskeho kurhanu zo 4. storočia pred Kr. Velikaja Belozerka."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Autor: Mgr. Andrea Námerová, PhD"
+      }
+    ]
+  }
+}

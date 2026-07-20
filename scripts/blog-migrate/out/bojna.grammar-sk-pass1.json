@@ -1,0 +1,45 @@
+{
+  "slug": "bojna-vyznamne-velkomoravske-centrum",
+  "note": "grammar-sk agent, prvý prechod. Najväčší z 22 spracovaných článkov v tejto session (82 -> 83 blokov), viacero embedov (video) zachovaných netknutých.",
+  "criticalFixes": [
+    { "issue": "Blok 23 mal zlepený medzititulok 'Kruhové plakety' na konci odseku.", "fix": "Vyčlenený ako samostatný blok pred blokom 24 ('Plaketa 1')." },
+    { "issue": "Blok 8 začína osirotenou vetou (' z roku 2008, sa v strednej časti vnútorného areálu hradiska odkryli...') bez akéhokoľvek podmetu/úvodu — pravdepodobne stratený text pri extrakcii okolo obrázka v bloku 7.", "fix": "NEDOPĹŇANÉ (nemám dosť istoty na rekonštrukciu chýbajúcej časti vety), iba orezaná úvodná medzera a nahlásené ako flag." },
+    { "issue": "Blok 72 (rozsiahly priamy citát K. Pietu uvedený v bloku 71) nebol na konci uzavretý úvodzovkou.", "fix": "Doplnená chýbajúca uzatváracia úvodzovka na konci bloku 72 (typografická oprava, netýka sa slov citátu)." }
+  ],
+  "appliedFixes": [
+    { "rule": "B typografia (medzery, pomlčka)", "before": "vo výške 390-430 m.n.m.", "after": "vo výške 390 – 430 m n. m.", "block": 0 },
+    { "rule": "A8 preklep + spelling", "before": "výsledkami monntálnej archeológie ... nie len hradisko", "after": "výsledkami montánnej archeológie ... nielen hradisko", "block": 2 },
+    { "rule": "A7 bohemizmus + A9 malé písmeno + B pomlčka", "before": "činí skoro 14 ha ... 3-5 m ... 10m ... sa mohlo jednať ... Slovanský kmeň ... mýtnej stanice - každý (predovšetkým kupci) kto chcel", "after": "dosahuje skoro 14 ha ... 3 – 5 m ... 10 m ... mohlo ísť ... slovanský kmeň ... mýtnej stanice — každý (predovšetkým kupci), kto chcel", "block": 6 },
+    { "rule": "A1 čiarky pri vsuvke, B pomlčka, A8 kedy->keď, MISSING_WORD predložka", "before": "podľa Karola Pietu, jeden z trámov, ktorý tvoril okraj komory hradby bol ... 894 - tzn. ... kedy zomrel ... Keďže zánikovej vrstve sa", "after": "podľa Karola Pietu jeden z trámov, ktorý tvoril okraj komory hradby, bol ... 894 — tzn. ... keď zomrel ... Keďže v zánikovej vrstve sa", "block": 11 },
+    { "rule": "B typografia (spojovník bez medzery)", "before": "blatnicko- mikulčického", "after": "blatnicko-mikulčického", "block": 14 },
+    { "rule": "A4 pád", "before": "tvar rovnoramenného krížu", "after": "tvar rovnoramenného kríža", "block": 17 },
+    { "rule": "B typografia (medzery, násobenie)", "before": "na300x600x300 (mm)", "after": "na 300 × 600 × 300 (mm)", "block": 20 },
+    { "rule": "B typografia", "before": "780 a 820 n.l.", "after": "780 a 820 n. l.", "block": 22 },
+    { "rule": "štrukturálne", "before": "Kruhové plakety (zlepené na konci bloku 23)", "after": "vyčlenené ako samostatný blok", "block": 23 },
+    { "rule": "chýbajúca bodka + A7 bohemizmus + skratka bez bodky", "before": "SVAVM Pravdepodobne sa jedná o Krista ... tzv Christus-Engel", "after": "SVAVM. Pravdepodobne ide o Krista ... tzv. Christus-Engel", "block": 25 },
+    { "rule": "B typografia (caption/alt, 255-znakový limit alt poľa)", "before": "caption aj alt boli identické, dlhé; alt bol tichoorezaný na 255 znakov (MIGRATION.md §9.11)", "after": "caption ponechaný plný (opravená čiarka pred 'ktoré', 'K.Pieta'->'K. Pieta', 'Eur'->'eur'), alt skrátený na samostatný stručný text pod limitom", "block": 26 },
+    { "rule": "duplicitné slovo + A4 zhoda rodu + euphónia s/so", "before": "predmet v v tvare ... Táto osoba by mohol byť ... s zvončekom", "after": "predmet v tvare ... Táto osoba by mohla byť ... so zvončekom", "block": 28 },
+    { "rule": "B typografia (rozsahy)", "before": "19- 20 mm a priemerom 190-192 mm", "after": "19 – 20 mm a priemerom 190 – 192 mm", "block": 38 },
+    { "rule": "B typografia (medzery, rozsah)", "before": "2-6 mm ... 2180g. ... 200g.", "after": "2 – 6 mm ... 2180 g. ... 200 g.", "block": 40 },
+    { "rule": "B typografia (pomlčka, chýbajúca bodka)", "before": "Oldenburg- srdce ... tohto zvona) Talianske ... Pribinu - či ... Mojmíra zatiaľ", "after": "Oldenburg — srdce ... tohto zvona). Talianske ... Pribinu — či ... Mojmíra, zatiaľ", "block": 42 },
+    { "rule": "chýbajúca medzera + D globálny slovník + A1 čiarka", "before": "stavby( rotundy ... aquilejských misionárov ... oblasti čím sa otvorila", "after": "stavby (rotundy ... akvilejských misionárov ... oblasti, čím sa otvorila", "block": 46, "note": "'aquilejských' zjednotené s timeline (id 3194), ktoré malo už 'akvilejským'" },
+    { "rule": "A1 nadbytočná čiarka", "before": "Preto je, možné že obe nákončia", "after": "Preto je možné, že obe nákončia", "block": 48 },
+    { "rule": "A8 preklep", "before": "tieto premety ukazujú", "after": "tieto predmety ukazujú", "block": 50 },
+    { "rule": "medzery, nadbytočná čiarka, chýbajúca bodka", "before": "kosákov ( zaoblený ... kovania, a botka ... dve bronzové závažia", "after": "kosákov (zaoblený ... kovania a botka ... dve bronzové závažia.", "block": 51 },
+    { "rule": "B pomlčka + A7 bohemizmus + preklep + úvodzovka + chýbajúca bodka", "before": "I. -Valy ... nejedná sa iba ... Archeologického ústav ... zachovať“ Predpokladá,", "after": "I. – Valy ... nejde iba ... Archeologického ústavu ... zachovať\". Predpokladá,", "block": 53 },
+    { "rule": "B typografia (viacnásobné pomlčky, rozsahy, OCR line-break preklep, chýbajúca medzera po bodke)", "before": "miesta - strmé zrázy ... 25-30 m ... 3-3,5 m ... vchodu - smerom ... za-táča ... predhradie.V bode", "after": "miesta — strmé zrázy ... 25 – 30 m ... 3 – 3,5 m ... vchodu — smerom ... zatáča ... predhradie. V bode", "block": 63, "note": "vnútri priameho citátu K. Pietu — menená len typografia (pomlčky/medzery), nie slová" },
+    { "rule": "A8 kedy->keď, B pomlčka, chýbajúca medzera po bodke", "before": "dobe, kedy na území ... sídlisko - refúgium ... Nitry.V Bojnej", "after": "dobe, keď na území ... sídlisko — refúgium ... Nitry. V Bojnej", "block": 65 },
+    { "rule": "OCR line-break preklep + B pomlčka", "before": "razbou Valentiniá-na I. ... opaskov - pracky", "after": "razbou Valentiniána I. ... opaskov — pracky", "block": 67 },
+    { "rule": "B pomlčka (atribúcia)", "before": "(autor - Ľubomír Červený)", "after": "(autor — Ľubomír Červený)", "block": "69, 74" },
+    { "rule": "B typografia (medzera pred bodkočiarkou)", "before": "s. ; TASR", "after": "s.; TASR", "block": 77 },
+    { "rule": "Sources: chýbajúce medzery, nekonzistentný pravopis, preklep priezviska", "before": "M .:2006 ... 2007 ,Bojná ... Ruttkayiová.: ... kniežactva vs. kniežatstva", "after": "M.: 2006 ... 2007, Bojná ... Ruttkayová: ... zjednotené na 'kniežatstva'", "block": "sources" }
+  ],
+  "reviewed_no_change": [
+    "3 veľké priame citáty (bloky 55+57+59, 63-67, 72, 78) z tlačových správ a odborných publikácií K. Pietu — NEPREVEDENÉ na content.quote-block, keďže ide o modernú literatúru/web (2007-2011), nie dobový prameň — pozri memory 'quote-only-period-source' (quote-block je vyhradený len pre kroniky/listiny).",
+    "Vnorené úvodzovky „...“ (curly-curly) v citátoch novinárskych rozhovorov (bloky 57, 59) ponechané odlišné od house-style „...\" — ide o zámerné odlíšenie vnorenej úvodzovky od vonkajšej rovnej \"...\", typograficky zmysluplné, nie chyba.",
+    "'nepoznáme, okrem tohto prípadu, dve ani len podobné predmety' (blok 48) — neobvyklý slovosled, ale nie jasná chyba podľa žiadneho konkrétneho pravidla, ponechané."
+  ],
+  "flags": [
+    "Blok 8 začína osirotenou vetou bez podmetu/úvodu ('z roku 2008, sa v strednej časti vnútorného areálu hradiska odkryli...') — pravdepodobne stratený text okolo obrázka v bloku 7 pri extrakcii z pôvodného webu. Nedopĺňané bez overenia zdroja."
+  ]
+}

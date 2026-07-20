@@ -1,0 +1,19 @@
+{
+  "slug": "zvolen-motova-hradok-priekopa",
+  "note": "grammar-sk pass 2 — cross-field konzistencia (§21.4), s osobitným dôrazom na chránený tvar 'Zvolen-Môťová' (explicitná požiadavka používateľa, protected-terms.json).",
+  "crossFieldChecked": ["excerpt", "keyFacts[]", "timeline[]", "title", "tags", "location.name", "media captions/alt", "content.sources", "citations"],
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "D chránený názov 'Zvolen-Môťová' zjednotený naprieč title/tags/location/alt", "field": "title, tags[0], location.name, alt bloku 30, alt+caption bloku 15 (2×)", "before": "Zvolen - Môťová (medzerovaná pomlčka) / Motova (bez diakritiky)", "after": "Zvolen-Môťová / Môťová", "note": "location.name výnimočne zahrnuté do rozsahu napriek tomu, že pole 'location' nie je v štandardnom zozname §21.4 — explicitná požiadavka používateľa pre tento konkrétny článok mala prednosť." },
+    { "rule": "D cross-field (× vs x, tisícový oddeľovač — telo aj keyFacts mali rovnaký chýbajúci oddeľovač)", "field": "keyFacts[1].value (Rozmery)", "before": "výmera 9891 m², plocha valu 1886 m²", "after": "výmera 9 891 m², plocha valu 1 886 m²" },
+    { "rule": "D cross-field propagácia (rovnaká veta v tele aj excerpte)", "field": "excerpt", "before": "ktorí ako prví popísali hrádok Priekopa vo Zvolene, časti Môťová a Š. Janšák ho geodeticky zameral.", "after": "ktorí ako prví opísali hrádok Priekopa vo Zvolene-Môťovej; Š. Janšák ho navyše geodeticky zameral." }
+  ],
+  "reviewed_no_change": [
+    "timeline[] — všetkých 8 položiek prekontrolovaných proti opravenému telu; roky, pomlčky (–), 'keď/kedy', chránený názov Zvolen-Môťová aj termín 'rómska osada' (timeline nespomína 'cigánsku' variantu) — všetko už bolo v cieľovom tvare, žiadna ďalšia zmena potrebná.",
+    "keyFacts[] — okrem keyFacts[1] (opravené) zvyšných 6 položiek bez nálezu; keyFacts[2] 'biotitické granolity' bolo už v cieľovom tvare (slúžilo ako referencia pre opravu tela 'biolitických' -> 'biotitických').",
+    "content.sources / citations — mimo mechanickej opravy medzery pred dvojbodkou ('Mácelová:') žiadny ďalší gramatický nález; štrukturálna otázka zlepenej bibliografie ponechaná ako flag z pass 1."
+  ],
+  "flags": [],
+  "uploadReady": true,
+  "verifiedJsonValid": true
+}

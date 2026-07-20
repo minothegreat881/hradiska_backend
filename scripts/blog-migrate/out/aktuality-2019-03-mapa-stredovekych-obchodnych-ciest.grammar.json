@@ -1,0 +1,23 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Mapa stredovekých obchodných ciest' (2019-03). FLAG [0]: 'vytvoril a na stránke Merchant machine zaujímavú mapu' — chýba sloveso (MISSING_WORD, §21.6 nedopĺňam).",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "v 11. a 12. storočí, ktoré sú k dispozícii",
+      "after": "v 11. a 12. storočí, ktorá je k dispozícii",
+      "reason": "zhoda s 'mapa' (f. sg.): ktorá je (A3)"
+    },
+    {
+      "hint": 0,
+      "before": "Škoda že sú v nej",
+      "after": "Škoda, že sú v nej",
+      "reason": "čiarka pred že (A1)"
+    },
+    {
+      "hint": 0,
+      "before": "Myslím však že stojí",
+      "after": "Myslím však, že stojí",
+      "reason": "čiarka pred že (A1)"
+    }
+  ]
+}

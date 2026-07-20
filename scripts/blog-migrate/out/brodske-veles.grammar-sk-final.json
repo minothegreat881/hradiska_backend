@@ -1,0 +1,15 @@
+{
+  "slug": "brodske-veles",
+  "note": "grammar-sk pass1 aplikovaný priamo + pass2 cross-field konzistencia. Editované priamo v out/brodske-veles.intermediate.json. Regresný test §21.8 splnený (duplicitná poznámka [1]: preklep 'všasnoslovanskom' nájdený a opravený vo všetkých kópiách).",
+  "step2_crossfield_checks": [
+    { "field": "keyFacts[]", "result": "1 nález opravený súbežne s telom a timeline: 'Opevnenie' malo 'obkolesené' → 'obklopené'." },
+    { "field": "timeline[]", "result": "2 nálezy: položka 'okolo r. 1970' mala rovnaké 'obkolesené' → 'obklopené'; položka '1163' mala nesprávnu zatváraciu úvodzovku (U+201C namiesto štandardného tvaru) — opravená súbežne s telom." },
+    { "field": "excerpt", "result": "Zhodná s telom blok 0, ktorý nemal žiadnu chybu — bez zmeny." },
+    { "field": "content.sources / citations[] (poznámky pod čiarou zrkadlené z tela)", "result": "Toto bol hlavný nález článku (regresný test): 3 nezávislé nezhody medzi telom (poznámkový blok 8) a jeho zrkadlenou kópiou v content.sources.items + citations[] — (1) preklep 'všasnoslovanskom' vs. správne 'včasnoslovanskom' [POTVRDENÝ REGRESNÝ PRÍPAD], (2) chýbajúca medzera 'In:Archælogia' + nesprávny variant mena časopisu 'Archælogia' namiesto 'Archaeologia' podľa globálneho slovníka, (3) priezvisko 'VARSIK' bez dĺžňa namiesto 'VARSÍK'. Všetky 3 opravené v OBOCH kópiách (telo aj sources/citations), takže teraz sú byte-zhodné." },
+    { "field": "title, tags, authorName", "result": "title a tags ponechané nedotknuté ('Brodské - Veleš', plain hyphen konvencia). authorName opravené 'Orgon' → 'Pavol Vrablec' (explicitná autorská atribúcia v tele, §21.10 vzor)." }
+  ],
+  "step2_scan_result": "Plný sken tela + keyFacts + timeline + excerpt + tags + title na rímske číslice (ponechané len v bibliografických zväzkových číslach, správne), číselné rozsahy na spojovník (žiadne nové nálezy nad rámec už opravených storočí), bohemizmy (2 nálezy: obkolesený, spoje), diakritiku (2 nálezy: dvomi→dvoma, Varsík), nemecké/nesprávne úvodzovky (2 kópie tej istej chyby), medzery okolo interpunkcie (2 nálezy: 'časť :', 'In:Arch...'). Osobitne skontrolovaná duplicitná štruktúra poznámky/zdroja (8 footnote blokov v tele ↔ 8 + 2 položiek v sources/citations) — všetky páry teraz byte-zhodné okrem legitímnych stavových rozdielov (žiadne).",
+  "flags_unresolved": [],
+  "protected_zone_verification": "Jediný kandidát na chránenú zónu — legenda o sv. Cyrilovi a Metodovi prevzatá z webu TIK Gbely (blok 14, italic:true, uvedená dvojbodkovým triggerom) — bola vedome NEKONVERTOVANÁ na content.quote-block, pretože ide o modernú webstránku, nie dobový prameň (memory: quote-block iba pre kroniky/listiny). Text bol napriek formálnemu spusteniu is_protected() detektora skontrolovaný na gramatiku ako bežný text (bezpečné, keďže nešlo o skutočný historický prameň s archaickou slovenčinou) — 0 zmien slov potrebných, text bol už bezchybný. Krátky vložený priamy citát Konštantína Palkoviča ('Fara a kostol...') ponechaný bez zmeny slov, opravená len typografia uzatváracej úvodzovky (mechanická oprava, nie pravopisná).",
+  "upload_ready": true
+}

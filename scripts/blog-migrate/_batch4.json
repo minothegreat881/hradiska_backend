@@ -1,0 +1,39 @@
+[
+ {"fb":"aktuality-2016-01-vysiel-nas-zbornik-o-hradiskach","note":"grammar-sk v7 §21 — 'VYŠIEL NÁŠ ZBORNÍK O HRADISKÁCH' (2016-01).","titleBefore":"VYŠIEL NÁŠ ZBORNÍK O HRADISKÁCH !!!","titleAfter":"VYŠIEL NÁŠ ZBORNÍK O HRADISKÁCH!!!","corrections":[
+   {"hint":0,"before":"\"Hradiská","after":"„Hradiská","reason":"otváracia úvodzovka (B)"},
+   {"hint":0,"before":"dávnych čias\"","after":"dávnych čias“","reason":"zatváracia úvodzovka (B)"},
+   {"hint":0,"before":"Hradiská - Svedkovia","after":"Hradiská – Svedkovia","reason":"spojovník → en dash (B)"}
+ ]},
+ {"fb":"aktuality-2016-02-darujte-nam-2-z-dane","note":"grammar-sk v7 §21 — 'Darujte nám 2% z dane' (2016-02).","corrections":[
+   {"hint":0,"before":"tvorbe informačných tabulí","after":"tvorbe informačných tabúľ","reason":"genitív pl. tabúľ, diakritika (A8)"},
+   {"hint":0,"before":"Ďakujeme !!!","after":"Ďakujeme!!!","reason":"medzera pred interpunkciou (B)"}
+ ]},
+ {"fb":"aktuality-2016-08-ohlasit-archeologicky-nalez","note":"grammar-sk v7 §21 — 'Ohlásiť archeologický nález sa oplatí' (2016-08). FLAG: blok [25] = sploštená tabuľka nálezného (štrukturálny extrakčný artefakt) — na ručnú úpravu.","corrections":[
+   {"hint":1,"before":"Bohužiaľ mnoho nálezov","after":"Bohužiaľ, mnoho nálezov","reason":"čiarka po vsuvke (A1)"},
+   {"hint":13,"before":"z pokladu nájdenom v Bratislave","after":"z pokladu nájdeného v Bratislave","reason":"zhoda/pád nájdeného (A4)"},
+   {"hint":15,"before":"odovzdaní 1732 mincí","after":"odovzdaní 1 732 mincí","reason":"oddeľovač tisícov (B)"}
+ ]},
+ {"fb":"aktuality-2016-09-zrekonstruovali-ukradnutu-prilbu-z","note":"grammar-sk v7 §21 — 'Zrekonštruovali ukradnutú prilbu z Bojnej' (2016-09).","corrections":[
+   {"hint":0,"before":"Nakoľko ju predával","after":"Keďže ju predával","reason":"bohemizmus nakoľko→keďže (A7)"},
+   {"hint":0,"before":"doslova \"zľahla zem\"","after":"doslova „zľahla zem“","reason":"slovenské úvodzovky (B)"},
+   {"hint":2,"before":"Snáď sa niekedy podarí","after":"Azda sa niekedy podarí","reason":"bohemizmus snáď→azda (A7)"},
+   {"hint":2,"before":"zbierke na \"západe\"","after":"zbierke na „západe“","reason":"slovenské úvodzovky (B)"}
+ ]},
+ {"fb":"aktuality-2016-12-bojna-v-zime","note":"grammar-sk v7 §21 — 'Bojná v zime' (2016-12).","corrections":[
+   {"hint":0,"before":"Dúfam že Vás potešili","after":"Dúfam, že Vás potešili","reason":"čiarka pred že (A1)"}
+ ]},
+ {"fb":"aktuality-2016-12-pekne-sviatky","note":"grammar-sk v7 §21 — 'Pekné sviatky' (2016-12). Bez textu (len obrázok) → 0 opráv.","corrections":[]},
+ {"fb":"aktuality-2017-01-hladajte-na-hradiskach-poklady","note":"grammar-sk v7 §21 — 'Hľadajte na hradiskách poklady' (2017-01). FLAG: blok [17] = sploštený zoznam lokalít bez zalomení (zlepené slová) — na ručnú úpravu.","titleBefore":"Hľadajte na hradiskách poklady !!! ","titleAfter":"Hľadajte na hradiskách poklady!!!","corrections":[
+   {"hint":0,"before":"s detektromi kovov","after":"s detektormi kovov","reason":"preklep detektromi→detektormi (A8)"},
+   {"hint":1,"before":"Avšak málo kto vie","after":"Avšak málokto vie","reason":"málo kto→málokto (A8)"},
+   {"hint":1,"before":"drobných \"pokladov\"","after":"drobných „pokladov“","reason":"slovenské úvodzovky (B)"}
+ ]},
+ {"fb":"aktuality-2017-02-ak-ste-sa-este-nerozhodli-komu-venujete","note":"grammar-sk v7 §21 — '2% pre Hradiská' (2017-02). Čistý text → 0 opráv.","corrections":[]},
+ {"fb":"aktuality-2017-06-ako-zbierat-starozitnosti-19-storocie","note":"grammar-sk v7 §21 — 'Ako zbierať starožitnosti' (2017-06). Text brožúrky Kmeť 1904 je v obrázkoch; opravená len autorova SK vsuvka.","titleBefore":"Ako zbierať starožitnosti ","titleAfter":"Ako zbierať starožitnosti","corrections":[
+   {"hint":0,"before":"náhodne, alebo zámerne","after":"náhodne alebo zámerne","reason":"nadbytočná čiarka pred alebo (rovnorodé členy) (A1)"}
+ ]},
+ {"fb":"aktuality-2017-06-patdesiate-vyrocie-umrtia-antona","note":"grammar-sk v7 §21 — 'Päťdesiate výročie úmrtia A. Petrovského-Šichmana' (2017-06). Verbatim reprodukovaný odborný článok Z. Stanekovej (2017) so súhlasom autorky — dobové citáty a jej text CHRÁNENÉ (§21.3/§21.6); opravené len naše extrakčné artefakty.","corrections":[
+   {"hint":1,"before":"Petrovského-ŠichmanaS menom","after":"Petrovského-Šichmana. S menom","reason":"zlepený nadpis+veta (extrakčný artefakt, B)"},
+   {"hint":36,"before":"zo stránky AU SAV","after":"zo stránky AÚ SAV","reason":"AÚ SAV diakritika (A8/§21.4)"}
+ ]}
+]

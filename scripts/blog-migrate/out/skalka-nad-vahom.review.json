@@ -1,0 +1,79 @@
+{
+  "slug": "skalka-nad-vahom",
+  "flags": [
+    {
+      "type": "MISSING_WORD",
+      "block": "blocks[37].body[0]",
+      "text": "V priebehu prvých troch chronologických úsekov (staršia doba bronzová, neskorá doba laténska, staršia doba rímska) bol areál využívaný ako opevnené výšinné sídlisko. Skalka vďaka svojej polohe a vzhľadom na blízkosť centrálneho hradiska na trenčianskom hrade, vojensko-strážne a refugiálne využitie, doplnené prípadne o povinnosť ochrany jednej z cestných trás smerujúcich k horskému priesmyku.",
+      "note": "Druhá veta nemá plnovýznamové sloveso spájajúce podmet „Skalka\" s predmetom „vojensko-strážne a refugiálne využitie\" (chýba napr. „mala\"/„získala\"). Neopravené — vyžaduje ľudské rozhodnutie o chýbajúcom slovese, nie je isté, čo presne autor zamýšľal."
+    },
+    {
+      "type": "SELF_CONTRADICTION_OR_MISSING_WORD",
+      "block": "blocks[15].body[0]",
+      "text": "Zánik neskorolaténskej fortifikácie mohutným požiarom vo včasnej dobe rímskej možno spojiť s príchodom Germánov a rovnakým spôsobom postihli viaceré opevnené útvary ľudu púchovskej kultúry.",
+      "note": "Plurálové sloveso „postihli\" nemá jasný gramatický podmet — „príchodom Germánov\" je v inštrumentáli (nemôže byť podmetom), predchádzajúce „požiarom\" je v singulári. Možno chýba vzťažné zámeno „ktorí\" (Germánov, ktorí rovnakým spôsobom postihli...). Neopravené, nechané na ľudské rozhodnutie."
+    }
+  ],
+  "crossFieldPropagation": [
+    {
+      "field": "keyFacts[0].value (Poloha)",
+      "before": "ostrožný výbežok „Chochel\\\"",
+      "after": "ostrožný výbežok „Chochel“",
+      "reason": "Rovnaká typografická oprava úvodzoviek ako v blocks[0]. NEAPLIKOVANÉ na intermediate.json (keyFacts mimo povoleného rozsahu tejto session) — zdokumentované pre budúci re-upload."
+    },
+    {
+      "field": "keyFacts[1].value (Rozmery hradiska)",
+      "before": "šírka 23-39 m",
+      "after": "šírka 23 – 39 m",
+      "reason": "Rovnaká oprava ako blocks[1]. NEAPLIKOVANÉ."
+    },
+    {
+      "field": "keyFacts[3].value (Ľudová tradícia)",
+      "before": "„Venušin chrám\\\"",
+      "after": "„Venušin chrám“",
+      "reason": "Typografia úvodzoviek. NEAPLIKOVANÉ."
+    },
+    {
+      "field": "keyFacts[4].value (Sakrálny objekt)",
+      "before": "5,3 x 5,4-5,6 m",
+      "after": "5,3 × 5,4 – 5,6 m",
+      "reason": "Rovnaká oprava ako blocks[22]. NEAPLIKOVANÉ."
+    },
+    {
+      "field": "keyFacts[7].value (Archeologický výskum)",
+      "before": "Prvé výkopy 1889-1890",
+      "after": "Prvé výkopy 1889 – 1890",
+      "reason": "Rovnaká oprava ako blocks[2]. NEAPLIKOVANÉ."
+    },
+    {
+      "field": "timeline[0].year",
+      "before": "1889-1890",
+      "after": "1889 – 1890",
+      "reason": "Rovnaká oprava. NEAPLIKOVANÉ."
+    },
+    {
+      "field": "timeline[9].year",
+      "before": "9.-10. storočie",
+      "after": "9. – 10. storočie",
+      "reason": "Storočný rozsah, rovnaké pravidlo ako v tele. NEAPLIKOVANÉ."
+    },
+    {
+      "field": "timeline[10].year",
+      "before": "11.-12. storočie",
+      "after": "11. – 12. storočie",
+      "reason": "Storočný rozsah. NEAPLIKOVANÉ."
+    },
+    {
+      "field": "timeline[6].year",
+      "before": "Koniec neskorej doby laténskej / včasná doba rímsk",
+      "after": "Koniec neskorej doby laténskej / včasná doba rímska",
+      "reason": "Uťaté slovo (chýba koncovka „-a\"), pravdepodobne chyba pri extrakcii/zápise. NEAPLIKOVANÉ (mimo rozsahu), zaznamenané pre opravu pri budúcom re-uploade."
+    },
+    {
+      "field": "location.name",
+      "before": "Skalka Nad Váhom",
+      "after": "Skalka nad Váhom",
+      "reason": "Rovnaká oprava ako title/tags/alt (A9, predložka v zemepisnom názve malým). NEAPLIKOVANÉ (mimo rozsahu)."
+    }
+  ]
+}

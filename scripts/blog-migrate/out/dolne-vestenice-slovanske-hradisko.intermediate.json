@@ -1,0 +1,426 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label28-dolne-vestenice.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-4194074486566808618",
+    "bloggerPostUrl": "http://www.hradiska.sk/2018/10/dolne-vestenice-slovanske-hradisko.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/4194074486566808618/comments/default",
+    "extractedAt": "2026-07-13T23:07:22.465Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 12,
+      "captionedImages": 10,
+      "separatorImages": 2
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Dolné Vestenice - Slovanské hradisko",
+    "slug": "dolne-vestenice-slovanske-hradisko",
+    "excerpt": "Pred niekoľkými rokmi archeológovia objavili doposiaľ neznáme slovanské hradisko v obci Dolné Vestenice. Následne tu zrealizoval AÚ SAV archeologický výskum pod vedením Karola Pietu, na ktorom sa zúčastnilo aj OZ Hradiská. Hradisko sa nachádza v…",
+    "authorName": "Orgon",
+    "publishedAt": "2018-10-09T22:30:00.000+02:00",
+    "originalPublishedDate": "2018-10-09T22:30:00.000+02:00",
+    "updatedAt": "2020-03-28T23:23:55.845+01:00",
+    "readingTime": 2,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAI_2kXEJazKhC5kqMAOTWZwEIyE1rWEDPxvK9UIaHS2a2uAynbeQOTOzvilc9wAYLuqlIhkshFtFkYMxqEB_SwZmYoioWSKQrMCDRwdE5Hpgs0ieVUkzYuwlpg6nRv-twFLwgUgFpin7/s0/LIDAR+z+Bojnej+2.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAI_2kXEJazKhC5kqMAOTWZwEIyE1rWEDPxvK9UIaHS2a2uAynbeQOTOzvilc9wAYLuqlIhkshFtFkYMxqEB_SwZmYoioWSKQrMCDRwdE5Hpgs0ieVUkzYuwlpg6nRv-twFLwgUgFpin7/s1600/LIDAR+z+Bojnej+2.jpg",
+      "filename": "LIDAR+z+Bojnej+2.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAI_2kXEJazKhC5kqMAOTWZwEIyE1rWEDPxvK9UIaHS2a2uAynbeQOTOzvilc9wAYLuqlIhkshFtFkYMxqEB_SwZmYoioWSKQrMCDRwdE5Hpgs0ieVUkzYuwlpg6nRv-twFLwgUgFpin7/s1600/LIDAR+z+Bojnej+2.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 294,
+        "originalWidth": 346,
+        "originalHeight": 318
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAI_2kXEJazKhC5kqMAOTWZwEIyE1rWEDPxvK9UIaHS2a2uAynbeQOTOzvilc9wAYLuqlIhkshFtFkYMxqEB_SwZmYoioWSKQrMCDRwdE5Hpgs0ieVUkzYuwlpg6nRv-twFLwgUgFpin7/s0/LIDAR+z+Bojnej+2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAI_2kXEJazKhC5kqMAOTWZwEIyE1rWEDPxvK9UIaHS2a2uAynbeQOTOzvilc9wAYLuqlIhkshFtFkYMxqEB_SwZmYoioWSKQrMCDRwdE5Hpgs0ieVUkzYuwlpg6nRv-twFLwgUgFpin7/s1600/LIDAR+z+Bojnej+2.jpg",
+        "filename": "LIDAR+z+Bojnej+2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAI_2kXEJazKhC5kqMAOTWZwEIyE1rWEDPxvK9UIaHS2a2uAynbeQOTOzvilc9wAYLuqlIhkshFtFkYMxqEB_SwZmYoioWSKQrMCDRwdE5Hpgs0ieVUkzYuwlpg6nRv-twFLwgUgFpin7/s1600/LIDAR+z+Bojnej+2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 294,
+          "originalWidth": 346,
+          "originalHeight": 318
+        },
+        "caption": "Lidarový záber hradiska (z knihy Bojná 2)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8w2oXUq6ho4NUtRiTyuXpbT1f_zQv4c17iqpBU4xBywQHo6yldma1obzbUW1-HdEfrIYGDqyzGfNQrzONmjImdqgzzJdmWZJvHd-WhkfVhtC3SeWZXP1al0ls6-vH7DQFIPrxP1Oh2Xpk/s0/DJI_0010.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8w2oXUq6ho4NUtRiTyuXpbT1f_zQv4c17iqpBU4xBywQHo6yldma1obzbUW1-HdEfrIYGDqyzGfNQrzONmjImdqgzzJdmWZJvHd-WhkfVhtC3SeWZXP1al0ls6-vH7DQFIPrxP1Oh2Xpk/s1600/DJI_0010.JPG",
+        "filename": "DJI_0010.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8w2oXUq6ho4NUtRiTyuXpbT1f_zQv4c17iqpBU4xBywQHo6yldma1obzbUW1-HdEfrIYGDqyzGfNQrzONmjImdqgzzJdmWZJvHd-WhkfVhtC3SeWZXP1al0ls6-vH7DQFIPrxP1Oh2Xpk/s1600/DJI_0010.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Pohľad na mohutný val hradiska, ktorý sa nachádza na severnej strane"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWGB3qx2LZP2vjqXC2hW-g6idHirmDzT0fzMrZB_N1ffUpmf1K1VTipldJa6qGsvK55gyTtm2vpMivttvZneVLGQlL8-wPzSBkXTY5UktYJ218YBxGnpq_kDEkwFFw9utLCzkLIz2-8TCH/s0/48393263_384064458824108_7609739758457061376_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWGB3qx2LZP2vjqXC2hW-g6idHirmDzT0fzMrZB_N1ffUpmf1K1VTipldJa6qGsvK55gyTtm2vpMivttvZneVLGQlL8-wPzSBkXTY5UktYJ218YBxGnpq_kDEkwFFw9utLCzkLIz2-8TCH/s1600/48393263_384064458824108_7609739758457061376_n.jpg",
+        "filename": "48393263_384064458824108_7609739758457061376_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWGB3qx2LZP2vjqXC2hW-g6idHirmDzT0fzMrZB_N1ffUpmf1K1VTipldJa6qGsvK55gyTtm2vpMivttvZneVLGQlL8-wPzSBkXTY5UktYJ218YBxGnpq_kDEkwFFw9utLCzkLIz2-8TCH/s1600/48393263_384064458824108_7609739758457061376_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 233,
+          "originalWidth": 955,
+          "originalHeight": 696
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHQMq77947XIYRU4796eiSvM6SU_YTRBXt7KLgvxGjevrQQ8xkNvbrouzONPWSo0SMP2iHY5nQJw4qpGHHxfZk05yH2nITtLe53SH8TKxDRY649vckytjJIp_2hFs1WF9mQFjy3wv-XtyZ/s0/Tomas+Kytka.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHQMq77947XIYRU4796eiSvM6SU_YTRBXt7KLgvxGjevrQQ8xkNvbrouzONPWSo0SMP2iHY5nQJw4qpGHHxfZk05yH2nITtLe53SH8TKxDRY649vckytjJIp_2hFs1WF9mQFjy3wv-XtyZ/s1600/Tomas+Kytka.jpg",
+        "filename": "Tomas+Kytka.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHQMq77947XIYRU4796eiSvM6SU_YTRBXt7KLgvxGjevrQQ8xkNvbrouzONPWSo0SMP2iHY5nQJw4qpGHHxfZk05yH2nITtLe53SH8TKxDRY649vckytjJIp_2hFs1WF9mQFjy3wv-XtyZ/s1600/Tomas+Kytka.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1280,
+          "originalHeight": 960
+        },
+        "caption": "Pohľad na opevnenie hradiska a časť vnútornej plochy. Autor Tomáš Kytka"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLWfy2xt1IKrqdQ9L9VbdU3_EkkyAw4Di0ZNj6D80Lt5kWCw633AVWiRxSiLf5x2p-uP2LSG1yotWzHSFoXfHI3v4hJF9kh1v2koNERIEq1fxW7H875AZT8jJOXnu3aP_OoNRjaNM3oeNZ/s0/Plocha.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLWfy2xt1IKrqdQ9L9VbdU3_EkkyAw4Di0ZNj6D80Lt5kWCw633AVWiRxSiLf5x2p-uP2LSG1yotWzHSFoXfHI3v4hJF9kh1v2koNERIEq1fxW7H875AZT8jJOXnu3aP_OoNRjaNM3oeNZ/s1600/Plocha.jpg",
+        "filename": "Plocha.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLWfy2xt1IKrqdQ9L9VbdU3_EkkyAw4Di0ZNj6D80Lt5kWCw633AVWiRxSiLf5x2p-uP2LSG1yotWzHSFoXfHI3v4hJF9kh1v2koNERIEq1fxW7H875AZT8jJOXnu3aP_OoNRjaNM3oeNZ/s1600/Plocha.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": "Vnútorná plocha hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1C8JVYJLZb5xTcJFa4-BNcdTsm5SfCSXe8dsxYbu48ZfMe8FrU5oANM2duKX5rJULC7v-xyDBsT0R5rD0fCASbE6jkuyz0GFKO5G06N7J0AmTn2xDzmXxZ9GRBHOWad774rysxrJiioyu/s0/vlnovka.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1C8JVYJLZb5xTcJFa4-BNcdTsm5SfCSXe8dsxYbu48ZfMe8FrU5oANM2duKX5rJULC7v-xyDBsT0R5rD0fCASbE6jkuyz0GFKO5G06N7J0AmTn2xDzmXxZ9GRBHOWad774rysxrJiioyu/s1600/vlnovka.jpg",
+        "filename": "vlnovka.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1C8JVYJLZb5xTcJFa4-BNcdTsm5SfCSXe8dsxYbu48ZfMe8FrU5oANM2duKX5rJULC7v-xyDBsT0R5rD0fCASbE6jkuyz0GFKO5G06N7J0AmTn2xDzmXxZ9GRBHOWad774rysxrJiioyu/s1600/vlnovka.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": "Slovanský črep"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9XvQyVPjHYNENJAMlVXBm7TLYDYEWPJCnpMqI-AEHfkkxXpjGmxe3hwhkAEjovf1W17pVIyY7RTlhiwMw-uo68Cxwch8iQR364A91BavUpKBHbunfoVeT0ZKFIq9WXGzAzgOlqy4g7vUN/s0/n%25C3%25A1lezy2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9XvQyVPjHYNENJAMlVXBm7TLYDYEWPJCnpMqI-AEHfkkxXpjGmxe3hwhkAEjovf1W17pVIyY7RTlhiwMw-uo68Cxwch8iQR364A91BavUpKBHbunfoVeT0ZKFIq9WXGzAzgOlqy4g7vUN/s1600/n%25C3%25A1lezy2.jpg",
+        "filename": "n%C3%A1lezy2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9XvQyVPjHYNENJAMlVXBm7TLYDYEWPJCnpMqI-AEHfkkxXpjGmxe3hwhkAEjovf1W17pVIyY7RTlhiwMw-uo68Cxwch8iQR364A91BavUpKBHbunfoVeT0ZKFIq9WXGzAzgOlqy4g7vUN/s1600/n%25C3%25A1lezy2.jpg",
+          "displayedWidth": 234,
+          "displayedHeight": 320,
+          "originalWidth": 633,
+          "originalHeight": 863
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuPQ7jl9adt9Vl1I6dqMMPAFOODyN5sUxUm68uxeMxFlnV_u-ZH4UreJTinDBR6O9B1TG_1E3cOgIEI-oGxqpKTLfRqLTopoKcP3_2rpgmhozI9ey5ZUm95D24kEqf_bZQs2UEhlaS3f27/s0/N%25C3%25A1lezy+1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuPQ7jl9adt9Vl1I6dqMMPAFOODyN5sUxUm68uxeMxFlnV_u-ZH4UreJTinDBR6O9B1TG_1E3cOgIEI-oGxqpKTLfRqLTopoKcP3_2rpgmhozI9ey5ZUm95D24kEqf_bZQs2UEhlaS3f27/s1600/N%25C3%25A1lezy+1.jpg",
+        "filename": "N%C3%A1lezy+1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuPQ7jl9adt9Vl1I6dqMMPAFOODyN5sUxUm68uxeMxFlnV_u-ZH4UreJTinDBR6O9B1TG_1E3cOgIEI-oGxqpKTLfRqLTopoKcP3_2rpgmhozI9ey5ZUm95D24kEqf_bZQs2UEhlaS3f27/s1600/N%25C3%25A1lezy+1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 161,
+          "originalWidth": 563,
+          "originalHeight": 284
+        },
+        "caption": "Nálezy z Vesteníc"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIllRMOCmyWEtzsmClinTppovLKJKO6uJwsiyqNWK7a7Tr4rXShKEBGRtlC9KRDKxxaAkYp4rDsGCYLLKbkDxD3Bxq-ab4Gs7snTigFD-xmsdgPmkOA9aw_r0pzKyj72Nh_ruvDYeqwUP1/s0/dron.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIllRMOCmyWEtzsmClinTppovLKJKO6uJwsiyqNWK7a7Tr4rXShKEBGRtlC9KRDKxxaAkYp4rDsGCYLLKbkDxD3Bxq-ab4Gs7snTigFD-xmsdgPmkOA9aw_r0pzKyj72Nh_ruvDYeqwUP1/s1600/dron.jpg",
+        "filename": "dron.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIllRMOCmyWEtzsmClinTppovLKJKO6uJwsiyqNWK7a7Tr4rXShKEBGRtlC9KRDKxxaAkYp4rDsGCYLLKbkDxD3Bxq-ab4Gs7snTigFD-xmsdgPmkOA9aw_r0pzKyj72Nh_ruvDYeqwUP1/s1600/dron.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1600,
+          "originalHeight": 900
+        },
+        "caption": "Letecký pohľad na hradisko"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg71JCIQ9xIJE5Vk1TqTuAiPTPpjYn0wpj4cVnJQvvCqyCkLvkjgVHWKSSwb5CnlhKmuwdKRfSWrcheG-kbLw9pQ4PFwVtT7YMNP-Qp-I3ovfDTJSloUzYr-385PQgIp1hqZAwd7aPH4SdB/s0/plocha2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg71JCIQ9xIJE5Vk1TqTuAiPTPpjYn0wpj4cVnJQvvCqyCkLvkjgVHWKSSwb5CnlhKmuwdKRfSWrcheG-kbLw9pQ4PFwVtT7YMNP-Qp-I3ovfDTJSloUzYr-385PQgIp1hqZAwd7aPH4SdB/s1600/plocha2.jpg",
+        "filename": "plocha2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg71JCIQ9xIJE5Vk1TqTuAiPTPpjYn0wpj4cVnJQvvCqyCkLvkjgVHWKSSwb5CnlhKmuwdKRfSWrcheG-kbLw9pQ4PFwVtT7YMNP-Qp-I3ovfDTJSloUzYr-385PQgIp1hqZAwd7aPH4SdB/s1600/plocha2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Okraj hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1RPEjqz839NwnYDoJ_HLKCenAvv9ZINLHF4kDUUsn0vTfl209Nnq-jB__sIh5TOBkL0sI8XPC4y-MKPcpji1u50ZZFCjhkkrkSzpH8QBv1diet9JXiQMLKaYquw-QJd0zSyn2mEFtz6Mr/s0/poh%25C4%25BEad++do+doliny.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1RPEjqz839NwnYDoJ_HLKCenAvv9ZINLHF4kDUUsn0vTfl209Nnq-jB__sIh5TOBkL0sI8XPC4y-MKPcpji1u50ZZFCjhkkrkSzpH8QBv1diet9JXiQMLKaYquw-QJd0zSyn2mEFtz6Mr/s1600/poh%25C4%25BEad++do+doliny.jpg",
+        "filename": "poh%C4%BEad++do+doliny.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1RPEjqz839NwnYDoJ_HLKCenAvv9ZINLHF4kDUUsn0vTfl209Nnq-jB__sIh5TOBkL0sI8XPC4y-MKPcpji1u50ZZFCjhkkrkSzpH8QBv1diet9JXiQMLKaYquw-QJd0zSyn2mEFtz6Mr/s1600/poh%25C4%25BEad++do+doliny.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Pohľad z hradiska do doliny"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9PUvxBI0jD3Wg6kkqon5fAQIaxLXDE_ZWRfxLzBonUkwt7aIyxPtfzOXE64LKHjMHnP5tYS3K9LDVcLQGomIkg9J7gj5XxHsJMrByT1dFD9rj7DrIarn2vWEKkq1uM-wXRMzNl3bQ1cOQ/s0/brana.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9PUvxBI0jD3Wg6kkqon5fAQIaxLXDE_ZWRfxLzBonUkwt7aIyxPtfzOXE64LKHjMHnP5tYS3K9LDVcLQGomIkg9J7gj5XxHsJMrByT1dFD9rj7DrIarn2vWEKkq1uM-wXRMzNl3bQ1cOQ/s1600/brana.jpg",
+        "filename": "brana.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9PUvxBI0jD3Wg6kkqon5fAQIaxLXDE_ZWRfxLzBonUkwt7aIyxPtfzOXE64LKHjMHnP5tYS3K9LDVcLQGomIkg9J7gj5XxHsJMrByT1dFD9rj7DrIarn2vWEKkq1uM-wXRMzNl3bQ1cOQ/s1600/brana.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": "Val z vnútornej strany, vpravo zrejme pôvodný vstup"
+      }
+    ],
+    "tags": [
+      "Dolné Vestenice"
+    ],
+    "category": null,
+    "location": {
+      "name": "Dolné Vestenice",
+      "latitude": 48.71764611226643,
+      "longitude": 18.391603040162742,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Rozloha a tvar",
+        "value": "približne 0,5 ha, podlhovastý tvar, poloha pripomína stolovú horu",
+        "icon": "mountain"
+      },
+      {
+        "label": "Poloha",
+        "value": "na rozhraní Dolných Vesteníc a Uhrovského Podhradia, nad údolím Hradištnica",
+        "icon": "map"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "mohutný val na severnej strane (aj s pôvodným vstupom), inde drevená palisáda",
+        "icon": "shield"
+      },
+      {
+        "label": "Remeselná výroba",
+        "value": "doložená výroba šperkárov, kovolejárov a kováčov vrátane sekerovitých hrivien",
+        "icon": "custom"
+      },
+      {
+        "label": "Významné nálezy",
+        "value": "ostrohy s háčikmi, fragmenty krúžkovej zbroje, olovené ingoty, fragment oloveného kríža, hroty šípov",
+        "icon": "star"
+      },
+      {
+        "label": "Archeologický výskum",
+        "value": "realizovaný AÚ SAV pod vedením Karola Pietu, za účasti OZ Hradiská",
+        "icon": "book"
+      },
+      {
+        "label": "Nálezy v okolí",
+        "value": "pri úpätí hradiska a v širšom okolí sa našlo viac ojedinelých nálezov a depotov hrivien a náradia",
+        "icon": "building"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "stredná doba laténska",
+        "title": "Najstaršie doložené osídlenie",
+        "description": "Najstaršie osídlenie hradiska je doložené v strednej dobe laténskej.",
+        "type": "era"
+      },
+      {
+        "year": "doba sťahovania národov",
+        "title": "Osídlenie v dobe sťahovania národov",
+        "description": "Hradisko bolo osídlené aj v dobe sťahovania národov.",
+        "type": "era"
+      },
+      {
+        "year": "9. – 10. stor.",
+        "title": "Vrchol osídlenia za Veľkej Moravy",
+        "description": "Najväčší a najdôležitejší súbor nálezov pochádza z včasného stredoveku, z 9. – 10. storočia, teda z obdobia existencie Veľkej Moravy.",
+        "type": "era"
+      },
+      {
+        "year": "prelom 9. a 10. stor.",
+        "title": "Zánik hradiska",
+        "description": "Nálezová situácia (keramika, kovové predmety) naznačuje zánik hradiska na prelome 9. a 10. storočia.",
+        "type": "destruction"
+      },
+      {
+        "year": "posledné roky",
+        "title": "Objavenie hradiska archeológmi",
+        "description": "Archeológovia objavili doposiaľ neznáme slovanské hradisko v obci Dolné Vestenice; nasledoval archeologický výskum AÚ SAV pod vedením Karola Pietu za účasti OZ Hradiská.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pred niekoľkými rokmi archeológovia objavili doposiaľ neznáme slovanské hradisko v obci Dolné Vestenice. Následne tu zrealizoval AÚ SAV archeologický výskum pod vedením Karola Pietu, na ktorom sa zúčastnilo aj OZ Hradiská. Hradisko sa nachádza v ťažko dostupnom teréne na rozhraní Dolných Vesteníc a Uhrovského Podhradia nad údolím Hradištnica.\n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Má podlhovastý tvar a zaberá plochu približne 0,5 ha. Jeho najstaršie osídlenie je doložené v strednej dobe laténskej a v dobe sťahovania národov. Najväčší a najdôležitejší súbor nálezov však pochádza z včasného stredoveku, z 9. – 10. stor., to znamená z obdobia existencie Veľkej Moravy.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Svahy hradiska sú veľmi strmé a celá poloha vyzerá takmer ako stolová hora. Pohodlný prístup bol iba čiastočne zo severu, kde naši predkovia vybudovali mohutný val. V týchto častiach bol zrejme aj pôvodný vstup na hradisko. V ostatných častiach hradiska postačovala ako opevnenie iba drevená palisáda. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAI_2kXEJazKhC5kqMAOTWZwEIyE1rWEDPxvK9UIaHS2a2uAynbeQOTOzvilc9wAYLuqlIhkshFtFkYMxqEB_SwZmYoioWSKQrMCDRwdE5Hpgs0ieVUkzYuwlpg6nRv-twFLwgUgFpin7/s0/LIDAR+z+Bojnej+2.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAI_2kXEJazKhC5kqMAOTWZwEIyE1rWEDPxvK9UIaHS2a2uAynbeQOTOzvilc9wAYLuqlIhkshFtFkYMxqEB_SwZmYoioWSKQrMCDRwdE5Hpgs0ieVUkzYuwlpg6nRv-twFLwgUgFpin7/s1600/LIDAR+z+Bojnej+2.jpg",
+          "filename": "LIDAR+z+Bojnej+2.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLAI_2kXEJazKhC5kqMAOTWZwEIyE1rWEDPxvK9UIaHS2a2uAynbeQOTOzvilc9wAYLuqlIhkshFtFkYMxqEB_SwZmYoioWSKQrMCDRwdE5Hpgs0ieVUkzYuwlpg6nRv-twFLwgUgFpin7/s1600/LIDAR+z+Bojnej+2.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 294,
+            "originalWidth": 346,
+            "originalHeight": 318
+          }
+        },
+        "alt": "Lidarový záber hradiska (z knihy Bojná 2)",
+        "caption": "Lidarový záber hradiska (z knihy Bojná 2)",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Matej Ruttkay v knihe Bojná 2 uvádza, že sa tu zistili stopy po miestnej výrobe rôznych remeselníkov – šperkárov, kovolejárov, kováčov a pod. Dokladá to najmä veľký počet polotovarov. Karol Pieta k tomu dodáva, že je tu v rámci intenzívnej kováčskej výroby doložená napríklad výroba sekerovitých hrivien. K najvýraznejším nálezom z priestoru hradiska patria ostrohy s háčikmi, fragmenty krúžkovej zbroje, olovené ingoty a modely náušníc, fragment oloveného kríža, železné ostrohy s dlhým členeným bodcom, hroty šípov. Okrem kovových predmetov sa našlo množstvo typickej slovanskej keramiky s vlnovkovou výzdobou a časti kamenných žarnovov. Situácia by mohla naznačovať zánik hradiska na prelome 9. a 10. stor.   \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pri úpätí hradiska aj v širšom okolí sa našlo viac ojedinelých nálezov i depotov hrivien a náradia. Podobne ako v priestore Bojnej aj tu sa osídlenie sústreďuje v horských polohách, kde sa pomerne vysoko položené horské hrebene využívali ako komunikačné línie. Zdá sa, že príčinou obsadzovania výšinných polôh na Nitriansku boli, podobne ako v iných historických etapách, nepokojná doba a potreba zabezpečenia komunít pred náhlymi prepadmi, možno v spojení s kontrolou strategických horských prechodov a s využívaním miestneho rudného bohatstva i ďalších prírodných zdrojov, ktoré je v oblasti hornej Nitry doložené aj archeologicky.  \n  Orgoň "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8w2oXUq6ho4NUtRiTyuXpbT1f_zQv4c17iqpBU4xBywQHo6yldma1obzbUW1-HdEfrIYGDqyzGfNQrzONmjImdqgzzJdmWZJvHd-WhkfVhtC3SeWZXP1al0ls6-vH7DQFIPrxP1Oh2Xpk/s0/DJI_0010.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8w2oXUq6ho4NUtRiTyuXpbT1f_zQv4c17iqpBU4xBywQHo6yldma1obzbUW1-HdEfrIYGDqyzGfNQrzONmjImdqgzzJdmWZJvHd-WhkfVhtC3SeWZXP1al0ls6-vH7DQFIPrxP1Oh2Xpk/s1600/DJI_0010.JPG",
+          "filename": "DJI_0010.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8w2oXUq6ho4NUtRiTyuXpbT1f_zQv4c17iqpBU4xBywQHo6yldma1obzbUW1-HdEfrIYGDqyzGfNQrzONmjImdqgzzJdmWZJvHd-WhkfVhtC3SeWZXP1al0ls6-vH7DQFIPrxP1Oh2Xpk/s1600/DJI_0010.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 1600,
+            "originalHeight": 1200
+          }
+        },
+        "alt": "Pohľad na mohutný val hradiska, ktorý sa nachádza na severnej strane",
+        "caption": "Pohľad na mohutný val hradiska, ktorý sa nachádza na severnej strane",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Literatúra\n \n MATEJ RUTTKAY: NOVÉ VÝSLEDKY VÝSKUMOV VČASNOSTREDOVEKÝCH HRADÍSK,\n VYUŽITIE LETECKEJ PROSPEKCIE A SKENOVANIA PRI VÝSKUME HRADÍSK A ICH ZÁZEMIA NA ZÁPADNOM SLOVENSKU, IN BOJNÁ 2 NOVÉ VÝSLEDKY VÝSKUMOV VČASNOSTREDOVEKÝCH HRADÍSK, 2. rozšírené vydanie, Edit. Karol Pieta – Zbigniew Robak, NITRA 2017 \n \n Karol Pieta: VČASNOSTREDOVEKÉ MOCENSKÉ CENTRUM BOJNÁ – VÝSKUMY V ROKOCH 2007 – 2013 IN BOJNÁ 2 NOVÉ VÝSLEDKY VÝSKUMOV VČASNOSTREDOVEKÝCH HRADÍSK, 2. rozšírené vydanie, Edit. Karol Pieta – Zbigniew Robak, NITRA 2017\n "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

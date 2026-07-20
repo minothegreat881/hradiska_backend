@@ -1,0 +1,1265 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label-cand-Skalka_Nad_Vhom.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-621764631740504336",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/10/skalka-nad-vahom.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/621764631740504336/comments/default",
+    "extractedAt": "2026-07-13T21:05:03.616Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&t=h&vpsrc=0&ll=48.917466,18.069355&spn=0.004935,0.00912&z=16&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 26,
+      "captionedImages": 6,
+      "separatorImages": 20
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Skalka nad Váhom",
+    "slug": "skalka-nad-vahom",
+    "excerpt": "K výrazným geografickým predelom v regióne stredného Považia patrí Trenčianska brána. Ide o najužšie miesto vážskeho podolia, ohraničeného trenčianskou hradnou skalou a vyvýšeninou Skalka. Jej masív na pravom brehu Váhu postupne a takmer s…",
+    "authorName": "Orgon",
+    "publishedAt": "2011-10-07T17:50:00.006+02:00",
+    "originalPublishedDate": "2011-10-07T17:50:00.006+02:00",
+    "updatedAt": "2021-01-22T18:09:37.031+01:00",
+    "readingTime": 13,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tqZSQE2RZ_eOmw66QqkQf6aetdkuKfGhkefpvxNPAWpyFXtpsLtN5fqTIz9sKT3d6f5kFG4iJdvQnsLcuJgGYLumsnx2iOBPK1cdvSumiwet0QPLlyNDvvAVVNiWyv_cGPLuCfE8-hpq/s0/LIDAR.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tqZSQE2RZ_eOmw66QqkQf6aetdkuKfGhkefpvxNPAWpyFXtpsLtN5fqTIz9sKT3d6f5kFG4iJdvQnsLcuJgGYLumsnx2iOBPK1cdvSumiwet0QPLlyNDvvAVVNiWyv_cGPLuCfE8-hpq/s1600/LIDAR.jpg",
+      "filename": "LIDAR.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tqZSQE2RZ_eOmw66QqkQf6aetdkuKfGhkefpvxNPAWpyFXtpsLtN5fqTIz9sKT3d6f5kFG4iJdvQnsLcuJgGYLumsnx2iOBPK1cdvSumiwet0QPLlyNDvvAVVNiWyv_cGPLuCfE8-hpq/s769/LIDAR.jpg",
+        "displayedWidth": null,
+        "displayedHeight": 320,
+        "originalWidth": 716,
+        "originalHeight": 769
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tqZSQE2RZ_eOmw66QqkQf6aetdkuKfGhkefpvxNPAWpyFXtpsLtN5fqTIz9sKT3d6f5kFG4iJdvQnsLcuJgGYLumsnx2iOBPK1cdvSumiwet0QPLlyNDvvAVVNiWyv_cGPLuCfE8-hpq/s0/LIDAR.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tqZSQE2RZ_eOmw66QqkQf6aetdkuKfGhkefpvxNPAWpyFXtpsLtN5fqTIz9sKT3d6f5kFG4iJdvQnsLcuJgGYLumsnx2iOBPK1cdvSumiwet0QPLlyNDvvAVVNiWyv_cGPLuCfE8-hpq/s1600/LIDAR.jpg",
+        "filename": "LIDAR.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tqZSQE2RZ_eOmw66QqkQf6aetdkuKfGhkefpvxNPAWpyFXtpsLtN5fqTIz9sKT3d6f5kFG4iJdvQnsLcuJgGYLumsnx2iOBPK1cdvSumiwet0QPLlyNDvvAVVNiWyv_cGPLuCfE8-hpq/s769/LIDAR.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 716,
+          "originalHeight": 769
+        },
+        "caption": "LIDARová snímka hradiska (ZBGIS)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKEBAQg8SWNoIjofG0hnofZJpp55l4pA5TbufvS9omYXkhXAgybb99Z5h7jXmTJ9oLm6UhWKxuxvlidqD4Gg2iM-fukOMXWJn2Ep0YI6FMcSHsG08zgs2-HpELUiIGLvBig57mctch2rw/s0/Kostol%25C3%25ADk+Dwarf+lep%25C5%25A1%25C3%25AD.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKEBAQg8SWNoIjofG0hnofZJpp55l4pA5TbufvS9omYXkhXAgybb99Z5h7jXmTJ9oLm6UhWKxuxvlidqD4Gg2iM-fukOMXWJn2Ep0YI6FMcSHsG08zgs2-HpELUiIGLvBig57mctch2rw/s1600/Kostol%25C3%25ADk+Dwarf+lep%25C5%25A1%25C3%25AD.jpg",
+        "filename": "Kostol%C3%ADk+Dwarf+lep%C5%A1%C3%AD.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKEBAQg8SWNoIjofG0hnofZJpp55l4pA5TbufvS9omYXkhXAgybb99Z5h7jXmTJ9oLm6UhWKxuxvlidqD4Gg2iM-fukOMXWJn2Ep0YI6FMcSHsG08zgs2-HpELUiIGLvBig57mctch2rw/s1600/Kostol%25C3%25ADk+Dwarf+lep%25C5%25A1%25C3%25AD.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1600,
+          "originalHeight": 900
+        },
+        "caption": "Vizualizácia kostolíka podľa Dwarf digital"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhufLZesNWSG7PF9I749eHAJ_lWIZsRbYJNKs-ZX5iF2agBwpJgJNthX9P2cZDbltcDfYb2w_hwdFJJwqz-lBVOIb-BIksKeq5FNXnsb3ygH5Wu208BmUv0_A1Hv9_A5Ano79jcbOpoJ2U/s0/na%25CC%2581l1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhufLZesNWSG7PF9I749eHAJ_lWIZsRbYJNKs-ZX5iF2agBwpJgJNthX9P2cZDbltcDfYb2w_hwdFJJwqz-lBVOIb-BIksKeq5FNXnsb3ygH5Wu208BmUv0_A1Hv9_A5Ano79jcbOpoJ2U/s1600/na%25CC%2581l1.jpg",
+        "filename": "na%CC%81l1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhufLZesNWSG7PF9I749eHAJ_lWIZsRbYJNKs-ZX5iF2agBwpJgJNthX9P2cZDbltcDfYb2w_hwdFJJwqz-lBVOIb-BIksKeq5FNXnsb3ygH5Wu208BmUv0_A1Hv9_A5Ano79jcbOpoJ2U/s1600/na%25CC%2581l1.jpg",
+          "displayedWidth": 220,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQnqJ8Iq96xl14UpQ2CA0sTHubj3xE1yJAuqwGH7KdlyEnXeNmqZX74bMQHjoRx4vOo6mUiQglvFhgGjr6Jc4X9T0wGCPobHj9YDEbXQco6inksS0by_KorcMYWC_mZqpo1mqmzDX3fPI/s0/na%25CC%2581l2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQnqJ8Iq96xl14UpQ2CA0sTHubj3xE1yJAuqwGH7KdlyEnXeNmqZX74bMQHjoRx4vOo6mUiQglvFhgGjr6Jc4X9T0wGCPobHj9YDEbXQco6inksS0by_KorcMYWC_mZqpo1mqmzDX3fPI/s1600/na%25CC%2581l2.jpg",
+        "filename": "na%CC%81l2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQnqJ8Iq96xl14UpQ2CA0sTHubj3xE1yJAuqwGH7KdlyEnXeNmqZX74bMQHjoRx4vOo6mUiQglvFhgGjr6Jc4X9T0wGCPobHj9YDEbXQco6inksS0by_KorcMYWC_mZqpo1mqmzDX3fPI/s1600/na%25CC%2581l2.jpg",
+          "displayedWidth": 223,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO0TYwSugc2DnWqnuNlxN1kCFeX0iQ_-PyFf8g2FBKWKUy7ctSEP8vx9uiibkf3h5-If49CeUhFJTW3lYxErBevV8TjuxOmJN-XtM0Sx5U0GTZZqIM9DcT-3xTj82SJi4YOmNbklxbEyc/s0/1950.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO0TYwSugc2DnWqnuNlxN1kCFeX0iQ_-PyFf8g2FBKWKUy7ctSEP8vx9uiibkf3h5-If49CeUhFJTW3lYxErBevV8TjuxOmJN-XtM0Sx5U0GTZZqIM9DcT-3xTj82SJi4YOmNbklxbEyc/s1600/1950.jpg",
+        "filename": "1950.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO0TYwSugc2DnWqnuNlxN1kCFeX0iQ_-PyFf8g2FBKWKUy7ctSEP8vx9uiibkf3h5-If49CeUhFJTW3lYxErBevV8TjuxOmJN-XtM0Sx5U0GTZZqIM9DcT-3xTj82SJi4YOmNbklxbEyc/s1600/1950.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 182,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIO9k69gku84YOGeDTWJ8gmpm88K4pu3zqoo2RPLU2rGJBHXK9kkiA3kVpXuIDw_SbxIGAfhb2_0C6y13aDTo0Nh3iG0pyB8XifqcFFbItBZdCcCvlRZ7B-FH9wtTVKRn8hYWCmjtqQLM/s0/nal3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIO9k69gku84YOGeDTWJ8gmpm88K4pu3zqoo2RPLU2rGJBHXK9kkiA3kVpXuIDw_SbxIGAfhb2_0C6y13aDTo0Nh3iG0pyB8XifqcFFbItBZdCcCvlRZ7B-FH9wtTVKRn8hYWCmjtqQLM/s1600/nal3.jpg",
+        "filename": "nal3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIO9k69gku84YOGeDTWJ8gmpm88K4pu3zqoo2RPLU2rGJBHXK9kkiA3kVpXuIDw_SbxIGAfhb2_0C6y13aDTo0Nh3iG0pyB8XifqcFFbItBZdCcCvlRZ7B-FH9wtTVKRn8hYWCmjtqQLM/s1600/nal3.jpg",
+          "displayedWidth": 221,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhpgtIoDsQMMG-wLgEXXMGNFBhKKBNkpjxRh014tPQo80dW7mzwtD7WbB3i-Lbe_BWhdAmZE81OzHCZvBnZJCMQ4QuAxLPmdsz4E8exqL0d11xablYF_7pyNIQufe7i3drb3WFPSae94Y/s0/32550240_10209503369379955_3328433885842243584_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhpgtIoDsQMMG-wLgEXXMGNFBhKKBNkpjxRh014tPQo80dW7mzwtD7WbB3i-Lbe_BWhdAmZE81OzHCZvBnZJCMQ4QuAxLPmdsz4E8exqL0d11xablYF_7pyNIQufe7i3drb3WFPSae94Y/s1600/32550240_10209503369379955_3328433885842243584_n.jpg",
+        "filename": "32550240_10209503369379955_3328433885842243584_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhpgtIoDsQMMG-wLgEXXMGNFBhKKBNkpjxRh014tPQo80dW7mzwtD7WbB3i-Lbe_BWhdAmZE81OzHCZvBnZJCMQ4QuAxLPmdsz4E8exqL0d11xablYF_7pyNIQufe7i3drb3WFPSae94Y/s1600/32550240_10209503369379955_3328433885842243584_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 156,
+          "originalWidth": 642,
+          "originalHeight": 314
+        },
+        "caption": "Hypotetická rekonštrukcia podľa R. Erdélyi a B. Vachovej z knihy Andreja Boteka – Veľkomoravské kostoly na Slovensku a odraz ich tradície v neskoršom období."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSVbg1Hvrb1CNx_jjEjSoa0ssJzfWFhyf4yr1DT1rMwht5yk6Pe4cNCeusO91B11B2eNEoksEqcHa7LZQuB79sIhKFZCZ-ZJ2hcqC3rk2bqQSPzl5zRbwzMzMRccjbxcSiF8TnwWxXug/s0/zakl.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSVbg1Hvrb1CNx_jjEjSoa0ssJzfWFhyf4yr1DT1rMwht5yk6Pe4cNCeusO91B11B2eNEoksEqcHa7LZQuB79sIhKFZCZ-ZJ2hcqC3rk2bqQSPzl5zRbwzMzMRccjbxcSiF8TnwWxXug/s1600/zakl.jpg",
+        "filename": "zakl.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSVbg1Hvrb1CNx_jjEjSoa0ssJzfWFhyf4yr1DT1rMwht5yk6Pe4cNCeusO91B11B2eNEoksEqcHa7LZQuB79sIhKFZCZ-ZJ2hcqC3rk2bqQSPzl5zRbwzMzMRccjbxcSiF8TnwWxXug/s1600/zakl.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 244,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd_vP67iBaJfd4cm_Z_fUIcQuLz9vZCykTFN1TMG0lpIvYuayW-bGQQPKO2F0TzS_1ouGDQyhtEZv1IPV0FNfGfZruJtYKQeiEFrOz1rFaBReNAqGAwm44diHJkpOfK52VgtfWtgTRux4/s0/1450136_10151920187667347_1500818528_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd_vP67iBaJfd4cm_Z_fUIcQuLz9vZCykTFN1TMG0lpIvYuayW-bGQQPKO2F0TzS_1ouGDQyhtEZv1IPV0FNfGfZruJtYKQeiEFrOz1rFaBReNAqGAwm44diHJkpOfK52VgtfWtgTRux4/s1600/1450136_10151920187667347_1500818528_n.jpg",
+        "filename": "1450136_10151920187667347_1500818528_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd_vP67iBaJfd4cm_Z_fUIcQuLz9vZCykTFN1TMG0lpIvYuayW-bGQQPKO2F0TzS_1ouGDQyhtEZv1IPV0FNfGfZruJtYKQeiEFrOz1rFaBReNAqGAwm44diHJkpOfK52VgtfWtgTRux4/s1600/1450136_10151920187667347_1500818528_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 313,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCudeXuBctLLjiTX6v_dmPFrQRYSiW7ajwQKdOz3R5SZk53iGe1beVig8mWkQDLf2bUDEhQc_5-bljJ-WiMJbTJKWybEFraRhPPtcE7eemyI-FLvVXhyphenhyphenoImJZ-W_EubuOrxa3kleRby5m/s0/minca+d.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCudeXuBctLLjiTX6v_dmPFrQRYSiW7ajwQKdOz3R5SZk53iGe1beVig8mWkQDLf2bUDEhQc_5-bljJ-WiMJbTJKWybEFraRhPPtcE7eemyI-FLvVXhyphenhyphenoImJZ-W_EubuOrxa3kleRby5m/s1600/minca+d.jpg",
+        "filename": "minca+d.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCudeXuBctLLjiTX6v_dmPFrQRYSiW7ajwQKdOz3R5SZk53iGe1beVig8mWkQDLf2bUDEhQc_5-bljJ-WiMJbTJKWybEFraRhPPtcE7eemyI-FLvVXhyphenhyphenoImJZ-W_EubuOrxa3kleRby5m/s1600/minca+d.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 177,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHcxtg9WG9q57w8fZwKfy9V1OUk8FuLehVxzWmFPORtxRpQwVzdoMpVLqOSQeMIy1BCLEvlB7r-N8qvUe5NlJUs_qUw-DFXVt5bEcnkleDrNm5O3U7ddl7dsFsCzbhV4CNi6Jzv3ku54Q/s0/nal4.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHcxtg9WG9q57w8fZwKfy9V1OUk8FuLehVxzWmFPORtxRpQwVzdoMpVLqOSQeMIy1BCLEvlB7r-N8qvUe5NlJUs_qUw-DFXVt5bEcnkleDrNm5O3U7ddl7dsFsCzbhV4CNi6Jzv3ku54Q/s1600/nal4.jpg",
+        "filename": "nal4.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHcxtg9WG9q57w8fZwKfy9V1OUk8FuLehVxzWmFPORtxRpQwVzdoMpVLqOSQeMIy1BCLEvlB7r-N8qvUe5NlJUs_qUw-DFXVt5bEcnkleDrNm5O3U7ddl7dsFsCzbhV4CNi6Jzv3ku54Q/s1600/nal4.jpg",
+          "displayedWidth": 220,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNyBIBf_eaMK2mKqgthmY3-Q9h3KNi5tS4roAm3JtS_v9STJaOgn4tebjImfieMCststDmHZEZRHBg3y4p09lfka8_FVrThT_Euol24nKs54iZzb4EsfIimNj7_NQo8EwWY-YYR2u5_JY/s0/nal5.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNyBIBf_eaMK2mKqgthmY3-Q9h3KNi5tS4roAm3JtS_v9STJaOgn4tebjImfieMCststDmHZEZRHBg3y4p09lfka8_FVrThT_Euol24nKs54iZzb4EsfIimNj7_NQo8EwWY-YYR2u5_JY/s1600/nal5.jpg",
+        "filename": "nal5.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNyBIBf_eaMK2mKqgthmY3-Q9h3KNi5tS4roAm3JtS_v9STJaOgn4tebjImfieMCststDmHZEZRHBg3y4p09lfka8_FVrThT_Euol24nKs54iZzb4EsfIimNj7_NQo8EwWY-YYR2u5_JY/s1600/nal5.jpg",
+          "displayedWidth": 219,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiN8cbaO-DL2L2e2E3hJIP21Uh0A24ZqeQ00aHUvpProdB8lLA4XXw1i1oaVK09zZF9sLj9zvUmVanvfhrgTC4YqPXSJyj5AjUERkqSh3FZHUuOGc_XNIEhh8EsAtllyCO24IC4dyOUu8/s0/Dolna%CC%81+c%CC%8Cast%CC%8C,+tra%CC%81vnata%CC%81.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiN8cbaO-DL2L2e2E3hJIP21Uh0A24ZqeQ00aHUvpProdB8lLA4XXw1i1oaVK09zZF9sLj9zvUmVanvfhrgTC4YqPXSJyj5AjUERkqSh3FZHUuOGc_XNIEhh8EsAtllyCO24IC4dyOUu8/s1600/Dolna%CC%81+c%CC%8Cast%CC%8C,+tra%CC%81vnata%CC%81.jpg",
+        "filename": "Dolná+časť,+trávnatá.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiN8cbaO-DL2L2e2E3hJIP21Uh0A24ZqeQ00aHUvpProdB8lLA4XXw1i1oaVK09zZF9sLj9zvUmVanvfhrgTC4YqPXSJyj5AjUERkqSh3FZHUuOGc_XNIEhh8EsAtllyCO24IC4dyOUu8/s1600/Dolna%CC%81+c%CC%8Cast%CC%8C,+tra%CC%81vnata%CC%81.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad smerom na Nemšovú a Vršatec"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1pUoCFUwWyyEM1xEYY0qwqqTiIH6HQ77jDJBU9FGBI3pRf8mvtiGP7taQU6fN26PZXZyY4VW1SMtypMCIwHMx-v-rN2I9Vba6SNyfovVZo5iMtM4ugS7ezEOD9bD-PsYeNUvSyyX8qvw/s0/panora%CC%81ma.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1pUoCFUwWyyEM1xEYY0qwqqTiIH6HQ77jDJBU9FGBI3pRf8mvtiGP7taQU6fN26PZXZyY4VW1SMtypMCIwHMx-v-rN2I9Vba6SNyfovVZo5iMtM4ugS7ezEOD9bD-PsYeNUvSyyX8qvw/s1600/panora%CC%81ma.jpg",
+        "filename": "panoráma.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1pUoCFUwWyyEM1xEYY0qwqqTiIH6HQ77jDJBU9FGBI3pRf8mvtiGP7taQU6fN26PZXZyY4VW1SMtypMCIwHMx-v-rN2I9Vba6SNyfovVZo5iMtM4ugS7ezEOD9bD-PsYeNUvSyyX8qvw/s1600/panora%CC%81ma.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 88,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdGN1uipUg1G6NUltGjWmiqG_5JZ8ynAW22QkOhUKF-mEB5aIbgybbOkAHJC_zXFAu4XdKz1pyj-ZXtylKrHrhfxmcjH6u0eIzLOtjiX4FkEjTZ5uee2_-oA0krKd_-84m4BjItPCjrEI/s0/val+.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdGN1uipUg1G6NUltGjWmiqG_5JZ8ynAW22QkOhUKF-mEB5aIbgybbOkAHJC_zXFAu4XdKz1pyj-ZXtylKrHrhfxmcjH6u0eIzLOtjiX4FkEjTZ5uee2_-oA0krKd_-84m4BjItPCjrEI/s1600/val+.jpg",
+        "filename": "val+.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdGN1uipUg1G6NUltGjWmiqG_5JZ8ynAW22QkOhUKF-mEB5aIbgybbOkAHJC_zXFAu4XdKz1pyj-ZXtylKrHrhfxmcjH6u0eIzLOtjiX4FkEjTZ5uee2_-oA0krKd_-84m4BjItPCjrEI/s1600/val+.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Val (?)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOE6Ffvt4KqfpwnxDsh2ebBZkYSvSPO4ybEAJhr0160wTL3xGp7A4R0DHqmF7lImNiLAEHpmcHbULSLDWE8Jw8IBpHsXqchnQx1ibzPr6AZDbfd368SirmjjudjgWpz1xfpwzf8m7GZYc/s0/Z+Chochla+sme+strmy%CC%81m+zra%CC%81zom+zliezli+na+Skalku+-+ku+kla%CC%81s%CC%8Ctoru.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOE6Ffvt4KqfpwnxDsh2ebBZkYSvSPO4ybEAJhr0160wTL3xGp7A4R0DHqmF7lImNiLAEHpmcHbULSLDWE8Jw8IBpHsXqchnQx1ibzPr6AZDbfd368SirmjjudjgWpz1xfpwzf8m7GZYc/s1600/Z+Chochla+sme+strmy%CC%81m+zra%CC%81zom+zliezli+na+Skalku+-+ku+kla%CC%81s%CC%8Ctoru.jpg",
+        "filename": "Z+Chochla+sme+strmým+zrázom+zliezli+na+Skalku+-+ku+kláštoru.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOE6Ffvt4KqfpwnxDsh2ebBZkYSvSPO4ybEAJhr0160wTL3xGp7A4R0DHqmF7lImNiLAEHpmcHbULSLDWE8Jw8IBpHsXqchnQx1ibzPr6AZDbfd368SirmjjudjgWpz1xfpwzf8m7GZYc/s1600/Z+Chochla+sme+strmy%CC%81m+zra%CC%81zom+zliezli+na+Skalku+-+ku+kla%CC%81s%CC%8Ctoru.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Z Chochla sme strmým zrázom zliezli na Skalku - ku kláštoru"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDzLi-nVS3bM9bbIqslxJd69jeZl7uXq3K38PfUSmdQrUNwpbiIbQdSGjq_KAPvhJSDeJQnYG3W5c-bF2sjCqLi4iXbopubIV79Vxbx9QiVPcYEsDuRK65bIzfc_hQENyjsynVdxJu9p2k/s0/32384075_10209503281497758_8694236060307161088_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDzLi-nVS3bM9bbIqslxJd69jeZl7uXq3K38PfUSmdQrUNwpbiIbQdSGjq_KAPvhJSDeJQnYG3W5c-bF2sjCqLi4iXbopubIV79Vxbx9QiVPcYEsDuRK65bIzfc_hQENyjsynVdxJu9p2k/s1600/32384075_10209503281497758_8694236060307161088_o.jpg",
+        "filename": "32384075_10209503281497758_8694236060307161088_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDzLi-nVS3bM9bbIqslxJd69jeZl7uXq3K38PfUSmdQrUNwpbiIbQdSGjq_KAPvhJSDeJQnYG3W5c-bF2sjCqLi4iXbopubIV79Vxbx9QiVPcYEsDuRK65bIzfc_hQENyjsynVdxJu9p2k/s1600/32384075_10209503281497758_8694236060307161088_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlAXsgEEo7AIS6_znZASIvhSt5YDjYW-n8VsS5sNVug4tQ6R1ZoX-8mMcOvaV6rM-ky7gbOavnNpfILSkI6L4hxCA1v4hSBIDRqxgrr3QcNypFiKpQhuqrGJV7eKytA0buN3c9T4Q4n1p_/s0/32498289_10209503288697938_1858584743008796672_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlAXsgEEo7AIS6_znZASIvhSt5YDjYW-n8VsS5sNVug4tQ6R1ZoX-8mMcOvaV6rM-ky7gbOavnNpfILSkI6L4hxCA1v4hSBIDRqxgrr3QcNypFiKpQhuqrGJV7eKytA0buN3c9T4Q4n1p_/s1600/32498289_10209503288697938_1858584743008796672_o.jpg",
+        "filename": "32498289_10209503288697938_1858584743008796672_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlAXsgEEo7AIS6_znZASIvhSt5YDjYW-n8VsS5sNVug4tQ6R1ZoX-8mMcOvaV6rM-ky7gbOavnNpfILSkI6L4hxCA1v4hSBIDRqxgrr3QcNypFiKpQhuqrGJV7eKytA0buN3c9T4Q4n1p_/s1600/32498289_10209503288697938_1858584743008796672_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtwiKm9WWkjh_Bjei63vXkchz9tNRkwNbweluWJJO2dDM6GU6Yh9VpQzqXD7uUDHU5n6yj3yP75JZUJ5_BPcJHrtOOAmr9dFkUbWNL1BOTf2bEWDt7sSuikGIB5c5TkvURtaXeCmdj7MRg/s0/32597038_10209503292618036_4957436048306077696_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtwiKm9WWkjh_Bjei63vXkchz9tNRkwNbweluWJJO2dDM6GU6Yh9VpQzqXD7uUDHU5n6yj3yP75JZUJ5_BPcJHrtOOAmr9dFkUbWNL1BOTf2bEWDt7sSuikGIB5c5TkvURtaXeCmdj7MRg/s1600/32597038_10209503292618036_4957436048306077696_o.jpg",
+        "filename": "32597038_10209503292618036_4957436048306077696_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtwiKm9WWkjh_Bjei63vXkchz9tNRkwNbweluWJJO2dDM6GU6Yh9VpQzqXD7uUDHU5n6yj3yP75JZUJ5_BPcJHrtOOAmr9dFkUbWNL1BOTf2bEWDt7sSuikGIB5c5TkvURtaXeCmdj7MRg/s1600/32597038_10209503292618036_4957436048306077696_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGCPvGYEKLzyQiCrWe2sSvpJjO2qYF0CrNA_u7EUrrBhpL4Dmeol5x7b0EkuqUjDukEvk6NkjiWfXpX7_huxZKHFdKXgfBfoSmiEcEB5lrsEXpCzSOdO1WvVpoO4AN2rWm5fpuJqfgtUAv/s0/32679034_10209503243256802_3775138410503602176_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGCPvGYEKLzyQiCrWe2sSvpJjO2qYF0CrNA_u7EUrrBhpL4Dmeol5x7b0EkuqUjDukEvk6NkjiWfXpX7_huxZKHFdKXgfBfoSmiEcEB5lrsEXpCzSOdO1WvVpoO4AN2rWm5fpuJqfgtUAv/s1600/32679034_10209503243256802_3775138410503602176_o.jpg",
+        "filename": "32679034_10209503243256802_3775138410503602176_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGCPvGYEKLzyQiCrWe2sSvpJjO2qYF0CrNA_u7EUrrBhpL4Dmeol5x7b0EkuqUjDukEvk6NkjiWfXpX7_huxZKHFdKXgfBfoSmiEcEB5lrsEXpCzSOdO1WvVpoO4AN2rWm5fpuJqfgtUAv/s1600/32679034_10209503243256802_3775138410503602176_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR1tEkXlDqt_TaWKq8cCecHbQex7R5ymoUIUsGIobNsF73qwnn7nLlbkc4iKkna_qm9wyKEJxhMf8K-nHmHTrhLVlw9O2C8nwgpjM23pyph9weo16em_uY2L2YqeRVYcyMEX1-r73SbkHa/s0/32471970_10209503238416681_5970748897927102464_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR1tEkXlDqt_TaWKq8cCecHbQex7R5ymoUIUsGIobNsF73qwnn7nLlbkc4iKkna_qm9wyKEJxhMf8K-nHmHTrhLVlw9O2C8nwgpjM23pyph9weo16em_uY2L2YqeRVYcyMEX1-r73SbkHa/s1600/32471970_10209503238416681_5970748897927102464_o.jpg",
+        "filename": "32471970_10209503238416681_5970748897927102464_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR1tEkXlDqt_TaWKq8cCecHbQex7R5ymoUIUsGIobNsF73qwnn7nLlbkc4iKkna_qm9wyKEJxhMf8K-nHmHTrhLVlw9O2C8nwgpjM23pyph9weo16em_uY2L2YqeRVYcyMEX1-r73SbkHa/s1600/32471970_10209503238416681_5970748897927102464_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1600,
+          "originalHeight": 900
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdvCXpY80J098kCuJDwQ0CDPg2YiRkBKeHLaDCrQzYvyBsRYGyGncHfMebxdBj3jKvhisI_JY5aSCwR5WhLV3hyphenhyphenwYIMVmjSRHcNY5g5nPQJUZeZyTRz5Ch7xd1UUeqLYGdoXbBrxbQ-g5q/s0/32492065_10209503304018321_5245191968010534912_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdvCXpY80J098kCuJDwQ0CDPg2YiRkBKeHLaDCrQzYvyBsRYGyGncHfMebxdBj3jKvhisI_JY5aSCwR5WhLV3hyphenhyphenwYIMVmjSRHcNY5g5nPQJUZeZyTRz5Ch7xd1UUeqLYGdoXbBrxbQ-g5q/s1600/32492065_10209503304018321_5245191968010534912_o.jpg",
+        "filename": "32492065_10209503304018321_5245191968010534912_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdvCXpY80J098kCuJDwQ0CDPg2YiRkBKeHLaDCrQzYvyBsRYGyGncHfMebxdBj3jKvhisI_JY5aSCwR5WhLV3hyphenhyphenwYIMVmjSRHcNY5g5nPQJUZeZyTRz5Ch7xd1UUeqLYGdoXbBrxbQ-g5q/s1600/32492065_10209503304018321_5245191968010534912_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNXDNYWysaJUx1ZGfaRWlWZeYGO2uKqXFk8j4qBCZ05TIpG0YUJ1pyi2jqxn0J3EV17Ye_e04fvxFxN6lyvXgN3mPKfsYYyi5MbB_K_WfoVDnCfcqTyYY0uCdC73HQGuvP6DA1eNd7v6Oq/s0/67bd6248-4a8f-4b62-8cb9-04e16205e244_l.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNXDNYWysaJUx1ZGfaRWlWZeYGO2uKqXFk8j4qBCZ05TIpG0YUJ1pyi2jqxn0J3EV17Ye_e04fvxFxN6lyvXgN3mPKfsYYyi5MbB_K_WfoVDnCfcqTyYY0uCdC73HQGuvP6DA1eNd7v6Oq/s1600/67bd6248-4a8f-4b62-8cb9-04e16205e244_l.jpg",
+        "filename": "67bd6248-4a8f-4b62-8cb9-04e16205e244_l.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNXDNYWysaJUx1ZGfaRWlWZeYGO2uKqXFk8j4qBCZ05TIpG0YUJ1pyi2jqxn0J3EV17Ye_e04fvxFxN6lyvXgN3mPKfsYYyi5MbB_K_WfoVDnCfcqTyYY0uCdC73HQGuvP6DA1eNd7v6Oq/s1600/67bd6248-4a8f-4b62-8cb9-04e16205e244_l.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 152,
+          "originalWidth": 640,
+          "originalHeight": 304
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPazyM7DGGhnzAEbSSeilIaB1t8XbsdksYnWelMj4-91GkgnUqnm4xyApfm8zcHMhvGra9hRY08UYFG7Blpk-19yAaGoWyRMgTMK2pItbcsYdIwP54mn9k0IZhBbc89rGr1IKHEJFr7YWr/s0/61510059_425709507979626_2540650657992409088_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPazyM7DGGhnzAEbSSeilIaB1t8XbsdksYnWelMj4-91GkgnUqnm4xyApfm8zcHMhvGra9hRY08UYFG7Blpk-19yAaGoWyRMgTMK2pItbcsYdIwP54mn9k0IZhBbc89rGr1IKHEJFr7YWr/s1600/61510059_425709507979626_2540650657992409088_o.jpg",
+        "filename": "61510059_425709507979626_2540650657992409088_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPazyM7DGGhnzAEbSSeilIaB1t8XbsdksYnWelMj4-91GkgnUqnm4xyApfm8zcHMhvGra9hRY08UYFG7Blpk-19yAaGoWyRMgTMK2pItbcsYdIwP54mn9k0IZhBbc89rGr1IKHEJFr7YWr/s1600/61510059_425709507979626_2540650657992409088_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEGt1nIKAn-A38934hsYlcpnHEb_RCxHkcUcT7v-_d6cPzctQ7S8-3a3AECmVnJ-PBfijpLhJFEcWrWjxJH2aVJt8UqXmWhvUFXCmhzZ2pJUjDsVPwjdEg4w-274BsmjEG-U0okytmD4ky/s0/61607188_425709354646308_8255614986219421696_o+%25281%2529.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEGt1nIKAn-A38934hsYlcpnHEb_RCxHkcUcT7v-_d6cPzctQ7S8-3a3AECmVnJ-PBfijpLhJFEcWrWjxJH2aVJt8UqXmWhvUFXCmhzZ2pJUjDsVPwjdEg4w-274BsmjEG-U0okytmD4ky/s1600/61607188_425709354646308_8255614986219421696_o+%25281%2529.jpg",
+        "filename": "61607188_425709354646308_8255614986219421696_o+%281%29.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEGt1nIKAn-A38934hsYlcpnHEb_RCxHkcUcT7v-_d6cPzctQ7S8-3a3AECmVnJ-PBfijpLhJFEcWrWjxJH2aVJt8UqXmWhvUFXCmhzZ2pJUjDsVPwjdEg4w-274BsmjEG-U0okytmD4ky/s1600/61607188_425709354646308_8255614986219421696_o+%25281%2529.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinQS2Xv5tLdqURiMqzeHhFKWuuwB5Q4ghs6wBK62BSZEXreCjGZeHIRoYf8BksZgcLwcwwlROruYcnTRPfDOE_XAaoQCzm-N-3i_IyCXAIplv1_h-lKrB_VBZ5Lp9-H4Ka_sd-ALtyxgPC/s0/61619624_425709577979619_6144780165307170816_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinQS2Xv5tLdqURiMqzeHhFKWuuwB5Q4ghs6wBK62BSZEXreCjGZeHIRoYf8BksZgcLwcwwlROruYcnTRPfDOE_XAaoQCzm-N-3i_IyCXAIplv1_h-lKrB_VBZ5Lp9-H4Ka_sd-ALtyxgPC/s1600/61619624_425709577979619_6144780165307170816_o.jpg",
+        "filename": "61619624_425709577979619_6144780165307170816_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinQS2Xv5tLdqURiMqzeHhFKWuuwB5Q4ghs6wBK62BSZEXreCjGZeHIRoYf8BksZgcLwcwwlROruYcnTRPfDOE_XAaoQCzm-N-3i_IyCXAIplv1_h-lKrB_VBZ5Lp9-H4Ka_sd-ALtyxgPC/s1600/61619624_425709577979619_6144780165307170816_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Skalka nad Váhom"
+    ],
+    "category": null,
+    "location": {
+      "name": "Skalka Nad Váhom",
+      "latitude": 48.917466,
+      "longitude": 18.069355,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Trenčianska brána, ostrožný výbežok „Chochel\" na vyvýšenine Skalka nad sútokom Súčianky s Váhom",
+        "icon": "map"
+      },
+      {
+        "label": "Rozmery hradiska",
+        "value": "Dĺžka 192 m, šírka 23-39 m, celková plocha 0,55 ha",
+        "icon": "mountain"
+      },
+      {
+        "label": "Prevýšenie",
+        "value": "Svahy návršia klesajú o viac ako 70 m k úpätiu",
+        "icon": "mountain"
+      },
+      {
+        "label": "Ľudová tradícia",
+        "value": "Miestne obyvateľstvo verilo, že na návrší stála pohanská svätyňa – „Venušin chrám\"",
+        "icon": "scroll"
+      },
+      {
+        "label": "Sakrálny objekt",
+        "value": "Loď a apsida s rozmermi 5,3 x 5,4-5,6 m (6,2 m vrátane apsidy), plocha lode iba 14,8 m²",
+        "icon": "building"
+      },
+      {
+        "label": "Hrob upíra",
+        "value": "V interiéri svätyne odkrytý hrob s dodatočne odstránenou lebkou a hrudníkom zaťaženým jedenástimi kameňmi",
+        "icon": "custom"
+      },
+      {
+        "label": "Benediktínske opátstvo",
+        "value": "Založené v roku 1224 nitrianskym biskupom Jakubom, vzdialené 800 m od sakrálneho objektu na Chochli",
+        "icon": "flag"
+      },
+      {
+        "label": "Archeologický výskum",
+        "value": "Prvé výkopy 1889-1890, ďalší výskum v 30. rokoch 20. stor. a podrobný výskum v roku 1995 pri výstavbe diaľnice",
+        "icon": "calendar"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1889-1890",
+        "title": "Prvé výkopové práce na lokalite",
+        "description": "Uskutočnili sa prvé výkopy, pri ktorých sa našiel kostený stylus, rímska spona a keramické fragmenty; nálezy boli spolu s ďalšími predané do Viedne.",
+        "type": "discovery"
+      },
+      {
+        "year": "30. roky 20. storočia",
+        "title": "Výskum s bohatými nálezmi šperkov a nástrojov",
+        "description": "Počas výskumu lokality sa našli esovité záušnice, prstene, koráliky, krížiky, mince, nože, rybárske ostne, pracky, sekera bradatica, bronzové ihlice, spony, hrncovité nádoby, prasleny, retiazka, britva a sklený náramok.",
+        "type": "discovery"
+      },
+      {
+        "year": "1995",
+        "title": "Podrobný výskum pri výstavbe diaľnice",
+        "description": "V tesnom susedstve lokality sa začala stavať diaľnica, čo si vyžiadalo podrobný výskum; našli sa nálezy z doby bronzovej, včasnej doby dejinnej a stredoveku.",
+        "type": "discovery"
+      },
+      {
+        "year": "Staršia doba bronzová",
+        "title": "Vznik opevnenej osady madarovskej kultúry",
+        "description": "Na juhozápadnom okraji lokality bola vybudovaná fortifikácia s roštovou konštrukciou jadra valu; osada bola osídlená v období klasického stupňa madarovskej kultúry.",
+        "type": "founding"
+      },
+      {
+        "year": "Prechod staršej do strednej doby bronzovej",
+        "title": "Zánik fortifikácie požiarom",
+        "description": "Počas neskoromadarovského stupňa fortifikácia z juhozápadného okraja lokality v dôsledku požiaru zanikla a jej teleso sa následne prirodzeným spôsobom deštruovalo.",
+        "type": "destruction"
+      },
+      {
+        "year": "Neskorá doba laténska",
+        "title": "Obnovenie fortifikácie Keltmi",
+        "description": "Vo včasnej dobe dejinnej, počas neskorej doby laténskej spojenej s keltským etnikom, došlo k opätovnému sfunkčneniu staršej fortifikácie vybudovaním nového, mohutnejšieho telesa s roštovou konštrukciou a priekopou.",
+        "type": "construction"
+      },
+      {
+        "year": "Koniec neskorej doby laténskej / včasná doba rímsk",
+        "title": "Zánik opevnenia požiarom a príchod Germánov",
+        "description": "Opevnenie z neskorej doby laténskej zničil mohutný požiar, čo možno spojiť s príchodom Germánov; osídlenie ľudu púchovskej kultúry sa redukovalo a časť obyvateľstva ustúpila severným smerom do púchovskej oblasti.",
+        "type": "destruction"
+      },
+      {
+        "year": "Čas markomanských vojen",
+        "title": "Opätovné osídlenie hradiska Germánmi",
+        "description": "Po obsadení územia Germánmi, najmä v čase markomanských vojen proti Rímskej ríši, bolo hradisko opätovne osídlené, pretože lokalita bola ľahko hájiteľná.",
+        "type": "event"
+      },
+      {
+        "year": "Druhá polovica 9. storočia",
+        "title": "Vybudovanie dreveného sakrálneho objektu",
+        "description": "S veľkou pravdepodobnosťou tu bol vybudovaný drevený sakrálny objekt špecifickej dispozície (loď a apsida), za ktorého apsidou sa začalo pochovávať.",
+        "type": "construction"
+      },
+      {
+        "year": "9.-10. storočie",
+        "title": "Pochovávanie za apsidou svätyne",
+        "description": "Za apsidou sakrálneho objektu vznikla skupina šiestich hrobov z 9.-10. storočia; medzi nimi aj hrob s dodatočne vykonanými protivampírickymi praktikami (odstránená lebka, telo zaťažené jedenástimi kameňmi).",
+        "type": "discovery"
+      },
+      {
+        "year": "11.-12. storočie",
+        "title": "Kupolová pec v centrálnej časti lokality",
+        "description": "Druhý preskúmaný objekt predstavuje prepálený výmaz kúreniska kupolovej pece z centrálnej časti lokality.",
+        "type": "construction"
+      },
+      {
+        "year": "1224",
+        "title": "Založenie benediktínskeho opátstva na Skalke",
+        "description": "Nitriansky biskup Jakub založil na Skalke benediktínske opátstvo; farár z obce Skala doň neskôr vstúpil spolu s poddanským hospodárstvom fary, čím sakrálny objekt na hradisku prestal plniť svoju funkciu a zanikol.",
+        "type": "founding"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "K výrazným geografickým predelom v regióne stredného Považia patrí Trenčianska brána. Ide o najužšie miesto vážskeho podolia, ohraničeného trenčianskou hradnou skalou a vyvýšeninou Skalka. Jej masív na pravom brehu Váhu postupne a takmer s pravidelnosťou klesá od vrcholu k obvodovým stranám. Výnimkou je ostrožný výbežok, ktorý sa vysúva do riečnej inundácie nad sútokom Súčianky s Váhom. Uvedený útvar, vzdialený od vrcholu Skalky 570 m, má úzku hrebeňovitú podobu. Návršiu sa dostalo v miestnom pomenovaní označenia „Chochel“."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Od okrajových severných, severozápadných aj juhovýchodných línií sa svahy návršia príkro zvažujú a klesajú o viac ako 70 m k jeho úpätiu. Pozvolne klesajúci terén od vrcholu Skalky k lokalite bol už v pravekom období v najužšom mieste predelený umelo navŕšeným valom. Týmto spôsobom doplnená prirodzená obranyschopnosť premenila lokalitu na spoľahlivo hájiteľné opevnené výšinné sídlisko s dĺžkou 192 m, šírkou 23 – 39 m, s celkovou plochou 0,55 ha.\n \n \n  \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prvé výkopové práce na lokalite sa datujú do rokov 1889 – 1890. Nájdené artefakty ako kostený stylus, rímska spona a keramické fragmenty boli spolu s ďalšími nálezmi predané do Viedne. Vďaka získaným poznatkom sa však lokalita z návršia Chochel zaradila v okolí Trenčína medzi významné náleziská predhistorických pamiatok. V povedomí miestneho obyvateľstva sa utvoril názor, že tu v dávnych dobách stála pohanská svätyňa – Venušin chrám. V 30. rokoch boli počas výskumu lokality nájdené zaujímavé artefakty ako esovité záušnice väčších rozmerov a prstene (z tyčinky, pásika, so štítkom, s očkom). Dopĺňali ich koráliky, krížiky, mince, nože, rybárske ostne, pracky a brúsik, sekera bradatica, bronzové ihlice, spony, hrncovité nádoby, črepy, prasleny, retiazka, britva, sklený náramok. V roku 1995, keď bola v tesnom susedstve rozostavaná diaľnica, začal sa na nej podrobný výskum. Počas výskumu sa našlo mnoho nálezov z viacerých dejinných etáp, konkrétne z doby bronzovej, včasnej doby dejinnej a stredoveku.\n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tqZSQE2RZ_eOmw66QqkQf6aetdkuKfGhkefpvxNPAWpyFXtpsLtN5fqTIz9sKT3d6f5kFG4iJdvQnsLcuJgGYLumsnx2iOBPK1cdvSumiwet0QPLlyNDvvAVVNiWyv_cGPLuCfE8-hpq/s0/LIDAR.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tqZSQE2RZ_eOmw66QqkQf6aetdkuKfGhkefpvxNPAWpyFXtpsLtN5fqTIz9sKT3d6f5kFG4iJdvQnsLcuJgGYLumsnx2iOBPK1cdvSumiwet0QPLlyNDvvAVVNiWyv_cGPLuCfE8-hpq/s1600/LIDAR.jpg",
+          "filename": "LIDAR.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tqZSQE2RZ_eOmw66QqkQf6aetdkuKfGhkefpvxNPAWpyFXtpsLtN5fqTIz9sKT3d6f5kFG4iJdvQnsLcuJgGYLumsnx2iOBPK1cdvSumiwet0QPLlyNDvvAVVNiWyv_cGPLuCfE8-hpq/s769/LIDAR.jpg",
+            "displayedWidth": null,
+            "displayedHeight": 320,
+            "originalWidth": 716,
+            "originalHeight": 769
+          }
+        },
+        "alt": "LIDARová snímka hradiska (ZBGIS)",
+        "caption": "LIDARová snímka hradiska (ZBGIS)",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Doba bronzová",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najstaršie osídlenie lokality z vyvýšeniny Chochel možno zhruba zaradiť do záveru staršej a na začiatok strednej doby bronzovej. Reprezentuje ho fortifikácia, sídliskové objekty a predmety materiálnej kultúry. Fortifikácia"
+              },
+              {
+                "type": "text",
+                "text": " je situovaná na juhozápadnom okraji lokality v mieste šijovitého napojenia ostrožného výbežku na svahovitý terén Skalky. Jej pôvodné teleso bolo zničené požiarom a následne sa prirodzeným spôsobom deštruovalo. Vo včasnej dobe dejinnej bolo funkčným spôsobom zakomponované do telesa novej fortifikácie a prekryté značnou kubatúrou novonavŕšenej zeminy. Stabilizujúci prvok jadra valu vytvorila roštová konštrukcia. Okrem valu sa z doby bronzovej zachovali fragmenty niekoľkých sídliskových objektov. Pokiaľ ide o predmety materiálnej kultúry, majú dominantné zastúpenie keramické nálezy, doložené takmer tisíckou fragmentov. Typologická škála nádob je príznačná pre madarovskú kultúru. Bronzových nástrojov bolo nájdené iba minimum. Možno teda uzavrieť, že opevnená osada z vyvýšeniny Chochel bola osídlená v období klasického stupňa madarovskej kultúry, vypĺňajúceho vrcholný úsek staršej doby bronzovej a neskoromadarovského stupňa zo začiatku strednej doby bronzovej. Počas neho v dôsledku požiaru fortifikácia z juhozápadného okraja lokality zanikla. Doteraz nie je známa funkcia opisovanej osady, ani dôvody, ktoré viedli k jej vybudovaniu. S veľkou pravdepodobnosťou neboli v tomto smere rozhodujúce hospodárske aspekty. Vzhľadom na umiestnenie významnejšej súvekej opevnenej osady na trenčianskej hradnej skale je spochybnená možnosť, ktorá by iniciovala potrebu vybudovania ďalšieho administratívneho centra v jej tesnom susedstve. Reálnejšie sú úvahy o refugiálnych účeloch v hraničnom pásme sídliskovej ekumény madarovskej kultúry, umocnené prípadnou potrebou ochrany komunikácie smerujúcej údolím Vláry k horskému priesmyku.\n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKEBAQg8SWNoIjofG0hnofZJpp55l4pA5TbufvS9omYXkhXAgybb99Z5h7jXmTJ9oLm6UhWKxuxvlidqD4Gg2iM-fukOMXWJn2Ep0YI6FMcSHsG08zgs2-HpELUiIGLvBig57mctch2rw/s0/Kostol%25C3%25ADk+Dwarf+lep%25C5%25A1%25C3%25AD.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKEBAQg8SWNoIjofG0hnofZJpp55l4pA5TbufvS9omYXkhXAgybb99Z5h7jXmTJ9oLm6UhWKxuxvlidqD4Gg2iM-fukOMXWJn2Ep0YI6FMcSHsG08zgs2-HpELUiIGLvBig57mctch2rw/s1600/Kostol%25C3%25ADk+Dwarf+lep%25C5%25A1%25C3%25AD.jpg",
+          "filename": "Kostol%C3%ADk+Dwarf+lep%C5%A1%C3%AD.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSKEBAQg8SWNoIjofG0hnofZJpp55l4pA5TbufvS9omYXkhXAgybb99Z5h7jXmTJ9oLm6UhWKxuxvlidqD4Gg2iM-fukOMXWJn2Ep0YI6FMcSHsG08zgs2-HpELUiIGLvBig57mctch2rw/s1600/Kostol%25C3%25ADk+Dwarf+lep%25C5%25A1%25C3%25AD.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 180,
+            "originalWidth": 1600,
+            "originalHeight": 900
+          }
+        },
+        "alt": "Vizualizácia kostolíka podľa Dwarf digital",
+        "caption": "Vizualizácia kostolíka podľa Dwarf digital",
+        "position": "right",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Včasná doba dejinná",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Druhú etapu osídlenia vyvýšeniny Chochel zo včasnej doby dejinnej možno rozdeliť do troch fáz, resp. rámcových úsekov z neskorej doby laténskej až včasnej doby rímskej, staršej a neskorej doby rímskej. Prejavy aktivít obyvateľstva z uvedených úsekov sa dajú postrehnúť na fortifikácii, v sídliskových objektoch a v materiálnej kultúre.\n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vo včasnej dobe dejinnej došlo k opätovnému sfunkčneniu staršej fortifikácie z prvej etapy osídlenia počas neskorej doby laténskej. Táto doba je na našom území spojená s keltským etnikom. Využil sa pritom v minulosti známy a neraz aplikovaný spôsob. Jeho princípom je vybudovanie nového, mohutnejšieho telesa projektovaného tak, aby bola v rámci neho účelne využitá aj staršia fortifikácia. V súlade s touto koncepciou bola v popredí valu z prvej etapy osídlenia zrovnaná zemina zosúvajúca sa z jeho telesa dolu svahom. Táto úroveň bola následne prekrytá 15 – 18 cm hrubou vrstvou piesčitej hliny premiešanej s ostrohranným štrkom, ktorá mohla mať izolačnú i drenážnu funkciu. Dolné ukončenie tejto vrstvy sa zachytilo pred okrajom priekopy. Nad jej horným koncom sa vybudovala roštová konštrukcia. V priereze dosahovala šírku cca 3 m. V rozpätí necelého metra sa v jej profile zaznamenali stopy po piatich vertikálne umiestnených drevených trámoch. Na vyplnenie konštrukcie sa využila predovšetkým svetložltá podložná hlina, sporadicky aj malé a stredne veľké kamene. Pri okrajoch čelnej i zadnej steny ju dopĺňala tyčovina. Jej prúty boli voči priečnej línii ukladané zošikma pod uhlom cca 45 – 50°. Priečelie roštovej konštrukcie chránila stena zložená z kameňov spájaných hlinou. Zachovala sa z nej najspodnejšia základová úroveň, zložená z veľkých a stredne veľkých kameňov. Koruna hradby mohla byť ukončená drevenou nadstavbou. Pred hradbou sa nachádzala priekopa. Opevnenie z neskorej doby laténskej zničil mohutný požiar. Funkcia hradiska bola s veľkou pravdepodobnosťou opäť obnovená počas ďalšej fázy osídlenia. Nedošlo pritom k rozsiahlejšej prestavbe pôvodného, ale iba k obmedzenej úprave daného stavu. Pokiaľ ide o sídliskové objekty, boli na lokalite najčastejšie zastúpené zásobnicové jamy. Zaznamenané boli tiež pozostatky oválnych chát, ojedinelo zaznamenaných na sídliskách v Branci a Veľkom Mederi.\n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhufLZesNWSG7PF9I749eHAJ_lWIZsRbYJNKs-ZX5iF2agBwpJgJNthX9P2cZDbltcDfYb2w_hwdFJJwqz-lBVOIb-BIksKeq5FNXnsb3ygH5Wu208BmUv0_A1Hv9_A5Ano79jcbOpoJ2U/s0/na%25CC%2581l1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhufLZesNWSG7PF9I749eHAJ_lWIZsRbYJNKs-ZX5iF2agBwpJgJNthX9P2cZDbltcDfYb2w_hwdFJJwqz-lBVOIb-BIksKeq5FNXnsb3ygH5Wu208BmUv0_A1Hv9_A5Ano79jcbOpoJ2U/s1600/na%25CC%2581l1.jpg",
+          "filename": "na%CC%81l1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhufLZesNWSG7PF9I749eHAJ_lWIZsRbYJNKs-ZX5iF2agBwpJgJNthX9P2cZDbltcDfYb2w_hwdFJJwqz-lBVOIb-BIksKeq5FNXnsb3ygH5Wu208BmUv0_A1Hv9_A5Ano79jcbOpoJ2U/s1600/na%25CC%2581l1.jpg",
+            "displayedWidth": 220,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Skalka nad Váhom",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najväčšiu osídlenosť návršia Chochel zaznamenávame vo včasnodejinnom období, najmä v neskorej dobe laténskej až včasnej dobe rímskej. Predovšetkým obdobie púchovskej kultúry je bohato zastúpené. Toto osídlenie reprezentujú početné črepy z keramiky typickej pre dané obdobie. Medzi drobnými predmetmi zo včasnej doby dejinnej sú najpočetnejšie rôznotvaré prasleny a brúsy z riečnych okruhliakov pozdĺžnej formy. Chronologicky citlivejšie sú zlomky poľnohospodárskych nástrojov, ktoré dopĺňa britva s poloblúkovým ostrím, časť skleného náramku modrej farby so šikmými plastickými rebrami a časť pružinových nožníc. Ďalej bola nájdená bronzová spona typu Alesia, spona s prehnutým lučíkom zo železnej tyčinky, bronzový priečne žliabkovaný náramok a železná omegovitá spona, bronzová spona typu Almgren a zlomok bronzovej zápony včasného noricko-panónskeho typu. Zaujímavé sú tiež nôž s oblúkovým chrbtom a hrot kopije s tulajkou.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQnqJ8Iq96xl14UpQ2CA0sTHubj3xE1yJAuqwGH7KdlyEnXeNmqZX74bMQHjoRx4vOo6mUiQglvFhgGjr6Jc4X9T0wGCPobHj9YDEbXQco6inksS0by_KorcMYWC_mZqpo1mqmzDX3fPI/s0/na%25CC%2581l2.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQnqJ8Iq96xl14UpQ2CA0sTHubj3xE1yJAuqwGH7KdlyEnXeNmqZX74bMQHjoRx4vOo6mUiQglvFhgGjr6Jc4X9T0wGCPobHj9YDEbXQco6inksS0by_KorcMYWC_mZqpo1mqmzDX3fPI/s1600/na%25CC%2581l2.jpg",
+          "filename": "na%CC%81l2.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQnqJ8Iq96xl14UpQ2CA0sTHubj3xE1yJAuqwGH7KdlyEnXeNmqZX74bMQHjoRx4vOo6mUiQglvFhgGjr6Jc4X9T0wGCPobHj9YDEbXQco6inksS0by_KorcMYWC_mZqpo1mqmzDX3fPI/s1600/na%25CC%2581l2.jpg",
+            "displayedWidth": 223,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Skalka nad Váhom",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Poľnohospodárske zameranie obyvateľstva potvrdzujú nielen železné nástroje, ale aj zásobnicové jamy a skladba zvieracích kostí získaných z objektov a zo sídliskovej vrstvy. Väčšina pochádza z domácich zvierat, najmä oviec, hovädzieho dobytka a kôz. Z voľne žijúcich zvierat to boli jeleň, pratur a diviak. Na niektorých kostiach sa zaznamenali stopy po hryzení psami, iné zásahy treba spojiť s úpravou mäsových častí zvierat človekom, vrátane pečenia. Výrazné znaky na jeleních parohoch dokladajú snahu o ich primárne praktické využitie. Nie všetky kusy parožia sa získali z ulovených zvierat. Výnimočné nebolo ani zbieranie zhodených parohov. Skladba voľne žijúcich zvierat pritom naznačuje, že okolie lokality mohlo byť pokryté presvetleným zmiešaným lesom. S blízkosťou vodného toku treba dať do súvisu nález kostí bobra a lastúr riečnych mäkkýšov, využívaných ako náhradného zdroja mäsitej potravy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO0TYwSugc2DnWqnuNlxN1kCFeX0iQ_-PyFf8g2FBKWKUy7ctSEP8vx9uiibkf3h5-If49CeUhFJTW3lYxErBevV8TjuxOmJN-XtM0Sx5U0GTZZqIM9DcT-3xTj82SJi4YOmNbklxbEyc/s0/1950.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO0TYwSugc2DnWqnuNlxN1kCFeX0iQ_-PyFf8g2FBKWKUy7ctSEP8vx9uiibkf3h5-If49CeUhFJTW3lYxErBevV8TjuxOmJN-XtM0Sx5U0GTZZqIM9DcT-3xTj82SJi4YOmNbklxbEyc/s1600/1950.jpg",
+          "filename": "1950.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO0TYwSugc2DnWqnuNlxN1kCFeX0iQ_-PyFf8g2FBKWKUy7ctSEP8vx9uiibkf3h5-If49CeUhFJTW3lYxErBevV8TjuxOmJN-XtM0Sx5U0GTZZqIM9DcT-3xTj82SJi4YOmNbklxbEyc/s1600/1950.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 182,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Skalka nad Váhom",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zánik neskorolaténskej fortifikácie mohutným požiarom vo včasnej dobe rímskej možno spojiť s príchodom Germánov a rovnakým spôsobom postihli viaceré opevnené útvary ľudu púchovskej kultúry. Ich pričinením došlo k redukcii osídlenia, následne vystriedanej ústupom severným smerom – z trenčianskeho mikroregiónu do púchovskej oblasti. Uvoľnený priestor počas staršej doby rímskej postupne zapĺňali osady germánskych Kvádov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po obsadení územia Germánmi, najmä v čase markomanských vojen proti Rímskej ríši, bolo hradisko opätovne osídlené, pretože lokalita bola ľahko hájiteľná.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Stredovek – Sloveni",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z obdobia raného stredoveku, keď územie Považia obývali Sloveni, pochádza niekoľko sídliskových objektov, sakrálny objekt, predmety materiálnej kultúry a nekropola."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prvým z dvoch prebádaných slovanských objektov je zemnica umiestnená pod severozápadným okrajom zosúvajúceho sa telesa včasnodejinného valu, v susedstve prístupovej trasy na lokalitu. Jej pozdĺžna os je súbežná so spádnicou zvažujúceho sa terénu. Dĺžku má 4,4 m, zahĺbenie 1,7 – 1,9 m. Z predpokladanej šírky 3 m sa zachytil úsek 1,9 m. Po obvode južného sektora sa zistili dve kolové jamy, ktorých stĺpy boli kvôli zabezpečeniu stability osadené v profiloch stien. Dve úrovne kompaktného výmazu dlážok svedčia o dlhodobejšom používaní objektu počas 9. – 10. stor. Druhý objekt reprezentuje prepálený výmaz kúreniska kupolovej pece z centrálnej časti lokality, pochádzajúci z 11. – 12. stor."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIO9k69gku84YOGeDTWJ8gmpm88K4pu3zqoo2RPLU2rGJBHXK9kkiA3kVpXuIDw_SbxIGAfhb2_0C6y13aDTo0Nh3iG0pyB8XifqcFFbItBZdCcCvlRZ7B-FH9wtTVKRn8hYWCmjtqQLM/s0/nal3.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIO9k69gku84YOGeDTWJ8gmpm88K4pu3zqoo2RPLU2rGJBHXK9kkiA3kVpXuIDw_SbxIGAfhb2_0C6y13aDTo0Nh3iG0pyB8XifqcFFbItBZdCcCvlRZ7B-FH9wtTVKRn8hYWCmjtqQLM/s1600/nal3.jpg",
+          "filename": "nal3.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIO9k69gku84YOGeDTWJ8gmpm88K4pu3zqoo2RPLU2rGJBHXK9kkiA3kVpXuIDw_SbxIGAfhb2_0C6y13aDTo0Nh3iG0pyB8XifqcFFbItBZdCcCvlRZ7B-FH9wtTVKRn8hYWCmjtqQLM/s1600/nal3.jpg",
+            "displayedWidth": 221,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Skalka nad Váhom",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Základy svätyne",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V strednej časti lokality, na priesečníku jej pozdĺžnej a priečnej osi, bol vybudovaný sakrálny objekt. Skladal sa z lode nepravidelnej štvorcovej dispozície a plytko vyklenutej poloblúkovej apsidy. Jeho vonkajšie rozmery charakterizuje údaj 5,3 × 5,4 – 5,6 m, resp. 6,2 m vrátane apsidy. Pozdĺžna os objektu, vedená stredom apsidy, má smer JV-SZ, je teda o 43° odklonená od sakrálnej osi vytyčovanej v línii V-Z. Z južnej strany sa k múru primykajú dva štvorcovité výstupky, ktoré sú najskôr zvyškom základov šijovitého prekrytia vstupného portálu. \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Objekt sa zachoval v podobe jedného až dvoch najspodnejších riadkov základového muriva, vybudovaného z lomových kameňov miestnej proveniencie, spájaných maltou. Kamene z niektorých úsekov obvodového muriva spájala iba hlina. Interiérová dlážka bola na spôsob terakotovej väzby pokrytá tenkými plochými pieskovcovými kameňmi. Úplná absencia kameňov z okolia sakrálnej stavby vyvoláva pochybnosti o tom, že z tohto materiálu boli vybudované jej obvodové steny, prípadne i šijovité prekrytie vstupného portálu. V pozitívnom prípade by nebola zanedbateľná jeho kubatúra, ktorú možno odhadnúť na vyše 30 m³. Výskumom sa však nezachytili ani zlomky maltového pojiva, ktoré by zostalo na mieste, aj keby sa murivo rozoberalo a kamene by sa transportovali k druhotnému využitiu na iné miesto. Nemožno preto vylúčiť, že steny sakrálneho objektu mohli byť vybudované z dreva. Koncentrovaný výskyt železných skôb a klincov v okolí sakrálneho objektu patrí takisto k dokladom použitia dreva a konštrukčného spájania niektorých jeho častí. Výskumom odkrytý priebeh základového muriva pripomína podmurovky drevených sakrálnych stavieb, zhotovovaných vo včasnom i vrcholnom stredoveku viacerými technikami. Z 10. – 12. stor. sú takéto stavby doložené v susednom Rakúsku a Polsku, no v hojnejšom počte v krajinách západnej a severnej Európy. Vo väčšine prípadov predstavovali sakrálne provizóriá, ktoré sa po istom čase nahrádzali kamennými. Milan Hanuliak uvádza, že je pravdepodobné, že kostol bol postavený už v období existencie Veľkej Moravy. Dokazujú to viaceré skutočnosti, ako napr. umiestnenie stavby, bežne používané v 9. storočí, ale nevyskytujúce sa v časoch rozvoja sakrálnej architektúry v uhorskom štáte v 11. a 12. storočí.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhpgtIoDsQMMG-wLgEXXMGNFBhKKBNkpjxRh014tPQo80dW7mzwtD7WbB3i-Lbe_BWhdAmZE81OzHCZvBnZJCMQ4QuAxLPmdsz4E8exqL0d11xablYF_7pyNIQufe7i3drb3WFPSae94Y/s0/32550240_10209503369379955_3328433885842243584_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhpgtIoDsQMMG-wLgEXXMGNFBhKKBNkpjxRh014tPQo80dW7mzwtD7WbB3i-Lbe_BWhdAmZE81OzHCZvBnZJCMQ4QuAxLPmdsz4E8exqL0d11xablYF_7pyNIQufe7i3drb3WFPSae94Y/s1600/32550240_10209503369379955_3328433885842243584_n.jpg",
+          "filename": "32550240_10209503369379955_3328433885842243584_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhpgtIoDsQMMG-wLgEXXMGNFBhKKBNkpjxRh014tPQo80dW7mzwtD7WbB3i-Lbe_BWhdAmZE81OzHCZvBnZJCMQ4QuAxLPmdsz4E8exqL0d11xablYF_7pyNIQufe7i3drb3WFPSae94Y/s1600/32550240_10209503369379955_3328433885842243584_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 156,
+            "originalWidth": 642,
+            "originalHeight": 314
+          }
+        },
+        "alt": "Hypotetická rekonštrukcia podľa R. Erdélyi a B. Vachovej z knihy Andreja Boteka – Veľkomoravské kostoly na Slovensku a odraz ich tradície v neskoršom období.",
+        "caption": "Hypotetická rekonštrukcia podľa R. Erdélyi a B. Vachovej z knihy Andreja Boteka – Veľkomoravské kostoly na Slovensku a odraz ich tradície v neskoršom období.",
+        "position": "right",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Posunutie počiatkov vybudovania sakrálneho objektu do 9. stor. podporuje tiež koncentrácia charakteristických keramických nálezov v jeho najbližšom okolí a skupina šiestich hrobov z 9. – 10. stor., umiestnených za jeho apsidou. V tomto chronologickom rámci, na rozdiel od sakrálneho kánonu usmerňujúceho orientáciu pozdĺžnej osi vrcholnostredovekých kostolov, nie je až natoľko neprípustné odklonenie analyzovaného objektu od orientácie používanej v neskoršom období. S časťou uvedených skutočností je úzko spojená aj otázka funkčnosti odkrytého objektu. Celková plocha lode 14,8 m² sotva mohla byť určená pre početnejšiu skupinu veriacich. V tomto detaile možno azda tiež vidieť prejav kultového archaizmu, keď sa sakrálny objekt považuje za príbytok boha a účastníci bohoslužieb stoja v jeho exteriéri."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSVbg1Hvrb1CNx_jjEjSoa0ssJzfWFhyf4yr1DT1rMwht5yk6Pe4cNCeusO91B11B2eNEoksEqcHa7LZQuB79sIhKFZCZ-ZJ2hcqC3rk2bqQSPzl5zRbwzMzMRccjbxcSiF8TnwWxXug/s0/zakl.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSVbg1Hvrb1CNx_jjEjSoa0ssJzfWFhyf4yr1DT1rMwht5yk6Pe4cNCeusO91B11B2eNEoksEqcHa7LZQuB79sIhKFZCZ-ZJ2hcqC3rk2bqQSPzl5zRbwzMzMRccjbxcSiF8TnwWxXug/s1600/zakl.jpg",
+          "filename": "zakl.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSVbg1Hvrb1CNx_jjEjSoa0ssJzfWFhyf4yr1DT1rMwht5yk6Pe4cNCeusO91B11B2eNEoksEqcHa7LZQuB79sIhKFZCZ-ZJ2hcqC3rk2bqQSPzl5zRbwzMzMRccjbxcSiF8TnwWxXug/s1600/zakl.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 244,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Skalka nad Váhom",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Je pritom pozoruhodné, že táto stavba, aj napriek archaickej podstate zaznamenaných výnimočností (dispozícia, rozmery, absencia oltárnej menzy, zrejme aj drevená konštrukcia stien), mala v období 11. až 13. storočia atribúty farského kostola. Dokladom toho je nielen prikostolný cintorín, ale aj písomná zmienka o farárovi z obce Skala, ktorý neskôr vstúpil do benediktínskeho opátstva založeného na Skalke v roku 1224. Keďže spolu s ním prešlo do kláštorného imania aj poddanské hospodárstvo fary, je zrejmé, že sakrálny objekt prestával plniť niekdajšie funkcie, pustol a zanikol. Rovnakým spôsobom sa zrejme utlmovalo a neskôr aj ukončilo pochovávanie na prikostolnom cintoríne."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Všetky okolnosti okolo predmetného kostolíka na hradisku sú tak trochu záhadou. Bol teda kamenný alebo drevený? Pochádza z čias Veľkej Moravy alebo bol postavený až v čase rozvoja sakrálnej architektúry v Uhorskom kráľovstve? Išlo vôbec o kresťanskú stavbu, alebo tu pôvodne stál pohanský chrám, ktorý zostal v povedomí pospolitého ľudu ako na začiatku spomenutý „Venušin chrám“? Prečo na hradisku, ktoré nesie viaceré znaky skôr útočiskového charakteru, niekto staval kostol, keď niekoľko kilometrov od Skalky sa nachádzalo centrálne hradisko na mieste dnešného Trenčianskeho hradu? Jednou z najväčších záhad však zostáva hrob upíra, nachádzajúci sa vo vnútri svätyne.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Upír vo svätyni na hradisku",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prípad jedinca z hrobu umiestneného v interiéri sakrálneho objektu by mohol na prvý pohľad pripomínať aplikáciu zásady zakotvenú v „Legis Salicae“, podľa ktorej sa mal nad hrobom významného jedinca vybudovať sakrálny objekt. Avšak nebožtík z interiéru svätyne na hradisku Skalka sotva mohol pochádzať zo súvekej kategórie významnejších jedincov preto, že boli na ňom vykonané protivampírické praktiky vrátane dodatočného odstránenia hlavy a zaťaženia hornej časti trupu jedenástimi kameňmi. Ako bolo spomenuté, kostre chýbala lebka s piatimi krčnými stavcami, ktoré boli z hrobu dodatočne odstránené.\n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prejavy tohto druhu sú v našom prostredí označované ako posteriórne protivampírické praktiky a vykonávali sa najmä na nekostolných pohrebiskách s viacerými doznievajúcimi prejavmi pohanského rítu. Z prostredia Veľkej Moravy poznáme viacero prípadov tzv. vampírskych hrobov, keď boli jedinci z rituálnych dôvodov po smrti, resp. po pochovaní dodatočne zohavení, najmä odstránením niektorej končatiny, hlavy, alebo zaťažení veľkými balvanmi. Účelom týchto praktík mohla byť napr. snaha zaistiť, aby nebožtík nemohol vstať z hrobu a páchať zlo na živých.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd_vP67iBaJfd4cm_Z_fUIcQuLz9vZCykTFN1TMG0lpIvYuayW-bGQQPKO2F0TzS_1ouGDQyhtEZv1IPV0FNfGfZruJtYKQeiEFrOz1rFaBReNAqGAwm44diHJkpOfK52VgtfWtgTRux4/s0/1450136_10151920187667347_1500818528_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd_vP67iBaJfd4cm_Z_fUIcQuLz9vZCykTFN1TMG0lpIvYuayW-bGQQPKO2F0TzS_1ouGDQyhtEZv1IPV0FNfGfZruJtYKQeiEFrOz1rFaBReNAqGAwm44diHJkpOfK52VgtfWtgTRux4/s1600/1450136_10151920187667347_1500818528_n.jpg",
+          "filename": "1450136_10151920187667347_1500818528_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd_vP67iBaJfd4cm_Z_fUIcQuLz9vZCykTFN1TMG0lpIvYuayW-bGQQPKO2F0TzS_1ouGDQyhtEZv1IPV0FNfGfZruJtYKQeiEFrOz1rFaBReNAqGAwm44diHJkpOfK52VgtfWtgTRux4/s1600/1450136_10151920187667347_1500818528_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 313,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Skalka nad Váhom",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nálezy zo stredoveku.",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Skupinu sídliskových nálezov už tradične reprezentujú keramické nádoby a ich fragmenty. Pochádzajú z hrncovitých foriem vyrobených v ruke, s obtáčanou hornou časťou pokrytou škálou výzdobných motívov príznačných pre 9. – 10. stor. Na základe miesta nájdenia je potrebné medzi sídliskové nálezy z 9. – 10. stor. zaradiť aj krúžkovú náušnicu z bronzového drôtu, bronzový gombík a hrot šípu so spätnými krídelkami. Do 10. – 11. stor. patrí romboidná a deltoidná forma hrotov šípov. Z ďalších nálezov možno uviesť plechové nákončie remeňa, bodec ostrohy, rybársky háčik, železný nôž a kostenú píšťalku, koráliky zo skla perleťovej farby, pásikový pozdĺžne žliabkovaný prsteň. Pri skorších výskumoch (v 30. rokoch) boli nájdené nože, hrncovitá nádoba, sekera bradatica, pieskovcový brús a bronzové nákončie z opaska, jazykovitého tvaru. Zopár ďalších nálezov pochádza aj z 11. a 12. storočia, pričom v tomto čase sa lokalita využívala ako pohrebisko. Našlo sa viacero prsteňov a ženských šperkov. Osobitú skupinu nálezov predstavujú mince. Z ich vlastností si ocenenie zaslúži najmä datovacia schopnosť. Dve, z pôvodne siedmich vykopaných kusov, sú uhorské anonymné denáre zo začiatku 12. stor. Sú oporou spresnenia počiatkov pochovávania na cintoríne.  \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCudeXuBctLLjiTX6v_dmPFrQRYSiW7ajwQKdOz3R5SZk53iGe1beVig8mWkQDLf2bUDEhQc_5-bljJ-WiMJbTJKWybEFraRhPPtcE7eemyI-FLvVXhyphenhyphenoImJZ-W_EubuOrxa3kleRby5m/s0/minca+d.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCudeXuBctLLjiTX6v_dmPFrQRYSiW7ajwQKdOz3R5SZk53iGe1beVig8mWkQDLf2bUDEhQc_5-bljJ-WiMJbTJKWybEFraRhPPtcE7eemyI-FLvVXhyphenhyphenoImJZ-W_EubuOrxa3kleRby5m/s1600/minca+d.jpg",
+          "filename": "minca+d.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCudeXuBctLLjiTX6v_dmPFrQRYSiW7ajwQKdOz3R5SZk53iGe1beVig8mWkQDLf2bUDEhQc_5-bljJ-WiMJbTJKWybEFraRhPPtcE7eemyI-FLvVXhyphenhyphenoImJZ-W_EubuOrxa3kleRby5m/s1600/minca+d.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 177,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Skalka nad Váhom",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V porovnaní s charakterom pravekého a včasnodejinného osídlenia vyvýšeniny Chochel došlo počas stredoveku k premene a do popredia vystúpila sakrálna zložka. Dosiaľ neznáme dôvody rozhodli o tom, že tento spoľahlivo hájiteľný areál s typickými znakmi veľkomoravských refugiálnych hradísk nebol súvislejšie osídlený. V priebehu druhej polovice 9. stor. sa tu s veľkou pravdepodobnosťou vybudoval drevený sakrálny objekt špecifickej dispozície a v priestore za jeho apsidou sa začalo pochovávať.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V priebehu prvých troch chronologických úsekov (staršia doba bronzová, neskorá doba laténska, staršia doba rímska) bol areál využívaný ako opevnené výšinné sídlisko. Skalka vďaka svojej polohe a vzhľadom na blízkosť centrálneho hradiska na trenčianskom hrade, vojensko-strážne a refugiálne využitie, doplnené prípadne o povinnosť ochrany jednej z cestných trás smerujúcich k horskému priesmyku."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHcxtg9WG9q57w8fZwKfy9V1OUk8FuLehVxzWmFPORtxRpQwVzdoMpVLqOSQeMIy1BCLEvlB7r-N8qvUe5NlJUs_qUw-DFXVt5bEcnkleDrNm5O3U7ddl7dsFsCzbhV4CNi6Jzv3ku54Q/s0/nal4.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHcxtg9WG9q57w8fZwKfy9V1OUk8FuLehVxzWmFPORtxRpQwVzdoMpVLqOSQeMIy1BCLEvlB7r-N8qvUe5NlJUs_qUw-DFXVt5bEcnkleDrNm5O3U7ddl7dsFsCzbhV4CNi6Jzv3ku54Q/s1600/nal4.jpg",
+          "filename": "nal4.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHcxtg9WG9q57w8fZwKfy9V1OUk8FuLehVxzWmFPORtxRpQwVzdoMpVLqOSQeMIy1BCLEvlB7r-N8qvUe5NlJUs_qUw-DFXVt5bEcnkleDrNm5O3U7ddl7dsFsCzbhV4CNi6Jzv3ku54Q/s1600/nal4.jpg",
+            "displayedWidth": 220,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Skalka nad Váhom",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zaiste nie bez hlbšej súvislosti vystupuje aj vzdialenosť tejto lokality od miesta, kde bolo v roku 1224 nitrianskym biskupom Jakubom založené benediktínske opátstvo. Ide o úzku terasu s jaskyňou, kde mal podľa tradície umiestnenú svoju pustovňu mních Benedikt, vyhlásený neskôr, spolu s Andrejom (Svoradom), za svätého. Jaskynná pustovňa bola ideálnym spôsobom odsunutá od trasy frekventovanej považskej komunikácie i novobudovaného administratívneho centra z trenčianskej hradnej vyvýšeniny. Navyše, leží iba 800 m od sakrálneho objektu z vyvýšeniny Chochel, ktorý je zrejme najstaršou pamiatkou tohto druhu v severnej časti Stredného Považia. \n \n Fotogaléria - Julka Spustová:\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Foto Laco Šubovič:\n \n "
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z vtáčej perspektívy:\n \n "
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "MILAN HANULIAK: SKALKA NAD VÁHOM A JEJ VÝZNAM V DEJINÁCH OSÍDLENIA TRENČIANSKEHO MIKROREGIÓNU, SLOVENSKÁ ARCHEOLÓGIA XLVI-2, 1998, 309 – 331",
+            "url": null
+          },
+          {
+            "text": "Ján Hunka: Vzácny nález byzantskej mince z 10. storočia z Považia, Zborník SNM, 2007",
+            "url": null
+          },
+          {
+            "text": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=18&c=18.074503,48.920673&sc=n&it=point&fbclid=IwAR3xPwpOdum4V7KXxNmb3-IgLZJ_n47mdDH1MT-omiyEV7m0fime65UDlb8#",
+            "url": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=18&c=18.074503,48.920673&sc=n&it=point&fbclid=IwAR3xPwpOdum4V7KXxNmb3-IgLZJ_n47mdDH1MT-omiyEV7m0fime65UDlb8#"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "MILAN HANULIAK: SKALKA NAD VÁHOM A JEJ VÝZNAM V DEJINÁCH OSÍDLENIA TRENČIANSKEHO MIKROREGIÓNU, SLOVENSKÁ ARCHEOLÓGIA XLVI-2, 1998, 309 – 331"
+      },
+      {
+        "type": "book",
+        "text": "Ján Hunka: Vzácny nález byzantskej mince z 10. storočia z Považia, Zborník SNM, 2007"
+      },
+      {
+        "type": "external-url",
+        "url": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=18&c=18.074503,48.920673&sc=n&it=point&fbclid=IwAR3xPwpOdum4V7KXxNmb3-IgLZJ_n47mdDH1MT-omiyEV7m0fime65UDlb8#",
+        "title": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=18&c=18.074503,48.920673&sc=n&it=point&fbclid=IwAR3xPwpOdum4V7KXxNmb3-IgLZJ_n47mdDH1MT-omiyEV7m0fime65UDlb8#"
+      }
+    ]
+  }
+}

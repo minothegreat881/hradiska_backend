@@ -1,0 +1,29 @@
+{
+  "slug": "zilina-zavodie",
+  "note": "grammar-sk agent, druhý prechod. Najzávažnejšie nálezy: rozbitý excerpt a 2 obrázkové popisky obsahovali surové zvyšky CSS (OpenOffice/LibreOffice paste-formatting z e1 zdroja z roku 2016) a sekcia Zdroje mala 10 duplicitných položiek zhodných s galériou.",
+  "criticalFixes": [
+    { "issue": "Excerpt bol kompletne nepoužiteľný — obsahoval len surový CSS blok ('p { margin-bottom: 0.25cm; ... }'), žiadny skutočný text.", "fix": "Nahradený správnym perexom zo začiatku tela (blok 0)." },
+    { "issue": "Obrázkové popisky (blok 5, 7 aj zodpovedajúce galérijné médiá 2645, 2646) mali CSS junk prilepený pred skutočný text popisku.", "fix": "CSS odstránený, ponechaný len reálny text popisku. Opravené v tele aj v Media Library." },
+    { "issue": "Galérijné médium 2648 (obr.6.JPG, mimo tela) malo rovnaký CSS junk problém, plus 'n.l.' bez medzery.", "fix": "Vyčistené priamo v Media Library." },
+    { "issue": "Sekcia Zdroje mala 11 položiek — 1 skutočná bibliografia + 10 duplicitných popiskov fotiek, ktoré už existovali v galérii s identickým textom.", "fix": "10 duplicitných items odstránených, ponechaná a preformátovaná jediná skutočná citácia (Moravčík 2015)." }
+  ],
+  "appliedFixes": [
+    { "rule": "A9 malé písmeno pri prídavnom mene z vlastného mena", "before": "Toto zaujímavé Žilinské hradisko", "after": "Toto zaujímavé žilinské hradisko", "block": 0 },
+    { "rule": "B typografia", "before": "dediny Strážov“.", "after": "dediny Strážov\".", "block": 0 },
+    { "rule": "D cross-field (nezhoda mena, telo vs. timeline)", "before": "príspevok R. Zauymusa", "after": "príspevok R. Zaymusa", "block": 0, "note": "timeline malo už 'Zaymusa' — zjednotené na tvar z timeline, keďže telo malo zjavne OCR-vloženú nadbytočnú hlásku 'u'; nemožno externe overiť, nízka miera istoty" },
+    { "rule": "A9 zložené prídavné meno = spojovník, nie pomlčka", "before": "kamenisto – hlinitým valom", "after": "kamenisto-hlinitým valom", "block": 1 },
+    { "rule": "B typografia (atribúcia)", "before": "hradiska - Martin Gavlás", "after": "hradiska — Martin Gavlás", "block": 2, "note": "aj alt" },
+    { "rule": "A7 bohemizmus", "before": "útočištným opevnením", "after": "útočiskovým opevnením", "block": 4, "note": "aj v KF 'Funkcia hradiska'" },
+    { "rule": "A4 predložková väzba", "before": "zrejme slúžilo k ochrane obyvateľstva", "after": "zrejme slúžilo na ochranu obyvateľstva", "block": 4 },
+    { "rule": "A1 nadbytočná čiarka (podmet-prísudok)", "before": "svojou rozlohou asi 6 ha, je podobné", "after": "svojou rozlohou asi 6 ha je podobné", "block": 6 },
+    { "rule": "A8", "before": "kedy tu sídlil ľud", "after": "keď tu sídlil ľud", "block": 6 },
+    { "rule": "B typografia (chýbajúca medzera v en dash)", "before": "5.–6. storočie", "after": "5. – 6. storočie", "block": "timeline", "note": "telo (blok 4) malo už správne '5. – 6. stor.' — timeline bolo nesynchronizované" }
+  ],
+  "reviewed_no_change": [
+    "Blok 3 — bez chýb.",
+    "'Autor textu: Mgr. Jozef Moravčík' na konci bloku 6 ponechané — informatívna atribúcia tretej strany (nie Orgoňov podpis), nie je to jasný prípad na odstránenie ako pri iných článkoch."
+  ],
+  "flags": [
+    "R. Zaymusa/Zauymusa — meno opravené na základe zhody s timeline, nie externe overené. Ak sa objaví pôvodný zdroj (Sborník Muzeálnej slovenskej spoločnosti, 1900), over správny tvar."
+  ]
+}

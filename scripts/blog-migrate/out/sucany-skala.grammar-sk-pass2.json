@@ -1,0 +1,24 @@
+{
+  "slug": "sucany-skala",
+  "note": "grammar-sk agent, druhý prechod.",
+  "appliedFixes": [
+    { "rule": "B typografia", "before": "„Skala“", "after": "„Skala\"", "block": 1 },
+    { "rule": "A1 uzavretie vsuvky", "before": "zverejnil v roku 1930 uvádza", "after": "zverejnil v roku 1930, uvádza", "block": 1 },
+    { "rule": "A2 pozícia sa", "before": "val k b z i l ťahá sa oblúkom", "after": "val k b z i l sa ťahá oblúkom", "block": 3 },
+    { "rule": "A2 pozícia sa", "before": "ktorý v bode m na kóte 423 pripojuje sa ku skale", "after": "ktorý sa v bode m na kóte 423 pripojuje ku skale", "block": 3 },
+    { "rule": "A7 bohemizmus", "before": "Jeho dĺžka činí 108 m.", "after": "Jeho dĺžka dosahuje 108 m.", "block": 3 },
+    { "rule": "A7 bohemizmus", "before": "Výška valu m o c s n činí smerom k hradisku 8 m", "after": "... dosahuje smerom k hradisku 8 m", "block": 3 },
+    { "rule": "A2 pozícia sa + preklep", "before": "vznáša sa nado dnom priľahlej priekopy", "after": "sa vznáša nad dnom priľahlej priekopy", "block": 3 },
+    { "rule": "A8", "before": "velmi nedokonalá", "after": "veľmi nedokonalá", "block": 3 },
+    { "rule": "A1 nadbytočná čiarka (podmet-prísudok) + B typografia", "before": "4350 m2, má tvar podkovy", "after": "4350 m² má tvar podkovy", "block": 5 },
+    { "rule": "A7 bohemizmus", "before": "(snáď peňazokazeckú)", "after": "(azda peňazokazeckú)", "block": 6 },
+    { "rule": "D cross-field (excerpt bol nesynchronizovaný)", "before": "so stránky zemepisnej", "after": "zo stránky zemepisnej", "block": "excerpt" },
+    { "rule": "B typografia (KF malo en dash bez medzier)", "before": "0,30–0,40 m", "after": "0,30 – 0,40 m", "block": "keyFacts" }
+  ],
+  "reviewed_no_change": [
+    "Blok 0, 4 — bez chýb.",
+    "Letter-labely valov (k b z i l, m o c s n, o p d r s) ponechané v pôvodnom formáte s medzerami — nejde o číselný rozsah, ktorého sa typografické pravidlá B priamo týkajú; nebolo súčasťou zadania grammar-sk špecifikácie.",
+    "'sa podarilo zachytiť' (blok 6) — pozícia sa v zloženej vete s dlhým podmetom, akceptovateľná variácia, neopravené."
+  ],
+  "flags": []
+}

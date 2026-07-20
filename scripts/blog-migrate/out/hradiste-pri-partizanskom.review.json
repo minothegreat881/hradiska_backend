@@ -1,0 +1,24 @@
+{
+  "slug": "hradiste-pri-partizanskom",
+  "note": "FLAG-only nálezy z grammar-sk pass1+pass2, nevyriešené, čakajú na rozhodnutie používateľa.",
+  "flags": [
+    {
+      "location": "blogPost.blocks[23-26] (content.rich-text: 'Zdroj: Janšák...', 'Štefan Ďurina: Hradište — Pamätnica obce...', 'Súpis pamiatok I....Ruttkay, A....', heading 'Zborník SNM, LXXXIII? História 29, 1989')",
+      "issue": "DUPLICATE_BIBLIO — rovnaká bibliografia je už štruktúrovane v blogPost.blocks[31] (content.sources.items, 5 položiek) aj v blogPost.citations[] (5× type:book). Bloky 23-26 v tele sú doslovný/takmer doslovný duplikát toho istého obsahu, len ako obyčajný rich-text (jeden záznam dokonca zlepený s ďalším cez dvojitú medzeru — mechanicky opravené na bodku, ale duplicita ako celok nebola riešená).",
+      "action_taken": "Text v blokoch 23-26 NEBOL vymazaný ani zlúčený — iba mechanicky opravená typografia (dvojitá medzera, pomlčka v podtitule knihy). Podľa §21.5 je DUPLICATE_BIBLIO/BIBLIO_IN_BODY vecou na nahlásenie, nie na tiché zmazanie.",
+      "decision_needed": "Odstrániť bloky 23-26 z tela (canonical verzia už existuje v content.sources+citations), alebo ich ponechať ako viditeľný text v článku (nie každý článok v korpuse skrýva Zdroje len do bočného content.sources bloku)?"
+    },
+    {
+      "location": "blogPost.blocks[27-29] (heading 'Foto:', heading 'Tomáš Kytka', heading 'Tomáš Humaj')",
+      "issue": "Osirotené fragmenty fotoautorstva (§21.9/§21.10 vzor). 'Foto:' duplicitne zodpovedá citations[] položke type:attribution text:'Foto:'. 'Tomáš Kytka' je redundantný voči už existujúcej popiske 'foto: Tomáš Kytka' na obrázku (blok 8) — bez informačnej straty pri zmazaní. ALE 'Tomáš Humaj' NIE JE nikde inde v článku priradený k žiadnemu konkrétnemu obrázku — 4 obrázky v tele (DJI_0080aaa, DJI_0090aaa, DJI_0097aaa, pôdorys+janšák, prierez+Janšák) aj viacero obrázkov len v galérii nemajú caption/autora.",
+      "action_taken": "Ponechané bez zásahu (okrem diakritiky v susednom bloku 30 'AU SAV'→'AÚ SAV', ktorý má rovnaký charakter osirotenej skratky, pravdepodobne fotoautor pre letecké/dronové zábery DJI_*).",
+      "decision_needed": "Ktorému z obrázkov (pravdepodobne dronové DJI_ zábery) patrí kredit 'Tomáš Humaj' a ktorému 'AÚ SAV'? Bez explicitnej väzby v origináli nemožno priradenie domyslieť (riziko MISSING_WORD/vymyslenej väzby, §21.6 bod 1) — treba ľudské rozhodnutie, prípadne pôvodný Blogger postup na overenie."
+    },
+    {
+      "location": "blogPost.blocks[26] heading 'Zborník SNM, LXXXIII? História 29, 1989'",
+      "issue": "Otáznik v rímskej číslici ('LXXXIII?') pôsobí ako autorova vlastná neistota o presnom čísle ročníka zborníka, nie chyba extrakcie.",
+      "action_taken": "Ponechané bez zmeny — ide o autentickú autorskú neistotu prevzatú z pôvodného blogového textu, nie o niečo, čo má gramatický agent 'opraviť' vymyslením správneho čísla.",
+      "decision_needed": "Žiadne bezprostredné — len na vedomie, ak by niekto v budúcnosti chcel overiť presné číslo ročníka Zborníka SNM."
+    }
+  ]
+}

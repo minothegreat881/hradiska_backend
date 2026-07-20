@@ -1,0 +1,12 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Bratislava, 13.7.2026.",
+  "corrections": [
+    { "hint": 8, "before": "dĺžka steny mala 10 n Vonkajšia strana", "after": "dĺžka steny mala 10 m. Vonkajšia strana", "reason": "preklep jednotky (m nie n) + chýbajúca bodka medzi vetami" },
+    { "hint": 8, "before": "koncom 14. storočia odbúraná Veža nedosahovala", "after": "koncom 14. storočia odbúraná. Veža nedosahovala", "reason": "chýbajúca bodka medzi vetami" },
+    { "hint": 13, "before": "predpokladať , že", "after": "predpokladať, že", "reason": "medzera pred čiarkou" },
+    { "hint": 18, "before": "velkomoravský gombík", "after": "veľkomoravský gombík", "reason": "chýbajúci mäkčeň, konzistentne s článkom" },
+    { "hint": 18, "before": "z 11. storočia, kto: obsahoval", "after": "z 11. storočia, ktorý obsahoval", "reason": "rozbité slovo (preklep)" },
+    { "hint": 20, "before": "remeselníkov . Prvá", "after": "remeselníkov. Prvá", "reason": "medzera pred bodkou" },
+    { "hint": 36, "before": "podlá vykrojeného tela", "after": "podľa vykrojeného tela", "reason": "zle umiestnená diakritika" }
+  ]
+}

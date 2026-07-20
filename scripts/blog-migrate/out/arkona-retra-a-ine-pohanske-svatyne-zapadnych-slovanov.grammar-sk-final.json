@@ -1,0 +1,71 @@
+{
+  "slug": "arkona-retra-a-ine-pohanske-svatyne-zapadnych-slovanov",
+  "sourceDraft": "out/arkona-retra.grammar-sk-pass1.json",
+  "appliedAt": "2026-07-15",
+  "criticalFixes": [
+    {
+      "issue": "Draft claimed block 1 was missing the location name ('svätyňa z , ktorá ...').",
+      "resolution": "FALSE POSITIVE — investigated and found the name is NOT missing. It exists as a <link> child node (\"Mostu pri Bratislave\", href to the Most pri Bratislave article) positioned between two text nodes. The draft's plain-text flattening apparently dropped inline link text, producing the illusion of a gap. No text was inserted (would have duplicated the existing link). Verified the excerpt field (independently generated) already contains the full phrase '...svätyňa z Mostu pri Bratislave, ktorá...', confirming the body was never actually broken. Applied only the accompanying grammar/typography fixes to the two surrounding text nodes."
+    },
+    {
+      "issue": "Block 23: broken fragment '... from ... on ...' — leftover Vimeo embed attribution scaffolding.",
+      "resolution": "Removed as proposed. Confirmed content ('Tworcza10 Group_Slavonic temple in Arkona, Rugian Peninsula from Tworcza10 Group on Vimeo') is pure template debris immediately following the real content.embed block (22) which already carries the video. Block count 40 -> 39."
+    }
+  ],
+  "appliedFixes": [
+    { "block": 1, "rule": "A9 case", "before": "Absolútna väčšina Slovanských svätýň", "after": "Absolútna väčšina slovanských svätýň" },
+    { "block": 1, "rule": "B dash + A9 case", "before": "kresťanskej doby - tzn. zakryté budovy, vznikali iba v Polabskej a Pobaltskej oblasti", "after": "kresťanskej doby — tzn. zakryté budovy, vznikali iba v polabskej a pobaltskej oblasti" },
+    { "block": 4, "rule": "B dash", "before": "apotropaickú funkciu - podobná", "after": "apotropaickú funkciu — podobná" },
+    { "block": 4, "rule": "A4 case (dative)", "before": "o polabských Slovanov meno", "after": "o polabských Slovanoch meno" },
+    { "block": 4, "rule": "A1 vsuvka commas", "before": "ktorá spočívala ako už bolo povedané na základe", "after": "ktorá spočívala, ako už bolo povedané, na základe" },
+    { "block": 9, "rule": "B dash (apposition x2)", "before": "z konca 11. stor. - Adam Brémsky - poznal", "after": "z konca 11. stor. — Adam Brémsky — poznal" },
+    { "block": 9, "rule": "cross-field name (matches timeline id Halberstadtu)", "before": "biskup Burchard z Halberstadte.", "after": "biskup Burchard z Halberstadtu." },
+    { "block": 11, "rule": "B range dash", "before": "zo 7.-8. stor.", "after": "zo 7.–8. stor." },
+    { "block": 11, "rule": "A8 kedy->keď", "before": "V dobe, kedy Thietmar", "after": "V dobe, keď Thietmar" },
+    { "block": 14, "rule": "B dash", "before": "Miesto Svarožiča - Radegasta zaujal", "after": "Miesto Svarožiča — Radegasta zaujal" },
+    { "block": 14, "rule": "A7 bohemizmus", "before": "Snáď o žiadnom slovanskom bohu", "after": "Azda o žiadnom slovanskom bohu" },
+    { "block": 18, "rule": "B dash", "before": "so zatajeným dychom - pre každé", "after": "so zatajeným dychom — pre každé" },
+    { "block": 20, "rule": "A5 word order", "before": "Veľký význam mal kult poľnohospodársky.", "after": "Veľký význam mal poľnohospodársky kult." },
+    { "block": 20, "rule": "B dash", "before": "v noci vraj na ňom jazdil boh sám - to bol kôň spotený", "after": "v noci vraj na ňom jazdil boh sám — to bol kôň spotený" },
+    { "block": 20, "rule": "cross-field name (matches keyFacts 'Helmold')", "before": "Podľa kronikára Helmonda vraj", "after": "Podľa kronikára Helmolda vraj" },
+    { "block": 25, "rule": "B dash", "before": "rivalmi Ránov - Dánmi.", "after": "rivalmi Ránov — Dánmi." },
+    { "block": 26, "rule": "B range dash", "before": "z rokov 1969-1970", "after": "z rokov 1969–1970" },
+    { "block": 27, "rule": "A9 case", "before": "Na Rujanskom hradisku", "after": "Na rujanskom hradisku" },
+    { "block": 31, "rule": "B quotes (opening+closing, draft had a bug leaving closing quote ASCII — corrected to proper „…“ pair)", "before": "\"neuveriteľnej krásy\"", "after": "„neuveriteľnej krásy“" },
+    { "block": 32, "rule": "B quotes (same correction as block 31)", "before": "\"summus deus\"", "after": "„summus deus“" },
+    { "block": 34, "rule": "B multiplication sign", "before": "(7 x 11 m)", "after": "(7 × 11 m)" },
+    { "block": 35, "rule": "B dash + quotes (alt+caption, 2 occurrences)", "before": "Arkona - jeden z pokusov o \"rekonštrukciu\"", "after": "Arkona — jeden z pokusov o „rekonštrukciu“" },
+    { "block": 36, "rule": "A4 case", "before": "počas Ottovom kázania", "after": "počas Ottovho kázania" },
+    { "block": 37, "rule": "B quotes", "before": "chrám zvaný \"continu\", obklopený", "after": "chrám zvaný „continu“, obklopený" },
+    { "block": 37, "rule": "B dash", "before": "za kopije Júliusa Caesara - Prieflingenský mních", "after": "za kopije Júliusa Caesara — Prieflingenský mních" },
+    { "field": "content.sources + citations[]", "rule": "diacritics (Czech book title)", "before": "Bohové dávných Slovanú", "after": "Bohové dávných Slovanů" },
+    { "field": "content.sources + citations[]", "rule": "B dash + diacritics (matches poem block 24 source field verbatim)", "before": "Ancestral Volkhves - A Ruiny Prehovoria, Ked Stichne Cas", "after": "Ancestral Volkhves — A Ruiny Prehovoria, Keď Stíchne Čas" }
+  ],
+  "supplementalFixes_notInDraft": [
+    { "note": "Same mechanical B-dash rule pass1 already applied elsewhere in this article, found by a full-document sweep for ' - ' between words; not a new judgment call, purely typographic.", "items": [
+      { "block": 33, "field": "alt+caption (2 occurrences)", "before": "Hradisko Arkona - umelecká predstava (Temnozor)", "after": "Hradisko Arkona — umelecká predstava (Temnozor)" },
+      { "field": "gallery[filename=arkona+temnozor.jpg].caption", "before": "Hradisko Arkona - umelecká predstava (Temnozor)", "after": "Hradisko Arkona — umelecká predstava (Temnozor)" },
+      { "field": "gallery[filename=arkona.jpg].caption", "before": "Arkona - jeden z pokusov o \"rekonštrukciu\"", "after": "Arkona — jeden z pokusov o „rekonštrukciu“" },
+      { "field": "gallery[filename=gross-raden-tempel-2.jpg].caption", "before": "Hradisko Gross Raden bolo zrekonštruované - Približná podoba pohanskej svätyne", "after": "Hradisko Gross Raden bolo zrekonštruované — Približná podoba pohanskej svätyne" }
+    ]},
+    { "field": "gallery[filename=kaparkona7.jpg].caption", "rule": "A8 typo (letter transposition)", "before": "Rekonšrtukcia brány", "after": "Rekonštrukcia brány" }
+  ],
+  "crossFieldPropagation_step2": [
+    { "field": "excerpt", "rule": "A9 case (mirrors block 1 body fix)", "before": "Slovanských svätýň", "after": "slovanských svätýň" },
+    { "checked_no_change_needed": [
+      "keyFacts already used 'Halberstadtu' / 'Helmold' (nominative list, no genitive form present) — consistent, no action.",
+      "timeline already used 'Halberstadtu', em dashes, '1969–1970' — consistent, no action.",
+      "title/tags — no affected terms present."
+    ]}
+  ],
+  "reviewed_no_change": [
+    "5× content.poem blocks (modern poetry, own author 'Ancestral Volkhves' + unattributed) — left untouched, not grammatical prose.",
+    "Extended paraphrases/citations from Thietmar, Adam of Bremen, Ebbo and Herbord chronicles (blocks 4-9, 31-32, 36-37) — not in separate quote-block components, part of continuous narrative per pass1 note; only typography (dashes, quotes) touched, no lexical/bohemism changes made inside these passages to stay safe re: §21.3 spirit even though they are not formally 'protected zones'.",
+    "'ka.t' (block 37) — likely a damaged transcription of an Old Slavic root with a special diacritic (nasal vowel); left unchanged, insufficient confidence to correct."
+  ],
+  "flags_unresolved": [
+    "See out/arkona-retra-a-ine-pohanske-svatyne-zapadnych-slovanov.review.json"
+  ],
+  "blockCountChange": "40 -> 39 (block 23 removed)",
+  "uploadReady": true
+}

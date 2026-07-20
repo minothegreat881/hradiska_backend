@@ -1,0 +1,95 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "1856",
+      "title": "Prvá písomná zmienka o pružinskej ohrade",
+      "description": "Anton Intibus, jeden z prvých slovenských archeológov, ako prvý písal o tzv. pružinskej ohrade (Mesciská).",
+      "type": "discovery"
+    },
+    {
+      "year": "neskorá doba laténska",
+      "title": "Osídlenie púchovskou kultúrou",
+      "description": "Na hradisku sa našli nálezy patriace púchovskej kultúre z neskorej doby laténskej.",
+      "type": "era"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Slovanské osídlenie v období Veľkej Moravy",
+      "description": "Na hradisku sa našli slovanské črepy datované do 9. storočia, teda do obdobia existencie Veľkej Moravy.",
+      "type": "era"
+    },
+    {
+      "year": "9. - 10. storočie",
+      "title": "Možné využitie hradiska v čase vojenského ohrozenia",
+      "description": "Využitie hradiska môže súvisieť s výbojmi Maďarov na severné Považie alebo s útokmi iných nepriateľských vojsk v 9. a 10. storočí.",
+      "type": "battle"
+    },
+    {
+      "year": "koniec 90. rokov 20. storočia",
+      "title": "Znovuobjavenie hradiska",
+      "description": "Členovia archeologického krúžku MO MS v Považskej Bystrici pod vedením Š. Meliša znovu objavili valové opevnenie v katastri obce Pružina; nález následne preverili archeológovia Dr. Moravčík a Dr. Pieta.",
+      "type": "discovery"
+    },
+    {
+      "year": "14. júla 1996",
+      "title": "Terénny výskum a zameranie hradiska Mesciská",
+      "description": "Archeologický krúžok MO MS v Považskej Bystrici vykonal zameranie, náčrt a predbežný výskum hradiska nad osadou Riedka; správu spísal Martin Olšovský dňa 4.8.1996.",
+      "type": "discovery"
+    },
+    {
+      "year": "2008",
+      "title": "Vydanie Po stopách predkov so správou z výskumu",
+      "description": "Martin Olšovský vydal vlastným nákladom súbor dokumentov a fotografií Po stopách predkov, Archeológia Stredného Považia od praveku po stredovek, obsahujúci správu z výskumu hradiska Mesciská, v počte 4 kusy.",
+      "type": "event"
+    },
+    {
+      "year": "jún 2013",
+      "title": "Osadenie informačnej tabule",
+      "description": "Členovia občianskeho združenia Hradiská umiestnili pred hradiskom informačnú tabuľu.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Celková rozloha",
+      "value": "približne 2,6 ha (Mesciská I. - 2,03 ha, Mesciská II. - 0,58 ha)",
+      "icon": "map"
+    },
+    {
+      "label": "Poloha",
+      "value": "Skalnatý vápencový ostroh na sútoku Mojtínskeho a Strážovského potoka nad osadou Riedka, terén prevýšený asi 20-25 m nad potokmi",
+      "icon": "mountain"
+    },
+    {
+      "label": "Dve samostatné opevnenia",
+      "value": "Hradisko tvoria dve časti, Mesciská I. a Mesciská II., oddelené hlbšou úžľabinou",
+      "icon": "shield"
+    },
+    {
+      "label": "Rozmery valu",
+      "value": "Val Mesciská I. dlhý 260 m, v korune široký 3-4 m, vysoký 1,5-7 m, obvod hradiska 611 m",
+      "icon": "building"
+    },
+    {
+      "label": "Archeologické nálezy",
+      "value": "Slovanské, púchovské a laténske črepy, stopy železnej trosky pri východnej bráne a možné zvyšky zuhoľnatenej palisády pod svahom",
+      "icon": "custom"
+    },
+    {
+      "label": "Veľkomoravský depot",
+      "value": "Na hradisku bol nájdený depot minimálne 4 jazdeckých strmeňov, 8 ostrôh, sekerovitých hrivien, sekier, kľúčov, zubadiel a poľnohospodárskych nástrojov z 9. storočia - podľa Dr. Karola Pietu ide o najväčší slovanský depot na Slovensku",
+      "icon": "star"
+    },
+    {
+      "label": "Zabudnutý objav",
+      "value": "Článok Antona Intibusa z roku 1856 zostal takmer 150 rokov nepovšimnutý odbornou verejnosťou",
+      "icon": "book"
+    },
+    {
+      "label": "Miestne povesti",
+      "value": "Susedná Pivničenská skala je podľa povestí spojená so zbojníckymi pokladmi a s tureckým remenným visutým mostom cez zatopenú Riedku",
+      "icon": "custom"
+    }
+  ]
+}

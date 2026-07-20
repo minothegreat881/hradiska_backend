@@ -1,0 +1,71 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "1000 – 700 pred Kr.",
+      "title": "Osídlenie v neskorej dobe bronzovej",
+      "description": "Hradisko obývali nositelia lužickej kultúry. Opevnené sídlisko chránil zo severozápadu mohutný skalný hrebeň, z ostatných strán umelý val s priekopou; val bol vystavaný v dvoch časovo následných etapách s čelnou drevenou hradbou a komorovo-roštovou drevenou konštrukciou.",
+      "type": "era"
+    },
+    {
+      "year": "prelom letopočtu",
+      "title": "Krátkodobé osídlenie púchovskou kultúrou",
+      "description": "Lokalitu krátkodobo osídlili nositelia púchovskej kultúry.",
+      "type": "event"
+    },
+    {
+      "year": "9. – 10. storočie",
+      "title": "Osídlenie Slovenmi vo veľkomoravskom období",
+      "description": "V období veľkomoravskom, ako aj v 10. storočí, hradisko obývali Sloveni, čoho dôkazom sú viaceré nálezy – najmä črepy, ale aj kovové predmety. Vzhľadom na strategické umiestnenie mohlo mať hradisko v tomto čase strážnu funkciu.",
+      "type": "era"
+    },
+    {
+      "year": "1887",
+      "title": "Jozef Ľudovít Holuby zdokumentoval hradisko",
+      "description": "Holuby ako prvý preskúmal lokalitu a svoje pozorovania opísal v štúdii Náleziská starožitností v Bošáckej doline, uverejnenej v Slovenských pohľadoch, ročník VII.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Opevnenie",
+      "value": "Zo severozápadu chránil hradisko mohutný skalný hrebeň, z ostatných strán umelý val a priekopa; val obsahoval čelnú drevenú hradbu a komorovo-roštovú drevenú konštrukciu a staval sa v dvoch etapách.",
+      "icon": "shield"
+    },
+    {
+      "label": "Prvá ohrada",
+      "value": "Najvyššie položená časť Hradísk zaberala plochu asi 15 jutár.",
+      "icon": "map"
+    },
+    {
+      "label": "Druhá ohrada",
+      "value": "Nižšie položená, druhá ohrada mala plochu asi 20 jutár, naklonenú k východu.",
+      "icon": "map"
+    },
+    {
+      "label": "Rozmery obydlí",
+      "value": "Pôdorysy obydlí mali najčastejšie rozmery 5,5 x 4,3 metra.",
+      "icon": "building"
+    },
+    {
+      "label": "Ochranný terén",
+      "value": "Osadu chránili okolité vrchy a hrebene – Lisica od juhu, hrebeň Hradištných Vŕškov a strmý vrch Hlohová od severu.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Bronzové nálezy",
+      "value": "Medzi nálezmi sú zlomený nôž, srp, tri ihly, malé šípy zvané „rýliky“, klince, obrúčky, šidlo a časť sponky (fibuly).",
+      "icon": "star"
+    },
+    {
+      "label": "Presleny",
+      "value": "Na lokalite sa našlo 10 hlinených presleňov (kolieskov na vretená) rôznej veľkosti a podoby.",
+      "icon": "custom"
+    },
+    {
+      "label": "Prvý bádateľ",
+      "value": "Ako prvý hradisko preskúmal Jozef Ľudovít Holuby, ktorý pozorovania publikoval v roku 1887 v Slovenských pohľadoch.",
+      "icon": "book"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+[
+ {"fb":"aktuality-2018-07-detektorovy-prieskum-hradiska","note":"grammar-sk v7 §21 — 'Detektorový prieskum hradiska' (2018-07).","corrections":[
+   {"hint":0,"before":"a z toho vidí že sa koncentrovali","after":"a z toho vidí, že sa koncentrovali","reason":"čiarka pred že (A1)"},
+   {"hint":0,"before":"sa dá predpokladať odkiaľ a útočníci strieľali","after":"sa dá predpokladať, odkiaľ útočníci strieľali","reason":"čiarka pred odkiaľ (A1) + nadbytočné 'a'"},
+   {"hint":0,"before":"Prispeli sme tak svojim dielom","after":"Prispeli sme tak svojím dielom","reason":"inštrumentál svojím (A8)"},
+   {"hint":0,"before":"popredajú po 10 Eur/kus","after":"popredajú po 10 eur/kus","reason":"mena malým písmenom (A9)"}
+ ]},
+ {"fb":"aktuality-2018-07-utgard-2018","note":"grammar-sk v7 §21 — 'Utgard 2018' (2018-07). Čistý text → 0 opráv.","corrections":[]},
+ {"fb":"aktuality-2018-10-stanovisko-k-takzvanym-slovansko","note":"grammar-sk v7 §21 — 'Stanovisko k Slovansko-Árijským védam' (2018-10). Bloky [3][4] = citát Žiarislava (uvedené 'prehovoriť priamo Žiarislava:') → CHRÁNENÉ (§21.3).","titleBefore":"Stanovisko k takzvaným \"Slovansko-Árijským védam\"","titleAfter":"Stanovisko k takzvaným „Slovansko-Árijským védam“","corrections":[
+   {"hint":1,"before":"k tzv. \"Slovansko-Árijským védam\"","after":"k tzv. „Slovansko-Árijským védam“","reason":"slovenské úvodzovky (B)"},
+   {"hint":1,"before":"Nakoľko s väčšinou jeho postojov","after":"Keďže s väčšinou jeho postojov","reason":"bohemizmus nakoľko→keďže (A7)"}
+ ]},
+ {"fb":"aktuality-2018-11-knihy-o-slovanoch","note":"grammar-sk v7 §21 — 'Knihy o Slovanoch' (2018-11). FLAG [11]: sploštený zoznam kníh bez zalomení (zlepené názvy) — na ručnú úpravu.","corrections":[
+   {"hint":0,"before":"Treba uznať že na našom","after":"Treba uznať, že na našom","reason":"čiarka pred že (A1)"},
+   {"hint":0,"before":"ako \"skutočné dejiny Slovanov\"","after":"ako „skutočné dejiny Slovanov“","reason":"slovenské úvodzovky (B)"},
+   {"hint":1,"before":"Žiaľ mnohé z nich","after":"Žiaľ, mnohé z nich","reason":"čiarka po vsuvke Žiaľ (A1)"}
+ ]},
+ {"fb":"aktuality-2019-03-mapa-stredovekych-obchodnych-ciest","note":"grammar-sk v7 §21 — 'Mapa stredovekých obchodných ciest' (2019-03). FLAG [0]: 'vytvoril a na stránke Merchant machine zaujímavú mapu' — chýba sloveso (MISSING_WORD, §21.6 nedopĺňam).","corrections":[
+   {"hint":0,"before":"v 11. a 12. storočí, ktoré sú k dispozícii","after":"v 11. a 12. storočí, ktorá je k dispozícii","reason":"zhoda s 'mapa' (f. sg.): ktorá je (A3)"},
+   {"hint":0,"before":"Škoda že sú v nej","after":"Škoda, že sú v nej","reason":"čiarka pred že (A1)"},
+   {"hint":0,"before":"Myslím však že stojí","after":"Myslím však, že stojí","reason":"čiarka pred že (A1)"}
+ ]},
+ {"fb":"aktuality-2019-03-skryte-poklady","note":"grammar-sk v7 §21 — 'Skryté poklady' (2019-03).","corrections":[
+   {"hint":0,"before":"z obdobia keltov a germánov","after":"z obdobia Keltov a Germánov","reason":"etnonymá veľkým (A9)"},
+   {"hint":0,"before":"iných období z ktorých viaceré","after":"iných období, z ktorých viaceré","reason":"čiarka pred vzťaž. zámenom (A1)"}
+ ]},
+ {"fb":"aktuality-2019-04-2-pre-oz-hradiska","note":"grammar-sk v7 §21 — '2% pre OZ Hradiská' (2019-04).","corrections":[
+   {"hint":0,"before":"videami robenými v v spolupráci","after":"videami robenými v spolupráci","reason":"zdvojené 'v' (preklep)"},
+   {"hint":0,"before":"zborníka Hradiská-Svedkovia dávnych čias 2","after":"zborníka Hradiská – Svedkovia dávnych čias 2","reason":"spojovník → en dash s medzerami (B)"}
+ ]},
+ {"fb":"aktuality-2019-04-starosloviensky-slovnik-online","note":"grammar-sk v7 §21 — 'Starosloviensky slovník online' (2019-04). Čistý text → 0 opráv.","corrections":[]},
+ {"fb":"aktuality-2019-09-nase-niekolkomesacne-usilie-bude-uz","note":"grammar-sk v7 §21 — 'Zborník Hradiská – Svedkovia dávnych čias 2' (2019-09).","titleBefore":"Zborník Hradiská-Svedkovia dávnych čias 2","titleAfter":"Zborník Hradiská – Svedkovia dávnych čias 2","corrections":[
+   {"hint":1,"before":"knihy oborných príspevkov","after":"knihy odborných príspevkov","reason":"preklep oborných→odborných (A8)"},
+   {"hint":1,"before":"pokračovala aj naďalej a to najmä","after":"pokračovala aj naďalej, a to najmä","reason":"čiarka pred 'a to' vysvetľovacím (A1)"},
+   {"hint":1,"before":"sme sa s ním posieľali na vytvorení","after":"sme sa s ním podieľali na vytvorení","reason":"preklep posieľali→podieľali (A8)"},
+   {"hint":1,"before":"ako dobrovolníci zúčastnili","after":"ako dobrovoľníci zúčastnili","reason":"diakritika dobrovoľníci (A8)"},
+   {"hint":1,"before":"čitateľov tak v odbornej ako aj v laickej","after":"čitateľov tak v odbornej, ako aj v laickej","reason":"čiarka v spojení tak…ako aj (A1)"}
+ ]},
+ {"fb":"aktuality-2019-11-zbornik-ii-uz-je-vytlaceny","note":"grammar-sk v7 §21 — 'Zborník II už je vytlačený!' (2019-11).","corrections":[
+   {"hint":1,"before":"čo to ešte nestihli mám dobrú správu","after":"čo to ešte nestihli, mám dobrú správu","reason":"uzavretie vzťaž. vety čiarkou (A1)"},
+   {"hint":1,"before":"Pripomínam že prvý zborník","after":"Pripomínam, že prvý zborník","reason":"čiarka pred že (A1)"}
+ ]}
+]

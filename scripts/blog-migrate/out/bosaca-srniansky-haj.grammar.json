@@ -1,0 +1,42 @@
+{
+  "_note": "6 opráv aplikovaných, 0 cross-node preskočených, 0 nenájdených v dumpe (možná halucinácia)",
+  "corrections": [
+    {
+      "block": "?",
+      "before": "Katastrálna hranica obcami Bošáca a Dolné Sŕnie prebieha",
+      "after": "Katastrálna hranica medzi obcami Bošáca a Dolné Sŕnie prebieha",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "Prvý hradisko skúmal Ľudovít Holuby",
+      "after": "Prvýkrát hradisko skúmal Ľudovít Holuby",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "40. cm na juhozápadnej strane valu",
+      "after": "40 cm na juhozápadnej strane valu",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "Preto bolo potrebné aby stavitelia celú polohu obohnali valmi.",
+      "after": "Preto bolo potrebné, aby stavitelia celú polohu obohnali valmi.",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "ktorý by nasvedčoval miesto, kde bola umiestnená brána.",
+      "after": "ktorý by nasvedčoval miestu, kde bola umiestnená brána.",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "Na juhozápadnej strane však takmer zaniká v nevýraznú terénnu vlnu.",
+      "after": "Na juhozápadnej strane však takmer zaniká v nevýraznej terénnej vlne.",
+      "reason": "gramatika/pravopis"
+    }
+  ],
+  "skippedNotFound": []
+}

@@ -1,0 +1,864 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-spissky-stvrtok.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8111067387936144702",
+    "bloggerPostUrl": "http://www.hradiska.sk/2010/06/spissky-stvrtok-slovenske-mykeny.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/8111067387936144702/comments/default",
+    "extractedAt": "2026-07-15T22:20:23.954Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [
+        {
+          "level": "h1",
+          "text": "English:"
+        }
+      ],
+      "nativeHeadingCount": 1,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&t=h&vpsrc=0&ll=49.007559,20.440793&spn=0.009853,0.018239&z=15&output=embed"
+      ],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "http://www.youtube.com/embed/NONuAYct3hU"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 26,
+      "captionedImages": 2,
+      "separatorImages": 23
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "hasNativeHeadings",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Spišský Štvrtok – Slovenské Mykény",
+    "slug": "spissky-stvrtok-slovenske-mykeny",
+    "excerpt": "Veľmi dlho sa nevedelo, že aj na Slovensku existovalo mestečko staré cca 3500 rokov, ktoré malo veľa spoločného s gréckymi Mykénami. Ide o Spišský Štvrtok, konkrétne Myšiu Hôrku, kde jej vtedajší obyvatelia postavili pevnosť na dôležitom strategickom mieste, tzv. Severnej ceste, ktorú strážili a kontrolovali.",
+    "authorName": "Orgoň",
+    "publishedAt": "2010-06-24T10:20:00.002+02:00",
+    "originalPublishedDate": "2010-06-24T10:20:00.002+02:00",
+    "updatedAt": "2017-05-02T20:19:12.314+02:00",
+    "readingTime": 8,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLArtss5u7m8PIz5MbNp-hIH2tX2OPhI8UM_nPB4L1RICpZ9scqmx2X-Bp1fDVasUZw0YhSWQUB3_yki-rsfDludt7r9SOLRRCWyXhLf6nmkLmQnFW2hmTPKL4aFoS6b9UaEzXKmbKld8/s0/Spi%C5%A1sk%C3%BD+%C5%A1tvrtok.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLArtss5u7m8PIz5MbNp-hIH2tX2OPhI8UM_nPB4L1RICpZ9scqmx2X-Bp1fDVasUZw0YhSWQUB3_yki-rsfDludt7r9SOLRRCWyXhLf6nmkLmQnFW2hmTPKL4aFoS6b9UaEzXKmbKld8/s1600/Spi%C5%A1sk%C3%BD+%C5%A1tvrtok.jpg",
+      "filename": "Spišský+štvrtok.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLArtss5u7m8PIz5MbNp-hIH2tX2OPhI8UM_nPB4L1RICpZ9scqmx2X-Bp1fDVasUZw0YhSWQUB3_yki-rsfDludt7r9SOLRRCWyXhLf6nmkLmQnFW2hmTPKL4aFoS6b9UaEzXKmbKld8/s1600/Spi%C5%A1sk%C3%BD+%C5%A1tvrtok.jpg",
+        "displayedWidth": null,
+        "displayedHeight": null,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLArtss5u7m8PIz5MbNp-hIH2tX2OPhI8UM_nPB4L1RICpZ9scqmx2X-Bp1fDVasUZw0YhSWQUB3_yki-rsfDludt7r9SOLRRCWyXhLf6nmkLmQnFW2hmTPKL4aFoS6b9UaEzXKmbKld8/s0/Spi%C5%A1sk%C3%BD+%C5%A1tvrtok.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLArtss5u7m8PIz5MbNp-hIH2tX2OPhI8UM_nPB4L1RICpZ9scqmx2X-Bp1fDVasUZw0YhSWQUB3_yki-rsfDludt7r9SOLRRCWyXhLf6nmkLmQnFW2hmTPKL4aFoS6b9UaEzXKmbKld8/s1600/Spi%C5%A1sk%C3%BD+%C5%A1tvrtok.jpg",
+        "filename": "Spišský+štvrtok.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLArtss5u7m8PIz5MbNp-hIH2tX2OPhI8UM_nPB4L1RICpZ9scqmx2X-Bp1fDVasUZw0YhSWQUB3_yki-rsfDludt7r9SOLRRCWyXhLf6nmkLmQnFW2hmTPKL4aFoS6b9UaEzXKmbKld8/s1600/Spi%C5%A1sk%C3%BD+%C5%A1tvrtok.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiunM8h-d76HBRo-7TnK2h-A_iBxnj0o-J7loxh3Kyi5TmmTkv6aVao5xmdyQnGadDozBjDJCy020uHvDsaIOYZ5-tU_J99NaG2yeaAjSHGbYrk2YrYe_pGDTQDI4a1QHSxeg6FjoUYzGo/s0/SPI%25C5%25A0SK%25C3%259D+%25C5%25A0TVRTOK2.doc.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiunM8h-d76HBRo-7TnK2h-A_iBxnj0o-J7loxh3Kyi5TmmTkv6aVao5xmdyQnGadDozBjDJCy020uHvDsaIOYZ5-tU_J99NaG2yeaAjSHGbYrk2YrYe_pGDTQDI4a1QHSxeg6FjoUYzGo/s1600/SPI%25C5%25A0SK%25C3%259D+%25C5%25A0TVRTOK2.doc.jpg",
+        "filename": "SPI%C5%A0SK%C3%9D+%C5%A0TVRTOK2.doc.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiunM8h-d76HBRo-7TnK2h-A_iBxnj0o-J7loxh3Kyi5TmmTkv6aVao5xmdyQnGadDozBjDJCy020uHvDsaIOYZ5-tU_J99NaG2yeaAjSHGbYrk2YrYe_pGDTQDI4a1QHSxeg6FjoUYzGo/s1600/SPI%25C5%25A0SK%25C3%259D+%25C5%25A0TVRTOK2.doc.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFdWmrFxUWl6qvXtJfb9327siRUbXD60e0WWsrBOavsGf_j6RlbnGly8y29VD918uZulaNa8ogXIHPyaPoRpimetTz3tkGSAzWpepjY1Ewp5ENdnBZcXp9-abK2GVBJ6mpgSe5agpUq6s/s0/Naj+z+dial%25CC%258Cky.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFdWmrFxUWl6qvXtJfb9327siRUbXD60e0WWsrBOavsGf_j6RlbnGly8y29VD918uZulaNa8ogXIHPyaPoRpimetTz3tkGSAzWpepjY1Ewp5ENdnBZcXp9-abK2GVBJ6mpgSe5agpUq6s/s1600/Naj+z+dial%25CC%258Cky.jpeg",
+        "filename": "Naj+z+dial%CC%8Cky.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFdWmrFxUWl6qvXtJfb9327siRUbXD60e0WWsrBOavsGf_j6RlbnGly8y29VD918uZulaNa8ogXIHPyaPoRpimetTz3tkGSAzWpepjY1Ewp5ENdnBZcXp9-abK2GVBJ6mpgSe5agpUq6s/s1600/Naj+z+dial%25CC%258Cky.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 159,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "3D model hradiska. Autor: Naj"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsB2hOQyVyOogXvWo-S-h2d2XKXzAYhHf0_kfcQOH4-z0FxYKoHQVnPccvvUs2k6NMi1ak2AnuetHOabXH_QlFlR-gpk3n_YDcbfdBxP4bvD5lJd9L5lYBRf6MMIIsp4V7teKTqKLGRVQ/s0/bronz+zajatci.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsB2hOQyVyOogXvWo-S-h2d2XKXzAYhHf0_kfcQOH4-z0FxYKoHQVnPccvvUs2k6NMi1ak2AnuetHOabXH_QlFlR-gpk3n_YDcbfdBxP4bvD5lJd9L5lYBRf6MMIIsp4V7teKTqKLGRVQ/s1600/bronz+zajatci.jpg",
+        "filename": "bronz+zajatci.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsB2hOQyVyOogXvWo-S-h2d2XKXzAYhHf0_kfcQOH4-z0FxYKoHQVnPccvvUs2k6NMi1ak2AnuetHOabXH_QlFlR-gpk3n_YDcbfdBxP4bvD5lJd9L5lYBRf6MMIIsp4V7teKTqKLGRVQ/s1600/bronz+zajatci.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 263,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Víťazná armáda z doby bronzovej si odvádza zajatkyne, v pozadí horiace hradisko (autor kresby: Libor Balák)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLitlzAVF6yiQ4hgn3mADorpG9gTC0yNmvL4mGFnlo3RNw5MUszQUyTr6toMVVGzcXG5j2_hf8tv4SWxcCHzibhXEszgwHWtYVTs1kNdH4rkLUTtJcziQsyT8fBanpwQ7zDcNr2-mxLhk/s0/spis%25CC%258Csky%25CC%2581+s%25CC%258Ctvrtok.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLitlzAVF6yiQ4hgn3mADorpG9gTC0yNmvL4mGFnlo3RNw5MUszQUyTr6toMVVGzcXG5j2_hf8tv4SWxcCHzibhXEszgwHWtYVTs1kNdH4rkLUTtJcziQsyT8fBanpwQ7zDcNr2-mxLhk/s1600/spis%25CC%258Csky%25CC%2581+s%25CC%258Ctvrtok.jpg",
+        "filename": "spis%CC%8Csky%CC%81+s%CC%8Ctvrtok.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLitlzAVF6yiQ4hgn3mADorpG9gTC0yNmvL4mGFnlo3RNw5MUszQUyTr6toMVVGzcXG5j2_hf8tv4SWxcCHzibhXEszgwHWtYVTs1kNdH4rkLUTtJcziQsyT8fBanpwQ7zDcNr2-mxLhk/s1600/spis%25CC%258Csky%25CC%2581+s%25CC%258Ctvrtok.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 200,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhncg3yiYHSi-PPoaj1BvZk2H3fBtRwHH6V-DZJLTv9VIyGIntTgjedfcgusilyxPZ5xDJ_JgTCFn9vVcbX71eYdMqxfcLX8y6uJleFdyzGet5slmGsda7yxzc0QJx9pyRIs4pfRjuDGU4/s0/DSC_0986.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhncg3yiYHSi-PPoaj1BvZk2H3fBtRwHH6V-DZJLTv9VIyGIntTgjedfcgusilyxPZ5xDJ_JgTCFn9vVcbX71eYdMqxfcLX8y6uJleFdyzGet5slmGsda7yxzc0QJx9pyRIs4pfRjuDGU4/s1600/DSC_0986.JPG",
+        "filename": "DSC_0986.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhncg3yiYHSi-PPoaj1BvZk2H3fBtRwHH6V-DZJLTv9VIyGIntTgjedfcgusilyxPZ5xDJ_JgTCFn9vVcbX71eYdMqxfcLX8y6uJleFdyzGet5slmGsda7yxzc0QJx9pyRIs4pfRjuDGU4/s1600/DSC_0986.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSB5Cg7MgcAwsKGhhp1Zt4aDMbXycSd1FjE8X4zP1QwyVytgrle3Ra06eKC7os9cq_15LN9Lwi5qP87Mpi9BRU1QopZzm0Obu18MZ03zByVAmaStyDQYfJpLKvc2sosOLrO9FNUlk2inE/s0/DSC_0987.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSB5Cg7MgcAwsKGhhp1Zt4aDMbXycSd1FjE8X4zP1QwyVytgrle3Ra06eKC7os9cq_15LN9Lwi5qP87Mpi9BRU1QopZzm0Obu18MZ03zByVAmaStyDQYfJpLKvc2sosOLrO9FNUlk2inE/s1600/DSC_0987.JPG",
+        "filename": "DSC_0987.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSB5Cg7MgcAwsKGhhp1Zt4aDMbXycSd1FjE8X4zP1QwyVytgrle3Ra06eKC7os9cq_15LN9Lwi5qP87Mpi9BRU1QopZzm0Obu18MZ03zByVAmaStyDQYfJpLKvc2sosOLrO9FNUlk2inE/s1600/DSC_0987.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiph5sjsFbIZ45ZfwAkpgSqysGTdCdmVj_HfTLOF7aiAiFHdPU1JR_L6jREdnRnfJKI6VINwtRJsjqFW5nWvfIMof-14eZBeTVPmuwKYiyjCrXRvaupnrniVMpvtGRMUZIT8RN6OUMVgMs/s0/DSC_0995.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiph5sjsFbIZ45ZfwAkpgSqysGTdCdmVj_HfTLOF7aiAiFHdPU1JR_L6jREdnRnfJKI6VINwtRJsjqFW5nWvfIMof-14eZBeTVPmuwKYiyjCrXRvaupnrniVMpvtGRMUZIT8RN6OUMVgMs/s1600/DSC_0995.JPG",
+        "filename": "DSC_0995.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiph5sjsFbIZ45ZfwAkpgSqysGTdCdmVj_HfTLOF7aiAiFHdPU1JR_L6jREdnRnfJKI6VINwtRJsjqFW5nWvfIMof-14eZBeTVPmuwKYiyjCrXRvaupnrniVMpvtGRMUZIT8RN6OUMVgMs/s1600/DSC_0995.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFh53QT12C_HDPk__wUVshhqHhjGkckb1RY1KngEDwXdyD1lhIx7xd5ZS5jQx34WPSRmKRH24j77BnRjMEWy3NT7ak8qjIzNCB5jACH86TyIxwLnd_YsUI6bBN-xfhocecFj7tj2bkSXQ/s0/DSC_0997.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFh53QT12C_HDPk__wUVshhqHhjGkckb1RY1KngEDwXdyD1lhIx7xd5ZS5jQx34WPSRmKRH24j77BnRjMEWy3NT7ak8qjIzNCB5jACH86TyIxwLnd_YsUI6bBN-xfhocecFj7tj2bkSXQ/s1600/DSC_0997.JPG",
+        "filename": "DSC_0997.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFh53QT12C_HDPk__wUVshhqHhjGkckb1RY1KngEDwXdyD1lhIx7xd5ZS5jQx34WPSRmKRH24j77BnRjMEWy3NT7ak8qjIzNCB5jACH86TyIxwLnd_YsUI6bBN-xfhocecFj7tj2bkSXQ/s1600/DSC_0997.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9YSdI_CpM04Hkju1D5YlMhHbmGCl4ENO-Onk_qwwUOdp9TQQwXQ2-4imEC3rAj1SAb10XMQB1TXj-ijERqHzhzGRTLR3AoU06-33tb8LX-8wrdGGgqnV9Lgo_Ks05TqHvZdRU__0J2GY/s0/DSC_1000.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9YSdI_CpM04Hkju1D5YlMhHbmGCl4ENO-Onk_qwwUOdp9TQQwXQ2-4imEC3rAj1SAb10XMQB1TXj-ijERqHzhzGRTLR3AoU06-33tb8LX-8wrdGGgqnV9Lgo_Ks05TqHvZdRU__0J2GY/s1600/DSC_1000.JPG",
+        "filename": "DSC_1000.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9YSdI_CpM04Hkju1D5YlMhHbmGCl4ENO-Onk_qwwUOdp9TQQwXQ2-4imEC3rAj1SAb10XMQB1TXj-ijERqHzhzGRTLR3AoU06-33tb8LX-8wrdGGgqnV9Lgo_Ks05TqHvZdRU__0J2GY/s1600/DSC_1000.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf7yUP2fsuSXivPkfLbhInetq7Yhyf6OCmTnYOAMAF2DGBolbLCMQMMwtxXRMxa3WvmHXtjY47Js1kVl2WnCQ7e6CrtgSbyFEjYEO54o5DM2yGo3mtJjxKsXf2-_gB3ik0PNGo8ZnY-zk/s0/DSC_1003.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf7yUP2fsuSXivPkfLbhInetq7Yhyf6OCmTnYOAMAF2DGBolbLCMQMMwtxXRMxa3WvmHXtjY47Js1kVl2WnCQ7e6CrtgSbyFEjYEO54o5DM2yGo3mtJjxKsXf2-_gB3ik0PNGo8ZnY-zk/s1600/DSC_1003.JPG",
+        "filename": "DSC_1003.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf7yUP2fsuSXivPkfLbhInetq7Yhyf6OCmTnYOAMAF2DGBolbLCMQMMwtxXRMxa3WvmHXtjY47Js1kVl2WnCQ7e6CrtgSbyFEjYEO54o5DM2yGo3mtJjxKsXf2-_gB3ik0PNGo8ZnY-zk/s1600/DSC_1003.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwplp_DYC5ilP801oiddqpJrFPOb0U4-kwlljP4Zj57NAyGk05vsaukli3utrBH4u38w0i6r-CqOo-tFaJDdM-HdVFxpoDNAf3TP7uD36HcHg5JYf_G5i-eLIRvgxVmk5rdbPheExvTw4/s0/DSC_1009.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwplp_DYC5ilP801oiddqpJrFPOb0U4-kwlljP4Zj57NAyGk05vsaukli3utrBH4u38w0i6r-CqOo-tFaJDdM-HdVFxpoDNAf3TP7uD36HcHg5JYf_G5i-eLIRvgxVmk5rdbPheExvTw4/s1600/DSC_1009.JPG",
+        "filename": "DSC_1009.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwplp_DYC5ilP801oiddqpJrFPOb0U4-kwlljP4Zj57NAyGk05vsaukli3utrBH4u38w0i6r-CqOo-tFaJDdM-HdVFxpoDNAf3TP7uD36HcHg5JYf_G5i-eLIRvgxVmk5rdbPheExvTw4/s1600/DSC_1009.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQcuDPYpm6ZSPImyacuz5uLVjaVt6EncPbuDbHBecdWoVSdZ3nmAfLGjhYQTBZ1dCaP3gp_5qIWDbHt8HhZSx3zxyTA-0z0Sw9qRPEC6xSnSF3eX4B0MHQGUDsMyVwSVu46Wa47bOihAE/s0/DSC_1010.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQcuDPYpm6ZSPImyacuz5uLVjaVt6EncPbuDbHBecdWoVSdZ3nmAfLGjhYQTBZ1dCaP3gp_5qIWDbHt8HhZSx3zxyTA-0z0Sw9qRPEC6xSnSF3eX4B0MHQGUDsMyVwSVu46Wa47bOihAE/s1600/DSC_1010.JPG",
+        "filename": "DSC_1010.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQcuDPYpm6ZSPImyacuz5uLVjaVt6EncPbuDbHBecdWoVSdZ3nmAfLGjhYQTBZ1dCaP3gp_5qIWDbHt8HhZSx3zxyTA-0z0Sw9qRPEC6xSnSF3eX4B0MHQGUDsMyVwSVu46Wa47bOihAE/s1600/DSC_1010.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZUgn0vidSHBsCCS_FbWi3vdLNaxjqZ8Hz-Obn9R6FIb-zk18t7Xai4kN-PW6MfsRf4BkT4f4ibKhZxHiJdnmzfT-6nbiUabyZIpEOsUZQ2S7167qkTqfgXJBGrO5AI2aB_S3nGNGglEQ/s0/DSC_1011.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZUgn0vidSHBsCCS_FbWi3vdLNaxjqZ8Hz-Obn9R6FIb-zk18t7Xai4kN-PW6MfsRf4BkT4f4ibKhZxHiJdnmzfT-6nbiUabyZIpEOsUZQ2S7167qkTqfgXJBGrO5AI2aB_S3nGNGglEQ/s1600/DSC_1011.JPG",
+        "filename": "DSC_1011.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZUgn0vidSHBsCCS_FbWi3vdLNaxjqZ8Hz-Obn9R6FIb-zk18t7Xai4kN-PW6MfsRf4BkT4f4ibKhZxHiJdnmzfT-6nbiUabyZIpEOsUZQ2S7167qkTqfgXJBGrO5AI2aB_S3nGNGglEQ/s1600/DSC_1011.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2E2wvNHOapJ3qdby4zdTsh9SyDB6JX8mkTnkXf52xEbC1BmCinuNC5mAsrXn58FruCIMKabVipDeyYaDuvwc5M-_k2xtszIQL3iMwPwX-uAfFNY-3r_p1MiJMU2RoMqmjkfnmANPUkw/s0/DSC_1017.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2E2wvNHOapJ3qdby4zdTsh9SyDB6JX8mkTnkXf52xEbC1BmCinuNC5mAsrXn58FruCIMKabVipDeyYaDuvwc5M-_k2xtszIQL3iMwPwX-uAfFNY-3r_p1MiJMU2RoMqmjkfnmANPUkw/s1600/DSC_1017.JPG",
+        "filename": "DSC_1017.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2E2wvNHOapJ3qdby4zdTsh9SyDB6JX8mkTnkXf52xEbC1BmCinuNC5mAsrXn58FruCIMKabVipDeyYaDuvwc5M-_k2xtszIQL3iMwPwX-uAfFNY-3r_p1MiJMU2RoMqmjkfnmANPUkw/s1600/DSC_1017.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DYWN4lZKYxiqw41Qkee1MGpOCTIwYiK5uxNwYkA41dy74OBEh6cGchCZEQb9cJTGzRuQ1zZxo6yAOPSi_w-b6tLdePx5xp-hUEGHPXOm5zOfOeKnS94K-86AuzltzYfztHKuA0EbaRI/s0/DSC_1018.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DYWN4lZKYxiqw41Qkee1MGpOCTIwYiK5uxNwYkA41dy74OBEh6cGchCZEQb9cJTGzRuQ1zZxo6yAOPSi_w-b6tLdePx5xp-hUEGHPXOm5zOfOeKnS94K-86AuzltzYfztHKuA0EbaRI/s1600/DSC_1018.JPG",
+        "filename": "DSC_1018.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DYWN4lZKYxiqw41Qkee1MGpOCTIwYiK5uxNwYkA41dy74OBEh6cGchCZEQb9cJTGzRuQ1zZxo6yAOPSi_w-b6tLdePx5xp-hUEGHPXOm5zOfOeKnS94K-86AuzltzYfztHKuA0EbaRI/s1600/DSC_1018.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-GVhL_d1FF1i6I745nHr8eUzsmwNg-09rPFFS_K9sqkOdOqYH9NH46X_qYkrVdnAywreD0hjKKZVu4FBeQgaW0I84E1EQ88mdWSR5yXonumYnEvib-h1TMa-iBbWdBrnAeVH90mHVsM/s0/DSC_1020.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-GVhL_d1FF1i6I745nHr8eUzsmwNg-09rPFFS_K9sqkOdOqYH9NH46X_qYkrVdnAywreD0hjKKZVu4FBeQgaW0I84E1EQ88mdWSR5yXonumYnEvib-h1TMa-iBbWdBrnAeVH90mHVsM/s1600/DSC_1020.JPG",
+        "filename": "DSC_1020.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY-GVhL_d1FF1i6I745nHr8eUzsmwNg-09rPFFS_K9sqkOdOqYH9NH46X_qYkrVdnAywreD0hjKKZVu4FBeQgaW0I84E1EQ88mdWSR5yXonumYnEvib-h1TMa-iBbWdBrnAeVH90mHVsM/s1600/DSC_1020.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkfaFR53D5hAYxcrKeuWy3VOOhVxlWOT1YA_HYKYrFDRW8NYbOZyqYOLXIQ-DHnTv2UUjuYhNVKP6-rN_cKCw979eqKtnGbB6wizfqmtc212ESGAmWnLQpveIt6cbZwANxUlf70vcSMsw/s0/DSC_1021.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkfaFR53D5hAYxcrKeuWy3VOOhVxlWOT1YA_HYKYrFDRW8NYbOZyqYOLXIQ-DHnTv2UUjuYhNVKP6-rN_cKCw979eqKtnGbB6wizfqmtc212ESGAmWnLQpveIt6cbZwANxUlf70vcSMsw/s1600/DSC_1021.JPG",
+        "filename": "DSC_1021.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkfaFR53D5hAYxcrKeuWy3VOOhVxlWOT1YA_HYKYrFDRW8NYbOZyqYOLXIQ-DHnTv2UUjuYhNVKP6-rN_cKCw979eqKtnGbB6wizfqmtc212ESGAmWnLQpveIt6cbZwANxUlf70vcSMsw/s1600/DSC_1021.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsW4Nhw1YluHGwsw-Zn-DK0lx_WUVoYUSsWlzlIZh8YqvC76y1P5YGQ8EU3EnPIZMCr2VZi-n1NI8J3eLR_IJgEAnu6eFdqfQMd8y6izwAL6TiKtL8XqYSd7OJ3onzFZRLh_PWenHS-P4/s0/DSC_1022.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsW4Nhw1YluHGwsw-Zn-DK0lx_WUVoYUSsWlzlIZh8YqvC76y1P5YGQ8EU3EnPIZMCr2VZi-n1NI8J3eLR_IJgEAnu6eFdqfQMd8y6izwAL6TiKtL8XqYSd7OJ3onzFZRLh_PWenHS-P4/s1600/DSC_1022.JPG",
+        "filename": "DSC_1022.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsW4Nhw1YluHGwsw-Zn-DK0lx_WUVoYUSsWlzlIZh8YqvC76y1P5YGQ8EU3EnPIZMCr2VZi-n1NI8J3eLR_IJgEAnu6eFdqfQMd8y6izwAL6TiKtL8XqYSd7OJ3onzFZRLh_PWenHS-P4/s1600/DSC_1022.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn7RGs-0W1dosloan7dUXuebMsaGxNSSrYx8w6l_fmz6Bv8hZGbHwTtwZ_lb7nJRjQyntLdTxCcKX-WTGxlbKVJgj-YM_-hFxc9kuT7aNbhSGRGtayQhobRaS0r_tmbDiJTdoQS4HgZB8/s0/DSC_1024.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn7RGs-0W1dosloan7dUXuebMsaGxNSSrYx8w6l_fmz6Bv8hZGbHwTtwZ_lb7nJRjQyntLdTxCcKX-WTGxlbKVJgj-YM_-hFxc9kuT7aNbhSGRGtayQhobRaS0r_tmbDiJTdoQS4HgZB8/s1600/DSC_1024.JPG",
+        "filename": "DSC_1024.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn7RGs-0W1dosloan7dUXuebMsaGxNSSrYx8w6l_fmz6Bv8hZGbHwTtwZ_lb7nJRjQyntLdTxCcKX-WTGxlbKVJgj-YM_-hFxc9kuT7aNbhSGRGtayQhobRaS0r_tmbDiJTdoQS4HgZB8/s1600/DSC_1024.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioxTXDMUNiSlyDpyVvSffr14XE06IF1-UbCRrGmsLSlHXqXdgr8fazWfdJW9_WtUMlprW5Sxgn0Lx43IBPP8n5eaQZ5j9Ziq08N4_t3GIEV9NOiApwm1WZO8oAi5g2kbGdUN-VQUZWQgE/s0/DSC_1025.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioxTXDMUNiSlyDpyVvSffr14XE06IF1-UbCRrGmsLSlHXqXdgr8fazWfdJW9_WtUMlprW5Sxgn0Lx43IBPP8n5eaQZ5j9Ziq08N4_t3GIEV9NOiApwm1WZO8oAi5g2kbGdUN-VQUZWQgE/s1600/DSC_1025.JPG",
+        "filename": "DSC_1025.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioxTXDMUNiSlyDpyVvSffr14XE06IF1-UbCRrGmsLSlHXqXdgr8fazWfdJW9_WtUMlprW5Sxgn0Lx43IBPP8n5eaQZ5j9Ziq08N4_t3GIEV9NOiApwm1WZO8oAi5g2kbGdUN-VQUZWQgE/s1600/DSC_1025.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwHPw8DW-3IvXfD-oqpBIpeaFNf5y7GVg-6i3enjLA0NA_7oO1mPyRiiBwSsH6ymwAWVWoMJpNRZVzoZfClWjqiPnXVz8Y6Fi5w42VlIcqUlBbePCbPiSQFbB09SzA9VNms23zvBcSBU/s0/DSC_1040.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwHPw8DW-3IvXfD-oqpBIpeaFNf5y7GVg-6i3enjLA0NA_7oO1mPyRiiBwSsH6ymwAWVWoMJpNRZVzoZfClWjqiPnXVz8Y6Fi5w42VlIcqUlBbePCbPiSQFbB09SzA9VNms23zvBcSBU/s1600/DSC_1040.JPG",
+        "filename": "DSC_1040.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwHPw8DW-3IvXfD-oqpBIpeaFNf5y7GVg-6i3enjLA0NA_7oO1mPyRiiBwSsH6ymwAWVWoMJpNRZVzoZfClWjqiPnXVz8Y6Fi5w42VlIcqUlBbePCbPiSQFbB09SzA9VNms23zvBcSBU/s1600/DSC_1040.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 70,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZRngz7X207ZmspGC4ItiKjDCstTEfqQAawUoEzcrgK6uzHEUNR0XMjH8PrXhEGP5I4LwYXuVs-HWZqWg9yF19jXBja6Ay4a2X5zOBqv0Vn3zz7pC25fyzoubY_5EeMIhLHYvJA6PBpeg/s0/DSC_1042.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZRngz7X207ZmspGC4ItiKjDCstTEfqQAawUoEzcrgK6uzHEUNR0XMjH8PrXhEGP5I4LwYXuVs-HWZqWg9yF19jXBja6Ay4a2X5zOBqv0Vn3zz7pC25fyzoubY_5EeMIhLHYvJA6PBpeg/s1600/DSC_1042.JPG",
+        "filename": "DSC_1042.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZRngz7X207ZmspGC4ItiKjDCstTEfqQAawUoEzcrgK6uzHEUNR0XMjH8PrXhEGP5I4LwYXuVs-HWZqWg9yF19jXBja6Ay4a2X5zOBqv0Vn3zz7pC25fyzoubY_5EeMIhLHYvJA6PBpeg/s1600/DSC_1042.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 70,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_7_Wg82b1qoPQMBZlmyoX5kMUBM54Y5wO3DRwXD6bbuqQJFu1wb4aKYZ6168WIL-uNP_zkjEo0LxSljGw2hhxUYOQ7-84BtVIgweLFAPkK-knEdibDm8ummyu6Yg1orkvf-tWw2MlOA/s0/DSC_1044.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_7_Wg82b1qoPQMBZlmyoX5kMUBM54Y5wO3DRwXD6bbuqQJFu1wb4aKYZ6168WIL-uNP_zkjEo0LxSljGw2hhxUYOQ7-84BtVIgweLFAPkK-knEdibDm8ummyu6Yg1orkvf-tWw2MlOA/s1600/DSC_1044.JPG",
+        "filename": "DSC_1044.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_7_Wg82b1qoPQMBZlmyoX5kMUBM54Y5wO3DRwXD6bbuqQJFu1wb4aKYZ6168WIL-uNP_zkjEo0LxSljGw2hhxUYOQ7-84BtVIgweLFAPkK-knEdibDm8ummyu6Yg1orkvf-tWw2MlOA/s1600/DSC_1044.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNetPbrf1iRQpQ3GMdUFaROteDHPInVCvwCxXtkh2OV29hG62Ncgqi2UxARaNdNQo2hTaMfACRtJyZA44w_AY1q9Sq3bybMFOCfhDzmD1nUzCoPuISuuEEwoOJ2Yig8CQQ8BS0vBikBt0/s0/DSC_1048.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNetPbrf1iRQpQ3GMdUFaROteDHPInVCvwCxXtkh2OV29hG62Ncgqi2UxARaNdNQo2hTaMfACRtJyZA44w_AY1q9Sq3bybMFOCfhDzmD1nUzCoPuISuuEEwoOJ2Yig8CQQ8BS0vBikBt0/s1600/DSC_1048.JPG",
+        "filename": "DSC_1048.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNetPbrf1iRQpQ3GMdUFaROteDHPInVCvwCxXtkh2OV29hG62Ncgqi2UxARaNdNQo2hTaMfACRtJyZA44w_AY1q9Sq3bybMFOCfhDzmD1nUzCoPuISuuEEwoOJ2Yig8CQQ8BS0vBikBt0/s1600/DSC_1048.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgslJj0OYCatxErqTFzVeS2MAt1mNDT5dC6PhwdKEpZTdEuLW8ERoffGceDGvKsu1o0L7HzXdVhYQfizkft-X9Wp4l7wnphyphenhyphenuuXhL6HA5XK-QExNb3O0sigBRGoGjpMVb609Sc4QUQYjqw/s0/DSC_1012.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgslJj0OYCatxErqTFzVeS2MAt1mNDT5dC6PhwdKEpZTdEuLW8ERoffGceDGvKsu1o0L7HzXdVhYQfizkft-X9Wp4l7wnphyphenhyphenuuXhL6HA5XK-QExNb3O0sigBRGoGjpMVb609Sc4QUQYjqw/s1600/DSC_1012.JPG",
+        "filename": "DSC_1012.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgslJj0OYCatxErqTFzVeS2MAt1mNDT5dC6PhwdKEpZTdEuLW8ERoffGceDGvKsu1o0L7HzXdVhYQfizkft-X9Wp4l7wnphyphenhyphenuuXhL6HA5XK-QExNb3O0sigBRGoGjpMVb609Sc4QUQYjqw/s1600/DSC_1012.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Spissky Stvrtok - Slovak Mykonos",
+      "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY"
+    ],
+    "category": null,
+    "location": {
+      "name": "Spišský Štvrtok – Myšia Hôrka",
+      "latitude": 49.007559,
+      "longitude": 20.440793,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Rozloha opevnenej plochy",
+        "value": "cca 6600 m², s tridsiatimi deviatimi domami a kultovým miestom",
+        "icon": "map"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "kamenný val široký 6 m, predsunutá kamenná stena a 6 m široká priekopa, hlavná brána v tvare U",
+        "icon": "shield"
+      },
+      {
+        "label": "Kultúra",
+        "value": "otomanská kultúra (Otomani-Füzesabony), prechod medzi staršou a strednou dobou bronzovou",
+        "icon": "scroll"
+      },
+      {
+        "label": "Významné nálezy",
+        "value": "zlaté a bronzové šperky, fajansové perly (dovtedy známe len z Egypta), výrobky z kostí a jantáru s mykénskymi ornamentmi",
+        "icon": "star"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "okolo 3500 rokov (doba bronzová)",
+        "title": "Vznik mestečka na Myšej Hôrke",
+        "description": "Mestečko staré cca 3500 rokov vybudovali ľudia otomanskej kultúry, prisťahovalci zo Sedmohradska, ktorých lákala bohatá surovinová základňa a výskyt medi.",
+        "type": "founding"
+      },
+      {
+        "year": "koniec 19. storočia",
+        "title": "Prvá správa o pevnosti",
+        "description": "Prvú správu o historickej pevnosti na Myšej Hôrke napísal archeológ Alexander Münich.",
+        "type": "discovery"
+      },
+      {
+        "year": "po 1. svetovej vojne",
+        "title": "Zabránenie devastácii lokality",
+        "description": "Myšej Hôrke hrozila úplná devastácia, ktorej zabránili úrady.",
+        "type": "event"
+      },
+      {
+        "year": "šesťdesiate roky 20. storočia",
+        "title": "Upozornenie Františka Javorského",
+        "description": "Na lokalitu upozornil archeológ František Javorský, rodák zo Spišského Štvrtka.",
+        "type": "discovery"
+      },
+      {
+        "year": "1968 – 1974",
+        "title": "Systematický výskum pod vedením J. Vlaďara",
+        "description": "Výskum viedol doc. PhDr. Jozef Vlaďar, DrSc. z Archeologického ústavu Slovenskej akadémie vied v Nitre; nálezy boli odborníkmi ohodnotené ako európsky objav.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Veľmi dlho sa nevedelo, že aj na Slovensku existovalo mestečko staré cca 3500 rokov, ktoré malo veľa spoločného s gréckymi Mykénami. Ide o Spišský Štvrtok, konkrétne Myšiu Hôrku, kde jej vtedajší obyvatelia postavili pevnosť na dôležitom strategickom mieste, tzv. Severnej ceste, ktorú strážili a kontrolovali. Historici túto oblasť pomenovali ako Spišské Mykény…"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pravdepodobne už v tomto čase existovali na území Slovenska dve významné cesty, ktoré boli od mladšej doby kamennej zároveň cestami obchodnými. Prvá, zvaná Jantárová, vedúca od Stredomoria okolo Dunaja a rieky Moravy na sever. Druhá od severovýchodného Baltu popri rieke Visle a rieke Poprad úzkou dolinou okolo Myšej Hôrky, do údolia Potisia, potom na Balkán k Stredozemnému moru. Táto východná trasa, zvaná Severná cesta, mala vplyv na vznik a rozvoj pevnosti. Po tejto frekventovanej ceste sa prepravoval tovar pravdepodobne karavánovým spôsobom od jednej stanice k druhej. Určite boli aj obchodníci, ktorí túto cestu prešli celú, ale museli mať možnosť striedať alebo si prenajímať dopravné prostriedky, teda kone. Na to im slúžili akési opevnené občerstvovacie stanice."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLArtss5u7m8PIz5MbNp-hIH2tX2OPhI8UM_nPB4L1RICpZ9scqmx2X-Bp1fDVasUZw0YhSWQUB3_yki-rsfDludt7r9SOLRRCWyXhLf6nmkLmQnFW2hmTPKL4aFoS6b9UaEzXKmbKld8/s0/Spi%C5%A1sk%C3%BD+%C5%A1tvrtok.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLArtss5u7m8PIz5MbNp-hIH2tX2OPhI8UM_nPB4L1RICpZ9scqmx2X-Bp1fDVasUZw0YhSWQUB3_yki-rsfDludt7r9SOLRRCWyXhLf6nmkLmQnFW2hmTPKL4aFoS6b9UaEzXKmbKld8/s1600/Spi%C5%A1sk%C3%BD+%C5%A1tvrtok.jpg",
+          "filename": "Spišský+štvrtok.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLArtss5u7m8PIz5MbNp-hIH2tX2OPhI8UM_nPB4L1RICpZ9scqmx2X-Bp1fDVasUZw0YhSWQUB3_yki-rsfDludt7r9SOLRRCWyXhLf6nmkLmQnFW2hmTPKL4aFoS6b9UaEzXKmbKld8/s1600/Spi%C5%A1sk%C3%BD+%C5%A1tvrtok.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prvá správa o historickej pevnosti na Myšej Hôrke sa objavila až koncom 19. storočia. Napísal ju archeológ Alexander Münich, považovaný za otca spišských archeológov a vlastivedných nadšencov. V tom čase ešte existovali cca dvojmetrové zvyšky múrov, ktoré miestni obyvatelia neskôr rozobrali a použili na výstavbu svojich domov poškodených požiarom. Myšej Hôrke hrozila úplná devastácia, ktorej zabránili úrady po 1. svetovej vojne."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Počas šesťdesiatych rokov na túto lokalitu upozornil aj František Javorský, archeológ, rodák zo Spišského Štvrtka. Po viac než dvadsiatich rokoch od tohto upozornenia sa ku slovu dostali pracovníci Archeologického ústavu Slovenskej akadémie vied v Nitre, ktorí začali s výskumom, ale úspechy dlho neprichádzali. Vedúci tohto výskumu doc. PhDr. Jozef Vlaďar, DrSc., sa však nevzdal a výskum bol nakoniec korunovaný nádhernými nálezmi. O nich uverejnil mnoho článkov a fotografií. Odborníci tieto nálezy ohodnotili ako európsky objav."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiunM8h-d76HBRo-7TnK2h-A_iBxnj0o-J7loxh3Kyi5TmmTkv6aVao5xmdyQnGadDozBjDJCy020uHvDsaIOYZ5-tU_J99NaG2yeaAjSHGbYrk2YrYe_pGDTQDI4a1QHSxeg6FjoUYzGo/s0/SPI%25C5%25A0SK%25C3%259D+%25C5%25A0TVRTOK2.doc.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiunM8h-d76HBRo-7TnK2h-A_iBxnj0o-J7loxh3Kyi5TmmTkv6aVao5xmdyQnGadDozBjDJCy020uHvDsaIOYZ5-tU_J99NaG2yeaAjSHGbYrk2YrYe_pGDTQDI4a1QHSxeg6FjoUYzGo/s1600/SPI%25C5%25A0SK%25C3%259D+%25C5%25A0TVRTOK2.doc.jpg",
+          "filename": "SPI%C5%A0SK%C3%9D+%C5%A0TVRTOK2.doc.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiunM8h-d76HBRo-7TnK2h-A_iBxnj0o-J7loxh3Kyi5TmmTkv6aVao5xmdyQnGadDozBjDJCy020uHvDsaIOYZ5-tU_J99NaG2yeaAjSHGbYrk2YrYe_pGDTQDI4a1QHSxeg6FjoUYzGo/s1600/SPI%25C5%25A0SK%25C3%259D+%25C5%25A0TVRTOK2.doc.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "SPIŠSKÝ ŠTVRTOK – SLOVENSKÉ MYKÉNY",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Predovšetkým preto, že zmenil doterajšie predstavy o osídlení severnej časti Slovenska v období praveku."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Usudzuje sa, že v strednej Európe pred 3500 rokmi bol pravek a prvotnopospolná spoločnosť, kým na juhu Európy, aj v gréckych Mykénach, existovala už rozvinutá otrokárska spoločnosť. Mykénske, krétske a grécke kultúrne vplyvy sa vtedy šírili od iných civilizačných stredísk v Európe. Spôsob stavania palácov, kamenná architektúra a urbanistické riešenie so všetkými egejskými prúdmi sa šírili na sever aj po Severnej ceste a dostali sa aj na Myšiu Hôrku. Medzi gréckymi Mykénami a Myšou Hôrkou museli teda existovať kontakty, ktoré sa prejavili v hmotnej aj duchovnej kultúre, čo je doložené bohatými nálezmi a predmetmi strategického významu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vykopané artefakty ukázali, že mestečko na Myšej Hôrke malo dokonalé vojenské opevnenie a domy usporiadané do ulíc podľa premysleného urbanistického plánu. Malo rozlohu cca 6600 m² a bolo chránené obvyklým spôsobom. Val chránený kamennými múrmi bol 6 m široký a pred ním bola ešte osobitná kamenná stena a 6 m široká priekopa. Do mesta s kamennými hradbami v tvare písmena U sa vchádzalo hlavnou bránou. Tiež sa ukázalo, že mestečko bolo postavené na základoch staršej, ale menšej osady, ktorú noví stavitelia zbúrali, aby mohli postaviť rozľahlejšiu a honosnejšiu osadu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFdWmrFxUWl6qvXtJfb9327siRUbXD60e0WWsrBOavsGf_j6RlbnGly8y29VD918uZulaNa8ogXIHPyaPoRpimetTz3tkGSAzWpepjY1Ewp5ENdnBZcXp9-abK2GVBJ6mpgSe5agpUq6s/s0/Naj+z+dial%25CC%258Cky.jpeg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFdWmrFxUWl6qvXtJfb9327siRUbXD60e0WWsrBOavsGf_j6RlbnGly8y29VD918uZulaNa8ogXIHPyaPoRpimetTz3tkGSAzWpepjY1Ewp5ENdnBZcXp9-abK2GVBJ6mpgSe5agpUq6s/s1600/Naj+z+dial%25CC%258Cky.jpeg",
+          "filename": "Naj+z+dial%CC%8Cky.jpeg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFdWmrFxUWl6qvXtJfb9327siRUbXD60e0WWsrBOavsGf_j6RlbnGly8y29VD918uZulaNa8ogXIHPyaPoRpimetTz3tkGSAzWpepjY1Ewp5ENdnBZcXp9-abK2GVBJ6mpgSe5agpUq6s/s1600/Naj+z+dial%25CC%258Cky.jpeg",
+            "displayedWidth": 320,
+            "displayedHeight": 159,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "3D model hradiska. Autor: Naj",
+        "caption": "3D model hradiska. Autor: Naj",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Archeológovia dospeli k záveru, že starovekú osadu vybudovali ľudia otomanskej kultúry, teda prisťahovalci zo Sedmohradska, ktorí dobre poznali miestne mestá a ich ochranu. Lákala ich sem aj bohatá surovinová základňa. Výskyt veľkého množstva medi bol jednou z podmienok, ktorá dala možnosť vzniku takémuto mestečku už v dobe bronzovej. O tom svedčí značne nápadná podobnosť nálezov na Myšej Hôrke s nálezmi tzv. otomanskej kultúry, ktorej strediskom bolo Sedmohradsko (Rumunsko)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "NONuAYct3hU",
+        "url": "https://www.youtube.com/embed/NONuAYct3hU",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Mestečko na Myšej Hôrke bolo postavené na vyvýšenom mieste, kde je na jednej strane prudký a zalesnený svah klesajúci do údolia Machalovského potoka. Oproti prudkému svahu sa vypína kopec zvaný Hradisko, kde sa koná archeologický výskum. Ulice s domami nadväzovali na vstupnú bránu s dvomi vežami a opevnením. Tým sa podobá odkrytému sídlisku v Barci pri Košiciach. Na Myšej Hôrke boli postavené dva druhy objektov. Jedny patrili privilegovanej vrstve mocných a druhé, mimo námestia, remeselníkom, obchodníkom a vojakom. Uprostred kameňmi vydláždeného námestia bola postavená akropola, v ktorej sídlili privilegovaní obyvatelia. Ich domy sa líšili predovšetkým štruktúrou predmetov, ktoré sa tu našli. Najmocnejšia skupina ľudí rozhodovala o organizácii života v mestečku, o obchode, o strážení Severnej cesty a iste aj o hospodárení celého kraja. V ich domoch sa našli zlaté a bronzové šperky, ktoré boli uložené v nádobách na policiach alebo v trezoroch pod podlahou. Nádheru mnohých predmetov zvýrazňovali výrobky z kostí a jantáru s mykénskymi ornamentmi. Našli sa tu aj fajansové perly, známe v tom čase iba v Egypte. V domoch remeselníkov a obchodníkov sa našli: kamenné výrobky, keramika, bronzové predmety, formy na odlievanie bronzových dýk a šperkov, závažia do tkáčskych stavov a rôzne ozdobné predmety."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsB2hOQyVyOogXvWo-S-h2d2XKXzAYhHf0_kfcQOH4-z0FxYKoHQVnPccvvUs2k6NMi1ak2AnuetHOabXH_QlFlR-gpk3n_YDcbfdBxP4bvD5lJd9L5lYBRf6MMIIsp4V7teKTqKLGRVQ/s0/bronz+zajatci.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsB2hOQyVyOogXvWo-S-h2d2XKXzAYhHf0_kfcQOH4-z0FxYKoHQVnPccvvUs2k6NMi1ak2AnuetHOabXH_QlFlR-gpk3n_YDcbfdBxP4bvD5lJd9L5lYBRf6MMIIsp4V7teKTqKLGRVQ/s1600/bronz+zajatci.jpg",
+          "filename": "bronz+zajatci.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsB2hOQyVyOogXvWo-S-h2d2XKXzAYhHf0_kfcQOH4-z0FxYKoHQVnPccvvUs2k6NMi1ak2AnuetHOabXH_QlFlR-gpk3n_YDcbfdBxP4bvD5lJd9L5lYBRf6MMIIsp4V7teKTqKLGRVQ/s1600/bronz+zajatci.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 263,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Víťazná armáda z doby bronzovej si odvádza zajatkyne, v pozadí horiace hradisko (autor kresby: Libor Balák)",
+        "caption": "Víťazná armáda z doby bronzovej si odvádza zajatkyne, v pozadí horiace hradisko (autor kresby: Libor Balák)",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zaujímavosťou je, že sa v mestečku nenašlo žiadne poľnohospodárske náradie, čo pravdepodobne dokazuje, že si produkty na obživu obstarávali zrejme výmenou od obyvateľov zo širokého okolia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najatraktívnejším objektom bolo obetisko, kde sa našli aj ľudské pozostatky, naházané do jamy s rôznymi milodarmi. Niektoré kostry neboli kompletné, chýbali im ruky a nohy. Zistilo sa aj rituálne zmrzačenie, priam bestiálne znetvorenie tiel, nevynímajúc hlavy obetí. V troch prípadoch sa našli aj diery v zadnej časti lebky. Tento objav je viac než prekvapujúci, pretože tu mali žiť ľudia s vysokým spoločenským štandardom…"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "www.obce.info"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "www.spisskystvrtok.sk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "www.sunava.sk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podborský, V.: DĚJINY PRAVĚKU A RANÉ DOBY DĚJINNÉ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "http://www.lovecpokladu.cz/home/spissky-stvrtok-slovenske-mykeny-2932",
+            "url": "http://www.lovecpokladu.cz/home/spissky-stvrtok-slovenske-mykeny-2932"
+          },
+          {
+            "text": "The fortified hilltop settlement of Spišský Štvrtok is one of the most significant sites of the earlier prehistory of central Europe. It dates to the transitional period between the Early and the Middle Bronze Age with a cultural affiliation to the Otomani-Füzesabony culture, c. 1700–1500 B . C . The village of Spišský Štvrtok (located in an area called Spišská Nová Ves, which is also a town) is situated on an oblong hill adjacent to a valley in the undulated country of eastern Slovakia at Myšia Hôrka in the Carpathian Basin. The hill rises very steeply on the western side and more gradually on the east, in modern times with a growth of forest. The fortification on the summit, about 625 meters above sea level, comprises about 6,600 square meters with thirty-nine houses and a cult place in addition to a complex system of ramparts, bastions, and ditches. There are two occupation phases: the end phase of the Early Bronze Age and the first phase of the Middle Bronze Age.",
+            "url": null
+          },
+          {
+            "text": "The site became known to the scientific community in the 1930s due to still-visible walls and several spectacular surface finds. It was systematically excavated in 1968–1974 under the direction of Dr. J. Vladar from the Archaeological Institute of the Slovakian Academy of Science in Nitra. The site is wholly examined and is in an excellent state of preservation. Vladar has described the excavation results in several small reports while the final report still awaits.",
+            "url": null
+          },
+          {
+            "text": "A stone wall encircles the entire settlement except at the gate, which is located at the eastern, more accessible, side. Here the fortification is reinforced with two additional walls and with a broad stone-lined ditch, which may have been water-filled. The intervals between the walls were filled in with gravel probably derived from digging the broad ditch. The latter runs north to south, uninterrupted, along the outer side of the rampart and a wooden bridge presumably existed at the gate.",
+            "url": null
+          },
+          {
+            "text": "The walls are built of thin stone slabs, which were brought in from the neighborhood at a distance of 2–3 kilometers. At the base, the rampart had a total width of 7.5 meters. The height is estimated at about 4 meters. Possibly a wooden palisade was erected on the top as a further reinforcement. The entrance to the settlement is flanked by two circular bastions of nearly 6 meters across—probably watchtowers. The gate itself widens considerably toward the outside, probably to make room for a defensive unit of warriors in case the settlement was attacked.",
+            "url": null
+          },
+          {
+            "text": "Only a minor part of the area encircled by the fortification was built up. The settlement consisted of stone houses, the foundations of which had been preserved, and streets divided the occupied space. According to the excavator the settlement had a clear bipartite division suggesting the existence of an elite and a broader stratum occupied with crafts. Finds from the craftsmen's quarter indicated the manufacture of a whole series of different products in cloth, stone, pottery, bone, antler, gold, and bronze. Houses inhabited by the privileged part of the population were of a much better quality, were situated in the best-protected part of the stronghold, and contained various treasures. Valuables of weapons and ornaments in bronze and gold had been deposited in chests below the floors. These finer houses were organized in a U shape around a slab-plastered \"town square.\"",
+            "url": null
+          },
+          {
+            "text": "Spišský Štvrtok is merely one of several contemporary sites with fortifications known from southeast Slovakia, notably Bárca, Nižná Myšl'a, Streda nad Bodrogom, and Gánovce. Similar sites belonging to the Otomani-Füzesabony culture—and broadly dating to the span 1700–1500 B . C .—exist in adjoining regions of Hungary and Romania. Some settlements were fortified and situated on hilltops, such as the strongholds of Otomani and Saˇlacea in Romania and several of the Slovakian sites. Fortified sites may be situated also in the swampy areas between rivers. Moreover, there are so-called tell settlements with ring walls, such as Tószeg-Laposhalom at the river Tisza on the Hungarian Plain and the nearby tells of Gyulavarsánd and Socodor just across the border in Romania. Large open settlements are also known, apparently without fortifications, but situated in naturally defendable locations.",
+            "url": null
+          },
+          {
+            "text": "http://www.novelguide.com/a/discover/aneu_02/aneu_02_00119.html",
+            "url": "http://www.novelguide.com/a/discover/aneu_02/aneu_02_00119.html"
+          },
+          {
+            "text": "English translation taken from:",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "http://www.lovecpokladu.cz/home/spissky-stvrtok-slovenske-mykeny-2932",
+        "title": "http://www.lovecpokladu.cz/home/spissky-stvrtok-slovenske-mykeny-2932"
+      },
+      {
+        "type": "book",
+        "text": "The fortified hilltop settlement of Spišský Štvrtok is one of the most significant sites of the earlier prehistory of central Europe. It dates to the transitional period between the Early and the Middle Bronze Age with a cultural affiliation to the Otomani-Füzesabony culture, c. 1700–1500 B . C . The village of Spišský Štvrtok (located in an area called Spišská Nová Ves, which is also a town) is situated on an oblong hill adjacent to a valley in the undulated country of eastern Slovakia at Myšia Hôrka in the Carpathian Basin. The hill rises very steeply on the western side and more gradually on the east, in modern times with a growth of forest. The fortification on the summit, about 625 meters above sea level, comprises about 6,600 square meters with thirty-nine houses and a cult place in addition to a complex system of ramparts, bastions, and ditches. There are two occupation phases: the end phase of the Early Bronze Age and the first phase of the Middle Bronze Age."
+      },
+      {
+        "type": "book",
+        "text": "The site became known to the scientific community in the 1930s due to still-visible walls and several spectacular surface finds. It was systematically excavated in 1968–1974 under the direction of Dr. J. Vladar from the Archaeological Institute of the Slovakian Academy of Science in Nitra. The site is wholly examined and is in an excellent state of preservation. Vladar has described the excavation results in several small reports while the final report still awaits."
+      },
+      {
+        "type": "book",
+        "text": "A stone wall encircles the entire settlement except at the gate, which is located at the eastern, more accessible, side. Here the fortification is reinforced with two additional walls and with a broad stone-lined ditch, which may have been water-filled. The intervals between the walls were filled in with gravel probably derived from digging the broad ditch. The latter runs north to south, uninterrupted, along the outer side of the rampart and a wooden bridge presumably existed at the gate."
+      },
+      {
+        "type": "book",
+        "text": "The walls are built of thin stone slabs, which were brought in from the neighborhood at a distance of 2–3 kilometers. At the base, the rampart had a total width of 7.5 meters. The height is estimated at about 4 meters. Possibly a wooden palisade was erected on the top as a further reinforcement. The entrance to the settlement is flanked by two circular bastions of nearly 6 meters across—probably watchtowers. The gate itself widens considerably toward the outside, probably to make room for a defensive unit of warriors in case the settlement was attacked."
+      },
+      {
+        "type": "book",
+        "text": "Only a minor part of the area encircled by the fortification was built up. The settlement consisted of stone houses, the foundations of which had been preserved, and streets divided the occupied space. According to the excavator the settlement had a clear bipartite division suggesting the existence of an elite and a broader stratum occupied with crafts. Finds from the craftsmen's quarter indicated the manufacture of a whole series of different products in cloth, stone, pottery, bone, antler, gold, and bronze. Houses inhabited by the privileged part of the population were of a much better quality, were situated in the best-protected part of the stronghold, and contained various treasures. Valuables of weapons and ornaments in bronze and gold had been deposited in chests below the floors. These finer houses were organized in a U shape around a slab-plastered \"town square.\""
+      },
+      {
+        "type": "book",
+        "text": "Spišský Štvrtok is merely one of several contemporary sites with fortifications known from southeast Slovakia, notably Bárca, Nižná Myšl'a, Streda nad Bodrogom, and Gánovce. Similar sites belonging to the Otomani-Füzesabony culture—and broadly dating to the span 1700–1500 B . C .—exist in adjoining regions of Hungary and Romania. Some settlements were fortified and situated on hilltops, such as the strongholds of Otomani and Saˇlacea in Romania and several of the Slovakian sites. Fortified sites may be situated also in the swampy areas between rivers. Moreover, there are so-called tell settlements with ring walls, such as Tószeg-Laposhalom at the river Tisza on the Hungarian Plain and the nearby tells of Gyulavarsánd and Socodor just across the border in Romania. Large open settlements are also known, apparently without fortifications, but situated in naturally defendable locations."
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.novelguide.com/a/discover/aneu_02/aneu_02_00119.html",
+        "title": "http://www.novelguide.com/a/discover/aneu_02/aneu_02_00119.html"
+      },
+      {
+        "type": "book",
+        "text": "English translation taken from:"
+      }
+    ]
+  }
+}

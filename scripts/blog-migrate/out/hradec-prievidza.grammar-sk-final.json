@@ -1,0 +1,11 @@
+{
+  "slug": "hradec-prievidza",
+  "note": "grammar-sk pass1 (draft) aplikovaný priamo + pass2 cross-field konzistencia. Editované priamo v out/hradec-prievidza.intermediate.json.",
+  "step1_appliedFixes_count": 13,
+  "step2_crossfield_scan_result": "Plný sken keyFacts+timeline+excerpt+title+tags. Nálezy: keyFacts 'Typ hradiska' (útočištné→útočiskové) a keyFacts 'Najvýznamnejší nález' (18×40→18 × 40 mm) opravené súbežne s telom. Timeline bolo už väčšinou v korektnom stave (8. – 9. storočie, keltsko-dácke hradisko) — telo sa dorovnalo NA timeline, nie naopak, keďže timeline malo správnejšiu typografiu.",
+  "flags_unresolved": [
+    "Pozri out/hradec-prievidza.review.json — BIBLIO_IN_BODY (Lit: Bialeková/Pieta 1994, Janšák 1928 mimo content.sources)."
+  ],
+  "protected_zone_verification": "Článok neobsahuje žiadny priamy citát ani quote-block — celé telo je narátorský opis alebo nepriama reč. §21.3 sa netýka žiadneho bloku.",
+  "upload_ready": true
+}

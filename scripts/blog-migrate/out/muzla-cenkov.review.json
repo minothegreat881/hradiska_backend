@@ -1,0 +1,20 @@
+{
+  "slug": "muzla-cenkov",
+  "flags": [
+    {
+      "type": "CROSS_FIELD_CHECKED_OK",
+      "location": "timeline[4].description vs. blocks (predium in villa Chenka)",
+      "note": "Rod vzťažného zámena pri 'predium' bol už pred zásahom zhodný ('ktoré') vo všetkých troch výskytoch (keyFacts, timeline, telo) — pôvodne podozrenie na nezhodu sa pri opätovnej kontrole nepotvrdilo, opravili sa iba úvodzovky."
+    },
+    {
+      "type": "UNCERTAIN_MEANING",
+      "location": "blocks['Ekonomika osady...' typ blok — 'so súčasťami upínania-remeňa']",
+      "note": "Spojenie 'ostroha so súčasťami upínania-remeňa' je neisté/technické (možno malo byť 'upínania remeňa' bez spojovníka, alebo iný odborný termín). Nezmenené — bez istoty o správnom znení sa nezasahovalo."
+    },
+    {
+      "type": "AUTHORNAME_NOTE",
+      "location": "blogPost.authorName vs. citations ('Spracoval: Orgoň')",
+      "note": "authorName='Orgon' (bez mäkčeňa), citácie v tele používajú 'Orgoň' (s mäkčeňom). Tento vzor je konzistentný naprieč celým korpusom (rovnako v male-kozmalovce, molpir, moravany), preto nezmenené — pravdepodobne zámerná konvencia poľa authorName, nie chyba tohto článku."
+    }
+  ]
+}

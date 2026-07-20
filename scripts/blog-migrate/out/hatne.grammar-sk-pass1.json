@@ -1,0 +1,30 @@
+{
+  "slug": "hatne",
+  "note": "grammar-sk agent, prvý prechod.",
+  "criticalFixes": [
+    { "issue": "Blok 1 (existujúci content.quote-block) mal v poli text nadbytočné doslovné úvodzovky \" ... \" obopínajúce celý citát, hoci komponent QuoteBlock.tsx pri jednoodstavcovom texte (isPoem=false) sám automaticky obalí text znakmi „ ... “ — výsledok by bol vizuálne zdvojený „\"text\"“.", "fix": "Odstránené redundantné vonkajšie úvodzovky z poľa text; vnorené „Väčším\" (prezývka hrádku v citáte) ponechané nedotknuté." },
+    { "issue": "Blok 17 obsahoval kompletnú bibliografiu (4 citácie vrátane poškodenej '*Diplomová práca+' anotácie) zlepenú v tele; článok nemal VÔBEC žiadnu content.sources sekciu.", "fix": "Vytvorená nová content.sources sekcia so 4 položkami, blok 17 odstránený z tela. '*Diplomová práca+' opravené na štandardný zápis '[Diplomová práca]' — hviezdička/plus sú typický artefakt starého fontového mapovania hranatých zátvoriek, vysoká istota opravy (bežná bibliografická anotácia žánru)." }
+  ],
+  "appliedFixes": [
+    { "rule": "OCR/preklep v protected-zone citáte (nie modernizácia slovníka, len chybný znak)", "before": "vzdialenosti medzí obcou Hátne", "after": "vzdialenosti medzi obcou Hátne", "block": 1, "note": "'medzí' nedáva v danom páde zmysel, 'medzi + inštr.' je jediná gramaticky funkčná možnosť; 'Hátne' (odlišný pravopis od 'Hatné') ponechané nedotknuté ako možný dobový variant" },
+    { "rule": "A7 bohemizmus/archaizmus", "before": "osídlenie je tu omnoho staršie", "after": "osídlenie je tu oveľa staršie", "block": 2 },
+    { "rule": "B typografia", "before": "3. tisícročia p.n.l.", "after": "3. tisícročia p. n. l.", "block": 2, "note": "aj KF a timeline" },
+    { "rule": "A1 uzavretie vsuvky", "before": "o oboch hrádkoch, prepojených koženým mostom je založená", "after": "o oboch hrádkoch, prepojených koženým mostom, je založená", "block": 3, "note": "caption aj alt" },
+    { "rule": "B typografia (m² + tisícový oddeľovač)", "before": "v rozlohe 1970 m2", "after": "v rozlohe 1 970 m²", "block": 4, "note": "aj KF" },
+    { "rule": "A4 nesprávny pád (datív)", "before": "vystavuje svoj južný svah slncu", "after": "vystavuje svoj južný svah slnku", "block": 4 },
+    { "rule": "A8 archaizmus", "before": "rozobrali už temer celú vápencovú skalu", "after": "rozobrali už takmer celú vápencovú skalu", "block": 5 },
+    { "rule": "B typografia (medzera pred %)", "before": "aspoň v 50% nájdených", "after": "aspoň v 50 % nájdených", "block": 5 },
+    { "rule": "D cross-field (nekonzistentné priezvisko rodu)", "before": "rodu Hatňanskovcov", "after": "rodu Hatňanských", "block": 6, "note": "caption aj alt; zjednotené s prevažujúcim tvarom v KF a bloku 15" },
+    { "rule": "B typografia (číselný rozsah)", "before": "(14.-15. storočie)", "after": "(14. – 15. storočie)", "block": 12, "note": "aj timeline" },
+    { "rule": "B typografia (apozícia = pomlčka)", "before": "svoje sídlo - stredoveký hrádok ... významnejšej pevnosti - Budatína", "after": "svoje sídlo — stredoveký hrádok ... významnejšej pevnosti — Budatína", "block": 13 },
+    { "rule": "B typografia (nadbytočná dvojbodka)", "before": "autorka Stanka F:", "after": "autorka Stanka F.", "block": 16 }
+  ],
+  "reviewed_no_change": [
+    "Bloky 2, 4, 5 obsahujú technický opis s Janšákovým konvenčným značením bodov (val a b, jarok J k) a archaickým slovníkom, ktorý štylisticky pripomína priamy citát — ZVÁŽENÉ prevedenie na quote-block, ale NEURČENÉ ako citát: chýba akékoľvek úvodzovkové ohraničenie alebo iný textový dôkaz (na rozdiel od bloku 1, ktorý mal jasné úvodzovky). Blok 7 navyše explicitne hovorí o Janšákovi v 3. osobe minulého času ('Štefan Janšák tu našiel...'), čo potvrdzuje, že ide o autorovu vlastnú parafrázu, nie doslovný citát. Ponechané ako bežný rozprávačský text.",
+    "'otázkou času, kedy' (blok 9) — ustálený idióm, 'kedy' je tu štandardné, nejde o chybu A8.",
+    "'kamenné osličky' (blok 8) — legitímny archeologický termín (brúsny kameň), nie chyba."
+  ],
+  "flags": [
+    "Blok 16 'fotografie z vtáčej perspektívy, autorka Stanka F.' nemá nadväzujúcu fotogalériu so zodpovedajúcim popiskom — pravdepodobne artefakt neúplnej migrácie pôvodnej fotogalérie z Bloggeru. Nedopĺňané, iba typograficky upravené (dvojbodka -> bodka)."
+  ]
+}

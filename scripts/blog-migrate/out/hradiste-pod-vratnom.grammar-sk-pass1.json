@@ -1,0 +1,22 @@
+{
+  "slug": "hradiste-pod-vratnom",
+  "note": "grammar-sk agent, prvý prechod (článok nikdy predtým nemal grammar-sk aplikovaný). Žiadny priamy dobový citát/quote-block v článku — celé telo je autorský (Orgon) text, žiadna chránená zóna podľa §21.3.",
+  "appliedFixes": [
+    { "rule": "typografia (trailing whitespace)", "before": "Malé Karpaty. \\n \\n \\n", "after": "Malé Karpaty.", "block": 1 },
+    { "rule": "B typografia (lomky ako zátvorky)", "before": "/paleolite/", "after": "(paleolite)", "block": 2 },
+    { "rule": "B typografia (lomky ako zátvorky)", "before": "/neolitu/", "after": "(neolitu)", "block": 2 },
+    { "rule": "B typografia (lomky ako zátvorky)", "before": "/1800 – 700 pr. n. l./", "after": "(1800 – 700 pr. n. l.)", "block": 2 },
+    { "rule": "A3 zhoda čísla (podmet vs. vzťažná veta) + A4 pádová väzba (o rozlohe → s rozlohou)", "before": "aj hradiská, veľké o rozlohe opevnenej plochy 1,5 ha ... ktoré slúžilo od 7. do 12. storočia", "after": "aj hradisko, veľké s rozlohou opevnenej plochy 1,5 ha ... ktoré slúžilo od 7. do 12. storočia", "block": 2, "note": "pôvodný plurál 'hradiská' nesedel s jednotným vzťažným zámenom/slovesom 'ktoré slúžilo' (nie 'ktoré slúžili'); singulár potvrdený nezávisle aj v keyFacts ('Hradisko u Fajnorov' — jednotné číslo) aj v timeline ('Veľké hradisko... slúžilo'). Súčasne opravená pádová väzba 'o rozlohe'→'s rozlohou' (bohemizmus, rovnaký vzor ako 'o priemere'→'s priemerom' v §21.1 A4), ktorá už bola správne v keyFacts aj timeline — telo bolo jediné nesprávne miesto." },
+    { "rule": "typografia (trailing whitespace)", "before": "storočia. \\n \\n ", "after": "storočia.", "block": 2 },
+    { "rule": "B typografia (lomky ako zátvorky) + §21.10 nízke číslovky slovom v súvislom texte", "before": "/ 4 hroby prevažne bez milodarov/", "after": "(štyri hroby prevažne bez milodarov)", "block": 5, "note": "keyFacts ('spočiatku 4 hroby') a timeline ('spočiatku s 4 hrobmi') ostávajú zámerne v číslicovej podobe — sú to faktografické/tabuľkové polia, na ktoré sa pravidlo o slovnom zápise nízkych čísloviek podľa §21.10 nevzťahuje (výnimka explicitne v texte pravidla)." },
+    { "rule": "typografia (medzera pred čiarkou v citácii)", "before": "In: Historica Slovaca V , 1947, s. 185.", "after": "In: Historica Slovaca V, 1947, s. 185.", "block": "content.sources.items[3] + citations[3]" }
+  ],
+  "reviewed_no_change": [
+    "'pohodlnému to prechodu' (blok 1) — archaická apozičná častica 'to' (starší štylistický vzor typu 'X, to Y'), nie chyba.",
+    "'konča usadlostí J. Kováča' (blok 5) — 'konča' je archaická/nárečová predložka (blízko, pri kraji), bežná v starších záhoráckych textoch; neopravovať na 'koncom'.",
+    "'čriepkov' (blok 3) — legitímny slovenský diminutív ('malý črep'), nie preklep za 'črepov'.",
+    "Väzba okolo vložených odkazov [2]-[6] (blok 6) skontrolovaná — medzery/interpunkcia na hraniciach textových uzlov v poriadku, žiadna strata podľa vzoru §21.10 (Zvolen-Môťová) nenájdená.",
+    "Nízke číslovky v bloku 6 ('dva hroby', 'dva nožíky', 'štyri hroby') už boli slovom, konzistentné so súvislým textom — žiadna zmena potrebná."
+  ],
+  "flags": []
+}

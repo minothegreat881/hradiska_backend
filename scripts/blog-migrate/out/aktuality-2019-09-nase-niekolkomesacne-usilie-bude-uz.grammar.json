@@ -1,0 +1,35 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Zborník Hradiská – Svedkovia dávnych čias 2' (2019-09).",
+  "corrections": [
+    {
+      "hint": 1,
+      "before": "knihy oborných príspevkov",
+      "after": "knihy odborných príspevkov",
+      "reason": "preklep oborných→odborných (A8)"
+    },
+    {
+      "hint": 1,
+      "before": "pokračovala aj naďalej a to najmä",
+      "after": "pokračovala aj naďalej, a to najmä",
+      "reason": "čiarka pred 'a to' vysvetľovacím (A1)"
+    },
+    {
+      "hint": 1,
+      "before": "sme sa s ním posieľali na vytvorení",
+      "after": "sme sa s ním podieľali na vytvorení",
+      "reason": "preklep posieľali→podieľali (A8)"
+    },
+    {
+      "hint": 1,
+      "before": "ako dobrovolníci zúčastnili",
+      "after": "ako dobrovoľníci zúčastnili",
+      "reason": "diakritika dobrovoľníci (A8)"
+    },
+    {
+      "hint": 1,
+      "before": "čitateľov tak v odbornej ako aj v laickej",
+      "after": "čitateľov tak v odbornej, ako aj v laickej",
+      "reason": "čiarka v spojení tak…ako aj (A1)"
+    }
+  ]
+}

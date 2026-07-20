@@ -1,0 +1,937 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label28-zem-podhradie-hradistia.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5094652902220967",
+    "bloggerPostUrl": "http://www.hradiska.sk/2012/04/zemianske-podhradie-hradista.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/5094652902220967/comments/default",
+    "extractedAt": "2026-07-13T23:07:47.787Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 16,
+      "captionedImages": 1,
+      "separatorImages": 12
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Zemianske Podhradie – Hradiská",
+    "slug": "zemianske-podhradie-hradista",
+    "excerpt": "V Bošáckej doline vybudovali staroveké národy a neskôr aj Slovania niekoľko dôležitých hradísk, ktorých pozostatky je možné vidieť ešte aj dnes.",
+    "authorName": "Orgon",
+    "publishedAt": "2012-04-06T23:20:00.009+02:00",
+    "originalPublishedDate": "2012-04-06T23:20:00.009+02:00",
+    "updatedAt": "2023-03-06T12:43:45.128+01:00",
+    "readingTime": 9,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRMYRcPoREyLO4Px7U7KbgRI90qFAQYdrpzzN8-ZHStvavohHvgkipZizOZcXyUkhSX41x3WPNlIoKuI05sihBJh0xAklYWaWDCw8YYGazzJvsRchtqJmeZiw7jIvIp3TLZpD7gDspM5bbjchDeG57HKqO2cb2ish3sZE84Q78C4vkjyziHFqP8dHGw/s0/Hradi%C5%A1t%C3%A1%20LIDAR.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRMYRcPoREyLO4Px7U7KbgRI90qFAQYdrpzzN8-ZHStvavohHvgkipZizOZcXyUkhSX41x3WPNlIoKuI05sihBJh0xAklYWaWDCw8YYGazzJvsRchtqJmeZiw7jIvIp3TLZpD7gDspM5bbjchDeG57HKqO2cb2ish3sZE84Q78C4vkjyziHFqP8dHGw/s1600/Hradi%C5%A1t%C3%A1%20LIDAR.JPG",
+      "filename": "Hradištá LIDAR.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRMYRcPoREyLO4Px7U7KbgRI90qFAQYdrpzzN8-ZHStvavohHvgkipZizOZcXyUkhSX41x3WPNlIoKuI05sihBJh0xAklYWaWDCw8YYGazzJvsRchtqJmeZiw7jIvIp3TLZpD7gDspM5bbjchDeG57HKqO2cb2ish3sZE84Q78C4vkjyziHFqP8dHGw/s950/Hradi%C5%A1t%C3%A1%20LIDAR.JPG",
+        "displayedWidth": 320,
+        "displayedHeight": 255,
+        "originalWidth": 950,
+        "originalHeight": 757
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRMYRcPoREyLO4Px7U7KbgRI90qFAQYdrpzzN8-ZHStvavohHvgkipZizOZcXyUkhSX41x3WPNlIoKuI05sihBJh0xAklYWaWDCw8YYGazzJvsRchtqJmeZiw7jIvIp3TLZpD7gDspM5bbjchDeG57HKqO2cb2ish3sZE84Q78C4vkjyziHFqP8dHGw/s0/Hradi%C5%A1t%C3%A1%20LIDAR.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRMYRcPoREyLO4Px7U7KbgRI90qFAQYdrpzzN8-ZHStvavohHvgkipZizOZcXyUkhSX41x3WPNlIoKuI05sihBJh0xAklYWaWDCw8YYGazzJvsRchtqJmeZiw7jIvIp3TLZpD7gDspM5bbjchDeG57HKqO2cb2ish3sZE84Q78C4vkjyziHFqP8dHGw/s1600/Hradi%C5%A1t%C3%A1%20LIDAR.JPG",
+        "filename": "Hradištá LIDAR.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRMYRcPoREyLO4Px7U7KbgRI90qFAQYdrpzzN8-ZHStvavohHvgkipZizOZcXyUkhSX41x3WPNlIoKuI05sihBJh0xAklYWaWDCw8YYGazzJvsRchtqJmeZiw7jIvIp3TLZpD7gDspM5bbjchDeG57HKqO2cb2ish3sZE84Q78C4vkjyziHFqP8dHGw/s950/Hradi%C5%A1t%C3%A1%20LIDAR.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 255,
+          "originalWidth": 950,
+          "originalHeight": 757
+        },
+        "caption": "Hradisko na LIDARovom mapovaní"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9chG8NU1xwV1JpdT6CsOga0A0B84jkUPA2t8Don0ZKgNTcn69SwsWCC3p5Hj7FHM5ZL8y48atcsy03I8NkCeqLe2t6qjq-lAT-Je8sZY8_Xi4XNtIUDE-z6dgIMSLdxuz8dM7uAUScyw/s0/hradisko.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9chG8NU1xwV1JpdT6CsOga0A0B84jkUPA2t8Don0ZKgNTcn69SwsWCC3p5Hj7FHM5ZL8y48atcsy03I8NkCeqLe2t6qjq-lAT-Je8sZY8_Xi4XNtIUDE-z6dgIMSLdxuz8dM7uAUScyw/s1600/hradisko.jpg",
+        "filename": "hradisko.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9chG8NU1xwV1JpdT6CsOga0A0B84jkUPA2t8Don0ZKgNTcn69SwsWCC3p5Hj7FHM5ZL8y48atcsy03I8NkCeqLe2t6qjq-lAT-Je8sZY8_Xi4XNtIUDE-z6dgIMSLdxuz8dM7uAUScyw/s1600/hradisko.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 97,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTuU45SgWc7sw17cycgHkNak2lAwPr1r_giSnH9T8_SAJAzbgoD8jLM9KlmvOqCT0fUnOQtFFlZV11adg2OktUVRqqUe4cv0HrRaBP1gmR1f6SQWB_nutIEp26PJpdtXcwmTRSq36G4u4/s0/Holuby+mapka.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTuU45SgWc7sw17cycgHkNak2lAwPr1r_giSnH9T8_SAJAzbgoD8jLM9KlmvOqCT0fUnOQtFFlZV11adg2OktUVRqqUe4cv0HrRaBP1gmR1f6SQWB_nutIEp26PJpdtXcwmTRSq36G4u4/s1600/Holuby+mapka.jpeg",
+        "filename": "Holuby+mapka.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTuU45SgWc7sw17cycgHkNak2lAwPr1r_giSnH9T8_SAJAzbgoD8jLM9KlmvOqCT0fUnOQtFFlZV11adg2OktUVRqqUe4cv0HrRaBP1gmR1f6SQWB_nutIEp26PJpdtXcwmTRSq36G4u4/s1600/Holuby+mapka.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 242,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZz8p_TibWyP6TXyhT8-ADkkDlm6Dpv_R5r17RF6LcZFgziXkrVHZhXwdHcQuSv1br5JzSKxrmB2LTb4pvdIZIJKtX4sYT7BJkY8gqinorB4fVr3euzjftVoQhDWDaK1ngCMOtuLKWDvg/s0/fotka06.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZz8p_TibWyP6TXyhT8-ADkkDlm6Dpv_R5r17RF6LcZFgziXkrVHZhXwdHcQuSv1br5JzSKxrmB2LTb4pvdIZIJKtX4sYT7BJkY8gqinorB4fVr3euzjftVoQhDWDaK1ngCMOtuLKWDvg/s1600/fotka06.jpg",
+        "filename": "fotka06.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZz8p_TibWyP6TXyhT8-ADkkDlm6Dpv_R5r17RF6LcZFgziXkrVHZhXwdHcQuSv1br5JzSKxrmB2LTb4pvdIZIJKtX4sYT7BJkY8gqinorB4fVr3euzjftVoQhDWDaK1ngCMOtuLKWDvg/s1600/fotka06.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9JMn85mTeODkyWq_Sivsj3KVHfKpzNTbcJPSzGjaRCWydGcxIhAoHvzQ2HGnD3a-xGrglj5Hp9Sn236s2kvumcUZNP1ZnK7ZsoqamireYoD65HCN0scjRQRkRLLnsboxP4nw_5JHwig/s0/fotka07.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9JMn85mTeODkyWq_Sivsj3KVHfKpzNTbcJPSzGjaRCWydGcxIhAoHvzQ2HGnD3a-xGrglj5Hp9Sn236s2kvumcUZNP1ZnK7ZsoqamireYoD65HCN0scjRQRkRLLnsboxP4nw_5JHwig/s1600/fotka07.jpg",
+        "filename": "fotka07.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9JMn85mTeODkyWq_Sivsj3KVHfKpzNTbcJPSzGjaRCWydGcxIhAoHvzQ2HGnD3a-xGrglj5Hp9Sn236s2kvumcUZNP1ZnK7ZsoqamireYoD65HCN0scjRQRkRLLnsboxP4nw_5JHwig/s1600/fotka07.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuL6UVwpeIP_ntLqXnZKhM6vZMTFFgTkKS7vYtJl6trbeJjLAy5REIZHg-ZpicH8U4VqHmaIqyjB7CGnJThHFafJmURdoyT3BS5Et2aVRjq0cgTweMtVDr9x3cvv2FWrMtoMyM0NSJGlc/s0/rek+sav+nr.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuL6UVwpeIP_ntLqXnZKhM6vZMTFFgTkKS7vYtJl6trbeJjLAy5REIZHg-ZpicH8U4VqHmaIqyjB7CGnJThHFafJmURdoyT3BS5Et2aVRjq0cgTweMtVDr9x3cvv2FWrMtoMyM0NSJGlc/s1600/rek+sav+nr.jpg",
+        "filename": "rek+sav+nr.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuL6UVwpeIP_ntLqXnZKhM6vZMTFFgTkKS7vYtJl6trbeJjLAy5REIZHg-ZpicH8U4VqHmaIqyjB7CGnJThHFafJmURdoyT3BS5Et2aVRjq0cgTweMtVDr9x3cvv2FWrMtoMyM0NSJGlc/s1600/rek+sav+nr.jpg",
+          "displayedWidth": 226,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL2M53sAQrm2mBG7iqUCGPzgL25fyUapeiZYqowf13FqgYDtsMuSbFifyhtk1eSsoxDaWuio8RPtrhfCmLzf6mrw_N-Iu2soTqbRxfxoQj6F1qvytwmuYOaAFiDevx8hLSxLFqsfoysKE/s0/85113412.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL2M53sAQrm2mBG7iqUCGPzgL25fyUapeiZYqowf13FqgYDtsMuSbFifyhtk1eSsoxDaWuio8RPtrhfCmLzf6mrw_N-Iu2soTqbRxfxoQj6F1qvytwmuYOaAFiDevx8hLSxLFqsfoysKE/s1600/85113412.jpg",
+        "filename": "85113412.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL2M53sAQrm2mBG7iqUCGPzgL25fyUapeiZYqowf13FqgYDtsMuSbFifyhtk1eSsoxDaWuio8RPtrhfCmLzf6mrw_N-Iu2soTqbRxfxoQj6F1qvytwmuYOaAFiDevx8hLSxLFqsfoysKE/s1600/85113412.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 224,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbPUdW90eI8nZ1lbxhuAZtR6wJgjGJx09hVEK4mHxhvXkV-huBFhEha9yErDNUAn8f2XGpVWrN30te-EjpFf21aCWeY0se15mwf5NZcaacJ35ms5PFkBQ33chrXRfEhJy7XjjzEfMsp94/s0/Pla%25CC%2581nik+hradiska+-+Furmanek+Doba+B+2015.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbPUdW90eI8nZ1lbxhuAZtR6wJgjGJx09hVEK4mHxhvXkV-huBFhEha9yErDNUAn8f2XGpVWrN30te-EjpFf21aCWeY0se15mwf5NZcaacJ35ms5PFkBQ33chrXRfEhJy7XjjzEfMsp94/s1600/Pla%25CC%2581nik+hradiska+-+Furmanek+Doba+B+2015.jpg",
+        "filename": "Pla%CC%81nik+hradiska+-+Furmanek+Doba+B+2015.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbPUdW90eI8nZ1lbxhuAZtR6wJgjGJx09hVEK4mHxhvXkV-huBFhEha9yErDNUAn8f2XGpVWrN30te-EjpFf21aCWeY0se15mwf5NZcaacJ35ms5PFkBQ33chrXRfEhJy7XjjzEfMsp94/s1600/Pla%25CC%2581nik+hradiska+-+Furmanek+Doba+B+2015.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 249,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-E2Cncco3N5_z9vb1sfiN4HVC7O5msRfjpWRkOHd1wRrfIoSlSOWyY0-i712ZABAeuKhbCO1Bp7XbdcjuF9SA-bjfrFdd9z9aABtJ5FMXjzWqvIihDL8y9xIDGAqdX3D8Y06ezMTgZ2U/s0/NalH1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-E2Cncco3N5_z9vb1sfiN4HVC7O5msRfjpWRkOHd1wRrfIoSlSOWyY0-i712ZABAeuKhbCO1Bp7XbdcjuF9SA-bjfrFdd9z9aABtJ5FMXjzWqvIihDL8y9xIDGAqdX3D8Y06ezMTgZ2U/s1600/NalH1.jpg",
+        "filename": "NalH1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-E2Cncco3N5_z9vb1sfiN4HVC7O5msRfjpWRkOHd1wRrfIoSlSOWyY0-i712ZABAeuKhbCO1Bp7XbdcjuF9SA-bjfrFdd9z9aABtJ5FMXjzWqvIihDL8y9xIDGAqdX3D8Y06ezMTgZ2U/s1600/NalH1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 300,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkubXhsqMYnp22v2ArjNmMrpWyuGyXFvR8GBG5IIl7EO8LCD4UrYUL9PPTz63t59-cZm41EZIcFFVunXXI432PQlNH1VEGl_RgqHctn6T5DRrmbcU1ACia8fI8IzEqU_k0H1y9KL3pvfg/s0/NalH2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkubXhsqMYnp22v2ArjNmMrpWyuGyXFvR8GBG5IIl7EO8LCD4UrYUL9PPTz63t59-cZm41EZIcFFVunXXI432PQlNH1VEGl_RgqHctn6T5DRrmbcU1ACia8fI8IzEqU_k0H1y9KL3pvfg/s1600/NalH2.jpg",
+        "filename": "NalH2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkubXhsqMYnp22v2ArjNmMrpWyuGyXFvR8GBG5IIl7EO8LCD4UrYUL9PPTz63t59-cZm41EZIcFFVunXXI432PQlNH1VEGl_RgqHctn6T5DRrmbcU1ACia8fI8IzEqU_k0H1y9KL3pvfg/s1600/NalH2.jpg",
+          "displayedWidth": 311,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh1PzeJrPaMwT-t8xju60uBgzCOstnnJpXXAJ3bOJyDXIVSQcuSTImMDoyTmBiCp-H6NOKkPMA3EJlt22x7n3APYqp-ErurxnIGREK8vR2wSQXmlWx-Mg3WZLFNbYxqqT1YKmmu9_aYnGf/s0/47073702_344927579391153_5824401525153202176_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh1PzeJrPaMwT-t8xju60uBgzCOstnnJpXXAJ3bOJyDXIVSQcuSTImMDoyTmBiCp-H6NOKkPMA3EJlt22x7n3APYqp-ErurxnIGREK8vR2wSQXmlWx-Mg3WZLFNbYxqqT1YKmmu9_aYnGf/s1600/47073702_344927579391153_5824401525153202176_o.jpg",
+        "filename": "47073702_344927579391153_5824401525153202176_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh1PzeJrPaMwT-t8xju60uBgzCOstnnJpXXAJ3bOJyDXIVSQcuSTImMDoyTmBiCp-H6NOKkPMA3EJlt22x7n3APYqp-ErurxnIGREK8vR2wSQXmlWx-Mg3WZLFNbYxqqT1YKmmu9_aYnGf/s1600/47073702_344927579391153_5824401525153202176_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI_1m0M9-MRDPWZ2G035vmHIAeh_xhqMwUMj7nMEzbsUHvl51-bH-Bv1DPk52COgpqkf1NPdgGnzBNXo9L8O3BsWCoffO_Zqc1fIIs_2rVzApcQtHAf2XiAhee9Hvs99kwrhZPZT9kAyam/s0/47075889_344927212724523_8085703202361573376_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI_1m0M9-MRDPWZ2G035vmHIAeh_xhqMwUMj7nMEzbsUHvl51-bH-Bv1DPk52COgpqkf1NPdgGnzBNXo9L8O3BsWCoffO_Zqc1fIIs_2rVzApcQtHAf2XiAhee9Hvs99kwrhZPZT9kAyam/s1600/47075889_344927212724523_8085703202361573376_o.jpg",
+        "filename": "47075889_344927212724523_8085703202361573376_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI_1m0M9-MRDPWZ2G035vmHIAeh_xhqMwUMj7nMEzbsUHvl51-bH-Bv1DPk52COgpqkf1NPdgGnzBNXo9L8O3BsWCoffO_Zqc1fIIs_2rVzApcQtHAf2XiAhee9Hvs99kwrhZPZT9kAyam/s1600/47075889_344927212724523_8085703202361573376_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0SVnkKUX0us5cSdIxVZohpvdjNCQR1CE0zEvQHoLFIf2293QCijBtrK1DntZ2WC7KVToy7lz5IrpoVitcHct7zPAu-0Jla5wK_hJJOk9rLGZj4t9iM53o6Z3gkobyQL9g-54fdrb3wxV9/s0/47163114_344926979391213_5433995418922909696_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0SVnkKUX0us5cSdIxVZohpvdjNCQR1CE0zEvQHoLFIf2293QCijBtrK1DntZ2WC7KVToy7lz5IrpoVitcHct7zPAu-0Jla5wK_hJJOk9rLGZj4t9iM53o6Z3gkobyQL9g-54fdrb3wxV9/s1600/47163114_344926979391213_5433995418922909696_n.jpg",
+        "filename": "47163114_344926979391213_5433995418922909696_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0SVnkKUX0us5cSdIxVZohpvdjNCQR1CE0zEvQHoLFIf2293QCijBtrK1DntZ2WC7KVToy7lz5IrpoVitcHct7zPAu-0Jla5wK_hJJOk9rLGZj4t9iM53o6Z3gkobyQL9g-54fdrb3wxV9/s1600/47163114_344926979391213_5433995418922909696_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho9CMbeWPI9zaFvrRpvaaWQ2_KnchHdhUy6VmkhanuzfjHvuzsph14-KClFnVCpfSL_6-YR5-XwS-zHTzniM2VJ2Z9em2ZyvoVL31kxpV_QdayCYIpGDA8fgy0ZcX7jv0oq9uJbqkCUEPf/s0/47341504_344927269391184_6923589604452859904_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho9CMbeWPI9zaFvrRpvaaWQ2_KnchHdhUy6VmkhanuzfjHvuzsph14-KClFnVCpfSL_6-YR5-XwS-zHTzniM2VJ2Z9em2ZyvoVL31kxpV_QdayCYIpGDA8fgy0ZcX7jv0oq9uJbqkCUEPf/s1600/47341504_344927269391184_6923589604452859904_o.jpg",
+        "filename": "47341504_344927269391184_6923589604452859904_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho9CMbeWPI9zaFvrRpvaaWQ2_KnchHdhUy6VmkhanuzfjHvuzsph14-KClFnVCpfSL_6-YR5-XwS-zHTzniM2VJ2Z9em2ZyvoVL31kxpV_QdayCYIpGDA8fgy0ZcX7jv0oq9uJbqkCUEPf/s1600/47341504_344927269391184_6923589604452859904_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyA4GaLwE8vd5CxbAkFweGJV6MHBjT5gf8EwBstSfZtBfn_2xPtbRWEzFOMeyxsuRvJr8hb1FVaVCWZ5YLMMUBf1O036xU632x8_EUXUMdyGONH-1KUv9uC5bwQTqRfED6O8WCJWNJ6ksA/s0/47354963_344927746057803_2488059268784193536_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyA4GaLwE8vd5CxbAkFweGJV6MHBjT5gf8EwBstSfZtBfn_2xPtbRWEzFOMeyxsuRvJr8hb1FVaVCWZ5YLMMUBf1O036xU632x8_EUXUMdyGONH-1KUv9uC5bwQTqRfED6O8WCJWNJ6ksA/s1600/47354963_344927746057803_2488059268784193536_o.jpg",
+        "filename": "47354963_344927746057803_2488059268784193536_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyA4GaLwE8vd5CxbAkFweGJV6MHBjT5gf8EwBstSfZtBfn_2xPtbRWEzFOMeyxsuRvJr8hb1FVaVCWZ5YLMMUBf1O036xU632x8_EUXUMdyGONH-1KUv9uC5bwQTqRfED6O8WCJWNJ6ksA/s1600/47354963_344927746057803_2488059268784193536_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi78d-MvCwgdzf3xHOTTEg-ZPeEDhWRm7dwX9mBoD2qXz7qUvMWOaAxjEfyyjn-2qc-V9IPziEl59IX5-xYvHuyZ881XRKyggY2Aszyr0o6Kcz4WpBZ7FSvUm0XAefPQzZ1r0ZSwHuQT9l4/s0/47453947_344927719391139_9068201757577838592_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi78d-MvCwgdzf3xHOTTEg-ZPeEDhWRm7dwX9mBoD2qXz7qUvMWOaAxjEfyyjn-2qc-V9IPziEl59IX5-xYvHuyZ881XRKyggY2Aszyr0o6Kcz4WpBZ7FSvUm0XAefPQzZ1r0ZSwHuQT9l4/s1600/47453947_344927719391139_9068201757577838592_o.jpg",
+        "filename": "47453947_344927719391139_9068201757577838592_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi78d-MvCwgdzf3xHOTTEg-ZPeEDhWRm7dwX9mBoD2qXz7qUvMWOaAxjEfyyjn-2qc-V9IPziEl59IX5-xYvHuyZ881XRKyggY2Aszyr0o6Kcz4WpBZ7FSvUm0XAefPQzZ1r0ZSwHuQT9l4/s1600/47453947_344927719391139_9068201757577838592_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Zemianske Podhradie – Hradiská"
+    ],
+    "category": null,
+    "location": {
+      "name": "Zemianske Podhradie – Hradiská",
+      "latitude": 48.845584,
+      "longitude": 17.815661,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Opevnenie",
+        "value": "Zo severozápadu chránil hradisko mohutný skalný hrebeň, z ostatných strán umelý val a priekopa; val obsahoval čelnú drevenú hradbu a komorovo-roštovú drevenú konštrukciu a staval sa v dvoch etapách.",
+        "icon": "shield"
+      },
+      {
+        "label": "Prvá ohrada",
+        "value": "Najvyššie položená časť Hradísk zaberala plochu asi 15 jutár.",
+        "icon": "map"
+      },
+      {
+        "label": "Druhá ohrada",
+        "value": "Nižšie položená, druhá ohrada mala plochu asi 20 jutár, naklonenú k východu.",
+        "icon": "map"
+      },
+      {
+        "label": "Rozmery obydlí",
+        "value": "Pôdorysy obydlí mali najčastejšie rozmery 5,5 × 4,3 metra.",
+        "icon": "building"
+      },
+      {
+        "label": "Ochranný terén",
+        "value": "Osadu chránili okolité vrchy a hrebene – Lisica od juhu, hrebeň Hradištných Vŕškov a strmý vrch Hlohová od severu.",
+        "icon": "mountain"
+      },
+      {
+        "label": "Bronzové nálezy",
+        "value": "Medzi nálezmi sú zlomený nôž, srp, tri ihly, malé šípy zvané „rýliky“, klince, obrúčky, šidlo a časť sponky (fibuly).",
+        "icon": "star"
+      },
+      {
+        "label": "Presleny",
+        "value": "Na lokalite sa našlo 10 hlinených presleňov (kolieskov na vretená) rôznej veľkosti a podoby.",
+        "icon": "custom"
+      },
+      {
+        "label": "Prvý bádateľ",
+        "value": "Ako prvý hradisko preskúmal Jozef Ľudovít Holuby, ktorý pozorovania publikoval v roku 1887 v Slovenských pohľadoch.",
+        "icon": "book"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1000 – 700 pred Kr.",
+        "title": "Osídlenie v neskorej dobe bronzovej",
+        "description": "Hradisko obývali nositelia lužickej kultúry. Opevnené sídlisko chránil zo severozápadu mohutný skalný hrebeň, z ostatných strán umelý val s priekopou; val bol vystavaný v dvoch časovo následných etapách s čelnou drevenou hradbou a komorovo-roštovou drevenou konštrukciou.",
+        "type": "era"
+      },
+      {
+        "year": "prelom letopočtu",
+        "title": "Krátkodobé osídlenie púchovskou kultúrou",
+        "description": "Lokalitu krátkodobo osídlili nositelia púchovskej kultúry.",
+        "type": "event"
+      },
+      {
+        "year": "9. – 10. storočie",
+        "title": "Osídlenie Slovenmi vo veľkomoravskom období",
+        "description": "V období veľkomoravskom, ako aj v 10. storočí, hradisko obývali Sloveni, čoho dôkazom sú viaceré nálezy — najmä črepy, ale aj kovové predmety. Vzhľadom na strategické umiestnenie mohlo mať hradisko v tomto čase strážnu funkciu.",
+        "type": "era"
+      },
+      {
+        "year": "1887",
+        "title": "Jozef Ľudovít Holuby zdokumentoval hradisko",
+        "description": "Holuby ako prvý preskúmal lokalitu a svoje pozorovania opísal v štúdii Náleziská starožitností v Bošáckej doline, uverejnenej v Slovenských pohľadoch, ročník VII.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V Bošáckej doline vybudovali staroveké národy a neskôr aj Slovania niekoľko dôležitých hradísk, ktorých pozostatky je možné vidieť ešte aj dnes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najznámejšia z nich je lokalita Hradiská z neskorej doby bronzovej (1 000 – 700 rokov pred naším letopočtom). Toto hradisko obývali nositelia lužickej kultúry. Opevnené sídlisko-hradisko chráni mohutný skalný hrebeň zo severozápadnej strany; z ostatných strán umelý násyp-val a priekopa. Pri budovaní valu sa použili progresívne stavebné prvky: čelná drevená hradba a do systému komôr a roštov usporiadaná drevená konštrukcia, ktorá zomkýňala mohutný násyp. Val sa staval v dvoch časovo následných etapách. Z vnútornej zástavby sú najdôležitejšie pôdorysy obydlí, najčastejšie s rozmermi 5,5 × 4,3 metra. Bohatý nálezový inventár tvoria početné keramické a bronzové výrobky, doklady miestnej metalurgie bronzu a zvlášť poľnohospodárskej činnosti. Krátkodobo lokalitu osídlili aj na prelome letopočtu (púchovská kultúra). V období veľkomoravskom, ako aj v 10. storočí, hradisko obývali Sloveni, čoho dôkazom sú viaceré nálezy z 9. a 10. storočia, najmä črepy, ale aj kovové nálezy. V tom čase možno vzhľadom na strategické umiestnenie hradiska uvažovať nad jeho strážnou funkciou. Podobne ako pri Martákovej skale, aj toto hradisko skúmal ako prvý Jozef Ľudovít Holuby, ktorý o ňom napísal:"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRMYRcPoREyLO4Px7U7KbgRI90qFAQYdrpzzN8-ZHStvavohHvgkipZizOZcXyUkhSX41x3WPNlIoKuI05sihBJh0xAklYWaWDCw8YYGazzJvsRchtqJmeZiw7jIvIp3TLZpD7gDspM5bbjchDeG57HKqO2cb2ish3sZE84Q78C4vkjyziHFqP8dHGw/s0/Hradi%C5%A1t%C3%A1%20LIDAR.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRMYRcPoREyLO4Px7U7KbgRI90qFAQYdrpzzN8-ZHStvavohHvgkipZizOZcXyUkhSX41x3WPNlIoKuI05sihBJh0xAklYWaWDCw8YYGazzJvsRchtqJmeZiw7jIvIp3TLZpD7gDspM5bbjchDeG57HKqO2cb2ish3sZE84Q78C4vkjyziHFqP8dHGw/s1600/Hradi%C5%A1t%C3%A1%20LIDAR.JPG",
+          "filename": "Hradištá LIDAR.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQRMYRcPoREyLO4Px7U7KbgRI90qFAQYdrpzzN8-ZHStvavohHvgkipZizOZcXyUkhSX41x3WPNlIoKuI05sihBJh0xAklYWaWDCw8YYGazzJvsRchtqJmeZiw7jIvIp3TLZpD7gDspM5bbjchDeG57HKqO2cb2ish3sZE84Q78C4vkjyziHFqP8dHGw/s950/Hradi%C5%A1t%C3%A1%20LIDAR.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 255,
+            "originalWidth": 950,
+            "originalHeight": 757
+          }
+        },
+        "alt": "Hradisko na LIDARovom mapovaní",
+        "caption": "Hradisko na LIDARovom mapovaní",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„"
+              },
+              {
+                "type": "text",
+                "text": "Západne od Zemanskeho Podhradia, na východnom výbežku Karpatov, Moravsko-Lieskovskú dolinu od Bošáckej deliaceho, ležia „Hradiská“, do chotáru Z. Podhradského patriace. Už meno samo „Hradiská“ prezradzuje: že na tom mieste nie jeden, ale viac hradov — nie síce murovaných, jakýchž rumy krášlia Považie naše — ale násypmi (šiancami) ohradených, byť muselo, a skutočne aj bolo, jako to na mnohých miestach patrné, mohutné a rozsiahle násypy lebo šiance dokazujú. I behom tohoto leta viac ráz pochodil a pozorne poprezeral som tieto, pre nás zvlášť zanímavé miestnosti. Tak sa zdá, že zakladatelia oných Hradísk nie bez príčiny práve toto miesto si vyvolili za obydlie v dobe bronzu, lebo od západu dá sa zo samého vrchu Hradísk prezreť celá Lieskovská dolina, od juhu ale boli krytí vrchom „Lisica“ rečeným, od Považia jim však i sprava i zľava Lisice otvorený bol výhľad na čiastky Považia; konečne ale od severu samý hrebeň Hradištných Vŕškov, a za nimi homolovitý, strmý, a len od západnej strany snadno prístupný vrch „Hlohová“, chránili obyvateľov Hradísk pred nenadálym prepadením. Kol dokola rozkladajúce sa husté hory (z nichž teraz ovšem len nepatrné zbytky v podobe dubových a hrabových krovín ostali) prispievali značne k bezpečnosti tejto osady.",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9chG8NU1xwV1JpdT6CsOga0A0B84jkUPA2t8Don0ZKgNTcn69SwsWCC3p5Hj7FHM5ZL8y48atcsy03I8NkCeqLe2t6qjq-lAT-Je8sZY8_Xi4XNtIUDE-z6dgIMSLdxuz8dM7uAUScyw/s0/hradisko.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9chG8NU1xwV1JpdT6CsOga0A0B84jkUPA2t8Don0ZKgNTcn69SwsWCC3p5Hj7FHM5ZL8y48atcsy03I8NkCeqLe2t6qjq-lAT-Je8sZY8_Xi4XNtIUDE-z6dgIMSLdxuz8dM7uAUScyw/s1600/hradisko.jpg",
+          "filename": "hradisko.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9chG8NU1xwV1JpdT6CsOga0A0B84jkUPA2t8Don0ZKgNTcn69SwsWCC3p5Hj7FHM5ZL8y48atcsy03I8NkCeqLe2t6qjq-lAT-Je8sZY8_Xi4XNtIUDE-z6dgIMSLdxuz8dM7uAUScyw/s1600/hradisko.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 97,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Zemianske Podhradie – Hradiská",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Samým hrebeňom vrchu, Bošácku dolinu od Lieskovskej deliaceho, je ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "2-3 stupne vysoký, od severu rovným smerom k juhu sa tiahnuci, asi 300 krokov dlhý, krovinami porastený násyp, ktorý sa na južnom konci v oblúku zahybuje smerom k východu, a zase v rovnej čiare tiahne sa asi na 100 krokov. Tu je násyp pretrhnutý asi na osem krokov, kde patrne bol vchod od južnej strany do ohrady, a ľud toto miesto do dneska menuje „bránou“. Pokračovanie násypu ide tým istým smerom k východu zase asi na 80 krokov, nad tým samým svahom, k doline „Žľaby“ spadajúcim a starými duby porastlým. Násyp tento vychádza vo dve ramená, z nichž dolnie spadá smerom juhovýchodným hrebeňom kopca, asi na 90 krokov, druhé ale zase v oblúku sa zahybuje k severu, asi na 25 krokov, kde sa tratí v oráčine. Avšak sotva prejdeme 120 krokov, prídeme v tom istom smere na pokračovanie toho násypu, kde je pod ním vykopaný na 2 stupne široký a 1 stupeň hlboký jarok, a končí sa tam, kde sa stýka s hrebeňom Hradištného Vŕšku, severným svahom strmo do doliny spadajúceho. Tento jarok i s jeho násypom menuje ľud „cestou“ a hovorí, že aj tam bola brána do hradu.",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " Toto ohraničené miesto ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "je prvá a najvyššie ležiaca čiastka Hradísk",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " a zaujíma plochu asi 15 jutár velikú. Na celej tejto ploche vidno miestami ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "množstvo starobylých črepov",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ", spálenej hliny, kde tu kosti, zem s uhlím a popolom zmiešanú, a zvlášť pri rečených bránach, veliké množstvo trosiek alebo okuvi. I okrem tejto ohrady od juhu, na roľach „Rolincová“ rečených, nachodia sa zhusta črepy a spálená hlina a ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "boli nájdené bronzové šípy a ihly",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ". Častým preoráváním polí, v tejto ohrade sa nachodiacich, drobia sa črepy vždy viac a viac, takže väčšie kusy len zriedka možno vidieť. Od zavedenia aj u nás železných pluhov, namiesto drevených, orie sa hlbšie a už z ďaleka poznať na oráčine na tmavšej barve zeme, kde popol, uhlie a spálená hlina vo väčšej miere sa vyorali.",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTuU45SgWc7sw17cycgHkNak2lAwPr1r_giSnH9T8_SAJAzbgoD8jLM9KlmvOqCT0fUnOQtFFlZV11adg2OktUVRqqUe4cv0HrRaBP1gmR1f6SQWB_nutIEp26PJpdtXcwmTRSq36G4u4/s0/Holuby+mapka.jpeg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTuU45SgWc7sw17cycgHkNak2lAwPr1r_giSnH9T8_SAJAzbgoD8jLM9KlmvOqCT0fUnOQtFFlZV11adg2OktUVRqqUe4cv0HrRaBP1gmR1f6SQWB_nutIEp26PJpdtXcwmTRSq36G4u4/s1600/Holuby+mapka.jpeg",
+          "filename": "Holuby+mapka.jpeg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTuU45SgWc7sw17cycgHkNak2lAwPr1r_giSnH9T8_SAJAzbgoD8jLM9KlmvOqCT0fUnOQtFFlZV11adg2OktUVRqqUe4cv0HrRaBP1gmR1f6SQWB_nutIEp26PJpdtXcwmTRSq36G4u4/s1600/Holuby+mapka.jpeg",
+            "displayedWidth": 320,
+            "displayedHeight": 242,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Zemianske Podhradie – Hradiská",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Druhá, nižšia čiastka Hradísk",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ", ohradená je od severu pokračovaním hrebeňa Hradištného Vŕšku, na severnom svahu veľmi príkreho a ťažko prístupného, ktorý je na dolnom konci zo strany Hradísk asi 15 stupňov vysoký, od severu ale príkro spadá asi na 100 stupňov k doline Rešetárovca. Tento vŕšok je na vrchole skopaný do rovna a bol istotne tiež opevnený a obývaný, lebo len pri povrchnom kopaní prídeme na pálenú hlinu, črepy a kosti, a tam, kde od východnej strany bol naň prístup, začína sa zase násyp na 2 stupne vysoký a tiahne sa smerom k juhu na dobrých 100 krokov až k svahu strmému, do doliny Žľaby spadajúcemu, skadiaľ sa temer rovnobežno dva násypy tiahnu smerom od východu asi na 80 krokov a tratia sa v oráčine. Vchody do tejto druhej ohrady poznať od severovýchodu, severozápadu a od juhu, kam dosť pohodlná cesta vedie. Táto druhá ohrada kryje plochu k východu naklonenú, asi na 20 jutár velikú. Spomenutia zasluhuje aj ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "Hradištný Vŕšek",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ", túto druhú ohradu od severu obmedzujúci. Poznať naň dva prístupy a nad severným jeho svahom násyp. Asi v prostriedku na južnom svahu poznať terasu, v ktorej som mnoho črepov vykopal. Na roľach tejto druhej ohrady je zem miestami veľmi zmiešaná s uhlím a popolom a s väčšími, menšími kusami pálenej hliny. Z tohoto miesta mám dva kusy na zeleno opatinovaného bronzu stopeného. ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "Tu sme dosiaľ našli najviac bronzových predmetov a rozličných presleňov",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " (kolečiek na vretená) z pálenej hliny a zo starých črepov hlinených hrubo zhotovených. Práve teraz, počiatkom októbra, prišiel som na jednom mieste, jalovcom porastenom, na veľmi mastnú, s pálenou hlinou, uhlím a črepmi silne zmiešanú zem, kde ešte behom tejto jeseni budem kopať, lebo toto miesto ešte pluhom rozrývané nebolo, a práve preto sľubuje viac nálezov, než oráčina.",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZz8p_TibWyP6TXyhT8-ADkkDlm6Dpv_R5r17RF6LcZFgziXkrVHZhXwdHcQuSv1br5JzSKxrmB2LTb4pvdIZIJKtX4sYT7BJkY8gqinorB4fVr3euzjftVoQhDWDaK1ngCMOtuLKWDvg/s0/fotka06.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZz8p_TibWyP6TXyhT8-ADkkDlm6Dpv_R5r17RF6LcZFgziXkrVHZhXwdHcQuSv1br5JzSKxrmB2LTb4pvdIZIJKtX4sYT7BJkY8gqinorB4fVr3euzjftVoQhDWDaK1ngCMOtuLKWDvg/s1600/fotka06.jpg",
+          "filename": "fotka06.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZz8p_TibWyP6TXyhT8-ADkkDlm6Dpv_R5r17RF6LcZFgziXkrVHZhXwdHcQuSv1br5JzSKxrmB2LTb4pvdIZIJKtX4sYT7BJkY8gqinorB4fVr3euzjftVoQhDWDaK1ngCMOtuLKWDvg/s1600/fotka06.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Zemianske Podhradie – Hradiská",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na týchto troch Hradiskách železných nástrojov dosiaľ sme nenašli, ale ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "len bronzové, silne zelenou hrdzou (patinou) potiahnuté predmety",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ", všade mnoho rozmanitých črepov hlinených, z nichž značná čiastka je z grafitu (jakého sa v celom okolí nenachodí) tak čistého, že tými črepami jak tužkou písať možno. Na najväčších kusoch tých črepov zreteľne poznať, že boli robené len rukami, a nie na hrnčiarskom kruhu, čo aj primitívne, prstami robené ozdoby dokazujú. Mám jeden silný, hrubý črep, na ktorom pod krajom kruh vypuklý s jamkami, prstom (nie drevom alebo iným nástrojom) vtisknutými za ozdobu slúži. ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "Presleňov",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " (kolečiek na vretená) rozličnej velikosti a podoby našli sme tam 10; dva ozdobné, dva len prstami z hliny utľapkané s prepichnutou v centrum dierkou pre vreteno, viac kusov zhotovených zo zlomkov hrncov starých. Toto posledné svedčí o velikej sporivosti alebo chudobe majiteliek tých presleňov (snáď pred viac než 2 000 rokami), keď sa vedeli uspokojiť s takými neozdobnými vretenami. Kdežto presleň je veľmi pekný a z jemnej hliny pálený. Nápadné je ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "množstvo kostí jeleních",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ", ktoré sa tu nachodia. Kosti tieto poznať sa dajú po ľahkosti a nápadnej porozite na lomu. Hrubšie kosti sú poštiepané: tedy, tí praobyvatelia ľúbili nielen pečienku z jeleňa, ale aj špik strovili. V množstve kostí všelijakých ľudských som rozoznať nemohol. Že ale v násypoch už spomenutých, zhusta črepy a kosti nachodia: to mi tak prichodí, jakoby tie násypy neskoršieho pôvodu boli, nie tie, v nich sa nachodiace zlomky nádob hlinených. Alebo snáď osada tá bola ohňom znivočená a zase obnovená a silnejším násypom pre bezpečnosť opatrená? Ktože to môže uhádnuť? Dôkladného prekopania zasluhujú tie miesta, kde sú ložiská okuvi. Nemožná vec nie je, že sa tam nájdu rozličné nástroje alebo aj formy hlinené, do ktorých liali bronzové predmety. Ľud hovorí, že tam boli vyhne kováčske. Žeby Hradiská, čo len čiastočne múrom boli ohradené, alebo žeby tam murované domy boli bývali, to sa nedá povedať; ale jak tam domy (a nie snáď stany) stáli, mohli byť len drevené. Veď vieme, že tomu neni tak dávno, čo sa nielen v dedinách a medzi horami, ale aj v mestách, domy, ba aj kostoly, z dreva stavali a z Xenofontovej Anabázy vieme, že v Malej Ázii aj králi v drevených vežiach, čili baštách bývali. Podobne to mohlo byť, ba temer s istotou sa tvrdiť môže, že aj skutočne bolo, aj na našich Hradiskách v dobe predhistorickej.",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9JMn85mTeODkyWq_Sivsj3KVHfKpzNTbcJPSzGjaRCWydGcxIhAoHvzQ2HGnD3a-xGrglj5Hp9Sn236s2kvumcUZNP1ZnK7ZsoqamireYoD65HCN0scjRQRkRLLnsboxP4nw_5JHwig/s0/fotka07.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9JMn85mTeODkyWq_Sivsj3KVHfKpzNTbcJPSzGjaRCWydGcxIhAoHvzQ2HGnD3a-xGrglj5Hp9Sn236s2kvumcUZNP1ZnK7ZsoqamireYoD65HCN0scjRQRkRLLnsboxP4nw_5JHwig/s1600/fotka07.jpg",
+          "filename": "fotka07.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm9JMn85mTeODkyWq_Sivsj3KVHfKpzNTbcJPSzGjaRCWydGcxIhAoHvzQ2HGnD3a-xGrglj5Hp9Sn236s2kvumcUZNP1ZnK7ZsoqamireYoD65HCN0scjRQRkRLLnsboxP4nw_5JHwig/s1600/fotka07.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Zemianske Podhradie – Hradiská",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z bronzových predmetov",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " máme nasledujúce: jeden ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "nôž zlomený, jeden srp, jeden šíp",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " maličký na 1 a pol cóla dlhý a pri zuboch 3/4 cóla široký, ktorým, jestli nebol jedom napustený, sotva bolo možno človeka usmrtiť, a odstrelený mohol byť len do ľahučkej, tenkej srsti. Tieto bronzové šípy známe sú dávno ľudu našemu pod menom „rýliky“, a bolo ich viac vyoraných a deťom na hračku donesených, a tak sa potratili; ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "tri ihly",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ", jednu 5 cólov dlhú s hlávkou jako hodný hrach velikou, pekne do kola čiarkovanou; druhú na 4 cóle dlhú s hlávkou ploskatou, na zdĺž čiarkovanou a s krúžkom pod hlávkou; tretiu bez hlávky, zlomenú a od hrdze oškrabanú, ktorú, jako aj viac kúskov oškrabaného bronzu doniesli mi pasáci; dva klince s ploskými hlávkami, z nichž jeden je dutý; jednu maličkú, snáď za prsteň slúživšiu a druhú širšiu, väčšiu, ale tenkú, krásne opatinovanú, ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "obrúčku",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "; jedno špicou nahnuté, ostré, na druhom konci, kde do dreva osadené bolo, hrubé a hranaté ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "šidlo",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "; 3 zlomky jak husie brko silného a ohnutého bronzu, z nichž jeden mal jako email ozdoby, ktoré však len na jednom konci znateľné sú, lebo jich nálezca — pasák — u kováča kladivom oklepal, keď proboval, či to neni zlato?! — jednu vrchniu čiastku sponky (fibule) podoby velikého, jedným ramenom späť ohnutého. Tieto predmety máme. Počúvame ale s mrzutosťou, že ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "nože, šípy, oblúky, čakany a všelijaké „kúsky“ boli tam na Hradiskách vyorané a potratené, lebo za pár krajciarov Židom predané.",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "Mám aj jednu, na 5 cólov v priemeru, dobre zachovanú škridlu, s uškom na prostriedku, vyoranú na najvyšších Hradiskách.",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "Mimo hlinených presleňov (kolečiek na vretená) nachádzajú sa tam aj ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "krúžky malé",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " z jemnej hliny pálené, vyhladené, výborne zachované. Tieto slúžili za ozdobu a nosené bývali, ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "na šnôru navlečené, na hrdle",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ". Jedna taká hlinená korala je skutočne okrajmi diery silne vydratá, z čoho sa s istotou dá zatvárať, že bola dlho nosená. Z tých šesť exemplárov, ktoré máme, je každý inakší.“",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " Žiaľ, podobne ako pri ostatných bošáckych hradiskách, aj toto bolo vykradnuté detektoristami skôr, ako sa archeológovia odhodlali vykonať tu podrobnejší výskum."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuL6UVwpeIP_ntLqXnZKhM6vZMTFFgTkKS7vYtJl6trbeJjLAy5REIZHg-ZpicH8U4VqHmaIqyjB7CGnJThHFafJmURdoyT3BS5Et2aVRjq0cgTweMtVDr9x3cvv2FWrMtoMyM0NSJGlc/s0/rek+sav+nr.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuL6UVwpeIP_ntLqXnZKhM6vZMTFFgTkKS7vYtJl6trbeJjLAy5REIZHg-ZpicH8U4VqHmaIqyjB7CGnJThHFafJmURdoyT3BS5Et2aVRjq0cgTweMtVDr9x3cvv2FWrMtoMyM0NSJGlc/s1600/rek+sav+nr.jpg",
+          "filename": "rek+sav+nr.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuL6UVwpeIP_ntLqXnZKhM6vZMTFFgTkKS7vYtJl6trbeJjLAy5REIZHg-ZpicH8U4VqHmaIqyjB7CGnJThHFafJmURdoyT3BS5Et2aVRjq0cgTweMtVDr9x3cvv2FWrMtoMyM0NSJGlc/s1600/rek+sav+nr.jpg",
+            "displayedWidth": 226,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Zemianske Podhradie – Hradiská",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Spracoval: Orgoň"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jozef Ľudovít Holuby: Náleziská starožitností v Bošáckej doline v juhozápadnom kúte Trenčianskej stolice, Slovenské pohľady, ročník VII. z 25. okt. 1887, strana 217 – 221. "
+              },
+              {
+                "type": "link",
+                "url": "http://zlatyfond.sme.sk/dielo/1505/Holuby_Obrazy-zo-zivota/2#ixzz1qgqPzsuZ",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "http://zlatyfond.sme.sk/dielo/1505/Holuby_Obrazy-zo-zivota/2#ixzz1qgqPzsuZ"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " fotky: "
+              },
+              {
+                "type": "link",
+                "url": "http://www.pccentrum.wz.cz/album/fotky28/index.htm",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "http://www.pccentrum.wz.cz/album/fotky28/index.htm"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rekonštrukcia hradiska prevzatá z "
+              },
+              {
+                "type": "link",
+                "url": "http://www.cevnad.sav.sk/rekonstrukcie/01_podklady/01_stranky_pracovne/02_fyzicke%20modely/01_osady%20a%20opevnenia%20a%20hradiska_1/zemianske%20podhradie_1/zemianske%20podhradie.html",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "http://www.cevnad.sav.sk/rekonstrukcie/01_podklady/01_stranky_pracovne/02_fyzicke%20modely/01_osady%20a%20opevnenia%20a%20hradiska_1/zemianske%20podhradie_1/zemianske%20podhradie.html"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Foto:"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Jozef Ľudovít Holuby: Náleziská starožitností v Bošáckej doline v juhozápadnom kúte Trenčianskej stolice, Slovenské pohľady, ročník VII. z 25. okt. 1887, strana 217 – 221.",
+            "url": null
+          },
+          {
+            "text": "http://zlatyfond.sme.sk/dielo/1505/Holuby_Obrazy-zo-zivota/2#ixzz1qgqPzsuZ",
+            "url": "http://zlatyfond.sme.sk/dielo/1505/Holuby_Obrazy-zo-zivota/2#ixzz1qgqPzsuZ"
+          },
+          {
+            "text": "http://www.pccentrum.wz.cz/album/fotky28/index.htm",
+            "url": "http://www.pccentrum.wz.cz/album/fotky28/index.htm"
+          },
+          {
+            "text": "http://www.cevnad.sav.sk/rekonstrukcie/01_podklady/01_stranky_pracovne/02_fyzicke%20modely/01_osady%20a%20opevnenia%20a%20hradiska_1/zemianske%20podhradie_1/zemianske%20podhradie.html",
+            "url": "http://www.cevnad.sav.sk/rekonstrukcie/01_podklady/01_stranky_pracovne/02_fyzicke%20modely/01_osady%20a%20opevnenia%20a%20hradiska_1/zemianske%20podhradie_1/zemianske%20podhradie.html"
+          },
+          {
+            "text": "Rekonštrukcia hradiska prevzatá z",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "Jozef Ľudovít Holuby: Náleziská starožitností v Bošáckej doline v juhozápadnom kúte Trenčianskej stolice, Slovenské pohľady, ročník VII. z 25. okt. 1887, strana 217 – 221."
+      },
+      {
+        "type": "external-url",
+        "url": "http://zlatyfond.sme.sk/dielo/1505/Holuby_Obrazy-zo-zivota/2#ixzz1qgqPzsuZ",
+        "title": "http://zlatyfond.sme.sk/dielo/1505/Holuby_Obrazy-zo-zivota/2#ixzz1qgqPzsuZ"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.pccentrum.wz.cz/album/fotky28/index.htm",
+        "title": "http://www.pccentrum.wz.cz/album/fotky28/index.htm"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.cevnad.sav.sk/rekonstrukcie/01_podklady/01_stranky_pracovne/02_fyzicke%20modely/01_osady%20a%20opevnenia%20a%20hradiska_1/zemianske%20podhradie_1/zemianske%20podhradie.html",
+        "title": "http://www.cevnad.sav.sk/rekonstrukcie/01_podklady/01_stranky_pracovne/02_fyzicke%20modely/01_osady%20a%20opevnenia%20a%20hradiska_1/zemianske%20podhradie_1/zemianske%20podhradie.html"
+      },
+      {
+        "type": "attribution",
+        "text": "Rekonštrukcia hradiska prevzatá z"
+      },
+      {
+        "type": "attribution",
+        "text": "Foto:"
+      }
+    ]
+  }
+}

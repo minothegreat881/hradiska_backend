@@ -1,0 +1,78 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 6 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "doba rímska",
+      "title": "Pôvod polkruhového valovitého objektu",
+      "description": "Objekt vo vnútri areálu bol pravdepodobne pôvodne vybudovaný v dobe rímskej a počas existencie slovanského hradiska znovu zrekonštruovaný a využitý v obrannom systéme.",
+      "type": "founding"
+    },
+    {
+      "year": "koniec 8. – polovica 9. storočia",
+      "title": "Existencia opevneného valu",
+      "description": "Doba existencie valu doložená objektmi s archaickou keramikou, ostrohou s háčikmi, neskoroavarským bronzovým nákončím a bronzovou náušnicou.",
+      "type": "construction"
+    },
+    {
+      "year": "polovica 9. storočia",
+      "title": "Zánik hradiska požiarom",
+      "description": "Masívne stopy prepálenia valu svedčia o zničení požiarom; niektoré úvahy spájajú zánik s procesom etatizácie a včlenením Spiša do moravského štátu.",
+      "type": "destruction"
+    },
+    {
+      "year": "2. polovica 9. storočia",
+      "title": "Existencia otvoreného sídliska",
+      "description": "Po zániku valu tu pravdepodobne existovalo už len otvorené sídlisko, trvajúce do 10. storočia; analogické nálezy (Břeclav-Pohansko, Bratislava, Devín) datované do tohto obdobia.",
+      "type": "event"
+    },
+    {
+      "year": "koniec 9. – 1. pol. 10. storočia",
+      "title": "Detské hroby s byzantsko-orientálnymi náušnicami",
+      "description": "Solitérne detské hroby za hotelom Flóra so striebornými hrozienkovitými náušnicami podporujú dataciu druhého hradiska (Hradisko II) na Čingove.",
+      "type": "discovery"
+    },
+    {
+      "year": "2006",
+      "title": "Publikovanie výsledkov výskumu",
+      "description": "Peter Šalkovský zverejnil čiastkové výsledky svojho podrobného výskumu hradiska, z ktorých tento článok predovšetkým čerpá.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Ľavý breh Hornádu pri sútoku s Tomášovským potokom, na rozhraní Slovenského raja a Hornádskej kotliny; akropola na vápencovom brale 540 – 567 m n. m.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozloha",
+      "value": "Terasa podhradia asi 3 ha (lichobežníkovitý areál), spolu s akropolou 5 – 6 ha; valy s celkovou dĺžkou okolo 600 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Konštrukcia valu",
+      "value": "Čelný suchý múr z lomového kameňa, komorová (miestami roštová) drevozemná výstuž; najmasívnejšia časť pri severovýchodnej bráne (spolu 3,9 – 4 m)",
+      "icon": "shield"
+    },
+    {
+      "label": "Severozápadné nárožie",
+      "value": "„Bastiónovitá\" konštrukcia s tromi vejárovito usporiadanými drevenými komorami, spevnená minimálne 2,5 m širokou kamennou priečkou",
+      "icon": "building"
+    },
+    {
+      "label": "Hlavná brána",
+      "value": "Kliešťovitý typ, západné krídlo dlhé 7,8 m; vstup široký 2,8 m, zužujúci sa dovnútra na 2 m",
+      "icon": "building"
+    },
+    {
+      "label": "Odhadovaná výška opevnenia",
+      "value": "Priemerný val 1,6 – 2,1 m, najmasívnejší 2,1 – 2,6 m; s palisádovou predprsňou celkovo až 3,6 – 4,1 m v severnom vale",
+      "icon": "shield"
+    },
+    {
+      "label": "Regionálny kontext",
+      "value": "Jedno zo 14 publikovaných slovenských hradísk s rovnakou fortifikačnou technikou (spolu s Pobedimom, Bojnou, Nitrou, Devínom a ďalšími)",
+      "icon": "star"
+    }
+  ]
+}

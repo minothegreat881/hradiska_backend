@@ -1,0 +1,29 @@
+{
+  "timeline": [
+    { "year": "Mladšia až neskorá doba bronzová", "title": "Najstaršie doložené osídlenie", "description": "Najintenzívnejšie osídlenie hradiska je doložené pre obdobie mladšej až neskorej doby bronzovej.", "type": "era" },
+    { "year": "Neskorý latén – staršia doba rímska", "title": "Osídlenie púchovskou kultúrou", "description": "Hradisko bolo osídlené aj v období neskorého laténu až staršej doby rímskej, keď tu sídlil ľud púchovskej kultúry.", "type": "era" },
+    { "year": "5.–6. storočie – vrcholný stredovek", "title": "Slovanské osídlenie a útočištná funkcia", "description": "Od prelomu 5.–6. storočia po vrcholný stredovek slúžilo hradisko ako refúgium, kde sa slovanské obyvateľstvo z okolitých osád ukrývalo v čase nebezpečenstva.", "type": "era" },
+    { "year": "1900", "title": "Zmienka v Sborníku Muzeálnej slovenskej spoločnosti", "description": "O hradisku hovorí príspevok R. Zaymusa v Sborníku Muzeálnej slovenskej spoločnosti z roku 1900.", "type": "event" },
+    { "year": "1923", "title": "Zmienka u V. Chaloupeckého", "description": "V. Chaloupecký spomína hradisko vo svojom diele Staré Slovensko (Bratislava 1923).", "type": "event" },
+    { "year": "1964", "title": "Zisťovací výskum G. Povalu", "description": "Zisťovací výskum G. Povalu priniesol iba črepy púchovskej kultúry a v malom mohylovom útvare podobnú keramiku, pravdepodobne žiarový hrob pod mohylovým násypom.", "type": "discovery" }
+  ],
+  "keyFacts": [
+    { "label": "Poloha", "value": "Kóta 626 v katastrálnom území miestnej časti Závodie (Žilina)", "icon": "map" },
+    { "label": "Rozloha", "value": "Približne 6 hektárov, podobná rozlohe hradiska na Straníku", "icon": "mountain" },
+    { "label": "Výška valov", "value": "Valové opevnenie miestami dosahuje výšku až cez tri metre", "icon": "shield" },
+    { "label": "Funkcia hradiska", "value": "Slúžilo ako refúgium – útočištné opevnenie pre obyvateľstvo z okolitých osád v čase nebezpečenstva", "icon": "building" },
+    { "label": "Prvá písomná zmienka", "value": "Hradisko prvýkrát spomína Matej Bel vo svojom diele o Trenčianskej stolici", "icon": "book" },
+    { "label": "Archeologický výskum", "value": "Zisťovací výskum G. Povalu v roku 1964 priniesol črepy púchovskej kultúry", "icon": "star" },
+    { "label": "Prístup do areálu", "value": "Vstup sa nachádzal na južnej strane, pravdepodobne chránený bránou", "icon": "custom" }
+  ],
+  "corrections": [
+    { "before": "R. Zauymusa", "after": "R. Zaymusa" },
+    { "before": "v Starom Slovensku, (Bratislava 1923, str. 94)", "after": "v Starom Slovensku (Bratislava 1923, str. 94)" },
+    { "before": "zemepisne skôr do Stražova.", "after": "zemepisne skôr do Strážova." },
+    { "before": "a Hradisko nad Stražovom.", "after": "a Hradisko nad Strážovom." },
+    { "before": "v Bánovej, v Stražove – najmä poloha Tomanová.", "after": "v Bánovej, v Strážove – najmä poloha Tomanová." },
+    { "before": "5.-6.stor. po vrcholný stredovek", "after": "5.-6. stor. po vrcholný stredovek" },
+    { "before": "Hradisko v Závodí svojou rozlohou asi 6 ha, je podobné hradisku na Straníku.", "after": "Hradisko v Závodí, svojou rozlohou asi 6 ha, je podobné hradisku na Straníku." },
+    { "before": "miestami dosahuje výška valov až cez tri metre", "after": "miestami dosahuje výšku valov až cez tri metre" }
+  ]
+}

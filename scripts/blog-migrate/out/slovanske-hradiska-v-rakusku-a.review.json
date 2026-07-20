@@ -1,0 +1,35 @@
+{
+  "slug": "slovanske-hradiska-v-rakusku-a",
+  "flags": [
+    {
+      "type": "BIBLIO_IN_BODY / HEADING_INLINE (osirotený nadpis)",
+      "block": "blocks[24] (heading „Orgoň\") + blocks[25]-[26] (paragraphs)",
+      "text": "heading: \"Orgoň\"; paragraph: \"Beáta Kalinová: Raně středověké stavby a aktivity v sousedství fortifikací, MASARYKOVA UNIVERZITA V BRNĚ...\"; paragraph: \"Hulínek D. Štefanovičová T.: Bitka pri Bratislave v roku 907 a jej význam pre vývoj stredného Podunajska, SAHI 2008\"",
+      "note": "Nadpis pozostávajúci iba z mena „Orgoň\" (bez vetnej stavby, §21.10 rozšírená kategória osirotených blokov) nasledovaný dvoma bibliografickými citáciami, ktoré NIE SÚ duplicitné s content.sources (tie majú iné 2 položky — landesmuseum.net URL a Felgenhauer-Schmiedt). Vyzerá to na pôvodný autorský podpis + doplnkovú bibliografiu, ktorá sa nedostala do riadneho content.sources bloku. Nezasahované — presun medzi blocks[] a content.sources je štrukturálna zmena nad rámec gramatickej korektúry, ponechané na ľudské rozhodnutie."
+    },
+    {
+      "type": "NUMBER_MISMATCH (pravdepodobne chýbajúca číslovka)",
+      "block": "blocks[9].body[0]",
+      "text": "Múr bol z vonkajšej strany sprevádzaný asi metrov širokou dláždenou cestou.",
+      "note": "„asi metrov širokou\" — pred „metrov\" (genitív pl.) chýba číslovka (napr. „asi X metrov širokou\"/„asi meter širokou\"). Pravdepodobne strata číslice pri extrakcii/OCR. Neopravené — hodnota nie je odvoditeľná z kontextu, nesmie sa vymýšľať."
+    },
+    {
+      "type": "UNCERTAIN_ABBREVIATION",
+      "block": "content.sources items[1] + citations[1]",
+      "text": "Spisy archeologického ústavu av Cr Brno 17, 2001, 85 – 106.",
+      "note": "„av Cr\" pôsobí ako poškodená skratka „AV ČR\" (Akademie věd České republiky), bežná súčasť názvu edície „Spisy Archeologického ústavu AV ČR Brno\". Neopravené — ide o citáciu, nie je 100% isté, že nejde o iný zámer autora, radšej ľudské overenie."
+    }
+  ],
+  "crossFieldPropagation": [
+    {
+      "field": "keyFacts[7].value (Nález na hradnom kopci pri Raabse)",
+      "before": "plocha 14 x 11 m s lomovými kameňmi",
+      "after": "plocha 14 × 11 m s lomovými kameňmi",
+      "reason": "Rovnaká typografická oprava ako blocks[10]. NEAPLIKOVANÉ na intermediate.json (keyFacts mimo povoleného rozsahu tejto session) — zdokumentované pre budúci re-upload."
+    }
+  ],
+  "notes": [
+    "Cudzie (nemecké/rakúske) vlastné mená (Sand pri Raabse, Oberleis-Oberleiserberg, Maissau-Limberg, Stein an der Donau, Senftenberg, Langenlois-Schiltern, Krems an der Donau, Waldviertel, Korneuburg, Ernstbrunn, Burghügel, Thaya, Raabs) neboli menené — sú to overené, správne cudzojazyčné toponymá, nie preklepy.",
+    "Nemecký a český text v citáciách (Beáta Kalinová: Raně středověké stavby...; S. Felgenhauer-Schmiedt: Die Burg auf der Flur Sand bei Raabs an der Thaya. In: Velká Morava mezi východem a západem. Großmähren zwischen Ost und West) ponechaný v pôvodnom jazyku bez zásahu do diakritiky/pravopisu — sú to skutočné názvy cudzojazyčných publikácií, nie OCR chyby."
+  ]
+}

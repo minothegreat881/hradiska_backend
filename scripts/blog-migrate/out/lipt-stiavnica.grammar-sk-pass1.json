@@ -1,0 +1,23 @@
+{
+  "slug": "lipt-stiavnica-lucny-hrib",
+  "note": "grammar-sk agent, prvý prechod. Článok už mal content.sources sekciu, ale bibliografia bola aj naviac zduplikovaná v tele (bloky 9-11).",
+  "criticalFixes": [
+    { "issue": "Bloky 9, 10, 11 boli doslovné duplicity Sources items 0-3 (Furman 2016, Pieta 1970, Pieta 1972, Struhár 2009).", "fix": "Odstránené z tela; blok 8 ('Foto...: Víťazoslav Struhár Literatúra:') zbavený osirotenej návestí 'Literatúra:'. Pri tejto príležitosti opravené aj drobné preklepy priamo v Sources items (chýbajúce medzery 'K.Pieta'->'K. Pieta', chýbajúce 'In:' namiesto skomoleného 'n:', číselné rozsahy na en dash)." }
+  ],
+  "appliedFixes": [
+    { "rule": "B typografia (zjednotenie štýlu úvodzoviek s ostatným korpusom)", "before": "slovného základu \"hrb\" ... vo význame \"výrazný kopec\"", "after": "slovného základu „hrb\" ... vo význame „výrazný kopec\"", "block": 0 },
+    { "rule": "A3/A4 zhoda vzťažného zámena s podmetom v množnom čísle", "before": "naši predkovia, ktorý ho neskôr opevnili", "after": "naši predkovia, ktorí ho neskôr opevnili", "block": 1, "note": "timeline (id 4725) malo už správny tvar 'ktorí'" },
+    { "rule": "A1 nadbytočná čiarka", "before": "skúmaní lokality Karolom Pietom, sa našli", "after": "skúmaní lokality Karolom Pietom sa našli", "block": 4 },
+    { "rule": "A3 zhoda podmetu s prísudkom (zložený podmet)", "before": "Vrstva aj keramika tu nájdená nesie stopy", "after": "Vrstva aj keramika tu nájdená nesú stopy", "block": 4, "note": "timeline (id 4726) malo už množné číslo 'niesli'" },
+    { "rule": "Sources: preklep/OCR", "before": "K.Pieta ... n: Liptov 1", "after": "K. Pieta ... In: Liptov 1", "block": "sources", "note": "'n:' bol takmer isto OCR artefakt z 'In:' (chýbajúce 'I'), potvrdené zhodou s ostatnými citáciami v tej istej sekcii, ktoré 'In:' používajú" },
+    { "rule": "Sources: číselné rozsahy = en dash", "before": "1965-1968 / 101-120 / 9-12. storočí / 67-82", "after": "1965 – 1968 / 101–120 / 9. – 12. storočí / 67–82", "block": "sources" },
+    { "rule": "Sources: chýbajúca dvojbodka po 'In'", "before": "In Ružomberský historický zborník", "after": "In: Ružomberský historický zborník", "block": "sources" },
+    { "rule": "Sources: nadbytočná medzera pred dvojbodkou", "before": "Ružomberok : Filozofická fakulta", "after": "Ružomberok: Filozofická fakulta", "block": "sources" }
+  ],
+  "reviewed_no_change": [
+    "Bloky 0 (zvyšok), 3, 6 — bez ďalších chýb.",
+    "'M. Furman: OPEVNENIA NA LIPTOVE...' — ponechané celé veľkými písmenami, pravdepodobne verná transkripcia dobovej obálky knihy, nie chyba.",
+    "'(and special thanks to)' (blok 8) — anglická vsuvka v inak slovenskom texte, ponechaná ako autorov vlastný štýl, nejde o gramatickú chybu."
+  ],
+  "flags": []
+}

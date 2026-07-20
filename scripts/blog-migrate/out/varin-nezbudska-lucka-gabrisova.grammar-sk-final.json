@@ -1,0 +1,33 @@
+{
+  "slug": "varin-nezbudska-lucka-gabrisova",
+  "note": "grammar-sk finálny audit — pass1 draft aplikovaný priamo do intermediate.json (14 -> 19 blokov po vyčlenení 3 medzititulkov + citácie do content.sources) + fresh pass 2 (cross-field, bez ďalších nálezov — KF a timeline mali už opravené tvary).",
+  "criticalFixesApplied": [
+    "Bibliografická citácia (PhDr. Zuzana Staneková, rigorózna práca 2021) odstránená z konca hlavného bloku a presunutá do novej content.sources sekcie (1 položka). Footnote marker '(1)' v bloku 1 ponechaný nedotknutý — naďalej odkazuje na tento jediný zdroj.",
+    "3 medzititulky ('Košíkovitý závesok', 'Bronzová figúrka barana', 'Železná studňa'), predtým glued ako bold text-child priamo v odsekoch, vyčlenené ako samostatné heading bloky (level 2, bold)."
+  ],
+  "appliedFixes": [
+    { "rule": "A4 zhoda privlastňovacieho zámena s rodom podmetu", "before": "Poloha ... Jeho miernejšie svahy pod temenom", "after": "Poloha ... Jej miernejšie svahy pod temenom", "block": "Poloha odsek (blok 2)" },
+    { "rule": "A1 chýbajúca uzatváracia čiarka vsuvky", "before": "ich telo, bez zahnutých ramienok dosahuje okolo 5–8 cm", "after": "ich telo, bez zahnutých ramienok, dosahuje okolo 5–8 cm", "block": "Stavebné kovania odsek" },
+    { "rule": "A1 nadbytočná čiarka pred krátkou spojkou", "before": "iné sú väčšie, a značne variabilná", "after": "iné sú väčšie a značne variabilná", "block": "Stavebné kovania odsek" },
+    { "rule": "A1 chýbajúca uzatváracia čiarka vsuvky", "before": "hoci sa, ako už bolo uvedené vyššie vyskytujú", "after": "hoci sa, ako už bolo uvedené vyššie, vyskytujú", "block": "Stavebné kovania odsek" },
+    { "rule": "B typografia (znak násobenia)", "before": "15 x 23 m", "after": "15 × 23 m", "block": "Železná studňa odsek" },
+    { "rule": "D cross-field (skratka vs. plný tvar storočia)", "before": "polovice 1. stor. až začiatku 2. stor. n. l.", "after": "polovice 1. storočia až začiatku 2. storočia n. l.", "block": "Železná studňa odsek" },
+    { "rule": "A4 nesprávny pád podmetu", "before": "Sprievodnými nálezmi keramiky sú všetky zhodne datované do 1. stor. n. l.", "after": "Sprievodné nálezy keramiky sú všetky zhodne datované do 1. storočia n. l.", "block": "Železná studňa odsek" },
+    { "rule": "B typografia (nepriama otázka = bodka)", "before": "kde sídlili remeselníci pracujúci v týchto rozsiahlych dielňach vo Varínskej oblasti?", "after": "...vo Varínskej oblasti.", "block": "Železná studňa odsek" },
+    { "rule": "A2 pozícia zvratného sa", "before": "Azda čiastočne sa podarilo túto hádanku zodpovedať", "after": "Azda sa čiastočne podarilo túto hádanku zodpovedať", "block": "Železná studňa odsek" },
+    { "rule": "MISSING_WORD (vysoká istota, opakovaný názov lokality)", "before": "Toto by mohlo súvisieť so železiarskym strediskom na Železnej.", "after": "Toto by mohlo súvisieť so železiarskym strediskom na Železnej studni.", "block": "Železná studňa odsek", "note": "'Železná studňa' je názov lokality používaný desiatky krát v tom istom bloku" }
+  ],
+  "crossFieldPass2": [
+    "keyFacts 'Haldy hutníckeho odpadu na Železnej studni' malo už '15 × 23 m' — zhoda potvrdená, bez zmeny",
+    "timeline[4] malo už 'polovice 1. storočia až začiatku 2. storočia n. l.' (rozpísaný tvar) — zhoda potvrdená, bez zmeny",
+    "excerpt, title, tags, gallery captions — bez výskytu opravovaných foriem"
+  ],
+  "skippedNoChange": [
+    "'patria medzi, z hľadiska symboliky, čitateľné predmety' — vsuvka je korektne uzavretá z oboch strán",
+    "'bola pec, resp. pece zborené' — zámerná alternatíva jednotné/množné číslo ponechaná ako autorkina voľba, nejde o jasnú chybu"
+  ],
+  "flagsResolved": [],
+  "unresolvedReviewNeeded": true,
+  "reviewFile": "out/varin-nezbudska-lucka-gabrisova.review.json",
+  "reviewSummary": "1 nevyriešený FLAG: MISSING_WORD — orphaned veta 'Najmä hrubostenné nádoby s natavenými zvyškami.' bez slovesa, ponechaná nezmenená, čaká na overenie v origináli (Staneková 2021)."
+}

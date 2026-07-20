@@ -1,0 +1,30 @@
+{
+  "slug": "hradisko-nitrianska-blatnica-rotunda-blatnicky-durko",
+  "sourceDraft": "out/nitrianska-blatnica.grammar-sk-pass1.json",
+  "structuralNote": "Dva rozsiahle citáty z modernej literatúry (Pavel Dvořák 2004 — bloky 3, 12; Alexander Ruttkay 2006 — bloky 5, 8 časť) sú podľa pravidla 'quote-block iba pre dobové pramene' (memory quote-only-period-source) ponechané ako obyčajný rich-text, NIE prevedené na content.quote-block. V rámci nich boli podľa pass-1 draftu opravené interpunkcia/typografia aj drobné preklepy/pády výslovne uvedené v appliedFixes — doslovný zmysel a slovná zásoba citátov nezmenené. Blok 6 ('Dvorec sa nachádzal...') je AUTORSKÝ text (nový bold-lead odsek, nie súčasť Ruttkayho citátu — citát z bloku 5 sa uzatvára až v strede bloku 8 pri '...svedčí o špecifikách spôsobu života.\"'), preto dostal plnú gramatickú korektúru.",
+  "pass1AppliedFixes": [
+    { "rule": "B typografia (chýbajúca bodka)", "field": "excerpt", "before": "vo výške 450 m n. m,", "after": "vo výške 450 m n. m.," },
+    { "rule": "B rozsah + pomlčka + A3 zhoda čísla + A1 čiarka + A7 bohemizmus", "block": 1, "before": "1976-1980 ... fázy - predrománsku ... Táto prestavby ... nevzbudzuje ... o hornú časť je ... sa však stále jedná", "after": "1976 – 1980 ... fázy — predrománsku ... Tieto prestavby ... nevzbudzujú ... o hornú časť, je ... sa však stále ide" },
+    { "rule": "B rozsah + A1 čiarka + medzera pred zátvorkou (caption/alt)", "block": 2, "before": "cca 20. - 30. rokov ... návršie na ktorom ... Banáka )", "after": "cca 20. – 30. rokov ... návršie, na ktorom ... Banáka)", "note": "alt bol orezaný 255-znakovým limitom uprostred vety (MIGRATION.md §9.11) — nahradený samostatným stručným textom 'Pohľad na kostolík v období cca 20. – 30. rokov 20. storočia'" },
+    { "rule": "B pomlčky (citát — Dvořák, len typografia)", "block": 3, "before": "základy - s presnosťou na centimetre - rovnako ... miery - 36,5 centimetra ... základy, 20 - 30 cm", "after": "základy — s presnosťou na centimetre — rovnako ... miery — 36,5 centimetra ... základy, 20 – 30 cm" },
+    { "rule": "A9 malé písmeno + B rozsah (citát — Ruttkay)", "block": 5, "before": "bola Rotunda sv. Juraja ... z 9.-10. storočia", "after": "bola rotunda sv. Juraja ... z 9. – 10. storočia" },
+    { "rule": "B m² + A4 pád + preklep slovesa (autorský text)", "block": 6, "before": "9000 m2 ... 3500 m2 ... blízkeho náleziská ... sa primkýna k ceste", "after": "9000 m² ... 3500 m² ... blízkeho náleziska ... sa primyká k ceste" },
+    { "rule": "B rozsah", "block": 8, "before": "patrí do 10.-11. storočia", "after": "patrí do 10. – 11. storočia" },
+    { "rule": "Sources: rovnaká oprava ako v Ducovom (rovnaká citácia)", "field": "sources + citations (propagované)", "before": "VÝZNAMNE ... M .:2006 ... kniežactva, Nitra [bez zátvorky]", "after": "VÝZNAMNÉ ... M.: 2006 ... kniežatstva, Nitra)" }
+  ],
+  "pass2CrossFieldChecks": [
+    { "field": "gallery[0].caption (media[], §21.4)", "finding": "duplikát captionu z blocks[2] (rovnaká fotka 'fotka 30-40 roky Ďurko.jpg') s rovnakou chybou 'cca 20. - 30. ... návršie na ktorom ... Banáka )'", "action": "zosúladené s opravou blocks[2]" },
+    { "field": "gallery[15].caption (DSC09242.JPG)", "finding": "samostatný výskyt rovnakého vzoru '(archív Ladislava Banáka )' s medzerou pred zátvorkou", "action": "opravené na '(archív Ladislava Banáka)'" },
+    { "field": "citations[] (Ruttkay bibliografia)", "finding": "duplikát textu zo content.sources s rovnakými preklepmi (VÝZNAMNE/kniežactva/chýbajúca zátvorka)", "action": "opravené v oboch miestach naraz (replace_all)" },
+    { "field": "keyFacts (Dvorec — staršia/mladšia fáza)", "finding": "už používali správne '9000 m²' / '3500 m²' kým telo (blok 6) malo 'm2'", "action": "telo zosúladené s keyFacts, žiadna ďalšia zmena keyFacts" },
+    { "field": "timeline ('10. – 11. storočie', '1976 – 1980')", "finding": "už používala en dash s medzerami zhodne s opravami v tele (bloky 1, 8)", "action": "žiadna zmena potrebná" },
+    { "field": "typografia (§21.2 sweep)", "finding": "žiadne ďalšie m2/rozsahové spojovníky/preklepy (jedná, náleziská, primkýna) v tele, excerpte, keyFacts, timeline, gallery po aplikácii", "action": "žiadna ďalšia zmena — regex sweep čistý" }
+  ],
+  "notedNotFixed": [
+    "'rady si s tým nevedela' (blok 12, citát Dvořáka) — ustálený idióm 'nevedieť si rady s niečím', nie preklep, ponechané.",
+    "Priame citáty Dvořák (bloky 3, 12) a Ruttkay (bloky 5, 8-časť) — moderná literatúra, NEPREVEDENÉ na content.quote-block (pravidlo: quote-block iba pre dobové pramene/kroniky/listiny), doslovný text a slovná zásoba mimo výslovne uvedených appliedFixes nezmenené."
+  ],
+  "flags": [],
+  "quoteBlocksTouched": 0,
+  "status": "upload-ready"
+}

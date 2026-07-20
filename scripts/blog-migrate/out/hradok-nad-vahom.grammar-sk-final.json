@@ -1,0 +1,30 @@
+{
+  "slug": "hradok-nad-vahom",
+  "note": "grammar-sk pass1 aplikovaný priamo do out/hradok-nad-vahom.intermediate.json + pass2 cross-field kontrola. §21.8 regresný test — obe očakávané anomálie (165-1200 mm, 114+68≠247) potvrdené a nahlásené, nie ticho opravené.",
+  "step1_appliedFixes_applied": [
+    { "rule": "A8 + A1 cross-field (excerpt mal starý tvar)", "before": "čast obce Hrádok v ktorej", "after": "časť obce Hrádok, v ktorej", "applied_to": ["excerpt"] },
+    { "rule": "typografia (trailing whitespace)", "applied_to": ["block 0", "block 1", "block 2"] },
+    { "rule": "A1 nadbytočná čiarka", "before": "umelé, alebo prirodzené", "after": "umelé alebo prirodzené", "applied_to": ["block 1"] },
+    { "rule": "A2 pozícia sa", "before": "narazilo sa na sídliskovú vrstvu", "after": "sa narazilo na sídliskovú vrstvu", "applied_to": ["block 5"], "note": "potvrdené krížovo — timeline.description mal už správny tvar 'sa narazilo'" },
+    { "rule": "typografia (skratka storočia)", "before": "9. stor.", "after": "9. storočia", "applied_to": ["block 5"] },
+    { "rule": "typografia (cca bez bodky, ×2)", "before": "ca 100 cm / ca 65 kg", "after": "cca 100 cm / cca 65 kg", "applied_to": ["block 6", "keyFacts Hmotnosť depotu"] },
+    { "rule": "B typografia (rozsah storočí)", "before": "13.-14. stor.", "after": "13. – 14. storočia", "applied_to": ["block 6", "timeline.year", "timeline.description"] },
+    { "rule": "B typografia (číselné rozsahy — iba formát pomlčky)", "before": "250-300 mm / 165-1200 mm", "after": "250 – 300 mm / 165 – 1200 mm", "applied_to": ["block 6"], "note": "hodnoty NEZMENENÉ, pozri review.json" },
+    { "rule": "OCR artefakt (letter-spacing)", "before": "L i t e r a t ú r a", "after": "Literatúra", "applied_to": ["block 8"] },
+    { "rule": "A8 diakritika", "before": "Slov. Archeologia", "after": "Slov. Archeológia", "applied_to": ["block 10"] },
+    { "rule": "B typografia (rozsah strán)", "before": "s. 415-418.", "after": "s. 415 – 418.", "applied_to": ["block 10"] },
+    { "rule": "typografia (zlúčenie zlomeného riadku)", "before": "VSNS, str. 84\\n \\n Foto 22.8.2013:\\n \\n ", "after": "VSNS, str. 84. Foto 22.8.2013:", "applied_to": ["block 11"] }
+  ],
+  "step2_crossfield_additions": [
+    { "rule": "B typografia propagácia", "applied_to": ["timeline.year + timeline.description (Stredoveká navážka nad depotom)"], "reason": "rovnaký chýbajúci medzerový formát pri 13.-14. storočí ako v tele, opravené súčasne." },
+    { "rule": "typografia propagácia (cca)", "applied_to": ["keyFacts Hmotnosť depotu"], "reason": "rovnaké 'ca 65 kg' bez bodky ako v tele." }
+  ],
+  "step2_scan_result": "Plný sken keyFacts + timeline + excerpt + tags + title na rímske číslice, em/en dash konzistenciu, bohemizmy, i/y a diakritiku — okrem vyššie uvedeného žiadny ďalší cross-field nesúlad. keyFacts['Počet hrivien v depote'] ('247 kusov (114 stredných + 68 menších)') je konzistentné s telom — arithmetic mismatch je teda chyba zdrojových dát, nie extrakcie (viď review.json).",
+  "nfd_nfc_note": "Súbor preventívne normalizovaný na .normalize('NFC') pred úpravami (2 bajty rozdiel, žiadny viditeľný obsah zmenený).",
+  "flags_unresolved": [
+    "NUMBER_IMPOSSIBLE: '165 – 1200 mm' pre menšie hrivny (block 6) — hodnoty nezmenené.",
+    "NUMBER_MISMATCH: 114 + 68 = 182 ≠ 247 (block 6 + keyFacts) — hodnoty nezmenené.",
+    "STRUCTURAL: zeroCitations — citations[] prázdne, bibliografia iba ako holý text v tele (blocks 8-11); mimo rozsahu grammar-sk, treba doplniť pri budúcom re-uploade."
+  ],
+  "upload_ready": true
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "bina",
+  "note": "grammar-sk agent, prvý prechod. Veľmi dlhý odborný text (60 blokov), Sources existovali. Najvýznamnejší nález: meno historickej postavy 'Koppány' malo 3 rôzne nekonzistentné tvary naprieč celým článkom.",
+  "criticalFixes": [
+    { "issue": "Meno maďarského vodcu povstania sa v článku vyskytovalo v troch nekonzistentných tvaroch: 'Koppány' (správny historický tvar), 'Kopáň' (chýbajúce druhé p) a 'Koppáň' (hybrid — dvojité p ALE s mäkčeňom navyše).", "fix": "Zjednotené na historicky správny tvar 'Koppány' vo všetkých pádoch naprieč telom, timeline title aj description (bloky 21, 29, 47, 49, 51 + timeline id 3171)." }
+  ],
+  "appliedFixes": [
+    { "rule": "D globálny slovník (rímske -> arabské, preklep, apozícia)", "before": "I. voj. mapovaní ... vonkajší vaj", "after": "1. voj. mapovaní ... vonkajší val", "block": 3, "note": "caption aj alt; 'vaj' bol preklep za 'val'; hyphen pred vysvetlením zmenený na pomlčku" },
+    { "rule": "B typografia (zjednotenie štýlu pomlčiek)", "before": "hĺbkou — 4 až 6 m - značne prispieval", "after": "hĺbkou — 4 až 6 m — značne prispieval", "block": 8 },
+    { "rule": "A1 chýbajúca čiarka pred 'takže'", "before": "zachovalé takže umožňujú", "after": "zachovalé, takže umožňujú", "block": 8 },
+    { "rule": "D + A8", "before": "v 9-11. storočí ... Ďalšie fotky najdete TU", "after": "v 9. – 11. storočí ... Ďalšie fotky nájdete TU", "block": 9, "note": "caption aj alt; 'najdete' -> 'nájdete'" },
+    { "rule": "B typografia (číselné rozsahy: en dash namiesto em dash)", "before": "1 — 2 m / 22 — 28 m / 8 —9 m / 4 — 9,40 m / 16 — 24 m / 5—10 rokov / 46-48 / 997—998 / XIII.—XV.", "after": "en dash s medzerami (mimo rozmerov, kde je bez medzier ako v KF) naprieč blokmi 11, 15, 21, 23, 36, 49", "block": "11, 15, 21, 23, 36, 49" },
+    { "rule": "A1 nadbytočná čiarka", "before": "mohla, mať okolo 15,60 ha", "after": "mohla mať okolo 15,60 ha", "block": 17 },
+    { "rule": "B typografia (m³)", "before": "253 000 m3 / 3 m3 / 3 m3", "after": "253 000 m³ / 3 m³ (bloky 17, 53)", "block": "17, 53" },
+    { "rule": "A4 zhoda prídavného mena s rodom podstatného mena", "before": "najrozsiahlejší súvislé opevnený priestor", "after": "najrozsiahlejší súvislý opevnený priestor", "block": 17 },
+    { "rule": "A7 bohemizmus", "before": "sa nejedná o typické slovanské hradisko", "after": "nejde o typické slovanské hradisko", "block": 21 },
+    { "rule": "MISSING_WORD (vysoká istota, doslovná zhoda s timeline)", "before": "PhDr. Karol Pieta, DrSc. vo  dňa 27. 10. 2009", "after": "PhDr. Karol Pieta, DrSc. vo Vedeckej cukrárni dňa 27. 10. 2009", "block": 21, "note": "presná zhoda s timeline id 3178 ('vo Vedeckej cukrárni potvrdil...')" },
+    { "rule": "A1 chýbajúca uzatváracia čiarka vsuvky", "before": "K priekope, ktorá sa nachádza pred valom bolo zistené", "after": "K priekope, ktorá sa nachádza pred valom, bolo zistené", "block": 25 },
+    { "rule": "A8 nesprávny slovný tvar", "before": "Takto výškový rozdiel ... pôvodná výska valu", "after": "Takýto výškový rozdiel ... pôvodná výška valu", "block": 25 },
+    { "rule": "B typografia (apozícia) + A1 nadbytočná čiarka", "before": "chát - polozemníc ... V hornej časti výplne chaty, našlo sa", "after": "chát — polozemníc ... V hornej časti výplne chaty našlo sa", "block": 27 },
+    { "rule": "A1 chýbajúca čiarka pred vzťažnou vetou", "before": "priehlbinu — objekt ktorý mal priemer", "after": "priehlbinu — objekt, ktorý mal priemer", "block": 29 },
+    { "rule": "B typografia (zjednotenie pomlčiek) + A7 archaizmus", "before": "objektov – chata - mala ... museli snáď príbytok opustiť", "after": "objektov — chata — mala ... museli azda príbytok opustiť", "block": 32 },
+    { "rule": "A8", "before": "o Anonymovu zprávu", "after": "o Anonymovu správu", "block": 44 },
+    { "rule": "A8 preklep (cudzí znak ř namiesto r)", "before": "sv. Stefana ... kronikářova zmienka", "after": "sv. Štefana ... kronikárova zmienka", "block": 49 },
+    { "rule": "DOUBLE_PUNCTUATION", "before": "Hunta a Poznana.\".", "after": "Hunta a Poznana.\"", "block": 49, "note": "nadbytočná druhá bodka za uzatváracou úvodzovkou" },
+    { "rule": "A1 nadbytočná čiarka pred zátvorkou", "before": "cudzích bojovníkov, (Vencellín) — a dal", "after": "cudzích bojovníkov (Vencellín) — a dal", "block": 51 },
+    { "rule": "A9 veľké písmeno (privlastňovacie prídavné meno z vlastného mena)", "before": "technických možnostiach štefanovho vojska", "after": "technických možnostiach Štefanovho vojska", "block": 53 },
+    { "rule": "A8", "before": "Budovani opevnení sa teda", "after": "Budovanie opevnení sa teda", "block": 55 },
+    { "rule": "B typografia (medzery v dátume)", "before": "Foto 26.10.2013:", "after": "Foto 26. 10. 2013:", "block": 58 },
+    { "rule": "Sources: apozícia + preklep + rozsah strán", "before": "Archeologické pamiatky - Kultúrne krásy Slovenska / Slovenská archeologia 14 / 439-486 / J.-W. Gothe Universität", "after": "Archeologické pamiatky — Kultúrne krásy Slovenska / Slovenská archeológia 14 / 439–486 / J.-W. Goethe Universität", "block": "sources" }
+  ],
+  "reviewed_no_change": [
+    "Väčšina blokov 34, 39, 41, 42 atď. — bez chýb.",
+    "'(obilná jama a pod.) Pri sídliskových...' (blok 32) — abbreviation-bodka slúži zároveň ako veta-koncová, akceptovateľná konvencia, neopravené."
+  ],
+  "flags": []
+}

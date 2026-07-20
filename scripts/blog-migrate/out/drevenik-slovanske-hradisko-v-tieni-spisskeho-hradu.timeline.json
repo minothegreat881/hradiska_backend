@@ -1,0 +1,96 @@
+{
+  "_note": "Agent 1, overnight batch 13.7.2026",
+  "timeline": [
+    {
+      "year": "Paleolit",
+      "title": "Najstaršie osídlenie",
+      "description": "Najstaršie osídlenie lokality pochádza už z paleolitu, doložené nálezmi Homo neandertalensis.",
+      "type": "discovery"
+    },
+    {
+      "year": "Neolit",
+      "title": "Osídlenie bukovohorskou kultúrou",
+      "description": "Ďalšie osídlenie pochádza z neolitu, spájané s bukovohorskou kultúrou.",
+      "type": "event"
+    },
+    {
+      "year": "Eneolit",
+      "title": "Prvé opevnenie",
+      "description": "V eneolite tam vzniklo prvé opevnenie, spojené s bádenskou kultúrou, na ktoré potom nadviazali ďalšie kultúry doby bronzovej a železnej.",
+      "type": "founding"
+    },
+    {
+      "year": "9. - 11. storočie",
+      "title": "Slovanské hradisko a refúgium",
+      "description": "Najvýraznejšie stavebné aktivity a najvýraznejšie osídlenie pochádzajú z 9. - 11. storočia, keď tam stálo slovanské hradisko a rozmerná plošina bola využívaná ako refúgium pre miestne slovanské obyvateľstvo, ktoré si tam budovalo obydlia aj obranné zariadenia. Podľa drevených fortifikačných a obytných konštrukcií bolo územie pomenované Dreveník.",
+      "type": "construction"
+    },
+    {
+      "year": "871 - 894",
+      "title": "Zapojenie do obranného systému Veľkej Moravy",
+      "description": "Prvé zapojenie hradiska, resp. refúgia, do organizovaného obranného systému je možné predpokladať za vlády Svätopluka, keď sa Veľká Morava rozšírila až po stredný tok Hornádu.",
+      "type": "event"
+    },
+    {
+      "year": "10. - 11. storočie",
+      "title": "Nestabilné obdobie medzi zánikom Veľkej Moravy a pripojením k Uhorsku",
+      "description": "Obdobie medzi zánikom Veľkej Moravy a pripojením daného územia k Uhorsku bolo opäť nestabilné a nepokojné, o čom svedčia najviac zastúpené nálezy práve z 10. - 11. storočia.",
+      "type": "event"
+    },
+    {
+      "year": "12. storočie",
+      "title": "Zánik hradiska",
+      "description": "Vznikom župného systému a iných centier správy, no najmä upokojením politickej situácie, hradisko v priebehu 12. storočia zaniká.",
+      "type": "destruction"
+    },
+    {
+      "year": "13. storočie",
+      "title": "Opätovné využitie počas tatárskeho vpádu",
+      "description": "Opätovne však mohlo byť využité počas tatárskeho vpádu, čoho dôkazom sú nálezy aj z 13. storočia.",
+      "type": "event"
+    },
+    {
+      "year": "1932",
+      "title": "Výskum J. Neustupného",
+      "description": "Výskumy lokality realizoval už J. Neustupný v roku 1932, neskôr V. Budinský-Krička, V. Furmánek či M. Slivka.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Hornádska kotlina, juhovýchodne od Spišského Podhradia",
+      "icon": "map"
+    },
+    {
+      "label": "Nadmorská výška",
+      "value": "560 - 570 m n. m.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Typ útvaru",
+      "value": "Najväčšia travertínová kopa na Slovensku, skalné mesto",
+      "icon": "mountain"
+    },
+    {
+      "label": "Obdobie hlavného osídlenia hradiska",
+      "value": "9. - 11. storočie",
+      "icon": "calendar"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "Zemný val na severovýchode, dĺžka 60 m, výška miestami až 2 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Výskumníci",
+      "value": "J. Neustupný (1932), V. Budinský-Krička, V. Furmánek, M. Slivka",
+      "icon": "book"
+    },
+    {
+      "label": "Autor článku",
+      "value": "Dominik Sabol",
+      "icon": "custom"
+    }
+  ]
+}

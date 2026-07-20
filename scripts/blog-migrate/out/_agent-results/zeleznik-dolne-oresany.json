@@ -1,0 +1,27 @@
+{
+  "timeline": [
+    { "year": "eneolit", "title": "Prvé osídlenie (ludanická skupina)", "description": "Na Železníku a v jeho okolí sa usadili už ľudia v období ludanickej skupiny (starý eneolit).", "type": "era" },
+    { "year": "stredná až mladšia doba bronzová", "title": "Osídlenie v dobe bronzovej", "description": "Hradisko využili aj v strednej až mladšej dobe bronzovej, z ktorej pochádza niekoľko kovových nálezov.", "type": "era" },
+    { "year": "doba halštatská", "title": "Osídlenie v dobe halštatskej", "description": "Lokalita bola využívaná aj v dobe halštatskej.", "type": "era" },
+    { "year": "11. – 15. storočie", "title": "Vrcholné stredoveké osídlenie", "description": "Najvýraznejšie bolo hradisko osídlené v období stredoveku, a to cca od 11. do 15. storočia.", "type": "era" },
+    { "year": "13. storočie", "title": "Útok armády Přemysla Otakara II.", "description": "Je dôvodné predpokladať, že v 13. storočí bol Železník cieľom útoku niektorej z vtedajších armád, najpravdepodobnejšie armády Přemysla Otakara II., ktorej sa pripisuje zničenie viacerých hrádkov v oblasti Malých Karpát, napr. hrádku Altenburg v Pezinku.", "type": "battle" },
+    { "year": "koniec 13. storočia", "title": "Vojenská likvidácia hradiska", "description": "Nálezy pomerne početných militárií (železné šípy, ostrohy, záštita z tesáka) svedčia o možnej vojenskej likvidácii hradiska koncom 13. storočia.", "type": "destruction" },
+    { "year": "90. roky 20. storočia", "title": "Výskum Zdenka Farkaša", "description": "Na hradisku vykonával výskum v 90. rokoch Zdenek Farkaš, počas ktorého sa zistilo asi tisíc predmetov súvisiacich s falšovaním mincí, vrátane fragmentu krúžkového brnenia.", "type": "discovery" },
+    { "year": "2018 – 2020", "title": "Archeologický výskum SNM", "description": "Slovenské národné múzeum pod vedením Pavla Jelínka realizovalo archeologický výskum, na ktorom sa v rámci dobrovoľníckej činnosti zúčastnilo aj OZ Hradiská a objavilo množstvo nálezov najmä z obdobia stredoveku.", "type": "discovery" }
+  ],
+  "keyFacts": [
+    { "label": "Poloha", "value": "Kataster obce Dolné Orešany, v doline Parnej", "icon": "map" },
+    { "label": "Tvar kopca", "value": "Výrazný kužeľovitý kopec s pomerne strmými svahmi", "icon": "mountain" },
+    { "label": "Opevnenie", "value": "Sídlisková terasa okolo celého kopca, na okrajoch pôvodne opevnená drevenou palisádou", "icon": "shield" },
+    { "label": "Falošné mince", "value": "Okolo 2 tisíc falošných mincí podľa vzoru viedenských fenigov v rôznom štádiu výroby", "icon": "star" },
+    { "label": "Falšovateľská dielňa", "value": "Zrejme sa nachádzala v zdokumentovanej zrubovej stavbe na vrchole hradiska", "icon": "building" },
+    { "label": "Militárie z výskumu", "value": "6 železných šípov a 3 ostrohy nájdené najmä na juhozápadnom svahu pri predpokladanej bráne", "icon": "shield" },
+    { "label": "Ďalšie nálezy", "value": "Dva gotické kľúče, pracky, nože, fragmenty stredovekých mincí, gombík a kvetinovité ozdoby", "icon": "star" },
+    { "label": "Susedné opevnenia", "value": "Neďaleko sa nachádzajú hrádky Vápenná a Vápenica, ktoré plnili podobnú strážnu funkciu", "icon": "map" }
+  ],
+  "corrections": [
+    { "before": "Nie ďaleko od uvedeného miesta", "after": "Neďaleko od uvedeného miesta" },
+    { "before": "cez  zaujímavú plošinku", "after": "cez zaujímavú plošinku" },
+    { "before": "vrcholného stredoveku a spolu 3 ostrohy", "after": "vrcholného stredoveku, a spolu 3 ostrohy" }
+  ]
+}

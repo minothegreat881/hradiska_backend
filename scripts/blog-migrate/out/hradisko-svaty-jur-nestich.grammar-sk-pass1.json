@@ -1,0 +1,34 @@
+{
+  "slug": "hradisko-svaty-jur-nestich",
+  "note": "grammar-sk agent, prvý prechod (článok nikdy predtým nemal grammar-sk aplikovaný). Žiadne chránené zóny — celý článok je moderný text (Orgoň + parafrázy PhDr. Júliusa Vaváka), bez blockquote komponentov a bez dobových priamych citátov. Krátky nápis „Veľkomoravské hradisko“ vytesaný na kameni (blok 51) nie je historický citát, len popis nápisu na pamätnom kameni — typografia zjednotená na slovenské úvodzovky, obsah nedotknutý.",
+  "criticalFixes": [
+    { "issue": "Blok 19 mal chýbajúcu otváraciu úvodzovku a čiarku pri názve publikácie: 'v publikácii Zo starších dejín Svätého Jura“ 2010 Kolektívna monografia' — porovnaním s already-correct tvarom v citations/content.sources ('„Zo starších dejín Svätého Jura“ 2010, Kolektívna monografia') bolo zrejmé, že ide o mechanicky stratenú otváraciu úvodzovku a čiarku, nie o autorský zámer.", "fix": "Doplnená otváracia úvodzovka „ a čiarka pred 'Kolektívna monografia', zhoda s už správnym tvarom v bibliografii toho istého článku." }
+  ],
+  "appliedFixes": [
+    { "rule": "A7 bohemizmus (zbytky->zvyšky)", "before": "môžeme vidieť len zbytky jeho niekdajšej slávy", "after": "môžeme vidieť len zvyšky jeho niekdajšej slávy", "block": 0 },
+    { "rule": "A1 vsuvka — chýbajúce obe čiarky", "before": "Vrch na ktorom sa dnes nachádza hradisko ale svojou vynikajúcou polohou pútal", "after": "Vrch, na ktorom sa dnes nachádza hradisko, ale svojou vynikajúcou polohou pútal", "block": 8 },
+    { "rule": "A1 čiarka pred 'že' (spec-literal príklad)", "before": "je vysoko pravdepodobné že územie hradiska bolo využívané", "after": "je vysoko pravdepodobné, že územie hradiska bolo využívané", "block": 9 },
+    { "rule": "A1 čiarka pred 'že'", "before": "i keď je možné že existujúci systém valov využili", "after": "i keď je možné, že existujúci systém valov využili", "block": 46 },
+    { "rule": "A1 čiarka pred vzťažným zámenom 'z ktorých'", "before": "nákladné drôtené košele z ktorých krúžky sme našli", "after": "nákladné drôtené košele, z ktorých krúžky sme našli", "block": 28 },
+    { "rule": "A3 zhoda podmet-prísudok (číslo)", "before": "Najpravdepodobnejšia doba vzniku hradiska sú tridsiate roky deviateho storočia.", "after": "Najpravdepodobnejšia doba vzniku hradiska je tridsiate roky deviateho storočia.", "block": 12, "note": "podmet 'doba' je jednotné číslo, prísudok musí byť tiež jednotný ('je', nie 'sú')" },
+    { "rule": "A5 slovosled (prídavné meno pred podstatným)", "before": "to bolo centrum významné, ktoré nemá", "after": "to bolo významné centrum, ktoré nemá", "block": 24 },
+    { "rule": "A8 vzťažná veta kedy->keď", "before": "po spojení krajín, kedy si Nitriansko zjavne zachovalo", "after": "po spojení krajín, keď si Nitriansko zjavne zachovalo", "block": 24, "note": "'Kedy sa tak udialo, ťažko povedať' v bloku 40 NEBOLO menené — tam ide o opytovacie zámeno v nepriamej otázke, nie o vzťažnú vetu, teda správne použitie 'kedy'" },
+    { "rule": "A8 pravopis (prasleny->praslene)", "before": "keramické závažia a prasleny, kamenné brúsiky a hladidlá", "after": "keramické závažia a praslene, kamenné brúsiky a hladidlá", "block": 31 },
+    { "rule": "A9 veľké písmená (vlastné meno, spec-literal príklad Svätého jura->Svätého Jura)", "before": "s príchodom grófov zo Svätého jura a Pezinka", "after": "s príchodom grófov zo Svätého Jura a Pezinka", "block": 43 },
+    { "rule": "A9 veľké písmená (vlastné meno hradu)", "before": "na hrad Biely kameň bola na pôvodnom hradisku", "after": "na hrad Biely Kameň bola na pôvodnom hradisku", "block": 46, "note": "zhoda s protected-terms.json ('Biely Kameň')" },
+    { "rule": "B typografia (chýbajúca jednotka, mechanická oprava)", "before": "priekopa kónického tvaru (šírka 2,6 a hĺbka 1,5 m)", "after": "priekopa kónického tvaru (šírka 2,6 m a hĺbka 1,5 m)", "block": 40, "note": "hodnota potvrdená z keyFacts ('šírka 2,6 m, hĺbka 1,5 m'), nejde o vymyslenie čísla, len o doplnenie zjavne vypadnutej jednotky" },
+    { "rule": "B typografia (číselné rozsahy s pomlčkou, 5×)", "before": "138-161 / 720-750 / 4,5-5 m / 55 -58 cm / 8,5-13,0 a 7,7-13,0", "after": "138 – 161 / 720 – 750 / 4,5 – 5 m / 55 – 58 cm / 8,5 – 13,0 a 7,7 – 13,0", "block": "9, 21, 40, 49" },
+    { "rule": "B typografia (pomlčka namiesto spojovníka, 6×)", "before": "refúgium- dočasné / Nálezy - Obdobie / CD - napr. / titul, alt, caption Hradisko Svätý Jur - Neštich / Jeden z najnovších nálezov - lunicovitý / Hradisko - odborný článok", "after": "rovnaké s –", "block": "9, 20, 51, title, location.name, gallery+block41, sources+citations" },
+    { "rule": "B typografia (slovenské úvodzovky namiesto rovných, 2×)", "before": "nápisom \"Veľkomoravské hradisko\" / moje \"skúsené\" oko", "after": "nápisom „Veľkomoravské hradisko“ / moje „skúsené“ oko", "block": "51, 62 (gallery obrázok z fotogalérie)" }
+  ],
+  "reviewed_no_change": [
+    "Heading 'Predslovanské osídlenie na území Hradiska' (blok 7) a 'Slovania na Hradisku' (blok 11) — 'Hradisko/Hradisku' veľkým písmenom ponechané; v článku sa dôsledne používa ako neformálne miestne pomenovanie lokality (analogicky k tomu, ako sa lokalita v hovorovej reči skutočne nazýva 'Hradisko'), nejde o preklep.",
+    "'Kedy sa tak udialo, ťažko povedať.' (blok 40) — 'kedy' v nepriamej otázke je spisovne správne, nezamieňať s A8 pravidlom pre vzťažné vety.",
+    "Nápis „Veľkomoravské hradisko“ na kameni (blok 51) — obsah nápisu nedotknutý, iba typografia úvodzoviek zjednotená."
+  ],
+  "flags": [
+    "MISSING_WORD — Blok 24: 'Bronzom tauzovaný strmeň nájdený vo vale predhradia, železné jazykovité nákončia opaskov, členenú prevliečku, platničku zdobenú vruborezom.' Táto 'veta' je len výpočet podstatných mien/fráz bez slovesa — pôsobí ako odrezaný zvyšok vety, ktorej úvod (napr. 'K nim patrí...' alebo podobne) chýba. Nedopĺňané (§21.6 zakazuje dopisovanie viet), nahlásené na rozhodnutie.",
+    "EMPTY_COLON / štruktúrna anomália — content.sources aj citations obsahujú položku 'Neštich 5. 1. 2012:' — riadok končiaci dvojbodkou bez pokračovania, zjavne pôvodne uvádzal nasledujúcu fotogalériu (blok 53: 'Fotogaléria z výskumu (5. 1. 2012)'), ale pri extrakcii sa osamostatnil ako samostatná bibliografická položka. Neodstránené — zmazanie by menilo štruktúru zdrojov bez jasného mandátu, nahlásené na rozhodnutie.",
+    "Neistá gramatika/chýbajúca jednotka — Blok 49: 'svetelnosťou potrubí 8,5 – 13,0 a 7,7 – 13,0 zapadali jednotlivé časti dokonale jedna do druhej.' Vetná väzba je nezvyčajná (chýba predložka/pád pri 'svetelnosťou') a obom číselným rozsahom chýba jednotka (pravdepodobne cm alebo mm). Opravená len typografia pomlčky (8,5-13,0 -> 8,5 – 13,0), samotná chýbajúca jednotka a väzba neopravené — nejde o jednoznačnú mechanickú opravu, nahlásené."
+  ]
+}

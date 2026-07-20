@@ -1,0 +1,41 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Využitie rozšírenej reality' (2017-11).",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "projekte - možnosťami",
+      "after": "projekte – možnosťami",
+      "reason": "spojovník → en dash, vsuvka (B)"
+    },
+    {
+      "hint": 0,
+      "before": "tzv. \"rozšírenej reality\" pri",
+      "after": "tzv. „rozšírenej reality“ pri",
+      "reason": "slovenské úvodzovky (B)"
+    },
+    {
+      "hint": 0,
+      "before": "Technológia \"rozšírenej reality\" je",
+      "after": "Technológia „rozšírenej reality“ je",
+      "reason": "slovenské úvodzovky (B)"
+    },
+    {
+      "hint": 1,
+      "before": "Vezmime si príklad ktorý",
+      "after": "Vezmime si príklad, ktorý",
+      "reason": "čiarka pred vzťaž. zámenom (A1)"
+    },
+    {
+      "hint": 1,
+      "before": "reagovať na všetko čo rozpozná",
+      "after": "reagovať na všetko, čo rozpozná",
+      "reason": "čiarka pred čo (A1)"
+    },
+    {
+      "hint": 4,
+      "before": "vo sfére archeológii a histórie",
+      "after": "vo sfére archeológie a histórie",
+      "reason": "genitív archeológie (A4)"
+    }
+  ]
+}

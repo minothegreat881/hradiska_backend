@@ -1,0 +1,36 @@
+{
+  "slug": "arkona-retra-a-ine-pohanske-svatyne-zapadnych-slovanov",
+  "note": "grammar-sk agent (§21), prvý beh — tento článok predtým prešiel iba starým 'Agent 2' pravopisným pipeline, nikdy nie novým grammar-sk. 40 -> 39 blokov (odstránený 1 rozbitý embed-caption fragment). Obsahuje 5× content.poem (moderná poézia, nedotknuté) a mnoho voľne prevzatých pasáží z kroník (Thietmar, Adam Brémsky, Ebbo, Herbord) — tie NIE sú v samostatných quote-block komponentoch (na rozdiel od niektorých iných článkov), sú súčasťou plynulého rozprávania, takže opravená len typografia, nie preformátovanie štruktúry.",
+  "criticalFixes": [
+    { "issue": "Blok 1: '...svätyňa z , ktorá je opísaná na inom mieste.' — chýbajúci názov lokality.", "fix": "Doplnené 'Mostu pri Bratislave' — vysoká istota, keďže excerpt článku obsahuje presne tú istú vetu v plnom znení ('svätyňa z Mostu pri Bratislave, ktorá je opísaná na inom mieste')." },
+    { "issue": "Blok 23 bol rozbitý fragment ' from  on ' (zjavne pozostatok šablóny popisu vloženého embedu, s chýbajúcimi menami/odkazmi).", "fix": "Odstránený — nedopĺňané, obsahoval iba prázdne zvyšky šablóny bez akéhokoľvek zmysluplného textu." }
+  ],
+  "appliedFixes": [
+    { "rule": "A9 malé písmená + MISSING_WORD + B pomlčka", "before": "Slovanských svätýň ... svätyňa z , ktorá ... doby - tzn. zakryté budovy, vznikali iba v Polabskej a Pobaltskej oblasti", "after": "slovanských svätýň ... svätyňa z Mostu pri Bratislave, ktorá ... doby — tzn. zakryté budovy, vznikali iba v polabskej a pobaltskej oblasti", "block": 1 },
+    { "rule": "B pomlčka + A4 pád + A1 vsuvka čiarky", "before": "apotropaickú funkciu - podobná ... o polabských Slovanov meno ... spočívala ako už bolo povedané na základe", "after": "apotropaickú funkciu — podobná ... o polabských Slovanoch meno ... spočívala, ako už bolo povedané, na základe", "block": 4 },
+    { "rule": "B pomlčky + D cross-field preklep mena", "before": "z konca 11. stor. - Adam Brémsky - poznal ... z Halberstadte.", "after": "z konca 11. stor. — Adam Brémsky — poznal ... z Halberstadtu.", "block": 9, "note": "'Halberstadtu' zjednotené s timeline (id 3146)" },
+    { "rule": "B rozsah (zjednotenie s timeline) + A8 kedy->keď", "before": "zo 7.-8. stor. ... V dobe, kedy Thietmar", "after": "zo 7.–8. stor. ... V dobe, keď Thietmar", "block": 11 },
+    { "rule": "B pomlčka + A7 archaizmus", "before": "Svarožiča - Radegasta zaujal ... Snáď o žiadnom", "after": "Svarožiča — Radegasta zaujal ... Azda o žiadnom", "block": 14 },
+    { "rule": "B pomlčka", "before": "so zatajeným dychom - pre každé", "after": "so zatajeným dychom — pre každé", "block": 18 },
+    { "rule": "A5 slovosled + B pomlčka + D cross-field preklep mena", "before": "Veľký význam mal kult poľnohospodársky. ... boh sám - to bol kôň ... kronikára Helmonda", "after": "Veľký význam mal poľnohospodársky kult. ... boh sám — to bol kôň ... kronikára Helmolda", "block": 20, "note": "'Helmolda' zjednotené s KF ('Helmold')" },
+    { "rule": "B pomlčka", "before": "rivalmi Ránov - Dánmi.", "after": "rivalmi Ránov — Dánmi.", "block": 25 },
+    { "rule": "B rozsah", "before": "z rokov 1969-1970", "after": "z rokov 1969–1970", "block": 26 },
+    { "rule": "A9 malé písmeno", "before": "Na Rujanskom hradisku", "after": "Na rujanskom hradisku", "block": 27 },
+    { "rule": "B typografia (úvodzovky)", "before": "\"neuveriteľnej krásy\"", "after": "„neuveriteľnej krásy\"", "block": 31 },
+    { "rule": "B typografia (úvodzovky)", "before": "\"summus deus\"", "after": "„summus deus\"", "block": 32 },
+    { "rule": "B násobenie", "before": "hala (7 x 11 m)", "after": "hala (7 × 11 m)", "block": 34 },
+    { "rule": "A4 pád", "before": "počas Ottovom kázania", "after": "počas Ottovho kázania", "block": 36 },
+    { "rule": "B úvodzovky + pomlčka", "before": "chrám zvaný \"continu\" ... Caesara - Prieflingenský mních", "after": "chrám zvaný „continu\" ... Caesara — Prieflingenský mních", "block": 37 },
+    { "rule": "B pomlčka + úvodzovky (caption/alt)", "before": "Arkona - jeden z pokusov o \"rekonštrukciu\"", "after": "Arkona — jeden z pokusov o „rekonštrukciu\"", "block": 35 },
+    { "rule": "Sources: chýbajúce diakritiky (české písmená)", "before": "Bohové dávných Slovanú ... Ancestral Volkhves - A Ruiny Prehovoria, Ked Stichne Cas", "after": "Bohové dávných Slovanů ... Ancestral Volkhves — A Ruiny Prehovoria, Keď Stíchne Čas", "block": "sources", "note": "'Keď Stíchne Čas' zjednotené s presným zápisom v poli source bloku 24 (content.poem)" }
+  ],
+  "reviewed_no_change": [
+    "5× content.poem (moderná poézia od 'Ancestral Volkhves' a neoznačené) — nedotknuté, nejde o gramatickú prózu.",
+    "Rozsiahle parafrázy/citácie z kroník Thietmara, Adama Brémskeho, Ebbona a Herborda (bloky 4-9, 31-32, 36-37) — nie sú v samostatných quote-block, sú súčasťou plynulého výkladu; opravená len typografia (pomlčky, úvodzovky), nie slovník ani vetná stavba.",
+    "'ka.t' (blok 37) — pravdepodobne poškodený zápis staroslovanského koreňa so špeciálnym znakom (napr. nosovka), nízka istota správnej opravy, ponechané."
+  ],
+  "flags": [
+    "Blok 8: osamotená veta 'Znova a znova...' medzi dvomi básňami — pôsobí ako duplicitný/osirotený refrén (zhoduje sa s posledným veršom básne v bloku 24), možný extrakčný artefakt. Nedopĺňané/neodstraňované, keďže ide o štrukturálnu otázku obsahu, nie gramatickú chybu.",
+    "Blok 29 (teraz 28): 'Množstvo fotografií a krátky text z našej výpravy na Arkonu nájdete v' — veta bez pokračovania, chýba odkaz/názov zdroja. Nedopĺňané bez overenia."
+  ]
+}

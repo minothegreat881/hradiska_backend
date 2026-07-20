@@ -1,0 +1,83 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "Neskorá doba laténska",
+      "title": "Vybudovanie opevnenia púchovskou kultúrou",
+      "description": "Opevnenie hradiska vybudoval ľud púchovskej kultúry; neskorolaténske osídlenie potvrdzujú sporadické črepy a nález polovice bronzového tepaného lunicového závesku.",
+      "type": "construction"
+    },
+    {
+      "year": "8. – 9. storočie",
+      "title": "Využitie hradiska vo včasnom stredoveku",
+      "description": "Hrot veľkej včasnostredovekej trojbokej strely naznačuje využitie hradiska v Sklabini vo včasnom stredoveku, pravdepodobne už v 8. – 9. storočí.",
+      "type": "era"
+    },
+    {
+      "year": "Obdobie Veľkej Moravy",
+      "title": "Vznik šijovej priekopy a priečneho valu",
+      "description": "Podľa Dr. Pietu vznikla zreteľná šijová priekopa s priečnym valom práve v období Veľkej Moravy; opevnenie púchovskej kultúry vtedy využili ako refúgium aj Slovania.",
+      "type": "construction"
+    },
+    {
+      "year": "13. storočie",
+      "title": "Prvá písomná zmienka",
+      "description": "V listine z 13. storočia sa opakovane spomína poloha Brvenné (Brveno-hradište), ktorá sa podľa niektorých obyvateľov môže viazať aj na polohu Mačací zámok.",
+      "type": "event"
+    },
+    {
+      "year": "19. storočie",
+      "title": "Zaznamenanie na vojenskej mape",
+      "description": "Hradisko je vyznačené na mape II. vojenského mapovania z 19. storočia.",
+      "type": "event"
+    },
+    {
+      "year": "2001",
+      "title": "Publikovanie zisťovacieho výskumu",
+      "description": "Karol Pieta a Stanislav Horváth publikovali výsledky zisťovacieho výskumu v štúdii Včasnostredoveké a púchovské hradisko pri Sklabini (Avans 2001).",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozmery hradiska",
+      "value": "Oválny pôdorys s rozmermi približne 35 × 70 m",
+      "icon": "map"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "Obvodový val prepája v dvoch tretinách dĺžky priečny val, na východe dopĺňa zreteľná šijová priekopa",
+      "icon": "shield"
+    },
+    {
+      "label": "Najvyšší val",
+      "value": "Val je najvyšší zo severnej strany hradiska",
+      "icon": "mountain"
+    },
+    {
+      "label": "Nález strely",
+      "value": "Pri zisťovacom výskume sa našiel hrot veľkej včasnostredovekej trojbokej strely",
+      "icon": "star"
+    },
+    {
+      "label": "Bronzový záveslok",
+      "value": "Objavená bola polovica bronzového tepaného lunicového závesku, patriaca zrejme púchovskému osídleniu hrádku",
+      "icon": "star"
+    },
+    {
+      "label": "Datovanie priekopy",
+      "value": "Podľa Dr. Pietu vznikla šijová priekopa s priečnym valom v období Veľkej Moravy",
+      "icon": "book"
+    },
+    {
+      "label": "Prvá písomná zmienka",
+      "value": "V listine z 13. storočia sa hradisko spomína pod názvom Brvenné (Brveno-hradište)",
+      "icon": "book"
+    },
+    {
+      "label": "Blízky nález hrobu",
+      "value": "V neďalekých Žabokrekoch sa našiel bohato vybavený hrob bojovníka s mečom",
+      "icon": "custom"
+    }
+  ]
+}

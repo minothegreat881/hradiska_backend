@@ -1,0 +1,20 @@
+{
+  "slug": "rybnik-krivin",
+  "flags": [
+    {
+      "type": "PROTECTED_PARAPHRASE",
+      "location": "blocks[1],[2],[5]-[9],[13]",
+      "note": "These passages closely follow Stefan Jansak's 1929 survey style and vocabulary (archaic words \"nivo\", \"cini\", point-lettered wall descriptions a-b/c-d/e-f matching the protected Jansak quote in prasnik-hradok-osada-u-fajnorov). Not marked as a formal quote-block, but treated as a protected zone per SS21.3 spirit (never modernize historical-source-derived text) -- no grammar/typography changes applied within them."
+    },
+    {
+      "type": "BROKEN_URL",
+      "location": "blocks[21] (content.sources item[1])",
+      "note": "URL \"https://zbgis.skgeodesy.sk/...parcelse=[654043157\" appears truncated (unclosed bracket). Structural/technical issue, not a grammar fix -- flagged for verification against the live link."
+    },
+    {
+      "type": "CITATION_STRUCTURE",
+      "location": "blocks[20] vs content.sources / citations[]",
+      "note": "Full literature list (Jansak 1929, Veliacik/Srnka/Valo 2002, Kovar 2008) is embedded as a plain body paragraph, while blogPost.citations[] only contains the two raw map URLs from content.sources (with missing \"text\"). Flagged as a structural inconsistency similar to SS21.5 BIBLIO_IN_BODY, not fixed here."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "_note": "grammar-sk v7 §21 — aktualita 'Tak nám zas zamlčiavajú dejiny...' (2015-03). Autorova SK próza. Bloky [2][3][4] = citovaná recenzia HISTORYWEB (cudzí autor) = quote-block → NEDOTÝKAM sa (verbatim; apply-grammar quote-blocky aj tak nemení).",
+  "corrections": [
+    { "hint": 0, "before": "jej \"letmom\" prelistovaní", "after": "jej „letmom“ prelistovaní", "reason": "slovenské úvodzovky (B)" },
+    { "hint": 1, "before": "spolupracujeme objavil recenziu", "after": "spolupracujeme, objavil recenziu", "reason": "uzavretie vloženej vzťažnej vety čiarkou (A1)" },
+    { "hint": 5, "before": "na tejto adrese : HISTORYWEB", "after": "na tejto adrese: HISTORYWEB", "reason": "medzera pred dvojbodkou (B)" },
+    { "hint": 8, "before": "\"Buďme hrdí na naše dejiny. Máme na to mnoho dôvodov\"", "after": "„Buďme hrdí na naše dejiny. Máme na to mnoho dôvodov“", "reason": "slovenské úvodzovky (B); before = celý text-node (citát je samostatný node)" },
+    { "hint": 8, "before": "\"A nemusíme si ich vymýšľať\"", "after": "„A nemusíme si ich vymýšľať“", "reason": "slovenské úvodzovky (B); before = celý text-node" }
+  ]
+}

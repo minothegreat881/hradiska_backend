@@ -1,0 +1,23 @@
+{
+  "slug": "tlmace-festunok",
+  "note": "Pass 2 — cross-field konzistencia (§21.4).",
+  "beforeAfterMap": [
+    { "before": "24m / 1km / 6m / 560m / 1,84ha / 320-330cm / 140-150cm / 470-500cm / 2m / 1m", "after": "24 m / 1 km / 6 m / 560 m / 1,84 ha / 320 – 330 cm / 140 – 150 cm / 470 – 500 cm / 2 m / 1 m" },
+    { "before": "150x190 / 5-6m / 2-3m / 1,5-2m / 9.-10.", "after": "150 × 190 / 5 – 6 m / 2 – 3 m / 1,5 – 2 m / 9. – 10." },
+    { "before": "príkrim", "after": "príkrym" },
+    { "before": "temer", "after": "takmer" },
+    { "before": "Drevo zemná", "after": "Drevozemná" },
+    { "before": "mohli by byť", "after": "by mohli byť" },
+    { "before": "knieža ... uvedomoval/založil/mal", "after": "knieža ... uvedomovalo/založilo/malo" },
+    { "before": "bibliografia (Janšák 1928, Habovštiak 1973) ako samostatné rich-text bloky v tele", "after": "presunuté do content.sources + citations" }
+  ],
+  "crossFieldChecks": [
+    { "field": "excerpt", "result": "Zhoduje sa doslovne s blokom 0, ktorý nebol v pass 1 menený (žiadny z opravovaných tvarov sa v ňom nevyskytuje). Bez zmeny." },
+    { "field": "keyFacts[]", "result": "ŽIADNA oprava nutná — keyFacts ('Rozmery' 150 × 190 m, 'Konštrukcia valu' 320 – 330 cm / 140 – 150 cm / 470 – 500 cm / 5 – 6 m, 'Dvojitá brána' 10 m a 6 m, 'Obetný kameň' 2 m/1 m) už mali presne cieľové tvary pred pass 1 — telo bolo dotiahnuté na ich úroveň." },
+    { "field": "timeline[]", "result": "OPRAVENÉ — položka 'Založenie opátstva v Hronskom Beňadiku' mala rovnakú A3 chybu zhody rodu ('Knieža Gejza I. založil opátstvo, aby mal pod kontrolou...') ako telo pred opravou. Opravené na 'založilo'/'malo' pri propagácii z tela (§21.4)." },
+    { "field": "media[].caption / alternativeText", "result": "Skontrolované všetky popisky (galéria aj image-block alt/caption) — žiadny neobsahuje opravované tvary. Bez zmeny." },
+    { "field": "title / tags / location.name", "result": "'Tlmače - Festunok' — mimo rozsahu §21.4 (identifikátor, nie prozaický text), bez zmeny." },
+    { "field": "content.sources / citations", "result": "ŠTRUKTURÁLNA zmena (nie len cross-field): bibliografia z tela (Janšák 1928, Habovštiak 1973) presunutá do oboch polí ako nové položky, s opraveným číselným rozsahom '9. – 10.'." }
+  ],
+  "verdict": "Cross-field propagácia preverená na všetkých poliach zo zoznamu §21.4. Jediná skutočná dvojsmerná propagácia bola A3 oprava zhody rodu (knieža), ktorá sa vyskytovala identicky aj v tele aj v timeline. intermediate.json je po pass 1 + pass 2 pripravený na upload (mimo 2 nahlásených flagov v review.json)."
+}

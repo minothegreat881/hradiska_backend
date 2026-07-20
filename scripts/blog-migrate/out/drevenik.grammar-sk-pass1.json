@@ -1,0 +1,21 @@
+{
+  "slug": "drevenik-slovanske-hradisko-v-tieni-spisskeho-hradu",
+  "note": "grammar-sk agent, prvý prechod.",
+  "appliedFixes": [
+    { "rule": "A9 malé písmeno (prídavné meno, nie vlastné meno)", "before": "zaujímavé Slovanské hradisko", "after": "zaujímavé slovanské hradisko", "block": 0, "note": "aj v excerpte" },
+    { "rule": "D cross-field (telo malo pokazenú vetu, timeline malo správnu)", "before": "podľa ktorého drevených fortifikačných a obytných konštrukcií bolo územie pomenované Dreveník", "after": "podľa drevených fortifikačných a obytných konštrukcií bolo územie pomenované Dreveník", "block": 2, "note": "'ktorého' bol nadbytočný/gramaticky nesprávny vzťažný zámen — timeline (id 3945) malo už čistý tvar" },
+    { "rule": "B typografia (číselné rozsahy = en dash)", "before": "9. - 11. storočia / 10. - 11. stor. / 871 - 894 / 560 - 570", "after": "9. – 11. / 10. – 11. / 871 – 894 / 560 – 570 (s medzerami)", "block": "2, 5, 8, keyFacts, timeline" },
+    { "rule": "A9 latinský binomický názov (veľké písmeno rodu)", "before": "nálezy homo neandertalensis", "after": "nálezy Homo neandertalensis", "block": 5 },
+    { "rule": "B typografia (znak násobenia)", "before": "1 500 x 800 m", "after": "1 500 × 800 m", "block": 5 },
+    { "rule": "štrukturálne — zlepený medzititulok", "before": "Dnešný stav lokality V súčasnosti sa lokalita...", "after": "'Dnešný stav lokality' vyčlenené ako samostatný blok pred odsekom (rovnaký vzor ako v iných článkoch korpusu)", "block": 8 },
+    { "rule": "location.name", "before": "'Dreveník - Slovanské hradisko v tieni Spišského hradu' (celý názov článku v poli lokality)", "after": "'Dreveník'", "block": "location", "note": "zjednotené s konvenciou ostatných článkov (location.name = stručný názov miesta, nie názov článku)" }
+  ],
+  "reviewed_no_change": [
+    "Blok 3, 6, 7 — bez gramatických chýb.",
+    "'od Svätohája rodnej viery' (blok 7) — nezvyčajné, ale gramaticky správne vlastné meno (genitív 'Svätoháj' -> 'Svätohája' podľa vzoru stroj), ponechané.",
+    "'zdeštruovaný' (blok 8) — netradičný, ale existujúci technický novotvar, nie je to jasná chyba podľa žiadneho pravidla A7/A8, ponechané."
+  ],
+  "flags": [
+    "Blok 8/9 (teraz posledný rich-text blok): veta 'Prevzaté so súhlasom autora zo stránky' končí bez menovania stránky — pri extrakcii bol zjavne stratený hypertextový odkaz na názov zdrojovej stránky. Na rozdiel od podobného prípadu v Dražovciach (kde chýbajúce slovo bolo možné dosadiť s istotou z doslovnej zhody v KF), tu žiadny exaktný zdroj v článku nie je — v Zdrojoch sú 3 odkazy (korzar.sme.sk, 'Foto: Siváci Košice', travel.sk), ale nie je isté, ktorý z nich patrí sem. NEDOPĺŇANÉ bez overenia, iba orezaná nadbytočná dvojitá medzera na konci vety."
+  ]
+}

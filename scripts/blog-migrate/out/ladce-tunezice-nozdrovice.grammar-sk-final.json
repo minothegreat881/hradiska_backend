@@ -1,0 +1,44 @@
+{
+  "slug": "ladce-tunezice-nozdrovice",
+  "note": "grammar-sk finálny audit — pass1 draft aplikovaný priamo do intermediate.json (24 -> 22 blokov po zlúčení bibliografie) + fresh pass 2 (cross-field).",
+  "criticalFixesApplied": [
+    "Bloky 21-23 (heading 'Lit:' + 2 odseky bibliografie) nahradené jedným content.sources blokom so 4 položkami (Lipták 2003, Moravčík 2006, Slovenská numizmatika 1998, Petrovský-Šichman 1964); 'Petrovský-Šichman:Slovanské' opravené na 'Petrovský-Šichman: Slovanské', 'Severného' -> 'severného'.",
+    "authorName 'Unknown' -> 'Jozef Moravčík' (telo v bloku 18 explicitne podpisuje)."
+  ],
+  "appliedFixes": [
+    { "rule": "A3 zhoda podmetu s prísudkom", "before": "Hradište ... a občas sa uvádzajú aj ako Ladce", "after": "Hradište ... a občas sa uvádza aj ako Ladce", "block": "excerpt" },
+    { "rule": "A1 chýbajúca čiarka pred vzťažnou vetou", "before": "jedno hradisko o ktorom sa vie", "after": "jedno hradisko, o ktorom sa vie", "block": "excerpt" },
+    { "rule": "B typografia p.n.l./n.l.", "before": "p.n.l. / n.l. / n.l)", "after": "p. n. l. / n. l. / n. l.)", "blocks": [3, 4, 6, 9, 12, 14, 16, 17], "note": "hromadná oprava naprieč telom AJ timeline (7 timeline položiek); blok 3 doplnený nad rámec draftu (rovnaký vzor, draft ho v appliedFixes explicitne nevymenoval, ale spadá pod 'prakticky celý článok')" },
+    { "rule": "B typografia desaťročia", "before": "v 20 a 30 rokoch 20. st.", "after": "v 20. a 30. rokoch 20. st.", "block": 4 },
+    { "rule": "A1 nadbytočná čiarka (podmet-prísudok)", "before": "po odvlečení Kotínov do Panónie, je potvrdený", "after": "po odvlečení Kotínov do Panónie je potvrdený", "block": 6 },
+    { "rule": "D cross-field (zhoda s timeline)", "before": "sú doteraz známe až najstaršie slovanské nálezy", "after": "sú doteraz doložené najstaršie slovanské nálezy", "block": 9 },
+    { "rule": "A4 predložková väzba", "before": "ktoré používali slovanskí bojovníci k obrane tohto územia", "after": "ktoré používali slovanskí bojovníci na obranu tohto územia", "block": 9 },
+    { "rule": "A1 vsuvka (titul za menom)", "before": "prof. A. Rutkayom DrSc. môže", "after": "prof. A. Rutkayom, DrSc., môže", "block": 9 },
+    { "rule": "A1 vsuvka", "before": "v Hubine okres Piešťany, tiež", "after": "v Hubine, okres Piešťany, tiež", "block": 14 },
+    { "rule": "D globálny slovník (rímske -> arabské)", "before": "v 2. polovici II st. p. n. l.", "after": "v 2. polovici 2. st. p. n. l.", "block": 14 },
+    { "rule": "A8 preklep", "before": "minca ... dochádza z prostredia keltských Bojov", "after": "minca ... pochádza z prostredia keltských Bojov", "block": 14 },
+    { "rule": "B typografia (rovnocennosť = pomlčka)", "before": "Bojohemum - Bohemia", "after": "Bojohemum — Bohemia", "block": 14 },
+    { "rule": "A8 preklep vlastného mena", "before": "podľa ich pomenovania G. I. Ceaserom", "after": "podľa ich pomenovania G. I. Caesarom", "block": 14 },
+    { "rule": "A7 bohemizmus", "before": "Zrejme sa jedná zatiaľ o najväčší počet", "after": "Zrejme ide zatiaľ o najväčší počet", "block": 17 },
+    { "rule": "B typografia (mestská časť = spojovník bez medzier)", "before": "v Žiline - Vraní", "after": "v Žiline-Vraní", "block": 17 },
+    { "rule": "B typografia (číselný rozsah)", "before": "medzi rokmi 45 - 35 p. n. l.", "after": "medzi rokmi 45 – 35 p. n. l.", "block": 17 }
+  ],
+  "crossFieldPass2": [
+    "timeline[1].year/description: p.n.l./n.l. -> p. n. l./n. l. (2 miesta)",
+    "timeline[2].year: 'prvé desaťročia n.l.' -> 'n. l.'",
+    "timeline[3].year: '2. pol. 1. st. n.l. – koniec 2. st. n.l.' -> 'n. l.' obojstranne",
+    "timeline[4].year/description: 'rozhranie 2. a 3. st. n.l.' -> 'n. l.' (2 miesta)",
+    "timeline[5].year: 'koniec 2. st. n.l.' -> 'n. l.'",
+    "timeline[10].year: '45 – 35 p.n.l.' -> 'p. n. l.'",
+    "timeline[11].year/description: 'približne 48 p.n.l.' -> 'p. n. l.' (2 miesta, aj druhý výskyt v tej istej description)",
+    "keyFacts: bez p.n.l./n.l. výskytov, bez zmien",
+    "title/tags: bez zmien"
+  ],
+  "skippedNoChange": [
+    "'st.' (skratka storočie) ponechané nerozpísané naprieč celým článkom — vlastná konvencia tohto článku",
+    "'10 či 12 kusov' vs. KF '10 až 12 mincami' — oba významovo prípustné, nejde o jasnú chybu",
+    "'RAVIT - RAVIS' (blok 16) — dve alternatívne čítania nápisu, nie číselný rozsah ani apozícia, ponechané"
+  ],
+  "flagsResolved": [],
+  "unresolvedReviewNeeded": false
+}

@@ -1,0 +1,29 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Plavba rímskou loďou po Dunaji – 1. diel' (2022-09). Dlhá členská reportáž; aplikované vysoko isté opravy, hlbší korektúrny prechod odporúčaný.",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "skvelej akcie - plavila sa",
+      "after": "skvelej akcie – plavila sa",
+      "reason": "spojovník → en dash, vsuvka (B)"
+    },
+    {
+      "hint": 2,
+      "before": "vzdialenosť 2400-kilometrov",
+      "after": "vzdialenosť 2 400 kilometrov",
+      "reason": "oddeľovač tisícov + bez spojovníka (B)"
+    },
+    {
+      "hint": 4,
+      "before": "hranice Rímskej ríše.Plavba začala",
+      "after": "hranice Rímskej ríše. Plavba začala",
+      "reason": "chýbajúca medzera po bodke (B)"
+    },
+    {
+      "hint": 9,
+      "before": "Posádka 4.etapy",
+      "after": "Posádka 4. etapy",
+      "reason": "medzera po ordináli (B)"
+    }
+  ]
+}

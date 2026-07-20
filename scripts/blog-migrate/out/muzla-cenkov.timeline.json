@@ -1,0 +1,84 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "9.-10. storočie",
+      "title": "Existencia slovanského hradiska",
+      "description": "Na lokalite Mužla-Čenkov sa v 9. až 10. storočí rozprestieralo slovanské hradisko, ktorého časti sa dnes nachádzajú na polohe Vilmakert a Orechový sad.",
+      "type": "era"
+    },
+    {
+      "year": "2. štvrtina 9. storočia",
+      "title": "Osídlenie lokality",
+      "description": "Lokalita bola osídlená najneskôr v druhej štvrtine 9. storočia kolonizačným spôsobom väčšou skupinou obyvateľstva, ktorá bola schopná plánovite zastavať vybranú plochu a opevniť ju valom solídnej konštrukcie.",
+      "type": "founding"
+    },
+    {
+      "year": "2. tretina 9. storočia",
+      "title": "Vybudovanie opevnenia prvého horizontu",
+      "description": "V súvislosti s rastúcim napätím medzi Východofranskou a Veľkomoravskou ríšou možno s týmto obdobím spájať na čenkovskom hradisku systém opevnenia a nálezy militantného charakteru z prvého horizontu osídlenia.",
+      "type": "construction"
+    },
+    {
+      "year": "861",
+      "title": "Vojenské strety a pripojenie územia k Veľkej Morave",
+      "description": "Na základe výsledkov vojenských stretov bolo k teritóriu Veľkej Moravy pripojené územie od Ostrihomu k Vesprému, Bakonskému lesu a dolnému toku Ráby, čo mohlo priniesť obrat vo funkčnosti čenkovského opevneného sídliska (druhý horizont).",
+      "type": "battle"
+    },
+    {
+      "year": "1135",
+      "title": "Písomná zmienka „villa Chenka\"",
+      "description": "Nedochovaný doklad z roku 1135 spomína „predium in villa Chenka\", ktoré daroval Štefan I. jednému z predkov rodu Hunt-Poznan; označenie villa svedčí o strate funkcie opevnenia.",
+      "type": "event"
+    },
+    {
+      "year": "2.-3. tretina 10. storočia",
+      "title": "Redukcia osídlenia v treťom horizonte",
+      "description": "V treťom horizonte osídlenia, patriacom do poveľkomoravského obdobia, dochádza k výraznej redukcii koncentrácie osídlenia, pričom z pôvodných obyvateľov zostáva iba malá časť; archeológovia vylučujú katastrofický zánik vojenskou akciou.",
+      "type": "event"
+    },
+    {
+      "year": "11.-12. storočie",
+      "title": "Štvrté obdobie - malá osada",
+      "description": "Trend redukcie osídlenia pokračuje aj do štvrtého obdobia; v pôvodnom sídliskovom areáli sa objavujú objekty malej osady rozptýleného typu, zachytenej v písomných prameňoch ako villa.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Hradisko leží priamo na brehu Dunaja, na jednej z mála výrazne vyvýšených polôh medzi Štúrovom a Komárnom",
+      "icon": "map"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "Poloha Vilmakert bola z troch strán obohnaná valom so zachovanou dĺžkou cca 500 m, na strane k Dunaju ju chránil 3 až 5 m vysoký strmý breh",
+      "icon": "shield"
+    },
+    {
+      "label": "Rozloha",
+      "value": "Súčasná rozloha polohy Vilmakert je 2,79 ha, pôvodnú rozlohu kvôli erózii dunajského brehu nemožno určiť",
+      "icon": "mountain"
+    },
+    {
+      "label": "Sídliskové objekty",
+      "value": "Na hradisku bolo preskúmaných 271 sídliskových objektov, prevažne zvyškov zahĺbených stavieb štvoruholníkového pôdorysu",
+      "icon": "building"
+    },
+    {
+      "label": "Objekt X",
+      "value": "Dr. Hanuliak objavil vo vnútri hradiska stavbu unikátnych rozmerov v rámci slovanského obdobia na území Slovenska, obklopenú hrobmi s bohatou výbavou",
+      "icon": "star"
+    },
+    {
+      "label": "Obživa",
+      "value": "Archeozoologické zistenia dokladajú chov hovädzieho dobytka, ošípaných, sčasti oviec, kôz i hydiny, doplnený lovom a rybolovom",
+      "icon": "custom"
+    },
+    {
+      "label": "Písomné pramene",
+      "value": "Gesta Hungarorum Šimona z Kézy spomína dobytie hradu pri brode Zub, hypoteticky spájané s Čenkovom; z roku 1135 pochádza doklad o „predium in villa Chenka\"",
+      "icon": "book"
+    }
+  ]
+}

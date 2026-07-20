@@ -1,0 +1,123 @@
+{
+  "slug": "zilina-zastranie-stranik",
+  "generatedAt": "2026-07-15T16:15:28.802Z",
+  "corrections": [
+    {
+      "before": "Straník",
+      "after": "Stráník",
+      "reason": "missing diacritic on toponym; title/tags/location.name/one gallery caption already use correct \"Stráník\" (substring match also fixes \"Straníku\"->\"Stráníku\", \"Straníka\"->\"Stráníka\")",
+      "category": "cross-field",
+      "occurrences": 17
+    },
+    {
+      "before": "A. Petrovského – Šichmana",
+      "after": "A. Petrovského-Šichmana",
+      "reason": "double-barrelled surname hyphenation (matches protected-terms convention: Budinský-Krička not Budinský – Krička)",
+      "category": "A9",
+      "occurrences": 2
+    },
+    {
+      "before": "A. Petrovským – Šichmanom",
+      "after": "A. Petrovským-Šichmanom",
+      "reason": "double-barrelled surname hyphenation",
+      "category": "A9",
+      "occurrences": 1
+    },
+    {
+      "before": "A. Petrovský – Šichman:",
+      "after": "A. Petrovský-Šichman:",
+      "reason": "double-barrelled surname hyphenation",
+      "category": "A9",
+      "occurrences": 1
+    },
+    {
+      "before": "V. Budinskému – Kričkovi",
+      "after": "V. Budinskému-Kričkovi",
+      "reason": "double-barrelled surname hyphenation (protected-terms: Budinský-Krička)",
+      "category": "A9",
+      "occurrences": 1
+    },
+    {
+      "before": "0,5 x 2,5 m",
+      "after": "0,5 × 2,5 m",
+      "reason": "x -> × multiplication sign (propagates to timeline)",
+      "category": "typography",
+      "occurrences": 2
+    },
+    {
+      "before": "450 x 150 m",
+      "after": "450 × 150 m",
+      "reason": "x -> × multiplication sign (propagates to keyFacts)",
+      "category": "typography",
+      "occurrences": 2
+    },
+    {
+      "before": "3-4 bránami",
+      "after": "3 – 4 bránami",
+      "reason": "digit range dash spacing (propagates to keyFacts)",
+      "category": "typography",
+      "occurrences": 2
+    },
+    {
+      "before": "v mladšej – až neskorej dobe bronzovej",
+      "after": "v mladšej až neskorej dobe bronzovej",
+      "reason": "redundant hybrid range marker (dash + \"až\"); body elsewhere and keyFacts each use one or the other, not both",
+      "category": "consistency",
+      "occurrences": 2
+    },
+    {
+      "before": "mladšej - neskorej doby bronzovej",
+      "after": "mladšej – neskorej doby bronzovej",
+      "reason": "hyphen -> en-dash, matches keyFacts \"Mladšia – neskorá doba bronzová\"",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "Článok prevzatý z: ",
+      "after": "Článok prevzatý z:",
+      "reason": "trim trailing whitespace in heading",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "Článok prevzatý z :",
+      "after": "Článok prevzatý z:",
+      "reason": "remove space before colon",
+      "category": "typography",
+      "occurrences": 2
+    },
+    {
+      "before": "Hradiská - Svedkovia dávnych čias",
+      "after": "Hradiská – Svedkovia dávnych čias",
+      "reason": "hyphen -> en-dash in book subtitle separator (propagates to sources/citations)",
+      "category": "typography",
+      "occurrences": 3
+    },
+    {
+      "before": "novinku - depot keltských mincí",
+      "after": "novinku – depot keltských mincí",
+      "reason": "hyphen -> en-dash (propagates to sources/citations)",
+      "category": "typography",
+      "occurrences": 3
+    },
+    {
+      "before": "ktorý bol najdený na hradisku",
+      "after": "ktorý bol nájdený na hradisku",
+      "reason": "missing diacritic: najdený->nájdený (body already correct, sources/citations duplicate had the typo)",
+      "category": "A8",
+      "occurrences": 2
+    },
+    {
+      "before": "(okr. žilina)",
+      "after": "(okr. Žilina)",
+      "reason": "proper noun capitalization (body already correct, sources/citations duplicate had lowercase)",
+      "category": "A9",
+      "occurrences": 2
+    }
+  ],
+  "structuralChanges": [
+    {
+      "note": "authorName: \"Orgon\" -> \"Jozef Moravčík\""
+    }
+  ]
+}

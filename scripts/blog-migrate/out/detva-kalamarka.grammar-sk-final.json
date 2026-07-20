@@ -1,0 +1,11 @@
+{
+  "slug": "detva-kalamarka",
+  "note": "grammar-sk pass1 (draft) aplikovaný priamo + pass2 cross-field konzistencia. Editované priamo v out/detva-kalamarka.intermediate.json. Toto je §21.8 regresný testovací článok (známe problémy: rozbité zátvorky, dátumový rozpor Boleslav Chrabrý) — obidva overené a nahlásené, nie ticho preskočené.",
+  "step1_appliedFixes_count": 40,
+  "step2_crossfield_scan_result": "Plný sken keyFacts+timeline+excerpt+title+tags na číselné rozsahy, veľké/malé písmená formálnych názvov (Avarský kaganát, bielochorvátske kniežatstvo), diakritiku (poľsko-uhorský, Zvolen-Môťová) a duplicitný tvar 'náučný chodník'/'Náučný chodník'. Nálezy: 7 cross-field propagácií (keyFacts 803–816/8–25/2040 → spacing; timeline 'v čase keď'→'v čase, keď'; timeline Avarského kaganátu; timeline bielochorvátskeho kniežatstva; timeline poľsko-uhorské [title+description]).",
+  "flags_unresolved": [
+    "Pozri out/detva-kalamarka.review.json — DATE_CONTRADICTION (Boleslav Chrabrý) a UNCLOSED_PAREN (odsek 'Nálezy')."
+  ],
+  "protected_zone_verification": "Článok neobsahuje žiadny priamy dobový citát ani quote-block — všetky výskyty 'Šalkovský uvádza, že...' sú nepriama reč (že-veta), nie doslovný citát so dvojbodkou/úvodzovkami, teda §21.3 ochrana sa netýka žiadneho bloku v tomto článku. Overené, 0 falošných ochrán.",
+  "upload_ready": true
+}

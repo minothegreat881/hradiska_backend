@@ -7,11 +7,11 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.65% vs originál (gramaticky opravené slová vyňaté: 4) — zvyšné mimo: orgoň, 2024 (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (3) ⊆ galéria (14) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 12, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 8 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 3 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 3 položiek |
+| sources (zdroje) | 1 → 2 položiek |
 
 ## Obrázky
 - **galéria:** 14 (3 s popisom)
@@ -51,10 +51,26 @@
   - Paralely: Ako aj Bratislava, Nitra a Zemplín — komitátne hrady vznikli na miestach starších opevnených slovanských centier
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 8**
+  - iné: 3
+  - predložky: 2
+  - interpunkcia (čiarky/bodky): 2
+  - preklepy: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `Várherf (hradný vrch)` → `Várheď (hradný vrch)` | jediný odchylný zápis, inde v článku dôsledne Várheď/Várhedi/Várheďu |
+| 2 | undefined | `o 3 m nizsie` → `o 3 m nižšie` | chýbajúca diakritika |
+| 3 | undefined | `hradba s nasucho kladených kameňov` → `hradba z nasucho kladených kameňov` | predložka z (hradba z kameňov) |
+| 4 | undefined | `na veľmi, pevných základoch` → `na veľmi pevných základoch` | nadbytočná čiarka medzi príslovkou a prídavným menom |
+| 5 | undefined | `t. j. v 11 stor.` → `t. j. v 11. stor.` | chýbajúca bodka za číslovkou storočia (konzistentne s 9. stor., 10. stor. v článku) |
+| 6 | undefined | `ako uvádza i P. Berecze` → `ako uvádza i P. Gerecze` | zjednotenie mena historika (Péter Gerecze); originál obsahuje oba tvary, Berecze je preklep |
+| 7 | undefined | `hrad neposkytol dostatočné útočište` → `hrad neposkytol dostatočné útočisko` | spisovný tvar útočisko; jediný výskyt slova v článku, nedá sa potvrdiť ako dôsledný autorský štýl |
+| 8 | undefined | `začal upadať v druhej polovici 13. storočia až a roku 1320` → `začal upadať v druhej polovici 13. storočia až do roku 1320` | preklep predložky (a → do) |
 
 ## Ostatné
 - **komentáre:** 0
 - **text tela:** 6168 znakov (922 slov)
+- **pokrytie textu vs originál:** 99.65% (mimo: orgoň, 2024)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

@@ -1,0 +1,29 @@
+{
+  "slug": "spisske-tomasovce",
+  "flags": [
+    {
+      "category": "MISSING_WORD",
+      "block": 22,
+      "excerpt": "Dobu po zániku valu indikuje ostroha s trojuholníkovitými pochádzajúca z hornej vrstvy nad deštrukciou valu.",
+      "description": "Za 'trojuholníkovitými' chýba podstatné meno v inštrumentáli (napr. 'ramenami' — ostrohy s trojuholníkovitými ramenami sú bežný archeologický typ), inak veta gramaticky nedáva zmysel ('ostroha s trojuholníkovitými pochádzajúca'). NEDOPĹŇANÉ — chýbajúce slovo nie je nikde inde v článku doslovne uvedené, takže by šlo o vymyslenie textu (§21.6 bod 1), preto ponechané ako FLAG na ľudské doplnenie zo zdroja (Šalkovský 2006)."
+    },
+    {
+      "category": "COUNT_MISMATCH",
+      "block": 12,
+      "excerpt": "Z územia Slovenska je publikovaných 14 takýchto lokalít — Pobedim, Mužla, Bratislava-Devínska Nová Ves (Na pieskoch a Nad lomom), Bratislava-Hrad, Jur pri Bratislave, Tlmače, Hronský Beňadik (...), Nitra-Hrad (val I a II), Nitra-Martinský vrch, Bojná, Majcichov, Detva.",
+      "description": "Text tvrdí 14 lokalít, ale vymenovaných je najviac 12–13 položiek (aj keď sa 'Na pieskoch'/'Nad lomom' počítajú ako 2 samostatné lokality). keyFacts ('Regionálny kontext') opakuje rovnaké číslo 14, takže nejde o cross-field nekonzistenciu, len o možnú chybu/neúplnosť v pôvodnom zozname zo zdroja. Neopravované — vecný spor, nie gramatika (§21.6 bod 3)."
+    },
+    {
+      "category": "STRUCTURAL — cudzojazyčný blok v tele",
+      "block": 23,
+      "excerpt": "[...] \\n \\n \\n English: \\nHillfort I - Spisske Tomasovce \\n \\n A second colonization of the Spis by the Slavs took place in the 7th - 8 century. [...] Fotogaléria od Kvetky M.: \\n",
+      "description": "Posledný rich-text blok obsahuje po slovenskom texte kompletný anglický preklad celého článku (cca 500 slov), zjavne omylom ponechaný v tele namiesto samostatnej sekcie/prílohy pri extrakcii z Bloggeru. V content.sources je navyše osamotená položka 'Anglický preklad prevzatý z:' bez URL (pozri EMPTY_COLON nižšie) — naznačuje, že zdroj prekladu sa mal uviesť, ale chýba. Anglický text NEBOL gramaticky upravovaný (mimo rozsahu slovenského korektora) ani vymazaný (§21.6 bod 4 — nemazať bez zdokumentovania diffu) — ponechaný nedotknutý a nahlásený na rozhodnutie: buď ho presunúť/odstrániť z tela, alebo ho ponechať ako bilingválnu prílohu."
+    },
+    {
+      "category": "EMPTY_COLON",
+      "block": "content.sources item 5 / citations item 6",
+      "excerpt": "Anglický preklad prevzatý z:",
+      "description": "Riadok končí dvojbodkou bez nasledujúceho obsahu/URL (url: null) — zdroj anglického prekladu (viď blok 23 vyššie) sa nedochoval. Ponechané nezmenené, nahlásené."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Knihy o Slovanoch' (2018-11). FLAG [11]: sploštený zoznam kníh bez zalomení (zlepené názvy) — na ručnú úpravu.",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "Treba uznať že na našom",
+      "after": "Treba uznať, že na našom",
+      "reason": "čiarka pred že (A1)"
+    },
+    {
+      "hint": 0,
+      "before": "ako \"skutočné dejiny Slovanov\"",
+      "after": "ako „skutočné dejiny Slovanov“",
+      "reason": "slovenské úvodzovky (B)"
+    },
+    {
+      "hint": 1,
+      "before": "Žiaľ mnohé z nich",
+      "after": "Žiaľ, mnohé z nich",
+      "reason": "čiarka po vsuvke Žiaľ (A1)"
+    }
+  ]
+}

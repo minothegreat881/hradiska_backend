@@ -1,0 +1,143 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-povest-modlatin.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-537324529690973556",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/10/povest-modlatin.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/537324529690973556/comments/default",
+    "extractedAt": "2026-07-16T17:10:52.161Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Povesť - Modľatín",
+    "slug": "povest-modlatin",
+    "excerpt": "V horách Papradna a Marikovej je jeden 957 m vysoký kopec Kýčera, ktorý Maríkovci nazývajú Orgoňovou Kýčerou. Dolu pod ňou zo severnej strany sa rozkladá dolina Modľatín (Modľacín), s osadami drevených domkov - kedysi bačovov, dnes prebudovaných na…",
+    "authorName": "Čendo Žrec",
+    "publishedAt": "2011-10-31T10:22:00.000+01:00",
+    "originalPublishedDate": "2011-10-31T10:22:00.000+01:00",
+    "updatedAt": "2011-10-31T10:22:03.325+01:00",
+    "readingTime": 2,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [
+      "Povesť - Modľatín"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Zápis povesti",
+        "value": "Rozprával Santus, podal M. Portášík, zapísal Štefan Meliš",
+        "icon": "book"
+      },
+      {
+        "label": "Lokalita",
+        "value": "Dolina Modľatín pod Orgoňovou Kýčerou (957 m), Papradnianska dolina",
+        "icon": "map"
+      },
+      {
+        "label": "Motív",
+        "value": "Pôvod názvu Modľatín – pohanské spaľovanie mŕtvych na vrchu Žiar",
+        "icon": "fire"
+      },
+      {
+        "label": "Zdroj",
+        "value": "Časopis Polazník",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "pred príchodom kresťanstva",
+        "title": "Pohanské pohreby na vrchu Žiar",
+        "description": "Pohania spaľovali mŕtvych na vrchu, ktorý pre žiariace vatry nazvali Žiarom, a chodili sa za nich modliť na miesto, ktoré tak dostalo meno Modľatín.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V horách Papradna a Marikovej je jeden 957 m vysoký kopec Kýčera, ktorý Maríkovci nazývajú Orgoňovou Kýčerou. Dolu pod ňou zo severnej strany sa rozkladá dolina Modľatín (Modľacín), s osadami drevených domkov - kedysi bačovov, dnes prebudovaných na chatky. Dolinou preteká Modľatínsky potok, ktorý zberá všetky menšie potôčiky a jarčeky. Pri osade Majer vteká do Papradňanky. Okolitá príroda je prekrásna, lúky plné kvitnúcich kvetov a hlavne hlboké hory, voňajúce a zdravím dýchajúce. Na strmej stráni Kýčery sa nachádza veľmi starý les, takmer prales s mohutnými stromami. Sú to hlavne buky, ktoré zub času a časté víchrice poznačili. Les od pradávna nazývajú Starákom, lebo v ňom bola vždy stará hora, ktorej sa ľudia vyhýbali. Z hory, dolu strmým svahom tečie bystrý potok zvaný Starákový. Pomedzi korene stromov, až po tvrdé skaly si vyryl rokľu a vytvoril tak prekrásnu scenériu - v dĺžke cca 100 m samé pereje a vodopády. A hoci potok nie je veľký, i s tým málom čistej vody sú jeho vodopády očarujúce. Zvlášť na niektorých miestach a hlavne na jar, keď sa topí sneh. Staré povesti hovoria, že vedľa Starákového potoka je diera - vchod do kamennej pivnice, v ktorej je ukrytý zbojnícky poklad."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Povesť o pôvode názvu Modľatín hovorí (rozprával starý Santus, podal M. Portášík, zapísal Štefan Meliš):"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.quote-block",
+        "text": "Bolo to dávno, pradávno, keď u nás ešte neboli kresťania. Žili tu pohania, ktorí mali rôznych bohov, uctievali si ich a klaňali sa im. Aj svojich mŕtvych pochovávali ináč ako dnes. Vyniesli ich až na samý vrch vysokého kopca, nakládli kopu dreva a na ňu nebožtíka položili. Ba ešte ho aj obložili drevom a potom podpálili. Naložené horiace vatry žiarili doďaleka a preto tento kopec pomenovali Žiar. Za pochovaných - spálených mŕtvych sa chodili modliť na miesto, ktoré podľa toho dostalo meno Modľatín.",
+        "author": "Santus",
+        "source": "podal M. Portášík, zapísal Štefan Meliš (Polazník)"
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kto vie – možno raz, keď na miesto zavítajú archeológovia a „kopnú“ na tých správnych miestach, možno objavia aj pozostatky oných modiel, ku ktorým sa naši predkovia po stáročia obracali."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Polazník",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

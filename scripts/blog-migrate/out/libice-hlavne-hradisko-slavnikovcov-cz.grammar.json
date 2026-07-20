@@ -1,0 +1,14 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Libice, 13.7.2026. Bloky 0-5 sú v ČEŠTINE (citovaný text) — gramatika ponechaná bez zásahu, len mechanický artefakt. Bloky 7-17 sú slovenské (autorský komentár) — plná kontrola.",
+  "corrections": [
+    { "hint": 5, "before": "; Z hlediska", "after": "Z hlediska", "reason": "nadbytočná úvodná bodkočiarka (mechanický artefakt)" },
+    { "hint": 8, "before": "Kto boli Slávnikovci? Zrejme", "after": "Kto boli Slavníkovci? Zrejme", "reason": "preklep, chránený tvar Slavníkovci" },
+    { "hint": 8, "before": "rod Slávnikovcov a ich tragický", "after": "rod Slavníkovcov a ich tragický", "reason": "preklep, chránený tvar Slavníkovci" },
+    { "hint": 8, "before": "spoločný Česko-Slovenský dejepis vôbec nepoznajú", "after": "spoločný Česko-Slovenský dejepis, vôbec nepoznajú", "reason": "chýbajúca čiarka medzi vzťažnou a hlavnou vetou" },
+    { "hint": 11, "before": "Vzostup rodu Slávnikovcov začal", "after": "Vzostup rodu Slavníkovcov začal", "reason": "preklep, chránený tvar Slavníkovci" },
+    { "hint": 11, "before": "biskupa Vojtecha – z rodu Slávnikovcov.", "after": "biskupa Vojtecha – z rodu Slavníkovcov.", "reason": "preklep, chránený tvar Slavníkovci" },
+    { "hint": 12, "before": "Táto \"kokurencia\" nebola", "after": "Táto \"konkurencia\" nebola", "reason": "preklep" },
+    { "hint": 17, "before": "Vojtěch a Soběbor, dožili", "after": "Vojtech a Soběbor, dožili", "reason": "slovenský tvar (bez ě), konzistentne s 'Vojtecha' v bloku 11" },
+    { "hint": 17, "before": "v azyle Boleslava chrabrého", "after": "v azyle Boleslava Chrabrého", "reason": "prídomok veľkým, konzistentne s 'Boleslav Chrabrý' v tom istom bloku" }
+  ]
+}

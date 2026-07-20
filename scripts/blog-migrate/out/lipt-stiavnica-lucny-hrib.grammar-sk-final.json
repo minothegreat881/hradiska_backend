@@ -1,0 +1,25 @@
+{
+  "slug": "lipt-stiavnica-lucny-hrib",
+  "note": "grammar-sk finálny audit — pass1 draft aplikovaný priamo do intermediate.json (14 -> 11 blokov po odstránení duplicitnej bibliografie) + fresh pass 2 (cross-field, bez ďalších nálezov).",
+  "criticalFixesApplied": [
+    "Bloky 9, 10, 11 (doslovné duplicity existujúcich content.sources items 0-3: Furman 2016, Pieta 1970, Pieta 1972, Struhár 2009) odstránené z tela.",
+    "Blok 8 ('Foto (and special thanks to): Víťazoslav Struhár    Literatúra:') zbavený osirotenej návestí 'Literatúra:' po odstránení nasledujúcich duplicitných blokov.",
+    "content.sources items opravené: 'K.Pieta'->'K. Pieta' (2×), 'n:'->'In:' (OCR chyba, chýbajúce 'I'), 'In Ružomberský'->'In: Ružomberský' (chýbajúca dvojbodka), 'Ružomberok :'->'Ružomberok:' (nadbytočná medzera), číselné rozsahy '1965-1968'->'1965 – 1968', '101-120'->'101–120', '9-12. storočí'->'9. – 12. storočí', '67-82'->'67–82'."
+  ],
+  "appliedFixes": [
+    { "rule": "B typografia (zjednotenie úvodzoviek s korpusom)", "before": "slovného základu \"hrb\" ... vo význame \"výrazný kopec\"", "after": "slovného základu „hrb\" ... vo význame „výrazný kopec\"", "block": 0 },
+    { "rule": "A3/A4 zhoda vzťažného zámena", "before": "naši predkovia, ktorý ho neskôr opevnili", "after": "naši predkovia, ktorí ho neskôr opevnili", "block": 1 },
+    { "rule": "A1 nadbytočná čiarka (podmet-prísudok)", "before": "skúmaní lokality Karolom Pietom, sa našli", "after": "skúmaní lokality Karolom Pietom sa našli", "block": 4 },
+    { "rule": "A3 zhoda podmetu s prísudkom (zložený podmet)", "before": "Vrstva aj keramika tu nájdená nesie stopy", "after": "Vrstva aj keramika tu nájdená nesú stopy", "block": 4 }
+  ],
+  "crossFieldPass2": [
+    "timeline[0] a timeline[1] mali už opravené tvary ('ktorí', 'niesli', 'sa našli') — bez zmien potrebných",
+    "keyFacts, excerpt, title, tags, gallery captions — bez výskytu opravovaných foriem"
+  ],
+  "skippedNoChange": [
+    "'M. Furman: OPEVNENIA NA LIPTOVE...' ponechané celé veľkými písmenami — verná transkripcia dobovej obálky knihy",
+    "'(and special thanks to)' (blok 8) — anglická vsuvka, autorov vlastný štýl, nie chyba"
+  ],
+  "flagsResolved": [],
+  "unresolvedReviewNeeded": false
+}

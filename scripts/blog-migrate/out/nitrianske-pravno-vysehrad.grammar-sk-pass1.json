@@ -1,0 +1,32 @@
+{
+  "slug": "nitrianske-pravno-jasenovo-vysehrad",
+  "note": "grammar-sk agent, prvý prechod. 57 blokov, viacero vrstiev textu: moderný text (Remiášová/narátor), neoznačený Janšákov opis 1928 (prevedený na quote-block), Peticov citát 1929 (opravená len malformovaná štruktúra bloku 38), a dobové ľudové povesti (bloky 46-54, úplne protected zone).",
+  "criticalFixes": [
+    { "issue": "Blok 14 (uvedený v bloku 13 'Štefan Janšák v roku 1928 popísal hradisko nasledovne:') obsahoval Janšákov doslovný technický opis hradiska bez akéhokoľvek úvodzovkového označenia.", "fix": "Prevedený na content.quote-block (author='Štefan Janšák', source='Niektoré novoobjavené hradiská slovenské, 1928' — presne zodpovedá položke v Zdrojoch)." },
+    { "issue": "Blok 38 bol malformovaný content.quote-block obsahujúci iba '\"Slovenský župan na Vyšehrade.' — v skutočnosti ide o medzititulok VNÚTRI Peticovho článku, nie o samostatný citát; blok 39 (pokračovanie skutočného citátu) nemal vlastnú otváraciu úvodzovku, hoci blok 40 sa uzatváracou úvodzovkou správne končí.", "fix": "Blok 38 prevedený na bežný nadpis 'Slovenský župan na Vyšehrade' (rovnaký štýl ako ostatné medzititulky v článku). Otváracia úvodzovka doplnená na začiatok bloku 39, aby správne uzatvárala citát končiaci v bloku 40 (interpunkcia, nie obsah)." }
+  ],
+  "appliedFixes": [
+    { "rule": "B pomlčka + rozsah", "before": "obdobiach - Veľkej Moravy ... v 12.-14. storočí", "after": "obdobiach — Veľkej Moravy ... v 12. – 14. storočí", "block": 6 },
+    { "rule": "B typografia (hranaté zátvorky -> okrúhle, násobenie)", "before": "tvarom [60X40 m]", "after": "tvarom (60 × 40 m)", "block": 7 },
+    { "rule": "B násobenie", "before": "rozmermi 23X50 m", "after": "rozmermi 23 × 50 m", "block": 10 },
+    { "rule": "B typografia (zjednotenie úvodzoviek)", "before": "uvádza, že \"Poznanovci ... Vyšehrade\".", "after": "uvádza, že „Poznanovci ... Vyšehrade\".", "block": 16 },
+    { "rule": "B rozsah (em dash -> en dash, zjednotenie so site konvenciou)", "before": "zastúpené 13.—15. storočie", "after": "zastúpené 13. – 15. storočie", "block": 21 },
+    { "rule": "B typografia (preklep číslica/písmeno, opakovane v korpuse)", "before": "p. n. 1., okolo roku 700 p. n. 1.", "after": "p. n. l., okolo roku 700 p. n. l.", "block": 26 },
+    { "rule": "B rozsah + A9 malé písmeno v zozname", "before": "V 12.—14. storočí ... predmety dennej potreby, Časti jazdeckého ... Belo IV. (1235—1270)", "after": "V 12. – 14. storočí ... predmety dennej potreby, časti jazdeckého ... Belo IV. (1235 – 1270)", "block": 30 },
+    { "rule": "OCR artefakt (stratený znak) + B rozsah", "before": "nebezpečným svetské­mu i božskému ... v rokoch 1458—1467", "after": "nebezpečným svetskému i božskému ... v rokoch 1458 – 1467", "block": 32 },
+    { "rule": "A9 veľké písmeno + NUMBER_MISMATCH storočia", "before": "vyšehradu ... koncom 20. rokov 19. storočia", "after": "Vyšehradu ... koncom 20. rokov 20. storočia", "block": 34, "note": "vysoká istota — Peticov článok je z roku 1929 (uvedené v tej istej vete a v Zdrojoch), takže '19. storočia' bola zjavná chyba" },
+    { "rule": "B rozsah (v protected-zone citáte, len typografia)", "before": "hrad pochádza z IX.—XI. storočia", "after": "hrad pochádza z IX. – XI. storočia", "block": 36 },
+    { "rule": "A9 veľké písmeno + B rozsah", "before": "Pieseň o vyšehrade ... vpádu na Slovensko (1241-1242):", "after": "Pieseň o Vyšehrade ... vpádu na Slovensko (1241 – 1242):", "block": 43 },
+    { "rule": "OCR preklep (v protected-zone Janšákovom citáte, len typografia)", "before": "prispôsbujúc sa nerovnostiam", "after": "prispôsobujúc sa nerovnostiam", "block": 14 },
+    { "rule": "Sources: medzera pred dvojbodkou + rozsahy strán", "before": "M. : Hradisko ... s. 13-29 ... AVANS 1974-1978", "after": "M.: Hradisko ... s. 13–29 ... AVANS 1974–1978", "block": "sources" }
+  ],
+  "reviewed_no_change": [
+    "Povesti (bloky 46, 48-54) — dobová ľudová próza s nárečovými/predreformnými tvarmi ('trpělivost', 'shŕňala', 'Zpopod', 'čolenkoľvek') — úplne protected zone, nedotknuté.",
+    "Blok 14 (teraz quote-block) — Orgoňova vsuvka '(pozn. Orgoň: archeológovia v 70. rokoch už nespomínajú val...)' vnútri Janšákovho citátu — explicitne označená ako editorská poznámka (na rozdiel od problematického prípadu v Dražovciach), ponechaná."
+  ],
+  "flags": [
+    "Blok 49: '...videli túža bielu pannu na klomce...' — slovo 'túža' pôsobí ako možný OCR artefakt (nezapadá gramaticky ani ako zjavný nárečový tvar), ale vzhľadom na to, že ide o protected-zone ľudovú povesť, NEOPRAVENÉ bez vyššej istoty.",
+    "Zdroje položka 4 uvádza rok '1928' pri Peticovom článku, zatiaľ čo telo článku (bloky 34, 42) dôsledne 2× uvádza rok 1929. Nevedno, ktorý je správny — NEOPRAVENÉ, iba nahlásené.",
+    "Blok 54 končí vetou '...Radovala sa, lebo mala i zlato i muža.\" Nový článok o hradisku:' — táto posledná fráza pôsobí ako osirotený prechod na ďalší (chýbajúci) obsah, po ktorom nasleduje už iba obrázok bez popisu a Zdroje. Ponechané bez zásahu, keďže nejde o jasnú gramatickú chybu."
+  ]
+}

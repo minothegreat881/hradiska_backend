@@ -1,0 +1,159 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2014-04-blog-post.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-9195473118969593052",
+    "bloggerPostUrl": "http://www.hradiska.sk/2014/04/blog-post.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/9195473118969593052/comments/default",
+    "extractedAt": "2026-07-18T11:21:08.453Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [
+      "Vážení milovníci dějin, šermu a řemesel,dovolujeme si Vás sr"
+    ],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Historický festival – pozvánka (LH)",
+    "slug": "historicky-festival-pozvanka-lh-2014",
+    "excerpt": "Vážení milovníci dějin, šermu a řemesel,dovolujeme si Vás srdečně pozvat k účasti na třetím ročníku našeho historického festivalu.",
+    "authorName": "Orgon",
+    "publishedAt": "2014-04-24T21:22:00.002+02:00",
+    "originalPublishedDate": "2014-04-24T21:22:00.002+02:00",
+    "updatedAt": "2014-04-24T21:33:44.663+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwWFP_AXitgzdk9FOsYg2HP6sKbY0oLQd7z8XIZmHZza7TiwteORfRLRabvWH3Q2lQBXmfJG7nA02v1PUZ0IaCFSSxztWayuQD-pGUDfqHwD5Uy47WRDdziyi6WkQLhikNo_otnPtNV5A/s0/letak_web-historie.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwWFP_AXitgzdk9FOsYg2HP6sKbY0oLQd7z8XIZmHZza7TiwteORfRLRabvWH3Q2lQBXmfJG7nA02v1PUZ0IaCFSSxztWayuQD-pGUDfqHwD5Uy47WRDdziyi6WkQLhikNo_otnPtNV5A/s1600/letak_web-historie.png",
+        "filename": "letak_web-historie.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwWFP_AXitgzdk9FOsYg2HP6sKbY0oLQd7z8XIZmHZza7TiwteORfRLRabvWH3Q2lQBXmfJG7nA02v1PUZ0IaCFSSxztWayuQD-pGUDfqHwD5Uy47WRDdziyi6WkQLhikNo_otnPtNV5A/s1600/letak_web-historie.png",
+          "displayedWidth": 230,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.quote-block",
+        "text": "Vážení milovníci dějin, šermu a řemesel,dovolujeme si Vás srdečně pozvat k účasti na třetím ročníku našeho historického festivalu."
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Letos se můžete těšit na líté a skutečně tvrdé souboje, exotické tance, hudební vystoupení a jedinečnou ohňovou show.\n \n "
+              },
+              {
+                "type": "text",
+                "text": "O víkendu 3. a 4. května se v našem areálu představí tyto skupiny:",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n \n Za boje a šerm:\n Klub středověkého kontaktního boje\n Memento Mori\n Nos Omnis\n Nuntius Regis\n Roma Victor Legio XIII Gemina Augusta\n Ruská systema\n Vae Victis\n Velkomoravané\n Zlínská šermířská společnost\n \n "
+              },
+              {
+                "type": "text",
+                "text": "Ukázka sokolnictví:",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n SOFH\n \n "
+              },
+              {
+                "type": "text",
+                "text": "Za tance:",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n Angel´s tribe\n \n "
+              },
+              {
+                "type": "text",
+                "text": "Za hudbu:",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n Marna to snaha\n Žiarislav s kapelou\n \n "
+              },
+              {
+                "type": "text",
+                "text": "Ohňová show v podání:",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n Boca Fuego\n \n "
+              },
+              {
+                "type": "text",
+                "text": "Přednášky:",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n sobota: PhDr. Jiří Starý Ph. D.\n neděle: Jiří Jilík\n \n "
+              },
+              {
+                "type": "text",
+                "text": "Akce začíná:",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n v sobotu v 9:00 do temných nočních hodin\n v neděli 9:00 do 16:00\n "
+              },
+              {
+                "type": "text",
+                "text": "\nVstupné na místě:",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n základní 80,-\n snížené 40,- (děti 6- 15 let, ZTP)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

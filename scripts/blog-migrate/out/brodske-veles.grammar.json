@@ -1,0 +1,36 @@
+{
+  "_note": "5 opráv aplikovaných, 0 cross-node preskočených, 0 nenájdených v dumpe (možná halucinácia)",
+  "corrections": [
+    {
+      "block": "?",
+      "before": "Slovensko vo všasnoslovanskom období",
+      "after": "Slovensko vo včasnoslovanskom období",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "Lenže osídlenie tejto oblasti poznáme iba so susedných Kútov",
+      "after": "Lenže osídlenie tejto oblasti poznáme iba zo susedných Kútov",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "bez historických, či archeologických dokladov",
+      "after": "bez historických či archeologických dokladov",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "v Skalici, v Brodskom, či Kopčanoch",
+      "after": "v Skalici, v Brodskom či Kopčanoch",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "ktorý stavia na staršej obecnej pečati sú vyobrazení",
+      "after": "ktorý stavia na staršej obecnej pečati, sú vyobrazení",
+      "reason": "gramatika/pravopis"
+    }
+  ],
+  "skippedNotFound": []
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "dolne-vestenice-slovanske-hradisko",
+  "note": "grammar-sk agent, prvý plný vetný prechod (článok mal predtým iba starú pre-v7 preklepovú úpravu). Krátky článok (5 rich-text blokov + 1 bibliografický blok), žiadne dobové/priame citáty, žiadne protected zones.",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "A8 diakritika (skratka)", "before": "AU SAV", "after": "AÚ SAV", "block": "excerpt, blok 0, keyFacts 'Archeologický výskum', timeline 'Objavenie hradiska archeológmi'", "note": "4 výskyty naprieč celým článkom, konzistentne opravené všade (Archeologický ústav SAV)" },
+    { "rule": "B typografia (číselný rozsah)", "before": "z 9.-10. stor.", "after": "z 9. – 10. stor.", "block": 1, "note": "aj timeline (year + description)" },
+    { "rule": "A3 zhoda podmet-prísudok (dvojnásobný podmet)", "before": "príčinou... bola... nepokojná doba a potreba zabezpečenia", "after": "príčinou... boli... nepokojná doba a potreba zabezpečenia", "block": "Pri úpätí hradiska aj v širšom okolí..." },
+    { "rule": "A9/typografia (konzistencia popisiek)", "before": "\"val z vnútornej strany, vpravo zrejme pôvodný vstup\"", "after": "\"Val z vnútornej strany, vpravo zrejme pôvodný vstup\"", "block": "gallery caption (brana.jpg)", "note": "zjednotené s veľkým začiatočným písmenom ako všetky ostatné popisky v článku" },
+    { "rule": "B typografia (číselný rozsah rokov)", "before": "VÝSKUMY V ROKOCH 2007–2013", "after": "VÝSKUMY V ROKOCH 2007 – 2013", "block": "Literatúra" }
+  ],
+  "reviewed_no_change": [
+    "'Uhrovského Podhradia' — oficiálny názov obce (Uhrovské Podhradie), obe slová veľkým správne, nie generický opis.",
+    "ALL CAPS text v bibliografickom bloku 'Literatúra' — ponechaný ako pôvodný štylistický formát zdroja, nie gramatická chyba.",
+    "keyFacts hodnoty (malé písmeno na začiatku) — konzistentný vzor fragmentov v celom článku, nie plné vety, nedotknuté.",
+    "'ktoré je v oblasti hornej Nitry doložené' — mierne nejednoznačný odkaz zámena (zhoda s najbližším 'bohatstva' vs. celý výpočet), ponechané bez zásahu, príliš jemné na isté rozhodnutie."
+  ],
+  "flags": [
+    "Pozri out/dolne-vestenice-slovanske-hradisko.review.json — RELATIVE_DATE ('pred niekoľkými rokmi'/'posledné roky'), CERTAINTY_LOST (telo 'by mohla naznačovať' vs. timeline 'naznačuje'), BIBLIO_IN_BODY (blok 'Literatúra' mimo content.sources, citations[] prázdne)."
+  ]
+}

@@ -208,20 +208,20 @@
               {
                 "type": "text",
                 "text": "Libice, hlavní hradiště Slavníkovců, jednoho z nejmocnějších rodů v Čechách v období raného středověku, bylo centrem většího teritoria, které Slavníkovci ovládali ve východních Čechách. Nacházelo se na vyvýšenině nedaleko soutoku Labe s Cidlinou. Libice ovšem nebyla pouze sídlem knížecího rodu a správním centrem knížectví, ale také místem ražby slavníkovských denárů.\n \n "
-              },
-              {
-                "type": "link",
-                "url": "http://www.slovane.cz/foto/hrad/libice/libice02.jpg",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": ""
-                  }
-                ]
-              },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
               {
                 "type": "text",
-                "text": " Prostor předhradí pozdějšího slavníkovského hradiště byl osídlen už v mladší době bronzové. Archeologické nálezy prokázaly existenci lidu kultury mohylové, lužické a knovízské, ale z východního cípu předhradí pocházejí také nálezy z doby římské. Po krátkém přechodném období se v 6. století na Libici usadilo slovanské obyvatelstvo a přineslo s sebou keramiku pražského typu. V průběhu 8. století prokazatelně došlo k nárůstu populace a v 9. století zde již stálo dobře opevněné hradiště. Byly zjištěny dvě fáze opevnění. Starší opevnění bylo tvořeno hliněnou hradbou s roštem a vnější kamennou zdí. Ve druhé fázi byla postavena hradba se třemi řadami komor o šířce 4,5m a vnitřní i vnější hradební zeď byla vystavěna z opuky. Před hradbou probíhal široký příkop. První konkrétní zmínku o Slavníkovcích máme v Kosmově kronice k roku 981, kdy údajně zemřel kníže Slavník. Po celé slavníkovské období bylo předhradí hustě osídleno a stával zde také kostel Panny Marie s malým pohřebištěm okolo. Později dostal gotickou podobu a v letech 1774 – 1777 byl vrcholně barokně přestavěn. V souvislosti s josefínskými reformami byl ale zrušen a dnes slouží jako fara. V jihovýchodní části předhradí byla odkryta další stavba, pravděpodobně kněžský dům, a v místech dnešního hřbitovního kostela sv. Vojtěcha zřejmě stával již v 10. století kostel zasvěcený sv. Bonifácovi. \n \n "
+                "text": " Prostor předhradí pozdějšího slavníkovského hradiště byl osídlen už v mladší době bronzové. Archeologické nálezy prokázaly existenci lidu kultury mohylové, lužické a knovízské, ale z východního cípu předhradí pocházejí také nálezy z doby římské. Po krátkém přechodném období se v 6. století na Libici usadilo slovanské obyvatelstvo a přineslo s sebou keramiku pražského typu. V průběhu 8. století prokazatelně došlo k nárůstu populace a v 9. století zde již stálo dobře opevněné hradiště. Byly zjištěny dvě fáze opevnění. Starší opevnění bylo tvořeno hliněnou hradbou s roštem a vnější kamennou zdí. Ve druhé fázi byla postavena hradba se třemi řadami komor o šířce 4,5 m a vnitřní i vnější hradební zeď byla vystavěna z opuky. Před hradbou probíhal široký příkop. První konkrétní zmínku o Slavníkovcích máme v Kosmově kronice k roku 981, kdy údajně zemřel kníže Slavník. Po celé slavníkovské období bylo předhradí hustě osídleno a stával zde také kostel Panny Marie s malým pohřebištěm okolo. Později dostal gotickou podobu a v letech 1774 – 1777 byl vrcholně barokně přestavěn. V souvislosti s josefínskými reformami byl ale zrušen a dnes slouží jako fara. V jihovýchodní části předhradí byla odkryta další stavba, pravděpodobně kněžský dům, a v místech dnešního hřbitovního kostela sv. Vojtěcha zřejmě stával již v 10. století kostel zasvěcený sv. Bonifácovi. \n \n "
               }
             ]
           }
@@ -257,12 +257,13 @@
         },
         "alt": "Libice - hlavné hradisko Slávnikovcov (CZ)",
         "caption": "",
-        "position": "center",
+        "position": "left",
         "showCaption": false,
         "width": "60",
         "aspectRatio": "auto",
         "rounded": true,
-        "shadow": true
+        "shadow": true,
+        "pairWithNext": true
       },
       {
         "__component": "content.rich-text",
@@ -271,18 +272,8 @@
             "type": "paragraph",
             "children": [
               {
-                "type": "link",
-                "url": "http://www.slovane.cz/foto/hrad/libice/libice01.jpg",
-                "children": [
-                  {
-                    "type": "text",
-                    "text": ""
-                  }
-                ]
-              },
-              {
                 "type": "text",
-                "text": " Libice je v centru pozornosti badatelů už od 16. století. Odborné výzkumy prováděl na konci 19. století Josef Ladislav Píč a později Jan Hellich. V letech 1949-1953 byl dr. Rudolfem Turkem z Národního muzea proveden detailní archeologický průzkum lokality, při němž byly odkryty nejen zbytky staveb, ale také mnohé velice hodnotné předměty, které dokládají velmi vysokou kulturní úroveň obyvatel slavníkovského hradiště. Drobné předměty, které se zachovaly i přes násilnou destrukci prostoru, dokumentují čilé obchodní styky Libice nejen s celou oblastí Čech, ale i s Velkou Moravou a objevily se dokonce i importy z prostředí vikingského, karolinského a balkánského. Nálezy vykreslují Libici druhé poloviny 10. století jako kvetoucí, prosperující hradiště, centrum obchodu, kultury a církevního života. "
+                "text": " Libice je v centru pozornosti badatelů už od 16. století. Odborné výzkumy prováděl na konci 19. století Josef Ladislav Píč a později Jan Hellich. V letech 1949 – 1953 byl dr. Rudolfem Turkem z Národního muzea proveden detailní archeologický průzkum lokality, při němž byly odkryty nejen zbytky staveb, ale také mnohé velice hodnotné předměty, které dokládají velmi vysokou kulturní úroveň obyvatel slavníkovského hradiště. Drobné předměty, které se zachovaly i přes násilnou destrukci prostoru, dokumentují čilé obchodní styky Libice nejen s celou oblastí Čech, ale i s Velkou Moravou a objevily se dokonce i importy z prostředí vikingského, karolinského a balkánského. Nálezy vykreslují Libici druhé poloviny 10. století jako kvetoucí, prosperující hradiště, centrum obchodu, kultury a církevního života. "
               }
             ]
           }
@@ -310,7 +301,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "; Z hlediska památkové péče je v dané lokalitě prvořadým úkolem zajištění archeologického naleziště v prostoru akropole a zamezení nežádoucích zásahů do podkladových vrstev terénu předhradí (obec Libice). "
+                "text": "Z hlediska památkové péče je v dané lokalitě prvořadým úkolem zajištění archeologického naleziště v prostoru akropole a zamezení nežádoucích zásahů do podkladových vrstev terénu předhradí (obec Libice). "
               }
             ]
           }
@@ -362,7 +353,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Kto boli Slávnikovci? Zrejme predovšetkým tí neskôr narodení, ktorí už nemali v škole spoločný Česko-Slovenský dejepis vôbec nepoznajú rod Slávnikovcov a ich tragický osud pri upevňovaní ranofeudálneho Českého štátu. Preto si dovolím stručný exkurz do tohto mierne obskúrneho obdobia v dejinách Přemyslovcov a priblížime si jeden z najväčších a najstarších masakrov v Českých dejinách, ktorý v konečnom dôsledku prispel k upevneniu moci rodu Přemyslovcov."
+                "text": "Kto boli Slavníkovci? Zrejme predovšetkým tí neskôr narodení, ktorí už nemali v škole spoločný česko-slovenský dejepis, vôbec nepoznajú rod Slavníkovcov a ich tragický osud pri upevňovaní ranofeudálneho českého štátu. Preto si dovolím stručný exkurz do tohto mierne obskúrneho obdobia v dejinách Přemyslovcov a priblížim si jeden z najväčších a najstarších masakrov v českých dejinách, ktorý v konečnom dôsledku prispel k upevneniu moci rodu Přemyslovcov."
               }
             ]
           }
@@ -387,7 +378,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Najskôr je potrebné osvetliť situáciu vo vtedajších kniežacích Čechách. Po smrti svätého Václava sa vlády ujal jeho brat Boleslav I. Tým sa začala éra vzostupu kniežatstva. Boleslav sa dokázal vymaniť z područia Franskej ríše, stal sa jej partnerom (\"pomoc\" v bitke pri Lechu 955). Český štát sa stal významnou mocnosťou strednej Európy, potom čo sa podarilo obsadiť Sliezsko, Krakovsko a preniknúť až k terajším hraniciam Bieloruska. V týchto oblastiach dával knieža \"chytať\" obyvateľstvo, ktoré neskôr bolo predávané ako otroci v Prahe. Navyše tadiaľ viedla diaľková kupecká cesta a jej kontrolou Přemyslovci nadobúdali tiež zisky. Väčšinu peňazí z predaja dostalo kniežacie vojsko, ktorého velitelia boli rozosiati po celom území kniežatstva. Ako sa neskôr ukázalo, systém nebol príliš stabilný."
+                "text": "Najskôr je potrebné osvetliť situáciu vo vtedajších kniežacích Čechách. Po smrti svätého Václava sa vlády ujal jeho brat Boleslav I. Tým sa začala éra vzostupu kniežatstva. Boleslav sa dokázal vymaniť z područia Franskej ríše, stal sa jej partnerom („pomoc\" v bitke pri Lechu 955). Český štát sa stal významnou mocnosťou strednej Európy, potom čo sa podarilo obsadiť Sliezsko, Krakovsko a preniknúť až k terajším hraniciam Bieloruska. V týchto oblastiach dával knieža „chytať\" obyvateľstvo, ktoré neskôr bolo predávané ako otroci v Prahe. Navyše tadiaľ viedla diaľková kupecká cesta a jej kontrolou Přemyslovci nadobúdali tiež zisky. Väčšinu peňazí z predaja dostalo kniežacie vojsko, ktorého velitelia boli rozosiati po celom území kniežatstva. Ako sa neskôr ukázalo, systém nebol príliš stabilný."
               }
             ]
           }
@@ -401,7 +392,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Vzostup rodu Slávnikovcov začal v druhej polovici 10. storočia. Pred masakrom im patrila oblasť vo východných Čechách. Ich centrum bolo hradisko Libice nad Cidlinou. Bližšie neznámy sobáš potvrdzuje spätosť so Saskou cisárskou dynastiou. Dá sa predpokladať, že saská dynastie chcela mať v Slavníkovcoch českú protiváhu Přemyslovcom a je nutné povedať, že Slavníkovci určite neboli proti. Podarilo sa im presadiť do úradu pražského biskupa Vojtecha – z rodu Slávnikovcov. Vtedy sa už časy menili. Kniežaťom bol Boleslavov rovnomenný syn - Boleslav II. Za neho vzniklo pražské biskupstvo, ktorej prvým biskupom sa stal Sas znalý slovenských pomerov - Dětmar. Druhým biskupom sa stal z diplomatických dôvodov Slavníkovec Vojtech. Znepriateliť si Slavníkovcov by sa Přemyslovcom mohlo kruto nevyplatiť."
+                "text": "Vzostup rodu Slavníkovcov začal v druhej polovici 10. storočia. Pred masakrom im patrila oblasť vo východných Čechách. Ich centrum bolo hradisko Libice nad Cidlinou. Bližšie neznámy sobáš potvrdzuje spätosť so saskou cisárskou dynastiou. Dá sa predpokladať, že saská dynastia chcela mať v Slavníkovcoch českú protiváhu Přemyslovcom a je nutné povedať, že Slavníkovci určite neboli proti. Podarilo sa im presadiť do úradu pražského biskupa Vojtecha – z rodu Slavníkovcov. Vtedy sa už časy menili. Kniežaťom bol Boleslavov rovnomenný syn — Boleslav II. Za neho vzniklo pražské biskupstvo, ktorého prvým biskupom sa stal Sas znalý slovenských pomerov — Dětmar. Druhým biskupom sa stal z diplomatických dôvodov Slavníkovec Vojtech. Znepriateliť si Slavníkovcov by sa Přemyslovcom mohlo kruto nevyplatiť."
               }
             ]
           }
@@ -415,7 +406,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Násilný akt prebehol v roku 995. Vtedy bol Vojtech po nezhodách s kniežaťom už rok preč z Čiech. Napätie medzi vládnucimi Přemyslovci a ambicióznymi Slavníkovcami silnelo. Táto \"kokurencia\" nebola jediným dôvodom."
+                "text": "Násilný akt prebehol v roku 995. Vtedy bol Vojtech po nezhodách s kniežaťom už rok preč z Čiech. Napätie medzi vládnucimi Přemyslovcami a ambicióznymi Slavníkovcami silnelo. Táto „konkurencia\" nebola jediným dôvodom."
               }
             ]
           }
@@ -429,7 +420,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "V Čechách sa začínala prejavovať kríza. Kniežatstvo začalo strácať svoje dŕžavy nadobudnuté pred generáciou. Stratilo Malopoľsko, Krakov a okolo roku 990 (Poľskí bádatelia predpokladajú predchádzajúce desaťročia) Sliezsko. Klesali tak kniežacie príjmy, ktoré potom (ne) dostávali vojaci. Vojaci, ktorým sa podarilo uniknúť zo Sliezska situáciu tiež nezlepšili. Slabá ekonomika, založená na podmanených územiach, kniežacie vojsko nemohla vyživiť. Morálka bola tiež zlá. Drastický čin mohol zlepšiť narušenú morálku družiny a priniesť peniaze zo slavníkovského územia. Ďalším dôvodom boli mocenské ambície ďalšieho rodu, tentoraz Vršovcov."
+                "text": "V Čechách sa začínala prejavovať kríza. Kniežatstvo začalo strácať svoje dŕžavy nadobudnuté pred generáciou. Stratilo Malopoľsko, Krakov a okolo roku 990 (Poľskí bádatelia predpokladajú predchádzajúce desaťročia) Sliezsko. Klesali tak kniežacie príjmy, ktoré potom (ne) dostávali vojaci. Vojaci, ktorým sa podarilo uniknúť zo Sliezska, situáciu tiež nezlepšili. Slabá ekonomika, založená na podmanených územiach, kniežacie vojsko nemohla vyživiť. Morálka bola tiež zlá. Drastický čin mohol zlepšiť narušenú morálku družiny a priniesť peniaze zo slavníkovského územia. Ďalším dôvodom boli mocenské ambície ďalšieho rodu, tentoraz Vršovcov."
               }
             ]
           }
@@ -443,7 +434,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Šesťdesiatročný, ťažko chorý vládca aj z dôvodu silného tlaku ostatných veľmožov (a údajne aj v súvislosti so svojimi návalmi zúrivosti a pomätenia), vydal rozkaz k zničeniu Slavníkovcov. Každopádne dokonale využil situácie."
+                "text": "Šesťdesiatročný, ťažko chorý vládca aj z dôvodu silného tlaku ostatných veľmožov (a údajne aj v súvislosti so svojimi návalmi zúrivosti a pomätenia), vydal rozkaz na zničenie Slavníkovcov. Každopádne dokonale využil situáciu."
               }
             ]
           }
@@ -457,7 +448,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Nemecký cisár pripravoval výpravu proti pohanským Obodritom. Česi poslali dva kontingenty. Jeden poslali Přemyslovci, a viedol ho syn kniežaťa - Boleslav Ryšavý (neskôr knieža Boleslav III.). Druhý (Slavníkovský) viedol najstarší syn Slavníka, Soběbor. Sídlo Slavníkovcov - Libice, bolo bez skúsených bojovníkov len s malou posádkou. Tá bola vedená štyrmi bratmi. Boli to: Spytimír, Dobraslav, Porej, Čáslav."
+                "text": "Nemecký cisár pripravoval výpravu proti pohanským Obodritom. Česi poslali dva kontingenty. Jeden poslali Přemyslovci, a viedol ho syn kniežaťa — Boleslav Ryšavý (neskôr knieža Boleslav III.). Druhý (Slavníkovský) viedol najstarší syn Slavníka, Soběbor. Sídlo Slavníkovcov — Libice, bolo bez skúsených bojovníkov len s malou posádkou. Tá bola vedená štyrmi bratmi. Boli to: Spytimír, Dobraslav, Porej, Čáslav."
               }
             ]
           }
@@ -471,7 +462,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "27. 9. 995 začal pod vedením Vršovcov útok na Libice. Družina rozprášila okolitý ľud a obliehala Libice. Obrancovia chceli deň pred sviatkom svätého Václava nebojovať, ale útočníci im to nedovolili. Začal tuhý boj v ktorom, aj cez svoju odvahu, obrancovia nemali šancu. Museli sa uchýliť do kostola. Útočníci im dali nádej, že ich nechajú nažive. Akonáhle vyšli z kostola, boli všetci pobití vrátane žien a detí."
+                "text": "27. 9. 995 začal pod vedením Vršovcov útok na Libice. Družina rozprášila okolitý ľud a obliehala Libice. Obrancovia chceli deň pred sviatkom svätého Václava nebojovať, ale útočníci im to nedovolili. Začal tuhý boj, v ktorom, aj cez svoju odvahu, obrancovia nemali šancu. Museli sa uchýliť do kostola. Útočníci im dali nádej, že ich nechajú nažive. Akonáhle vyšli z kostola, boli všetci pobití vrátane žien a detí."
               }
             ]
           }
@@ -485,7 +476,7 @@
             "children": [
               {
                 "type": "text",
-                "text": "Jediní dvaja Slavníkovci, ktorí prežili - Vojtěch a Soběbor, dožili v Poľsku v azyle Boleslava chrabrého. Libice boli venované Vršovcom, ale tých v roku 1108 stihol rovnaký osud. Boli tiež vyvraždení. Smrťou Boleslava II. (999) začala v kniežatstve kríza, pri ktorej sa niekoľkokrát vystriedal panovník. Moravu dobyl poľský panovník Boleslav Chrabrý (na chvíľu sa stal i kniežaťom Čiech), držal ju do roku 1019."
+                "text": "Jediní dvaja Slavníkovci, ktorí prežili — Vojtech a Soběbor, dožili v Poľsku v azyle Boleslava Chrabrého. Libice boli venované Vršovcom, ale tých v roku 1108 stihol rovnaký osud. Boli tiež vyvraždení. Smrťou Boleslava II. (999) začala v kniežatstve kríza, pri ktorej sa niekoľkokrát vystriedal panovník. Moravu dobyl poľský panovník Boleslav Chrabrý (na chvíľu sa stal i kniežaťom Čiech), držal ju do roku 1019."
               }
             ]
           }
@@ -502,10 +493,6 @@
           },
           {
             "text": "Článok prevzatý z výbornej stránky Slovane.cz",
-            "url": null
-          },
-          {
-            "text": "Orgoň",
             "url": null
           },
           {

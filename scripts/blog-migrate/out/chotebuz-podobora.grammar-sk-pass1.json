@@ -1,0 +1,26 @@
+{
+  "slug": "chotebuz-podobora",
+  "note": "grammar-sk agent, prvý prechod. Slušne napísaný pôvodný text (nie prevzatý citát), pomerne veľa drobných pádových/rodových chýb.",
+  "appliedFixes": [
+    { "rule": "MISSING_WORD/preklep (excerpt)", "before": "s potokom, na avšak z väčšej časti", "after": "s potokom, avšak z väčšej časti", "block": "excerpt", "note": "nadbytočné 'na' pred 'avšak', telo (blok 0) to už malo správne" },
+    { "rule": "A8 kedy->keď", "before": "kedy bolo postavené mohutné opevnenie", "after": "keď bolo postavené mohutné opevnenie", "block": 1 },
+    { "rule": "MISSING_WORD (nezmyselné slovo)", "before": "vnútorná rozloha dňu 1,8 ha", "after": "vnútorná rozloha 1,8 ha", "block": 4 },
+    { "rule": "A9 malé písmeno + preklep + A4 pád", "before": "V Halštatskom období ... rôzne iné nélezy ... pred našim letopočtom", "after": "V halštatskom období ... rôzne iné nálezy ... pred naším letopočtom", "block": 6 },
+    { "rule": "A1 čiarka + A4 pád + A1 vsuvka + B rozsahy", "before": "zráz na ktorom nerástli ... početnejšie slovanský ľud ... akropole ako už bolo spomenuté stála ... 4-5 m ... 20-40 cm ... 15-17 m ... pomernej nevýrazné", "after": "zráz, na ktorom nerástli ... početnejší slovanský ľud ... akropole, ako už bolo spomenuté, stála ... 4 – 5 m ... 20 – 40 cm ... 15 – 17 m ... pomerne nevýrazné", "block": 11 },
+    { "rule": "A4 zhoda rodu + A4 pád", "before": "vrstva drenážne ... zachytávame iba ich najspodnejšej časti zahĺbené", "after": "vrstva drenážna ... zachytávame iba ich najspodnejšiu časť, zahĺbenú", "block": 14 },
+    { "rule": "A7 bohemizmus + preklep (chýbajúci dĺžeň)", "before": "Jedná sa predovšetkým ... u všetkých konštrukcii", "after": "Ide predovšetkým ... u všetkých konštrukcií", "block": 16 },
+    { "rule": "A4 slovný tvar", "before": "alebo ustajnené dobytka", "after": "alebo ustajnenie dobytka", "block": 19 },
+    { "rule": "B násobenie + A7 archaizmus + A3 zhoda + preklep + B násobenie", "before": "3,2 x 5,2 x 5,8 m ... časť neboli snáď ani koly ... Približné uprostred ... 1 x 1 m", "after": "3,2 × 5,2 × 5,8 m ... časť nebola azda ani koly ... Približne uprostred ... 1 × 1 m", "block": 21 },
+    { "rule": "A8 kedy->keď + A4 pád", "before": "Mojmírovcov, kedy sa zvlášť ... v pravouhlých zemniacich", "after": "Mojmírovcov, keď sa zvlášť ... v pravouhlých zemniciach", "block": 23 },
+    { "rule": "A4 pád + A3 zhoda rodu zámena", "before": "za dané politickej situácie ... fortifikácia, ktoré sa pomerne skoro", "after": "za danej politickej situácie ... fortifikácia, ktorá sa pomerne skoro", "block": 25 },
+    { "rule": "MISSING_WORD (vysoká istota, zhoda s nadpisom) + medzera pred čiarkou + preklep", "before": "nájdete , ktorý má ... historická skupina , ktorá ... mimoriedne pútavým", "after": "nájdete archeoskanzen, ktorý má ... historická skupina, ktorá ... mimoriadne pútavým", "block": 27, "note": "'archeoskanzen' doplnené s vysokou istotou — priamo nadväzuje na nadpis bloku 26 'Hradisko dnes – Archeoskanzen' a nasledujúci text ('Okrem komorovej a palisádovej hradby...')" },
+    { "rule": "B pomlčka (caption/alt)", "before": "palisády - z dôvodu výšky palisády", "after": "palisády — z dôvodu výšky palisády", "block": 28 },
+    { "rule": "Sources: medzera pred čiarkou", "before": "ve Slezsku , Libri", "after": "ve Slezsku, Libri", "block": "sources" }
+  ],
+  "reviewed_no_change": [
+    "Bloky 0, 2, 9 a väčšina ostatných — bez ďalších chýb."
+  ],
+  "flags": [
+    "Blok 27: 'historická skupina, ktorá návštevníkom priblíži život...' — chýba konkrétny NÁZOV historickej skupiny (medzera pred čiarkou naznačuje stratené slovo pri extrakcii), na rozdiel od 'archeoskanzenu' som tu nemal dostatočnú istotu na doplnenie konkrétneho názvu, takže ponechané bez neho."
+  ]
+}

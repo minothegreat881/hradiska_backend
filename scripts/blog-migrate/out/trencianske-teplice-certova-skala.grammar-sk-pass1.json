@@ -1,0 +1,145 @@
+{
+  "slug": "trencianske-teplice-certova-skala",
+  "pass": 1,
+  "scope": "body (content.rich-text) + title + tags + image-block alt/caption + gallery captions",
+  "corrections": [
+    {
+      "field": "title, tags[0], blocks[3].alt (plánik.jpg)",
+      "before": "Trenčianske Teplice - Čertova Skala",
+      "after": "Trenčianske Teplice – Čertova skala",
+      "reason": "Kanonický tvar mena lokality z protected-terms.json je „Čertova skala“ (malé s) — telo článku ho v 7 z 10 výskytov už používa správne, opravené zvyšné nekonzistentné výskyty. Pomlčka medzi mestom a lokalitou zjednotená na em/en-pomlčku (porov. vzor „Staré Mesto – Velehrad“ v MIGRATION.md)."
+    },
+    {
+      "block": "blocks[0].body[0]",
+      "before": "V mladšej dobe železnej – tzn. v Laténskom období práve v tejto oblasti prebiehala hranica",
+      "after": "V mladšej dobe železnej – tzn. v laténskom období – práve v tejto oblasti prebiehala hranica",
+      "reason": "A9 — obdobia malým písmenom ([]Laténskom→laténskom, presný vzor Veľkomoravskom→veľkomoravskom). A1 — uzavretie vloženej vysvetľujúcej vsuvky „tzn. v laténskom období“ druhou pomlčkou (bola otvorená, nikdy uzavretá)."
+    },
+    {
+      "block": "blocks[0].body[0]",
+      "before": "vybudovali kelti významné hradisko",
+      "after": "vybudovali Kelti významné hradisko",
+      "reason": "A9 — etnonymum veľkým písmenom (presný vzor „kelti→Kelti“ z §21.1)."
+    },
+    {
+      "block": "blocks[0].body[0]",
+      "before": "ktoré sa dnes nachádza v katastri v Trenčianskych Teplíc na lokalite s príznačným názvom Čertova Skala.",
+      "after": "ktoré sa dnes nachádza v katastri Trenčianskych Teplíc na lokalite s príznačným názvom Čertova skala.",
+      "reason": "Zdvojená predložka „v katastri v Trenčianskych Teplíc“ — genitívna väzba „kataster niečoho“ nepotrebuje druhé „v“. Plus zjednotenie „Čertova Skala\"→\"Čertova skala\"."
+    },
+    {
+      "block": "blocks[2].body[0]",
+      "before": "vraj tu čert dupol do skaly, aby skryl svoj poklad, zostala po nom jeho stopa v skale.",
+      "after": "vraj tu čert dupol do skaly, aby skryl svoj poklad, a zostala po nom jeho stopa v skale.",
+      "reason": "Chýbajúca spojka medzi dvomi hlavnými vetami spojenými len čiarkou (comma splice) — doplnené „a“."
+    },
+    {
+      "block": "blocks[5].body[0]",
+      "before": "bolo objavené osídlenie už z doby bronzovej a to na polohe Čvirigovec.",
+      "after": "bolo objavené osídlenie už z doby bronzovej, a to na polohe Čvirigovec.",
+      "reason": "A1 — „a to“ (vysvetľovacie) vždy s čiarkou pred."
+    },
+    {
+      "block": "blocks[5].body[0]",
+      "before": "V mladšej dobe železnej ako už bolo naznačené oblasť osídlili kelti (kelto-lužičania)",
+      "after": "V mladšej dobe železnej, ako už bolo naznačené, oblasť osídlili Kelti (kelto-lužičania)",
+      "reason": "A1 — vsuvka „ako už bolo naznačené“ musí mať čiarku z oboch strán, chýbali obe. A9 — Kelti veľkým."
+    },
+    {
+      "block": "blocks[5].body[0]",
+      "before": "obývali Germáni v čase sťahovania národov (cca 5. - 6. storočie).",
+      "after": "obývali Germáni v čase sťahovania národov (cca 5. – 6. storočie).",
+      "reason": "B typografia — storočný rozsah, zhoda s timeline (\"cca 5. – 6. storočie\")."
+    },
+    {
+      "block": "blocks[5].body[0]",
+      "before": "pričom tu v 9. - 11. storočí vybudovali významné strážne hradisko, ktoré bolo zároveň zrejme obývané aj remeselníkmi, (napr. zvyšky kováčskej dielne).",
+      "after": "pričom tu v 9. – 11. storočí vybudovali významné strážne hradisko, ktoré bolo zároveň zrejme obývané aj remeselníkmi (napr. zvyšky kováčskej dielne).",
+      "reason": "B typografia — storočný rozsah (zhoda s timeline „9. – 11. storočie\"). A1 nadbytočná čiarka priamo pred otváracou zátvorkou."
+    },
+    {
+      "block": "blocks[7].body[0] (Opevnenie)",
+      "before": "Hradisko patrí medzi rozlohou malé opevnenia - má rozmery 75x25 metrov a zaberá rozlohu asi 0,18 ha. ... dostatočné podmienky pre obranu.",
+      "after": "Hradisko patrí medzi rozlohou malé opevnenia – má rozmery 75 × 25 metrov a zaberá rozlohu asi 0,18 ha. ... dostatočné podmienky na obranu.",
+      "reason": "B typografia — apozičná pomlčka, „x\"→\"×\" (zhoda s keyFacts „75 × 25 metrov\"). A7 bohemizmus — „podmienky pre X\" → „podmienky na X\"."
+    },
+    {
+      "block": "blocks[11].body[0] (Osídlenie)",
+      "before": "(mladšia doba železná – kelti,",
+      "after": "(mladšia doba železná – Kelti,",
+      "reason": "A9 — etnonymum veľkým."
+    },
+    {
+      "block": "blocks[15].body[0]",
+      "before": "po páde Veľkej Moravy (10.-11. storočie).",
+      "after": "po páde Veľkej Moravy (10. – 11. storočie).",
+      "reason": "B typografia — storočný rozsah."
+    },
+    {
+      "block": "blocks[15].body[0]",
+      "before": "časť ohlávky, tri nákončia opaskov, a tri ostrohy.",
+      "after": "časť ohlávky, tri nákončia opaskov a tri ostrohy.",
+      "reason": "A1 nadbytočná čiarka — posledný člen vymenovania spojený „a\" nemá pred sebou čiarku (rovnorodé členy, nie dve hlavné vety s rôznymi podmetmi)."
+    },
+    {
+      "block": "blocks[19].body[0] (obetisko odsek)",
+      "before": "V okolí hradiska na polohe „Nad starou tehelňou“ - na výšinnej polohe bolo objavené",
+      "after": "V okolí hradiska na polohe „Nad starou tehelňou“ – na výšinnej polohe bolo objavené",
+      "reason": "B typografia — apozičná pomlčka."
+    },
+    {
+      "block": "blocks[19].body[0]",
+      "before": "kultové miesto slúžilo práve obyvateľom hradiska Čertova Skala",
+      "after": "kultové miesto slúžilo práve obyvateľom hradiska Čertova skala",
+      "reason": "Zjednotenie s kanonickým tvarom „Čertova skala\"."
+    },
+    {
+      "block": "blocks[20].body[0] (Karol Pieta citácia)",
+      "before": "B. Komoróczy (eds.) : Gentes,",
+      "after": "B. Komoróczy (eds.): Gentes,",
+      "reason": "B typografia — medzera pred dvojbodkou odstránená. Nemecký text citácie samotný nezmenený."
+    },
+    {
+      "block": "gallery[caption: Pohľady na Čertovu Skalu]",
+      "before": "Pohľady na Čertovu Skalu od severovýchodu",
+      "after": "Pohľady na Čertovu skalu od severovýchodu",
+      "reason": "Zjednotenie s kanonickým tvarom (skala malým)."
+    },
+    {
+      "block": "gallery[caption: V južnej (prístupnej)...]",
+      "before": "ľud Púchovskej kultúry mohutný val",
+      "after": "ľud púchovskej kultúry mohutný val",
+      "reason": "A9 — kultúry malým písmenom."
+    },
+    {
+      "block": "gallery[caption: Slabšie opevnená...]",
+      "before": "juhazápadná časť hradiska",
+      "after": "juhozápadná časť hradiska",
+      "reason": "A8 preklep — juho-západná, nie juha-západná."
+    },
+    {
+      "block": "gallery[caption: Priekopa s valom...]",
+      "before": "je prikopa prerušená akýmsi \\\"násypom\\\"",
+      "after": "je priekopa prerušená akýmsi „násypom“",
+      "reason": "A8 preklep — priekopa (chýbalo „e\"). B typografia — rovné úvodzovky → slovenské."
+    },
+    {
+      "block": "gallery[caption: Čvirigovec kopec...]",
+      "before": "v blízkosti Čertovej Skaly - bol obývaný v dobe bronzovej",
+      "after": "v blízkosti Čertovej skaly – bol obývaný v dobe bronzovej",
+      "reason": "Zjednotenie kanonického tvaru + apozičná pomlčka."
+    },
+    {
+      "block": "gallery[caption: Pohľad smerom na akropolu...]",
+      "before": "Pohľad smerom na akropolu - najvyššie miesto hradiska",
+      "after": "Pohľad smerom na akropolu – najvyššie miesto hradiska",
+      "reason": "B typografia — apozičná pomlčka."
+    },
+    {
+      "block": "gallery[caption: Pohľad na strmé zrázy Čertovej Skaly]",
+      "before": "Pohľad na strmé zrázy Čertovej Skaly",
+      "after": "Pohľad na strmé zrázy Čertovej skaly",
+      "reason": "Zjednotenie kanonického tvaru."
+    }
+  ]
+}

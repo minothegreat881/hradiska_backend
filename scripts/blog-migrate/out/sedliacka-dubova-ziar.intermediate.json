@@ -1,0 +1,426 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-sedliacka-dubova-ziar.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5700221799565302531",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/05/sedliacka-dubova-ziar.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/5700221799565302531/comments/default",
+    "extractedAt": "2026-07-15T22:20:23.455Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&t=h&ll=49.260481,19.434664&spn=0.002451,0.00456&z=17&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 8,
+      "captionedImages": 5,
+      "separatorImages": 3
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Sedliacka Dubová - Žiar",
+    "slug": "sedliacka-dubova-ziar",
+    "excerpt": "Najstaršie dejiny miesta, kde stoja ruiny kostolíka, siahajú ďaleko do praveku. Už názov vrchu Žiar, respektíve Hrádok, na ktorom bol postavený kostolík, naznačuje, že tu kedysi stál opevnený objekt. Z archeologického výskumu uskutočneného roku 1954…",
+    "authorName": null,
+    "publishedAt": "2013-05-17T15:58:00.000+02:00",
+    "originalPublishedDate": "2013-05-17T15:58:00.000+02:00",
+    "updatedAt": "2013-05-17T16:01:25.746+02:00",
+    "readingTime": 3,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNc_y0b4fVCmpA9vRsrNAtk039v-srbQ44TM64aYBMVQPTtbM3IfwT6EzyOmlkBXht-v460G1gjtfsxa9lx8xhjyBM1x0vFnXuDHZf8_CFOcDBdc0lP2nGcelwo1FFJ5B00JBv7OxrAk/s0/mapa.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNc_y0b4fVCmpA9vRsrNAtk039v-srbQ44TM64aYBMVQPTtbM3IfwT6EzyOmlkBXht-v460G1gjtfsxa9lx8xhjyBM1x0vFnXuDHZf8_CFOcDBdc0lP2nGcelwo1FFJ5B00JBv7OxrAk/s1600/mapa.JPG",
+      "filename": "mapa.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNc_y0b4fVCmpA9vRsrNAtk039v-srbQ44TM64aYBMVQPTtbM3IfwT6EzyOmlkBXht-v460G1gjtfsxa9lx8xhjyBM1x0vFnXuDHZf8_CFOcDBdc0lP2nGcelwo1FFJ5B00JBv7OxrAk/s1600/mapa.JPG",
+        "displayedWidth": 320,
+        "displayedHeight": 233,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNc_y0b4fVCmpA9vRsrNAtk039v-srbQ44TM64aYBMVQPTtbM3IfwT6EzyOmlkBXht-v460G1gjtfsxa9lx8xhjyBM1x0vFnXuDHZf8_CFOcDBdc0lP2nGcelwo1FFJ5B00JBv7OxrAk/s0/mapa.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNc_y0b4fVCmpA9vRsrNAtk039v-srbQ44TM64aYBMVQPTtbM3IfwT6EzyOmlkBXht-v460G1gjtfsxa9lx8xhjyBM1x0vFnXuDHZf8_CFOcDBdc0lP2nGcelwo1FFJ5B00JBv7OxrAk/s1600/mapa.JPG",
+        "filename": "mapa.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNc_y0b4fVCmpA9vRsrNAtk039v-srbQ44TM64aYBMVQPTtbM3IfwT6EzyOmlkBXht-v460G1gjtfsxa9lx8xhjyBM1x0vFnXuDHZf8_CFOcDBdc0lP2nGcelwo1FFJ5B00JBv7OxrAk/s1600/mapa.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 233,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "http://www.dubovacolonorum.sk/wp-content/uploads/2012/02/halstat.gif",
+        "fallbackUrl": "http://www.dubovacolonorum.sk/wp-content/uploads/2012/02/halstat.gif",
+        "filename": "halstat.gif",
+        "blogger": {
+          "anchorHref": "http://www.dubovacolonorum.sk/wp-content/uploads/2012/02/halstat.gif",
+          "displayedWidth": 300,
+          "displayedHeight": 177,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Obr. 1: Pokus o rekonštrukciu halštatského hradiska na Žiari. (podľa P. Čaplovica)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisj2x0hJ6NbAPyT2-SopnMTtUbbBtVLnER57jVGLyPhKD7yKepfUj4PJbHg_l0yRB8RV2i2L7JZaJMAaNx9xIIuQIYI21T32-vP-51L7hYX2buQvezMVi-gGeChWesfg4H8fiRB75PZKM/s0/Obr%C3%A1zok1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisj2x0hJ6NbAPyT2-SopnMTtUbbBtVLnER57jVGLyPhKD7yKepfUj4PJbHg_l0yRB8RV2i2L7JZaJMAaNx9xIIuQIYI21T32-vP-51L7hYX2buQvezMVi-gGeChWesfg4H8fiRB75PZKM/s1600/Obr%C3%A1zok1.jpg",
+        "filename": "Obrázok1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisj2x0hJ6NbAPyT2-SopnMTtUbbBtVLnER57jVGLyPhKD7yKepfUj4PJbHg_l0yRB8RV2i2L7JZaJMAaNx9xIIuQIYI21T32-vP-51L7hYX2buQvezMVi-gGeChWesfg4H8fiRB75PZKM/s1600/Obr%C3%A1zok1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 239,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Bašta"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy7dmNu_Sw_Hd5N-SrHPdG8gs3PzDDczPyG5cNWTsNWMF3EO1hkbE1aXkA5C2K2od09NevjdRmQXgHT78etTJixYLNqZFeLodSEySU1AS13LdED4PY96AbxU50Yy5S9i61_ocnoVFajU/s0/Obr%C3%A1zok2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy7dmNu_Sw_Hd5N-SrHPdG8gs3PzDDczPyG5cNWTsNWMF3EO1hkbE1aXkA5C2K2od09NevjdRmQXgHT78etTJixYLNqZFeLodSEySU1AS13LdED4PY96AbxU50Yy5S9i61_ocnoVFajU/s1600/Obr%C3%A1zok2.jpg",
+        "filename": "Obrázok2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy7dmNu_Sw_Hd5N-SrHPdG8gs3PzDDczPyG5cNWTsNWMF3EO1hkbE1aXkA5C2K2od09NevjdRmQXgHT78etTJixYLNqZFeLodSEySU1AS13LdED4PY96AbxU50Yy5S9i61_ocnoVFajU/s1600/Obr%C3%A1zok2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 239,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Vstupná brána"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-YyHT-Jz5mcGg9YSGzRWBZGkr76zGRuszhdwlsUz1oPKrMvaQ8kIReUuBDjsSATbrklsdIFX1ese0OompwxhaWdf9AIqZNN4z1cmMeb6Ac_WtsKMTg2bA3yrvE25uClqRzaQigUxGCf8/s0/Obr%C3%A1zok3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-YyHT-Jz5mcGg9YSGzRWBZGkr76zGRuszhdwlsUz1oPKrMvaQ8kIReUuBDjsSATbrklsdIFX1ese0OompwxhaWdf9AIqZNN4z1cmMeb6Ac_WtsKMTg2bA3yrvE25uClqRzaQigUxGCf8/s1600/Obr%C3%A1zok3.jpg",
+        "filename": "Obrázok3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-YyHT-Jz5mcGg9YSGzRWBZGkr76zGRuszhdwlsUz1oPKrMvaQ8kIReUuBDjsSATbrklsdIFX1ese0OompwxhaWdf9AIqZNN4z1cmMeb6Ac_WtsKMTg2bA3yrvE25uClqRzaQigUxGCf8/s1600/Obr%C3%A1zok3.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Horné nádvorie"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7gccUalDWSJgLkuTAecbnuuF49we882B2x-kgqOvHEbdURP3PCSN5IwjgebgNp9ceRzS3J0koA68vRNJuMSmvhI7prbae7tOJsprzBNqtuPEPN1Ve5wXLYepJUkpXJ2SohTokiMDB6Mg/s0/Obr%C3%A1zok4.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7gccUalDWSJgLkuTAecbnuuF49we882B2x-kgqOvHEbdURP3PCSN5IwjgebgNp9ceRzS3J0koA68vRNJuMSmvhI7prbae7tOJsprzBNqtuPEPN1Ve5wXLYepJUkpXJ2SohTokiMDB6Mg/s1600/Obr%C3%A1zok4.jpg",
+        "filename": "Obrázok4.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7gccUalDWSJgLkuTAecbnuuF49we882B2x-kgqOvHEbdURP3PCSN5IwjgebgNp9ceRzS3J0koA68vRNJuMSmvhI7prbae7tOJsprzBNqtuPEPN1Ve5wXLYepJUkpXJ2SohTokiMDB6Mg/s1600/Obr%C3%A1zok4.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Dolné nádvorie"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8k4iFIeTVXkgkNH6QLLKDKkiOv8rzR_RFzqlrqH_7CFQw3LHLpcLNymyeZ1kuiAHscckGXY7HAMy-xoDpKxkQdhPRkzflBgNfUG1XqkjqP5DBSOYE93-xU339lAr1Uflcvhji9JRBDA/s0/Obr%C3%A1zok6.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8k4iFIeTVXkgkNH6QLLKDKkiOv8rzR_RFzqlrqH_7CFQw3LHLpcLNymyeZ1kuiAHscckGXY7HAMy-xoDpKxkQdhPRkzflBgNfUG1XqkjqP5DBSOYE93-xU339lAr1Uflcvhji9JRBDA/s1600/Obr%C3%A1zok6.jpg",
+        "filename": "Obrázok6.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8k4iFIeTVXkgkNH6QLLKDKkiOv8rzR_RFzqlrqH_7CFQw3LHLpcLNymyeZ1kuiAHscckGXY7HAMy-xoDpKxkQdhPRkzflBgNfUG1XqkjqP5DBSOYE93-xU339lAr1Uflcvhji9JRBDA/s1600/Obr%C3%A1zok6.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaj9S3Lk-4mvvrKHAT3eVwht5yndtLrr2RUUgeojRjIkERo0TvemrRgIXY5p30inYPyRZ5Kfg_nlTZHv2HIUGqq6dNb5yDmzTHDS9nCKx6beDLKHGtcFUDLhhnExLD54VIpEB-4Dn2Pao/s0/Obr%C3%A1zok7.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaj9S3Lk-4mvvrKHAT3eVwht5yndtLrr2RUUgeojRjIkERo0TvemrRgIXY5p30inYPyRZ5Kfg_nlTZHv2HIUGqq6dNb5yDmzTHDS9nCKx6beDLKHGtcFUDLhhnExLD54VIpEB-4Dn2Pao/s1600/Obr%C3%A1zok7.jpg",
+        "filename": "Obrázok7.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaj9S3Lk-4mvvrKHAT3eVwht5yndtLrr2RUUgeojRjIkERo0TvemrRgIXY5p30inYPyRZ5Kfg_nlTZHv2HIUGqq6dNb5yDmzTHDS9nCKx6beDLKHGtcFUDLhhnExLD54VIpEB-4Dn2Pao/s1600/Obr%C3%A1zok7.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 200,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Sedliacka Dubová - Žiar"
+    ],
+    "category": null,
+    "location": {
+      "name": "Sedliacka Dubová - Žiar",
+      "latitude": 49.260481,
+      "longitude": 19.434664,
+      "region": null,
+      "country": null
+    },
+    "keyFacts": [
+      {
+        "label": "Opevnenie",
+        "value": "šijový val vysoký asi 6 m, drevená obranná chodba široká 4 m na kamennej nadmurovke",
+        "icon": "shield"
+      },
+      {
+        "label": "Priekopa",
+        "value": "klinová, hlboká 2 m",
+        "icon": "map"
+      },
+      {
+        "label": "Susedné halštatské hradiská na Orave",
+        "value": "Tvrdošín, Podbiel, Istebné-Hrádok, Vyšný Kubín, Žaškov-Hrádok, Jasenica-Hrdoš, Mezibrodie, Oravský podzámok",
+        "icon": "flag"
+      },
+      {
+        "label": "Podhradská osada",
+        "value": "na mieste súčasnej obce Sedliacka Dubová, odkryté základy halštatských usadlostí",
+        "icon": "building"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "700 – 400 pred Kristom",
+        "title": "Halštatská doba a osídlenie Oravy",
+        "description": "V halštatskej dobe bolo osídlenie Oravy relatívne husté; opevnené sídliská tvorili silný obranný celok miestneho kniežatstva prepojený dymovou signalizáciou.",
+        "type": "era"
+      },
+      {
+        "year": "3. – 2. storočie pred Kristom",
+        "title": "Zánik hrádku požiarom",
+        "description": "Zánik hrádku sa datuje do strednej doby laténskej — príčinou bol požiar, ktorý spálil hrádok aj podhradie; predpokladá sa, že zanikol spolu s hradiskom v Istebnom.",
+        "type": "destruction"
+      },
+      {
+        "year": "1954",
+        "title": "Archeologický výskum",
+        "description": "Z archeologického výskumu uskutočneného roku 1954 bolo zrejmé, že ide o opevnené halštatské sídlisko.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najstaršie dejiny miesta, kde stoja ruiny kostolíka, siahajú ďaleko do praveku. Už názov vrchu Žiar, respektíve Hrádok, na ktorom bol postavený kostolík, naznačuje, že tu kedysi stál opevnený objekt. Z archeologického výskumu uskutočneného roku 1954 bolo zrejmé, že ide o opevnené halštatské sídlisko."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Halštatská doba, ako nazývame staršiu dobu železnú, bolo obdobie praveku 700 až 400 rokov pred Kristom. V tom čase bolo osídlenie Oravy relatívne husté. Archeologicky dokázané sú opevnené sídliská napríklad v Tvrdošíne, Podbieli, Istebnom – Hrádok, Vyšnom Kubíne – Tupá a Ostrá skala, Žaškove – Hrádok, Jasenici – Hrdoš, Mezibrodií, Oravskom podzámku, Sedliackej Dubovej – Žiar, a tiež popolnicové hroby a nechránené sídliská. Všetky opevnené sídliská majú charakter výšinného hradiska, t. j. postavené na kopci, pričom boli vybudované na takých miestach, aby bolo vidieť z jedného hradiska na druhé. Takto vybudovaný obranný systém s využitím dymovej signalizácie tvoril silný obranný celok miestneho kniežatstva. Údolia rieky Orava a jej postranných prítokov poskytovali poľnohospodársku pôdu, najmä však výhodné prechody a umožňovali komunikačné spojenie s hlavnými obchodnými cestami vedúcimi cez Oravu a Liptov. Význam týchto ciest reflektuje s hromadnými nálezmi bronzov z Komjatnej, Žaškova, Osádky, Pucova, Istebného – Hrádok, Nižnej a Krásnej Hôrky.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hrádok v Dubovej teda nie je osamotený objekt. Bol situovaný na temene kopca výrazne sa zarezávajúceho do údolia Oravy, kadiaľ viedla stará obchodná cesta. Terajšie zvyšky opevneného areálu dubovianskeho kostolíka sa priamo opierajú o mohutný val halštatského hradiska. Podľa doterajšieho bádania išlo o objekt s prevládajúcimi pevnostnými črtami."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNc_y0b4fVCmpA9vRsrNAtk039v-srbQ44TM64aYBMVQPTtbM3IfwT6EzyOmlkBXht-v460G1gjtfsxa9lx8xhjyBM1x0vFnXuDHZf8_CFOcDBdc0lP2nGcelwo1FFJ5B00JBv7OxrAk/s0/mapa.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNc_y0b4fVCmpA9vRsrNAtk039v-srbQ44TM64aYBMVQPTtbM3IfwT6EzyOmlkBXht-v460G1gjtfsxa9lx8xhjyBM1x0vFnXuDHZf8_CFOcDBdc0lP2nGcelwo1FFJ5B00JBv7OxrAk/s1600/mapa.JPG",
+          "filename": "mapa.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXNc_y0b4fVCmpA9vRsrNAtk039v-srbQ44TM64aYBMVQPTtbM3IfwT6EzyOmlkBXht-v460G1gjtfsxa9lx8xhjyBM1x0vFnXuDHZf8_CFOcDBdc0lP2nGcelwo1FFJ5B00JBv7OxrAk/s1600/mapa.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 233,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Sedliacka Dubová - Žiar",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dominantou pevnosti bol asi 6 m vysoký šijový val, zo severnej strany oddeľujúci hradný vrch od ostatného hrebeňa (šije). Základ valu bola roštovo-skriňová konštrukcia z drevenej guľatiny naplnená červenou prepálenou hlinou. Vonkajšia strana valu bola opatrená kamenným podporným múrom, ktorý zvyšoval jeho obranyschopnosť. Jeho zadná časť sa mierne zvažovala do nádvoria. Na najvyššom bode valu bola pravdepodobne drevená strážnica – varta, odkiaľ hradná stráž mala najlepší prehľad o prístupovej ceste a celom okolí. Šijový zemný val ako celok pôsobil dojmom mohutnej bašty, ktorá bola kľúčovým prvkom v opevnení halštatského hradiska."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ostatné opevnenie bolo zabezpečené drevenou, 4 metre širokou obrannou chodbou, postavenou na 1 meter vysokej kamennej nadmurovke. Chodba bola pravdepodobne zvonku obložená pieskovcovými kameňmi a krytá drevenou strechou. Najprístupnejšie miesta k opevneniu boli zabezpečené klinovou 2 metre hlbokou priekopou. Vstup do areálu pevnosti bol zabezpečený vstupnou vežou a mostom ponad priekopu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "http://www.dubovacolonorum.sk/wp-content/uploads/2012/02/halstat.gif",
+          "fallbackUrl": "http://www.dubovacolonorum.sk/wp-content/uploads/2012/02/halstat.gif",
+          "filename": "halstat.gif",
+          "blogger": {
+            "anchorHref": "http://www.dubovacolonorum.sk/wp-content/uploads/2012/02/halstat.gif",
+            "displayedWidth": 300,
+            "displayedHeight": 177,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Obr. 1: Pokus o rekonštrukciu halštatského hradiska na Žiari. (podľa P. Čaplovica)",
+        "caption": "Obr. 1: Pokus o rekonštrukciu halštatského hradiska na Žiari. (podľa P. Čaplovica)",
+        "position": "right",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ako som uviedol, hradisko malo predovšetkým vojenský účel, preto obydlia slúžili hlavne ako ubytovne pre vojakov a kapitána pevnosti. Budovy na nádvorí stavali minimálne 9 metrov od obrannej chodby, z ktorých sa na pôvodných miestach našli črepy a mazanica."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pod hradným vrchom bola osada, kde bol hlavný hospodársky život okolitého obyvateľstva. Podhradská obec bola situovaná na mieste súčasnej obce Sedliacka Dubová na ulici vedúcej od Obecného úradu k cintorínu, kde boli odkryté základy viacerých halštatských usadlostí a črepy halštatského rázu, ale objavili sa už aj zosilnené okraje hrebeňovaných nádob, obsahujúcich už tuhu zo staršej doby laténskej. Halštatské domy boli postavené stupňovite v radoch na úbočí Žiaru, pretože v tom čase rieka Orava mohla ešte zaplavovať údolie."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "O histórii dubovianského hrádku vieme veľmi málo, iba vieme datovať jeho zánik do strednej doby laténskej v 3. až 2. storočí pred Kristom. Príčinou zániku bol požiar, ktorý spálil hrádok aj podhradie. Predpokladá sa, že zanikol spolu s hradiskom v Istebnom. Pravdepodobne obidve hradiská boli dobyté a vypálené."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisj2x0hJ6NbAPyT2-SopnMTtUbbBtVLnER57jVGLyPhKD7yKepfUj4PJbHg_l0yRB8RV2i2L7JZaJMAaNx9xIIuQIYI21T32-vP-51L7hYX2buQvezMVi-gGeChWesfg4H8fiRB75PZKM/s0/Obr%C3%A1zok1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisj2x0hJ6NbAPyT2-SopnMTtUbbBtVLnER57jVGLyPhKD7yKepfUj4PJbHg_l0yRB8RV2i2L7JZaJMAaNx9xIIuQIYI21T32-vP-51L7hYX2buQvezMVi-gGeChWesfg4H8fiRB75PZKM/s1600/Obr%C3%A1zok1.jpg",
+          "filename": "Obrázok1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisj2x0hJ6NbAPyT2-SopnMTtUbbBtVLnER57jVGLyPhKD7yKepfUj4PJbHg_l0yRB8RV2i2L7JZaJMAaNx9xIIuQIYI21T32-vP-51L7hYX2buQvezMVi-gGeChWesfg4H8fiRB75PZKM/s1600/Obr%C3%A1zok1.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 239,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Bašta",
+        "caption": "Bašta",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "http://dubovacolonorum.sk/historia/hradisko-ziar/",
+            "url": "http://dubovacolonorum.sk/historia/hradisko-ziar/"
+          },
+          {
+            "text": "Prevzaté so súhlasom autora zo stránky",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Autor: Markwald - Matej Kováč"
+      },
+      {
+        "type": "external-url",
+        "url": "http://dubovacolonorum.sk/historia/hradisko-ziar/",
+        "title": "http://dubovacolonorum.sk/historia/hradisko-ziar/"
+      },
+      {
+        "type": "attribution",
+        "text": "Prevzaté so súhlasom autora zo stránky"
+      }
+    ]
+  }
+}

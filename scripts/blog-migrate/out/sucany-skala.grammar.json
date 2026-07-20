@@ -1,0 +1,30 @@
+{
+  "_note": "4 opráv aplikovaných, 0 cross-node preskočených, 0 nenájdených v dumpe (možná halucinácia)",
+  "corrections": [
+    {
+      "block": "?",
+      "before": "so stránky zemepisnej",
+      "after": "zo stránky zemepisnej",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "pretože skala Skala bola od hrebeňa",
+      "after": "pretože Skala bola od hrebeňa",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "archeologický výskum (SA 1961) uvádza, že osídlenie",
+      "after": "archeologický výskum (SA 1961), uvádza, že osídlenie",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "I. storočia n.l. A pozostatky polozemníc",
+      "after": "I. storočia n. l. a pozostatky polozemníc",
+      "reason": "gramatika/pravopis"
+    }
+  ],
+  "skippedNotFound": []
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "novohrad-nograd-h",
+  "flags": [
+    {
+      "type": "NAME_VARIANT_AMBIGUOUS",
+      "location": "blok 6 (telo) vs. keyFacts + timeline (id 3854)",
+      "text": "Telo: 'biskup Mikuláš Báthori' (s 'th') -- KF aj timeline zhodne: 'Mikuláš Bátori' (bez 'h').",
+      "issue": "Obe formy sú historicky doložené varianty priezviska Báthory/Bátori. Nie je isté, ktorý tvar bol v tomto článku zamýšľaný — nejde o preklep, ktorý by bolo bezpečné opraviť bez overenia.",
+      "action": "NEOPRAVENÉ, iba nahlásené — odporúčaná ručná kontrola voči zdroju (napr. Sziklay/Borovszky v protected-terms.json)."
+    }
+  ]
+}

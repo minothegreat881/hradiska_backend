@@ -1,0 +1,40 @@
+{
+  "timeline": [
+    { "year": "koniec neskorej doby bronzovej", "title": "Možný vznik najstaršieho opevnenia", "description": "Nemožno vylúčiť, že prvé opevnenie na Hrádku vzniklo už koncom neskorej doby bronzovej.", "type": "founding" },
+    { "year": "staršia doba železná", "title": "Vznik prvého opevnenia", "description": "Najstaršie nálezy črepov lužickej kultúry sa datujú najmenej do staršej doby železnej, keď tu zrejme vzniklo prvé opevnenie.", "type": "founding" },
+    { "year": "1. stor. pred n. l.", "title": "Opevnenie ľudu púchovskej kultúry", "description": "V dolinách severného Slovenska sídlil ľud púchovskej kultúry, ktorý na Hrádku v Turí vybudoval malé opevnenie na ochranu miestneho obyvateľstva.", "type": "construction" },
+    { "year": "začiatok 1. stor. n. l.", "title": "Zánik opevnenia pri nájazde Germánov", "description": "Nájazd Germánov zničil prakticky všetky opevnenia púchovskej kultúry vrátane Hrádku v Turí.", "type": "destruction" },
+    { "year": "1.-2. stor. n. l.", "title": "Obnovenie opevnenia v staršej dobe rímskej", "description": "Hrádok bol opäť obnovený a vykazuje nálezy z 1.-2. storočia n. l. vrátane zlomkov importovanej rímskej keramiky.", "type": "construction" },
+    { "year": "9. stor. n. l.", "title": "Opätovné využitie ako opevnenie", "description": "Poloha bola znovu využívaná ako opevnenie popri ďalších menších opevneniach v regióne; o hradiskách sa zmieňujú franské písomné pramene z 9. storočia.", "type": "era" },
+    { "year": "10.-11. storočie", "title": "Doklady pokračujúceho osídlenia", "description": "Aj v storočiach po rozpade Veľkej Moravy sú na lokalite doklady osídlenia.", "type": "event" },
+    { "year": "14.-15. storočie", "title": "Vrchol stredovekého osídlenia", "description": "Osídlenie hrádku dosiahlo svoj vrchol, z tohto obdobia pochádza najviac nálezov keramiky a železných predmetov.", "type": "era" },
+    { "year": "1416", "title": "Prvá písomná zmienka o osade Tres Curiae", "description": "V písomných prameňoch sa spomína zemianska osada Tres Curiae - Tri dvory, neskôr pripojená k obci Turie.", "type": "event" },
+    { "year": "druhá polovica 15. storočia", "title": "Nález mince Juraja Podébradského", "description": "Na hrádku sa našla unikátna minca Juraja Podébradského z druhej polovice 15. storočia.", "type": "discovery" },
+    { "year": "rozhranie 16. a 17. storočia", "title": "Krátkodobé novoveké osídlenie", "description": "Hrádok bol krátkodobo využívaný, čo dokladajú nálezy kachlíc so žltozelenou polevou a črepy z glazovaných hrncov.", "type": "event" },
+    { "year": "1949", "title": "Zastavenie ťažby kameňa", "description": "Vďaka miestnemu učiteľovi prof. Hollému bola v roku 1949 zastavená ťažba vápenca v kameňolome, ktorý ohrozoval celý kopec s opevnením.", "type": "event" }
+  ],
+  "keyFacts": [
+    { "label": "Poloha", "value": "Hrádok leží v chotári obce Turie v zúženej časti Rajeckej doliny, kde strážil prístup do Žilinskej kotliny.", "icon": "map" },
+    { "label": "Typ opevnenia", "value": "Žiadne valy sa nezachovali - hrádok chránila zrejme len drevená palisáda využívajúca prirodzene chránenú polohu so strmými svahmi.", "icon": "shield" },
+    { "label": "Unikátny nález", "value": "Minca Juraja Podébradského z druhej polovice 15. storočia patrí medzi najvzácnejšie nálezy z lokality.", "icon": "star" },
+    { "label": "Rímsky import", "value": "Na hrádku sa podarilo objaviť aj zlomky importovanej keramiky z rímskych provincií.", "icon": "custom" },
+    { "label": "Písomné pramene", "value": "O hradiskách v tejto oblasti sa zmieňujú franské písomné pramene už z 9. storočia.", "icon": "book" },
+    { "label": "Najstaršia písomná zmienka o osade", "value": "V roku 1416 sa v prameňoch spomína zemianska osada Tres Curiae - Tri dvory, ktorú neskôr pripojili k obci Turie.", "icon": "book" },
+    { "label": "Záchrana lokality", "value": "V roku 1949 zastavil miestny učiteľ prof. Hollý ťažbu vápenca v kameňolome, ktorý hrozil zničiť celý kopec s opevnením.", "icon": "mountain" },
+    { "label": "Výskum lokality", "value": "Hrádok v novodobej histórii skúmali Dr. Anton Petrovský-Šichman, Ondrej Šedo a Dr. Karol Pieta.", "icon": "building" }
+  ],
+  "corrections": [
+    { "before": ".opevnení", "after": "opevnení" },
+    { "before": "n. I. Vtedy", "after": "n. l. Vtedy" },
+    { "before": "n. 1., keď vedľa sídliska", "after": "n. l., keď vedľa sídliska" },
+    { "before": "n. 1., prípadne", "after": "n. l., prípadne" },
+    { "before": "n. 1. Dokonca", "after": "n. l. Dokonca" },
+    { "before": "n 1.)", "after": "n. l.)" },
+    { "before": "Strečno. Hričov", "after": "Strečno, Hričov" },
+    { "before": "dopfňali", "after": "dopĺňali" },
+    { "before": "dopfňa", "after": "dopĺňa" },
+    { "before": "v 80 rokoch", "after": "v 80. rokoch" },
+    { "before": "nože. strely", "after": "nože, strely" },
+    { "before": "Zelená Hura", "after": "Zelená hora" }
+  ]
+}

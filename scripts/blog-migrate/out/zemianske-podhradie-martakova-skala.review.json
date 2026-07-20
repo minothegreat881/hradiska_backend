@@ -1,0 +1,11 @@
+{
+  "slug": "zemianske-podhradie-martakova-skala",
+  "flags": [
+    {
+      "type": "NUMBER_IMPOSSIBLE",
+      "issue": "'Ide o železné kovanie — prevliečku s dlhým oválnym pútkom a obdĺžnikovitou upevňovacou doštičkou s dĺžkou 101 cm.' — 101 cm je pre prevliečku (drobná súčasť ozdobnej súpravy na upevnenie meča k opasku) fyzicky nezmyselný rozmer (vyše meter dlhý predmet veľkosti spony/kovania). Ostatné merania v článku (napr. zubadlo '21,3 cm', spona '6,7 cm') používajú desatinnú čiarku v rozsahu jednotiek centimetrov.",
+      "hypothesis": "Vysoko pravdepodobne stratená desatinná čiarka — pôvodná hodnota bola zrejme '10,1 cm', nie '101 cm' (rovnaký vzor ako Ø-symbol OCR chyba v §21.10 — mechanická chyba prepisu, nie skutočný údaj).",
+      "why_not_fixed": "Agent nesmie dopĺňať/meniť číselné fakty na základe hypotézy (§21.6) — iba nahlásiť. Ponechané v pôvodnom tvare '101 cm', čaká na overenie proti zdroju (Kolník 1999)."
+    }
+  ]
+}

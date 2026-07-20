@@ -1,0 +1,29 @@
+{
+  "timeline": [
+    { "year": "koniec 1. stor. pred n. l.", "title": "Osídlenie púchovskou kultúrou", "description": "Hradisko patrí medzi sídliská vybudované ľudom púchovskej kultúry koncom 1. storočia pred n. l.", "type": "founding" },
+    { "year": "pred-veľkomoravská doba", "title": "Osídlenie Slovanmi", "description": "Hradisko bolo zrejme využívané aj Slovanmi ešte z pred-veľkomoravskej doby, ktorí sídelne nadväzujú na predchádzajúce obdobia.", "type": "era" },
+    { "year": "1963", "title": "Nález veľkomoravských črepov", "description": "Na roliach na západnom okraji obce sa našli veľkomoravské črepy.", "type": "discovery" },
+    { "year": "12. - 13. storočie", "title": "Stavba dreveného hradu", "description": "Niektorí výskumníci datujú stavbu hradu, asi dreveného, do 12. - 13. storočia.", "type": "construction" },
+    { "year": "1433", "title": "Osídlenie Bratríkmi", "description": "Hradisko bolo v stredoveku spolu s výšinou pri hrade Strečno osídlené Bratríkmi, vojskom.", "type": "event" },
+    { "year": "začiatok druhej polovice 15. stor.", "title": "Opätovné využívanie hradiska", "description": "Hradisko sa využívalo opäť až začiatkom druhej polovice 15. storočia, pravdepodobne vojskami bratríkov, ktorí tu operovali v rámci bojov o uhorský trón.", "type": "event" },
+    { "year": "1464", "title": "Nález mince Mateja Korvína", "description": "Popri keramike bol nájdený aj nález mince Mateja Korvína z roku 1464.", "type": "discovery" },
+    { "year": "1467", "title": "Porážka pri Veľkých Kostolanoch", "description": "Pod vplyvom neúspechov v bojoch proti vojsku kráľa Mateja Korvína, najmä po porážke pri Veľkých Kostolanoch v roku 1467, sa bratríci stiahli do bezpečnejších a lepšie chránených polôh severného a severozápadného Slovenska.", "type": "battle" },
+    { "year": "okolo 1474", "title": "Pôsobenie bratríkov na severe Slovenska", "description": "Bratríci sa pohybovali v severnom a severozápadnom Slovensku ešte aj okolo roku 1474.", "type": "event" }
+  ],
+  "keyFacts": [
+    { "label": "Nadmorská výška", "value": "652 m n. m.", "icon": "mountain" },
+    { "label": "Rozloha hradiska", "value": "0,16 ha (dĺžka S-J 60 m, V-Z 30 m)", "icon": "map" },
+    { "label": "Opevnenie severnej časti", "value": "Valy a priekopa, pôvodne pravdepodobne aj palisáda", "icon": "shield" },
+    { "label": "Osídlenie", "value": "Ľud púchovskej kultúry koncom 1. stor. pred n. l., neskôr Slovania", "icon": "book" },
+    { "label": "Nález mince", "value": "Minca Mateja Korvína z roku 1464", "icon": "star" },
+    { "label": "Datovanie stavby hradu", "value": "Asi drevený hrad z 12. - 13. storočia", "icon": "building" },
+    { "label": "Písomné pramene", "value": "O hradisku sa nezachoval žiadny písomný záznam", "icon": "custom" }
+  ],
+  "corrections": [
+    { "before": "pred n. 1.", "after": "pred n. l." },
+    { "before": "aj slovanmi ešte", "after": "aj Slovanmi ešte" },
+    { "before": "pro­ti vojsku", "after": "proti vojsku" },
+    { "before": "severozápad­ného Slovenska", "after": "severozápadného Slovenska" },
+    { "before": "krásne výhľady, Uprostred je brána", "after": "krásne výhľady, uprostred je brána" }
+  ]
+}

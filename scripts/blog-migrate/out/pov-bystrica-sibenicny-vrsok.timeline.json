@@ -1,0 +1,56 @@
+{
+  "timeline": [
+    {
+      "year": "staršia doba kamenná (paleolit)",
+      "title": "Najstaršie doklady osídlenia",
+      "description": "Nálezy úštepov z pazúrika a rádiolaritu, ktorých sa našlo niekoľko desiatok kusov, dokladajú využívanie polohy v staršej dobe kamennej; početné miniatúrne odštepky dokladajú výrobu kamenných nástrojov priamo na mieste.",
+      "type": "discovery"
+    },
+    {
+      "year": "1. storočie pred n. l.",
+      "title": "Vznik hradiska púchovskej kultúry",
+      "description": "Prvé osídlenie datovateľné do 1. storočia pred n. l. zaniklo zrejme požiarom.",
+      "type": "founding"
+    },
+    {
+      "year": "po zlome letopočtu",
+      "title": "Obnovenie kolových stavieb",
+      "description": "Kolové stavby so stenami omazanými hlinou zrejme znova postavili po zlome letopočtu.",
+      "type": "construction"
+    },
+    {
+      "year": "1. – 2. storočie n. l.",
+      "title": "Záver osídlenia polohy",
+      "description": "Záver osídlenia polohy je predbežne možné datovať do 1. – 2. storočia nášho letopočtu.",
+      "type": "destruction"
+    },
+    {
+      "year": "2008",
+      "title": "Archeologický výskum",
+      "description": "Výskum lokality Považská Bystrica – „Hradište“ prebehol v roku 2008 s podporou štátu pod vedením PhDr. Rudolfa Kujovského, CSc. a Mgr. Ondreja Žaára.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Opevnenie",
+      "value": "priekopa široká 6–8 m, hlboká viac ako 2,5 m; múr z nasucho kladených kameňov spevnený drevenými kolmi",
+      "icon": "shield"
+    },
+    {
+      "label": "Kultúrna vrstva",
+      "value": "pomerne tenká, cca 20 až 40 cm",
+      "icon": "map"
+    },
+    {
+      "label": "Rozmery domov",
+      "value": "väčšie domy o rozmeroch 4 × 8 m",
+      "icon": "building"
+    },
+    {
+      "label": "Kultúra",
+      "value": "púchovská kultúra",
+      "icon": "scroll"
+    }
+  ]
+}

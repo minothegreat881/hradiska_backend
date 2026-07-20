@@ -1,0 +1,95 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "9. storočie",
+      "title": "Hradisko v období Veľkej Moravy",
+      "description": "Konštrukcia opevnenia nadväzuje na hradby z doby veľkomoravskej; výhodná poloha a blízkosť Nitrianskej aglomerácie nasvedčujú, že hradisko bolo postavené a využívané už v čase Veľkej Moravy, pravdepodobne ako strážne hradisko s vojenskou funkciou.",
+      "type": "era"
+    },
+    {
+      "year": "polovica 11. storočia",
+      "title": "Postavenie prvého kamenného kostola",
+      "description": "Prvý kostol postavený z kameňa niekedy okolo polovice 11. storočia sa zachoval iba v základoch dnešnej stavby, apsida mala pôvodne podkovovitý tvar.",
+      "type": "construction"
+    },
+    {
+      "year": "11. storočie",
+      "title": "Vrstva z 9. storočia zničená hrobmi",
+      "description": "Predpokladaná kultúrna vrstva z 9. storočia bola zničená už najstaršími hrobmi z 11. storočia, keďže priestor hradiska sa začal trvalo využívať ako pohrebisko.",
+      "type": "destruction"
+    },
+    {
+      "year": "1113",
+      "title": "Prvá písomná zmienka o Dražovciach",
+      "description": "Prvá správa o obci sa zachovala v listine Zoborského opátstva, kde sa uvádza ako \"Villa Drasey S. Ypoliti\".",
+      "type": "event"
+    },
+    {
+      "year": "11. storočie - prvá polovica 17. storočia",
+      "title": "Stredoveké pohrebisko pri kostole",
+      "description": "Množstvo nájdených hrobov nasvedčuje, že miesto slúžilo ako cintorín od 11. storočia do prvej polovice 17. storočia; pochovávalo sa tu zhruba 500 rokov.",
+      "type": "era"
+    },
+    {
+      "year": "1929",
+      "title": "Prvý výskum Štefana Janšáka",
+      "description": "Hradisko prvý zameral a opísal Štefan Janšák, ktorý vyhotovil podrobný plán s vrstevnicami a priečnymi rezmi zachytávajúci jeho vtedajší stav.",
+      "type": "discovery"
+    },
+    {
+      "year": "1947",
+      "title": "Poškodenie valu kameňolomom",
+      "description": "Porovnanie Janšákovho plánu so stavom hradiska v roku 1947 ukázalo, že kameňolom dovtedy takmer úplne zničil val na južnej strane.",
+      "type": "destruction"
+    },
+    {
+      "year": "1961",
+      "title": "Výskum L. Kraskovskej",
+      "description": "Kraskovská publikovala výskum hradiska v Dražovciach v Študijných zvestiach AÚ SAV, zväzok 6.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Obec Dražovce leží 6 km západne od Nitry; hradisko sa nachádza na strmom vŕšku nad dedinou, na západnom výbežku Zoborského pohoria.",
+      "icon": "map"
+    },
+    {
+      "label": "Dražovský kostolík",
+      "value": "Na hradisku stojí známy dražovský kostolík, ktorý patrí medzi najfotogenickejšie kostolíky na Slovensku.",
+      "icon": "building"
+    },
+    {
+      "label": "Dĺžka vrcholového valu",
+      "value": "Vrcholový val je dlhý 190 m a veľkým oblúkom uzatvára plošinu akropoly.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Plocha hradiska",
+      "value": "Podľa Janšákovho merania mala plocha hradiska 4,2 áru.",
+      "icon": "map"
+    },
+    {
+      "label": "Tri dvory hradiska",
+      "value": "Hradisko malo tri dvory - dva vonkajšie predhradia medzi valmi a jeden vnútorný priestor, dodnes zachovalú akropolu.",
+      "icon": "shield"
+    },
+    {
+      "label": "Konštrukcia opevnenia",
+      "value": "Hradba vo východnej časti valu pozostávala z dvoch kamenných múrov s drevenou konštrukciou zasypanou hlinou, v severnej časti bola pravdepodobne len drevená palisáda.",
+      "icon": "custom"
+    },
+    {
+      "label": "Storočia pochovávania",
+      "value": "Na cintoríne pri kostole sa pochovávalo zhruba 500 rokov, od 11. storočia do prvej polovice 17. storočia.",
+      "icon": "book"
+    },
+    {
+      "label": "Praveké osídlenie",
+      "value": "Nálezy keramiky (lengyelská kultúra, kultúra kanelovanej keramiky) dokladajú, že plošina bola osídlená už v praveku, v mladšej dobe kamennej.",
+      "icon": "star"
+    }
+  ]
+}

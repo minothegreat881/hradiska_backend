@@ -1,0 +1,126 @@
+{
+  "slug": "zamcisko-modra",
+  "generatedAt": "2026-07-15T16:15:28.779Z",
+  "corrections": [
+    {
+      "before": "Zámčisko - Modra   ",
+      "after": "Zámčisko - Modra",
+      "reason": "trim trailing whitespace in heading",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "kedy hradisko s najväčšou pravdepodobnosťou slúžilo",
+      "after": "keď hradisko s najväčšou pravdepodobnosťou slúžilo",
+      "reason": "kedy->keď vo vzťažnej vete",
+      "category": "A8",
+      "occurrences": 1
+    },
+    {
+      "before": "pôvodní \"Modrania\" ako útočisko",
+      "after": "pôvodní „Modrania“ ako útočisko",
+      "reason": "straight quotes -> Slovak quotes",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "poslednými Babergovcami",
+      "after": "poslednými Babenbergovcami",
+      "reason": "typo, timeline already has correct \"Babenbergovcami\"",
+      "category": "cross-field",
+      "occurrences": 1
+    },
+    {
+      "before": "obdobie koncom 13. storočia, kedy bolo územie Malokarpatského",
+      "after": "obdobie koncom 13. storočia, keď bolo územie Malokarpatského",
+      "reason": "kedy->keď vo vzťažnej vete",
+      "category": "A8",
+      "occurrences": 1
+    },
+    {
+      "before": "Pezinok - Častá na vzdialenosť 15-20 km",
+      "after": "Pezinok – Častá na vzdialenosť 15 – 20 km",
+      "reason": "en-dash + spacing for route and number range (propagates to keyFacts)",
+      "category": "typography",
+      "occurrences": 2
+    },
+    {
+      "before": "Nález stručne popísala odborná pracovníčka",
+      "after": "Nález stručne opísala odborná pracovníčka",
+      "reason": "bohemizmus popísať(=opísať)->opísať",
+      "category": "A7",
+      "occurrences": 1
+    },
+    {
+      "before": "V ďalších riadkoch tu popisuje nájdený železný nôž",
+      "after": "V ďalších riadkoch tu opisuje nájdený železný nôž",
+      "reason": "bohemizmus popisovať->opisovať",
+      "category": "A7",
+      "occurrences": 1
+    },
+    {
+      "before": "„rezy valmi ,akropoly' Zámčiska",
+      "after": "„rezy valmi ‚akropoly' Zámčiska",
+      "reason": "comma used as nested opening quote -> proper single low quote",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "riešiť jej vzťah k predhradiu\".",
+      "after": "riešiť jej vzťah k predhradiu“.",
+      "reason": "straight ASCII closing quote -> Slovak closing quote",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "zámčisko na 2. voj. mapovaní",
+      "after": "Zámčisko na 2. voj. mapovaní",
+      "reason": "proper noun + sentence-initial capitalization (caption, propagates to gallery duplicate)",
+      "category": "A9",
+      "occurrences": 3
+    },
+    {
+      "before": "legendu, ktorá sa viaže na modranské Zámčisko",
+      "after": "legendu, ktorá sa viaže na modranské Zámčisko.",
+      "reason": "missing terminal period",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "To snáď malo byť upozornením, aby hrad bol postavený na inom mieste",
+      "after": "To azda malo byť upozornením, aby hrad bol postavený na inom mieste.",
+      "reason": "bohemizmus snáď->azda + missing terminal period",
+      "category": "A7",
+      "occurrences": 1
+    },
+    {
+      "before": "kolmá skala 10-15 m vysoká",
+      "after": "kolmá skala 10 – 15 m vysoká",
+      "reason": "digit range dash spacing (protected zone: mechanical only)",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "na vonkajšej strane sa dvíha 2-3 m nad dno",
+      "after": "na vonkajšej strane sa dvíha 2 – 3 m nad dno",
+      "reason": "digit range dash spacing (protected zone: mechanical only)",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "do hradiska sotva vystupuje 30-40 cm nad povrch",
+      "after": "do hradiska sotva vystupuje 30 – 40 cm nad povrch",
+      "reason": "digit range dash spacing (protected zone: mechanical only)",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "robí temer po celej dĺžke 5-6 m",
+      "after": "robí temer po celej dĺžke 5 – 6 m",
+      "reason": "digit range dash spacing (protected zone: mechanical only)",
+      "category": "typography",
+      "occurrences": 1
+    }
+  ],
+  "structuralChanges": []
+}

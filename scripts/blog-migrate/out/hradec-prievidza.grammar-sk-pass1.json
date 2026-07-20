@@ -1,0 +1,30 @@
+{
+  "slug": "hradec-prievidza",
+  "note": "grammar-sk agent, prvý plný vetný prechod (článok mal predtým iba starú pre-v7 preklepovú úpravu). Žiadne dobové/priame citáty, žiadne protected zones — celé telo je narátorský text alebo nepriama reč.",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "A8 nesprávne slovo (nie len pád)", "before": "vykopaním úzkej priehlbne", "after": "vykopaním úzkej priehlbiny", "block": "Hradisko sa nachádza na pomerne strmom...", "note": "priehlbeň → priehlbina, §21.1 A8" },
+    { "rule": "B typografia (číselný rozsah)", "before": "z 8. - 9. storočia", "after": "z 8. – 9. storočia", "block": "Hradisko sa nachádza na pomerne strmom...", "note": "zjednotené s keyFacts/timeline, ktoré už mali správny tvar '8. – 9. storočie'" },
+    { "rule": "B typografia (zložené prídavné meno, nie apozícia)", "before": "keltsko – dácke hradisko", "after": "keltsko-dácke hradisko", "block": "Laténsku dobu zastupujú najmä nálezy...", "note": "zjednotené s timeline, ktoré už malo správny tvar 'keltsko-dácke hradisko' (spojovník, nie pomlčka)" },
+    { "rule": "A7 bohemizmus", "before": "Mohlo sa však jednať o sídla", "after": "Mohlo však ísť o sídla", "block": "Hradec patrí medzi početné hradiská..." },
+    { "rule": "A9 etnonymum veľkým", "before": "hradisko bolo v časoch keltov trvalejšie osídlené", "after": "hradisko bolo v časoch Keltov trvalejšie osídlené", "block": "Hradec patrí medzi početné hradiská..." },
+    { "rule": "A7 bohemizmus", "before": "považovať i za útočištné a strážne hradisko", "after": "považovať i za útočiskové a strážne hradisko", "block": "Hradec patrí medzi početné hradiská...", "note": "útočištný → útočiskový, §21.1 A7; aj keyFacts 'Typ hradiska'" },
+    { "rule": "A7 bohemizmus", "before": "nedovoľuje dosiaľ bezpečne určiť", "after": "nedovoľuje doteraz bezpečne určiť", "block": "Hradec patrí medzi početné hradiská...", "note": "dosiaľ → doteraz, §21.1 A7" },
+    { "rule": "B typografia (násobenie)", "before": "rozmery 18x40 mm", "after": "rozmery 18 × 40 mm", "block": "Najpozoruhodnejším nálezom z hradiska...", "note": "aj keyFacts (malo 18×40 bez medzier)" },
+    { "rule": "B typografia (číselný rozsah)", "before": "hrúbka 1—1,5 mm", "after": "hrúbka 1 – 1,5 mm", "block": "Najpozoruhodnejším nálezom z hradiska..." },
+    { "rule": "A9 časopis malým", "before": "Slovenská Archeológia, 1994", "after": "Slovenská archeológia, 1994", "block": "Lit: Bialeková D., Pieta K...." , "note": "presný príklad z §21.1 A9" },
+    { "rule": "A8 preklep", "before": "Železné nálezy z prvej polovicee 9. storočia", "after": "Železné nálezy z prvej polovice 9. storočia", "block": "gallery caption (železo.jpg)" },
+    { "rule": "B typografia (pomlčka)", "before": "opevnenia sú už pomerne nevýrazné - výška maximálne 0,5 metra", "after": "opevnenia sú už pomerne nevýrazné — výška maximálne 0,5 metra", "block": "gallery caption (DSC_0750.JPG)" },
+    { "rule": "A8 preklep", "before": "čnejú dve andezidové bralá", "after": "čnejú dve andezitové bralá", "block": "gallery caption (DSC_0770.JPG)", "note": "zjednotené s 'andezitovými'/'andezitových' v tele" },
+    { "rule": "A8 preklep", "before": "Kamená stolička pána hradiska", "after": "Kamenná stolička pána hradiska", "block": "gallery caption (DSC_0775.JPG)" }
+  ],
+  "reviewed_no_change": [
+    "'Niektoré Novoobjavené Hradiská Slovenské' (Title Case) — presná reprodukcia názvu Janšákovej publikácie z roku 1928, ponechané nezmenené (fidelity k citovanému titulu, nie chyba veľkých písmen).",
+    "'Muzeum Slov. Spol.' (českej pravopis 'Muzeum') — pôvodný dobový názov vydavateľa v bibliografickej citácii z roku 1928, ponechané nezmenené.",
+    "Heading 'Orgoň' (osamotené meno) — viď review.json, autorský podpis, konzistentný vzor s ostatnými 3 článkami tejto dávky.",
+    "'obdĺžnikový tvar' — už v správnom tvare (bez nadbytočného dĺžňa), nezamieňať s chybným vzorom 'obdĺžníkový' z §21.1 A8."
+  ],
+  "flags": [
+    "Pozri out/hradec-prievidza.review.json — BIBLIO_IN_BODY (2 knižné citácie mimo content.sources) a informačná poznámka k heading-u 'Orgoň'."
+  ]
+}

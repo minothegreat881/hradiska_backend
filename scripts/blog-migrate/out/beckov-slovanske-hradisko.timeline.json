@@ -1,0 +1,109 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 12 timeline + 6 keyFacts.",
+  "timeline": [
+    {
+      "year": "koniec 5. – polovica 7. stor.",
+      "title": "Najstaršie slovanské osídlenie (Sady)",
+      "description": "Keramika pražského typu, polozemnica s pecou z obdobia prenikania slovanského obyvateľstva.",
+      "type": "founding"
+    },
+    {
+      "year": "koniec 7. – zač. 8. stor.",
+      "title": "Jama a studňa",
+      "description": "Studňa hlboká 295 cm s priemerom 205 cm.",
+      "type": "discovery"
+    },
+    {
+      "year": "druhá polovica 9. storočia",
+      "title": "Vznik hradiska",
+      "description": "Opevnené slovanské sídlisko vzniklo s najväčšou pravdepodobnosťou v tomto období ako strážny bod na strednom Považí.",
+      "type": "founding"
+    },
+    {
+      "year": "prelom 9. a 10. stor.",
+      "title": "Ďalšie osídlenie",
+      "description": "8 objektov (polozemnica, sídliskové jamy s keramickými nálezmi).",
+      "type": "discovery"
+    },
+    {
+      "year": "930 – 940",
+      "title": "Staromaďarské nájazdy",
+      "description": "Dosiahli maximálne severnú hranicu Bratislava – Hlohovec – Nitra – Levice – Rimavská Sobota, do stredného Považia nezasiahli.",
+      "type": "event"
+    },
+    {
+      "year": "po roku 1017",
+      "title": "Formálne súčasťou Uhorska",
+      "description": "Za vlády Štefana I. (1000 – 1038), hoci faktické zabratie prišlo neskôr.",
+      "type": "event"
+    },
+    {
+      "year": "1077 – 1095",
+      "title": "Faktické pripojenie k Uhorsku",
+      "description": "Za vlády kráľa Ladislava I. bola južná časť Trenčianskeho komitátu fakticky zabratá do uhorského štátu.",
+      "type": "event"
+    },
+    {
+      "year": "13. storočie",
+      "title": "Vznik kamenného hradu",
+      "description": "Počiatky kamenného hradu na mieste staršieho hradiska.",
+      "type": "construction"
+    },
+    {
+      "year": "1388",
+      "title": "Hrad dostáva Štibor zo Štiboríc",
+      "description": "Od uhorského kráľa Žigmunda Luxemburského — najvýznamnejšie obdobie v dejinách hradu.",
+      "type": "event"
+    },
+    {
+      "year": "1975",
+      "title": "Nález zničenej slovanskej osady",
+      "description": "Juhozápadne od poľnohospodárskeho družstva.",
+      "type": "discovery"
+    },
+    {
+      "year": "1983",
+      "title": "Doklady osídlenia z 10. storočia",
+      "description": "Nájdené \"za skalicami\".",
+      "type": "discovery"
+    },
+    {
+      "year": "začiatok 18. storočia",
+      "title": "Zánik hradu",
+      "description": "Kontinuita osídlenia trvala až po zánik hradu začiatkom 18. storočia.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha slovanského hradiska",
+      "value": "1,45 ha, najvyšší bod 253 m n. m.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozloha pravekého osídlenia",
+      "value": "Až 2,5 ha (neskorolaténske a včasnorímske obdobie)",
+      "icon": "mountain"
+    },
+    {
+      "label": "Výskum",
+      "value": "Systematicky skúmané pod vedením M. Kodoňovej a Š. Tóthovej (Pamiatkový ústav SR)",
+      "icon": "scroll"
+    },
+    {
+      "label": "Funkcia",
+      "value": "Strážny bod chrániaci vstup do oblasti trenčianskeho centra, nie samostatné mocenské centrum",
+      "icon": "shield"
+    },
+    {
+      "label": "Anonymova kronika",
+      "value": "Castrum \"Blundus\" (maď. Blondóc) stotožnené s Beckovom",
+      "icon": "book"
+    },
+    {
+      "label": "Štibor zo Štiboríc",
+      "value": "Vlastnil ~18 hradov a ~300 dedín, hrad dostal od Žigmunda Luxemburského",
+      "icon": "crown"
+    }
+  ]
+}

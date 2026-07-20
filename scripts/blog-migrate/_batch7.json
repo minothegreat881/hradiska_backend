@@ -1,0 +1,21 @@
+[
+ {"fb":"aktuality-2019-12-zbornik-o-hradiskach-sa-rychlo-predava","note":"grammar-sk v7 §21 — 'Zborník o hradiskách sa rýchlo predáva' (2019-12).","corrections":[
+   {"hint":0,"before":"zborník Hradiská - Svedkovia dávnych čias 2","after":"zborník Hradiská – Svedkovia dávnych čias 2","reason":"spojovník → en dash (B)"},
+   {"hint":1,"before":"Pripomínam že prvý zborník","after":"Pripomínam, že prvý zborník","reason":"čiarka pred že (A1)"}
+ ]},
+ {"fb":"aktuality-2020-03-2-z-vasich-dani-nam-velmi-pomozu","note":"grammar-sk v7 §21 — '2% z Vašich daní' (2020-03). FLAG: 'na 5 slovanskom mohylníku' (chýba/garbled) a dátumy 2025/2026 v článku z 2020 (obsah bol neskôr aktualizovaný) — na ručnú kontrolu, nemením.","corrections":[]},
+ {"fb":"aktuality-2020-10-vyroba-dosiek-pre-hradisko-bojna","note":"grammar-sk v7 §21 — 'Výroba dosiek pre hradisko Bojná' (2020-10).","corrections":[
+   {"hint":0,"before":"Cez víkend 3.-4. októbra 2020","after":"Cez víkend 3. – 4. októbra 2020","reason":"rozsah dní en dash + medzery (B)"},
+   {"hint":0,"before":"na opravu resp. dokončovanie","after":"na opravu, resp. dokončovanie","reason":"čiarka pred resp. (A1)"}
+ ]},
+ {"fb":"aktuality-2021-07-prednaska-o-archeologii-na-zs-s-ms","note":"grammar-sk v7 §21 — 'Prednáška o archeológii na ZŠ Dolné Orešany' (2021-07).","corrections":[
+   {"hint":1,"before":"Prednáškua som zorganizoval","after":"Prednášku som zorganizoval","reason":"preklep Prednáškua→Prednášku (A8)"},
+   {"hint":1,"before":"aké sú webové stránke a skupiny","after":"aké sú webové stránky a skupiny","reason":"nominatív pl. stránky (A8)"}
+ ]},
+ {"fb":"aktuality-2022-02-prinasame-vam-novinku-podcast-nasich","note":"grammar-sk v7 §21 — 'Podcast – Kelti na južnom Slovensku' (2022-02).","titleBefore":"Podcast  -Kelti na južnom Slovensku","titleAfter":"Podcast – Kelti na južnom Slovensku","corrections":[
+   {"hint":0,"before":"novinku - podcast našich","after":"novinku – podcast našich","reason":"spojovník → en dash (B)"}
+ ]},
+ {"fb":"aktuality-2022-03-podcast-praveke-mece","note":"grammar-sk v7 §21 — 'Podcast – Praveké meče' (2022-03).","titleBefore":"Podcast - Praveké meče","titleAfter":"Podcast – Praveké meče","corrections":[
+   {"hint":0,"before":"ktorý je tento krát špeciálne","after":"ktorý je tentokrát špeciálne","reason":"tento krát→tentokrát (A8)"}
+ ]}
+]

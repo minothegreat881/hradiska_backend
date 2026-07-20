@@ -1,0 +1,25 @@
+{
+  "slug": "prasnik-hradok-osada-u-fajnorov",
+  "flags": [
+    {
+      "type": "OCR_ARTIFACT",
+      "location": "blocks[2]/blocks[3] (Janšák 1928 quote-block)",
+      "note": "Backslash/merged-letter artifacts (e.g. \"h h\\ f\", \"e\\ g\", \"eei ghhif\", \"chodníkom k L Priečnymi\") likely represent degraded point-labels/subscripts (e.g. h1, e1) lost during OCR/extraction. Left untouched per SS21.3 protected zone -- needs verification against the original 1928 source image, not guessing."
+    },
+    {
+      "type": "UNCERTAIN_PROPER_NAME",
+      "location": "blocks[5] image caption / gallery[0].caption",
+      "note": "\"autor: Vesna (Slovakia by Drawning)\" -- \"Drawning\" may be a typo for \"Drawing\" in the artist/page name, or may be the actual name of a Facebook/art page. Left unchanged as a possible protected proper name pending confirmation."
+    },
+    {
+      "type": "PERSON_TENSE_MISMATCH",
+      "location": "blocks[38]",
+      "note": "\"sme sa dostali po modrej (prudký stupák) a potom po hrebeni prídete až ku kameňolomu\" switches from 1st person plural past (sme sa dostali) to 2nd person plural present (prídete) mid-sentence. Likely blended blog/guide voice; left unchanged as stylistic, not a clear-cut grammar error."
+    },
+    {
+      "type": "BIBLIO_IN_BODY",
+      "location": "blocks[40]-[41]",
+      "note": "Bibliography (Janšák 1928, Novák 2011) is embedded as plain paragraphs in body, not as a content.sources component; blogPost.citations[] is empty (matches sanityFlags: zeroCitations). Flagged per SS21.5 BIBLIO_IN_BODY -- structural, not a grammar fix."
+    }
+  ]
+}

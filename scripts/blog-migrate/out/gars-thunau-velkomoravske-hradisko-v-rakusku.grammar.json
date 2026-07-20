@@ -1,0 +1,11 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Gars-Thunau, 13.7.2026.",
+  "corrections": [
+    { "hint": 0, "before": "Moc Veľkomoravských kniežat", "after": "Moc veľkomoravských kniežat", "reason": "prídavné meno malým (vzor)" },
+    { "hint": 0, "before": "viaceré Veľkomoravské hradiská", "after": "viaceré veľkomoravské hradiská", "reason": "prídavné meno malým (vzor)" },
+    { "hint": 5, "before": "ranostredovekú čast hradiska", "after": "ranostredovekú časť hradiska", "reason": "chýbajúci mäkčeň (preklep)" },
+    { "hint": 9, "before": "Rano stredoveké obvodové opevnenie", "after": "Ranostredoveké obvodové opevnenie", "reason": "zhoda s 'ranostredovekými/ranostredovekej' použitými inde v článku" },
+    { "hint": 13, "before": "Priestory komôr boli vysypanie zeminou", "after": "Priestory komôr boli vysypané zeminou", "reason": "preklep koncovky" },
+    { "hint": 13, "before": "šírka základne hradby približne 7 m.", "after": "šírka základne hradby bola približne 7 m.", "reason": "vypadnuté sloveso" }
+  ]
+}

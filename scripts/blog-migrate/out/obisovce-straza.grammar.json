@@ -1,0 +1,250 @@
+{
+  "corrections": [
+    {
+      "path": "blogPost.title",
+      "before": "Obišovce - Stráža",
+      "after": "Obišovce – Stráža",
+      "reason": "typografia: pomlčka namiesto spojovníka v názve lokality"
+    },
+    {
+      "path": "blogPost.excerpt",
+      "before": "Obišovce - Stráža",
+      "after": "Obišovce – Stráža",
+      "reason": "typografia: pomlčka namiesto spojovníka v názve lokality"
+    },
+    {
+      "path": "blogPost.tags[0]",
+      "before": "Obišovce - Stráža",
+      "after": "Obišovce – Stráža",
+      "reason": "typografia: pomlčka namiesto spojovníka v názve lokality"
+    },
+    {
+      "path": "blogPost.blocks[0].body[0].children[0].text",
+      "before": "Obišovce - Stráža",
+      "after": "Obišovce – Stráža",
+      "reason": "typografia: pomlčka namiesto spojovníka v názve lokality"
+    },
+    {
+      "path": "blogPost.blocks[3].alt",
+      "before": "Obišovce - Stráža",
+      "after": "Obišovce – Stráža",
+      "reason": "typografia: pomlčka namiesto spojovníka v názve lokality"
+    },
+    {
+      "path": "blogPost.keyFacts[2].value",
+      "before": "1000 m",
+      "after": "1 000 m",
+      "reason": "typografia: oddeľovač tisícov"
+    },
+    {
+      "path": "blogPost.blocks[0].body[0].children[0].text",
+      "before": "1000 m",
+      "after": "1 000 m",
+      "reason": "typografia: oddeľovač tisícov"
+    },
+    {
+      "path": "blogPost.blocks[0].body[0].children[0].text",
+      "before": "Zaberá značnú plochu - cca 47 ha.",
+      "after": "Zaberá značnú plochu – cca 47 ha.",
+      "reason": "typografia: pomlčka"
+    },
+    {
+      "path": "blogPost.keyFacts[4].value",
+      "before": "Výšinný typ - pretiahnutá nepravidelná elipsa s priečne umiestnenou akropolou na západnej strane",
+      "after": "Výšinný typ – pretiahnutá nepravidelná elipsa s priečne umiestnenou akropolou na západnej strane",
+      "reason": "typografia: pomlčka"
+    },
+    {
+      "path": "blogPost.keyFacts[5].value",
+      "before": "Od funkcie strážiť - stráženie hraníc a obchodných ciest cez údolia Hornádu, Svinky a Torysy smerom do Poľska",
+      "after": "Od funkcie strážiť – stráženie hraníc a obchodných ciest cez údolia Hornádu, Svinky a Torysy smerom do Poľska",
+      "reason": "typografia: pomlčka"
+    },
+    {
+      "path": "blogPost.timeline[11].description",
+      "before": "Obrovský poklad - malo ísť o 60 bronzových nádob a zlatých ozdôb z doby bronzovej - bol ukradnutý vykrádačmi na prelome milénia",
+      "after": "Obrovský poklad – malo ísť o 60 bronzových nádob a zlatých ozdôb z doby bronzovej – bol ukradnutý vykrádačmi na prelome milénia",
+      "reason": "typografia: pomlčka (2×)"
+    },
+    {
+      "path": "blogPost.blocks[2].body[0].children[0].text",
+      "before": "z KPU Košice",
+      "after": "z KPÚ Košice",
+      "reason": "diakritika: KPÚ (Krajský pamiatkový úrad)"
+    },
+    {
+      "path": "blogPost.blocks[28].body[0].children[0].text",
+      "before": "FB príspevku KPU Košice",
+      "after": "FB príspevku KPÚ Košice",
+      "reason": "diakritika: KPÚ"
+    },
+    {
+      "path": "blogPost.blocks[30].body[0].children[0].text",
+      "before": "príspevku KPU Košice",
+      "after": "príspevku KPÚ Košice",
+      "reason": "diakritika: KPÚ (cross-field: body + citácia)"
+    },
+    {
+      "path": "blogPost.citations[8].text",
+      "before": "príspevku KPU Košice",
+      "after": "príspevku KPÚ Košice",
+      "reason": "diakritika: KPÚ (cross-field: body + citácia)"
+    },
+    {
+      "path": "blogPost.blocks[10].body[0].children[0].text",
+      "before": "minca Herrenie Etruscilly - manželky cisára Trajána Decia - 3. storočie n.l.",
+      "after": "minca Herennie Etruscilly – manželky cisára Trajána Decia – 3. storočia n. l.",
+      "reason": "meno Herennia Etruscilla (preklep Herrenie->Herennie, zhoda s timeline TL4) + pomlčky + medzera v \"n. l.\" + pád \"3. storočia\" (zhoda s TL4)"
+    },
+    {
+      "path": "blogPost.gallery[12].caption",
+      "before": "Herrenia Etruscilla",
+      "after": "Herennia Etruscilla",
+      "reason": "meno Herennia Etruscilla (preklep v popisku galérie)"
+    },
+    {
+      "path": "blogPost.blocks[10].body[0].children[0].text",
+      "before": "(2 bronzové špirálky)",
+      "after": "(dve bronzové špirálky)",
+      "reason": "nízka číslovka slovom (cross-field zhoda s TL1 \"dve bronzové špirálky\")"
+    },
+    {
+      "path": "blogPost.blocks[19].body[0].children[0].text",
+      "before": "zlaté ,,žezlo\" pochádzajúce",
+      "after": "zlaté „žezlo“ pochádzajúce",
+      "reason": "typografia: slovenské úvodzovky namiesto ,, a \""
+    },
+    {
+      "path": "blogPost.blocks[19].body[0].children[0].text",
+      "before": "nám žiaľ znemožňujú",
+      "after": "nám, žiaľ, znemožňujú",
+      "reason": "čiarky okolo vsuvky \"žiaľ\""
+    },
+    {
+      "path": "blogPost.blocks[6].body[0].children[0].text",
+      "before": "Ďalšie výrazné terénne hrany, využívané aj ako lesné cesty sú na severovýchodnej strane hradiska a to tiež v dvoch líniách.",
+      "after": "Ďalšie výrazné terénne hrany, využívané aj ako lesné cesty, sú na severovýchodnej strane hradiska, a to tiež v dvoch líniách.",
+      "reason": "uzavretie vsuvky čiarkou + čiarka pred \"a to\""
+    },
+    {
+      "path": "blogPost.blocks[7].body[0].children[0].text",
+      "before": "Val hradiska je na viacerých miestach prerušený a to jednak v kratších a jednak v dlhších úsekoch.",
+      "after": "Val hradiska je na viacerých miestach prerušený, a to jednak v kratších a jednak v dlhších úsekoch.",
+      "reason": "čiarka pred \"a to\""
+    },
+    {
+      "path": "blogPost.blocks[22].body[0].children[0].text",
+      "before": "okres Košice - okolie",
+      "after": "okres Košice-okolie",
+      "reason": "oficiálny názov okresu (spojovník bez medzier)"
+    },
+    {
+      "path": "blogPost.blocks[42].items[0].text",
+      "before": "okres Košice - okolie",
+      "after": "okres Košice-okolie",
+      "reason": "oficiálny názov okresu (spojovník bez medzier)"
+    },
+    {
+      "path": "blogPost.citations[1].text",
+      "before": "okres Košice - okolie",
+      "after": "okres Košice-okolie",
+      "reason": "oficiálny názov okresu (spojovník bez medzier)"
+    },
+    {
+      "path": "blogPost.blocks[32].body[0].children[0].text",
+      "before": "(okr. Košice - okolie)",
+      "after": "(okr. Košice-okolie)",
+      "reason": "oficiálny názov okresu (spojovník bez medzier)"
+    },
+    {
+      "path": "blogPost.citations[10].text",
+      "before": "(okr. Košice - okolie)",
+      "after": "(okr. Košice-okolie)",
+      "reason": "oficiálny názov okresu (spojovník bez medzier)"
+    },
+    {
+      "path": "blogPost.blocks[42].items[0].text",
+      "before": "4418/0 , Autori",
+      "after": "4418/0, Autori",
+      "reason": "medzera pred čiarkou"
+    },
+    {
+      "path": "blogPost.citations[1].text",
+      "before": "4418/0 , Autori",
+      "after": "4418/0, Autori",
+      "reason": "medzera pred čiarkou"
+    },
+    {
+      "path": "blogPost.citations[12].text",
+      "before": "z rôznych inštitúcii v procese",
+      "after": "z rôznych inštitúcií v procese",
+      "reason": "diakritika: genitív pl. \"inštitúcií\" (zhoda s telom)"
+    },
+    {
+      "path": "blogPost.blocks[36].body[0].children[0].text",
+      "before": "hodnoty cínu, kde v prípade tých dekoratívnych",
+      "after": "hodnoty cínu, pričom v prípade tých dekoratívnych",
+      "reason": "\"kde\" nemá vecný (miestny) referent, nahradené za \"pričom\""
+    },
+    {
+      "path": "blogPost.citations[14].text",
+      "before": "hodnoty cínu, kde v prípade tých dekoratívnych",
+      "after": "hodnoty cínu, pričom v prípade tých dekoratívnych",
+      "reason": "\"kde\" nemá vecný (miestny) referent, nahradené za \"pričom\""
+    },
+    {
+      "path": "blogPost.citations[14].text",
+      "before": "spresení sa ďalej pracuje",
+      "after": "spresnení sa ďalej pracuje",
+      "reason": "preklep: spresnení (zhoda s telom)"
+    },
+    {
+      "path": "blogPost.citations[13].text",
+      "before": "zrekonštruovat 11 artefaktov",
+      "after": "zrekonštruovať 11 artefaktov",
+      "reason": "chýbajúci mäkčeň"
+    },
+    {
+      "path": "blogPost.citations[13].text",
+      "before": "(náramok ?)",
+      "after": "(náramok?)",
+      "reason": "typografia: bez medzery pred otáznikom"
+    },
+    {
+      "path": "blogPost.citations[15].text",
+      "before": "a / alebo konského postroja",
+      "after": "a/alebo konského postroja",
+      "reason": "typografia: bez medzier (zhoda s telom)"
+    },
+    {
+      "path": "blogPost.blocks[34].body[0].children[0].text",
+      "before": "Východoslovenské Múzeum v Košiciach",
+      "after": "Východoslovenské múzeum v Košiciach",
+      "reason": "malé \"m\" v \"múzeum\" (zhoda s KF9 a oficiálnym názvom)"
+    },
+    {
+      "path": "blogPost.citations[12].text",
+      "before": "Východoslovenské Múzeum v Košiciach",
+      "after": "Východoslovenské múzeum v Košiciach",
+      "reason": "malé \"m\" v \"múzeum\" (zhoda s KF9 a oficiálnym názvom)"
+    },
+    {
+      "path": "blogPost.citations[16].text",
+      "before": "spoločenského vývoja redistribúcii kovov",
+      "after": "spoločenského vývoja, redistribúcii kovov",
+      "reason": "chýbajúca čiarka vo vymenovaní (zhoda s telom)"
+    },
+    {
+      "path": "blogPost.blocks[40].body[0].children[0].text",
+      "before": "(Makarová – Olšav - Pristáš)",
+      "after": "(Makarová – Olšav – Pristáš)",
+      "reason": "jednotné pomlčky namiesto zmesi pomlčka/spojovník"
+    },
+    {
+      "path": "blogPost.citations[18].text",
+      "before": "(Makarová – Olšav - Pristáš)",
+      "after": "(Makarová – Olšav – Pristáš)",
+      "reason": "jednotné pomlčky namiesto zmesi pomlčka/spojovník"
+    }
+  ]
+}

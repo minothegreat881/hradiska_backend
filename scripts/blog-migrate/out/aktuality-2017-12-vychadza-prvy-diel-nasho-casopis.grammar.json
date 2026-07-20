@@ -1,0 +1,11 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Vychádza prvý diel časopisu DIGITÁLNE HRADISKÁ' (2017-12). FLAG [4]: 'môže tomto čísle účtu' — chýba predložka 'na' (MISSING_WORD, §21.6 nedopĺňam, na ručnú úpravu).",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "novinkou - prvým dielom",
+      "after": "novinkou – prvým dielom",
+      "reason": "spojovník → en dash, vsuvka (B)"
+    }
+  ]
+}

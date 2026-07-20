@@ -1,0 +1,12 @@
+{
+  "slug": "drazovce",
+  "note": "FLAG-only nálezy z grammar-sk pass1 + pass2, nevyriešené, čakajú na rozhodnutie používateľa.",
+  "flags": [
+    {
+      "location": "content.quote-block (Janšák 1929, quote A — pôvodne blok 4+5, teraz blogPost.blocks[4])",
+      "issue": "Vnútri doslovného Janšákovho citátu (technický opis valov a-b-c-d) je vložená veta „(no ale pán Janšák, toľká politická nekorektnosť !)“ — zjavne MODERNÁ editorská poznámka oslovujúca Janšáka priamo v druhej osobe, vložená doprostred vety '...bezprostredne nad cigánskou (no ale pán Janšák, toľká politická nekorektnosť !) kolóniou.' Toto nie je Janšákov text z roku 1929.",
+      "action_taken": "PONECHANÉ bez zásahu (§21.6 bod 3 — nerozhodovať vecný/redakčný spor sám). Text citátu je inak nedotknutý.",
+      "decision_needed": "Vystrihnúť parentézu z quote-block textu úplne? Označiť ju osobitne ako [pozn. red.]? Alebo ponechať tak, ako je (súčasť pôvodného blogového zápisu z roku 2011, možno zámerný autorský humor)?"
+    }
+  ]
+}

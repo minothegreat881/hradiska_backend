@@ -1,0 +1,42 @@
+{
+  "timeline": [
+    { "year": "neskorá doba bronzová", "title": "Prvé osídlenie Kalamárky", "description": "Výšinnú polohu ako prvú osídlili nositelia lužickej a kyjatickej kultúry v neskorej dobe bronzovej.", "type": "founding" },
+    { "year": "záver doby bronzovej", "title": "Vznik najstaršieho opevnenia", "description": "Archeologický výskum preukázal, že najstaršie opevnenie lokality pochádza zo záveru doby bronzovej.", "type": "construction" },
+    { "year": "doba laténska", "title": "Osídlenie Keltmi", "description": "Kalamárku využívali aj Kelti.", "type": "event" },
+    { "year": "2. stor. n. l.", "title": "Germánski Kvádi", "description": "Lokalitu neskôr využívali germánski Kvádi, v čase keď proti nim na našom území bojoval rímsky cisár Marcus Aurélius.", "type": "event" },
+    { "year": "1. tretina – 1. pol. 9. stor.", "title": "Nálezy blatnicko-mikulčického horizontu", "description": "V období zániku avarského kaganátu a vzniku Nitrianskeho kniežatstva sa tu objavujú nálezy jazykovitého nákončia opaska a prevliečky blatnicko-mikulčického typu, dokladajúce prítomnosť sociálne privilegovanej vrstvy.", "type": "discovery" },
+    { "year": "koniec 9. – 10. stor.", "title": "Výstavba včasnostredovekého valu", "description": "Keramické nálezy vo výplni a podkladovej vrstve valu datujú jeho výstavbu do neskorého veľkomoravského až poveľkomoravského obdobia.", "type": "construction" },
+    { "year": "10. – 1. pol. 11. stor.", "title": "Strážna funkcia hradiska", "description": "Hradisko bolo bezpečne obývané v období staromaďarského ohrozenia, tzv. Bielochorvátskeho kniežatstva a prípadne aj počas českých a poľských zásahov a mocenského ovládnutia Slovenska.", "type": "era" },
+    { "year": "1018", "title": "Polsko-uhorské vyrovnanie", "description": "Stredoslovenské a severoslovenské regióny boli Arpádovcami pripojené k Uhorsku až po polsko-uhorskom vyrovnaní a smrti Boleslava Chrabrého v 2. polovici 11. storočia.", "type": "event" },
+    { "year": "2. pol. 11. stor.", "title": "Zánik osídlenia hradiska", "description": "Po stabilizácii štátotvornej situácie v Karpatskej kotline stratilo hradisko svoj strategický význam a nebolo už osídlené.", "type": "event" }
+  ],
+  "keyFacts": [
+    { "label": "Nadmorská výška a rozloha", "value": "803–816 m n. m., vrcholová plošina cca 0,9 ha", "icon": "mountain" },
+    { "label": "Prírodná ochrana", "value": "88 % obvodu chránia 8–25 m vysoké zvislé skalné steny", "icon": "shield" },
+    { "label": "Dĺžka valu", "value": "Približne 50 m dlhý val bránil jedinú prístupnú, východnú stranu", "icon": "building" },
+    { "label": "Analyzovaná keramika", "value": "2040 keramických črepov z viacerých období osídlenia", "icon": "book" },
+    { "label": "Vzácny nález", "value": "Medzi 72 ostatnými artefaktmi vynikal železný dvojsečný meč", "icon": "star" },
+    { "label": "Dnešný prístup", "value": "Lokalitu sprístupňuje náučný chodník s informačnými tabuľami", "icon": "map" },
+    { "label": "Koncentrácia nálezov", "value": "Až 91 % nálezov pochádza z vnútorného areálu hradiska", "icon": "custom" }
+  ],
+  "corrections": [
+    { "before": "bádatelov", "after": "bádateľov" },
+    { "before": "Chrapková Či Hrabková", "after": "Chrapková či Hrabková" },
+    { "before": "z tohoto obdobia", "after": "z tohto obdobia" },
+    { "before": "neskorovelkomoravského až poveIkomoravského obdobia", "after": "neskoroveľkomoravského až poveľkomoravského obdobia" },
+    { "before": "velmi zle zachovanej", "after": "veľmi zle zachovanej" },
+    { "before": "8.-10 . stor.", "after": "8.-10. stor." },
+    { "before": "hlavný typ velkomoravských opevnení", "after": "hlavný typ veľkomoravských opevnení" },
+    { "before": "neskorého velkomoravského až poveľkomoravského obdobia", "after": "neskorého veľkomoravského až poveľkomoravského obdobia" },
+    { "before": "staromadarského ohrozenia", "after": "staromaďarského ohrozenia" },
+    { "before": "a snád i neskôr", "after": "a snáď i neskôr" },
+    { "before": "českých a polských zásahov", "after": "českých a poľských zásahov" },
+    { "before": "regióne centrálneho Sloveniska", "after": "regióne centrálneho Slovenska" },
+    { "before": "hradisku i dalšie fortifikácie", "after": "hradisku i ďalšie fortifikácie" },
+    { "before": "historický význem detvianskeho", "after": "historický význam detvianskeho" },
+    { "before": "ktorému hradisko slúžilo sa nachádza", "after": "ktorému hradisko slúžilo, sa nachádza" },
+    { "before": "Význam hradiska Kaľamárka prezentuje", "after": "Význam hradiska Kalamárka prezentuje" },
+    { "before": "z osady Stavanisko pešo po červenej", "after": "z osady Stavanisko, pešo po červenej" },
+    { "before": "informačných tabulí", "after": "informačných tabúľ" }
+  ]
+}

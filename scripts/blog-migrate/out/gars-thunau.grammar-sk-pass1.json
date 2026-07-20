@@ -1,0 +1,22 @@
+{
+  "slug": "gars-thunau-velkomoravske-hradisko-v-rakusku",
+  "note": "grammar-sk agent, prvý prechod.",
+  "appliedFixes": [
+    { "rule": "A1 vsuvka čiarky (nahradenie neuzavretej pomlčky)", "before": "kniežat – ako je známe nesiahala", "after": "kniežat, ako je známe, nesiahala", "block": "0, excerpt" },
+    { "rule": "D cross-field meno + preklep", "before": "knieža Josef daroval ... zo stany historikov", "after": "knieža Jozef daroval ... zo strany historikov", "block": 1, "note": "'Jozef' zjednotené s timeline (id 3642)" },
+    { "rule": "D poradie/formát názvu miesta + A1 čiarka + A4 pád", "before": "Thunau / Gars je veľmi dobre ... v širokej krajinu ... situáciu ostrožny", "after": "Gars - Thunau, je veľmi dobre ... v širokej krajine ... situáciu ostrožiny", "block": 3, "note": "'Thunau / Gars' zjednotené s poradím v titulku/location ('Gars - Thunau'), rovnaká oprava aplikovaná aj v blokoch 6 a 9" },
+    { "rule": "A4 zhoda pádu/čísla", "before": "ohraničená ranostredovekými valom", "after": "ohraničená ranostredovekým valom", "block": 5 },
+    { "rule": "A4 pád + chýbajúca bodka", "before": "využili prirodzenej ochrany ruín ... osídlenia [bez bodky na konci]", "after": "využili prirodzenú ochranu ruín ... osídlenia.", "block": 6 },
+    { "rule": "B pomlčka (uzavretie vsuvky) + A9 malé písmeno", "before": "sa nachádzal - ako už bolo spomenuté Kniežací dvorec", "after": "sa nachádzal — ako už bolo spomenuté — kniežací dvorec", "block": 9 },
+    { "rule": "B násobenie + A1 chýbajúca čiarka", "before": "100 x 170 m ... terasy, Obere a Unter Holzwiese tvoria celok", "after": "100 × 170 m ... terasy, Obere a Unter Holzwiese, tvoria celok", "block": 11 },
+    { "rule": "A4 pád + A7 bohemizmus + B násobenie + A4 pád", "before": "zrubovými spôsobom ... Jednalo sa o roštovú konštrukciu ... 1,5 x 1,5 m ... spevnenie klincami", "after": "zrubovým spôsobom ... Išlo o roštovú konštrukciu ... 1,5 × 1,5 m ... spevnenia klincami", "block": 13 },
+    { "rule": "A4 zhoda rodu + A8 preklep (uloženie->uložené)", "before": "znázornená ako viacpodlažné veža ... vodorovne uloženie fošne", "after": "znázornená ako viacpodlažná veža ... vodorovne uložené fošne", "block": 18 },
+    { "rule": "B pomlčka (uzavretie vsuvky)", "before": "Osídlenie – teraz už poľnohospodárskeho charakteru sa presunulo", "after": "Osídlenie — teraz už poľnohospodárskeho charakteru — sa presunulo", "block": 20 }
+  ],
+  "reviewed_no_change": [
+    "Bloky 2, 4, 7, 8, 10, 12, 14-17, 19 — bez chýb.",
+    "'skupinovou technikou' (blok 15) vs. 'blokovou technikou' (blok 16) — možná terminologická nezrovnalosť, nízka istota, ponechané.",
+    "Zdroj 'Bc. Anna Bajerova: ... ve střední Evrope' — český bibliografický titul, ponechaný v pôvodnom jazyku bez zásahu."
+  ],
+  "flags": []
+}

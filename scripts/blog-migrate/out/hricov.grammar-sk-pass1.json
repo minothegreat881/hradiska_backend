@@ -1,0 +1,25 @@
+{
+  "slug": "hricovske-podhradie-hrad-hricov",
+  "note": "grammar-sk agent, prvý prechod.",
+  "criticalFixes": [
+    { "issue": "Blok 6 obsahoval bibliografiu (Moravčík 2015) a fotokredit zlepené v tele; článok nemal vôbec content.sources sekciu.", "fix": "Vytvorená nová content.sources sekcia s 2 položkami, blok 6 odstránený z tela." }
+  ],
+  "appliedFixes": [
+    { "rule": "D globálny slovník (zjednotenie zloženého priezviska)", "before": "A. Petrovský - Šichman / A. Petrovský – Šichman / V. Budinskému – Kričkovi / V. Budinského - Kričku", "after": "A. Petrovský-Šichman / V. Budinskému-Kričkovi / V. Budinského-Kričku (jednotný spojovník bez medzier)", "block": "0, 3, 4", "note": "timeline malo už správny tvar, telo bolo nekonzistentné a používalo raz medzerovaný spojovník, raz pomlčku" },
+    { "rule": "B typografia (chýbajúca medzera pred 'storočia')", "before": "20.storočia / 13.stor. / 10.stor. atď.", "after": "20. storočia / 13. storočia / 10. storočia", "block": "0, 3, 4, excerpt" },
+    { "rule": "B typografia (číselné rozsahy storočí = en dash s medzerami)", "before": "10.-11. a 12.-13. storočia / 9.-10. stor. / 10.-11.stor.", "after": "10. – 11. a 12. – 13. storočia / 9. – 10. storočia / 10. – 11. storočia", "block": "3, timeline" },
+    { "rule": "A7 bohemizmus", "before": "omnoho staršie / omnoho skôr / omnoho neskôr", "after": "oveľa staršie / oveľa skôr / oveľa neskôr", "block": "0, 4, excerpt" },
+    { "rule": "A5 slovosled + A1 chýbajúca čiarka", "before": "ktorý nesie názov aj Mikov kopec i v roku 1949", "after": "ktorý nesie aj názov Mikov kopec, i v roku 1949", "block": 0 },
+    { "rule": "D cross-field (skratka vs. plný tvar)", "before": "Štefan Meliš z P. Bystrice", "after": "Štefan Meliš z Považskej Bystrice", "block": 0, "note": "zjednotené s plným tvarom použitým v bloku 1" },
+    { "rule": "A8", "before": "dňa 25. 8. 1993, kedy sa skúmala", "after": "dňa 25. 8. 1993, keď sa skúmala", "block": 1 },
+    { "rule": "B typografia (znak násobenia)", "before": "6 x 3,5 m", "after": "6 × 3,5 m", "block": 1, "note": "zjednotené s KF, ktoré malo už správny znak ×" },
+    { "rule": "A4 nekonzistentná deklinácia cudzieho mena", "before": "od Justus van der Nypoorta", "after": "od Justusa van der Nypoorta", "block": 2, "note": "caption aj alt; krstné meno bolo v nominatíve, priezvisko v genitíve" },
+    { "rule": "B typografia (číselný rozsah)", "before": "v rokoch 1946-1947", "after": "v rokoch 1946 – 1947", "block": 4 },
+    { "rule": "B typografia (nekonzistentná úvodzovka)", "before": "„Imramovec“", "after": "„Imramovec\"", "block": 4, "note": "zjednotené s house-style (otvárajúca „, zatváracia rovná \")" }
+  ],
+  "reviewed_no_change": [
+    "'40-tych rokov' (excerpt/blok 0) — bežný akceptovaný neformálny tvar, ponechané.",
+    "Titulok 'HRIČOVSKÉ PODHRADIE – HRAD HRIČOV' vo veľkých písmenách — ponechaný, používateľ ho takto sám citoval vo svojom zozname, zjavne zámerný štýl."
+  ],
+  "flags": []
+}

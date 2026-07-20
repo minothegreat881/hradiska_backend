@@ -1,0 +1,31 @@
+{
+  "slug": "hradec-prievidza",
+  "appliedFixes": [
+    { "id": "01", "type": "vecné", "note": "'dar slovenskému šľachticovi' -> 'dar slovanskému veľmožovi' — dvojitý anachronizmus (rok 800: ani Slováci, ani stredoveká šľachta) opravený (blok 9)." },
+    { "id": "02", "type": "obrátený význam", "note": "Veta prepísaná podľa návrhu — nálezy datujú OSÍDLENIE do veľkomoravského obdobia, nie naopak (blok 8)." },
+    { "id": "03+08", "type": "stratená opatrnosť", "note": "'Hradec treba preto považovať i za útočištné...' -> 'Hradec preto možno pravdepodobne považovať i za útočiskové...' (zmiernené + opravený bohemizmus útočištné->útočiskové, blok 5). KF 'Typ hradiska' rovnako zmiernené a opravené." },
+    { "id": "04", "type": "zlé pole", "note": "Bibliografia (Lit: Bialeková/Pieta + Janšák) presunutá z tela (bloky 13,14, teraz odstránené) do Zdrojov. 'Lit:' skratka odstránená, Janšákov titul prepísaný z dobových verzáliek na moderný zápis, abreviatúry (Turč. sv. Martin, Muzeum Slov. Spol.) rozpísané." },
+    { "id": "05", "note": "Slovenská Archeológia -> Slovenská archeológia (v novej Zdroje položke)." },
+    { "id": "06", "note": "Mohlo sa jednať -> Mohlo však ísť (blok 5)." },
+    { "id": "07", "note": "v časoch keltov -> v časoch Keltov (blok 5), zhoda s Keltmi/Dákovia inde v článku." },
+    { "id": "09", "note": "polovicee -> polovice (galéria, media 1692, caption aj alt)." },
+    { "id": "10", "note": "andezidové -> andezitové (galéria, media 1701, caption aj alt)." },
+    { "id": "11", "note": "Kamená -> Kamenná (galéria, media 1705, caption aj alt)." },
+    { "id": "12", "note": "z iného uhlu -> z iného uhla (galéria, media 1698, caption aj alt)." },
+    { "id": "13", "note": "8. - 9. storočia -> 8. – 9. storočia (blok 1) — KF/timeline už mali správne." },
+    { "id": "14", "note": "18x40 mm -> 18 × 40 mm (blok 9 aj KF 'Najvýznamnejší nález')." },
+    { "id": "15", "note": "1—1,5 mm -> 1 – 1,5 mm (blok 9)." },
+    { "id": "16", "note": "keltsko – dácke -> keltsko-dácke (blok 4) — KF už malo správne." },
+    { "id": "17", "note": "'nevýrazné - výška' -> 'nevýrazné — výška' (galéria, media 1694, caption aj alt)." },
+    { "id": "18", "note": "priehlbne -> priehlbiny (blok 1)." }
+  ],
+  "structural": [
+    "Nadpis 'Fotogaléria 29.7.2012' pridaný ako nový blok pred sekciu Zdroje (bol v origináli, pri migrácii sa stratil).",
+    "Do Zdrojov pôvodne pridaná položka 'Foto:' — po upozornení používateľa (prázdna dvojbodka, rovnaký problém ako v 12 iných článkoch) odstránená, URL zostávajú bez nej."
+  ],
+  "followupFixes": [
+    "'Foto:' prázdna dvojbodka odstránená zo Zdrojov.",
+    "'Hradec preto možno pravdepodobne považovať' -> 'Hradec preto možno považovať' (dva modálne výrazy vedľa seba, ponechaný len jeden).",
+    "Timeline 1928 ('Janšákova publikácia...'): 'Niektoré Novoobjavené Hradiská Slovenské' -> 'Niektoré novoobjavené hradiská slovenské' — zosúladené so Zdrojmi. Štvrtý opakovaný prípad, kde bola oprava aplikovaná v tele/Zdrojoch, ale nie v timeline (po Bojniciach, Šimunkách, Vesteniciach) — treba na timeline dávať väčší pozor pri budúcich článkoch."
+  ]
+}

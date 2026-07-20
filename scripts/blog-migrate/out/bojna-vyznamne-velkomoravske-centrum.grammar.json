@@ -1,0 +1,21 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Bojná, 13.7.2026. Chránené kmene, priame citáty (Pieta, TASR) a quote-blocky nedotknuté okrem mechanických artefaktov prepisu.",
+  "corrections": [
+    { "hint": 0, "before": "včasno stredoveká lokalita", "after": "včasnostredoveká lokalita", "reason": "zhoda s 'včasnostredovekých' použitým inde v článku" },
+    { "hint": 0, "before": "Bojná II. A III.", "after": "Bojná II. a III.", "reason": "spojka a malým" },
+    { "hint": 2, "before": "dôvodu Je teda Bojná", "after": "dôvodu je teda Bojná", "reason": "sloveso malým uprostred vety" },
+    { "hint": 6, "before": "kliešťovitého tvaru , čiže", "after": "kliešťovitého tvaru, čiže", "reason": "medzera pred čiarkou" },
+    { "hint": 6, "before": "funkciu akejsi Mýtnej stanice", "after": "funkciu akejsi mýtnej stanice", "reason": "obyčajné podstatné meno malým" },
+    { "hint": 12, "before": "zrejmeútoky", "after": "zrejme útoky", "reason": "chýbajúca medzera" },
+    { "hint": 22, "before": "predmetom ďalších úvaha kombinácií", "after": "predmetom ďalších úvah kombinácií", "reason": "genitív mn.č. po ďalších" },
+    { "hint": 22, "before": "prenosného oltára altare portabile.", "after": "prenosného oltára, altare portabile.", "reason": "čiarka pred latinským glosom" },
+    { "hint": 25, "before": "9.stor.", "after": "9. stor.", "reason": "chýbajúca medzera, konzistentne s článkom" },
+    { "hint": 45, "before": "druhé srdce .. Po metalografických", "after": "druhé srdce. Po metalografických", "reason": "prebytočná bodka a medzera" },
+    { "hint": 45, "before": "Taliansku( Canino, Vatikán)", "after": "Taliansku (Canino, Vatikán)", "reason": "medzera pri zátvorke" },
+    { "hint": 45, "before": "na začiatok 9 stor.", "after": "na začiatok 9. stor.", "reason": "chýbajúca bodka" },
+    { "hint": 51, "before": "technikou vruborezu .", "after": "technikou vruborezu.", "reason": "medzera pred bodkou" },
+    { "hint": 51, "before": "Je dôležité si uvedomiť, z včasného stredoveku nepoznáme", "after": "Je dôležité si uvedomiť, že z včasného stredoveku nepoznáme", "reason": "vypadnutá spojka že" },
+    { "hint": 53, "before": "dlát,pílok,poriezov,", "after": "dlát, pílok, poriezov,", "reason": "chýbajúce medzery po čiarkach" },
+    { "hint": 77, "before": "potenciálne¬ho útoku", "after": "potenciálneho útoku", "reason": "rozbitý znak v priamom citáte Pietu — mechanický artefakt prepisu" }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-oresany-slepy-vrch-kresba.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1333677394313044919",
+    "bloggerPostUrl": "http://www.hradiska.sk/2015/05/oresany-slepy-vrch-kresba.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1333677394313044919/comments/default",
+    "extractedAt": "2026-07-16T21:57:37.518Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Orešany - Slepý vrch (kresba)",
+    "slug": "oresany-slepy-vrch-kresba",
+    "excerpt": "Náš spolupracovník Haden Sutton pre nás vytvoril kresbu najstaršieho keltského hradiska na Slovensku - Slepý vrch. Hradisko sa nachádza na rozhraní katastra obcí Horné a Dolné Orešany. Vnútorná plocha hradiska, tvorená najmä sídliskovými terasami,…",
+    "authorName": "Haden Sutton",
+    "publishedAt": "2015-05-13T20:30:00.001+02:00",
+    "originalPublishedDate": "2015-05-13T20:30:00.001+02:00",
+    "updatedAt": "2015-05-27T09:22:35.866+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmLmVoOd3fu4QwHfgq4Krrzea215_gcer4Y78pTk0bdmTyNJ60Ej853RAyJU7LhwwMXsHNKVF9YuGhS7MMqMsQ4r9D0Q0V0En8njKZP2dIk7511A4Eze5cUSSu_fgTo5L_NdhRzZn1bBQ/s0/Haden+kvalita.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmLmVoOd3fu4QwHfgq4Krrzea215_gcer4Y78pTk0bdmTyNJ60Ej853RAyJU7LhwwMXsHNKVF9YuGhS7MMqMsQ4r9D0Q0V0En8njKZP2dIk7511A4Eze5cUSSu_fgTo5L_NdhRzZn1bBQ/s1600/Haden+kvalita.jpg",
+        "filename": "Haden+kvalita.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmLmVoOd3fu4QwHfgq4Krrzea215_gcer4Y78pTk0bdmTyNJ60Ej853RAyJU7LhwwMXsHNKVF9YuGhS7MMqMsQ4r9D0Q0V0En8njKZP2dIk7511A4Eze5cUSSu_fgTo5L_NdhRzZn1bBQ/s1600/Haden+kvalita.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 225,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Orešany - Slepý vrch"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Lokalita",
+        "value": "Orešany - Slepý vrch",
+        "icon": "mountain"
+      },
+      {
+        "label": "Ilustrátor",
+        "value": "Haden Sutton",
+        "icon": "users"
+      },
+      {
+        "label": "Význam",
+        "value": "najstaršie keltské hradisko na Slovensku",
+        "icon": "star"
+      },
+      {
+        "label": "Poloha",
+        "value": "na rozhraní katastra Horné a Dolné Orešany",
+        "icon": "map"
+      }
+    ],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Náš spolupracovník Haden Sutton pre nás vytvoril kresbu najstaršieho keltského hradiska na Slovensku - Slepý vrch. Hradisko sa nachádza na rozhraní katastra obcí Horné a Dolné Orešany. Vnútorná plocha hradiska, tvorená najmä sídliskovými terasami, bola intenzívne obývaná. Svedčia o tom ešte aj dnes hojne sa vyskytujúce črepy z keltskej keramiky, ktoré sú roztrúsené na umelo upravených terasách okolo kopca, na ktorých pôvodne stáli obydlia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Táto kresba bude súčasťou informačnej tabule, ktorú naše OZ Hradiská umiestni na hradisku v Orešanoch. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

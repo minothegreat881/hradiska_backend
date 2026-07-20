@@ -1,0 +1,61 @@
+{
+  "timeline": [
+    {
+      "year": "okolo 1000 pred Kristom",
+      "title": "Najstaršie osídlenie (lužická kultúra)",
+      "description": "Predpokladá sa, že lokalita bola osídlená už 1000 rokov pred Kristom; najstaršie črepy možno datovať do obdobia mladšej doby bronzovej.",
+      "type": "founding"
+    },
+    {
+      "year": "do 3. storočia pred Kristom",
+      "title": "Trvanie lužickej kultúry",
+      "description": "Lužická kultúra pôsobila na lokalite v mladšej dobe bronzovej aj staršej dobe železnej, trvala až do 3. storočia pred Kristom.",
+      "type": "era"
+    },
+    {
+      "year": "mladšia doba železná",
+      "title": "Osídlenie púchovskou kultúrou",
+      "description": "Keramika púchovskej kultúry bola značne odlišná — vyrábala sa na hrnčiarskom kruhu, vyrábali sa aj zásobnice a časť keramiky z grafitu.",
+      "type": "era"
+    },
+    {
+      "year": "1. storočie n. l.",
+      "title": "Opustenie hradiska",
+      "description": "Predpokladá sa, že hradisko bolo opustené v prvom storočí nášho letopočtu v dobe rímskej.",
+      "type": "destruction"
+    },
+    {
+      "year": "2000",
+      "title": "Archeologický výskum náhornej plošiny",
+      "description": "V roku 2000 sa na náhornej plošine v niektorých terasách zistilo osídlenie viacerých období — od mladšej doby bronzovej cez staršiu a mladšiu dobu železnú až po dobu rímsku.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Nadmorská výška",
+      "value": "812 m n. m.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozloha hradiska",
+      "value": "viac ako 8 ha, dĺžka približne 630 m, šírka 80–120 m",
+      "icon": "map"
+    },
+    {
+      "label": "Odhadovaný počet domov",
+      "value": "asi 50 až 60",
+      "icon": "building"
+    },
+    {
+      "label": "Cisterna na dažďovú vodu",
+      "value": "priemer 15 m, hĺbka 1,5 m",
+      "icon": "water"
+    },
+    {
+      "label": "Vstup do hradiska",
+      "value": "kliešťová brána lemovaná hlinenými valmi, serpentínová prístupová cesta",
+      "icon": "shield"
+    }
+  ]
+}

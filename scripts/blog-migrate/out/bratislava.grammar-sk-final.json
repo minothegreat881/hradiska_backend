@@ -1,0 +1,38 @@
+{
+  "slug": "bratislava",
+  "pass": "grammar-sk final (pass1 applied + pass2 cross-field sweep)",
+  "appliedFixes": [
+    { "rule": "A1 chýbajúca čiarka pred vzťažnou vetou", "before": "Brezalauspurc) ktoré sa priamo dostali", "after": "Brezalauspurc), ktoré sa priamo dostali", "block": "0, excerpt" },
+    { "rule": "B typografia (zjednotenie úvodzoviek)", "before": "z \"hradného vrchu\"", "after": "z „hradného vrchu\"", "block": 1 },
+    { "rule": "B pomlčka + A1 vsuvka (zjednotenie interpunkcie) + nadbytočná čiarka", "before": "horizontu - tzn. ... ktorý by – ako uvádza Štefanovičová, podľa ... Podložka na vytepávanie, sa našla", "after": "horizontu — tzn. ... ktorý by, ako uvádza Štefanovičová, podľa ... Podložka na vytepávanie sa našla", "block": 4 },
+    { "rule": "B pomlčka (nadpis)", "before": "Veľkomoravské hradisko - priebeh", "after": "Veľkomoravské hradisko — priebeh", "block": 6 },
+    { "rule": "B typografia (smerový rozsah = en dash) + OCR preklep (1l->11) + malé písmeno", "before": "smere J—S ... najmä v1l. Storočí.", "after": "smere J – S ... najmä v 11. storočí.", "block": 10 },
+    { "rule": "A8 preklep + B násobenie", "before": "Rozmery objektu možnom len odhadnúť na 12x5,5 m. ... z 9.stor.", "after": "Rozmery objektu možno len odhadnúť na 12 × 5,5 m. ... z 9. storočia.", "block": 13 },
+    { "rule": "A8 preklep + B smerový rozsah", "before": "časť múru viditelná ... v smere V—Z.", "after": "časť múru viditeľná ... v smere V – Z.", "block": 18 },
+    { "rule": "OCR preklep (1l->11)", "before": "stál v1l. storočí druhý kostol", "after": "stál v 11. storočí druhý kostol", "block": 21 },
+    { "rule": "B typografia + A8 kedy->keď", "before": "10.stor., kedy na jej južnú časť", "after": "10. storočia, keď na jej južnú časť", "block": 25 },
+    { "rule": "B typografia (m²) + A8 preklepy (chýbajúce mäkčene)", "before": "plochou 320 cm2. ... podla ktorých ... ktoré vela nehovoria", "after": "plochou 320 cm². ... podľa ktorých ... ktoré veľa nehovoria", "block": 32, "note": "hodnota '320 cm²' NEMENENÁ (podozrivo malá) — pozri review.json" },
+    { "rule": "B typografia (chýbajúca medzera po dvojbodke)", "before": "P. Dvořák:Stopy dávnej minulosti", "after": "P. Dvořák: Stopy dávnej minulosti", "block": 33, "note": "caption aj alt (2x) + gallery[] duplicitná položka (3 miesta celkovo)" },
+    { "rule": "B pomlčka", "before": "keltských hradísk - oppidum v strednej Európe", "after": "keltských hradísk — oppidum v strednej Európe", "block": 45 },
+    { "rule": "Sources+citations: medzery, číselný rozsah, preklep", "before": "Elán , 1993 / v 9.-12. storočí / Výtvarý prejav", "after": "Elán, 1993 / v 9. – 12. storočí / Výtvarný prejav", "block": "sources + citations (obe polia, duplicitný text)" }
+  ],
+  "pass2CrossFieldCheck": {
+    "method": "Mapa before->after preverená proti keyFacts[], timeline[], gallery[], excerpt, title, tags.",
+    "findings": [
+      "keyFacts 'Kamenný palác' ('Rozmery 12 × 5,5 m') už malo správny formát PRED touto opravou — telo bolo pozadu, teraz zjednotené.",
+      "gallery[] duplicitná caption pre gombíky (P. Dvořák) opravená identicky s inline image-block.",
+      "gallery[] caption pre baziliku (A. Fiala 'Výtvarý prejav') opravená identicky so sources/citations fixom ('Výtvarný prejav').",
+      "keyFacts 'Jedno z troch hradísk v kronikách' malo neopravený rozsah '9.-10. storočia' (hyphen bez medzier) — opravené na '9. – 10. storočia' podľa §21.2, hoci draft toto pole nezachytil (predchádza grammar-sk pass, sweep vykonaný v Kroku 2).",
+      "sources aj citations duplikujú identický text pre všetky knižné položky — oba polia opravené zhodne."
+    ],
+    "outOfScope": "gallery captions bez zodpovedajúceho textu v appliedFixes (napr. minca 'uvedné (B)reslava Civ' – preklep 'uvedné'->'uvedené') neboli súčasťou tejto propagácie, keďže nešlo o mapovanú zmenu z tela; ponechané, iba poznamenané nižšie ako drobný nezávislý nález mimo formálneho rozsahu úlohy."
+  },
+  "skippedOrFlagged": [
+    { "item": "'XIIII. rímskej légie' (blok 18)", "reason": "Rímska číslica ponechaná — štandardná historiografická konvencia označovania rímskych légií (Legio XIV), nie bežné storočie. Ako v drafte." },
+    { "item": "Blok 41 — osamotená uzatváracia úvodzovka bez otváracej", "reason": "FLAG_UNCLOSED_QUOTE — pozri review.json, nedopĺňané/neodstraňované bez overenia zdroja (pravdepodobne Kraskovská 1962)." },
+    { "item": "Blok 32 — '320 cm²' (plocha zemnice)", "reason": "FLAG_NUMBER_IMPOSSIBLE — hodnota podozrivo malá pre pôdorys obydlia; iba formát opravený (cm2->cm²), samotné číslo NEMENENÉ bez overenia zdroja. Pozri review.json." },
+    { "item": "gallery caption 'uvedné (B)reslava Civ' (minca Štefana I.)", "reason": "Pravdepodobný preklep za 'uvedené', mimo formálneho rozsahu draftu/cross-field propagácie; nezasahované, len zaznamenané." }
+  ],
+  "protectedQuoteBlocks": "Žiadny content.quote-block v článku. Priamy citát Štassela v bloku 45 (moderný zdroj, nie dobový prameň) ponechaný ako rich-text, nekonvertovaný.",
+  "uploadReady": true
+}

@@ -1,0 +1,44 @@
+{
+  "timeline": [
+    {
+      "year": "700 – 400 pred Kristom",
+      "title": "Halštatská doba a osídlenie Oravy",
+      "description": "V halštatskej dobe bolo osídlenie Oravy relatívne husté; opevnené sídliská tvorili silný obranný celok miestneho kniežatstva prepojený dymovou signalizáciou.",
+      "type": "era"
+    },
+    {
+      "year": "3. – 2. storočie pred Kristom",
+      "title": "Zánik hrádku požiarom",
+      "description": "Zánik hrádku sa datuje do strednej doby laténskej — príčinou bol požiar, ktorý spálil hrádok aj podhradie; predpokladá sa, že zanikol spolu s hradiskom v Istebnom.",
+      "type": "destruction"
+    },
+    {
+      "year": "1954",
+      "title": "Archeologický výskum",
+      "description": "Z archeologického výskumu uskutočneného roku 1954 bolo zrejmé, že ide o opevnené halštatské sídlisko.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Opevnenie",
+      "value": "šijový val vysoký asi 6 m, drevená obranná chodba široká 4 m na kamennej nadmurovke",
+      "icon": "shield"
+    },
+    {
+      "label": "Priekopa",
+      "value": "klinová, hlboká 2 m",
+      "icon": "map"
+    },
+    {
+      "label": "Susedné halštatské hradiská na Orave",
+      "value": "Tvrdošín, Podbiel, Istebné-Hrádok, Vyšný Kubín, Žaškov-Hrádok, Jasenica-Hrdoš, Mezibrodie, Oravský podzámok",
+      "icon": "flag"
+    },
+    {
+      "label": "Podhradská osada",
+      "value": "na mieste súčasnej obce Sedliacka Dubová, odkryté základy halštatských usadlostí",
+      "icon": "building"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 7 timeline + 6 keyFacts.",
+  "timeline": [
+    {
+      "year": "obdobie sťahovania národov",
+      "title": "Staršie primitívne obranné valy",
+      "description": "Slovania na kopci našli už existujúce staršie opevnenie, ktoré obnovili a zdokonalili, čím postavili Nový hrad (Novigrad).",
+      "type": "founding"
+    },
+    {
+      "year": "prelom 9. – 10. storočia",
+      "title": "Slovanské hradisko Novohrad",
+      "description": "Mohutné valové opevnenie s drevenou komorovou konštrukciou naplnenou hlinou; správne centrum na čele so županom.",
+      "type": "construction"
+    },
+    {
+      "year": "1299",
+      "title": "Zakladacia listina Budínskej kapituly",
+      "description": "Označuje hrad ako „Castrum Novigrad“; Anonymova kronika ho spomína ako „Castrum Nougrad“.",
+      "type": "event"
+    },
+    {
+      "year": "po príchode Maďarov",
+      "title": "Vznik Novohradskej župy",
+      "description": "Z hradiska sa stal župný hrad, po ktorom bola pomenovaná Novohradská (Nógrádska) župa.",
+      "type": "event"
+    },
+    {
+      "year": "1475 – 1506",
+      "title": "Prestavba biskupa Mikuláša Bátoriho",
+      "description": "Podľa plánov talianskeho architekta postavený vnútorný hrad oddelený od vonkajšieho priekopou vysekanou v skale; vonkajší hrad chránili tri veľké talianske bašty.",
+      "type": "construction"
+    },
+    {
+      "year": "1685",
+      "title": "Výbuch pušného prachu",
+      "description": "Do veže so skladovaným pušným prachom udrel hrom, výbuch natoľko rozrušil vnútorný hrad, že ho Turci boli nútení opustiť.",
+      "type": "destruction"
+    },
+    {
+      "year": "1709",
+      "title": "Definitívne zrúcanie hradu",
+      "description": "Trosky hradu dôkladne rozrumili najprv kuruci a následne aj labanci, aby z neho nemal úžitok protivník.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Osamotený kopec vulkanického pôvodu nad obcou Nógrád (Maďarsko), nadmorská výška 286 m, relatívna výška 50 – 60 m",
+      "icon": "mountain"
+    },
+    {
+      "label": "Pôvod názvu",
+      "value": "Slovanský „Nový hrad“ (Novigrad) — dodnes zachovaný v maďarskom mene Nógrád aj v pomenovaní Novohradskej (Nógrádskej) župy",
+      "icon": "crown"
+    },
+    {
+      "label": "Vonkajší hrad",
+      "value": "Nepravidelný tvar, rozmery približne 140 × 90 m, chránený troma veľkými baštami talianskeho typu naplnenými hlinou",
+      "icon": "shield"
+    },
+    {
+      "label": "Vnútorný hrad",
+      "value": "Oddelený od vonkajšieho 30 stôp širokou a hlbokou priekopou vysekanou v skale; obsahoval palác, vežu a do skaly vytesanú studňu",
+      "icon": "building"
+    },
+    {
+      "label": "Osud počas osmanskej éry",
+      "value": "Hrad sa dvakrát dostal do rúk Turkom; v roku 1685 ho zničil výbuch pušného prachu po zásahu bleskom",
+      "icon": "star"
+    },
+    {
+      "label": "Zdroj spracovania",
+      "value": "Spracovala: Kvetka",
+      "icon": "scroll"
+    }
+  ]
+}

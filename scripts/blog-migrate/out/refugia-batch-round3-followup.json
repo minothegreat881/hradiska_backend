@@ -1,0 +1,31 @@
+{
+  "note": "Round 3 follow-up fixes after user's second review of the 5 refugiá articles (post grammar-sk pass 2).",
+  "selce-hradok": [
+    "'v nadm. v. 780 m' rozpísané na 'v nadmorskej výške 780 m n. m.' (zhoda s KF) — vyžadovalo NFC normalizáciu textu pred replace (NFD diakritika v 'chotári').",
+    "Komentár Jána Vicena (2017) upozorňujúci, že k Hrádku vedie modrá turistická značka od Sásovej na Pánsky diel — telo prepísané z 'nevedie značený chodník' na presný opis trasy z komentára."
+  ],
+  "sklabina-macaci-hradok": [
+    "Nadpis, tag, lokalita: 'Skľabiňa' -> 'Sklabiňa' (telo malo už správne 'sklabinského').",
+    "KF 'Prvá písomná zmienka' zmiernené — timeline malo už správny hedge ('podľa niektorých obyvateľov môže viazať'), KF to tvrdilo natvrdo. KF prepísané na zhodu s timeline.",
+    "Timeline 'Avans 2001' -> 'AVANS 2001' (zhoda so Zdrojmi)."
+  ],
+  "sucany-skala": [
+    "Blok 3 (Janšákov technický opis valov — val k b z i l, m o c s n, o p d r s; tvary temer/omnoho) prevedený na content.quote-block (author='Štefan Janšák', source='Staré osídlenie Slovenska, 1930').",
+    "'I. storočia n. l.' -> '1. storočia n. l.' (telo, KF, timeline year aj description).",
+    "'4350 m²' -> '4 350 m²' (telo aj KF).",
+    "Galéria media 2635: 'Na hradiski' -> 'Na hradisku'.",
+    "NEVYRIEŠENÉ/FLAG: spony datované do 1. stor. n. l. spájané v texte s púchovskou kultúrou — používateľ žiadal overiť v pôvodnom Hrubcovi, nemám prístup k zdroju, ponechané bez zásahu."
+  ],
+  "turcianske-jaseno-hradiste": [
+    "Bloky 1+2 (Janšákov opis — uhly b c e/i k e, 'nemá nijakej výšky', 'ničím nehatený') zlúčené a prevedené na content.quote-block (author='Štefan Janšák', source='Staré osídlenie Slovenska, 1930').",
+    "Timeline 'Nález slovanskej keramiky': nemecká úvodzovka „neisté opevnené výšinné sídliská“ opravená na „...\" (telo už opravené v predošlom kole, timeline nie)."
+  ],
+  "zilina-zavodie": [
+    "Pole 'alt' (nie 'caption') pri obrázkoch blok 5 a 7 bolo orezané na 255 znakov schema limitom uprostred CSS smetia (MIGRATION.md §9.11) — predošlý fix caption nechal alt nedotknuté. Opravené priamym prepísaním alt = caption (telo aj zodpovedajúce galérijné médiá).",
+    "authorName: 'Orgon' -> 'Mgr. Jozef Moravčík' (skutočný, menovite uvedený autor prevzatého textu).",
+    "3 galérijné popisky: 'severo-východný'/'juho východného' -> 'severovýchodný'/'juhovýchodného' (spolu, bez spojovníka/medzery) — media 2655, 2657, 2658.",
+    "'omnoho výraznejšie' -> 'oveľa výraznejšie' (blok 6).",
+    "Pridaná nová timeline položka pre Mateja Bela (najstarší citovaný zdroj v článku, predtým bez timeline zápisu) — rok odhadnutý opatrne ako '18. storočie (podľa Bela)' keďže text sám presný rok neuvádza, len citované moderné vydanie (Bel 2013); description to explicitne priznáva.",
+    "'Článok prevzatý z :' prázdna dvojbodka — už bola vyriešená v predošlom kole (fragment sa nenašiel pri kontrole, sekcia Zdroje je čistá)."
+  ]
+}

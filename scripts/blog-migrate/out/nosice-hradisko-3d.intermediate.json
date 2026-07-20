@@ -1,0 +1,142 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-nosice-hradisko-3d.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-2103196522891292557",
+    "bloggerPostUrl": "http://www.hradiska.sk/2018/05/nosice-hradisko-3d.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/2103196522891292557/comments/default",
+    "extractedAt": "2026-07-16T21:57:29.887Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/Ifb28OllFLA?feature=player_embedded"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Nosice - Hradisko 3D",
+    "slug": "nosice-hradisko-3d",
+    "excerpt": "Dnes nás milo prekvapil Naj so svojím pokusom o 3D vizualizáciu hradiska púchovskej kultúry v Nosiciach. Pôdorysne vychádzal z nákresu od Martina Olšovského, ktorý je spracovaný v knihe Po stopách predkov, pričom treba uviesť, že jeho plánik treba…",
+    "authorName": "Naj",
+    "publishedAt": "2018-05-07T10:09:00.002+02:00",
+    "originalPublishedDate": "2018-05-07T10:09:00.002+02:00",
+    "updatedAt": "2018-05-07T15:34:22.064+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiapftnZDh0qWZYugBORY8rydwx19nHDURq1UzyWmHTNPNiLTxndELqVPRN7OhXHs0h8vNnlFiryDValmyb2cQ87AlKKw8BPgqN6Nmrg0MbLM7IBdKVhW4e4PmBmKjLG9VU6l-_FGwQrPx/s0/3D.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiapftnZDh0qWZYugBORY8rydwx19nHDURq1UzyWmHTNPNiLTxndELqVPRN7OhXHs0h8vNnlFiryDValmyb2cQ87AlKKw8BPgqN6Nmrg0MbLM7IBdKVhW4e4PmBmKjLG9VU6l-_FGwQrPx/s1600/3D.jpg",
+        "filename": "3D.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiapftnZDh0qWZYugBORY8rydwx19nHDURq1UzyWmHTNPNiLTxndELqVPRN7OhXHs0h8vNnlFiryDValmyb2cQ87AlKKw8BPgqN6Nmrg0MbLM7IBdKVhW4e4PmBmKjLG9VU6l-_FGwQrPx/s1600/3D.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1600,
+          "originalHeight": 900
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Kultúra",
+        "value": "púchovská kultúra",
+        "icon": "users"
+      },
+      {
+        "label": "Obdobie zobrazenia",
+        "value": "opevnenie hradiska približne pred 2000 rokmi",
+        "icon": "calendar"
+      },
+      {
+        "label": "Podklad vizualizácie",
+        "value": "pôdorys podľa nákresu Martina Olšovského (kniha Po stopách predkov)",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "pred cca 2000 rokmi",
+        "title": "Opevnenie hradiska púchovskej kultúry",
+        "description": "3D vizualizácia zobrazuje približný vzhľad opevnenia hradiska v Nosiciach spred asi 2000 rokov.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dnes nás milo prekvapil Naj so svojím pokusom o 3D vizualizáciu"
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/2015/03/nosice-hradisko.html",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "hradiska púchovskej kultúry v Nosiciach."
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Pôdorysne vychádzal z nákresu od Martina Olšovského, ktorý je spracovaný v knihe Po stopách predkov, pričom treba uviesť, že jeho plánik treba považovať za momentálne najpresnejší.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z krátkeho videa je možné si urobiť pomerne dobrú predstavu o približnom vzhľade opevnenia hradiska pred 2000 rokmi. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "Ifb28OllFLA",
+        "url": "https://www.youtube.com/embed/Ifb28OllFLA",
+        "caption": ""
+      }
+    ],
+    "citations": []
+  }
+}

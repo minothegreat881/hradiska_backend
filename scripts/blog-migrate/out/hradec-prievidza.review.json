@@ -1,0 +1,20 @@
+{
+  "slug": "hradec-prievidza",
+  "note": "FLAG-only nálezy z grammar-sk pass1 + pass2, nevyriešené, čakajú na rozhodnutie používateľa.",
+  "flags": [
+    {
+      "category": "BIBLIO_IN_BODY",
+      "location": "blogPost.blocks[] — 2 samostatné content.rich-text bloky za heading-om 'Orgoň': 'Lit: Bialeková D., Pieta K.: Zisťovací výskum v Hradci...' a 'Janšák, Štefan. Niektoré Novoobjavené Hradiská Slovenské...'",
+      "issue": "Dve knižné bibliografické položky sú vložené ako obyčajné odseky v tele namiesto content.sources. Existujúci content.sources blok (na konci) obsahuje iba 2 URL odkazy (geocaching.sk, hiking.sk), knižné citácie Bialeková/Pieta 1994 a Janšák 1928 v ňom chýbajú. Presne zodpovedá vzoru §21.5 BIBLIO_IN_BODY.",
+      "action_taken": "Ponechané štrukturálne nezmenené (mimo rozsahu gramatickej korektúry). Iba 1 mechanická oprava veľkého/malého písmena v citácii (Slovenská Archeológia → Slovenská archeológia, A9) bola vykonaná v texte samotnom.",
+      "decision_needed": "Presunúť obe knižné citácie do content.sources.items (+ doplniť do top-level citations[]), podobne ako bolo urobené v drazovce."
+    },
+    {
+      "category": "STRUCTURAL_ORPHAN_HEADING",
+      "location": "blogPost.blocks[] — samostatný heading blok s textom iba 'Orgoň'",
+      "issue": "Rovnaký vzor ako v ostatných troch článkoch tejto dávky (§21.10) — autorský podpis ako samostatný heading.",
+      "action_taken": "Ponechané bez zmeny, nejde o stratu obsahu.",
+      "decision_needed": "Žiadne — iba nahlásené pre úplnosť."
+    }
+  ]
+}

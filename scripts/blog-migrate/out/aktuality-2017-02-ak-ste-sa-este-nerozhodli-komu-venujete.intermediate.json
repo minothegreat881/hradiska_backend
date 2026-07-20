@@ -1,0 +1,111 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2017-02-ak-ste-sa-este-nerozhodli-komu-venujete.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-2671506148001422214",
+    "bloggerPostUrl": "http://www.hradiska.sk/2017/02/ak-ste-sa-este-nerozhodli-komu-venujete.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/2671506148001422214/comments/default",
+    "extractedAt": "2026-07-18T11:21:27.194Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/HzdB-CxSyV8"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "2% pre Hradiská",
+    "slug": "2-pre-hradiska",
+    "excerpt": "Ak ste sa ešte nerozhodli, komu venujete 2% z daní, ponúkame Vám výsledky našej činnosti v roku 2016. Všetky nálezy pochádzajú z oficiálnych archeologických výskumov, na ktorých sme pomáhali. Vydali sme Zborník o hradiskách a pripravili sme ďalšie…",
+    "authorName": "Orgon",
+    "publishedAt": "2017-02-18T21:09:00.001+01:00",
+    "originalPublishedDate": "2017-02-18T21:09:00.001+01:00",
+    "updatedAt": "2017-03-07T15:59:37.773+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgexXt9ssofaqpLXG997JB_l0cLtC7XoSDaQuY__H0W16cXyQW_vjGGMx4iH044TPGyQ4S3uqDFNoLn-gapZB_03g47a58HL66IWa3mUXuM_qi9Rl-53ILC6k4VEp2Fk8iTmv4U7p040JI/s0/2%2525+Kondrk.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgexXt9ssofaqpLXG997JB_l0cLtC7XoSDaQuY__H0W16cXyQW_vjGGMx4iH044TPGyQ4S3uqDFNoLn-gapZB_03g47a58HL66IWa3mUXuM_qi9Rl-53ILC6k4VEp2Fk8iTmv4U7p040JI/s1600/2%2525+Kondrk.jpg",
+        "filename": "2%25+Kondrk.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgexXt9ssofaqpLXG997JB_l0cLtC7XoSDaQuY__H0W16cXyQW_vjGGMx4iH044TPGyQ4S3uqDFNoLn-gapZB_03g47a58HL66IWa3mUXuM_qi9Rl-53ILC6k4VEp2Fk8iTmv4U7p040JI/s1600/2%2525+Kondrk.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 226,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ak ste sa ešte nerozhodli, komu venujete 2% z daní, ponúkame Vám výsledky našej činnosti v roku 2016. Všetky nálezy pochádzajú z oficiálnych archeologických výskumov, na ktorých sme pomáhali. Vydali sme Zborník o hradiskách a pripravili sme ďalšie informačné tabule. Začali sme sa tiež venovať kvalitným 3D rekonštrukciám hradísk a stavieb. Okrem toho samozrejme pribudli na stránke nové hradiská. Venujeme sa tiež záchrane a ochrane hradísk.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "https://drive.google.com/open?id=0Bz79Vf5Wo5JwUzlHdE1LVFdVZEU",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Tlačivo na poukázanie 2% si môžete stiahnuť tu."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "HzdB-CxSyV8",
+        "url": "https://www.youtube.com/embed/HzdB-CxSyV8",
+        "caption": ""
+      }
+    ],
+    "citations": []
+  }
+}

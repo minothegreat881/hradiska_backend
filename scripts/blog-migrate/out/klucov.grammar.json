@@ -1,0 +1,16 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Klučov, 13.7.2026. Doplnok k skoršej oprave duplicít (Bajerova) z auditu Mocenských centier.",
+  "corrections": [
+    { "hint": 0, "before": "zistilo , že", "after": "zistilo, že", "reason": "medzera pred čiarkou" },
+    { "hint": 2, "before": "poľnohospodárskov činnosťou", "after": "poľnohospodárskou činnosťou", "reason": "preklep" },
+    { "hint": 2, "before": "do údolia .", "after": "do údolia.", "reason": "medzera pred bodkou" },
+    { "hint": 2, "before": "a prítoky .", "after": "a prítoky.", "reason": "medzera pred bodkou" },
+    { "hint": 3, "before": "8. storočia , jeho", "after": "8. storočia, jeho", "reason": "medzera pred čiarkou" },
+    { "hint": 5, "before": "( opevnené výšinné hradisko )", "after": "(opevnené výšinné hradisko)", "reason": "medzery pri zátvorke" },
+    { "hint": 5, "before": "( Přistoupim, Doubravčice a Tismice )", "after": "(Přistoupim, Doubravčice a Tismice)", "reason": "medzery pri zátvorke" },
+    { "hint": 5, "before": "tvorila obrannú a hospodársku záklaňu", "after": "tvorilo obrannú a hospodársku základňu", "reason": "zhoda s podmetom Hradisko (stred. rod) + preklep základňa" },
+    { "hint": 16, "before": "na Klučově či iných", "after": "na Klučove či iných", "reason": "slovenský tvar (bez ě)" },
+    { "hint": 21, "before": "zdokonaľované .", "after": "zdokonaľované.", "reason": "medzera pred bodkou" },
+    { "hint": 21, "before": "umocnená priekopa v jej", "after": "umocnená priekopou v jej", "reason": "inštrumentál po umocnená" }
+  ]
+}

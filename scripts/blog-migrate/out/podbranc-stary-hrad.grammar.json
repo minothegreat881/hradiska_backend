@@ -1,0 +1,148 @@
+{
+  "corrections": [
+    {
+      "path": "blogPost.title",
+      "before": "Podbranč - Starý hrad",
+      "after": "Podbranč – Starý hrad",
+      "reason": "typografia: pomlčka v názve lokality (title/tags/alt/telo)"
+    },
+    {
+      "path": "blogPost.tags[1]",
+      "before": "Podbranč - Starý hrad",
+      "after": "Podbranč – Starý hrad",
+      "reason": "typografia: pomlčka v názve lokality (title/tags/alt/telo)"
+    },
+    {
+      "path": "blogPost.blocks[0].body[0].children[0].text",
+      "before": "Podbranč - Starý hrad",
+      "after": "Podbranč – Starý hrad",
+      "reason": "typografia: pomlčka v názve lokality (title/tags/alt/telo)"
+    },
+    {
+      "path": "blogPost.blocks[3].alt",
+      "before": "Podbranč - Starý hrad",
+      "after": "Podbranč – Starý hrad",
+      "reason": "typografia: pomlčka v názve lokality (title/tags/alt/telo)"
+    },
+    {
+      "path": "blogPost.excerpt",
+      "before": "prísne srážené a opevňované",
+      "after": "prísne strážené a opevňované",
+      "reason": "preklep: \"srážené\" -> \"strážené\" (chýbajúce \"t\"; téma článku je strážna funkcia)"
+    },
+    {
+      "path": "blogPost.blocks[0].body[0].children[0].text",
+      "before": "prísne srážené a opevňované",
+      "after": "prísne strážené a opevňované",
+      "reason": "preklep: \"srážené\" -> \"strážené\" (chýbajúce \"t\"; téma článku je strážna funkcia)"
+    },
+    {
+      "path": "blogPost.blocks[0].body[0].children[0].text",
+      "before": "latinský názov - portae, maďarsky - kapu, obyčajne - kokapu",
+      "after": "latinský názov – portae, maďarsky – kapu, obyčajne – kokapu",
+      "reason": "typografia: pomlčky"
+    },
+    {
+      "path": "blogPost.blocks[0].body[0].children[0].text",
+      "before": "\"brány zemské\"",
+      "after": "„brány zemské“",
+      "reason": "typografia: slovenské úvodzovky"
+    },
+    {
+      "path": "blogPost.blocks[1].body[0].children[0].text",
+      "before": "Dokonca sa jednalo o prvé hradisko",
+      "after": "Dokonca išlo o prvé hradisko",
+      "reason": "bohemizmus: \"jednalo sa o\" -> \"išlo o\""
+    },
+    {
+      "path": "blogPost.blocks[6].body[0].children[0].text",
+      "before": "ktorému hovorili \"branka\", ako",
+      "after": "ktorému hovorili „branka“, ako",
+      "reason": "typografia: slovenské úvodzovky"
+    },
+    {
+      "path": "blogPost.blocks[7].body[0].children[0].text",
+      "before": "V rokoch 1946-1947 vykonal",
+      "after": "V rokoch 1946 – 1947 vykonal",
+      "reason": "typografia: pomlčka v rozsahu rokov (zhoda s KF6/TL7)"
+    },
+    {
+      "path": "blogPost.blocks[7].body[0].children[0].text",
+      "before": "a zhruba 2500 rokov pred n. l., na nich stavali",
+      "after": "a zhruba 2500 rokov pred n. l. na nich stavali",
+      "reason": "nadbytočná čiarka (zhoda s TL0, bez čiarky)"
+    },
+    {
+      "path": "blogPost.blocks[7].body[0].children[0].text",
+      "before": "z obdobia lužickej kultúry - mladšej doby bronzovej",
+      "after": "z obdobia lužickej kultúry – mladšej doby bronzovej",
+      "reason": "typografia: pomlčka"
+    },
+    {
+      "path": "blogPost.blocks[7].body[0].children[0].text",
+      "before": "v strednej a neskoršej dobe laténskej, a v dobe rímskej",
+      "after": "v strednej a neskoršej dobe laténskej a v dobe rímskej",
+      "reason": "nadbytočná čiarka pred \"a\" (rovnorodé členy)"
+    },
+    {
+      "path": "blogPost.blocks[7].body[0].children[0].text",
+      "before": "pokračovalo v dobe slovanskej - v období Veľkej Moravy",
+      "after": "pokračovalo v dobe slovanskej – v období Veľkej Moravy",
+      "reason": "typografia: pomlčka"
+    },
+    {
+      "path": "blogPost.blocks[9].body[0].children[0].text",
+      "before": "hradiska – akropole - stopy kolov",
+      "after": "hradiska – akropole – stopy kolov",
+      "reason": "typografia: jednotné pomlčky"
+    },
+    {
+      "path": "blogPost.blocks[4].body[0].children[1].text",
+      "before": "Okrem toho samozrejme - ako sa u neho neskôr stalo dobrým zvykom, vyhotovil",
+      "after": "Okrem toho samozrejme – ako sa u neho neskôr stalo dobrým zvykom – vyhotovil",
+      "reason": "typografia: pomlčky okolo vsuvky"
+    },
+    {
+      "path": "blogPost.blocks[10].body[0].children[0].text",
+      "before": "a zbytky ešte staršej slovanskej osady",
+      "after": "a zvyšky ešte staršej slovanskej osady",
+      "reason": "bohemizmus: \"zbytky\" -> \"zvyšky\""
+    },
+    {
+      "path": "blogPost.timeline[5].description",
+      "before": "B. Varsik predpokladá",
+      "after": "B. Varsík predpokladá",
+      "reason": "diakritika: priezvisko Varsík (zhoda s komentármi v tom istom článku)"
+    },
+    {
+      "path": "blogPost.blocks[10].body[0].children[0].text",
+      "before": "B. Varsik predpokladá",
+      "after": "B. Varsík predpokladá",
+      "reason": "diakritika: priezvisko Varsík (zhoda s komentármi v tom istom článku)"
+    },
+    {
+      "path": "blogPost.timeline[9].description",
+      "before": "po vybudovaní kamenného hradu na vedľajšom kopci hradisko stratilo svoj význam",
+      "after": "po vybudovaní kamenného hradu na vedľajšom kopci, hradisko stratilo svoj význam",
+      "reason": "uzavretie vsuvky čiarkou (zhoda s telom B10, ktoré čiarku má)"
+    },
+    {
+      "path": "blogPost.keyFacts[1].value",
+      "before": "1060 m (vyše 1 km)",
+      "after": "1 060 m (vyše 1 km)",
+      "reason": "typografia: oddeľovač tisícov (mimo chráneného citátu)"
+    },
+    {
+      "path": "blogPost.citations[4].text",
+      "before": "u Podbranče“, 1947, Archeologické rozhledy II",
+      "after": "u Podbranče, 1947, Archeologické rozhledy II",
+      "reason": "mechanická oprava: osamotená úvodzovka bez páru v bibliografickom zázname"
+    },
+    {
+      "path": "blogPost.blocks[13].items[3].text",
+      "before": "u Podbranče“, 1947, Archeologické rozhledy II",
+      "after": "u Podbranče, 1947, Archeologické rozhledy II",
+      "reason": "mechanická oprava: osamotená úvodzovka bez páru v bibliografickom zázname"
+    }
+  ]
+}

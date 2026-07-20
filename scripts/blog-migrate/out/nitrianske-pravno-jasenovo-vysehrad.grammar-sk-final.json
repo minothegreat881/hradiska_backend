@@ -1,0 +1,43 @@
+{
+  "slug": "nitrianske-pravno-jasenovo-vysehrad",
+  "note": "grammar-sk agent, finálny prechod (pass 1 z draftu nitrianske-pravno-vysehrad.grammar-sk-pass1.json aplikovaný priamo do intermediate.json + fresh pass 2 cross-field).",
+  "pass1_applied": {
+    "criticalFixes": [
+      "Blok 14: Janšákov doslovný opis (1928) prevedený z rich-text na content.quote-block (author='Štefan Janšák', source='Niektoré novoobjavené hradiská slovenské, 1928'); editorská vsuvka '(pozn. Orgoň: ...)' ponechaná v texte citátu ako súčasť pôvodného zápisu. OCR preklep 'prispôsbujúc' -> 'prispôsobujúc' opravený v rámci konverzie.",
+      "Blok 38: malformovaný content.quote-block '\"Slovenský župan na Vyšehrade.' prevedený na bežný nadpis (heading level 2) 'Slovenský župan na Vyšehrade'. Blok 39 dostal doplnenú otváraciu úvodzovku '„', aby korektne uzatváral citát končiaci v bloku 40 (uzatváracia úvodzovka tam už bola)."
+    ],
+    "appliedFixes_count": 13,
+    "appliedFixes_summary": [
+      "Blok 6: 'v 12.-14. storočí' -> 'v 12. – 14. storočí'; 'obdobiach - Veľkej Moravy' -> 'obdobiach — Veľkej Moravy'",
+      "Blok 7: '[60X40 m]' -> '(60 × 40 m)'",
+      "Blok 10: '23X50 m' -> '23 × 50 m'",
+      "Blok 16: zjednotenie úvodzoviek na slovenský štýl „...\"",
+      "Blok 21: '13.—15. storočie' -> '13. – 15. storočie'",
+      "Blok 26: 'p. n. 1.' (2×) -> 'p. n. l.'",
+      "Blok 30: '12.—14. storočí' -> '12. – 14. storočí'; 'Časti' -> 'časti' (A9); 'Belo IV. (1235—1270)' -> '(1235 – 1270)'",
+      "Blok 32: 'svetské­mu' (OCR delenie) -> 'svetskému'; '1458—1467' -> '1458 – 1467'",
+      "Blok 34: 'vyšehradu' -> 'Vyšehradu' (A9); '19. storočia' -> '20. storočia' (NUMBER_IMPOSSIBLE, vysoká istota — Peticov článok je z r. 1929)",
+      "Blok 36 (protected zone, len typografia): 'IX.—XI. storočia' -> 'IX. – XI. storočia'",
+      "Blok 43: 'Pieseň o vyšehrade' -> 'Pieseň o Vyšehrade' (A9); '(1241-1242)' -> '(1241 – 1242)'",
+      "Blok 14 (súčasť konverzie na quote-block): OCR preklep 'prispôsbujúc' -> 'prispôsobujúc'",
+      "Sources (content.sources.items): 'M. : ... s. 13-29' -> 'M.: ... s. 13–29'; 'AVANS 1974-1978' -> 'AVANS 1974–1978'"
+    ]
+  },
+  "pass2_cross_field": {
+    "checked": ["excerpt", "keyFacts[]", "timeline[]", "media captions/alt", "title", "tags", "citations[]"],
+    "findings": [
+      "BUG NÁJDENÝ A OPRAVENÝ: top-level 'citations[]' pole (duplicitná kópia bibliografie mimo 'blocks') malo pôvodný neopravený tvar 'Remiášová, M. : ... s. 13-29' a 'AVANS 1974-1978' napriek tomu, že zodpovedajúca položka v content.sources.items už bola opravená pri prvom kole editácie. Zjednotené v oboch poliach na 'Remiášová, M.: ... s. 13–29' a 'AVANS 1974–1978'.",
+      "keyFacts[] a timeline[] boli pri vzniku článku už zapísané v korektnom tvare (12. – 14. storočie, 60 × 40 m, 23 × 50 m, 1241 – 1242, 1458 – 1467) — teda boli v skutočnosti PRED opravou tela already-correct; telo (body) sa touto úpravou iba dorovnalo na už existujúci správny tvar v sidebar poliach. Žiadna ďalšia nekonzistencia nenájdená.",
+      "excerpt zhodný s (needravam) blokom 0, ktorý nebol menený — bez zmeny.",
+      "media captions/alt bez číselných rozsahov vyžadujúcich typografickú opravu — bez zmeny.",
+      "title/tags ('Nitrianske Pravno/Jasenovo - Vyšehrad', 'Nitrianske Pravno - Vyšehrad') používajú jednoduchú pomlčku ako štylistický názvový oddeľovač (nie číselný rozsah) — ponechané podľa konvencie ostatných článkov."
+    ]
+  },
+  "protected_zones_untouched": [
+    "Blok 14 (teraz quote-block, Janšák 1928) — text okrem 1 OCR preklepu a zlúčenia run-ov nedotknutý.",
+    "Bloky 35, 36 (protected, Petic 1929 — 'V nemecko-pravnianskom mestskom archíve...') — iba typografia dashov/rozsahov, žiadne slovo zmenené.",
+    "Bloky 39–40 (protected, Petic 1929 — 'Cieľom nášho Vyšehradu...') — bez zmien okrem doplnenia otváracej úvodzovky.",
+    "Bloky 46, 48–54 (ľudové povesti, dobová próza — 'trpělivost', 'shŕňala', 'Zpopod', 'čolenkoľvek', 'kedy') — úplne nedotknuté."
+  ],
+  "upload_ready": true
+}

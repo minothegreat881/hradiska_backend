@@ -1,0 +1,83 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 6 timeline + 8 keyFacts.",
+  "timeline": [
+    {
+      "year": "mladšia doba kamenná",
+      "title": "Najstaršie stopy osídlenia",
+      "description": "Na lokalite boli odkryté neolitické stopy, ku ktorým sa neskôr pridala priekopa súvisiaca s opevnením osady ľudu Unětickej kultúry zo staršej doby bronzovej.",
+      "type": "founding"
+    },
+    {
+      "year": "polovica 8. storočia",
+      "title": "Vznik slovanského hradiska",
+      "description": "Vznik hradiska a súčasne aj vnútorného (staršieho) opevnenia — drevozemná hradba s priekopou a predsunutou kolovou zábranou.",
+      "type": "founding"
+    },
+    {
+      "year": "1. polovica 9. storočia",
+      "title": "Vybudovanie mladšieho opevnenia",
+      "description": "Nová hradba na východnej strane s vežovitou bránou predsunutou pred líniu opevnenia do priestoru prerušenej priekopy.",
+      "type": "construction"
+    },
+    {
+      "year": "okolo polovice 9. storočia",
+      "title": "Zánik hradiska",
+      "description": "Zánik hradiska je predpokladaný približne o jedno storočie po jeho vzniku.",
+      "type": "destruction"
+    },
+    {
+      "year": "15. storočie",
+      "title": "Husitský vojenský tábor",
+      "description": "Po zániku slovanského hradiska bolo návršie ešte krátkodobo využívané ako husitský vojenský tábor.",
+      "type": "event"
+    },
+    {
+      "year": "1970",
+      "title": "Kudrnáčova monografia",
+      "description": "Jaroslav Kudrnáč vydáva prácu Klučov, Staroslovanské hradiště ve středních Čechách (Praha, 1970), zhrňujúcu výsledky výskumu.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Vyvýšenina v katastri obce Klučov, zvažujúca sa južným smerom do údolia; oblasťou preteká rieka Šembera",
+      "icon": "mountain"
+    },
+    {
+      "label": "Význam",
+      "value": "Jedno z najstarších hradísk svojho typu (opevnené výšinné hradisko) na území Čiech, Moravy a Slovenska",
+      "icon": "crown"
+    },
+    {
+      "label": "Obranná sieť",
+      "value": "Spolu s hradiskami Přistoupim, Doubravčice a Tismice tvorilo obrannú a hospodársku základňu pri dôležitej obchodnej ceste",
+      "icon": "shield"
+    },
+    {
+      "label": "Staršie (vnútorné) opevnenie",
+      "value": "Drevozemná hradba s priekopou, miestami zábrana zo zvislo a šikmo zasadených kolov — bez použitia kameňa",
+      "icon": "shield"
+    },
+    {
+      "label": "Vežovitá brána",
+      "value": "Šírka okolo 7 m, predsunutá pred hradbu, dĺžka vstupu 11 – 12 m, so zvýšeným podlažím a priezormi",
+      "icon": "building"
+    },
+    {
+      "label": "Tajná chodba",
+      "value": "Podzemná chodba pri severozápadnom okraji hradiska viedla šikmo až k hladine rieky — prístup k vode pri obliehaní",
+      "icon": "scroll"
+    },
+    {
+      "label": "Výška hradby",
+      "value": "Približne 2,5 m, umocnená priekopou v jej tesnej blízkosti",
+      "icon": "mountain"
+    },
+    {
+      "label": "Vnútorná zástavba",
+      "value": "Slovanské polozemnice a väčšie množstvo sýpok — jám na skladovanie obilia a potravín",
+      "icon": "star"
+    }
+  ]
+}

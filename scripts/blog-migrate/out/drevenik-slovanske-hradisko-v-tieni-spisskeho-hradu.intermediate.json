@@ -1,0 +1,620 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label-cand-Drevenk.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5507753766734512788",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/07/drevenik-slovanske-hradisko-v-tieni.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/5507753766734512788/comments/default",
+    "extractedAt": "2026-07-13T21:04:55.171Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [
+        {
+          "level": "h1",
+          "text": ""
+        },
+        {
+          "level": "h3",
+          "text": "Dnešný stav lokality"
+        }
+      ],
+      "nativeHeadingCount": 2,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&ll=48.982865,20.775232&spn=0.026925,0.055189&t=h&z=14&output=embed"
+      ],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/7cJT2cMQUls"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 17,
+      "captionedImages": 3,
+      "separatorImages": 14
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "hasNativeHeadings",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Dreveník - Slovanské hradisko v tieni Spišského hradu",
+    "slug": "drevenik-slovanske-hradisko-v-tieni-spisskeho-hradu",
+    "excerpt": "Prinášame ďalšie zaujímavé slovanské hradisko z Východného Slovenska. V Hornádskej kotline, juhovýchodne od mesta Spišské Podhradie, sa nachádza najväčšia travertínová kopa na Slovensku, unikátny prírodný útvar so skalným mestom, s minimálne…",
+    "authorName": "Dominik Sabol",
+    "publishedAt": "2011-07-25T14:42:00.001+02:00",
+    "originalPublishedDate": "2011-07-25T14:42:00.001+02:00",
+    "updatedAt": "2017-08-30T13:50:46.830+02:00",
+    "readingTime": 3,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOetTkq8kjZ1m7JYrCWqvKtxcc5QNFuvYP34HPfOsnDHFtBKw91UT1XTyhDPzjYl2PEFoEBBeqbESlTaFr1thYckCuiyA64WhyphenhyphenTjn4oeFjlhuepdafjPQk0Ep-wJ25S92KpQG08_XlTtE/s0/drevenik-r778_res.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOetTkq8kjZ1m7JYrCWqvKtxcc5QNFuvYP34HPfOsnDHFtBKw91UT1XTyhDPzjYl2PEFoEBBeqbESlTaFr1thYckCuiyA64WhyphenhyphenTjn4oeFjlhuepdafjPQk0Ep-wJ25S92KpQG08_XlTtE/s1600/drevenik-r778_res.jpg",
+      "filename": "drevenik-r778_res.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOetTkq8kjZ1m7JYrCWqvKtxcc5QNFuvYP34HPfOsnDHFtBKw91UT1XTyhDPzjYl2PEFoEBBeqbESlTaFr1thYckCuiyA64WhyphenhyphenTjn4oeFjlhuepdafjPQk0Ep-wJ25S92KpQG08_XlTtE/s1600/drevenik-r778_res.jpg",
+        "displayedWidth": null,
+        "displayedHeight": null,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOetTkq8kjZ1m7JYrCWqvKtxcc5QNFuvYP34HPfOsnDHFtBKw91UT1XTyhDPzjYl2PEFoEBBeqbESlTaFr1thYckCuiyA64WhyphenhyphenTjn4oeFjlhuepdafjPQk0Ep-wJ25S92KpQG08_XlTtE/s0/drevenik-r778_res.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOetTkq8kjZ1m7JYrCWqvKtxcc5QNFuvYP34HPfOsnDHFtBKw91UT1XTyhDPzjYl2PEFoEBBeqbESlTaFr1thYckCuiyA64WhyphenhyphenTjn4oeFjlhuepdafjPQk0Ep-wJ25S92KpQG08_XlTtE/s1600/drevenik-r778_res.jpg",
+        "filename": "drevenik-r778_res.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOetTkq8kjZ1m7JYrCWqvKtxcc5QNFuvYP34HPfOsnDHFtBKw91UT1XTyhDPzjYl2PEFoEBBeqbESlTaFr1thYckCuiyA64WhyphenhyphenTjn4oeFjlhuepdafjPQk0Ep-wJ25S92KpQG08_XlTtE/s1600/drevenik-r778_res.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Na hornej fotografii je zvýraznený priebeh valu opevnenia"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQwaQNq9K8ERZdja97wNv3dQ5_rNzlmyG2yt5-pxr4HnSNbkUGiXnGZ-qkZXWzobUOY4vVyRJB67DYEt0R9wt9qlzR8PXmvfg9h8Bj4QluhM2o8_iO7YUGMoVlZu8WFfZR6NySZqhH-C8/s0/pla%CC%81nik.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQwaQNq9K8ERZdja97wNv3dQ5_rNzlmyG2yt5-pxr4HnSNbkUGiXnGZ-qkZXWzobUOY4vVyRJB67DYEt0R9wt9qlzR8PXmvfg9h8Bj4QluhM2o8_iO7YUGMoVlZu8WFfZR6NySZqhH-C8/s1600/pla%CC%81nik.jpg",
+        "filename": "plánik.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQwaQNq9K8ERZdja97wNv3dQ5_rNzlmyG2yt5-pxr4HnSNbkUGiXnGZ-qkZXWzobUOY4vVyRJB67DYEt0R9wt9qlzR8PXmvfg9h8Bj4QluhM2o8_iO7YUGMoVlZu8WFfZR6NySZqhH-C8/s1600/pla%CC%81nik.jpg",
+          "displayedWidth": 212,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Plánik hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikJh4Fdq_xSetdOKjj9O0qmRPzD0x5Cbak_K9j5tQl2v1V_1_IqhHBCxGGCfTQ9w89jYycDN_CtwUOjQ04JPbUCm88X7qDhwVxkktn2P5K91WJtWdQbdgpI-SkXL4A8WLCJVupq6S1Bxo/s0/292718_368678296549202_1549884407_n.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikJh4Fdq_xSetdOKjj9O0qmRPzD0x5Cbak_K9j5tQl2v1V_1_IqhHBCxGGCfTQ9w89jYycDN_CtwUOjQ04JPbUCm88X7qDhwVxkktn2P5K91WJtWdQbdgpI-SkXL4A8WLCJVupq6S1Bxo/s1600/292718_368678296549202_1549884407_n.jpeg",
+        "filename": "292718_368678296549202_1549884407_n.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikJh4Fdq_xSetdOKjj9O0qmRPzD0x5Cbak_K9j5tQl2v1V_1_IqhHBCxGGCfTQ9w89jYycDN_CtwUOjQ04JPbUCm88X7qDhwVxkktn2P5K91WJtWdQbdgpI-SkXL4A8WLCJVupq6S1Bxo/s1600/292718_368678296549202_1549884407_n.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0vnWstH3LHlfdKRFCz6bkHsr_toDGIDXpLZCFapqs1LTz0hyphenhyphenRXUv5Bp0SnCcOt4NYLfqmBdy1VL1iVCkUN024y1EFqOO2ifehNZ7w85KXmSff_gGSVd0OoBL8Yzk4bWYEEDyac-DHtQk/s0/21056011_164305050786741_135217831982475803_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0vnWstH3LHlfdKRFCz6bkHsr_toDGIDXpLZCFapqs1LTz0hyphenhyphenRXUv5Bp0SnCcOt4NYLfqmBdy1VL1iVCkUN024y1EFqOO2ifehNZ7w85KXmSff_gGSVd0OoBL8Yzk4bWYEEDyac-DHtQk/s1600/21056011_164305050786741_135217831982475803_o.jpg",
+        "filename": "21056011_164305050786741_135217831982475803_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0vnWstH3LHlfdKRFCz6bkHsr_toDGIDXpLZCFapqs1LTz0hyphenhyphenRXUv5Bp0SnCcOt4NYLfqmBdy1VL1iVCkUN024y1EFqOO2ifehNZ7w85KXmSff_gGSVd0OoBL8Yzk4bWYEEDyac-DHtQk/s1600/21056011_164305050786741_135217831982475803_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1440,
+          "originalHeight": 810
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy4SvWtZBz_3u7LGHGXQyxuHlvDv5SyWPWYWedIF9OWXEEW3nk_kuXftVy6OvidioV_CKbwyYY08gejFyUj1KZ4zNsig3qmCQ2zRR1wnKZWTofbdC45Qox4tL4I64A3ClAUgbjWshFb6Y/s0/21122354_164296174120962_3991911897061214372_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy4SvWtZBz_3u7LGHGXQyxuHlvDv5SyWPWYWedIF9OWXEEW3nk_kuXftVy6OvidioV_CKbwyYY08gejFyUj1KZ4zNsig3qmCQ2zRR1wnKZWTofbdC45Qox4tL4I64A3ClAUgbjWshFb6Y/s1600/21122354_164296174120962_3991911897061214372_o.jpg",
+        "filename": "21122354_164296174120962_3991911897061214372_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy4SvWtZBz_3u7LGHGXQyxuHlvDv5SyWPWYWedIF9OWXEEW3nk_kuXftVy6OvidioV_CKbwyYY08gejFyUj1KZ4zNsig3qmCQ2zRR1wnKZWTofbdC45Qox4tL4I64A3ClAUgbjWshFb6Y/s1600/21122354_164296174120962_3991911897061214372_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1440,
+          "originalHeight": 1080
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWXj9BWng9hw3IwHr_6KckhtzWqeyIiWlqKaL1Wz-mN-fOlXQ-Q3AdzuR9o7fR_lfKsVcdqqPIoxZiO-0CTcf2U3oANQYQgB1gYzp1V-CVuqxj_IhMdruYJ_EyXN7pRU4SxefA43CWes/s0/21122681_164438917440021_8955340332849275371_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWXj9BWng9hw3IwHr_6KckhtzWqeyIiWlqKaL1Wz-mN-fOlXQ-Q3AdzuR9o7fR_lfKsVcdqqPIoxZiO-0CTcf2U3oANQYQgB1gYzp1V-CVuqxj_IhMdruYJ_EyXN7pRU4SxefA43CWes/s1600/21122681_164438917440021_8955340332849275371_o.jpg",
+        "filename": "21122681_164438917440021_8955340332849275371_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWXj9BWng9hw3IwHr_6KckhtzWqeyIiWlqKaL1Wz-mN-fOlXQ-Q3AdzuR9o7fR_lfKsVcdqqPIoxZiO-0CTcf2U3oANQYQgB1gYzp1V-CVuqxj_IhMdruYJ_EyXN7pRU4SxefA43CWes/s1600/21122681_164438917440021_8955340332849275371_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1440,
+          "originalHeight": 810
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLwcKjlgwXIguBIO1oiK-CPHMm0ZyWmZ9zQBjU4hCuDIkhqLZJgF24BIfKPPCe-KLFX4Kp2JTWQC2ZgvmH6w0WAHG3bouwBkxIDDxVVx-egz8Ouoj_2Bet7h7UKmFli0lSgi6tf4iQRE/s0/285688_368678253215873_88858062_n.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLwcKjlgwXIguBIO1oiK-CPHMm0ZyWmZ9zQBjU4hCuDIkhqLZJgF24BIfKPPCe-KLFX4Kp2JTWQC2ZgvmH6w0WAHG3bouwBkxIDDxVVx-egz8Ouoj_2Bet7h7UKmFli0lSgi6tf4iQRE/s1600/285688_368678253215873_88858062_n.jpeg",
+        "filename": "285688_368678253215873_88858062_n.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwLwcKjlgwXIguBIO1oiK-CPHMm0ZyWmZ9zQBjU4hCuDIkhqLZJgF24BIfKPPCe-KLFX4Kp2JTWQC2ZgvmH6w0WAHG3bouwBkxIDDxVVx-egz8Ouoj_2Bet7h7UKmFli0lSgi6tf4iQRE/s1600/285688_368678253215873_88858062_n.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyzFSiRPskPW1Fm_AEn7wtZfmEIt2_DEYf4SOjb5iKRTvMKKwPw43h4NFNHyjkLx_77fLUiZXnL6qyb2jXnBSFd7XxvqmBktYYYuRdW2UgDe5qVaFLcPvjs65R5SBOOXVg7no5EAiWFU/s0/47418_368678346549197_724740498_n.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyzFSiRPskPW1Fm_AEn7wtZfmEIt2_DEYf4SOjb5iKRTvMKKwPw43h4NFNHyjkLx_77fLUiZXnL6qyb2jXnBSFd7XxvqmBktYYYuRdW2UgDe5qVaFLcPvjs65R5SBOOXVg7no5EAiWFU/s1600/47418_368678346549197_724740498_n.jpeg",
+        "filename": "47418_368678346549197_724740498_n.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyzFSiRPskPW1Fm_AEn7wtZfmEIt2_DEYf4SOjb5iKRTvMKKwPw43h4NFNHyjkLx_77fLUiZXnL6qyb2jXnBSFd7XxvqmBktYYYuRdW2UgDe5qVaFLcPvjs65R5SBOOXVg7no5EAiWFU/s1600/47418_368678346549197_724740498_n.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDhpFlkj1AaXLAZWPFdjCJL0tEeLk3oChfUU6wFxqyrj-0ZgXUflDm-_tRG-MWEcocP2KKD3d1ysDOqaDJMacKg1sT5rhUat3m7Szxp0TglRtw0t4xQ3eHrpFXbHFl-g1DmJ0_90xL1sQ/s0/65352_368678356549196_1257195507_n.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDhpFlkj1AaXLAZWPFdjCJL0tEeLk3oChfUU6wFxqyrj-0ZgXUflDm-_tRG-MWEcocP2KKD3d1ysDOqaDJMacKg1sT5rhUat3m7Szxp0TglRtw0t4xQ3eHrpFXbHFl-g1DmJ0_90xL1sQ/s1600/65352_368678356549196_1257195507_n.jpeg",
+        "filename": "65352_368678356549196_1257195507_n.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDhpFlkj1AaXLAZWPFdjCJL0tEeLk3oChfUU6wFxqyrj-0ZgXUflDm-_tRG-MWEcocP2KKD3d1ysDOqaDJMacKg1sT5rhUat3m7Szxp0TglRtw0t4xQ3eHrpFXbHFl-g1DmJ0_90xL1sQ/s1600/65352_368678356549196_1257195507_n.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZ_id9jL_SN_4-_EhqkJI_W2dW0sZI945IXfhR0zKcVNG_QA6C8sowVQOjZCdsXm0gPy3irRSuO3wEc2uY7aFKNlUBYeCAlVTenhxXnWd-oB-ewkXwPBDbzOJgjwVBdiOlq8JN7QXNAA/s0/69780_368675919882773_228533984_n.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZ_id9jL_SN_4-_EhqkJI_W2dW0sZI945IXfhR0zKcVNG_QA6C8sowVQOjZCdsXm0gPy3irRSuO3wEc2uY7aFKNlUBYeCAlVTenhxXnWd-oB-ewkXwPBDbzOJgjwVBdiOlq8JN7QXNAA/s1600/69780_368675919882773_228533984_n.jpeg",
+        "filename": "69780_368675919882773_228533984_n.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBZ_id9jL_SN_4-_EhqkJI_W2dW0sZI945IXfhR0zKcVNG_QA6C8sowVQOjZCdsXm0gPy3irRSuO3wEc2uY7aFKNlUBYeCAlVTenhxXnWd-oB-ewkXwPBDbzOJgjwVBdiOlq8JN7QXNAA/s1600/69780_368675919882773_228533984_n.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm2tUP1_jO1btabzKNzi-YUO-o_athC98ZvgqHC6UIPML7VCHrONPEa-s1gof6anQlXuz21LdfWt2MVUy80r8xEhGPzq7oPDt1ZsAshJkgHnfVmHzZchigPlSR1RYIEMJvaMVn2ngqTYI/s0/374599_182677211815979_100002211037366_400627_510317572_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm2tUP1_jO1btabzKNzi-YUO-o_athC98ZvgqHC6UIPML7VCHrONPEa-s1gof6anQlXuz21LdfWt2MVUy80r8xEhGPzq7oPDt1ZsAshJkgHnfVmHzZchigPlSR1RYIEMJvaMVn2ngqTYI/s1600/374599_182677211815979_100002211037366_400627_510317572_n.jpg",
+        "filename": "374599_182677211815979_100002211037366_400627_510317572_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm2tUP1_jO1btabzKNzi-YUO-o_athC98ZvgqHC6UIPML7VCHrONPEa-s1gof6anQlXuz21LdfWt2MVUy80r8xEhGPzq7oPDt1ZsAshJkgHnfVmHzZchigPlSR1RYIEMJvaMVn2ngqTYI/s1600/374599_182677211815979_100002211037366_400627_510317572_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNN83qUQbZbxft9xWAUit52VTv991pthmz_mKhfIxsaY6w_v_TN_HcpwmL2Z2k4hugXgSaHXbKt4EPbXI-04Ykx8g49AzxW4-ual9Z-LaWa5uCoJ8cLSk77-aotQ20HBZEbbowpfT757M/s0/388630_182676641816036_100002211037366_400617_1285627830_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNN83qUQbZbxft9xWAUit52VTv991pthmz_mKhfIxsaY6w_v_TN_HcpwmL2Z2k4hugXgSaHXbKt4EPbXI-04Ykx8g49AzxW4-ual9Z-LaWa5uCoJ8cLSk77-aotQ20HBZEbbowpfT757M/s1600/388630_182676641816036_100002211037366_400617_1285627830_n.jpg",
+        "filename": "388630_182676641816036_100002211037366_400617_1285627830_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNN83qUQbZbxft9xWAUit52VTv991pthmz_mKhfIxsaY6w_v_TN_HcpwmL2Z2k4hugXgSaHXbKt4EPbXI-04Ykx8g49AzxW4-ual9Z-LaWa5uCoJ8cLSk77-aotQ20HBZEbbowpfT757M/s1600/388630_182676641816036_100002211037366_400617_1285627830_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5c3vQQVgxJ76Afg2Nh1nEAAwEDbfwnO5Ny_Qn70yBiQFiBKRoAVQ-74BiJu-IZWRUNAiEMhvGgO6275afm8B5W_mPakhopxwL1-6FonQSfcw9Pn8U-9nU4VsGsnupAiR2Qy_H5FZHrbQ/s0/391608_182677381815962_100002211037366_400630_1440873201_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5c3vQQVgxJ76Afg2Nh1nEAAwEDbfwnO5Ny_Qn70yBiQFiBKRoAVQ-74BiJu-IZWRUNAiEMhvGgO6275afm8B5W_mPakhopxwL1-6FonQSfcw9Pn8U-9nU4VsGsnupAiR2Qy_H5FZHrbQ/s1600/391608_182677381815962_100002211037366_400630_1440873201_n.jpg",
+        "filename": "391608_182677381815962_100002211037366_400630_1440873201_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5c3vQQVgxJ76Afg2Nh1nEAAwEDbfwnO5Ny_Qn70yBiQFiBKRoAVQ-74BiJu-IZWRUNAiEMhvGgO6275afm8B5W_mPakhopxwL1-6FonQSfcw9Pn8U-9nU4VsGsnupAiR2Qy_H5FZHrbQ/s1600/391608_182677381815962_100002211037366_400630_1440873201_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1FKG-RlVm9phPGwdJp7yL8tpqKOtrJxCRXEGoh4KGFSnE-GG2m264jkOIIavW6sPgy5YtqPo7b4sID49mhq__HI85_HBqfs-IRx2YL7WTSr_fCXaKuruACwDb9cVA0BxZaA7GUiDSD_8/s0/1016495_10202098940794819_4842289734802316142_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1FKG-RlVm9phPGwdJp7yL8tpqKOtrJxCRXEGoh4KGFSnE-GG2m264jkOIIavW6sPgy5YtqPo7b4sID49mhq__HI85_HBqfs-IRx2YL7WTSr_fCXaKuruACwDb9cVA0BxZaA7GUiDSD_8/s1600/1016495_10202098940794819_4842289734802316142_n.jpg",
+        "filename": "1016495_10202098940794819_4842289734802316142_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1FKG-RlVm9phPGwdJp7yL8tpqKOtrJxCRXEGoh4KGFSnE-GG2m264jkOIIavW6sPgy5YtqPo7b4sID49mhq__HI85_HBqfs-IRx2YL7WTSr_fCXaKuruACwDb9cVA0BxZaA7GUiDSD_8/s1600/1016495_10202098940794819_4842289734802316142_n.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXkt1_t8taPNR1tm19gt4KuldWmO323evXJ5blr64sq5Si33NEf7HzaAhZBI_16OHntUj9Uezi7KpIVc_0gQ555M4QHSTSUg_FP53L4tLKQpcUHfgAhhbJ3OjFuVe3ou4VCuNTit3LqEc/s0/1901397_10202098940474811_7786416224307832761_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXkt1_t8taPNR1tm19gt4KuldWmO323evXJ5blr64sq5Si33NEf7HzaAhZBI_16OHntUj9Uezi7KpIVc_0gQ555M4QHSTSUg_FP53L4tLKQpcUHfgAhhbJ3OjFuVe3ou4VCuNTit3LqEc/s1600/1901397_10202098940474811_7786416224307832761_n.jpg",
+        "filename": "1901397_10202098940474811_7786416224307832761_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXkt1_t8taPNR1tm19gt4KuldWmO323evXJ5blr64sq5Si33NEf7HzaAhZBI_16OHntUj9Uezi7KpIVc_0gQ555M4QHSTSUg_FP53L4tLKQpcUHfgAhhbJ3OjFuVe3ou4VCuNTit3LqEc/s1600/1901397_10202098940474811_7786416224307832761_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_cxEd1xBflh9EgFJ_h5XVE-RGU84o-gv-tJUztkVGA8vXTotqquMczIzHS5KCi39b6ZY7kWnzUmsvk0MDgsq50XZz4JV-ZuMcOYvWUIjmPYah4r1MotWbgqzcGeyFYDRQ6tmdIf4VL-U/s0/10423937_10202098939274781_4812347795170352622_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_cxEd1xBflh9EgFJ_h5XVE-RGU84o-gv-tJUztkVGA8vXTotqquMczIzHS5KCi39b6ZY7kWnzUmsvk0MDgsq50XZz4JV-ZuMcOYvWUIjmPYah4r1MotWbgqzcGeyFYDRQ6tmdIf4VL-U/s1600/10423937_10202098939274781_4812347795170352622_n.jpg",
+        "filename": "10423937_10202098939274781_4812347795170352622_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_cxEd1xBflh9EgFJ_h5XVE-RGU84o-gv-tJUztkVGA8vXTotqquMczIzHS5KCi39b6ZY7kWnzUmsvk0MDgsq50XZz4JV-ZuMcOYvWUIjmPYah4r1MotWbgqzcGeyFYDRQ6tmdIf4VL-U/s1600/10423937_10202098939274781_4812347795170352622_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7GqkBSH29Qp-UQlDH9FRTb8wdc3I7MKeWPFCt0QsXcjQr7bvNzbdGWwNzCn4-MpMi9o-GStpzHfoeBWaQhNh0wRJGZM9igEgj2kave3Yz5CJkzZ_ay_BDnsoUoMM8EwsTKZqP3byr8EY/s0/10599591_10202098939514787_3367032261049637286_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7GqkBSH29Qp-UQlDH9FRTb8wdc3I7MKeWPFCt0QsXcjQr7bvNzbdGWwNzCn4-MpMi9o-GStpzHfoeBWaQhNh0wRJGZM9igEgj2kave3Yz5CJkzZ_ay_BDnsoUoMM8EwsTKZqP3byr8EY/s1600/10599591_10202098939514787_3367032261049637286_n.jpg",
+        "filename": "10599591_10202098939514787_3367032261049637286_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7GqkBSH29Qp-UQlDH9FRTb8wdc3I7MKeWPFCt0QsXcjQr7bvNzbdGWwNzCn4-MpMi9o-GStpzHfoeBWaQhNh0wRJGZM9igEgj2kave3Yz5CJkzZ_ay_BDnsoUoMM8EwsTKZqP3byr8EY/s1600/10599591_10202098939514787_3367032261049637286_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Dreveník"
+    ],
+    "category": null,
+    "location": {
+      "name": "Dreveník",
+      "latitude": 48.982865,
+      "longitude": 20.775232,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Hornádska kotlina, juhovýchodne od Spišského Podhradia",
+        "icon": "map"
+      },
+      {
+        "label": "Nadmorská výška",
+        "value": "560 – 570 m n. m.",
+        "icon": "mountain"
+      },
+      {
+        "label": "Typ útvaru",
+        "value": "Najväčšia travertínová kopa na Slovensku, skalné mesto",
+        "icon": "mountain"
+      },
+      {
+        "label": "Obdobie hlavného osídlenia hradiska",
+        "value": "9. – 11. storočie",
+        "icon": "calendar"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "Zemný val na severovýchode, dĺžka 60 m, výška miestami až 2 m",
+        "icon": "shield"
+      },
+      {
+        "label": "Výskumníci",
+        "value": "J. Neustupný (1932), V. Budinský-Krička, V. Furmánek, M. Slivka",
+        "icon": "book"
+      },
+      {
+        "label": "Autor článku",
+        "value": "Dominik Sabol",
+        "icon": "custom"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "Paleolit",
+        "title": "Najstaršie osídlenie",
+        "description": "Najstaršie osídlenie lokality pochádza už z paleolitu, doložené nálezmi Homo neandertalensis.",
+        "type": "discovery"
+      },
+      {
+        "year": "Neolit",
+        "title": "Osídlenie bukovohorskou kultúrou",
+        "description": "Ďalšie osídlenie pochádza z neolitu, spájané s bukovohorskou kultúrou.",
+        "type": "event"
+      },
+      {
+        "year": "Eneolit",
+        "title": "Prvé opevnenie",
+        "description": "V eneolite tam vzniklo prvé opevnenie, spojené s bádenskou kultúrou, na ktoré potom nadviazali ďalšie kultúry doby bronzovej a železnej.",
+        "type": "founding"
+      },
+      {
+        "year": "9. – 11. storočie",
+        "title": "Slovanské hradisko a refúgium",
+        "description": "Najvýraznejšie stavebné aktivity a najvýraznejšie osídlenie pochádzajú z 9. – 11. storočia, keď tam stálo slovanské hradisko a rozmerná plošina bola využívaná ako refúgium pre miestne slovanské obyvateľstvo, ktoré si tam budovalo obydlia aj obranné zariadenia. Podľa drevených fortifikačných a obytných konštrukcií bolo územie pomenované Dreveník.",
+        "type": "construction"
+      },
+      {
+        "year": "871 – 894",
+        "title": "Zapojenie do obranného systému Veľkej Moravy",
+        "description": "Prvé zapojenie hradiska, resp. refúgia, do organizovaného obranného systému je možné predpokladať za vlády Svätopluka, keď sa Veľká Morava rozšírila až po stredný tok Hornádu.",
+        "type": "event"
+      },
+      {
+        "year": "10. – 11. storočie",
+        "title": "Nestabilné obdobie medzi zánikom Veľkej Moravy a pripojením k Uhorsku",
+        "description": "Obdobie medzi zánikom Veľkej Moravy a pripojením daného územia k Uhorsku bolo opäť nestabilné a nepokojné, o čom svedčia najviac zastúpené nálezy práve z 10. – 11. storočia.",
+        "type": "event"
+      },
+      {
+        "year": "12. storočie",
+        "title": "Zánik hradiska",
+        "description": "Vznikom župného systému a iných centier správy, no najmä upokojením politickej situácie, hradisko v priebehu 12. storočia zaniká.",
+        "type": "destruction"
+      },
+      {
+        "year": "13. storočie",
+        "title": "Opätovné využitie počas tatárskeho vpádu",
+        "description": "Opätovne však mohlo byť využité počas tatárskeho vpádu, čoho dôkazom sú nálezy aj z 13. storočia.",
+        "type": "event"
+      },
+      {
+        "year": "1932",
+        "title": "Výskum J. Neustupného",
+        "description": "Výskumy lokality realizoval už J. Neustupný v roku 1932, neskôr V. Budinský-Krička, V. Furmánek či M. Slivka.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prinášame ďalšie zaujímavé slovanské hradisko z východného Slovenska.",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "7cJT2cMQUls",
+        "url": "https://www.youtube.com/embed/7cJT2cMQUls",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V Hornádskej kotline, juhovýchodne od mesta Spišské Podhradie, sa nachádza najväčšia travertínová kopa na Slovensku, unikátny prírodný útvar so skalným mestom, s minimálne stredoeurópskym významom. Vrcholová plošina predstavovala výnimočnú polohu, využívanú takmer vo všetkých historických obdobiach na obranné účely. Najvýraznejšie stavebné aktivity pochádzajú z 9. – 11. storočia, keď tam stálo slovanské hradisko, podľa drevených fortifikačných a obytných konštrukcií bolo územie pomenované Dreveník.",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Od konca treťohôr sa tektonickými poruchami na vápence prekryté zlepencami či ílovcami dostáva voda obohatená o hydrouhličitan vápenatý. Jeho sedimentáciou sa z teplých minerálnych prameňov za spolupôsobenia tlaku, teploty a klímy ukladali travertínové vrstvy v charakteristických kopách. Oproti ostatným kopám (Pažica či Sivá Brada) bol Dreveník viac mechanicky rozrušovaný, čím vznikli skalné veže, jaskyne, pukliny a pod. Okraje Dreveníka tvoria tak strmé, väčšinou kolmé, až 60 m vysoké steny. Vrchol kopy bol pritom zarovnávaný, čoho výsledkom je priam dokonalý priestor na úkryt, resp. výstavbu obranných zariadení. Z tohto nedobytného miesta so značným prevýšením oproti okoliu bol aj výborný rozhľad na celú kotlinu. Ak by aj nepriateľ dobyl rozsiahlu vrcholovú plošinu s dokonalým potenciálom na výstavbu obytných štruktúr, existovala aj záložná možnosť úkrytu v jaskynných systémoch. \n \n \n   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOetTkq8kjZ1m7JYrCWqvKtxcc5QNFuvYP34HPfOsnDHFtBKw91UT1XTyhDPzjYl2PEFoEBBeqbESlTaFr1thYckCuiyA64WhyphenhyphenTjn4oeFjlhuepdafjPQk0Ep-wJ25S92KpQG08_XlTtE/s0/drevenik-r778_res.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOetTkq8kjZ1m7JYrCWqvKtxcc5QNFuvYP34HPfOsnDHFtBKw91UT1XTyhDPzjYl2PEFoEBBeqbESlTaFr1thYckCuiyA64WhyphenhyphenTjn4oeFjlhuepdafjPQk0Ep-wJ25S92KpQG08_XlTtE/s1600/drevenik-r778_res.jpg",
+          "filename": "drevenik-r778_res.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOetTkq8kjZ1m7JYrCWqvKtxcc5QNFuvYP34HPfOsnDHFtBKw91UT1XTyhDPzjYl2PEFoEBBeqbESlTaFr1thYckCuiyA64WhyphenhyphenTjn4oeFjlhuepdafjPQk0Ep-wJ25S92KpQG08_XlTtE/s1600/drevenik-r778_res.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Na hornej fotografii je zvýraznený priebeh valu opevnenia",
+        "caption": "Na hornej fotografii je zvýraznený priebeh valu opevnenia",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nie je preto prekvapením, že najstaršie osídlenie pochádza už z paleolitu (nálezy "
+              },
+              {
+                "type": "text",
+                "text": "Homo neanderthalensis",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ") či z neolitu (bukovohorská kultúra). Prvé opevnenie tam vzniklo v eneolite (bádenská kultúra), na ktoré potom nadviazali ďalšie kultúry doby bronzovej a určite aj železnej. Najvýraznejšie osídlenie pochádza z 9. – 11. stor., keď bola rozmerná plošina využívaná ako refúgium. Obdobie raného stredoveku bolo pomerne nepokojné a často hrozilo nebezpečenstvo. Preto bol Dreveník veľmi vhodným miestom na úkryt pre miestne slovanské obyvateľstvo, ktoré si na plošine budovalo obydlia a neskôr aj obranné zariadenia. Prvé zapojenie hradiska, resp. refúgia, do organizovaného obranného systému je možné predpokladať za vlády Svätopluka (871 – 894), keď sa Veľká Morava rozšírila až po stredný tok Hornádu. Obdobie medzi zánikom V. Moravy a pripojením daného územia k Uhorsku bolo opäť nestabilné a nepokojné, o čom svedčia najviac zastúpené nálezy práve z 10. – 11. stor. Vznikom župného systému a iných centier správy, no najmä upokojením politickej situácie, hradisko v priebehu 12. stor. zaniká. Opätovne však mohlo byť využité počas tatárskeho vpádu, čoho dôkazom sú nálezy aj z 13. stor.\n \n \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQwaQNq9K8ERZdja97wNv3dQ5_rNzlmyG2yt5-pxr4HnSNbkUGiXnGZ-qkZXWzobUOY4vVyRJB67DYEt0R9wt9qlzR8PXmvfg9h8Bj4QluhM2o8_iO7YUGMoVlZu8WFfZR6NySZqhH-C8/s0/pla%CC%81nik.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQwaQNq9K8ERZdja97wNv3dQ5_rNzlmyG2yt5-pxr4HnSNbkUGiXnGZ-qkZXWzobUOY4vVyRJB67DYEt0R9wt9qlzR8PXmvfg9h8Bj4QluhM2o8_iO7YUGMoVlZu8WFfZR6NySZqhH-C8/s1600/pla%CC%81nik.jpg",
+          "filename": "plánik.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQwaQNq9K8ERZdja97wNv3dQ5_rNzlmyG2yt5-pxr4HnSNbkUGiXnGZ-qkZXWzobUOY4vVyRJB67DYEt0R9wt9qlzR8PXmvfg9h8Bj4QluhM2o8_iO7YUGMoVlZu8WFfZR6NySZqhH-C8/s1600/pla%CC%81nik.jpg",
+            "displayedWidth": 212,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Plánik hradiska",
+        "caption": "Plánik hradiska",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Niekoľko fotografií od Svätohája rodnej viery:\n \n "
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Dnešný stav lokality",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V súčasnosti sa lokalita hlavného hradiska nachádza v katastri Spišského Podhradia, na hranici katastra Žehry. Ide o juhozápadný výbežok z centrálnej časti Dreveníka (560 – 570 m n. m.), kde lokalitu ohraničujú skalné zrázy a na severovýchode zachovaný mohutný valový násyp. Zemný skalný val je situovaný v smere SZ-JJV, jeho dĺžka je 60 m a výška miestami aj 2 m. Za posledných tisíc rokov bol značne prirodzene zdeštruovaný, preto jeho pôvodná výška bola minimálne dvakrát väčšia ako súčasná. Z lokality pochádzajú rôzne nálezy svedčiace o funkcii hradiska v 9. – 11. stor. Výskumy tam realizoval už J. Neustupný v r. 1932, potom V. Budinský-Krička, V. Furmánek či M. Slivka."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikJh4Fdq_xSetdOKjj9O0qmRPzD0x5Cbak_K9j5tQl2v1V_1_IqhHBCxGGCfTQ9w89jYycDN_CtwUOjQ04JPbUCm88X7qDhwVxkktn2P5K91WJtWdQbdgpI-SkXL4A8WLCJVupq6S1Bxo/s0/292718_368678296549202_1549884407_n.jpeg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikJh4Fdq_xSetdOKjj9O0qmRPzD0x5Cbak_K9j5tQl2v1V_1_IqhHBCxGGCfTQ9w89jYycDN_CtwUOjQ04JPbUCm88X7qDhwVxkktn2P5K91WJtWdQbdgpI-SkXL4A8WLCJVupq6S1Bxo/s1600/292718_368678296549202_1549884407_n.jpeg",
+          "filename": "292718_368678296549202_1549884407_n.jpeg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikJh4Fdq_xSetdOKjj9O0qmRPzD0x5Cbak_K9j5tQl2v1V_1_IqhHBCxGGCfTQ9w89jYycDN_CtwUOjQ04JPbUCm88X7qDhwVxkktn2P5K91WJtWdQbdgpI-SkXL4A8WLCJVupq6S1Bxo/s1600/292718_368678296549202_1549884407_n.jpeg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Val",
+        "caption": "Val",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "http://korzar.sme.sk/c/5128105/patranie-po-hradoch-spisske-podhradie-drevenik.html#ixzz1T7OOaon9",
+            "url": "http://korzar.sme.sk/c/5128105/patranie-po-hradoch-spisske-podhradie-drevenik.html#ixzz1T7OOaon9"
+          },
+          {
+            "text": "Foto: Siváci Košice november 2012",
+            "url": null
+          },
+          {
+            "text": "http://www.travel.sk",
+            "url": "http://www.travel.sk"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "http://korzar.sme.sk/c/5128105/patranie-po-hradoch-spisske-podhradie-drevenik.html#ixzz1T7OOaon9",
+        "title": "http://korzar.sme.sk/c/5128105/patranie-po-hradoch-spisske-podhradie-drevenik.html#ixzz1T7OOaon9"
+      },
+      {
+        "type": "attribution",
+        "text": "Foto: Siváci Košice november 2012"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.travel.sk",
+        "title": "http://www.travel.sk"
+      }
+    ]
+  }
+}

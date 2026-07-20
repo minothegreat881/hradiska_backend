@@ -1,0 +1,13 @@
+{
+  "_note": "grammar-sk v7 §21 — aktualita 'Anketa' (2014-07). Autorova SK próza. FLAG (nemeniť): typAktivity=podujatie ponechané per rozhodnutie používateľa, hoci anketa ~ ine.",
+  "corrections": [
+    { "hint": 1, "before": "nieje síce", "after": "nie je síce", "reason": "nieje→nie je (A8)" },
+    { "hint": 1, "before": "vzhľadom k tomu, že", "after": "vzhľadom na to, že", "reason": "väzba 'vzhľadom na' (A4/A7)" },
+    { "hint": 2, "before": "Jedná sa o", "after": "Ide o", "reason": "bohemizmus 'jedná sa o' → 'ide o' (A7); skrátené — fráza 'vysoké percento' je v ďalšom text-node" },
+    { "hint": 2, "before": "za účelom odborného skúmania", "after": "s cieľom odborného skúmania", "reason": "kalk 'za účelom' → 's cieľom' (A7), cross-field konzistencia s #10 (§21.4)" },
+    { "hint": 4, "before": "tí o ktorých sa jedná", "after": "tí, o ktorých ide", "reason": "čiarka pred vzťaž. zámenom (A1) + 'jedná'→'ide' (A7)" },
+    { "hint": 4, "before": "\"predať\"", "after": "„predať“", "reason": "slovenské úvodzovky (B)" },
+    { "hint": 5, "before": "v prípade amnestia svoje nálezy", "after": "v prípade amnestie svoje nálezy", "reason": "genitív 'amnestie' (A4)" },
+    { "hint": 7, "before": "nebude statožňovať", "after": "nebude stotožňovať", "reason": "preklep statožňovať→stotožňovať (A8)" }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 9 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "750 – 300 pred Kr.",
+      "title": "Oravská skupina lužického kultúrneho komplexu",
+      "description": "Lokálna skupina osídľujúca severné povodie Váhu, Oravu a Turiec; relevantne doložená od roku 550 pred Kr. (Ha D2), s hustou sieťou hradísk a osád.",
+      "type": "founding"
+    },
+    {
+      "year": "700 – 400 pred Kr. (halštatská doba)",
+      "title": "Sústava výšinných hradísk",
+      "description": "Opevnené sídliská v Tvrdošíne, Podbieli, Istebnom, Vyšnom Kubíne (Tupá a Ostrá skala), Žaškove, Jasenici, Mezibrodí, Oravskom Podzámku a Sedliackej Dubovej — vzájomne viditeľné, s dymovou signalizáciou.",
+      "type": "construction"
+    },
+    {
+      "year": "3. – 2. storočie pred Kr.",
+      "title": "Zánik hradiska v Dubovej",
+      "description": "Požiar zničil hrádok aj podhradie v strednej dobe laténskej; predpokladá sa súčasný zánik s hradiskom v Istebnom, obe pravdepodobne dobyté a vypálené.",
+      "type": "destruction"
+    },
+    {
+      "year": "prelom 8. a 9. storočia",
+      "title": "Slovanské osídlenie Ostrej skaly",
+      "description": "Kultúrna vrstva, zahĺbené obydlie s pecou a ďalšie sídliskové objekty s ohniskami na Ostrej skale nad Vyšným Kubínom; slovanský opevňovací systém využil staršie laténske valy.",
+      "type": "founding"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Osídlenie na mieste Oravského hradu",
+      "description": "Zlomky slovanskej keramiky a železné zliatky objavené pri rekonštrukcii hlavného nádvoria dnešného Oravského hradu.",
+      "type": "event"
+    },
+    {
+      "year": "druhá polovica 9. – 10. storočie",
+      "title": "Kontinuita osídlenia Ostrej skaly",
+      "description": "Preukázaná kontinuita medzi oboma hlavnými časovými horizontmi využitia lokality, hoci s nižšou intenzitou.",
+      "type": "event"
+    },
+    {
+      "year": "10. – 12./13. storočie",
+      "title": "Mladšie osídlenie Ostrej skaly",
+      "description": "Príbytky so zrubovou konštrukciou; hradisko vo Vyšnom Kubíne pretrvalo až do 12. storočia, pravdepodobne ako správne sídlo aj v počiatkoch uhorského štátu.",
+      "type": "event"
+    },
+    {
+      "year": "11. storočie",
+      "title": "Včlenenie Oravy do uhorského štátu",
+      "description": "Orava sa stala súčasťou uhorského ranofeudálneho štátu; hrad Orava v tom čase ešte neexistoval.",
+      "type": "event"
+    },
+    {
+      "year": "1898",
+      "title": "Poškodenie Hrádku v Istebnom",
+      "description": "Stavba železnice nenávratne zničila veľkú časť plochy hradiska.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Vyšný Kubín — Ostrá skala",
+      "value": "Najviac preskúmaná lokalita Oravy (812 m n. m.), osídlená od eneolitu; opevnenie s tromi nádvoriami na ploche 1,5 – 2 ha",
+      "icon": "mountain"
+    },
+    {
+      "label": "Dolný Kubín — Veľký Bysterec-Trniny",
+      "value": "Výšinná poloha s nálezmi karolínskych kovaní; slovanské opevnenie zatiaľ len v teoretickej rovine",
+      "icon": "shield"
+    },
+    {
+      "label": "Istebné — Hrádok",
+      "value": "Ostroh nad riekou Orava, halštatské hradisko druhotne využité vo včasnom stredoveku; časť zničená stavbou železnice (1898)",
+      "icon": "building"
+    },
+    {
+      "label": "Oravský Podzámok — Hrad",
+      "value": "Výšinné sídlisko z 9. storočia na mieste, kde od 13. storočia stojí Oravský hrad",
+      "icon": "crown"
+    },
+    {
+      "label": "Hradisko v Dubovej",
+      "value": "Halštatské hradisko so 6 m vysokým šijovým valom, kamenným podporným múrom, obrannou chodbou a vstupnou vežou s mostom",
+      "icon": "shield"
+    },
+    {
+      "label": "Oravská skupina",
+      "value": "Lokálna skupina lužického kultúrneho komplexu s vlastnou keramikou a bronzmi, v úzkom kontakte so susedným Poľskom",
+      "icon": "star"
+    },
+    {
+      "label": "Zdroj",
+      "value": "Väčšina textu čerpaná z: Drahoslav Hulínek, Michal Čajka — Včasnostredoveké hradiská na Orave v kontexte hradísk na Strednom a Západnom Slovensku, Slovenská archeológia LII-1, 2004",
+      "icon": "scroll"
+    }
+  ]
+}

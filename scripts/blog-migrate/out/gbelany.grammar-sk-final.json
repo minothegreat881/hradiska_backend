@@ -1,0 +1,39 @@
+{
+  "slug": "gbelany",
+  "note": "grammar-sk pass1 (draft) aplikovaný + pass2 cross-field konzistencia. Editované priamo v out/gbelany.intermediate.json.",
+  "step1_criticalFixes_applied": [
+    "Bloky 6, 8, 9 boli doslovné duplicity obsahu, ktorý je AJ v content.sources (jupiter.elte.hu poznámka, MORAVČÍK 2002, PETROVSKÝ-ŠICHMAN 1964) — odstránené z tela (BIBLIO_IN_BODY + DUPLICATE_BIBLIO vzor). Blok 5 ('Autor: Heretik') ponechaný — legitímna fotokreditná atribúcia, nie je duplicitná so Zdrojmi.",
+    "Preklep 'pochádzaju' → 'pochádzajú' opravený v content.sources aj v top-level citations (obe miesta, kde sa text jupiter.elte.hu poznámky nachádza)."
+  ],
+  "step1_appliedFixes_applied": [
+    { "rule": "A8 chýbajúce medzery v skratke", "before": "vo výške 652 mnm.", "after": "vo výške 652 m n. m.", "applied_to": ["block 1"] },
+    { "rule": "A7 bohemizmus (jedná sa)", "before": "je možné súdiť, že sa jedná o mladšiu časť", "after": "je možné súdiť, že ide o mladšiu časť", "applied_to": ["block 2"] },
+    { "rule": "B typografia (nadbytočná pomlčka)", "before": "nájdené keramické nálezy - zo stredoveku.", "after": "nájdené keramické nálezy zo stredoveku.", "applied_to": ["block 4"] },
+    { "rule": "A1 nadbytočná čiarka (podmet-prísudok)", "before": "Hradisko bolo v stredoveku, v roku 1433 spolu s výšinou", "after": "Hradisko bolo v stredoveku v roku 1433 spolu s výšinou", "applied_to": ["block 4"] },
+    { "rule": "B typografia (číselný rozsah = en dash)", "before": "12. - 13. storočia", "after": "12. – 13. storočia", "applied_to": ["block 4", "keyFacts 'Datovanie stavby hradu'", "timeline (year+description položky 'Stavba dreveného hradu')"] },
+    { "rule": "D cross-field ('aj' vs 'a')", "before": "do bezpečnejších aj lepšie chránených polôh", "after": "do bezpečnejších a lepšie chránených polôh", "applied_to": ["block 4"] },
+    { "rule": "chýbajúca koncová bodka", "before": "kde sa pohybovali ešte aj okolo roku 1474", "after": "kde sa pohybovali ešte aj okolo roku 1474.", "applied_to": ["block 4"] },
+    { "rule": "A1 nadbytočná čiarka + comma splice", "before": "je strmá, a poskytuje krásne výhľady, Uprostred je brána", "after": "je strmá a poskytuje krásne výhľady. Uprostred je brána", "applied_to": ["caption a alt na obrázku 'Lúka na úbočí hradiska...'"] },
+    { "rule": "D cross-field (excerpt preklep číslica/písmeno)", "before": "koncom 1. stor. pred n. 1.", "after": "koncom 1. stor. pred n. l.", "applied_to": ["excerpt"] }
+  ],
+  "step2_crossfield_additions_beyond_draft": [
+    {
+      "rule": "A9 veľké písmená (etnonymum) — cross-field",
+      "before": "aj slovanmi ešte z pred-veľkomoravskej",
+      "after": "aj Slovanmi ešte z pred-veľkomoravskej",
+      "applied_to": ["excerpt"],
+      "reason": "Draftov reviewed_no_change výslovne poznamenal, že telo (blok 0) má už správne 'Slovanmi' veľkým písmenom 'na rozdiel od chybného excerptu', ale appliedFixes zoznam obsahoval iba opravu 'n. 1.'→'n. l.' pre excerpt — chýbajúca druhá polovica tej istej cross-field opravy. Doplnené v pass 2."
+    },
+    {
+      "rule": "B typografia (číselný rozsah, sources/citations)",
+      "before": "VZP XXI: 7-36",
+      "after": "VZP XXI: 7 – 36",
+      "applied_to": ["content.sources item MORAVČÍK", "citations[] MORAVČÍK"],
+      "reason": "§21.4 vyžaduje beh na 'sources' poli rovnako ako na tele; číselný rozsah stránok mal pomlčku namiesto en dash."
+    }
+  ],
+  "step2_scan_result": "Plný sken keyFacts+timeline+excerpt+tags+title+blocks+citations na rímske číslice, pomlčky v číselných rozsahoch, bohemizmy (jedná sa/nakoľko/snáď/obecne/činiť), 'mnm' bez medzier, nekonzistentné veľké/malé písmená pri 'Slovania/Slovanmi' — žiadny ďalší nález okrem 2 vyššie uvedených.",
+  "flags_unresolved": [],
+  "protected_zone_verification": "Článok neobsahuje žiadny dobový priamy citát ani content.quote-block — žiadna chránená zóna, celé telo bolo v rozsahu bežnej gramatickej korektúry.",
+  "upload_ready": true
+}

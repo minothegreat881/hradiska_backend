@@ -1,17 +1,17 @@
 # Migračný report — Seňa
 
 - **slug:** `sena` · **documentId:** `erjg93dpzxql00ma6tmr7rdw` · **publikované:** ✅
-- **kategória:** Mocenské centrá · **tagy:** Seňa · **lokalita:** Seňa (Slovensko)
+- **kategória:** Kniežacie sídla · **tagy:** Seňa · **lokalita:** Seňa (Slovensko)
 
 ## ✅ Integrita a úplnosť
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.50% vs originál (gramaticky opravené slová vyňaté: 4) — zvyšné mimo: text, uverejnený, nasledovnej, publikácii, viaz (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (9) ⊆ galéria (11) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 10, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 6 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -49,10 +49,24 @@
   - Autor textu: Štefan Kolivoško, zástupca riaditeľky Verejnej knižnice J. Bocatia v Košiciach; obrázky Ing. Peter Zdravecký
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 6**
+  - iné: 2
+  - preklepy: 2
+  - veľké/malé písmená: 1
+  - interpunkcia (čiarky/bodky): 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `na Slovensko - Maďarskej hranici` → `na slovensko-maďarskej hranici` | zložené prídavné meno malým so spojovníkom |
+| 2 | undefined | `Aba Samuela (1O4l-1O44)` → `Aba Samuela (1041-1044)` | OCR zámena O/0 a l/1 v letopočte |
+| 3 | undefined | `sa vyskytuje miestny názor Sárvár` → `sa vyskytuje miestny názov Sárvár` | preklep, malo byť názov (nie názor) |
+| 4 | undefined | `vykopanú zem navŕšia , pričom` → `vykopanú zem navŕšia, pričom` | medzera pred čiarkou |
+| 5 | undefined | `Predpokladaná dĺžka hradieb bola 286O metrov.` → `Predpokladaná dĺžka hradieb bola 2860 metrov.` | OCR zámena O/0 v čísle |
+| 6 | undefined | `miestny názov Sárvár )Blatný hrad).` → `miestny názov Sárvár (Blatný hrad).` | preklep zátvorky |
 
 ## Ostatné
 - **komentáre:** 2
-- **text tela:** 12869 znakov (1971 slov)
+- **text tela:** 12855 znakov (1968 slov)
+- **pokrytie textu vs originál:** 99.50% (mimo: text, uverejnený, nasledovnej, publikácii, viaz)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

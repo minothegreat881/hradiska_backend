@@ -1,0 +1,17 @@
+{
+  "slug": "slovanske-hradiska-na-orave",
+  "note": "grammar-sk agent, pass 2 — cross-field konzistencia (§21.4) po aplikovaní body opráv v slovanske-hradiska-na-orave.grammar-sk-pass1.json. Mapa {before->after} z tela (pomlčky/rozsahy, 'skala' malým, Veľký/Podla/Čaploviča/m²/2500 atď.) skontrolovaná proti excerpt/keyFacts/timeline/media captions/title/tags.",
+  "crossFieldFixes": [
+    { "field": "excerpt", "before": "Jedna z najviac preskúmaných lokalít Oravy - Ostrá skala nad Vyšným Kubínom - bola osídlená od eneolitu.", "after": "Jedna z najviac preskúmaných lokalít Oravy – Ostrá skala nad Vyšným Kubínom – bola osídlená od eneolitu.", "note": "typografia pomlčky zjednotená s telom (blok 1)." },
+    { "field": "title", "before": "Slovanské Hradiská na Orave", "after": "Slovanské hradiská na Orave", "note": "vetná veľkosť písmen namiesto Title Case; 'hradiská' je opravené aj v tele (blok 33: 'Slovanských hradísk')." },
+    { "field": "media caption + alt (blok 6, gallery[1])", "before": "Tupá a Ostrá Skala (autor Tomáš Demian)", "after": "Tupá a Ostrá skala (autor Tomáš Demian)", "note": "malé 's' zjednotené s dominantným tvarom 'skala' použitým v excerpte/keyFacts/timeline aj v opravenom tele (blok 21: 'Tupá skala')." },
+    { "field": "media caption + alt (blok 28, gallery[7])", "before": "podľa P. Čaplovica", "after": "podľa P. Čaploviča", "note": "správny genitív priezviska Čaplovič, zhoda s telom (blok 8: 'pod vedením P. Čaploviča')." }
+  ],
+  "checkedNoChange": [
+    "keyFacts a timeline preverené skriptom proti všetkým 26 vzorom opravovaným v tele (Tupá Skala, Velký, Čaplovica, 2500, m2, Slovanské Hradiská, Podla, kedy, nakoľko, číselné rozsahy so spojovníkom namiesto pomlčky, Oravský podzámok malým) — žiadny zastaraný tvar sa v nich nenašiel, sidebar bol už pred touto úpravou konzistentný so správnymi tvarmi.",
+    "keyFacts 'Zdroj' — 'Drahoslav Hulínek, Michal Čajka — Včasnostredoveké hradiská na Orave...' — už používa em dash aj správne mená, telo (blok 33: 'Drahoslava Hulínka, Michala Čajku') je v skloňovanom tvare, obsahovo zhodné, žiadna oprava nepotrebná.",
+    "citations/content.sources (2 externé URL, Wikipedia + dubovakostolik.sk) — bez textových tvarov ovplyvnených opravami tela, nedotknuté.",
+    "tags ['Orava'], location: null — bez zmeny."
+  ],
+  "flags": []
+}

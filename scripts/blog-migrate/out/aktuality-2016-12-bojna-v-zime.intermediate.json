@@ -1,0 +1,94 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2016-12-bojna-v-zime.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1265838313073511856",
+    "bloggerPostUrl": "http://www.hradiska.sk/2016/12/bojna-v-zime.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1265838313073511856/comments/default",
+    "extractedAt": "2026-07-18T11:21:24.565Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 2,
+      "captionedImages": 0,
+      "separatorImages": 2
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Bojná v zime",
+    "slug": "bojna-v-zime",
+    "excerpt": "Zima sa nám pomaly rozbehla a náš spolupracovník Naj poslal tieto 2 obrázky zimnej Bojnej. Dúfam že Vás potešili tak ako mňa.",
+    "authorName": "Orgon",
+    "publishedAt": "2016-12-11T16:43:00.000+01:00",
+    "originalPublishedDate": "2016-12-11T16:43:00.000+01:00",
+    "updatedAt": "2016-12-11T16:43:37.380+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPWr4w24t8H0trHnXwrMmHAPJNJoMk8AVeP8DhRE3Ocpv6qHcH2EZPI0HrY9STm0KtwWyjTh2yFiJptxczUxoRvIfLs1_mi39atE970t-WE51BTFBDMJKgIDAb-TPk6QS8COTWCAt-ZFQ/s0/Bojna-v-zime.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPWr4w24t8H0trHnXwrMmHAPJNJoMk8AVeP8DhRE3Ocpv6qHcH2EZPI0HrY9STm0KtwWyjTh2yFiJptxczUxoRvIfLs1_mi39atE970t-WE51BTFBDMJKgIDAb-TPk6QS8COTWCAt-ZFQ/s1600/Bojna-v-zime.jpeg",
+        "filename": "Bojna-v-zime.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPWr4w24t8H0trHnXwrMmHAPJNJoMk8AVeP8DhRE3Ocpv6qHcH2EZPI0HrY9STm0KtwWyjTh2yFiJptxczUxoRvIfLs1_mi39atE970t-WE51BTFBDMJKgIDAb-TPk6QS8COTWCAt-ZFQ/s1600/Bojna-v-zime.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 155,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSPe2ADClr0NY6fnpasFHwHVv3cViy4F9EQx1qbifvvF3F6iFj2Su_SaXT_vk_AYGmJki6PmQRcm1OVdcbu42odQDOb31Ank-MnEAtNIAa5c7JE3qo8X9exdnvgxqAhlhnSb0fVMhn0V8/s0/bojna_valy.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSPe2ADClr0NY6fnpasFHwHVv3cViy4F9EQx1qbifvvF3F6iFj2Su_SaXT_vk_AYGmJki6PmQRcm1OVdcbu42odQDOb31Ank-MnEAtNIAa5c7JE3qo8X9exdnvgxqAhlhnSb0fVMhn0V8/s1600/bojna_valy.jpeg",
+        "filename": "bojna_valy.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSPe2ADClr0NY6fnpasFHwHVv3cViy4F9EQx1qbifvvF3F6iFj2Su_SaXT_vk_AYGmJki6PmQRcm1OVdcbu42odQDOb31Ank-MnEAtNIAa5c7JE3qo8X9exdnvgxqAhlhnSb0fVMhn0V8/s1600/bojna_valy.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 144,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zima sa nám pomaly rozbehla a náš spolupracovník Naj poslal tieto 2 obrázky zimnej Bojnej. Dúfam, že Vás potešili tak ako mňa.\n \n "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

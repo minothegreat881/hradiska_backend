@@ -7,7 +7,7 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 100.00% vs originál (gramaticky opravené slová vyňaté: 0) — nič nechýba ✅
 - ✅ Obrázky evidované: telo (4) ⊆ galéria (8) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 7, keyFacts 7
@@ -16,7 +16,7 @@
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 7 |
+| rich-text (odseky/nadpisy) | 8 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 4 |
@@ -50,6 +50,7 @@
 
 ## Ostatné
 - **komentáre:** 2
-- **text tela:** 4245 znakov (620 slov)
+- **text tela:** 4242 znakov (620 slov)
+- **pokrytie textu vs originál:** 100.00% ✅
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

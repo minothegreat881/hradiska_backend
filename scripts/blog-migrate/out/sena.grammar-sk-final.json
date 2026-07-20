@@ -1,0 +1,20 @@
+{
+  "slug": "sena",
+  "note": "grammar-sk agent, pass 2 — cross-field konzistencia (§21.4) po aplikovaní body opráv v sena.grammar-sk-pass1.json. Mapa {before->after} z body prevzatá a skontrolovaná proti excerpt/keyFacts/timeline/tags/title.",
+  "crossFieldFixes": [
+    { "field": "excerpt", "before": "na Slovensko - Maďarskej hranici.)", "after": "na slovensko-maďarskej hranici).", "note": "excerpt sa generuje samostatne od tela — mal starý tvar s veľkými písmenami a medzerovanou pomlčkou aj chybnú bodku v zátvorke; zjednotené s už opraveným telom (blok 0)." },
+    { "field": "keyFacts[1] Rozmery", "before": "Predpokladaná dĺžka hradieb 2860 m", "after": "Predpokladaná dĺžka hradieb 2 860 m", "note": "oddeľovač tisícov — rovnaká oprava ako v tele (blok 21)." },
+    { "field": "keyFacts[4] Odhadovaný počet obyvateľov", "before": "spolu asi 2000 ľudí v čase ohrozenia", "after": "spolu asi 2 000 ľudí v čase ohrozenia", "note": "oddeľovač tisícov — rovnaká oprava ako v tele (blok 21)." },
+    { "field": "timeline[4] Prvá písomná zmienka (1255)", "before": "Kráľ Béla IV. daruje Senianom zem Čaňu (Chon)", "after": "Kráľ Belo IV. daruje Senianom zem Čaňu (Chon)", "note": "globálny slovník mien (§21.4) — kanonický tvar 'Belo IV.' namiesto uhorského 'Béla IV.'; rovnaká oprava ako v tele (blok 5)." }
+  ],
+  "checkedNoChange": [
+    "keyFacts 'Odhadovaný počet obyvateľov' — '500 – 600 bojovníkov' už mal správnu pomlčku pred opravou tela (telo blok 21 malo chybné '500- 600', teraz zjednotené).",
+    "keyFacts 'Rozmery' — '9 – 10 m' a '4 – 5 m' už mali správnu pomlčku, telo (blok 13, 18) bolo opravené a je teraz konzistentné.",
+    "timeline 'Zamerania valov' (1880 – 1891), 'Nový hrad preberá centrálnu funkciu' (1041 – 1044) — už mali správny formát rozsahu pred opravou tela; telo (blok 13, 14) opravené a je teraz konzistentné (aj keď telo používa skrátený zápis '1880 – 91', čo je bezpečná typografická voľba, nie faktický rozpor).",
+    "timeline 'Varsíkova lokalizácia hradu' — už používal správne 'Varsík' pred opravou tela; žiadna zmena potrebná.",
+    "keyFacts 'Historické názvy' — 'Óvár a Nagyóvár' — ponechané tak, ako je (pozri flag/reviewed_no_change v pass1 k Óvár/Ówár nekonzistencii; keyFacts používa jeden z dvoch legitímnych tvarov, nejde o novú chybu vzniknutú opravou tela).",
+    "tags ['Seňa'], title 'Seňa', location.name 'Seňa' — bez zmeny, nedotknuté opravami tela.",
+    "citations/content.sources (Kolivoško 2008) — bez zmeny, žiadny tvar opravovaný v tele sa tu nevyskytuje."
+  ],
+  "flags": []
+}

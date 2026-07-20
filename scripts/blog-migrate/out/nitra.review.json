@@ -1,0 +1,40 @@
+{
+  "slug": "nitra",
+  "flags": [
+    {
+      "type": "HEADING_INLINE / block ordering",
+      "location": "blocks 0-2 (quote-block 0 = folk song, quote-block 1 = Conversio quote, block 2 = intro paragraph)",
+      "detail": "Block 2 ends with the sentence 'V spise je okrem iného uvedené:' which introduces a quotation, but the quote-blocks (0 and 1) are placed BEFORE block 2 in the article, not after. Structural ordering question, not a grammar error — moving whole blocks is out of scope for grammar-sk. Left unchanged."
+    },
+    {
+      "type": "factual tension (not a typo)",
+      "location": "block with '2. Nitra — Martinský vrch' section",
+      "detail": "'základy románskeho kostola z 9. storočia' — Romanesque style is typically dated to the 11th-13th century in Central Europe, which is in tension with the stated 9th century. Possible factual imprecision in the original source text. Left unchanged — this is a factual dispute, not a spelling/grammar issue."
+    },
+    {
+      "type": "possible OCR artifact — PROTECTED ZONE (Janšák 1928/1929 quote)",
+      "location": "Lupka section, within the Janšák direct quotation",
+      "detail": "'100 m nad nivo spomenutej župnej cesty' — 'nivo' looks like it could be a truncated/misOCR'd case form (expected something like 'nivou'). Low confidence, and this sits inside a protected historical quotation where wording must not be altered without certainty. Left unchanged."
+    },
+    {
+      "type": "possible image/section placement mismatch",
+      "location": "image captioned 'Okružný val — Kvetka sa ho pokúsila sledovať a zamerať...' (about Lupka)",
+      "detail": "This image sits in the Zobor section (between the Zobor charter paragraph and the '5. Nitra — Mačací hrádok' heading) but its caption content is about Lupka's ring rampart, not Zobor. Possible misplacement from an earlier restructuring. Moving images is out of scope for grammar correction. Left unchanged."
+    },
+    {
+      "type": "truncated caption",
+      "location": "image alt/caption: 'Lupka z modrej turistickej značky od Dražoviec na'",
+      "detail": "Reads as cut off mid-sentence (likely missing a trailing word like 'Zobor' or similar). Low confidence on the correct completion — inventing the missing word would violate §21.6 (never write a sentence the source doesn't literally contain). Left unchanged."
+    },
+    {
+      "type": "ambiguous word — possible typo",
+      "location": "text: '(bronzová kopia, dva železné nožíky a zlomky bronzových predmetov)'",
+      "detail": "'kopia' could be a typo for 'kópia' (a replica/cast) or could be intended as 'kopija' (a spearhead, a common archaeological find type). Both readings are plausible in context and the correction would change the meaning, so left unchanged pending human judgement."
+    },
+    {
+      "type": "confirmed non-issue — kept for the record",
+      "location": "content.sources: 'Štefan Janšák: Slovenské hradiská z doby hallštatskej... 1929, zošit 1-2'",
+      "detail": "'1-2' here is a journal fascicle/issue number, not a chronological or measurement range, so it correctly stays as a plain hyphen rather than being converted to an en dash (same applies to 'Historická revue 11-12 2006' elsewhere in the sources). No action needed."
+    }
+  ]
+}

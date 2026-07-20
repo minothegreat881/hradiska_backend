@@ -1,0 +1,860 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-povod-vyznam-historia-hradisk.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-4542801444059398032",
+    "bloggerPostUrl": "http://www.hradiska.sk/2010/05/povod-vyznam-historia-najstarsich.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/4542801444059398032/comments/default",
+    "extractedAt": "2026-07-16T09:27:23.583Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "longRichText",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Pôvod, význam a história najstarších hradísk",
+    "slug": "povod-vyznam-a-historia-najstarsich-hradisk",
+    "excerpt": "\"Väčšinu hradov budujú Slovania takýmto spôsobom: Nájdu si lúky, bohaté na vodu a kroviská a vyznačia si na nich okrúhle alebo štvorcové miesto podľa toho, akého tvaru a veľkosti chcú mať hrad. Potom kopú dookola, navršujú zem, ktorú spevňujú…",
+    "authorName": "Orgoň",
+    "publishedAt": "2010-05-26T19:12:00.000+02:00",
+    "originalPublishedDate": "2010-05-26T19:12:00.000+02:00",
+    "updatedAt": "2011-05-13T21:24:41.431+02:00",
+    "readingTime": 15,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [
+      "Pôvod, význam a história najstarších hradísk",
+      "Všeobecne o hradiskách"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Téma",
+        "value": "Pôvod a typologický vývoj slovanských hradísk od praveku po 10. storočie",
+        "icon": "mountain"
+      },
+      {
+        "label": "Kľúčový prameň",
+        "value": "Ibráhím ibn Jákúb (10. stor.) — opis stavby nížinného hradiska",
+        "icon": "scroll"
+      },
+      {
+        "label": "Najstaršie slovanské hradiská",
+        "value": "Chotomel a Zimno (kultúra Korčak, východoslovanská pravlasť)",
+        "icon": "shield"
+      },
+      {
+        "label": "Predveľkomoravské centrá",
+        "value": "Mikulčice, Staré Město, Pohansko — osídlené už v 7. storočí",
+        "icon": "building"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "eneolit",
+        "title": "Prvé výšinné opevnené osady",
+        "description": "Vyhľadávanie vyvýšených polôh pre opevnené sídla sa objavuje ako dôsledok formujúceho sa rodového zriadenia — ešte nejde o hradiská v pravom zmysle slova.",
+        "type": "event"
+      },
+      {
+        "year": "staršia doba bronzová",
+        "title": "Únětická kultúra",
+        "description": "Vznikajú dobre opevnené a chránené sídla, ktoré už možno klasifikovať ako hradiská, s väzbami na balkánsky/mínojský kultúrny okruh.",
+        "type": "event"
+      },
+      {
+        "year": "5. – 4. stor. p. n. l.",
+        "title": "Halštatsko-laténske obdobie",
+        "description": "Keltské hradiská s kamenným murovaním a palisádou naväzujú na tradície neskorej doby bronzovej, neskôr sa rozvíjajú klasické keltské oppidá.",
+        "type": "event"
+      },
+      {
+        "year": "6. storočie",
+        "title": "Hradiská vo východoslovanskej pravlasti",
+        "description": "Vznikajú najstaršie slovanské hradiská Chotomel a Zimno kultúrnej skupiny Korčak; datovanie Zimna potvrdzuje nález byzantských mincí zo 6. storočia.",
+        "type": "event"
+      },
+      {
+        "year": "7. storočie",
+        "title": "Predveľkomoravské centrá a Samova éra",
+        "description": "Vznikajú hradiská Tornow a Vorberg v Dolnej Lužici, Sukow, Teterow a Behren-Lubchin u pobaltských Slovanov, a na južnej Morave základy Mikulčíc — v čase kniežaťa Sama a jeho Wogastisburgu.",
+        "type": "event"
+      },
+      {
+        "year": "koniec 8. storočia",
+        "title": "Porážka Avarov",
+        "description": "Vojská Karola Veľkého porazili Avarov, čo umožnilo vzostup hradiskového staviteľstva u slovenských Slovanov, vrcholiaci v Pribinovej ére.",
+        "type": "event"
+      },
+      {
+        "year": "9. storočie",
+        "title": "Klasická hradisková spoločnosť",
+        "description": "Na vrchole spoločenského rebríčka stojí veľmož či knieža so svojou rodinou a vojenskou družinou, ako to poznáme z veľkomoravského prostredia.",
+        "type": "event"
+      },
+      {
+        "year": "10. storočie",
+        "title": "Svedectvo Ibráhíma ibn Jákúba",
+        "description": "Arabský cestovateľ opisuje spôsob budovania nížinného typu slovanského hradiska — najrozvinutejšej formy tejto stavebnej tradície.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "\"Väčšinu hradov budujú Slovania takýmto spôsobom: Nájdu si lúky, bohaté na vodu a kroviská a vyznačia si na nich okrúhle alebo štvorcové miesto podľa toho, akého tvaru a veľkosti chcú mať hrad. Potom kopú dookola, navršujú zem, ktorú spevňujú doskami a kolmi. Vytvárajú tak valy, ktoré zvyšujú, až kým hradby nemajú požadovanú výšku. Potom vymerajú pre hrad na vhodnej strane bránu a postavia k nej most. Po ňom doň vchádzajú.\" ",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Toľko Ibráhím ibn Jákúb, obchodník a cestovateľ židovského pôvodu, pochádzajúci z Tortosy, ktorý v 10. storočí navštívil slovanskú strednú Európu. Z tohto cenného popisu budovania \"hradu\", t.j. hradiska, sa dozvedáme o spôsobe a postupe prác pri stavbe slovanského hradiska. Treba si však uvedomiť, že už ide o dobu, keď stavba hradísk u Slovanov dospela do svojej najrozvinutejšej formy a navyše, ide len o jeden z typov hradísk, tzv. nížinný typ. Preto pre objasnenie problematiky slovanských hradísk sa musíme vrátiť o niekoľko storočí späť, k úsvitu slovanských dejín, a možno ešte ďalej a hlbšie do histórie."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Stavitelia hradísk pred Slovanmi "
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Už v období neolitických poľnohospodárskych kultúr sa na našom území stretávame s náznakmi budovania objektov s funkciou, okrem iného, kolektívnej obrany. Ide o stavbu palisád a oplotení, niekedy v kombinácii s jednoduchým valom a priekopou. Tak sa deje napr. u ľudu s maľovanou keramikou, prípadne u potisských kultúrnych skupín a pod. Vyhľadávania vyvýšených polôh sme však svedkami až v období eneolitu. Ide o budovanie výšinných opevnených osád, pravdepodobne ako dôsledok formujúceho sa rodového zriadenia, a vôbec, ako dôsledok bližšie ťažko špecifikovateľných zmien v spoločenských vzťahoch. Na mnohých miestach sa stretávame s javom, že práve Slovania často vyhľadávali tieto polohy. To však neznamená, že môžeme hľadať medzi nimi a týmito kultúrami určitú súvislosť. Nejde totiž ešte o hradiská v pravom slova zmysle, nehľadiac na časovú vzdialenosť oboch svetov, diametrálne odlišných. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Omnoho vyššiu úroveň pri opevňovaní výšinných sídlisk môžeme pozorovať v našich oblastiach u obyvateľstva, ktoré v staršej dobe bronzovej stmelilo pestrú etnickú zmes doby eneolitickej. Stretávame sa tu s dobre opevnenými a chránenými sídlami, ktoré už môžeme klasifikovať ako hradiská. Vyspelosť týchto kultúr, ako je tomu napr. v prípade kultúry únětickej, môžeme hľadať v kontaktoch s Balkánom, teda protogréckym, resp. mínojským kultúrnym okruhom. Od tohto bodu dejín nášho územia sa odvíjal ďalší vývoj v mladšej a neskorej dobe bronzovej. Tá je už charakterizovaná rozvojom protokeltských entít, pričom miestom civilizačného progresu sa stáva územie Podunajska. Ide napr. o mohylový ľud alebo ľud popolnicových polí. Práve druhú spomínanú kultúru sledujeme pod označením lužická až sliezsko-platenická v oblasti Poľska a severných Čiech až do konca 2. tis. pred K., t.j. nástupu Keltov. Kľúčový význam pre pochopenie tohto vývoja mal výskum hradiska pri Kroměříži. Hradisko bolo už od najstaršieho stupňa opevnené a predstavuje tri základné vrstvy osídlenia, zachytávajúc všetky dôležité vývojové premeny. Najmladšie osídlenie predstavuje etnikum, o ktorom sa, a to hlavne v poľskej archeológii, šírili názory, že ide o praslovanský element. Ďalší výskum však vyústil v takpovediac umiernenejší záver, a síce, že toto etnikum predstavuje len jednu zo zložiek, ktoré sa podieľali na procese etnogenézy Slovanov. Týchto zložiek však bolo pravdepodobne viac. Tieto smelé koncepcie o priamej súvislosti lužickej kultúry a jej nástupcov na strane jednej a starých Slovanov na strane druhej majú predsa len svoje opodstatnenie v celom rade spoločných znakov. Patrí sem usadlý, poľnohospodársky spôsob života, zhodný pohrebný rituál, t.j. žiarový pohreb a v neposlednom rade stavba opevnených sídlisk v mnohom pripomínajúce neskoršie staroslovanské hradiská, dokonca na zhodných miestach. Vyznačujú sa veľkou rozlohou vo vyvýšených polohách, z čoho usudzujeme na ich predovšetkým útočištný charakter, napr. hradisko Prachovské Skaly alebo lokalita Mužský-hrada (ČR). Tam kde nie je dostatok vyvýšenín, v poľských nížinách riek a jazier, tam ide o hradiská s kombinovanou ochranou valu a vody. Klasickým prípadom takéhoto nížinného vodného hradiska je Biskupin neďaleko Hnezdna. \"Lužicko-slovanskú\" teóriu však napokon oslabuje aj to, že stavbu hradiska nemôžeme spoľahlivo považovať za etnický prejav, aj keď niektorým etnikám, napr. práve Slovanom, bola bližšia ako iným. S budovaním opevnených sídiel, predchodcov hradísk, sa stretávame aj v oblastiach, kde nepredpokladáme slovanský etnogenetický proces, ale až dodatočné osídlenie, keď došlo k vystriedaniu kmeňov protokeltských, keltských a germánskych. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V období prvej polovice 1. tisícročia pred naším letopočtom dochádza k ďalšiemu civilizačnému progresu v stredoeurópskej oblasti. Hradiska tejto doby boli budované v značných výškach, niekedy až 700 – 800 metrov. Hradby dosahovali šírky niekoľkých metrov, spevnené nasucho kladeným kamenným murovaním a palisádou. Prepracovaný je už aj systém stavby a obrany vstupných brán. Tak postupuje vývoj až do obdobia "
+              },
+              {
+                "type": "text",
+                "text": "halštatsko-laténskeho",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", t.j. 5. – 4. storočie pred K. "
+              },
+              {
+                "type": "text",
+                "text": "Keltské hradiská",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " tohto obdobia sú podobného charakteru, naväzujú na tradície neskorej doby bronzovej. Kameň a palisáda sa používa ďalej, novým prvkom sú pomocné drevené konštrukcie pri budovaní valu. Hradiská si aj naďalej zachovávajú svoje vysoké polohy, a teda prevažne útočištný charakter. Od starokeltského obdobia sa dostávame do éry klasických keltských opíd, ktoré sa vyznačujú ďalšou diferenciáciou priestoru hradiska, t.j. samotné hradné centrum s opevnenými predhradiami. Zvlášť zložitý je systém valového opevnenia bočných pomocných zásekov a ochranných opatrení znemožňujúcich nepriateľovi prístup do hradiska. Rozlišujeme niekoľko foriem brán bočného typu, tunelovité vchody, prípadne tzv. kliešťové, dovnútra zatiahnuté brány. Práve s týmto posledným typom brán sa neskôr stretávame u Slovanov. Éra keltských opíd sa u nás končí vpádom Germánov na prelome letopočtu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pre "
+              },
+              {
+                "type": "text",
+                "text": "Germánov",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " nie je budovanie hradísk typické. Ak sa ojedinele stretávame s prípadmi výnimiek, ktoré toto pravidlo potvrdzujú, ide zväčša o využívanie obsadených keltských hradísk, resp. vplyv keltskej tradície. Väčšina Germánmi dobytých opíd však bola vyplienená, zbúraná a následne opustená."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Iná situácia nastáva až vplyvom zmenených spoločenských podmienok. Ranofeudálny štát, ktorý sa rodil na prevažne Germánmi osídlenom území, potreboval vybudovať administratívne a mocenské centrá. Tento fakt, spolu s neskorším ohrozením vikingskými vpádmi, spôsobil, že Frankovia, hlavne za dynastie Merovejovcov a Karolovcov, boli nútení vybudovať aj niekoľko klasických výšinných útočištných hradísk, popri už jestvujúcich panovníckych dvorcoch a tzv. falcoch. Išlo o reprezentatívne sídla franskej nobility fungujúce ako centrá obchodné, cirkevné a správne, s budovami súdu, dvorskou školou a priestormi na hry a zápasy. Falce neboli vôbec, alebo len ľahko opevnené. Hradisko potom slúžilo ako útočisko pre obyvateľov okolitých dvorcov a falcov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najstaršie slovanské hradiská",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Spoločný koreň slova \"gorod\", resp. na našom území \"grad\" má starý slovanský základ. Jeho používanie na rozľahlom území osídlenom Slovanmi svedčí o tom, že spôsob obrany za valmi hradísk bol vlastný všetkým Slovanom od najstarších dôb. Z predchádzajúcej state vyplýva, že Slovania neboli jediní, ktorí budovali hradiská. Môžeme však povedať, že ako jediní priviedli stavbu hradiska ako takého k dokonalosti, teda na najvyšší možný stupeň funkčnosti z hľadiska vojenskej obranyschopnosti. O tomto fakte svedčí aj úspešné odolávanie hradísk veľkomoravských Slovanov proti vtedy najsilnejšej vojenskej mocnosti, už vyššie spomínanej Franskej ríši. Zo zápisov kroník sa dozvedáme, že svojou mohutnosťou a nedobytnosťou budili rešpekt aj u takéhoto, hlavne čo do kvality výzbroje a výstroje, vyspelejšieho nepriateľa. Podobná bola aj situácia v časoch Sama a jeho, dnes už takmer legendárneho, Wogastisburgu (Wogastgrad)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vo všeobecnosti môžeme teda úvodom konštatovať, že staroslovanské hradisko vo svojej základnej podobe čerpá z tradícií minulosti, koreniacich hlboko v praveku, z tradícií entít, ktoré sa podieľali na procese slovanskej etnogenézy. O tom svedčí aj autonómny základ výrazov \"hrad\", \"grad\", \"gorod\". Ďalej je zrejmé, že vznik a vývoj staroslovanských hradísk bol ovplyvnený vojnovým kontaktom vždy s konkrétnymi susediacimi etnikami. A v neposlednom rade je to preberanie staviteľských tradícií od obyvateľstva novoosídlených oblastí. U nás, v priestore strednej Európy, môžeme teda predpokladať vplyv keltského, resp. rímskeho elementu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pochopiteľne, "
+              },
+              {
+                "type": "text",
+                "text": "najstaršie slovanské hradiská",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " nachádzame v oblasti tzv. \"pravlasti\" našich predkov. Ide o hradisko "
+              },
+              {
+                "type": "text",
+                "text": "Chotomel,",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " močiarne hradisko s kruhovým valom, a "
+              },
+              {
+                "type": "text",
+                "text": "Zimno",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", vybudované na vyvýšenine, chránené drevenou palisádou. Ide o realizáciu budovateľských ambícií staroslovanskej kultúrnej skupiny typu Korčak, nazvanej podľa náleziska v žitomírskej oblasti. Ide o pomerne výraznú slovanskú skupinu, obývajúcu územie na západ aj na východ od "
+              },
+              {
+                "type": "text",
+                "text": "stredného Dnepra",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Okrem spomínaných hradísk bolo archeologicky preskúmané niekoľko stoviek polozemnicových osád prináležiacich práve typu Korčak. K datovaniu Zimna prispieva aj nález byzantských mincí zo "
+              },
+              {
+                "type": "text",
+                "text": "6. storočia",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". V neskoršom období vzniká v tomto priestore niekoľko ďalších hradísk, ako napríklad "
+              },
+              {
+                "type": "text",
+                "text": "Novotrojickoje",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", ktoré tvorilo jedno zo základných centier neskôr vznikajúcej "
+              },
+              {
+                "type": "text",
+                "text": "Kyjevskej Rusi",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Napriek tomu, výskyt hradísk v centre predpokladanej slovanskej expanzie je pomerne nízky. Tu si treba uvedomiť, že predpokladom vzniku hradiska sú určité vhodné spoločensko-hospodárske podmienky, ktoré umožňujú, aby sa istá skupina obyvateľov priamo nepodieľala na produkcii poľnohospodárskych výrobkov a tiež prítomnosť vojenského ohrozenia. Evidentne, ani jeden z týchto faktorov nebol v danej oblasti natoľko výrazný, aby viedol k rozvoju hradísk vo významnejšej miere."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Už iná je situácia v "
+              },
+              {
+                "type": "text",
+                "text": "6. až 7. storočí",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " na Zakarpatsku, v oblasti Povislia, teda tiež v oblastiach vzniku slovanského živlu. Poľská archeológia tu sleduje rané počiatky slovanského opevnenia hneď u piatich hradísk. Z nich svojou rozlohou nad iné vyniká "
+              },
+              {
+                "type": "text",
+                "text": "Stradów",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Ide o jedno z najväčších malopoľských hradísk vôbec, o rozlohe vyše 20 ha, rozprestierajúce sa na členitom úbočí Karpát. Pozostáva z niekoľkých predhradí a vlastného centra. Ako datovaním, tak aj typom najlepšie reprezentuje charakter starších hradísk oblasti Visly. Naopak, rovinným typom je ďalšie hradisko tejto oblasti, "
+              },
+              {
+                "type": "text",
+                "text": "Chodlik",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Je tvorené trojitým pásom kruhových valov o priemere až 300 m. Archeologické nálezy, obzvlášť nálezy krátkych ostrôh a ostrôh s háčikmi, nasvedčujú, že hradisko bolo založené niekedy v 6. storočí. Do obdobia počiatku 7. storočia datujeme hradiská "
+              },
+              {
+                "type": "text",
+                "text": "Damice a Demblín",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " ako aj "
+              },
+              {
+                "type": "text",
+                "text": "Szczaworyź",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Všetkých päť hradísk pretrváva až do klasickej fázy v 10. storočí."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Všeobecne môžeme pri prvých slovanských hradiskách lokalizovaných na najstaršom slovanskom etnogenetickom priestore konštatovať ich refugiálny charakter, avšak už s náznakmi organizácie, ktorá sa vymyká výlučne len útočištnej funkcii, prípadne forme prostej zhlukovej opevnenej osady. To platí pre najstaršie hradiská zakarpatské, ako aj objekty v Podneprí a na západnej Ukrajine."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z "
+              },
+              {
+                "type": "text",
+                "text": "konca 6. storočia",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " ďalej poznáme hradiská Mazovianov a Poľanov, neskorších "
+              },
+              {
+                "type": "text",
+                "text": "tvorcov poľského štátu",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Archeologicky boli preskúmané najmä hradiská "
+              },
+              {
+                "type": "text",
+                "text": "Szeligi a Lezcyca",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " v mazovskej oblasti stredného Povislia, ako aj "
+              },
+              {
+                "type": "text",
+                "text": "Siedlemin, Daleszyn a Bonikowo",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " vo Veľkopolsku. Z týchto, obzvlášť Bonikowo, vďaka dôkladnému výskumu, preukázalo postupný rozvoj od jednoduchého menšieho hradiska o rozlohe 2,5 ha až k rozvinutému centru s viacerými predhradiami v klasickej fáze 9. až 11. storočia. Svoj význam stratilo až pripojením Sliezska k poľskému štátu, keď prišlo o svoje pôvodné postavenie mocenského centra samostatných kmeňov Poľanov a Slezanov. Po strate ich, dnes by sme povedali, \"územnej suverenity\", bolo \"degradované\" do úlohy pohraničnej pevnosti. Pri tomto hradisku sme svedkami klasického hospodársko-spoločenského vývoja, postupného rozširovania a neskôr opätovného \"scvrkávania\" sa, ako to môžeme pozorovať aj v iných oblastiach, všade tam, kde bol vývoj plynulý, dlhodobý a nerušený náhlymi zmenami."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Teda, hradisko v rannej fáze vývoja na území dnešného Poľska, ale nielen tu, vyrastá najčastejšie v centre osídlenia, uprostred poľnohospodárskych osád, k ochrane ktorých slúži. Je späté so svojím vlastným zázemím. U Poľanov sa všade stretávame s kruhovým opevnením relatívne menšieho rozsahu, niekoľkých hektárov, uprostred mokradí, bažín a medzi riekami. Ide napríklad o vyššie spomínané hradisko Leczyca, ktorého rozvoj začal pravdepodobne už koncom 6. storočia. Ide o prstenec opevnenia oválneho tvaru rozmerov 140 × 80 metrov, neskôr rozšírený o predhradie. Je to klasický prípad jednoduchého palisádového valu, ranú formu staroslovanského opevnenia, ktoré môžeme predpokladať u väčšiny hradísk starých Slovanov. Ide o násyp z hliny kombinovaný s priekopou, korunovaný jednoduchou, alebo, ako v prípade hradiska Leczyca, zdvojenou radou palisád o výške 4 metrov, práve takú, ako popisuje Ibráhím ibn Jákúb. Samozrejme, aj toto hradisko prekonalo ďalší zložitý vývoj až do 12. storočia. A tak predstavuje jeden z klasických príkladov vývoja dreveno-hlinitého valu a postupného zdokonaľovania sa fortifikačného umenia Slovanov. Preto o ňom bude ešte neskôr reč. Hradisko Szeligi, tiež v mazowskej oblasti, datované podľa nálezov keramiky do prelomu 6. a 7. storočia, bolo vybudované na prírodnom ostrohu, pričom svahom nechránená časť bola zabezpečená priečnym valom, čo je u poľských hradísk neobvyklé. Táto skutočnosť dokazuje, že umelé kruhové opevnenie sa uplatnilo len tam, kde nejestvovali prirodzené terénne útvary vhodne využiteľné pre účely obrany."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ďalej na západ od spomínaných oblastí datuje výskum vznik najstarších slovanských hradísk do časového horizontu "
+              },
+              {
+                "type": "text",
+                "text": "prelomu 7. a 8. storočia",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Zároveň tu však už pozorujeme nástup vyššieho, rozvinutejšieho stupňa spoločensko-hospodárskeho života. O tom svedčí napr. dôsledný výskum hradísk "
+              },
+              {
+                "type": "text",
+                "text": "Tornow a Vorberg",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " v Dolnej Lužici. V tomto kraji, bohatom na vodu, sa využívalo piesčitých podloží vystupujúcich na povrch. Boli to hradiská neveľkého rozsahu, kruhové, o priemere 25, resp. 26 metrov, chránené už konštrukčne zložitejšou dreveno-hlinitou hradbou. Vnútorný priestor hradiska Vorberg bol takmer neosídlený, s výnimkou strážneho objektu pri bráne a jednej podlhovastej chaty s žarnovom, pravdepodobne mlynice. Tiež bola zistená existencia prístreší pozdĺž vnútornej strany hradieb, zrejme ako dočasné útočisko pre potreby obrancov. Naproti tomu priestor rozsiahleho neopevneného predhradia v okolí hradiska bol pomerne husto osídlený, zastavaný dvanástimi chatami väčšieho rozsahu. Tiež boli prítomné dve studne, železiarske pece a kováčska dielňa. Osada mohla mať okolo 300 obyvateľov a s hradiskom bola spojená tunelovým vchodom. Teda vidíme, že už v 7. storočí slovanská poľnohospodárska osada s prítomnosťou remeselnej výroby, s náznakmi veľkorodinnej pospolitosti prechádza na vyšší stupeň spoločenskej organizácie. Na jej vrchole stojí náčelník obce, ktorý ako jediný trvalo sídli za valmi hradiska. Táto tendencia k vyššej spoločenskej organizácii vyvrcholila po tom, ako v ďalšej fáze osada zanikla ohňom a bola nahradená mladšou zástavbou. Zmena sa prejavila vo veľkosti chát a hustote osídlenia. Domy boli menšie, mohli pojať len jednu rodinu, celkový počet obyvateľov mohol byť okolo 170 osôb. Tiež hradisko bolo prestavané. Miesto prístreškov pozdĺž hradieb boli vybudované klasické príbytky. Pustý stred, ktorý pôvodne slúžil ako miesto pre ohrozených obyvateľov, bol prebudovaný na dvorec, pozostávajúci z niekoľkých obytných častí, ktorý nahradil pôvodný, jednoduchý dom náčelníka obce. Teda vidíme tu už zárodky vyššej formy spoločenskej organizácie, diferenciácie spoločenských vzťahov, t.j. náznaky tvorby a stúpajúceho významu nobility. Tento proces vyvrcholil v 9. storočí, v čase klasickej slovanskej hradiskovej spoločnosti, kde na vrchole spoločenského rebríčka stojí veľmož či vladyka, resp. knieža so svojou rodinou a vojenskou družinou, ako to poznáme napr. z veľkomoravského prostredia. Ale to už trochu predbiehame udalosti a preto späť k téme..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V "
+              },
+              {
+                "type": "text",
+                "text": "7. storočí ",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "sa začínajú písať dejiny najstarších slovanských hradísk aj u "
+              },
+              {
+                "type": "text",
+                "text": "pobaltských Slovanov",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", v oblasti mecklenburgsko-brandenburgskej, v jazernej oblasti slávnych Luticov a Obodritov, štiepiacich sa na množstvo miestnych kmeňov. K spoľahlivému datovaniu pri výskumoch v tejto oblasti prispieva keramika, ktorá je typická pre tunajších Slovanov. Vyznačuje sa neobvykle baňatými tvarmi a bohatým zdobením."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Medzi najstaršie tu radíme hradisko pri obci "
+              },
+              {
+                "type": "text",
+                "text": "Sukow",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", v lokalite zvanej aj \""
+              },
+              {
+                "type": "text",
+                "text": "Alte Burg",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\". Ide o vyvýšeninu, vyčnievajúcu cca 5 m nad bažinatým okolím. V mieste staršieho slovanského osídlenia bola objavená cesta vyložená dubovými kmeňmi, ktorá spájala hradisko so sídliskom v "
+              },
+              {
+                "type": "text",
+                "text": "Klein Markow",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Teda opäť opatrenie miestnych slovanských obyvateľov v rámci svojej hradiskovej organizácie, svedčiace o jej pokročilom štádiu. Podobne vyspelé organizované hradiská sa nachádzali v "
+              },
+              {
+                "type": "text",
+                "text": "Teterowe",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " a v "
+              },
+              {
+                "type": "text",
+                "text": "Behren-Lubchin",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Teterow bolo mocenským centrom kmeňa "
+              },
+              {
+                "type": "text",
+                "text": "Črezpeňanov",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Pri oboch hradiskách je zrejmý vysoký stupeň tesárskej zručnosti pri budovaní opevnení, ciest a mostov. Podobná situácia je aj u kmeňa "
+              },
+              {
+                "type": "text",
+                "text": "prímorských Vagrov",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " s ich centrom Oldenburg, resp. "
+              },
+              {
+                "type": "text",
+                "text": "Starigrad",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Toto hlavné hradisko Vagrie je významné aj ako miesto staroslovanského pohanského kultu, ktorého centrom sa neskôr stalo. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V súvislosti so slovanským pohanstvom bol vedený výskum na "
+              },
+              {
+                "type": "text",
+                "text": "Faldbergu",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Jeho úlohou bolo lokalizovať a archeologicky dokázať existenciu, a to ničoho menšieho, ako priamo staroslávnej "
+              },
+              {
+                "type": "text",
+                "text": "Retry",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", centra kultu boha Dažboga Svarožiča. Retra podľa popisu Dietmara Merseburgského síce nájdená nebola, zato však bola zistená prítomnosť staroslovanského hradiska zo 7. storočia. Bolo vybudované na výšine nad jazerom, s hradným a kultovým centrom a predhradím, s troma bránami a bohatou zástavbou s domami v radách."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Iná situácia bola "
+              },
+              {
+                "type": "text",
+                "text": "na našom území",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", kde nemáme doloženú existenciu hradísk z týchto najstarších čias. Pravdepodobne ide o následok súžitia s Avarmi, resp. ich nadvlády. Aj keď nálezy svedčia o už rozvinutejšej, nie typicky dedinskej spoločnosti, reprezentovanej avarsko-slovanským elementom, o klasických hradiskách tu hovoriť nemôžeme. Pod nadvládou a vplyvom avarského kočovného spôsobu života sa zrejme tunajší Slovania k ich stavbe takpovediac nedostali. Táto "
+              },
+              {
+                "type": "text",
+                "text": "situácia sa zmenila až po",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " slovanských "
+              },
+              {
+                "type": "text",
+                "text": "protiavarských povstaniach",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " a v neposlednom rade po porážke, ktorú Avarom uštedrili vojská Karola Veľkého koncom 8. storočia. Až po tomto dejinnom zlome nastáva "
+              },
+              {
+                "type": "text",
+                "text": "vzostup slovenských",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " Slovanov sprevádzaný aj budovaním hradísk, "
+              },
+              {
+                "type": "text",
+                "text": "vrcholiaci v Pribinovej ére",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Podobne je pomalší vývoj aj na českom území, i keď tu treba hľadať príčiny inde. Výnimku tvorí v našom priestore len oblasť južnej Moravy, pravdepodobne v dôsledku tradičných vzťahov, obchodných, remeselných aj kultúrnych, s pozostatkami rímskeho prostredia provincií Panónia a Norikum. Juhomoravskí Slovania, ktorých sa avarská moc dotýkala len okrajovo, mali možnosť čerpať priamo z odkazu staviteľských skúseností rímskych centier dunajskej Limes Romanus. Preto v "
+              },
+              {
+                "type": "text",
+                "text": "Mikulčiciach ",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "môžeme "
+              },
+              {
+                "type": "text",
+                "text": "už v 7. storočí",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " hovoriť o neagrárnom charaktere osady, opevnenej dreveno-zemným valom. Taktiež archeologické nálezy remeselných aktivít v Starom Meste, ako aj výskumy v Pohansku u Břeclavi, svedčia o osídlení už v predveľkomoravskom období, približne dve storočia pred Mojmírovými zjednocovacími aktivitami. Teda Mikulčice, známe svojou luxusnou výbavou, šperkami a kostolmi v dobe veľkomoravskej, nevznikli zo dňa na deň, takpovediac na zelenej lúke. Základ tohto najmohutnejšieho centra Moravy musíme hľadať práve v 7. storočí, niekedy "
+              },
+              {
+                "type": "text",
+                "text": "v časoch kniežaťa Sama",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Okrem veľkomoravských nálezov a nálezov z avarsko-slovanského obdobia 8. storočia nachádzame v tejto lokalite aj tretí, najstarší horizont. Mikulčické osídlenie malo už vtedy rozlohu cca 50 ha, sídlisku dominoval ľahko opevnený hradný priestor s rozlohou 4 ha. Bol vybudovaný na spôsob dvorca, obohnaný valom budovaným na spôsob klasickej ranej formy slovanského opevnenia. O už spoločensky diferencovanom prostredí neagrárneho charakteru, s čulou remeselno-obchodnou produkciou a aktivitou, svedčia okrem iného početné nálezy jazdeckých ostrôh s háčikmi, typickými pre toto obdobie. Nález svedčí o nadradenej sociálnej vrstve jedincov, resp. vládnucej vrstve podporovanej utvárajúcou sa jazdeckou družinou veľmoža či kniežaťa, ktorá sa postupne vyvinie na elitnú bojovú zložku slovanskej hradiskovej spoločnosti. Taktiež nálezy keramiky sa neobmedzujú len na jednoduché, nezdobené a v ruke robené nádoby pražského typu. Naopak, hrnčiarske výrobky sú bohato zdobené mnohonásobnou vlnicou podunajského typu a tiež technikou vlešťovaných vzorov. S podobným opevneným centrom, chráneným palisádou a priekopou sa stretávame aj v "
+              },
+              {
+                "type": "text",
+                "text": "Starom Meste",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Poslednú z predveľkomoravských slovanských \"pevností\" nachádzame v podobe hradiska Lížni u Brna, kde máme opäť početné nálezy jazdeckých ostrôh. Samozrejme, slovanské osídlenie je evidentné od najstarších čias na celom území bývalého Československa, avšak o najstarších hradiskách môžeme hovoriť len v niekoľkých vyššie uvedených prípadoch."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na záver časti venovanej najstarším slovanským hradiskám nemôžeme nespomenúť to najslávnejšie, a síce mýtický Wogastisburg. Tejto lokalite je venovaná samostatná sekcia tohto blogu: "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "http://slovanske-hradiska.blogspot.com/2011/02/wogastisburg-najvyznamnejsie-hradisko.html",
+            "url": "http://slovanske-hradiska.blogspot.com/2011/02/wogastisburg-najvyznamnejsie-hradisko.html"
+          },
+          {
+            "text": "http://dubrava.vkrp.sk",
+            "url": "http://dubrava.vkrp.sk"
+          },
+          {
+            "text": "http://rodolesie.sk/index.php?option=com_content&task=view&id=35&Itemid=96",
+            "url": "http://rodolesie.sk/index.php?option=com_content&task=view&id=35&Itemid=96"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "http://slovanske-hradiska.blogspot.com/2011/02/wogastisburg-najvyznamnejsie-hradisko.html",
+        "title": "http://slovanske-hradiska.blogspot.com/2011/02/wogastisburg-najvyznamnejsie-hradisko.html"
+      },
+      {
+        "type": "attribution",
+        "text": "predveľkomoravské hradisko"
+      },
+      {
+        "type": "book",
+        "text": "Ja by som už iba doplnil, že posledné archeologické výskumy v (od roku 2008) preukázali, že sa jednalo o jednoznačne , pričom z jeho rozlohy a z množstva a kvality nálezov je jasné, že muselo ísť o jedno z najvýznamnejších hradísk predveľkomoravkého obdobia."
+      },
+      {
+        "type": "external-url",
+        "url": "http://dubrava.vkrp.sk",
+        "title": "http://dubrava.vkrp.sk"
+      },
+      {
+        "type": "external-url",
+        "url": "http://rodolesie.sk/index.phpžoption=com_content&task=view&id=35&Itemid=96",
+        "title": "http://rodolesie.sk/index.phpžoption=com_content&task=view&id=35&Itemid=96"
+      }
+    ]
+  }
+}

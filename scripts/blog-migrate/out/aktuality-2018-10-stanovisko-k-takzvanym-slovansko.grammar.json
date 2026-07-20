@@ -1,0 +1,17 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Stanovisko k Slovansko-Árijským védam' (2018-10). Bloky [3][4] = citát Žiarislava (uvedené 'prehovoriť priamo Žiarislava:') → CHRÁNENÉ (§21.3).",
+  "corrections": [
+    {
+      "hint": 1,
+      "before": "k tzv. \"Slovansko-Árijským védam\"",
+      "after": "k tzv. „Slovansko-Árijským védam“",
+      "reason": "slovenské úvodzovky (B)"
+    },
+    {
+      "hint": 1,
+      "before": "Nakoľko s väčšinou jeho postojov",
+      "after": "Keďže s väčšinou jeho postojov",
+      "reason": "bohemizmus nakoľko→keďže (A7)"
+    }
+  ]
+}

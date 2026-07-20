@@ -1,0 +1,62 @@
+{
+  "timeline": [
+    {
+      "year": "doba halštatská",
+      "title": "Vznik opevneného sídliska",
+      "description": "Halštatské obyvateľstvo v snahe odolávať nebezpečenstvu zvonku vybudovalo opevnené sídlisko v Istebnom-Hrádku na skalnom ostrohu nad riekou Oravou.",
+      "type": "founding"
+    },
+    {
+      "year": "staršia doba laténska",
+      "title": "Doosídlenie po deštrukcii",
+      "description": "Podľa nálezov keramiky s plastickými prvkami sa halštatské sídlisko dožilo staršej doby laténskej; Istebné-Hrádok bol po deštrukcii ešte osídlený v dobe laténskej.",
+      "type": "era"
+    },
+    {
+      "year": "koniec laténu – staršia doba rímska",
+      "title": "Definitívne opustenie lokality",
+      "description": "Napriek doosídleniu zostalo hradisko opustené koncom laténu a staršej doby rímskej; z posledného osídlenia môžu pochádzať dva nájdené železné kosáky.",
+      "type": "destruction"
+    },
+    {
+      "year": "1898",
+      "title": "Poškodenie hradiska stavbou železnice",
+      "description": "K vážnemu poškodeniu hradiska došlo pri stavbe oravskej železnice — zničený bol vstup, veľká časť sídliska z východnej strany aj prevažná časť valového opevnenia.",
+      "type": "destruction"
+    },
+    {
+      "year": "50. roky 20. storočia",
+      "title": "Prvý archeologický výskum",
+      "description": "Výskum sa tu konal už v 50. rokoch, kedy sa našla bronzová krížová ihlica a krúžok z dvojitého bronzového drôtu.",
+      "type": "discovery"
+    },
+    {
+      "year": "60. roky 20. storočia",
+      "title": "Pokračovanie výskumu",
+      "description": "Výskum pokračoval v 60. rokoch, kedy sa na hradisku našli halštatské črepy, železná kopija a stredoveké črepy.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha hradiska",
+      "value": "približne 0,5 ha, 20–30 m nad hladinou rieky Oravy",
+      "icon": "map"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "val vysoký 8–10 m na severnej strane, zrubová palisáda s vežou",
+      "icon": "shield"
+    },
+    {
+      "label": "Významný nález",
+      "value": "bohatý poklad bronzových ozdôb a diadémov",
+      "icon": "star"
+    },
+    {
+      "label": "Násilný zánik",
+      "value": "objavené 3 ľudské kostry zasypané planírkou z deštrukcie palisády a valu",
+      "icon": "sword"
+    }
+  ]
+}

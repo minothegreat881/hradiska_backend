@@ -1,0 +1,136 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-mohyla-z-doby-bronzovej-v-palarikove-3d.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-4564900687860861121",
+    "bloggerPostUrl": "http://www.hradiska.sk/2016/05/mohyla-z-doby-bronzovej-v-palarikove-3d.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/4564900687860861121/comments/default",
+    "extractedAt": "2026-07-16T21:58:01.489Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/dswsbEtcyts"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Mohyla z doby bronzovej v Palárikove 3D",
+    "slug": "mohyla-z-doby-bronzovej-v-palarikove-3d",
+    "excerpt": "Po slovanskej svätyni v Moste pri Bratislave Vám predstavujeme ďalšiu unikátnu 3D vizualizáciu z dielne nášho spolupracovníka Igora Furugláša. Mohyla z Palárikova.",
+    "authorName": "Igor Furugláš",
+    "publishedAt": "2016-05-15T23:26:00.003+02:00",
+    "originalPublishedDate": "2016-05-15T23:26:00.003+02:00",
+    "updatedAt": "2016-05-15T23:26:27.476+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Obdobie",
+        "value": "mladšia doba bronzová",
+        "icon": "calendar"
+      },
+      {
+        "label": "Lokalita",
+        "value": "Palárikovo, južné Slovensko",
+        "icon": "map"
+      },
+      {
+        "label": "Typ hrobu",
+        "value": "kenotaf (symbolický hrob bojovníka)",
+        "icon": "shield"
+      },
+      {
+        "label": "Archeologický výskum",
+        "value": "Jozef Paulík",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "mladšia doba bronzová",
+        "title": "Kenotaf bojovníka v mohyle",
+        "description": "Archeológ Jozef Paulík skúmal mohylu v Palárikove a naspodku nej objavil bohatý hrob bojovníka, v ktorom však mŕtvy neležal — išlo o symbolický hrob (kenotaf) pre niekoho, kto zomrel ďaleko na vojnovom ťažení.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po slovanskej svätyni v Moste pri Bratislave Vám predstavujeme ďalšiu unikátnu 3D vizualizáciu z dielne nášho spolupracovníka Igora Furugláša. Mohyla z Palárikova."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pavel Dvořák o nej hovorí:"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Keď archeológ Jozef Paulík skúmal mohylu v Palárikove na južnom Slovensku, ktorá v rámci meliorácií mala byť zrovnaná so zemou, zistil neuveriteľne zvláštnu vec. Naspodku mohyly bol bohatý hrob bojovníka z čias mladšej doby bronzovej, ktorému síce mohylu postavili, ale v hrobe neležal. Ide o tzv. kenotaf, symbolický hrob, ktorý stavali človeku zomretému napríklad niekde ďaleko na vojnovom ťažení. Verilo sa, že mŕtvi bez hrobu škodia, to preto pre nich vyrobili kenotaf a pozývali ich, aby vstúpili.",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "dswsbEtcyts",
+        "url": "https://www.youtube.com/embed/dswsbEtcyts",
+        "caption": ""
+      }
+    ],
+    "citations": []
+  }
+}

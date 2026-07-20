@@ -7,11 +7,11 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 100.00% vs originál (gramaticky opravené slová vyňaté: 1) — nič nechýba ✅
 - ✅ Obrázky evidované: telo (4) ⊆ galéria (8) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 12, keyFacts 6
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 4 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -50,10 +50,20 @@
   - Štibor zo Štiboríc: Vlastnil ~18 hradov a ~300 dedín, hrad dostal od Žigmunda Luxemburského
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 4**
+  - interpunkcia (čiarky/bodky): 3
+  - predložky: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `Beckovského skalného, hradného brala` → `Beckovského skalného hradného brala` | nadbytočná čiarka medzi zhodnými prívlastkami |
+| 2 | undefined | `Aj v obci , ulice Slnečná a Zelená , sa` → `Aj v obci, ulice Slnečná a Zelená, sa` | medzera pred čiarkou |
+| 3 | undefined | `Nového Mesta Nad Váhom` → `Nového Mesta nad Váhom` | oficiálny názov mesta má predložku malým písmenom |
+| 4 | undefined | `tvoril základ kastelániu "Trecen". Budúceho trenčianskeho komitátu` → `tvoril základ kastelánie "Trecen", budúceho trenčianskeho komitátu` | genitív po základ (kastelánie) + spojenie vetného zlomku čiarkou namiesto bodky |
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 7830 znakov (1095 slov)
+- **text tela:** 7827 znakov (1093 slov)
+- **pokrytie textu vs originál:** 100.00% ✅
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

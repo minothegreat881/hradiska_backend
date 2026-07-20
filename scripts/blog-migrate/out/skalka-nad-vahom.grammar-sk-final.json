@@ -1,0 +1,24 @@
+{
+  "slug": "skalka-nad-vahom",
+  "pass": "final (pass1 + pass2 cross-field)",
+  "summary": {
+    "correctionsApplied": 30,
+    "categories": {
+      "interpunkcia": 4,
+      "typografia_pomlcky_jednotky": 17,
+      "padove_vazby": 2,
+      "velke_male_pismena": 2,
+      "bohemizmy": 1,
+      "casova_konzistentnost": 1,
+      "pravopis": 2,
+      "uvodzovky": 3,
+      "geograficky_nazov_predlozka": 1
+    },
+    "flagged": 2,
+    "crossFieldPropagationNoted": 9,
+    "crossFieldPropagationApplied": 1
+  },
+  "note": "Pass 1 detail (before/after + reason) v out/skalka-nad-vahom.grammar-sk-pass1.json. FLAG položky (2×) a cross-field ciele mimo povoleného rozsahu úprav (keyFacts/timeline/location.name, 9×) v out/skalka-nad-vahom.review.json. Cross-field propagácia bola v tejto session priamo aplikovaná len tam, kde bola v povolenom rozsahu úprav (title, tags, media alt/caption, citations) — konkrétne oprava geografického názvu „Skalka Nad Váhom“ → „Skalka nad Váhom“ (title + tags[0] + 8× alt) a oprava úvodzoviek/pomlčky v obrázku blocks[24] (alt+caption+gallery, 3 miesta). Chránené zóny (žiadny blockquote/citát v tomto článku) neboli menené. Regresný test §21.3 sa netýka tohto článku (žiadny dobový prameň typu Holuby/Janšák).",
+  "protectedZonesFound": [],
+  "regressionCheck": "N/A — článok neobsahuje quote-block ani dobový prameň chránený §21.3."
+}

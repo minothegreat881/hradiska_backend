@@ -1,0 +1,20 @@
+{
+  "slug": "pobedim",
+  "note": "grammar-sk agent, pass 2 — cross-field konzistencia (§21.4) po aplikovaní body opráv v pobedim.grammar-sk-pass1.json. Mapa {before->after} z tela (×, m³/m², pomlčky pri rozsahoch, CSc., Bialeková, dátumové medzery) skontrolovaná proti excerpt/keyFacts/timeline/media captions/citations/tags.",
+  "crossFieldFixes": [
+    { "field": "excerpt", "before": "PhDr. Darina Bialeková CSc, ktorá sa stala čestnou občiankou", "after": "PhDr. Darina Bialeková CSc., ktorá sa stala čestnou občiankou", "note": "chýbajúca bodka za akademickým titulom, zhoda s telom (blok 0)." },
+    { "field": "citations[1] (book)", "before": "D. BIALEKOVA: VÝSKUM A REKONŠTRUKCIA FORTIFIKÁCIE...", "after": "D. BIALEKOVÁ: VÝSKUM A REKONŠTRUKCIA FORTIFIKÁCIE...", "note": "duplicitné pole k content.sources[0], rovnaká oprava aplikovaná na oboch miestach naraz." },
+    { "field": "media alt+caption (blok 14, gallery[3])", "before": "Sekerovité hrivny z Pobedima - platidlo Slovenov", "after": "Sekerovité hrivny z Pobedima – platidlo Slovenov", "note": "typografia pomlčky." },
+    { "field": "media alt+caption (blok 18, gallery[4])", "before": "Konštrukcia hradby - škrupinová s komorovou výstužou", "after": "Konštrukcia hradby – škrupinová s komorovou výstužou", "note": "typografia pomlčky." },
+    { "field": "media alt+caption (blok 21, gallery[5])", "before": "Pekná umelecká prestava o vzhľade hradiska", "after": "Pekná umelecká predstava o vzhľade hradiska", "note": "preklep 'prestava'->'predstava'." }
+  ],
+  "checkedNoChange": [
+    "keyFacts 'Konštrukcia hradby (Hradištia)' a '(Podhradištia)' — už používali správne × (4 × 4 m, 3 × 3 m) pred úpravou tela; telo (bloky 19, 27, 44, 52) teraz zjednotené s už správnym keyFacts tvarom.",
+    "keyFacts 'Spotreba materiálu' a 'Obrana' — čísla (49 300, 190, 260, 900, 8, 260) sa zhodujú s telom (blok 56), žiadny rozdiel.",
+    "timeline 'Presun osídlenia' — obsahuje rovnaký sporný tvar 'od povodia' ako telo (blok 6); NEOPRAVENÉ v oboch poliach súčasne (pozri MEANING_INVERTED flag v pass1), nejde o cross-field nekonzistenciu, ale o zdieľanú vecnú otázku ponechanú na rozhodnutie.",
+    "timeline 'Osadenie informačnej tabule' (10. 3. 2015) — už mala správne medzery; telo (blok 64, pôvodne '10.3.2015') opravené a je teraz konzistentné.",
+    "timeline 'Zdokumentovaný súčasný stav' (7. 1. 2012) — telo (blok 62) už používalo rovnaký formát dátumu, žiadna zmena netreba.",
+    "tags ['Najvýznamnejšie hradiská', 'Pobedim'], title 'Pobedim' — bez zmeny."
+  ],
+  "flags": []
+}

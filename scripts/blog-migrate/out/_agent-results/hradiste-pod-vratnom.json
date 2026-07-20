@@ -1,0 +1,34 @@
+{
+  "timeline": [
+    { "year": "1800 – 700 pr. n. l.", "title": "Doba bronzová", "description": "Nálezy na Osuskom, v hradištskom chotári a vo Štverníku dokazujú, že v priesmyku vládol čulý ruch.", "type": "era" },
+    { "year": "Začiatok 6. storočia", "title": "Príchod Slovanov", "description": "Slovania vybudovali na ochranu Brezovského priesmyku hradiská.", "type": "founding" },
+    { "year": "7. – 12. storočie", "title": "Hradisko u Fajnorov", "description": "Veľké hradisko s rozlohou opevnenej plochy 1,5 ha nad kameňolomom v osade u Fajnorov (dnes k. ú. Prašník) slúžilo od 7. do 12. storočia.", "type": "era" },
+    { "year": "9. – 10. storočie", "title": "Vznik hradiska na Tomišovci", "description": "Pomerne malé hradisko vzniklo v hradištskom chotári na kopci „Tomišovec“ nad Brezovským potokom.", "type": "construction" },
+    { "year": "1263", "title": "Dobrovodský hrad", "description": "Od roku 1263 chránil vchod do údolia z južnej strany Dobrovodský hrad.", "type": "construction" },
+    { "year": "9. – začiatok 10. storočia", "title": "Radové pohrebisko", "description": "Na terase úpätia vrchu Cigánka sa pochovávalo na stredne veľkom pohrebisku, spočiatku s 4 hrobmi prevažne bez milodarov.", "type": "era" },
+    { "year": "1935", "title": "Objav hrobu A. Furku", "description": "A. Furko narazil na svojom dvore na ľudské kosti; Viktor Šemmer preskúmal hrob a pri kostre našiel nožík, ocieľku a pazúrikové kresadlo.", "type": "discovery" },
+    { "year": "Jeseň 1935", "title": "Ďalšie dva hroby", "description": "Viktor Šemmer preskúmal ešte dva hroby, v ktorých našiel dva nožíky a brúsik.", "type": "discovery" },
+    { "year": "1946", "title": "Záchranný výskum", "description": "Vojtech Budinský-Krička podnikol záchranný výskum a preskúmal štyri hroby, jeden s drevenou konštrukciou svedčiacou o vyššom spoločenskom postavení pochovaného.", "type": "discovery" },
+    { "year": "1956 a 1972", "title": "Poškodenie hrobov", "description": "Ďalších niekoľko hrobov bolo poškodených počas prác na susedných dvoroch.", "type": "destruction" },
+    { "year": "1971", "title": "Zber črepov na Tomišovci", "description": "Vladimír Jamárik zozbieral na svahu severne od Hradišťa pod Vrátnom v polohe Tomišovec množstvo zdobených a nezdobených črepov z 10. – 12. storočia.", "type": "discovery" }
+  ],
+  "keyFacts": [
+    { "label": "Poloha", "value": "Západné úpätie Malých Karpát, v oblasti pôvodného Moravského kniežatstva", "icon": "map" },
+    { "label": "Hradisko u Fajnorov", "value": "Veľké hradisko s rozlohou opevnenej plochy 1,5 ha, využívané od 7. do 12. storočia", "icon": "building" },
+    { "label": "Hradisko na Tomišovci", "value": "Malé hradisko na kopci nad Brezovským potokom, vybudované v 9. – 10. storočí", "icon": "mountain" },
+    { "label": "Dobrovodský hrad", "value": "Od roku 1263 chránil vchod do údolia z južnej strany", "icon": "shield" },
+    { "label": "Radové pohrebisko", "value": "Na terase úpätia vrchu Cigánka, spočiatku 4 hroby prevažne bez milodarov", "icon": "custom" },
+    { "label": "Záchranca nálezov", "value": "Miestny občan Florián Vulgan odovzdal nálezy zástupcom vtedajšieho archeologického ústavu v Trenčianskom Svätom Martine", "icon": "star" },
+    { "label": "Bádatelia", "value": "Hroby skúmali Viktor Šemmer (1935) a Vojtech Budinský-Krička (1946)", "icon": "book" }
+  ],
+  "corrections": [
+    { "before": "dokazujú , že", "after": "dokazujú, že" },
+    { "before": "1800 – 700 pr.n.l.", "after": "1800 – 700 pr. n. l." },
+    { "before": "osady , ktorá", "after": "osady, ktorá" },
+    { "before": "J.Kováča", "after": "J. Kováča" },
+    { "before": "V.Š.a A Furkovcov", "after": "V. Š. a A. Furkovcov" },
+    { "before": "travertínove skaly", "after": "travertínové skaly" },
+    { "before": "Súdiac podľa nájdených čriepkov vybudovali", "after": "Súdiac podľa nájdených čriepkov, vybudovali" },
+    { "before": "„Tomišovec“ pod ktorého", "after": "„Tomišovec“, pod ktorého" }
+  ]
+}

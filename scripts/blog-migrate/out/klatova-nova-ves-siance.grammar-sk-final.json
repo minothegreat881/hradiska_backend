@@ -1,0 +1,38 @@
+{
+  "slug": "klatova-nova-ves-siance",
+  "sourceDraft": "out/klatova-nova-ves-siance.grammar-sk-pass1.json",
+  "appliedAt": "2026-07-15",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "B typografia (lomky ako zátvorky) + medzera pred jednotkou", "before": "zvanej Šiance /460,0 m/, južne", "after": "zvanej Šiance (460,0 m), južne", "block": 1 },
+    { "rule": "A8 chýbajúci dĺžeň", "before": "v severnom pásme Tribeča", "after": "v severnom pásme Tríbeča", "block": 1 },
+    { "rule": "A7 bohemizmus", "before": "Jedná sa o veľmi rozsiahle hradisko", "after": "Ide o veľmi rozsiahle hradisko", "block": 1 },
+    { "rule": "B typografia (číselný rozsah s bodkami -> en dash)", "before": "Slovania v 8.-10. storočí", "after": "Slovania v 8. – 10. storočí", "block": 4 },
+    { "rule": "B typografia (apozícia, hyphen -> em dash)", "before": "bojovej sekery - bradatice", "after": "bojovej sekery — bradatice", "block": 4 },
+    { "rule": "A7 bohemizmus (jednať sa o -> ísť o, bez zvratného sa)", "before": "ale rovnako sa môže jednať o zdroj surovín", "after": "ale rovnako môže ísť o zdroj surovín", "block": 4 },
+    { "rule": "B typografia (apozícia, hyphen -> em dash)", "before": "v neskoršom - veľkomoravskom období", "after": "v neskoršom — veľkomoravskom období", "block": 4 },
+    { "rule": "B typografia (anglické úvodzovky -> slovenské)", "before": "už \"nemoderné\" avarské predmety", "after": "už „nemoderné“ avarské predmety", "block": 4 },
+    { "rule": "B typografia (apozícia, hyphen -> em dash)", "before": "kováčske nástroje - dve kladivá a nákovu", "after": "kováčske nástroje — dve kladivá a nákovu", "block": 4 },
+    { "rule": "cross-field nízka číslovka slovom (zhoda s timeline 'osem hrotov šípov')", "before": "v druhom bolo 8 hrotov šípov", "after": "v druhom bolo osem hrotov šípov", "block": 4 },
+    { "rule": "A8 nespisovný tvar číslovky", "before": "vstupovalo najmenej dvomi bránami", "after": "vstupovalo najmenej dvoma bránami", "block": 6 },
+    { "rule": "A9 veľké písmeno (vlastné meno pohoria)", "before": "hlboko v lesoch tríbeča", "after": "hlboko v lesoch Tríbeča", "block": 6 }
+  ],
+  "crossFieldPropagation_step2": {
+    "excerpt": "Propagované 3 opravy z bloku 1: '/460,0m/' -> '(460,0 m)' (excerpt malo naviac chýbajúcu medzeru pred 'm', opravené aj tá), 'Tribeča' -> 'Tríbeča', 'Jedná sa o' -> 'Ide o'.",
+    "keyFacts": "'Osídľujúce kultúry' hodnota: '8.-10. storočie' -> '8. – 10. storočie' (rovnaká typografia rozsahu ako v tele).",
+    "timeline": "3 položky s year '8.-10. storočie' -> '8. – 10. storočie' ('Obnova hradiska Slovanmi', 'Nález depotov kovových predmetov', 'Hradisko ako dočasné refúgium').",
+    "title_tags_location_alt": "'Klátova Nová Ves - Šiance' (title, tags[0], location.name, 2× image alt) — ponechané s ASCII pomlčkou, netýka sa typografickej sady pre apozičnú pomlčku v próze (stabilný zložený názov/label, rovnaká logika ako netýkanie sa title-poľa v už spracovaných článkoch).",
+    "authorName": "'Orgon' — bez zmeny, konzistentné s konvenciou korpusu."
+  },
+  "reviewed_no_change": [
+    "'Ale aspoň sa tu dá dobre stratiť, nakoniec... ste predsa v Tríbeči...' — neformálny autorský hlas, neopravené.",
+    "'sa ukrývali a bránili pred nepriateľom' — reflexívne 'brániť sa pred X' je sémanticky správne, nie prípad zámeny brániť/chrániť."
+  ],
+  "flags_unresolved": [
+    { "type": "ORPHANED_BLOCK", "block": 7, "detail": "Heading-blok 'Orgoň' — pozri out/klatova-nova-ves-siance.review.json" },
+    { "type": "BIBLIO_IN_BODY", "block": 8, "detail": "'Lit: A. Csuthy a kol. ...' chýba v content.sources" },
+    { "type": "DUPLICATE_BIBLIO", "block": 9, "detail": "Holá URL v tele + sources + citations, žiadny text na odvodenie ľudského titulku" }
+  ],
+  "blockCountChange": "13 -> 13 (no blocks removed/added)",
+  "uploadReady": true
+}

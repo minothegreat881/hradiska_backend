@@ -1,0 +1,28 @@
+{
+  "timeline": [
+    { "year": "Koniec doby laténskej", "title": "Predpokladaný začiatok železiarskej výroby", "description": "Napriek chýbajúcim priamym dokladom sa hutnícka činnosť na Železnej studni vo Varíne vzhľadom na charakter osídlenia regiónu predpokladá už na konci doby laténskej.", "type": "era" },
+    { "year": "LTC2–LTD2", "title": "Datovanie bronzovej figúrky barana", "description": "Bronzová plastika barana so závesným uškom nájdená na Gábrišovej je na základe sprievodných nálezov keramiky rámcovo datovaná do stupňov LTC2–LTD2.", "type": "era" },
+    { "year": "LTD1", "title": "Datovanie železnej radlice", "description": "Úzka jednotuľajková radlica z Gábrišovej, jediná svojho druhu v Žilinskej kotline, je na základe analógií z Považskej Bystrice-Malého Manína a Liptovskej Mary I-Havránku datovaná do stupňa LTD1.", "type": "era" },
+    { "year": "Stupeň B1", "title": "Osada na Strečne-Hradnom vrchu", "description": "V polohe Strečno-Hradný vrch boli zachytené zvyšky objektov s keramikou datovanou do stupňa B1 – jediná dosiaľ známa osada v širšom okolí Železnej studne.", "type": "event" },
+    { "year": "1. – 2. storočie n. l.", "title": "Datovanie hutníckej produkcie na Železnej studni", "description": "Produkcia železa v peciach s odpichom trosky na Železnej studni bola na základe rádiokarbónovej metódy (C14) datovaná do rozmedzia polovice 1. storočia až začiatku 2. storočia n. l.", "type": "construction" },
+    { "year": "2020", "title": "Detektorový prieskum lokality Gábrišová", "description": "Krajský pamiatkový úrad a Považské múzeum v spolupráci s OZ Hradiská uskutočnili na dovtedy neznámej a nepublikovanej lokalite Gábrišová detektorový prieskum.", "type": "discovery" },
+    { "year": "2021", "title": "Publikovanie lokality v rigoróznej práci", "description": "Lokalita Gábrišová bola publikovaná v rigoróznej práci archeologičky Zuzany Stanekovej.", "type": "event" }
+  ],
+  "keyFacts": [
+    { "label": "Rozloha opevnenia", "value": "približne 0,5 ha – typická veľkosť pre opevnenia púchovskej kultúry na hornom Považí", "icon": "map" },
+    { "label": "Osídlenie", "value": "keramické aj kovové nálezy jednoznačne potvrdzujú osídlenie púchovskou kultúrou", "icon": "book" },
+    { "label": "Bronzový košíkovitý závesok", "value": "halštatský typ amuletu s neskorolaténskou prepracovanosťou, analógie v Liptovskej Mare I-Havránku a III", "icon": "star" },
+    { "label": "Bronzová figúrka barana", "value": "zoomorfný amulet so závesným uškom; na Slovensku je zdokumentovaných len asi 20 podobných plastík", "icon": "star" },
+    { "label": "Unikátna železná radlica", "value": "jediný nález úzkej jednotuľajkovej radlice tohto typu v celej Žilinskej kotline", "icon": "shield" },
+    { "label": "Stavebné kovania", "value": "Gábrišová má najvyšší doložený počet stavebných kovaní spomedzi všetkých lokalít púchovskej kultúry", "icon": "building" },
+    { "label": "Haldy hutníckeho odpadu na Železnej studni", "value": "oválne haldy s rozmermi cca 15 × 23 m a výškou do 1,5 m", "icon": "mountain" },
+    { "label": "Zdroj železnej rudy", "value": "hematit z Rechtorskej doliny (poloha Rudy)", "icon": "mountain" }
+  ],
+  "corrections": [
+    { "before": "z Blatnice a Folkušovej .", "after": "z Blatnice a Folkušovej." },
+    { "before": "Gábrišovej  a zároveň jediný", "after": "Gábrišovej a zároveň jediný" },
+    { "before": "v BánovejOvčiarnom a Bitarovej-Rybníku", "after": "v Bánovej, Ovčiarnom a Bitarovej-Rybníku" },
+    { "before": "vysoká koncentrácia železnej trosky a v neposlednom rade hutnícke pomôcky . Na základe", "after": "vysoká koncentrácia železnej trosky a v neposlednom rade hutnícke pomôcky. Na základe" },
+    { "before": "Činnosť sa však, vzhľadom na charakter osídlenia regiónu predpokladá už na konci doby laténskej.", "after": "Činnosť sa však, vzhľadom na charakter osídlenia regiónu, predpokladá už na konci doby laténskej." }
+  ]
+}

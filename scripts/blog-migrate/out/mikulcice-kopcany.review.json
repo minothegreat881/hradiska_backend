@@ -1,0 +1,20 @@
+{
+  "slug": "mikulcice-kopcany",
+  "flags": [
+    {
+      "type": "possible duplication / anchor-text mismatch",
+      "location": "block 16 (live index)",
+      "detail": "'...spomenuté dnešné Kopčany s kostolom [Kostol sv. Margity Antiochijskej].' — the word 'kostolom' (instrumental case) sits immediately before a <link> whose anchor text is 'Kostol sv. Margity Antiochijskej' (nominative, capital K), reading like 's kostolom Kostol...'. Left unchanged: fixing this would require editing the link's anchor text, which is outside the scope of grammar correction on surrounding prose, and it's unclear whether the anchor text is meant to mirror the destination page's title (in which case it should stay as-is) or read grammatically inline with the sentence."
+    },
+    {
+      "type": "orphaned source entry",
+      "location": "content.sources item ('zdroj:')",
+      "detail": "The sources list has a bare 'zdroj:' entry with no URL and no following text to merge with (unlike a similar case in 'Slovanské hradiská v Nemecku' where an orphaned URL could be merged in). Nothing to merge here, left unchanged."
+    },
+    {
+      "type": "possible missing diacritics in a name",
+      "location": "content.sources item ('foto: Orgoň, Linda Hronikova')",
+      "detail": "'Hronikova' may be missing diacritics (possibly 'Hroníková'). Low confidence — not in protected-terms.json, no other occurrence in the article to cross-check against. Left unchanged pending human confirmation."
+    }
+  ]
+}

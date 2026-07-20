@@ -1,0 +1,39 @@
+{
+  "timeline": [
+    { "year": "mladšia doba bronzová – doba halštatská", "title": "Vybudovanie hradiska", "description": "Hradisko vybudoval s najväčšou pravdepodobnosťou ľud lužickej kultúry.", "type": "founding" },
+    { "year": "9. – 10. storočie", "title": "Využitie hradiska Slovanmi", "description": "Hradisko v tomto období využili aj Slovania.", "type": "era" },
+    { "year": "asi 1100", "title": "Postavenie kostola sv. Barnabáša", "description": "Na hradisku bol postavený románsky kostol sv. Barnabáša.", "type": "construction" },
+    { "year": "11. – 12. storočie", "title": "Náhrobné dosky na cintoríne", "description": "Okolo kostola sa zachoval cintorín s náhrobnými doskami z 11. a 12. storočia.", "type": "discovery" },
+    { "year": "1533", "title": "Prvá písomná zmienka", "description": "Obec sa prvý krát spomína v písomných prameňoch v roku 1533.", "type": "event" },
+    { "year": "15. storočie", "title": "Zrúcanina hradu na Pravdovej", "description": "Podľa lexikónu Magyar országh varmegy (Nyitra) sa v Hradišti na kopci nad osadou v 15. storočí nachádzala zrúcanina hradu.", "type": "destruction" },
+    { "year": "august 1926", "title": "Objavenie hradiska", "description": "Hradisko bolo objavené autorom (Ing. Štefanom Janšákom) v auguste 1926.", "type": "discovery" },
+    { "year": "1928", "title": "Výskum Štefana Janšáka", "description": "Výškové a plošné parametre hradiska zmeral Ing. Janšák, zakladateľ slovenskej archeológie, historik a pedagóg; text bol uverejnený v zborníku muzeálnej spoločnosti.", "type": "event" }
+  ],
+  "keyFacts": [
+    { "label": "Nadmorská výška", "value": "210 m, najvyšší bod 260 m", "icon": "mountain" },
+    { "label": "Rozloha hradiska", "value": "6,45 ha, rozdelené na dve časti", "icon": "map" },
+    { "label": "Obranný val", "value": "Asi 400 m dlhý, v najvyššom bode 5 m vysoký, v základni 60 m široký", "icon": "shield" },
+    { "label": "Kostol sv. Barnabáša", "value": "Románsky kostol postavený asi v roku 1100", "icon": "building" },
+    { "label": "Románska krstiteľnica", "value": "Momentálne uložená v SNM – v zámku Bojnice", "icon": "custom" },
+    { "label": "Objaviteľ hradiska", "value": "Ing. Štefan Janšák, ktorý hradisko objavil v auguste 1926", "icon": "star" },
+    { "label": "Archeologické nálezy", "value": "Črepy z prvej doby železnej (halštatský materiál) nájdené na povrchu hradiska", "icon": "book" }
+  ],
+  "corrections": [
+    { "before": "vápence.Prevažná", "after": "vápence. Prevažná" },
+    { "before": "zeminou ktorá dnes", "after": "zeminou, ktorá dnes" },
+    { "before": "valom ktorého zvyšky", "after": "valom, ktorého zvyšky" },
+    { "before": "vybudoval z najväčšou pravdepodobnosťou", "after": "vybudoval s najväčšou pravdepodobnosťou" },
+    { "before": "aj slovania.", "after": "aj Slovania." },
+    { "before": "Prvý krát sa spomína", "after": "Prvýkrát sa spomína" },
+    { "before": "droIené jarky", "after": "drolené jarky" },
+    { "before": "asi 4O0m dlhým", "after": "asi 400 m dlhým" },
+    { "before": "nižší, Iebo sa na ňom nachádzajú obrábane role.", "after": "nižší, lebo sa na ňom nachádzajú obrábané role." },
+    { "before": "musel byt voľný prístup", "after": "musel byť voľný prístup" },
+    { "before": "zistiť', že", "after": "zistiť, že" },
+    { "before": "sa meniIi nielen", "after": "sa menili nielen" },
+    { "before": "aIe aj navonok vonkajšie zmeny", "after": "ale aj navonok, vonkajšie zmeny" },
+    { "before": "spoločnosti r 1928 Autor", "after": "spoločnosti r. 1928. Autor" },
+    { "before": "na pravdovej hrad", "after": "na Pravdovej hrad" },
+    { "before": "vypInené močiarmi", "after": "vyplnené močiarmi" }
+  ]
+}

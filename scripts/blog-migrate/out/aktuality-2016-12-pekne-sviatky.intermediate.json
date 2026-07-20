@@ -1,0 +1,68 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2016-12-pekne-sviatky.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3274730172655219572",
+    "bloggerPostUrl": "http://www.hradiska.sk/2016/12/pekne-sviatky.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3274730172655219572/comments/default",
+    "extractedAt": "2026-07-18T11:21:25.389Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroBlocks",
+      "zeroCitations",
+      "shortExcerpt",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Pekné sviatky",
+    "slug": "pekne-sviatky",
+    "excerpt": "",
+    "authorName": "Orgon",
+    "publishedAt": "2016-12-25T14:22:00.001+01:00",
+    "originalPublishedDate": "2016-12-25T14:22:00.001+01:00",
+    "updatedAt": "2016-12-25T14:22:19.897+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOdO0Z4mtZq5rx8qxvPXxywhZqGZMlY1gaqIDW9xAj-vtI4aF3KlbPsGdGydGJeemnSssILLR3W2Q4jsv44zZrLGg8eKtCkS0lVhllpGo9BK4nxXnp2ENJeBBX1B1NskgibIFWvR2G1Lw/s0/Stranda+PF+2017.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOdO0Z4mtZq5rx8qxvPXxywhZqGZMlY1gaqIDW9xAj-vtI4aF3KlbPsGdGydGJeemnSssILLR3W2Q4jsv44zZrLGg8eKtCkS0lVhllpGo9BK4nxXnp2ENJeBBX1B1NskgibIFWvR2G1Lw/s1600/Stranda+PF+2017.jpeg",
+        "filename": "Stranda+PF+2017.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOdO0Z4mtZq5rx8qxvPXxywhZqGZMlY1gaqIDW9xAj-vtI4aF3KlbPsGdGydGJeemnSssILLR3W2Q4jsv44zZrLGg8eKtCkS0lVhllpGo9BK4nxXnp2ENJeBBX1B1NskgibIFWvR2G1Lw/s1600/Stranda+PF+2017.jpeg",
+          "displayedWidth": 320,
+          "displayedHeight": 158,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [],
+    "citations": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Ducové-Kostolec, 13.7.2026. Priamy citát Pavla Dvořáka (blok 8,10,11,19) obsahoval 13 mechanických artefaktov mäkkého spojovníka z pôvodného zalomeného textu knihy — opravené ako prepis, slová/tvary v citáte nedotknuté.",
+  "corrections": [
+    { "hint": 2, "before": "stor.n.l./,pričom", "after": "stor. n. l./, pričom", "reason": "chýbajúce medzery" },
+    { "hint": 2, "before": "sekerka,ktorá", "after": "sekerka, ktorá", "reason": "chýbajúca medzera po čiarke" },
+    { "hint": 5, "before": "dubových kolov,obytné", "after": "dubových kolov, obytné", "reason": "chýbajúca medzera po čiarke" },
+    { "hint": 5, "before": "koncom 10.stor.", "after": "koncom 10. stor.", "reason": "chýbajúca medzera" },
+    { "hint": 5, "before": "V polovici 15.stor.", "after": "V polovici 15. stor.", "reason": "chýbajúca medzera, konzistentne s '15. stor.' v tom istom bloku" },
+    { "hint": 8, "before": "po­zvoľna stúpajúcou lúkou", "after": "pozvoľna stúpajúcou lúkou", "reason": "mäkký spojovník — artefakt prepisu z knihy (citát Dvořáka)" },
+    { "hint": 8, "before": "vztý­čil palisádu", "after": "vztýčil palisádu", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 8, "before": "zachovaliodtlačky vnú­torného zariadenia", "after": "zachovali odtlačky vnútorného zariadenia", "reason": "chýbajúca medzera + mäkký spojovník — artefakt prepisu" },
+    { "hint": 8, "before": "najväč­šieho ohrozeni", "after": "najväčšieho ohrozeni", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 10, "before": "opevne­ný dvorec", "after": "opevnený dvorec", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 10, "before": "naprí­klad nijaké", "after": "napríklad nijaké", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 11, "before": "Ro­tunda z Ducového", "after": "Rotunda z Ducového", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 11, "before": "Mora­vy. Zostali", "after": "Moravy. Zostali", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 11, "before": "kos­tolíka tvorila", "after": "kostolíka tvorila", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 19, "before": "posledné­ho pána", "after": "posledného pána", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 19, "before": "kto­rých sme hovorili", "after": "ktorých sme hovorili", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 19, "before": "ploské ka­mene, ktoré", "after": "ploské kamene, ktoré", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 19, "before": "nerešpekto­val palisádu", "after": "nerešpektoval palisádu", "reason": "mäkký spojovník — artefakt prepisu" },
+    { "hint": 5, "before": "pol.19.ako", "after": "polovice 19. storočia ako", "reason": "vypadnuté slovo/preklep" },
+    { "hint": 7, "before": "stopy dávnej minulosti 3 - zrod národa", "after": "Stopy dávnej minulosti 3 - Zrod národa", "reason": "názov knihy veľkými písmenami" }
+  ]
+}

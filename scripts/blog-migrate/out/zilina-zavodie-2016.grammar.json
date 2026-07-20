@@ -1,0 +1,36 @@
+{
+  "_note": "5 opráv aplikovaných, 0 cross-node preskočených, 0 nenájdených v dumpe (možná halucinácia)",
+  "corrections": [
+    {
+      "block": "?",
+      "before": "kamenisto – hlinitým valom",
+      "after": "kamenisto-hlinitým valom",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "5.-6.stor.",
+      "after": "5.-6. stor.",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "slúžilo k ochrane obyvateľstva",
+      "after": "slúžilo na ochranu obyvateľstva",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "Hradisko v Závodí svojou rozlohou asi 6 ha, je podobné hradisku na Straníku.",
+      "after": "Hradisko v Závodí svojou rozlohou asi 6 ha je podobné hradisku na Straníku.",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "v období okolo zmeny letopočtov, kedy tu sídlil ľud púchovskej kultúry",
+      "after": "v období okolo zmeny letopočtov, keď tu sídlil ľud púchovskej kultúry",
+      "reason": "gramatika/pravopis"
+    }
+  ],
+  "skippedNotFound": []
+}

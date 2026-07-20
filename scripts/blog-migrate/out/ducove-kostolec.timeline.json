@@ -1,0 +1,108 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 11 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "2600 pred n. l.",
+      "title": "Najstaršie eneolitické osídlenie",
+      "description": "Nálezy z najstaršej fázy kultúry s kanelovanou keramikou bošáckej skupiny.",
+      "type": "founding"
+    },
+    {
+      "year": "1300 – 1100 pred n. l.",
+      "title": "Hradisko velatickej kultúry",
+      "description": "Ľud velatickej kultúry vybudoval na terase Kostolca významné hradisko s mohutným valom a priekopou, ktoré sa zachovali dodnes; zistené aj kostrové a žiarové hroby.",
+      "type": "construction"
+    },
+    {
+      "year": "2. – 3. storočie n. l.",
+      "title": "Prechodné osídlenie v dobe rímskej",
+      "description": "Z areálu pochádzajú drobné nálezy z tohto obdobia.",
+      "type": "event"
+    },
+    {
+      "year": "9. – 10. storočie",
+      "title": "Veľmožský dvorec",
+      "description": "Vybudované opevnenie z dubovej palisády, zrubové obytné domy a rotunda — sídlo príslušníkov dvorskej aristokracie; v opevnení nikdy nežilo viac než 60 – 70 ľudí.",
+      "type": "construction"
+    },
+    {
+      "year": "koniec 10. storočia",
+      "title": "Zánik dvorca",
+      "description": "Zánik možno spájať s ambíciami Arpádovcov pri rozširovaní obsadeného územia.",
+      "type": "destruction"
+    },
+    {
+      "year": "do 11. storočia",
+      "title": "Rotunda prežíva zánik dvorca",
+      "description": "Kostolík naďalej slúžil aj po zániku palisády a zrubov, hoci nový cintorín už jeho pôdorys nerešpektoval.",
+      "type": "event"
+    },
+    {
+      "year": "do polovice 15. storočia",
+      "title": "Stredoveký cintorín",
+      "description": "Plocha bývalého dvorca sa používala ako cintorín — pri výskume odkryté 1545 (podľa Dvořáka 1900) hrobov, čo predstavuje slovenský rekord v počte preskúmaných hrobov na jednej lokalite.",
+      "type": "event"
+    },
+    {
+      "year": "polovica 15. storočia",
+      "title": "Husitské vojenské stanovisko",
+      "description": "Pravdepodobne v súvislosti s aktivitou bratríckych vojsk na Považí bola na Kostolci vybudovaná vojenská základňa; osídlenie z tohto obdobia zistené aj v polohe Bašta.",
+      "type": "event"
+    },
+    {
+      "year": "1968",
+      "title": "Záchranný výskum",
+      "description": "Vyvolaný hrozbou ťažby suroviny na výrobu brizolitu.",
+      "type": "discovery"
+    },
+    {
+      "year": "1969 – 1975",
+      "title": "Rozsiahly systematický výskum",
+      "description": "Výsledky viedli k presunu ťažby (od 1973) a neskôr k budovaniu expozície v prírode s náznakovou rekonštrukciou (od 1976).",
+      "type": "discovery"
+    },
+    {
+      "year": "1990",
+      "title": "Vyhlásenie za Národnú kultúrnu pamiatku",
+      "description": "Lokalita Kostolec vyhlásená za NKP.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rotunda",
+      "value": "Vyše 12 m dlhá (vrátane apsidy), takmer 9 m široká, steny do výšky vyše 7 m — najlepšie zachovaná stavba z územia Veľkej Moravy",
+      "icon": "building"
+    },
+    {
+      "label": "Rovnaký pôdorys",
+      "value": "Zhodné rozmery s rotundou v Nitrianskej Blatnici a jednou z rotúnd v Mikulčiciach",
+      "icon": "crown"
+    },
+    {
+      "label": "Palisáda",
+      "value": "Z dubových brvien (20 – 25 cm) zaliatych vápennou maltou, vysoká asi 2,5 m; najvyšší bod hradby asi 10 m nad dnom priekopy",
+      "icon": "shield"
+    },
+    {
+      "label": "Vnútorné členenie",
+      "value": "Tri vnútorné palisády oddeľujúce kostolík s cintorínom, obytné zruby pána a priestor pre bojovú družinu",
+      "icon": "building"
+    },
+    {
+      "label": "Hrobka pri rotunde",
+      "value": "Asi 25 hrobov vytesaných do skaly; vo vydelenej 2 m hlbokej skalnej hrobke ležali mladík a dospelý muž v truhlách",
+      "icon": "scroll"
+    },
+    {
+      "label": "Typ sídla",
+      "value": "Podľa A. Ruttkaya tvarovo podobný franským dvorcom (curtis) 8. – 9. storočia; externý dvorec mimo veľkomoravských mocenských centier",
+      "icon": "star"
+    },
+    {
+      "label": "Dnes",
+      "value": "Národná kultúrna pamiatka od 1990, s náznakovou rekonštrukciou palisády, brány a základov budov — jedno z mála takto rekonštruovaných hradísk na Slovensku",
+      "icon": "scroll"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "turcianske-jaseno-hradiste",
+  "note": "grammar-sk agent, druhý prechod. Objavená a opravená vážna štrukturálna chyba: kompletná duplicita povesti v Zdrojoch (§21.5 DUPLICATE_BIBLIO analóg, ale pre citát nie bibliografiu).",
+  "criticalFix": {
+    "issue": "Sekcia Zdroje obsahovala 16 položiek (0-15), ktoré boli DOSLOVNOU duplicitou celého quote-blocku 'Skaza Hradišťa' (14 odsekov legendy + úvodná veta + nadpis), rozdelenou na jednotlivé items namiesto jedného textu. Vzniklo už pri pôvodnej extrakcii (extract.mjs), nevšimnuté pri prvej migrácii, lebo verifikácia kontrolovala len počet blokov, nie obsah Zdrojov.",
+    "fix": "Odstránených 16 duplicitných items. Ponechané a preformátované 4 skutočné bibliografické položky: Šalkovský 2011, Janšák 1930 (dobová citácia s neuzavretou zátvorkou opravená a modernizovaná rovnako ako v Sučanoch), Bitka pri Bratislave SAHI 2008, a URL na turcianskejaseno.sk (skutočný zdroj legendy, ponechaný ako odkaz)."
+  },
+  "appliedFixes": [
+    { "rule": "A8 modernizácia archaizmu + A2 pozícia sa", "before": "Najpríkrejší svah nachodí sa v partii", "after": "Najpríkrejší svah sa nachádza v partii", "block": 1 },
+    { "rule": "B typografia (zmiešaný spojovník/pomlčka)", "before": "val d – 696 - f", "after": "val d – 696 – f", "block": 2, "note": "aj v KF 'Opevnenie'" },
+    { "rule": "OCR artefakt", "before": "čiarami1' a b c e i a", "after": "čiarami a b c e i a", "block": 4, "note": "'1'' bol bezvýznamový OCR zvyšok, odstránený bez domýšľania náhrady" },
+    { "rule": "A8 preklep", "before": "umiestenie stád", "after": "umiestnenie stád", "block": 4 },
+    { "rule": "A1 vsuvka obojstranne", "before": "plošina d e f d s rozlohou 0,16 ha tvorí", "after": "plošina d e f d, s rozlohou 0,16 ha, tvorí", "block": 4 },
+    { "rule": "D cross-article", "before": "II. voj. mapovania", "after": "2. voj. mapovania", "block": 6, "note": "image caption" },
+    { "rule": "B typografia", "before": "„neisté opevnené výšinné sídliská“", "after": "„neisté opevnené výšinné sídliská\"", "block": 7 },
+    { "rule": "D cross-field (excerpt bol nesynchronizovaný)", "before": "Turčianske Jaseno nesie názov", "after": "Turčianske Jaseno, nesie názov", "block": "excerpt" },
+    { "rule": "B typografia", "before": "5,2 ha - vonkajšie", "after": "5,2 ha — vonkajšie", "block": "keyFacts" },
+    { "rule": "D cross-field", "before": "„zapadla Slávov sláva“ - Veľká", "after": "„zapadla Slávov sláva\" — Veľká", "block": "timeline" }
+  ],
+  "protected_zone_verified_untouched": {
+    "quote_block_text_length_before": 4655,
+    "quote_block_text_length_after": 4655,
+    "note": "0 zmien v citáte 'Skaza Hradišťa' — overené priamym porovnaním dĺžky pred/po."
+  },
+  "reviewed_no_change": [
+    "Blok 0, 5 — bez chýb.",
+    "'Podobne tak na strane i h e, v partii h e.' (blok 1) — eliptická veta bez slovesa, akceptovaná ako dobový/technický register opisu, nie MISSING_WORD."
+  ],
+  "flags": []
+}

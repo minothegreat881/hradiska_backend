@@ -1,0 +1,39 @@
+{
+  "slug": "detva-kalamarka",
+  "appliedFixes": [
+    { "id": "01", "type": "rozbitá interpunkcia", "note": "Prepísaný výpočet artefaktov (blok 10) podľa navrhnutej opravy — tri skupiny so správnymi zátvorkami: zbrane a súčasti výstroja / poľnohospodárske a remeselné nástroje i domáce potreby / stavebné a závesné kovania. Zároveň opravené kresadlá, praslene, kľúč a dash 9.–11. stor. v rámci tej istej vety." },
+    { "id": "02", "note": "'50 metrov v jeho južnej' -> '50 metrov; v jeho južnej' (blok 7)." },
+    { "id": "03", "type": "vecné + timeline", "note": "Boleslav Chrabrý zomrel 1025 (1. pol. 11. stor.), nie v 2. polovici. Opravené na '(† 1025)' v tele (blok 14) aj v timeline ('Polsko-uhorské vyrovnanie')." },
+    { "id": "04", "type": "cross-article", "note": "Marcus Aurélius -> Marcus Aurelius (blok 4 aj timeline 'Germánski Kvádi')." },
+    { "id": "05", "type": "cudzí zdroj + prázdna dvojbodka", "note": "Odstránená položka 'Zdroj:' (intro nastavené na null). Mácelovej publikácia a jej URL odstránené zo Zdrojov úplne — potvrdené ako copy-paste kontaminácia zo Zvolen – Môťová, netýka sa Kalamárky." },
+    { "id": "06", "note": "dosial -> doteraz, včasno-stredovekú -> včasnostredovekú (blok 0)." },
+    { "id": "07", "note": "stĺpovitý andezítový -> andezitový (blok 1)." },
+    { "id": "08", "note": "v Detvianskej konštrukcií -> v detvianskej konštrukcii (blok 7)." },
+    { "id": "09", "note": "'i v Čechách . Atypickým' -> 'i v Čechách. Atypickým' (blok 7)." },
+    { "id": "10", "note": "klúč -> kľúč (súčasť opravy #01)." },
+    { "id": "11", "note": "kresadla/prasleny -> kresadlá/praslene (súčasť opravy #01)." },
+    { "id": "12", "note": "snáď -> azda (blok 13)." },
+    { "id": "13", "note": "'kedy na našom území' -> 'keď na našom území' (blok 4)." },
+    { "id": "14", "note": "Veta o 9 % nálezov prepísaná podľa návrhu (blok 2) — čitateľnejší slovosled." },
+    { "id": "15", "note": "Chýbajúca čiarka pred 'z ktorých' doplnená (blok 16)." },
+    { "id": "16", "type": "typografia", "note": "Zjednotené dashe naprieč telom (803–816, 8–25, 440–450, 8.–10., 9.–11., 10./11.->10.–11., 1. tretiny-1. polovice, 8.-1.pol., 2.pol.9.-10., 10.-1.pol.11., Zvolene-Moťovej(10.-11.), koniec9.-10., k 10.-11.) aj v Kľúčových faktoch (803–816 -> 803 – 816, 8–25 -> 8 – 25 — KF používali en dash bez medzery, tretí variant)." },
+    { "id": "17", "note": "5,7x3,2 m -> 5,7 × 3,2 m (blok 2)." },
+    { "id": "18", "note": "2040 -> 2 040 (blok 10 aj KF 'Analyzovaná keramika')." },
+    { "id": "19", "note": "Bielochorvátskeho -> bielochorvátskeho (blok 13 aj timeline 'Strážna funkcia hradiska')." },
+    { "id": "20", "type": "cross-article", "note": "Zvolene-Moťovej -> Zvolene-Môťovej (blok 13), zhoda s článkom Zvolen – Môťová." },
+    { "id": "21", "note": "Anglické úvodzovky pri \"bádateľov\" nahradené slovenskými „bádateľov\" (blok 0)." },
+    { "id": "22", "note": "'z hradiska kalamárka' -> 'z hradiska Kalamárka' — opravené v tele (blok 15) aj v Media Library (media 1929)." },
+    { "id": "23", "note": "'vybudovali kelti' -> 'vybudovali Kelti' — Media Library caption (media 1934)." },
+    { "id": "24", "type": "rozpor", "note": "Caption 'juhovýchodnej strany' -> 'východnej strany' (media 1932), zhoda s telom ('Iba z východu...')." },
+    { "id": "25", "type": "zlepené", "note": "Heading 'Spracoval Orgoň Foto 25.3.2012 (autor Orgoň)' rozdelený na dva samostatné headingy: 'Spracoval Orgoň.' a 'Foto: 25. 3. 2012 (autor Orgoň)' (pôvodne nadpis fotogalérie)." },
+    { "id": "26", "note": "Medzery okolo výpustky doplnené: 'opevnenia… pardón, pozostatky zábradlia' (media 1946), obsah/vtip ponechaný." },
+    { "id": "27", "type": "obsah, nevyriešené", "note": "Komentár z r. 2020 o neprebádanom vale mimo skúmaného areálu — nejde o korektúru, oznámené používateľovi, žiadna zmena v článku." }
+  ],
+  "sourcesFinalOrder": [
+    "ŠALKOVSKÝ, P.: Slovanské hradisko v Detve...",
+    "Šalkovský, Peter: Detva: Praveké a včasnohistorické hradisko...",
+    "Foto: panoramio.com/user/179042...",
+    "zvolen.sme.sk článok",
+    "Šalkovský: Stredné Slovensko vo včasnom stredoveku, Nitra 2011"
+  ]
+}

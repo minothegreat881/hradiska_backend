@@ -1,0 +1,89 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 7 timeline + 8 keyFacts.",
+  "timeline": [
+    {
+      "year": "5. storočie pred n. l.",
+      "title": "Zánik halštatského hradiska",
+      "description": "Hradisko osídlené ľudom lužickej kultúry a neskôr halštatskej kultúry bolo po opakovaných útokoch zničené; obnovilo sa až s príchodom Slovanov.",
+      "type": "destruction"
+    },
+    {
+      "year": "2. polovica 8. storočia",
+      "title": "Príchod slovanského obyvateľstva",
+      "description": "Slovania znovu postavili opevnenie na akropole a vybudovali aj opevnenie oboch predhradí.",
+      "type": "founding"
+    },
+    {
+      "year": "8. – 9. storočie",
+      "title": "Vznik priekopy prvého predhradia",
+      "description": "Priekopa široká 15 – 17 m, na severozápade plynule prechádzajúca do prírodnej strže.",
+      "type": "construction"
+    },
+    {
+      "year": "prelom 9. a 10. storočia",
+      "title": "Strata územia severne od Moravskej brány",
+      "description": "V súvislosti s upadajúcou ríšou Mojmírovcov došlo k násilným udalostiam — dokladujú to mohutné požiarové vrstvy na akropole a prvom predhradí, aj železné hroty šípov vo vnútornej palisáde valu.",
+      "type": "event"
+    },
+    {
+      "year": "10. storočie",
+      "title": "Takmer storočná prestávka v osídlení",
+      "description": "Po požiaroch život na hradisku takmer na celé storočie ustal, bez akýchkoľvek písomných zmienok o regióne.",
+      "type": "event"
+    },
+    {
+      "year": "posledná štvrtina 10. storočia",
+      "title": "Návrat osídlenia",
+      "description": "Hradisko už nikdy nezískalo pôvodný význam, kultúra tohto obdobia je chudobnejšia a osídlená plocha menšia.",
+      "type": "event"
+    },
+    {
+      "year": "polovica 11. storočia",
+      "title": "Definitívne opustenie hradiska",
+      "description": "Obyvateľstvo sa presunulo na Zámocký vrch v dnešnom poľskom Tešíne, kde vznikla nová fortifikácia a neskôr centrum piastovského hradského obvodu.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Asi 2 km severovýchodne od obce Chotěbuz, na ostrožine v Těšínskej pahorkatine, vo výške cca 275 m n. m.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozmery hradiska",
+      "value": "Celková dĺžka asi 400 m, šírka asi 110 m, vnútorná rozloha 1,8 ha",
+      "icon": "shield"
+    },
+    {
+      "label": "Členenie",
+      "value": "Tri časti — akropola, prvé a druhé predhradie; najvýraznejšie opevnené boli akropola a prvé predhradie",
+      "icon": "building"
+    },
+    {
+      "label": "Opevnenie akropoly",
+      "value": "Drevená hradba komorovej konštrukcie na staršom halštatskom vale, čelná stena omazaná ílom proti požiaru",
+      "icon": "shield"
+    },
+    {
+      "label": "Priekopa prvého predhradia",
+      "value": "Šírka 15 – 17 m, hrotitý tvar, napája sa na prírodnú strž",
+      "icon": "mountain"
+    },
+    {
+      "label": "Kultový objekt",
+      "value": "Pravouhlý drevený útvar 3,2 × 5,2 × 5,8 m na prvom predhradí, so zhorenou schránkou uprostred — pravdepodobne pohanská svätyňa",
+      "icon": "scroll"
+    },
+    {
+      "label": "Iný názov",
+      "value": "Hradisko sa tiež nazýva Starý Tešín, keďže obranu kupeckej cesty cez Moravskú bránu prevzal neskorší hrad v Těšíne",
+      "icon": "crown"
+    },
+    {
+      "label": "Dnes",
+      "value": "Archeoskanzen s rekonštruovanou komorovou a palisádovou hradbou, vstupnou bránou vo veži, mostom cez priekopu a vnútornou zástavbou",
+      "icon": "star"
+    }
+  ]
+}

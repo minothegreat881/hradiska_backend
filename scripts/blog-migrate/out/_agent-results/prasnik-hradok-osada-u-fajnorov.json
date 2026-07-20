@@ -1,0 +1,45 @@
+{
+  "timeline": [
+    { "year": "4400 – 4000 pred Kr.", "title": "Najstaršie osídlenie – ludanická skupina", "description": "Najstaršie zistené osídlenie lokality patrí do ludanickej skupiny, podskupiny lengyelskej kultúry, datovanej cca do rokov 4400 – 4000 pred Kr., čo dokladajú nájdené črepy keramiky.", "type": "founding" },
+    { "year": "pred 1600 / 1450 pred Kr.", "title": "Osídlenie maďarovskou kultúrou", "description": "V staršej dobe bronzovej osídlil výšinné sídlisko ľud s maďarovskou kultúrou (podľa konvenčného datovania pred 1450 pred Kr., podľa novšieho datovania pred 1600 pred Kr.).", "type": "era" },
+    { "year": "okolo roku 1000 p.n.l.", "title": "Obnova opevnenia a rozšírenie hradiska", "description": "Ľud sliezskej fázy lužických popolnicových polí obnovil hlavné opevnenie prvého areálu a hradisko rozšíril západným smerom o ďalšie dva areály.", "type": "construction" },
+    { "year": "neskorá doba bronzová", "title": "Zánik osídlenia požiarom", "description": "Osídlenie hradiska v neskorej dobe bronzovej zaniklo rozsiahlym požiarom.", "type": "destruction" },
+    { "year": "2. – 1. storočie pred n. l.", "title": "Laténske osídlenie", "description": "Lokalita na krátku dobu znovu ožila v laténskej dobe, keď hradisko poslúžilo ako zastávka keltského ľudu pri pochode na juhovýchod alebo ako strážny bod nad komunikáciou.", "type": "event" },
+    { "year": "obdobie Nitrianskeho kniežatstva / začiatky Veľkomoravskej ríše", "title": "Príchod Slovanov", "description": "Svoj účel hradisko znovu začalo plniť po príchode Slovanov, niekedy v časoch Nitrianskeho kniežatstva, resp. v začiatkoch Veľkomoravskej ríše.", "type": "era" },
+    { "year": "20. roky 20. storočia", "title": "Prieskum Štefana Janšáka", "description": "Hradisko ako prvý preskúmal Štefan Janšák, v čase, keď ešte nebolo narušené ťažbou kameňa v kameňolome.", "type": "discovery" },
+    { "year": "70. – 80. roky 20. storočia", "title": "Výskum Petra Nováka", "description": "Moderný a podrobný výskum hradiska realizoval Petr Novák.", "type": "discovery" },
+    { "year": "2011", "title": "Vydanie knihy o výskume hradiska", "description": "Petr Novák zhrnul svoje dlhoročné výskumy v knihe vydanej v Čechách, keďže Západoslovenské múzeum nebolo schopné knihu vydať napriek tomu, že mu rukopis odovzdal už v roku 2001.", "type": "event" }
+  ],
+  "keyFacts": [
+    { "label": "Strategická poloha", "value": "Ostroh nad potokom Holešky umožňoval kontrolu dlhého úseku cesty z Brezovej pod Bradlom smerom k Vrbovému.", "icon": "map" },
+    { "label": "Výška svahu", "value": "Východná strmá stena hradiska prevyšuje okolitý terén o 110 – 117 m.", "icon": "mountain" },
+    { "label": "Najstaršie osídlenie", "value": "Ludanická skupina (podskupina lengyelskej kultúry), datovaná cca do rokov 4400 – 4000 pred Kr.", "icon": "book" },
+    { "label": "Palisáda z mladšej doby kamennej", "value": "Do základového žľabu vo vápencovej skale bola postavená palisáda z hrabových a dubových kmeňov s priemerom až 25 cm.", "icon": "building" },
+    { "label": "Najkrajší bronzový nález", "value": "Zdobený sekeromlat s dlhou valcovitou tuľajkou, dlátovitým ostrím a vejárovito rozšíreným tylom, patriaci maďarovskej kultúre.", "icon": "star" },
+    { "label": "Kovolejárska dielňa", "value": "V druhom areáli fungovala bronzolejárska dielňa lužickej kultúry – dokladá ju kadlub, depot bronzových krúžkov a čerstvo odliaty kosák.", "icon": "custom" },
+    { "label": "Slovanská kamenná hradba", "value": "Nasucho kladená kamenná stena dosahovala pôvodne výšku najmenej tri metre, dodnes je zachovaná do výšky cca 150 cm.", "icon": "shield" }
+  ],
+  "corrections": [
+    { "before": "hrod šípu", "after": "hrot šípu" },
+    { "before": "sme v dobe kamenej", "after": "sme v dobe kamennej" },
+    { "before": "4400 – 4000 pred Kr)", "after": "4400 – 4000 pred Kr.)" },
+    { "before": "napr Veselé", "after": "napr. Veselé" },
+    { "before": "1600 pred Kr.) Objavené", "after": "1600 pred Kr.). Objavené" },
+    { "before": "všetko naznačuje prostému opustenie lokality", "after": "všetko naznačuje prostému opusteniu lokality" },
+    { "before": "a mohlo tak plniť funkciu strážneho bodu", "after": "a mohla tak plniť funkciu strážneho bodu" },
+    { "before": "Otázka kto zničil lužické hradisko", "after": "Otázka, kto zničil lužické hradisko" },
+    { "before": "zásobnice, a ďalšie nádoby", "after": "zásobnice a ďalšie nádoby" },
+    { "before": "vyskytujú na západnom slovensku", "after": "vyskytujú na západnom Slovensku" },
+    { "before": "pochodu keltov východným smerom", "after": "pochodu Keltov východným smerom" },
+    { "before": "k hlavnému opevnenie prvého areálu", "after": "k hlavnému opevneniu prvého areálu" },
+    { "before": "hrane hlavného opevnenie prvého areálu", "after": "hrane hlavného opevnenia prvého areálu" },
+    { "before": "v rieke Holeške od ktorej ich delil", "after": "v rieke Holeške, od ktorej ich delil" },
+    { "before": "kostené predmety, sklený korálik, či časť žarnova", "after": "kostené predmety, sklený korálik či časť žarnova" },
+    { "before": "železné kovanie časť železnej sekerky", "after": "železné kovanie, časť železnej sekerky" },
+    { "before": "väčšia čast z neho sa do dnes zachovala", "after": "väčšia časť z neho sa dodnes zachovala" },
+    { "before": "po hrebeni príjdete až ku kameňolomu", "after": "po hrebeni prídete až ku kameňolomu" },
+    { "before": "kde ešte v roku 2001 odovzdal svoj rukopis nebolo schopné", "after": "kde ešte v roku 2001 odovzdal svoj rukopis, nebolo schopné" },
+    { "before": "(alebo ochotné ?)", "after": "(alebo ochotné?)" },
+    { "before": "Dievčí Vršok", "after": "Dievčí Vŕšok" }
+  ]
+}

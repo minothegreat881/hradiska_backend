@@ -1,0 +1,31 @@
+{
+  "slug": "bosaca-srniansky-haj",
+  "appliedFixes": [
+    { "id": "01", "type": "priorita", "note": "Holubyho citát (blok 6) prevedený z rich-text na content.quote-block (author='Ľudovít Holuby', source='Národopisný Věstník Českoslovanský XVII, 1924') — vizuálne oddelený kurzívou, odsadením a rámčekom. Uvádzacia veta 'Ľudovít Holuby o hradisku uvádza nasledovné:' ponechaná ako intro." },
+    { "id": "02", "type": "zlepené+prázdna dvojbodka", "note": "'Foto M. Krajčovič:' odstránené z konca citátu (bolo v samostatnom text-node), presunuté ako fotokredit do caption obrázka 'kamenné nástroje z hradiska' (blok 7 aj gallery media 1917)." },
+    { "id": "03", "type": "zlé umiestnenie", "note": "Janšák (1930) a Bialeková (1989) presunuté z tela do Zdrojov a literatúry. Blok 10 (heading 'Národopisný Věstník...') odstránený ako samostatný blok — použitý ako source pole quote-blocku, existujúca URL (item 0) priradená k tejto položke v Zdrojoch." },
+    { "id": "04", "type": "metadáta", "note": "authorName: Unknown -> Orgon." },
+    { "id": "05", "type": "vecné", "note": "Nadpis a tag zjednotené na 'Bošáca - Srňanský háj' (slug ponechaný kvôli funkčným odkazom). Telo (blok 0) a excerpt už mali Srňanský háj správne. Holubyho tvar 'Srňanského Hája' v citáte NEDOTKNUTÝ." },
+    { "id": "06", "type": "tautológia", "note": "jeho strany sú na všetkých stranách schodné -> jeho svahy sú na všetkých stranách schodné (blok 2)." },
+    { "id": "07", "type": "gramatika", "note": "Povrch hradiska skláňa sa na sever, vystavený... -> Povrch hradiska sa skláňa na sever, a je teda vystavený... (blok 4)." },
+    { "id": "08", "type": "gramatika", "note": "zachoval si dodnes -> si zachoval dodnes (blok 2)." },
+    { "id": "09", "type": "nezrozumiteľné", "note": "val f, g -> val f–g; val a d b h e i a -> val a–d–b–h–e–i–a (blok 2). Rovnaký vzor aj pri 'čiarou a d b a' -> 'čiarou a–d–b–a' (blok 4, doplnené pre konzistenciu). Kľúčové fakty (val f-g) tiež opravené na en dash." },
+    { "id": "10", "type": "typografia", "note": "80-90 cm -> 80 – 90 cm (blok 1)." },
+    { "id": "11", "type": "vecné", "note": "hallštatský -> halštatský (blok 4 aj v timeline 'Výskum Štefana Janšáka')." }
+  ],
+  "holubyQuote": {
+    "policy": "Text citátu ponechaný bezo zmeny pravopisu (jako, zkameněliny, zachráněno, musea, jílu, sbieral, zprávu, Dionys Stúr, prichodí podivným, Achillovská päta) — historická hodnota predkodifikačnej slovenčiny.",
+    "appliedOptionalJoins": [
+      "Srňan-ského -> Srňanského",
+      "po-tôčka -> potôčka",
+      "naj-snadnejšie -> najsnadnejšie"
+    ],
+    "note": "Spojenie rozdelených slov bolo v reporte označené ako voliteľné (zalomenia z tlače, nie autorský zámer) — aplikované pre čitateľnosť, bez zmeny pravopisu."
+  },
+  "structural": [
+    "Blok 6 zmenený z content.rich-text na content.quote-block.",
+    "Bloky 8, 9, 10 (bibliografia v tele) odstránené, presunuté do Zdrojov a literatúry.",
+    "Caption obrázka 'kamenné nástroje z hradiska' doplnená o fotokredit '(foto M. Krajčovič)' — v bloku aj v Media Library (id 1917).",
+    "Title a tag premenované na 'Bošáca - Srňanský háj', slug ponechaný."
+  ]
+}

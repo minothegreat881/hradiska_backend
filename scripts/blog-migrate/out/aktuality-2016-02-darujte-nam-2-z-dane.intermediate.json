@@ -1,0 +1,101 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2016-02-darujte-nam-2-z-dane.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8284122187295690733",
+    "bloggerPostUrl": "http://www.hradiska.sk/2016/02/darujte-nam-2-z-dane.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/8284122187295690733/comments/default",
+    "extractedAt": "2026-07-18T11:21:22.084Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Darujte nám 2% z dane",
+    "slug": "darujte-nam-2-z-dane-2016",
+    "excerpt": "Naše OZ Hradiská sa tento rok uchádza o 2% z Vašej dane. Minulý rok sme za ne spravili informačné tabule na hradisku Slepý vrch v Orešanoch, vyčistili sme 1 hradisko a 1 mohylník, pomáhali sme archeológom vo výskumoch, ale hlavne sme vydali kvalitný…",
+    "authorName": "Orgon",
+    "publishedAt": "2016-02-19T21:07:00.000+01:00",
+    "originalPublishedDate": "2016-02-19T21:07:00.000+01:00",
+    "updatedAt": "2016-02-19T21:07:03.825+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic1qxZX36XLceRkikmJysgXMjedw1DM6uJSQ7xQDig3LoQUCOnzzp1ItHxS3Prza9710HV3e3S1jiwhLvywwfoW8kzo8SOplyoY4H_xBV85rOP4TV3BgLzdbvN8BYrTtNJei55SfJOrmA/s0/sam.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic1qxZX36XLceRkikmJysgXMjedw1DM6uJSQ7xQDig3LoQUCOnzzp1ItHxS3Prza9710HV3e3S1jiwhLvywwfoW8kzo8SOplyoY4H_xBV85rOP4TV3BgLzdbvN8BYrTtNJei55SfJOrmA/s1600/sam.jpg",
+        "filename": "sam.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic1qxZX36XLceRkikmJysgXMjedw1DM6uJSQ7xQDig3LoQUCOnzzp1ItHxS3Prza9710HV3e3S1jiwhLvywwfoW8kzo8SOplyoY4H_xBV85rOP4TV3BgLzdbvN8BYrTtNJei55SfJOrmA/s1600/sam.jpg",
+          "displayedWidth": 232,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Naše OZ Hradiská sa tento rok uchádza o 2% z Vašej dane. Minulý rok sme za ne spravili informačné tabule na hradisku Slepý vrch v Orešanoch, vyčistili sme 1 hradisko a 1 mohylník, pomáhali sme archeológom vo výskumoch, ale hlavne sme vydali kvalitný zborník, čo vôbec nebolo finančne jednoduché. Tento rok budeme pokračovať v tvorbe informačných tabúľ a zameriame sa viac na pomoc archeológom pri výskumoch. Na to bude potrebné zakúpiť rôznu výbavu. Ak nás podporíte, Vaše peniaze budú investované do dobrej veci. Ďakujeme!!!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "http://ulozto.sk/xs47s1u4/tlacivo-2-percenta-dane-2016-pdf",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Tlačivo na poukázanie 2% stiahnete tu: Tlačivo 2%"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

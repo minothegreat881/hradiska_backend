@@ -1,0 +1,78 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "doba bronzová",
+      "title": "Prvé osídlenie údolia Tepličky",
+      "description": "V rámci údolia rieky Tepličky bolo objavené osídlenie už z doby bronzovej, a to na polohe Čvirigovec.",
+      "type": "era"
+    },
+    {
+      "year": "cca 300 pred Kr. – 180 po Kr.",
+      "title": "Púchovská kultúra",
+      "description": "Obdobie trvania archeologickej púchovskej kultúry, ktorá sa v 1. storočí pred Kr. rozkladala v severnom, strednom a západnom Slovensku, na severovýchodnej Morave a v Malopoľsku.",
+      "type": "era"
+    },
+    {
+      "year": "mladšia doba železná (laténska doba)",
+      "title": "Kelti vybudovali hradisko Čertova skala",
+      "description": "Na hranici keltského osídlenia a keltsko-lužickej púchovskej kultúry vybudovali kelti významné hradisko na lokalite Čertova skala.",
+      "type": "founding"
+    },
+    {
+      "year": "cca 5. – 6. storočie",
+      "title": "Germánske (svébske) osídlenie",
+      "description": "Po zániku keltského osídlenia lokalitu dočasne obývali Germáni – hradisko bolo v období sťahovania národov krátko refugiálne osídlené germánskymi Svébmi.",
+      "type": "event"
+    },
+    {
+      "year": "9. – 11. storočie",
+      "title": "Slovanské strážne hradisko",
+      "description": "Sloveni, ktorí sa usadili v údolí Tepličky, využili opustené keltské hradisko a vybudovali tu významné strážne hradisko, obývané zrejme aj remeselníkmi.",
+      "type": "construction"
+    },
+    {
+      "year": "prvá tretina 9. storočia",
+      "title": "Nálezy ostrôh z obdobia Nitrianskeho kniežatstva",
+      "description": "Na hradisku boli nájdené tri ostrohy rovnakého typu, aký sa vyrábal na hradisku v Pobedime, jednoznačne zaraďované do prvej tretiny 9. storočia.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha hradiska",
+      "value": "75 × 25 metrov, približne 0,18 ha – hradisko patrí medzi rozlohou malé opevnenia.",
+      "icon": "map"
+    },
+    {
+      "label": "Pôvod názvu",
+      "value": "Podľa povesti čert dupol do diery na vrchole skaly, aby v nej skryl svoj poklad, a zanechal tam svoju stopu.",
+      "icon": "book"
+    },
+    {
+      "label": "Výhľad z vrcholu",
+      "value": "Počas jasných dní je z Čertovej skaly nádherný výhľad na Strážovské vrchy, Biele Karpaty a okolité obce.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Kováčska/šperkárska dielňa",
+      "value": "Na hradisku boli objavené dôkazy o dielni vrátane polotovarov, nedokončenej spony a nástrojov ako vrták, dláto a majzlík.",
+      "icon": "building"
+    },
+    {
+      "label": "Keltské obetisko",
+      "value": "V okolí hradiska bolo objavené významné keltské kultové miesto s množstvom spálených kovových predmetov, skla, kostí a keramiky.",
+      "icon": "star"
+    },
+    {
+      "label": "Ostrohy z Pobedimu",
+      "value": "Tri nájdené ostrohy patria k typu, aký sa vyrábal na hradisku v Pobedime, datované do prvej tretiny 9. storočia.",
+      "icon": "shield"
+    },
+    {
+      "label": "Sekerovité hrivny",
+      "value": "Medzi nálezmi z obdobia Nitrianskeho kniežatstva a Veľkej Moravy sú aj sekerovité hrivny – dobové slovanské platidlo.",
+      "icon": "custom"
+    }
+  ]
+}

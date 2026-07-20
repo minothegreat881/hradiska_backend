@@ -1,0 +1,11 @@
+{
+  "_note": "Audit: Agent 2 pass dokončený, 13.7.2026. Pôvodne 0 opráv. RE-REVIEW 13.7.2026 (používateľ nahlásil, že prvý pass bol príliš zhovievavý) — druhý, prísnejší prechod (nezávislý agent + ručná kontrola) našiel 1 skutočnú chybu, ostatné podozrenia (Nograd bez diakritiky, valom ktorý) sa v texte nenašli vôbec, ani v origináli.",
+  "corrections": [
+    {
+      "hint": 2,
+      "before": "Dnes už nevieme ako vyzeral slovanský Novohrad",
+      "after": "Dnes už nevieme, ako vyzeral slovanský Novohrad",
+      "reason": "chýbajúca čiarka pred vedľajšou vetou so spojkou \"ako\""
+    }
+  ]
+}

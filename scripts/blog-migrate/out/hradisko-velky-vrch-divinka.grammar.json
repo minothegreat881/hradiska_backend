@@ -1,0 +1,29 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Hradisko Veľký vrch - Divinka, 2026-07-13. Pozn.: 1 návrh (medzera pred bodkou v bloku s odkazom) zamietnutý ako false-positive spôsobený flattening artefaktom pri príprave promptu — reálny text obsahuje link medzi slovami, nie chybu.",
+  "corrections": [
+    {
+      "hint": 2,
+      "before": "nenajdete",
+      "after": "nenájdete",
+      "reason": "chýbajúca dĺžeň – správny tvar slovesa nájsť je „nenájdete“"
+    },
+    {
+      "hint": 17,
+      "before": "Datovenie",
+      "after": "Datovanie",
+      "reason": "preklep v nadpise, správne substantívum je „datovanie“"
+    },
+    {
+      "hint": 18,
+      "before": "auotorov",
+      "after": "autorov",
+      "reason": "preklep – prehodené písmená, správne „autorov“"
+    },
+    {
+      "hint": 22,
+      "before": "pochádza z  monografie",
+      "after": "pochádza z monografie",
+      "reason": "zdvojená medzera medzi slovami"
+    }
+  ]
+}

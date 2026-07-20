@@ -1,17 +1,17 @@
 # Migračný report — Šarišské Sokolovce
 
 - **slug:** `sarisske-sokolovce` · **documentId:** `z811oe7l1rth8br92ogcpp1l` · **publikované:** ✅
-- **kategória:** Mocenské centrá · **tagy:** Šarišské Sokolovce · **lokalita:** Šarišské Sokolovce (Slovensko)
+- **kategória:** Kniežacie sídla · **tagy:** Šarišské Sokolovce · **lokalita:** Šarišské Sokolovce (Slovensko)
 
 ## ✅ Integrita a úplnosť
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.54% vs originál (gramaticky opravené slová vyňaté: 0) — zvyšné mimo: krbu, zoznam, použitej, literatúry, ixzz1ngsoa0w3 (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (3) ⊆ galéria (7) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 7, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 3 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -46,10 +46,19 @@
   - Výskumníci: V. Budinský-Krička (1965 – 1967) a J. Béreš (pokračovanie výskumu, 1974)
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 3**
+  - interpunkcia (čiarky/bodky): 2
+  - chýbajúce medzery: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `nálezového inventáru  I. Keramika` → `nálezového inventáru I. Keramika` | dvojitá medzera |
+| 2 | undefined | `,,kuchyne”` → `„kuchyne”` | dvojitá čiarka nahradená úvodzovkou (mechanický artefakt) |
+| 3 | undefined | `1200◦ . Svedčia` → `1200◦. Svedčia` | medzera pred bodkou |
 
 ## Ostatné
 - **komentáre:** 2
-- **text tela:** 16441 znakov (2427 slov)
+- **text tela:** 16438 znakov (2426 slov)
+- **pokrytie textu vs originál:** 99.54% (mimo: krbu, zoznam, použitej, literatúry, ixzz1ngsoa0w3)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

@@ -7,7 +7,7 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ✅ Text: pokrytie 99.11% vs originál (gramaticky opravené slová vyňaté: 4) — zvyšné mimo: preložili, odborné, články, maďarských, archeológov, výskumoch, okolia, najdete, múzeum (over: map-widget/tvary/odkazy)
+- ✅ Text: pokrytie 99.02% vs originál (gramaticky opravené slová vyňaté: 4) — zvyšné mimo: preložili, odborné, články, maďarských, archeológov, výskumoch, okolia, najdete, múzeum, orgoň (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (9) ⊆ galéria (29) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 13, keyFacts 8
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 9 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 12 položiek |
+| sources (zdroje) | 1 → 11 položiek |
 
 ## Obrázky
 - **galéria:** 29 (10 s popisom)
@@ -70,7 +70,7 @@
 
 ## Ostatné
 - **komentáre:** 5
-- **text tela:** 10783 znakov (1570 slov)
-- **pokrytie textu vs originál:** 99.11% (mimo: preložili, odborné, články, maďarských, archeológov, výskumoch, okolia, najdete)
+- **text tela:** 10816 znakov (1570 slov)
+- **pokrytie textu vs originál:** 99.02% (mimo: preložili, odborné, články, maďarských, archeológov, výskumoch, okolia, najdete)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

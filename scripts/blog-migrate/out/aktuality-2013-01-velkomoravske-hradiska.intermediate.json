@@ -1,0 +1,105 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2013-01-velkomoravske-hradiska.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-6401081489064305599",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/01/velkomoravske-hradiska.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/6401081489064305599/comments/default",
+    "extractedAt": "2026-07-18T11:21:02.763Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Veľkomoravské hradiská",
+    "slug": "velkomoravske-hradiska",
+    "excerpt": "Tento mesiac vyšla vo vydavateľstve Dajama nová mimoriadne zaujímavá kniha - Veľkomoravské hradiská. Na jej obsahu sa podieľala aj naša stránka www.hradiska.sk. Naozaj sa veľmi oplatí, tak neváhajte.",
+    "authorName": "Unknown",
+    "publishedAt": "2013-01-25T21:46:00.004+01:00",
+    "originalPublishedDate": "2013-01-25T21:46:00.004+01:00",
+    "updatedAt": "2013-01-25T21:46:37.646+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhVJcroDwFwDxwN2qed23qK0Ky-k5SqX_a93jimz-VjJ6ZPyXr017T9AER6xTVwqgXFdCWG4qVz9NTGnWSZlQHV6rpkfOIY1ggzjw8mL6ISVVN8A6UiSn73qjUoER-cYX61w1QDMHZtiQ/s0/kniha+Hradiska%CC%81.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhVJcroDwFwDxwN2qed23qK0Ky-k5SqX_a93jimz-VjJ6ZPyXr017T9AER6xTVwqgXFdCWG4qVz9NTGnWSZlQHV6rpkfOIY1ggzjw8mL6ISVVN8A6UiSn73qjUoER-cYX61w1QDMHZtiQ/s1600/kniha+Hradiska%CC%81.jpg",
+        "filename": "kniha+Hradiská.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhVJcroDwFwDxwN2qed23qK0Ky-k5SqX_a93jimz-VjJ6ZPyXr017T9AER6xTVwqgXFdCWG4qVz9NTGnWSZlQHV6rpkfOIY1ggzjw8mL6ISVVN8A6UiSn73qjUoER-cYX61w1QDMHZtiQ/s1600/kniha+Hradiska%CC%81.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tento mesiac vyšla vo vydavateľstve Dajama nová mimoriadne zaujímavá kniha – Veľkomoravské hradiská. Na jej obsahu sa podieľala aj naša stránka www.hradiska.sk. Naozaj sa veľmi oplatí, tak neváhajte."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nájdete ju TU: "
+              },
+              {
+                "type": "link",
+                "url": "http://www.dajamabooks.sk/index.aspx?PageType=1&Kod=396&Kateg=1",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "VEĽKOMORAVSKÉ HRADISKÁ"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

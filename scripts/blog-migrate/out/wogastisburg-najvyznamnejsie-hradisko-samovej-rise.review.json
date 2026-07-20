@@ -1,0 +1,18 @@
+{
+  "slug": "wogastisburg-najvyznamnejsie-hradisko-samovej-rise",
+  "note": "FLAG-only nálezy z grammar-sk pass1 + pass2, nevyriešené, čakajú na rozhodnutie používateľa.",
+  "flags": [
+    {
+      "location": "blogPost.blocks[36] (rich-text, Orgoňov úvod k českému citátu z knihy Lutovský/Profantová) vs. blogPost.blocks[41] content.sources.items (bibliografia) vs. top-level blogPost.citations (type: book)",
+      "issue": "Názov knihy Michala Lutovského a Nadi Profantovej je v článku vyjadrený 3 nekonzistentnými spôsobmi: telo (blok 36) hovorí '...vo svojej knihe Samova ríša...' (plne poslovenčené), zatiaľ čo content.sources aj top-level citations uvádzajú 'Michal Lutovský a Naďa Profantová: Sámova ríše, Academia Praha, 1995' (hybrid — český prízvuk 'Sámova' + slovenské 'ríše' namiesto českého 'říše'). Skutočný český titul knihy je pravdepodobne 'Sámova říše' (Academia Praha, 1995) — ale toto je vecné overenie názvu cudzojazyčnej publikácie, nie gramatická chyba, ktorú má agent riešiť sám.",
+      "action_taken": "PONECHANÉ bez zásahu vo všetkých 3 výskytoch (§21.6 bod 3 — neriešiť vecný spor sám / neprepisovať cudzí titul na základe vlastnej znalosti bez overenia v texte).",
+      "decision_needed": "Overiť skutočný publikovaný názov knihy (česky 'Sámova říše' alebo iný tvar) a zjednotiť všetky 3 výskyty (telo blok 36, content.sources, top-level citations)."
+    },
+    {
+      "location": "zadanie úlohy (nie samotný článok)",
+      "issue": "Zadanie spomínalo 'priamy citát z Annales Fuldenses (\"Svätopluk odišiel z hradu Wogastisburg...\")', ktorý má zostať malým začiatočným písmenom nezmenený. Po prehľadaní celého blogPost.blocks (42 prvkov), $meta.comments aj citations sa v tomto článku NENACHÁDZA žiadna zmienka o Svätoplukovi ani o Annales Fuldenses/Fuldských letopisoch (grep = 0 zásahov). Chránené doslovné citáty v tomto článku sú výhradne z Fredegarovej kroniky (Kniha IV, kap. 48/68/75), o Samovi v 7. storočí — Svätopluk je postava 9. storočia (Veľká Morava) a v tomto texte sa vôbec nespomína.",
+      "action_taken": "Nekonalo sa — niet čo opraviť/chrániť, lebo citovaný text v článku fyzicky neexistuje. Namiesto neho bola identifikovaná a chránená (mechanicky, bez zásahu do dikcie) skutočná chránená zóna: 4 content.quote-block komponenty s Fredegarovou kronikou plus viacero necitátovo-komponentovaných, ale rovnako chránených pasáží (Steinhübel/dubrava.vkrp.sk, svatohaj.sk, Matúš Kučera 1985, anonymní historici, Anton Hrnko, Lutovský/Profantová česky) detegovaných podľa §21.3 pravidla (dvojbodka v predchádzajúcom bloku / obalové úvodzovky / italic:true).",
+      "decision_needed": "Overiť, či zadanie omylom odkazovalo na iný článok korpusu (Annales Fuldenses + Svätopluk zvyčajne patrí k článkom o páde Veľkej Moravy, nie k Wogastisburgu/Samovej ríši) — informačné upozornenie pre používateľa, nie chyba v samotnom článku."
+    }
+  ]
+}

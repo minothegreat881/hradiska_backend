@@ -1,0 +1,106 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2026-06-oblik-vyskum-kultovej-hory.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-7770782253459265390",
+    "bloggerPostUrl": "http://www.hradiska.sk/2026/06/oblik-vyskum-kultovej-hory.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/7770782253459265390/comments/default",
+    "extractedAt": "2026-07-18T11:22:05.537Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/ugv3kPA1AcU"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Oblík – výskum kultovej hory",
+    "slug": "oblik-vyskum-kultovej-hory",
+    "excerpt": "V tomto rozhovore sa s archeológmi Mgr. Erikou Makarovou, Ph.D. a PhD., Mgr. Petrom Bistákom venuje Pár praslenov jedinečnej archeologickej lokalite Oblík na východnom Slovensku. Predstavujeme polohu a charakter lokality, jej význam v kontexte…",
+    "authorName": "Orgon",
+    "publishedAt": "2026-06-15T09:01:08.208+02:00",
+    "originalPublishedDate": "2026-06-15T09:01:08.208+02:00",
+    "updatedAt": "2026-07-13T12:57:37.110+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "ugv3kPA1AcU",
+        "url": "https://www.youtube.com/embed/ugv3kPA1AcU",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V tomto rozhovore sa s archeológmi Mgr. Erikou Makarovou, Ph.D. a PhD., Mgr. Petrom Bistákom venuje Pár praslenov jedinečnej archeologickej lokalite Oblík na východnom Slovensku. Predstavujeme polohu a charakter lokality, jej význam v kontexte pravekého osídlenia regiónu a výsledky doterajších archeologických výskumov. Porozprávame sa o objavených nálezoch, ich datovaní a o tom, čo nám prezrádzajú o živote dávnych komunít, ktoré tento priestor obývali."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dozvieme sa aj širšie súvislosti osídlenia východného Slovenska v praveku, komunikačné trasy, kontakty medzi jednotlivými kultúrami a strategický význam lokality v krajine."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na tomto výskume sa aktívne podieľalo naše OZ Hradiská spolu s kamošmi z Archeo Moravia"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

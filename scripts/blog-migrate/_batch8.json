@@ -1,0 +1,42 @@
+[
+ {"fb":"aktuality-2022-09-plavba-rimskou-lodou-po-dunaji-1-diel","note":"grammar-sk v7 §21 — 'Plavba rímskou loďou po Dunaji – 1. diel' (2022-09). Dlhá členská reportáž; aplikované vysoko isté opravy, hlbší korektúrny prechod odporúčaný.","titleBefore":"Plavba rímskou loďou po Dunaji - 1. diel","titleAfter":"Plavba rímskou loďou po Dunaji – 1. diel","corrections":[
+   {"hint":0,"before":"skvelej akcie - plavila sa","after":"skvelej akcie – plavila sa","reason":"spojovník → en dash, vsuvka (B)"},
+   {"hint":2,"before":"vzdialenosť 2400-kilometrov","after":"vzdialenosť 2 400 kilometrov","reason":"oddeľovač tisícov + bez spojovníka (B)"},
+   {"hint":4,"before":"hranice Rímskej ríše.Plavba začala","after":"hranice Rímskej ríše. Plavba začala","reason":"chýbajúca medzera po bodke (B)"},
+   {"hint":9,"before":"Posádka 4.etapy","after":"Posádka 4. etapy","reason":"medzera po ordináli (B)"}
+ ]},
+ {"fb":"aktuality-2022-09-plavba-rimskou-lodou-po-dunaji-2-diel","note":"grammar-sk v7 §21 — 'Plavba rímskou loďou po Dunaji – 2. diel' (2022-09). Dlhá reportáž; vysoko isté opravy.","titleBefore":"Plavba rímskou loďou po Dunaji - 2. diel","titleAfter":"Plavba rímskou loďou po Dunaji – 2. diel","corrections":[
+   {"hint":2,"before":"pokračovala ďaľšou zastávkou","after":"pokračovala ďalšou zastávkou","reason":"preklep ďaľšou→ďalšou (A8)"}
+ ]},
+ {"fb":"aktuality-2024-01-lodstvo-starovekeho-grecka","note":"grammar-sk v7 §21 — 'Loďstvo starovekého Grécka' (2024-01). Dlhý kompilačný článok; vysoko isté opravy.","corrections":[
+   {"hint":3,"before":"opisy grécky lodí","after":"opisy gréckych lodí","reason":"gréckych lodí, zhoda (A8)"}
+ ]},
+ {"fb":"aktuality-2024-05-danuvina-alacris-opat-na-vodach-dunaja","note":"grammar-sk v7 §21 — 'DANUVINA ALACRIS opäť na vodách Dunaja' (2024-05). Dlhá reportáž; vysoko isté opravy.","corrections":[
+   {"hint":0,"before":"hliadkovej lode zo 4 storočia","after":"hliadkovej lode zo 4. storočia","reason":"ordinál s bodkou (A8)"},
+   {"hint":1,"before":"Rímsko - germánskeho centrálneho múzea","after":"Rímsko-germánskeho centrálneho múzea","reason":"zložené prídavné meno bez medzier (B)"},
+   {"hint":11,"before":"O 9,30 v nákladnom","after":"O 9.30 v nákladnom","reason":"čas s bodkou, nie čiarkou (B)"},
+   {"hint":13,"before":"ďalších 15km veslovania","after":"ďalších 15 km veslovania","reason":"medzera pred jednotkou (B)"},
+   {"hint":18,"before":"pravdepodobne 13.októbra 2024","after":"pravdepodobne 13. októbra 2024","reason":"medzera po ordináli (B)"}
+ ]},
+ {"fb":"aktuality-2024-06-rozhovor-o-hradiskach","note":"grammar-sk v7 §21 — 'Rozhovor o Hradiskách' (2024-06). Len nadpis + video → 0 opráv.","corrections":[]},
+ {"fb":"aktuality-2024-08-odhalovanie-tajomstiev-antickeho-rima","note":"grammar-sk v7 §21 — 'Odhaľovanie tajomstiev antického Ríma' (2024-08). Dlhá reportáž; vysoko isté opravy.","corrections":[
+   {"hint":0,"before":"tento krát viedli k Dunaju","after":"tentokrát viedli k Dunaju","reason":"tento krát→tentokrát (A8)"},
+   {"hint":4,"before":"železnej v rokoch 700-400 p.n.l.","after":"železnej v rokoch 700 – 400 p.n.l.","reason":"číselný rozsah en dash (B)"},
+   {"hint":4,"before":"V 4.-tom storočí p.n.l.","after":"V 4. storočí p.n.l.","reason":"ordinál bez '-tom' (A8)"},
+   {"hint":7,"before":"Slovenska v 1.storočí n.l.","after":"Slovenska v 1. storočí n.l.","reason":"medzera po ordináli (B)"},
+   {"hint":8,"before":"končí koncom 8 storočia","after":"končí koncom 8. storočia","reason":"ordinál s bodkou (A8)"}
+ ]},
+ {"fb":"aktuality-2024-09-tisicky-rokov-pred-nasou-generaciou","note":"grammar-sk v7 §21 — 'Putovanie za rímskymi pamiatkami v Afrike' (2024-09). Veľmi dlhý cestopis; FLAG: zlepené nadpisy [3] 'KartágoKartágo', [6] 'mesto\".História' (extrakčné artefakty) — na ručnú úpravu. Aplikované len bezpečné.","corrections":[]},
+ {"fb":"aktuality-2025-02-2-pre-hradiska-v-roku-2025","note":"grammar-sk v7 §21 — '2% Pre Hradiská v roku 2025' (2025-02).","corrections":[
+   {"hint":1,"before":"veľmi vďační ...Tlačivo si môžete","after":"veľmi vďační ... Tlačivo si môžete","reason":"chýbajúca medzera (B)"}
+ ]},
+ {"fb":"aktuality-2025-12-hladanie-bez-hranic-cesko-slovensky","note":"grammar-sk v7 §21 — 'Hľadanie bez hraníc?' (2025-12). Bloky [2][3][4] = ČESKÝ text projektu (AV ČR Brno) → CHRÁNENÉ (§21.3), nedotýkam sa.","corrections":[
+   {"hint":0,"before":"diskusia archeologov a laikov","after":"diskusia archeológov a laikov","reason":"diakritika archeológov (A8)"}
+ ]},
+ {"fb":"aktuality-2026-02-zakladne-zasady-obcianskeho-zdruzenia","note":"grammar-sk v7 §21 — 'Základné zásady OZ Hradiská' (2026-02).","corrections":[
+   {"hint":0,"before":"(ďalej len \"združenie\")","after":"(ďalej len „združenie“)","reason":"slovenské úvodzovky (B)"},
+   {"hint":2,"before":"národných dejín - včasný stredovek","after":"národných dejín – včasný stredovek","reason":"spojovník → en dash, vsuvka (B)"},
+   {"hint":2,"before":"autorov populárno náučných článkov","after":"autorov populárno-náučných článkov","reason":"zložené prídavné meno so spojovníkom (B)"}
+ ]},
+ {"fb":"aktuality-2026-06-oblik-vyskum-kultovej-hory","note":"grammar-sk v7 §21 — 'Oblík – výskum kultovej hory' (2026-06).","titleBefore":"Oblík - výskum kultovej hory","titleAfter":"Oblík – výskum kultovej hory","corrections":[]}
+]

@@ -1,0 +1,28 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Devín, 13.7.2026. Vzor: 'veľkomoravský' malým v strede vety. Mechanické opravy 9.storočí→9. storočí atď. konzistentne s korpusom.",
+  "corrections": [
+    { "hint": 0, "before": "kráľovými vojskami , a keď", "after": "kráľovými vojskami, a keď", "reason": "medzera pred čiarkou" },
+    { "hint": 17, "before": "naše územie opäč čiastočne", "after": "naše územie opäť čiastočne", "reason": "chýbajúci mäkčeň (preklep)" },
+    { "hint": 17, "before": "ktorí v konewčnom dôsledku", "after": "ktorí v konečnom dôsledku", "reason": "preklep (stray w)" },
+    { "hint": 17, "before": "táto téma je rozoberanä", "after": "táto téma je rozoberaná", "reason": "preklep diakritiky (ä→á)" },
+    { "hint": 29, "before": "pravdepodobne už v 8.storočí", "after": "pravdepodobne už v 8. storočí", "reason": "chýbajúca medzera" },
+    { "hint": 29, "before": "medzi najvýznamnejšie Veľkomoravské sídla", "after": "medzi najvýznamnejšie veľkomoravské sídla", "reason": "prídavné meno malým (vzor)" },
+    { "hint": 32, "before": "ktorá vznikla v 9.storočí na", "after": "ktorá vznikla v 9. storočí na", "reason": "chýbajúca medzera" },
+    { "hint": 32, "before": "boli zaradené do 9.stor.", "after": "boli zaradené do 9. stor.", "reason": "chýbajúca medzera" },
+    { "hint": 32, "before": "začiatku 13.storočia", "after": "začiatku 13. storočia", "reason": "chýbajúca medzera" },
+    { "hint": 34, "before": "polovici 9.storočia a na začiatku 10.storočia", "after": "polovici 9. storočia a na začiatku 10. storočia", "reason": "chýbajúce medzery" },
+    { "hint": 34, "before": "vzniklo možno už v 8.storočí.", "after": "vzniklo možno už v 8. storočí.", "reason": "chýbajúca medzera" },
+    { "hint": 39, "before": "sekery tzv.bradatice", "after": "sekery tzv. bradatice", "reason": "chýbajúca medzera" },
+    { "hint": 41, "before": "obľúbené (hlavne v 9.storočí)", "after": "obľúbené (hlavne v 9. storočí)", "reason": "chýbajúca medzera" },
+    { "hint": 42, "before": "Devínskej oblasti v 9.storočí", "after": "Devínskej oblasti v 9. storočí", "reason": "chýbajúca medzera" },
+    { "hint": 42, "before": "Pravdepodobne počas 8.storočia", "after": "Pravdepodobne počas 8. storočia", "reason": "chýbajúca medzera" },
+    { "hint": 44, "before": "\"Na pieskach\" (Obr.6)", "after": "\"Na pieskach\" (Obr. 6)", "reason": "chýbajúca medzera" },
+    { "hint": 44, "before": "\"Nad lomom\" (Obr.7)", "after": "\"Nad lomom\" (Obr. 7)", "reason": "chýbajúca medzera" },
+    { "hint": 46, "before": "nasvedčujú záznamy d dobových kroník", "after": "nasvedčujú záznamy z dobových kroník", "reason": "preklep predložky (d→z)" },
+    { "hint": 52, "before": "do Bavorska., priamo", "after": "do Bavorska, priamo", "reason": "prebytočná bodka" },
+    { "hint": 59, "before": "Xantenské anály, síce spomínaju k roku", "after": "Xantenské anály, síce spomínajú k roku", "reason": "chýbajúci dĺžeň (preklep)" },
+    { "hint": 59, "before": "v Sasku, v Švábsku a v Durinysku", "after": "v Sasku, v Švábsku a v Durínsku", "reason": "preklep, konzistentne s chráneným tvarom Durínsko" },
+    { "hint": 59, "before": "Ľudoviít Nemec Karlomannovi", "after": "Ľudovít Nemec Karlomannovi", "reason": "preklep (chránený tvar Ľudovít)" },
+    { "hint": 67, "before": "nachádzate na Veľkomoravskom hradisku!", "after": "nachádzate na veľkomoravskom hradisku!", "reason": "prídavné meno malým (vzor)" }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2019-04-2-pre-oz-hradiska.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5586204530623497325",
+    "bloggerPostUrl": "http://www.hradiska.sk/2019/04/2-pre-oz-hradiska.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/5586204530623497325/comments/default",
+    "extractedAt": "2026-07-18T11:21:44.066Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "2 % Pre OZ Hradiská",
+    "slug": "2-pre-oz-hradiska",
+    "excerpt": "Ešte stále je do konca mesiaca apríl možnosť venovať nášmu združeniu 2% zo svojich daní. Peniaze z minulých 2% sme v roku 2018 použili na viaceré dôležité činnosti, napríklad na úhradu nákladov pri tvorbe info tabúľ, na honoráre v súvislosti s…",
+    "authorName": "Orgon",
+    "publishedAt": "2019-04-03T07:16:00.004+02:00",
+    "originalPublishedDate": "2019-04-03T07:16:00.004+02:00",
+    "updatedAt": "2019-04-09T20:50:21.684+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlRY9xHxRTcDaAwFpErZjhUfrQb-ddjwtctCHe9xoMk1Te5UmP3gDjksGo67J8J8UQzW1tRfsBBMNg_B0SYNqigdBR1CEXWQLzlhyphenhyphen_mGVHrF6Zf-hoDprmJPSykTzKrmmD4Y6ms-3L3Rxt/s0/2+percenta+banner.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlRY9xHxRTcDaAwFpErZjhUfrQb-ddjwtctCHe9xoMk1Te5UmP3gDjksGo67J8J8UQzW1tRfsBBMNg_B0SYNqigdBR1CEXWQLzlhyphenhyphen_mGVHrF6Zf-hoDprmJPSykTzKrmmD4Y6ms-3L3Rxt/s1600/2+percenta+banner.jpg",
+        "filename": "2+percenta+banner.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlRY9xHxRTcDaAwFpErZjhUfrQb-ddjwtctCHe9xoMk1Te5UmP3gDjksGo67J8J8UQzW1tRfsBBMNg_B0SYNqigdBR1CEXWQLzlhyphenhyphen_mGVHrF6Zf-hoDprmJPSykTzKrmmD4Y6ms-3L3Rxt/s1600/2+percenta+banner.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 226,
+          "originalWidth": 960,
+          "originalHeight": 678
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ešte stále je do konca mesiaca apríl možnosť venovať nášmu združeniu 2% zo svojich daní. Peniaze z minulých 2% sme v roku 2018 použili na viaceré dôležité činnosti, napríklad na úhradu nákladov pri tvorbe info tabúľ, na honoráre v súvislosti s niektorými videami robenými v spolupráci s Dwarf digital (nahovorený komentár), úhradu niektorých nákladov v súvislosti s prípravou knihy Skryté poklady, či nákup techniky na archeologické prieskumy.\n \n Tento rok nám Vaše 2% veľmi pomôžu k vydaniu nového zborníka Hradiská – Svedkovia dávnych čias 2. Kto nám daruje 2%, ten nech mi potom pri objednávke zborníka toto napíše a dostane zborník zdarma."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tlačivo na poukázanie 2% si môžete stiahnuť "
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/file/d/1yZO5ZrSOKtuJfgTYoq8T8LHTrNME1bsI/view",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "TU"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

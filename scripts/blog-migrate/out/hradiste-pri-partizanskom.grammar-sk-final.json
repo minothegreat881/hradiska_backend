@@ -1,0 +1,37 @@
+{
+  "slug": "hradiste-pri-partizanskom",
+  "note": "grammar-sk pass1 aplikovaný priamo do out/hradiste-pri-partizanskom.intermediate.json + pass2 cross-field kontrola. §21.8 regresný test (Janšák 1928, ~600 slov) prešiel s 0 zmenami slov v citáte.",
+  "step1_protected_zone_verification": "Bloky 7, 9, 10, 12, 13 (content.rich-text, italic:true, tvoria súvislý Janšákov citát z r. 1928 prerušený 3 obrázkami) — verifikované extrakciou a porovnaním: JEDINÁ zmena v celom citáte je mechanická OCR oprava 'boIi' → 'boli' (blok 12, veľké I namiesto malého l), povolená explicitne §21.3. Referenčné tvary 'nivó', 'pohlaď', 'bedlivom', 'rozpadového' a záverečná veta 'Hradisko bolo objavené autorom v auguste 1926 roku.' overené nedotknuté.",
+  "step1_appliedFixes_applied": [
+    { "rule": "typografia (trailing whitespace title/alt)", "applied_to": ["title", "alt (5 obrázkov)"] },
+    { "rule": "typografia (trailing whitespace tela)", "applied_to": ["block 0"] },
+    { "rule": "B typografia (rozsah storočí)", "before": "9. - 10. storočia", "after": "9. – 10. storočia", "applied_to": ["block 5"] },
+    { "rule": "A2 doplnené sa", "before": "a okolo neho zachovaný cintorín", "after": "a okolo neho sa zachoval cintorín", "applied_to": ["block 5"] },
+    { "rule": "typografia (trailing whitespace)", "applied_to": ["block 6"] },
+    { "rule": "A1 nadbytočná čiarka", "before": "hradiská, alebo hradiská", "after": "hradiská alebo hradiská", "applied_to": ["block 15"] },
+    { "rule": "A8 diakritika", "before": "Pravdova", "after": "Pravdová", "applied_to": ["block 16"] },
+    { "rule": "A7 bohemizmus", "before": "sa jedná o", "after": "ide o", "applied_to": ["block 16"] },
+    { "rule": "typografia (trailing whitespace ×3)", "applied_to": ["block 16", "block 19", "block 20", "block 21"] },
+    { "rule": "A4 chýbajúca predložka", "before": "sa obci Hradište traduje", "after": "sa v obci Hradište traduje", "applied_to": ["block 21"] },
+    { "rule": "A1 chýbajúca čiarka pri vymenovaní", "before": "pod hradom polia a lesy", "after": "pod hradom, polia a lesy", "applied_to": ["block 21"] },
+    { "rule": "A1 apozícia pomlčkou", "before": "veľmož - Chotomapán", "after": "veľmož — Chotomapán", "applied_to": ["block 21"] },
+    { "rule": "A8 i/í", "before": "technických možnosti", "after": "technických možností", "applied_to": ["block 21"] },
+    { "rule": "typografia (dvojitá medzera)", "applied_to": ["block 23"] },
+    { "rule": "B typografia (pomlčka v podtitule)", "before": "Hradište - Pamätnica obce", "after": "Hradište — Pamätnica obce", "applied_to": ["block 24", "content.sources.items[1]", "citations[2]"], "note": "cross-field propagácia — identický reťazec sa vyskytoval 3× (telo, sources, citations)" },
+    { "rule": "typografia (chýbajúca bodka)", "before": "s. 447  Ruttkay", "after": "s. 447. Ruttkay", "applied_to": ["block 25"] },
+    { "rule": "A8 diakritika skratky", "before": "AU SAV", "after": "AÚ SAV", "applied_to": ["block 30"] },
+    { "rule": "typografia (caption)", "before": "trnkami.Mňam", "after": "trnkami. Mňam", "applied_to": ["gallery caption (Koruna valu)"] },
+    { "rule": "A8 preklep + typografia (caption)", "before": "zápaného...valu.Výška...1,5metra...2metrov,podľa", "after": "západného...valu. Výška...1,5 metra...2 metrov, podľa", "applied_to": ["gallery caption (Pohľad spod...)"] },
+    { "rule": "A9 veľké písmeno + interpunkcia (caption)", "before": "pohľad z akropoly na predhradie", "after": "Pohľad z akropoly na predhradie.", "applied_to": ["gallery caption"] }
+  ],
+  "step2_crossfield_additions": [
+    { "rule": "A8 (prvý krát → prvýkrát)", "before": "Obec sa prvý krát spomína v písomných prameňoch v roku 1533.", "after": "Obec sa prvýkrát spomína v písomných prameňoch v roku 1533.", "applied_to": ["timeline (položka 'Prvá písomná zmienka', description)"], "reason": "telo (blok 5) už malo správny jednoslovný tvar 'Prvýkrát' — timeline mal starý dvojslovný bohemizujúci tvar, klasická §21.4 cross-field nekonzistencia." },
+    { "rule": "B typografia (bibliografický podtitul, pomlčka)", "applied_to": ["content.sources.items[1].text", "citations[2].text"], "reason": "identický reťazec 'Hradište - Pamätnica obce' sa vyskytoval 3× naprieč telom/sources/citations — jedna oprava (pomlčka→em dash) propagovaná na všetky 3 výskyty naraz cez replace_all." }
+  ],
+  "step2_scan_result": "Plný sken keyFacts + timeline + excerpt + tags + title na rímske číslice, pomlčky v číselných rozsahoch, bohemizmy, 'AxB' zápis — žiadny ďalší nález okrem 'prvý krát' vyššie. keyFacts sú konzistentné s telom (6,45 ha; 400 m/5 m/60 m val; SNM – zámok Bojnice s en dash zhodne v oboch poliach).",
+  "nfd_nfc_note": "Celý súbor normalizovaný na .normalize('NFC') pred úpravami (pôvodne obsahoval kombinujúce diakritické znaky pri 'ň' v jednej z galériových popisiek, čo bránilo presnému string-matchu — memory-gotcha potvrdený znova).",
+  "flags_unresolved": [
+    "Pozri out/hradiste-pri-partizanskom.review.json — (1) duplicitná bibliografia bloky 23-26 vs. content.sources/citations, (2) osirotené kredity 'Tomáš Humaj' a 'AÚ SAV' (blok 29-30) bez jasného priradenia k dronovým fotografiám, (3) neistý ročník 'LXXXIII?' v bibliografii (autorská poznámka, ponechaná)."
+  ],
+  "upload_ready": true
+}

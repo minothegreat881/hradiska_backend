@@ -1,0 +1,28 @@
+{
+  "slug": "selce-hradok",
+  "note": "Sidebar (Agent 1) + application of grammar-sk-pass2.json findings + fresh cross-field consistency sweep (§21.4), directly into intermediate.json.",
+  "sidebar": {
+    "timelineCount": 7,
+    "keyFactsCount": 8,
+    "source": "Built solely from blogPost.blocks[] content.rich-text text (blocks 0,1,3,4,5). No external knowledge used. Uncertain century for the '30. roky' coin-deposit find (text never states the century) marked with an explicit ⚠ NEISTY note in the timeline description rather than asserted as fact."
+  },
+  "appliedFixes": [
+    { "rule": "A7", "before": "Jedná sa o denáre viacerých rímskych cisárov", "after": "Ide o denáre viacerých rímskych cisárov", "block": 1, "status": "applied" },
+    { "rule": "A1 vsuvka", "before": "ktorý ako vieme bol účastný", "after": "ktorý, ako vieme, bol účastný", "block": 1, "status": "applied" },
+    { "rule": "D globálny slovník", "before": "Marca Aurélia", "after": "Marca Aurelia", "block": 1, "status": "applied", "note": "also written correctly ('Marca Aurelia') directly in the newly authored keyFacts item 'Depot rímskych mincí' — no stale form propagated" },
+    { "rule": "A7", "before": "Jedná sa o mince cisárov", "after": "Ide o mince cisárov", "block": 1, "status": "applied" },
+    { "rule": "B typografia", "before": "117 až 195 n.l.", "after": "117 až 195 n. l.", "block": 1, "status": "applied" },
+    { "rule": "A7", "before": "sa nemusí jednať o jeden naraz ukrytý depot", "after": "nemusí ísť o jeden naraz ukrytý depot", "block": 1, "status": "applied" },
+    { "rule": "A8", "before": "lužickej kultury", "after": "lužickej kultúry", "block": 3, "status": "applied" },
+    { "rule": "A8", "before": "V pädesiatych rokoch", "after": "V päťdesiatych rokoch", "block": 4, "status": "applied", "note": "before-string had NFD diacritic (a + combining U+0308) not matching the hand-typed NFC pattern from grammar-sk-pass2.json; resolved by locating the exact codepoints in the live file (memory: nfd-nfc-diacritics-gotcha) and inserting U+0165 'ť' directly after the existing decomposed 'ä', leaving its encoding untouched" }
+  ],
+  "skipped": [],
+  "crossFieldSweep": {
+    "checkedFields": ["excerpt", "title", "tags", "gallery captions", "image-block captions", "content.sources items", "citations"],
+    "result": "No stale pre-fix forms found anywhere outside body (grep-verified: 'Jedná sa', 'jednať o', 'Marca Aurélia', 'n.l.', 'lužickej kultury', 'pädesiatych rokoch' all 0 occurrences file-wide after fixes). excerpt was already independent of the fixed sentences, no propagation needed."
+  },
+  "protectedZones": "No quote-block / blockquote components in this article; no dated-source verbatim quotes in body — nothing exempted.",
+  "flags": [],
+  "reviewFileWritten": false,
+  "uploadReady": true
+}

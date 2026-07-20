@@ -1,0 +1,162 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2014-05-anketa.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3757894314887995726",
+    "bloggerPostUrl": "http://www.hradiska.sk/2014/05/anketa.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3757894314887995726/comments/default",
+    "extractedAt": "2026-07-18T11:21:10.181Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 2,
+    "comments": [
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-6467990308281558272",
+        "bloggerPostId": "6467990308281558272",
+        "author": "Anonymous",
+        "authorProfile": null,
+        "published": "2014-05-03T18:26:08.145+02:00",
+        "updated": "2014-05-03T18:26:08.145+02:00",
+        "content": "Detektoristi sa môžu nadšene zodrať na výskumoch, lenže to je nie také vzrušujúce a jednoduché, ako prechádzať sa a kopať jamky.",
+        "inReplyToArticle": "http://www.hradiska.sk/2014/05/anketa.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      },
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-979275703350827007",
+        "bloggerPostId": "979275703350827007",
+        "author": "Anonymous",
+        "authorProfile": null,
+        "published": "2014-05-03T01:01:11.585+02:00",
+        "updated": "2014-05-03T01:01:11.585+02:00",
+        "content": "Takáto amnestia by nič nevyriešila a mala by nulovú účasť. Vieme ako to u nás chodí..dáš zdokumentovať (meno,miesto nálezu a iné okolnosti) a hneď si na zozname podozrivých (a to nieje paranoja) Pomôže iba novela zákona ktorá bude aspoň trochu brať ohlad na možnosť spolupráce obce odbornej s neodborníkmi . S pozdravom Milan",
+        "inReplyToArticle": "http://www.hradiska.sk/2014/05/anketa.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      }
+    ],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "ANKETA!!!!!",
+    "slug": "anketa-2014-maj",
+    "excerpt": "Občas sa objavia názory, že by možno pomohlo, keby štát vyhlásil na určitú dobu, napr. 3 mesiace akýsi druh archeologickej amnestie (obdoba známej zbraňovej amnestie), v rámci ktorej by sa umožnilo, aby ľudia beztrestne odovzdali archeologické…",
+    "authorName": "Orgon",
+    "publishedAt": "2014-05-02T10:12:00.002+02:00",
+    "originalPublishedDate": "2014-05-02T10:12:00.002+02:00",
+    "updatedAt": "2014-05-02T10:35:24.324+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Občas sa objavia názory, že by možno pomohlo, keby štát vyhlásil na určitú dobu, napr. 3 mesiace akýsi druh "
+              },
+              {
+                "type": "text",
+                "text": "archeologickej amnestie",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " (obdoba známej zbraňovej amnestie), v rámci ktorej by sa umožnilo, "
+              },
+              {
+                "type": "text",
+                "text": "aby ľudia beztrestne odovzdali archeologické nálezy",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", ktoré majú doma z rôznych dôvodov (našli ich náhodne v lese, náhodne pri stavebných prácach, na povale po rodičoch, alebo zámerne ako detektoristi) poukrývané. Týmto spôsobom by sa mohli zadokumentovať a zachrániť niektoré nálezy, ktoré sú dnes ukryté pred zrakmi odborníkov často iba z dôvodu, že sa ich majitelia boja, že by mohli byť za ich odovzdanie postihovaní."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Existujú však rozdielne názory na to, či by taká amnestia mala význam a aj na to, akú formu by mala mať, tzn. či by sa jej mohli zúčastniť aj "
+              },
+              {
+                "type": "text",
+                "text": "ľudia, ktorí si nálezy chcú nechať",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", ale boli by ochotní ich zapožičať s cieľom vedeckého skúmania, alebo iba ľudia, ktorí by nálezy následne "
+              },
+              {
+                "type": "text",
+                "text": "odovzdali múzeu",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rozhodol som sa vytvoriť malú ANONYMNÚ anketu, v ktorej by sme radi zistili, či by u ľudí, ktorých sa to týka, bol o takú amnestiu záujem, a ak áno, tak v akej forme by mala byť. Anketa je na našej stránke v ľavom stĺpci. "
+              },
+              {
+                "type": "text",
+                "text": "Ak máte doma nejaké nálezy, či už nájdené náhodne, alebo zámerne napr. s detektorom",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", zaujímal by ma Váš názor na túto tému. Zahlasujte, je to anonymné."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

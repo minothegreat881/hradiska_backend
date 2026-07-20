@@ -1,0 +1,112 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-velkomoravsky-kovac-z-vrsatca.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5133422675719751804",
+    "bloggerPostUrl": "http://www.hradiska.sk/2014/03/velkomoravsky-kovac-z-vrsatca.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/5133422675719751804/comments/default",
+    "extractedAt": "2026-07-16T21:57:47.225Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Veľkomoravský kováč z Vršatca",
+    "slug": "velkomoravsky-kovac-z-vrsatca",
+    "excerpt": "Nález kováčskej dielne z čias Veľkej Moravy, ktorá bola objavená vo Vršatci v blízkosti hradu, ma vždy fascinoval. Preto ma nesmierne potešilo, keď sa Tomáš Humaj podujal, že pre nás nakreslí tohto kováča pri práci. Tu je výsledok.",
+    "authorName": "Tomáš Humaj",
+    "publishedAt": "2014-03-23T16:47:00.001+01:00",
+    "originalPublishedDate": "2014-03-23T16:47:00.001+01:00",
+    "updatedAt": "2014-03-23T16:54:10.734+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuBZ6l2cDcb91VANBSENOb2PzTv2qZMZvMy47WPMLXCmnO6nJGurW3i6SJ6UDMJ3GvjdkxMAqyl6n3u-HJltJOdM23Pom_9yHu23DSM4LonrbwbaQCx1ALpk6CWoBIYXihR3_dIHEhJZQ/s0/P3234402.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuBZ6l2cDcb91VANBSENOb2PzTv2qZMZvMy47WPMLXCmnO6nJGurW3i6SJ6UDMJ3GvjdkxMAqyl6n3u-HJltJOdM23Pom_9yHu23DSM4LonrbwbaQCx1ALpk6CWoBIYXihR3_dIHEhJZQ/s1600/P3234402.JPG",
+        "filename": "P3234402.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuBZ6l2cDcb91VANBSENOb2PzTv2qZMZvMy47WPMLXCmnO6nJGurW3i6SJ6UDMJ3GvjdkxMAqyl6n3u-HJltJOdM23Pom_9yHu23DSM4LonrbwbaQCx1ALpk6CWoBIYXihR3_dIHEhJZQ/s1600/P3234402.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 291,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      { "label": "Autor kresby", "value": "Tomáš Humaj", "icon": "users" },
+      { "label": "Nález", "value": "Kováčska dielňa z čias Veľkej Moravy vo Vršatci", "icon": "map" }
+    ],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nález "
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/search/label/Vr%C5%A1ateck%C3%BD%20kov%C3%A1%C4%8D%20z%20Ve%C4%BEkej%20Moravy",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "kováčskej dielne z čias Veľkej Moravy"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ", ktorá bola objavená vo Vršatci v blízkosti hradu, ma vždy fascinoval. Preto ma nesmierne potešilo, keď sa Tomáš Humaj podujal, že pre nás nakreslí tohto kováča pri práci. Tu je výsledok."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tomáš sa snažil nakresliť ho tak, aby obrázok (oblečenie kováča a veci v dielni) čo najviac zodpovedal veľkomoravským nálezom z nášho územia. Autorovi za túto skvelú kresbu ďakujeme."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

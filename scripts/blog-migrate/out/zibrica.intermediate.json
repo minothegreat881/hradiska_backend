@@ -1,0 +1,994 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-zibrica.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1774684650866384295",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/03/zibrica.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1774684650866384295/comments/default",
+    "extractedAt": "2026-07-15T22:20:26.380Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&t=h&ll=48.364932,18.153276&spn=0.00499,0.00912&z=16&output=embed"
+      ],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://sketchfab.com/models/7af84e34e0c94c56ba393a8b549ca6ed/embed?autostart=1&preload=1&ui_controls=0&ui_infos=0&ui_inspector=0&ui_stop=0&ui_watermark=1&ui_watermark_link=1"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 30,
+      "captionedImages": 14,
+      "separatorImages": 16
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Žibrica",
+    "slug": "zibrica",
+    "excerpt": "Hradisko Žibrica ( alebo dávnejšie Zubrica), na ktorom máme doložené osídlenie kultúr lužickej, halštatskej, laténskej, a stredoveku, sa skladá z dvoch od seba nezávislých častí (sídlisko a hradisko), spojených iba pohodlnou a na jednom mieste umele…",
+    "authorName": "Orgon",
+    "publishedAt": "2013-03-31T20:32:00.003+02:00",
+    "originalPublishedDate": "2013-03-31T20:32:00.003+02:00",
+    "updatedAt": "2020-06-23T06:55:45.914+02:00",
+    "readingTime": 10,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WXOVNoEEwhLhXpdPbwq2hYBKx5nDfQUjyEbLT9IEEDvbstYRzCkZkiRARmtmxTAECIe3F1raP-vBEnww641kf8IqirGIMokXikWbCSue-SO-ErhmLO5E5Yf6JnL6DjKOzMnyaLwg3bY/s0/plan+1.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WXOVNoEEwhLhXpdPbwq2hYBKx5nDfQUjyEbLT9IEEDvbstYRzCkZkiRARmtmxTAECIe3F1raP-vBEnww641kf8IqirGIMokXikWbCSue-SO-ErhmLO5E5Yf6JnL6DjKOzMnyaLwg3bY/s1600/plan+1.jpg",
+      "filename": "plan+1.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WXOVNoEEwhLhXpdPbwq2hYBKx5nDfQUjyEbLT9IEEDvbstYRzCkZkiRARmtmxTAECIe3F1raP-vBEnww641kf8IqirGIMokXikWbCSue-SO-ErhmLO5E5Yf6JnL6DjKOzMnyaLwg3bY/s1600/plan+1.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 284,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WXOVNoEEwhLhXpdPbwq2hYBKx5nDfQUjyEbLT9IEEDvbstYRzCkZkiRARmtmxTAECIe3F1raP-vBEnww641kf8IqirGIMokXikWbCSue-SO-ErhmLO5E5Yf6JnL6DjKOzMnyaLwg3bY/s0/plan+1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WXOVNoEEwhLhXpdPbwq2hYBKx5nDfQUjyEbLT9IEEDvbstYRzCkZkiRARmtmxTAECIe3F1raP-vBEnww641kf8IqirGIMokXikWbCSue-SO-ErhmLO5E5Yf6JnL6DjKOzMnyaLwg3bY/s1600/plan+1.jpg",
+        "filename": "plan+1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WXOVNoEEwhLhXpdPbwq2hYBKx5nDfQUjyEbLT9IEEDvbstYRzCkZkiRARmtmxTAECIe3F1raP-vBEnww641kf8IqirGIMokXikWbCSue-SO-ErhmLO5E5Yf6JnL6DjKOzMnyaLwg3bY/s1600/plan+1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 284,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjsbIpYUmsL2IshHQZ5U8hYKxzHtqqFvi4lALXfgUsfV4FueJDTuq9OEtf1WvCy6lVzJKACne2Uch-PYwbrOBdOmzRvwEJ2qh8P6xRCRc6bRGT1GF-PK_pQdKSAYrRN50IL41KuRBvBAp/s0/LIDAR.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjsbIpYUmsL2IshHQZ5U8hYKxzHtqqFvi4lALXfgUsfV4FueJDTuq9OEtf1WvCy6lVzJKACne2Uch-PYwbrOBdOmzRvwEJ2qh8P6xRCRc6bRGT1GF-PK_pQdKSAYrRN50IL41KuRBvBAp/s1600/LIDAR.jpg",
+        "filename": "LIDAR.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjsbIpYUmsL2IshHQZ5U8hYKxzHtqqFvi4lALXfgUsfV4FueJDTuq9OEtf1WvCy6lVzJKACne2Uch-PYwbrOBdOmzRvwEJ2qh8P6xRCRc6bRGT1GF-PK_pQdKSAYrRN50IL41KuRBvBAp/s1600/LIDAR.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 258,
+          "originalWidth": 818,
+          "originalHeight": 662
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHncOyHAV2ncsNjuhQTNju35eStg4xQVmnkqje0Z3B_BPt2GzpF-UGT1qO1lLNg6tz_o8kkikNStrdMU9chN20f8Wpti_hyd-ZOAba0Jhapt7xDPJO7tWR9L4a-dWqYTKBHlMgn5dA1Cc/s0/plan+2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHncOyHAV2ncsNjuhQTNju35eStg4xQVmnkqje0Z3B_BPt2GzpF-UGT1qO1lLNg6tz_o8kkikNStrdMU9chN20f8Wpti_hyd-ZOAba0Jhapt7xDPJO7tWR9L4a-dWqYTKBHlMgn5dA1Cc/s1600/plan+2.jpg",
+        "filename": "plan+2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHncOyHAV2ncsNjuhQTNju35eStg4xQVmnkqje0Z3B_BPt2GzpF-UGT1qO1lLNg6tz_o8kkikNStrdMU9chN20f8Wpti_hyd-ZOAba0Jhapt7xDPJO7tWR9L4a-dWqYTKBHlMgn5dA1Cc/s1600/plan+2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 131,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNt55BS9BhhD5jC9lEJUl9f-WfTAzlaEw4pMRDZxbxFc51hx3upymSFFy4yKCzpr0dJaZbDsYGtqnOJcFKgHkbu5PvkbYc8NMA9IDOsRsc_AhPWxhSO_LblbpQBNR9c0DUDjmXbmxU-Gw/s0/terasa.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNt55BS9BhhD5jC9lEJUl9f-WfTAzlaEw4pMRDZxbxFc51hx3upymSFFy4yKCzpr0dJaZbDsYGtqnOJcFKgHkbu5PvkbYc8NMA9IDOsRsc_AhPWxhSO_LblbpQBNR9c0DUDjmXbmxU-Gw/s1600/terasa.jpg",
+        "filename": "terasa.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNt55BS9BhhD5jC9lEJUl9f-WfTAzlaEw4pMRDZxbxFc51hx3upymSFFy4yKCzpr0dJaZbDsYGtqnOJcFKgHkbu5PvkbYc8NMA9IDOsRsc_AhPWxhSO_LblbpQBNR9c0DUDjmXbmxU-Gw/s1600/terasa.jpg",
+          "displayedWidth": 271,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGHWtsMBngxIY2Xy3IOyjtMq6rCthqzhZS_9MoNE7vbLU7IpttN0ggMO0zSZcJ03vwjPQY2SEuAXI-OPLgRwhIEqEHHERD7thXRLyqslbH3_1TXRUwZIiuezsyj68n8BNhbo52eV_Otlg/s0/482002_501679419870532_797600303_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGHWtsMBngxIY2Xy3IOyjtMq6rCthqzhZS_9MoNE7vbLU7IpttN0ggMO0zSZcJ03vwjPQY2SEuAXI-OPLgRwhIEqEHHERD7thXRLyqslbH3_1TXRUwZIiuezsyj68n8BNhbo52eV_Otlg/s1600/482002_501679419870532_797600303_n.jpg",
+        "filename": "482002_501679419870532_797600303_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGHWtsMBngxIY2Xy3IOyjtMq6rCthqzhZS_9MoNE7vbLU7IpttN0ggMO0zSZcJ03vwjPQY2SEuAXI-OPLgRwhIEqEHHERD7thXRLyqslbH3_1TXRUwZIiuezsyj68n8BNhbo52eV_Otlg/s1600/482002_501679419870532_797600303_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBFnc8vFI0aovejMLJ3lolWMGn-dbRaN7kXAjhQs0oiP6pSzmPm-XxNr0zjawdSCQioYnrY_N5J-NBKB7yOtDr2AHbQr0tJBmwfWJ4ZQIuMTICz76a6xKXk9y_yodKcIlpu6VwkmpwgG0/s0/482002_501679426537198_367037682_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBFnc8vFI0aovejMLJ3lolWMGn-dbRaN7kXAjhQs0oiP6pSzmPm-XxNr0zjawdSCQioYnrY_N5J-NBKB7yOtDr2AHbQr0tJBmwfWJ4ZQIuMTICz76a6xKXk9y_yodKcIlpu6VwkmpwgG0/s1600/482002_501679426537198_367037682_n.jpg",
+        "filename": "482002_501679426537198_367037682_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBFnc8vFI0aovejMLJ3lolWMGn-dbRaN7kXAjhQs0oiP6pSzmPm-XxNr0zjawdSCQioYnrY_N5J-NBKB7yOtDr2AHbQr0tJBmwfWJ4ZQIuMTICz76a6xKXk9y_yodKcIlpu6VwkmpwgG0/s1600/482002_501679426537198_367037682_n.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPADiQVLr6canBvRpjxaJh1fRIwdn0eqGHpasWYYyJpGa_Ls_IooEHNsQS_pdV0qD-R6ShsAjQ_ixh1Y0tVwji8IxBBNcLDKxbUTfMAnJMDT-yE7iQEoPxz-kux4PkBvRCsgOjPnzH_bY/s0/482002_501679429870531_1501096390_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPADiQVLr6canBvRpjxaJh1fRIwdn0eqGHpasWYYyJpGa_Ls_IooEHNsQS_pdV0qD-R6ShsAjQ_ixh1Y0tVwji8IxBBNcLDKxbUTfMAnJMDT-yE7iQEoPxz-kux4PkBvRCsgOjPnzH_bY/s1600/482002_501679429870531_1501096390_n.jpg",
+        "filename": "482002_501679429870531_1501096390_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPADiQVLr6canBvRpjxaJh1fRIwdn0eqGHpasWYYyJpGa_Ls_IooEHNsQS_pdV0qD-R6ShsAjQ_ixh1Y0tVwji8IxBBNcLDKxbUTfMAnJMDT-yE7iQEoPxz-kux4PkBvRCsgOjPnzH_bY/s1600/482002_501679429870531_1501096390_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YesOcpSeG-AmOViXVykvrxkmxFKh16TrIKtq6X9Zb98A-AwQ3kjPOXKnAOqTN_t-WiSeeZgE7HpCOUO7XdhJTP28bdFVL4Afr2DO8Mij5k2TGiWvJ-IqWo68AZ_twt6z-2krRPbj0MY/s0/pla%CC%81n+rajta%CC%81rova.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YesOcpSeG-AmOViXVykvrxkmxFKh16TrIKtq6X9Zb98A-AwQ3kjPOXKnAOqTN_t-WiSeeZgE7HpCOUO7XdhJTP28bdFVL4Afr2DO8Mij5k2TGiWvJ-IqWo68AZ_twt6z-2krRPbj0MY/s1600/pla%CC%81n+rajta%CC%81rova.jpg",
+        "filename": "plán+rajtárova.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YesOcpSeG-AmOViXVykvrxkmxFKh16TrIKtq6X9Zb98A-AwQ3kjPOXKnAOqTN_t-WiSeeZgE7HpCOUO7XdhJTP28bdFVL4Afr2DO8Mij5k2TGiWvJ-IqWo68AZ_twt6z-2krRPbj0MY/s1600/pla%CC%81n+rajta%CC%81rova.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 235,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK5MrirgyCzf2VOl-tYcnJzfmOWxsJtzXBMHSw2TNMFlWh_n61FTIe4aCehyR-KQwCvq3mKmgiWYmjZhFnBmL2WnEwaHUYxCqB0A7En4W3PcmQrZ2M-CyV2HNXYhhNAy8THsC8L_PD8so/s0/na%CC%81lez1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK5MrirgyCzf2VOl-tYcnJzfmOWxsJtzXBMHSw2TNMFlWh_n61FTIe4aCehyR-KQwCvq3mKmgiWYmjZhFnBmL2WnEwaHUYxCqB0A7En4W3PcmQrZ2M-CyV2HNXYhhNAy8THsC8L_PD8so/s1600/na%CC%81lez1.jpg",
+        "filename": "nález1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK5MrirgyCzf2VOl-tYcnJzfmOWxsJtzXBMHSw2TNMFlWh_n61FTIe4aCehyR-KQwCvq3mKmgiWYmjZhFnBmL2WnEwaHUYxCqB0A7En4W3PcmQrZ2M-CyV2HNXYhhNAy8THsC8L_PD8so/s1600/na%CC%81lez1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 70,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs6XCeZWEcwDVmycKtC8SJirXu2LyhO39FlDJXbY8h9fDppWip9cutKbKEjVb3uAFYXxSK4MynNo697E1so7-UIuPIkZBv2Lec2tRHMgXbQ53BlNPFQqF0wY-zQE1S3EOhRlQOnSUZdY0/s0/na%CC%81lezy3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs6XCeZWEcwDVmycKtC8SJirXu2LyhO39FlDJXbY8h9fDppWip9cutKbKEjVb3uAFYXxSK4MynNo697E1so7-UIuPIkZBv2Lec2tRHMgXbQ53BlNPFQqF0wY-zQE1S3EOhRlQOnSUZdY0/s1600/na%CC%81lezy3.jpg",
+        "filename": "nálezy3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs6XCeZWEcwDVmycKtC8SJirXu2LyhO39FlDJXbY8h9fDppWip9cutKbKEjVb3uAFYXxSK4MynNo697E1so7-UIuPIkZBv2Lec2tRHMgXbQ53BlNPFQqF0wY-zQE1S3EOhRlQOnSUZdY0/s1600/na%CC%81lezy3.jpg",
+          "displayedWidth": 210,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s0/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s1600/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+        "filename": "Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s1600/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 95,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sVkIMn8SKITFUdlWTNdd0t4w7xSU3pSXJjWX7h-Hvh79LzvMqnxsMRNzrQX1f8w8bhUSC6jO50BAtDE1z9ZnHQrsj3xv98vkuuotWoMn8MXn7pMAZmIh-dHBHl6WHTaGV1F38NV9c04/s0/902132_10200426584941189_408451913_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sVkIMn8SKITFUdlWTNdd0t4w7xSU3pSXJjWX7h-Hvh79LzvMqnxsMRNzrQX1f8w8bhUSC6jO50BAtDE1z9ZnHQrsj3xv98vkuuotWoMn8MXn7pMAZmIh-dHBHl6WHTaGV1F38NV9c04/s1600/902132_10200426584941189_408451913_o.jpg",
+        "filename": "902132_10200426584941189_408451913_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sVkIMn8SKITFUdlWTNdd0t4w7xSU3pSXJjWX7h-Hvh79LzvMqnxsMRNzrQX1f8w8bhUSC6jO50BAtDE1z9ZnHQrsj3xv98vkuuotWoMn8MXn7pMAZmIh-dHBHl6WHTaGV1F38NV9c04/s1600/902132_10200426584941189_408451913_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Žibrica od Podhorian (od severu) na začiatku žltej značky"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsORq3X_1QdUfTAiBN3qxjaXGZHEh955BDQC-RJ8nlySN3QNyaxJ7Q1JFF3_A5sAZ4h6ZuncVTaLhd7UX3JOpQrOhShqDgldDlxRSTBlrwFGYH3-HGeZRTBeB9Z1o2wLZGmWuuqV9jTdI/s0/165399_10200426590661332_1455971258_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsORq3X_1QdUfTAiBN3qxjaXGZHEh955BDQC-RJ8nlySN3QNyaxJ7Q1JFF3_A5sAZ4h6ZuncVTaLhd7UX3JOpQrOhShqDgldDlxRSTBlrwFGYH3-HGeZRTBeB9Z1o2wLZGmWuuqV9jTdI/s1600/165399_10200426590661332_1455971258_n.jpg",
+        "filename": "165399_10200426590661332_1455971258_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsORq3X_1QdUfTAiBN3qxjaXGZHEh955BDQC-RJ8nlySN3QNyaxJ7Q1JFF3_A5sAZ4h6ZuncVTaLhd7UX3JOpQrOhShqDgldDlxRSTBlrwFGYH3-HGeZRTBeB9Z1o2wLZGmWuuqV9jTdI/s1600/165399_10200426590661332_1455971258_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Od sedla Pod Dlhou skalou smerom na Žibricu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRZqAypAviKJ4J7WID5LgHrlkB88UnY4phKObtCxN7CeSDAhB_u656T793nH0wy3D8EzBZBUXwSZ5Bxcl5YraSmFhFCWG51gzBTiYaXvL61v0UGigpWQFdrcE2PyG8dLfNl-d3zE31iNo/s0/35017_10200426620022066_1764492278_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRZqAypAviKJ4J7WID5LgHrlkB88UnY4phKObtCxN7CeSDAhB_u656T793nH0wy3D8EzBZBUXwSZ5Bxcl5YraSmFhFCWG51gzBTiYaXvL61v0UGigpWQFdrcE2PyG8dLfNl-d3zE31iNo/s1600/35017_10200426620022066_1764492278_n.jpg",
+        "filename": "35017_10200426620022066_1764492278_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRZqAypAviKJ4J7WID5LgHrlkB88UnY4phKObtCxN7CeSDAhB_u656T793nH0wy3D8EzBZBUXwSZ5Bxcl5YraSmFhFCWG51gzBTiYaXvL61v0UGigpWQFdrcE2PyG8dLfNl-d3zE31iNo/s1600/35017_10200426620022066_1764492278_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "konečne val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWMlOweSCbWKdMIsYiRik-wpEFRWudLI4Lh9mepVIRdnlSKkvRnKN92u83hOesY7rFs-MR05da1pvtpWMubQo8foU7stXmtKUOu7mOFpYz-s4WZHzDH-8MrQqXM2VeNYje28nUEV1Tkbs/s0/9979_10200426630542329_1797097074_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWMlOweSCbWKdMIsYiRik-wpEFRWudLI4Lh9mepVIRdnlSKkvRnKN92u83hOesY7rFs-MR05da1pvtpWMubQo8foU7stXmtKUOu7mOFpYz-s4WZHzDH-8MrQqXM2VeNYje28nUEV1Tkbs/s1600/9979_10200426630542329_1797097074_n.jpg",
+        "filename": "9979_10200426630542329_1797097074_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWMlOweSCbWKdMIsYiRik-wpEFRWudLI4Lh9mepVIRdnlSKkvRnKN92u83hOesY7rFs-MR05da1pvtpWMubQo8foU7stXmtKUOu7mOFpYz-s4WZHzDH-8MrQqXM2VeNYje28nUEV1Tkbs/s1600/9979_10200426630542329_1797097074_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzHzmbBSqyWcppE-mNaXrNX8StOFX32sHWMhcBiJ3K59G-Vifi4C74a12G-8IZDPhEsBkJfD5TeB-TXsb4l1fTaeWYxVaPEBDafUtAPkmPArFu9Ucav_DajDl06a-9OCWNBV_uRkq9QaA/s0/181009_10200426624222171_1717006261_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzHzmbBSqyWcppE-mNaXrNX8StOFX32sHWMhcBiJ3K59G-Vifi4C74a12G-8IZDPhEsBkJfD5TeB-TXsb4l1fTaeWYxVaPEBDafUtAPkmPArFu9Ucav_DajDl06a-9OCWNBV_uRkq9QaA/s1600/181009_10200426624222171_1717006261_n.jpg",
+        "filename": "181009_10200426624222171_1717006261_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzHzmbBSqyWcppE-mNaXrNX8StOFX32sHWMhcBiJ3K59G-Vifi4C74a12G-8IZDPhEsBkJfD5TeB-TXsb4l1fTaeWYxVaPEBDafUtAPkmPArFu9Ucav_DajDl06a-9OCWNBV_uRkq9QaA/s1600/181009_10200426624222171_1717006261_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "severný val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMqFq70ZuJBkTNuJ5H83Wk6M9o8BYb_ARlPaZ6jsgQZcWtqbsYBYey0Qalo6TpK-QAq7VwNv3kQYWwIU4Axk-hQgmX3kjHqyaeeVdu7kEn6qBI3wKlRBKd1ZTvQAiP0Qs48M6dLGs5F3k/s0/areal.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMqFq70ZuJBkTNuJ5H83Wk6M9o8BYb_ARlPaZ6jsgQZcWtqbsYBYey0Qalo6TpK-QAq7VwNv3kQYWwIU4Axk-hQgmX3kjHqyaeeVdu7kEn6qBI3wKlRBKd1ZTvQAiP0Qs48M6dLGs5F3k/s1600/areal.jpg",
+        "filename": "areal.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMqFq70ZuJBkTNuJ5H83Wk6M9o8BYb_ARlPaZ6jsgQZcWtqbsYBYey0Qalo6TpK-QAq7VwNv3kQYWwIU4Axk-hQgmX3kjHqyaeeVdu7kEn6qBI3wKlRBKd1ZTvQAiP0Qs48M6dLGs5F3k/s1600/areal.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "vnútorný areál"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0eKIUH-100vhWZ7SzlI_sDbFubR3WxrRLF9aWExZz0B0tnjBAq_6v-VGGa3l6KJoQwtZZ6dtux-TqUxTMiLrESVykdYILhgIHkkxV0WPcxXrpcgQr2fmT3oisfJYenEyTUgROxUnPRmo/s0/j+val+3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0eKIUH-100vhWZ7SzlI_sDbFubR3WxrRLF9aWExZz0B0tnjBAq_6v-VGGa3l6KJoQwtZZ6dtux-TqUxTMiLrESVykdYILhgIHkkxV0WPcxXrpcgQr2fmT3oisfJYenEyTUgROxUnPRmo/s1600/j+val+3.jpg",
+        "filename": "j+val+3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0eKIUH-100vhWZ7SzlI_sDbFubR3WxrRLF9aWExZz0B0tnjBAq_6v-VGGa3l6KJoQwtZZ6dtux-TqUxTMiLrESVykdYILhgIHkkxV0WPcxXrpcgQr2fmT3oisfJYenEyTUgROxUnPRmo/s1600/j+val+3.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "pohľady na južný val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha5HP86d0zzAn6zv4R1lQJw9BfhOyKGXIvOmZofb2W35Mt2omRJ0Dydle_UicRaHGTqvLId-O-aAW9_sWUiuBtq33GByOlPUdJZuh0pTs_HA5_68-fYZfTtqHPn0M1TlRp0V7YfpC_aTE/s0/j+val2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha5HP86d0zzAn6zv4R1lQJw9BfhOyKGXIvOmZofb2W35Mt2omRJ0Dydle_UicRaHGTqvLId-O-aAW9_sWUiuBtq33GByOlPUdJZuh0pTs_HA5_68-fYZfTtqHPn0M1TlRp0V7YfpC_aTE/s1600/j+val2.jpg",
+        "filename": "j+val2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha5HP86d0zzAn6zv4R1lQJw9BfhOyKGXIvOmZofb2W35Mt2omRJ0Dydle_UicRaHGTqvLId-O-aAW9_sWUiuBtq33GByOlPUdJZuh0pTs_HA5_68-fYZfTtqHPn0M1TlRp0V7YfpC_aTE/s1600/j+val2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqiEV3bpQtMhZrVIKI2AXsoz9qnhDucjiarBUMrznrtJ8r_jEmXbw_KrT-iqU1gRNZxb612Hn9xbZDuxtoIKX5_Dy0t-QKaxxEF-pTqHI5ApyQLxI27VpX2i93d75wKQpWE8LpHT5Hf3A/s0/j+val.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqiEV3bpQtMhZrVIKI2AXsoz9qnhDucjiarBUMrznrtJ8r_jEmXbw_KrT-iqU1gRNZxb612Hn9xbZDuxtoIKX5_Dy0t-QKaxxEF-pTqHI5ApyQLxI27VpX2i93d75wKQpWE8LpHT5Hf3A/s1600/j+val.jpg",
+        "filename": "j+val.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqiEV3bpQtMhZrVIKI2AXsoz9qnhDucjiarBUMrznrtJ8r_jEmXbw_KrT-iqU1gRNZxb612Hn9xbZDuxtoIKX5_Dy0t-QKaxxEF-pTqHI5ApyQLxI27VpX2i93d75wKQpWE8LpHT5Hf3A/s1600/j+val.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh1nV9bYDzTwvoITrigKeyUIj4LB-QeXO5dSQK3vZyiNlMUUxFOYAybvJ5cjNI3tj9pOhmLJn3ZAWJiL-w6ovXb3oLW_Iepkxa8Hf4JhmRPRMGybl4LJ6NctHHffnUtwmA3Lsyb8QX0Bk/s0/jz+val.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh1nV9bYDzTwvoITrigKeyUIj4LB-QeXO5dSQK3vZyiNlMUUxFOYAybvJ5cjNI3tj9pOhmLJn3ZAWJiL-w6ovXb3oLW_Iepkxa8Hf4JhmRPRMGybl4LJ6NctHHffnUtwmA3Lsyb8QX0Bk/s1600/jz+val.jpg",
+        "filename": "jz+val.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh1nV9bYDzTwvoITrigKeyUIj4LB-QeXO5dSQK3vZyiNlMUUxFOYAybvJ5cjNI3tj9pOhmLJn3ZAWJiL-w6ovXb3oLW_Iepkxa8Hf4JhmRPRMGybl4LJ6NctHHffnUtwmA3Lsyb8QX0Bk/s1600/jz+val.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "val na juhozápade"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD8h8A0T5e9Rov0spwEVJCexwp8L0Jpz7m0b9_YVdZsbq-4ikYh-tfn95vO_EfzBUS_jZnXoTg0vywc53La5iYd3zNy9pXJT445oGhLD0PZKbMg9Aqv9lhFiZgOsZ_pWVTfEmgEmQVmOo/s0/lom.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD8h8A0T5e9Rov0spwEVJCexwp8L0Jpz7m0b9_YVdZsbq-4ikYh-tfn95vO_EfzBUS_jZnXoTg0vywc53La5iYd3zNy9pXJT445oGhLD0PZKbMg9Aqv9lhFiZgOsZ_pWVTfEmgEmQVmOo/s1600/lom.jpg",
+        "filename": "lom.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD8h8A0T5e9Rov0spwEVJCexwp8L0Jpz7m0b9_YVdZsbq-4ikYh-tfn95vO_EfzBUS_jZnXoTg0vywc53La5iYd3zNy9pXJT445oGhLD0PZKbMg9Aqv9lhFiZgOsZ_pWVTfEmgEmQVmOo/s1600/lom.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "praveký kameňolom"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx3i8EwJMKLmKFjIkYhI4SwIenhd3Kr0aAmRQEPUIxUQ6CyYXbFRCmJ53XRNEmzsUlKRsNGWqeAMf6IVvmcP1KXaGsqyB9EfpXL4oQi9rd1PfVPQuVBOh15dZi5QDa-sLtQTz51vrG3PY/s0/482167_10200426642742634_348626474_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx3i8EwJMKLmKFjIkYhI4SwIenhd3Kr0aAmRQEPUIxUQ6CyYXbFRCmJ53XRNEmzsUlKRsNGWqeAMf6IVvmcP1KXaGsqyB9EfpXL4oQi9rd1PfVPQuVBOh15dZi5QDa-sLtQTz51vrG3PY/s1600/482167_10200426642742634_348626474_n.jpg",
+        "filename": "482167_10200426642742634_348626474_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx3i8EwJMKLmKFjIkYhI4SwIenhd3Kr0aAmRQEPUIxUQ6CyYXbFRCmJ53XRNEmzsUlKRsNGWqeAMf6IVvmcP1KXaGsqyB9EfpXL4oQi9rd1PfVPQuVBOh15dZi5QDa-sLtQTz51vrG3PY/s1600/482167_10200426642742634_348626474_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "z takýchto kameňov je zbudovaný val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo8RhtZOlj4ITo2dudiheuvAdPOne4dlofWyNLftU84NT-1RqAv5a8UKDbq6eqpMMgzPNR9Umuc9Hj2kG3Vv0eVXd2nNAkWxg55796nN06zbX0HteCD1HVr1sEvq2_SoaZKsIEudd63zQ/s0/vnutro.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo8RhtZOlj4ITo2dudiheuvAdPOne4dlofWyNLftU84NT-1RqAv5a8UKDbq6eqpMMgzPNR9Umuc9Hj2kG3Vv0eVXd2nNAkWxg55796nN06zbX0HteCD1HVr1sEvq2_SoaZKsIEudd63zQ/s1600/vnutro.jpg",
+        "filename": "vnutro.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo8RhtZOlj4ITo2dudiheuvAdPOne4dlofWyNLftU84NT-1RqAv5a8UKDbq6eqpMMgzPNR9Umuc9Hj2kG3Vv0eVXd2nNAkWxg55796nN06zbX0HteCD1HVr1sEvq2_SoaZKsIEudd63zQ/s1600/vnutro.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "vnútorný priestor"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOx8vwm292Whfm0g9owbbM0NOw9NBQniDEJ5Xf-ryt9xxDr8c2BghT5is16IfSzucYCOByqdfznjaOtr3xTSg2qzLv4eHyhP_7Tm2NRR8Esi4pSxNTBvrj0o8CHhkEEsppPLGQcEWd10g/s0/882617_10200426709184295_1729187525_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOx8vwm292Whfm0g9owbbM0NOw9NBQniDEJ5Xf-ryt9xxDr8c2BghT5is16IfSzucYCOByqdfznjaOtr3xTSg2qzLv4eHyhP_7Tm2NRR8Esi4pSxNTBvrj0o8CHhkEEsppPLGQcEWd10g/s1600/882617_10200426709184295_1729187525_o.jpg",
+        "filename": "882617_10200426709184295_1729187525_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOx8vwm292Whfm0g9owbbM0NOw9NBQniDEJ5Xf-ryt9xxDr8c2BghT5is16IfSzucYCOByqdfznjaOtr3xTSg2qzLv4eHyhP_7Tm2NRR8Esi4pSxNTBvrj0o8CHhkEEsppPLGQcEWd10g/s1600/882617_10200426709184295_1729187525_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiWbI8KYKTG7YU69YMb3xKs-xEPDBkGvraDMYkKR9vE2EQAYNlvabd7lc0ak5W9y7pXO1zOi3lhRCVMdWM-5yMNcnu4cBvw7gmxZWLVrfFh7s1lyEJyZxbFLp5mV8eIoMDnLDweZCil28/s0/891659_10200426681543604_770846473_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiWbI8KYKTG7YU69YMb3xKs-xEPDBkGvraDMYkKR9vE2EQAYNlvabd7lc0ak5W9y7pXO1zOi3lhRCVMdWM-5yMNcnu4cBvw7gmxZWLVrfFh7s1lyEJyZxbFLp5mV8eIoMDnLDweZCil28/s1600/891659_10200426681543604_770846473_o.jpg",
+        "filename": "891659_10200426681543604_770846473_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiWbI8KYKTG7YU69YMb3xKs-xEPDBkGvraDMYkKR9vE2EQAYNlvabd7lc0ak5W9y7pXO1zOi3lhRCVMdWM-5yMNcnu4cBvw7gmxZWLVrfFh7s1lyEJyZxbFLp5mV8eIoMDnLDweZCil28/s1600/891659_10200426681543604_770846473_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "výhľad z valu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaXPjX0Ku_ZvTsb3ZQxjxbpxlOpmR6VRegVIuYlptqzxRRwYtDwjWPhLLIwcedW-CwrkgoRWApHs3Xjr3KiLZeAxxITfYuikeexr2UiOTtrXtpq-B_B0_zbC3SYGYxuzQIcqDHO9U4Ds/s0/883412_10200426700224071_835434483_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaXPjX0Ku_ZvTsb3ZQxjxbpxlOpmR6VRegVIuYlptqzxRRwYtDwjWPhLLIwcedW-CwrkgoRWApHs3Xjr3KiLZeAxxITfYuikeexr2UiOTtrXtpq-B_B0_zbC3SYGYxuzQIcqDHO9U4Ds/s1600/883412_10200426700224071_835434483_o.jpg",
+        "filename": "883412_10200426700224071_835434483_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaXPjX0Ku_ZvTsb3ZQxjxbpxlOpmR6VRegVIuYlptqzxRRwYtDwjWPhLLIwcedW-CwrkgoRWApHs3Xjr3KiLZeAxxITfYuikeexr2UiOTtrXtpq-B_B0_zbC3SYGYxuzQIcqDHO9U4Ds/s1600/883412_10200426700224071_835434483_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh19XLacrbuqco-UI8z9u8ZLqYbohejT78VgCo_tA5vWjm29wjciM8Z1HthRsHBVDC3gBvHuAMeENhscdpCuZAR31HdhpLc8x9JYi_RmUQ_Mv5UCQ_U_MaFwEXACohRDd2uhSAVSJO_JhU/s0/903633_10200426705624206_2017109864_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh19XLacrbuqco-UI8z9u8ZLqYbohejT78VgCo_tA5vWjm29wjciM8Z1HthRsHBVDC3gBvHuAMeENhscdpCuZAR31HdhpLc8x9JYi_RmUQ_Mv5UCQ_U_MaFwEXACohRDd2uhSAVSJO_JhU/s1600/903633_10200426705624206_2017109864_o.jpg",
+        "filename": "903633_10200426705624206_2017109864_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh19XLacrbuqco-UI8z9u8ZLqYbohejT78VgCo_tA5vWjm29wjciM8Z1HthRsHBVDC3gBvHuAMeENhscdpCuZAR31HdhpLc8x9JYi_RmUQ_Mv5UCQ_U_MaFwEXACohRDd2uhSAVSJO_JhU/s1600/903633_10200426705624206_2017109864_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "pohľad smerom na Štitáre"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJf_vm6QedHP8N-9TDsrv19D3pVrTYrkoDPXsYeEqBsQQ0Tu3sFyQ5ZVlqs1axE48jSovVn6KgVtechzbm7jIsZXJcX2GDqi3CjpIx1EFoUyPnpyQBwP7eQLF73NDhwc__Kg-Qr0NgGYM/s0/906813_10200426695063942_675335484_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJf_vm6QedHP8N-9TDsrv19D3pVrTYrkoDPXsYeEqBsQQ0Tu3sFyQ5ZVlqs1axE48jSovVn6KgVtechzbm7jIsZXJcX2GDqi3CjpIx1EFoUyPnpyQBwP7eQLF73NDhwc__Kg-Qr0NgGYM/s1600/906813_10200426695063942_675335484_o.jpg",
+        "filename": "906813_10200426695063942_675335484_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJf_vm6QedHP8N-9TDsrv19D3pVrTYrkoDPXsYeEqBsQQ0Tu3sFyQ5ZVlqs1axE48jSovVn6KgVtechzbm7jIsZXJcX2GDqi3CjpIx1EFoUyPnpyQBwP7eQLF73NDhwc__Kg-Qr0NgGYM/s1600/906813_10200426695063942_675335484_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPLY2l0j37og4iFjzvzC-cQCiP0ytPDPfuOiW2G3En7vZXEdkMiTlbM_euLtIpwAbYA5tVKtLH41lIISh9u86l8iefPdWGdFQVOBITBt8WkzkI7jD2VtdlN3FdspH4jLlWNUwKRZybPk4/s0/906680_10200426720344574_589240855_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPLY2l0j37og4iFjzvzC-cQCiP0ytPDPfuOiW2G3En7vZXEdkMiTlbM_euLtIpwAbYA5tVKtLH41lIISh9u86l8iefPdWGdFQVOBITBt8WkzkI7jD2VtdlN3FdspH4jLlWNUwKRZybPk4/s1600/906680_10200426720344574_589240855_o.jpg",
+        "filename": "906680_10200426720344574_589240855_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPLY2l0j37og4iFjzvzC-cQCiP0ytPDPfuOiW2G3En7vZXEdkMiTlbM_euLtIpwAbYA5tVKtLH41lIISh9u86l8iefPdWGdFQVOBITBt8WkzkI7jD2VtdlN3FdspH4jLlWNUwKRZybPk4/s1600/906680_10200426720344574_589240855_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Žibrica"
+      }
+    ],
+    "tags": [
+      "Žibrica"
+    ],
+    "category": null,
+    "location": {
+      "name": "Žibrica",
+      "latitude": 48.364932,
+      "longitude": 18.153276,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Rozloha hradiska",
+        "value": "cca 4,37 ha",
+        "icon": "map"
+      },
+      {
+        "label": "Val",
+        "value": "obvod 864 m, výška smerom do hradiska 0,5 – 2 m, smerom von 6–8 m",
+        "icon": "shield"
+      },
+      {
+        "label": "Poloha",
+        "value": "kopulovitý vrchol kužeľovitej hory Žibrice, pásmo Zobor-Žibrica",
+        "icon": "mountain"
+      },
+      {
+        "label": "Funkcia",
+        "value": "strážna služba nad predhistorickou (Jantárovou) cestou od juhu na sever",
+        "icon": "sword"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "doba halštatská",
+        "title": "Hlavné obdobie osídlenia",
+        "description": "Črepy z povrchových nálezov väčšinou radíme do halštatskej doby; osídlenie lokality potvrdili aj sondážne výskumy v neskorej dobe bronzovej a staršej dobe halštatskej.",
+        "type": "era"
+      },
+      {
+        "year": "doba laténska",
+        "title": "Doosídlenie",
+        "description": "Na hradisku II sa vyskytol tiež laténsky a slovanský črep, na základe ojedinelých nálezov sa podarilo doložiť osídlenie aj z doby laténskej, stredoveku a novoveku.",
+        "type": "era"
+      },
+      {
+        "year": "koncom 20. rokov 20. storočia",
+        "title": "Prvý výskum Š. Janšáka",
+        "description": "Hradisko ako prvý preskúmal Š. Janšák.",
+        "type": "discovery"
+      },
+      {
+        "year": "1999",
+        "title": "Archeologický a geofyzikálny prieskum",
+        "description": "Počas archeologického a geofyzikálneho prieskumu sa z povrchových zberov získal najpočetnejší nálezový materiál na hradisku Štitáre-Žibrica.",
+        "type": "discovery"
+      },
+      {
+        "year": "2000 – 2002",
+        "title": "Sondážne výskumy",
+        "description": "Sondážne výskumy potvrdili rozsiahle osídlenie lokality v neskorej dobe bronzovej, staršej dobe halštatskej, strednej a neskorej dobe laténskej a v stredoveku.",
+        "type": "discovery"
+      },
+      {
+        "year": "2002 – 2003",
+        "title": "Výskum pod vedením Dr. Rajtárovej",
+        "description": "Cieľom výskumov pod vedením Dr. Rajtárovej bolo zistiť celkové časové rozpätie osídlenia a získať poznatky o stratigrafii kultúrnych vrstiev.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko Žibrica (alebo dávnejšie Zubrica), na ktorom máme doložené osídlenie kultúr lužickej, halštatskej, laténskej, a stredoveku, sa skladá z dvoch od seba nezávislých častí (sídlisko a hradisko), spojených iba pohodlnou a na jednom mieste umele vybudovanou komunikáciou. Sídlisko leží na južnom svahu homoľovitého kopca Žibrice a hradisko sa rozkladá okolo najvyššej kóty tohoto kopca. Hradisko ako prvý preskúmal Š. Janšák koncom 20. rokov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Život na Žibrici sa sústreďoval smerom JV z niekoľkých príčin: je to slnečná strana, mierne sa svažujúca do údolnej roviny Žitavy, a čo je hlavné, najbližší výdatný, prameň pitnej vody nachádza sa dnes na návsi obce Štitáre. Značná vzdialenosť hradiska od tohoto prameňa nútila k zriadeniu nižšieho, v dobe pokoja obývaného sídliska, ktoré nemá žiadnych ochranných valov, stavieb, ani iných do dnes zachovalých bezpečnostných zariadení (čo, pravda, nevylučuje eventuálne drevené ohrady, ktoré časom bez stopy zanikly). Sídlisku, ležiacemu na mierne sklonenom, plochom svahu chýba tiež akákoľvek prirodzená ochrana. Jednako, vzhľadom na okolnosť, že ležalo na ceste najľahšieho prístupu k hradisku, mohlo zastávať funkciu predhradia, oddeleného úplne od vlastného hradu. Jediná spoľahlivá záruka, na základe ktorej možno toto hradisko zistiť, je veľké, až nápadné množstvo črepov, ktoré sa v 30. rokoch na mieste našli. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "sketchfab",
+        "embedId": "7af84e34e0c94c56ba393a8b549ca6ed",
+        "url": "https://sketchfab.com/models/7af84e34e0c94c56ba393a8b549ca6ed/embed",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pôvodný výstup na hradisko vedie zo Štitárov od prameňa P (pozri obrázok od Janšáka) smerom SZ, horskou, ale zreteľnou cestou. Vo vzdialenosti 1 km nad obcou tvorí cesta malú serpentínu, ktorá obchádza hlboký úvoz s chodníkom. Týmto úvozom išla stará komunikácia. V bode b, na vrstevnici 350, sa začína sídlisko a tiahne sa v dĺžke asi 240 m až k rozcestiu c. V bode d, na vrstevnici 505, láme sa výstup na hradisko zo smeru SZ do SV. Vzhľadom na to, že ide po príkrom svahu, bolo potrebné umele ho upraviť, čo previedli obyvatelia hradísk odkopáním svahu na dĺžku 300 m, čím povstal násyp df (nemajúci obranného účelu) a paralelne s ním idúca priekopa, na dne ktorej vedie stará cesta, dodnes používaná. V bode h, na kóte 605, vstupuje cesta do hradiska. Sídlisko sa tiež rozprestiera na plochom hrebeňovitom výbežku hlavného pásma Zobor-Žibrica. Hradisko leží na kopulou zakončenom vrchole kužeľovitej hory Žibrice.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WXOVNoEEwhLhXpdPbwq2hYBKx5nDfQUjyEbLT9IEEDvbstYRzCkZkiRARmtmxTAECIe3F1raP-vBEnww641kf8IqirGIMokXikWbCSue-SO-ErhmLO5E5Yf6JnL6DjKOzMnyaLwg3bY/s0/plan+1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WXOVNoEEwhLhXpdPbwq2hYBKx5nDfQUjyEbLT9IEEDvbstYRzCkZkiRARmtmxTAECIe3F1raP-vBEnww641kf8IqirGIMokXikWbCSue-SO-ErhmLO5E5Yf6JnL6DjKOzMnyaLwg3bY/s1600/plan+1.jpg",
+          "filename": "plan+1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WXOVNoEEwhLhXpdPbwq2hYBKx5nDfQUjyEbLT9IEEDvbstYRzCkZkiRARmtmxTAECIe3F1raP-vBEnww641kf8IqirGIMokXikWbCSue-SO-ErhmLO5E5Yf6JnL6DjKOzMnyaLwg3bY/s1600/plan+1.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 284,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Žibrica",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vrch Žibrica na svojom vrchole neposkytuje žiadnej pozoruhodnej prirodzenej bezpečnosti. Všetky jej svetové strany sú vytvorené šikmým svahom v sklone 30°, najviac 45°. Príkrejšieho, skalnou strminou chráneného miesta tu niet. Len vrcholový hrebeň, kóta 622, 630 a 609 má úzke skalné ihlance, bez akéhokoľvek priestoru pre pobyt a osídlenie. Vrchol Žibrice je obohnatý len jediným valom. Počnúc od vstupu do hradiska v bode h, na kóte 605, ide smerom SV, stúpajúc súčasne na kótu 611 (ktorá je najvyšším bodom valov vôbec), odtiaľ klesá nahlo na kótu 580, idúc ďalej s malými vlnami takmer vodorovne až na západnú stranu hradiska ku kóte 583. Z nej, postupujúc smerom JZ, klesá ešte ďalej až do najnižšieho bodu valov, kóta 570, odkiaľ týmže smerom, neskôr veľkým oblúkom na SV, vracia sa k bráne. Výška tohoto obvodového valu smerom do hradiska, sa pohybuje od 0,5 až po 2 m, dosahujúc tento posledný rozmer len na troch, či štyroch miestach. Smerom na vonok splýva val s prirodzeným sklonom terénu, vytvárajúc jeho príkrejší stupeň, o výške 6–8 m. Val je zreteľne zachovalý, vďaka lesnej kultúre, ktorá ho chránila, meria v obvode 864 m a je zhotovený z materiálu na mieste (smerom do hradiska) získaného. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjsbIpYUmsL2IshHQZ5U8hYKxzHtqqFvi4lALXfgUsfV4FueJDTuq9OEtf1WvCy6lVzJKACne2Uch-PYwbrOBdOmzRvwEJ2qh8P6xRCRc6bRGT1GF-PK_pQdKSAYrRN50IL41KuRBvBAp/s0/LIDAR.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjsbIpYUmsL2IshHQZ5U8hYKxzHtqqFvi4lALXfgUsfV4FueJDTuq9OEtf1WvCy6lVzJKACne2Uch-PYwbrOBdOmzRvwEJ2qh8P6xRCRc6bRGT1GF-PK_pQdKSAYrRN50IL41KuRBvBAp/s1600/LIDAR.jpg",
+          "filename": "LIDAR.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBjsbIpYUmsL2IshHQZ5U8hYKxzHtqqFvi4lALXfgUsfV4FueJDTuq9OEtf1WvCy6lVzJKACne2Uch-PYwbrOBdOmzRvwEJ2qh8P6xRCRc6bRGT1GF-PK_pQdKSAYrRN50IL41KuRBvBAp/s1600/LIDAR.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 258,
+            "originalWidth": 818,
+            "originalHeight": 662
+          }
+        },
+        "alt": "Žibrica",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vstupná brána dá sa zistiť s bezpečnosťou len jedna, na JV. Na strane SZ pri kóte 572 je val tiež prerušený otvorom, ale o jeho účele, alebo pôvode nemožno s určitosťou nič tvrdiť, vzhľadom na to, že akékoľvek iné indikácie chýbajú. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rozloha hradiska je cca 4,37 ha, no poskytuje len slabý útulok pri zrovnaní s inými hradiskami tohoto druhu. O tom nás presvedčí pohľad na vrstevnicový plán a príslušné rezy od Janšáka. Z nich vidno, že v pozdĺžnej ose hradiska tiahne sa ostrý, skoro neschodný hrebeň (rez AB), s troma príkrymi vyvýšeninami, začínajúci na JZ skalou a končiaci na SV skalou, ktorá je pre hradisko iba veľkou prekážkou a žiadnou ochranou. Rez napriek hradiskom poučuje nás o tom, že terén má tu 50°, miestami až 60° stúpania a postavenie príbytkov, alebo púhe usídlenie pod holým nebom znemožňuje. Pri takomto uhle sklonu sa už kotúľajú predmety dolu. Pre osídlenie zostalo teda len niekoľko menších plošín pozdĺž SV časti hrebeňa a 5—10 m široký pás, idúci na vnútornej strane paralelne s valom, vzniknutý odkopáním materiálu, potrebného k stavbe opevnenia. Za takýchto okolností bolo potrebné umele zväčšiť povrch vhodný k obývaniu. Stalo sa to vytvorením celého systému po hradisku nepravidelne roztrúsených väčších-menších terás (t), z ktorých vzhľadom na značnú svoju rozlohu zasluhuje zmienky terasa T. Tieto terasy vznikli odkopaním svahu. Terasy možno zistiť i po oboch stranách cesty, vedúcej na hradisko, v partii f g. Najväčšia terasa z nich opiera sa svojou zadnou (západnou) stranou o skaluý hrebeň, dvíhajúci sa nad jej plošinu o 14 m (kóta 609) a zdá sa byť svojou rozlohou i pomerným pohodlím najdôležitejšou časťou hradiska, jeho jadrom. Domnienku túto by podporovali i viaceré nehlboké misovité jamy na jej plošine, priemeru 150—200 m, ktoré možno pokladať za stanovište pre nejaký druh obydlia. Takýchto stanovíšť, ojedinelo ku skale, alebo svahu sa primykajúcich možno nájsť na hradisku viac, hlavne na jeho východnom a juho-východnom svahu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHncOyHAV2ncsNjuhQTNju35eStg4xQVmnkqje0Z3B_BPt2GzpF-UGT1qO1lLNg6tz_o8kkikNStrdMU9chN20f8Wpti_hyd-ZOAba0Jhapt7xDPJO7tWR9L4a-dWqYTKBHlMgn5dA1Cc/s0/plan+2.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHncOyHAV2ncsNjuhQTNju35eStg4xQVmnkqje0Z3B_BPt2GzpF-UGT1qO1lLNg6tz_o8kkikNStrdMU9chN20f8Wpti_hyd-ZOAba0Jhapt7xDPJO7tWR9L4a-dWqYTKBHlMgn5dA1Cc/s1600/plan+2.jpg",
+          "filename": "plan+2.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHncOyHAV2ncsNjuhQTNju35eStg4xQVmnkqje0Z3B_BPt2GzpF-UGT1qO1lLNg6tz_o8kkikNStrdMU9chN20f8Wpti_hyd-ZOAba0Jhapt7xDPJO7tWR9L4a-dWqYTKBHlMgn5dA1Cc/s1600/plan+2.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 131,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Žibrica",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Umelé prispôsobovanie povrchu k potrebám obývacím bolo tým potrebnejšie, čím je poloha nepriaznivejšia. Nevhodnosť pre obývanie je zvyšovaná aj tým, že hrebeň Žibrice tiahne sa poblíž juho-východného valu a delí tak hradisko na dve nerovné časti. Juho-východná, obrátená smerom k slnku, je menšia, užšia, západná a severo-západná, polohou k slnku nepriaznivá, severným vetrom vystavená, je omnoho väčšia. I táto okolnosť oprávňuje k záveru, že Žibrica nie je hradiskom určeným na stále obývanie. Jeho nedostatky v podrobnostiach vyvážené sú značnou výškou nad okolitými rovinami a vzdialenosťou od vhodných komunikácií, ktoré mohli byť dôvodom, že silnejšie opevnenia ani neboli postavené. Celý povrch hradiska bol síce obývaný, ale intenzívnejší život vzhľadom na nepriaznivý útvar terénu sa sústreďoval na spomenutých terasách. Na Žibrici nachádza sa tiež na východnom svahu nálevkovitá jama M, ktorej analogie sú napr. na „Pohanskej\". Jej hĺbka na strane proti svahu je 8 m, na strane po svahu 2 m, priemer 6 m. V najnižšom bode hradiska, na kóte 570, v bezprostrednom susedstve valu, je tiež veľká jama Z, ktorá vzhľadom na svoju polohu mohla byť cisternou na dažďovú vodu. Ináč zásobenie vodou v hradisku zabezpečoval jedine spomenutý prameň v dnešnej obci Štitáre, o používaní ktorého hovorí aj sídlisko ako zostupná etapa k nevyhnutne potrebnej vode. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNt55BS9BhhD5jC9lEJUl9f-WfTAzlaEw4pMRDZxbxFc51hx3upymSFFy4yKCzpr0dJaZbDsYGtqnOJcFKgHkbu5PvkbYc8NMA9IDOsRsc_AhPWxhSO_LblbpQBNR9c0DUDjmXbmxU-Gw/s0/terasa.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNt55BS9BhhD5jC9lEJUl9f-WfTAzlaEw4pMRDZxbxFc51hx3upymSFFy4yKCzpr0dJaZbDsYGtqnOJcFKgHkbu5PvkbYc8NMA9IDOsRsc_AhPWxhSO_LblbpQBNR9c0DUDjmXbmxU-Gw/s1600/terasa.jpg",
+          "filename": "terasa.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNt55BS9BhhD5jC9lEJUl9f-WfTAzlaEw4pMRDZxbxFc51hx3upymSFFy4yKCzpr0dJaZbDsYGtqnOJcFKgHkbu5PvkbYc8NMA9IDOsRsc_AhPWxhSO_LblbpQBNR9c0DUDjmXbmxU-Gw/s1600/terasa.jpg",
+            "displayedWidth": 271,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Žibrica",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Povrchové nálezy črepov boli v minulosti veľmi hojné; obidve hradiská boli nimi v pravom slova zmysle pokryté. Janšák našiel napr. okraje či hrdlá nádob, kusy dna, črepy so silnými podlhovastými pupákmi blízo hrdla pripevnenými, a tiež úlomky s ornamentikou. Črepy väčšinou radíme do halštatskej doby. Na hradisku II. sa vyskytol tiež laténsky a slovanský črep. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Aký bol teda cieľ hradiska na Žibrici, keďže pobyt človeka na nňom, najmä v zime alebo v dobe prudkých dažďov a vetrov bol skutočným utrpením? Slúžilo hradisko za oporný bod pri nejakých bojových akciách? Ale veď v tomto prípade neopevnená hospodárska osada na svahu bola by prvá padla za obeť útoku a bojovníci na vrchu hory, ktorí boli svojím zásobovaním od nej závislí, boli by zakrátko tiež podľahli! Hradisko preto slúžilo prevažne pre strážnu službu. Pri tomto výkone sa ľudia striedajú, nie sú viazaní na trvalý pobyt a musia sa preto uspokojiť s veľmi skromným pohodlím. A keďže stáli na Žibrici stráže, na koho a na čo dávali pozor? Na základe archeologických nálezov z údolia Nitry je bezpečne dokázané, že ním viedla predhistorická cesta od juhu na sever, ktorú sme si zvykli paušálne označovať ako Jantárovú cestu. Po tejto ceste chodili ozbrojené expedície cudzincov, prinášajúce v pomere k domácemu obyvatelstvu nebezpečenstvo výboja. Aj pohyb takýchto naoko mierumilovných karaván kupcov bolo treba veľmi pozorne sledovať a to bola podľa Janšáka úloha strážnej osady na Žibrici.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGHWtsMBngxIY2Xy3IOyjtMq6rCthqzhZS_9MoNE7vbLU7IpttN0ggMO0zSZcJ03vwjPQY2SEuAXI-OPLgRwhIEqEHHERD7thXRLyqslbH3_1TXRUwZIiuezsyj68n8BNhbo52eV_Otlg/s0/482002_501679419870532_797600303_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGHWtsMBngxIY2Xy3IOyjtMq6rCthqzhZS_9MoNE7vbLU7IpttN0ggMO0zSZcJ03vwjPQY2SEuAXI-OPLgRwhIEqEHHERD7thXRLyqslbH3_1TXRUwZIiuezsyj68n8BNhbo52eV_Otlg/s1600/482002_501679419870532_797600303_n.jpg",
+          "filename": "482002_501679419870532_797600303_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGHWtsMBngxIY2Xy3IOyjtMq6rCthqzhZS_9MoNE7vbLU7IpttN0ggMO0zSZcJ03vwjPQY2SEuAXI-OPLgRwhIEqEHHERD7thXRLyqslbH3_1TXRUwZIiuezsyj68n8BNhbo52eV_Otlg/s1600/482002_501679419870532_797600303_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Žibrica",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najnovšie výskumy",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n \n V rokoch 2000 – 2002 sa na hradisku uskutočnili sondážne výskumy, ktoré potvrdili rozsiahle osídlenie lokality v neskorej dobe bronzovej, staršej dobe halštatskej, strednej a neskorej doby laténskej a v stredoveku. Výskum sa realizoval na jednej z najrozsiahlejších terás v SV časti hradiska, kde bol predpoklad intenzívneho osídlenia. Tesne pod povrchom objavili kultúrnu vrstvu s porušeným sídliskovým objektom. Našla sa tiež početná keramika s tuhovým povrchom, mazanica, uhlíky a zvieracie kosti. V skúmaných miestach bolo staršie osídlenie evidentne porušené mladšími zásahmi. Na východnom okraji terasy zistili kamenno-zemný násyp, ktorý mal od úrovne vybudovania zachovanú výšku 1,10 m. Dá sa predpokladať, že bol postavený na spevnenie okraja terasy. Pod kamenno-zemným násypom sa nachádzala kultúrna vrstva z neskorej doby bronzovej. Na hradisku sa tiež našli bronzové hroty šípov z doby halštatskej.   \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBFnc8vFI0aovejMLJ3lolWMGn-dbRaN7kXAjhQs0oiP6pSzmPm-XxNr0zjawdSCQioYnrY_N5J-NBKB7yOtDr2AHbQr0tJBmwfWJ4ZQIuMTICz76a6xKXk9y_yodKcIlpu6VwkmpwgG0/s0/482002_501679426537198_367037682_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBFnc8vFI0aovejMLJ3lolWMGn-dbRaN7kXAjhQs0oiP6pSzmPm-XxNr0zjawdSCQioYnrY_N5J-NBKB7yOtDr2AHbQr0tJBmwfWJ4ZQIuMTICz76a6xKXk9y_yodKcIlpu6VwkmpwgG0/s1600/482002_501679426537198_367037682_n.jpg",
+          "filename": "482002_501679426537198_367037682_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBFnc8vFI0aovejMLJ3lolWMGn-dbRaN7kXAjhQs0oiP6pSzmPm-XxNr0zjawdSCQioYnrY_N5J-NBKB7yOtDr2AHbQr0tJBmwfWJ4ZQIuMTICz76a6xKXk9y_yodKcIlpu6VwkmpwgG0/s1600/482002_501679426537198_367037682_n.jpg",
+            "displayedWidth": 240,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Žibrica",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Susanne Stegmann - Rajtár, ktorá na hradisku realizuje prieskum uvádza (1), že "
+              },
+              {
+                "type": "text",
+                "text": "ešte počas archeologického a geofyzikálneho prieskumu v roku 1999 sa z povrchových zberov získal najpočetnejší nálezový materiál na hradisku Štitáre-Žibrica, okr. Nitra, preto sa tu následne uskutočnil aj sondážny výskum. Okrem početných zlomkov keramiky lužickej kultúry sa na tejto lokalite našli aj tzv. včasnoskýtske bronzové hroty šípov z doby halštatskej. Dva z nich pochádzali priamo z koruny valu v južnej časti, jeden z bezprostrednej blízkosti vnútornej strany valu v západnej časti. Údajne ich z tohto hradiska pochádza väčšie množstvo. Počas opakovaných prieskumov v rokoch 2000 a 2001 sa okrem keramiky z mladšej doby popolnicových polí našli aj črepy z doby halštatskej, ktoré naznačili, že osídlenie tu pretrvávalo aj v tomto období. Na základe ojedinelých nálezov sa podarilo doložiť osídlenie aj z doby laténskej, stredoveku a novoveku.",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPADiQVLr6canBvRpjxaJh1fRIwdn0eqGHpasWYYyJpGa_Ls_IooEHNsQS_pdV0qD-R6ShsAjQ_ixh1Y0tVwji8IxBBNcLDKxbUTfMAnJMDT-yE7iQEoPxz-kux4PkBvRCsgOjPnzH_bY/s0/482002_501679429870531_1501096390_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPADiQVLr6canBvRpjxaJh1fRIwdn0eqGHpasWYYyJpGa_Ls_IooEHNsQS_pdV0qD-R6ShsAjQ_ixh1Y0tVwji8IxBBNcLDKxbUTfMAnJMDT-yE7iQEoPxz-kux4PkBvRCsgOjPnzH_bY/s1600/482002_501679429870531_1501096390_n.jpg",
+          "filename": "482002_501679429870531_1501096390_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPADiQVLr6canBvRpjxaJh1fRIwdn0eqGHpasWYYyJpGa_Ls_IooEHNsQS_pdV0qD-R6ShsAjQ_ixh1Y0tVwji8IxBBNcLDKxbUTfMAnJMDT-yE7iQEoPxz-kux4PkBvRCsgOjPnzH_bY/s1600/482002_501679429870531_1501096390_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Žibrica",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Cieľom výskumov na hradisku Štitáre-Žibrica v rokoch 2002 a 2003 bolo podľa Dr. Rajtárovej zistiť celkové časové rozpätie osídlenia a taktiež získať poznatky o stratigrafii kultúrnych vrstiev. Výskum sa realizoval na jednej z najrozsiahlejších terás v severovýchodnej časti vnútorného areálu hradiska, kde sa dalo predpokladať intenzívne osídlenie. Na výskyt sídliskových objektov poukazovali aj výsledky geofyzikálneho prieskumu a sondážnych vrtov. Zo skúmaných kultúrnych vrstiev I a II sa získal veľký počet črepov predovšetkým z neskorej doby bronzovej a včasnej doby železnej, ojedinele sa tu vyskytli aj črepy z doby laténskej, stredoveku a novoveku. Vo vrstvách sa vyskytovalo aj množstvo mazanice a zvieracích kostí i niekoľko uhlíkov. Pod kamenno-zemným násypom na okraji terasy sa našlo niekoľko črepov, ktoré možno predbežne priradiť čakanskej kultúre. ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "Ďalej Dr. Rajtárová uvádza, že hoci črepový materiál pochádza iba z kultúrnych vrstiev, poskytuje dôležité informácie o kultúrnom a časovom zaradení tohto náleziská. Keramika je veľmi výrazná, obsahuje veľký počet zdobených črepov a tiež fragmenty rôznych charakteristických typov nádob. Získaný súbor nám poskytol prvé významné poznatky o ťažisku osídlenia na hradisku lužickej kultúry, ktoré spadá nielen do neskorej doby bronzovej, ale aj do staršej doby halštatskej. Osídlenie hradísk v tríbečskom pohorí aj v dobe halštatskej sa síce predpokladalo už dávnejšie, ale výraznejší nálezový materiál ako zo Žibrice doteraz chýbal. Porovnateľné tvary keramiky ako aj výzdobné motívy sú známe aj z neďalekých sídlisk z rovnakého obdobia, situovaných na svahoch alebo v nížinách, napr. v Štitároch-Panskej hore, alebo v Novej Vsi nad Žitavou. Paralely k amforám s tuhovým povrchom a charakteristickou výzdobou z viacnásobných vodorovných, zvislých alebo oblúkovitých žliabkov ako zo Žibrice pochádzajú aj z početných pohrebísk lužickej kultúry z mladšej a neskorej doby popolnicových polí, napr. z Partizánskeho alebo z Andača. Tvary a výzdoba keramiky doby halštatskej zo Žibrice majú paralely predovšetkým na lokalitách severovýchodohalštatskej kultúry.",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YesOcpSeG-AmOViXVykvrxkmxFKh16TrIKtq6X9Zb98A-AwQ3kjPOXKnAOqTN_t-WiSeeZgE7HpCOUO7XdhJTP28bdFVL4Afr2DO8Mij5k2TGiWvJ-IqWo68AZ_twt6z-2krRPbj0MY/s0/pla%CC%81n+rajta%CC%81rova.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YesOcpSeG-AmOViXVykvrxkmxFKh16TrIKtq6X9Zb98A-AwQ3kjPOXKnAOqTN_t-WiSeeZgE7HpCOUO7XdhJTP28bdFVL4Afr2DO8Mij5k2TGiWvJ-IqWo68AZ_twt6z-2krRPbj0MY/s1600/pla%CC%81n+rajta%CC%81rova.jpg",
+          "filename": "plán+rajtárova.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YesOcpSeG-AmOViXVykvrxkmxFKh16TrIKtq6X9Zb98A-AwQ3kjPOXKnAOqTN_t-WiSeeZgE7HpCOUO7XdhJTP28bdFVL4Afr2DO8Mij5k2TGiWvJ-IqWo68AZ_twt6z-2krRPbj0MY/s1600/pla%CC%81n+rajta%CC%81rova.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 235,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Žibrica",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Orgoň"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Foto: Anna Halčinová",
+            "url": null
+          },
+          {
+            "text": "Žibrica od Kvetky M:",
+            "url": null
+          },
+          {
+            "text": "Použitá a citovaná literatúra:",
+            "url": null
+          },
+          {
+            "text": "1. STEGMANN-RAJTÁR, S.: Die slowakisch-deutschen Ausgrabungen auf der befestigten Höhensiedlung Štitáre-Žibrica (Kr. Nitra). In: popelnicová pole a doba halštatská. Příspěvky z VIII. konference. České Budejovice 22.-24.9.2004. Archeologické výzkumy v jižních Čechách – Supplementum 1. České Budejovice 2004, 503-522.",
+            "url": null
+          },
+          {
+            "text": "2. Susanne Stegmann-Rajtár: SONDÁŽNY VÝSKUM NA HRADISKU ŽIBRICA, AVANS 2002",
+            "url": null
+          },
+          {
+            "text": "3. STEGMANN-RAJTÁR, S.: Bronzové hroty šípov z doby halštatskej z hradiska Žibrica.",
+            "url": null
+          },
+          {
+            "text": "Štúdijné zvesti AÚSAV 35, 2002, 45-52.",
+            "url": null
+          },
+          {
+            "text": "4. Štefan Janšák: Slovenské hradiská z doby hallštatskej, in: Sborník Muzeálnej Slovenskej spoločnosti XXIII, 1929, zošit 1-2",
+            "url": null
+          },
+          {
+            "text": "5. Štefan Janšák: K problematike predhistorických hradísk na Slovensku, Študijné zvesti Archeologického ústavu Slovenskej akadémie vied 13 (1964), s. 19-20 13",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Foto: Anna Halčinová"
+      },
+      {
+        "type": "book",
+        "text": "Žibrica od Kvetky M:"
+      },
+      {
+        "type": "book",
+        "text": "Použitá a citovaná literatúra:"
+      },
+      {
+        "type": "book",
+        "text": "1. STEGMANN-RAJTÁR, S.: Die slowakisch-deutschen Ausgrabungen auf der befestigten Höhensiedlung Štitáre-Žibrica (Kr. Nitra). In: popelnicová pole a doba halštatská. Příspěvky z VIII. konference. České Budejovice 22.-24.9.2004. Archeologické výzkumy v jižních Čechách – Supplementum 1. České Budejovice 2004, 503-522."
+      },
+      {
+        "type": "book",
+        "text": "2. Susanne Stegmann-Rajtár: SONDÁŽNY VÝSKUM NA HRADISKU ŽIBRICA, AVANS 2002"
+      },
+      {
+        "type": "book",
+        "text": "3. STEGMANN-RAJTÁR, S.: Bronzové hroty šípov z doby halštatskej z hradiska Žibrica."
+      },
+      {
+        "type": "book",
+        "text": "Štúdijné zvesti AÚSAV 35, 2002, 45-52."
+      },
+      {
+        "type": "book",
+        "text": "4. Štefan Janšák: Slovenské hradiská z doby hallštatskej, in: Sborník Muzeálnej Slovenskej spoločnosti XXIII, 1929, zošit 1-2"
+      },
+      {
+        "type": "book",
+        "text": "5. Štefan Janšák: K problematike predhistorických hradísk na Slovensku, Študijné zvesti Archeologického ústavu Slovenskej akadémie vied 13 (1964), s. 19-20 13"
+      }
+    ]
+  }
+}

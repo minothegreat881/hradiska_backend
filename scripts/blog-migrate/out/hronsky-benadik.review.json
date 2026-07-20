@@ -1,0 +1,12 @@
+{
+  "slug": "hronsky-benadik",
+  "note": "FLAG-only nálezy z grammar-sk pass1+pass2, nevyriešené, čakajú na rozhodnutie používateľa.",
+  "flags": [
+    {
+      "location": "blogPost.blocks[15] (Hoci patrocínium kaplnky sa zmenilo...), blocks[18] (Prasleny a železné nožíky boli donedávna...), blocks[19] (ako to donedávna tvrdili niektorí maďarskí historici)",
+      "issue": "RELATIVE_DATE — slovo 'donedávna' použité 3× v článku odkazuje na čas relatívny k dátumu písania (2011), nie na pevný dátum. Je to presne referenčný príklad tejto kategórie v §21.5 dokumentácie ('donedávna — zastará').",
+      "action_taken": "Text ponechaný nezmenený vo všetkých 3 výskytoch — agent nemá dosť informácií na to, aby vedel, aký konkrétny časový údaj (rok/dekáda) by mal 'donedávna' nahradiť.",
+      "decision_needed": "Nahradiť konkrétnym rokom/obdobím (napr. 'do 90. rokov 20. storočia') tam, kde je to zistiteľné, alebo ponechať ako je (článok je datovaný, čitateľ môže interpretovať 'donedávna' vzhľadom na rok publikácie 2011)?"
+    }
+  ]
+}

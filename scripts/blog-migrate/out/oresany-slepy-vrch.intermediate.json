@@ -1,0 +1,772 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-oresany-slepy-vrch.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-4437050942087643808",
+    "bloggerPostUrl": "http://www.hradiska.sk/2012/04/oresany-slepy-vrch.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/4437050942087643808/comments/default",
+    "extractedAt": "2026-07-15T22:21:03.735Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&hq=&hnear=Modra,+Slovensko&t=h&ll=48.457889,17.412879&spn=0.00249,0.00456&z=17&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 7,
+      "captionedImages": 12,
+      "separatorImages": 3
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Orešany - Slepý Vrch",
+    "slug": "oresany-slepy-vrch",
+    "excerpt": "Keltské hradisko zo staršej doby laténskej s názvom Slepý Vrch s nadmorskou výškou 544 m n. m. leží na jednom z vrchov bočného hrebeňa, vybiehajúceho smerom na severo-severovýchod z hlavného masívu Malých Karpát, medzi údolím horného toku Parnej na…",
+    "authorName": "Orgon",
+    "publishedAt": "2012-04-10T20:15:00.004+02:00",
+    "originalPublishedDate": "2012-04-10T20:15:00.004+02:00",
+    "updatedAt": "2020-06-30T07:23:28.552+02:00",
+    "readingTime": 6,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHvEAVb6S4wgvanwhmHP8_aoFIzY6lN4KplnZzgVZisHhsaZIyGZco4RfPZLVrvlkv8xO_tj_OXyPwuGecj8bhUxMzUlab2TziF4nxjUzKoU5ZCBS-lqQBSHysWFmDsIh4mRyh2r5udU/s0/Pla%CC%81n+hradiska+Ores%CC%8Cany.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHvEAVb6S4wgvanwhmHP8_aoFIzY6lN4KplnZzgVZisHhsaZIyGZco4RfPZLVrvlkv8xO_tj_OXyPwuGecj8bhUxMzUlab2TziF4nxjUzKoU5ZCBS-lqQBSHysWFmDsIh4mRyh2r5udU/s1600/Pla%CC%81n+hradiska+Ores%CC%8Cany.jpg",
+      "filename": "Plán+hradiska+Orešany.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHvEAVb6S4wgvanwhmHP8_aoFIzY6lN4KplnZzgVZisHhsaZIyGZco4RfPZLVrvlkv8xO_tj_OXyPwuGecj8bhUxMzUlab2TziF4nxjUzKoU5ZCBS-lqQBSHysWFmDsIh4mRyh2r5udU/s1600/Pla%CC%81n+hradiska+Ores%CC%8Cany.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 186,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHvEAVb6S4wgvanwhmHP8_aoFIzY6lN4KplnZzgVZisHhsaZIyGZco4RfPZLVrvlkv8xO_tj_OXyPwuGecj8bhUxMzUlab2TziF4nxjUzKoU5ZCBS-lqQBSHysWFmDsIh4mRyh2r5udU/s0/Pla%CC%81n+hradiska+Ores%CC%8Cany.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHvEAVb6S4wgvanwhmHP8_aoFIzY6lN4KplnZzgVZisHhsaZIyGZco4RfPZLVrvlkv8xO_tj_OXyPwuGecj8bhUxMzUlab2TziF4nxjUzKoU5ZCBS-lqQBSHysWFmDsIh4mRyh2r5udU/s1600/Pla%CC%81n+hradiska+Ores%CC%8Cany.jpg",
+        "filename": "Plán+hradiska+Orešany.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHvEAVb6S4wgvanwhmHP8_aoFIzY6lN4KplnZzgVZisHhsaZIyGZco4RfPZLVrvlkv8xO_tj_OXyPwuGecj8bhUxMzUlab2TziF4nxjUzKoU5ZCBS-lqQBSHysWFmDsIh4mRyh2r5udU/s1600/Pla%CC%81n+hradiska+Ores%CC%8Cany.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 186,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0I-ELcnBQhZbdIcm0XPylShmKBVxnxr61RFanUzZ4yRjgoCE02tAlZcPr66BxK7QSYFSwIxhh_mztvs0sI_h_2sJ6fvmyxhpDBPV6Yg5AozHkSMDXqPebqwt7yuCR5G1twrookNZGsYQ6/s0/Sekerka+z+Tumovej+zbierky2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0I-ELcnBQhZbdIcm0XPylShmKBVxnxr61RFanUzZ4yRjgoCE02tAlZcPr66BxK7QSYFSwIxhh_mztvs0sI_h_2sJ6fvmyxhpDBPV6Yg5AozHkSMDXqPebqwt7yuCR5G1twrookNZGsYQ6/s1600/Sekerka+z+Tumovej+zbierky2.jpg",
+        "filename": "Sekerka+z+Tumovej+zbierky2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0I-ELcnBQhZbdIcm0XPylShmKBVxnxr61RFanUzZ4yRjgoCE02tAlZcPr66BxK7QSYFSwIxhh_mztvs0sI_h_2sJ6fvmyxhpDBPV6Yg5AozHkSMDXqPebqwt7yuCR5G1twrookNZGsYQ6/s1600/Sekerka+z+Tumovej+zbierky2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 124,
+          "originalWidth": 799,
+          "originalHeight": 310
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh-uOSBV-2Zx4F4DS9hFgJz4j8zBZfFBiFfIQoOrx4R7nOp8gsYXD-wiB5HQam8nhXfykORdvpfoG5M8ZiQSYI_SzvbRi5lX3b7G-IOVeM3v-ccH3G8GT7MG9vUhjDXzsD1drL-zh8ZAg/s0/Ores%CC%8Cany+na%CC%81lezy.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh-uOSBV-2Zx4F4DS9hFgJz4j8zBZfFBiFfIQoOrx4R7nOp8gsYXD-wiB5HQam8nhXfykORdvpfoG5M8ZiQSYI_SzvbRi5lX3b7G-IOVeM3v-ccH3G8GT7MG9vUhjDXzsD1drL-zh8ZAg/s1600/Ores%CC%8Cany+na%CC%81lezy.jpg",
+        "filename": "Orešany+nálezy.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh-uOSBV-2Zx4F4DS9hFgJz4j8zBZfFBiFfIQoOrx4R7nOp8gsYXD-wiB5HQam8nhXfykORdvpfoG5M8ZiQSYI_SzvbRi5lX3b7G-IOVeM3v-ccH3G8GT7MG9vUhjDXzsD1drL-zh8ZAg/s1600/Ores%CC%8Cany+na%CC%81lezy.jpg",
+          "displayedWidth": 238,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52qq8Z7bOavddcAEmtjOVey3bBsUwlLDJj7kvW1SW0Q2RekEr4H3p8V86um4hmRbvpo3d9O7Sd11BDchOhl01O9hJcvtwD_WsidPVrCqYZ-hv7r7CU7C1Qc21jWApzcaywsxUZHP05cY/s0/brooch-1-goood.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52qq8Z7bOavddcAEmtjOVey3bBsUwlLDJj7kvW1SW0Q2RekEr4H3p8V86um4hmRbvpo3d9O7Sd11BDchOhl01O9hJcvtwD_WsidPVrCqYZ-hv7r7CU7C1Qc21jWApzcaywsxUZHP05cY/s1600/brooch-1-goood.jpg",
+        "filename": "brooch-1-goood.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52qq8Z7bOavddcAEmtjOVey3bBsUwlLDJj7kvW1SW0Q2RekEr4H3p8V86um4hmRbvpo3d9O7Sd11BDchOhl01O9hJcvtwD_WsidPVrCqYZ-hv7r7CU7C1Qc21jWApzcaywsxUZHP05cY/s1600/brooch-1-goood.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiquAgNDWJpoIbtrTdu-cxFrN4slqLP2-kd-LcLJulR0dXdry97j1lmCrbD1xlCAa58b9Dk57BhjzwHZdS7FRf0ULqTqK0CTCNVfszQ8mZhp57N50UmhQtOMAkag2jQk2x-RuVRchN-bZc/s0/brooch-2-goood.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiquAgNDWJpoIbtrTdu-cxFrN4slqLP2-kd-LcLJulR0dXdry97j1lmCrbD1xlCAa58b9Dk57BhjzwHZdS7FRf0ULqTqK0CTCNVfszQ8mZhp57N50UmhQtOMAkag2jQk2x-RuVRchN-bZc/s1600/brooch-2-goood.jpg",
+        "filename": "brooch-2-goood.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiquAgNDWJpoIbtrTdu-cxFrN4slqLP2-kd-LcLJulR0dXdry97j1lmCrbD1xlCAa58b9Dk57BhjzwHZdS7FRf0ULqTqK0CTCNVfszQ8mZhp57N50UmhQtOMAkag2jQk2x-RuVRchN-bZc/s1600/brooch-2-goood.jpg",
+          "displayedWidth": 151,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1o3_JPDvueLp6-4kUTyek6TaUDC0wvf1csZ2SC1PPDvQbKu6xiiaWmRlj7BcBsLa17-OZH_QJnY8JrCM1ZibkQnXkPEbf7PCLdK7777lAyDAmFMeQkCvIPSExm0LBX-4254g37AVB4sJ/s0/Spony+Pieta+2014.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1o3_JPDvueLp6-4kUTyek6TaUDC0wvf1csZ2SC1PPDvQbKu6xiiaWmRlj7BcBsLa17-OZH_QJnY8JrCM1ZibkQnXkPEbf7PCLdK7777lAyDAmFMeQkCvIPSExm0LBX-4254g37AVB4sJ/s1600/Spony+Pieta+2014.jpg",
+        "filename": "Spony+Pieta+2014.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1o3_JPDvueLp6-4kUTyek6TaUDC0wvf1csZ2SC1PPDvQbKu6xiiaWmRlj7BcBsLa17-OZH_QJnY8JrCM1ZibkQnXkPEbf7PCLdK7777lAyDAmFMeQkCvIPSExm0LBX-4254g37AVB4sJ/s1600/Spony+Pieta+2014.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 172,
+          "originalWidth": 891,
+          "originalHeight": 480
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsSIKxmupPHMhmdLKLGhe6MGDqViRYPms4T68xHJk3I-uu1xxPIYxxl4dHlH9KDcffAftEu61BOrN-5gJL6OXMjaG0dAbzI25SYO90ovBn7LJdVrbhbzue56IH6iwbJDLISc7i2YzsTGk/s0/balkancelts-files-wordpress-com-2015-01-hornc3a9-orec5a1any-2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsSIKxmupPHMhmdLKLGhe6MGDqViRYPms4T68xHJk3I-uu1xxPIYxxl4dHlH9KDcffAftEu61BOrN-5gJL6OXMjaG0dAbzI25SYO90ovBn7LJdVrbhbzue56IH6iwbJDLISc7i2YzsTGk/s1600/balkancelts-files-wordpress-com-2015-01-hornc3a9-orec5a1any-2.jpg",
+        "filename": "balkancelts-files-wordpress-com-2015-01-hornc3a9-orec5a1any-2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsSIKxmupPHMhmdLKLGhe6MGDqViRYPms4T68xHJk3I-uu1xxPIYxxl4dHlH9KDcffAftEu61BOrN-5gJL6OXMjaG0dAbzI25SYO90ovBn7LJdVrbhbzue56IH6iwbJDLISc7i2YzsTGk/s1600/balkancelts-files-wordpress-com-2015-01-hornc3a9-orec5a1any-2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 281,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQH88cBij1ZOpcGMlnUEydqptKnTK0CGr4OniUrrSXB_O4AhP_pwQyyUKho4T1q6fDKJNDPuqSpoR0WCY2DEpgnKGZhdzTRixm9HNYZHBw9K8-Z8YeSNhkDPmB5MZj0oZuWSoUdpng2X0/s0/IMG_8779.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQH88cBij1ZOpcGMlnUEydqptKnTK0CGr4OniUrrSXB_O4AhP_pwQyyUKho4T1q6fDKJNDPuqSpoR0WCY2DEpgnKGZhdzTRixm9HNYZHBw9K8-Z8YeSNhkDPmB5MZj0oZuWSoUdpng2X0/s1600/IMG_8779.jpg",
+        "filename": "IMG_8779.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQH88cBij1ZOpcGMlnUEydqptKnTK0CGr4OniUrrSXB_O4AhP_pwQyyUKho4T1q6fDKJNDPuqSpoR0WCY2DEpgnKGZhdzTRixm9HNYZHBw9K8-Z8YeSNhkDPmB5MZj0oZuWSoUdpng2X0/s1600/IMG_8779.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRH83z7NIsAww6_bHKgYpk8tHILXgWuufGmXaUVlm2sP6tyIY_3K1yrnBXln-Nd0mldaoDhFFB1hZjl0fa0ZoU1CFCRfz5hM_6MXZ4bwjo_4mpsFRIMaspT_OHiBj9TsfVIG8N089AXSI/s0/IMG_8773.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRH83z7NIsAww6_bHKgYpk8tHILXgWuufGmXaUVlm2sP6tyIY_3K1yrnBXln-Nd0mldaoDhFFB1hZjl0fa0ZoU1CFCRfz5hM_6MXZ4bwjo_4mpsFRIMaspT_OHiBj9TsfVIG8N089AXSI/s1600/IMG_8773.jpg",
+        "filename": "IMG_8773.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRH83z7NIsAww6_bHKgYpk8tHILXgWuufGmXaUVlm2sP6tyIY_3K1yrnBXln-Nd0mldaoDhFFB1hZjl0fa0ZoU1CFCRfz5hM_6MXZ4bwjo_4mpsFRIMaspT_OHiBj9TsfVIG8N089AXSI/s1600/IMG_8773.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zbxHX-W-cEm-3Oa-2GBXY139_xvcuGEecQPmI_CwOPWiW_Vh3qZnrCv3d1SqEr2To_57e1fdCWvrfqN9l0xXu-e_8dhAccUsMQjqCmfHCLqrslJvHXiTl7pVniQ92EhdiOHU6Lgyv-o/s0/IMG_8789.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zbxHX-W-cEm-3Oa-2GBXY139_xvcuGEecQPmI_CwOPWiW_Vh3qZnrCv3d1SqEr2To_57e1fdCWvrfqN9l0xXu-e_8dhAccUsMQjqCmfHCLqrslJvHXiTl7pVniQ92EhdiOHU6Lgyv-o/s1600/IMG_8789.jpg",
+        "filename": "IMG_8789.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8zbxHX-W-cEm-3Oa-2GBXY139_xvcuGEecQPmI_CwOPWiW_Vh3qZnrCv3d1SqEr2To_57e1fdCWvrfqN9l0xXu-e_8dhAccUsMQjqCmfHCLqrslJvHXiTl7pVniQ92EhdiOHU6Lgyv-o/s1600/IMG_8789.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDCrJkLdpmsBvmlCcDmjkbo9Cn-iEzPVEJK8VGnV5wkNveVZqdeqnnkh4ocBINwVaeDe5rBv-HHN1Hg6jWqX7k8xzsDwO7fabGDPpcesyqTdoJGVUaXku0_cyBKXh1nTrXYJm1BmYrDGM/s0/IMG_8801.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDCrJkLdpmsBvmlCcDmjkbo9Cn-iEzPVEJK8VGnV5wkNveVZqdeqnnkh4ocBINwVaeDe5rBv-HHN1Hg6jWqX7k8xzsDwO7fabGDPpcesyqTdoJGVUaXku0_cyBKXh1nTrXYJm1BmYrDGM/s1600/IMG_8801.jpg",
+        "filename": "IMG_8801.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDCrJkLdpmsBvmlCcDmjkbo9Cn-iEzPVEJK8VGnV5wkNveVZqdeqnnkh4ocBINwVaeDe5rBv-HHN1Hg6jWqX7k8xzsDwO7fabGDPpcesyqTdoJGVUaXku0_cyBKXh1nTrXYJm1BmYrDGM/s1600/IMG_8801.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmytU4no_GhG_pAnigCXn9CoabVi6StFNjwwlJ9AxlWRGfIuCkd8UbGqecKEm8sNXxDiXzotEXSshgiUwY73UpAUKm4X9lfDpurzPw3oXsGgnXF2OYjc1bvZWssThCpcUdQX1L5d-6so/s0/IMG_8804.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmytU4no_GhG_pAnigCXn9CoabVi6StFNjwwlJ9AxlWRGfIuCkd8UbGqecKEm8sNXxDiXzotEXSshgiUwY73UpAUKm4X9lfDpurzPw3oXsGgnXF2OYjc1bvZWssThCpcUdQX1L5d-6so/s1600/IMG_8804.jpg",
+        "filename": "IMG_8804.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmytU4no_GhG_pAnigCXn9CoabVi6StFNjwwlJ9AxlWRGfIuCkd8UbGqecKEm8sNXxDiXzotEXSshgiUwY73UpAUKm4X9lfDpurzPw3oXsGgnXF2OYjc1bvZWssThCpcUdQX1L5d-6so/s1600/IMG_8804.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZo6Po5jZmb75WoanwRI-nErDAgpx_PfCqNLT1qA6TwOkTfyfcMHPu-h6KnGAz4QPlE7JMOUKPKlsRD5rRGIZe3Ukpx4WQUfxUQglZat9_6oV1V_jJwx2G9sh1r43ShOJbc0n1TYU_iOw/s0/IMG_8824.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZo6Po5jZmb75WoanwRI-nErDAgpx_PfCqNLT1qA6TwOkTfyfcMHPu-h6KnGAz4QPlE7JMOUKPKlsRD5rRGIZe3Ukpx4WQUfxUQglZat9_6oV1V_jJwx2G9sh1r43ShOJbc0n1TYU_iOw/s1600/IMG_8824.jpg",
+        "filename": "IMG_8824.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZo6Po5jZmb75WoanwRI-nErDAgpx_PfCqNLT1qA6TwOkTfyfcMHPu-h6KnGAz4QPlE7JMOUKPKlsRD5rRGIZe3Ukpx4WQUfxUQglZat9_6oV1V_jJwx2G9sh1r43ShOJbc0n1TYU_iOw/s1600/IMG_8824.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtzoSANnKTCgL1DJ6EhRexMYf7heHzvke8blIjNdbbECOC3OR9LlvyYsqZK6lSPPO6YRIadAYyrNx0FzZFKrnHG8QP9vG5pHGRHeeKcQToU5_EQMP8J5rn0lbpwaHVxgZIx45z8HyJcgI/s0/IMG_8829.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtzoSANnKTCgL1DJ6EhRexMYf7heHzvke8blIjNdbbECOC3OR9LlvyYsqZK6lSPPO6YRIadAYyrNx0FzZFKrnHG8QP9vG5pHGRHeeKcQToU5_EQMP8J5rn0lbpwaHVxgZIx45z8HyJcgI/s1600/IMG_8829.jpg",
+        "filename": "IMG_8829.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtzoSANnKTCgL1DJ6EhRexMYf7heHzvke8blIjNdbbECOC3OR9LlvyYsqZK6lSPPO6YRIadAYyrNx0FzZFKrnHG8QP9vG5pHGRHeeKcQToU5_EQMP8J5rn0lbpwaHVxgZIx45z8HyJcgI/s1600/IMG_8829.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizxTGvdbQ_SWepmZGgvtMzOOrVSqaGu9NMrKiKPXgM4DJJ8Hh_uV_on2KKtMJKv3ruTpf9bI2mQotTJcoryTp0_6NNQid5Rudu0NO_0oRi9GLNkPMPXHa5f2LmoyTu9InuNrcfNcAz0jE/s0/IMG_8881.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizxTGvdbQ_SWepmZGgvtMzOOrVSqaGu9NMrKiKPXgM4DJJ8Hh_uV_on2KKtMJKv3ruTpf9bI2mQotTJcoryTp0_6NNQid5Rudu0NO_0oRi9GLNkPMPXHa5f2LmoyTu9InuNrcfNcAz0jE/s1600/IMG_8881.jpg",
+        "filename": "IMG_8881.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizxTGvdbQ_SWepmZGgvtMzOOrVSqaGu9NMrKiKPXgM4DJJ8Hh_uV_on2KKtMJKv3ruTpf9bI2mQotTJcoryTp0_6NNQid5Rudu0NO_0oRi9GLNkPMPXHa5f2LmoyTu9InuNrcfNcAz0jE/s1600/IMG_8881.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4uPycGlRfZaCYmRch6ZPcLB_y_dvt2ESrjKhkscgaev3GZFjdsF5gRB1hyF9XKFq29J-sNH6kUobp3mZaf2vT5Namwhue2Mxap2cIxafW7TnYjwvrKLdhBtXWBCo5xuM-mCStiJbwT0o/s0/IMG_8882.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4uPycGlRfZaCYmRch6ZPcLB_y_dvt2ESrjKhkscgaev3GZFjdsF5gRB1hyF9XKFq29J-sNH6kUobp3mZaf2vT5Namwhue2Mxap2cIxafW7TnYjwvrKLdhBtXWBCo5xuM-mCStiJbwT0o/s1600/IMG_8882.jpg",
+        "filename": "IMG_8882.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4uPycGlRfZaCYmRch6ZPcLB_y_dvt2ESrjKhkscgaev3GZFjdsF5gRB1hyF9XKFq29J-sNH6kUobp3mZaf2vT5Namwhue2Mxap2cIxafW7TnYjwvrKLdhBtXWBCo5xuM-mCStiJbwT0o/s1600/IMG_8882.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgndrudPXiVo7QBuZoEbnu-hTxvn32sZgbJCUd0ujxuqPqx7V3enCc-sDgh7khLRAkewW3faDQkYjjijWdww45KkwUWZcBJ1vsGASkNan1R1FiQLTxLnj6yy5_eBgJXBcvkbQ8GpYI4oSA/s0/IMG_8889.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgndrudPXiVo7QBuZoEbnu-hTxvn32sZgbJCUd0ujxuqPqx7V3enCc-sDgh7khLRAkewW3faDQkYjjijWdww45KkwUWZcBJ1vsGASkNan1R1FiQLTxLnj6yy5_eBgJXBcvkbQ8GpYI4oSA/s1600/IMG_8889.jpg",
+        "filename": "IMG_8889.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgndrudPXiVo7QBuZoEbnu-hTxvn32sZgbJCUd0ujxuqPqx7V3enCc-sDgh7khLRAkewW3faDQkYjjijWdww45KkwUWZcBJ1vsGASkNan1R1FiQLTxLnj6yy5_eBgJXBcvkbQ8GpYI4oSA/s1600/IMG_8889.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn2CC5SQAKpW815L7ovnDMl3E9VQja4gwogYuAmnVyay-GP-yeh7R8vz7vRA-PTIQc-t0qQKgnK1qezmS74S3C5I9acM8gTN0o9k8tdu_l94C67jQBi5QdnCelqlN3CKU7AXTtvOh8_c/s0/Cesta+na+hradisko.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn2CC5SQAKpW815L7ovnDMl3E9VQja4gwogYuAmnVyay-GP-yeh7R8vz7vRA-PTIQc-t0qQKgnK1qezmS74S3C5I9acM8gTN0o9k8tdu_l94C67jQBi5QdnCelqlN3CKU7AXTtvOh8_c/s1600/Cesta+na+hradisko.jpg",
+        "filename": "Cesta+na+hradisko.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn2CC5SQAKpW815L7ovnDMl3E9VQja4gwogYuAmnVyay-GP-yeh7R8vz7vRA-PTIQc-t0qQKgnK1qezmS74S3C5I9acM8gTN0o9k8tdu_l94C67jQBi5QdnCelqlN3CKU7AXTtvOh8_c/s1600/Cesta+na+hradisko.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 177,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Toto je asi najrýchlejšia cesta na hradisko. Ten začiatok nieje podstatný, zaujímavé je to od miesta kde je okraj lesa. Inak svahy hradiska sú dosť prudké, vyšli sme aj inou cestou - krížom cez vrstevnice, ale bolo to veľmi namáhavé.Ďalšou možnosťou je ísť po ceste od Majdanu, z opačnej strany kopca."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXKEqggYQVfMAtqCWxgRibi4fFIzjIJxVVp_kK5riLxuVMXhPC1D_HaHAyvF0DfDqmWTTkWvPhyVNFER3-vPm-brsYv8oJtR7ApnYDM5pp633CylFRbcUpwOK8VOfGmyZpRGEwA31YYd8/s0/IMG_7057+upr.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXKEqggYQVfMAtqCWxgRibi4fFIzjIJxVVp_kK5riLxuVMXhPC1D_HaHAyvF0DfDqmWTTkWvPhyVNFER3-vPm-brsYv8oJtR7ApnYDM5pp633CylFRbcUpwOK8VOfGmyZpRGEwA31YYd8/s1600/IMG_7057+upr.jpg",
+        "filename": "IMG_7057+upr.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXKEqggYQVfMAtqCWxgRibi4fFIzjIJxVVp_kK5riLxuVMXhPC1D_HaHAyvF0DfDqmWTTkWvPhyVNFER3-vPm-brsYv8oJtR7ApnYDM5pp633CylFRbcUpwOK8VOfGmyZpRGEwA31YYd8/s1600/IMG_7057+upr.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Na tomto mieste musíte odbočiť z hlavnej lesnej cesty na úzky chodníček. Ten Vás privedie pohodlne až na vrchol hradiska."
+      }
+    ],
+    "tags": [
+      "Orešany - Slepý Vrch"
+    ],
+    "category": null,
+    "location": {
+      "name": "Orešany - Slepý Vrch",
+      "latitude": 48.457889,
+      "longitude": 17.412879,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Nadmorská výška",
+        "value": "544 m n. m.",
+        "icon": "mountain"
+      },
+      {
+        "label": "Rozloha",
+        "value": "na dvoch hektároch, hradisko s dvoma pásmi opevnenia",
+        "icon": "map"
+      },
+      {
+        "label": "Hospodárska činnosť",
+        "value": "ťažba železnej rudy, kováčske a hutnícke dielne, výroba šperkov",
+        "icon": "building"
+      },
+      {
+        "label": "Doklady násilného zániku",
+        "value": "množstvo zbraní (kopije, oštepy, šípy, meče), skládka ľudských a zvieracích kostí",
+        "icon": "sword"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "5. storočie pred n. l.",
+        "title": "Vznik keltského hradiska",
+        "description": "Hradisko pochádza z 5. storočia pred naším letopočtom, teda z počiatku mladšej doby železnej — dokladá, že Kelti naše územie osídľovali skôr, než sa doteraz predpokladalo.",
+        "type": "founding"
+      },
+      {
+        "year": "1999",
+        "title": "„Objavenie“ hľadačmi pokladov",
+        "description": "Systematické vykrádanie hradiska podľa zistení začalo „objavením“ hľadačmi.",
+        "type": "event"
+      },
+      {
+        "year": "2002",
+        "title": "Prvá obhliadka náleziska",
+        "description": "Prvé informácie o lokalite sa objavili, keď na nálezisku vykonal obhliadku Z. Farkaš.",
+        "type": "discovery"
+      },
+      {
+        "year": "2007",
+        "title": "Informatívna publikácia výsledkov",
+        "description": "Prvé výsledky boli informatívne publikované (Pieta 2007).",
+        "type": "discovery"
+      },
+      {
+        "year": "2008",
+        "title": "Zisťovací výskum",
+        "description": "V rámci projektu Záchrana archeologického kultúrneho dedičstva sa realizoval zisťovací výskum zameraný na rozsah poškodenia sídliskových vrstiev a spôsob opevnenia hradiska.",
+        "type": "discovery"
+      },
+      {
+        "year": "2011",
+        "title": "Analýza osteologického materiálu",
+        "description": "Podľa prvých analýz (Miklíková/Jakab 2011) je medzi zvieracími kosťami v depóniách zastúpený najmä tur domáci a ovca/koza, menej kôň a sviňa.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Keltské hradisko zo staršej doby laténskej s názvom Slepý Vrch s nadmorskou výškou 544 m n. m. leží na jednom z vrchov bočného hrebeňa, vybiehajúceho smerom na severo-severovýchod z hlavného masívu Malých Karpát, medzi údolím horného toku Parnej na západe a chotármi obcí Dolné a Horné Orešany na východe. Jadro vrchu je z kremencov a ílovitých bridlíc, ktoré sa viažu na líniu piesčitých a škvrnitých vápencov. Na východnom svahu v jeho spodnej časti je aj horizont fylitov a bridlíc zo staršieho paleozoika. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko pochádza z 5. storočia pred naším letopočtom, teda z počiatku mladšej doby železnej. Doteraz sa predpokladalo, že Kelti naše územie masovo osídľovali až neskôr. Karol Pieta k hradisku uviedol, že „Na Slepom vrchu zrejme ťažili železnú rudu. Na dvoch hektároch tu bolo hradisko s dvoma pásmi opevnenia“."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prvé informácie o lokalite sa objavili v roku 2002, keď na nálezisku vykonal obhliadku Z. Farkaš. V rámci projektu Záchrana a ochrana archeologických nálezísk ako súčasť európskeho kultúrneho dedičstva sa uskutočnila dokumentácia spolu so zameraním terénu a zhromaždili sa údaje o lokalite, ako aj dostupné materiály z nej. Vnútorná plocha hradiska i terasovité sídliská pod valmi sú v súčasnosti veľmi silne porušené systematickým vykrádaním, ktoré podľa našich zistení začalo „objavením“ hradiska hľadačmi v roku 1999 a vyvrcholilo v ostatných rokoch. Okrem zamerania opevnenia a miest významných nálezov (depoty, koncentrácie artefaktov) sa na vybraných miestach urobila sondáž, ktorej cieľom bolo zistiť stav a charakter sídliskových vrstiev. Potvrdilo sa, že celá vnútorná plocha, ako aj západné a južné svahy pod valom boli intenzívne prehľadávané, o čom svedčia stovky jamiek po výkopoch. Sú zároveň dokladom toho, ako bohaté bolo toto hradisko na kovové nálezy pred vykradnutím. To ostatne potvrdzuje aj rozsiahla kolekcia predmetov, ktorú sa podarilo zhromaždiť. Prvé výsledky boli informatívne publikované (Pieta 2007). "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V rámci projektu Záchrana archeologického kultúrneho dedičstva, podporovaného Vládou SR, sa v roku 2008 realizoval na nálezisku zisťovací výskum. Jeho cieľom bolo zistiť rozsah poškodenia najmä spodných sídliskových vrstiev a ich stratigrafiu, a tiež overiť spôsob opevnenia hradiska. Terénny výskum bol limitovaný obmedzeným počtom pracovných síl a komplikovanou dostupnosťou lokality. Pred výskumom sa lokalita a vytýčené plochy geodeticky zamerali. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHvEAVb6S4wgvanwhmHP8_aoFIzY6lN4KplnZzgVZisHhsaZIyGZco4RfPZLVrvlkv8xO_tj_OXyPwuGecj8bhUxMzUlab2TziF4nxjUzKoU5ZCBS-lqQBSHysWFmDsIh4mRyh2r5udU/s0/Pla%CC%81n+hradiska+Ores%CC%8Cany.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHvEAVb6S4wgvanwhmHP8_aoFIzY6lN4KplnZzgVZisHhsaZIyGZco4RfPZLVrvlkv8xO_tj_OXyPwuGecj8bhUxMzUlab2TziF4nxjUzKoU5ZCBS-lqQBSHysWFmDsIh4mRyh2r5udU/s1600/Pla%CC%81n+hradiska+Ores%CC%8Cany.jpg",
+          "filename": "Plán+hradiska+Orešany.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHvEAVb6S4wgvanwhmHP8_aoFIzY6lN4KplnZzgVZisHhsaZIyGZco4RfPZLVrvlkv8xO_tj_OXyPwuGecj8bhUxMzUlab2TziF4nxjUzKoU5ZCBS-lqQBSHysWFmDsIh4mRyh2r5udU/s1600/Pla%CC%81n+hradiska+Ores%CC%8Cany.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 186,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Orešany - Slepý Vrch",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Osídlenie ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sondáž vo vnútornom areáli preskúmala len neveľké plochy na terasách pozdĺž opevnení. Preukázalo sa, že tieto plochy boli umelo vyrovnávané a vydláždené kameňmi. V sonde I na južnej strane hradiska sa na terase zistili aj fragmenty zuhoľnatených driev, ktoré sú azda pozostatkami nadzemnej stavby. V tejto časti hradiska sa nápadne koncentrovali aj hojné doklady kováčskej výroby - železná troska, polotovary, početné nástroje a železné výrobky, avšak sídlisková vrstva bola sčasti odplavená, premiešaná kameňmi a pomerne tenká. Silnejšiu vrstvu sme zistili popri severnom vnútornom vale, kde sa v povrchových častiach našli aj celkom ojedinelé stredolaténske črepy. Ani tu sa nepodarilo identifikovať stavebné zvyšky. Prakticky všetky keramické i kovové nálezy patria do včasnej doby laténskej. Nad upraveným podložím sa našli kumulácie pozoruhodných nálezov z tohto obdobia, ktoré sú ďalej opísané ako depónie. \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0I-ELcnBQhZbdIcm0XPylShmKBVxnxr61RFanUzZ4yRjgoCE02tAlZcPr66BxK7QSYFSwIxhh_mztvs0sI_h_2sJ6fvmyxhpDBPV6Yg5AozHkSMDXqPebqwt7yuCR5G1twrookNZGsYQ6/s0/Sekerka+z+Tumovej+zbierky2.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0I-ELcnBQhZbdIcm0XPylShmKBVxnxr61RFanUzZ4yRjgoCE02tAlZcPr66BxK7QSYFSwIxhh_mztvs0sI_h_2sJ6fvmyxhpDBPV6Yg5AozHkSMDXqPebqwt7yuCR5G1twrookNZGsYQ6/s1600/Sekerka+z+Tumovej+zbierky2.jpg",
+          "filename": "Sekerka+z+Tumovej+zbierky2.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0I-ELcnBQhZbdIcm0XPylShmKBVxnxr61RFanUzZ4yRjgoCE02tAlZcPr66BxK7QSYFSwIxhh_mztvs0sI_h_2sJ6fvmyxhpDBPV6Yg5AozHkSMDXqPebqwt7yuCR5G1twrookNZGsYQ6/s1600/Sekerka+z+Tumovej+zbierky2.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 124,
+            "originalWidth": 799,
+            "originalHeight": 310
+          }
+        },
+        "alt": "Orešany - Slepý Vrch",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nálezový inventár ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Počas výskumu sa zaevidovalo sto inventárnych čísel keramiky, 32 inventárnych čísel vzoriek, 575 kusov drobných nálezov a 14 vreciek osteologického materiálu. Z keramiky sa podarilo zrekonštruovať päť celých a viacero fragmentov nádob, ktoré výlučne pochádzajú zo skládok nálezov v sonde III. Medzi drobnými predmetmi jednoznačne prevláda drobný odpad z výroby, ďalej šidlá, nity, prevliečky, opaskové zápony a ich časti (23 kusov). Nápadný je počet hlinených praslenov (27 kusov), ktoré sa hojne objavujú aj na povrchu hradiska a množstvo týchto predmetov sa našlo aj v uplynulých rokoch. K vysokému počtu zbraní, doteraz nájdených na lokalite pribudli ďalšie kusy (hroty dvoch oštepov, dva šípy, zlomok pošvy meča). Rozšírili sa aj počty nájdených včasnolaténskych železných spôn. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Opevnenie ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zisťovací výskum na hradisku Slepý vrch v Horných Orešanoch v roku 2008 priniesol viacero nových zistení a poznatkov. Vonkajší val na južnej strane bol vybudovaný prevažne z hliny a kameňov a mal kamennú plentu. Odkrytie na terase popri vale potvrdilo jej umelú úpravu, na neveľkej ploche však nedokázalo zistiť stavebné objekty výrobného charakteru, ktoré tu na základe mimoriadneho množstva kovového odpadu predpokladáme. Val nevykazoval stopy požiaru, na druhej strane však sa na vnútornej terase zistili pozostatky zuhoľnatených driev. \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh-uOSBV-2Zx4F4DS9hFgJz4j8zBZfFBiFfIQoOrx4R7nOp8gsYXD-wiB5HQam8nhXfykORdvpfoG5M8ZiQSYI_SzvbRi5lX3b7G-IOVeM3v-ccH3G8GT7MG9vUhjDXzsD1drL-zh8ZAg/s0/Ores%CC%8Cany+na%CC%81lezy.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh-uOSBV-2Zx4F4DS9hFgJz4j8zBZfFBiFfIQoOrx4R7nOp8gsYXD-wiB5HQam8nhXfykORdvpfoG5M8ZiQSYI_SzvbRi5lX3b7G-IOVeM3v-ccH3G8GT7MG9vUhjDXzsD1drL-zh8ZAg/s1600/Ores%CC%8Cany+na%CC%81lezy.jpg",
+          "filename": "Orešany+nálezy.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh-uOSBV-2Zx4F4DS9hFgJz4j8zBZfFBiFfIQoOrx4R7nOp8gsYXD-wiB5HQam8nhXfykORdvpfoG5M8ZiQSYI_SzvbRi5lX3b7G-IOVeM3v-ccH3G8GT7MG9vUhjDXzsD1drL-zh8ZAg/s1600/Ores%CC%8Cany+na%CC%81lezy.jpg",
+            "displayedWidth": 238,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Orešany - Slepý Vrch",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na severnej strane sa v západnej časti odkrytej plochy (sonda II) nenašli presvedčivé stopy po požiarom zničenom opevnení, ale o niekoľko metrov východnejšie sa našli časti konštrukcie valu vystuženého vodorovnými trámami (sonda III). Malý rozsah výskumu nevedel zodpovedať otázku, či sme narazili na rozhranie dvoch odlišných stavebných techník opevnenia - jednoduchého sypaného valu a inej, drevozemnej konštrukcie alebo na miesto, kde jeho projektovaná stavba nebola dokončená. Tieto otázky, ako aj detailnejšie poznatky o stavebnom type tejto včasnolaténskej fortifikácie by pomohol doplniť dodatočný rozšírený výskum tohto miesta. \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Depoty"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nepochybne najzaujímavejším prínosom sú zistené skládky v sonde III, pozostávajúce z ľudských a zvieracích kostí. Našli sa tu aj kovové predmety a veľké fragmenty nádob i celé exempláre. Podľa prvých analýz (Miklíková/Jakab 2011) je medzi zvieracími kosťami zastúpený najmä tur domáci a ovca/koza, menej kôň a sviňa a kraniálne i postkraniálne časti skeletu. Ľudské kosti ešte neboli analyzované, zastúpené sú neúplné lebky i dlhé kosti. Podľa terénneho pozorovania ide všeobecne o skládky neanatomicky uložených častí tiel. \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52qq8Z7bOavddcAEmtjOVey3bBsUwlLDJj7kvW1SW0Q2RekEr4H3p8V86um4hmRbvpo3d9O7Sd11BDchOhl01O9hJcvtwD_WsidPVrCqYZ-hv7r7CU7C1Qc21jWApzcaywsxUZHP05cY/s0/brooch-1-goood.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52qq8Z7bOavddcAEmtjOVey3bBsUwlLDJj7kvW1SW0Q2RekEr4H3p8V86um4hmRbvpo3d9O7Sd11BDchOhl01O9hJcvtwD_WsidPVrCqYZ-hv7r7CU7C1Qc21jWApzcaywsxUZHP05cY/s1600/brooch-1-goood.jpg",
+          "filename": "brooch-1-goood.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52qq8Z7bOavddcAEmtjOVey3bBsUwlLDJj7kvW1SW0Q2RekEr4H3p8V86um4hmRbvpo3d9O7Sd11BDchOhl01O9hJcvtwD_WsidPVrCqYZ-hv7r7CU7C1Qc21jWApzcaywsxUZHP05cY/s1600/brooch-1-goood.jpg",
+            "displayedWidth": 213,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Orešany - Slepý Vrch",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Doterajšie skutočne nadpriemerné množstvo nálezov z hradiska s vysokým zastúpením dokladov remesla, ako aj zbraní, ale aj hromadných nálezov vedie úvahy o funkcii a zániku tohto miesta smerom k tézam o násilnom dobytí hradiska. Niektoré fakty, ako napr. extrémne množstvo niekedy deformovaných zbraní (oštepy, kopije, meče) naznačuje aj možnosť existencie rituálnych depónií (tropheá). K tomuto záveru by možno viedli aj objavené depónie. Prebiehajúci osteologický rozbor pomôže spresniť závery v tomto smere. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "O násilnom zániku tohto centra svedčí množstvo nájdených zbraní ako sú kopije, oštepy, šípy a meče. Drámu, ktorá sa tu zrejme kedysi odohrala, dokladá aj skládka kostí a lebiek ľudí všetkých vekových kategórií. Archeológovia našli aj kováčske a hutnícke dielne, výrobne šperkov a drahých kovov, remeselnícke nástroje aj výrobky. „Nádherným dokladom vyspelého včasnokeltského umenia sú bronzové spony, ktoré sa viažu na keltskú mytológiu a zobrazujú bájne bytosti,“ uviedol Pieta.\n \n \n "
+              },
+              {
+                "type": "text",
+                "text": "Označenie hradiska na mieste",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ": Tak ako pri mnohých ďalších hradiskách na Slovensku, ani na Slepom Vrchu nenájdete žiadnu tabuľu ani nič podobné, čo by návštevníkov informovalo o tom, že sa nachádzajú na významnom keltskom hradisku. Taktiež žiadne turistické značky vás k hradisku nedovedú. Typická slovenská ignorácia našej histórie. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiquAgNDWJpoIbtrTdu-cxFrN4slqLP2-kd-LcLJulR0dXdry97j1lmCrbD1xlCAa58b9Dk57BhjzwHZdS7FRf0ULqTqK0CTCNVfszQ8mZhp57N50UmhQtOMAkag2jQk2x-RuVRchN-bZc/s0/brooch-2-goood.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiquAgNDWJpoIbtrTdu-cxFrN4slqLP2-kd-LcLJulR0dXdry97j1lmCrbD1xlCAa58b9Dk57BhjzwHZdS7FRf0ULqTqK0CTCNVfszQ8mZhp57N50UmhQtOMAkag2jQk2x-RuVRchN-bZc/s1600/brooch-2-goood.jpg",
+          "filename": "brooch-2-goood.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiquAgNDWJpoIbtrTdu-cxFrN4slqLP2-kd-LcLJulR0dXdry97j1lmCrbD1xlCAa58b9Dk57BhjzwHZdS7FRf0ULqTqK0CTCNVfszQ8mZhp57N50UmhQtOMAkag2jQk2x-RuVRchN-bZc/s1600/brooch-2-goood.jpg",
+            "displayedWidth": 151,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Orešany - Slepý Vrch",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Foto: Orgoň",
+            "url": null
+          },
+          {
+            "text": "Karol P i e t a - Miriam J a k u b č i n o v á - Bohuslav Š e b e s t a: VÝSKUM VČASNOLATÉNSKEHO HRADISKA V HORNÝCH OREŠANOCH, AVANS 2008",
+            "url": null
+          },
+          {
+            "text": "http://www.sme.sk/c/3913038/pri-oresanoch-nasli-najstarsie-centrum-keltov-u-nas.html",
+            "url": "http://www.sme.sk/c/3913038/pri-oresanoch-nasli-najstarsie-centrum-keltov-u-nas.html"
+          },
+          {
+            "text": "Pieta K. (2014) Rituelle Beile aus dem Frühlatène-Burgwall in Horné Orešany/Rituálne sekery z včasnolaténskeho hradiska Horné Orešany. In: MORAVSKÉ KŘIŽOVATKY . Střední Podunají mezi pravěkem a historií. Moravské zemské muzeum, Brno 2014. P. 717-727",
+            "url": null
+          },
+          {
+            "text": "https://balkancelts.wordpress.com/2015/02/01/god-in-the-axe-celtic-ceremonial-axes-from-horne-oresany-slovakia/",
+            "url": "https://balkancelts.wordpress.com/2015/02/01/god-in-the-axe-celtic-ceremonial-axes-from-horne-oresany-slovakia/"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Spracoval: Orgoň"
+      },
+      {
+        "type": "attribution",
+        "text": "Foto: Orgoň"
+      },
+      {
+        "type": "book",
+        "text": "Karol P i e t a - Miriam J a k u b č i n o v á - Bohuslav Š e b e s t a: VÝSKUM VČASNOLATÉNSKEHO HRADISKA V HORNÝCH OREŠANOCH, AVANS 2008"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.sme.sk/c/3913038/pri-oresanoch-nasli-najstarsie-centrum-keltov-u-nas.html",
+        "title": "http://www.sme.sk/c/3913038/pri-oresanoch-nasli-najstarsie-centrum-keltov-u-nas.html"
+      },
+      {
+        "type": "book",
+        "text": "Pieta K. (2014) Rituelle Beile aus dem Frühlatène-Burgwall in Horné Orešany/Rituálne sekery z včasnolaténskeho hradiska Horné Orešany. In: MORAVSKÉ KŘIŽOVATKY . Střední Podunají mezi pravěkem a historií. Moravské zemské muzeum, Brno 2014. P. 717-727"
+      },
+      {
+        "type": "external-url",
+        "url": "https://balkancelts.wordpress.com/2015/02/01/god-in-the-axe-celtic-ceremonial-axes-from-horne-oresany-slovakia/",
+        "title": "https://balkancelts.wordpress.com/2015/02/01/god-in-the-axe-celtic-ceremonial-axes-from-horne-oresany-slovakia/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "tlmace-festunok",
+  "flags": [
+    {
+      "category": "RELATIVE_DATE",
+      "block": 9,
+      "excerpt": "Takmer oproti predošlému leží donedávna neznáme opevnené sídlisko – hradisko na Beňadickej skale.",
+      "description": "'Donedávna' je relatívny časový údaj viazaný na dobu písania zdrojového textu (Habovštiak 1973 / Janšák 1928 / autorský text blogu), ktorý zastaráva — presne referenčný príklad RELATIVE_DATE z §21.5. Neopravované (nevieme, ku ktorému roku sa 'donedávna' viaže), len nahlásené."
+    },
+    {
+      "category": "STRUCTURAL — osirotený nadpis",
+      "block": 15,
+      "excerpt": "Foto Matúš Martinák:",
+      "description": "Nadpis (heading level 2) 'Foto Matúš Martinák:' bezprostredne pred blokom 'Použitá literatúra a pramene:' nemá v tele žiadny nadväzujúci content.image-block — fotografie, ktoré mal uvádzať, buď chýbajú v extrakte, alebo boli iba v galérii (kandidáti: tolmacs101.jpg, IMG_4127–4138.JPG a facebookové fotky s popiskami 'vnútorná plocha je ideálna rovinka', 'Opevnenie v severnej časti hradiska', 'Opevnenie v západnej časti', ktoré nemajú vlastný image-block v tele, len záznam v gallery[]). Nadpis ponechaný nezmenený a nedoplnený obrázkami (§21.6 bod 1 — nedopĺňať/nevymýšľať bez zdroja), nahlásené na ľudské rozhodnutie (buď doplniť zodpovedajúce image-blocky z gallery, alebo nadpis odstrániť)."
+    }
+  ]
+}

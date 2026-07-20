@@ -1,0 +1,12 @@
+{
+  "slug": "zilina-zavodie",
+  "flags": [
+    {
+      "type": "NAME_UNCERTAIN",
+      "field": "block 0 (body), timeline[3]",
+      "text": "R. Zaymusa",
+      "description": "Telo pôvodne obsahovalo 'R. Zauymusa' (zjavne OCR-vložená nadbytočná hláska 'u'). Pôvodný (pass2-schválený) timeline draft už mal tvar 'Zaymusa', takže telo bolo zjednotené na tento tvar. Meno však nemožno externe overiť v rámci tohto pipeline (žiadny prístup k platenému API/externým zdrojom).",
+      "action": "Ak sa niekedy overí pôvodný zdroj — Sborník Muzeálnej slovenskej spoločnosti, roč. z r. 1900, s. 55 — potvrdiť alebo opraviť správny tvar priezviska v blogPost.blocks[0] aj v blogPost.timeline[3].description."
+    }
+  ]
+}

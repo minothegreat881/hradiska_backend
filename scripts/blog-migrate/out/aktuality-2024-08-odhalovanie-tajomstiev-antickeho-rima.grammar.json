@@ -1,0 +1,35 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Odhaľovanie tajomstiev antického Ríma' (2024-08). Dlhá reportáž; vysoko isté opravy.",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "tento krát viedli k Dunaju",
+      "after": "tentokrát viedli k Dunaju",
+      "reason": "tento krát→tentokrát (A8)"
+    },
+    {
+      "hint": 4,
+      "before": "železnej v rokoch 700-400 p.n.l.",
+      "after": "železnej v rokoch 700 – 400 p.n.l.",
+      "reason": "číselný rozsah en dash (B)"
+    },
+    {
+      "hint": 4,
+      "before": "V 4.-tom storočí p.n.l.",
+      "after": "V 4. storočí p.n.l.",
+      "reason": "ordinál bez '-tom' (A8)"
+    },
+    {
+      "hint": 7,
+      "before": "Slovenska v 1.storočí n.l.",
+      "after": "Slovenska v 1. storočí n.l.",
+      "reason": "medzera po ordináli (B)"
+    },
+    {
+      "hint": 8,
+      "before": "končí koncom 8 storočia",
+      "after": "končí koncom 8. storočia",
+      "reason": "ordinál s bodkou (A8)"
+    }
+  ]
+}

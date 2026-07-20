@@ -1,0 +1,23 @@
+{
+  "slug": "klatova-nova-ves-siance",
+  "flags": [
+    {
+      "type": "ORPHANED_BLOCK",
+      "block": 7,
+      "text": "Orgoň",
+      "issue": "Samostatný heading-blok (level 2) obsahujúci iba osamotené meno 'Orgoň', umiestnený medzi telom článku a bibliografickým riadkom 'Lit: ...'. Presne zodpovedá vzoru z §21.10 (nájdenému v Lipt. Štiavnici) — takmer isto extrakčný artefakt (odrezaná autorská signatúra). Neodstránené ani nezmenené, čaká na rozhodnutie človeka."
+    },
+    {
+      "type": "BIBLIO_IN_BODY",
+      "block": 8,
+      "text": "Lit: A. Csuthy a kol.: Avari a Slovania na sever od Dunaja, katalóg výstavy, Podunajské múzeum v Komárne, 2015",
+      "issue": "Bibliografická citácia knihy/katalógu stojí ako samostatný odsek v tele (content.rich-text), nie v content.sources.items[]. content.sources v tomto článku obsahuje iba samostatnú URL položku (viď DUPLICATE_BIBLIO nižšie) — táto knižná citácia v ňom chýba úplne."
+    },
+    {
+      "type": "DUPLICATE_BIBLIO",
+      "block": 9,
+      "text": "http://www.klatovanovaves.sk/download_file_f.php?id=48066",
+      "issue": "Holá URL sa vyskytuje ako samostatný odsek v tele (block 9) AJ ako jediná položka v content.sources.items[] AJ v top-level citations[0] — trojitá duplicita rovnakého odkazu. citations[0].title je tiež len holá URL bez ľudsky čitateľného popisu (podobný prípad ako Blatnohrad/Múzeum Zalavár), no na rozdiel od Blatnohradu tu v článku nie je žiadny text, z ktorého by sa dal odvodiť názov zdroja (čo to je za dokument) — nevymýšľať, ponechané ako URL."
+    }
+  ]
+}

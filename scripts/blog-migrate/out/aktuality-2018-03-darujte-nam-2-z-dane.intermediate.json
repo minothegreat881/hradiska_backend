@@ -1,0 +1,105 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2018-03-darujte-nam-2-z-dane.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-468786854976392963",
+    "bloggerPostUrl": "http://www.hradiska.sk/2018/03/darujte-nam-2-z-dane.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/468786854976392963/comments/default",
+    "extractedAt": "2026-07-18T11:21:36.612Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Darujte nám 2% z dane",
+    "slug": "darujte-nam-2-z-dane-2018",
+    "excerpt": "Aj v roku 2018 sa uchádzame o 2% z Vašich daní. Minulý rok sme za tieto peniaze kúpili potrebnú techniku (detektory kovov, dron a podobne), ktoré využívame na výskumoch s archeológmi, ktorým takto vypomáhame. Tiež z týchto peňazí financujeme naše…",
+    "authorName": "Orgon",
+    "publishedAt": "2018-03-23T10:27:00.000+01:00",
+    "originalPublishedDate": "2018-03-23T10:27:00.000+01:00",
+    "updatedAt": "2018-03-23T10:27:07.803+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigdes6QPAfBPHf1KPfzMLhBo_fvr6Uq7maVzPP2gUwQF7H0O6OHGlJBkvxysFoy4ZHF_qYjOVaz18GcahwIAOuuyJdXULzHps-ZpgnEe0_1DDt9E2ofBTfhsnMU9SyBVruLeYoghTFHFD7/s0/2%2525+Kondrk.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigdes6QPAfBPHf1KPfzMLhBo_fvr6Uq7maVzPP2gUwQF7H0O6OHGlJBkvxysFoy4ZHF_qYjOVaz18GcahwIAOuuyJdXULzHps-ZpgnEe0_1DDt9E2ofBTfhsnMU9SyBVruLeYoghTFHFD7/s1600/2%2525+Kondrk.jpg",
+        "filename": "2%25+Kondrk.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigdes6QPAfBPHf1KPfzMLhBo_fvr6Uq7maVzPP2gUwQF7H0O6OHGlJBkvxysFoy4ZHF_qYjOVaz18GcahwIAOuuyJdXULzHps-ZpgnEe0_1DDt9E2ofBTfhsnMU9SyBVruLeYoghTFHFD7/s1600/2%2525+Kondrk.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 226,
+          "originalWidth": 1600,
+          "originalHeight": 1131
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Aj v roku 2018 sa uchádzame o 2% z Vašich daní. Minulý rok sme za tieto peniaze kúpili potrebnú techniku (detektory kovov, dron a podobne), ktoré využívame na výskumoch s archeológmi, ktorým takto vypomáhame. Tiež z týchto peňazí financujeme naše akcie, ako tvorbu a osádzanie info tabúľ. V tomto roku plánujeme prípravu a vydanie nového Zborníka Hradiská – svedkovia dávnych čias a tiež iné publikácie.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ďakujeme za každé Vaše Euro.\n \n Tlačivo na poskytnutie 2% si môžete stiahnuť na "
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/file/d/1wAQioH7ddWvWqaK0-GIxKMzmYamNofT1/view?usp=sharing",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "TOMTO ODKAZE"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

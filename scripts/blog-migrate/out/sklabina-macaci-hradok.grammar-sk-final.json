@@ -1,0 +1,28 @@
+{
+  "slug": "sklabina-macaci-hradok",
+  "note": "Sidebar (Agent 1) + application of grammar-sk-pass2.json findings + fresh cross-field consistency sweep (§21.4), directly into intermediate.json.",
+  "sidebar": {
+    "timelineCount": 6,
+    "keyFactsCount": 8,
+    "source": "Built solely from blogPost.blocks[] content.rich-text text (blocks 0,1,2,4,5,6) plus one AVANS 2001 bibliographic entry from content.sources (mirrors precedent in drazovce.timeline.json, e.g. its 1961 Kraskovská entry sourced from the same field). No external knowledge used. keyFacts item 'Bronzový závesok' written directly with correct spelling (avoiding the 'záveslok' typo the pass2 audit anticipated)."
+  },
+  "appliedFixes": [
+    { "rule": "A1 uzavretie vsuvky", "before": "nazývaného aj Mačací hrádok leží", "after": "nazývaného aj Mačací hrádok, leží", "block": "0 + excerpt", "status": "applied", "note": "identical string existed in both body block 0 and excerpt; fixed in both (replace_all, 2 occurrences)" },
+    { "rule": "A1 nadbytočná čiarka + B", "before": "prebiehajúcom, v smere Z-V", "after": "prebiehajúcom v smere Z – V", "block": "0 + excerpt", "status": "applied", "note": "identical string existed in both body block 0 and excerpt; fixed in both (replace_all, 2 occurrences)" },
+    { "rule": "D cross-article", "before": "II. vojenského mapovania", "after": "2. vojenského mapovania", "block": 0, "status": "applied", "note": "caption on image-block (block 3, 'Hradisko na mape 2. voj. mapovania') already used arabic numeral; body is now consistent with it. New timeline entry ('Hradisko zaznačené na mape') also written with arabic '2.' from the start." },
+    { "rule": "B typografia", "before": "35 × 70m", "after": "35 × 70 m", "block": 1, "status": "applied" },
+    { "rule": "A1 vsuvka repozícia čiarky", "before": "Je pravdepodobné, (ako uvádza Dr. Pieta) že", "after": "Je pravdepodobné (ako uvádza Dr. Pieta), že", "block": 2, "status": "applied" },
+    { "rule": "E MISSING_WORD", "before": "sa opakovane spomína v polohe Brvenné", "after": "sa opakovane spomína poloha Brvenné", "block": 5, "status": "applied" },
+    { "rule": "D cross-field (excerpt bol nesynchronizovaný)", "before": "skľabiňského ... Je ho vrcholová časť je pomerne", "after": "sklabinského ... Jeho vrcholová časť je pomerne", "block": "excerpt", "status": "applied", "note": "applied as two separate unique-context edits (excerpt-only occurrences, body already had the correct forms)" },
+    { "rule": "preklep v KF labeli", "before": "Bronzový záveslok", "after": "Bronzový závesok", "block": "keyFacts", "status": "n/a — keyFacts did not exist yet (Agent 1 had never run); written correctly ('Bronzový závesok') from the start, so no fix was needed in practice" }
+  ],
+  "skipped": [],
+  "crossFieldSweep": {
+    "checkedFields": ["excerpt", "title", "tags", "gallery captions", "image-block captions", "content.sources items", "citations", "location.name"],
+    "result": "No stale pre-fix forms found anywhere after fixes (grep-verified: 'skľabiňského', 'Je ho vrcholová', 'II. vojenského', '70m', 'v polohe Brvenné', 'Bronzový záveslok', 'Z-V' all 0 occurrences file-wide). title/location.name still read 'Skľabiňa - Mačací hrádok' (with ľ/ň) — left untouched: this is a proper-noun spelling distinct from the adjective form that was fixed ('sklabinského'), was not flagged by the original grammar-sk-pass2 audit, and changing it would be an unreviewed factual/spelling call outside this task's scope."
+  },
+  "protectedZones": "No quote-block / blockquote components in this article; no dated-source verbatim quotes in body — nothing exempted.",
+  "flags": [],
+  "reviewFileWritten": false,
+  "uploadReady": true
+}

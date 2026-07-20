@@ -1,0 +1,15 @@
+{
+  "slug": "arkona-retra-a-ine-pohanske-svatyne-zapadnych-slovanov",
+  "flags": [
+    {
+      "type": "SELF_CONTRADICTION_CANDIDATE / possible extraction artifact",
+      "location": "block 8 (\"Znova a znova...\", italic, standalone paragraph between two poems)",
+      "detail": "Sits alone between the poem in block 7 and the poem in block 9(orig)/24(orig numbering pre-removal). Its text is identical to the last line of the poem now at block 23 (post-removal; 'A námorník...' / 'Na to miesto vždy sa vráti / Znova a znova...'). Looks like a duplicated/orphaned refrain — possibly an extraction artifact where a poem line got split into its own rich-text block. Left unchanged: this is a structural/content question, not a grammar error, and deleting it would need a documented content decision which is out of scope for grammar-sk."
+    },
+    {
+      "type": "MISSING_WORD / incomplete sentence — RESOLVED AS FALSE POSITIVE, kept here for the record",
+      "location": "block 29 (original numbering; block 28 after the block-23 removal)",
+      "detail": "pass1 flagged \"Množstvo fotografií a krátky text z našej výpravy na Arkonu nájdete v\" as trailing off with no object. Same root cause as criticalFix 1 (§ see grammar-sk-final.json): pass1's plain-text extraction drops <link> child text. Inspected the raw block directly — it has a link child with text 'tomto článku' immediately after, so the full sentence reads correctly: 'Množstvo fotografií a krátky text z našej výpravy na Arkonu nájdete v tomto článku.' No action needed, no text changed."
+    }
+  ]
+}

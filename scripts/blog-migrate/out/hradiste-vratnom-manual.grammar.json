@@ -1,0 +1,10 @@
+{
+  "slug": "hradiste-pod-vratnom",
+  "appliedFixes": [
+    { "id": "01", "type": "mŕtve odkazy", "note": "Odstránených 5 mŕtvych poznámkových markerov [2]-[6] z tela (blok 6) — každý bol zabalený v nefunkčnom odkaze na http://www.blogger.com/. Poznámky neexistovali ani v pôvodnom blogu (stratené pri kopírovaní z dejinyzahoria.sk). Rozhodnutie odstrániť (nie dohľadávať) urobil používateľ priamo." },
+    { "id": "02", "note": "Popisok galérie (media 2040) opravený presne podľa navrhnutého znenia — vyriešená nevyvážená zátvorka aj kontext (citát z prednášky R. Čambala jasne oddelený úvodzovkami)." },
+    { "id": "03", "type": "cudzia lokalita v KF", "note": "Rozpadnutá veta o hradisku 'veľké o rozlohe...' prepísaná podľa návrhu (blok 2). KF aj timeline pre 'Hradisko u Fajnorov' premenované na 'Susedné hradisko (k. ú. Prašník)' / 'Susedné hradisko u Fajnorov (k. ú. Prašník)' s explicitnou poznámkou, že nejde o hradisko na Hradišti pod Vrátnom — aby sa fakt o susednej lokalite neprezentoval ako fakt o tejto." },
+    { "id": "04", "note": "Metatext 'Zatiaľ sa mi podarilo o ňom získať iba minimum informácií...' presunutý z prvého odseku/perexu na koniec článku (nový blok pred posledný obrázok), doplnená chýbajúca čiarka pred 'určite' a explicitný referent ('o Hradišti pod Vrátnom' namiesto 'o ňom'). Excerpt skrátený na čisto geografickú prvú vetu." },
+    { "id": "05", "note": "Tag 'Menšie hradiská' overený — ide o zámernú kategóriu (potvrdené už pri Brekove), žiadna zmena." }
+  ]
+}

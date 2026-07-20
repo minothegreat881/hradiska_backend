@@ -1,0 +1,108 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 11 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "koniec halštatskej doby",
+      "title": "Zánik hradiska na Tupej skale",
+      "description": "Lužické osídlenie a jeho hradisko na susednej Tupej skale bolo zničené.",
+      "type": "destruction"
+    },
+    {
+      "year": "stredný latén",
+      "title": "Kelti obsadzujú Ostrú skalu",
+      "description": "Ľud púchovskej kultúry (splynutie lužického obyvateľstva s Keltami) vybudoval na Ostrej skale pevný hrádok, obklopený osadou pri jej úpätí.",
+      "type": "founding"
+    },
+    {
+      "year": "2. storočie pred n. l.",
+      "title": "Zlaté statéry",
+      "description": "Tri zlaté statéry (napodobeniny filipovských mincí) nájdené na lokalite v 19. storočí, dokladajúce rozvoj sídelnej aglomerácie v strednom laténe.",
+      "type": "event"
+    },
+    {
+      "year": "70 ± 55 n. l.",
+      "title": "Prvý katastrofický termín (C14)",
+      "description": "Karbónová analýza roštovej konštrukcie horného valu — zničenie zachytené aj na susedných Trninách.",
+      "type": "destruction"
+    },
+    {
+      "year": "35 ± 40 n. l.",
+      "title": "Druhá datovaná fáza deštrukcie",
+      "description": "Karbonizované trámy z objektov na strednom nádvorí, prisypané planírkou.",
+      "type": "destruction"
+    },
+    {
+      "year": "173 – 180 n. l.",
+      "title": "Odchod Kotínov do Panónie",
+      "description": "Vzorka z horného valu (220 ± 45 n. l.) približne zodpovedá obdobiu markomanských vojen a vysídlenia Kotínov spolu s Markomanmi a Kvádmi — časť Kvádov na Slovensku zostala.",
+      "type": "event"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Slovania obnovujú hradisko",
+      "description": "Slovania objavili strategickú polohu Ostrej skaly, obnovili opevnenia a vybudovali nové obydlia; využili pritom zvyšky staršej laténskej fortifikácie.",
+      "type": "founding"
+    },
+    {
+      "year": "prelom 8. a 9. storočia",
+      "title": "Zahĺbené obydlie s pecou",
+      "description": "Kultúrna vrstva s ďalšími sídliskovými objektmi a ohniskami; nálezy ostrôh, kôs, kovaní vedierok, nožov, sekier a britiev.",
+      "type": "construction"
+    },
+    {
+      "year": "druhá polovica 9. – 10. storočie",
+      "title": "Kontinuita osídlenia",
+      "description": "Preukázaná kontinuita medzi oboma hlavnými časovými horizontmi využitia lokality.",
+      "type": "event"
+    },
+    {
+      "year": "10. – 12./13. storočie",
+      "title": "Mladšie osídlenie so zrubovou konštrukciou",
+      "description": "Príbytky so zrubovou konštrukciou (zuhoľnatené zvyšky trámov); hradisko pretrvalo až do 12. storočia, pravdepodobne ako správne sídlo aj v počiatkoch uhorského štátu.",
+      "type": "event"
+    },
+    {
+      "year": "11. storočie",
+      "title": "Včlenenie Oravy do uhorského štátu",
+      "description": "Orava sa stala súčasťou uhorského ranofeudálneho štátu; hrad Orava v tom čase ešte neexistoval.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Severne od Vyšného Kubína, tesne pri susednom hradisku Tupá skala; z juhu chránené 50 – 70 m vysokými skalnými stenami",
+      "icon": "mountain"
+    },
+    {
+      "label": "Tri nádvoria",
+      "value": "Dolné (za bránou), stredné (najviac nálezov) a najvyššie (val s drevenou komorovou konštrukciou)",
+      "icon": "building"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "Kamenný múr vyše 2 m vysoký s drevenou palisádou, spolu s murivom dosahujúci vyše 3 m; slovanský val v tvare nesymetrickej podkovy s plochou 2500 m²",
+      "icon": "shield"
+    },
+    {
+      "label": "Halová stavba",
+      "value": "Dlhá stavba so strechou podopretou stredovými stĺpmi na najvyššej polohe, so zrubovými stenami a rákosovou strechou",
+      "icon": "building"
+    },
+    {
+      "label": "Významné nálezy",
+      "value": "Bronzové ramienko váh, tri zlaté statéry (2. stor. pred n. l.), laténske spony, kostený hrebeň zo strednej doby rímskej",
+      "icon": "star"
+    },
+    {
+      "label": "Rozloha slovanského hradiska",
+      "value": "Tri nádvoria s rozlohou približne 1,5 – 2 ha",
+      "icon": "shield"
+    },
+    {
+      "label": "Zdroj",
+      "value": "Spracoval Orgoň, podľa Pavla Čaploviča",
+      "icon": "scroll"
+    }
+  ]
+}

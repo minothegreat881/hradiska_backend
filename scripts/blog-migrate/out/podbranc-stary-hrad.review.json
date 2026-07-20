@@ -1,0 +1,15 @@
+{
+  "slug": "podbranc-stary-hrad",
+  "flags": [
+    {
+      "type": "PROTECTED_QUOTE",
+      "location": "blocks[1].body[0].children[1] (quote start) + blocks[2] (full) + blocks[4].body[0].children[0] (quote end)",
+      "note": "Priamy dobový citát Štefana Janšáka (1913, \"Objavenie starého predhistorického hradišťa...\"). Archaická slovenčina (hradište, tedy, boly, najsť, smetených, pismenou, ticícich) ponechaná úplne nedotknutá podľa §21.3 — 0 zmien, žiadne mechanické OCR chyby nenájdené."
+    },
+    {
+      "type": "STRUCTURAL_NOTE",
+      "location": "blocks[7] \"8. a 9. storočia\" (bold flag mid-sentence)",
+      "note": "V texte sa nachádza osamotený bold-formatting flag na slove \"háčikmi\" bez zjavného dôvodu (pravdepodobne artefakt extrakcie z pôvodného HTML). Text nezmenený, len upozornenie — nejde o textovú chybu."
+    }
+  ]
+}

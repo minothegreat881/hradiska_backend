@@ -1,0 +1,20 @@
+{
+  "slug": "zemianske-podhradie-hradista",
+  "note": "grammar-sk agent v7, prvý fresh beh. Článok je takmer celý (cca 90% tela) jeden nepretržitý chránený citát z Holubyho článku (Slovenské pohľady, 1887) — otvorený vetou 'ktorý o ňom napísal:' a uzavretý vlastnou uzatváracou „...“ na konci veľkého bloku 'Z tých šesť exemplárov, ktoré máme, je každý inakší.\"'. V tomto rozsahu 0 zmien vrátane archaizmov ('jestli', 'jakoby', 'tedy', 'jich', 'snadno', 'velikú', 'našemu', 'proboval', 'krajciarov'). Gramatika opravená iba v 3 miestach mimo citátu: úvodný odsek pred citátom, jedna veta bezprostredne po citáte a bibliografický údaj (strana citácie).",
+  "appliedFixes": [
+    { "rule": "A8 preklep/typ (Hradišťá nie je slovenské slovo, citovaný zdroj aj zvyšok článku dôsledne používa 'Hradiská')", "before": "Hradišťá", "after": "Hradiská", "block": "title, tags, location.name, image alt (6×)", "note": "9 výskytov v editovateľných poliach vs. 14 výskytov 'Hradiská/Hradísk/Hradiskách' v chránenom Holubyho citáte (ground truth pre názov lokality) — vysoká istota, nejde o alternatívny dobový tvar (na rozdiel od Turie-Hrádek/Hrádok, kde bola voľba medzi dvoma reálnymi tvarmi)" },
+    { "rule": "B typografia (číselný rozsah en dash + tisícový oddeľovač) + A8 chýbajúci dĺžeň (inštrumentál 'náš')", "before": "z neskorej doby bronzovej (1000-700 rokov pred našim letopočtom)", "after": "z neskorej doby bronzovej (1 000 – 700 rokov pred naším letopočtom)", "block": "'Najznámejšia z nich...' odsek" },
+    { "rule": "B typografia (násobenie ×, nie x)", "before": "rozmermi 5,5 x 4,3 metra", "after": "rozmermi 5,5 × 4,3 metra", "block": "'Najznámejšia z nich...' odsek", "note": "rovnaká oprava propagovaná do keyFacts ('Rozmery obydlí')" },
+    { "rule": "A1 chýbajúca uzatváracia čiarka vsuvky", "before": "V období veľkomoravskom, ako aj v 10. storočí hradisko obývali Sloveni", "after": "V období veľkomoravskom, ako aj v 10. storočí, hradisko obývali Sloveni", "block": "'Najznámejšia z nich...' odsek", "note": "timeline[2].description mala už správnu druhú čiarku — telo ju stratilo" },
+    { "rule": "B typografia (apozícia em dash)", "before": "čoho dôkazom sú viaceré nálezy – najmä črepy, ale aj kovové predmety.", "after": "... nálezy — najmä črepy, ale aj kovové predmety.", "block": "timeline[2].description" },
+    { "rule": "A9 veľké/malé písmená (prídavné meno od vlastného mena malým, nejde o oficiálny názov)", "before": "podobne ako pri ostatných Bošáckych hradiskách", "after": "podobne ako pri ostatných bošáckych hradiskách", "block": "veta bezprostredne po Holubyho citáte (mimo chránenej zóny)" },
+    { "rule": "B typografia (orezanie dvojitých medzier na oboch stranách vety po citáte)", "before": "  Žiaľ, ... výskum.  ", "after": " Žiaľ, ... výskum.", "block": "tá istá veta" },
+    { "rule": "B typografia (číselný rozsah en dash)", "before": "strana 217 — 221", "after": "strana 217 – 221", "block": "telo (bibliografický odsek na konci) + sources + citations (3× výskyt)" }
+  ],
+  "reviewed_no_change": [
+    "Celý Holubyho citát 1887 (od 'Západne od Zemanskeho Podhradia...' po '...je každý inakší.\"', cca 15 rich-text blokov, striedanie italic/bold+italic) — 0 zmien, vrátane 'jestli', 'jakoby', 'tedy', 'jich', 'krajciarov', 'proboval', 'snadno', 'velikú', 'našemu', 'ovšem'.",
+    "'„rýliky“' v keyFacts — už správne v house-style úvodzovkách zhodných s citátom (opening „ / closing “), nie preklep.",
+    "'sídlisko-hradisko', 'násyp-val' — zámerné zložené termíny autora, nie chyba spojovníka."
+  ],
+  "flags_ref": "out/zemianske-podhradie-hradista.review.json"
+}

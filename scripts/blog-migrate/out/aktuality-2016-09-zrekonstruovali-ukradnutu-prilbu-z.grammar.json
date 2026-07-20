@@ -1,0 +1,29 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Zrekonštruovali ukradnutú prilbu z Bojnej' (2016-09).",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "Nakoľko ju predával",
+      "after": "Keďže ju predával",
+      "reason": "bohemizmus nakoľko→keďže (A7)"
+    },
+    {
+      "hint": 0,
+      "before": "doslova \"zľahla zem\"",
+      "after": "doslova „zľahla zem“",
+      "reason": "slovenské úvodzovky (B)"
+    },
+    {
+      "hint": 2,
+      "before": "Snáď sa niekedy podarí",
+      "after": "Azda sa niekedy podarí",
+      "reason": "bohemizmus snáď→azda (A7)"
+    },
+    {
+      "hint": 2,
+      "before": "zbierke na \"západe\"",
+      "after": "zbierke na „západe“",
+      "reason": "slovenské úvodzovky (B)"
+    }
+  ]
+}

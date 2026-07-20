@@ -1,0 +1,50 @@
+{
+  "timeline": [
+    {
+      "year": "neskorá doba bronzová – začiatok doby halštatskej",
+      "title": "Vznik hradiska oravskej skupiny lužickej kultúry",
+      "description": "Hradisko vybudoval a využíval ľud lužickej kultúry — osobitná oravská skupina lužickej kultúry so špecifikami odlišnými od iných regiónov.",
+      "type": "founding"
+    },
+    {
+      "year": "1859",
+      "title": "Prvá zmienka Michala Kubínyiho",
+      "description": "Tupú skalu ako sídlisko spomína roku 1859 Michal Kubínyi (Prässburger Zeitung 13. 2. 1859), ktorý vlastnil zbierku bronzových pamiatok zo svojich tunajších pozemkov.",
+      "type": "discovery"
+    },
+    {
+      "year": "60. – 70. roky 20. storočia",
+      "title": "Archeologický výskum P. Čaploviča",
+      "description": "V 60. a 70. rokoch sa tu konal archeologický výskum pod vedením P. Čaploviča, ktorý ukázal, že sídliskové objekty stáli takmer na celej ploche Tupej skaly.",
+      "type": "discovery"
+    },
+    {
+      "year": "po zániku halštatského sídliska",
+      "title": "Presun na Ostrú skalu",
+      "description": "Po zničení halštatského opevneného sídliska na Tupej skale sa život presťahoval na Ostrú skalu, kde už v dobe halštatskej existovalo menšie sídlisko.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozmery opevnenej plochy",
+      "value": "približne 200 × 400 m, orientácia V – Z",
+      "icon": "map"
+    },
+    {
+      "label": "Val",
+      "value": "výška z dolnej strany niekedy 10 i viac metrov, neskôr nadstavený o viac než 200 cm",
+      "icon": "shield"
+    },
+    {
+      "label": "Rozloha priľahlého sídliska",
+      "value": "viac než 20 ha",
+      "icon": "flag"
+    },
+    {
+      "label": "Charakteristický kovový nález",
+      "value": "ihlice s krížovou hlavicou, tzv. oravský typ",
+      "icon": "star"
+    }
+  ]
+}

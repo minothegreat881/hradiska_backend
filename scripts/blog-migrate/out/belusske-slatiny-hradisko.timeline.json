@@ -1,0 +1,38 @@
+{
+  "timeline": [
+    {
+      "year": "koniec laténu – začiatok doby rímskej",
+      "title": "Vznik refúgia púchovskej kultúry",
+      "description": "Podľa nálezov (keramické črepy, železné predmety) a charakteru opevnenia možno hradisko takmer s určitosťou označiť za refúgium ľudu púchovskej kultúry.",
+      "type": "founding"
+    },
+    {
+      "year": "prvé desaťročie n. l.",
+      "title": "Zánik v katastrofickom horizonte",
+      "description": "Spolu s desiatkami ďalších hradísk a hrádkov na severozápadnom Slovensku padlo hradisko za obeť germánskym kmeňom v prvom desaťročí nášho letopočtu v období tzv. katastrofického horizontu.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozmery hradiska",
+      "value": "ľadvinovitý tvar, približne 60 × 25 m",
+      "icon": "map"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "kamenito-hlinitý val komorovej konštrukcie, výška 3–4 m, šírka koruny asi 1,5 m, s drevenou palisádou",
+      "icon": "shield"
+    },
+    {
+      "label": "Historický názov",
+      "value": "Ostré vŕšky (staršie mapy), novšie mapy uvádzajú Hradište",
+      "icon": "scroll"
+    },
+    {
+      "label": "Kultúra",
+      "value": "púchovská kultúra",
+      "icon": "building"
+    }
+  ]
+}

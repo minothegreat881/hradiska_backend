@@ -1,0 +1,29 @@
+{
+  "slug": "blatnohrad-pribinovo-sidlo-v-panonii",
+  "note": "grammar-sk agent (§21), prvý beh. Zároveň vyriešená stará TODO položka z memory 'blatnohrad-muzeum-zalavar-source-todo' (chýbajúci label 'Múzeum Zalavár' pred URL zalavarpark.hu v Zdrojoch).",
+  "criticalFixes": [
+    { "issue": "Zdroje, položka 10 mala iba holú URL 'http://www.zalavarpark.hu/228.html' bez textového labelu — dokumentovaná staršia medzera v parseri citácií (memory súbor), kde sa plain-text label pred URL nezachytil.", "fix": "Doplnený label 'Múzeum Zalavár' — presne zodpovedá pôvodnému textu citovanému v memory súbore ('...Stopy dávnej minulosti (STV2) Múzeum Zalavár http://www.zalavarpark.hu/228.html')." }
+  ],
+  "appliedFixes": [
+    { "rule": "B typografia (úvodzovky) + A7 bohemizmus + B rozsah (bez medzier, vlastná konvencia článku)", "before": "písmená \"i\" a \"o\" ... \"io\". ... Jedná sa totiž ... v rokoch 866-867", "after": "písmená „i\" a „o\" ... „io\". ... Ide totiž ... v rokoch 866–867", "block": 1 },
+    { "rule": "B pomlčka + B rozsah + A9 malé písmeno", "before": "Väčšina budov - medzi nimi ... 2000-2007 - bola ... z 10.-11. storočia, preto je Blatnohradský nález", "after": "Väčšina budov — medzi nimi ... 2000–2007 — bola ... z 10.–11. storočia, preto je blatnohradský nález", "block": 4 },
+    { "rule": "B pomlčka", "before": "na pamätník - súsošie", "after": "na pamätník — súsošie", "block": 5 },
+    { "rule": "B rozsah", "before": "(623-659)", "after": "(623–659)", "block": 9 },
+    { "rule": "B pomlčka", "before": "rodinné väzby - vzal si", "after": "rodinné väzby — vzal si", "block": 11 },
+    { "rule": "B typografia (úvodzovky)", "before": "\"Slovenskému kniežaťu Pribinovi\"", "after": "„Slovenskému kniežaťu Pribinovi\"", "block": 12 },
+    { "rule": "B rozsah", "before": "v rokoch 840-846", "after": "v rokoch 840–846", "block": 14 },
+    { "rule": "B pomlčka", "before": "slovanských krajín - Veľkej Moravy", "after": "slovanských krajín — Veľkej Moravy", "block": 15 },
+    { "rule": "B pomlčka + rozsah", "before": "Ľudovítovi - podporovali vzburu ... Koceľ (830-876)", "after": "Ľudovítovi — podporovali vzburu ... Koceľ (830–876)", "block": 18 },
+    { "rule": "B rozsah", "before": "v rokoch 870 - 871", "after": "v rokoch 870–871", "block": 20 },
+    { "rule": "B rozsah", "before": "v rokoch 900 - 901", "after": "v rokoch 900–901", "block": 25 },
+    { "rule": "B násobenie + rozsah + A4 pád (prídavné meno z vlastného mena)", "before": "150 x 200 metrov ... 5-6 kilometrov ... v Balatoni múzeu", "after": "150 × 200 metrov ... 5–6 kilometrov ... v Balatonskom múzeu", "block": 26 },
+    { "rule": "B rozsah", "before": "v rokoch 866-870", "after": "v rokoch 866–870", "block": 29 },
+    { "rule": "B typografia (úvodzovky)", "before": "\"Toto miesto vysvätili v 850-om roku\".", "after": "„Toto miesto vysvätili v 850-om roku\".", "block": 32 },
+    { "rule": "Sources: doplnenie chýbajúceho labelu (dokumentovaný starý TODO)", "before": "http://www.zalavarpark.hu/228.html [bez textu]", "after": "text = 'Múzeum Zalavár'", "block": "sources" }
+  ],
+  "reviewed_no_change": [
+    "'Slovenov'/'slovienska kultúra'/'staroslovienska hlaholika' — archaický, ale konzistentne používaný etnonym v celom článku, nie preklep za 'Slovanov'.",
+    "'Nitrianske kniežatstvo'/'Blatnohradské kniežatstvo' s veľkým začiatočným písmenom — formálne názvy historických politických útvarov, ponechané veľké (na rozdiel od čisto opisných prídavných mien ako 'blatnohradský nález', ktoré boli opravené na malé)."
+  ],
+  "flags": []
+}

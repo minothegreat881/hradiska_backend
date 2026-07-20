@@ -1,0 +1,17 @@
+{
+  "slug": "novohrad-nograd-h",
+  "note": "grammar-sk agent, prvý prechod. Krátky článok.",
+  "appliedFixes": [
+    { "rule": "B rozsah", "before": "relatívna výška okolo 50-60 m", "after": "relatívna výška okolo 50 – 60 m", "block": "0, excerpt" },
+    { "rule": "D rímske->arabské + D cross-field preklep + A8 kedy->keď", "before": "na prelome IX.-X. stor. ... na čele so špánom ... kedy sa z neho", "after": "na prelome 9. – 10. storočia ... na čele so županom ... keď sa z neho", "block": 2, "note": "'županom' zjednotené s timeline (id 3851), ktoré malo už správny tvar" },
+    { "rule": "B rozsah + násobenie", "before": "v rokoch 1475-1506 ... 140x90 m", "after": "v rokoch 1475 – 1506 ... 140 × 90 m", "block": 6 },
+    { "rule": "B pomlčka", "before": "neopravoval, naopak - v roku 1709", "after": "neopravoval, naopak — v roku 1709", "block": 8 },
+    { "rule": "A9 veľké písmeno na začiatku vety", "before": "spracovala: Kvetka", "after": "Spracovala: Kvetka", "block": 9, "note": "zjednotené s KF, ktoré malo už veľké písmeno" }
+  ],
+  "reviewed_no_change": [
+    "Bloky 1, 4, 5, 7 — bez chýb."
+  ],
+  "flags": [
+    "Meno biskupa: telo (blok 6) píše 'Mikuláš Báthori' (s 'th'), zatiaľ čo KF aj timeline (id 3854) zhodne píšu 'Mikuláš Bátori' (bez 'h'). Obe formy sú historicky doložené varianty priezviska Báthory/Bátori — nemám ako s istotou určiť, ktorá je tu zamýšľaná. NEOPRAVENÉ, iba nahlásené."
+  ]
+}

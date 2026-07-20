@@ -1,0 +1,24 @@
+{
+  "slug": "stare-mesto-velehrad",
+  "note": "grammar-sk agent (§21), prvý beh. Kratší, čistejší článok (16 blokov, žiadny odstránený/pridaný). Obsahuje 1 protected-zone citát z Fuldských letopisov (871) priamo v tele bloku 0 — zámerne s malými začiatočnými písmenami ('svätopluk', 'rastislavovho'), čo text sám vzápätí vysvetľuje ako dobovú latinskú konvenciu; NEOPRAVOVANÉ, keďže ide o vedomú autorskú voľbu, nie o preklep. Kľúčová oprava: zjednotenie zápisu dvojmena lokality 'Staré Mesto – Velehrad' na pomlčku s medzerami všade v tele, presne podľa už existujúcej konvencie v timeline (id 3578).",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "B typografia (úvodzovky, zjednotenie s okolitým textom)", "before": "od susedného Starého mesta či \"starého\" Velehradu", "after": "od susedného Starého mesta či „starého“ Velehradu", "block": 1 },
+    { "rule": "B pomlčka (caption+alt)", "before": "Archeoskanzen Modrá - v blízkosti Uherského Hradišťa", "after": "Archeoskanzen Modrá — v blízkosti Uherského Hradišťa", "block": 2 },
+    { "rule": "B rozsah (D cross-field s timeline id 3581: '11.–12. storočie')", "before": "z 11.-12. storočia", "after": "z 11.–12. storočia", "block": 6 },
+    { "rule": "A9 malé písmeno (caption+alt)", "before": "Pohľad na Slovanské obydlia", "after": "Pohľad na slovanské obydlia", "block": 8 },
+    { "rule": "D cross-field pomlčka (zjednotenie s timeline id 3578: 'Staré Mesto – Velehrad') + B jednotka (km²)", "before": "Osídlená plocha Starého mesta - Velehradu ... (t.j. 2,5 km2)", "after": "Osídlená plocha Starého mesta – Velehradu ... (t.j. 2,5 km²)", "block": 9 },
+    { "rule": "D cross-field pomlčka (zjednotenie s timeline)", "before": "Staré mesto - Velehrad bol rozvinutým", "after": "Staré mesto – Velehrad bol rozvinutým", "block": 10 },
+    { "rule": "B medzera pred % + D cross-field pomlčka (zjednotenie s KF id 2590: 'Antiqua civitas – Veligrad')", "before": "Iba 8% zvieracích kostí ... „Antiqua civitas - Veligrad“", "after": "Iba 8 % zvieracích kostí ... „Antiqua civitas – Veligrad“", "block": 12 },
+    { "rule": "D cross-field pomlčka (zjednotenie s timeline)", "before": "Staré Mesto - Velehrad veľkým výrobným", "after": "Staré Mesto – Velehrad veľkým výrobným", "block": 13 }
+  ],
+  "reviewed_no_change": [
+    "Blok 0: citát z Fuldských letopisov (871) so zámerne malými začiatočnými písmenami ('svätopluk odišiel do rastislavovho starého mesta...') — protected zone, text sám vzápätí vysvetľuje dobovú latinskú konvenciu malých písmen; nedotknuté.",
+    "Bloky 3, 4, 5, 7, 11, 14 — bez ďalších chýb.",
+    "'kópie' (blok 3, v zozname zbraní 'meče, sekery, kópie, nože') — potvrdené ako autorov konzistentný archaický výraz pre kopije/oštepy, nie preklep za 'kópia' vo význame replika.",
+    "KeyFacts a timeline — skontrolované, hodnoty (rozmery, roky, počty) sú vo vzájomnom súlade s telom článku, žiadne ďalšie úpravy potrebné."
+  ],
+  "flags": [
+    "Zdroje, položka 'článok prevzatý z autor: Ondrej Chreňo' — chýba samotný názov/zdroj medzi 'z' a 'autor:' (extrakčná medzera, podobná staršiemu prípadu v Ducové-Kostolec), nedopĺňané bez overenia."
+  ]
+}

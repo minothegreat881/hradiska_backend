@@ -1,0 +1,27 @@
+{
+  "slug": "bratislava",
+  "note": "grammar-sk agent, prvý prechod.",
+  "appliedFixes": [
+    { "rule": "A1 chýbajúca čiarka pred vzťažnou vetou", "before": "Brezalauspurc) ktoré sa priamo dostali", "after": "Brezalauspurc), ktoré sa priamo dostali", "block": "0, excerpt" },
+    { "rule": "B typografia (zjednotenie úvodzoviek)", "before": "z \"hradného vrchu\"", "after": "z „hradného vrchu\"", "block": 1 },
+    { "rule": "B pomlčka + A1 vsuvka (zjednotenie interpunkcie) + nadbytočná čiarka", "before": "horizontu - tzn. ... ktorý by – ako uvádza Štefanovičová, podľa ... Podložka na vytepávanie, sa našla", "after": "horizontu — tzn. ... ktorý by, ako uvádza Štefanovičová, podľa ... Podložka na vytepávanie sa našla", "block": 4 },
+    { "rule": "B pomlčka (nadpis)", "before": "Veľkomoravské hradisko - priebeh", "after": "Veľkomoravské hradisko — priebeh", "block": 6 },
+    { "rule": "B typografia (smerový rozsah = en dash) + OCR preklep (1l->11) + malé písmeno", "before": "smere J—S ... najmä v1l. Storočí.", "after": "smere J – S ... najmä v 11. storočí.", "block": 10 },
+    { "rule": "A8 preklep + B násobenie", "before": "Rozmery objektu možnom len odhadnúť na 12x5,5 m. ... z 9.stor.", "after": "Rozmery objektu možno len odhadnúť na 12 × 5,5 m. ... z 9. storočia.", "block": 13 },
+    { "rule": "A8 preklep + B smerový rozsah", "before": "časť múru viditelná ... v smere V—Z.", "after": "časť múru viditeľná ... v smere V – Z.", "block": 18 },
+    { "rule": "OCR preklep (1l->11)", "before": "stál v1l. storočí druhý kostol", "after": "stál v 11. storočí druhý kostol", "block": 21 },
+    { "rule": "B typografia + A8 kedy->keď", "before": "10.stor., kedy na jej južnú časť", "after": "10. storočia, keď na jej južnú časť", "block": 25 },
+    { "rule": "B typografia (m²) + A8 preklepy (chýbajúce mäkčene)", "before": "plochou 320 cm2. ... podla ktorých ... ktoré vela nehovoria", "after": "plochou 320 cm². ... podľa ktorých ... ktoré veľa nehovoria", "block": 32 },
+    { "rule": "B typografia (chýbajúca medzera po dvojbodke)", "before": "P. Dvořák:Stopy dávnej minulosti", "after": "P. Dvořák: Stopy dávnej minulosti", "block": 33, "note": "caption aj alt" },
+    { "rule": "B pomlčka", "before": "keltských hradísk - oppidum v strednej Európe", "after": "keltských hradísk — oppidum v strednej Európe", "block": 45 },
+    { "rule": "Sources: medzery, číselný rozsah, preklep", "before": "Elán , 1993 / v 9.-12. storočí / Výtvarý prejav", "after": "Elán, 1993 / v 9. – 12. storočí / Výtvarný prejav", "block": "sources" }
+  ],
+  "reviewed_no_change": [
+    "'XIIII. rímskej légie' (blok 18) — rímska číslica ponechaná, ide o štandardnú historiografickú konvenciu označovania rímskych légií (Legio XIV), nie o bežné storočie.",
+    "Bloky 43, 46 a väčšina ostatných — bez ďalších chýb."
+  ],
+  "flags": [
+    "Blok 41 končí osamotenou uzatváracou úvodzovkou '...z polovice 9. storočia.\"' bez zodpovedajúcej otváracej úvodzovky kdekoľvek v okolitom texte — pravdepodobne stratený začiatok citátu (napr. z Kraskovskej správy) pri extrakcii. Nedopĺňané/neodstraňované bez overenia zdroja.",
+    "'320 cm²' (blok 32, plocha zemnice) — hodnota sa zdá podozrivo malá pre pôdorys obydlia (320 cm² = plocha zošita), možno malo byť v m² alebo iné číslo. Opravený iba formát exponentu (cm2 -> cm²), samotná hodnota NEMENENÁ bez overenia zdroja."
+  ]
+}

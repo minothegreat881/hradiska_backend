@@ -1,0 +1,30 @@
+{
+  "slug": "hronsky-benadik",
+  "note": "grammar-sk pass1 aplikovaný priamo do out/hronsky-benadik.intermediate.json + pass2 cross-field kontrola. Žiadna chránená zóna (žiadny quote-block/dobový citát).",
+  "step1_appliedFixes_applied": [
+    { "rule": "B typografia (rok-rozsah)", "before": "1972—1977", "after": "1972 – 1977", "applied_to": ["excerpt", "block 1", "timeline.year", "timeline.description"] },
+    { "rule": "typografia (trailing whitespace)", "applied_to": ["block 1", "block 3", "block 10", "block 22 (×2)"] },
+    { "rule": "B typografia (číselné rozsahy, em dash bez medzier → en dash s medzerami)", "applied_to": ["block 2 (80–90 m, 200–228 m)", "block 8 / keyFacts Opevnenie (60–80 cm)", "keyFacts Rozmery", "keyFacts Systém hradísk (4–5)"] },
+    { "rule": "B typografia (vnútorná konzistencia pomlčky medzi miestami)", "before": "Zvolen—Levice", "after": "Zvolen — Levice", "applied_to": ["block 3"] },
+    { "rule": "OCR artefakt + interpunkcia", "before": "val.V...nichnebolo...palisáda", "after": "val. V...nich nebolo...palisáda.", "applied_to": ["gallery caption", "image caption", "image alt — identický reťazec 3×"] },
+    { "rule": "A3 zhoda podmetu (plurál) + comma splice", "applied_to": ["block 6"] },
+    { "rule": "A1 comma splice (×2)", "applied_to": ["block 12"] },
+    { "rule": "typografia (CAPS LOCK nadpis → sentence case, konzistencia so susednými nadpismi)", "applied_to": ["block 14 heading"] },
+    { "rule": "B typografia (nekonzistentné úvodzovky)", "before": "„k Jelenke\\\"", "after": "„k Jelenke“", "applied_to": ["block 15"] },
+    { "rule": "B typografia (rozsah storočí)", "before": "9.–10. storočia", "after": "9. – 10. storočia", "applied_to": ["block 18", "timeline.year (prvá položka)"] },
+    { "rule": "sémantická oprava (slovenské→slovanské)", "applied_to": ["block 21"], "reason": "nekonzistentné s bezprostredne susediacimi vetami toho istého odseku ('slovanské hradisko', 'o slovanských hradiskách'), anachronizmus (novodobý národný prívlastok pre 10. storočie)." },
+    { "rule": "A8 diakritika", "before": "nenajdete", "after": "nenájdete", "applied_to": ["block 22"] },
+    { "rule": "B typografia (rozsah strán)", "before": "str. 73-93", "after": "str. 73 – 93", "applied_to": ["content.sources.items[0]", "citations[0]"] }
+  ],
+  "step2_crossfield_additions": [
+    { "rule": "B typografia (rok-rozsah propagácia)", "applied_to": ["timeline.year + timeline.description ('Objav a archeologický výskum hradiska')"], "reason": "rovnaký '1972—1977'/'1972–1977' formát opravený súčasne v tele aj timeline pri jednom prechode — nešlo o samostatný dodatočný nález, ale je explicitne zdokumentované tu pre úplnosť auditu." },
+    { "rule": "B typografia (rozsah storočí propagácia)", "applied_to": ["timeline.year (položka 'Predpokladaný vznik hradiska')"], "reason": "'prelom 9.–10. storočia' malo rovnaký chýbajúci medzerový formát ako telo — opravené súbežne." },
+    { "rule": "B typografia (číselné rozsahy propagácia)", "applied_to": ["keyFacts (Rozmery, Opevnenie, Systém hradísk)"], "reason": "keyFacts mali rovnaké em-dash-bez-medzier ako telo pri identických údajoch (80–90 m, 60–80 cm, 4–5 hradísk) — opravené pre plnú zhodu s typografiou tela." }
+  ],
+  "step2_scan_result": "Plný sken keyFacts + timeline + excerpt + tags + title na rímske číslice, em/en dash konzistenciu, bohemizmy, i/y a diakritiku — okrem vyššie uvedených dash-fixov žiadny ďalší cross-field nesúlad. authorName ('Orgon') vs. telo ('Spracoval Orgoň', blok 23) — známy diakritický pár, ponechaný podľa precedensu.",
+  "nfd_nfc_note": "Súbor bol preventívne skontrolovaný na NFC normalizáciu pred úpravami — už bol v NFC tvare, žiadna zmena.",
+  "flags_unresolved": [
+    "Pozri out/hronsky-benadik.review.json — 'donedávna' použité 3× (bloky 15, 18, 19), klasický RELATIVE_DATE prípad, ponechané nezmenené."
+  ],
+  "upload_ready": true
+}

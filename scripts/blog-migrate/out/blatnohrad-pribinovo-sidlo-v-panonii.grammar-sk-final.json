@@ -1,0 +1,44 @@
+{
+  "slug": "blatnohrad-pribinovo-sidlo-v-panonii",
+  "sourceDraft": "out/blatnohrad.grammar-sk-pass1.json",
+  "appliedAt": "2026-07-15",
+  "criticalFixes": [
+    {
+      "issue": "content.sources item + top-level citations item for http://www.zalavarpark.hu/228.html had a bare URL as its `text`/`title`, no human-readable label — matches a previously documented TODO (memory 'blatnohrad-muzeum-zalavar-source-todo').",
+      "resolution": "Set text/title to 'Múzeum Zalavár' in both content.sources.items[] and blogPost.citations[], per the memory note's original source text ('...Stopy dávnej minulosti (STV2) Múzeum Zalavár http://www.zalavarpark.hu/228.html'). url left unchanged."
+    }
+  ],
+  "appliedFixes": [
+    { "block": 1, "rule": "B quotes (3× — corrected to proper „…“ pairs, draft had buggy ASCII closing quotes)", "before": "\"i\" a \"o\" (zvané iže a on), čiže spolu \"io\".", "after": "„i“ a „o“ (zvané iže a on), čiže spolu „io“." },
+    { "block": 1, "rule": "A7 bohemizmus", "before": "Jedná sa totiž o najstaršie", "after": "Ide totiž o najstaršie" },
+    { "block": 1, "rule": "B range dash", "before": "v rokoch 866-867", "after": "v rokoch 866–867" },
+    { "block": 4, "rule": "B dash (apposition) + range", "before": "Väčšina budov - medzi nimi ... 2000-2007 - bola postavená", "after": "Väčšina budov — medzi nimi ... 2000–2007 — bola postavená" },
+    { "block": 4, "rule": "B range + A9 case", "before": "z 10.-11. storočia, preto je Blatnohradský nález", "after": "z 10.–11. storočia, preto je blatnohradský nález" },
+    { "block": 5, "rule": "B dash (missing space normalized)", "before": "na pamätník -súsošie", "after": "na pamätník — súsošie" },
+    { "block": 9, "rule": "B range", "before": "(623-659)", "after": "(623–659)" },
+    { "block": 11, "rule": "B dash", "before": "rodinné väzby - vzal si", "after": "rodinné väzby — vzal si" },
+    { "block": 12, "rule": "B quotes", "before": "\"Slovenskému kniežaťu Pribinovi\"", "after": "„Slovenskému kniežaťu Pribinovi“" },
+    { "block": 14, "rule": "B range", "before": "v rokoch 840-846", "after": "v rokoch 840–846" },
+    { "block": 15, "rule": "B dash", "before": "slovanských krajín - Veľkej Moravy", "after": "slovanských krajín — Veľkej Moravy" },
+    { "block": 18, "rule": "B dash + range", "before": "kráľovi Ľudovítovi - podporovali vzburu ... Koceľ (830-876)", "after": "kráľovi Ľudovítovi — podporovali vzburu ... Koceľ (830–876)" },
+    { "block": 20, "rule": "B range", "before": "v rokoch 870 - 871", "after": "v rokoch 870–871" },
+    { "block": 25, "rule": "B range", "before": "v rokoch 900 - 901", "after": "v rokoch 900–901" },
+    { "block": 26, "rule": "B multiplication + range + A4 case", "before": "150 x 200 metrov ... 5-6 kilometrov ... v Balatoni múzeu", "after": "150 × 200 metrov ... 5–6 kilometrov ... v Balatonskom múzeu" },
+    { "block": 29, "rule": "B range", "before": "v rokoch 866-870", "after": "v rokoch 866–870" },
+    { "block": 32, "rule": "B quotes", "before": "\"Toto miesto vysvätili v 850-om roku\".", "after": "„Toto miesto vysvätili v 850-om roku“." }
+  ],
+  "crossFieldPropagation_step2": {
+    "keyFacts": "empty array — nothing to propagate.",
+    "timeline": "empty array — nothing to propagate.",
+    "excerpt": "checked — does not contain any of the corrected phrases (dashes/quotes/ranges), no change needed.",
+    "title_note": "Title field ('Blatnohrad  - Pribinovo sídlo v Panónii') retains its ASCII ' - ' subtitle separator and a stray double space. Per §21.4 title is nominally in scope, but a corpus-wide check of all ~29 other grammar-sk-pass1 drafts (incl. this article's own draft) shows NONE ever touch the title field — the established pipeline convention treats article titles as a stable display string tied to the original blog post, separate from body typography. Left unchanged for consistency with the rest of the corpus; flagged here for visibility rather than silently changed or silently ignored.",
+    "sources_fullSweep": "Ran a document-wide scan for stray ' - ' / ' -word' patterns after applying all fixes — the only remaining hyphen matches are legitimate compound words (e.g. image caption 'Našťastie aké-také výskumy...') and URLs/slugs. No supplemental fixes were needed for this article (unlike Arkona)."
+  },
+  "reviewed_no_change": [
+    "'Slovenov'/'slovienska kultúra'/'staroslovienska hlaholika' — archaic but consistently used ethnonym throughout, not a typo for 'Slovanov'.",
+    "'Nitrianske kniežatstvo'/'Blatnohradské kniežatstvo' capitalized — formal names of historical polities, kept capitalized (unlike purely descriptive adjectives such as 'blatnohradský nález', which were lowercased)."
+  ],
+  "flags_unresolved": [],
+  "blockCountChange": "34 -> 34 (no blocks removed/added)",
+  "uploadReady": true
+}

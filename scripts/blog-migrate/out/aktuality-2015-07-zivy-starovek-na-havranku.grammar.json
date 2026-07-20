@@ -1,0 +1,16 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Živý starovek na Havránku' (2015-07, 49 fotiek → upload s1600). Autorova SK reportáž.",
+  "corrections": [
+    { "hint": 0, "before": "v sobotu 14.7. 2015", "after": "v sobotu 14. 7. 2015", "reason": "medzery v dátume (B)" },
+    { "hint": 0, "before": "v období staroveku.Akciu", "after": "v období staroveku. Akciu", "reason": "chýbajúca medzera po bodke (B/OCR)" },
+    { "hint": 1, "before": "život v dobe brobzovej", "after": "život v dobe bronzovej", "reason": "preklep brobzovej→bronzovej (A8)" },
+    { "hint": 1, "before": "Iní, napr", "after": "Iní, napr.", "reason": "chýbajúca bodka po skratke 'napr.' (B); skrátené — 'Archeopark' je v ďalšom text-node" },
+    { "hint": 2, "before": "iných kultúr, pridavajucich sa", "after": "iných kultúr, pridávajúcich sa", "reason": "diakritika pridavajucich→pridávajúcich (A8)" },
+    { "hint": 4, "before": "Akcie sa zucastnili skupiny", "after": "Akcie sa zúčastnili skupiny", "reason": "diakritika zucastnili→zúčastnili (A8)" },
+    { "hint": 6, "before": "Jedine, co som nepochopila", "after": "Jediné, čo som nepochopila", "reason": "diakritika Jedine→Jediné, co→čo (A8)" },
+    { "hint": 6, "before": "musel človek platiť druhý krát", "after": "musel človek platiť druhýkrát", "reason": "druhý krát→druhýkrát (A8)" },
+    { "hint": 6, "before": "Pobúrilo nás aj prístup múzea", "after": "Pobúril nás aj prístup múzea", "reason": "zhoda: podmet 'prístup' (m.r.) → 'Pobúril' (A3)" },
+    { "hint": 6, "before": "Liptovského múzea /správcov skanzenu/", "after": "Liptovského múzea (správcov skanzenu)", "reason": "lomky ako zátvorky → skutočné zátvorky (B)" },
+    { "hint": 6, "before": "Príklad obmedzencov /byrokratov/", "after": "Príklad obmedzencov (byrokratov)", "reason": "lomky → zátvorky (B)" }
+  ]
+}

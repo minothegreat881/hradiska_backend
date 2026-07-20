@@ -1,0 +1,11 @@
+{
+  "_note": "grammar-sk §21 — aktualita 'Interaktívna mapa hradísk' (2013-10).",
+  "corrections": [
+    { "all": true, "before": "najdete", "after": "nájdete", "reason": "dĺžeň nájdete, systematický preklep (A8)" },
+    { "hint": 0, "before": "projekt - interaktívnu", "after": "projekt – interaktívnu", "reason": "spojovník → en dash (B)" },
+    { "hint": 0, "before": "Slovanov, keltov a iných", "after": "Slovanov, Keltov a iných", "reason": "etnonymum veľkým (A9)" },
+    { "hint": 1, "before": "otvorí \"bublina\" v ktorej", "after": "otvorí „bublina“, v ktorej", "reason": "slovenské úvodzovky + čiarka pred vzťažnou vetou (A1,B)" },
+    { "hint": 1, "before": "tlačidlo \"viac informácií\"", "after": "tlačidlo „viac informácií“", "reason": "slovenské úvodzovky (B)" },
+    { "hint": 2, "before": "druh pamiatky ktorý si vyberiete", "after": "druh pamiatky, ktorý si vyberiete", "reason": "čiarka pred vzťažným zámenom (A1)" }
+  ]
+}

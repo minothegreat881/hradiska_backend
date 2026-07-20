@@ -1,0 +1,36 @@
+{
+  "_note": "5 opráv aplikovaných, 0 cross-node preskočených, 0 nenájdených v dumpe (možná halucinácia)",
+  "corrections": [
+    {
+      "block": "?",
+      "before": "z Blatnice a Folkušovej .",
+      "after": "z Blatnice a Folkušovej.",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "Gábrišovej  a zároveň jediný",
+      "after": "Gábrišovej a zároveň jediný",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "v BánovejOvčiarnom a Bitarovej-Rybníku",
+      "after": "v Bánovej, Ovčiarnom a Bitarovej-Rybníku",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "vysoká koncentrácia železnej trosky a v neposlednom rade hutnícke pomôcky . Na základe",
+      "after": "vysoká koncentrácia železnej trosky a v neposlednom rade hutnícke pomôcky. Na základe",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "Činnosť sa však, vzhľadom na charakter osídlenia regiónu predpokladá už na konci doby laténskej.",
+      "after": "Činnosť sa však, vzhľadom na charakter osídlenia regiónu, predpokladá už na konci doby laténskej.",
+      "reason": "gramatika/pravopis"
+    }
+  ],
+  "skippedNotFound": []
+}

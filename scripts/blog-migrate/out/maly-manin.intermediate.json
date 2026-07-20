@@ -1,0 +1,716 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-maly-manin.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-459539782015682656",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/07/maly-manin-je-sucastoustrazovskej.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/459539782015682656/comments/default",
+    "extractedAt": "2026-07-15T22:20:20.452Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&t=h&ll=49.131071,18.50956&spn=0.039313,0.072956&z=13&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 27,
+      "captionedImages": 17,
+      "separatorImages": 10
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Malý Manín",
+    "slug": "maly-manin",
+    "excerpt": "Malý Manín je súčasťou Strážovskej vrchoviny, rozprestiera sa na ľavom brehu Váhu stredného Považia. Je súčasťou Manínskej tiesňavy. Nadmorská výška malého Manína je 812 m. n. m.",
+    "authorName": null,
+    "publishedAt": "2013-07-22T19:35:00.002+02:00",
+    "originalPublishedDate": "2013-07-22T19:35:00.002+02:00",
+    "updatedAt": "2017-12-02T18:18:56.555+01:00",
+    "readingTime": 4,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAthlTzhRmJhFCOJsBDr-odotP9De1eUx4E_lf8zyEbKjN0zBOskKF3lr313MOma7rniaTxLlnzMoQXDVzBIQwu3mHEnMB6hL6BsyPT_Ks0tUW3sAGbJ_iRwO6tz8cybpiMk_zAr4fEeM/s0/mapka.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAthlTzhRmJhFCOJsBDr-odotP9De1eUx4E_lf8zyEbKjN0zBOskKF3lr313MOma7rniaTxLlnzMoQXDVzBIQwu3mHEnMB6hL6BsyPT_Ks0tUW3sAGbJ_iRwO6tz8cybpiMk_zAr4fEeM/s1600/mapka.JPG",
+      "filename": "mapka.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAthlTzhRmJhFCOJsBDr-odotP9De1eUx4E_lf8zyEbKjN0zBOskKF3lr313MOma7rniaTxLlnzMoQXDVzBIQwu3mHEnMB6hL6BsyPT_Ks0tUW3sAGbJ_iRwO6tz8cybpiMk_zAr4fEeM/s1600/mapka.JPG",
+        "displayedWidth": 320,
+        "displayedHeight": 217,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAthlTzhRmJhFCOJsBDr-odotP9De1eUx4E_lf8zyEbKjN0zBOskKF3lr313MOma7rniaTxLlnzMoQXDVzBIQwu3mHEnMB6hL6BsyPT_Ks0tUW3sAGbJ_iRwO6tz8cybpiMk_zAr4fEeM/s0/mapka.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAthlTzhRmJhFCOJsBDr-odotP9De1eUx4E_lf8zyEbKjN0zBOskKF3lr313MOma7rniaTxLlnzMoQXDVzBIQwu3mHEnMB6hL6BsyPT_Ks0tUW3sAGbJ_iRwO6tz8cybpiMk_zAr4fEeM/s1600/mapka.JPG",
+        "filename": "mapka.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAthlTzhRmJhFCOJsBDr-odotP9De1eUx4E_lf8zyEbKjN0zBOskKF3lr313MOma7rniaTxLlnzMoQXDVzBIQwu3mHEnMB6hL6BsyPT_Ks0tUW3sAGbJ_iRwO6tz8cybpiMk_zAr4fEeM/s1600/mapka.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 217,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLODlGRGBkxEcuLVtz7NaFtW4wioD8jo2w-E4HlUPahmN4sTXIImuzEkz_Z4nzISHmgSYXeZJQyiddmnjPfRhd5Fj8AmodCvrPOM6-Tx3LupO7PgEIBKCLNp_p7oVuqqYy3OaA4kg7-2Q/s0/AN_Maly%CC%81+Mani%CC%81n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLODlGRGBkxEcuLVtz7NaFtW4wioD8jo2w-E4HlUPahmN4sTXIImuzEkz_Z4nzISHmgSYXeZJQyiddmnjPfRhd5Fj8AmodCvrPOM6-Tx3LupO7PgEIBKCLNp_p7oVuqqYy3OaA4kg7-2Q/s1600/AN_Maly%CC%81+Mani%CC%81n.jpg",
+        "filename": "AN_Malý+Manín.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLODlGRGBkxEcuLVtz7NaFtW4wioD8jo2w-E4HlUPahmN4sTXIImuzEkz_Z4nzISHmgSYXeZJQyiddmnjPfRhd5Fj8AmodCvrPOM6-Tx3LupO7PgEIBKCLNp_p7oVuqqYy3OaA4kg7-2Q/s1600/AN_Maly%CC%81+Mani%CC%81n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 226,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTEkMY4WSkN4QTSCO4l95bB3ul7hkShduweNR1qOgyArx3Ymowc1laXQ4rc0bCmHdimXu_ePMLKounqZBbWyo2AWNgc5nImQqBIdlmURF9st51qZbCZiaGFmKzgJVFVU5qMepPxh5vr-U/s0/fukt%C3%BAra.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTEkMY4WSkN4QTSCO4l95bB3ul7hkShduweNR1qOgyArx3Ymowc1laXQ4rc0bCmHdimXu_ePMLKounqZBbWyo2AWNgc5nImQqBIdlmURF9st51qZbCZiaGFmKzgJVFVU5qMepPxh5vr-U/s1600/fukt%C3%BAra.jpg",
+        "filename": "fuktúra.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTEkMY4WSkN4QTSCO4l95bB3ul7hkShduweNR1qOgyArx3Ymowc1laXQ4rc0bCmHdimXu_ePMLKounqZBbWyo2AWNgc5nImQqBIdlmURF9st51qZbCZiaGFmKzgJVFVU5qMepPxh5vr-U/s1600/fukt%C3%BAra.jpg",
+          "displayedWidth": 232,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "keramika púchovskej kultúry a náramok"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAaVeP_tVmfqH2YnH2Dz5K-hWJ5xcyKMcJaqsp-h09SszOQcfxFYFYiaiwE-v4DYerSxY4AzZK78pENWXrjtsaKvaEGrqoJcdEfawuM85B5dkoHm_3mIYnKJwhZF2tf9XZvFDkNr8CyB0/s0/Ucho+z+keramiky_lu%C5%BEick%C3%A1+kult%C3%BAra.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAaVeP_tVmfqH2YnH2Dz5K-hWJ5xcyKMcJaqsp-h09SszOQcfxFYFYiaiwE-v4DYerSxY4AzZK78pENWXrjtsaKvaEGrqoJcdEfawuM85B5dkoHm_3mIYnKJwhZF2tf9XZvFDkNr8CyB0/s1600/Ucho+z+keramiky_lu%C5%BEick%C3%A1+kult%C3%BAra.JPG",
+        "filename": "Ucho+z+keramiky_lužická+kultúra.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAaVeP_tVmfqH2YnH2Dz5K-hWJ5xcyKMcJaqsp-h09SszOQcfxFYFYiaiwE-v4DYerSxY4AzZK78pENWXrjtsaKvaEGrqoJcdEfawuM85B5dkoHm_3mIYnKJwhZF2tf9XZvFDkNr8CyB0/s1600/Ucho+z+keramiky_lu%C5%BEick%C3%A1+kult%C3%BAra.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Ucho z keramiky_lužická kultúra"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlxW9yQgKjTLPfjkX5jzzQ_mCpDEzRpTSQ5FQDWQhqJaaOWGdDFDOwYZtNwERH1ARWCWiWQNzG8lEKol-N1qOeZQmr8oIXBti4R8emj8-jrWmb_luXLpQFh15xOMX9npeWMGsWHvCZO8/s0/fragment+n%C3%A1doby_Lu%C5%BEick%C3%A1+kult%C3%BAra.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlxW9yQgKjTLPfjkX5jzzQ_mCpDEzRpTSQ5FQDWQhqJaaOWGdDFDOwYZtNwERH1ARWCWiWQNzG8lEKol-N1qOeZQmr8oIXBti4R8emj8-jrWmb_luXLpQFh15xOMX9npeWMGsWHvCZO8/s1600/fragment+n%C3%A1doby_Lu%C5%BEick%C3%A1+kult%C3%BAra.JPG",
+        "filename": "fragment+nádoby_Lužická+kultúra.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTlxW9yQgKjTLPfjkX5jzzQ_mCpDEzRpTSQ5FQDWQhqJaaOWGdDFDOwYZtNwERH1ARWCWiWQNzG8lEKol-N1qOeZQmr8oIXBti4R8emj8-jrWmb_luXLpQFh15xOMX9npeWMGsWHvCZO8/s1600/fragment+n%C3%A1doby_Lu%C5%BEick%C3%A1+kult%C3%BAra.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "fragment nádoby_Lužická kultúra"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDJKZvYDKNBdm2AHPs9_tx7AS2rOJc0MIKUn1RkCLcJE63s3GWHyr5xtZtqYMCubWnmmZAvHwhRVRQBKwEGuj6SvSDR_Nhy9_f3r3cWjMKEZeAob0p2X2_VUJYNexFQJVtpFoaQZqStDk/s0/Prasleny+z+grafitovej+keramiky_+P%C3%BAchovsk%C3%A1+kult%C3%BAra.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDJKZvYDKNBdm2AHPs9_tx7AS2rOJc0MIKUn1RkCLcJE63s3GWHyr5xtZtqYMCubWnmmZAvHwhRVRQBKwEGuj6SvSDR_Nhy9_f3r3cWjMKEZeAob0p2X2_VUJYNexFQJVtpFoaQZqStDk/s1600/Prasleny+z+grafitovej+keramiky_+P%C3%BAchovsk%C3%A1+kult%C3%BAra.JPG",
+        "filename": "Prasleny+z+grafitovej+keramiky_+Púchovská+kultúra.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDJKZvYDKNBdm2AHPs9_tx7AS2rOJc0MIKUn1RkCLcJE63s3GWHyr5xtZtqYMCubWnmmZAvHwhRVRQBKwEGuj6SvSDR_Nhy9_f3r3cWjMKEZeAob0p2X2_VUJYNexFQJVtpFoaQZqStDk/s1600/Prasleny+z+grafitovej+keramiky_+P%C3%BAchovsk%C3%A1+kult%C3%BAra.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Prasleny z grafitovej keramiky_ Púchovská kultúra"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnKmwJmliUVb1ZXijWgGOV3CgtEAwIgyAxc-_U6dTOPMhUjAOIxGGFfN2bhCuDgT2fK7OgcQ6COq6mydBbYWL1iL1WQcuOTzKd4G-FrbnFZ_EUW2qBizUrRCE8tCBEAHk_KrVynToN4DQ/s0/Fragment+grafitovej+keramiky_+p%C3%BAchovsk%C3%A1+kult%C3%BAra.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnKmwJmliUVb1ZXijWgGOV3CgtEAwIgyAxc-_U6dTOPMhUjAOIxGGFfN2bhCuDgT2fK7OgcQ6COq6mydBbYWL1iL1WQcuOTzKd4G-FrbnFZ_EUW2qBizUrRCE8tCBEAHk_KrVynToN4DQ/s1600/Fragment+grafitovej+keramiky_+p%C3%BAchovsk%C3%A1+kult%C3%BAra.JPG",
+        "filename": "Fragment+grafitovej+keramiky_+púchovská+kultúra.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnKmwJmliUVb1ZXijWgGOV3CgtEAwIgyAxc-_U6dTOPMhUjAOIxGGFfN2bhCuDgT2fK7OgcQ6COq6mydBbYWL1iL1WQcuOTzKd4G-FrbnFZ_EUW2qBizUrRCE8tCBEAHk_KrVynToN4DQ/s1600/Fragment+grafitovej+keramiky_+p%C3%BAchovsk%C3%A1+kult%C3%BAra.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Fragment grafitovej keramiky_ púchovská kultúra"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtcZ2SVu8um0FVtWcLuzh7QDVAvPODXJjeOq-NWs33xA6sDvBPZG_WAzXKEJCe7jhiPsnRmamnPoV3ecFZfQn8wRl15DzwjpHN9SR4Cs_tq7jyUcy-we2bTjwDyI5GIuOP4oWm63EIFy4/s0/027.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtcZ2SVu8um0FVtWcLuzh7QDVAvPODXJjeOq-NWs33xA6sDvBPZG_WAzXKEJCe7jhiPsnRmamnPoV3ecFZfQn8wRl15DzwjpHN9SR4Cs_tq7jyUcy-we2bTjwDyI5GIuOP4oWm63EIFy4/s1600/027.jpg",
+        "filename": "027.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtcZ2SVu8um0FVtWcLuzh7QDVAvPODXJjeOq-NWs33xA6sDvBPZG_WAzXKEJCe7jhiPsnRmamnPoV3ecFZfQn8wRl15DzwjpHN9SR4Cs_tq7jyUcy-we2bTjwDyI5GIuOP4oWm63EIFy4/s1600/027.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0i-L7qi0qfyFCAp5ogQ30boESau13-kwedFNzHJwETQn8bMXoJbXIeEeZUHu7OmgkPgi9K02HJmMuXP_zp2ovGPFPVFddsficX2KQgVkfVtWfJCwLCeJh77YaN6wY6lXptr2k1AXlzMM/s0/047.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0i-L7qi0qfyFCAp5ogQ30boESau13-kwedFNzHJwETQn8bMXoJbXIeEeZUHu7OmgkPgi9K02HJmMuXP_zp2ovGPFPVFddsficX2KQgVkfVtWfJCwLCeJh77YaN6wY6lXptr2k1AXlzMM/s1600/047.jpg",
+        "filename": "047.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0i-L7qi0qfyFCAp5ogQ30boESau13-kwedFNzHJwETQn8bMXoJbXIeEeZUHu7OmgkPgi9K02HJmMuXP_zp2ovGPFPVFddsficX2KQgVkfVtWfJCwLCeJh77YaN6wY6lXptr2k1AXlzMM/s1600/047.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyr3mFfjMP3U93CwS3IpuiCmFeWhPfJ1lUXCXaOWmZ3wE5Ke72xu090jRT-qQ9zT0r-eWn8qBWL2l3261UYtcEbMlr4NpJgibQF4fMtI-YWX6oQCRyudnjWir2Vbm5GfGjhrpTLqAkbIQL/s0/spona+veliacik+AVANS+2001.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyr3mFfjMP3U93CwS3IpuiCmFeWhPfJ1lUXCXaOWmZ3wE5Ke72xu090jRT-qQ9zT0r-eWn8qBWL2l3261UYtcEbMlr4NpJgibQF4fMtI-YWX6oQCRyudnjWir2Vbm5GfGjhrpTLqAkbIQL/s1600/spona+veliacik+AVANS+2001.jpg",
+        "filename": "spona+veliacik+AVANS+2001.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyr3mFfjMP3U93CwS3IpuiCmFeWhPfJ1lUXCXaOWmZ3wE5Ke72xu090jRT-qQ9zT0r-eWn8qBWL2l3261UYtcEbMlr4NpJgibQF4fMtI-YWX6oQCRyudnjWir2Vbm5GfGjhrpTLqAkbIQL/s1600/spona+veliacik+AVANS+2001.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 177,
+          "originalWidth": 1600,
+          "originalHeight": 886
+        },
+        "caption": "Spona z mladšej doby bronzovej z hradiska (Veliačik)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEP8HU-ZwYoMkv2YhOgksvkl555Epn6BFn4O6XQ4TvvBVCYdy8P2sA3fYmxOd_QO-UN2qqXiU1QeE98oggQesL6XxBu-hcTswfy4W20WzEywHob_h42gsMHc6TkSQkgV9C3ymLGTo04U9g/s0/AU+minca+Buday+2016.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEP8HU-ZwYoMkv2YhOgksvkl555Epn6BFn4O6XQ4TvvBVCYdy8P2sA3fYmxOd_QO-UN2qqXiU1QeE98oggQesL6XxBu-hcTswfy4W20WzEywHob_h42gsMHc6TkSQkgV9C3ymLGTo04U9g/s1600/AU+minca+Buday+2016.jpg",
+        "filename": "AU+minca+Buday+2016.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEP8HU-ZwYoMkv2YhOgksvkl555Epn6BFn4O6XQ4TvvBVCYdy8P2sA3fYmxOd_QO-UN2qqXiU1QeE98oggQesL6XxBu-hcTswfy4W20WzEywHob_h42gsMHc6TkSQkgV9C3ymLGTo04U9g/s1600/AU+minca+Buday+2016.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 152,
+          "originalWidth": 1568,
+          "originalHeight": 747
+        },
+        "caption": "Zlatá keltská minca z hradiska (Budaj)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsQN8W-0r9laZyaVJ3ch54FzLPt7v1qZn6H7atFIQayxs6WVZvmvuKaGoqRDK5ASj1So_4VMoozkTPx8ExCptQB52D0KLSMihXjpOc13L_mTDIiJlpFAR6i4nvYKqjvLKK_dZMrFjOFOU/s0/Maketa+pr%C3%ADbytku+8.stro.p.n.l.+Lu%C5%BEick%C3%A1+kult%C3%BAra.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsQN8W-0r9laZyaVJ3ch54FzLPt7v1qZn6H7atFIQayxs6WVZvmvuKaGoqRDK5ASj1So_4VMoozkTPx8ExCptQB52D0KLSMihXjpOc13L_mTDIiJlpFAR6i4nvYKqjvLKK_dZMrFjOFOU/s1600/Maketa+pr%C3%ADbytku+8.stro.p.n.l.+Lu%C5%BEick%C3%A1+kult%C3%BAra.JPG",
+        "filename": "Maketa+príbytku+8.stro.p.n.l.+Lužická+kultúra.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsQN8W-0r9laZyaVJ3ch54FzLPt7v1qZn6H7atFIQayxs6WVZvmvuKaGoqRDK5ASj1So_4VMoozkTPx8ExCptQB52D0KLSMihXjpOc13L_mTDIiJlpFAR6i4nvYKqjvLKK_dZMrFjOFOU/s1600/Maketa+pr%C3%ADbytku+8.stro.p.n.l.+Lu%C5%BEick%C3%A1+kult%C3%BAra.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Model domu lužickej kultúry z doby hallštatskej (8. storočie p.n.l.) od L. Janecha"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0YY7OOuIv7m4GyZ1dme1EfAWgNzCgBkQ9E2y2nLcWu4fMEVNJQ5t0qHdZ-qmgXddRsc5MleWSdMmu3Hhcdw_EH85tWZ8I0PrNggxAbPhCfqC1FhJm89BtGYZHv3CiJg9QNFqdE8H6akM/s0/tka%C4%8Dsky+stav+1.stor+p.n.l.+puchovska+kult_replika.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0YY7OOuIv7m4GyZ1dme1EfAWgNzCgBkQ9E2y2nLcWu4fMEVNJQ5t0qHdZ-qmgXddRsc5MleWSdMmu3Hhcdw_EH85tWZ8I0PrNggxAbPhCfqC1FhJm89BtGYZHv3CiJg9QNFqdE8H6akM/s1600/tka%C4%8Dsky+stav+1.stor+p.n.l.+puchovska+kult_replika.JPG",
+        "filename": "tkačsky+stav+1.stor+p.n.l.+puchovska+kult_replika.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0YY7OOuIv7m4GyZ1dme1EfAWgNzCgBkQ9E2y2nLcWu4fMEVNJQ5t0qHdZ-qmgXddRsc5MleWSdMmu3Hhcdw_EH85tWZ8I0PrNggxAbPhCfqC1FhJm89BtGYZHv3CiJg9QNFqdE8H6akM/s1600/tka%C4%8Dsky+stav+1.stor+p.n.l.+puchovska+kult_replika.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Tkáčsky stav - Lužická kultúra (L.Janech)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXjTAKCS1nAxMh2eLMoWWjYzOpZOexS7bySoRMOSqNdOTisw9zecI5Lj8a94qtk2TRU43FWKirnhUfO6mnupDClNwCaZPOzHvKdZeAWJvgNL6wnyF_q3_LeKfBDOKNXh1C0mh-W6EgXhE/s0/10152410_10152398043987347_1404925909009242825_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXjTAKCS1nAxMh2eLMoWWjYzOpZOexS7bySoRMOSqNdOTisw9zecI5Lj8a94qtk2TRU43FWKirnhUfO6mnupDClNwCaZPOzHvKdZeAWJvgNL6wnyF_q3_LeKfBDOKNXh1C0mh-W6EgXhE/s1600/10152410_10152398043987347_1404925909009242825_n.jpg",
+        "filename": "10152410_10152398043987347_1404925909009242825_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXjTAKCS1nAxMh2eLMoWWjYzOpZOexS7bySoRMOSqNdOTisw9zecI5Lj8a94qtk2TRU43FWKirnhUfO6mnupDClNwCaZPOzHvKdZeAWJvgNL6wnyF_q3_LeKfBDOKNXh1C0mh-W6EgXhE/s1600/10152410_10152398043987347_1404925909009242825_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "sídliskové terasy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBIlEeW9GAFL5Wnp25FatT9Rim1s9nERroPzj4Z-oP35cENCC0UO-qLttV45Z8d5lMi2RFHYSJx3QcOmtCzJkcII4mzlP8AyLgarH2Q1DmhR2Xyn2rZNrf-anNnHxulpUZd7RhmCIs1k/s0/10307207_10152398052602347_5580932556276651184_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBIlEeW9GAFL5Wnp25FatT9Rim1s9nERroPzj4Z-oP35cENCC0UO-qLttV45Z8d5lMi2RFHYSJx3QcOmtCzJkcII4mzlP8AyLgarH2Q1DmhR2Xyn2rZNrf-anNnHxulpUZd7RhmCIs1k/s1600/10307207_10152398052602347_5580932556276651184_n.jpg",
+        "filename": "10307207_10152398052602347_5580932556276651184_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBIlEeW9GAFL5Wnp25FatT9Rim1s9nERroPzj4Z-oP35cENCC0UO-qLttV45Z8d5lMi2RFHYSJx3QcOmtCzJkcII4mzlP8AyLgarH2Q1DmhR2Xyn2rZNrf-anNnHxulpUZd7RhmCIs1k/s1600/10307207_10152398052602347_5580932556276651184_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "okraj hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDlKte-m8WQ1-jbEK2RcyIr8bcIC-QE4oAVAd5vV9ohZtSIUBzjrT6kZeCVoVs8tp8BhfvjAN0_xIf_QG1VLduEYjgg-hUJpNbaBrSAXso9L39W24cnK_zgPBpvlOR6-RYpJNKOaOZccM/s0/10325332_10152398054112347_6231371547171578727_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDlKte-m8WQ1-jbEK2RcyIr8bcIC-QE4oAVAd5vV9ohZtSIUBzjrT6kZeCVoVs8tp8BhfvjAN0_xIf_QG1VLduEYjgg-hUJpNbaBrSAXso9L39W24cnK_zgPBpvlOR6-RYpJNKOaOZccM/s1600/10325332_10152398054112347_6231371547171578727_n.jpg",
+        "filename": "10325332_10152398054112347_6231371547171578727_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDlKte-m8WQ1-jbEK2RcyIr8bcIC-QE4oAVAd5vV9ohZtSIUBzjrT6kZeCVoVs8tp8BhfvjAN0_xIf_QG1VLduEYjgg-hUJpNbaBrSAXso9L39W24cnK_zgPBpvlOR6-RYpJNKOaOZccM/s1600/10325332_10152398054112347_6231371547171578727_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3wWuOWc7X4FpRl7scoIXf7RoQ1QSIVHd7BiheJ9nb7j_c1-T97JP2J1btJ5F9aZ0G56UcX-_jo_UkheK3OFdbY5u6vqEovTbEGTFqyQSQlFrq31xhq6Ug2GN-jEAeBHpYZ6ryOslPXA/s0/10343001_10152398031062347_1407273880884359187_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3wWuOWc7X4FpRl7scoIXf7RoQ1QSIVHd7BiheJ9nb7j_c1-T97JP2J1btJ5F9aZ0G56UcX-_jo_UkheK3OFdbY5u6vqEovTbEGTFqyQSQlFrq31xhq6Ug2GN-jEAeBHpYZ6ryOslPXA/s1600/10343001_10152398031062347_1407273880884359187_n.jpg",
+        "filename": "10343001_10152398031062347_1407273880884359187_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil3wWuOWc7X4FpRl7scoIXf7RoQ1QSIVHd7BiheJ9nb7j_c1-T97JP2J1btJ5F9aZ0G56UcX-_jo_UkheK3OFdbY5u6vqEovTbEGTFqyQSQlFrq31xhq6Ug2GN-jEAeBHpYZ6ryOslPXA/s1600/10343001_10152398031062347_1407273880884359187_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "vstup do hradiska chránila mohutná kliešťová brána"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg13wqR7Q5tDSmgqqtpmJ16rM9Yvx1nmivNAkYGdz3v484Q7hhrzDuNGqvaMg5luDuWuz189sjO7xGRqpr_AO2pEJ652e8EcJyojU0p_22Hkk7ufRU4lliBurjiSw9anGGDXhnSnlPP0GM/s0/10356281_10152398056222347_4225453579524420775_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg13wqR7Q5tDSmgqqtpmJ16rM9Yvx1nmivNAkYGdz3v484Q7hhrzDuNGqvaMg5luDuWuz189sjO7xGRqpr_AO2pEJ652e8EcJyojU0p_22Hkk7ufRU4lliBurjiSw9anGGDXhnSnlPP0GM/s1600/10356281_10152398056222347_4225453579524420775_n.jpg",
+        "filename": "10356281_10152398056222347_4225453579524420775_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg13wqR7Q5tDSmgqqtpmJ16rM9Yvx1nmivNAkYGdz3v484Q7hhrzDuNGqvaMg5luDuWuz189sjO7xGRqpr_AO2pEJ652e8EcJyojU0p_22Hkk7ufRU4lliBurjiSw9anGGDXhnSnlPP0GM/s1600/10356281_10152398056222347_4225453579524420775_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "pohľad na ďalšie terasy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZDtxVj55o4sj_QAelDZeV6AKJKKS_UIpXF7KbX-KzFkHUuVY-XyD3FnoJTUE5ikCdYStEGN7z19njv6AfrgWk1kPP4WtnvZ2AjhaVNVY_Ukk6KO9AasWqk2oYvCYu0TKX227uaqsH8C0/s0/10364098_10152398052547347_7834454871571572541_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZDtxVj55o4sj_QAelDZeV6AKJKKS_UIpXF7KbX-KzFkHUuVY-XyD3FnoJTUE5ikCdYStEGN7z19njv6AfrgWk1kPP4WtnvZ2AjhaVNVY_Ukk6KO9AasWqk2oYvCYu0TKX227uaqsH8C0/s1600/10364098_10152398052547347_7834454871571572541_n.jpg",
+        "filename": "10364098_10152398052547347_7834454871571572541_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZDtxVj55o4sj_QAelDZeV6AKJKKS_UIpXF7KbX-KzFkHUuVY-XyD3FnoJTUE5ikCdYStEGN7z19njv6AfrgWk1kPP4WtnvZ2AjhaVNVY_Ukk6KO9AasWqk2oYvCYu0TKX227uaqsH8C0/s1600/10364098_10152398052547347_7834454871571572541_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWv-9qaaQ8RA9wNUXpiftYb24FgRTciEjVXt9EeacXX8qHhfoRyFO9qkCwVaTfTvW4O7nvkwEbU1kehaAyVeMl-7lwz9bTCErTe2K2qwxei3w8wyWAWK9TgoDk87cgBbwCp7gsK6jbnWE/s0/10366188_10152398053037347_2560515005003368115_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWv-9qaaQ8RA9wNUXpiftYb24FgRTciEjVXt9EeacXX8qHhfoRyFO9qkCwVaTfTvW4O7nvkwEbU1kehaAyVeMl-7lwz9bTCErTe2K2qwxei3w8wyWAWK9TgoDk87cgBbwCp7gsK6jbnWE/s1600/10366188_10152398053037347_2560515005003368115_n.jpg",
+        "filename": "10366188_10152398053037347_2560515005003368115_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWv-9qaaQ8RA9wNUXpiftYb24FgRTciEjVXt9EeacXX8qHhfoRyFO9qkCwVaTfTvW4O7nvkwEbU1kehaAyVeMl-7lwz9bTCErTe2K2qwxei3w8wyWAWK9TgoDk87cgBbwCp7gsK6jbnWE/s1600/10366188_10152398053037347_2560515005003368115_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmIwqmYg5xz8NN7AdNloNmYnf0CKn19CAxiJMl_JQBQGwGDsN5D87RQ9ki-hU8VqKI_hyphenhyphenkFS5DSVAdG2qkS0uxvbyyXLRiCjLO-z69V4f-SQXHf-m-zmekRXvDODTFphfPyolGVNoShvc/s0/10376291_10152398053122347_3709504133039824472_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmIwqmYg5xz8NN7AdNloNmYnf0CKn19CAxiJMl_JQBQGwGDsN5D87RQ9ki-hU8VqKI_hyphenhyphenkFS5DSVAdG2qkS0uxvbyyXLRiCjLO-z69V4f-SQXHf-m-zmekRXvDODTFphfPyolGVNoShvc/s1600/10376291_10152398053122347_3709504133039824472_n.jpg",
+        "filename": "10376291_10152398053122347_3709504133039824472_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmIwqmYg5xz8NN7AdNloNmYnf0CKn19CAxiJMl_JQBQGwGDsN5D87RQ9ki-hU8VqKI_hyphenhyphenkFS5DSVAdG2qkS0uxvbyyXLRiCjLO-z69V4f-SQXHf-m-zmekRXvDODTFphfPyolGVNoShvc/s1600/10376291_10152398053122347_3709504133039824472_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU7YStIUU_VXBG_dJ3opeX3XyfnWNdUuXVNLbs910AbFk-uJryubSlOM-ZB0HM6jx8tblnqaUtKkFBVvtneUyePXjGQbNgSJyf7x6tMyyxpjLXR75qqywlHNTz6-IkFf3MpHdwhuIe_kk/s0/10390108_10152398035337347_3815291007904565243_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU7YStIUU_VXBG_dJ3opeX3XyfnWNdUuXVNLbs910AbFk-uJryubSlOM-ZB0HM6jx8tblnqaUtKkFBVvtneUyePXjGQbNgSJyf7x6tMyyxpjLXR75qqywlHNTz6-IkFf3MpHdwhuIe_kk/s1600/10390108_10152398035337347_3815291007904565243_n.jpg",
+        "filename": "10390108_10152398035337347_3815291007904565243_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU7YStIUU_VXBG_dJ3opeX3XyfnWNdUuXVNLbs910AbFk-uJryubSlOM-ZB0HM6jx8tblnqaUtKkFBVvtneUyePXjGQbNgSJyf7x6tMyyxpjLXR75qqywlHNTz6-IkFf3MpHdwhuIe_kk/s1600/10390108_10152398035337347_3815291007904565243_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "jeden z okrajov hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8CYC1yNbCe52r5dT33s2nuYqs6gLHhfseNgU9pL10MxTolF5JgvpnwUTIZkTEt9YiHk0HxtY0PzQf89AmUAEfO8eacuXpc5xAKSPnwsFe9xWLuPYwj6nsX-kIAf5x_zaqcDmwUHwlQKY/s0/10401467_10152398032837347_3881378522816588380_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8CYC1yNbCe52r5dT33s2nuYqs6gLHhfseNgU9pL10MxTolF5JgvpnwUTIZkTEt9YiHk0HxtY0PzQf89AmUAEfO8eacuXpc5xAKSPnwsFe9xWLuPYwj6nsX-kIAf5x_zaqcDmwUHwlQKY/s1600/10401467_10152398032837347_3881378522816588380_n.jpg",
+        "filename": "10401467_10152398032837347_3881378522816588380_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8CYC1yNbCe52r5dT33s2nuYqs6gLHhfseNgU9pL10MxTolF5JgvpnwUTIZkTEt9YiHk0HxtY0PzQf89AmUAEfO8eacuXpc5xAKSPnwsFe9xWLuPYwj6nsX-kIAf5x_zaqcDmwUHwlQKY/s1600/10401467_10152398032837347_3881378522816588380_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAxtNNNid55pk1i8dHCk8SA8KutJPPeMh0wJjbK8iS_0sBIe0YAhsXBQ_r2IMxeMwPU4hTQ0S_VTfugjQYYUcZ8Qs94QMkKx1rqgp6xEmWJRrOymG5chj6wPCHrRh3ujVYyrZxTd6GRwk/s0/10401920_10152398057242347_9021239411100464646_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAxtNNNid55pk1i8dHCk8SA8KutJPPeMh0wJjbK8iS_0sBIe0YAhsXBQ_r2IMxeMwPU4hTQ0S_VTfugjQYYUcZ8Qs94QMkKx1rqgp6xEmWJRrOymG5chj6wPCHrRh3ujVYyrZxTd6GRwk/s1600/10401920_10152398057242347_9021239411100464646_n.jpg",
+        "filename": "10401920_10152398057242347_9021239411100464646_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAxtNNNid55pk1i8dHCk8SA8KutJPPeMh0wJjbK8iS_0sBIe0YAhsXBQ_r2IMxeMwPU4hTQ0S_VTfugjQYYUcZ8Qs94QMkKx1rqgp6xEmWJRrOymG5chj6wPCHrRh3ujVYyrZxTd6GRwk/s1600/10401920_10152398057242347_9021239411100464646_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "opäť kliešťová brána"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIdIbt0dCzhKeKPFspXzUK-SedG7k3GA0xE0BzHkAqESPCrqsIJqYtZHYNpN1BBcyWrGTr1hHqSDVanCGn6WwXfaLsnepER0SWPQWv1mN4BERjdLVuRd8WUh39RLezutq6VcJchDoSsho/s0/10407040_10152398039217347_1544972590055722036_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIdIbt0dCzhKeKPFspXzUK-SedG7k3GA0xE0BzHkAqESPCrqsIJqYtZHYNpN1BBcyWrGTr1hHqSDVanCGn6WwXfaLsnepER0SWPQWv1mN4BERjdLVuRd8WUh39RLezutq6VcJchDoSsho/s1600/10407040_10152398039217347_1544972590055722036_n.jpg",
+        "filename": "10407040_10152398039217347_1544972590055722036_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIdIbt0dCzhKeKPFspXzUK-SedG7k3GA0xE0BzHkAqESPCrqsIJqYtZHYNpN1BBcyWrGTr1hHqSDVanCGn6WwXfaLsnepER0SWPQWv1mN4BERjdLVuRd8WUh39RLezutq6VcJchDoSsho/s1600/10407040_10152398039217347_1544972590055722036_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "krásne výhľady z hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-HOC_I3dXVA4uCm2t74DY3yIPLICCH5WhtADOKl4nabrEWYaGPyIS71W5vl_d-D7yrIA3lUXBa4Jh9EX3RRqMIR1e8aNmSLURS4Dp-6ulp0_T67imxR5CqrSdGy4qH8SJbJQjtdToOWk/s0/10411998_10152398055492347_1475769508077692850_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-HOC_I3dXVA4uCm2t74DY3yIPLICCH5WhtADOKl4nabrEWYaGPyIS71W5vl_d-D7yrIA3lUXBa4Jh9EX3RRqMIR1e8aNmSLURS4Dp-6ulp0_T67imxR5CqrSdGy4qH8SJbJQjtdToOWk/s1600/10411998_10152398055492347_1475769508077692850_n.jpg",
+        "filename": "10411998_10152398055492347_1475769508077692850_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-HOC_I3dXVA4uCm2t74DY3yIPLICCH5WhtADOKl4nabrEWYaGPyIS71W5vl_d-D7yrIA3lUXBa4Jh9EX3RRqMIR1e8aNmSLURS4Dp-6ulp0_T67imxR5CqrSdGy4qH8SJbJQjtdToOWk/s1600/10411998_10152398055492347_1475769508077692850_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbpVgT5leKNrUWL2QrczfXCnuEDJmGjwCbU1L3PXs1erGAgJW5z1W295HxYKaZVJHCsRhbwk10E7vq6J5feCl7o0oO63UX9WDi9VuwiqM98MmoWyMCVrYFNaEDHNgw2TOufxuOdTRVEIQ/s0/10417699_10152398042272347_2865690939577983072_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbpVgT5leKNrUWL2QrczfXCnuEDJmGjwCbU1L3PXs1erGAgJW5z1W295HxYKaZVJHCsRhbwk10E7vq6J5feCl7o0oO63UX9WDi9VuwiqM98MmoWyMCVrYFNaEDHNgw2TOufxuOdTRVEIQ/s1600/10417699_10152398042272347_2865690939577983072_n.jpg",
+        "filename": "10417699_10152398042272347_2865690939577983072_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbpVgT5leKNrUWL2QrczfXCnuEDJmGjwCbU1L3PXs1erGAgJW5z1W295HxYKaZVJHCsRhbwk10E7vq6J5feCl7o0oO63UX9WDi9VuwiqM98MmoWyMCVrYFNaEDHNgw2TOufxuOdTRVEIQ/s1600/10417699_10152398042272347_2865690939577983072_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Malý Manín"
+    ],
+    "category": null,
+    "location": {
+      "name": "Malý Manín",
+      "latitude": 49.131071,
+      "longitude": 18.50956,
+      "region": null,
+      "country": null
+    },
+    "keyFacts": [
+      {
+        "label": "Nadmorská výška",
+        "value": "812 m n. m.",
+        "icon": "mountain"
+      },
+      {
+        "label": "Rozloha hradiska",
+        "value": "viac ako 8 ha, dĺžka približne 630 m, šírka 80–120 m",
+        "icon": "map"
+      },
+      {
+        "label": "Odhadovaný počet domov",
+        "value": "asi 50 až 60",
+        "icon": "building"
+      },
+      {
+        "label": "Cisterna na dažďovú vodu",
+        "value": "priemer 15 m, hĺbka 1,5 m",
+        "icon": "water"
+      },
+      {
+        "label": "Vstup do hradiska",
+        "value": "kliešťová brána lemovaná hlinenými valmi, serpentínová prístupová cesta",
+        "icon": "shield"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "okolo 1000 pred Kristom",
+        "title": "Najstaršie osídlenie (lužická kultúra)",
+        "description": "Predpokladá sa, že lokalita bola osídlená už 1000 rokov pred Kristom; najstaršie črepy možno datovať do obdobia mladšej doby bronzovej.",
+        "type": "founding"
+      },
+      {
+        "year": "do 3. storočia pred Kristom",
+        "title": "Trvanie lužickej kultúry",
+        "description": "Lužická kultúra pôsobila na lokalite v mladšej dobe bronzovej aj staršej dobe železnej, trvala až do 3. storočia pred Kristom.",
+        "type": "era"
+      },
+      {
+        "year": "mladšia doba železná",
+        "title": "Osídlenie púchovskou kultúrou",
+        "description": "Keramika púchovskej kultúry bola značne odlišná — vyrábala sa na hrnčiarskom kruhu, vyrábali sa aj zásobnice a časť keramiky z grafitu.",
+        "type": "era"
+      },
+      {
+        "year": "1. storočie n. l.",
+        "title": "Opustenie hradiska",
+        "description": "Predpokladá sa, že hradisko bolo opustené v prvom storočí nášho letopočtu v dobe rímskej.",
+        "type": "destruction"
+      },
+      {
+        "year": "2000",
+        "title": "Archeologický výskum náhornej plošiny",
+        "description": "V roku 2000 sa na náhornej plošine v niektorých terasách zistilo osídlenie viacerých období — od mladšej doby bronzovej cez staršiu a mladšiu dobu železnú až po dobu rímsku.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Malý Manín je súčasťou Strážovskej vrchoviny, rozprestiera sa na ľavom brehu Váhu stredného Považia. Je súčasťou Manínskej tiesňavy. Nadmorská výška malého Manína je 812 m. n. m."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V roku 2000 sa na náhornej plošine v niektorých terasách zistilo osídlenie viacerých období a síce od ml. doby bronzovej, st. a ml. doby železnej až po dobu rímsku. Po dlhšom sledovaní sa zistilo opevnenie – valy, vstupná brána kliešťového tvaru, prístupová cesta serpentínového tvaru, miestami 3–4 m široká - jediný vstup do celého areálu, predpokladané cisterny na zachytávanie dažďovej vody."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rozloha hradiska je viac ako 8 ha plochy, dĺžka približne 630 m a šírka je 80–120 m. Na celej ploche hradiska sa nachádzajú terasy a v nich úlomky keramiky – črepy, prevažne lužickej a púchovskej kultúry, úlomky zo závažia na tkáčsky stav – krosná, prasleny vyrobené z úlomkov grafitovej keramiky, väčšie množstvo prepálenej hliny – mazanice (výplň medzi drevami v obydlí), rôzne kovové predmety – železná sekera, časť bronzového náramku, železná ostroha a iné."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAthlTzhRmJhFCOJsBDr-odotP9De1eUx4E_lf8zyEbKjN0zBOskKF3lr313MOma7rniaTxLlnzMoQXDVzBIQwu3mHEnMB6hL6BsyPT_Ks0tUW3sAGbJ_iRwO6tz8cybpiMk_zAr4fEeM/s0/mapka.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAthlTzhRmJhFCOJsBDr-odotP9De1eUx4E_lf8zyEbKjN0zBOskKF3lr313MOma7rniaTxLlnzMoQXDVzBIQwu3mHEnMB6hL6BsyPT_Ks0tUW3sAGbJ_iRwO6tz8cybpiMk_zAr4fEeM/s1600/mapka.JPG",
+          "filename": "mapka.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAthlTzhRmJhFCOJsBDr-odotP9De1eUx4E_lf8zyEbKjN0zBOskKF3lr313MOma7rniaTxLlnzMoQXDVzBIQwu3mHEnMB6hL6BsyPT_Ks0tUW3sAGbJ_iRwO6tz8cybpiMk_zAr4fEeM/s1600/mapka.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 217,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Malý Manín",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Predpokladá sa, že lokalita bola osídlená už 1000 rokov pred Kristom. Patrila medzi najväčšie na rozlohu v okolí Pov. Bystrice. Nájdené predmety určovali odborní pracovníci: Jozef Moravčík – promovaný historik a Mgr. Róbert Majský – archeológ vlastivedného múzea v Pov. Bystrici."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Malý Manín – keramika"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podľa nájdených úlomkov keramika sa dá určiť obdobie výroby, tvar a veľkosť nádoby, z akého materiálu a akým spôsobom bola keramika vyrábaná. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najstaršie črepy možno datovať do obdobia ml. doby bronzovej, okolo 1000 rokov pred Kristom. Keramika sa vyrábala voľne v ruke, nie na hrnčiarskom kruhu. Tvar nádoby bol baňovitý, v strede značne rozšírený, vrchný okraj mierne vyklonený. Výzdoba - vo väčšine prípadov to boli vodorovné čiary, medzi nimi kruhy, niekedy pretláčanie prstom- jamky. Obyčajne bývali proti sebe dve alebo štyri malé ušká, spravidla výzdoba bola v hornej časti nádoby. Väčšinou sa na výrobu používal jemnozrnný materiál ako jemný piesok. V neskoršom období, st. dobe železnej tvar keramiky sa mierne zmenil, používal sa viac hrubozrnný materiál, často sa namiesto ušiek používali výčnelky. V oboch obdobiach pôsobila lužická kultúra. Trvala až do 3. stor. pred Kristom. Keramika púchovskej kultúry bola značne odlišná, jednak výzdobou, používali sa zvislé čiary, vrchný okraj bol olemovaný, do zmesi sa používal drtený vápenec, nakoľko sa vyrábalo na hrnčiarskom kruhu, vyrábali sa nádoby väčších rozmerov – zásobnice, časť keramiky sa vyrábala z grafitu. Výroba závažia na krosná, bola ílovitá zemina, mierne vypálená ihlanovitého tvaru, vo vrchnej časti otvor na zavesenie. Závažia sa používali prevažne v ml. dobe železnej v púchovskej kultúre."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLODlGRGBkxEcuLVtz7NaFtW4wioD8jo2w-E4HlUPahmN4sTXIImuzEkz_Z4nzISHmgSYXeZJQyiddmnjPfRhd5Fj8AmodCvrPOM6-Tx3LupO7PgEIBKCLNp_p7oVuqqYy3OaA4kg7-2Q/s0/AN_Maly%CC%81+Mani%CC%81n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLODlGRGBkxEcuLVtz7NaFtW4wioD8jo2w-E4HlUPahmN4sTXIImuzEkz_Z4nzISHmgSYXeZJQyiddmnjPfRhd5Fj8AmodCvrPOM6-Tx3LupO7PgEIBKCLNp_p7oVuqqYy3OaA4kg7-2Q/s1600/AN_Maly%CC%81+Mani%CC%81n.jpg",
+          "filename": "AN_Malý+Manín.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLODlGRGBkxEcuLVtz7NaFtW4wioD8jo2w-E4HlUPahmN4sTXIImuzEkz_Z4nzISHmgSYXeZJQyiddmnjPfRhd5Fj8AmodCvrPOM6-Tx3LupO7PgEIBKCLNp_p7oVuqqYy3OaA4kg7-2Q/s1600/AN_Maly%CC%81+Mani%CC%81n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 226,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Malý Manín",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Malý Manín – obydlia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Obydlie v ml. dobe bronzovej sa stavalo prevažne zahĺbené kôly do zeme, ktoré boli od seba asi pol metra a poprepletané palicami. Podľa nájdených predmetov palice boli vymazávané hlinou – mazanicou, ktorá bola premiešaná plevami. Dôkazom sú odtlačky v mazanici. Podľa terasy dom mal rozmermi približne 5 m dlhý a okolo 3,5 m široký. Mierne zapustený do zeme, pokrytý slamou alebo trstinou. V staršom období, podľa literatúry tieto domy nemali okná, len malé otvory pre vzduch. Dvere pravdepodobne tvorila zavesená kožušina. V strede objektu obyčajne bývalo ohnisko a po okrajoch nejaké lôžka – postele. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pravdepodobne k obydliam boli pristavené aj hospodárske budovy alebo chlievy. K obydliu bol zrejme chodník, ktorý bol lemovaný okrúhlymi kameňmi z Váhu. Odokrytý bol asi 1,5 m dlhý lem. Odhadom na Malom Maníne bolo asi 50 až 60 takýchto domov. Zaujímavou stavbou na lokalite bola jama, pravdepodobne podľa archeológov cisterna na zachytávanie dažďovej vody. Na vrchnom okraji je 15 m široká a v strede je 1,5 m hlboká. Je takmer zo všetkých strán na najnižšom mieste. Ďalšou zaujímavou stavbou je kliešťová brána, ktorá je z každej strany lemovaná hlinenými valmi. Prístupová cesta bola serpentínového tvaru, miestami 2 až 4 m široká. Predpokladáme, že hradisko bolo opustené v prvom storočí nášho letopočtu v dobe rímskej. Viac vedomostí by umožnil odborný archeologický prieskum, ktorý by odhalil ďalšie neznáme okolnosti."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTEkMY4WSkN4QTSCO4l95bB3ul7hkShduweNR1qOgyArx3Ymowc1laXQ4rc0bCmHdimXu_ePMLKounqZBbWyo2AWNgc5nImQqBIdlmURF9st51qZbCZiaGFmKzgJVFVU5qMepPxh5vr-U/s0/fukt%C3%BAra.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTEkMY4WSkN4QTSCO4l95bB3ul7hkShduweNR1qOgyArx3Ymowc1laXQ4rc0bCmHdimXu_ePMLKounqZBbWyo2AWNgc5nImQqBIdlmURF9st51qZbCZiaGFmKzgJVFVU5qMepPxh5vr-U/s1600/fukt%C3%BAra.jpg",
+          "filename": "fuktúra.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTEkMY4WSkN4QTSCO4l95bB3ul7hkShduweNR1qOgyArx3Ymowc1laXQ4rc0bCmHdimXu_ePMLKounqZBbWyo2AWNgc5nImQqBIdlmURF9st51qZbCZiaGFmKzgJVFVU5qMepPxh5vr-U/s1600/fukt%C3%BAra.jpg",
+            "displayedWidth": 232,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "keramika púchovskej kultúry a náramok",
+        "caption": "keramika púchovskej kultúry a náramok",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Foto: Výlet na hradisko s Ladislavom Janechom 1.6.2014",
+            "url": null
+          },
+          {
+            "text": "NAVŠTÍVTE VÝNIMOČNÉ ARCHEOLOGICKÉ MÚZEUM PÁNA JANECHA",
+            "url": "http://www.slovakia.travel/entitaview.aspx?l=1&idp=18196"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Foto: Výlet na hradisko s Ladislavom Janechom 1.6.2014"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.slovakia.travel/entitaview.aspx?l=1&idp=18196",
+        "title": "NAVŠTÍVTE VÝNIMOČNÉ ARCHEOLOGICKÉ MÚZEUM PÁNA JANECHA"
+      }
+    ]
+  }
+}

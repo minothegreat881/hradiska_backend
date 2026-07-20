@@ -25,6 +25,10 @@
     "description": {
       "type": "text"
     },
+    "order": {
+      "type": "integer",
+      "default": 100
+    },
     "posts": {
       "type": "relation",
       "relation": "oneToMany",

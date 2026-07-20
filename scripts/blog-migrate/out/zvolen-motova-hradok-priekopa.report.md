@@ -7,11 +7,11 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.59% vs originál (gramaticky opravené slová vyňaté: 0) — zvyšné mimo: 142, županom143, spracoval, foto (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (8) ⊆ galéria (17) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 9, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 1 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 8 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 7 položiek |
+| sources (zdroje) | 1 → 5 položiek |
 
 ## Obrázky
 - **galéria:** 17 (8 s popisom)
@@ -48,10 +48,16 @@
   - Súčasný stav: Zdevastované záhradkárskou osadou od roku 1967 — plató rozparcelované, priekopa čiastočne zasypaná, chatky postavené priamo na hrádku
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 1**
+  - interpunkcia (čiarky/bodky): 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `zabratú zvolenským županom sa nevzťahuje` → `zabratú zvolenským županom, sa nevzťahuje` | chýbajúca čiarka pred hlavnou vetou |
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 11391 znakov (1623 slov)
+- **text tela:** 11386 znakov (1623 slov)
+- **pokrytie textu vs originál:** 99.59% (mimo: 142, županom143, spracoval, foto)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

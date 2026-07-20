@@ -1,0 +1,11 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Bíňa, 13.7.2026. Vzor: 'veľkomoravský' ako prídavné meno v strede vety vždy malým (Veľká Morava ako názov štátu ostáva veľkým).",
+  "corrections": [
+    { "hint": 18, "before": "pod ich násypmi-nedali zistiť", "after": "pod ich násypmi nedali zistiť", "reason": "nadbytočný spojovník" },
+    { "hint": 21, "before": "pre Veľkomoravské hradiská", "after": "pre veľkomoravské hradiská", "reason": "prídavné meno malým (vzor)" },
+    { "hint": 39, "before": "Ide o hrob v ktorom", "after": "Ide o hrob, v ktorom", "reason": "chýbajúca čiarka pred vzťažnou vetou" },
+    { "hint": 44, "before": "má Veľkomoravský pôvod", "after": "má veľkomoravský pôvod", "reason": "prídavné meno malým (vzor)" },
+    { "hint": 49, "before": "vojvodovi Koppányoví, doslova uvádzajú: ,,Ked Štefan", "after": "vojvodovi Koppányovi, doslova uvádzajú: „Keď Štefan", "reason": "preklep v páde mena (overené v origináli) + dvojitá čiarka nahradená úvodzovkou (mechanický artefakt) + chýbajúci mäkčeň Keď" },
+    { "hint": 56, "before": "je zase jedným s argumentov", "after": "je zase jedným z argumentov", "reason": "predložka z" }
+  ]
+}

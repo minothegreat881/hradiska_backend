@@ -1,0 +1,107 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 10 timeline + 8 keyFacts.",
+  "timeline": [
+    {
+      "year": "okolo 700 pred n. l.",
+      "title": "Najstaršie osídlenie",
+      "description": "Najstaršie obyvateľstvo sídlilo na najnižšie položenej časti hradiska; doložené bronzovými ihlicami, kosákom, strelkou a halštatskou keramikou.",
+      "type": "founding"
+    },
+    {
+      "year": "mladšia doba železná (laténska)",
+      "title": "Výrazné laténske osídlenie",
+      "description": "Hradisko sa radí k laténskym hradiskám hornej Nitry, svedčiacim o expanzii keltsko-dáckeho obyvateľstva; opevnenie z tohto obdobia bolo objavené na južnej strane hradiska (púchovská kultúra).",
+      "type": "construction"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Prebudovanie na slovanské hradisko",
+      "description": "Slovanské obyvateľstvo si prebudovalo pôvodné laténske opevnenie podľa svojich potrieb; najvýznamnejšie nálezy (ostrohy, sekery, hrivna) pochádzajú z 9. a 10. storočia.",
+      "type": "construction"
+    },
+    {
+      "year": "10. – 11. storočie",
+      "title": "Menej výrazná etapa osídlenia",
+      "description": "Štyri dvorce hradiska sa v tomto období využívali menej intenzívne než v dobe veľkomoravskej.",
+      "type": "event"
+    },
+    {
+      "year": "12. – 14. storočie",
+      "title": "Prestavba na stredoveký hrad",
+      "description": "Celý areál hradiska bol prebudovaný a opravený na mieste staršieho valového opevnenia; z tohto obdobia pochádza veľké množstvo nálezov vrátane zbraní a jazdeckého výstroja.",
+      "type": "construction"
+    },
+    {
+      "year": "1235 – 1277",
+      "title": "Zánik panstva Diviackovcov",
+      "description": "Po tatárskom vpáde (1277) sa Vyšehrad spomína už len ako bývalý hrad; spolu s panstvom Diviackovcov na Vyšehrade zanikla jeho sláva.",
+      "type": "destruction"
+    },
+    {
+      "year": "1458 – 1467",
+      "title": "Útočisko bratríckeho vojska",
+      "description": "Časť prenasledovaných husitských bratríkov sa uchýlila na Vyšehrad a na čas sa tam opevnila; kráľovské vojská bratríkov postupne likvidovali.",
+      "type": "event"
+    },
+    {
+      "year": "15. storočie",
+      "title": "Definitívny odchod posledných obyvateľov",
+      "description": "Mince z druhej polovice 15. storočia roztrúsené po celom areáli dokazujú, že odchod posledných obyvateľov Vyšehradu nebol dobrovoľný.",
+      "type": "destruction"
+    },
+    {
+      "year": "1928",
+      "title": "Janšákov opis hradiska",
+      "description": "Štefan Janšák podrobne opísal a zameral Vyšehrad, prirovnal jeho pôdorys k ľudskej šľapaji.",
+      "type": "discovery"
+    },
+    {
+      "year": "70. roky 20. storočia",
+      "title": "Archeologický výskum Marty Remiášovej",
+      "description": "Riadny archeologický výskum zachytil stredoveké i slovanské osídlenie vo všetkých štyroch častiach hradiska.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Hrebeň pohoria Žiar, hranica medzi Turcom a Nitrou, nadmorská výška 829 m; katastrálne územie Nitrianskeho Pravna, blízko obce Jasenovo",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozloha",
+      "value": "Celková plocha 455 árov, rozdelená valmi na štyri samostatné dvorce",
+      "icon": "shield"
+    },
+    {
+      "label": "Prvý dvorec",
+      "value": "Najvyššie položená časť, cca 40 m dlhá — stál tu stredoveký hrádok (12. – 14. storočie), pravdepodobne opevnená a obývaná už v dobe veľkomoravskej i praveku",
+      "icon": "crown"
+    },
+    {
+      "label": "Druhý dvorec",
+      "value": "Takmer pravidelný obdĺžnikový tvar 60 × 40 m so vstupnou bránou zo severozápadu; osídlenie slovanské, stredoveké aj praveké",
+      "icon": "building"
+    },
+    {
+      "label": "Štvrtý dvorec",
+      "value": "Najnižšie položený (770 m n. m.), samostatný útvar 23 × 50 m z 15. storočia — vybudovaný v poslednom období existencie hradiska",
+      "icon": "shield"
+    },
+    {
+      "label": "Strategický význam",
+      "value": "Poloha na predele Turca a Nitry pri prastarej obchodnej ceste (Soľná/Jantárová cesta) — možné pôvodné kmeňové stredisko tunajších Slovanov",
+      "icon": "star"
+    },
+    {
+      "label": "Ústna tradícia",
+      "value": "Zachovaná pieseň o Vyšehrade (viazaná na tatársky vpád 1241 – 1242) a viacero povestí o zakliatej paničke a vyšehradskom poklade",
+      "icon": "scroll"
+    },
+    {
+      "label": "Výskumníci",
+      "value": "K. A. Medvecký (prvý výskum), Š. Janšák (opis a zameranie, 1928), Marta Remiášová (systematický výskum, 70. roky 20. storočia)",
+      "icon": "scroll"
+    }
+  ]
+}

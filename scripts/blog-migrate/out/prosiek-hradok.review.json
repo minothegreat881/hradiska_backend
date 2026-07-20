@@ -1,0 +1,15 @@
+{
+  "slug": "prosiek-hradok",
+  "flags": [
+    {
+      "type": "MISSING_WORD",
+      "location": "blocks[4]",
+      "note": "\"Železná ihla dlhá 53 mm, šidlo (135 mm) a pracka s rámikom z bronzového drôtu, so zvyškom železného tŕňa.\" is a verbless nominal listing continuing the previous sentence. Likely intentional elliptical catalogue style (common in archaeological find descriptions), but technically matches SS21.5 MISSING_WORD -- flagged for human confirmation, not rewritten."
+    },
+    {
+      "type": "UNCERTAIN_OCR",
+      "location": "gallery[3].caption / content.sources item[1]",
+      "note": "gallery[3]: \"Oravy1\" -- stray digit \"1\" glued to end of word, possibly an orphaned footnote marker in the citation title; left unchanged (ambiguous whether to drop or space it). sources[1]: \"AJ-, 11, 1891\" -- \"AJ-,\" looks like a garbled journal abbreviation (Hungarian source); left unchanged, verbatim foreign citation."
+    }
+  ]
+}

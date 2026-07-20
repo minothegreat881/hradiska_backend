@@ -1,0 +1,40 @@
+{
+  "slug": "dolna-marikova-simunky",
+  "appliedFixes": [
+    { "id": "01", "type": "Šimunky/Šimúnky", "note": "Zjednotené na 'Šimunky' (bez dĺžňa) mimo citátov — 2 skutočné nezhody opravené: blok 23 ('popod Šimúnky' -> 'popod Šimunky') a blok 25 ('na Šimúnkach' -> 'na Šimunkách', zároveň opravená chýbajúca dĺžeň á v koncovke). Schreiberov citát (Šimúnkami/Šimúniek/Šimúnkach) a 1941 kronika (Šimunkách) NEDOTKNUTÉ." },
+    { "id": "02", "note": "Nadbytočná zátvorka ')' po citáte Povalu odstránená (blok 12)." },
+    { "id": "03", "note": "Www.hradiska.sk -> www.hradiska.sk (Zdroje)." },
+    { "id": "04+správa", "note": "Prázdny intro riadok 'Literatúra:' odstránený zo Zdrojov (nastavené na null)." },
+    { "id": "05+správa", "note": "4 popisky fotiek (kamenný val, rozsypaný val, terénny zlom, hrebeň) odstránené zo Zdrojov — duplicita s galériou, kde už boli." },
+    { "id": "06", "note": "KF 'Zánik hradiska' doplnené o 'pravdepodobne' pri zničení Starými Maďarmi." },
+    { "id": "07", "note": "Vtip o 'tvrdom naturele' obyvateľov Marikovej oddelený zátvorkou '(samozrejme žartom)' (blok 25)." },
+    { "id": "08", "note": "Záverečná rétorická veta ponechaná bezo zmeny — report explicitne nežiadal jej odstránenie, len upozorňoval na register." },
+    { "id": "09", "note": "Obrátená kauzalita prepísaná podľa návrhu (blok 25)." },
+    { "id": "10", "note": "Súčasná -> Súbežná dvojitá/trojitá funkcia (blok 25)." },
+    { "id": "11", "note": "Rober Májsky -> Robert Majsky (meno v texte aj v texte odkazu, blok 10)." },
+    { "id": "12", "note": "okrej -> okraj hradiska — v Zdrojoch odpadlo automaticky (položka zmazaná pri #05), opravené v galérii (media 1985)." },
+    { "id": "13", "note": "prevedených -> uskutočnilo sa (blok 15)." },
+    { "id": "14", "note": "nakoľko -> keďže (blok 21)." },
+    { "id": "15", "note": "jedná sa/jednalo -> ide/išlo (blok 21 aj 25)." },
+    { "id": "16", "note": "nie len -> nielen (blok 25)." },
+    { "id": "17", "note": "Žiaľ výskum -> Žiaľ, výskum + preusporiadaný slovosled (blok 18)." },
+    { "id": "18", "note": "Nadbytočná čiarka pred 'v podobe' odstránená (blok 8)." },
+    { "id": "19", "note": "prípadne -> prípade obliehania (blok 8)." },
+    { "id": "20", "note": "Nálezy ktoré -> Nálezy, ktoré — opravené v tele (blok 24) aj v galérii (media 1962)." },
+    { "id": "21", "note": "veľkej Moravy -> Veľkej Moravy — galéria (media 1975)." },
+    { "id": "22", "type": "typografia", "note": "12-15 metrov, 10-15 m, 8x10 m, 1x2 metre, 40x40 cm zjednotené na en dash/× — telo aj KF ('Poloha')." },
+    { "id": "23", "note": "601 m n.m. -> 601 m n. m. (telo aj KF)." },
+    { "id": "24", "type": "typografia", "note": "Nemecké zatváracie úvodzovky '“' (11 výskytov naprieč článkom, vrátane vnútra citátov — mení sa iba glyf, nie slová) nahradené rovným '\"' globálnym prechodom cez celé telo." },
+    { "id": "25", "note": "vodných zdrojov-studničiek -> vodných zdrojov — studničiek (blok 8)." },
+    { "id": "26", "note": "cez Klieštinu- Strážisko -> cez Klieštinu – Strážisko (blok 23)." },
+    { "id": "27", "note": "Vzorové dashe (1997–2000, Zbor. SNM...) ponechané, slúžili ako vzor pre zjednotenie." },
+    { "id": "28", "note": "s.259/s.7-36/s.131-133 -> s. 259 / s. 7 – 36 / s. 131 – 133 (Zdroje, položky Povala/Moravčík)." },
+    { "id": "29", "note": "(Púchovská kultúra) -> (púchovská kultúra) (blok 18)." },
+    { "id": "30", "note": "Tatárskeho vpádu -> tatárskeho vpádu (galéria, media 1978)." },
+    { "id": "31", "type": "cross-article", "note": "II. vojenské mapovanie -> 2. vojenské mapovanie (blok 10, Orgoňova vlastná veta). Výskyt v citáte Robera/Roberta Majského ponechaný nedotknutý." }
+  ],
+  "additionalRequests": [
+    "4 popisky fotiek + prázdny 'Literatúra:' riadok v Zdrojoch odstránené (rovnaká oprava ako #04/#05, potvrdená v samostatnej správe používateľa).",
+    "Heading 'Orgoň' (blok 27) ponechaný — používateľ ho len opísal ako 'trochu osamotený', nešlo o explicitnú žiadosť na zmenu."
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 11 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "pred 200 000 rokmi",
+      "title": "Najstaršie stopy človeka",
+      "description": "Najstaršie archeologické nálezy dokladajú prítomnosť človeka v Trenčíne a okolí.",
+      "type": "founding"
+    },
+    {
+      "year": "2. – 1. storočie pred n. l.",
+      "title": "Laténske obchodné stredisko",
+      "description": "Opevnené sídelné a obchodné stredisko s keltským obyvateľstvom udržiavajúcim vzťahy s Keltami na strednom Dunaji (nález zlatej mince Athena Alknis a tetradrachiem Biatek).",
+      "type": "construction"
+    },
+    {
+      "year": "179 n. l.",
+      "title": "Rímsky nápis na hradnej skale",
+      "description": "Latinský nápis dokladá víťazstvo rímskeho vojska (II. pomocná légia) nad germánskymi kmeňmi pri Laugariciu za vlády Marka Aurélia.",
+      "type": "event"
+    },
+    {
+      "year": "1. tretina 9. storočia",
+      "title": "Vybudovanie veľkomoravského hradiska",
+      "description": "Trojuholníkovitý pôdorys s komorovou konštrukciou valu, podobnou pobedimskému hradisku; vstup z juhu, zužovanie smerom k akropole.",
+      "type": "construction"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Postavenie veľkomoravskej rotundy",
+      "description": "Jednoduchá rotunda s interiérovou apsidou (priemer lode 750 cm) na akropole — dimenzie a stavebná technika typická pre Ducové, Staré Mesto a Levý Hradec.",
+      "type": "construction"
+    },
+    {
+      "year": "prelom 10./11. – 1. tretina 11. storočia",
+      "title": "Tetrakonchálna prestavba rotundy",
+      "description": "Nové prvky vymerané uhorskou kráľovskou stopou, paralelné s tetrakonchou sv. Petra a Pavla v Székesfehérvári — možno spojiť s aktivitami Štefana I.",
+      "type": "construction"
+    },
+    {
+      "year": "1086",
+      "title": "Nepriamy dôkaz o provincii Trenčín",
+      "description": "Listina o založení pražského biskupstva spomína provinciu Váh so strediskom pravdepodobne v Trenčíne.",
+      "type": "event"
+    },
+    {
+      "year": "1091",
+      "title": "Prvá písomná správa o hrade",
+      "description": "Kosmova kronika potvrdzuje existenciu hradu; údajne tu bol prijatý a ubytovaný neskorší český kráľ Břetislav II.",
+      "type": "event"
+    },
+    {
+      "year": "1111, 1113",
+      "title": "Zoborské listiny",
+      "description": "Trenčín sa spomína ako civitas Treinchen — mesto.",
+      "type": "event"
+    },
+    {
+      "year": "12. – 13. storočie",
+      "title": "Hradisko prestáva plniť svoju funkciu",
+      "description": "Stavebná aktivita pokračuje už len na akropole; Trenčín zostáva župným sídlom až do novoveku.",
+      "type": "event"
+    },
+    {
+      "year": "80. roky 20. storočia",
+      "title": "Potvrdenie funkčnosti valu v 12. storočí",
+      "description": "Archeologický výskum potvrdil funkčnosť zvyškov valového opevnenia na Čerešňovom sade ešte v 12. storočí.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Strmé vápencové bralo priamo nad mestom Trenčín, dominanta Stredného Považia",
+      "icon": "mountain"
+    },
+    {
+      "label": "Hradisko a akropola",
+      "value": "Pôvodne trojuholníkovitý pôdorys, jeden roh zasahoval do priestoru neskoršieho stredovekého hradu (akropola)",
+      "icon": "shield"
+    },
+    {
+      "label": "Veľkomoravská rotunda",
+      "value": "Kruhová loď s priemerom 750 cm, neskôr prestavaná na tetrakonchu so 4 pásovými konchami (šírka 315 – 380 cm)",
+      "icon": "building"
+    },
+    {
+      "label": "Paralely rotundy",
+      "value": "Dimenzie a stavebná technika zhodné s rotundami v Ducovom, Starom Meste a Levom Hradci — potvrdzuje veľkomoravský pôvod",
+      "icon": "crown"
+    },
+    {
+      "label": "Susedné hradiská",
+      "value": "Skalka (kostolík s polkruhovou apsidou), Čertova skala (Trenčianska Teplá) a Hradište — pravdepodobne refugiálneho či strážneho významu",
+      "icon": "star"
+    },
+    {
+      "label": "Najstarší trenčiansky župani",
+      "value": "Bogomel (12. stor.), Noska a Přemysl — slovanské mená, žiadna výraznejšia prítomnosť etnických Maďarov",
+      "icon": "scroll"
+    },
+    {
+      "label": "Kontinuita centra",
+      "value": "Porovnateľná s Bratislavou, Devínom, Zvolenom a Bojnou — veľkomoravské správne centrum pretrvávajúce do Uhorského kráľovstva",
+      "icon": "crown"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "_note": "5 opráv aplikovaných, 0 cross-node preskočených, 1 nenájdených v dumpe (možná halucinácia)",
+  "corrections": [
+    {
+      "block": "?",
+      "before": "najdený",
+      "after": "nájdený",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "najsť",
+      "after": "nájsť",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "Dr.Kolníková",
+      "after": "Dr. Kolníková",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "predpokladať že",
+      "after": "predpokladať, že",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "K o l n í k o v á : Nový",
+      "after": "Kolníková: Nový",
+      "reason": "gramatika/pravopis"
+    }
+  ],
+  "skippedNotFound": [
+    {
+      "before": "pädesiatych",
+      "after": "päťdesiatych"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "_note": "grammar-sk v7 §21 — 'VYŠIEL NÁŠ ZBORNÍK O HRADISKÁCH' (2016-01).",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "\"Hradiská",
+      "after": "„Hradiská",
+      "reason": "otváracia úvodzovka (B)"
+    },
+    {
+      "hint": 0,
+      "before": "dávnych čias\"",
+      "after": "dávnych čias“",
+      "reason": "zatváracia úvodzovka (B)"
+    },
+    {
+      "hint": 0,
+      "before": "Hradiská - Svedkovia",
+      "after": "Hradiská – Svedkovia",
+      "reason": "spojovník → en dash (B)"
+    }
+  ]
+}

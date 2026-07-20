@@ -1,0 +1,37 @@
+{
+  "slug": "turie-hradek",
+  "note": "grammar-sk agent v7, prvý fresh beh (kategória 'Strážna a hospodárska funkcia' nikdy predtým neprešla v7). Krátky článok (18 blokov), Sources existovali. Hlavný nález: nekonzistentný tvar názvu lokality Hrádek/Hrádok naprieč poliami (viď review.json, FLAG, nemenené).",
+  "appliedFixes": [
+    { "rule": "B typografia (mechanická medzera v zloženom mene)", "before": "Turie- Hrádek", "after": "Turie-Hrádek", "block": "title, location.name, image alt (block 4)", "note": "iba oprava chýbajúcej medzery pred spojovníkom / nadbytočnej za ním; tvar Hrádek vs Hrádok viď review.json" },
+    { "rule": "A7 bohemizmus (k + datív namiesto na + akuzatív pri účele)", "before": "opäť využívali k ochrane okolitého územia", "after": "opäť využívali na ochranu okolitého územia", "block": 3 },
+    { "rule": "A3 zhoda podmetu s prísudkom (trojčlenný vymenovaný podmet)", "before": "ako bola Liptovská Mara - Havránok, Divinka – Veľký vrch, Púchov - Skalka a ďalšie", "after": "ako boli Liptovská Mara – Havránok, Divinka – Veľký vrch, Púchov – Skalka a ďalšie", "block": 5, "note": "spolu so zjednotením pomlčiek pri dvojčlenných názvoch lokalít (en dash s medzerami, podľa vzoru už existujúceho 'Divinka – Veľký vrch')" },
+    { "rule": "B typografia (číselný rozsah, en dash)", "before": "do 1. - 2. stor. n. l.", "after": "do 1. – 2. stor. n. l.", "block": 5 },
+    { "rule": "B typografia (číselný rozsah, en dash)", "before": "(3. - 4. stor. n. l.)", "after": "(3. – 4. stor. n. l.)", "block": 5 },
+    { "rule": "B typografia (číselný rozsah, en dash)", "before": "1.-2. stor. n. l. / z 1.-2. storočia n. l.", "after": "1. – 2. stor. n. l. / z 1. – 2. storočia n. l.", "block": "timeline (year + description)" },
+    { "rule": "B typografia (číselný rozsah, en dash)", "before": "10.-11. storočie", "after": "10. – 11. storočie", "block": "timeline.year" },
+    { "rule": "B typografia (číselný rozsah, en dash)", "before": "14.-15. storočie", "after": "14. – 15. storočie", "block": "timeline.year" },
+    { "rule": "B typografia (apozícia, em dash)", "before": "Menšie opevnenia - hrádky - iba dopĺňali", "after": "Menšie opevnenia — hrádky — iba dopĺňali", "block": 7 },
+    { "rule": "MISSING_WORD (chýbajúci predmetový zámen pred 'môžeme domnievať')", "before": "koľko bolo týchto menších opevnení, sa môžeme iba domnievať", "after": "koľko bolo týchto menších opevnení, o tom sa môžeme iba domnievať", "block": 8, "note": "'domnievať sa' vyžaduje väzbu 'o + lok.'; vzor §21.10" },
+    { "rule": "B typografia (číselný rozsah, en dash)", "before": "storočiach, 10. - 11., tu máme", "after": "storočiach, 10. – 11., tu máme", "block": 8 },
+    { "rule": "B typografia (číselný rozsah, en dash)", "before": "v 14. - 15. storočí dosiahlo", "after": "v 14. – 15. storočí dosiahlo", "block": 9 },
+    { "rule": "A8 archaizmus", "before": "Z tohoto časového úseku", "after": "Z tohto časového úseku", "block": 9 },
+    { "rule": "B typografia (apozícia, em dash)", "before": "zistilo viacero - napr. Gajary", "after": "zistilo viacero — napr. Gajary", "block": 11 },
+    { "rule": "A8 archaizmus", "before": "pretože do tohoto obdobia možno zaradiť", "after": "pretože do tohto obdobia možno zaradiť", "block": 13 },
+    { "rule": "B typografia (apozícia, em dash)", "before": "zemianska osada Tres Curiae - Tri dvory, ktorú", "after": "zemianska osada Tres Curiae — Tri dvory, ktorú", "block": 13, "note": "rovnaká oprava propagovaná do keyFacts aj timeline.description (tá istá fráza)" },
+    { "rule": "B typografia (apozícia, em dash)", "before": "sídlo miestneho zemana-menšieho feudála", "after": "sídlo miestneho zemana — menšieho feudála", "block": 13 },
+    { "rule": "B typografia (apozícia, em dash)", "before": "osady v tesnej blízkosti - Turie a Višňové", "after": "osady v tesnej blízkosti — Turie a Višňové", "block": 14 },
+    { "rule": "A3 zhoda podmetu s prísudkom (trojčlenný podmet, sloveso v jednotnom čísle)", "before": "V novodobej histórii hrádok skúmal Dr. Anton Petrovský-Šichman, Ondrej Šedo, a tiež Dr. Karol Pieta.", "after": "V novodobej histórii hrádok skúmali Dr. Anton Petrovský-Šichman, Ondrej Šedo, a tiež Dr. Karol Pieta.", "block": 16, "note": "keyFacts mala už správne 'skúmali' — telo malo chybné jednotné číslo" },
+    { "rule": "B typografia (zjednotenie úvodzoviek s house-style) + apozícia em dash + preklep zlepenej vety", "before": "\"odbornú\" ... \"výskumníci\" ... o \"poklady\" historickej hodnoty - keramiku. Drobné predmety, nálezovú situáciu, ktorá sa však ... \"bohatstva\" ... zpeňažiť.", "after": "„odbornú\" ... „výskumníci\" ... o „poklady\" historickej hodnoty — keramiku, drobné predmety, nálezovú situáciu, ktorá sa však ... „bohatstva\" ... speňažiť.", "block": 17, "note": "'Drobné predmety, nálezovú situáciu' bez slovesa je zjavné pokračovanie predošlého výpočtu ('ide o poklady... keramiku'), nie samostatná veta — bodka opravená na čiarku; 'zpeňažiť' je bohemizujúci pravopis, správne 'speňažiť'" },
+    { "rule": "Latinský binomický názov (kurzíva + veľké písmeno rodového mena) + em dash", "before": "ktorí si hovoria homo sapiens – človek múdry", "after": "ktorí si hovoria *Homo sapiens* — človek múdry (kurzíva na 'Homo sapiens', text-uzol rozdelený na 3 deti)", "block": 18 },
+    { "rule": "Nízka číslovka slovom (zhoda so susedným 'Dva' v tej istej popiske)", "before": "medzi ktorými sú 4 desaťročia", "after": "medzi ktorými sú štyri desaťročia", "block": "gallery caption + image alt + image caption (3× duplicitná popiska)" },
+    { "rule": "B typografia (chýbajúca medzera po dvojbodke)", "before": "Petrovský-Šichman:Slovanské osídlenie", "after": "Petrovský-Šichman: Slovanské osídlenie", "block": "sources + citations" },
+    { "rule": "B typografia (nadbytočná medzera pred čiarkou)", "before": "WESTSLOWAKEI , Ein Berg", "after": "WESTSLOWAKEI, Ein Berg", "block": "sources + citations" }
+  ],
+  "reviewed_no_change": [
+    "Holuby/Janšák typu citáty sa v článku nevyskytujú — žiadna chránená zóna (quote-block).",
+    "'naviac' (namiesto 'navyše') v bloku 14 — hovorové, nízka istota, neopravené.",
+    "'Prípadne lupom miestneho feudála.' (blok 9) — eliptická veta bez slovesa, zámerný štylistický vzor (nadväzuje na predchádzajúce 'Mohol byť...'), nie chyba.",
+    "'zastavil miestny učiteľ prof. Hollý' (keyFacts) vs. 'Vďaka ... prof. Hollému, bola ... zastavená' (telo, trpný rod) — oba tvary gramaticky správne v rámci vlastnej vetnej stavby, nejde o nekonzistenciu."
+  ],
+  "flags_ref": "out/turie-hradek.review.json"
+}

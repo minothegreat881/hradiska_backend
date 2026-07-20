@@ -1,0 +1,114 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 12 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "druhá polovica 2. storočia",
+      "title": "Refúgium na Bojnej II",
+      "description": "V čase markomanských vojen slúžilo výšinné sídlisko Hradisko (Bojná II) ako útočisko; nájdené denáre Marka Aurélia a depot 15 mincí s koncovou razbou Valentiniána I.",
+      "type": "event"
+    },
+    {
+      "year": "druhá polovica 5. storočia",
+      "title": "Osídlenie v dobe sťahovania národov",
+      "description": "Bronzová oblúková spona datuje koniec tejto fázy osídlenia Bojnej II; nálezy rímskych/federátnych vojenských opaskov dokladajú styky s limitným územím.",
+      "type": "event"
+    },
+    {
+      "year": "780 – 820 (datovanie plakiet)",
+      "title": "Prenosný oltár s plaketami",
+      "description": "Súbor 6 pozlátených plakiet a 3 obrúb, pravdepodobne súčasť altare portabile s centrálnou (nezachovanou) siedmou plaketou zobrazujúcou Krista.",
+      "type": "event"
+    },
+    {
+      "year": "796",
+      "title": "Synoda na brehoch Dunaja",
+      "description": "Franská synoda pripravila program christianizácie oblasti Frankami porazených Avarov, čím sa otvorila cesta bavorským a akvilejským misionárom aj do Ponitria.",
+      "type": "event"
+    },
+    {
+      "year": "prelom 8. a 9. storočia",
+      "title": "Vznik hradiska Bojná I - Valy",
+      "description": "Vybudované ako súčasť rozsiahlej aglomerácie (Bojná I, II, III, IV); obličkovitý pôdorys, val vysoký 3 – 10 m, dve kliešťovité brány na pozdĺžnej osi.",
+      "type": "founding"
+    },
+    {
+      "year": "začiatok 9. stor. (Pribinovo kniežatstvo)",
+      "title": "Prvý rozmach a prvé zničenie",
+      "description": "Bojná zaznamenala najväčší rozmach a bola zároveň prvý raz zničená požiarom — obe stavebné fázy valu boli zničené ohňom.",
+      "type": "destruction"
+    },
+    {
+      "year": "894",
+      "title": "Nové opevňovacie práce",
+      "description": "Dendrochronologicky datovaný trám z okraja komory hradby — rok smrti kráľa Svätopluka a nástupu Svätopluka II.; staré trámy nahradené novými.",
+      "type": "construction"
+    },
+    {
+      "year": "po roku 906 (bitka pri Bratislave)",
+      "title": "Druhé zničenie hradiska",
+      "description": "Pravdepodobne útoky staromaďarských vojsk, možno v spolupráci s domácimi veliteľmi — v zánikovej vrstve sa popri maďarských šípoch nachádza aj množstvo nemaďarských.",
+      "type": "destruction"
+    },
+    {
+      "year": "2008",
+      "title": "Odkrytie stredovej časti hradiska",
+      "description": "Zahĺbené i nadzemné obytné objekty s kamennými a hlinenými pecami, výrobné dielne a veľká stavba s kamennou podmurovkou.",
+      "type": "discovery"
+    },
+    {
+      "year": "2009",
+      "title": "Nová interpretácia Karola Pietu",
+      "description": "Vedecká cukráreň (27. 10. 2009) — Bojná označená za rozsiahlu aglomeráciu zahŕňajúcu Bojná I, II, III a IV, prirovnávanú k Mikulčiciam a Pompejam.",
+      "type": "discovery"
+    },
+    {
+      "year": "2012 – 2014",
+      "title": "Pokračovanie financovaného výskumu",
+      "description": "SAV a Agentúra na podporu výskumu a vývoja vyčlenili prostriedky na terénny výskum Bojnej aj ďalších lokalít (Bíňa, Pobedim, Majcichov).",
+      "type": "discovery"
+    },
+    {
+      "year": "2011",
+      "title": "Plánovaný archeoskanzen",
+      "description": "Archeologický ústav SAV a obec Bojná ohlásili zámer vybudovať repliku slovanského domu a neskôr celý archeopark pri Ranči pod Babicou.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha hradiska Bojná I",
+      "value": "Obličkový pôdorys, dĺžka cca 600 m, šírka 200 – 300 m, celková plocha akropoly s predhradím takmer 14 ha",
+      "icon": "shield"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "Val roštovej konštrukcie s nasucho kladenou kamennou plentou, výška 3 – 5 m zvnútra a až 10 m zvonka, základňa široká 18,5 m; dve kliešťovité brány s funkciou akejsi mýtnej stanice",
+      "icon": "shield"
+    },
+    {
+      "label": "Plakety a oltárik",
+      "value": "6 pozlátených plakiet (kruhové aj krížové, zobrazujúce anjelské/kristovské postavy) + 3 obruby, súčasť prenosného oltára s väzbami na adriatickú oblasť",
+      "icon": "crown"
+    },
+    {
+      "label": "Zvon z Bojnej",
+      "value": "Výška 160 mm, priemer 192 mm, hmotnosť 2180 g — analógie v Taliansku (Canino, Vatikán) a Nemecku (Verden, Oldenburg), datovaný na prelom 8./9. a začiatok 9. storočia",
+      "icon": "star"
+    },
+    {
+      "label": "Vojenské nálezy",
+      "value": "Sekerovité hrivny (201 ks v jednom depote), fragmenty krúžkových zbrojí, tauzovaná ostroha zlatom, koncové kovanie pošvy meča so sokolmi, ukradnutá prilba slovanského bojovníka",
+      "icon": "shield"
+    },
+    {
+      "label": "Sídliskový komplex",
+      "value": "Aglomerácia štyroch hradísk (Bojná I – Valy, II, III, IV), pričom II a III plnili doplnkovú strážnu funkciu pri kontrole cesty cez Považský Inovec",
+      "icon": "building"
+    },
+    {
+      "label": "Trvanie hradiska",
+      "value": "Celková doba existencie odhadovaná na 120 rokov, s dvoma zánikovými horizontmi (začiatok 9. stor. a po roku 906)",
+      "icon": "scroll"
+    }
+  ]
+}

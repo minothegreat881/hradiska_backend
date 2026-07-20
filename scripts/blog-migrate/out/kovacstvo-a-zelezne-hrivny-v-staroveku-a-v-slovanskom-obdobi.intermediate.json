@@ -1,0 +1,928 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-kovacstvo-a-zelezne-hrivny.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-6452152237085322874",
+    "bloggerPostUrl": "http://www.hradiska.sk/2012/06/kovovacstvo-zelezne-hrivny-v-staroveku.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/6452152237085322874/comments/default",
+    "extractedAt": "2026-07-16T09:27:21.957Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 7,
+      "captionedImages": 5,
+      "separatorImages": 2
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "longRichText",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Kováčstvo a železné hrivny v staroveku a v slovanskom období",
+    "slug": "kovacstvo-a-zelezne-hrivny-v-staroveku-a-v-slovanskom-obdobi",
+    "excerpt": "Slovania v období od ich príchodu na naše územie niekedy v 5. storočí až do 11. storočia síce poznali mince, keďže sa s nimi stretli či už pri obchodných kontaktoch s Byzanciou, alebo pri rôznych vojnových výpravách, avšak ako štandardné platidlo…",
+    "authorName": "Orgoň",
+    "publishedAt": "2012-06-13T22:17:00.000+02:00",
+    "originalPublishedDate": "2012-06-13T22:17:00.000+02:00",
+    "updatedAt": "2012-06-15T07:22:54.646+02:00",
+    "readingTime": 12,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSurmF-Vasr-68gWQ6iD6h3tUw3GW_knWpIWIYtyBRIUnh6uDpdL1rpLqnQ_WeNfGTGFmNeXZCfoQXlINAjkIEaMXSjLMaqPC4fCpUCnn32OXgidyku6sohNYW0oooj5rJL-uIdyntVMM/s0/5.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSurmF-Vasr-68gWQ6iD6h3tUw3GW_knWpIWIYtyBRIUnh6uDpdL1rpLqnQ_WeNfGTGFmNeXZCfoQXlINAjkIEaMXSjLMaqPC4fCpUCnn32OXgidyku6sohNYW0oooj5rJL-uIdyntVMM/s1600/5.jpg",
+      "filename": "5.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSurmF-Vasr-68gWQ6iD6h3tUw3GW_knWpIWIYtyBRIUnh6uDpdL1rpLqnQ_WeNfGTGFmNeXZCfoQXlINAjkIEaMXSjLMaqPC4fCpUCnn32OXgidyku6sohNYW0oooj5rJL-uIdyntVMM/s1600/5.jpg",
+        "displayedWidth": 264,
+        "displayedHeight": 320,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSurmF-Vasr-68gWQ6iD6h3tUw3GW_knWpIWIYtyBRIUnh6uDpdL1rpLqnQ_WeNfGTGFmNeXZCfoQXlINAjkIEaMXSjLMaqPC4fCpUCnn32OXgidyku6sohNYW0oooj5rJL-uIdyntVMM/s0/5.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSurmF-Vasr-68gWQ6iD6h3tUw3GW_knWpIWIYtyBRIUnh6uDpdL1rpLqnQ_WeNfGTGFmNeXZCfoQXlINAjkIEaMXSjLMaqPC4fCpUCnn32OXgidyku6sohNYW0oooj5rJL-uIdyntVMM/s1600/5.jpg",
+        "filename": "5.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSurmF-Vasr-68gWQ6iD6h3tUw3GW_knWpIWIYtyBRIUnh6uDpdL1rpLqnQ_WeNfGTGFmNeXZCfoQXlINAjkIEaMXSjLMaqPC4fCpUCnn32OXgidyku6sohNYW0oooj5rJL-uIdyntVMM/s1600/5.jpg",
+          "displayedWidth": 264,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Typy hrivien 1,2 - Currency bar, 3,4 - dvojhroté hrivny, 5,6 - lupy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhER4uV6j1OQBv80NbFzUV4d6kYU1_PrTBVxMBcoLDlHyPMb_cGt-e9RRwMm9BrwzAeus4m5EneP-GZRQb9Qo7TTEgzDFDhvu-bq9MzMl3kR2_PyrlKjbBAflMTcbfh9j-ND68_WhgDswg/s0/6.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhER4uV6j1OQBv80NbFzUV4d6kYU1_PrTBVxMBcoLDlHyPMb_cGt-e9RRwMm9BrwzAeus4m5EneP-GZRQb9Qo7TTEgzDFDhvu-bq9MzMl3kR2_PyrlKjbBAflMTcbfh9j-ND68_WhgDswg/s1600/6.png",
+        "filename": "6.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhER4uV6j1OQBv80NbFzUV4d6kYU1_PrTBVxMBcoLDlHyPMb_cGt-e9RRwMm9BrwzAeus4m5EneP-GZRQb9Qo7TTEgzDFDhvu-bq9MzMl3kR2_PyrlKjbBAflMTcbfh9j-ND68_WhgDswg/s1600/6.png",
+          "displayedWidth": 257,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Bochníkovité lupy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJr4vRsyC_aySNvjTv0MId5KG7SHvbAoDRt3TCyxbuNI_mny4Iq3Z3eCXXj6oPOdZ3j3PuyTVvkTUXDisy_wwq7rjZ7SUleiEmK1k0ZO5N0XAFm_I_eXN-gPvCN8l6NQAwgCbHLiEZewY/s0/7.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJr4vRsyC_aySNvjTv0MId5KG7SHvbAoDRt3TCyxbuNI_mny4Iq3Z3eCXXj6oPOdZ3j3PuyTVvkTUXDisy_wwq7rjZ7SUleiEmK1k0ZO5N0XAFm_I_eXN-gPvCN8l6NQAwgCbHLiEZewY/s1600/7.jpg",
+        "filename": "7.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJr4vRsyC_aySNvjTv0MId5KG7SHvbAoDRt3TCyxbuNI_mny4Iq3Z3eCXXj6oPOdZ3j3PuyTVvkTUXDisy_wwq7rjZ7SUleiEmK1k0ZO5N0XAFm_I_eXN-gPvCN8l6NQAwgCbHLiEZewY/s1600/7.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 141,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Sekerovité hrivny z čias Veľkej Moravy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkH1yKLxSOcveGrGQJdu_btH4EfFM07DPsGMvZ88OOaIG5-SNOrlJhlGKgNL7fbf_veWM9Jlmn1bnpiM8ChaFN8N8z1VP-uiFxkpDd6H-gIS349LsEFbmKkQ_gsXDi0A6Iv_XqY2OzeVk/s0/8.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkH1yKLxSOcveGrGQJdu_btH4EfFM07DPsGMvZ88OOaIG5-SNOrlJhlGKgNL7fbf_veWM9Jlmn1bnpiM8ChaFN8N8z1VP-uiFxkpDd6H-gIS349LsEFbmKkQ_gsXDi0A6Iv_XqY2OzeVk/s1600/8.jpg",
+        "filename": "8.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkH1yKLxSOcveGrGQJdu_btH4EfFM07DPsGMvZ88OOaIG5-SNOrlJhlGKgNL7fbf_veWM9Jlmn1bnpiM8ChaFN8N8z1VP-uiFxkpDd6H-gIS349LsEFbmKkQ_gsXDi0A6Iv_XqY2OzeVk/s1600/8.jpg",
+          "displayedWidth": 292,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8o1PZ0XzGFHxoDcpL1NiK0HRpBwXkMM9gOmH5FZEHZZ342rUKSbCbdoXTw7QQBK9DMuTNsw2xTFluDpCGEbR3DphVuo_mMxt5Vbn6SXFBpRhoSz9dBKzVCsZF-6rrbAh1okh9MDxx1o/s0/426413_10150640700102347_669457346_8789549_1846936043_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8o1PZ0XzGFHxoDcpL1NiK0HRpBwXkMM9gOmH5FZEHZZ342rUKSbCbdoXTw7QQBK9DMuTNsw2xTFluDpCGEbR3DphVuo_mMxt5Vbn6SXFBpRhoSz9dBKzVCsZF-6rrbAh1okh9MDxx1o/s1600/426413_10150640700102347_669457346_8789549_1846936043_n.jpg",
+        "filename": "426413_10150640700102347_669457346_8789549_1846936043_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8o1PZ0XzGFHxoDcpL1NiK0HRpBwXkMM9gOmH5FZEHZZ342rUKSbCbdoXTw7QQBK9DMuTNsw2xTFluDpCGEbR3DphVuo_mMxt5Vbn6SXFBpRhoSz9dBKzVCsZF-6rrbAh1okh9MDxx1o/s1600/426413_10150640700102347_669457346_8789549_1846936043_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 231,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Vľavo hore sekerovité hrivny z hradiska Pružina (9. – 10. storočie)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisOiT_g6cbOyCEZed43mllZH5Y2Kd8JSF4QU4CVdbUlB-ZkVELus9ZhARaUqq0k_L7YY_344wHFhWg99JppIymMIJakMT4qLjEFJ6TWT6SuIvhyphenhyphenXoeYMEG8trR2LaEGNz-dZFUrQXL9Ak/s0/hrivny+pobedim.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisOiT_g6cbOyCEZed43mllZH5Y2Kd8JSF4QU4CVdbUlB-ZkVELus9ZhARaUqq0k_L7YY_344wHFhWg99JppIymMIJakMT4qLjEFJ6TWT6SuIvhyphenhyphenXoeYMEG8trR2LaEGNz-dZFUrQXL9Ak/s1600/hrivny+pobedim.jpg",
+        "filename": "hrivny+pobedim.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisOiT_g6cbOyCEZed43mllZH5Y2Kd8JSF4QU4CVdbUlB-ZkVELus9ZhARaUqq0k_L7YY_344wHFhWg99JppIymMIJakMT4qLjEFJ6TWT6SuIvhyphenhyphenXoeYMEG8trR2LaEGNz-dZFUrQXL9Ak/s1600/hrivny+pobedim.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 292,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Sekerovité hrivny z Pobedima (9. storočie)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWHJVKr9Ht8qbM8S-dc-ctbyh27nPkpcWGNrgmJuf6HIAVDlTsWNMYMWp30yqEJ-7CTAXpLP6qcOoQ6Xxv7TXwUUVFhDXF3zczk4Wo51FGCRjmxxFcUDLIoXdJ_WP48kxiNHR78nRAkBw/s0/bojna%CC%81.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWHJVKr9Ht8qbM8S-dc-ctbyh27nPkpcWGNrgmJuf6HIAVDlTsWNMYMWp30yqEJ-7CTAXpLP6qcOoQ6Xxv7TXwUUVFhDXF3zczk4Wo51FGCRjmxxFcUDLIoXdJ_WP48kxiNHR78nRAkBw/s1600/bojna%CC%81.jpg",
+        "filename": "bojná.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWHJVKr9Ht8qbM8S-dc-ctbyh27nPkpcWGNrgmJuf6HIAVDlTsWNMYMWp30yqEJ-7CTAXpLP6qcOoQ6Xxv7TXwUUVFhDXF3zczk4Wo51FGCRjmxxFcUDLIoXdJ_WP48kxiNHR78nRAkBw/s1600/bojna%CC%81.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 200,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Kováčstvo a železné hrivny"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Téma",
+        "value": "Sekerovité hrivny ako predmincové platidlo vo Veľkej Morave",
+        "icon": "scroll"
+      },
+      {
+        "label": "Typy hrivien",
+        "value": "Dvojhroté (halštatské), bochníkovité lupy, sekerovité, disk, prút/tyč",
+        "icon": "sword"
+      },
+      {
+        "label": "Hmotnosť sekerovitých hrivien",
+        "value": "Tri skupiny: 200 – 700 g, 80 – 120 g a 60 – 80 g",
+        "icon": "scroll"
+      },
+      {
+        "label": "Kľúčové náleziská",
+        "value": "Bíňa, Pobedim, Bojná, Pružina, Mikulčice, Hrádok (Nové Mesto nad Váhom)",
+        "icon": "mountain"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "pred r. 3000 p. n. l.",
+        "title": "Prvý kontakt človeka so železom",
+        "description": "Na východnom Stredomorí sa datuje prvé stretnutie človeka s kovovým železom, spočiatku najmä meteorickým.",
+        "type": "event"
+      },
+      {
+        "year": "3. – 2. tis. p. n. l.",
+        "title": "Prvé železiarske pece",
+        "description": "V prednej Ázii a Anatólii začínajú pracovať prvé železiarske pece, zamerané predovšetkým na zbrane a predmety mimoriadneho významu.",
+        "type": "event"
+      },
+      {
+        "year": "koniec 2. tis. p. n. l.",
+        "title": "Oddelenie výroby železa od medi",
+        "description": "Vo východnom Stredomorí sa technológia výroby železa definitívne oddeľuje od výroby medi.",
+        "type": "event"
+      },
+      {
+        "year": "okolo 8. stor. p. n. l.",
+        "title": "Železo prichádza do strednej Európy",
+        "description": "Znalosť spracovania železa sa cez Macedónsko a východné podhoria Álp dostáva do strednej Európy v halštatskom období.",
+        "type": "event"
+      },
+      {
+        "year": "8. storočie",
+        "title": "Ťažba železnej rudy na Morave",
+        "description": "Dochádza k intenzívnej ťažbe železnej rudy na južnej Morave; blízkosť bohatých hradísk uľahčovala jej ďalšiu distribúciu.",
+        "type": "event"
+      },
+      {
+        "year": "9. – 10. storočie",
+        "title": "Sekerovité hrivny ako platidlo",
+        "description": "Sekerovité hrivny sa používajú ako všeobecne uznávané platidlo na území Slovenska, Čiech a Moravy — priamy predchodca peňazí.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Slovania v období od ich príchodu na naše územie niekedy v 5. storočí až do 11. storočia síce poznali mince, keďže sa s nimi stretli či už pri obchodných kontaktoch s Byzanciou, alebo pri rôznych vojnových výpravách, avšak ako štandardné platidlo ich nevyrábali a nepoužívali. To však neznamená, že naši slovanskí predkovia nepoužívali žiadnu vlastnú všeobecne zameniteľnú menu. Kupci okrem drahých kovov, kožušín, či plátna používali v časoch Veľkej Moravy ako platidlo, ktoré by sa dalo označiť za akúsi prvú menu Slovenov. Touto uznávanou menou, priamym predchodcom peňazí na našom území boli "
+              },
+              {
+                "type": "text",
+                "text": "sekerovité hrivny.",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " V tomto článku prevzatom z väčšej časti zo servera "
+              },
+              {
+                "type": "link",
+                "url": "http://archeoforstudents.blogspot.com/",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "študentov archeológie"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Vám so súhlasom autorov prinášame krátky pohľad na spracovanie železa v staroveku a stredoveku a na vývoj a najčastejšie používané typy hrivien."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSurmF-Vasr-68gWQ6iD6h3tUw3GW_knWpIWIYtyBRIUnh6uDpdL1rpLqnQ_WeNfGTGFmNeXZCfoQXlINAjkIEaMXSjLMaqPC4fCpUCnn32OXgidyku6sohNYW0oooj5rJL-uIdyntVMM/s0/5.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSurmF-Vasr-68gWQ6iD6h3tUw3GW_knWpIWIYtyBRIUnh6uDpdL1rpLqnQ_WeNfGTGFmNeXZCfoQXlINAjkIEaMXSjLMaqPC4fCpUCnn32OXgidyku6sohNYW0oooj5rJL-uIdyntVMM/s1600/5.jpg",
+          "filename": "5.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSurmF-Vasr-68gWQ6iD6h3tUw3GW_knWpIWIYtyBRIUnh6uDpdL1rpLqnQ_WeNfGTGFmNeXZCfoQXlINAjkIEaMXSjLMaqPC4fCpUCnn32OXgidyku6sohNYW0oooj5rJL-uIdyntVMM/s1600/5.jpg",
+            "displayedWidth": 264,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Typy hrivien 1,2 - Currency bar, 3,4 - dvojhroté hrivny, 5,6 - lupy",
+        "caption": "Typy hrivien 1,2 - Currency bar, 3,4 - dvojhroté hrivny, 5,6 - lupy",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Počiatky výroby železa a obchodovateľné suroviny",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Začiatku výroby železa predchádzala zabehnutá výroba a spracovanie medi a ich zliatin, ktorá má v Európe korene už od sklonku eneolitu. Ešte predtým však už v 7. až 5. tis. p. n. l. niektoré kmene na Prednom východe túto technológiu ovládali. V priebehu doby bronzovej sa začala prejavovať vyčerpanosť doteraz známych ložísk, čo bola jedna z príčin, prečo sa ľudia začali obzerať po inom kove, ktorý by uspokojil stále sa zväčšujúci dopyt. Na základe veľmi ojedinelých nálezov možno predpokladať, že prvé stretnutie človeka s kovovým železom, nastalo už dávno pred rokom 3000 p. n. l., na území vo východnom Stredomorí. Spočiatku išlo hlavne o železo meteorické (charakteristické vysokým obsahom niklu), či železo náhodne vyrobené. V treťom a druhom tis. p. n. l. začali pracovať prvé železiarske pece v prednej Ázii a Anatólii, keď išlo predovšetkým o zbrane a predmety mimoriadneho významu. Vznik železiarstva je úzko spojený so zabehnutou technológiou výroby medi, keď tavením sulfidovej rudy vzniká železo ako vedľajší, odpadový produkt. K oddeleniu oboch technológií došlo ku konci 2. tis. p. n. l., ale stále ide iba o oblasť východného Stredomoria. Otázka, kde vznikla metalurgia železa, je stále nezodpovedaná. Do Európy sa znalosť výroby železa dostávala cez Stredomorie, Macedónsko, severné Srbsko a do východných podhorí Álp, odkiaľ sa potom voľne šírila do ostatných častí strednej a severnej Európy. Do strednej Európy sa znalosť spracovania železa dostala až v halštatskom období, okolo 8. stor. p. n. l."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V strednej Európe a teda aj na našom území vznikali v 8. – 9. storočí nášho letopočtu špecializované dediny priamo v okolí nálezísk železných rúd. V týchto dedinách máme doklady nielen pecí na spracovanie železa, ale aj pridružených činností, ako je pálenie dreveného uhlia. Príkladom môže byť napríklad priestor Moravského krasu, kde spracovanie železa je doložené už z 6. storočia p. n. l.. Z tejto doby pochádza kováčska dielňa v jaskyni Býčí skála. V dobe železnej bola železná ruda získavaná iba zberom povrchových výskytov, časom však bola oblasť vyzbieraná. Z doby slovanskej (teda zo 7. až 11. storočia) pochádzajú archeologické nálezy starých hút v okolí Rudice, Olomučan a Habrůvku. Železná ruda sa stále získavala zberom, ale začína sa rozširovať ťažba v nehlbokých banských dielach."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhER4uV6j1OQBv80NbFzUV4d6kYU1_PrTBVxMBcoLDlHyPMb_cGt-e9RRwMm9BrwzAeus4m5EneP-GZRQb9Qo7TTEgzDFDhvu-bq9MzMl3kR2_PyrlKjbBAflMTcbfh9j-ND68_WhgDswg/s0/6.png",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhER4uV6j1OQBv80NbFzUV4d6kYU1_PrTBVxMBcoLDlHyPMb_cGt-e9RRwMm9BrwzAeus4m5EneP-GZRQb9Qo7TTEgzDFDhvu-bq9MzMl3kR2_PyrlKjbBAflMTcbfh9j-ND68_WhgDswg/s1600/6.png",
+          "filename": "6.png",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhER4uV6j1OQBv80NbFzUV4d6kYU1_PrTBVxMBcoLDlHyPMb_cGt-e9RRwMm9BrwzAeus4m5EneP-GZRQb9Qo7TTEgzDFDhvu-bq9MzMl3kR2_PyrlKjbBAflMTcbfh9j-ND68_WhgDswg/s1600/6.png",
+            "displayedWidth": 257,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Bochníkovité lupy",
+        "caption": "Bochníkovité lupy",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "K intenzívnej ťažbe železnej rudy na území Moravy došlo už v 8. storočí, keď sa ložiská v osídlených oblastiach predovšetkým na južnej Morave vyťažili a museli byť nájdené iné zdroje. Navyše sa v tejto oblasti vyskytovali husté lesy, ktoré poskytovali kvalitné drevo na pálenie dreveného uhlia. Išlo o ďalšiu surovinu potrebnú na výrobu železa, ktorá v už obývaných oblastiach chýbala. Ďalšou nespornou výhodou Moravského krasu bola blízkosť bohatých hradísk na južnej Morave, kam väčšina železa nakoniec smerovala.\n \nNa tomto príklade teda môžeme sledovať, že "
+              },
+              {
+                "type": "text",
+                "text": "spracovávanie železa",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " v porovnaní napríklad so spracovaním zlata "
+              },
+              {
+                "type": "text",
+                "text": "bolo oveľa náročnejšie.",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " Zatiaľ čo zlato stačilo pretaviť a zliať, železo si žiadalo procedúru aj na niekoľko dní intenzívnej práce. Na rozdiel od zlata však kujnej železnej hmoty vzniklo pomerne veľké množstvo, ktoré umožňovalo jeho využitie aj na priestorovo náročnejšie predmety a predmety pre bežné používanie. Možno práve tieto vlastnosti zapríčinili, že ľudia vytušili jeho potenciál ako obchodovateľnej komodity a neskôr "
+              },
+              {
+                "type": "text",
+                "text": "na seba železo v rôznych podobách prevzalo aj podobu predmincového platidla",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Aby sa železo z materiálu mohlo stať obchodovateľnou komoditou alebo platidlom, bolo nevyhnutné ho spracovávať do nejakej dohodnutej podoby, "
+              },
+              {
+                "type": "text",
+                "text": "čím vznikla hrivna",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", predmet typický svojím pretiahnutým a na jednej strane splošteným tvarom. "
+              },
+              {
+                "type": "text",
+                "text": "V rukách kováča potom mohli byť transformované na iné predmety",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", ktoré sa zo železa robili, napríklad kovanie, postroje, poľnohospodárske nástroje a zbrane. Metalografické rozbory vyvrátili staré tvrdenie, že samotná hrivna mohla byť nástrojom, napríklad tesárskou sekerou či zbraňou. Analýzy ukázali, že sploštená časť nebola nijako metalurgicky zušľachťovaná, nebola teda určená na opracovávanie tuhších materiálov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Železné hrivny na našom území",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V mladej dobe halštatskej bolo železo do strednej a východnej Európy prevažne importované, počíta sa však už aj so začatím drobnej výroby na tamojších sídliskách. Stopy tejto výroby poznáme napríklad z Poľska, ale aj od nás."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V týchto miestach vznikali okrem železných hrivien aj iné, príbuzné predmety podobného účelu. Sú nimi železné lupy. Lupa je vytavené železo spracované do jednoduchého oblého ploského tvaru, pripomínajúce koláč alebo bochník (od toho pomenovanie bochníkovitá lupa). Jej funkcie boli veľmi podobné, na rozdiel od hrivien však boli vždy z čerstvej suroviny. U hrivien sa skúmaním dokázalo, že materiál bol často recyklovaný, pravdepodobne teda z rozbitých alebo inak nepoužiteľných predmetov. Tento fakt naďalej upozorňuje na hodnotu železa, nič nevyšlo nazmar. Lupiny boli vysoko hodnotené až do stredoveku a nám sa šťastnou náhodou zachovalo niekoľko exemplárov. Ich nálezy sú zatiaľ známe zo Slovenska, v českých krajinách doteraz chýbajú."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJr4vRsyC_aySNvjTv0MId5KG7SHvbAoDRt3TCyxbuNI_mny4Iq3Z3eCXXj6oPOdZ3j3PuyTVvkTUXDisy_wwq7rjZ7SUleiEmK1k0ZO5N0XAFm_I_eXN-gPvCN8l6NQAwgCbHLiEZewY/s0/7.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJr4vRsyC_aySNvjTv0MId5KG7SHvbAoDRt3TCyxbuNI_mny4Iq3Z3eCXXj6oPOdZ3j3PuyTVvkTUXDisy_wwq7rjZ7SUleiEmK1k0ZO5N0XAFm_I_eXN-gPvCN8l6NQAwgCbHLiEZewY/s1600/7.jpg",
+          "filename": "7.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJr4vRsyC_aySNvjTv0MId5KG7SHvbAoDRt3TCyxbuNI_mny4Iq3Z3eCXXj6oPOdZ3j3PuyTVvkTUXDisy_wwq7rjZ7SUleiEmK1k0ZO5N0XAFm_I_eXN-gPvCN8l6NQAwgCbHLiEZewY/s1600/7.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 141,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Sekerovité hrivny z čias Veľkej Moravy",
+        "caption": "Sekerovité hrivny z čias Veľkej Moravy",
+        "position": "left",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Veľká lupa s dvomi neobyčajne veľkými sekerami sa našla na Slovensku v halštatskom sídliskovom objekte pred jaskyňou Fajka pri Jasove. Ide o objemný kus kovu s čiernou koróziou, nepravidelného tvaru a hrudovitým povrchom. Základňa sa vytvorila vlastnou váhou, keď bola surovina ešte cestovitá, váha kusu je asi 2 kg. Ďalšie halštatské lupiny sa dochovali na Krásnej Hôrke v obci Medvedzie na Orave. Medzi železnými a bronzovými predmetmi boli aj tri kusy železných polotovarov. Ich tvar je mierne hranolovitý, čo ukazuje na dôkladnejšie prekovanie a úmyselné vytváranie do nejakej podoby. Výrobca si pravdepodobne ich tvar predpripravil pre ďalšie formovanie. Z prelomu halštatu a laténu sa v Býčej Skale dochovali dvojhroté hrivny s prehnutým hrotom, polovica hrivny s prihrdzavenými bronzovými kruhmi, hrivny s otvormi a prehnutými hrotmi. Analógiu by sme hľadali až v Starej Asýrii, kde boli objavené celé sklady týchto hrivien. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkH1yKLxSOcveGrGQJdu_btH4EfFM07DPsGMvZ88OOaIG5-SNOrlJhlGKgNL7fbf_veWM9Jlmn1bnpiM8ChaFN8N8z1VP-uiFxkpDd6H-gIS349LsEFbmKkQ_gsXDi0A6Iv_XqY2OzeVk/s0/8.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkH1yKLxSOcveGrGQJdu_btH4EfFM07DPsGMvZ88OOaIG5-SNOrlJhlGKgNL7fbf_veWM9Jlmn1bnpiM8ChaFN8N8z1VP-uiFxkpDd6H-gIS349LsEFbmKkQ_gsXDi0A6Iv_XqY2OzeVk/s1600/8.jpg",
+          "filename": "8.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkH1yKLxSOcveGrGQJdu_btH4EfFM07DPsGMvZ88OOaIG5-SNOrlJhlGKgNL7fbf_veWM9Jlmn1bnpiM8ChaFN8N8z1VP-uiFxkpDd6H-gIS349LsEFbmKkQ_gsXDi0A6Iv_XqY2OzeVk/s1600/8.jpg",
+            "displayedWidth": 292,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Kováčstvo a železné hrivny v staroveku a v slovanskom období",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Už z veľkomoravského obdobia pochádzajú depoty sekerovitých hrivien z "
+              },
+              {
+                "type": "text",
+                "text": "Bíne, z Pobedima, z Bojnej",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ", a najnovšie napr z "
+              },
+              {
+                "type": "text",
+                "text": "Pružiny",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Tieto depoty boli nájdené v areáli hradiska. Zo sídliskových vrstiev potom pochádzajú depot z Gajar-pustiny, Vrablicova a z Kútov. U niektorých depotov je možné stanoviť vzťah ku konkrétnemu stavebnému objektu, ako tomu je práve v Pobedime, kde máme doklady dvoch depotov, pričom jeden bol uložený v zahĺbenom sídliskovom objekte a druhý pod deštrukciou valu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Väčšina depotov všeobecne je však v prirodzenom prostredí bez stôp po ľudskom zásahu. U niektorých sa však dá uvažovať, že boli v umelo vytvorenej schránke, čo môže naznačovať podozrivá kumulácia kameňov v okolí, napr. depot zo Slabiny, ktorý bol prekrytý veľkým kameňom, či Moravskom Jáne. Miesto plochého kameňa poslúžil v Starom Meste i žarnov.\nZ Mikulčíc potom pochádza súbor predmetov, ktorý bol zabalený pravdepodobne do plátna, čomu napovedajú odtlačky vlákien."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8o1PZ0XzGFHxoDcpL1NiK0HRpBwXkMM9gOmH5FZEHZZ342rUKSbCbdoXTw7QQBK9DMuTNsw2xTFluDpCGEbR3DphVuo_mMxt5Vbn6SXFBpRhoSz9dBKzVCsZF-6rrbAh1okh9MDxx1o/s0/426413_10150640700102347_669457346_8789549_1846936043_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8o1PZ0XzGFHxoDcpL1NiK0HRpBwXkMM9gOmH5FZEHZZ342rUKSbCbdoXTw7QQBK9DMuTNsw2xTFluDpCGEbR3DphVuo_mMxt5Vbn6SXFBpRhoSz9dBKzVCsZF-6rrbAh1okh9MDxx1o/s1600/426413_10150640700102347_669457346_8789549_1846936043_n.jpg",
+          "filename": "426413_10150640700102347_669457346_8789549_1846936043_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8o1PZ0XzGFHxoDcpL1NiK0HRpBwXkMM9gOmH5FZEHZZ342rUKSbCbdoXTw7QQBK9DMuTNsw2xTFluDpCGEbR3DphVuo_mMxt5Vbn6SXFBpRhoSz9dBKzVCsZF-6rrbAh1okh9MDxx1o/s1600/426413_10150640700102347_669457346_8789549_1846936043_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 231,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Vľavo hore sekerovité hrivny z hradiska Pružina (9. – 10. storočie)",
+        "caption": "Vľavo hore sekerovité hrivny z hradiska Pružina (9. – 10. storočie)",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Keď pristúpime k rozboru obsahového zloženia depotov, prídeme k zaujímavým poznatkom. Depoty obsahujúce len sekerovité hrivny (spomenutá Bína a Pobedim), alebo sekerovité hrivny a iné železné predmety, sa sústreďujú hlavne na hradisku a to buď v sídliskových objektoch a nebojných miestach areálu. To napovedá, že ide teda hlavne o tezaurovaný (ukrytý) majetok. U depotov obsahujúcich len sekerovité hrivny môže ísť o platidlo alebo surovinu určenú na ďalšie spracovanie. Mám za to, že ak sú hrivny nájdené v súvislosti s kováčskou dielňou, je na mieste považovať ich za surovinu z ktorej kováč vyrábal železné predmety. V ostatných prípadoch môže ísť buď o ukryté platidlo kupca, alebo aj o ukrytý majetok bohatšieho človeka. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ďalší bohatý depot štyridsiatich železných hrivien pochádza z "
+              },
+              {
+                "type": "text",
+                "text": "Hrádku",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " (Nové Mesto nad Váhom). Hrivny boli uložené vo zväzkoch po dvadsiatich, celková váha depotu je asi 65 kg.\nĎalšie miesta nálezu sekerovitých hrivien: Staré zámky u Líšně, Nejdek, Mikulčice, Břeclav-Pohansko."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisOiT_g6cbOyCEZed43mllZH5Y2Kd8JSF4QU4CVdbUlB-ZkVELus9ZhARaUqq0k_L7YY_344wHFhWg99JppIymMIJakMT4qLjEFJ6TWT6SuIvhyphenhyphenXoeYMEG8trR2LaEGNz-dZFUrQXL9Ak/s0/hrivny+pobedim.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisOiT_g6cbOyCEZed43mllZH5Y2Kd8JSF4QU4CVdbUlB-ZkVELus9ZhARaUqq0k_L7YY_344wHFhWg99JppIymMIJakMT4qLjEFJ6TWT6SuIvhyphenhyphenXoeYMEG8trR2LaEGNz-dZFUrQXL9Ak/s1600/hrivny+pobedim.jpg",
+          "filename": "hrivny+pobedim.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisOiT_g6cbOyCEZed43mllZH5Y2Kd8JSF4QU4CVdbUlB-ZkVELus9ZhARaUqq0k_L7YY_344wHFhWg99JppIymMIJakMT4qLjEFJ6TWT6SuIvhyphenhyphenXoeYMEG8trR2LaEGNz-dZFUrQXL9Ak/s1600/hrivny+pobedim.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 292,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Sekerovité hrivny z Pobedima (9. storočie)",
+        "caption": "Sekerovité hrivny z Pobedima (9. storočie)",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Variabilita tvarov železných hrivien a polotovarov",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dvojhroté hrivny ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z hallstattského obdobia pochádzajú dvojhroté hrivny. Majú tvar dvojhrotého ihlanu, s koncami prehnutými a často prevŕtanými. V laténe tento typ pretrváva, avšak už s rovnými koncami. Často sa nachádzajú len časti alebo zlomky hrivien, ktoré môžu vyzerať ako malé dláta, zvlášť potom silne skorodovaný predmet môže byť ľahko zameniteľný.\nTento typ hrivny býva spájaný s Keltmi, lebo najväčšia koncentrácia nálezov pochádza z miest, kde by sme hľadali ich pravlasť."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bochníkovité lupy ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lupy boli technologicky inak spracovávané. Neboli kované, čo sa dá jednak vidieť na povrchu, ale aj na rozlomenom alebo rozseknutom kuse, pretože sú vo vnútri bublinky. Boli z čerstvého železa, ktoré sa rozžeravené nalialo do mäkkej formy a alebo na plát, kde vytuhlo a získalo svoj tvar. Železo sa mohlo naliať aj do vody, kde sa schladilo veľmi prudko a tvar bol veľmi nepravidelný a členitý a celá štruktúra je hubovitá."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWHJVKr9Ht8qbM8S-dc-ctbyh27nPkpcWGNrgmJuf6HIAVDlTsWNMYMWp30yqEJ-7CTAXpLP6qcOoQ6Xxv7TXwUUVFhDXF3zczk4Wo51FGCRjmxxFcUDLIoXdJ_WP48kxiNHR78nRAkBw/s0/bojna%CC%81.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWHJVKr9Ht8qbM8S-dc-ctbyh27nPkpcWGNrgmJuf6HIAVDlTsWNMYMWp30yqEJ-7CTAXpLP6qcOoQ6Xxv7TXwUUVFhDXF3zczk4Wo51FGCRjmxxFcUDLIoXdJ_WP48kxiNHR78nRAkBw/s1600/bojna%CC%81.jpg",
+          "filename": "bojná.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWHJVKr9Ht8qbM8S-dc-ctbyh27nPkpcWGNrgmJuf6HIAVDlTsWNMYMWp30yqEJ-7CTAXpLP6qcOoQ6Xxv7TXwUUVFhDXF3zczk4Wo51FGCRjmxxFcUDLIoXdJ_WP48kxiNHR78nRAkBw/s1600/bojna%CC%81.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 200,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Kováčstvo a železné hrivny v staroveku a v slovanskom období",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bochníkovité lupy boli rozsekávané sekerou ešte v žeravom stave, aby sa zistil úspech tavby a kvalita materiálu. Tento zvyk je známy po celej severnej a východnej Európe (Rusko, Poľsko, Nórsko, Švédsko, Litva). Pre tento tvar lupiny sa niekedy používa výraz podkovovitá.\nVáha staroruských lúp sa pohybuje od 2 do 6 kg."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sekerovité hrivny ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tento druh hrivien bol pôvodne považovaný za nástroj (tesla, opracovávanie hliny, žarnov), ale ich ostrie je príliš tenké. Oko pre násadu je normálnej veľkosti, niekedy je však predmet opatrený tylovými lalokmi. Kvôli korózii a iným nepriaznivým vplyvom je veľmi zložité určiť presne ich pôvodnú váhu. Hmotnosť hrivien nebola náhodná. Preskúmaním nájdených hrivien ich podľa váhy možno rozdeliť do troch skupín: 200 – 700 g, 80 – 120 g a 60 – 80 g. V časoch Veľkej Moravy sa práve sekerovité hrivny používali ako všeobecne uznávané platidlo, ktoré preto právom považujeme za predchodcu peňazí na našom území. Ich používanie zaznamenávame v priebehu 9. a 10. storočia najmä na území Slovenska, Čiech a Moravy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Disk ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tvarovo príbuzný s lupou, ale ide už o kovaný tvar. Nie je celkom obvyklý, je možné, že kováč, ktorý vyrobil tento polotovar, počítal už s nejakým ďalším spracovaním do predmetu, ktorý z kruhu vychádza. Výnimočný nález z Kolčiny."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prút, tyč ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Táto forma hrivny je najbežnejšia pre stredovek. Vyvinula sa zo sekerovitej hrivny, ktorá začala strácať svoje špecifiká, ako (krížové) roztepanie, oká, a pod. Hoci stratou ôk prišiel tento predmet o ľahkú prenosnosť, na spracovávanie a odmeriavanie bol praktickejší. Z tyčí sa často odrážal iba ten kus, ktorý bol potrebný na výrobu a bolo ho ľahké odmerať."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výroba hrivien a technológie spracovania železa",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tak ako nám, aj starým kováčom boli známe pojmy železo a oceľ a netrvalo dlho k pochopeniu, ako kvalitnú oceľ vyrobiť a využiť jej vlastností. Pravdepodobne pri zmene paliva využívaného pri spracovaní železa si uvedomili, ako niektoré môžu ovplyvniť tvrdosť materiálu a začali uprednostňovať palivá, ktoré boli schopné dodať železu uhlík. Samozrejme, vtedy kováči museli rozoznávať tieto rozdiely bez chemických a fyzikálnych znalostí. Najčastejšie tak môžeme spoznať kvalitu kovu, keď ho rozoznieme úderom alebo skúškou pilníkom, pri prechádzaní mäkkého kovu pilník zaberá, u tvrdej ocele nie."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Železu dnes zodpovedajú mäkké druhy ocelí, ktoré nie sú kaliteľné a obsahujú asi 0,06 – 0,2% C, ktoré slúžia na výrobu rôznych kovaní, skôb, hákov, obručí alebo spojok. Naproti tomu sú uhlíkové ocele vhodné pre nástroje, lebo sú kaliteľné. Slúžia ako materiál na výrobu kôs, kosáka, nožov, sekáčov, nožníc. Ešte iným typom sú potom nástrojové ocele zliatinové (legované), ktoré obsahujú významný podiel ďalších prvkov, napr. mangán alebo chróm. Nutné je spomenúť, že prímes nejakého prvku obsahuje každá oceľ, avšak vo veľmi malom množstve, napriek tomu aj malé množstvo môže rozhodovať o jej vlastnostiach.\nUhlík zvyšuje podstatne tvrdosť a pevnosť, ale aj krehkosť a lámavosť za studena a sťažuje zvariteľnosť. Mangán potom dodáva materiálu pevnosť, tvrdosť, kujnosť a zvariteľnosť, uberá na ťažnosti a húževnatosti. Pri väčšom obsahu mangánu (2 – 4%) môže dochádzať k prehrievavosti materiálu a hrubnutiu štruktúry. Kremík je v starých nálezoch obsiahnutý len skromne (0,02 – 0,04%), fosfor však mohol kvalitu materiálu v podmienkach historickej výroby veľmi ovplyvniť. Pri nižších teplotách zvyčajne väčšina prechádzala do trosky, avšak prvok zachytený kovom výrazne ovplyvnil tvrdosť zliatiny a tiež zlievateľnosť, lámavosť a krehkosť za studena. K výrobe ocele sa fosfor vôbec nehodí, pretože nežiaducim spôsobom ovplyvňuje aj ďalšie procesy pri jej výrobe. Fosforu by v oceli nemalo byť viac ako 0,1%, v ušľachtilých materiáloch je prípustné len 0,04 – 0,07%. V praveku bolo zvykom na výrobu železa používať drevené uhlie a tak v ňom nie je príliš vysoký obsah síry. Naproti tomu v železu, ktoré bolo spracovávané nad koksom, nájdeme síry podstatne viac. Spôsobuje krehkosť, lámavosť za tepla a považuje sa za veľmi škodlivý prvok. Meď je veľmi častá prímes v železe a nie je nežiaduca; zlepšuje pevnosť a odolnosť voči korózii. Častou prímesou je aj nikel. Ak je obsah niklu v železe vyšší ako 2,5%, môže ísť len o železo meteoritického pôvodu.\nV talentoch a v železných lupách nájdeme spomínané prvky, ktoré sa do nich dostali spracovaním. U železných hrivien je možné, že niektorý prvok tu bude aj v nápadne vyššej miere. Môže ísť o recyklované železo, predmet, ktorý bol pre lepšie vlastnosti napr. nauhličený, ale rozbil sa či opotreboval a bol prepracovaný späť na hrivnu, aby dostal novú podobu. Výroba hrivien bola zložitejšia ako výroba lúp. Prvý krok, ktorý je spoločný takmer všetkým typom, bol spracovať materiál do dlhej tyče. Potom nasledovalo rozkovávanie do rôznych podôb. Najzaujímavejšie je pravdepodobne vytváranie sekerovitej hrivny, keď jeden koniec bol roztepaný viac a zasahoval približne do dvoch tretín hrivny. Druhý koniec bol taktiež roztepaný, avšak priečne s prvým a bolo v ňom predznačené oko, ktoré slúžilo na zväzovanie viacerých kusov spolu, čo uľahčovalo transport. Prebíjanie je najrýchlejší spôsob, ako opatriť železné predmety otvorom a prebieha v žeravom stave. Oproti vŕtaniu má výhodu, že rešpektuje vlákna materiálu a rozťahuje ho. To umožní prederaviť aj veľké otvory v úzkych pásoch. Prebíjanie prebieha v kruhovom otvore v nákove pomocou dierkovača z tvrdej ocele a kladiva. Otvor sa narazí asi do dvoch tretín, potom sa predmet otočí a narážanie sa opakuje z druhej strany."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Orgoň \n "
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "(z prevažnej väčšiny prevzaté zo stránky študentov archeológie)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "http://archeoforstudents.blogspot.sk/2012/05/zelezne-hrivny-vyznam-zpracovani-kovu.html",
+            "url": "http://archeoforstudents.blogspot.sk/2012/05/zelezne-hrivny-vyznam-zpracovani-kovu.html"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "http://archeoforstudents.blogspot.sk/2012/05/zelezne-hrivny-vyznam-zpracovani-kovu.html",
+        "title": "http://archeoforstudents.blogspot.sk/2012/05/zelezne-hrivny-vyznam-zpracovani-kovu.html"
+      }
+    ]
+  }
+}

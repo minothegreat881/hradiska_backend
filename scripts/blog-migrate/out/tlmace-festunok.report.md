@@ -1,17 +1,17 @@
 # Migračný report — Tlmače - Festunok
 
 - **slug:** `tlmace-festunok` · **documentId:** `kc5cy957f5aprgnqtd897xhm` · **publikované:** ✅
-- **kategória:** Mocenské centrá · **tagy:** Tlmače - Festunok · **lokalita:** Tlmače - Festunok (Slovensko)
+- **kategória:** Kniežacie sídla · **tagy:** Tlmače - Festunok · **lokalita:** Tlmače - Festunok (Slovensko)
 
 ## ✅ Integrita a úplnosť
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.85% vs originál (gramaticky opravené slová vyňaté: 1) — zvyšné mimo: kronika (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (6) ⊆ galéria (22) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 9, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 2 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -48,10 +48,18 @@
   - Zachovalosť: Ešte v polovici 20. storočia jedno zo šiestich najzachovalejších hradísk na Slovensku, neskôr rozparcelované na vinice a záhradky
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 2**
+  - chýbajúce medzery: 1
+  - iné: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `t.j. tam, kde` → `t. j. tam, kde` | chýbajúca medzera |
+| 2 | undefined | `neskorší uhorsky kráľ` → `neskorší uhorský kráľ` | chýbajúca diakritika |
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 7733 znakov (1129 slov)
+- **text tela:** 7734 znakov (1130 slov)
+- **pokrytie textu vs originál:** 99.85% (mimo: kronika)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

@@ -1,0 +1,132 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 15 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "1. storočie pred Kristom",
+      "title": "Keltské oppidum",
+      "description": "Zvyšky architektúr stavaných rímskou technikou, zlaté mince s nápisom Biatec.",
+      "type": "founding"
+    },
+    {
+      "year": "8. storočie",
+      "title": "Možné najstaršie slovanské osídlenie",
+      "description": "Nález podložky na vytepávanie kruhovej plakety naznačuje prítomnosť kovotepca na hradnom kopci už pred 9. storočím.",
+      "type": "discovery"
+    },
+    {
+      "year": "začiatok 9. storočia",
+      "title": "Vznik drevozemného opevnenia",
+      "description": "Opevnenie sa používalo s viacerými prestavbami až do konca 14. storočia.",
+      "type": "construction"
+    },
+    {
+      "year": "prvá polovica 9. storočia",
+      "title": "Sekerovité hrivny v podhradí",
+      "description": "Nález pri studni na Ventúrskej ulici dokladá obchodné styky osady — hrivny sú charakteristické najmä pre toto obdobie.",
+      "type": "discovery"
+    },
+    {
+      "year": "okolo polovice 9. storočia",
+      "title": "Vznik baziliky",
+      "description": "Trojloďová stavba, najstaršia fáza; pohrebisko v Karlovej Vsi tiež datované do tohto obdobia.",
+      "type": "construction"
+    },
+    {
+      "year": "koniec 9. – začiatok 10. storočia",
+      "title": "Osídlenie podhradia",
+      "description": "Zahĺbený príbytok pri severozápadnom nároží mestských hradieb, osídlenie pri Hlavnom námestí.",
+      "type": "event"
+    },
+    {
+      "year": "najneskôr prvá polovica 10. storočia",
+      "title": "Násilná smrť mužov v studni",
+      "description": "Nahádzané kostry 7 dospelých mužov spolu s vencom sekerovitých hrivien — možná súvislosť s postupom maďarských bojových družín.",
+      "type": "destruction"
+    },
+    {
+      "year": "4. júla 907",
+      "title": "Bitka pri Brezalauspurcu",
+      "description": "Podľa salzburských letopisov sa tu odohrala bitka bavorských a maďarských vojsk, ktorá skončila úplnou porážkou Bavorov.",
+      "type": "battle"
+    },
+    {
+      "year": "10. storočie",
+      "title": "Zánik baziliky",
+      "description": "Na jej južnú časť postavili opevnenie s murovanou vežou (pravdepodobne nedokončené).",
+      "type": "destruction"
+    },
+    {
+      "year": "11. storočie",
+      "title": "Hrad komitátnym sídlom",
+      "description": "Hrad získal významnú úlohu ako komitátny hrad Uhorska a sídlo členov kráľovskej rodiny; nad ruinami prvého kostola postavili druhý.",
+      "type": "event"
+    },
+    {
+      "year": "11. – začiatok 13. storočia",
+      "title": "Intenzívne pohrebisko",
+      "description": "Okolo kostolov sa hroby nachádzali až v piatich vrstvách.",
+      "type": "event"
+    },
+    {
+      "year": "prvá tretina 13. storočia",
+      "title": "Druhý kostol naďalej v používaní",
+      "description": "Používaný až do tohto obdobia.",
+      "type": "event"
+    },
+    {
+      "year": "13. storočie",
+      "title": "Obranné veže spevňujú opevnenie",
+      "description": "Vsadené do drevozemného valu pri zachovaní pôvodnej konštrukcie.",
+      "type": "construction"
+    },
+    {
+      "year": "koniec 14. storočia",
+      "title": "Nahradenie kamennými hradbami",
+      "description": "Drevozemné opevnenie nahradili gotické kamenné hradby.",
+      "type": "construction"
+    },
+    {
+      "year": "1990",
+      "title": "Záchranný výskum",
+      "description": "Západne od krídla čestného nádvoria sa našlo množstvo rímskeho stavebného materiálu a omietok zhodných s výzdobou baziliky.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Jedno z troch hradísk v kronikách",
+      "value": "Nitrava, Dowina, Brezalauspurc — jediné 3 lokality Veľkej Moravy priamo spomínané v kronikách 9.-10. storočia",
+      "icon": "scroll"
+    },
+    {
+      "label": "Bazilika",
+      "value": "Trojloďová stavba, celková šírka 13 m — jedna z najväčších stavieb 9. storočia vo Veľkej Morave",
+      "icon": "building"
+    },
+    {
+      "label": "Nález v studni (Ventúrska 3)",
+      "value": "7 kostier dospelých mužov + veniec 13 železných sekerovitých hrivien — unikátny nález, najväčšia koncentrácia hrivien inde je len v Pobedime",
+      "icon": "scroll"
+    },
+    {
+      "label": "Kamenný palác",
+      "value": "Rozmery 12 × 5,5 m, postavený v 9. storočí",
+      "icon": "building"
+    },
+    {
+      "label": "Pohrebisko Karlova Ves",
+      "value": "15 kostrových hrobov objavených Ľ. Kraskovskou v roku 1954, datované do polovice 9. storočia",
+      "icon": "users"
+    },
+    {
+      "label": "Keltské oppidum",
+      "value": "Zlaté mince s nápisom Biatec, stavby rímskou technikou z 1. storočia pred Kristom",
+      "icon": "star"
+    },
+    {
+      "label": "Pôvod názvu",
+      "value": "Odvodený od veľmoža Preslav alebo Breslav, ktorému hradisko zrejme patrilo",
+      "icon": "crown"
+    }
+  ]
+}

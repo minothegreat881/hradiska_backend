@@ -1,17 +1,17 @@
 # Migračný report — Slovanské Hradiská na Orave
 
 - **slug:** `slovanske-hradiska-na-orave` · **documentId:** `tgh4vjv9g7u8gwkw19k1u3wu` · **publikované:** ✅
-- **kategória:** Mocenské centrá · **tagy:** Orava · **lokalita:** —
+- **kategória:** Kniežacie sídla · **tagy:** Orava · **lokalita:** —
 
 ## ✅ Integrita a úplnosť
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.89% vs originál (gramaticky opravené slová vyňaté: 2) — zvyšné mimo: odde2ujúci (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (8) ⊆ galéria (8) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 9, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 5 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -48,10 +48,23 @@
   - Zdroj: Väčšina textu čerpaná z: Drahoslav Hulínek, Michal Čajka — Včasnostredoveké hradiská na Orave v kontexte hradísk na Strednom a Západnom Slovensku, Slovenská archeológia LII-1, 2004
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 5**
+  - preklepy: 2
+  - interpunkcia (čiarky/bodky): 1
+  - chýbajúce medzery: 1
+  - iné: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `O tom, čí tu bolo` → `O tom, či tu bolo` | preklep |
+| 2 | undefined | `podľa Húlinka zatiaľ` → `podľa Hulínka zatiaľ` | preklep, konzistentne s tvarom Hulínka v bloku 33 |
+| 3 | undefined | `od Ha D2) .` → `od Ha D2).` | medzera pred bodkou |
+| 4 | undefined | `t.j. postavené` → `t. j. postavené` | chýbajúca medzera |
+| 5 | undefined | `a umožnovali komunikačné` → `a umožňovali komunikačné` | chýbajúci mäkčeň |
 
 ## Ostatné
 - **komentáre:** 2
 - **text tela:** 11044 znakov (1585 slov)
+- **pokrytie textu vs originál:** 99.89% (mimo: odde2ujúci)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

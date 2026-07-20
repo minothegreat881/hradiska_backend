@@ -1,0 +1,20 @@
+{
+  "slug": "trencianske-teplice-certova-skala",
+  "pass": "final (pass1 + pass2 cross-field)",
+  "summary": {
+    "correctionsApplied": 22,
+    "categories": {
+      "meno_lokality_zjednotenie": 6,
+      "velke_male_pismena_etnonyma_obdobia": 5,
+      "typografia_pomlcky_x": 8,
+      "interpunkcia": 3,
+      "bohemizmy": 1,
+      "preklepy": 2,
+      "uvodzovky": 1
+    },
+    "flagged": 2,
+    "crossFieldPropagationNoted": 1,
+    "crossFieldPropagationApplied": 0
+  },
+  "note": "Pass 1 detail v out/trencianske-teplice-certova-skala.grammar-sk-pass1.json. FLAG položky (nejednoznačný názov polohy obetiska, BIBLIO_IN_BODY pre citáciu Karla Pietu) v out/trencianske-teplice-certova-skala.review.json. Najvýznamnejšie zistenie: nekonzistentné veľké/malé písanie „Čertova Skala\"/\"Čertova skala\" naprieč title/tags/alt/captions/telom — zjednotené na kanonický tvar \"Čertova skala\" (malé s), ktorý už bol v protected-terms.json aj vo väčšine tela. cross-field propagácia do location.name zaznamenaná, ale nearealizovaná (mimo rozsahu úprav)."
+}

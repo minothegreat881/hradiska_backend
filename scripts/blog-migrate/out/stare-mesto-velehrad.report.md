@@ -7,7 +7,7 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ✅ Text: pokrytie 100.00% vs originál (gramaticky opravené slová vyňaté: 2) — nič nechýba ✅
+- ✅ Text: pokrytie 99.25% vs originál (gramaticky opravené slová vyňaté: 2) — zvyšné mimo: niekoľko, múzea, veľkej, uhorskom, hradišti (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (5) ⊆ galéria (27) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 12, keyFacts 10
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 5 |
 | embed (video/3D) | 1 |
-| sources (zdroje) | 1 → 4 položiek |
+| sources (zdroje) | 1 → 3 položiek |
 
 ## Obrázky
 - **galéria:** 27 (5 s popisom)
@@ -73,6 +73,6 @@
 ## Ostatné
 - **komentáre:** 3
 - **text tela:** 8283 znakov (1250 slov)
-- **pokrytie textu vs originál:** 100.00% ✅
+- **pokrytie textu vs originál:** 99.25% (mimo: niekoľko, múzea, veľkej, uhorskom, hradišti)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

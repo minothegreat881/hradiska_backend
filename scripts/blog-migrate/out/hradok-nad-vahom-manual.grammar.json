@@ -1,0 +1,22 @@
+{
+  "slug": "hradok-nad-vahom",
+  "appliedFixes": [
+    { "id": "01", "type": "fyzicky nemožné", "note": "165-1200 mm -> 165 – 200 mm (blok 6) — 1200 mm by bolo 1,2 m, dvakrát dlhšie než 'stredné' hrivny; nula sa zjavne vlúdila pri prepise." },
+    { "id": "02", "note": "KF '247 kusov (114 stredných + 68 menších)' -> '247 kusov (114 stredných, 68 menších, zvyšok zlomky)' — 114+68=182, doplnená chýbajúca zmienka o 65 zlomkoch, ktorá v texte je." },
+    { "id": "03", "note": "Nadpis 'L i t e r a t ú r a' (rozpálkovaný letter-spacing z originálu) odstránený — nahradený štandardným nadpisom sekcie Zdroje." },
+    { "id": "04", "type": "chýba sekcia Zdroje", "note": "Sekcia 'Zdroje a literatúra' vôbec neexistovala — vytvorená s 3 položkami (Janšák, Pleiner, VSNS). 'Foto 22.8.2013:' oddelené do vlastného headingu pred Zdrojmi. VSNS ponechané nerozpísané — skratku sa nepodarilo spoľahlivo overiť, radšej som ju nechal ako je namiesto hádania." },
+    { "id": "05", "note": "popísal -> opísal, 'geniálny' odstránené (blok 0 aj excerpt) — timeline už 'geniálny' nemala." },
+    { "id": "06", "note": "11 popiskov v galérii začínajúcich malým písmenom zjednotených na veľké — rozhodol som sa pre zhodu so zvyškom webu (KF/popisky v ostatných článkoch veľkým)." },
+    { "id": "07", "type": "obsah", "note": "Doplnená veta do tela (blok 2): 'Roztrúsené praveké črepy možno dodnes vidieť aj priamo na prístupovej ceste k hradisku, hoci si ich väčšina okoloidúcich nevšíma.' Nahlásenie na KPÚ je krok pre používateľa, nie niečo, čo môžem urobiť ja." },
+    { "id": "08", "note": "'obecný úrad, na ceste k nemu...' -> 'Obecný úrad — na ceste k nemu sa našiel poklad hrivien' (galéria, media 1857)." },
+    { "id": "09", "note": "Excerpt opravený (chýbajúci mäkčeň v 'čast', chýbajúca čiarka pred 'v ktorej') — telo už malo správne, len perex zaostával." },
+    { "id": "10", "note": "'r. 1954 narazilo sa' -> 'v roku 1954 sa narazilo' (blok 5) — pozícia zvratného sa aj rozpísaná skratka." },
+    { "id": "11", "note": "'intencionálne odseknutie časti prípadne' -> 'zámerné odseknutie časti, prípadne' (blok 6) — doplnená čiarka, odstránený latinizmus." },
+    { "id": "12", "note": "Rozpadnutá veta o obyvateľovi hradiska prepísaná podľa návrhu (blok 6)." },
+    { "id": "13", "note": "En dash pri pointe 'o vlastný život' zmenený na em dash, ako žiadal report; obsah pointy ponechaný." },
+    { "id": "14", "type": "typografia", "note": "13.-14. stor. -> 13. – 14. stor. (telo aj timeline), 250-300 mm -> 250 – 300 mm, s. 415-418 -> s. 415 – 418 (Zdroje)." },
+    { "id": "15", "note": "ca -> cca (2x v tele, 1x v KF 'Hmotnosť depotu') — zhoda s ostatnými článkami." },
+    { "id": "16", "note": "Slov. Archeologia -> Slovenská archeológia (Zdroje, položka Pleiner)." },
+    { "id": "17", "note": "Druhý výskyt písmenných označení (blok 2, 'partii a-b-e-f-a') doplnený o '(viď plánik nižšie)' — prvý výskyt (blok 1) už odkaz mal." }
+  ]
+}

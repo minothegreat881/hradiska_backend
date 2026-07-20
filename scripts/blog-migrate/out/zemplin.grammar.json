@@ -1,0 +1,30 @@
+{
+  "body": [
+    {"before": "Jej intravilán a blízke okolie bolo intenzívne osídľované od mladšej doby kamennej.", "after": "Jej intravilán a blízke okolie boli intenzívne osídľované od mladšej doby kamennej."},
+    {"before": "boli dobré podmienky pre rozvoj poľnohospodárstva", "after": "boli dobré podmienky na rozvoj poľnohospodárstva"},
+    {"before": "opakovane využívaná pre osídlenie", "after": "opakovane využívaná na osídlenie"},
+    {"before": "Do konca 13. storočia bol hrad a dedina majetkom uhorských kráľov", "after": "Do konca 13. storočia boli hrad a dedina majetkom uhorských kráľov"},
+    {"before": "Hradisko v Zemplíne vybudované na skalnom ostrohu s oválnym pôdorysom a plochou 240 x 150 m", "after": "Hradisko v Zemplíne vybudované na skalnom ostrohu s oválnym pôdorysom a plochou 240 × 150 m"},
+    {"before": "Obdobie najväčšieho rozkvetu zažíva okolo polovice 1. storočia pred n. l. V tom čase sa stáva dôležitým strediskom výroby kvalitnej maľovanej keramiky, metalurgie a obchodu. Jeho význam prerastá hranice regiónu. Plní úlohu sprostredkovateľa kontaktov medzi Panóniou, severným Slovenskom a Malopoľskom. V 1. storočí n. l. keltsko-dácke osídlenie Zemplína postupne doznieva a koncom storočia pod tlakom zo severu postupujúcich Germánov, nositeľov przeworskej kultúry, zaniká.", "after": "Obdobie najväčšieho rozkvetu zažívalo okolo polovice 1. storočia pred n. l. V tom čase sa stalo dôležitým strediskom výroby kvalitnej maľovanej keramiky, metalurgie a obchodu. Jeho význam prerástol hranice regiónu. Plnilo úlohu sprostredkovateľa kontaktov medzi Panóniou, severným Slovenskom a Malopoľskom. V 1. storočí n. l. keltsko-dácke osídlenie Zemplína postupne doznievalo a koncom storočia pod tlakom zo severu postupujúcich Germánov, nositeľov przeworskej kultúry, zaniklo."},
+    {"before": "Zlomky keramiky dokazujúce kontinuitu Slovanov sa nachádzajú", "after": "Zlomky keramiky dokladajúce kontinuitu slovanského osídlenia sa nachádzajú"},
+    {"before": "Okrem obydlia z Kertalje o tom dokazuje aj hrob z 8.-9. storočia", "after": "Okrem obydlia z Kertalje to dokazuje aj hrob z 8. – 9. storočia"},
+    {"before": "O hradisku je zmienka v historickom románe tzv. Anonyma z prelomu 12. a 13. storočia.", "after": "O hradisku je zmienka v kronike tzv. Anonyma z prelomu 12. a 13. storočia."},
+    {"before": "K poslednej úprave valu došlo pravdepodobne na prelome 11. a 12. storočia, kedy sa hradisko začalo prestavovať na hrad.", "after": "K poslednej úprave valu došlo pravdepodobne na prelome 11. a 12. storočia, keď sa hradisko začalo prestavovať na hrad."},
+    {"before": "Postavili kamennú administratívnu budovu a asi aj kostol menších rozmerov.", "after": "Postavili kamennú administratívnu budovu a pravdepodobne aj menší kostol."}
+  ],
+  "sourcesFixes": [
+    {"clearIntro": true},
+    {"before": "Vladimír Turčan a kolektív: Archeologické pamiatky - Kultúrne krásy Slovenska, Dajama, 2009", "after": "Vladimír Turčan a kolektív: Archeologické pamiatky — Kultúrne krásy Slovenska, Dajama, 2009"},
+    {"before": "B.Benedik: Slovanské nálezy z výskumu valu na hradisku v Zemplíne, Štúdijné zvesti 14, 1964", "after": "B. Benedik: Slovanské nálezy z výskumu valu na hradisku v Zemplíne, Študijné zvesti 14, 1964"}
+  ],
+  "timeline": [
+    {"index": 7, "field": "description", "before": "Historický román Anonyma uvádza", "after": "Kronika tzv. Anonyma uvádza"}
+  ],
+  "keyFacts": [
+    {"index": 6, "field": "value", "before": "Archeologické pamiatky - Kultúrne krásy Slovenska", "after": "Archeologické pamiatky — Kultúrne krásy Slovenska"}
+  ],
+  "galleryMediaFixes": [
+    {"mediaId": 680, "text": "Kostoly stoja na vyvýšenine uprostred hradiska. Vpredu je novší gréckokatolícky kostol, vzadu pôvodný románsko-gotický, neskôr prestavaný kalvínsky kostol. Tam, kde stoja kostoly, bol kamenný župný hrad."},
+    {"mediaId": 684, "text": "V pozadí mohutný val hradiska"}
+  ]
+}

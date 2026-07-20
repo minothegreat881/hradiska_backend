@@ -1,0 +1,17 @@
+{
+  "slug": "bojnice-hradisko-a-centrum-dechtarstva-v-slovanskom-obdobi",
+  "flags": [
+    {
+      "type": "SELF_CONTRADICTION",
+      "detail": "Blok 17 ('Tradícia veľkomoravského dechtárstva v prievidzskej oblasti sa zachovala prakticky donedávna. Niektorí občania ešte v 60. rokoch si ešte živo spomínali na dechtárske pece na susedných kopcoch dubnického chotára.') a blok 19 ('Tradícia veľkomoravského dechtárstva pretrvávala ešte v 50. rokoch 20. storočia, keď si niektorí obyvatelia živo spomínali na dechtárske pece na kopcoch dubnického chotára.') opisujú zjavne tú istú spomienku miestnych obyvateľov na dechtárske pece na dubnickom chotári, ale uvádzajú rozdielne desaťročia (60. roky vs. 50. roky 20. storočia). Nie je jasné, ktorý údaj je správny — nerozhodnuté, ponechané bez zásahu, nahlásené používateľovi."
+    },
+    {
+      "type": "RELATIVE_DATE",
+      "detail": "Slovo 'donedávna' sa vyskytuje 2× (blok 15: '...donedávna dokladali iba jazykovedno-historické výskumy...'; blok 17: '...zachovala prakticky donedávna.'). Časom zastará (článok je z roku 2013), ale nie je jasné, k akému referenčnému bodu sa 'donedávna' vzťahuje, takže sa nedá bezpečne nahradiť konkrétnym rokom. Ponechané, nahlásené."
+    },
+    {
+      "type": "OCR_RECONSTRUCTION_LOW_CONFIDENCE",
+      "detail": "Bibliografická citácia Šaurová, D. (pôvodne v tele, teraz presunutá do content.sources aj citations[]) mala OCR-poškodený text 'Zkoum.n. výrobn.ch objektů a technologi. archeologickými metodami 2. 1982,' — chýbajúce písmená nahradené bodkou. Zrekonštruované s vysokou mierou istoty na 'Zkoumání výrobních objektů a technologií archeologickými metodami 2, 1982' (bežné české archeologické spojenie, kontextovo jednoznačné), trailing čiarka nahradená bodkou. Odporúčam overiť proti originálnej publikácii, keďže ide o rekonštrukciu chýbajúcich písmen v citácii, nie mechanickú opravu jedného znaku."
+    }
+  ]
+}

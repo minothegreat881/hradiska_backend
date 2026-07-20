@@ -1,0 +1,24 @@
+{
+  "slug": "gbelany",
+  "note": "grammar-sk agent, prvý prechod.",
+  "criticalFixes": [
+    { "issue": "Bloky 6, 8, 9 boli doslovné duplicity troch Zdrojov (jupiter.elte.hu poznámka, MORAVČÍK 2002, PETROVSKÝ-ŠICHMAN 1964), zlepené v tele namiesto iba v sekcii Zdroje.", "fix": "Bloky 6, 8, 9 odstránené z tela (blok 5 'Autor: Heretik' ponechaný ako legitímna atribúcia). Preklep 'pochádzaju' -> 'pochádzajú' opravený priamo v Zdrojoch." }
+  ],
+  "appliedFixes": [
+    { "rule": "A8 chýbajúce medzery/bodky v skratke", "before": "vo výške 652 mnm.", "after": "vo výške 652 m n. m.", "block": 1 },
+    { "rule": "A7 bohemizmus", "before": "je možné súdiť, že sa jedná o mladšiu časť", "after": "je možné súdiť, že ide o mladšiu časť", "block": 2 },
+    { "rule": "B typografia (nadbytočná pomlčka)", "before": "nájdené keramické nálezy - zo stredoveku.", "after": "nájdené keramické nálezy zo stredoveku.", "block": 4 },
+    { "rule": "A1 nadbytočná čiarka", "before": "Hradisko bolo v stredoveku, v roku 1433 spolu s výšinou", "after": "Hradisko bolo v stredoveku v roku 1433 spolu s výšinou", "block": 4 },
+    { "rule": "B typografia (číselný rozsah = en dash)", "before": "12. - 13. storočia", "after": "12. – 13. storočia", "block": 4, "note": "aj KF 'Datovanie stavby hradu' aj timeline" },
+    { "rule": "D cross-field (telo malo chybné 'aj', timeline malo správne 'a')", "before": "do bezpečnejších aj lepšie chránených polôh", "after": "do bezpečnejších a lepšie chránených polôh", "block": 4 },
+    { "rule": "chýbajúca koncová bodka", "before": "kde sa pohybovali ešte aj okolo roku 1474", "after": "kde sa pohybovali ešte aj okolo roku 1474.", "block": 4 },
+    { "rule": "A1 nadbytočná čiarka + comma splice", "before": "je strmá, a poskytuje krásne výhľady, Uprostred je brána", "after": "je strmá a poskytuje krásne výhľady. Uprostred je brána", "block": 7, "note": "caption aj alt" },
+    { "rule": "D cross-field (excerpt mal preklep číslica/písmeno)", "before": "koncom 1. stor. pred n. 1.", "after": "koncom 1. stor. pred n. l.", "block": "excerpt" }
+  ],
+  "reviewed_no_change": [
+    "Blok 0 — telo malo už správne 'n. l.' a 'Slovanmi' (na rozdiel od chybného excerptu).",
+    "Blok 1, 2 (zvyšok) — bez ďalších chýb.",
+    "'Bratríkmi, vojskom' — apozícia s čiarkou správne, ponechané."
+  ],
+  "flags": []
+}

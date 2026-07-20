@@ -1,0 +1,20 @@
+{
+  "slug": "dolna-marikova-simunky",
+  "note": "FLAG-only nálezy z grammar-sk pass1 + pass2, nevyriešené, čakajú na rozhodnutie používateľa.",
+  "flags": [
+    {
+      "category": "UNCLOSED_PAREN",
+      "location": "blogPost.blocks[] — odsek 'Treba uviesť, že lokalitu síce v odbornej literatúre po prvý raz uvádza pod pôvodným historickým názvom Dedková páter Povala...'",
+      "issue": "Veta '...páter Povala, keď píše: „Nálezy sekierok súhlasia s pamiatkami a keramikou kanelovanou z eneolitu, pochodiacou s výšinného sídliska Dedková v Marikovskej doline“).' obsahuje zatváraciu zátvorku ')' hneď za citátom, bez zodpovedajúcej otváracej zátvorky kdekoľvek skôr vo vete. Pravdepodobne mala byť otváracia zátvorka pred 'keď píše' alebo pred celým citátom (napr. '...páter Povala (keď píše: „...“).' alebo citácia zdroja v zátvorke bola vystrihnutá pri extrakcii).",
+      "action_taken": "Text ponechaný bez zásahu na štruktúre zátvorky. Citát samotný (Povala) je navyše chránená zóna (§21.3 — priamy dobový citát uvedený spojením 'keď píše:') a nebol nijako upravovaný ani mechanicky.",
+      "decision_needed": "Doplniť chýbajúcu otváraciu zátvorku (a kam presne), alebo zatváraciu zátvorku odstrániť ako pozostatok po orezanom texte?"
+    },
+    {
+      "category": "STRUCTURAL_ORPHAN_HEADING",
+      "location": "blogPost.blocks[] — samostatný heading blok s textom iba 'Orgoň' (pred content.sources)",
+      "issue": "Presne zodpovedá vzoru z §21.10 ('AKÝKOĽVEK samostatný content.rich-text blok/heading obsahujúci iba osamotené meno... napr. celý heading-blok s textom len Orgoň, Lipt. Štiavnica'). Ide zrejme o autorský podpis/byline, nie o stratu obsahu.",
+      "action_taken": "Ponechané bez zmeny — nesie informáciu (autorský podpis), na rozdiel od referenčného Lipt. Štiavnica prípadu nejde zjavne o artefakt extrakcie (rovnaký vzor 'Spracoval/podpis Orgoň' sa vyskytuje aj v iných článkoch tejto dávky, napr. detva-kalamarka).",
+      "decision_needed": "Žiadne rozhodnutie nutné, iba nahlásené pre úplnosť podľa §21.10."
+    }
+  ]
+}

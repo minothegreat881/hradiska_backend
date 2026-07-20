@@ -1,0 +1,31 @@
+{
+  "timeline": [
+    { "year": "neskorá doba bronzová – halštatská (1 200-700-500 pred n. l.)", "title": "Vybudovanie hradiska ľudom lužickej kultúry", "description": "Hradisko v Zemianskom Podhradí bolo vybudované v troch fázach, opevnené valom s drevenou komorovou konštrukciou.", "type": "construction" },
+    { "year": "100 – 0 pred n. l. (neskorá doba laténska)", "title": "Osídlenie Keltmi", "description": "Keltské obyvateľstvo púchovskej kultúry využívalo výhodnú polohu bývalého lužického hradiska.", "type": "era" },
+    { "year": "1887", "title": "Prvý archeologický prieskum J. Ľ. Holubyho", "description": "Jozef Ľudovít Holuby ako prvý preskúmal hradisko a publikoval nálezy (železné šípy, ostrohy, srpy, fibulu a iné) v časopise Slovenské pohľady.", "type": "discovery" },
+    { "year": "9. – 11. storočie", "title": "Slovanské osídlenie hradiska", "description": "Hradisko obývali slovanskí predkovia, ktorí po sebe zanechali keramiku aj významné kovové predmety.", "type": "era" },
+    { "year": "1. polovica 9. storočia", "title": "Datovanie slovanskej prevliečky", "description": "Dr. Titus Kolník datoval nájdenú železnú prevliečku do obdobia Nitrianskeho kniežatstva (blatnicko-mikulčický horizont).", "type": "event" },
+    { "year": "1987", "title": "Objav keltského depotu železných predmetov", "description": "Na úpätí jedného z útesov Martákovej skaly bol nájdený keltský depot – masívna železná sekera s obdĺžnikovou tuľajkou, veľké dláto a nôž z neskorej doby laténskej.", "type": "discovery" }
+  ],
+  "keyFacts": [
+    { "label": "Poloha", "value": "Bošácka dolina, výbežok hrebeňa Hradištných Vŕškov a Bašty", "icon": "mountain" },
+    { "label": "Opevnenie", "value": "Val s drevenou komorovou konštrukciou vybudovaný v troch fázach", "icon": "shield" },
+    { "label": "Ružicová spona", "value": "Nádherný exemplár ružicovej spony so štylizovanými vtákmi z neskorej doby bronzovej", "icon": "star" },
+    { "label": "Nálezy Holubyho (1887)", "value": "Asi 30 železných šípov, ulomená špica piky, dve ostrohy, 5 srpov a fibula", "icon": "book" },
+    { "label": "Keltský depot", "value": "Železná sekera, veľké dláto a nôž z neskorej doby laténskej, nájdené v roku 1987", "icon": "custom" },
+    { "label": "Bronzová spona Kvádov", "value": "Jednodielna spona so štvorzávitovým vinutím, dlhá 6,7 cm", "icon": "star" },
+    { "label": "Slovanská prevliečka", "value": "Súčasť luxusnej ozdobnej súpravy na upevnenie meča k opasku, datovaná do 1. polovice 9. storočia", "icon": "shield" },
+    { "label": "Zubadlo", "value": "Masívne železné zubadlo s maximálnym rozpätím 21,3 cm, výrobok slovenského kováča", "icon": "custom" }
+  ],
+  "corrections": [
+    { "before": "v dobe kamenej", "after": "v dobe kamennej" },
+    { "before": "Hornom Srní- poloha", "after": "Hornom Srní - poloha" },
+    { "before": "Martákova Skala,", "after": "Martákova skala," },
+    { "before": "Martákovej Skaly v roku 1987", "after": "Martákovej skaly v roku 1987" },
+    { "before": "letopočtom .", "after": "letopočtom." },
+    { "before": "postrannicami Ramená zubadla", "after": "postrannicami. Ramená zubadla" },
+    { "before": "slovanským hradiskám vypovedajú", "after": "slovanským hradiskám, vypovedajú" },
+    { "before": "Pôvodne tvorili súčasť výstroja jazdca", "after": "Pôvodne tvorilo súčasť výstroja jazdca" },
+    { "before": "že tvoril obrannú funkciu", "after": "že tvorilo obrannú funkciu" }
+  ]
+}

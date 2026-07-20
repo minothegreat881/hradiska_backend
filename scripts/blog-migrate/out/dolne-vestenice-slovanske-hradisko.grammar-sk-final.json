@@ -1,0 +1,11 @@
+{
+  "slug": "dolne-vestenice-slovanske-hradisko",
+  "note": "grammar-sk pass1 (draft) aplikovaný priamo + pass2 cross-field konzistencia. Editované priamo v out/dolne-vestenice-slovanske-hradisko.intermediate.json.",
+  "step1_appliedFixes_count": 5,
+  "step2_crossfield_scan_result": "Plný sken keyFacts+timeline+excerpt+title+tags. Kľúčový nález: 'AU SAV' chýbajúci dĺžeň sa opakoval identicky vo VŠETKÝCH 4 poliach (excerpt, telo, keyFacts, timeline) — opravené jednotne. '9.-10. stor.' číselný rozsah opravený v tele aj v timeline (year aj description). Žiadne ďalšie cross-field nezrovnalosti nad rámec toho, čo je zachytené v review.json (CERTAINTY_LOST).",
+  "flags_unresolved": [
+    "Pozri out/dolne-vestenice-slovanske-hradisko.review.json — RELATIVE_DATE, CERTAINTY_LOST, BIBLIO_IN_BODY."
+  ],
+  "protected_zone_verification": "Článok neobsahuje žiadny priamy citát (dobový ani moderný) ani quote-block — 'Matej Ruttkay v knihe Bojná 2 uvádza, že...' a 'Karol Pieta k tomu dodáva, že...' sú vždy nepriama reč (že-veta), nie doslovný citát. §21.3 sa netýka žiadneho bloku v tomto článku.",
+  "upload_ready": true
+}

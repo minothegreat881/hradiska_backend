@@ -1,0 +1,36 @@
+{
+  "_note": "5 opráv aplikovaných, 0 cross-node preskočených, 0 nenájdených v dumpe (možná halucinácia)",
+  "corrections": [
+    {
+      "block": "?",
+      "before": "Kusínskeho potok,",
+      "after": "Kusínskeho potoka,",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "s vodorovným žliabkami",
+      "after": "s vodorovnými žliabkami",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "So slovanský osídlením",
+      "after": "So slovanským osídlením",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "vojensko - strategického",
+      "after": "vojensko-strategického",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "vo vihorlatských horách",
+      "after": "vo Vihorlatských horách",
+      "reason": "gramatika/pravopis"
+    }
+  ],
+  "skippedNotFound": []
+}

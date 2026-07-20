@@ -1,0 +1,91 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2018-07-utgard-2018.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3392195202475756062",
+    "bloggerPostUrl": "http://www.hradiska.sk/2018/07/utgard-2018.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3392195202475756062/comments/default",
+    "extractedAt": "2026-07-18T11:21:39.149Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/w3Ta7Ou8FKA?feature=player_embedded"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 1,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Utgard 2018",
+    "slug": "utgard-2018",
+    "excerpt": "Medzi hlavné atrakcie tohoročného Utgardu nepochybne patrila veľká bitka všetkých mužských účastníkov tohto kvalitného festivalu včasného stredoveku. Prinášame Vám jeden zo stretov tejto ukrutnej bitky.",
+    "authorName": "Orgon",
+    "publishedAt": "2018-07-02T14:42:00.001+02:00",
+    "originalPublishedDate": "2018-07-02T14:42:00.001+02:00",
+    "updatedAt": "2018-07-02T14:42:17.838+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0T3sLG3b-A5d4Iee5Rh3LLcSjxusRgnSY0BO8n7kQkgcf_3BMbjhV8GDpwz9VPpHQBXQ9z6OD9W2cy3u7aDu76PFywxokuTj2jwR5tBDO9OHYHj9zjtrulaCcC0BW58JIRJoOcEaID2XO/s0/steinhubel+Ko%25C5%25BEiak.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0T3sLG3b-A5d4Iee5Rh3LLcSjxusRgnSY0BO8n7kQkgcf_3BMbjhV8GDpwz9VPpHQBXQ9z6OD9W2cy3u7aDu76PFywxokuTj2jwR5tBDO9OHYHj9zjtrulaCcC0BW58JIRJoOcEaID2XO/s1600/steinhubel+Ko%25C5%25BEiak.jpg",
+        "filename": "steinhubel+Ko%C5%BEiak.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0T3sLG3b-A5d4Iee5Rh3LLcSjxusRgnSY0BO8n7kQkgcf_3BMbjhV8GDpwz9VPpHQBXQ9z6OD9W2cy3u7aDu76PFywxokuTj2jwR5tBDO9OHYHj9zjtrulaCcC0BW58JIRJoOcEaID2XO/s1600/steinhubel+Ko%25C5%25BEiak.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": "Na jednej z najlepších akcií venovaných včasnému stredoveku samozrejme nechýbali ani hradiská. Tu v diskusii s Dr. Jánom Steinhubelom a Dr. Rastislavom Kožiakom"
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Medzi hlavné atrakcie tohoročného Utgardu nepochybne patrila veľká bitka všetkých mužských účastníkov tohto kvalitného festivalu včasného stredoveku. Prinášame Vám jeden zo stretov tejto ukrutnej bitky.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "w3Ta7Ou8FKA",
+        "url": "https://www.youtube.com/embed/w3Ta7Ou8FKA",
+        "caption": ""
+      }
+    ],
+    "citations": []
+  }
+}

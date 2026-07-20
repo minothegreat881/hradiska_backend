@@ -1,0 +1,36 @@
+{
+  "slug": "stare-mesto-velehrad",
+  "sourceDraft": "out/stare-mesto-velehrad.grammar-sk-pass1.json",
+  "appliedAt": "2026-07-15",
+  "note": "Shortest, cleanest of the 5 flagship articles (16 blocks, matches draft's block count exactly, no index drift). Already published/live per memory note — this pass only updates the local out/stare-mesto-velehrad.intermediate.json; per instructions, upload.mjs was NOT run and the live Strapi article was not touched.",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "block": 1, "rule": "B quotes (consistency with surrounding text)", "before": "od susedného Starého mesta či \"starého\" Velehradu", "after": "od susedného Starého mesta či „starého“ Velehradu" },
+    { "block": 2, "rule": "B dash (image alt+caption, 2 occurrences)", "before": "Archeoskanzen Modrá - v blízkosti Uherského Hradišťa", "after": "Archeoskanzen Modrá — v blízkosti Uherského Hradišťa" },
+    { "block": 6, "rule": "B range (cross-field, matches timeline '11.–12. storočie')", "before": "z 11.-12. storočia", "after": "z 11.–12. storočia" },
+    { "block": 8, "rule": "A9 case (image alt+caption, 2 occurrences)", "before": "Pohľad na Slovanské obydlia", "after": "Pohľad na slovanské obydlia" },
+    { "block": 9, "rule": "cross-field dash (matches timeline 'Staré Mesto – Velehrad') + unit", "before": "Osídlená plocha Starého mesta - Velehradu ... (t.j. 2,5 km2)", "after": "Osídlená plocha Starého mesta – Velehradu ... (t.j. 2,5 km²)" },
+    { "block": 10, "rule": "cross-field dash", "before": "Staré mesto - Velehrad bol rozvinutým", "after": "Staré mesto – Velehrad bol rozvinutým" },
+    { "block": 12, "rule": "B space before % + cross-field dash (matches keyFacts 'Antiqua civitas – Veligrad')", "before": "Iba 8% zvieracích kostí ... „Antiqua civitas - Veligrad“", "after": "Iba 8 % zvieracích kostí ... „Antiqua civitas – Veligrad“" },
+    { "block": 13, "rule": "cross-field dash", "before": "Staré Mesto - Velehrad veľkým výrobným", "after": "Staré Mesto – Velehrad veľkým výrobným" }
+  ],
+  "supplementalFixes_notInDraft": [
+    { "field": "gallery[0].caption", "rule": "B dash (mirrors block 2 fix — pass1 only touched the body image block, not the separate gallery array entry)", "before": "Archeoskanzen Modrá - v blízkosti Uherského Hradišťa", "after": "Archeoskanzen Modrá — v blízkosti Uherského Hradišťa" },
+    { "field": "gallery[2].caption", "rule": "A9 case (mirrors block 8 fix)", "before": "Pohľad na Slovanské obydlia", "after": "Pohľad na slovanské obydlia" }
+  ],
+  "crossFieldPropagation_step2_checked": [
+    "keyFacts (10 items) and timeline (11 items) — both already fully consistent with the applied fixes (en dash 'Staré Mesto – Velehrad' pattern, 'Antiqua civitas – Veligrad', percent spacing not applicable there). No further changes needed.",
+    "excerpt — checked, no affected phrases present.",
+    "gallery — 27 entries checked; found and fixed 2 stale duplicates of already-fixed image captions (see supplementalFixes above); rest are null or unaffected."
+  ],
+  "reviewed_no_change": [
+    "Block 0: 871 Fuldes Annals quote with deliberately lowercase initial letters ('svätopluk odišiel do rastislavovho starého mesta...') — the article's own text explains this immediately after as a period Latin convention; left untouched, not a typo.",
+    "'kópie' (block 3, in a weapons list 'meče, sekery, kópie, nože') — confirmed as the author's consistent archaic term for spearheads/kopije, not a typo for 'kópia' (replica).",
+    "title ('Staré Město - Velehrad') and location.name (same) — retain the ASCII ' - ' separator and the Czech spelling 'Město' rather than the body's 'Mesto'/en-dash convention. Consistent with the corpus-wide pattern (confirmed across all ~29 other grammar-sk-pass1 drafts) of never touching the title field; location.name likely mirrors the title/is tied to geocoding, so left untouched for the same reason. Flagged here for visibility."
+  ],
+  "flags_unresolved": [
+    "See out/stare-mesto-velehrad.review.json"
+  ],
+  "blockCountChange": "16 -> 16 (no blocks removed/added)",
+  "uploadReady": true
+}

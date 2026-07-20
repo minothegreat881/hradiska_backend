@@ -1,0 +1,28 @@
+{
+  "slug": "breclav-pohansko",
+  "pass1AppliedFrom": "breclav-pohansko.grammar-sk-pass1.json",
+  "step1_appliedFixes": [
+    { "rule": "B typografia (spojovník bez medzier)", "block": "0, excerpt", "before": "moravsko - rakúskej", "after": "moravsko-rakúskej", "note": "Uplatnené na oboch výskytoch (excerpt aj block 0). Návrh v drafte navyše menil úvodzovky „Pohansko“ na ASCII tvar — NEAPLIKOVANÉ, pôvodné „Pohansko“ (U+201E/U+201C) je už správna slovenská typografia, nešlo ju 'opravovať' na horšiu formu." },
+    { "rule": "A3 zhoda + B typografia + A9 malé písmeno", "block": 1, "before": "Včasno - slovanské a starohradištné osídlenia (6-8. Storočie) bolo zachytené", "after": "Včasnoslovanské a starohradištné osídlenie (6. – 8. storočie) bolo zachytené", "note": "zhoda s timeline[0], ktoré už malo 'Včasnoslovanské' — potvrdené konzistentné" },
+    { "rule": "A1 chýbajúce čiarky", "block": 3, "before": "trojloďový 18,6 m dlhý ... charakteru aké sa našli", "after": "trojloďový, 18,6 m dlhý ... charakteru, aké sa našli" },
+    { "rule": "A4 zhoda rodu + preklep", "block": 5, "before": "zistený veľmožská dvorec ... víacpriestorovými domami ... podmurovkách, a hospodárska časť", "after": "zistený veľmožský dvorec ... viacpriestorovými domami ... podmurovkách a hospodárska časť" },
+    { "rule": "A1 nadbytočná čiarka + preklep + pád", "block": 6, "before": "areály, a menšie pohrebisko ... velmožského dvorca ... zachytené jeho okraja ... sakrálnej účel", "after": "areály a menšie pohrebisko ... veľmožského dvorca ... zachytené jeho okraje ... sakrálny účel" },
+    { "rule": "A4 zhoda rodu + A7 bohemizmus + B pomlčka", "block": 8, "before": "sídliskovej areál ... snáď remeselnícko-výrobný ... veľmožovi - kniežaciemu hodnostárovi - so sídlom", "after": "sídliskový areál ... azda remeselnícko-výrobný ... veľmožovi — kniežaciemu hodnostárovi — so sídlom" },
+    { "rule": "A9 veľké písmeno + A7 bohemizmus/duplicita + A1 chýbajúca čiarka + A5 slovosled", "block": 10, "before": "V pohansku bola ... Jedná sa o sa o kolový objekt ... hradiska sa nachádza ... funkciu kultovú", "after": "V Pohansku bola ... Ide o kolový objekt ... hradiska, sa nachádza ... kultovú funkciu" },
+    { "rule": "B typografia (zjednotenie úvodzoviek)", "block": "timeline[5].description", "before": "meno \"Pohansko\" získalo", "after": "meno „Pohansko“ získalo", "note": "opravené na U+201E/U+201C (rovnaké ako v tele), nie ASCII tvar navrhnutý v drafte" }
+  ],
+  "step1_flagsFromDraft": [],
+  "step2_crossFieldSweep": {
+    "checked": ["excerpt", "keyFacts[]", "timeline[]", "media captions", "title", "tags"],
+    "found": [
+      "excerpt malo rovnaký 'moravsko - rakúskej' ako block 0 — opravené spolu (replace_all)",
+      "timeline[5].description malo ASCII úvodzovky okolo 'Pohansko' — opravené na „ “",
+      "keyFacts 'Trojloďový, 18,6 m dlhý, 7,2 m široký...' už malo čiarky správne — žiadna zmena potrebná",
+      "timeline[0] 'Včasnoslovanské a starohradištné osídlenie' už bolo v jednotnom tvare pred aj po oprave block 1 — konzistentné"
+    ],
+    "regressionCheckAgainstOldForms": "grep na 8 starých tvarov (moravsko - rak, Včasno - slov, víacpriestor, velmožsk, sídliskovej are, snáď remesel, zistený veľmožská, sakrálnej účel, zachytené jeho okraja, Jedná sa o sa o, funkciu kultovú, kniežaciemu s pomlčkou, areály, a menšie) po úprave — 0 výskytov"
+  },
+  "step2_notAltered": "content.quote-block nie je v článku prítomný; žiadne dobové citáty na ochranu",
+  "unresolvedFlags": [],
+  "result": "out/breclav-pohansko.intermediate.json je validný JSON, upload-ready"
+}

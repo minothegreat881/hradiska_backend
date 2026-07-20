@@ -1,0 +1,46 @@
+{
+  "slug": "devin",
+  "note": "grammar-sk agent, prvý prechod. Veľký, komplexný článok (68 blokov) s 2 formálnymi quote-block (Fuldské/Bertiniánske anály), 1 content.poem (Štúrovci), a dvomi rozsiahlymi vloženými citátmi z modernej literatúry/blogu (Hrnko 2007, blog lukaskrajcir.blog.sme.sk) v obyčajnom rich-texte.",
+  "criticalFixes": [
+    { "issue": "Systematický pádový preklep 'v areály' namiesto správneho lokálu 'v areáli' (opakoval sa v blokoch 27, 30, 32, 42).", "fix": "Zjednotené na 'v areáli' vo všetkých výskytoch." },
+    { "issue": "Desiatky nekonzistentných úvodzoviek (rovné namiesto house-style „...\") pri citovaní názvov polôh a fráz z prevzatých textov (Hrnko, blog).", "fix": "Zjednotené na „...\" naprieč celým článkom, vrátane KF/timeline, kde chýbalo." }
+  ],
+  "appliedFixes": [
+    { "rule": "MISSING_WORD (predložka)", "before": "cez Anatóliu až na Stredný východ a Číny", "after": "cez Anatóliu až na Stredný východ a do Číny", "block": 1 },
+    { "rule": "chýbajúca bodka pred uzatváracou úvodzovkou", "before": "štvormetrovú hrúbku\" Na Devíne", "after": "štvormetrovú hrúbku.\" Na Devíne", "block": 2 },
+    { "rule": "A1 chýbajúca čiarka + pasívum + A4 adjektívum", "before": "ktoré na Devíne žili patria ... studňou našla džbán ... nie je zrejme", "after": "ktoré na Devíne žili, patria ... studňou sa našiel džbán ... nie je zrejmé", "block": 7 },
+    { "rule": "A9 malé písmeno + B pomlčka + A4 pád", "before": "Germánske kmene ... nález - staroveký chlieb ... pšeničnej múku", "after": "germánske kmene ... nález — staroveký chlieb ... pšeničnej múky", "block": 10 },
+    { "rule": "A8 preklep + A4 pád", "before": "podarilo odokryť ... zdá sa nelogické, aby", "after": "podarilo odkryť ... zdá sa nelogickým, aby", "block": 13 },
+    { "rule": "A8 preklep + A7 bohemizmus", "before": "Po príchoede Slovanov ... sa jednalo o spolužitie", "after": "Po príchode Slovanov ... išlo o spolužitie", "block": 15 },
+    { "rule": "B typografia (medzery, číslovanie v popisku)", "before": "1-Centrálne hradisko(dnešný hrad), 3-Na Pieskach, 4-Nad Lomom", "after": "1. Centrálne hradisko (dnešný hrad), 3. Na Pieskach, 4. Nad Lomom", "block": 22, "note": "caption aj alt" },
+    { "rule": "A4 pád (areál) + preklep + úvodzovky + rozsah + vsuvka čiarky", "before": "v areály ktorého ... dobí rímskej ... \"Fuldských análov\" ... (846-870) ... osídlením ak nebolo ... tak určite ... 1984-1985 ... \"Nad prístaviskom\"", "after": "v areáli ktorého ... doby rímskej ... „Fuldských análov\" ... (846 – 870) ... osídlením, ak nebolo ... tak určite ... 1984 – 1985 ... „Nad prístaviskom\"", "block": 27 },
+    { "rule": "B pomlčka + A4 pád + preklep + A3 zhoda + A8 kedy->keď", "before": "sakrálna stavba - obvodové ... dokazuje o postavení ... svojim prevedením ... pomohli i pohrebisko z ktorého ... v čase kedy ... bolo ... zistená husto zastavaná plocha", "after": "sakrálna stavba — obvodové ... dokazuje postavenie ... svojím prevedením ... pomohlo i pohrebisko, z ktorého ... v čase, keď ... bola ... zistená husto zastavaná plocha", "block": 30 },
+    { "rule": "chýbajúce slovo + B typografia", "before": "naznačujú na väčší počet ... pre 9.storočie", "after": "naznačujú väčší počet ... pre 9. storočie", "block": 34 },
+    { "rule": "úvodzovky + medzera", "before": "\"Mladošovičov vinohrad\" ... č.9", "after": "„Mladošovičov vinohrad\" ... č. 9", "block": 35 },
+    { "rule": "úvodzovky + medzera + preklep (jedná->jedna)", "before": "\"Staré Vinohrady\" ... č.17 ... jedná železná ostroha", "after": "„Staré Vinohrady\" ... č. 17 ... jedna železná ostroha", "block": 37 },
+    { "rule": "B typografia (rozsah)", "before": "60.-70.rokoch", "after": "60. – 70. rokoch", "block": 39 },
+    { "rule": "A9 veľké písmeno (nom. pl.)", "before": "Pohrebiska mimo areál hradiska", "after": "Pohrebiská mimo areál hradiska", "block": 42 },
+    { "rule": "úvodzovky + príslovka + A9 + neologizmus/diakritika + preklepy + rozsah + pád", "before": "\"perifériu\" ... \"Na pieskach\" ... \"Nad lomom\" ... systematický preskúmala ... Hradiska ... refugialnu ... vyhlbovaní ... strmím svahom ... hradiska boli ... 9.-10. ... \"Nad lomom\" ... hradiska boli objavené", "after": "„perifériu\" ... „Na pieskach\" ... „Nad lomom\" ... systematicky preskúmala ... Hradiská ... refúgiálnu ... vyhĺbovaní ... strmým svahom ... hradiská boli ... 9. – 10. ... „Nad lomom\" ... hradiskách boli objavené", "block": 44 },
+    { "rule": "predložka", "before": "niekoľko otázok z rôznymi možnými", "after": "niekoľko otázok s rôznymi možnými", "block": 49 },
+    { "rule": "medzery + A1 chýbajúce čiarky", "before": "(r.861) ... vedel čo sa ... o tom že Konštantín", "after": "(r. 861) ... vedel, čo sa ... o tom, že Konštantín", "block": 50 },
+    { "rule": "B pomlčky + A1 čiarky + A4 pád + A8 preklep + typografia", "before": "pokoriť - pasáž ... stretnúť - skôr naopak - Ľudovít ... videl že Rastislava ... devínskej hradnom kopci ... nadsvečuje ... svetské - vladárske ... nejestvuje - časť kde", "after": "pokoriť — pasáž ... stretnúť — skôr naopak — Ľudovít ... videl, že Rastislava ... devínskom hradnom kopci ... naznačuje ... svetsko-vladárske ... nejestvuje — časť, kde", "block": 52 },
+    { "rule": "A1 čiarky + úvodzovky + pomlčky", "before": "vychádza že Rastislav ... k roku 869 že Ľudovít ... \"rex\"??? - ... Iné - Dejiny ... proti Vinidom - Karolman ... marky ktoré", "after": "vychádza, že Rastislav ... k roku 869, že Ľudovít ... „rex\"??? — ... Iné — Dejiny ... proti Vinidom — Karolman ... marky, ktoré", "block": 55 },
+    { "rule": "pomlčky + A1 čiarky + rozsah", "before": "dôležité - Fuldské ... kráľovstvo - regnum ... Nitriansko - regnum Zuentibaldi spomína ako regnum lebo ... mylné ak si ... dve-tri storočia", "after": "dôležité — Fuldské ... kráľovstvo — regnum ... Nitriansko — regnum Zuentibaldi spomína ako regnum, lebo ... mylné, ak si ... dve – tri storočia", "block": 57 },
+    { "rule": "A1 čiarka + A8 kolokvializmus + A4 pád + preklep + pomlčka", "before": "môžme dokázať že tomu ... Devín bolo skutočné ... na sútokom Dunaja ... aby zakryli pod koborec ... Rastislava - vraj", "after": "môžeme dokázať, že tomu ... Devín, bolo skutočné ... na sútoku Dunaja ... aby zakryli pod koberec ... Rastislava — vraj", "block": 59 },
+    { "rule": "úvodzovky", "before": "\"civis Dowina\".\"", "after": "„civis Dowina\".\"", "block": 61 },
+    { "rule": "B pomlčka + A8 preklep", "before": "Devínskej Novej Vsi - z ulice ... nenajdete ani zmienku", "after": "Devínskej Novej Vsi — z ulice ... nenájdete ani zmienku", "block": 63 },
+    { "rule": "B pomlčky", "before": "Morava - to je hradisko ... spoločnosti - skutočne lepšie", "after": "Morava — to je hradisko ... spoločnosti — skutočne lepšie", "block": 65 },
+    { "rule": "typografia v protected-zone citáte (len medzera, nie slová)", "before": "kráľovými vojskami , a keď", "after": "kráľovými vojskami, a keď", "block": "0, 48 (quote-block Fuldské anály)" },
+    { "rule": "Sources: pomlčky medzi autormi, chýbajúca čiarka", "before": "PLACHÁ, V. - HLAVICOVÁ, J. - KELLER, I. ... z hradu Devín in: S Licenciou", "after": "PLACHÁ, V. – HLAVICOVÁ, J. – KELLER, I. ... z hradu Devín, in: S Licenciou", "block": "sources" }
+  ],
+  "reviewed_no_change": [
+    "content.poem (Štúrovci 1836) a oba content.quote-block (Fuldské/Bertiniánske anály) — protected zone, slová nedotknuté, len 1 medzerová typografia v jednom z nich.",
+    "'\"???\"' trojitý otáznik (blok 55) — ponechaný ako zámerný rétorický štýl autora blogu, nie preklep.",
+    "'vďaka mála z nich' (blok 59) — nezvyčajná formulácia, nízka istota správnej opravy, ponechané."
+  ],
+  "flags": [
+    "Bloky 44 až 61 (takmer 20 blokov) tvoria zjavne jeden súvislý citát z blogu lukaskrajcir.blog.sme.sk (Zdroje #4), na ktorý blok 46 priamo upozorňuje ('Dovolím si zacitovať výňatok z článku...'), ale otváracia úvodzovka chýba — text sa niekde v tomto rozsahu mal začať úvodzovkou, ktorá sa pri extrakcii stratila. Uzatváracia úvodzovka na konci bloku 61 existuje. Vzhľadom na rozsah (takmer 20 blokov) a neistotu, kde presne mala otváracia úvodzovka byť, NEDOPĹŇANÉ — iba nahlásené.",
+    "Blok 13: veta 'sa i napriek počiatočných finančných ťažkostiach našli nakoniec peniaze' je gramaticky nefunkčná (chýbajúca predložka a nesprávny pád), pravdepodobne strata slova pri extrakcii. Nedopĺňané bez overenia zdroja.",
+    "Blok 27: veta '... objavená trojpriestorová sakrálna stavba odkrytá v rokoch 1984 – 1985...' je bez slovesa (chýba napr. 'bola'), pravdepodobne strata slova. Nedopĺňané bez overenia zdroja."
+  ]
+}

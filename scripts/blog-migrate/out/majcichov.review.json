@@ -1,0 +1,23 @@
+{
+  "slug": "majcichov",
+  "flags": [
+    {
+      "type": "BIBLIO_IN_BODY / possible orphaned duplicate",
+      "block": 13,
+      "text": "Matej Ruttkay, Eva Fottová, Joachim Henning: Archeologický výskum včasnostredovekého hradiska v Majcichove (in Pieta K., Ruttkay A., Ruttkay M.: 2006, Bojná, Hospodárske a politické centrum Nitrianskeho kniežactva, Nitra)",
+      "issue": "Samostatný content.rich-text odsek tesne pred nadpisom 'Zdroje a literatúra' (blok 14), ktorý takmer doslovne opakuje citáciu už uvedenú v úvode bloku 6 ('Matej Ruttkay, Eva Fottová, Joachim Henning v článku ... uvádzajú, že...'). Pôsobí ako osirotený bibliografický fragment, ktorý mal byť súčasťou zoznamu zdrojov (content.sources/citations), nie samostatná veta v tele. Chýbajúcu zatváraciu zátvorku a preklep 'M .:2006' som opravil mechanicky (doslovne podľa paralelného, kompletného tvaru rovnakej citácie v bloku 6), text ani jeho umiestnenie som inak nemenil — ponechané na ľudské rozhodnutie, či blok zlúčiť so zdrojmi alebo zmazať ako duplicitu."
+    },
+    {
+      "type": "STRUCTURAL — nekonzistentné formátovanie medzititulkov",
+      "block": 6,
+      "text": "Nálezy",
+      "issue": "V rámci jedného veľkého content.rich-text bloku slúžia slová 'Priekopa', 'Čelná plenta', 'Komora' a 'Datovanie' ako medzititulky vlastným samostatným text-uzlom s bold:true. Slovo 'Nálezy' medzi 'Komora' a nasledujúcim odsekom má rovnakú funkciu (uvádza samostatný tematický oddiel o nálezoch), ale nachádza sa vložené ako obyčajný text uprostred predchádzajúceho odseku bez vlastného bold uzla — pravdepodobne artefakt extrakcie. Neopravované (vyžadovalo by to reštrukturalizáciu children[] poľa, nie iba textovú opravu), iba nahlásené."
+    },
+    {
+      "type": "STRUCTURAL — pravdepodobne odseknutý odkaz",
+      "block": "14 (body) + citations[4]",
+      "text": "Rekonštrukcie od Archeologického ústavu SAV nájdete tu: Rekonštrukčné obrázky hradiska: Naj",
+      "issue": "Veta sa nezmyselne končí osamoteným fragmentom 'Naj' — pravdepodobne odseknutý text odkazu (napr. 'Najnovšie' alebo podobne), ktorý mal pokračovať ako hypertextový odkaz, no extrakcia zachytila iba jeho začiatok. Nedopĺňané (chýbajúce slovo by bolo vymyslené), ponechané v pôvodnom orezanom znení na oboch miestach (telo aj citations)."
+    }
+  ]
+}

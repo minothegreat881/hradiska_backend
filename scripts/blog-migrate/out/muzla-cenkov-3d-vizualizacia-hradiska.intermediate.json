@@ -1,0 +1,185 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-muzla-cenkov-3d-vizualizacia-hradiska.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1073743625430180789",
+    "bloggerPostUrl": "http://www.hradiska.sk/2016/09/muzla-cenkov-3d-vizualizacia-hradiska.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1073743625430180789/comments/default",
+    "extractedAt": "2026-07-16T21:57:57.135Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 2,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/l6LqWu4IdaU",
+        "https://www.youtube.com/embed/Hp2TvM20s5I"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Mužla - Čenkov. 3D vizualizácia hradiska",
+    "slug": "muzla-cenkov-3d-vizualizacia-hradiska",
+    "excerpt": "Na lokalite Mužla-Čenkov sa v 9. až 10. storočí rozprestieralo Slovanské hradisko, ktorého časti sa dnes nachádzajú na polohe Vilmakert. Možno ho zaradiť medzi hradiská s dominujúcou strážnou a vojenskou funkciou. Lokalita leží priamo na brehu…",
+    "authorName": "Igor Furugláš",
+    "publishedAt": "2016-09-14T22:12:00.002+02:00",
+    "originalPublishedDate": "2016-09-14T22:12:00.002+02:00",
+    "updatedAt": "2018-02-21T15:40:45.694+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Lokalita",
+        "value": "Mužla-Čenkov, poloha Vilmakert",
+        "icon": "map"
+      },
+      {
+        "label": "Obdobie osídlenia",
+        "value": "9. – 10. storočie (najväčší význam za Veľkej Moravy)",
+        "icon": "calendar"
+      },
+      {
+        "label": "Funkcia hradiska",
+        "value": "Strážna a vojenská",
+        "icon": "shield"
+      },
+      {
+        "label": "Spolupráca na rekonštrukcii",
+        "value": "Igor Furugláš (Dwarf Art) a Dr. Milan Hanuliak",
+        "icon": "users"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "9. – 10. storočie",
+        "title": "Slovanské hradisko v Mužle-Čenkove",
+        "description": "Na lokalite Mužla-Čenkov sa rozprestieralo slovanské hradisko s dominujúcou strážnou a vojenskou funkciou.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na lokalite Mužla-Čenkov sa v 9. až 10. storočí rozprestieralo slovanské hradisko, ktorého časti sa dnes nachádzajú na polohe Vilmakert. Možno ho zaradiť medzi hradiská s dominujúcou strážnou a vojenskou funkciou. Lokalita leží priamo na brehu Dunaja na dnešnej hranici s Maďarskom. Pre výhodnú polohu bolo osídlené už v praveku, avšak najväčší význam nadobudlo v období existencie Veľkej Moravy. \n \n Pozor, "
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/2018/02/muzla-cenkov-nova-rekonstrukcia.html",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "NOVÁ REKONŠTRUKCIA HRADISKA JE TU"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n \n V spolupráci s Igorom Furuglášom (Dwarf Art) sme sa pokúsili o vytvorenie približného vzhľadu hradiska v období jeho rozkvetu. Podkladom pre nás boli dve monografie od archeológov, ktorí hradisko skúmali. Ide o knihy Hanuliak, Šalkovský, Kuzma: Mužla-Čenkov I. Osídlenie z 9. – 12. st., Nitra 1993 a Hanuliak, Kuzma: Mužla-Čenkov II: osídlenie z 9. – 13. storočia, Nitra 2015. Niektoré kľúčové časti rekonštrukcie sme konzultovali priamo s Dr. Milanom Hanuliakom. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vizualizácia sa snaží priniesť približnú predstavu o vzhľade slovanského hradiska v Mužle. Priebeh opevnenia, jeho zloženie, ako aj zastavanosť domami vychádza pomerne presne z podkladov od archeológov, ktoré sme mali k dispozícii. Okrem obytných domov sa samozrejme na hradisku nachádzalo nespočetné množstvo rôznych hospodárskych budov, zásobníc, odpadových jám a všakovakých predmetov bežného použitia a neporiadku, ktoré dotvárali každodennú realitu hradiska. Tie už nebolo v našich silách namodelovať a ani to nebol cieľ. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V každom prípade máte aspoň takúto nedokonalú, virtuálnu možnosť poprechádzať sa po 1200 rokov starom hradisku našich predkov a vychutnať si jeho atmosféru. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Igorovi patrí obrovská vďaka za trpezlivosť a dobre odvedenú prácu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "l6LqWu4IdaU",
+        "url": "https://www.youtube.com/embed/l6LqWu4IdaU",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "ENGLISH VERSION:"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "Hp2TvM20s5I",
+        "url": "https://www.youtube.com/embed/Hp2TvM20s5I",
+        "caption": ""
+      }
+    ],
+    "citations": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "klucov",
+  "note": "grammar-sk agent, prvý prechod. Pôvodný text (nie citát), veľa drobných pádových/rodových zhôd.",
+  "appliedFixes": [
+    { "rule": "A7 bohemizmus + medzera pred čiarkou (excerpt)", "before": "zistilo , že sa jedná o hradisko", "after": "zistilo, že ide o hradisko", "block": "excerpt, 0" },
+    { "rule": "A1 vsuvka čiarky", "before": "Vyvýšenina na ktorej sa rozprestieralo slovanské hradisko je dnes", "after": "Vyvýšenina, na ktorej sa rozprestieralo slovanské hradisko, je dnes", "block": 2 },
+    { "rule": "A7 bohemizmus", "before": "Jedná sa o jedno z najstarších hradísk", "after": "Ide o jedno z najstarších hradísk", "block": 5 },
+    { "rule": "A4 pád/rod (množné číslo)", "before": "typická pre prvé slovanská hradiska", "after": "typická pre prvé slovanské hradiská", "block": 7 },
+    { "rule": "A8 preklep (chýbajúci dĺžeň)", "before": "primykala svojim južným a severným koncom", "after": "primykala svojím južným a severným koncom", "block": 10 },
+    { "rule": "A3 zhoda podmetu s prísudkom (číslo)", "before": "zachované vo dvojiciach a tvoril tak dve paralelné rady", "after": "zachované vo dvojiciach a tvorili tak dve paralelné rady", "block": 11 },
+    { "rule": "A3 zhoda rodu + A1 vsuvka čiarky", "before": "Šírka prechodu bola 4 až 5 m a tvoril bránu ... Obrancovia, stojaci na vrchole hradby boli", "after": "Šírka prechodu bola 4 až 5 m a tvorila bránu ... Obrancovia, stojaci na vrchole hradby, boli", "block": 13 },
+    { "rule": "A4 zhoda (adjektívum namiesto príslovky)", "before": "Vstup bol teda tesne, ale zároveň dostatočne priestranný", "after": "Vstup bol teda tesný, ale zároveň dostatočne priestranný", "block": 16 },
+    { "rule": "A8 preklepy (chýbajúce písmená)", "before": "obyvateľom hradika v prípade obliehnia prístup", "after": "obyvateľom hradiska v prípade obliehania prístup", "block": 20 },
+    { "rule": "A4 pád + A3 zhoda rodu", "before": "nedosahovala výšok ... predstavoval pre obranu prekážku", "after": "nedosahovala výšky ... predstavovala pre obranu prekážku", "block": 21, "note": "'Hradba' je ženský rod, sloveso bolo mylne v mužskom" },
+    { "rule": "B pomlčka + A8 preklep + A4 preklep/pád", "before": "sýpok - jám ... vo včasnostredovakom období ... viacero kamených žarnovou", "after": "sýpok — jám ... vo včasnostredovekom období ... viacero kamenných žarnovov", "block": 23 },
+    { "rule": "štrukturálne (prázdny caption)", "before": "caption/alt bol iba osamotená bodka '.'", "after": "caption vyprázdnený, alt nastavený na 'Klučov' (rovnaký fallback ako ostatné obrázky bez popisu v článku)", "block": 12 }
+  ],
+  "reviewed_no_change": [
+    "Bloky 3, 9, 16 (zvyšok), 18, 20 (zvyšok) — bez ďalších chýb.",
+    "Zdroj 'Bc. Anna Bajerova: ... ve střední Evrope' (rovnaká citácia ako v Gars-Thunau) — český bibliografický titul, ponechaný bez zásahu."
+  ],
+  "flags": []
+}

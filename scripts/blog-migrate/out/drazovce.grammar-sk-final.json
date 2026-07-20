@@ -1,0 +1,38 @@
+{
+  "slug": "drazovce",
+  "note": "grammar-sk pass1 (draft) aplikovaný + pass2 cross-field konzistencia. Editované priamo v out/drazovce.intermediate.json.",
+  "step1_criticalFixes_applied": [
+    "Blok 4+5 → content.quote-block A (author='Štefan Janšák', source='Slovenské hradiská z doby hallštatskej, 1929'). Narrator-úvod 'Ako uvádza už Štefan Janšák, „' odstránený ako redundantný voči poľu author. Zvyšná časť bloku 5 ('Už v 20. rokoch 20. storočia... Janšák ho takto farbisto popisuje:') zachovaná ako samostatný content.rich-text blok (nie je redundantná — nesie vlastnú informáciu), umiestnená pred obrázkom IMG_7894 presne tak, ako v origináli.",
+    "Blok 7+8 → content.quote-block B (rovnaký author/source), zlúčené s oddeľovačom odsekov '\\n\\n'.",
+    "Otváracie/zatváracie úvodzovky („ / \" / “) na oboch citátoch odstránené z text poľa (memory: QuoteBlock.tsx si úvodzovky pridáva sám) — vnútorná vnorená úvodzovka '„spečenými\"' v strede citátu A ponechaná nedotknutá (je to Janšákova vlastná citácia termínu, nie obalová úvodzovka).",
+    "Blok 23 (bibliografia Kraskovská 1961 + Janšák 1929, zlepená v tele) odstránený z tela; presunutý ako 2 nové položky do content.sources.items AJ do top-level blogPost.citations (type: book), aby oba mechanizmy (blocks[] aj citations[]) zostali v zhode ako pri iných článkoch."
+  ],
+  "step1_appliedFixes_applied": [
+    { "rule": "A8 pravopis", "before": "Prvá zpráva o obci Dražovce", "after": "Prvá správa o obci Dražovce", "applied_to": ["block 0", "excerpt"] },
+    { "rule": "B typografia (apozícia = pomlčka)", "before": "vŕšok - západný výbežok Zoborského pohoria - na ktorom", "after": "vŕšok — západný výbežok Zoborského pohoria — na ktorom", "applied_to": ["block 0"] },
+    { "rule": "B typografia (excerpt, skrátená verzia)", "before": "strmý vŕšok - západný výbežok", "after": "strmý vŕšok — západný výbežok", "applied_to": ["excerpt"], "note": "excerpt je orezaný pred druhou pomlčkou, opravená len prvá" },
+    { "rule": "B typografia", "before": "múrov - ide o hornú časť ... klenba - koncha", "after": "múrov — ide o hornú časť ... klenba — koncha", "applied_to": ["block 1"] },
+    { "rule": "A4 pádová väzba", "before": "podrobne opisuje zloženia väčšieho valu", "after": "podrobne opisuje zloženie väčšieho valu", "applied_to": ["block 2"] },
+    { "rule": "A1 comma splice", "before": "sa rozpadol a zväčša zrútil, Š. Janšák uvádza,", "after": "sa rozpadol a zväčša zrútil. Š. Janšák uvádza,", "applied_to": ["block 2"] },
+    { "rule": "A8", "before": "temer úplne zničil val", "after": "takmer úplne zničil val", "applied_to": ["block 2"] },
+    { "rule": "A8", "before": "boli kolmo umiestené dva oválne pupáky", "after": "boli kolmo umiestnené dva oválne pupáky", "applied_to": ["block 10 (pôvodne blok 11, posun o -1 po zlúčení citátu B)"] },
+    { "rule": "A1 nadbytočná čiarka (podmet-prísudok)", "before": "vykopané na ploche hradiska, sa používali", "after": "vykopané na ploche hradiska sa používali", "applied_to": ["block 10"] },
+    { "rule": "B typografia (chýbajúca bodka pred menom autora fotky)", "before": "val akropolyAutor: Matúš Šajbidor", "after": "val akropoly. Autor: Matúš Šajbidor", "applied_to": ["caption a alt na obrázku Šajbidor"] },
+    { "rule": "D globálny slovník (rímske → arabské číslice)", "before": "od XI. stor. do prvej polovice XVII. stor.", "after": "od 11. storočia do prvej polovice 17. storočia", "applied_to": ["block 20 (pôvodne blok 21)"] },
+    { "rule": "D", "before": "najmä v XIV. - XV. stor.", "after": "najmä v 14. – 15. storočí", "applied_to": ["block 20"] },
+    { "rule": "D", "before": "trval ešte v prvej polovici XVII. stor.", "after": "trval ešte v prvej polovici 17. storočia", "applied_to": ["block 20"] },
+    { "rule": "D", "before": "bol overený pre XVI. stor. mincou", "after": "bol overený pre 16. storočie mincou", "applied_to": ["block 20"] },
+    { "rule": "D cross-field (timeline dash)", "before": "11. storočie - prvá polovica 17. storočia", "after": "11. storočie – prvá polovica 17. storočia", "applied_to": ["timeline (year field, položka 'Stredoveké pohrebisko pri kostole')"] }
+  ],
+  "step2_crossfield_additions_beyond_draft": [
+    { "rule": "A8 propagácia vnútri tela (rovnaké slovo, iný výskyt)", "before": "to znamená temer cez celú feudálnu dobu", "after": "to znamená takmer cez celú feudálnu dobu", "applied_to": ["block 20"], "reason": "rovnaké slovo 'temer'→'takmer' ako pri bloku 2, tento výskyt nebol v draftovom appliedFixes zozname, ale je mimo chránenej zóny (obyčajný narátorský text, nie Janšákov citát) — konzistentná propagácia rovnakej opravy v tele." },
+    { "rule": "A8 diakritika (meno)", "before": "Výskum L. Kraskovskej", "after": "Výskum Ľ. Kraskovskej", "applied_to": ["timeline (title poľa položky '1961')"], "reason": "protected-terms.json referuje kanonický tvar 'Ľ. Kraskovská' (Ľudmila); timeline malo vypadnutý mäkčeň — klasický A8 diakritika-dropout vzor, nájdený pri všeobecnom grammar sweep timeline/keyFacts (Agent 1 písal timeline pred existenciou grammar-sk)." },
+    { "rule": "B typografia (číselné rozsahy v novo presunutej bibliografii)", "before": "str. 161-184 / zošit 1-2", "after": "str. 161 – 184 / zošit 1 – 2", "applied_to": ["content.sources.items", "citations[]"], "reason": "bibliografia bola predtým v tele bez typografickej normalizácie; pri presune do Zdrojov aplikovaný rovnaký §21.2 pravidlo pre číselné rozsahy ako všade inde v korpuse." }
+  ],
+  "step2_scan_result": "Plný sken keyFacts+timeline+excerpt+tags+title na rímske číslice, pomlčky v číselných rozsahoch, bohemizmy (jedná sa/nakoľko/snáď), 'AxB' zápis násobenia — žiadny ďalší nález okrem Ľ. Kraskovskej vyššie.",
+  "flags_unresolved": [
+    "Pozri out/drazovce.review.json — moderná editorská parentéza vložená do Janšákovho citátu A, ponechaná nedotknutá a nahlásená (nie je to gramatická chyba, je to redakčné rozhodnutie)."
+  ],
+  "protected_zone_verification": "Oba Janšákove citáty (A aj B) — 0 zmien v samotnom texte citátu okrem: (1) odstránenia obalových úvodzoviek podľa memory-gotcha QuoteBlock.tsx (mechanická úprava, nie pravopisná), (2) OCR/mechanické fixy explicitne povolené v §21.3 sa v tomto článku nevyskytli (žiadne 'boIi', žiadne zalomenie z tlače). Vnorená úvodzovka '„spečenými\"' vnútri citátu A ponechaná bez zmeny.",
+  "upload_ready": true
+}

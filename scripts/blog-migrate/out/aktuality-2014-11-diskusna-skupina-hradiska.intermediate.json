@@ -1,0 +1,101 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2014-11-diskusna-skupina-hradiska.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1954986301187613827",
+    "bloggerPostUrl": "http://www.hradiska.sk/2014/11/diskusna-skupina-hradiska.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1954986301187613827/comments/default",
+    "extractedAt": "2026-07-18T11:21:13.160Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Diskusná skupina Hradiská",
+    "slug": "diskusna-skupina-hradiska",
+    "excerpt": "Naša diskusná skupina o hradiskách Slovanov, Keltov a iných kultúr už má takmer 1250 členov. Ak sa chcete dozvedieť aktuálne informácie k témam našej dávnej histórie, pridajte sa k nám. Diskusnú skupinu najdete na tejto adrese:",
+    "authorName": "Orgon",
+    "publishedAt": "2014-11-20T21:42:00.001+01:00",
+    "originalPublishedDate": "2014-11-20T21:42:00.001+01:00",
+    "updatedAt": "2014-11-20T21:42:26.722+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqfyWXDGL5ObT_ZSMnkhwf2OPQOUUDiUxvc7BMmBc8Mq54H4Y_3MJ9RGVL3Dbx5IMtj7hw407fkafsKGPPGUnlObeCHxz_XmtUtSDIvfvmeKwXmTQFEtbSLbHsdIRPvgib7E4P21jo-GM/s0/facebook.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqfyWXDGL5ObT_ZSMnkhwf2OPQOUUDiUxvc7BMmBc8Mq54H4Y_3MJ9RGVL3Dbx5IMtj7hw407fkafsKGPPGUnlObeCHxz_XmtUtSDIvfvmeKwXmTQFEtbSLbHsdIRPvgib7E4P21jo-GM/s1600/facebook.jpg",
+        "filename": "facebook.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqfyWXDGL5ObT_ZSMnkhwf2OPQOUUDiUxvc7BMmBc8Mq54H4Y_3MJ9RGVL3Dbx5IMtj7hw407fkafsKGPPGUnlObeCHxz_XmtUtSDIvfvmeKwXmTQFEtbSLbHsdIRPvgib7E4P21jo-GM/s1600/facebook.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Naša diskusná skupina o hradiskách Slovanov, Keltov a iných kultúr už má takmer 1 250 členov. Ak sa chcete dozvedieť aktuálne informácie k témam našej dávnej histórie, pridajte sa k nám. Diskusnú skupinu nájdete na tejto adrese:"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "https://www.facebook.com/groups/118846781525141/730961070313706/?notif_t=like",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "HRADISKÁ – DISKUSIA"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

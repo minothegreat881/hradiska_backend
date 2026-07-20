@@ -5,13 +5,13 @@
 
 ## ✅ Integrita a úplnosť
 
-> **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
+> **⚠ POZOR — niečo sa mohlo stratiť, pozri kontroly**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ❌ Text: pokrytie 98.86% vs originál (gramaticky opravené slová vyňaté: 4) — zvyšné mimo: tšit, spracoval, orgoň, zdroje, root, shared, pictures, 2015, jpg (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (7) ⊆ galéria (13) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 15, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 7 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 7 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 10 položiek |
+| sources (zdroje) | 1 → 9 položiek |
 
 ## Obrázky
 - **galéria:** 13 (9 s popisom)
@@ -54,10 +54,26 @@
   - Dnes: V múzeu vo Visegrade viditeľné nálezy typické pre obdobie Veľkej Moravy, hoci slovanské hradisko maďarská literatúra takmer nezmieňuje
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 7**
+  - chýbajúce medzery: 2
+  - interpunkcia (čiarky/bodky): 2
+  - zhoda podmet–prísudok: 1
+  - iné: 1
+  - preklepy: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `predrománskeho kostola, ktorí oni datujú` → `predrománskeho kostola, ktoré oni datujú` | zhoda zámena so základy (neživotné, nie ktorí) |
+| 2 | undefined | `Myslím však, že nieje vylúčené` → `Myslím však, že nie je vylúčené` | chýbajúca medzera |
+| 3 | undefined | `že kostol,ako aj hrob` → `že kostol, ako aj hrob` | chýbajúca medzera po čiarke |
+| 4 | undefined | `Nepochybne slovanské pomenovanie miesto (názov` → `Nepochybne slovanské pomenovanie miesta (názov` | genitív |
+| 5 | undefined | `dĺžka 16.5 m` → `dĺžka 16,5 m` | desatinná čiarka namiesto bodky (slovenský úzus) |
+| 6 | undefined | `zotavovňa.Pozoruhodné je` → `zotavovňa. Pozoruhodné je` | chýbajúca medzera |
+| 7 | undefined | `kráľovský zajtec väznený` → `kráľovský zajatec väznený` | preklep |
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 7735 znakov (1153 slov)
+- **text tela:** 7733 znakov (1156 slov)
+- **pokrytie textu vs originál:** 98.86% (mimo: tšit, spracoval, orgoň, zdroje, root, shared, pictures, 2015)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

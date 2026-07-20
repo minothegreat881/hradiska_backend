@@ -1,0 +1,67 @@
+{
+  "timeline": [
+    {
+      "year": "1972 – 1977",
+      "title": "Objav valových útvarov",
+      "description": "Vo vzdialenosti asi 700 m južne od areálu bývalého kláštora sa na markantnej vyvýšenine dali pozorovať valové útvary, dovtedy v archeologickej literatúre nezaznamenané; nasledoval archeologický výskum, ktorý lokalitu označil za slovanské hradisko.",
+      "type": "discovery"
+    },
+    {
+      "year": "1075",
+      "title": "Donačná listina benediktínskeho kláštora",
+      "description": "V donačnej listine z roku 1075, ktorou Gejza I. daroval majetky kláštoru v Hronskom Beňadiku, sa staršia sakrálna stavba na hradisku výslovne nespomína.",
+      "type": "event"
+    },
+    {
+      "year": "9. – 10. storočie",
+      "title": "Vznik hradiska na Beňadickej skale",
+      "description": "Na základe nálezov archeologického výskumu možno vznik hradiska datovať na prelom 9. – 10. storočia.",
+      "type": "founding"
+    },
+    {
+      "year": "10. storočie",
+      "title": "Datovanie hradiska",
+      "description": "Na základe nálezov archeologického výskumu možno hradisko na Beňadickej skale datovať do 10. storočia.",
+      "type": "era"
+    },
+    {
+      "year": "11. storočie",
+      "title": "Zánik hradiska a vznik kláštora",
+      "description": "Hradisko určite už neslúžilo svojmu účelu v 11. storočí, keď bolo osídlené výhodnejšie miesto v terajšom Hronskom Beňadiku; na jeho mieste vznikol v druhej polovici 11. storočia benediktínsky kláštor.",
+      "type": "destruction"
+    },
+    {
+      "year": "1713",
+      "title": "Vznik dnešnej kaplnky",
+      "description": "V najvyššom mieste hradiska stojí baroková sakrálna stavba z roku 1713, zasvätená nájdeniu sv. Kríža, ktorá podľa písomných prameňov stojí na mieste staršieho, pravdepodobne dreveného objektu zasväteného sv. Helene.",
+      "type": "construction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha hradiska",
+      "value": "približne 2,28 ha, maximálna dĺžka opevnenej plochy 360 m, šírka asi 80–90 m",
+      "icon": "map"
+    },
+    {
+      "label": "Zachované opevnenie",
+      "value": "85 bežných metrov valu, výška 1,5 m zvnútra až 6 m zvonku",
+      "icon": "shield"
+    },
+    {
+      "label": "Konštrukcia opevnenia",
+      "value": "vonkajší nasucho kladený kamenný múr (hrúbka 60–80 cm) + zemné opevnenie armované drevenou konštrukciou",
+      "icon": "building"
+    },
+    {
+      "label": "Priemer rotora žarnova",
+      "value": "43 cm (nepoškodený nález, dokladajúci výrobu žarnovov priamo na mieste)",
+      "icon": "custom"
+    },
+    {
+      "label": "Susedné hradiská na Pohroní",
+      "value": "Grác (Malé Kozmálovce), Hrádze/Festunok (Tlmače), Krivín (Rybník) — spolu strážili úsek dlhý necelých 7 km",
+      "icon": "flag"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "vrsatecky-kovac-z-cias-velkej-moravy",
+  "flags": [
+    {
+      "type": "STRUCTURAL (Phase 1 extraction gap, mimo mandátu grammar-sk)",
+      "issue": "Článok obsahuje 3 slohy českej básne (piesne Trollech — Jasmuz), ktoré NEBOLI zachytené ako `content.poem` (na rozdiel od ďalších 3 slôh tej istej básne, ktoré sa do `content.poem` správne dostali). Zostali ako `content.rich-text` odseky s viacerými `italic` text-uzlami bez oddeľovača (medzery/zalomenia) medzi veršami — pri zreťazení textu uzlov sa verše vizuálne zlepia ('Slyšte příběh dávný, lidským knihám skrytýPříběh, který podnes žije...').",
+      "evidence": "Blok 2 (6 veršov), blok pri nadpise 'Záhadný Veľkomoravský kováč' (4 verše), blok pri nadpise 'Ako ich kováč vyrábal ?' (4 verše) — všetky zostali content.rich-text namiesto content.poem.",
+      "why_not_fixed": "Toto je chyba Fázy 1 (parser/`markPoemRuns` detekcia, §20 v MIGRATION.md), nie gramatická chyba — a text je chránená citácia piesne (SOZA súhlas, viď sources). grammar-sk agent nesmie prepisovať ani reštruktúrovať chránený citovaný text a nie je mandátovaný na zásah do štruktúry blokov nad rámec typografie. Odporúčanie: znovu spustiť extrakciu/rekonverziu týchto 3 blokov na `content.poem` mimo tohto behu."
+    },
+    {
+      "type": "NAME_MISMATCH (nízka istota)",
+      "issue": "Popiska obrázka 'Krásna slovanská bradatica z Vršatca. Nález baróna Hoenninga' — meno 'Hoenning' sa nedá overiť proti žiadnemu inému výskytu v článku ani v protected-terms.json (kde figuruje iba nesúvisiaci 'Henning Gothe').",
+      "why_not_fixed": "Nedá sa potvrdiť, či ide o preklep alebo o skutočnú odlišnú historickú osobu (barón zberateľ); ponechané nedotknuté."
+    }
+  ]
+}

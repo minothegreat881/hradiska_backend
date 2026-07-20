@@ -1,0 +1,26 @@
+{
+  "timeline": [
+    { "year": "1869", "title": "Zameranie hradiska", "description": "Novobanský mestský banský a lesný inžinier Ján Flakovits zameral a vyhotovil situačný plán hradiska Zámčisko.", "type": "discovery" },
+    { "year": "1970–1971", "title": "Zisťovací archeologický výskum", "description": "V lokalite sa uskutočnil krátkodobý zisťovací výskum zameraný na charakter osídlenia hradiska; vyhĺbených bolo 15 sond, odkryli tri objekty a urobili rez valom.", "type": "discovery" },
+    { "year": "10.—13. stor.", "title": "Slovanské osídlenie hradiska", "description": "Nálezy keramiky z odkrytých objektov typologicky patria do 10.—13. storočia a svedčia o pôvodnom slovanskom osídlení refugiálneho charakteru vo včasnom stredoveku, na už existujúcom opevnenom sídlisku vzniknutom v praveku.", "type": "era" },
+    { "year": "14. stor.", "title": "Založenie Novej Bane", "description": "Podľa donedávna rozšíreného názoru bolo okolie Novej Bane osídlené až od založenia mesta v čase kolonizácie nemeckými osadníkmi v 14. storočí — výskum hradiska však túto predstavu vyvrátil.", "type": "founding" }
+  ],
+  "keyFacts": [
+    { "label": "Nadmorská výška", "value": "690 m n. m. (pod vrcholom Veľký Inovec, 900 m n. m.)", "icon": "mountain" },
+    { "label": "Dĺžka valu", "value": "430 m, zosilnený z vnútornej strany kamenným vencom", "icon": "shield" },
+    { "label": "Rozloha hradiska", "value": "asi 7 ha, rozdelených skalným útvarom na dve nerovnaké časti", "icon": "map" },
+    { "label": "Výška valu a priekopy", "value": "val vyše 250 cm, priekopa miestami do 150 cm hĺbky", "icon": "building" },
+    { "label": "Datovanie keramiky", "value": "10.—13. storočie", "icon": "book" },
+    { "label": "Rozsah výskumu", "value": "15 sond, tri odkryté objekty, rez valom (výskum 1970–1971)", "icon": "custom" },
+    { "label": "Nálezy z lokality", "value": "bronzová sekerka, železné ostrohy, konské podkovy a črepy vo fondoch Mestského múzea v Novej Bani", "icon": "star" },
+    { "label": "Zaniknutý zdroj vody", "value": "objavený pod vertikálnou puklinou v skalnom útvare", "icon": "mountain" }
+  ],
+  "corrections": [
+    { "before": "andezitovýrn", "after": "andezitovým" },
+    { "before": "buky).Výška valu", "after": "buky). Výška valu" },
+    { "before": "umiestených po oboch stranách", "after": "umiestnených po oboch stranách" },
+    { "before": "Typologický možno túto keramiku zaradiť", "after": "Typologicky možno túto keramiku zaradiť" },
+    { "before": "maximálnej Šírke pri spodku", "after": "maximálnej šírke pri spodku" },
+    { "before": "pravdepodobne oddávna používanú ako spojovacia komunikácia", "after": "pravdepodobne oddávna používaná ako spojovacia komunikácia" }
+  ]
+}

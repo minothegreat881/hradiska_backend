@@ -7,11 +7,11 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.46% vs originál (gramaticky opravené slová vyňaté: 5) — zvyšné mimo: spracoval, orgoň, lit (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (6) ⊆ galéria (16) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 6, keyFacts 8
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 11 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 6 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 3 položiek |
+| sources (zdroje) | 1 → 2 položiek |
 
 ## Obrázky
 - **galéria:** 16 (2 s popisom)
@@ -46,10 +46,30 @@
   - Vnútorná zástavba: Slovanské polozemnice a väčšie množstvo sýpok — jám na skladovanie obilia a potravín
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 11**
+  - interpunkcia (čiarky/bodky): 5
+  - chýbajúce medzery: 2
+  - iné: 2
+  - preklepy: 1
+  - zhoda podmet–prísudok: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `zistilo , že` → `zistilo, že` | medzera pred čiarkou |
+| 2 | undefined | `poľnohospodárskov činnosťou` → `poľnohospodárskou činnosťou` | preklep |
+| 3 | undefined | `do údolia .` → `do údolia.` | medzera pred bodkou |
+| 4 | undefined | `a prítoky .` → `a prítoky.` | medzera pred bodkou |
+| 5 | undefined | `8. storočia , jeho` → `8. storočia, jeho` | medzera pred čiarkou |
+| 6 | undefined | `( opevnené výšinné hradisko )` → `(opevnené výšinné hradisko)` | medzery pri zátvorke |
+| 7 | undefined | `( Přistoupim, Doubravčice a Tismice )` → `(Přistoupim, Doubravčice a Tismice)` | medzery pri zátvorke |
+| 8 | undefined | `tvorila obrannú a hospodársku záklaňu` → `tvorilo obrannú a hospodársku základňu` | zhoda s podmetom Hradisko (stred. rod) + preklep základňa |
+| 9 | undefined | `na Klučově či iných` → `na Klučove či iných` | slovenský tvar (bez ě) |
+| 10 | undefined | `zdokonaľované .` → `zdokonaľované.` | medzera pred bodkou |
+| 11 | undefined | `umocnená priekopa v jej` → `umocnená priekopou v jej` | inštrumentál po umocnená |
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 6513 znakov (937 slov)
+- **text tela:** 6506 znakov (928 slov)
+- **pokrytie textu vs originál:** 99.46% (mimo: spracoval, orgoň, lit)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

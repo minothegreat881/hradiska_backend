@@ -1,0 +1,21 @@
+{
+  "slug": "selce-hradok",
+  "note": "grammar-sk agent, druhý prechod (po pôvodnom overnight-batch grammar.json + bibliografia merge). Aplikuje §21 gramatické jadro.",
+  "appliedFixes": [
+    { "rule": "A7", "before": "Jedná sa o denáre viacerých rímskych cisárov", "after": "Ide o denáre viacerých rímskych cisárov", "block": 1 },
+    { "rule": "A1 vsuvka", "before": "ktorý ako vieme bol účastný", "after": "ktorý, ako vieme, bol účastný", "block": 1 },
+    { "rule": "D globálny slovník", "before": "Marca Aurélia", "after": "Marca Aurelia", "block": 1, "note": "aj v timeline 'Nález depotu rímskych mincí'" },
+    { "rule": "A7", "before": "Jedná sa o mince cisárov", "after": "Ide o mince cisárov", "block": 1 },
+    { "rule": "B typografia", "before": "117 až 195 n.l.", "after": "117 až 195 n. l.", "block": 1 },
+    { "rule": "A7", "before": "sa nemusí jednať o jeden naraz ukrytý depot", "after": "nemusí ísť o jeden naraz ukrytý depot", "block": 1 },
+    { "rule": "A8", "before": "lužickej kultury", "after": "lužickej kultúry", "block": 3 },
+    { "rule": "A8", "before": "V pädesiatych rokoch", "after": "V päťdesiatych rokoch", "block": 4, "note": "bola v pôvodnom grammar.json skippedNotFound — príčina: zdroj mal 'a' v NFD tvare (a + combining diaeresis U+0308), hand-typed NFC string nesedel. Pozri memory nfd-nfc-diacritics-gotcha." }
+  ],
+  "reviewed_no_change": [
+    "Block 0, 2, 5 — bez gramatických chýb podľa §21 pravidiel.",
+    "Zdroje (block 7) — už opravené pri pôvodnej migrácii.",
+    "KeyFacts — 'Marcovi Aureliovi' už bolo bez dĺžňa, správne.",
+    "Timeline — ostatné položky bez chýb."
+  ],
+  "flags": []
+}

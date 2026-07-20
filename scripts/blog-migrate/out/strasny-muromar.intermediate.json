@@ -1,0 +1,527 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-strasny-muromar.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8517755602529927606",
+    "bloggerPostUrl": "http://www.hradiska.sk/2012/03/strasny-muromar.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/8517755602529927606/comments/default",
+    "extractedAt": "2026-07-16T17:10:53.196Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Strašný Muromar",
+    "slug": "strasny-muromar",
+    "excerpt": "A máme tu ešte jednu úžasnú povesť od pána Meliša a Muntága z pohanských čias, tentokrát z papradňanskej doliny.",
+    "authorName": "Štefan Meliš, Stanislav Muntág",
+    "publishedAt": "2012-03-30T19:53:00.000+02:00",
+    "originalPublishedDate": "2012-03-30T19:53:00.000+02:00",
+    "updatedAt": "2012-08-20T11:06:10.056+02:00",
+    "readingTime": 7,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [
+      "Strašný Muromar"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Autori",
+        "value": "Štefan Meliš, Stanislav Muntág (Kráľ Matej pod Manínom, 2002)",
+        "icon": "book"
+      },
+      {
+        "label": "Lokalita",
+        "value": "Vrch Žiar, Papradnianska dolina (Mrská, Suchá)",
+        "icon": "mountain"
+      },
+      {
+        "label": "Motív",
+        "value": "Trojhlavý netvor Muromar, hrdina Kondál a zápas o nevestu Svatavu",
+        "icon": "fire"
+      },
+      {
+        "label": "Zdroj",
+        "value": "Kráľ Matej pod Manínom, Matica Slovenská, 2002",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "príchod prvých Slovenov",
+        "title": "Osídlenie kraja pri jazere pod Žiarom",
+        "description": "Prví Sloveni prišli do doliny pod Javorníkom, usadili sa pri jazere a vypálením temena kopca (odvtedy zvaného Žiar) prebudili netvora Muromara ukrytého v jeho útrobách.",
+        "type": "event"
+      },
+      {
+        "year": "pohroma",
+        "title": "Muromar sužuje kraj",
+        "description": "Trojhlavý netvor Muromar sa usadil na vrchole Žiaru, chrlil oheň a privodil krajine pohromu – dobytok prestal dojiť, úroda vädla.",
+        "type": "event"
+      },
+      {
+        "year": "zápas",
+        "title": "Kondál zabíja Muromara",
+        "description": "Drevorubač Kondál so začarovanou sekerou od starého žreca zvíťazil nad trojhlavým Muromarom, zachránil svoju nevestu Svatavu a priniesol žrecovi tri hlavy netvora.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "A máme tu ešte jednu úžasnú povesť od pána Meliša a Muntága z pohanských čias, tentokrát z papradňanskej doliny. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bolo to kedysi strašne dávno. Celá Papradnianska dolina bola zarastená hlbokými horami, na ktorých rástli stáročné stromy, ktoré ani dvaja chlapi nemohli rukami obsiahnuť. Jedle a smrčky, buky, duby, brezy, javory a všelijaké iné stromy. Uprostred hôr bolo veľké, hlboké jazero. Siahalo od Žeravice až po Košiare. Jazero nemalo žiadne meno, veď tu široko-ďaleko vtedy nebolo žiadneho človeka, ktorý by ho pomenoval."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Až raz prišli do tohto kraja prví ľudia - Sloveni. Privandrovali odkiaľsi z ukrajinských stepí, vytlačení inými, bojovnejšími kmeňmi, a v horách dnešného Slovenska hľadali úkryt i obživu. Ktorási rodina sa zatúlala do hlbokej doliny pod Javorníkom, prišla až k čarovnému jazeru uprostred hôr, nad ktorým sa do výšky vypínal prísny kamenný strážca - dnešný kopec Žiar. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zapáčilo sa dávnym privandrovalcom v tomto kraji a usadili sa na brehu jazera pod príkrymi svahmi kopca. Vyrúbali, vyklčovali les, zem poorali, zasiali obilie. Temeno kopca vypálili - vzbĺkol ohromný plameň, ktorého žiara sálala doďaleka. Odvtedy sa tento kopec volá Žiar. Na obnaženom temene kopca chceli vybudovať obetisko svojím bohom a strážnu vežu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nevedeli oni, že kopec už jedného obyvateľa má. Hlboko v skalných dutinách vrchu, čo siahajú až kamsi do žeravého podsvetia, sídlil ohyzdný netvor! Tomu sa veru neveľmi páčilo, že tí pozemskí červiaci, čo sem odkiaľsi privandrovali, na kopci rámusia, stromy pália, v zemi ryjú. Zavše netvor mrzuto, výstražne zaručal. Kopec sa zatriasol, a ľudia sa zľakli, že voľáka sopka či zemetras sa tu k životu prebúdza, ale keď sa vrch utíšil, pustili vec z hlavy a venovali sa robote."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V jednej dolinke, hlboko zarezanej do kamenného tela Žiaru, na mieste, ktoré sa dnes nazýva Suchá, usadil sa vtedy jeden mladý drevorubač. Kondál sa volal a bol náramne mocný, chlapisko ako hora. Živil sa stínaním starých stromov a veru mal čo robiť, veď ľudia potrebovali dobré, hrubé brvná na stavanie chalúp, chlievov či košiarov. Dobre sa Kondálovi viedlo, gazdovstvo vybudoval, i gazdiná už bola na dohľad. Zaľúbil sa on totiž do jednej krásnej devy - Svatava sa menovala, a tá veru rada išla za takého švárneho junáka. Svadbu chystali. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jedného dňa sa zem opäť zatriasla. Pastieri akurát vyhnali stádo kráv na Podžiari a prepásli sa šťavnatou lúkou až do polohy Kopence, kde široké lúčne sedlo prelamuje ostrý hrebeň, čo sa ako chrbát pravekého jaštera tiahne z doliny cez Lazy až po samo temeno kopca. Odrazu začali kravy splašene bučať. Nechali pašu pašou, dvíhali chvosty a pobehovali hore-dole. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Čo sa dnes s nimi robí? - hútajú pastieri. Ký ďas ich vyplašil? Veď ani búrka sa neblíži, jasno je, ani medveďa alebo iného zvera široko-ďaleko niet. Darmo si pastieri lámu hlavy nad tou záhadou. Čosi hrozivé zavislo vo vzduchu. Kravy sa naraz zhrčili tesne jedna k druhej, zúfalo bučia a uprene hľadia na jedno miesto prostred lúky. Aj pastierske psy stúlili chvosty a vystrašene kňučia pri nohách svojich pánov. Chlapi, toto nie sú dobré znamenia! - ozve sa najstarší pastier. - Dačo sa deje!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vtedy sa zatriasla zem. Pastieri skoro z nôh popadali. Na tom mieste, na ktoré kravy zdesene civeli, sa lúka roztrhla, vzduch zasvišťal a víchor vyniesol mače trávy do výšky. Ohyzdný trojhlavý netvor sa vyštveral z diery, zlostne zareval, plamene mu blčia z nozdier, vzduch smrdí sírou a čpavkom. Netvor sa poobzeral navôkol a ťarbavo sa vyteperil na vrchol Žiaru. Tam sa usalašil. Veľa dní netvor sedel na temene Žiaru. Zavše zlostne zareval, až sa hory zatriasli, a z nozdier vychrlil plamene. Ľudia sa ho náramne báli. Dobytok sa nechcel pásť, len v maštaliach splašene ručal. Sliepky prestali znášať vajcia, kravy stratili i mlieko, úroda na poliach vädla. Pohroma prišla na celý kraj."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Darmo ľudia vzývali starých bohov, obete prinášali, modlili sa a žiadali Perúna, aby netvora bleskom skolil. Nebolo im pomoci. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Iba Kondál sa nebál. V hore Mrská, čo zakrýva strmú skalistú stráň Žiaru, stromy stínal, dolu neschodným srázom ich spúšťal, v doline drevo pre kupcov hotoval, ani čo by sa nič zvláštneho nebolo dialo. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„Kondál, Kondál“, krútia ľudia hlavami, „veru Ty zle pochodíš! Sám Muromar Ťa skára.“"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„Ba veru“, pridajú sa ďalší, „to kvôli Tvojmu rámuseniu sa zobudil a zo zeme vyliezol.“"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„Veruže tak“, prisviedčajú ďalší, „to práve v Mrskej, kde Ty rúbeš drevo, mal on svoj brloh. Tam v skalách je šarkania diera, ktorou sa na svet díval, a Ty si ho vyrušil.“ "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kondál však na tie reči nedal a ďalej drevo rúbal. Už ani do dediny neschádzal, aby ho ľudia zbytočne rečičkami neotravovali. Zavše zašiel k jazeru na dne údolia ryby nachytať a hneď hybáj domov do Suchej, alebo aj rovno do Mrskej drevo rúbať. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„To Tvoj Kondál je všetkému na vine“, vravia ľudia Svatave, „V Mrskej pri šarkanej diere rúbe. A nedá si povedať. Nešťastie na nás privodil.“"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vychytila sa Svatava so slzami v očiach za Kondálom. Ako uteká lúčnou cestou popod Žiar, zniesol sa odrazu temný mrak z neba. Nedošla veru Svatava ku Kondálovi. Len mu ľudia prišli povedať:"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„Muromar Ti nevestu uniesol. Ktovie, či chudera ešte dýcha.“"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Strašný hnev vzplanul v Kondálovi. Schmatol svoju ostrú sekeru a vychytil sa do hory. Ale nešiel on za Muromarom, lež do tej osamelej chatrče pod Javorníkom, ktorej sa každý zďaleka vyhýbal. Žil v nej totiž starý Žrec, ktorý poznal všelijaké kúzla a s kadejakými nečistými mocnosťami on paktoval. Sotva Kondála zazrel, hneď sa aj usmial popod dlhé fúzy. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„Muromar Ťa pajedí, čo?“ spýtal sa mládenca, aj keď odpoveď dobre poznal a dávno všetko vedel."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potom pokračoval. „Muromar je mocný démon, ale ja som mocnejší, pri Perúnovi!“"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zobral Kondálovi sekeru, strčil ju do pahreby, prihodil akési tajomné bylinky, a vyriekol čarovné zariekania. Pahreba zaraz vzbĺkla štipľavým plameňom, až sa Kondál naľakal, že mu sekera celá zhorí. Starec ju však takú rozpálenú holou rukou vybral z ohňa a krátko na to ju podal Kondálovi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„Tak, a teraz choď a zotni Muromarovi hlavy. A prines mi ich sem. Všetky tri. Zídu sa mi veru!“ povedal starý Žrec."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Beží Kondál, štverá sa na vrchol Žiaru, netvora vyzerá."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„No poď Ty obluda pekelná! Vari sa predo mnou skrývaš, zbabelec? Vylez, nech sa ukáže, kto je silnejší!“ zvolal z celej sily. Zadunelo, plameň sa blysol na temene kopca. Kondál sa nebojácne štverá čoraz vyššie. Už je na poslednej čistine pod ostrým vrcholcom Žiara. Odrazu stromy zaprašťali. Statný smrek padol ako podťatý, a ozrutný balvan vyrútil sa z lesa rovno na Kondála. Nestihol ten nič urobiť, len podvedome ruku so sekerou dvihnúť. Kameň sa pred ním zastavil v polovici svahu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„Dobré kúzla má ten starý strigôň!“ - vydýchne si mládenec a posmelený pridá do kroku."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Už je na dosah vrcholu, už cíti smrad síry a čpavku, počuje temné chrčanie netvora i tichý ston milovanej Svatavy, čo leží vedľa obludy uväznená pichľavým kriačím. Muromar opäť zareval. Zdvihol sa do výšky, blanitými krídlami zatienil slnko. Tri ohyzdné hlavy uprene hľadia na Kondála, chrlia oheň, síru a strašný smrad. Strhol sa náramný boj. Kondál tne sekerou do netvorovho tela, Muromar sa zvíja, reve, snaží sa mládenca spáliť žeravým dychom, rozťať zubatým chvostom, ostrým ako žiletka, alebo prišliapnuť ozrutnou labou. Kondál sa zvŕta ako divý. Bojuje, ruve sa nadľudskou silou, ale už ochabuje. Hlava sa mu krúti, jedovatý dych obludy ho omámil. Netvor vidí, že Kondál melie z posledného. Opäť strašne zareve a najväčšia z jeho hláv sa už približuje, aby ľudského červiaka jedným dychom spálila na uhoľ. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vtedy sa Kondál rozohnal a z posledných síl zaťal pekelníkovi rovno do hlavy. Žeravá papuľa bolestne zrevala a sklátila sa na zem. Akási lepkavá smola vytryskla netvorovi z tela. Obluda sa zatackala, zručala od bolesti. Kondál nelení, vyskočí do výšky a zatne do druhej hlavy. Potom aj do tretej. Bezhlavé telo obludy sa zmieta v smrteľnom kŕči, a mládenec už v mrákotách tne do tŕňa, čo obklopuje jeho milovanú Svatavu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tak udatný Kondál zachránil seba, svoju milú i celý kraj v okolí vrchu Žiar. Hlavy netvora – tak ako sľúbil – odniesol vo vreci do chatrče starého Žreca pod Javorníkom. Odvtedy je v útrobách Žiaru pokoj."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Aj keď podajedni tvrdia, že akýsi iný obyvateľ sa sem do podzemných komnát nasťahoval. Ľudia tu už toľko nerámusia, Žiar opäť zarástol lesom, pokoj sa rozlial do jeho tajomných zátiší. A z hĺbky šarkanej diery v Mrskej sa vraj zavše ozve temný chrapot netvora. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Štefan Meliš, Stanislav Muntág: Kráľ Matej pod Manínom, Matica Slovenská, 2002",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "body": [
+    {"before": "Nachádza sa medzi Tlmačmi a Kozárovcami, na pravom brehu Hrona, katastri obce Kozárovce.", "after": "Nachádza sa medzi Tlmačmi a Kozárovcami, na pravom brehu Hrona, v katastri obce Kozárovce."},
+    {"before": "Jeho zvyšky boli také výrazné a nápadné, že ich zachytili aj kartografi z konca 19. a zo začiatku 20. storočia.", "after": "Zvyšky hradiska boli také výrazné, že ich zachytili aj kartografi z konca 19. a zo začiatku 20. storočia."},
+    {"before": "Hradisko sa skladalo z dvoch častí: jednej novšej, valmi a priekopami dobre opevnenej a druhej staršej, bez opevnenia.", "after": "Hradisko sa skladalo z dvoch častí: jednej novšej, valmi a priekopami dobre opevnenej, a druhej staršej, bez opevnenia."},
+    {"before": "malo všetky výhody aké poskytuje vysoko sa dvíhajúca terasa, chránená z dvoch strán prirodzeným, príkrim svahom", "after": "malo všetky výhody, aké poskytuje vysoko sa dvíhajúca terasa, chránená z dvoch strán prirodzeným príkrym svahom"},
+    {"before": "Hradisko bolo zložené z obvodového valu v tvare nepravidelného štvoruholníka, s rozmermi hlavných osí 150x190 m pozostávalo z mohutného valu, ktorý na južnej strane prebiehal miernym oblúkom ponad príkry svah skalného vŕška.", "after": "Hradisko bolo obohnané obvodovým valom v tvare nepravidelného štvoruholníka s rozmermi hlavných osí 150 × 190 m. Val bol mohutný a na južnej strane prebiehal miernym oblúkom ponad príkry svah skalného vŕška."},
+    {"before": "Druhotne bolo opevnenie prerušené len v juhozápadnej časti a to kvôli ľahšiemu prístupu do areálu voľakedajšieho hradiska aj z južnej strany.", "after": "Druhotne bolo opevnenie prerušené len v juhozápadnej časti, a to pre ľahší prístup do areálu voľakedajšieho hradiska aj z južnej strany."},
+    {"before": "Celková dĺžka valu na jeho hrebeni činila 560m a plocha hradiska 1,84ha.", "after": "Celková dĺžka valu na jeho hrebeni bola 560m a plocha hradiska 1,84ha."},
+    {"before": "Drevo zemná časť, široká 320-330cm, pozostávala z nasypanej hliny", "after": "Drevozemná časť, široká 320-330cm, pozostávala z nasypanej hliny"},
+    {"before": "bol 140-150cm široký, takže celková šírka obidvoch častí valu činila 470-500cm.", "after": "bol 140-150cm široký, takže celková šírka obidvoch častí valu dosahovala 470-500cm."},
+    {"before": "Uprostred hradiska bol obetný kameň asi 2m dlhý, 1m široký a 1m vysoký", "after": "Uprostred hradiska bol tzv. obetný kameň asi 2m dlhý, 1m široký a 1m vysoký"},
+    {"before": "Hradisko v Kozárovciach malo, podobne ako ďalšie príbuzné hradiská v oblasti Slovenskej brány, strategicko-strážnu a útočnú funkciu.", "after": "Hradisko v Kozárovciach malo, podobne ako ďalšie príbuzné hradiská v oblasti Slovenskej brány, strategicko-strážnu a útočiskovú funkciu."},
+    {"before": "Archeologickým potvrdením správnosti takéhoto ponímania funkcie hradiska v Kozárovciach a v celej oblasti Slovenskej brány mohli by byť i nálezy železných hrotov šípov", "after": "Archeologickým potvrdením správnosti takéhoto ponímania funkcie hradiska v Kozárovciach a v celej oblasti Slovenskej brány by mohli byť i nálezy železných hrotov šípov"},
+    {"before": "Svedectvo o prítomnosti bojovníkov v širšom okolí Kozároviec už v čase pred vybudovaním spomenutých hradísk môže byť nález bojovníckych hrobov", "after": "Svedectvom o prítomnosti bojovníkov v širšom okolí Kozároviec už v čase pred vybudovaním spomenutých hradísk môže byť nález bojovníckych hrobov"},
+    {"before": "Strategickú polohu Slovenskej brány si uvedomoval aj knieža Gejza I., neskorší uhorský kráľ a založil v Hronskom Beňadiku v roku 1075 opátstvo, aby mal pod kontrolou vstup na sever Slovenska, do banských miest.", "after": "Strategickú polohu Slovenskej brány si uvedomovalo aj knieža Gejza I., neskorší uhorský kráľ, a založilo v Hronskom Beňadiku v roku 1075 opátstvo, aby malo pod kontrolou vstup na sever Slovenska, do banských miest."},
+    {"before": "Aj dávno po zániku hradiska, bolo hradisko využívané na vojenské účely.", "after": "Aj dávno po zániku bolo hradisko využívané na vojenské účely."},
+    {"before": "Hradisko vydržalo 1000 rokov vo veľmi dobrom stave.", "after": "Hradisko vydržalo 1 000 rokov vo veľmi dobrom stave."}
+  ],
+  "excerpt": [
+    {"before": "Nachádza sa medzi Tlmačmi a Kozárovcami, na pravom brehu Hrona, katastri obce Kozárovce.", "after": "Nachádza sa medzi Tlmačmi a Kozárovcami, na pravom brehu Hrona, v katastri obce Kozárovce."}
+  ],
+  "timeline": [
+    {"index": 8, "field": "description", "before": "vydržalo 1000 rokov", "after": "vydržalo 1 000 rokov"}
+  ],
+  "keyFacts": [
+    {"index": 4, "field": "label", "before": "Obetný kameň", "after": "Tzv. obetný kameň"}
+  ],
+  "removeBlockTexts": ["Foto Matúš Martinák:", "Použitá literatúra a pramene:", "Janšák, Štefan: Staré osídlenie Slovenska, 1928.", "Habovštiak, Anton: Hradisko z 9.-10. storočia v Tlmačoch, 1973."],
+  "insertHeadingBefore": {"matchText": "Hradisko Festunok ešte v polovici dvadsiateho storočia", "heading": "Súčasný stav"},
+  "newSourcesItems": [
+    {"text": "Janšák, Štefan: Staré osídlenie Slovenska, 1928.", "url": null},
+    {"text": "Habovštiak, Anton: Hradisko z 9. – 10. storočia v Tlmačoch, 1973.", "url": null},
+    {"text": "Kronika obce Kozárovce", "url": null},
+    {"text": "http://jupiter.elte.hu/terkep+lista2.php", "url": "http://jupiter.elte.hu/terkep+lista2.php"},
+    {"text": "Peter Ižold, 1. apríl 2008", "url": null},
+    {"text": "Článok prevzatý zo stránky http://www.zitava.sk/zitava/zitava.php?page_id=pravek_festunok so súhlasom autora", "url": "http://www.zitava.sk/zitava/zitava.php?page_id=pravek_festunok"},
+    {"text": "http://www.cevnad.sav.sk/aktuality.html#2_1", "url": "http://www.cevnad.sav.sk/aktuality.html#2_1"}
+  ]
+}

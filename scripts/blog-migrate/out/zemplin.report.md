@@ -7,11 +7,11 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
-- ✅ Obrázky evidované: telo (3) ⊆ galéria (18) — žiadny sa nestratil
+- ✅ Text: pokrytie 99.08% vs originál (gramaticky opravené slová vyňaté: 0) — zvyšné mimo: tšit, rošu, spracoval, orgoň, lit (over: map-widget/tvary/odkazy)
+- ✅ Obrázky evidované: telo (3) ⊆ galéria (26) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 11, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 3 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -21,10 +21,10 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 3 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 17 položiek |
+| sources (zdroje) | 1 → 8 položiek |
 
 ## Obrázky
-- **galéria:** 18 (8 s popisom)
+- **galéria:** 26 (8 s popisom)
 - **v tele článku:** 3 (3 s popisom) — Dron+Prista%C5%A1+Ma%C4%8Fari.jpg, zemplin.jpg, zempHRvychod.jpg
 
 ## Sidebar
@@ -50,10 +50,20 @@
   - Zdroj: Vladimír Turčan a kolektív: Archeologické pamiatky - Kultúrne krásy Slovenska, Dajama, 2009
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 3**
+  - iné: 1
+  - interpunkcia (čiarky/bodky): 1
+  - veľké/malé písmená: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `villa zemplén` → `villa Zemplén` | vlastné meno obce v latinskom citáte, malé písmeno |
+| 2 | undefined | `z roku 1261. vyvinula sa` → `z roku 1261. Vyvinula sa` | veľké písmeno na začiatku vety po bodke |
+| 3 | undefined | `popri bodrogu` → `popri Bodrogu` | vlastné meno rieky, inde v článku dôsledne s veľkým B (Bodrog, Bodrogu) |
 
 ## Ostatné
 - **komentáre:** 0
 - **text tela:** 5229 znakov (747 slov)
+- **pokrytie textu vs originál:** 99.08% (mimo: tšit, rošu, spracoval, orgoň, lit)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

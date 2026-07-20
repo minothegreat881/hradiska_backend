@@ -1,0 +1,82 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2017-09-kelti-v-tvrdosovciach.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5822974271460604418",
+    "bloggerPostUrl": "http://www.hradiska.sk/2017/09/kelti-v-tvrdosovciach.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/5822974271460604418/comments/default",
+    "extractedAt": "2026-07-18T11:21:30.460Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "shortExcerpt",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Kelti v Tvrdošovciach",
+    "slug": "kelti-v-tvrdosovciach",
+    "excerpt": "Pozývame Vás na prednášku o Keltoch, spojenú s našimi vizualizáciami.",
+    "authorName": "Orgon",
+    "publishedAt": "2017-09-14T07:11:00.002+02:00",
+    "originalPublishedDate": "2017-09-14T07:11:00.002+02:00",
+    "updatedAt": "2017-09-14T07:11:15.658+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6_shH9CXKHT5Mn-_4fOeOtisicPAfUjl-F0y45eILptq5uqI7ziztoUbnaf1K8Q9_zTj_xFRinnLuQFMFJ4dGINcKJK7fHV_MQBB9ozREcxlgABHHBi92CuQB41iGT8ygPnoRTZAKd4/s0/Kelti+predna%25CC%2581s%25CC%258Cka+Tv.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6_shH9CXKHT5Mn-_4fOeOtisicPAfUjl-F0y45eILptq5uqI7ziztoUbnaf1K8Q9_zTj_xFRinnLuQFMFJ4dGINcKJK7fHV_MQBB9ozREcxlgABHHBi92CuQB41iGT8ygPnoRTZAKd4/s1600/Kelti+predna%25CC%2581s%25CC%258Cka+Tv.jpg",
+        "filename": "Kelti+predna%CC%81s%CC%8Cka+Tv.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6_shH9CXKHT5Mn-_4fOeOtisicPAfUjl-F0y45eILptq5uqI7ziztoUbnaf1K8Q9_zTj_xFRinnLuQFMFJ4dGINcKJK7fHV_MQBB9ozREcxlgABHHBi92CuQB41iGT8ygPnoRTZAKd4/s1600/Kelti+predna%25CC%2581s%25CC%258Cka+Tv.jpg",
+          "displayedWidth": 226,
+          "displayedHeight": 320,
+          "originalWidth": 679,
+          "originalHeight": 960
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pozývame Vás na prednášku o Keltoch, spojenú s našimi vizualizáciami.\n \n "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

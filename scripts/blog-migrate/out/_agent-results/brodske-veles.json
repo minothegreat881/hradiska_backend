@@ -1,0 +1,28 @@
+{
+  "timeline": [
+    { "year": "9. – 10. storočie", "title": "Veľkomoravské hradisko na Veleši", "description": "Hradisko na Veleši patrí medzi dve archeologicky doložené veľkomoravské hradiská na Záhorí (spolu s hradiskom Podbranč-Starý hrad). Vzhľadom na polohu pri rieke Morave neďaleko hradiska Břeclav-Pohansko a názov obce odvodený od slova brod sa uvažuje o jeho strážnej funkcii – mohlo strážiť južnú prístupovú cestu k Pohansku.", "type": "era" },
+    { "year": "1163", "title": "Prvá písomná zmienka o fare a kostole v Brodskom", "description": "„Fara a kostol sa spomínajú už r. 1163,“ píše o Brodskom Konštantín Palkovič. Údaj pochádza od Ľudovíta Némethyho, ktorý sa odvoláva na staršie schematizmy, originálny písomný doklad však nie je známy.", "type": "event" },
+    { "year": "1317", "title": "Šaštín a Brodské získal Abrahám Rúfus", "description": "Kráľ Karol daroval Šaštín (Saswar) spolu s Brodským (Barachka, Baracka) Abrahámovi Rúfusovi ako kompenzáciu za škody, ktoré utrpel od Matúša Čáka.", "type": "event" },
+    { "year": "1323", "title": "Prvá zmienka o Šaštínskom komitáte", "description": "K roku 1323 sa spomína Šaštínsky komitát, čiže hrad mal už vytvorený svoj obvod, ku ktorému neskôr patrili dediny na oboch stranách Myjavy vrátane Brodského.", "type": "event" },
+    { "year": "okolo r. 1970", "title": "Amatérske vykopávky Konštantína Jakubca", "description": "Konštantín Jakubec pri amatérskych vykopávkach na Veleši našiel hradisko obkolesené priekopou a valmi, veľa črepov a uhlíky a lokalizoval vstupnú bránu hradiska. Približne 300 m od hradiska odkryl rotundu s 10 hrobmi.", "type": "discovery" },
+    { "year": "1976", "title": "Objav slovanského osídlenia na Veleši", "description": "Pri stavebných prácach severozápadne od intravilánu Brodského porušili príbytky s kamennými základmi a našli slovanské črepy. Osídlenie bolo interpretované ako hradisko a datované do 9. – 10. storočia.", "type": "discovery" },
+    { "year": "1989", "title": "Povrchový prieskum na Veleši", "description": "Povrchovým prieskumom bol z Veleša získaný črepový materiál na pomerne veľkom území (3 ha), datovaný do 13. – 14. storočia, ktorý by mohol svedčiť o zaniknutom osídlení.", "type": "discovery" }
+  ],
+  "keyFacts": [
+    { "label": "Poloha", "value": "Severozápadne od intravilánu obce Brodské, lokalita Veleš", "icon": "map" },
+    { "label": "Pôvod názvu", "value": "Názov Veleš odkazuje na slovanského boha Velesa – ochrancu stád, boha hojnosti, plodnosti a vládcu záhrobia", "icon": "book" },
+    { "label": "Datovanie hradiska", "value": "9. – 10. storočie, veľkomoravské obdobie", "icon": "shield" },
+    { "label": "Opevnenie", "value": "Hradisko bolo obkolesené priekopou a valmi, s lokalizovanou vstupnou bránou", "icon": "shield" },
+    { "label": "Rotunda pri hradisku", "value": "Približne 300 m od hradiska sa nachádza rotunda, pri ktorej bolo odkrytých 10 hrobov", "icon": "building" },
+    { "label": "Strategická poloha", "value": "Hradisko mohlo strážiť južnú prístupovú cestu k veľkomoravskému centru Břeclav-Pohansko", "icon": "mountain" },
+    { "label": "Jedno z dvoch hradísk na Záhorí", "value": "Veleš je jedno z dvoch archeologicky doložených veľkomoravských hradísk na Záhorí (spolu s Podbranč-Starý hrad)", "icon": "star" },
+    { "label": "Povesť o Cyrilovi a Metodovi", "value": "Podľa povesti previedli rybári sv. Cyrila a Metoda cez brod počas nočnej povodne na rieke Morave, odtiaľ pochádza názov obce Brodské", "icon": "custom" }
+  ],
+  "corrections": [
+    { "before": "Slovensko vo všasnoslovanskom období", "after": "Slovensko vo včasnoslovanskom období" },
+    { "before": "Lenže osídlenie tejto oblasti poznáme iba so susedných Kútov", "after": "Lenže osídlenie tejto oblasti poznáme iba zo susedných Kútov" },
+    { "before": "bez historických, či archeologických dokladov", "after": "bez historických či archeologických dokladov" },
+    { "before": "v Skalici, v Brodskom, či Kopčanoch", "after": "v Skalici, v Brodskom či Kopčanoch" },
+    { "before": "ktorý stavia na staršej obecnej pečati sú vyobrazení", "after": "ktorý stavia na staršej obecnej pečati, sú vyobrazení" }
+  ]
+}

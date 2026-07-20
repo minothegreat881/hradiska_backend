@@ -1,0 +1,91 @@
+{
+  "slug": "zamcisko-nova-bana",
+  "generatedAt": "2026-07-15T16:15:28.792Z",
+  "corrections": [
+    {
+      "before": "Velkým Inovcom",
+      "after": "Veľkým Inovcom",
+      "reason": "missing ľ; keyFacts already has correct \"Veľký Inovec\"",
+      "category": "cross-field",
+      "occurrences": 2
+    },
+    {
+      "before": "10.—13. storočie",
+      "after": "10. – 13. storočie",
+      "reason": "em-dash number range -> spaced en-dash (propagates across keyFacts/timeline)",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "10.—13. stor.",
+      "after": "10. – 13. stor.",
+      "reason": "em-dash number range -> spaced en-dash (propagates across keyFacts/timeline/body)",
+      "category": "typography",
+      "occurrences": 3
+    },
+    {
+      "before": "10.—13. storočia",
+      "after": "10. – 13. storočia",
+      "reason": "em-dash number range -> spaced en-dash",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "1970–1971",
+      "after": "1970 – 1971",
+      "reason": "unspaced en-dash between 4-digit years -> spaced (§21.2 explicit rule)",
+      "category": "typography",
+      "occurrences": 2
+    },
+    {
+      "before": "40—45 cm",
+      "after": "40 – 45 cm",
+      "reason": "em-dash number range -> spaced en-dash",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "250 X 260 cm",
+      "after": "250 × 260 cm",
+      "reason": "X -> × multiplication sign",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "60—70 cm",
+      "after": "60 – 70 cm",
+      "reason": "em-dash number range -> spaced en-dash",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "20—30 cm",
+      "after": "20 – 30 cm",
+      "reason": "em-dash number range -> spaced en-dash",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "v smere sever—juh",
+      "after": "v smere sever – juh",
+      "reason": "em-dash direction pair -> spaced en-dash, consistent with corpus convention",
+      "category": "typography",
+      "occurrences": 1
+    },
+    {
+      "before": "MIKULÁŠ K L I S K Ý",
+      "after": "MIKULÁŠ KLISKÝ",
+      "reason": "letter-spaced (rozpálkovaný) surname, mechanical de-spacing (§21.2 pattern)",
+      "category": "OCR",
+      "occurrences": 2
+    },
+    {
+      "before": "SLOVENSKA ARCHEOLÓGIA",
+      "after": "SLOVENSKÁ ARCHEOLÓGIA",
+      "reason": "missing diacritic in journal name (all-caps citation)",
+      "category": "A8",
+      "occurrences": 2
+    }
+  ],
+  "structuralChanges": []
+}

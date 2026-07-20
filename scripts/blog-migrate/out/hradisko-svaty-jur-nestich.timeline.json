@@ -1,0 +1,120 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 13 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "krátko po prelome letopočtov",
+      "title": "Vanniovo kráľovstvo",
+      "description": "Germáni vytvorili štátny útvar; nálezy germánskych železných sekier a strieborný denár Antonia Pia (razený 138 – 161) — lokalita pravdepodobne slúžila len ako refúgium.",
+      "type": "founding"
+    },
+    {
+      "year": "720 – 750 (I. fáza neskoroavarského obdobia)",
+      "title": "Najstarší doklad prítomnosti Slovanov",
+      "description": "Bronzové prelamované kovanie s vyobrazením gryfa (avarský bronz obľúbený aj u Slovanov), nájdené na prvom predhradí.",
+      "type": "discovery"
+    },
+    {
+      "year": "posledné desaťročia 8. storočia",
+      "title": "Vybudovanie prvého opevnenia",
+      "description": "Predpokladané staršie neopevnené sídlisko bolo sčasti obohnané valmi na akropole; opevnenie sa stalo útočiskom pre priľahlú otvorenú osadu.",
+      "type": "construction"
+    },
+    {
+      "year": "30. roky 9. storočia",
+      "title": "Vznik hradiska ako obranného prvku",
+      "description": "Najpravdepodobnejšia doba vzniku, súvisiaca s bojmi medzi Moravským a Nitrianskym kniežatstvom — hradisko ako obranný prvok severnej hranice Nitrianska.",
+      "type": "founding"
+    },
+    {
+      "year": "pred vznikom Veľkej Moravy",
+      "title": "Centrum regionálnej správy",
+      "description": "Hradisko sa stalo centrom regionálnej správy ovládaným rodiacou sa mocenskou elitou — v tomto čase a priestore bez paralely okrem Devína.",
+      "type": "event"
+    },
+    {
+      "year": "833",
+      "title": "Vznik Veľkej Moravy — rozmach hradiska",
+      "description": "Po zjednotení krajín nasleduje rozšírenie opevnenia o prvé predhradie.",
+      "type": "construction"
+    },
+    {
+      "year": "2. polovica 9. storočia",
+      "title": "Vybudovanie druhého predhradia",
+      "description": "Hradisko zažíva ďalší rozmach ako regionálne centrum a remeselné stredisko; celková dĺžka opevneného areálu dosiahla približne 680 m.",
+      "type": "construction"
+    },
+    {
+      "year": "koniec 9. – 1. polovica 10. storočia",
+      "title": "Zánik chaty s depotom šperkov na akropole",
+      "description": "Obydlie s depotom siedmich náušníc, gombíkom, prsteňom, nádobou, hrotom oštepu a dýkou zaniklo požiarom.",
+      "type": "destruction"
+    },
+    {
+      "year": "koniec 10. storočia",
+      "title": "Prerušenie osídlenia",
+      "description": "Nálezy na hradisku sa dočasne prerušujú; nasledujúcich asi 200 rokov slúžilo hradisko len ako dočasný úkryt počas útokov.",
+      "type": "destruction"
+    },
+    {
+      "year": "začiatok 13. – koniec 14. storočia",
+      "title": "Obnova grófmi zo Svätého Jura a Pezinka",
+      "description": "Trvalé osídlenie obnovené, vybudovaná palácová stavba, vodovodná cisterna a hlinené potrubie v dĺžke asi 3 km; obnovený systém valov s novou bránou.",
+      "type": "construction"
+    },
+    {
+      "year": "po roku 1241 (tatársky vpád)",
+      "title": "Presun na hrad Biely Kameň",
+      "description": "Grófi pristúpili k stavbe kamenného hradu na kopci na druhej strane doliny; na Neštichu ešte dlhší čas udržiavaná stála posádka.",
+      "type": "event"
+    },
+    {
+      "year": "14. storočie",
+      "title": "Definitívne opustenie hradiska",
+      "description": "Po opustení už nikdy neexistovalo trvalé osídlenie, hoci systém valov mohol slúžiť ako úkryt aj v neskorších bojoch.",
+      "type": "destruction"
+    },
+    {
+      "year": "2010",
+      "title": "Publikovanie výsledkov výskumu",
+      "description": "PhDr. Július Vavák zverejnil aktuálne výsledky výskumu v kolektívnej monografii Zo starších dejín Svätého Jura.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Súčasť Bratislavskej brány, jedno zo štyroch hradísk chrániacich juhovýchodnú hranicu Veľkej Moravy (spolu s Bratislavou, Devínom a Devínskou Novou Vsou)",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozloha",
+      "value": "Celkovo 3,26 ha (Nádvoria IV, III a Predhradia I, II); po prístavbe predhradí dosiahla dĺžka opevneného areálu asi 680 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Konštrukcia hradby akropoly",
+      "value": "Zemina s kamením spevnená drevenými trámami (roštami); šírka hradby na predhradí minimálne 4,5 m, priekopa kónického tvaru (šírka 2,6 m, hĺbka 1,5 m)",
+      "icon": "shield"
+    },
+    {
+      "label": "Nálezy vyššej vrstvy",
+      "value": "Bronzové náušnice (analogické s pohrebiskom Lupka v Nitre), strmene, skvostný jazdecký strmeň, depot siedmich náušníc byzantsko-orientálneho štýlu",
+      "icon": "crown"
+    },
+    {
+      "label": "Remeslá",
+      "value": "Doložená výroba železa, kováčske kliešte, sekerovité hrivny ako platidlo, keramika točená na kruhu — nie však remeselnícke dielne",
+      "icon": "star"
+    },
+    {
+      "label": "Stredoveké vodovodné potrubie",
+      "value": "Hlinené potrubie v dĺžke niekoľkých kilometrov, jednotlivé časti 55 – 58 cm dlhé, so šachtičkami na odvzdušňovanie",
+      "icon": "building"
+    },
+    {
+      "label": "Výskum",
+      "value": "Podrobný archeologický výskum vedie PhDr. Július Vavák; výsledky publikované v Zo starších dejín Svätého Jura (2010)",
+      "icon": "scroll"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-ladislav-nadasi-jege-svatopluk.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3490358548490155806",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/07/ladislav-nadasi-jege-svatopluk.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3490358548490155806/comments/default",
+    "extractedAt": "2026-07-16T17:10:47.730Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 2,
+    "comments": [
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-774567797800454039",
+        "bloggerPostId": "774567797800454039",
+        "author": "Anonymous",
+        "authorProfile": null,
+        "published": "2013-10-27T19:46:32.157+01:00",
+        "updated": "2013-10-27T19:46:32.157+01:00",
+        "content": "Čo sa babe zachcelo, to sa babe prisnilo. Z tohto románu je pravda asi len to, že Svätopluk existoval.",
+        "inReplyToArticle": "http://www.hradiska.sk/2011/07/ladislav-nadasi-jege-svatopluk.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      },
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-1947941201231014724",
+        "bloggerPostId": "1947941201231014724",
+        "author": "Anonymous",
+        "authorProfile": "https://www.blogger.com/profile/07438170388099301991",
+        "published": "2013-10-27T19:44:48.531+01:00",
+        "updated": "2013-10-27T19:44:48.531+01:00",
+        "content": "Tento komentár bol odstránený autorom.",
+        "inReplyToArticle": "http://www.hradiska.sk/2011/07/ladislav-nadasi-jege-svatopluk.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      }
+    ],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Ladislav Nádaši - Jége - Svätopluk",
+    "slug": "ladislav-nadasi-jege-svatopluk",
+    "excerpt": "Na tejto stránke nájdete celý román od Ladislava Nádaši-Jégeho - Svätopluk - podľa môjho názoru veľmi zaujímavé čítanie.",
+    "authorName": "Orgoň",
+    "publishedAt": "2011-07-21T10:11:00.000+02:00",
+    "originalPublishedDate": "2011-07-21T10:11:00.000+02:00",
+    "updatedAt": "2011-07-25T13:27:51.848+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [
+      "Ladislav Nádaši - Jége - Svätopluk"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Autor diela",
+        "value": "Ladislav Nádaši-Jégé",
+        "icon": "book"
+      },
+      {
+        "label": "Téma",
+        "value": "Historický román Svätopluk o veľkomoravskom kniežati",
+        "icon": "crown"
+      },
+      {
+        "label": "Zdroj",
+        "value": "Zlatý fond denníka SME",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na tejto stránke nájdete celý román od Ladislava Nádaši-Jégeho - Svätopluk - podľa môjho názoru veľmi zaujímavé čítanie."
+              },
+              {
+                "type": "link",
+                "url": "http://zlatyfond.sme.sk/dielo/562/Nadasi-Jege_Svatopluk/1",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "tejto stránke"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " nájdete celý román od Ladislava Nádaši-Jégeho - Svätopluk - podľa môjho názoru veľmi zaujímavé čítanie."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Ladislav Nádaši-Jégé: Svätopluk (Zlatý fond denníka SME)",
+            "url": "http://zlatyfond.sme.sk/dielo/562/Nadasi-Jege_Svatopluk/1"
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

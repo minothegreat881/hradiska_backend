@@ -1,0 +1,40 @@
+{
+  "slug": "obisovce-straza",
+  "flags": [
+    {
+      "type": "STRUCTURAL_ORPHAN",
+      "location": "blocks[4] (rich-text) + blocks[5] (heading)",
+      "note": "blocks[4] obsahuje prázdny inline <a> odkaz na obrázok (vy%CC%81chod.jpg) namiesto content.image-block, s textom \"V pozadí Stráža. Kopec v popredí je\" a nasleduje heading \"Zámčisko s Obišovským hrádkom (Kveta)\" — vyzerá to ako rozbitý popisok fotografie z extrakcie. Text nezmenený, len upozornenie."
+    },
+    {
+      "type": "STRUCTURAL_ORPHAN",
+      "location": "blocks[27] heading \"Foto Michal Novák:\"",
+      "note": "Heading s koncovou dvojbodkou, po ktorom nenasleduje priamo súvisiaci obsah (nasledujúci blok je \"Doplnené 12.6.2026...\"). Fotka Michala Nováka už má vlastný popisok v galérii (G8 \"Foto: Michal Novák\"). Možný osirotený nadpis. Nezmenené, len upozornenie."
+    },
+    {
+      "type": "DUPLICATE_SENTENCE",
+      "location": "blocks[28] vs blocks[29]+blocks[30]",
+      "note": "blocks[28]: \"Doplnené 12.6.2026 na základe FB príspevku KPÚ Košice\" (bold) takmer duplicitné s blocks[29]+[30]: \"Doplnené 12.6.2026 na základe\" + \"príspevku KPÚ Košice\" (rozdiel len v slove \"FB\"). Možná duplicita z editácie článku. Nezmazané, len nahlásené (podľa pravidla nikdy nemazať bez potvrdenia)."
+    },
+    {
+      "type": "DUPLICATE_BIBLIO",
+      "location": "blocks[21]-[26] (Literatúra ako rich-text) + blocks[42] (content.sources) + top-level citations[]",
+      "note": "Bibliografia (PUSR, Mirošayová, Tomášová, Slivka/Vallašek, weby) sa nachádza trikrát: ako samostatné rich-text bloky v tele (B21-B26), znova ako content.sources blok (B42), a znova v top-level poli citations[]. Štrukturálna duplicita existujúca už pred týmto behom — nemažem, len nahlasujem na ľudské rozhodnutie."
+    },
+    {
+      "type": "EMPTY_COLON",
+      "location": "blocks[40] \"...dostupnej online tu:\" a blocks[41] \"...pre Vás tu:\"",
+      "note": "Obe vety končia dvojbodkou bez nasledujúceho odkazu/obsahu priamo pod nimi (nasledujúci blok je nesúvisiaci text/sources) — pravdepodobne mal nasledovať link, ktorý sa stratil pri extrakcii. Nezmenené, nahlásené."
+    },
+    {
+      "type": "CERTAINTY_LOST",
+      "location": "keyFacts \"Pôvod názvu Stráža\"",
+      "note": "Telo (blocks[1]) hovorí \"v našom prípade PRAVDEPODOBNE išlo o stráženie prechodu cez údolia Hornádu, Svinky, ale aj Torysy\" (hedged), zatiaľ čo keyFact \"Pôvod názvu Stráža\" tvrdí \"Od funkcie strážiť – stráženie hraníc a obchodných ciest cez údolia Hornádu, Svinky a Torysy smerom do Poľska\" bez modálneho zmiernenia. Nezmenené (keyFacts sú zámerne stručné zhrnutia), len nahlásené na zváženie."
+    },
+    {
+      "type": "PROTECTED_BLOCK_NOTE",
+      "location": "blocks[13]",
+      "note": "Blok je štrukturálne chránený (predchádzajúci blok blocks[12] končí \"...o hradisku píše: \"), preto sa naň neaplikovali gramatické opravy (§21.3). Ide o priamy citát spolupracovníčky Kvetka M., nie o dobový prameň, ale spúšťacia podmienka (dvojbodka + \"píše:\") platí mechanicky. Všimnutý možný neštandardný tvar \"v prostriedku opevneného areálu\" (namiesto \"uprostred\") — ponechané nedotknuté, nahlásené."
+    }
+  ]
+}

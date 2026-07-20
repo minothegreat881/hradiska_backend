@@ -1,0 +1,524 @@
+{
+ "$meta": {
+  "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\refugia12-sucany-skala.single.json",
+  "sourceLabel": null,
+  "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8830296717188224590",
+  "bloggerPostUrl": "http://www.hradiska.sk/2013/02/sucany-skala.html",
+  "repliesLink": "http://www.hradiska.sk/feeds/8830296717188224590/comments/default",
+  "extractedAt": "2026-07-14T19:37:20.650Z",
+  "coverImageNeedsReview": true,
+  "commentCount": 0,
+  "comments": [],
+  "checks": {
+   "nativeHeadings": [],
+   "nativeHeadingCount": 0,
+   "mapIframeCount": 1,
+   "mapIframeSrcs": [
+    "https://maps.google.com/?ie=UTF8&ll=49.090752,19.000382&spn=0.005298,0.016158&t=h&z=17&vpsrc=6&output=embed"
+   ],
+   "nonMapIframeCount": 0,
+   "nonMapIframeSrcs": [],
+   "italicCaptionCount": 0,
+   "totalImages": 15,
+   "captionedImages": 10,
+   "separatorImages": 5
+  },
+  "poemCount": 0,
+  "poemSingleFlags": [],
+  "sanityFlags": []
+ },
+ "blogPost": {
+  "title": "Sučany - Skala",
+  "slug": "sucany-skala",
+  "excerpt": "V obci Sučany sa dvíha 40 m vysoký skalný útes zvaný Skala, ktorý je zaujímavý tak zo stránky zemepisnej a geologickej, ako historickej. Je to posledný výbežok mnohonásobne a pestro rozčleneného horstva Fatry, vlastne jeho nízkeho hrebeňa Bukoviny…",
+  "authorName": "Orgon",
+  "publishedAt": "2013-02-02T17:54:00.001+01:00",
+  "originalPublishedDate": "2013-02-02T17:54:00.001+01:00",
+  "updatedAt": "2019-07-29T15:26:20.677+02:00",
+  "readingTime": 3,
+  "featured": false,
+  "coverImage": {
+   "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fop-1vkgtVsSD_yJN8jjcBo5c1eHo1WMstixCdyoKQk_oiT7nNoCltBy45NI8j1ieZnzv5Dj2I3K0pzckB9wN9WK_zL2uTWz6l9YfpiaHmn9YYR7NMAvq4EiYHIGmFrFZkLa3jn5vvU/s0/pla%CC%81nik+Jans%CC%8Ca%CC%81k.jpg",
+   "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fop-1vkgtVsSD_yJN8jjcBo5c1eHo1WMstixCdyoKQk_oiT7nNoCltBy45NI8j1ieZnzv5Dj2I3K0pzckB9wN9WK_zL2uTWz6l9YfpiaHmn9YYR7NMAvq4EiYHIGmFrFZkLa3jn5vvU/s1600/pla%CC%81nik+Jans%CC%8Ca%CC%81k.jpg",
+   "filename": "plánik+Janšák.jpg",
+   "blogger": {
+    "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fop-1vkgtVsSD_yJN8jjcBo5c1eHo1WMstixCdyoKQk_oiT7nNoCltBy45NI8j1ieZnzv5Dj2I3K0pzckB9wN9WK_zL2uTWz6l9YfpiaHmn9YYR7NMAvq4EiYHIGmFrFZkLa3jn5vvU/s1600/pla%CC%81nik+Jans%CC%8Ca%CC%81k.jpg",
+    "displayedWidth": 320,
+    "displayedHeight": 207,
+    "originalWidth": null,
+    "originalHeight": null
+   }
+  },
+  "gallery": [
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fop-1vkgtVsSD_yJN8jjcBo5c1eHo1WMstixCdyoKQk_oiT7nNoCltBy45NI8j1ieZnzv5Dj2I3K0pzckB9wN9WK_zL2uTWz6l9YfpiaHmn9YYR7NMAvq4EiYHIGmFrFZkLa3jn5vvU/s0/pla%CC%81nik+Jans%CC%8Ca%CC%81k.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fop-1vkgtVsSD_yJN8jjcBo5c1eHo1WMstixCdyoKQk_oiT7nNoCltBy45NI8j1ieZnzv5Dj2I3K0pzckB9wN9WK_zL2uTWz6l9YfpiaHmn9YYR7NMAvq4EiYHIGmFrFZkLa3jn5vvU/s1600/pla%CC%81nik+Jans%CC%8Ca%CC%81k.jpg",
+    "filename": "plánik+Janšák.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fop-1vkgtVsSD_yJN8jjcBo5c1eHo1WMstixCdyoKQk_oiT7nNoCltBy45NI8j1ieZnzv5Dj2I3K0pzckB9wN9WK_zL2uTWz6l9YfpiaHmn9YYR7NMAvq4EiYHIGmFrFZkLa3jn5vvU/s1600/pla%CC%81nik+Jans%CC%8Ca%CC%81k.jpg",
+     "displayedWidth": 320,
+     "displayedHeight": 207,
+     "originalWidth": null,
+     "originalHeight": null
+    },
+    "caption": "Plán hradiska (Š. Janšák)"
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Z3vN6n-7m77nMr6ofC0fWkH9pAUnGupsrKEGnSowZNMfxY5xihWneaI6VyDLaM2FFkkEoWU8jXbD6I20bmP9L56tqRYNiRgxPAuXsXifYJEFSlqHrjmcNU5BQg6HCdSpDCE4XzzKZ14/s0/kresba+Jans%25CC%258Ca%25CC%2581k.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Z3vN6n-7m77nMr6ofC0fWkH9pAUnGupsrKEGnSowZNMfxY5xihWneaI6VyDLaM2FFkkEoWU8jXbD6I20bmP9L56tqRYNiRgxPAuXsXifYJEFSlqHrjmcNU5BQg6HCdSpDCE4XzzKZ14/s1600/kresba+Jans%25CC%258Ca%25CC%2581k.jpg",
+    "filename": "kresba+Jans%CC%8Ca%CC%81k.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Z3vN6n-7m77nMr6ofC0fWkH9pAUnGupsrKEGnSowZNMfxY5xihWneaI6VyDLaM2FFkkEoWU8jXbD6I20bmP9L56tqRYNiRgxPAuXsXifYJEFSlqHrjmcNU5BQg6HCdSpDCE4XzzKZ14/s1600/kresba+Jans%25CC%258Ca%25CC%2581k.jpg",
+     "displayedWidth": 320,
+     "displayedHeight": 194,
+     "originalWidth": null,
+     "originalHeight": null
+    },
+    "caption": "Takto hradisko vyzeralo v roku 1930, keď ho nakreslil Janšák"
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdPRM8laOFG6oJ7AXJuwMR-YbtTvkuP-Jim3jgghMQ071UNum8L8n96HhhVMu9mfCzLV6oVUqyq1z7tdIA-RkTC4rB-pYrXqTe3OMJoOaUfirBnUBadDQUiNsgribe8r5S_AwqwQtSxSw/s0/30fc2a5f-ea93-4e27-b0fd-eef4e743fd4a.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdPRM8laOFG6oJ7AXJuwMR-YbtTvkuP-Jim3jgghMQ071UNum8L8n96HhhVMu9mfCzLV6oVUqyq1z7tdIA-RkTC4rB-pYrXqTe3OMJoOaUfirBnUBadDQUiNsgribe8r5S_AwqwQtSxSw/s1600/30fc2a5f-ea93-4e27-b0fd-eef4e743fd4a.jpg",
+    "filename": "30fc2a5f-ea93-4e27-b0fd-eef4e743fd4a.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdPRM8laOFG6oJ7AXJuwMR-YbtTvkuP-Jim3jgghMQ071UNum8L8n96HhhVMu9mfCzLV6oVUqyq1z7tdIA-RkTC4rB-pYrXqTe3OMJoOaUfirBnUBadDQUiNsgribe8r5S_AwqwQtSxSw/s1600/30fc2a5f-ea93-4e27-b0fd-eef4e743fd4a.jpg",
+     "displayedWidth": 320,
+     "displayedHeight": 174,
+     "originalWidth": null,
+     "originalHeight": null
+    },
+    "caption": "... a takto vyzerá dnes"
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4VvWqNVcKsls8EqffDjbe5JD_gUcdpqf3jc55befGKphypeVZ_rI97NnsOre9IF2vT2Npx5UM4IJHubflEM9Cf-O7zMrKk0Zo1DZqDxOBRTyNe3DjgOfuZhH3gRQZvwuh_AbY6q-G20A_/s0/33057429_2057137831220367_8556970258441699328_n.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4VvWqNVcKsls8EqffDjbe5JD_gUcdpqf3jc55befGKphypeVZ_rI97NnsOre9IF2vT2Npx5UM4IJHubflEM9Cf-O7zMrKk0Zo1DZqDxOBRTyNe3DjgOfuZhH3gRQZvwuh_AbY6q-G20A_/s1600/33057429_2057137831220367_8556970258441699328_n.jpg",
+    "filename": "33057429_2057137831220367_8556970258441699328_n.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4VvWqNVcKsls8EqffDjbe5JD_gUcdpqf3jc55befGKphypeVZ_rI97NnsOre9IF2vT2Npx5UM4IJHubflEM9Cf-O7zMrKk0Zo1DZqDxOBRTyNe3DjgOfuZhH3gRQZvwuh_AbY6q-G20A_/s1600/33057429_2057137831220367_8556970258441699328_n.jpg",
+     "displayedWidth": 277,
+     "displayedHeight": 320,
+     "originalWidth": 832,
+     "originalHeight": 960
+    },
+    "caption": "Skvelá dvojfotografia vtedy a teraz. Autor Naj. K dokonalosti tomu chýba ešte tretí pohľad - v období pred 2000 rokmi"
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtA17do6EsmcSgX9rLek5fL361GxloyFGNZfwSnaPCOaBt9IwDaRkjklsqEpIbmM8omPSAEDMBDY2EeHjHDXhLQKheRrSectfqFWZ2CjaTesFBYgaMnltJEXlA7cOzbYL2CeE552EdEVg/s0/c%CC%8Crepy.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtA17do6EsmcSgX9rLek5fL361GxloyFGNZfwSnaPCOaBt9IwDaRkjklsqEpIbmM8omPSAEDMBDY2EeHjHDXhLQKheRrSectfqFWZ2CjaTesFBYgaMnltJEXlA7cOzbYL2CeE552EdEVg/s1600/c%CC%8Crepy.jpg",
+    "filename": "črepy.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtA17do6EsmcSgX9rLek5fL361GxloyFGNZfwSnaPCOaBt9IwDaRkjklsqEpIbmM8omPSAEDMBDY2EeHjHDXhLQKheRrSectfqFWZ2CjaTesFBYgaMnltJEXlA7cOzbYL2CeE552EdEVg/s1600/c%CC%8Crepy.jpg",
+     "displayedWidth": 320,
+     "displayedHeight": 280,
+     "originalWidth": null,
+     "originalHeight": null
+    },
+    "caption": "slovanský črep a hlinená korálka, ktorú našiel Janšák"
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiImDzgsnO-boorvNA1aC1EZwrAH6ZDNUUaqL0VJbDhzmWPu3OWzlhxaED4SyCf53qT9dkxfNbVqXBkizfBt-fd9J06q4XBZFSJUbvnytD0bDQMOJvbf82sPOliE5tl_0C5ecKOHRIuoC8/s0/sichman+c%CC%8Crep.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiImDzgsnO-boorvNA1aC1EZwrAH6ZDNUUaqL0VJbDhzmWPu3OWzlhxaED4SyCf53qT9dkxfNbVqXBkizfBt-fd9J06q4XBZFSJUbvnytD0bDQMOJvbf82sPOliE5tl_0C5ecKOHRIuoC8/s1600/sichman+c%CC%8Crep.jpg",
+    "filename": "sichman+črep.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiImDzgsnO-boorvNA1aC1EZwrAH6ZDNUUaqL0VJbDhzmWPu3OWzlhxaED4SyCf53qT9dkxfNbVqXBkizfBt-fd9J06q4XBZFSJUbvnytD0bDQMOJvbf82sPOliE5tl_0C5ecKOHRIuoC8/s1600/sichman+c%CC%8Crep.jpg",
+     "displayedWidth": 320,
+     "displayedHeight": 280,
+     "originalWidth": null,
+     "originalHeight": null
+    },
+    "caption": "Slovanský črep (Šichman)"
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYovBb01CW6-H5Or4VQ_QEPNM7hENJNdvxnOAdAthWvYTnGnK5eGQdBU9lnIZNXMqGfuiGifoFVbKhsq_Reu5ounH3ypyWtunRKhqC1Mp_-cR46ihCySQRvGKQa_2stpiiI0QedQYeEw/s0/c%CC%8Crep+SA+1961.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYovBb01CW6-H5Or4VQ_QEPNM7hENJNdvxnOAdAthWvYTnGnK5eGQdBU9lnIZNXMqGfuiGifoFVbKhsq_Reu5ounH3ypyWtunRKhqC1Mp_-cR46ihCySQRvGKQa_2stpiiI0QedQYeEw/s1600/c%CC%8Crep+SA+1961.jpg",
+    "filename": "črep+SA+1961.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUYovBb01CW6-H5Or4VQ_QEPNM7hENJNdvxnOAdAthWvYTnGnK5eGQdBU9lnIZNXMqGfuiGifoFVbKhsq_Reu5ounH3ypyWtunRKhqC1Mp_-cR46ihCySQRvGKQa_2stpiiI0QedQYeEw/s1600/c%CC%8Crep+SA+1961.jpg",
+     "displayedWidth": 291,
+     "displayedHeight": 320,
+     "originalWidth": null,
+     "originalHeight": null
+    },
+    "caption": "Nálezy zo sídliska pod hradiskom (1961)"
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTOiz77pyPCc5w9SD5UL4KYDxZOA6xek2eo9wpjh7graXL5Ob1_995Csr1FwosnBYmeYGJ1L8_S_aZkr8JrXfaybqUvGyqtO-pyUL77gBxf9gWQCy_LR8gte06rjiiNq7HoNxnI1Quflc/s0/Na%CC%81lezy+1961-2.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTOiz77pyPCc5w9SD5UL4KYDxZOA6xek2eo9wpjh7graXL5Ob1_995Csr1FwosnBYmeYGJ1L8_S_aZkr8JrXfaybqUvGyqtO-pyUL77gBxf9gWQCy_LR8gte06rjiiNq7HoNxnI1Quflc/s1600/Na%CC%81lezy+1961-2.jpg",
+    "filename": "Nálezy+1961-2.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTOiz77pyPCc5w9SD5UL4KYDxZOA6xek2eo9wpjh7graXL5Ob1_995Csr1FwosnBYmeYGJ1L8_S_aZkr8JrXfaybqUvGyqtO-pyUL77gBxf9gWQCy_LR8gte06rjiiNq7HoNxnI1Quflc/s1600/Na%CC%81lezy+1961-2.jpg",
+     "displayedWidth": 253,
+     "displayedHeight": 320,
+     "originalWidth": null,
+     "originalHeight": null
+    },
+    "caption": null
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7fn4PmnEa5HjFaW-yisi3FEdpBnSetP-ZKJsw9Qq3b4IigoN-Tw36zzbRcd0Cu0ovW4MbdBWSHVtwdCOB1jy500yOGI-OeKhcMUAcQZTmdKDs9txe4ocIwHqvgosJIkZeF-zEi3XYMoQY/s0/67244973_10214278623110416_4221741951893897216_n.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7fn4PmnEa5HjFaW-yisi3FEdpBnSetP-ZKJsw9Qq3b4IigoN-Tw36zzbRcd0Cu0ovW4MbdBWSHVtwdCOB1jy500yOGI-OeKhcMUAcQZTmdKDs9txe4ocIwHqvgosJIkZeF-zEi3XYMoQY/s1600/67244973_10214278623110416_4221741951893897216_n.jpg",
+    "filename": "67244973_10214278623110416_4221741951893897216_n.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7fn4PmnEa5HjFaW-yisi3FEdpBnSetP-ZKJsw9Qq3b4IigoN-Tw36zzbRcd0Cu0ovW4MbdBWSHVtwdCOB1jy500yOGI-OeKhcMUAcQZTmdKDs9txe4ocIwHqvgosJIkZeF-zEi3XYMoQY/s1600/67244973_10214278623110416_4221741951893897216_n.jpg",
+     "displayedWidth": 240,
+     "displayedHeight": 320,
+     "originalWidth": 720,
+     "originalHeight": 960
+    },
+    "caption": null
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPIZcoFnnzqT07TVldT3aJuyWB4CDkyNdIxbKSfaSb1zuxW_Pykw6opTbZG2pfn_EFjtTzO5M7VIrWakk38yB_0XOqnQlVhjUXiOXnBXFvC7O9IzaiyE_HbrLkAOFtXBTeNRrHVziitr2G/s0/67349335_10214278488987063_6279246700762628096_n.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPIZcoFnnzqT07TVldT3aJuyWB4CDkyNdIxbKSfaSb1zuxW_Pykw6opTbZG2pfn_EFjtTzO5M7VIrWakk38yB_0XOqnQlVhjUXiOXnBXFvC7O9IzaiyE_HbrLkAOFtXBTeNRrHVziitr2G/s1600/67349335_10214278488987063_6279246700762628096_n.jpg",
+    "filename": "67349335_10214278488987063_6279246700762628096_n.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPIZcoFnnzqT07TVldT3aJuyWB4CDkyNdIxbKSfaSb1zuxW_Pykw6opTbZG2pfn_EFjtTzO5M7VIrWakk38yB_0XOqnQlVhjUXiOXnBXFvC7O9IzaiyE_HbrLkAOFtXBTeNRrHVziitr2G/s1600/67349335_10214278488987063_6279246700762628096_n.jpg",
+     "displayedWidth": 240,
+     "displayedHeight": 320,
+     "originalWidth": 720,
+     "originalHeight": 960
+    },
+    "caption": "Na hradiski je takáto vyvýšenina"
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj2dhWw85cq4FwQNBIXODG1sy9_2rg0wx-U0cEo9OC2AEWQRbdKoHq-ZLHVuXwHkeGOguwBL0R5PzVeA82cRL5COInwvWiYtmwkMdvQZZRGMLe_x0Xa_l6kjJ4_7QB33lDctfxBpxTvc2M/s0/67377704_10214278480386848_6092082673226874880_o.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj2dhWw85cq4FwQNBIXODG1sy9_2rg0wx-U0cEo9OC2AEWQRbdKoHq-ZLHVuXwHkeGOguwBL0R5PzVeA82cRL5COInwvWiYtmwkMdvQZZRGMLe_x0Xa_l6kjJ4_7QB33lDctfxBpxTvc2M/s1600/67377704_10214278480386848_6092082673226874880_o.jpg",
+    "filename": "67377704_10214278480386848_6092082673226874880_o.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj2dhWw85cq4FwQNBIXODG1sy9_2rg0wx-U0cEo9OC2AEWQRbdKoHq-ZLHVuXwHkeGOguwBL0R5PzVeA82cRL5COInwvWiYtmwkMdvQZZRGMLe_x0Xa_l6kjJ4_7QB33lDctfxBpxTvc2M/s1600/67377704_10214278480386848_6092082673226874880_o.jpg",
+     "displayedWidth": 320,
+     "displayedHeight": 240,
+     "originalWidth": 1600,
+     "originalHeight": 1200
+    },
+    "caption": "Val"
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXuQY9b3jo5Rb2nCMl9gPGyK1QItg0Xl1rRZtu4rbl3SeRjovmGqn2HrJ_XhvM6WQ4atbtl-kPpd33xNteCDcKJ4m6Wm0qeXJUWKgbs2q5Fx-dFtOFPw3ObYqViaIu6W9PjzHX96xHHc9y/s0/67715134_10214278477066765_2227962861156564992_n.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXuQY9b3jo5Rb2nCMl9gPGyK1QItg0Xl1rRZtu4rbl3SeRjovmGqn2HrJ_XhvM6WQ4atbtl-kPpd33xNteCDcKJ4m6Wm0qeXJUWKgbs2q5Fx-dFtOFPw3ObYqViaIu6W9PjzHX96xHHc9y/s1600/67715134_10214278477066765_2227962861156564992_n.jpg",
+    "filename": "67715134_10214278477066765_2227962861156564992_n.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXuQY9b3jo5Rb2nCMl9gPGyK1QItg0Xl1rRZtu4rbl3SeRjovmGqn2HrJ_XhvM6WQ4atbtl-kPpd33xNteCDcKJ4m6Wm0qeXJUWKgbs2q5Fx-dFtOFPw3ObYqViaIu6W9PjzHX96xHHc9y/s1600/67715134_10214278477066765_2227962861156564992_n.jpg",
+     "displayedWidth": 240,
+     "displayedHeight": 320,
+     "originalWidth": 720,
+     "originalHeight": 960
+    },
+    "caption": null
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1zrmn-c_kk0LDLEPUz8xX0mlI4V-0pkpKQY30BOa1ZE84k_SpxW6srcyrRjN-fCKxark1KOs7yaGiPtaeTiadbrT-CoffXSivsy8YfT59Fxacuv_s7xj4xH3p0Eh5GNopH5ctsMO5-j6m/s0/Na+plo%25C5%25A1ine+je+tak%25C3%25A1to+vyv%25C3%25BD%25C5%25A1enina.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1zrmn-c_kk0LDLEPUz8xX0mlI4V-0pkpKQY30BOa1ZE84k_SpxW6srcyrRjN-fCKxark1KOs7yaGiPtaeTiadbrT-CoffXSivsy8YfT59Fxacuv_s7xj4xH3p0Eh5GNopH5ctsMO5-j6m/s1600/Na+plo%25C5%25A1ine+je+tak%25C3%25A1to+vyv%25C3%25BD%25C5%25A1enina.jpg",
+    "filename": "Na+plo%C5%A1ine+je+tak%C3%A1to+vyv%C3%BD%C5%A1enina.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1zrmn-c_kk0LDLEPUz8xX0mlI4V-0pkpKQY30BOa1ZE84k_SpxW6srcyrRjN-fCKxark1KOs7yaGiPtaeTiadbrT-CoffXSivsy8YfT59Fxacuv_s7xj4xH3p0Eh5GNopH5ctsMO5-j6m/s1600/Na+plo%25C5%25A1ine+je+tak%25C3%25A1to+vyv%25C3%25BD%25C5%25A1enina.jpg",
+     "displayedWidth": 240,
+     "displayedHeight": 320,
+     "originalWidth": 720,
+     "originalHeight": 960
+    },
+    "caption": null
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04TUrRO_spFWJYMFA19vwK7V1DRqRdK4c-VjO4y53e_8KJeHAOZsc4-UpmN6dTjtDjO4F8Tnfo5riLQdGdqYhfPkqfxQjIszNnQdNfZnchkisAf1b-CL6fEDQk5nRGvVBsYpZjAMqvgJS/s0/Plo%25C5%25A1ina+hradiska%252C+na+ktorej+pravdepodobne+st%25C3%25A1li+obydlia.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04TUrRO_spFWJYMFA19vwK7V1DRqRdK4c-VjO4y53e_8KJeHAOZsc4-UpmN6dTjtDjO4F8Tnfo5riLQdGdqYhfPkqfxQjIszNnQdNfZnchkisAf1b-CL6fEDQk5nRGvVBsYpZjAMqvgJS/s1600/Plo%25C5%25A1ina+hradiska%252C+na+ktorej+pravdepodobne+st%25C3%25A1li+obydlia.jpg",
+    "filename": "Plo%C5%A1ina+hradiska%2C+na+ktorej+pravdepodobne+st%C3%A1li+obydlia.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi04TUrRO_spFWJYMFA19vwK7V1DRqRdK4c-VjO4y53e_8KJeHAOZsc4-UpmN6dTjtDjO4F8Tnfo5riLQdGdqYhfPkqfxQjIszNnQdNfZnchkisAf1b-CL6fEDQk5nRGvVBsYpZjAMqvgJS/s1600/Plo%25C5%25A1ina+hradiska%252C+na+ktorej+pravdepodobne+st%25C3%25A1li+obydlia.jpg",
+     "displayedWidth": 320,
+     "displayedHeight": 240,
+     "originalWidth": 1600,
+     "originalHeight": 1200
+    },
+    "caption": "Vnútorná plocha hradiska"
+   },
+   {
+    "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB5Jy-8afnmOkBHe4bxqM-aF0UUcUUNr96bCCKvGneb1-fhDj0ybghEX7zqq-Iz4ICqgVJPBn7XjjmIVgKlUyVCurfxIuSOO9ccI_dtEKgM8aPIAQ4Whyphenhyphen2XgJbCaONVg1wVYijFe0PdLA/s0/Hlavi%25C4%258Dka+web-str%25C3%25A1nky_2.jpg",
+    "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB5Jy-8afnmOkBHe4bxqM-aF0UUcUUNr96bCCKvGneb1-fhDj0ybghEX7zqq-Iz4ICqgVJPBn7XjjmIVgKlUyVCurfxIuSOO9ccI_dtEKgM8aPIAQ4Whyphenhyphen2XgJbCaONVg1wVYijFe0PdLA/s1600/Hlavi%25C4%258Dka+web-str%25C3%25A1nky_2.jpg",
+    "filename": "Hlavi%C4%8Dka+web-str%C3%A1nky_2.jpg",
+    "blogger": {
+     "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB5Jy-8afnmOkBHe4bxqM-aF0UUcUUNr96bCCKvGneb1-fhDj0ybghEX7zqq-Iz4ICqgVJPBn7XjjmIVgKlUyVCurfxIuSOO9ccI_dtEKgM8aPIAQ4Whyphenhyphen2XgJbCaONVg1wVYijFe0PdLA/s1600/Hlavi%25C4%258Dka+web-str%25C3%25A1nky_2.jpg",
+     "displayedWidth": 320,
+     "displayedHeight": 95,
+     "originalWidth": null,
+     "originalHeight": null
+    },
+    "caption": null
+   }
+  ],
+  "tags": [
+   "Sučany - Skala"
+  ],
+  "category": null,
+  "location": {
+   "name": "Skvelá",
+   "latitude": 49.090752,
+   "longitude": 19.000382,
+   "region": null,
+   "country": null
+  },
+  "keyFacts": [
+   {
+    "label": "Poloha",
+    "value": "Hradisko Skala sa nachádza v obci Sučany na 40 m vysokom skalnom útese, ktorý je posledným výbežkom hrebeňa Bukoviny (kóta 538) v pohorí Fatra.",
+    "icon": "map"
+   },
+   {
+    "label": "Prirodzená obrana",
+    "value": "Skala bola od hrebeňa oddelená 8 m vysokým prirodzeným stupňom; na juhu a západe ju ohraničujú temer kolmé, previsnuté skalné steny, na severe svah so sklonom 45 stupňov.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Tri valy hradiska",
+    "value": "Hradisko chránili tri valy: obvodový val k – b – z – i – l dlhý 94 m, val m – o – c – s – n dlhý 88 m a vonkajší, temer polkruhový val o – p – d – r – s dlhý 108 m.",
+    "icon": "shield"
+   },
+   {
+    "label": "Výška valov",
+    "value": "Val m – o – c – s – n dosahuje výšku 8 m smerom k hradisku a 4 m smerom opačným; najvyšší bod valu o – p – d – r – s sa vznáša 6 m nad dnom priľahlej priekopy.",
+    "icon": "mountain"
+   },
+   {
+    "label": "Plocha hradiska",
+    "value": "Obývaná plošina hradiska mala rozlohu 4 350 m² a tvar podkovy.",
+    "icon": "map"
+   },
+   {
+    "label": "Archeologické nálezy",
+    "value": "Na hradisku sa našli slovanské črepy s vlnovkou, púchovské črepy točené na kruhu, mazanica, hlinená korálka, dve bronzové spony z I. storočia n. l. a pozostatky polozemníc s kolovou konštrukciou.",
+    "icon": "star"
+   },
+   {
+    "label": "Mince a razba",
+    "value": "Medzi nálezmi sú dve falošné mince zo 14. storočia, medený štítok pripravený azda na peňazokazeckú razbu, kotínska minca a niekoľko rímskych mincí.",
+    "icon": "custom"
+   },
+   {
+    "label": "Výskumníci",
+    "value": "Hradisko skúmali Štefan Janšák (1930), Igor Hrubec (výskum v 50. – 60. rokoch, publikácia SA 1961) a Petrovský-Šichman (VZP 1964).",
+    "icon": "book"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "I. storočie n. l.",
+    "title": "Osídlenie v dobe rímskej",
+    "description": "Na hradisku sa našli dve bronzové spony datované do I. storočia n. l., čo dokladá osídlenie plošiny aj v tomto období.",
+    "type": "era"
+   },
+   {
+    "year": "obdobie púchovskej kultúry",
+    "title": "Osídlenie počas púchovskej kultúry",
+    "description": "Pozostatky polozemníc s kolovou konštrukciou a množstvo črepov púchovskej kultúry dokladajú osídlenie hradiska v tomto období.",
+    "type": "era"
+   },
+   {
+    "year": "14. storočie",
+    "title": "Falošné mince a razba",
+    "description": "Na hradisku sa našli dve mince zo 14. storočia, ktoré Janšák označil za falzifikáty, a tiež kruhový medený štítok pripravený azda na peňazokazeckú razbu.",
+    "type": "event"
+   },
+   {
+    "year": "1930",
+    "title": "Prvý výskum a opis hradiska (Janšák)",
+    "description": "Hradisko ako prvý preskúmal a zverejnil Štefan Janšák, ktorý uviedol, že nemohlo byť dokonalejšieho prirodzeného hradu, než je práve Skala.",
+    "type": "discovery"
+   },
+   {
+    "year": "50. – 60. roky 20. storočia",
+    "title": "Archeologický výskum Igora Hrubca",
+    "description": "Igor Hrubec vykonal v Sučanoch archeologický výskum, pri ktorom zistil, že osídlenie hradiska súviselo vždy s osadou nachádzajúcou sa severne od neho, smerom k Váhu.",
+    "type": "discovery"
+   },
+   {
+    "year": "1961",
+    "title": "Publikácia výskumu v Slovenskej archeológii",
+    "description": "Igor Hrubec publikoval výsledky výskumu hradiska v časopise Slovenská archeológia (zväzok 9, s. 209 – 215).",
+    "type": "discovery"
+   },
+   {
+    "year": "1964",
+    "title": "Nález a publikácia Petrovského-Šichmana",
+    "description": "Petrovskému-Šichmanovi sa podarilo zachytiť a zverejniť niekoľko slovanských črepov s vlnovkou z hradiska (VZP 1964).",
+    "type": "discovery"
+   }
+  ],
+  "quotes": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "V obci Sučany sa dvíha 40 m vysoký skalný útes zvaný Skala, ktorý je zaujímavý tak zo stránky zemepisnej a geologickej, ako historickej. Je to posledný výbežok mnohonásobne a pestro rozčleneného horstva Fatry, vlastne jeho nízkeho hrebeňa Bukoviny (kóta 538), ktorý sa ťahá smerom od Sučian a potoka Štiavničky k Martinu."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„Skala\" tvorí ideálny terén pre založenie hradiska na horskom ostrohu. Prirodzená poloha poskytuje také výhody, že prvý obyvateľ nepotreboval nijakého umelého opevnenia, pretože Skala bola od hrebeňa oddelená 8 m vysokým prirodzeným stupňom. Na juhu a západe je plošina ohraničená temer kolmými, ba až previsnutými skalnými stenami, na severe svahom so sklonom 45 stupňov. Janšák, ktorý hradisko ako prvý skúmal a zverejnil v roku 1930, uvádza, že nemohlo byť dokonalejšieho prirodzeného hradu, než je práve Skala. Prístup do neho bol vo všeobecnosti po hrebeni. Styk s najbližšie tečúcou vodou, zároveň zostup do roviny, od ktorej záviselo hradisko hospodársky, obstarávala cesta, ktorá bola ešte v 30. rokoch zachovaná. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "imageRef": {
+     "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fop-1vkgtVsSD_yJN8jjcBo5c1eHo1WMstixCdyoKQk_oiT7nNoCltBy45NI8j1ieZnzv5Dj2I3K0pzckB9wN9WK_zL2uTWz6l9YfpiaHmn9YYR7NMAvq4EiYHIGmFrFZkLa3jn5vvU/s0/pla%CC%81nik+Jans%CC%8Ca%CC%81k.jpg",
+     "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fop-1vkgtVsSD_yJN8jjcBo5c1eHo1WMstixCdyoKQk_oiT7nNoCltBy45NI8j1ieZnzv5Dj2I3K0pzckB9wN9WK_zL2uTWz6l9YfpiaHmn9YYR7NMAvq4EiYHIGmFrFZkLa3jn5vvU/s1600/pla%CC%81nik+Jans%CC%8Ca%CC%81k.jpg",
+     "filename": "plánik+Janšák.jpg",
+     "blogger": {
+      "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3fop-1vkgtVsSD_yJN8jjcBo5c1eHo1WMstixCdyoKQk_oiT7nNoCltBy45NI8j1ieZnzv5Dj2I3K0pzckB9wN9WK_zL2uTWz6l9YfpiaHmn9YYR7NMAvq4EiYHIGmFrFZkLa3jn5vvU/s1600/pla%CC%81nik+Jans%CC%8Ca%CC%81k.jpg",
+      "displayedWidth": 320,
+      "displayedHeight": 207,
+      "originalWidth": null,
+      "originalHeight": null
+     }
+    },
+    "alt": "Plán hradiska (Š. Janšák)",
+    "caption": "Plán hradiska (Š. Janšák)",
+    "position": "right",
+    "showCaption": true,
+    "width": "50",
+    "aspectRatio": "auto",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Umelé opevnenia, ktoré zvyšujú účelným vybudovaním a usporiadaním prirodzenú bezpečnosť, robia toto hradisko v dobách, keď obliehacia technika bola veľmi nedokonalá, temer nedobytným. Obvodový val k b z i l sa ťahá oblúkom v dĺžke 94 m po okraji plošiny tam, kde niet skaly. Dnes už je značne sploštený, sotva 0,30 – 0,40 m vysoký; v partii e j sa úplne rozpadol a po svahu zviezol dolu. Omnoho výraznejší a zachovalejší je druhý val m o c s n, ktorý sa v bode m na kóte 423 pripojuje ku skale a odtiaľ stúpa oblúkom až na výšku 432 a smerom severozápadným klesá opäť až na kótu 422 v bode n, v celkovej dĺžke 88 m. Nakoniec je vonkajší, temer polkruhový val o p d r s, začínajúci sa na kóte 428 v bode o, stúpajúci na výšku 434 a klesajúci späť, až na vrstevnicu 424, do bodu s. Jeho dĺžka dosahuje 108 m. Výška valu m o c s n dosahuje smerom k hradisku 8 m (medzi bodom y a kótou 432), smerom opačným 4 m. Najvyšší bod valu o p d r s, totiž kóta 434, sa vznáša nad dnom priľahlej priekopy 6 m. Materiál, z ktorého sú valy zhotovené, bol získaný na mieste samom, a to vykopaním hlbokých priekop. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "imageRef": {
+     "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Z3vN6n-7m77nMr6ofC0fWkH9pAUnGupsrKEGnSowZNMfxY5xihWneaI6VyDLaM2FFkkEoWU8jXbD6I20bmP9L56tqRYNiRgxPAuXsXifYJEFSlqHrjmcNU5BQg6HCdSpDCE4XzzKZ14/s0/kresba+Jans%25CC%258Ca%25CC%2581k.jpg",
+     "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Z3vN6n-7m77nMr6ofC0fWkH9pAUnGupsrKEGnSowZNMfxY5xihWneaI6VyDLaM2FFkkEoWU8jXbD6I20bmP9L56tqRYNiRgxPAuXsXifYJEFSlqHrjmcNU5BQg6HCdSpDCE4XzzKZ14/s1600/kresba+Jans%25CC%258Ca%25CC%2581k.jpg",
+     "filename": "kresba+Jans%CC%8Ca%CC%81k.jpg",
+     "blogger": {
+      "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Z3vN6n-7m77nMr6ofC0fWkH9pAUnGupsrKEGnSowZNMfxY5xihWneaI6VyDLaM2FFkkEoWU8jXbD6I20bmP9L56tqRYNiRgxPAuXsXifYJEFSlqHrjmcNU5BQg6HCdSpDCE4XzzKZ14/s1600/kresba+Jans%25CC%258Ca%25CC%2581k.jpg",
+      "displayedWidth": 320,
+      "displayedHeight": 194,
+      "originalWidth": null,
+      "originalHeight": null
+     }
+    },
+    "alt": "Takto hradisko vyzeralo v roku 1930, keď ho nakreslil Janšák",
+    "caption": "Takto hradisko vyzeralo v roku 1930, keď ho nakreslil Janšák",
+    "position": "right",
+    "showCaption": true,
+    "width": "60",
+    "aspectRatio": "auto",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Kedysi obývaná plošina hradiska v rozlohe 4 350 m² má tvar podkovy a je zároveň jediným jeho nádvorím. Priestory medzi valmi m c h, o d s a skalným masívom pre svoju nepatrnú rozlohu a príliš značné výškové rozdiely jednotlivých častí nie sú na obývanie vhodné. Zato vrcholová plošina na skale nahradila svojou kvalitou prípadné nedostatky v rozlohe. Je to šikmá, pravidelne od východu na západ sa skláňajúca rovinka s malým kužeľovitým výstupkom na juhovýchodnej strane. Janšák uvádza, že tento výstupok mohol slúžiť ako pohanské obetisko. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Janšák na hradisku našiel viaceré slovanské črepy s vlnovkou, púchovské črepy točené na kruhu, mazanicu a tiež hlinenú korálku červenej farby. Zaujímavým nálezom boli 2 mince zo 14. storočia, ktoré Janšák označil za falzifikáty a tiež kruhový štítok z medi pripravený na (azda peňazokazeckú) razbu. Igor Hrubec, ktorý v 50. – 60. rokoch vykonával v Sučanoch archeologický výskum (SA 1961), uvádza, že osídlenie hradiska súviselo vždy s osadou, ktorá sa nachádzala severne od neho smerom k Váhu. Okrem mnohých črepov púchovskej kultúry našiel aj slovanské črepy. Podobne niekoľko slovanských črepov s vlnovkou sa podarilo zachytiť a zverejniť aj Petrovskému-Šichmanovi (VZP 1964). Hrubec tiež spomína nálezy kotínskej mince a viacerých rímskych mincí z lokality. Našiel tiež 2 bronzové spony, datované do I. storočia n. l. a pozostatky polozemníc s kolovou konštrukciou, datované tiež do obdobia púchovskej kultúry."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "imageRef": {
+     "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdPRM8laOFG6oJ7AXJuwMR-YbtTvkuP-Jim3jgghMQ071UNum8L8n96HhhVMu9mfCzLV6oVUqyq1z7tdIA-RkTC4rB-pYrXqTe3OMJoOaUfirBnUBadDQUiNsgribe8r5S_AwqwQtSxSw/s0/30fc2a5f-ea93-4e27-b0fd-eef4e743fd4a.jpg",
+     "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdPRM8laOFG6oJ7AXJuwMR-YbtTvkuP-Jim3jgghMQ071UNum8L8n96HhhVMu9mfCzLV6oVUqyq1z7tdIA-RkTC4rB-pYrXqTe3OMJoOaUfirBnUBadDQUiNsgribe8r5S_AwqwQtSxSw/s1600/30fc2a5f-ea93-4e27-b0fd-eef4e743fd4a.jpg",
+     "filename": "30fc2a5f-ea93-4e27-b0fd-eef4e743fd4a.jpg",
+     "blogger": {
+      "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdPRM8laOFG6oJ7AXJuwMR-YbtTvkuP-Jim3jgghMQ071UNum8L8n96HhhVMu9mfCzLV6oVUqyq1z7tdIA-RkTC4rB-pYrXqTe3OMJoOaUfirBnUBadDQUiNsgribe8r5S_AwqwQtSxSw/s1600/30fc2a5f-ea93-4e27-b0fd-eef4e743fd4a.jpg",
+      "displayedWidth": 320,
+      "displayedHeight": 174,
+      "originalWidth": null,
+      "originalHeight": null
+     }
+    },
+    "alt": "... a takto vyzerá dnes",
+    "caption": "... a takto vyzerá dnes",
+    "position": "left",
+    "showCaption": true,
+    "width": "60",
+    "aspectRatio": "auto",
+    "rounded": true,
+    "shadow": true
+   },
+   {
+    "__component": "content.sources",
+    "title": "Zdroje a literatúra",
+    "intro": null,
+    "items": [
+     {
+      "text": "JANŠÁK, Š.: Staré osídlenie Slovenska. Sborník Muzeálnej slovenskej spoločnosti, zošit 1 – 2, roč. XXIV, 1930.",
+      "url": ""
+     },
+     {
+      "text": "HRUBEC, I.: Výskum včasnodejinného sídliska v Sučanoch. Slovenská archeológia 9 (1961), s. 209 – 215.",
+      "url": ""
+     },
+     {
+      "text": "http://www.geocaching.sk/geocache-detail.php?id=633210",
+      "url": "http://www.geocaching.sk/geocache-detail.php?id=633210"
+     },
+     {
+      "text": "http://www.panoramio.com/photo_explorer#view=photo&position=2&with_photo_id=36992027&order=date_desc&user=4630288",
+      "url": "http://www.panoramio.com/photo_explorer#view=photo&position=2&with_photo_id=36992027&order=date_desc&user=4630288"
+     }
+    ]
+   }
+  ],
+  "citations": [
+   {
+    "type": "external-url",
+    "url": "http://www.geocaching.sk/geocache-detail.php?id=633210",
+    "title": "http://www.geocaching.sk/geocache-detail.php?id=633210"
+   },
+   {
+    "type": "external-url",
+    "url": "http://www.panoramio.com/photo_explorer#view=photo&position=2&with_photo_id=36992027&order=date_desc&user=4630288",
+    "title": "http://www.panoramio.com/photo_explorer#view=photo&position=2&with_photo_id=36992027&order=date_desc&user=4630288"
+   }
+  ]
+ }
+}

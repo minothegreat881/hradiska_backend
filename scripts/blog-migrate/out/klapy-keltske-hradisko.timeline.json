@@ -1,0 +1,56 @@
+{
+  "timeline": [
+    {
+      "year": "halštatská kultúra",
+      "title": "Prvé osídlenie temena",
+      "description": "Klapy boli na temene osídlené už v období halštatskej kultúry; Dr. Karol Pieta ich označuje ako staré halštatské hradisko.",
+      "type": "founding"
+    },
+    {
+      "year": "obdobie Keltov",
+      "title": "Osídlenie ľudom púchovskej kultúry",
+      "description": "Hradisko bolo neskôr využívané ľudom púchovskej kultúry za čias Keltov.",
+      "type": "era"
+    },
+    {
+      "year": "doba rímska",
+      "title": "Osídlenie terás",
+      "description": "Na severnom svahu Klapov bolo upravených množstvo úzkych terás, obývaných v dobe rímskej.",
+      "type": "era"
+    },
+    {
+      "year": "5. storočie",
+      "title": "Stopy z čias sťahovania národov",
+      "description": "Na terasách sa našli črepy z čias sťahovania národov, ba i črepy z včasného stredoveku.",
+      "type": "discovery"
+    },
+    {
+      "year": "2000",
+      "title": "Nález pokladu keltských mincí",
+      "description": "V roku 2000 sa našiel poklad mincí obsahujúci 57 strieborných mincí s abstraktnými symbolmi, 6 zlatých statérov a strieborné tetradrachmy.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "medzi obcami Udiča, Uhry a Šebešťanová, nad vodnou nádržou Nosice",
+      "icon": "map"
+    },
+    {
+      "label": "Významné nálezy",
+      "value": "bronzová figúrka býčka, bronzová spona v tvare koníka, bronzové náramky s vývalkami",
+      "icon": "star"
+    },
+    {
+      "label": "Susedné hradiská s vizuálnym kontaktom",
+      "value": "Malý Manín, Jasenica – Predná hôrka, Hradište",
+      "icon": "flag"
+    },
+    {
+      "label": "Pôvod názvu",
+      "value": "sporný — germánske \"klippen\" (skala) alebo keltský pôvod (podľa Meliša)",
+      "icon": "scroll"
+    }
+  ]
+}

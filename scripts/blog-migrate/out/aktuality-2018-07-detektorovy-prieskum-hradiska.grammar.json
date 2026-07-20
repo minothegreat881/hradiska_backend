@@ -1,0 +1,29 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Detektorový prieskum hradiska' (2018-07).",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "a z toho vidí že sa koncentrovali",
+      "after": "a z toho vidí, že sa koncentrovali",
+      "reason": "čiarka pred že (A1)"
+    },
+    {
+      "hint": 0,
+      "before": "sa dá predpokladať odkiaľ a útočníci strieľali",
+      "after": "sa dá predpokladať, odkiaľ útočníci strieľali",
+      "reason": "čiarka pred odkiaľ (A1) + nadbytočné 'a'"
+    },
+    {
+      "hint": 0,
+      "before": "Prispeli sme tak svojim dielom",
+      "after": "Prispeli sme tak svojím dielom",
+      "reason": "inštrumentál svojím (A8)"
+    },
+    {
+      "hint": 0,
+      "before": "popredajú po 10 Eur/kus",
+      "after": "popredajú po 10 eur/kus",
+      "reason": "mena malým písmenom (A9)"
+    }
+  ]
+}

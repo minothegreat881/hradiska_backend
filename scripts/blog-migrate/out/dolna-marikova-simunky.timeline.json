@@ -1,0 +1,107 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "30. roky 19. storočia",
+      "title": "Prvá písomná zmienka o názve Dedkovec",
+      "description": "II. vojenské mapovanie Uhorska ako prvé zaznamenalo názov Dedkovec vo forme Djetkowetz.",
+      "type": "event"
+    },
+    {
+      "year": "1941",
+      "title": "Najstaršia zmienka o osídlení v obecnej kronike",
+      "description": "Obecná kronika Marikovej zaznamenala najstaršiu známu písomnú zmienku o polohe Šimunky/Dedkov v súvislosti s jej pradávnym osídlením.",
+      "type": "event"
+    },
+    {
+      "year": "2. polovica 9. – začiatok 10. storočia",
+      "title": "Obdobie Veľkej Moravy na hradisku",
+      "description": "Na hradisku sa nachádzalo väčšie množstvo bojovníkov s koňmi aj civilné obyvateľstvo; z tohto obdobia pochádza najviac nálezov vrátane ostrôh, hrivien, poľnohospodárskeho náradia a stôp po kováčskej dielni.",
+      "type": "era"
+    },
+    {
+      "year": "začiatok 10. storočia",
+      "title": "Zánik hradiska pri útoku Starých Maďarov",
+      "description": "Kmene Starých Maďarov podnikli veľmi intenzívny útok na hradisko; obrancovia sa nepodriadili a bojovali až do konca, hradisko bolo násilne zničené. Ide zrejme o najsevernejšie hradisko na Slovensku, ktoré zničili Starí Maďari.",
+      "type": "destruction"
+    },
+    {
+      "year": "70. roky 20. storočia",
+      "title": "Prvé archeologické nálezy",
+      "description": "Štefan Meliš na severnom úpätí skalných brál našiel niekoľko črepov púchovskej kultúry.",
+      "type": "discovery"
+    },
+    {
+      "year": "90. roky 20. storočia",
+      "title": "Náhodný nález železných hrivien",
+      "description": "Gašpar Zemančík, člen archeologického krúžku v Považskej Bystrici, náhodne na brale Široká objavil niekoľko železných hrivien trčiacich zo zeme.",
+      "type": "discovery"
+    },
+    {
+      "year": "1997 – 2000",
+      "title": "Výskumy archeologického krúžku",
+      "description": "Pod vedením archeológa Jozefa Moravčíka sa uskutočnilo niekoľko výskumov, počas ktorých sa z lokality získalo pozoruhodne veľké množstvo prevažne železných predmetov z obdobia Veľkej Moravy.",
+      "type": "discovery"
+    },
+    {
+      "year": "2008",
+      "title": "Vydanie knihy Po stopách predkov",
+      "description": "Olšovský, Meliš a Moravčík zverejnili správu z výskumu aj všetky nálezy v knihe Po stopách predkov.",
+      "type": "event"
+    },
+    {
+      "year": "po roku 2008",
+      "title": "Vykrádanie lokality detektoristami",
+      "description": "V okolí hradiska sa objavili stopy po nelegálnom vykrádaní lokality detektoristami; pre Trenčianske múzeum sa napriek tomu podarilo získať zaujímavý súbor detektorových nálezov.",
+      "type": "event"
+    },
+    {
+      "year": "2016",
+      "title": "Záchranný archeologický výskum",
+      "description": "Občianske združenie Hradiská spolu s Trenčianskym múzeom v Trenčíne zorganizovali záchranný archeologický výskum, počas ktorého vyčistili hradisko od náletových drevín a vykopali sondu; našli okrem iného dve motyky a kľúč z obdobia Veľkej Moravy.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "1,5 km severozápadne od Dolnej Marikovej, na brale Široká (12-15 m vysokom), severnom ukončení hrebeňa Michalovej (601 m n.m.)",
+      "icon": "map"
+    },
+    {
+      "label": "Geológia",
+      "value": "Skalné bralá tvoria biele dolomity z obdobia druhohôr (trias a krieda)",
+      "icon": "mountain"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "Zachovaný iba rozpadnutý kamenito-hlinitý val v južnej časti, inde hradisko chránili prirodzené kolmé skalné steny",
+      "icon": "shield"
+    },
+    {
+      "label": "Najluxusnejší nález",
+      "value": "Pozlátený gombíkovitý prívesok s tepanou výzdobou rastlinným ornamentom z obdobia Veľkej Moravy",
+      "icon": "star"
+    },
+    {
+      "label": "Kováčska dielňa",
+      "value": "Nálezy železnej strusky dokladajú spracovanie železa priamo na hradisku",
+      "icon": "building"
+    },
+    {
+      "label": "Prvá písomná zmienka",
+      "value": "Najstaršia známa zmienka o polohe pochádza z obecnej kroniky Marikovej z roku 1941",
+      "icon": "book"
+    },
+    {
+      "label": "Osídlenie v štyroch obdobiach",
+      "value": "Hradisko bolo osídlené v období eneolitu, púchovskej kultúry, Veľkej Moravy (Slovania) aj neskorého stredoveku",
+      "icon": "custom"
+    },
+    {
+      "label": "Zánik hradiska",
+      "value": "Hradisko začiatkom 10. storočia zničili Starí Maďari; ide zrejme o najsevernejšie hradisko na Slovensku, ktoré zničili",
+      "icon": "shield"
+    }
+  ]
+}

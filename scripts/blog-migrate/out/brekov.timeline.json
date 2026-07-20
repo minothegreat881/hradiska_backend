@@ -1,0 +1,39 @@
+{
+  "timeline": [
+    {
+      "year": "8. storočie",
+      "title": "Starší slovanský horizont",
+      "description": "Na sídlisku v Brekove možno vyčleniť starší časový horizont z 8. storočia (ostroha s háčikmi, nôž s volútovým ukončením).",
+      "type": "era"
+    },
+    {
+      "year": "9. – 10. storočie",
+      "title": "Slovanské hradisko na Brekovskom hradnom kopci",
+      "description": "Slovanské hradisko strážiace cestu údolím Laborca malo elipsovitý pôdorys v smere SV – JZ s rozmermi približne 70 × 40 m; keramiku možno datovať rámcovo do konca 9. a začiatku 10. storočia.",
+      "type": "construction"
+    },
+    {
+      "year": "1971",
+      "title": "Záchranný archeologický výskum",
+      "description": "Pri výstavbe vodojemu na južnom svahu hradného kopca boli porušené praveké aj slovanské objekty; Zemplínske múzeum v Michalovciach preskúmalo štyri zahĺbené slovanské objekty.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozmery hradiska",
+      "value": "približne 70 × 40 m, elipsovitý pôdorys v smere SV – JZ",
+      "icon": "map"
+    },
+    {
+      "label": "Nálezy z výskumu 1971",
+      "value": "štyri zahĺbené slovanské objekty, sedem nožíkov, tri železné hroty šípov, dve ostrohy",
+      "icon": "building"
+    },
+    {
+      "label": "Poloha",
+      "value": "7 km juhozápadne od Humenného, na hradnom kopci nad obcou Brekov",
+      "icon": "mountain"
+    }
+  ]
+}

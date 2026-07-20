@@ -1,0 +1,122 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2025-12-hladanie-bez-hranic-cesko-slovensky.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8624034075246386492",
+    "bloggerPostUrl": "http://www.hradiska.sk/2025/12/hladanie-bez-hranic-cesko-slovensky.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/8624034075246386492/comments/default",
+    "extractedAt": "2026-07-18T11:22:00.432Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/G2ywrFLlys8"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristov",
+    "slug": "hladanie-bez-hranic-cesko-slovensky-dialog-archeologov-a-detektoristov",
+    "excerpt": "OZ Hradiská sa spolupodieľali na veľmi zaujímavom projekte s Archeologickým ústavom v Brne, Pamiatkovým úradom SR a Archeo Moravia, ktorého prvým výsledkom je táto zaujímavá diskusia archeologov a laikov na tému vzájomnej spolupráce. Budeme zvedaví…",
+    "authorName": "Orgon",
+    "publishedAt": "2025-12-23T09:49:00.003+01:00",
+    "originalPublishedDate": "2025-12-23T09:49:00.003+01:00",
+    "updatedAt": "2025-12-23T09:55:39.715+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [
+      "Hľadanie bez hraníc? Česko-Slovenský dialóg archeológov a detektoristo"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "OZ Hradiská sa spolupodieľali na veľmi zaujímavom projekte s Archeologickým ústavom v Brne, Pamiatkovým úradom SR a Archeo Moravia, ktorého prvým výsledkom je táto zaujímavá diskusia archeológov a laikov na tému vzájomnej spolupráce. Budeme zvedaví na vaše reakcie. Ďakujeme za super prístup Balážovi Komoroczymu, Petrovi Bistákovi, Jiřímu Ráčilovi a Tomášovi Mertovi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "G2ywrFLlys8",
+        "url": "https://www.youtube.com/embed/G2ywrFLlys8",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Archeologie, detektory kovů a ochrana archeologických nálezů patří k tématům, která vyvolávají silné emoce napříč Evropou. Přístupy k detektorovému hledání se v jednotlivých zemích výrazně liší – stejně jako názory odborné i laické veřejnosti."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Archeologický ústav AV ČR, Brno a Jihomoravský kraj od roku 2018 rozvíjejí program Společnými silami za poznáním společného archeologického dědictví Jihomoravského kraje, který vytváří podmínky pro legální, odborně vedenou a odpovědnou spolupráci s veřejností při hledání kovových předmětů. Jejich významným partnerem je také spolek Archeo Moravia, sdružující dobrovolníky aktivně zapojené do záchrany archeologických nálezů."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Diskusní setkání zástupců odborných institucí a spolupracujících spolků z České republiky a Slovenska nabídlo otevřenou výměnu zkušeností, pojmenování přínosů i limitů různých přístupů a širší pohled na možnosti občanské spolupráce v archeologii. Diskuse se uskutečnila v rámci projektu Integrovaný model občanské vědy v archeologii: odborná spolupráce, aplikace a transfer poznatků v Jihomoravském kraji, podpořeného programem Regionální spolupráce Akademie věd ČR v roce 2025"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

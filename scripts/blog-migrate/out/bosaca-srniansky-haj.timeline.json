@@ -1,0 +1,72 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "neolit",
+      "title": "Nálezy zo štiepaného kameňa",
+      "description": "Na hradisku sa našiel veľký počet nástrojov zo štiepaného kameňa a ich úlomkov i niekoľko jadier, ktoré sa datujú do obdobia neolitu.",
+      "type": "discovery"
+    },
+    {
+      "year": "doba bronzová (lužická kultúra)",
+      "title": "Pôvod hradiska",
+      "description": "Hradisko má svoj výrazný pôvod v období lužickej kultúry v dobe bronzovej.",
+      "type": "founding"
+    },
+    {
+      "year": "1859",
+      "title": "Návšteva Dionýza Štúra",
+      "description": "Dionýz Štúr chodil po Srňanskom Háji a zbieral skameneliny, no na koralový útes pripomínajúci organové píšťaly neprišiel.",
+      "type": "event"
+    },
+    {
+      "year": "1930",
+      "title": "Výskum Štefana Janšáka",
+      "description": "Štefan Janšák skúmal hradisko a našiel hrubozrnný hallštatský črep.",
+      "type": "discovery"
+    },
+    {
+      "year": "1983",
+      "title": "Archeologický prieskum",
+      "description": "Archeológovia našli v sonde atypické črepy a črepy z 9. a 10. storočia.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha hradiska",
+      "value": "asi 1 hektár",
+      "icon": "map"
+    },
+    {
+      "label": "Obvodový val",
+      "value": "dlhý celkom 420 m, miestami dodnes zachovaný do výšky 1 meter",
+      "icon": "shield"
+    },
+    {
+      "label": "Priekopa v sedle",
+      "value": "val f-g dlhý 55 m prehĺbil spojovacie sedlo, čím vznikla priekopa hlboká 3 metre",
+      "icon": "mountain"
+    },
+    {
+      "label": "Konštrukcia valu",
+      "value": "umelá konštrukcia so zuhoľnatenými zvyškami dreva, obklopená hlinito-kamenistým násypom",
+      "icon": "building"
+    },
+    {
+      "label": "Prvý výskum",
+      "value": "hradisko skúmal Ľudovít Holuby, po ňom Štefan Janšák v roku 1930",
+      "icon": "book"
+    },
+    {
+      "label": "Poklad bronzových predmetov",
+      "value": "Bohuslavičania našli hrniec s bronzovými predmetmi; Stefko Svetský ho zachránil a odniesol do martinského múzea",
+      "icon": "star"
+    },
+    {
+      "label": "Skamenelý koralový útes",
+      "value": "na hrebeni Srňanského Hája objavil Holuby útes pripomínajúci organové píšťaly, ktorý pri návšteve v roku 1859 nezaznamenal ani Dionýz Štúr",
+      "icon": "custom"
+    }
+  ]
+}

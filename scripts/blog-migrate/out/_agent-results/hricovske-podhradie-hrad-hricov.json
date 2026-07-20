@@ -1,0 +1,27 @@
+{
+  "timeline": [
+    { "year": "1208", "title": "Hričov majetkom nitrianskeho biskupstva", "description": "Majetok Hričov bol už začiatkom 13. storočia (1208) majetkom nitrianskeho biskupstva.", "type": "event" },
+    { "year": "1254", "title": "Prvá písomná zmienka o hrade Hričov", "description": "Hrad sa prvýkrát spomína v roku 1254, keď ho kráľ Belo IV. daroval Tolušovi, synovi Farkaša.", "type": "founding" },
+    { "year": "1947", "title": "Prvé archeologické nálezy odovzdané Budinskému-Kričkovi", "description": "A. Petrovský-Šichman odovzdal prvé nálezy z hradného kopca prof. V. Budinskému-Kričkovi, ktorý ich zaradil do staršej doby železnej; v tom istom roku objavil na hradnom vrchu aj prvú slovanskú keramiku.", "type": "discovery" },
+    { "year": "1949", "title": "Prvá sonda na Mikovom kopci", "description": "A. Petrovský-Šichman uskutočnil na lokalite Mikov kopec – hradný vrch prvú sondu, v ktorej sa okrem črepov púchovskej kultúry našli aj zlomky slovanskej keramiky a unikátny kamenný praslen; v tomto roku sa tu objavili aj ďalšie pamiatky púchovskej kultúry.", "type": "discovery" },
+    { "year": "1959", "title": "Ďalší nález slovanskej keramiky", "description": "F. Kvasník objavil na hradnom vrchu ďalšiu slovanskú keramiku.", "type": "discovery" },
+    { "year": "1961", "title": "Nález železných klieští v jaskyni", "description": "František Kvasník našiel v jaskyni vedľa hradu železné kliešte a zlomok žarnova; kliešte sa stali prvým nálezom svojho druhu na severnom Slovensku a súčasťou expozície púchovskej kultúry v Púchove.", "type": "discovery" },
+    { "year": "1969", "title": "Nález stredovekej keramiky v jaskyni", "description": "Žiaci učilišťa Pozemných stavieb našli v jaskyni hradného brala keramiku datovanú do 10.-11. a 12.-13. storočia.", "type": "discovery" },
+    { "year": "1993", "title": "Archeologický prieskum jaskyne pod hradom", "description": "Členovia archeologického krúžku z Považskej Bystrice dňa 25. 8. 1993 preskúmali jaskyňu pod hradom, z ktorej pochádzajú železné kliešte.", "type": "discovery" }
+  ],
+  "keyFacts": [
+    { "label": "Jaskyňa pod hradom", "value": "Asi 15 m dlhá, s jamou 6 × 3,5 m hlbokou približne 5 m pred horným otvorom", "icon": "mountain" },
+    { "label": "Prvá písomná zmienka", "value": "Rok 1254 – kráľ Belo IV. daroval hrad Tolušovi, synovi Farkaša", "icon": "book" },
+    { "label": "Najstaršie osídlenie", "value": "Nálezy z lužickej kultúry z mladšej doby bronzovej až staršej doby železnej", "icon": "shield" },
+    { "label": "Púchovská kultúra", "value": "Najviac nálezov na hradnom vrchu patrí púchovskej kultúre z obdobia neskorého laténu až staršej doby rímskej", "icon": "star" },
+    { "label": "Unikátny nález", "value": "Železné kliešte nájdené v roku 1961 – prvý nález tohto druhu na severnom Slovensku, dnes súčasť expozície v Púchove", "icon": "custom" },
+    { "label": "Majetok biskupstva", "value": "Už od roku 1208 patril Hričov nitrianskemu biskupstvu", "icon": "map" },
+    { "label": "Malé opevnenie Dúbravy", "value": "Nad Dolným Hričovom v polohe Dúbravy sa nachádza menšie opevnenie ako pandant k stredovekému hradu", "icon": "building" }
+  ],
+  "corrections": [
+    { "before": "kopci , ktorý", "after": "kopci, ktorý" },
+    { "before": "9.-10. Stor.", "after": "9.-10. stor." },
+    { "before": "v strede výkopy boli už nálezy slovanskej keramiky", "after": "v strede výkopu boli už nálezy slovanskej keramiky" },
+    { "before": "13.stor.a", "after": "13.stor. a" }
+  ]
+}

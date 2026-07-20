@@ -1,0 +1,119 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "pred vyše 4 000 rokmi",
+      "title": "Eneolitické osídlenie okolia Varty",
+      "description": "Skromné keramické nálezy na úpätí Varty naznačujú, že sa v okolí terajšej osady usadili nositelia eneolitickej badenskej kultúry, ktorí sem prenikli zo severných častí dnešného Maďarska.",
+      "type": "era"
+    },
+    {
+      "year": "staršia doba bronzová",
+      "title": "Nález záveska typu Hodejov na Velínku",
+      "description": "Na Velínku sa našiel rebrovaný srdcovitý závesok typu Hodejov, doklad kontaktov s otomanskou kultúrou; nález publikoval J. Neudeck.",
+      "type": "discovery"
+    },
+    {
+      "year": "mladšia doba bronzová",
+      "title": "Žiarové pohrebisko pri Velínku",
+      "description": "Pri stavbe železnice v podhradí objavili žiarové pohrebisko; J. Neudeck tu odkryl 25 popolníc so zvyškami spálených kostí, popola a bronzových predmetov (ihlice, prstene, náušnice, špirály).",
+      "type": "discovery"
+    },
+    {
+      "year": "neskorá doba laténska",
+      "title": "Vznik najstaršieho opevnenia na Bašte",
+      "description": "Pôvodné osídlenie polohy Bašta spadá do neskorej doby laténskej, kedy tu vzniklo aj najstaršie opevnenie, neskôr poškodené ďalšími zásahmi.",
+      "type": "founding"
+    },
+    {
+      "year": "1. storočie n.l.",
+      "title": "Požiar chaty na Bašte",
+      "description": "Ohňom bola zničená chata na Bašte; jej inventár, spolu s fragmentom náramku a vinutím bronzovej spony, je datovateľný do 1. storočia n.l.",
+      "type": "destruction"
+    },
+    {
+      "year": "1932",
+      "title": "Nález keramiky a železného noža pri Bašte",
+      "description": "Pri prieskume sídliska v západnom podhradí Bašty získal P. Okoličány črepy hlinených nádob a železný nôž.",
+      "type": "discovery"
+    },
+    {
+      "year": "1975-1976",
+      "title": "Archeologický výskum pred výstavbou diaľnice D1",
+      "description": "V. Hanuliak a K. Pieta pri výskume v Podturni zistili na vrchole Velínku menšie valové opevnenie s rozmermi 70×90 m, s drevenou roštovou konštrukciou zosilnenou kamennou plentou a polokliešťovým uzatvorením brány so strážnou vežou.",
+      "type": "discovery"
+    },
+    {
+      "year": "koniec 2. storočia",
+      "title": "Úpadok a zánik púchovskej kultúry",
+      "description": "Po takmer piatich storočiach rozmachu dochádza k pozvoľnému úpadku púchovskej kultúry a k násilnému zániku väčšiny hradísk; obyvateľstvo sa pravdepodobne presídlilo do južnejších oblastí Panónie.",
+      "type": "destruction"
+    },
+    {
+      "year": "prelom 4. a 5. storočia",
+      "title": "Germánske osídlenie na mieste starších opevnení",
+      "description": "Skupinky germánskych kmeňov na krátky čas obsadili strategické polohy na miestach starších opevnení a využívali blízke zdroje železnej rudy.",
+      "type": "event"
+    },
+    {
+      "year": "9.-10. storočie",
+      "title": "Slovanské osídlenie Bašty",
+      "description": "Dominujúca poloha vrcholu bola opäť využitá, ako dokladajú nepočetné sekundárne nálezy keramiky z plochy hradiska a jeho juhozápadného úpätia.",
+      "type": "era"
+    },
+    {
+      "year": "13.-15. storočie",
+      "title": "Stredoveký drevozemný hrádok",
+      "description": "Podľa nálezov keramiky, streliek do kuše, praciek, podkov a železných nožov, ako aj stredovekých uhorských mincí, možno trvanie drevozemného hrádku ohraničiť 13. až 15. storočím.",
+      "type": "construction"
+    },
+    {
+      "year": "16. storočie",
+      "title": "Zánik strážneho hrádku",
+      "description": "Zánikom hrádku niekedy v priebehu nepokojného 16. storočia stratila lokalita svoj strategický význam.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Tri opevnenia pri Podturni",
+      "value": "Bašta, Velínok a Varta - ostrohovité opevnenia na vápencových výbežkoch 130-150 m nad údolím Váhu",
+      "icon": "mountain"
+    },
+    {
+      "label": "Slovanské osídlenie Bašty",
+      "value": "Prinajmenšom hradisko Bašta bolo využívané aj Slovanmi v 9.-10. storočí",
+      "icon": "star"
+    },
+    {
+      "label": "Opevnenie na Velínku",
+      "value": "Valové opevnenie s rozmermi 70×90 m malo drevenú roštovú konštrukciu zosilnenú kamennou plentou, polokliešťovú bránu a strážnu vežu na kamenných základoch",
+      "icon": "building"
+    },
+    {
+      "label": "Výskum pred diaľnicou D1",
+      "value": "V. Hanuliak a K. Pieta skúmali lokalitu v rokoch 1975-76 v súvislosti s výstavbou diaľnice D-1",
+      "icon": "book"
+    },
+    {
+      "label": "Pôvod názvu Podtureň",
+      "value": "Meno osady sa odvodzuje od slov bašta a turňa - dobového označenia veže drevenej architektúry strážneho hrádku",
+      "icon": "custom"
+    },
+    {
+      "label": "Trvanie stredovekého hrádku",
+      "value": "Nálezy keramiky, streliek do kuše, praciek, podkov a uhorských mincí datujú drevozemný hrádok približne od 13. do 15. storočia",
+      "icon": "shield"
+    },
+    {
+      "label": "Žiarové pohrebisko pri Velínku",
+      "value": "J. Neudeck odkryl v podhradí 25 popolníc so zvyškami spálených kostí, popola a bronzových šperkov z mladšej doby bronzovej",
+      "icon": "map"
+    },
+    {
+      "label": "Obranný systém priekop",
+      "value": "Priestor medzi Velínkom a Vartou chránila trojitá sústava hrotitých priekop v polohe Fľak pod Vartou",
+      "icon": "shield"
+    }
+  ]
+}

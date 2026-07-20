@@ -1,0 +1,91 @@
+{
+  "slug": "stary-konus",
+  "pass": 1,
+  "scope": "body (content.rich-text) + excerpt + authorName + gallery captions + image-block alt/caption",
+  "corrections": [
+    {
+      "field": "authorName",
+      "before": "Anonymous",
+      "after": "Orgon",
+      "reason": "authorName mismatch (§21.10) — celý hradiska.sk blog je autorsky Orgoň/Orgon (porov. komentáre v $meta, kde autor „Orgon\" priamo odpovedá čitateľom), rovnaký overený vzor chyby ako pri praveke-hradisko-na-sitne, nitrianske-pravno-jasenovo-vysehrad, sena."
+    },
+    {
+      "block": "blocks[0].body[0]",
+      "before": "na Východnom Slovensku sa na vysokom kopci - stolovej hore, kedysi zvanej Stari Konjus vypína",
+      "after": "na východnom Slovensku sa na vysokom kopci – stolovej hore, kedysi zvanej Stari Konjus, vypína",
+      "reason": "A9 — svetová strana v bežnom spojení (nie oficiálny názov) malým, presný vzor z §21.10. B typografia — apozičná pomlčka. A1 — uzavretie vloženej vety „kedysi zvanej Stari Konjus\" chýbajúcou druhou čiarkou pred „vypína\"."
+    },
+    {
+      "field": "excerpt",
+      "before": "na Východnom Slovensku sa na vysokom kopci - stolovej hore, kedysi zvanej Stari Konjus vypína",
+      "after": "na východnom Slovensku sa na vysokom kopci – stolovej hore, kedysi zvanej Stari Konjus, vypína",
+      "reason": "Cross-field propagácia z blocks[0] — excerpt je orezaná kópia rovnakého úseku textu, obsahuje rovnaké 3 chyby."
+    },
+    {
+      "block": "blocks[5].body[0] (Mladšia doba bronzová)",
+      "before": "z prieskumu /poväčšine atypických/ naznačujú",
+      "after": "z prieskumu (poväčšine atypických) naznačujú",
+      "reason": "B typografia — lomky ako zátvorky → skutočné zátvorky."
+    },
+    {
+      "block": "blocks[5].body[0] (Mladšia doba bronzová)",
+      "before": "pričom sa jedná pravdepodobne o gávsku kultúru",
+      "after": "pričom ide pravdepodobne o gávsku kultúru",
+      "reason": "A7 bohemizmus — „jedná sa o\" → „ide o\"."
+    },
+    {
+      "block": "blocks[7] (image-block: alt+caption) + gallery[1].caption",
+      "before": "Pohľad na areál \\\"Starý Koňuš\\\" od západu",
+      "after": "Pohľad na areál „Starý Koňuš“ od západu",
+      "reason": "B typografia — rovné úvodzovky → slovenské. Opravené na všetkých 3 výskytoch (gallery + alt + caption)."
+    },
+    {
+      "block": "blocks[7] caption + gallery[1].caption",
+      "before": "Je tam náramný pokoj, podte sa prejst .",
+      "after": "Je tam náramný pokoj, poďte sa prejsť.",
+      "reason": "A8 chýbajúca diakritika — „podte\" → „poďte\", „prejst\" → „prejsť\"; odstránená medzera pred bodkou."
+    },
+    {
+      "block": "blocks[13].body[0] (bibliografický blok na konci)",
+      "before": "V. Budinský - Krička: Nové nálezy na východnom Slovensku, AVANS 1978, Nitra str. 46-65    V. Budinský - Krička: Slovanské osídlenie na severovýchodnom Slovensku",
+      "after": "V. Budinský-Krička: Nové nálezy na východnom Slovensku, AVANS 1978, Nitra str. 46 – 65    V. Budinský-Krička: Slovanské osídlenie na severovýchodnom Slovensku",
+      "reason": "Meno zjednotené s kanonickým tvarom z protected-terms.json (\"Budinský-Krička\", bez medzier okolo spojovníka; \"Budinský - Krička\" je zdokumentovaný nesprávny variant). B typografia — stránkovací rozsah pomlčkou."
+    },
+    {
+      "block": "blocks[13].body[0]",
+      "before": "9 , 1-2 ",
+      "after": "9, 1 – 2 ",
+      "reason": "B typografia — medzera pred čiarkou odstránená, číselný rozsah čísla zošitu spojovník → pomlčka."
+    },
+    {
+      "block": "blocks[13].body[0]",
+      "before": "(1961) 347-390",
+      "after": "(1961) 347 – 390",
+      "reason": "B typografia — stránkovací rozsah."
+    },
+    {
+      "block": "gallery[6].caption (Výskum v 50. rokoch...)",
+      "before": "v 10. -11. storočí.",
+      "after": "v 10. – 11. storočí.",
+      "reason": "B typografia — chybne formátovaná pomlčka (medzera len z jednej strany) opravená na štandardnú."
+    },
+    {
+      "block": "gallery[7].caption",
+      "before": "al na SZ okraji chráni vyschnutý občasný vodný zdroj (vľavo)",
+      "after": "Val na SZ okraji chráni vyschnutý občasný vodný zdroj (vľavo)",
+      "reason": "Uťaté slovo — chýbajúce začiatočné „V\" (mechanická oprava, porov. \"boIi→boli\" typ chyby); z kontextu jednoznačne „Val\", zhoda s vedľajšou popiskou „Val na Z časti...\"."
+    },
+    {
+      "block": "gallery[8].caption",
+      "before": "Vegetácia nedovolila odfotit. ... Valy neboly,",
+      "after": "Vegetácia nedovolila odfotiť. ... Valy neboli,",
+      "reason": "A8 chýbajúca diakritika (odfotit→odfotiť) a zastaraný/nesprávny tvar (neboly→neboli, moderná spisovná koncovka -i)."
+    },
+    {
+      "block": "gallery[10].caption",
+      "before": "vyhnali hore z druzstva z Choňkoviec",
+      "after": "vyhnali hore z družstva z Choňkoviec",
+      "reason": "A8 chýbajúca diakritika — družstva."
+    }
+  ]
+}

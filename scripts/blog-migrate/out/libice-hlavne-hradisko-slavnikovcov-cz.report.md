@@ -7,25 +7,25 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
-- ✅ Obrázky evidované: telo (3) ⊆ galéria (3) — žiadny sa nestratil
+- ✅ Text: pokrytie 99.64% vs originál (gramaticky opravené slová vyňaté: 4) — zvyšné mimo: slavnikovcov, masaker, zdroj (over: map-widget/tvary/odkazy)
+- ✅ Obrázky evidované: telo (5) ⊆ galéria (5) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 9, keyFacts 8
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 9 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 15 |
+| rich-text (odseky/nadpisy) | 16 |
 | quote-block (dobové pramene) | 0 |
 | poem (básne/verše) | 0 |
-| image-block (v tele) | 3 |
+| image-block (v tele) | 5 |
 | embed (video/3D) | 0 |
 | sources (zdroje) | 1 → 4 položiek |
 
 ## Obrázky
-- **galéria:** 3 (1 s popisom)
-- **v tele článku:** 3 (1 s popisom) — 1.01eliskreta.JPG, libice_pohrebiste_na_hradisti.gif, Model.JPG
+- **galéria:** 5 (1 s popisom)
+- **v tele článku:** 5 (1 s popisom) — libice02.jpg, 1.01eliskreta.JPG, libice01.jpg, libice_pohrebiste_na_hradisti.gif, Model.JPG
 
 ## Sidebar
 - **Časová os (timeline):** 9 položiek
@@ -49,10 +49,27 @@
   - Prieskum predhradia: Archeologický ústav AV ČR vykonáva od roku 1974 každoročné záchranné výskumy; doteraz preskúmaných necelých 6 % plochy predhradia
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 9**
+  - preklepy: 5
+  - interpunkcia (čiarky/bodky): 2
+  - iné: 1
+  - veľké/malé písmená: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `; Z hlediska` → `Z hlediska` | nadbytočná úvodná bodkočiarka (mechanický artefakt) |
+| 2 | undefined | `Kto boli Slávnikovci? Zrejme` → `Kto boli Slavníkovci? Zrejme` | preklep, chránený tvar Slavníkovci |
+| 3 | undefined | `rod Slávnikovcov a ich tragický` → `rod Slavníkovcov a ich tragický` | preklep, chránený tvar Slavníkovci |
+| 4 | undefined | `spoločný Česko-Slovenský dejepis vôbec nepoznajú` → `spoločný Česko-Slovenský dejepis, vôbec nepoznajú` | chýbajúca čiarka medzi vzťažnou a hlavnou vetou |
+| 5 | undefined | `Vzostup rodu Slávnikovcov začal` → `Vzostup rodu Slavníkovcov začal` | preklep, chránený tvar Slavníkovci |
+| 6 | undefined | `biskupa Vojtecha – z rodu Slávnikovcov.` → `biskupa Vojtecha – z rodu Slavníkovcov.` | preklep, chránený tvar Slavníkovci |
+| 7 | undefined | `Táto "kokurencia" nebola` → `Táto "konkurencia" nebola` | preklep |
+| 8 | undefined | `Vojtěch a Soběbor, dožili` → `Vojtech a Soběbor, dožili` | slovenský tvar (bez ě), konzistentne s 'Vojtecha' v bloku 11 |
+| 9 | undefined | `v azyle Boleslava chrabrého` → `v azyle Boleslava Chrabrého` | prídomok veľkým, konzistentne s 'Boleslav Chrabrý' v tom istom bloku |
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 9338 znakov (1353 slov)
+- **text tela:** 9339 znakov (1352 slov)
+- **pokrytie textu vs originál:** 99.64% (mimo: slavnikovcov, masaker, zdroj)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

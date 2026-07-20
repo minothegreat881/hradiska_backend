@@ -1,0 +1,32 @@
+{
+  "slug": "gars-thunau-velkomoravske-hradisko-v-rakusku",
+  "sourceDraft": "out/gars-thunau.grammar-sk-pass1.json",
+  "pass1AppliedFixes": [
+    { "rule": "A1 vsuvka čiarky", "block": "0, excerpt", "before": "kniežat – ako je známe nesiahala", "after": "kniežat, ako je známe, nesiahala", "note": "aplikované v body aj v excerpt; excerpt naviac malo 'Veľkomoravských' s veľkým V - zjednotené s telom (malé v, A9)" },
+    { "rule": "D cross-field meno + preklep", "block": 1, "before": "knieža Josef daroval ... zo stany historikov", "after": "knieža Jozef daroval ... zo strany historikov", "note": "'Jozef' zjednotené s timeline (už tam bolo správne)" },
+    { "rule": "D poradie názvu + A1 čiarka + A4 pád", "block": 3, "before": "hradisko Thunau / Gars je veľmi dobre ... v širokej krajinu ... situáciu ostrožny", "after": "hradisko Gars - Thunau, je veľmi dobre ... v širokej krajine ... situáciu ostrožiny" },
+    { "rule": "A4 zhoda pádu", "block": 5, "before": "ohraničená ranostredovekými valom", "after": "ohraničená ranostredovekým valom" },
+    { "rule": "A4 pád + chýbajúca bodka + D poradie názvu", "block": 6, "before": "lokalitu Thunau / Gars ... využili prirodzenej ochrany ruín ... posledné stopy osídlenia [bez bodky]", "after": "lokalitu Gars - Thunau ... využili prirodzenú ochranu ruín ... posledné stopy osídlenia." },
+    { "rule": "D poradie názvu + B pomlčka (uzavretie vsuvky) + A9 malé písmeno", "block": 9, "before": "hradiska Thunau / Gars uzatvára ... sa nachádzal - ako už bolo spomenuté Kniežací dvorec", "after": "hradiska Gars - Thunau uzatvára ... sa nachádzal — ako už bolo spomenuté — kniežací dvorec" },
+    { "rule": "B násobenie + A1 chýbajúca čiarka", "block": 11, "before": "100 x 170 m ... Obere a Unter Holzwiese tvoria celok", "after": "100 × 170 m ... Obere a Unter Holzwiese, tvoria celok" },
+    { "rule": "A4 pád + A7 bohemizmus + B násobenie + A4 pád", "block": 13, "before": "zrubovými spôsobom ... Jednalo sa o roštovú konštrukciu ... 1,5 x 1,5 m ... spevnenie klincami", "after": "zrubovým spôsobom ... Išlo o roštovú konštrukciu ... 1,5 × 1,5 m ... spevnenia klincami" },
+    { "rule": "A4 zhoda rodu + A8 preklep", "block": 18, "before": "znázornená ako viacpodlažné veža ... vodorovne uloženie fošne", "after": "znázornená ako viacpodlažná veža ... vodorovne uložené fošne" },
+    { "rule": "B pomlčka (uzavretie vsuvky)", "block": 20, "before": "Osídlenie – teraz už poľnohospodárskeho charakteru sa presunulo", "after": "Osídlenie — teraz už poľnohospodárskeho charakteru — sa presunulo" }
+  ],
+  "pass2CrossFieldChecks": [
+    { "field": "excerpt", "finding": "'Moc Veľkomoravských kniežat – ako je známe nesiahala' obsahovala rovnakú chybu ako pôvodný blok 0 + naviac veľké 'V'.", "action": "opravené na 'Moc veľkomoravských kniežat, ako je známe, nesiahala' — zhoda s telom" },
+    { "field": "keyFacts (Schanze)", "finding": "už obsahovalo správne '100 × 170 m' kým telo malo '100 x 170 m'", "action": "telo zosúladené s keyFacts (potvrdzuje smer opravy, žiadna ďalšia zmena keyFacts potrebná" },
+    { "field": "keyFacts (Južná brána)", "finding": "už obsahovalo správne 'Viacpodlažná veža' kým telo malo 'viacpodlažné veža'", "action": "telo zosúladené, keyFacts nezmenené" },
+    { "field": "timeline (902/903 zápis)", "finding": "už obsahovalo správne 'Jozef' kým telo malo 'Josef'", "action": "telo zosúladené, timeline nezmenené" },
+    { "field": "location.name / title", "finding": "obe už používajú poradie 'Gars - Thunau'; telo na 3 miestach používalo obrátené/lomkové 'Thunau / Gars'", "action": "zjednotené na 'Gars - Thunau' vo všetkých 3 výskytoch (bloky 3, 6, 9)" },
+    { "field": "typografia (§21.2 sweep)", "finding": "žiadne ďalšie x-separátory, rovné úvodzovky, 'ca' skratky, m2/m3, ◦ nenájdené v texte (falošné pozitíva len v base64 URL segmentoch a v slovách 'storočia'/'stráca')", "action": "žiadna zmena" }
+  ],
+  "notedNotFixed": [
+    "'skupinovou technikou' (blok 15) vs. 'blokovou technikou' (blok 16) — možná terminologická nezrovnalosť z originálu, nízka istota, ponechané bez zmeny (nejde o gramatickú chybu, môže byť zámerné rozlíšenie dvoch odlišných techník).",
+    "Zdroj 'Bc. Anna Bajerova: ... ve střední Evrope' — český bibliografický titul, ponechaný v pôvodnom jazyku (citácia/bibliografia, nie slovenský text).",
+    "'Untere Holzwiese' (blok 20) vs. 'Unter Holzwiese' (ostatné výskyty) — nekonzistentný nemecký názov, ale je to vlastné meno (chránená zóna pre vlastné mená), nie slovenská gramatická chyba — ponechané bez zásahu."
+  ],
+  "flags": [],
+  "quoteBlocksTouched": 0,
+  "status": "upload-ready"
+}

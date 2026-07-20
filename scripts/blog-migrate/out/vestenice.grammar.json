@@ -1,0 +1,17 @@
+{
+  "slug": "dolne-vestenice-slovanske-hradisko",
+  "appliedFixes": [
+    { "id": "01+04", "type": "prázdna sekcia", "note": "Vytvorená úplne chýbajúca sekcia content.sources 'Zdroje a literatúra' s dvoma položkami (Ruttkay, Pieta) presne podľa navrhnutého znenia z reportu. Pôvodný glejený blok 7 (nadpis 'Literatúra' + obe citácie verzálkami zlepené) odstránený z tela." },
+    { "id": "02", "type": "relatívne datovanie", "note": "'Pred niekoľkými rokmi' (telo aj timeline) -> 'Pred rokom 2017', keďže kniha Bojná 2 (jediný zdroj) vyšla 2017 a opisuje tento výskum ako už hotový — dá sa teda bezpečne odvodiť horná hranica bez nutnosti hádať presný rok. Timeline year tiež zmenené z 'posledné roky' na 'pred rokom 2017'." },
+    { "id": "03", "type": "zlepené", "note": "'Orgoň' oddelený od posledného odseku do samostatného bloku (blok 5 rozdelený na dva)." },
+    { "id": "05", "note": "AU SAV -> AÚ SAV, zrealizoval -> uskutočnil (telo aj KF 'Archeologický výskum')." },
+    { "id": "06", "note": "údolím Hradištnica -> údolím Hradištnice (telo aj KF 'Poloha')." },
+    { "id": "07", "note": "'V týchto častiach' -> 'V tejto časti' (zhoda čísla so singulárom 'iba čiastočne zo severu')." },
+    { "id": "08", "type": "nedoložené", "note": "'postačovala' -> 'pravdepodobne postačovala' (telo); KF 'Opevnenie': 'inde drevená palisáda' -> 'inde pravdepodobne drevená palisáda'." },
+    { "id": "09", "type": "stratená opatrnosť v timeline", "note": "Timeline title 'Zánik hradiska' -> 'Pravdepodobný zánik hradiska', zosúladené s opatrným 'naznačuje' v popise aj v tele." },
+    { "id": "10", "type": "typografia", "note": "9.-10. stor. -> 9. – 10. stor. (telo blok 1, timeline year aj description)." },
+    { "id": "11", "note": "2007–2013 -> 2007 – 2013 (v novej Zdroje položke Pieta)." },
+    { "id": "12", "note": "'val z vnútornej strany...' -> 'Val z vnútornej strany...' (galéria, media 2000)." },
+    { "id": "13", "note": "Nadpis 'Dolné Vestenice - Slovanské hradisko' -> 'Dolné Vestenice - slovanské hradisko' (malé s, nie vlastné meno). Tag 'Dolné Vestenice' už bol v poriadku, nezmenený." }
+  ]
+}

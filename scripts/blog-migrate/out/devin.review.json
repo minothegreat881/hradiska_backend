@@ -1,0 +1,36 @@
+{
+  "slug": "devin",
+  "unresolvedFlags": [
+    {
+      "type": "UNCLOSED_QUOTE",
+      "location": "blocks[17] (rich-text: 'Hrnko píše, že \"po rozbrojoch vo vnútri Avarskej ríše... najvýznamnejších pevností.')",
+      "description": "Otváracia úvodzovka pred 'po rozbrojoch' existuje, ale citát sa v rámci bloku nikdy nezatvára rovnakým úvodzovkovým znakom. Text sa síce číta ako uzavretá myšlienka (končí bodkou), ale chýba formálna uzatváracia úvodzovka. Novoobjavené pri pass-2 sweepe (draft pass-1 tento blok neriešil). Nedopĺňané/neuzatvárané bez overenia zdroja (Hrnko, Devín-božská perla Slovenska) — text ponechaný presne tak, ako bol.",
+      "fromPass": 2
+    },
+    {
+      "type": "UNCLOSED_QUOTE / MISSING_OPENING_QUOTE",
+      "location": "blocks[44] až blocks[61] (takmer 20 blokov, citát z blogu lukaskrajcir.blog.sme.sk)",
+      "description": "Prevzaté z pass-1 draftu. Blok 46 priamo avizuje citáciu ('Dovolím si zacitovať výňatok z článku...'), ale otváracia úvodzovka, ktorá by mala citát niekde v rozsahu blokov 44–61 začínať, sa pri extrakcii stratila. Blok 44 aj blok 61 obsahujú vlastné nepárové zatváracie úvodzovky na konci ('...ich zánik.\"' a '...civis Dowina\".\"'), čo naznačuje možnú vnorenú štruktúru citátov, ktorú nie je možné bez prístupu k pôvodnému HTML bezpečne rekonštruovať. Vzhľadom na rozsah (takmer 20 blokov) a neistotu, kde presne mala otváracia úvodzovka byť, NEDOPĹŇANÉ — iba nahlásené. Krátke, jednoznačne párové úvodzovky vnútri tohto rozsahu ('perifériu', 'Na pieskach', 'Nad lomom' ×2, 'Na pieskoch', 'rex') boli typograficky zjednotené na „...\" (bez zmeny slov) — iba tie dva nepárové koncové znaky (za 'zánik.' a druhý znak za 'civis Dowina\".') zostali nedotknuté.",
+      "fromPass": 1
+    },
+    {
+      "type": "MISSING_WORD",
+      "location": "blocks[13]: 'Je potešiteľné, že po odkrytí objektov v polovici deväťdesiatych rokov minulého storočia sa počiatočných finančných ťažkostiach našli nakoniec peniaze na to...'",
+      "description": "Veta je gramaticky nefunkčná — chýba predložka/väzba pred 'počiatočných finančných ťažkostiach' (pravdepodobne malo byť niečo ako 'sa i napriek počiatočným finančným ťažkostiam'). Pravdepodobne strata slova pri extrakcii z pôvodného blogu. Nedopĺňané bez overenia zdroja (§21.6.1 — nikdy nedopĺňať vetu).",
+      "fromPass": 1
+    },
+    {
+      "type": "MISSING_WORD",
+      "location": "blocks[27]: '...objavená trojpriestorová sakrálna stavba odkrytá v rokoch 1984 – 1985 v polohe „Nad prístaviskom\".'",
+      "description": "Veta je bez slovesa (chýba napr. 'bola objavená'). Pravdepodobne strata slova pri extrakcii. Nedopĺňané bez overenia zdroja.",
+      "fromPass": 1
+    }
+  ],
+  "reviewed_no_change_confirmed": [
+    "content.poem (blocks[4], Štúrovci 1836) — nedotknuté, overené znak po znaku proti pôvodine.",
+    "content.quote-block blocks[0] a blocks[48] (Fuldské anály, r. 864) — slová nedotknuté; blocks[48] mal navyše medzeru pred čiarkou ('vojskami , a keď') ako mechanickú typografickú chybu (nie autorovu interpunkciu) — opravené podľa §21.3 výnimky ('mechanická oprava medzery'), rovnako ako paralelný výskyt v excerpt.",
+    "content.quote-block blocks[54] (Bertiniánske anály, r. 864) — nedotknuté.",
+    "'\"???\"' trojitý otáznik (blocks[55]) — ponechaný ako zámerný rétorický štýl autora blogu, nie preklep.",
+    "'vďaka mála z nich' (blocks[59]) — nezvyčajná formulácia, nízka istota správnej opravy, ponechané nezmenené."
+  ]
+}

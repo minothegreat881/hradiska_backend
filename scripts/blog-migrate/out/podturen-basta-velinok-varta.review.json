@@ -1,0 +1,20 @@
+{
+  "slug": "podturen-basta-velinok-varta",
+  "flags": [
+    {
+      "type": "MISSING_CONTENT_EXTRACTION",
+      "location": "blocks[5] (\"vrch nazývaný ktorý sa týči...\", \"vyvýšenina , ktorá bola zničená...\", \"kopec , s dodnes neskúmaným opevnením\") a blocks[16]/[17]/[20] (\"na vrchu . Jeho opevnenie...\", \"priekop , ktorá vypĺňala...\", \"opevnených hrádkov , situovaných...\", \"lokalita Kameničná , kde...\", \"plošinách Varty . O charaktere... osídlenia na máme len útržkovité informácie...\", \"z hradiska , kde prebehol...\", \"dominujúca poloha vrcholu , ako vieme..., základoch . Podľa...\", \"k úpätiu Bašty . Podľa...\")",
+      "note": "Systematicky sa opakuje vzor \"podstatné meno [medzera][čiarka/bodka]\" bez nasledujúceho vlastného mena — napr. \"vrch nazývaný ktorý sa týči\" (chýba názov vrchu), \"poloha vrcholu , ako vieme\" (chýba názov), \"z hradiska , kde prebehol\" (chýba, ktoré hradisko), \"osídlenia na máme len útržkovité informácie\" (chýba miesto). Ide takmer isto o stratené texty prepojených odkazov (`<a>` s názvom lokality) pri extrakcii pôvodného HTML (rovnaký typ chyby ako §21.10 \"medzera/interpunkcia sa stráca na hranici textových uzlov okolo vloženého odkazu\"), NIE o gramatickú chybu. Opravil som len mechanickú medzeru pred nasledujúcou interpunkciou (bezpečné, nestráca žiaden obsah navyše), ale samotné chýbajúce názvy lokalít NEDOPĺŇAM (bolo by to vymyslenie textu, §21.6 zákaz #1). Odporúčam overiť pôvodný zdroj na archeologiask.sk a doplniť chýbajúce názvy ručne."
+    },
+    {
+      "type": "STRUCTURAL_NOTE",
+      "location": "blocks[3]–blocks[21] + top-level citations[] (~30 položiek) + blocks[22] content.sources",
+      "note": "Celý hosťovský odborný článok PhDr. Víťazoslava Struhára je reprodukovaný ako priamy citát (otvorená úvodzovka na začiatku blocks[3], zatvorená na konci blocks[21]/posledná citácia). Podľa taxonómie zdrojov v MIGRATION.md §21 ide o typ 1 (\"odborné state prevzaté z literatúry\"), nie typ 3 (dobový prameň typu Holuby/Janšák) — preto som naň aplikoval plnú gramatickú korektúru, nie ochranu §21.3. Zároveň sú takmer všetky odseky tela duplicitne uložené aj v top-level citations[] poli (a časť aj v content.sources blocks[22]) — DUPLICATE_BIBLIO-podobná štruktúra existujúca už pred týmto behom, nezasahoval som do štruktúry (len opravy textu na oboch kópiách)."
+    },
+    {
+      "type": "NUMBER_CHECK",
+      "location": "blocks[20] \"hĺbka dosahovala 220 – 270 cm\"",
+      "note": "Rozsah hĺbky priekopy 220 – 270 cm je fyzicky prijateľný (2,2 – 2,7 m), nejde o NUMBER_IMPOSSIBLE. Iba poznámka, nie chyba."
+    }
+  ]
+}

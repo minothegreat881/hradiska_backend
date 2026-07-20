@@ -1,0 +1,524 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\refugia12-zilina-zavodie-e1.single.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-4690920805144129287",
+    "bloggerPostUrl": "http://www.hradiska.sk/2016/03/zilina-zavodie.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/4690920805144129287/comments/default",
+    "extractedAt": "2026-07-14T19:40:00.528Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 17,
+      "captionedImages": 16,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Žilina - Závodie",
+    "slug": "zilina-zavodie",
+    "excerpt": "Toto zaujímavé žilinské hradisko sa nachádza na kóte 626 v katastrálnom území miestnej časti Závodie. Prvýkrát sa spomína už v diele Mateja Bela o Trenčianskej stolici, kde uvádza: „Hradisko je zarastené ani nie tak stromami, ako hustými kroviskami. Dvíha sa spod Žiliny smerom k Hričovu…",
+    "authorName": "Orgon",
+    "publishedAt": "2016-03-02T21:42:00.000+01:00",
+    "originalPublishedDate": "2016-03-02T21:42:00.000+01:00",
+    "updatedAt": "2016-03-03T22:54:16.883+01:00",
+    "readingTime": 4,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1cY2mwxp7RZAK2gkuUmoKOKUhe4fl68UjxsEvsfVnBfIzyOiaHwGJXsIEIHveskCb9dJlENCOQ_Nx4SKrmzokuZsx6H8EBHfONkyXgp3mP9uvw5FA6HvmpCk4jiH7x5uXMysM7Lu3eA/s0/Martin+Gavlas.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1cY2mwxp7RZAK2gkuUmoKOKUhe4fl68UjxsEvsfVnBfIzyOiaHwGJXsIEIHveskCb9dJlENCOQ_Nx4SKrmzokuZsx6H8EBHfONkyXgp3mP9uvw5FA6HvmpCk4jiH7x5uXMysM7Lu3eA/s1600/Martin+Gavlas.jpg",
+      "filename": "Martin+Gavlas.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1cY2mwxp7RZAK2gkuUmoKOKUhe4fl68UjxsEvsfVnBfIzyOiaHwGJXsIEIHveskCb9dJlENCOQ_Nx4SKrmzokuZsx6H8EBHfONkyXgp3mP9uvw5FA6HvmpCk4jiH7x5uXMysM7Lu3eA/s1600/Martin+Gavlas.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 225,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1cY2mwxp7RZAK2gkuUmoKOKUhe4fl68UjxsEvsfVnBfIzyOiaHwGJXsIEIHveskCb9dJlENCOQ_Nx4SKrmzokuZsx6H8EBHfONkyXgp3mP9uvw5FA6HvmpCk4jiH7x5uXMysM7Lu3eA/s0/Martin+Gavlas.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1cY2mwxp7RZAK2gkuUmoKOKUhe4fl68UjxsEvsfVnBfIzyOiaHwGJXsIEIHveskCb9dJlENCOQ_Nx4SKrmzokuZsx6H8EBHfONkyXgp3mP9uvw5FA6HvmpCk4jiH7x5uXMysM7Lu3eA/s1600/Martin+Gavlas.jpg",
+        "filename": "Martin+Gavlas.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1cY2mwxp7RZAK2gkuUmoKOKUhe4fl68UjxsEvsfVnBfIzyOiaHwGJXsIEIHveskCb9dJlENCOQ_Nx4SKrmzokuZsx6H8EBHfONkyXgp3mP9uvw5FA6HvmpCk4jiH7x5uXMysM7Lu3eA/s1600/Martin+Gavlas.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 225,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Umelecká predstava o vzhľade hradiska — Martin Gavlás"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr8wzpaAgbphc_1VY_s1nHiCMpiITkI1dl7sUcKrHZvzJGSIZDYnnh7qIcyDysIvDVQu2KNdAAOh9QqlSQ6idSbJocj7-o2ZI6LD92zySsTkny1J71whgWxRnZ7c9lmFmgVPFJaGRyiwE/s0/obr.4.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr8wzpaAgbphc_1VY_s1nHiCMpiITkI1dl7sUcKrHZvzJGSIZDYnnh7qIcyDysIvDVQu2KNdAAOh9QqlSQ6idSbJocj7-o2ZI6LD92zySsTkny1J71whgWxRnZ7c9lmFmgVPFJaGRyiwE/s1600/obr.4.jpg",
+        "filename": "obr.4.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr8wzpaAgbphc_1VY_s1nHiCMpiITkI1dl7sUcKrHZvzJGSIZDYnnh7qIcyDysIvDVQu2KNdAAOh9QqlSQ6idSbJocj7-o2ZI6LD92zySsTkny1J71whgWxRnZ7c9lmFmgVPFJaGRyiwE/s1600/obr.4.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 189,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Žilina-Závodie, Hradisko: pôdorys valového opevnenia."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ075RBC3ptzmpE4HK6fSjRlW16iUH8LpSAlDdEiQi4ZuErtrniYjbOb623nIw67D7ggEK7bszpKZMfkLjoOdACF4XDarUy5ao2gyRRx24taE_0uzHcuNSsQgoG6Rs1MlshxkYsL0d8eQ/s0/obr.5.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ075RBC3ptzmpE4HK6fSjRlW16iUH8LpSAlDdEiQi4ZuErtrniYjbOb623nIw67D7ggEK7bszpKZMfkLjoOdACF4XDarUy5ao2gyRRx24taE_0uzHcuNSsQgoG6Rs1MlshxkYsL0d8eQ/s1600/obr.5.jpg",
+        "filename": "obr.5.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ075RBC3ptzmpE4HK6fSjRlW16iUH8LpSAlDdEiQi4ZuErtrniYjbOb623nIw67D7ggEK7bszpKZMfkLjoOdACF4XDarUy5ao2gyRRx24taE_0uzHcuNSsQgoG6Rs1MlshxkYsL0d8eQ/s1600/obr.5.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 55,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Hradisko: časť valového opevnenia. Foto: Peter Bronček"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzgw9I4kAvlM5-IJcL5hOtsBKnFdIGrUE4OkkR8R4xKFGTvctn41ntThO6ZiOMgZw6cA9zngG_OqE2EC6GFVqA8cyc6TCLY6AYUvR-8LYhSn44eqgUcBARvkF6kEUCqVEGjdrRrEEOiGo/s0/GE.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzgw9I4kAvlM5-IJcL5hOtsBKnFdIGrUE4OkkR8R4xKFGTvctn41ntThO6ZiOMgZw6cA9zngG_OqE2EC6GFVqA8cyc6TCLY6AYUvR-8LYhSn44eqgUcBARvkF6kEUCqVEGjdrRrEEOiGo/s1600/GE.jpg",
+        "filename": "GE.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzgw9I4kAvlM5-IJcL5hOtsBKnFdIGrUE4OkkR8R4xKFGTvctn41ntThO6ZiOMgZw6cA9zngG_OqE2EC6GFVqA8cyc6TCLY6AYUvR-8LYhSn44eqgUcBARvkF6kEUCqVEGjdrRrEEOiGo/s1600/GE.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 202,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeq2810UhmIG-kLUioKUWNPYySG-3I6jjW6jX9uxOPns_vCTZOLfuQokvznJPZrup7vTCIxQSWfjGBFq9uN2Y8ISbcXkunFtZSxuhQE5RJ3lVvMaI2b_Hay6YIuUL_7dpWTk2Ko3GBQqs/s0/obr.6.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeq2810UhmIG-kLUioKUWNPYySG-3I6jjW6jX9uxOPns_vCTZOLfuQokvznJPZrup7vTCIxQSWfjGBFq9uN2Y8ISbcXkunFtZSxuhQE5RJ3lVvMaI2b_Hay6YIuUL_7dpWTk2Ko3GBQqs/s1600/obr.6.JPG",
+        "filename": "obr.6.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeq2810UhmIG-kLUioKUWNPYySG-3I6jjW6jX9uxOPns_vCTZOLfuQokvznJPZrup7vTCIxQSWfjGBFq9uN2Y8ISbcXkunFtZSxuhQE5RJ3lVvMaI2b_Hay6YIuUL_7dpWTk2Ko3GBQqs/s1600/obr.6.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Zlomky nádob púchovskej kultúry z 1. stor. pred n. l."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVCm-bsUAgiFovNZXMRiukcWoyQqr-INOxyZ0S_pndnRZVEGjMpDaGcJWH30Y-qyYRrAmhV5BWPph5z3nH02_vUzrO4DezZm6FF2Wxu_rMBdxhs2UNg5I9DU3fnTjaopgprfeXy2uzEpg/s0/pohl%25CC%258Cad+na+za%25CC%2581padnu%25CC%2581+c%25CC%258Cast%25CC%258C+opevnenia.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVCm-bsUAgiFovNZXMRiukcWoyQqr-INOxyZ0S_pndnRZVEGjMpDaGcJWH30Y-qyYRrAmhV5BWPph5z3nH02_vUzrO4DezZm6FF2Wxu_rMBdxhs2UNg5I9DU3fnTjaopgprfeXy2uzEpg/s1600/pohl%25CC%258Cad+na+za%25CC%2581padnu%25CC%2581+c%25CC%258Cast%25CC%258C+opevnenia.JPG",
+        "filename": "pohl%CC%8Cad+na+za%CC%81padnu%CC%81+c%CC%8Cast%CC%8C+opevnenia.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVCm-bsUAgiFovNZXMRiukcWoyQqr-INOxyZ0S_pndnRZVEGjMpDaGcJWH30Y-qyYRrAmhV5BWPph5z3nH02_vUzrO4DezZm6FF2Wxu_rMBdxhs2UNg5I9DU3fnTjaopgprfeXy2uzEpg/s1600/pohl%25CC%258Cad+na+za%25CC%2581padnu%25CC%2581+c%25CC%258Cast%25CC%258C+opevnenia.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "pohľad na západnú časť opevnenia"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir-CXAYKp8deqC5wetXO-jJQLa8Iy5xgZBEPz5xg4pvAp0cdI0gLq-jFlScv63y6-TLJ4gnKIZIwd8Zu6TPiqAQsDknirXINsnPMla88w56IOrNl7gBJuYKKKzmP7E5RmfRP6oqbQUciE/s0/predny%25CC%2581+maly%25CC%2581+val+s+cestou+po+boku+t%25CC%258Cahaju%25CC%2581ci+sa+smerom+na+vy%25CC%2581chod+k+vstupu+do+hradiska.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir-CXAYKp8deqC5wetXO-jJQLa8Iy5xgZBEPz5xg4pvAp0cdI0gLq-jFlScv63y6-TLJ4gnKIZIwd8Zu6TPiqAQsDknirXINsnPMla88w56IOrNl7gBJuYKKKzmP7E5RmfRP6oqbQUciE/s1600/predny%25CC%2581+maly%25CC%2581+val+s+cestou+po+boku+t%25CC%258Cahaju%25CC%2581ci+sa+smerom+na+vy%25CC%2581chod+k+vstupu+do+hradiska.JPG",
+        "filename": "predny%CC%81+maly%CC%81+val+s+cestou+po+boku+t%CC%8Cahaju%CC%81ci+sa+smerom+na+vy%CC%81chod+k+vstupu+do+hradiska.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir-CXAYKp8deqC5wetXO-jJQLa8Iy5xgZBEPz5xg4pvAp0cdI0gLq-jFlScv63y6-TLJ4gnKIZIwd8Zu6TPiqAQsDknirXINsnPMla88w56IOrNl7gBJuYKKKzmP7E5RmfRP6oqbQUciE/s1600/predny%25CC%2581+maly%25CC%2581+val+s+cestou+po+boku+t%25CC%258Cahaju%25CC%2581ci+sa+smerom+na+vy%25CC%2581chod+k+vstupu+do+hradiska.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "predný malý val s cestou po boku ťahajúci sa smerom na východ k vstupu do hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ3M5dVJ0z8i7FZbcCVEwSt-M0G8nTBgCJdlo0Bzz2GaZvFllUE-aMJbgxkfx4ONZGIZ0ft7H5w4ZC1aLBup2EzePVk-eV9wN28vJAhgrKGdYHfwy5DGgpTwk_H178Chzne5lhC6ydp7g/s0/prepa%25CC%2581lene%25CC%2581+pieskovce.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ3M5dVJ0z8i7FZbcCVEwSt-M0G8nTBgCJdlo0Bzz2GaZvFllUE-aMJbgxkfx4ONZGIZ0ft7H5w4ZC1aLBup2EzePVk-eV9wN28vJAhgrKGdYHfwy5DGgpTwk_H178Chzne5lhC6ydp7g/s1600/prepa%25CC%2581lene%25CC%2581+pieskovce.JPG",
+        "filename": "prepa%CC%81lene%CC%81+pieskovce.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ3M5dVJ0z8i7FZbcCVEwSt-M0G8nTBgCJdlo0Bzz2GaZvFllUE-aMJbgxkfx4ONZGIZ0ft7H5w4ZC1aLBup2EzePVk-eV9wN28vJAhgrKGdYHfwy5DGgpTwk_H178Chzne5lhC6ydp7g/s1600/prepa%25CC%2581lene%25CC%2581+pieskovce.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "prepálené pieskovce"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3IE9bddbV4mB6558cw4tiFB7FZN1OmRjzrgdVQnsxO5VpvkW4L3ZZvxgOlg6EDTZarxPqjkzIZMLoXOpsXeIM3uu0c0A9FxRsSF_SvY070MZ_i2adAdY0vBn17iL2KsJjVWk4WVFuzcc/s0/prvy%25CC%2581+spodny%25CC%2581+val+s+na%25CC%2581dvori%25CC%2581m.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3IE9bddbV4mB6558cw4tiFB7FZN1OmRjzrgdVQnsxO5VpvkW4L3ZZvxgOlg6EDTZarxPqjkzIZMLoXOpsXeIM3uu0c0A9FxRsSF_SvY070MZ_i2adAdY0vBn17iL2KsJjVWk4WVFuzcc/s1600/prvy%25CC%2581+spodny%25CC%2581+val+s+na%25CC%2581dvori%25CC%2581m.JPG",
+        "filename": "prvy%CC%81+spodny%CC%81+val+s+na%CC%81dvori%CC%81m.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3IE9bddbV4mB6558cw4tiFB7FZN1OmRjzrgdVQnsxO5VpvkW4L3ZZvxgOlg6EDTZarxPqjkzIZMLoXOpsXeIM3uu0c0A9FxRsSF_SvY070MZ_i2adAdY0vBn17iL2KsJjVWk4WVFuzcc/s1600/prvy%25CC%2581+spodny%25CC%2581+val+s+na%25CC%2581dvori%25CC%2581m.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "prvý spodný val s nádvorím"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7lb7Y9r2xAli8JMDUtN7OT-d1WF-v0IAId5WrXSmSEA-BCpbEENXGQaVJwKQv45g5OHDvIU5w_gqqvJ6X29hbnlPeXQVYAiAh1PQWPAgd60N8MnpTR59WjQrlDA0__xzgJyoAh0n1iZU/s0/severna%25CC%2581+c%25CC%258Cast%25CC%258C+valu.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7lb7Y9r2xAli8JMDUtN7OT-d1WF-v0IAId5WrXSmSEA-BCpbEENXGQaVJwKQv45g5OHDvIU5w_gqqvJ6X29hbnlPeXQVYAiAh1PQWPAgd60N8MnpTR59WjQrlDA0__xzgJyoAh0n1iZU/s1600/severna%25CC%2581+c%25CC%258Cast%25CC%258C+valu.JPG",
+        "filename": "severna%CC%81+c%CC%8Cast%CC%8C+valu.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7lb7Y9r2xAli8JMDUtN7OT-d1WF-v0IAId5WrXSmSEA-BCpbEENXGQaVJwKQv45g5OHDvIU5w_gqqvJ6X29hbnlPeXQVYAiAh1PQWPAgd60N8MnpTR59WjQrlDA0__xzgJyoAh0n1iZU/s1600/severna%25CC%2581+c%25CC%258Cast%25CC%258C+valu.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "severná časť valu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmctv2ADohOl-P7UeCRiIxuOjwnV3kKLNiCtHFFPLqNk65ixs7ROLMmhnU8RLcL5ACKBzkt-osKzESKDATlO3h1kChS7ntrQUvz3Vf7gmPsTE6wcWje632Nm77rCvfIxE29ygGcxOBHpU/s0/severny%25CC%2581+val+t%25CC%258Cahaju%25CC%2581ci+sa+k+za%25CC%2581padu.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmctv2ADohOl-P7UeCRiIxuOjwnV3kKLNiCtHFFPLqNk65ixs7ROLMmhnU8RLcL5ACKBzkt-osKzESKDATlO3h1kChS7ntrQUvz3Vf7gmPsTE6wcWje632Nm77rCvfIxE29ygGcxOBHpU/s1600/severny%25CC%2581+val+t%25CC%258Cahaju%25CC%2581ci+sa+k+za%25CC%2581padu.JPG",
+        "filename": "severny%CC%81+val+t%CC%8Cahaju%CC%81ci+sa+k+za%CC%81padu.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmctv2ADohOl-P7UeCRiIxuOjwnV3kKLNiCtHFFPLqNk65ixs7ROLMmhnU8RLcL5ACKBzkt-osKzESKDATlO3h1kChS7ntrQUvz3Vf7gmPsTE6wcWje632Nm77rCvfIxE29ygGcxOBHpU/s1600/severny%25CC%2581+val+t%25CC%258Cahaju%25CC%2581ci+sa+k+za%25CC%2581padu.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "severný val ťahajúci sa k západu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqrqcbda6oEAY8hZvtwNLyQZ934m1vt1VrWY5VDSHMWDGQjWyJmtCMr2Myj07eUQhnuEuekAkEzWRECWv7S1zTKzwVXbhfhFnya4PI7aaamud83n4a4z3gyqrnY6_UXXDdAl6dbZyuPP8/s0/severo-vy%25CC%2581chodny%25CC%2581+koniec+horne%25CC%2581ho+valu.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqrqcbda6oEAY8hZvtwNLyQZ934m1vt1VrWY5VDSHMWDGQjWyJmtCMr2Myj07eUQhnuEuekAkEzWRECWv7S1zTKzwVXbhfhFnya4PI7aaamud83n4a4z3gyqrnY6_UXXDdAl6dbZyuPP8/s1600/severo-vy%25CC%2581chodny%25CC%2581+koniec+horne%25CC%2581ho+valu.JPG",
+        "filename": "severo-vy%CC%81chodny%CC%81+koniec+horne%CC%81ho+valu.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqrqcbda6oEAY8hZvtwNLyQZ934m1vt1VrWY5VDSHMWDGQjWyJmtCMr2Myj07eUQhnuEuekAkEzWRECWv7S1zTKzwVXbhfhFnya4PI7aaamud83n4a4z3gyqrnY6_UXXDdAl6dbZyuPP8/s1600/severo-vy%25CC%2581chodny%25CC%2581+koniec+horne%25CC%2581ho+valu.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "severo-východný koniec horného valu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iam7dZSDyeU8cEuT6882DrsSaaMWAGUU0Qm9BnBGVJcZTItpGAsc9ejQ7SYRIvxWopguQP3lsNEXVM6YBIV64RlP81Waud2oVFr3SwCBi0NSEVlAS7JFaIxrsVi28j5c6JtRyenjLCA/s0/vel%25CC%258Cky%25CC%2581+druhy%25CC%2581+val+-+za%25CC%2581padna%25CC%2581+strana.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iam7dZSDyeU8cEuT6882DrsSaaMWAGUU0Qm9BnBGVJcZTItpGAsc9ejQ7SYRIvxWopguQP3lsNEXVM6YBIV64RlP81Waud2oVFr3SwCBi0NSEVlAS7JFaIxrsVi28j5c6JtRyenjLCA/s1600/vel%25CC%258Cky%25CC%2581+druhy%25CC%2581+val+-+za%25CC%2581padna%25CC%2581+strana.JPG",
+        "filename": "vel%CC%8Cky%CC%81+druhy%CC%81+val+-+za%CC%81padna%CC%81+strana.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-iam7dZSDyeU8cEuT6882DrsSaaMWAGUU0Qm9BnBGVJcZTItpGAsc9ejQ7SYRIvxWopguQP3lsNEXVM6YBIV64RlP81Waud2oVFr3SwCBi0NSEVlAS7JFaIxrsVi28j5c6JtRyenjLCA/s1600/vel%25CC%258Cky%25CC%2581+druhy%25CC%2581+val+-+za%25CC%2581padna%25CC%2581+strana.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "veľký druhý val - západná strana"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVRcuSO_QoyrBQrmgPlVeetioAFVn8q1vSiG7OuhE7VG6uwcoo6CxwE74jJ2cUhQxfSqmv4KR4Mz5PwwKIb6ZTZ37B0pCR3CPYir_TDs5t3D50n2J9SxuoVmGJF8C73HYYjiq92PubBwk/s0/vnu%25CC%2581torna%25CC%2581+c%25CC%258Cast%25CC%258C+opevnenia+na+severo-vy%25CC%2581chodnej+strane.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVRcuSO_QoyrBQrmgPlVeetioAFVn8q1vSiG7OuhE7VG6uwcoo6CxwE74jJ2cUhQxfSqmv4KR4Mz5PwwKIb6ZTZ37B0pCR3CPYir_TDs5t3D50n2J9SxuoVmGJF8C73HYYjiq92PubBwk/s1600/vnu%25CC%2581torna%25CC%2581+c%25CC%258Cast%25CC%258C+opevnenia+na+severo-vy%25CC%2581chodnej+strane.JPG",
+        "filename": "vnu%CC%81torna%CC%81+c%CC%8Cast%CC%8C+opevnenia+na+severo-vy%CC%81chodnej+strane.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVRcuSO_QoyrBQrmgPlVeetioAFVn8q1vSiG7OuhE7VG6uwcoo6CxwE74jJ2cUhQxfSqmv4KR4Mz5PwwKIb6ZTZ37B0pCR3CPYir_TDs5t3D50n2J9SxuoVmGJF8C73HYYjiq92PubBwk/s1600/vnu%25CC%2581torna%25CC%2581+c%25CC%258Cast%25CC%258C+opevnenia+na+severo-vy%25CC%2581chodnej+strane.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "vnútorná časť opevnenia na severo-východnej strane"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq9giF6HXvYwSoTpWR969QNUXIGZon2-YC7TX07Y2lJDwncvFcoXRtglmnHlRG1DuAa_drcW1u7dcX2L1AV1jE3N8_OeWaYRJlKoMQ_8mVIjEqGdIi8Wjy_jWzwCawvUZzxUBzYZ_dnDE/s0/vy%25CC%2581chodna%25CC%2581+c%25CC%258Cast%25CC%258C+s+c%25CC%258Cast%25CC%258Cou+juho+vy%25CC%2581chodne%25CC%2581ho+valu.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq9giF6HXvYwSoTpWR969QNUXIGZon2-YC7TX07Y2lJDwncvFcoXRtglmnHlRG1DuAa_drcW1u7dcX2L1AV1jE3N8_OeWaYRJlKoMQ_8mVIjEqGdIi8Wjy_jWzwCawvUZzxUBzYZ_dnDE/s1600/vy%25CC%2581chodna%25CC%2581+c%25CC%258Cast%25CC%258C+s+c%25CC%258Cast%25CC%258Cou+juho+vy%25CC%2581chodne%25CC%2581ho+valu.JPG",
+        "filename": "vy%CC%81chodna%CC%81+c%CC%8Cast%CC%8C+s+c%CC%8Cast%CC%8Cou+juho+vy%CC%81chodne%CC%81ho+valu.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq9giF6HXvYwSoTpWR969QNUXIGZon2-YC7TX07Y2lJDwncvFcoXRtglmnHlRG1DuAa_drcW1u7dcX2L1AV1jE3N8_OeWaYRJlKoMQ_8mVIjEqGdIi8Wjy_jWzwCawvUZzxUBzYZ_dnDE/s1600/vy%25CC%2581chodna%25CC%2581+c%25CC%258Cast%25CC%258C+s+c%25CC%258Cast%25CC%258Cou+juho+vy%25CC%2581chodne%25CC%2581ho+valu.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "východná časť s časťou juho východného valu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdLPVkW6OaQt8OmKyo6wIckF-y8wNRBwNIDGnoOJPDSpv7kvNcpNkaqFA9VCbQWFbblWxfY47umwo78eCl1OwQyv1hhxDkHHxo8ff-QRySWAd9BFP1ELxoYGtKeugIFddsOaV8khCDzn4/s0/zachovana%25CC%2581++c%25CC%258Cast%25CC%258C+vstupu+na+hradisko+z++juhovy%25CC%2581chodnej+strany.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdLPVkW6OaQt8OmKyo6wIckF-y8wNRBwNIDGnoOJPDSpv7kvNcpNkaqFA9VCbQWFbblWxfY47umwo78eCl1OwQyv1hhxDkHHxo8ff-QRySWAd9BFP1ELxoYGtKeugIFddsOaV8khCDzn4/s1600/zachovana%25CC%2581++c%25CC%258Cast%25CC%258C+vstupu+na+hradisko+z++juhovy%25CC%2581chodnej+strany.JPG",
+        "filename": "zachovana%CC%81++c%CC%8Cast%CC%8C+vstupu+na+hradisko+z++juhovy%CC%81chodnej+strany.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdLPVkW6OaQt8OmKyo6wIckF-y8wNRBwNIDGnoOJPDSpv7kvNcpNkaqFA9VCbQWFbblWxfY47umwo78eCl1OwQyv1hhxDkHHxo8ff-QRySWAd9BFP1ELxoYGtKeugIFddsOaV8khCDzn4/s1600/zachovana%25CC%2581++c%25CC%258Cast%25CC%258C+vstupu+na+hradisko+z++juhovy%25CC%2581chodnej+strany.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "zachovaná časť vstupu na hradisko z juhovýchodnej strany"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEienQQtjuVOxCfbsuCF_6ngnPIZ8DPvUOcAss4kF8oNuI0y1Hh2u_B6l_Jw3Ax2VO4Ey21CcDTEXdwcgUESFuMVT26fp4oKQKdGPq7R8S4CPjkmCobsem9vcsC0ibb7tSQJ1NedgTr92EE/s0/za%25CC%2581padny%25CC%2581+vy%25CC%2581bez%25CC%258Cok+horne%25CC%2581ho+valu+-+za%25CC%2581padna%25CC%2581+c%25CC%258Cast%25CC%258C.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEienQQtjuVOxCfbsuCF_6ngnPIZ8DPvUOcAss4kF8oNuI0y1Hh2u_B6l_Jw3Ax2VO4Ey21CcDTEXdwcgUESFuMVT26fp4oKQKdGPq7R8S4CPjkmCobsem9vcsC0ibb7tSQJ1NedgTr92EE/s1600/za%25CC%2581padny%25CC%2581+vy%25CC%2581bez%25CC%258Cok+horne%25CC%2581ho+valu+-+za%25CC%2581padna%25CC%2581+c%25CC%258Cast%25CC%258C.JPG",
+        "filename": "za%CC%81padny%CC%81+vy%CC%81bez%CC%8Cok+horne%CC%81ho+valu+-+za%CC%81padna%CC%81+c%CC%8Cast%CC%8C.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEienQQtjuVOxCfbsuCF_6ngnPIZ8DPvUOcAss4kF8oNuI0y1Hh2u_B6l_Jw3Ax2VO4Ey21CcDTEXdwcgUESFuMVT26fp4oKQKdGPq7R8S4CPjkmCobsem9vcsC0ibb7tSQJ1NedgTr92EE/s1600/za%25CC%2581padny%25CC%2581+vy%25CC%2581bez%25CC%258Cok+horne%25CC%2581ho+valu+-+za%25CC%2581padna%25CC%2581+c%25CC%258Cast%25CC%258C.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "západný výbežok horného valu - západná časť"
+      }
+    ],
+    "tags": [
+      "Žilina - Závodie"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Hradisko leží na kóte 626 v katastrálnom území miestnej časti Závodie; chotárom patrí do Závodia, zemepisne skôr do Strážova.",
+        "icon": "map"
+      },
+      {
+        "label": "Rozloha",
+        "value": "Približne 6 ha, podobná rozlohe hradiska na Straníku.",
+        "icon": "mountain"
+      },
+      {
+        "label": "Výška valov",
+        "value": "Valové opevnenie miestami dosahuje výšku až cez tri metre.",
+        "icon": "shield"
+      },
+      {
+        "label": "Funkcia hradiska",
+        "value": "Slúžilo ako refúgium – útočiskové opevnenie pre obyvateľstvo z okolitých osád v čase nebezpečenstva.",
+        "icon": "building"
+      },
+      {
+        "label": "Prvá písomná zmienka",
+        "value": "Hradisko prvýkrát spomína Matej Bel vo svojom diele o Trenčianskej stolici.",
+        "icon": "book"
+      },
+      {
+        "label": "Archeologický výskum",
+        "value": "Zisťovací výskum G. Povalu v roku 1964 priniesol črepy púchovskej kultúry.",
+        "icon": "star"
+      },
+      {
+        "label": "Prístup do areálu",
+        "value": "Vstup sa nachádzal na južnej strane, pravdepodobne chránený bránou.",
+        "icon": "custom"
+      },
+      {
+        "label": "Susedné opevnenia",
+        "value": "Prístup do Žilinskej kotliny strážili aj ďalšie opevnenia: Divinka – Veľký vrch, Háj nad Divinkou, Chlmecký vrch, Zámčisko v Žilinskej Lehote, Háj nad Ovčiarskom a Hradisko nad Strážovom.",
+        "icon": "flag"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "mladšia až neskorá doba bronzová",
+        "title": "Najstaršie doložené osídlenie",
+        "description": "Najintenzívnejšie osídlenie hradiska je doložené najmä pre obdobie mladšej až neskorej doby bronzovej.",
+        "type": "era"
+      },
+      {
+        "year": "neskorý latén – staršia doba rímska",
+        "title": "Osídlenie ľudom púchovskej kultúry",
+        "description": "Hradisko bolo osídlené aj v období okolo zmeny letopočtov (neskorý latén až staršia doba rímska), keď tu sídlil ľud púchovskej kultúry.",
+        "type": "era"
+      },
+      {
+        "year": "5. – 6. storočie – vrcholný stredovek",
+        "title": "Slovanské osídlenie a útočisková funkcia",
+        "description": "Od prelomu 5. – 6. storočia po vrcholný stredovek slúžilo hradisko ako refúgium, kde sa obyvateľstvo z okolitých osád ukrývalo v čase nebezpečenstva.",
+        "type": "era"
+      },
+      {
+        "year": "1900",
+        "title": "Zmienka v Sborníku Muzeálnej slovenskej spoločnosti",
+        "description": "O hradisku hovorí príspevok R. Zaymusa v Sborníku Muzeálnej slovenskej spoločnosti z roku 1900.",
+        "type": "event"
+      },
+      {
+        "year": "1923",
+        "title": "Zmienka u V. Chaloupeckého",
+        "description": "V. Chaloupecký spomína hradisko vo svojom diele Staré Slovensko.",
+        "type": "event"
+      },
+      {
+        "year": "1964",
+        "title": "Zisťovací výskum G. Povalu",
+        "description": "Zisťovací výskum G. Povalu priniesol iba črepy púchovskej kultúry a v malom mohylovom útvare podobnú keramiku; mohlo ísť o žiarový hrob pod malým mohylovým násypom.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Toto zaujímavé žilinské hradisko sa nachádza na kóte 626 v katastrálnom území miestnej časti Závodie. Prvýkrát sa spomína už v diele Mateja Bela o Trenčianskej stolici (Bel 2013, 53), kde uvádza: „Hradisko je zarastené ani nie tak stromami, ako hustými kroviskami. Dvíha sa spod Žiliny smerom k Hričovu. Kedysi v týchto výšavách postavili hrad, podľa neho dostal názov aj tento kopec. Jeho rozvaliny dodnes čnejú v blízkosti dediny Strážov\". O hradisku hovorí aj príspevok R. Zaymusa v Sborníku Muzeálnej slovenskej spoločnosti z roku 1900, s. 55 a spomína ho aj V. Chaloupecký v Starom Slovensku (Chaloupecký 1923, 94). "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Opevnenie je teda známe už dávno. Chotárom patrí do Závodia, ale zemepisne skôr do Strážova. Celé temeno je obklopené kamenisto-hlinitým valom, ktorý je najmohutnejší nad najprístupnejšou polohou a nižší je nad priliehajúcim predhradím, ktorého opevnenie má podobu iba akejsi terasy. R. Marsina predpokladal, že opevnenie Hradiska je pôvodu slovanského, ale zisťovací výskum G. Povalu v roku 1964 priniesol iba črepy púchovskej kultúry a v malom mohylovom útvare podobnú keramiku (obr. 6). Mohlo tu ísť o žiarový hrob pod malým mohylovým násypom. Plytké sedlo medzi Hradiskom a susednou kótou 632 sa nazýva Medzihradné. Názov upozorňuje na možnosť, že azda iba drevené opevnenie mohlo byť aj na kóte 632."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1cY2mwxp7RZAK2gkuUmoKOKUhe4fl68UjxsEvsfVnBfIzyOiaHwGJXsIEIHveskCb9dJlENCOQ_Nx4SKrmzokuZsx6H8EBHfONkyXgp3mP9uvw5FA6HvmpCk4jiH7x5uXMysM7Lu3eA/s0/Martin+Gavlas.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1cY2mwxp7RZAK2gkuUmoKOKUhe4fl68UjxsEvsfVnBfIzyOiaHwGJXsIEIHveskCb9dJlENCOQ_Nx4SKrmzokuZsx6H8EBHfONkyXgp3mP9uvw5FA6HvmpCk4jiH7x5uXMysM7Lu3eA/s1600/Martin+Gavlas.jpg",
+          "filename": "Martin+Gavlas.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1cY2mwxp7RZAK2gkuUmoKOKUhe4fl68UjxsEvsfVnBfIzyOiaHwGJXsIEIHveskCb9dJlENCOQ_Nx4SKrmzokuZsx6H8EBHfONkyXgp3mP9uvw5FA6HvmpCk4jiH7x5uXMysM7Lu3eA/s1600/Martin+Gavlas.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 225,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Umelecká predstava o vzhľade hradiska — Martin Gavlás",
+        "caption": "Umelecká predstava o vzhľade hradiska — Martin Gavlás",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prístup do Žilinskej kotliny strážili opevnenia Divinka Veľký vrch, Háj nad Divinkou, Chlmecký vrch, Zámčisko v Žilinskej Lehote, Háj nad Ovčiarskom a Hradisko nad Strážovom. Aj to hovorí o významnom postavení Žiliny a jej starom osídlení, ktoré reprezentujú rozsiahle sídliská v polohách Frambor, Šefranica, v Závodí Pod Vinicou a Pod Skalkou, v Bánovej, v Strážove – najmä poloha Tomanová. A mnoho ďalších v okolitých dedinách – Bánová, Bitarová, Hôrky, Ovčiarsko."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko nad Strážovom bolo iba refúgiom – čiže útočiskovým opevnením, kde sa tunajšie obyvateľstvo ukrývalo iba v čase nebezpečenstva. Najintenzívnejšie osídlenie je doložené opäť ako aj v prípade Straníka najmä pre obdobie mladšej až neskorej doby bronzovej, potom pre obdobie neskorého laténu až staršej doby rímskej a nakoniec pre obdobie slovanské od prelomu 5. – 6. stor. po vrcholný stredovek. Vo všetkých týchto horizontoch zrejme slúžilo na ochranu obyvateľstva z okolitých osád, sústredených v blízkosti Hradiska. \n \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr8wzpaAgbphc_1VY_s1nHiCMpiITkI1dl7sUcKrHZvzJGSIZDYnnh7qIcyDysIvDVQu2KNdAAOh9QqlSQ6idSbJocj7-o2ZI6LD92zySsTkny1J71whgWxRnZ7c9lmFmgVPFJaGRyiwE/s0/obr.4.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr8wzpaAgbphc_1VY_s1nHiCMpiITkI1dl7sUcKrHZvzJGSIZDYnnh7qIcyDysIvDVQu2KNdAAOh9QqlSQ6idSbJocj7-o2ZI6LD92zySsTkny1J71whgWxRnZ7c9lmFmgVPFJaGRyiwE/s1600/obr.4.jpg",
+          "filename": "obr.4.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr8wzpaAgbphc_1VY_s1nHiCMpiITkI1dl7sUcKrHZvzJGSIZDYnnh7qIcyDysIvDVQu2KNdAAOh9QqlSQ6idSbJocj7-o2ZI6LD92zySsTkny1J71whgWxRnZ7c9lmFmgVPFJaGRyiwE/s1600/obr.4.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 189,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Žilina-Závodie, Hradisko: pôdorys valového opevnenia.",
+        "caption": "Žilina-Závodie, Hradisko: pôdorys valového opevnenia.",
+        "position": "left",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko v Závodí svojou rozlohou asi 6 ha je podobné hradisku na Straníku. Len tunajšie valové opevnenie je omnoho výraznejšie a miestami dosahuje výška valov až cez tri metre. Prístup do areálu opevnenia sa nachádza na južnej strane a možno predpokladať, že bol chránený bránou, tak ako to bolo zvykom na takýchto opevneniach. Nálezy z areálu hradiska nie sú, žiaľ, skoro žiadne, až na tých zopár čriepkov púchovskej kultúry. Preto je aj veľmi zložité datovať vznik opevnenia. Musíme vychádzať iba z nálezovej situácie okolitých osád, ktoré sú najviac zastúpené najmä v mladšej až neskorej dobe bronzovej a potom v období okolo zmeny letopočtov, keď tu sídlil ľud púchovskej kultúry. Vtedy bola zrejme najväčšia šanca vybudovať také mohutné valy na takom veľkom priestore. Ľud lužickej aj púchovskej kultúry sa rozhodujúcou mierou zaslúžil o vznik veľkého Hradiska nad Závodím, ktoré je aj v súčasnosti vďačným objektom výletov miestnych obyvateľov.\n \n Autor textu: Mgr. Jozef Moravčík\n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ075RBC3ptzmpE4HK6fSjRlW16iUH8LpSAlDdEiQi4ZuErtrniYjbOb623nIw67D7ggEK7bszpKZMfkLjoOdACF4XDarUy5ao2gyRRx24taE_0uzHcuNSsQgoG6Rs1MlshxkYsL0d8eQ/s0/obr.5.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ075RBC3ptzmpE4HK6fSjRlW16iUH8LpSAlDdEiQi4ZuErtrniYjbOb623nIw67D7ggEK7bszpKZMfkLjoOdACF4XDarUy5ao2gyRRx24taE_0uzHcuNSsQgoG6Rs1MlshxkYsL0d8eQ/s1600/obr.5.jpg",
+          "filename": "obr.5.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ075RBC3ptzmpE4HK6fSjRlW16iUH8LpSAlDdEiQi4ZuErtrniYjbOb623nIw67D7ggEK7bszpKZMfkLjoOdACF4XDarUy5ao2gyRRx24taE_0uzHcuNSsQgoG6Rs1MlshxkYsL0d8eQ/s1600/obr.5.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 55,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradisko: časť valového opevnenia. Foto: Peter Bronček",
+        "caption": "Hradisko: časť valového opevnenia. Foto: Peter Bronček",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": "Článok prevzatý z:",
+        "items": [
+          {
+            "text": "MORAVČÍK, J.: Niektoré opevnenia v centrálnej časti Žilinskej kotliny. In: Hradiská – Svedkovia dávnych čias. Dolná Mariková 2015.",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Článok prevzatý z:"
+      },
+      {
+        "type": "attribution",
+        "text": "MORAVČÍK, J.: Niektoré opevnenia v centrálnej časti Žilinskej kotliny. In: Hradiská – Svedkovia dávnych čias. Dolná Mariková 2015."
+      }
+    ]
+  }
+}

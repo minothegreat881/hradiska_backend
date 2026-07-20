@@ -5,23 +5,23 @@
 
 ## ✅ Integrita a úplnosť
 
-> **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
+> **⚠ POZOR — niečo sa mohlo stratiť, pozri kontroly**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ❌ Text: pokrytie 97.15% vs originál (gramaticky opravené slová vyňaté: 0) — zvyšné mimo: pomorandské, lausitz, chemnitz, dobranitz, dobrancy, dobersch, dobrosicy, doberschau, dobruša, bow (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (9) ⊆ galéria (62) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 10, keyFacts 8
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 9 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
 |---|---|
-| rich-text (odseky/nadpisy) | 36 |
-| quote-block (dobové pramene) | 0 |
+| rich-text (odseky/nadpisy) | 29 |
+| quote-block (dobové pramene) | 1 |
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 9 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 5 položiek |
+| sources (zdroje) | 1 → 4 položiek |
 
 ## Obrázky
 - **galéria:** 62 (11 s popisom)
@@ -50,10 +50,29 @@
   - Stargrad (Oldenburg): Hlavné mesto kmeňa Vagrov, sídlo kniežaťa a svätyňa; dnes rekonštrukcia v múzeu Oldenburger Wallmuseum
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 9**
+  - interpunkcia (čiarky/bodky): 3
+  - preklepy: 2
+  - chýbajúce medzery: 1
+  - predložky: 1
+  - iné: 1
+  - veľké/malé písmená: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `storočia n. l. obývali` → `storočia n. l. obývali` | medzery v skratke n. l. (aplikované priamo, nie cez hint-nájdi) |
+| 2 | undefined | `pomoranské kmene` → `pomoranské kmene` | preklep pomorandské->pomoranské (aplikované priamo) |
+| 3 | undefined | `okolo r. 1066` → `okolo r. 1066` | chýbajúca bodka za r (aplikované priamo) |
+| 4 | undefined | `dnes sa na ňom nachádza` → `dnes sa na ňom nachádza` | zdvojená predložka v/na (aplikované priamo) |
+| 5 | undefined | `Gross Raden priamo` → `Gross Raden priamo` | stratený znak í (aplikované priamo) |
+| 6 | undefined | `badať mohutnú kruhovú` → `badať mohutnú kruhovú` | preklep muhutnú->mohutnú (aplikované priamo) |
+| 7 | undefined | `z 9. a 10. storočia` → `z 9. a 10. storočia` | chýbajúca bodka (aplikované priamo) |
+| 8 | undefined | `10. storočia do polovice` → `10. storočia do polovice` | veľké písmeno uprostred vety (aplikované priamo) |
+| 9 | undefined | `Albertom Medveďom".` → `Albertom Medveďom".` | medzera pred bodkou (aplikované priamo) |
 
 ## Ostatné
 - **komentáre:** 4
-- **text tela:** 14389 znakov (2126 slov)
+- **text tela:** 13088 znakov (1930 slov)
+- **pokrytie textu vs originál:** 97.15% (mimo: pomorandské, lausitz, chemnitz, dobranitz, dobrancy, dobersch, dobrosicy, doberschau)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

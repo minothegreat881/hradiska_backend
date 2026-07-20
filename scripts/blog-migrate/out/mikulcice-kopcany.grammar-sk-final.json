@@ -1,0 +1,45 @@
+{
+  "slug": "mikulcice-kopcany",
+  "sourceDraft": "out/mikulcice-kopcany.grammar-sk-pass1.json",
+  "appliedAt": "2026-07-15",
+  "criticalFixes": [],
+  "indexNote": "Draft's note claims '26 blokov, žiadny odstránený/pridaný', but the live intermediate.json has 25 rich-text/image/sources blocks. All draft block indices from 0–21 matched live content exactly at the same index; only the draft's 'block 24' (kostolía sv. Margity / 13.-17.-18. storočie paragraph) is actually at live index 23 — a one-index shift somewhere after block 21, cause unknown (unrelated to this pass). Resolved by matching on exact text content rather than trusting the index, per instructions.",
+  "appliedFixes": [
+    { "block": 0, "rule": "A8 diacritics + A7 bohemizmus + A1 comma", "before": "predvelkomoravského ... sa mohlo jednať o kmeňové centrum ... ľudskou činnosťou a tak bolo možné", "after": "predveľkomoravského ... mohlo ísť o kmeňové centrum ... ľudskou činnosťou, a tak bolo možné" },
+    { "block": 1, "rule": "A9 case (descriptive phrase, not proper name)", "before": "termín Mikulčicko-Kopčianske hradisko", "after": "termín mikulčicko-kopčianske hradisko" },
+    { "block": 3, "rule": "cross-field (matches 'trojloďová' in block 7 and keyFacts)", "before": "trojlodnej baziliky", "after": "trojloďovej baziliky" },
+    { "block": 4, "rule": "A3 subject-verb agreement + A1 vsuvka commas", "before": "Aglomerácie ako už bolo naznačené leží", "after": "Aglomerácia, ako už bolo naznačené, leží" },
+    { "block": 7, "rule": "B quotes — PROTECTED ZONE (Life of Cyril & Methodius quote), typography only", "before": "\"leží potom vo veľkom chráme moravskom po ľavej strane v stene za oltárom svätej Bohorodičky\"", "after": "„leží potom vo veľkom chráme moravskom po ľavej strane v stene za oltárom svätej Bohorodičky“" },
+    { "block": 9, "rule": "B dash + range + cross-field case (matches timeline 'základovej múry')", "before": "\"Cháronovej mince\" - zlatého ... z rokov 856 - 866 ... základové múry baziliky", "after": "„Cháronovej mince“ — zlatého ... z rokov 856–866 ... základovej múry baziliky" },
+    { "block": 10, "rule": "B compound hyphen + A1 redundant comma", "before": "umelecko - remeselných dielní ... s rybami, a iné.", "after": "umelecko-remeselných dielní ... s rybami a iné." },
+    { "block": 13, "rule": "B space before unit + B dash", "before": "dlhej 26m a širokej takmer 10m. ... súčasnosti – napr. Nitra).", "after": "dlhej 26 m a širokej takmer 10 m. ... súčasnosti — napr. Nitra)." },
+    { "block": 16, "rule": "B dash + A4 case (×4)", "before": "písacích nástrojov - stilo. ... hrnčiarstvo a textilníctva. ... s pozlátenými gombíky ... dlabané člny - monoxyly ... železná zubadlá ... miniatúrnej bohoslužobné knihy ... stopy konzumácia potravín", "after": "písacích nástrojov — stilo. ... hrnčiarstva a textilníctva. ... s pozlátenými gombíkmi ... dlabané člny — monoxyly ... železné zubadlá ... miniatúrnej bohoslužobnej knihy ... stopy konzumácie potravín", "note": "nested <link> child 'Kostol sv. Margity Antiochijskej' verified intact" },
+    { "block": 18, "rule": "A9 case (descriptive adjective, matches 'mikulčického' elsewhere)", "before": "Množstvo nálezov z Mikulčického hradiska nájdete tu:", "after": "Množstvo nálezov z mikulčického hradiska nájdete tu:", "note": "nested <link> child 'Bohatstvo Slovenov' verified intact" },
+    { "block": 19, "rule": "A4 case (matches 'požiaru') + typo", "before": "(požiaru, dobytie a pod.) ... obnovu schátraného areáli", "after": "(požiaru, dobytia a pod.) ... obnovu schátraného areálu" },
+    { "block": 20, "rule": "B dash (heading) + A9 case", "before": "Kopčany - Slovenská časť Mikulčíc", "after": "Kopčany — slovenská časť Mikulčíc" },
+    { "block": 21, "rule": "B hyphen + B dash ×2 + typo + OCR fix (PROTECTED Janšák quote) + attribution dash", "before": "roľnícko – pastierskych osád ... hradného centra – Valov ... prediktát kopčiansko-mikulčické ... tri aj štvrť kilomentra ... na čiare Valy – dnešná obec Mikulčice ... (Š. Janšák – Brány do dávnoveku).", "after": "roľnícko-pastierskych osád ... hradného centra — Valov ... predikát kopčiansko-mikulčické ... tri aj štvrť kilometra ... na čiare Valy — dnešná obec Mikulčice ... (Š. Janšák — Brány do dávnoveku)." },
+    { "block": 23, "rule": "A9 case + duplicate word removed + A8 kedy->keď (×2) + cross-field numbering + range", "before": "v blízkosti kostolía sv. Margity Antiochijskej až do do 13. storočia, kedy sa tento priestor ... bývalého kostola IX na podhradí ... v 16.-17. storočí. ... 18. storočia, kedy postavili", "after": "v blízkosti Kostola sv. Margity Antiochijskej až do 13. storočia, keď sa tento priestor ... bývalého kostola č. 9 na podhradí ... v 16.–17. storočí. ... 18. storočia, keď postavili" },
+    { "field": "keyFacts[label=Byzantský nález]", "rule": "B range (cross-field)", "before": "(856-866)", "after": "(856–866)" },
+    { "field": "timeline[title=Byzantský solidus v hrobe veľmoža].description", "rule": "B range (cross-field)", "before": "z rokov 856-866", "after": "z rokov 856–866" },
+    { "field": "timeline[title=Postavený nový kostol v obci].description", "rule": "A8 kedy->keď (cross-field)", "before": "18. storočia, kedy postavili", "after": "18. storočia, keď postavili" }
+  ],
+  "supplementalFixes_notInDraft": [
+    { "block": 13, "rule": "A1 'a to' explicative — requires comma not dash (§21.1)", "before": "nálezov ostrôh - a to aj pozlátených", "after": "nálezov ostrôh, a to aj pozlátených", "note": "Same rule class already demonstrated in the spec itself; unambiguous, mechanical." },
+    { "field": "excerpt", "rule": "A8 diacritics (cross-field — excerpt independently echoes the same typo as block 0)", "before": "predvelkomoravského", "after": "predveľkomoravského" }
+  ],
+  "crossFieldPropagation_step2_checked": [
+    "keyFacts and timeline scanned for every {before->after} pair from body fixes — 2 real hits found and fixed (856-866 range in both keyFacts and timeline; 'kedy'->'keď' in timeline). Rest of keyFacts/timeline already consistent (e.g. 'trojloďová', '34 × 9 m', '26 × takmer 10 m' already correct).",
+    "excerpt scanned — found and fixed the 'predvelkomoravského' typo shared with block 0.",
+    "gallery/media captions scanned — no affected terms found there for this article (captions are mostly short labels, none overlapping the corrected phrases)."
+  ],
+  "reviewed_no_change": [
+    "Blocks 6, 12, 15 — short headings/text, no errors.",
+    "Blocks 16 and 18 contain nested <link> children — left untouched, only surrounding text corrected.",
+    "location, gallery captions — no grammar errors found."
+  ],
+  "flags_unresolved": [
+    "See out/mikulcice-kopcany.review.json"
+  ],
+  "blockCountChange": "25 -> 25 (no blocks removed/added)",
+  "uploadReady": true
+}

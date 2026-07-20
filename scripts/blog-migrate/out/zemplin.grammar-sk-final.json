@@ -1,0 +1,23 @@
+{
+  "slug": "zemplin",
+  "note": "grammar-sk pass 2 — cross-field konzistencia (§21.4). Mapa {before -> after} z pass 1 prehnaná cez timeline[], keyFacts[], excerpt, media captions, sources, citations, title, tags.",
+  "crossFieldChecked": ["excerpt", "keyFacts[]", "timeline[].description", "title", "tags", "gallery captions", "content.sources", "citations"],
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "D cross-field propagácia (A3 zhoda, presne zdieľaná veta tela/excerptu)", "field": "excerpt", "before": "Jej intravilán a blízke okolie bolo…", "after": "Jej intravilán a blízke okolie boli…" },
+    { "rule": "D cross-field (× namiesto x, telo malo starý tvar, keyFacts už mal '240 × 150 m')", "field": "žiadna zmena v keyFacts (bol už správny), telo zosúladené v pass 1", "before": "-", "after": "-" },
+    { "rule": "D cross-field (pomlčka v názve zdroja: keyFacts, content.sources aj citations mali rovnaký spojovník)", "field": "keyFacts[6].value, content.sources.items[0].text, citations[9].text", "before": "Archeologické pamiatky - Kultúrne krásy Slovenska", "after": "Archeologické pamiatky – Kultúrne krásy Slovenska" },
+    { "rule": "D cross-field (B.Benedik/Štúdijné zvesti — rovnaký text v sources aj citations)", "field": "content.sources.items[1].text, citations[10].text", "before": "B.Benedik: ... Štúdijné zvesti 14, 1964", "after": "B. Benedik: ... Študijné zvesti 14, 1964" },
+    { "rule": "D cross-field (typo 'pozedí' — rovnaký text v gallery caption aj citations)", "field": "gallery[10].caption, citations[2].text", "before": "V pozedí mohutný val hradiska", "after": "V pozadí mohutný val hradiska" },
+    { "rule": "D cross-field (nekonzistentný prítomný čas — rovnaká veta parafrázovaná v tele blok 4 aj v timeline[3])", "field": "timeline[3].description", "before": "Osídlenie postupne doznieva a koncom storočia zaniká...", "after": "Osídlenie postupne doznievalo a koncom storočia zaniklo..." }
+  ],
+  "reviewed_no_change": [
+    "title 'Zemplín' a tags ['Zemplín'] — chránený vlastný názov, bez zmeny.",
+    "timeline[] — všetkých 10 položiek prekontrolovaných proti opravenej verzii tela; jediný nález bol timeline[3] (opravené); zvyšok už bol v cieľovom tvare.",
+    "keyFacts[] — všetkých 7 položiek prekontrolovaných; jediný nález bol keyFacts[6] (opravené).",
+    "content.sources / citations — mimo dvoch vyššie uvedených cross-field opráv (Turčan, B. Benedik, 'V pozadí') zostávajúce položky (URL-only zdroje, 'Foto v texte: Kveta', 'Foto pod textom: Viliam Olbricht') bez gramatických nálezov."
+  ],
+  "flags": [],
+  "uploadReady": true,
+  "verifiedJsonValid": true
+}

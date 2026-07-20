@@ -5,13 +5,13 @@
 
 ## ✅ Integrita a úplnosť
 
-> **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
+> **⚠ POZOR — niečo sa mohlo stratiť, pozri kontroly**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ❌ Text: pokrytie 97.63% vs originál (gramaticky opravené slová vyňaté: 4) — zvyšné mimo: fotogaléria, 360travel, vez, literatúra, cas, miranda2, export, sitesavcr, data, avcr (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (7) ⊆ galéria (48) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 7, keyFacts 8
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 11 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 7 |
 | embed (video/3D) | 1 |
-| sources (zdroje) | 1 → 6 položiek |
+| sources (zdroje) | 1 → 4 položiek |
 
 ## Obrázky
 - **galéria:** 48 (15 s popisom)
@@ -47,10 +47,30 @@
   - Dnes: Archeoskanzen s rekonštruovanou komorovou a palisádovou hradbou, vstupnou bránou vo veži, mostom cez priekopu a vnútornou zástavbou
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 11**
+  - interpunkcia (čiarky/bodky): 4
+  - veľké/malé písmená: 3
+  - iné: 2
+  - zhoda podmet–prísudok: 1
+  - predložky: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `400 m šírka asi 110 m` → `400 m, šírka asi 110 m` | chýbajúca čiarka |
+| 2 | undefined | `sa medzi jeho hradby vrátila` → `sa medzi jeho hradby vrátil` | zhoda podmetu (život, mužský rod) s prísudkom |
+| 3 | undefined | `Akropole v tej dobe jednoznačné dominoval` → `Akropole v tej dobe jednoznačne dominoval` | príslovka jednoznačne (nie prídavné meno) |
+| 4 | undefined | `Vstup na Akropolu cez val zaisťovala brána spojená s prvý predhradím pravdepodobné mostíkom` → `Vstup na akropolu cez val zaisťovala brána spojená s prvým predhradím pravdepodobne mostíkom` | obyčajné podstatné meno malým (akropolu) + inštrumentál (prvým) + príslovka (pravdepodobne) |
+| 5 | undefined | `Tiež Druhé predhradie bolo opevnené` → `Tiež druhé predhradie bolo opevnené` | obyčajné prídavné meno malým |
+| 6 | undefined | `s dĺžkou 150 m Na rozdiel` → `s dĺžkou 150 m. Na rozdiel` | chýbajúca bodka medzi vetami |
+| 7 | undefined | `tešínskeho Sliezska, sa dostala` → `tešínskeho Sliezska sa dostala` | nadbytočná čiarka medzi podmetom a prísudkom |
+| 8 | undefined | `prvom predhradí. ale tiež napr.` → `prvom predhradí, ale tiež napr.` | malé písmeno po bodke — spojenie čiarkou namiesto novej vety |
+| 9 | undefined | `zložená s viacerých obytných domov` → `zložená z viacerých obytných domov` | predložka z |
+| 10 | undefined | `priblíži život v dobe Slovanskej` → `priblíži život v dobe slovanskej` | prídavné meno malým (vzor ako veľkomoravský) |
+| 11 | undefined | `na avšak z väčšej časti` → `avšak z väčšej časti` | nezmyselný zvyšok slova 'na', zjavne z úpravy vety |
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 9045 znakov (1319 slov)
+- **text tela:** 9043 znakov (1318 slov)
+- **pokrytie textu vs originál:** 97.63% (mimo: fotogaléria, 360travel, vez, literatúra, cas, miranda2, export, sitesavcr)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

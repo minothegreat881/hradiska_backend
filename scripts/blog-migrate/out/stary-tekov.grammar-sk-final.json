@@ -1,0 +1,28 @@
+{
+  "slug": "stary-tekov",
+  "note": "Pass 2 — cross-field konzistencia (§21.4).",
+  "beforeAfterMap": [
+    { "before": "650 X 100—135 m", "after": "650 × 100 – 135 m" },
+    { "before": "180 X 135 m / 135X70 m / 135 X 110 m", "after": "180 × 135 m / 135 × 70 m / 135 × 110 m" },
+    { "before": "9. —10. / 7.-8. / 9.—10.", "after": "9. – 10. / 7. – 8. / 9. – 10." },
+    { "before": "najneskoršie", "after": "najneskôr" },
+    { "before": "Várhedi", "after": "Várheďi" },
+    { "before": "vyskumom", "after": "výskumom" },
+    { "before": "4,3 X 5,5 m", "after": "4,3 × 5,5 m" },
+    { "before": "Za účasť kláštora", "after": "Za súčasť kláštora" },
+    { "before": "1241-1242", "after": "1241 – 1242" },
+    { "before": "a uvádzajú župani Geche a Verner", "after": "s uvedenými županmi Geche a Verner" },
+    { "before": "193-195", "after": "193 – 195" },
+    { "before": "*Diplomová práca+", "after": "[Diplomová práca]" }
+  ],
+  "crossFieldChecks": [
+    { "field": "excerpt", "result": "Excerpt je len úvodná časť vety z bloku 0 pred prvou opravovanou pasážou (končí na 'Rozprestiera sa…' skôr, než sa v tele objaví '650 X 100—135 m'). Žiadny z opravovaných tvarov sa v excerpte nenachádza. Bez zmeny." },
+    { "field": "keyFacts[]", "result": "ŽIADNA oprava nutná — keyFacts už pred pass 1 obsahovali správne cieľové tvary ('650 × 100 – 135 m', '4,3 × 5,5 m', 'Várheď' v nominatíve), telo bolo dotiahnuté na ich úroveň (rovnaký smer propagácie ako pri spisske-tomasovce)." },
+    { "field": "timeline[]", "result": "ŽIADNA oprava nutná — timeline položky 'Slovanská keramika na Várheďi' (správne 'Várheďi'), '9. – 10. storočie (ojedinele 7. – 8.)', '1241 – 1242', a najmä 'Hrad sa spomína roku 1206 a v rokoch 1240 – 1246, s uvedenými županmi Geche a Verner' už mali presne tie tvary, na ktoré bolo telo opravené v pass 1 — potvrdzuje, že telo (pôvodný extrakt) bolo pred sidebar agentom zastarané." },
+    { "field": "media[].caption / alternativeText", "result": "Skontrolované všetky popisky (galéria + image-block alt/caption) — žiadny neobsahuje opravované tvary. Bez zmeny." },
+    { "field": "title / tags", "result": "'Starý Tekov' / ['Starý Tekov'] — bez zmeny." },
+    { "field": "content.sources / citations", "result": "Opravené mechanicky (medzera pred čiarkou, číselný rozsah strán, poškodené zátvorky *...+ → [...]) — viď appliedFixes. EMPTY_COLON pri 'Foto Orgoň 2.11.2024:' nahlásené, nezmenené." },
+    { "field": "location.name", "result": "'Starý Tekov' — mimo rozsahu §21.4, bez zmeny." }
+  ],
+  "verdict": "Cross-field propagácia preverená na všetkých poliach zo zoznamu §21.4. Vo všetkých prípadoch bol smer propagácie 'sidebar (keyFacts/timeline) už správny → telo dotiahnuté na jeho úroveň', okrem bibliografických mechanických opráv, ktoré sa netýkajú sidebaru. intermediate.json je po pass 1 + pass 2 pripravený na upload (mimo 2 nahlásených flagov v review.json)."
+}

@@ -504,6 +504,7 @@ export interface ApiBlogCategoryBlogCategory
       Schema.Attribute.SetMinMaxLength<{
         maxLength: 100;
       }>;
+    order: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<100>;
     posts: Schema.Attribute.Relation<'oneToMany', 'api::blog-post.blog-post'>;
     publishedAt: Schema.Attribute.DateTime;
     slug: Schema.Attribute.UID<'name'> & Schema.Attribute.Required;

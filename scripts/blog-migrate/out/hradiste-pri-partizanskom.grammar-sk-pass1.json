@@ -1,0 +1,47 @@
+{
+  "slug": "hradiste-pri-partizanskom",
+  "note": "grammar-sk agent, prvý prechod (článok nikdy predtým nemal grammar-sk aplikovaný). §21.8 regresný test — obsahuje ~600-slovný priamy citát Štefana Janšáka (1928, blocks 7,9,10,12,13, prerušený obrázkami, italic:true). Pravidlo: 0 zmien slov v citáte, iba mechanické §21.3 výnimky.",
+  "protected_zone": {
+    "blocks": [7, 9, 10, 12, 13],
+    "detection": "Citát nie je content.quote-block, ale reťaz content.rich-text blokov s italic:true, prerušená 3 obrázkami; blok 6 pred ním končí dvojbodkou ('Janšák opisuje hradisko takto:'), čo aktivuje is_protected() na blok 7; bloky 9/10/12/13 sú pokračovaním tej istej citácie (rovnaký italic štýl, žiadna uvádzacia veta medzi nimi) a boli manuálne označené za chránené v celom rozsahu.",
+    "changes_applied": [
+      { "rule": "OCR mechanická výnimka (§21.3 povolené aj v chránenej zóne)", "before": "boIi voľakedy pohanské oltáre", "after": "boli voľakedy pohanské oltáre", "block": 12, "reason": "veľké I namiesto malého l — chyba prepisu, nie autorov pravopis" }
+    ],
+    "reference_forms_verified_untouched": ["nivó", "pohlaď", "bedlivom", "rozpadového", "Hradisko bolo objavené autorom v auguste 1926 roku."]
+  },
+  "appliedFixes": [
+    { "rule": "typografia (title/alt trailing whitespace)", "before": "\"Hradište (pri Partizánskom) \"", "after": "\"Hradište (pri Partizánskom)\"", "block": "title + 4× image alt (blocks 3,11,14,17,22)" },
+    { "rule": "typografia (trailing whitespace v tele)", "before": "...orná pôda.\\n \\n", "after": "...orná pôda.", "block": 0 },
+    { "rule": "B typografia (číselný rozsah storočí)", "before": "v období 9. - 10. storočia", "after": "v období 9. – 10. storočia", "block": 5 },
+    { "rule": "A2 chýbajúce sa / eliptický predikát", "before": "a okolo neho zachovaný cintorín s náhrobnými doskami", "after": "a okolo neho sa zachoval cintorín s náhrobnými doskami", "block": 5, "note": "zosúladené aj s timeline popisom 'Okolo kostola sa zachoval cintorín...'" },
+    { "rule": "typografia (trailing whitespace pred dvojbodkou)", "before": "Janšák opisuje hradisko takto:   ", "after": "Janšák opisuje hradisko takto:", "block": 6 },
+    { "rule": "A1 nadbytočná čiarka (alebo spája rovnorodé členy)", "before": "slovanské predhistorické hradiská, alebo hradiská z úsvitu historických čias", "after": "slovanské predhistorické hradiská alebo hradiská z úsvitu historických čias", "block": 15 },
+    { "rule": "A8 diakritika", "before": "Na polohe Pravdova bol lokalizovaný", "after": "Na polohe Pravdová bol lokalizovaný", "block": 16, "note": "zhoda s tvarom 'Pravdová' použitým v bloku 0" },
+    { "rule": "A7 bohemizmus (jedná sa o → ide o)", "before": "Je možné, že sa jedná o majetok", "after": "Je možné, že ide o majetok", "block": 16 },
+    { "rule": "typografia (trailing whitespace)", "before": "nie je isté.   ", "after": "nie je isté.", "block": 16 },
+    { "rule": "typografia (trailing whitespace)", "before": "povrch vyvýšeniny.  ", "after": "povrch vyvýšeniny.", "block": 19 },
+    { "rule": "typografia (trailing whitespace)", "before": "A pridáme ešte jednu legendu: ", "after": "A pridáme ešte jednu legendu:", "block": 20 },
+    { "rule": "A4/predložka (chýbajúce 'v')", "before": "ktorá sa obci Hradište traduje", "after": "ktorá sa v obci Hradište traduje", "block": 21 },
+    { "rule": "A1 chýbajúca čiarka (vymenovanie 3 členov)", "before": "ktorému patrila osada pod hradom polia a lesy", "after": "ktorému patrila osada pod hradom, polia a lesy", "block": 21 },
+    { "rule": "A1 apozícia menom → pomlčka", "before": "iný veľmož - Chotomapán", "after": "iný veľmož — Chotomapán", "block": 21 },
+    { "rule": "A8 i/í (genitív pl. možností)", "before": "technických možnosti sa takáto stavba", "after": "technických možností sa takáto stavba", "block": 21 },
+    { "rule": "typografia (trailing whitespace)", "before": "nedala realizovať.  ", "after": "nedala realizovať.", "block": 21 },
+    { "rule": "typografia (dvojitá medzera)", "before": "Zdroj:  Janšák, Štefan.", "after": "Zdroj: Janšák, Štefan.", "block": 23 },
+    { "rule": "B typografia (podtitul → pomlčka)", "before": "Hradište - Pamätnica obce, IKAR, 1996", "after": "Hradište — Pamätnica obce, IKAR, 1996", "block": 24, "note": "propagované aj do content.sources.items a citations[] (identický reťazec 3×)" },
+    { "rule": "typografia (chýbajúca bodka medzi zlepenými bibl. záznamami)", "before": "s. 447  Ruttkay, A.:", "after": "s. 447. Ruttkay, A.:", "block": 25 },
+    { "rule": "A8 diakritika + trailing whitespace (skratka Archeologický ústav SAV)", "before": "AU SAV  ", "after": "AÚ SAV", "block": 30 },
+    { "rule": "typografia (chýbajúca medzera po bodke, caption)", "before": "hustými trnkami.Mňam", "after": "hustými trnkami. Mňam", "block": "gallery caption" },
+    { "rule": "A8 preklep (chýbajúce d) + typografia (medzery pri číslach/interpunkcii, caption)", "before": "Pohľad spod zápaného valu na vrchol valu.Výška kolíše od 1,5metra do 2metrov,podľa nerovností.", "after": "Pohľad spod západného valu na vrchol valu. Výška kolíše od 1,5 metra do 2 metrov, podľa nerovností.", "block": "gallery caption" },
+    { "rule": "A9 veľké písmeno na začiatku popisky + interpunkcia (zhoda so susednými popiskami)", "before": "pohľad z akropoly na predhradie", "after": "Pohľad z akropoly na predhradie.", "block": "gallery caption" },
+    { "rule": "A8 (prvý krát → prvýkrát, cross-field §21.4)", "before": "Obec sa prvý krát spomína v písomných prameňoch v roku 1533.", "after": "Obec sa prvýkrát spomína v písomných prameňoch v roku 1533.", "block": "timeline (položka 'Prvá písomná zmienka')", "note": "telo už malo správny tvar 'Prvýkrát' (blok 5), timeline mal starý dvojslovný tvar — klasická cross-field nekonzistencia" }
+  ],
+  "nfd_nfc_fix": "Celý súbor bol pred úpravami normalizovaný na NFC (57342→57280 bajtov) — pôvodne uložený s kombinujúcimi diakritickými znakmi (typicky pri 'ň'), čo bránilo string-match pri 'Mňam'. Mechanická normalizácia, nemení viditeľný obsah.",
+  "reviewed_no_change": [
+    "'(pozn. Orgoň)' sa v tomto článku nevyskytuje.",
+    "Bloky 26-29 (heading 'Zborník SNM, LXXXIII? História 29, 1989', 'Foto:', 'Tomáš Kytka', 'Tomáš Humaj') — ponechané nezmenené, pozri review.json.",
+    "'Magyar országh varmegy (Nyitra)' — historický názov uhorského lexikónu, zhodný v tele aj v timeline, nezjednocovať s moderným prepisom (je to citovaný názov diela)."
+  ],
+  "flags": [
+    "Pozri out/hradiste-pri-partizanskom.review.json — duplicitná bibliografia v tele (bloky 23-26) aj v content.sources/citations, a 2 osirotené fragmenty (bloky 28-29 'Tomáš Kytka'/'Tomáš Humaj') bez jasného priradenia k obrázku."
+  ]
+}

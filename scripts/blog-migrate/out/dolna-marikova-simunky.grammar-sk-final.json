@@ -1,0 +1,11 @@
+{
+  "slug": "dolna-marikova-simunky",
+  "note": "grammar-sk pass1 (draft) aplikovaný priamo + pass2 cross-field konzistencia. Editované priamo v out/dolna-marikova-simunky.intermediate.json.",
+  "step1_appliedFixes_count": 30,
+  "step2_crossfield_scan_result": "Plný sken keyFacts+timeline+excerpt+title+tags na číselné rozsahy, veľké/malé písmená (Veľká Morava, tatársky vpád, Bielej vody), formálny názov 'II. vojenské mapovanie' a diakritiku mena Robert Majsky. Nálezy: keyFacts 'Poloha' (12-15 → 12 – 15, n.m. → n. m.); gallery/image-block duplicitné popisky (Detkovec na mape mapovania, Nálezy ktoré publikoval, okrej→okraj) opravené na oboch miestach výskytu (gallery[] aj blocks[] image-block, ako aj content.sources.items/citations[] pri 'okraj').",
+  "flags_unresolved": [
+    "Pozri out/dolna-marikova-simunky.review.json — UNCLOSED_PAREN (citát páter Povalu, odsek o názve Dedková) a informačná poznámka k osamotenému heading-u 'Orgoň'."
+  ],
+  "protected_zone_verification": "5 chránených zón identifikovaných a overených: (1) Juraj Malec citát č.1 (opevnenie/výhľad), (2) Juraj Malec citát č.2 (dizertačná práca, strážna funkcia), (3) Robert Majsky citát (2 samostatné italic-segmenty o názve Dedkovec), (4) Peter Schreiber citát (križovatka ciest), (5) obecná kronika Marikovej 1941 + krátky citát páter Povalu. Vo všetkých 0 zmien slova vnútri citovaného textu — iba narrátorské uvádzacie frázy a 1 mechanická oprava dvojmedzery mimo citátu.",
+  "upload_ready": true
+}

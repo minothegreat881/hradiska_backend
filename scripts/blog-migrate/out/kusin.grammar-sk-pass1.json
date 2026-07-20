@@ -1,0 +1,23 @@
+{
+  "slug": "kusin",
+  "note": "grammar-sk agent, prvý (a jediný predchádzajúci) prechod — kategória 'Strážna a hospodárska funkcia' nikdy predtým gramaticky spracovaná. Telo je takmer doslovná reprodukcia odbornej state V. Budinského-Kričku (Nové obzory 25, Košice 1983) — zdroj typu 1 podľa §21 preambuly (dobová odborná slovenčina), teda PODLIEHA bežnej gramatickej korektúre (nie je to citát typu Holuby/Janšák chránený §21.3, keďže nie je v blockquote a nemá uvádzaciu formulu). Väčšina vety je gramaticky vzorná (autor bol jazykovo disciplinovaný), preto málo zásahov v tele — hlavné nálezy boli v galérii (neformálne popisky z novších fotiek z Facebooku/dronu) a v bibliografickom riadku.",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "B typografia (apozícia, hyphen -> em dash)", "before": "jediný železný predmet - postranné závesné kovanie vedierka", "after": "jediný železný predmet — postranné závesné kovanie vedierka", "block": 7 },
+    { "rule": "cross-field meno (BUDINSKÝ - KRIČKA -> Budinský-Krička, zhoda s protected-terms.json a zvyškom článku) + B rozsah strán en dash", "before": "BUDINSKÝ - KRIČKA, V.: ... s. 97 - 111.", "after": "BUDINSKÝ-KRIČKA, V.: ... s. 97 – 111.", "block": 11 },
+    { "rule": "A8 chýbajúca diakritika (gallery caption)", "before": "umela priekopa na najplytsom mieste", "after": "umelá priekopa na najplytšom mieste", "block": "gallery" },
+    { "rule": "A5 slovosled príslovky (gallery caption)", "before": "Rez valom, urobili ho lesníci zrejme, prerazili val v jednej časti.", "after": "Rez valom, urobili ho lesníci, zrejme prerazili val v jednej časti.", "block": "gallery" },
+    { "rule": "A1 vsuvka 'žiaľ' uzavretá čiarkami z oboch strán (gallery caption)", "before": "o rez valom sa žiaľ postarala ťažká technika", "after": "o rez valom sa, žiaľ, postarala ťažká technika", "block": "gallery" },
+    { "rule": "B typografia (apozícia) + A8 chýbajúca diakritika ×2 (gallery caption)", "before": "rez detail - zdá sa, že miestami sú aj nasucho kladene kamene, ale je to zdevastovane", "after": "rez detail — zdá sa, že miestami sú aj nasucho kladené kamene, ale je to zdevastované", "block": "gallery" },
+    { "rule": "B typografia (apozícia, hyphen -> em dash) (gallery caption)", "before": "vnútorná plocha hradiska - pekná rovinka", "after": "vnútorná plocha hradiska — pekná rovinka", "block": "gallery" }
+  ],
+  "reviewed_no_change": [
+    "Telo (blok 1-9): jazykovo vzorný odborný text — sa/si pozícia, väzby, zhoda podmet-prísudok všetky správne pri kontrole (napr. 'Hradek sa dalo predpokladať', 'si zasluhuje osobitnú pozornosť', 'pozostáva z' — všetky vzorové, nie chybné).",
+    "'hodno', 'sa žiada pripomenúť' (blok 5, 7) — archaické, ale spisovné modálne výrazy typické pre dobovú odbornú slovenčinu, nemodernizované (nejde o bohemizmus ani chybu).",
+    "'nielen s postupom ... ale najskôr aj s ...' (blok 9) — vzor nielen/ale aj je kompletný, žiadny zásah.",
+    "Mnohé gallery popisky bez veľkého písmena a bodky ('koruna valu', 'prerazený val', 'dobre viditeľná devastácia valu') — konzistentný neformálny štýl vlastný tejto skupine (novšie, z Facebooku/drona) fotiek, ponechané bez zmeny veľkosti písmena (iba diakritika/interpunkcia opravená tam, kde bola vecne chybná)."
+  ],
+  "flags": [
+    "Pozri out/kusin.review.json — MISSING_WORD ('datovať do obdobia X do Y', 3× naprieč telom/timeline/keyFacts), AMBIGUOUS_WORD ('V valu' v gallery popiske)."
+  ]
+}

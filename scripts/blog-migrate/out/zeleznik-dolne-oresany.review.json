@@ -1,0 +1,12 @@
+{
+  "slug": "zeleznik-dolne-oresany",
+  "generatedAt": "2026-07-15T16:15:28.799Z",
+  "flags": [
+    {
+      "type": "DUPLICATE_BIBLIO",
+      "location": "body, two rich-text blocks after \"Literatúra:\" heading",
+      "text": "PETER ŠIMČÍK: FRAGMENTY KRÚŽKOVEJ ZBROJE... / JÁN HUNKA: Historický význam...",
+      "note": "Both bibliography entries are duplicated verbatim as body paragraphs AND as content.sources items. Matches §21.5 DUPLICATE_BIBLIO. Left untouched, needs human decision on whether to remove the body duplicates."
+    }
+  ]
+}

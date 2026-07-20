@@ -1,0 +1,16 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Chotěbuz-Podobora, 13.7.2026. Vzor: prídavné mená od vlastných mien (veľkomoravský, slovanský) v strede vety malým.",
+  "corrections": [
+    { "hint": 4, "before": "400 m šírka asi 110 m", "after": "400 m, šírka asi 110 m", "reason": "chýbajúca čiarka" },
+    { "hint": 6, "before": "sa medzi jeho hradby vrátila", "after": "sa medzi jeho hradby vrátil", "reason": "zhoda podmetu (život, mužský rod) s prísudkom" },
+    { "hint": 11, "before": "Akropole v tej dobe jednoznačné dominoval", "after": "Akropole v tej dobe jednoznačne dominoval", "reason": "príslovka jednoznačne (nie prídavné meno)" },
+    { "hint": 11, "before": "Vstup na Akropolu cez val zaisťovala brána spojená s prvý predhradím pravdepodobné mostíkom", "after": "Vstup na akropolu cez val zaisťovala brána spojená s prvým predhradím pravdepodobne mostíkom", "reason": "obyčajné podstatné meno malým (akropolu) + inštrumentál (prvým) + príslovka (pravdepodobne)" },
+    { "hint": 11, "before": "Tiež Druhé predhradie bolo opevnené", "after": "Tiež druhé predhradie bolo opevnené", "reason": "obyčajné prídavné meno malým" },
+    { "hint": 11, "before": "s dĺžkou 150 m Na rozdiel", "after": "s dĺžkou 150 m. Na rozdiel", "reason": "chýbajúca bodka medzi vetami" },
+    { "hint": 23, "before": "tešínskeho Sliezska, sa dostala", "after": "tešínskeho Sliezska sa dostala", "reason": "nadbytočná čiarka medzi podmetom a prísudkom" },
+    { "hint": 23, "before": "prvom predhradí. ale tiež napr.", "after": "prvom predhradí, ale tiež napr.", "reason": "malé písmeno po bodke — spojenie čiarkou namiesto novej vety" },
+    { "hint": 27, "before": "zložená s viacerých obytných domov", "after": "zložená z viacerých obytných domov", "reason": "predložka z" },
+    { "hint": 27, "before": "priblíži život v dobe Slovanskej", "after": "priblíži život v dobe slovanskej", "reason": "prídavné meno malým (vzor ako veľkomoravský)" },
+    { "hint": 0, "before": "na avšak z väčšej časti", "after": "avšak z väčšej časti", "reason": "nezmyselný zvyšok slova 'na', zjavne z úpravy vety" }
+  ]
+}

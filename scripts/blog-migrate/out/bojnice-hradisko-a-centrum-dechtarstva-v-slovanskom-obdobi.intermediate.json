@@ -1,0 +1,923 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label28-bojnice.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5450364537600991004",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/07/bojnice-hradisko-centrum-dechtarstva-v.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/5450364537600991004/comments/default",
+    "extractedAt": "2026-07-13T23:07:16.271Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&ll=48.779892,18.578761&spn=0.005373,0.016158&t=h&z=17&vpsrc=6&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 16,
+      "captionedImages": 6,
+      "separatorImages": 10
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Bojnice - hradisko a centrum dechtárstva v slovanskom období",
+    "slug": "bojnice-hradisko-a-centrum-dechtarstva-v-slovanskom-obdobi",
+    "excerpt": "Bojnice sú známe nielen pravekým osídlením Prepoštskej jaskyne http://muzeumpraveku.sk/ a rozprávkovým neogotickým zámkom, ktorý dal do dnešnej podoby prestavať Ján Pálffy, ale aj významným slovanským osídlením, ktoré sa našlo nielen v…",
+    "authorName": "Orgon",
+    "publishedAt": "2013-07-11T23:28:00.004+02:00",
+    "originalPublishedDate": "2013-07-11T23:28:00.004+02:00",
+    "updatedAt": "2013-12-12T22:02:26.731+01:00",
+    "readingTime": 8,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-i5CmgSDZYVmbB4l7-ElN_0UoM6sj01Cb_Frxj4GC8UdfebjXBHulHDR4IL9YifkYdpoK75YYjYX35axMBhHiSDQTgQFy1p1gpGAfy4q-TpggrX9t62321Nz_-7_gKL2PURhXRCYFp8o/s0/jaskyn%CC%8Ca.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-i5CmgSDZYVmbB4l7-ElN_0UoM6sj01Cb_Frxj4GC8UdfebjXBHulHDR4IL9YifkYdpoK75YYjYX35axMBhHiSDQTgQFy1p1gpGAfy4q-TpggrX9t62321Nz_-7_gKL2PURhXRCYFp8o/s1600/jaskyn%CC%8Ca.jpg",
+      "filename": "jaskyňa.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-i5CmgSDZYVmbB4l7-ElN_0UoM6sj01Cb_Frxj4GC8UdfebjXBHulHDR4IL9YifkYdpoK75YYjYX35axMBhHiSDQTgQFy1p1gpGAfy4q-TpggrX9t62321Nz_-7_gKL2PURhXRCYFp8o/s1600/jaskyn%CC%8Ca.jpg",
+        "displayedWidth": 212,
+        "displayedHeight": 320,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-i5CmgSDZYVmbB4l7-ElN_0UoM6sj01Cb_Frxj4GC8UdfebjXBHulHDR4IL9YifkYdpoK75YYjYX35axMBhHiSDQTgQFy1p1gpGAfy4q-TpggrX9t62321Nz_-7_gKL2PURhXRCYFp8o/s0/jaskyn%CC%8Ca.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-i5CmgSDZYVmbB4l7-ElN_0UoM6sj01Cb_Frxj4GC8UdfebjXBHulHDR4IL9YifkYdpoK75YYjYX35axMBhHiSDQTgQFy1p1gpGAfy4q-TpggrX9t62321Nz_-7_gKL2PURhXRCYFp8o/s1600/jaskyn%CC%8Ca.jpg",
+        "filename": "jaskyňa.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-i5CmgSDZYVmbB4l7-ElN_0UoM6sj01Cb_Frxj4GC8UdfebjXBHulHDR4IL9YifkYdpoK75YYjYX35axMBhHiSDQTgQFy1p1gpGAfy4q-TpggrX9t62321Nz_-7_gKL2PURhXRCYFp8o/s1600/jaskyn%CC%8Ca.jpg",
+          "displayedWidth": 212,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Prepoštská jaskyňa — bydlisko neandertálca"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzo72NfDzousrdbuNKpffmE-YTLsFxsjp9Owe3s_LpBpBjMdnTYQ9XTk4EyszPyzyRPh8Ykx0WGNb9RB4cFwmRcDDgEzUJuGE7utSmLC866b39eH1hiuMB5P95bA-T0ocQo4omkJMHZLA/s0/zamok-bojnice-castle6.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzo72NfDzousrdbuNKpffmE-YTLsFxsjp9Owe3s_LpBpBjMdnTYQ9XTk4EyszPyzyRPh8Ykx0WGNb9RB4cFwmRcDDgEzUJuGE7utSmLC866b39eH1hiuMB5P95bA-T0ocQo4omkJMHZLA/s1600/zamok-bojnice-castle6.jpg",
+        "filename": "zamok-bojnice-castle6.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzo72NfDzousrdbuNKpffmE-YTLsFxsjp9Owe3s_LpBpBjMdnTYQ9XTk4EyszPyzyRPh8Ykx0WGNb9RB4cFwmRcDDgEzUJuGE7utSmLC866b39eH1hiuMB5P95bA-T0ocQo4omkJMHZLA/s1600/zamok-bojnice-castle6.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 182,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR6nV7-1KuvdvK2uV2GIbXpJ9ce7-MKqiSlZMH8hoq1nusjbBU6C563IyYWute7SASJWoi_mYe5OG-YqpeiUP1tqqVgqaDeknLRrO2nkyGU9BXlyOD-6ISFq6_OUG81AMs-gMoArBNh1U/s0/02-7.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR6nV7-1KuvdvK2uV2GIbXpJ9ce7-MKqiSlZMH8hoq1nusjbBU6C563IyYWute7SASJWoi_mYe5OG-YqpeiUP1tqqVgqaDeknLRrO2nkyGU9BXlyOD-6ISFq6_OUG81AMs-gMoArBNh1U/s1600/02-7.jpg",
+        "filename": "02-7.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR6nV7-1KuvdvK2uV2GIbXpJ9ce7-MKqiSlZMH8hoq1nusjbBU6C563IyYWute7SASJWoi_mYe5OG-YqpeiUP1tqqVgqaDeknLRrO2nkyGU9BXlyOD-6ISFq6_OUG81AMs-gMoArBNh1U/s1600/02-7.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhesg8vOQnF4W56Asc_bou8vl3EPd67CS6ENXij8XMxooZ9GfPyf9M1IYuErg9STP2cVrHh_VASjL40-2M60xoRIcZ-d4KUtEzBgJj97q1Coa6DIp4GfJwKUkURnAWD7nMGX7OK636BeU/s0/Bradatica+upr.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhesg8vOQnF4W56Asc_bou8vl3EPd67CS6ENXij8XMxooZ9GfPyf9M1IYuErg9STP2cVrHh_VASjL40-2M60xoRIcZ-d4KUtEzBgJj97q1Coa6DIp4GfJwKUkURnAWD7nMGX7OK636BeU/s1600/Bradatica+upr.jpg",
+        "filename": "Bradatica+upr.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhesg8vOQnF4W56Asc_bou8vl3EPd67CS6ENXij8XMxooZ9GfPyf9M1IYuErg9STP2cVrHh_VASjL40-2M60xoRIcZ-d4KUtEzBgJj97q1Coa6DIp4GfJwKUkURnAWD7nMGX7OK636BeU/s1600/Bradatica+upr.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 159,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Slovanská sekera — bradatica z Bojníc"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCpuisRoBnevsQctSc03UK3mIOYJon95zKStbskg1xWzqd-bpvuy8Phromxli7yQwFiWnjOZB6q2ZHs4MrSIDEZhGR_K6KuG4alGio3u9eQWMddvqxGHtMM06KYZZRxnHQYNfym3BMKlw/s0/od+Ronyho+domywww.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCpuisRoBnevsQctSc03UK3mIOYJon95zKStbskg1xWzqd-bpvuy8Phromxli7yQwFiWnjOZB6q2ZHs4MrSIDEZhGR_K6KuG4alGio3u9eQWMddvqxGHtMM06KYZZRxnHQYNfym3BMKlw/s1600/od+Ronyho+domywww.jpg",
+        "filename": "od+Ronyho+domywww.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCpuisRoBnevsQctSc03UK3mIOYJon95zKStbskg1xWzqd-bpvuy8Phromxli7yQwFiWnjOZB6q2ZHs4MrSIDEZhGR_K6KuG4alGio3u9eQWMddvqxGHtMM06KYZZRxnHQYNfym3BMKlw/s1600/od+Ronyho+domywww.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 267,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Slovanské polozemnice"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs4BoG-ZC6Le7UdK3Fh40s5MzrlNnW7VDcKr3oECSSwGW2shkvsz4ONKblGr0gdafwwujy5Z10cOAaa52pbQH51ePgSPg_LqOvYLxm6ssh6gAd-hy-cww9jZqhw78iUNCyWhq8hXhXiCY/s0/800px-Kolomazna%CC%81_pec.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs4BoG-ZC6Le7UdK3Fh40s5MzrlNnW7VDcKr3oECSSwGW2shkvsz4ONKblGr0gdafwwujy5Z10cOAaa52pbQH51ePgSPg_LqOvYLxm6ssh6gAd-hy-cww9jZqhw78iUNCyWhq8hXhXiCY/s1600/800px-Kolomazna%CC%81_pec.JPG",
+        "filename": "800px-Kolomazná_pec.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs4BoG-ZC6Le7UdK3Fh40s5MzrlNnW7VDcKr3oECSSwGW2shkvsz4ONKblGr0gdafwwujy5Z10cOAaa52pbQH51ePgSPg_LqOvYLxm6ssh6gAd-hy-cww9jZqhw78iUNCyWhq8hXhXiCY/s1600/800px-Kolomazna%CC%81_pec.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Zrekonštruovaná novoveká dechtárska pec v Bolevci"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh30xLUeZx1MXg1_s9ySp93ResNB3XN670TAgpV731cuMohqcqrJEDEmCmF2c7f7HSkTimv9V0Og9vpqOCl8g4efG7vC3v3RNw6LLXoiWNN86iO_2YhAedwCNxA_GvGAuuSpCYTBYbPzb0/s0/IMG_7015.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh30xLUeZx1MXg1_s9ySp93ResNB3XN670TAgpV731cuMohqcqrJEDEmCmF2c7f7HSkTimv9V0Og9vpqOCl8g4efG7vC3v3RNw6LLXoiWNN86iO_2YhAedwCNxA_GvGAuuSpCYTBYbPzb0/s1600/IMG_7015.JPG",
+        "filename": "IMG_7015.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh30xLUeZx1MXg1_s9ySp93ResNB3XN670TAgpV731cuMohqcqrJEDEmCmF2c7f7HSkTimv9V0Og9vpqOCl8g4efG7vC3v3RNw6LLXoiWNN86iO_2YhAedwCNxA_GvGAuuSpCYTBYbPzb0/s1600/IMG_7015.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIOfSBwFhptkOFL7iWXyHfqtA0aW2gK7hqvaB2KggzNsVMFeRy-BfxpOwNKVYqVgwdCbHL2LfNLPv8tHs6Osa7BNIPPG1rtu5E0qf70950kFrKD2sRMkhIi1_qcaYQVIKXMBliIO-w6oQ/s0/c%CC%8Crep.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIOfSBwFhptkOFL7iWXyHfqtA0aW2gK7hqvaB2KggzNsVMFeRy-BfxpOwNKVYqVgwdCbHL2LfNLPv8tHs6Osa7BNIPPG1rtu5E0qf70950kFrKD2sRMkhIi1_qcaYQVIKXMBliIO-w6oQ/s1600/c%CC%8Crep.jpg",
+        "filename": "črep.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIOfSBwFhptkOFL7iWXyHfqtA0aW2gK7hqvaB2KggzNsVMFeRy-BfxpOwNKVYqVgwdCbHL2LfNLPv8tHs6Osa7BNIPPG1rtu5E0qf70950kFrKD2sRMkhIi1_qcaYQVIKXMBliIO-w6oQ/s1600/c%CC%8Crep.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Črep slovanskej nádoby so symbolom svastiky"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdW3f20vn8T21tB4dkiswOL_a8aZb_sfupK7eWrBzoBvBsmNfu65xjol5jJlBQLv4BK7jvQy4dLF5j6qHwegPYl1ro3UPtpCTeUpgwvoyuovZ7vF6BOioLhRFgZFft1dxbVL6HNswlyhU/s0/IMG_7068.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdW3f20vn8T21tB4dkiswOL_a8aZb_sfupK7eWrBzoBvBsmNfu65xjol5jJlBQLv4BK7jvQy4dLF5j6qHwegPYl1ro3UPtpCTeUpgwvoyuovZ7vF6BOioLhRFgZFft1dxbVL6HNswlyhU/s1600/IMG_7068.JPG",
+        "filename": "IMG_7068.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdW3f20vn8T21tB4dkiswOL_a8aZb_sfupK7eWrBzoBvBsmNfu65xjol5jJlBQLv4BK7jvQy4dLF5j6qHwegPYl1ro3UPtpCTeUpgwvoyuovZ7vF6BOioLhRFgZFft1dxbVL6HNswlyhU/s1600/IMG_7068.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Veľkomoravský sokoliar na hradisku Bojnice"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigeNNJjhWumm1LzXazS2P-AFsRc09V5klDyGjk-Jys8DzH7Yncz6rOluBPycpYPDsxHdUnmku2s2cyxwF3rrYEMlWR4cAyWIP4Y8Tb8mTAEot2nX9h_rJX5bsUb0YUhvqvfNn6ZK75d6U/s0/rytina.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigeNNJjhWumm1LzXazS2P-AFsRc09V5klDyGjk-Jys8DzH7Yncz6rOluBPycpYPDsxHdUnmku2s2cyxwF3rrYEMlWR4cAyWIP4Y8Tb8mTAEot2nX9h_rJX5bsUb0YUhvqvfNn6ZK75d6U/s1600/rytina.jpg",
+        "filename": "rytina.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigeNNJjhWumm1LzXazS2P-AFsRc09V5klDyGjk-Jys8DzH7Yncz6rOluBPycpYPDsxHdUnmku2s2cyxwF3rrYEMlWR4cAyWIP4Y8Tb8mTAEot2nX9h_rJX5bsUb0YUhvqvfNn6ZK75d6U/s1600/rytina.jpg",
+          "displayedWidth": 255,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_CImoS55UO3hxdjtj1FLv5INj9Rg8JaGdLdpG3KBE5c8rSHe6fTS0FuzeLbTlmOcYhRAuB3kh7puTEMPLmnWjwlIZGBfzm0JWqBZ011hpQ-ftNEGosl1pCR94Vwrvpg6LlQ0wUm6dE8g/s0/map2+VM.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_CImoS55UO3hxdjtj1FLv5INj9Rg8JaGdLdpG3KBE5c8rSHe6fTS0FuzeLbTlmOcYhRAuB3kh7puTEMPLmnWjwlIZGBfzm0JWqBZ011hpQ-ftNEGosl1pCR94Vwrvpg6LlQ0wUm6dE8g/s1600/map2+VM.jpg",
+        "filename": "map2+VM.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_CImoS55UO3hxdjtj1FLv5INj9Rg8JaGdLdpG3KBE5c8rSHe6fTS0FuzeLbTlmOcYhRAuB3kh7puTEMPLmnWjwlIZGBfzm0JWqBZ011hpQ-ftNEGosl1pCR94Vwrvpg6LlQ0wUm6dE8g/s1600/map2+VM.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 159,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ePDSY-uQqVDB8sVy9lVWDwRzn7wkW4vHfkfdMcq2JsWk76zq1-NjL5iO_WvRCts29T5SCTqw89ZVOauWCqfBytUArZSrbSqWXicEMY3szRx97Dipi20oFET0X4AyiQuMXOxvCUnt5W4/s0/map3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ePDSY-uQqVDB8sVy9lVWDwRzn7wkW4vHfkfdMcq2JsWk76zq1-NjL5iO_WvRCts29T5SCTqw89ZVOauWCqfBytUArZSrbSqWXicEMY3szRx97Dipi20oFET0X4AyiQuMXOxvCUnt5W4/s1600/map3.jpg",
+        "filename": "map3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ePDSY-uQqVDB8sVy9lVWDwRzn7wkW4vHfkfdMcq2JsWk76zq1-NjL5iO_WvRCts29T5SCTqw89ZVOauWCqfBytUArZSrbSqWXicEMY3szRx97Dipi20oFET0X4AyiQuMXOxvCUnt5W4/s1600/map3.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 160,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcGMCxUEDT5WAW0JwTS7XQbzC-vFWrbD_eogQ4PZCbfch0Jc1EEonpAscHj1vmMl_icene_gLwTlSQRpLdqQZnG4GqTfbsIhHIZxFZWvwrcjSDrZl3lQZML3uJNC7byS3MmN2QJE0RioQ/s0/Dechta%CC%81rske+pece.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcGMCxUEDT5WAW0JwTS7XQbzC-vFWrbD_eogQ4PZCbfch0Jc1EEonpAscHj1vmMl_icene_gLwTlSQRpLdqQZnG4GqTfbsIhHIZxFZWvwrcjSDrZl3lQZML3uJNC7byS3MmN2QJE0RioQ/s1600/Dechta%CC%81rske+pece.jpg",
+        "filename": "Dechtárske+pece.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcGMCxUEDT5WAW0JwTS7XQbzC-vFWrbD_eogQ4PZCbfch0Jc1EEonpAscHj1vmMl_icene_gLwTlSQRpLdqQZnG4GqTfbsIhHIZxFZWvwrcjSDrZl3lQZML3uJNC7byS3MmN2QJE0RioQ/s1600/Dechta%CC%81rske+pece.jpg",
+          "displayedWidth": 226,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVVJnX5KCZmulNPsjy5Q4JW0_sVOvNwXhOodINtuGrWMNwSt6jSCpDHwoRlQpiIuh5j6Ad4CpyTdfnMg7gvT6sNO8pqqnUhimTAknKgkpGcSFR8EjXfm4KDNYImrHVRGyePcLzL4mVQY/s0/sche%CC%81ma.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVVJnX5KCZmulNPsjy5Q4JW0_sVOvNwXhOodINtuGrWMNwSt6jSCpDHwoRlQpiIuh5j6Ad4CpyTdfnMg7gvT6sNO8pqqnUhimTAknKgkpGcSFR8EjXfm4KDNYImrHVRGyePcLzL4mVQY/s1600/sche%CC%81ma.jpg",
+        "filename": "schéma.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmVVJnX5KCZmulNPsjy5Q4JW0_sVOvNwXhOodINtuGrWMNwSt6jSCpDHwoRlQpiIuh5j6Ad4CpyTdfnMg7gvT6sNO8pqqnUhimTAknKgkpGcSFR8EjXfm4KDNYImrHVRGyePcLzL4mVQY/s1600/sche%CC%81ma.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 279,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjesJ2in8IrfFGAht8cGAdWhWk-VuosITZz7rkYckUKV3ak_oD8kkcINQzsQpz_BBOc6Bc_67suFb6VV1eYpIWSujCusnchoEmLwMVePv-cN9YofLomCT66CDeywHwWDbT0LL9A7DMtR4o/s0/IMG_7069.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjesJ2in8IrfFGAht8cGAdWhWk-VuosITZz7rkYckUKV3ak_oD8kkcINQzsQpz_BBOc6Bc_67suFb6VV1eYpIWSujCusnchoEmLwMVePv-cN9YofLomCT66CDeywHwWDbT0LL9A7DMtR4o/s1600/IMG_7069.JPG",
+        "filename": "IMG_7069.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjesJ2in8IrfFGAht8cGAdWhWk-VuosITZz7rkYckUKV3ak_oD8kkcINQzsQpz_BBOc6Bc_67suFb6VV1eYpIWSujCusnchoEmLwMVePv-cN9YofLomCT66CDeywHwWDbT0LL9A7DMtR4o/s1600/IMG_7069.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s0/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s1600/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+        "filename": "Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s1600/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 95,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Bojnice"
+    ],
+    "category": null,
+    "location": {
+      "name": "Bojnice",
+      "latitude": 48.779892,
+      "longitude": 18.578761,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Rozloha osídlenia",
+        "value": "Slovanské sídliskové a výrobné objekty sa rozkladali na ploche cca 200 ha na svahoch hlinitej terasy Nitry, členenej potokmi Kaňankou, Jarkom a Dubničkou",
+        "icon": "map"
+      },
+      {
+        "label": "Objavené polozemnice",
+        "value": "Deväť značne porušených jednopriestorových polozemníc s rozmermi cca 3 × 4 m v polohe Dolné lány, ďalšie príbytky v polohe Lipiny a pod nemocnicou",
+        "icon": "building"
+      },
+      {
+        "label": "Unikátne dechtárske jamy",
+        "value": "Batéria štyroch dechtárskych jám s priemerom cca 110 – 140 cm v polohe Zadné lány patrí medzi objekty jedinečné svojho druhu na Slovensku",
+        "icon": "custom"
+      },
+      {
+        "label": "Vzdialenosť náleziska",
+        "value": "Náleziská dechtárskych jám Zadné lány a Vrábecké delí vzdušná vzdialenosť asi 950 m",
+        "icon": "map"
+      },
+      {
+        "label": "Pôvod hradiska",
+        "value": "Hradisko na hradnej kope postavil zrejme už ľud púchovskej kultúry, neskôr si ho prispôsobili Slovania",
+        "icon": "mountain"
+      },
+      {
+        "label": "Proces výroby dechtu",
+        "value": "Vo vnútri jám prebiehala suchá destilácia dreva, ktorá pri teplotách približne 120 – 500 °C postupne vytvárala decht a drevené uhlie",
+        "icon": "star"
+      },
+      {
+        "label": "Široké využitie dechtu",
+        "value": "Decht sa využíval v debnárstve, kolárstve, garbiarstve, povrazníctve, na vojenské účely a v ovocinárstve, drevené uhlie zasa v kováčskych dielňach",
+        "icon": "custom"
+      },
+      {
+        "label": "Doklad diaľkového obchodu",
+        "value": "Obchod s dechtom na hornom Ponitrí dokladajú nálezy železných sekerovitých hrivien v Bošanoch, Žabokrekoch či Bojnej",
+        "icon": "book"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "8. – 9. storočie",
+        "title": "Vznik zamestnaneckých názvov osád",
+        "description": "Zamestnanecké názvy osád na Slovensku, medzi ktoré patria aj Dechtice a Smolenice, vznikali už v 8. a 9. storočí, ako doložil rozbor miestnych názvov R. Krajčoviča v konfrontácii s archeologickým materiálom.",
+        "type": "era"
+      },
+      {
+        "year": "9. – 10. storočie",
+        "title": "Železiarske a kováčske dielne",
+        "description": "Nálezy železnej trosky, škváry, hlineného téglika a dýzy vo výplni slovanských chát v Bojniciach dokladajú existenciu železiarskych a kováčskych dielní z 9. – 10. storočia.",
+        "type": "era"
+      },
+      {
+        "year": "1113",
+        "title": "Prvá písomná zmienka o Bojniciach",
+        "description": "V listine zoborského opátstva z roku 1113 sa spomína bojnické podhradie „de suburbanis Baimoz...\", čím sa hradisko stalo najstaršou historicky doloženou stavebnou pamiatkou Bojníc. Opevnené hradisko v tom čase stálo a listina zmieňuje aj faru.",
+        "type": "event"
+      },
+      {
+        "year": "1241 – 1242",
+        "title": "Ničivý tatársky vpád",
+        "description": "Po ničivom tatárskom vpáde v rokoch 1241 – 1242 nastalo obdobie horúčkovitého budovania kamenných hradov, v rámci ktorého bolo pravdepodobne prestavané aj bojnické hradisko.",
+        "type": "destruction"
+      },
+      {
+        "year": "1244",
+        "title": "Prvá zmienka o kostole",
+        "description": "Kostol v Bojniciach sa po prvý raz spomína v roku 1244.",
+        "type": "event"
+      },
+      {
+        "year": "1302",
+        "title": "Údaje o kamennom hrade",
+        "description": "Z roku 1302 pochádzajú prvé údaje o kamennom hrade, na ktorý bolo pôvodné hradisko v neskoršom období prestavané.",
+        "type": "construction"
+      },
+      {
+        "year": "60. roky 20. storočia",
+        "title": "Objav dechtárskych jám a sídliskových objektov",
+        "description": "Na svahu polohy Dolné lány objavili deväť polozemníc a neskôr, keď traktorista Galanský pri orbe narazil pluhom na tvrdo vypálené vrchné časti jám, aj batériu štyroch dechtárskych jám v polohe Zadné lány a ďalšie jamy v polohe Vrábecké.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bojnice sú známe nielen pravekým osídlením Prepoštskej jaskyne "
+              },
+              {
+                "type": "link",
+                "url": "http://muzeumpraveku.sk/",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "http://muzeumpraveku.sk/"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " a rozprávkovým neogotickým zámkom, ktorý dal do dnešnej podoby prestavať Ján Pálffy, ale aj významným slovanským osídlením, ktoré sa našlo nielen v priestore dnešného zámku, ale aj v jeho okolí. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Slovanské sídliskové a výrobné objekty sa rozkladali na svahoch mohutnej hlinitej terasy Nitry, členenej prítokmi Kaňankou, Jarkom a Dubničkou na niekoľko výrazných polôh, z ktorých každá má svoje pomenovanie (Nemocnica, Predné lány, Dolné lány, Zadné lány, Lipiny, Vrábecké). Celá táto plocha zaberá cca 200 ha a na nej v 60. rokoch objavili tmavé fľaky, pomerne pravidelne rozložené po severovýchodnom svahu polohy Dolné lány. Pri výskume sa ukázalo, že je to deväť značne porušených jednopriestorových polozemníc (rozmery cca 3 × 4 m), typických pre osady podobného charakteru na celom slovanskom území. Ďalšie príbytky sa zistili v polohe Lipiny a neskôr dva ďalšie na svahu pod nemocnicou."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-i5CmgSDZYVmbB4l7-ElN_0UoM6sj01Cb_Frxj4GC8UdfebjXBHulHDR4IL9YifkYdpoK75YYjYX35axMBhHiSDQTgQFy1p1gpGAfy4q-TpggrX9t62321Nz_-7_gKL2PURhXRCYFp8o/s0/jaskyn%CC%8Ca.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-i5CmgSDZYVmbB4l7-ElN_0UoM6sj01Cb_Frxj4GC8UdfebjXBHulHDR4IL9YifkYdpoK75YYjYX35axMBhHiSDQTgQFy1p1gpGAfy4q-TpggrX9t62321Nz_-7_gKL2PURhXRCYFp8o/s1600/jaskyn%CC%8Ca.jpg",
+          "filename": "jaskyňa.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-i5CmgSDZYVmbB4l7-ElN_0UoM6sj01Cb_Frxj4GC8UdfebjXBHulHDR4IL9YifkYdpoK75YYjYX35axMBhHiSDQTgQFy1p1gpGAfy4q-TpggrX9t62321Nz_-7_gKL2PURhXRCYFp8o/s1600/jaskyn%CC%8Ca.jpg",
+            "displayedWidth": 212,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Prepoštská jaskyňa — bydlisko neandertálca",
+        "caption": "Prepoštská jaskyňa — bydlisko neandertálca",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dávni predkovia z Bojníc, ako to poznáme aj z ostatných slovanských lokalít, svoje domy — polozemnice budovali tak, že časť zahĺbili do zeme a časť nechali vyvýšenú nad zemou. Táto nadzemná časť mala opletané steny omazané hlinou, tzv. mazanicou, ktorá sa našla vo výplni všetkých objektov. Pokryv polozemnice závisel od nosnej kolovej konštrukcie. S najväčšou pravdepodobnosťou išlo o sedlovitú strechu. Dno príbytkov malo udupanú hlinenú podlahu a v rohu bývalo umiestnené ohnisko, vybudované z kameňov. Podobné príbytky neopevnenej osady z 9. – 10. storočia na juhozápadnom Slovensku poznáme v Nitrianskom Hrádku. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pre bojnické chaty je príznačný hojný výskyt železnej trosky a škváry, ktoré vznikajú pri spracúvaní železa. Vo výplni objektov sa prichádzalo na črepy zo slovanskej keramiky, vyhotovenej už na hrnčiarskom kruhu a zdobenej typickou vlnovkou, vpichmi, horizontálnymi líniami alebo vrypmi, usporiadanými do krokvicového ornamentu a iných variácií. Nádoby sa vyhotovovali z hliny, v ktorej bol primiešaný jemnejší alebo i hrubší piesok a niekedy i sľuda. Okrem keramiky sa v objektoch našli železné nožíky, strelka, zvieracie kosti, hlinený téglik a tiež hlinená dýza, používaná na vháňanie vzduchu pri tavbe železa. Nálezy dokladajú existenciu železiarskych a kováčskych dielní z 9. – 10. storočia. V blízkosti sídlisk boli nájdené aj dechtárske pece.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzo72NfDzousrdbuNKpffmE-YTLsFxsjp9Owe3s_LpBpBjMdnTYQ9XTk4EyszPyzyRPh8Ykx0WGNb9RB4cFwmRcDDgEzUJuGE7utSmLC866b39eH1hiuMB5P95bA-T0ocQo4omkJMHZLA/s0/zamok-bojnice-castle6.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzo72NfDzousrdbuNKpffmE-YTLsFxsjp9Owe3s_LpBpBjMdnTYQ9XTk4EyszPyzyRPh8Ykx0WGNb9RB4cFwmRcDDgEzUJuGE7utSmLC866b39eH1hiuMB5P95bA-T0ocQo4omkJMHZLA/s1600/zamok-bojnice-castle6.jpg",
+          "filename": "zamok-bojnice-castle6.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzo72NfDzousrdbuNKpffmE-YTLsFxsjp9Owe3s_LpBpBjMdnTYQ9XTk4EyszPyzyRPh8Ykx0WGNb9RB4cFwmRcDDgEzUJuGE7utSmLC866b39eH1hiuMB5P95bA-T0ocQo4omkJMHZLA/s1600/zamok-bojnice-castle6.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 182,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Bojnice - hradisko a centrum dechtárstva v slovanskom období",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zrejme už ľud púchovskej kultúry na hradnej kope postavil hradisko, ktoré si neskôr prispôsobili Slovania. Neskoršie niekoľkonásobné prestavby hradu a jeho areálu zničili väčšinu stôp po slovanskom hradisku v priestore dnešného bojnického zámku. Napriek tomu sa archeologicky podarilo doložiť existenciu slovanského hradiska v tomto priestore. V neskoršom období budovania uhorského štátu bolo hradisko ďalej využívané a už v prvej písomnej zmienke o Bojniciach, v listine zoborského opátstva z roku 1113, sa spomína bojnické podhradie „de suburbanis Baimoz...\", čím sa hradisko stalo najstaršou historicky doloženou stavebnou pamiatkou Bojníc. Opevnené hradisko stálo v roku 1113 a niekedy v neskoršom období – pravdepodobne v časoch horúčkovitého budovania kamenných hradov po ničivom tatárskom vpáde v rokoch 1241 – 1242 – bolo prestavané na kamenný hrad, o ktorom sú údaje z roku 1302. Bol aj strediskom náboženského života, pretože cirkevná správa sa ustálila na kráľovských hradoch a vytvorili sa hradské fary. V Zoborskej listine z r. 1113 je už zmienka o fare, kostol sa však spomína až v roku 1244. V listine sa uvádzajú aj liečivé pramene.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR6nV7-1KuvdvK2uV2GIbXpJ9ce7-MKqiSlZMH8hoq1nusjbBU6C563IyYWute7SASJWoi_mYe5OG-YqpeiUP1tqqVgqaDeknLRrO2nkyGU9BXlyOD-6ISFq6_OUG81AMs-gMoArBNh1U/s0/02-7.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR6nV7-1KuvdvK2uV2GIbXpJ9ce7-MKqiSlZMH8hoq1nusjbBU6C563IyYWute7SASJWoi_mYe5OG-YqpeiUP1tqqVgqaDeknLRrO2nkyGU9BXlyOD-6ISFq6_OUG81AMs-gMoArBNh1U/s1600/02-7.jpg",
+          "filename": "02-7.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR6nV7-1KuvdvK2uV2GIbXpJ9ce7-MKqiSlZMH8hoq1nusjbBU6C563IyYWute7SASJWoi_mYe5OG-YqpeiUP1tqqVgqaDeknLRrO2nkyGU9BXlyOD-6ISFq6_OUG81AMs-gMoArBNh1U/s1600/02-7.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Bojnice - hradisko a centrum dechtárstva v slovanskom období",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "V Bojniciach žili zrejme chýrni dechtári"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Najpozoruhodnejším a zároveň i najdôležitejším objavom v Bojniciach sú dechtárske jamy v polohe Zadné lány a Vrábecké. Obe lokality delí vzdialenosť vzdušnou čiarou asi 950 m. Sú to nesporne objekty jedinečné svojho druhu u nás."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Batériu štyroch dechtárskych jám objavili v polohe Zadné lány, keď traktorista Galanský pri orbe na juhovýchodnom svahu, v mieste, ktoré sa najviac dvíha nad hlbokým zárezom poľnej cesty, jeho pluh narazil na tvrdo vypálené vrchné časti jám, strhol ich a rozmetal v bezprostrednom okolí. Po začistení povrchu sa objavili štyri pravidelné kruhy s priemerom cca 110 – 140 cm s neporušeným tmavým, po obvode prepáleným prstencom. Všetky jamy boli budované rovnako, a to tak, že jedna polovica dna ostala pevná a neporušená, zatiaľ čo v druhej polovici sa hlina vyberala ďalej, až vznikla nižšie položená priehlbina žiaducich rozmerov, čiastočne podbiehajúca pod pevné dno. Do tejto priehlbiny sa zachytával vytekajúci decht. Zásyp jám v polohe Zadné lány obsahoval kúsky zuhoľnateného, asi borovicového alebo smrekového dreva a popolavo sfarbenú hlinu. Bližšie ku dnu začínali sporadicky vystupovať hrudky ľahkej, smolovo čiernej pórovitej hmoty, ktorá pri zahrievaní charakteristicky voňala. V prvej jame sa našlo pár typických slovanských črepov a niekoľko zuhoľnatených zrniek strukovín. Z druhej jamy sú okraje nádob a dve neúplné dná s reliéfnymi značkami.\n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhesg8vOQnF4W56Asc_bou8vl3EPd67CS6ENXij8XMxooZ9GfPyf9M1IYuErg9STP2cVrHh_VASjL40-2M60xoRIcZ-d4KUtEzBgJj97q1Coa6DIp4GfJwKUkURnAWD7nMGX7OK636BeU/s0/Bradatica+upr.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhesg8vOQnF4W56Asc_bou8vl3EPd67CS6ENXij8XMxooZ9GfPyf9M1IYuErg9STP2cVrHh_VASjL40-2M60xoRIcZ-d4KUtEzBgJj97q1Coa6DIp4GfJwKUkURnAWD7nMGX7OK636BeU/s1600/Bradatica+upr.jpg",
+          "filename": "Bradatica+upr.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhesg8vOQnF4W56Asc_bou8vl3EPd67CS6ENXij8XMxooZ9GfPyf9M1IYuErg9STP2cVrHh_VASjL40-2M60xoRIcZ-d4KUtEzBgJj97q1Coa6DIp4GfJwKUkURnAWD7nMGX7OK636BeU/s1600/Bradatica+upr.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 159,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Slovanská sekera — bradatica z Bojníc",
+        "caption": "Slovanská sekera — bradatica z Bojníc",
+        "position": "right",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Takmer súčasne s objavením jám v polohe Zadné lány sa prišlo na ďalšie nálezisko dechtárskych objektov v polohe Vrábecké. Tieto jamy ukázali isté odlišnosti v stavbe a vnútornej úprave objektov. V hornej časti jednej jamy ležala poškodená nádoba so širokým ústím a von vyhnutým okrajom, vyhotovená z hrubého piesčitého materiálu, ktorý po styku s vysokou teplotou dostal tehlovočervenú farbu. Tvarom a veľkosťou úplne zodpovedá rozmerom priehlbiny, kam ju vkladali na zbieranie dechtu. Nesúmerne hrubý vzhľad nádoby je zapríčinený ručnou výrobou. Výraznejšie stopy obtáčania na hrnčiarskom kruhu sú badateľné iba v hornej tretine. Vo vnútri nádoby sa zachoval značne hrubý povlak dechtu. V oboch prípadoch dechtárske jamy pozostávajú z vlastnej komory, kam sa nakladala surovina, a spodnej priehlbiny, kde sa zachytával decht. V jamách v polohe Zadné lány sa nachádzali kúsky zuhoľnateného dreva, naproti tomu objekty v polohe Vrábecké boli až po okraj naplnené kôrou stromov. Situácia v polohe Zadné lány teda svedčí o zanechaní celej batérie po vybratí obsahu, naproti tomu zuhoľnatená kôra stromov v jamách na lokalite Vrábecké naznačuje opustenie objektov v priebehu výroby. Jamy v polohe Zadné lány a práve tak i v polohe Vrábecké boli do výroby zapojené naraz. Ostáva však nejasné, či objekty oboch spomínaných polôh môžeme považovať za celkom súčasné, alebo či uvedené detaily rôznej vnútornej úpravy sú prejavom časovej následnosti, zodpovedajúcej presunu celej osady na susednú polohu, kde sa založili nové výrobné dielne a príbytky.\n \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCpuisRoBnevsQctSc03UK3mIOYJon95zKStbskg1xWzqd-bpvuy8Phromxli7yQwFiWnjOZB6q2ZHs4MrSIDEZhGR_K6KuG4alGio3u9eQWMddvqxGHtMM06KYZZRxnHQYNfym3BMKlw/s0/od+Ronyho+domywww.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCpuisRoBnevsQctSc03UK3mIOYJon95zKStbskg1xWzqd-bpvuy8Phromxli7yQwFiWnjOZB6q2ZHs4MrSIDEZhGR_K6KuG4alGio3u9eQWMddvqxGHtMM06KYZZRxnHQYNfym3BMKlw/s1600/od+Ronyho+domywww.jpg",
+          "filename": "od+Ronyho+domywww.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCpuisRoBnevsQctSc03UK3mIOYJon95zKStbskg1xWzqd-bpvuy8Phromxli7yQwFiWnjOZB6q2ZHs4MrSIDEZhGR_K6KuG4alGio3u9eQWMddvqxGHtMM06KYZZRxnHQYNfym3BMKlw/s1600/od+Ronyho+domywww.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 267,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Slovanské polozemnice",
+        "caption": "Slovanské polozemnice",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Objav dechtárskych jám v Bojniciach je podnetom pre bližšie všimnutie si tohto dôležitého špecializovaného remesla u nás v slovanskom období. Už v českých prameňoch z 11. storočia sa spomínajú výrobcovia smoly pod menom pkelník-picarius. Trochu neskôr uhorské pramene uvádzajú zvláštnu služobnú vrstvu pod pojmom bucharii-pohárnici, zaoberajúcu sa azda i výrobou smoly. Na Slovensku existenciu dechtárstva ako špecializovaného remesla už v dobe Veľkomoravskej ríše donedávna dokladali iba jazykovedno-historické výskumy a menovite toponymistika. V 60. rokoch R. Krajčovič na základe rozboru miestnych názvov a ich konfrontácie s archeologickým materiálom dospel k záverom, že zamestnanecké názvy osád na Slovensku (zachované i v neskorších storočiach, alebo až do súčasnosti) patria do najstaršej skupiny, vznikajúcej v 8. a 9. storočí. Tohto druhu sú i Dechtice a Smolenice, ktorých obyvatelia sa zaoberali výrobou dechtu a smoly. K podobným poznatkom dospeli tiež historici.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs4BoG-ZC6Le7UdK3Fh40s5MzrlNnW7VDcKr3oECSSwGW2shkvsz4ONKblGr0gdafwwujy5Z10cOAaa52pbQH51ePgSPg_LqOvYLxm6ssh6gAd-hy-cww9jZqhw78iUNCyWhq8hXhXiCY/s0/800px-Kolomazna%CC%81_pec.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs4BoG-ZC6Le7UdK3Fh40s5MzrlNnW7VDcKr3oECSSwGW2shkvsz4ONKblGr0gdafwwujy5Z10cOAaa52pbQH51ePgSPg_LqOvYLxm6ssh6gAd-hy-cww9jZqhw78iUNCyWhq8hXhXiCY/s1600/800px-Kolomazna%CC%81_pec.JPG",
+          "filename": "800px-Kolomazná_pec.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs4BoG-ZC6Le7UdK3Fh40s5MzrlNnW7VDcKr3oECSSwGW2shkvsz4ONKblGr0gdafwwujy5Z10cOAaa52pbQH51ePgSPg_LqOvYLxm6ssh6gAd-hy-cww9jZqhw78iUNCyWhq8hXhXiCY/s1600/800px-Kolomazna%CC%81_pec.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Zrekonštruovaná novoveká dechtárska pec v Bolevci",
+        "caption": "Zrekonštruovaná novoveká dechtárska pec v Bolevci",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Decht, vyrábaný v rozšírenom rozsahu (batérie dechtárskych jám) uspokojoval nielen požiadavky miestnej spotreby, ale stal sa predmetom obchodu s bližšími i vzdialenejšími oblasťami, ktorý na hornom Ponitrí nesporne dokladajú nálezy železných sekerovitých hrivien v Bošanoch, v Žabokrekoch či Bojnej. Tradícia veľkomoravského dechtárstva v prievidzskej oblasti sa zachovala prakticky donedávna. Niektorí občania ešte v 60. rokoch si ešte živo spomínali na dechtárske pece na susedných kopcoch dubnického chotára. Podobne sa tradujú zaniknuté dechtárne v neďalekom Jalovci."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Na čo slúžil decht?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výroba dechtu v tomto období uspokojovala nielen miestnu spotrebu, ale decht bol určený aj pre obchod. Využíval sa v debnárstve, kolárstve, garbiarstve, povrazníctve, na vojenské účely a v ovocinárstve. Drevené uhlie ako vedľajší produkt sa využívalo v kováčskych dielňach objavených v Bojniciach a Brezanoch. Tradícia veľkomoravského dechtárstva pretrvávala ešte v 50. rokoch 20. storočia, keď si niektorí obyvatelia živo spomínali na dechtárske pece na kopcoch dubnického chotára."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh30xLUeZx1MXg1_s9ySp93ResNB3XN670TAgpV731cuMohqcqrJEDEmCmF2c7f7HSkTimv9V0Og9vpqOCl8g4efG7vC3v3RNw6LLXoiWNN86iO_2YhAedwCNxA_GvGAuuSpCYTBYbPzb0/s0/IMG_7015.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh30xLUeZx1MXg1_s9ySp93ResNB3XN670TAgpV731cuMohqcqrJEDEmCmF2c7f7HSkTimv9V0Og9vpqOCl8g4efG7vC3v3RNw6LLXoiWNN86iO_2YhAedwCNxA_GvGAuuSpCYTBYbPzb0/s1600/IMG_7015.JPG",
+          "filename": "IMG_7015.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh30xLUeZx1MXg1_s9ySp93ResNB3XN670TAgpV731cuMohqcqrJEDEmCmF2c7f7HSkTimv9V0Og9vpqOCl8g4efG7vC3v3RNw6LLXoiWNN86iO_2YhAedwCNxA_GvGAuuSpCYTBYbPzb0/s1600/IMG_7015.JPG",
+            "displayedWidth": 213,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Bojnice - hradisko a centrum dechtárstva v slovanskom období",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Ako Slovania vyrábali decht?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vlastnému procesu výroby dechtu v týchto jamách predchádzali prípravné práce. Do priehlbiny umiestnili nádržku, nad ňou vo výške pevného dna založili prepážku, najskôr z dreva a takých rozmerov a tvaru aké bolo ústie dutiny. Prepážka sa opierala o schodovitý výbežok v stene jamy a rovnou hranou nasadala zase na vyčnievajúcu dosku z pevného dna. Tým sa dosiahol sklon polovice dna smerom do stredu. Povrch prepážky sa musel pred ohňom chrániť vrstvou hliny. Nános dechtu na okraji pevného dna nasvedčuje, že medzi pevným dnom a prepážkou v hornej časti ostala medzera, ktorou decht stekal na vhodne prispôsobenú dosku pevného dna a odtiaľ do nádržky. Na takto zapravené dno sa naložili polená až po okraj a po zapálení dreva sa ústie jamy uzavrelo a zahádzalo hlinou. Vo vnútri prebiehala suchá destilácia, pri ktorej vznikalo drevené uhlie, decht a ostatné splodiny. Je známe, že pri 120 – 150 °C drevo sa vysušuje a stráca vodu, potom okolo 150 – 270 °C nastáva termolýza s chemickými zmenami, ktorá vrcholí asi pri 275 – 450 °C vytváraním a odparovaním tekutých produktov. Pri 450 – 500 °C sa zuhoľňujú zostávajúce látky a vzniká drevené uhlie. Počas celého procesu suchej destilácie vznikajú rôzne zlúčeniny, medzi ktorými je aj decht a drevené uhlie. Zásady výroby dreveného uhlia a aj dreveného dechtu v podstate sa od počiatkov doby bronzovej nemenia. Iný je len pracovný postup a produktivita výroby v nasledujúcich obdobiach.\n \n Postup pri výrobe dechtu v slovanskom období si môžete pozrieť na tejto kvalitnej stránke: "
+              },
+              {
+                "type": "link",
+                "url": "http://www.cea.livinghistory.cz/ea/dehet/index.php",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "CEA"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIOfSBwFhptkOFL7iWXyHfqtA0aW2gK7hqvaB2KggzNsVMFeRy-BfxpOwNKVYqVgwdCbHL2LfNLPv8tHs6Osa7BNIPPG1rtu5E0qf70950kFrKD2sRMkhIi1_qcaYQVIKXMBliIO-w6oQ/s0/c%CC%8Crep.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIOfSBwFhptkOFL7iWXyHfqtA0aW2gK7hqvaB2KggzNsVMFeRy-BfxpOwNKVYqVgwdCbHL2LfNLPv8tHs6Osa7BNIPPG1rtu5E0qf70950kFrKD2sRMkhIi1_qcaYQVIKXMBliIO-w6oQ/s1600/c%CC%8Crep.jpg",
+          "filename": "črep.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIOfSBwFhptkOFL7iWXyHfqtA0aW2gK7hqvaB2KggzNsVMFeRy-BfxpOwNKVYqVgwdCbHL2LfNLPv8tHs6Osa7BNIPPG1rtu5E0qf70950kFrKD2sRMkhIi1_qcaYQVIKXMBliIO-w6oQ/s1600/c%CC%8Crep.jpg",
+            "displayedWidth": null,
+            "displayedHeight": null,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Črep slovanskej nádoby so symbolom svastiky",
+        "caption": "Črep slovanskej nádoby so symbolom svastiky",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výrobná osada a dechtárne v Bojniciach, ktoré vznikli a pracovali predovšetkým vo veľkomoravskom období, ale mohli pretrvať na tomto mieste až do 10. storočia, naznačujú blízkosť nejakého väčšieho centrálneho hradiska, v okolí ktorého sa rozkladali osady rôznej funkcie. Vo svetle týchto objavov sa bojnicko-prievidzská oblasť javí ako ďalšie závažné centrum veľkomoravského i poveľkomoravského obdobia, ktoré v procese oddeľovania sa remesiel od poľnohospodárstva dosiahlo vysokú úroveň špecializovaných remesiel, sústredených nie priamo na hradisku, ale v neopevnených, niekedy azda i opevnených osadách v blízkom okolí. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdW3f20vn8T21tB4dkiswOL_a8aZb_sfupK7eWrBzoBvBsmNfu65xjol5jJlBQLv4BK7jvQy4dLF5j6qHwegPYl1ro3UPtpCTeUpgwvoyuovZ7vF6BOioLhRFgZFft1dxbVL6HNswlyhU/s0/IMG_7068.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdW3f20vn8T21tB4dkiswOL_a8aZb_sfupK7eWrBzoBvBsmNfu65xjol5jJlBQLv4BK7jvQy4dLF5j6qHwegPYl1ro3UPtpCTeUpgwvoyuovZ7vF6BOioLhRFgZFft1dxbVL6HNswlyhU/s1600/IMG_7068.JPG",
+          "filename": "IMG_7068.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdW3f20vn8T21tB4dkiswOL_a8aZb_sfupK7eWrBzoBvBsmNfu65xjol5jJlBQLv4BK7jvQy4dLF5j6qHwegPYl1ro3UPtpCTeUpgwvoyuovZ7vF6BOioLhRFgZFft1dxbVL6HNswlyhU/s1600/IMG_7068.JPG",
+            "displayedWidth": 213,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Veľkomoravský sokoliar na hradisku Bojnice",
+        "caption": "Veľkomoravský sokoliar na hradisku Bojnice",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Bialeková: Pramene k dejinám osídlenia Slovenska z konca 5. až 13. storočia zv. II Stredoslovenský kraj, Nitra 1989",
+            "url": null
+          },
+          {
+            "text": "D. BIALEKOVÁ: ARCHEOLÓGIA HOVORÍ O SLOVANSKEJ MINULOSTI BOJNÍC, in: Vlastivedný sborník Horná Nitra I, 1962",
+            "url": null
+          },
+          {
+            "text": "ŠAUROVÁ, D.: Výzkum dehtářských pecí na výrobu kolomazi. In: Zkoumání výrobních objektů a technologií archeologickými metodami 2, 1982",
+            "url": null
+          },
+          {
+            "text": "http://www.bojnice.sk/?id_menu=7908",
+            "url": "http://www.bojnice.sk/?id_menu=7908"
+          },
+          {
+            "text": "http://www.bojnice.sk/?id_menu=27265&module_action__62072__id_clanok=8754",
+            "url": "http://www.bojnice.sk/?id_menu=27265&module_action__62072__id_clanok=8754"
+          },
+          {
+            "text": "http://www.penzion-juko.sk/sk/atrakcie-bojnice/zamok-bojnice-snm-bojnice.html",
+            "url": "http://www.penzion-juko.sk/sk/atrakcie-bojnice/zamok-bojnice-snm-bojnice.html"
+          },
+          {
+            "text": "http://www.bojnicecastle.sk/galeria-sk.html",
+            "url": "http://www.bojnicecastle.sk/galeria-sk.html"
+          },
+          {
+            "text": "http://www.fotogross.sk",
+            "url": "http://www.fotogross.sk"
+          },
+          {
+            "text": "http://geoportal.sazp.sk/web/guest/map?wmc=http%3A%2F%2Fgeoportal.sazp.sk%2Fphp%2Fwmc%2Fdata%2F4ee52ab9-1dd0-4429-ab58-597ac0a80139.wmc&id=4ee52ab9-1dd0-4429-ab58-597ac0a80139",
+            "url": "http://geoportal.sazp.sk/web/guest/map?wmc=http%3A%2F%2Fgeoportal.sazp.sk%2Fphp%2Fwmc%2Fdata%2F4ee52ab9-1dd0-4429-ab58-597ac0a80139.wmc&id=4ee52ab9-1dd0-4429-ab58-597ac0a80139"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "book",
+        "text": "Bialeková: Pramene k dejinám osídlenia Slovenska z konca 5. až 13. storočia zv. II Stredoslovenský kraj, Nitra 1989"
+      },
+      {
+        "type": "book",
+        "text": "D. BIALEKOVÁ: ARCHEOLÓGIA HOVORÍ O SLOVANSKEJ MINULOSTI BOJNÍC, in: Vlastivedný sborník Horná Nitra I, 1962"
+      },
+      {
+        "type": "book",
+        "text": "ŠAUROVÁ, D.: Výzkum dehtářských pecí na výrobu kolomazi. In: Zkoumání výrobních objektů a technologií archeologickými metodami 2, 1982"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.bojnice.sk/?id_menu=7908",
+        "title": "http://www.bojnice.sk/?id_menu=7908"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.bojnice.sk/?id_menu=27265&module_action__62072__id_clanok=8754",
+        "title": "http://www.bojnice.sk/?id_menu=27265&module_action__62072__id_clanok=8754"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.penzion-juko.sk/sk/atrakcie-bojnice/zamok-bojnice-snm-bojnice.html",
+        "title": "http://www.penzion-juko.sk/sk/atrakcie-bojnice/zamok-bojnice-snm-bojnice.html"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.bojnicecastle.sk/galeria-sk.html",
+        "title": "http://www.bojnicecastle.sk/galeria-sk.html"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.fotogross.sk",
+        "title": "http://www.fotogross.sk"
+      },
+      {
+        "type": "external-url",
+        "url": "http://geoportal.sazp.sk/web/guest/map?wmc=http%3A%2F%2Fgeoportal.sazp.sk%2Fphp%2Fwmc%2Fdata%2F4ee52ab9-1dd0-4429-ab58-597ac0a80139.wmc&id=4ee52ab9-1dd0-4429-ab58-597ac0a80139",
+        "title": "http://geoportal.sazp.sk/web/guest/map?wmc=http%3A%2F%2Fgeoportal.sazp.sk%2Fphp%2Fwmc%2Fdata%2F4ee52ab9-1dd0-4429-ab58-597ac0a80139.wmc&id=4ee52ab9-1dd0-4429-ab58-597ac0a80139"
+      }
+    ]
+  }
+}

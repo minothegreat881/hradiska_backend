@@ -1,0 +1,31 @@
+{
+  "slug": "drevenik-slovanske-hradisko-v-tieni-spisskeho-hradu",
+  "note": "grammar-sk finálny audit. Pred spracovaním overené, že staré 'grammar.json' (Agent 2, nočný beh 14.7.2026, 3 neaudit. opravy) NEobsahovalo pass1 fixy (žiadny z pass1 'before' reťazcov už nebol nahradený) — pass1 draft aplikovaný priamo do intermediate.json prvýkrát (11 -> 12 blokov po vyčlenení medzititulku 'Dnešný stav lokality').",
+  "criticalFixesApplied": [
+    "location.name zmenené z celého názvu článku ('Dreveník - Slovanské hradisko v tieni Spišského hradu') na stručný názov miesta 'Dreveník' — zjednotené s konvenciou ostatných článkov."
+  ],
+  "appliedFixes": [
+    { "rule": "A9 malé písmeno (prídavné meno, nie vlastné meno)", "before": "zaujímavé Slovanské hradisko", "after": "zaujímavé slovanské hradisko", "block": 0, "propagatedTo": ["excerpt"] },
+    { "rule": "D cross-field (nadbytočný/chybný vzťažný zámen)", "before": "podľa ktorého drevených fortifikačných a obytných konštrukcií bolo územie pomenované Dreveník", "after": "podľa drevených fortifikačných a obytných konštrukcií bolo územie pomenované Dreveník", "block": 2 },
+    { "rule": "B typografia (číselné rozsahy = en dash)", "before": "9. - 11. storočia / 10. - 11. stor. / 871 - 894 / 560 - 570", "after": "9. – 11. / 10. – 11. / 871 – 894 / 560 – 570 (s medzerami)", "blocks": [2, 5, 8], "propagatedTo": ["keyFacts.Nadmorská výška", "keyFacts.Obdobie hlavného osídlenia hradiska", "timeline[3].year/description", "timeline[4].year", "timeline[5].year/description"] },
+    { "rule": "A9 latinský binomický názov", "before": "nálezy homo neandertalensis", "after": "nálezy Homo neandertalensis", "block": 5 },
+    { "rule": "B typografia (znak násobenia)", "before": "1 500 x 800 m", "after": "1 500 × 800 m", "block": 5 },
+    { "rule": "štrukturálne — zlepený medzititulok", "before": "Dnešný stav lokality V súčasnosti sa lokalita...", "after": "'Dnešný stav lokality' vyčlenené ako samostatný heading blok pred odsekom", "block": 8 }
+  ],
+  "crossFieldPass2": [
+    "keyFacts.Nadmorská výška: '560 - 570 m n. m.' -> '560 – 570 m n. m.'",
+    "keyFacts.Obdobie hlavného osídlenia hradiska: '9. - 11. storočie' -> '9. – 11. storočie'",
+    "timeline[3] (9.-11. storočie): year aj description opravené na en dash",
+    "timeline[4] (871-894): year opravené na en dash",
+    "timeline[5] (10.-11. storočie): year aj description opravené na en dash",
+    "excerpt: 'zaujímavé Slovanské hradisko' -> 'zaujímavé slovanské hradisko' (identický reťazec ako v bloku 0, opravené jedným replace_all)"
+  ],
+  "skippedNoChange": [
+    "'od Svätohája rodnej viery' — gramaticky správny genitív vlastného mena 'Svätoháj', ponechané",
+    "'zdeštruovaný' — netradičný, ale existujúci technický novotvar, nie chyba"
+  ],
+  "flagsResolved": [],
+  "unresolvedReviewNeeded": true,
+  "reviewFile": "out/drevenik-slovanske-hradisko-v-tieni-spisskeho-hradu.review.json",
+  "reviewSummary": "1 nevyriešený FLAG: chýbajúci názov zdrojovej stránky vo vete 'Prevzaté so súhlasom autora zo stránky' — nedopĺňané bez overenia, len orezaná nadbytočná medzera."
+}

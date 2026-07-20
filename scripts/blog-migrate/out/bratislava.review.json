@@ -1,0 +1,17 @@
+{
+  "slug": "bratislava",
+  "flags": [
+    {
+      "type": "UNCLOSED_QUOTE",
+      "block": 41,
+      "text": "...Keramika, dosť hrubého tvaru, bola zhotovená na pomaly rotujúcom hrnčiarskom kruhu. Pohrebisko pochádza asi z polovice 9. storočia.\"",
+      "issue": "Blok (odsek o pohrebisku v Karlovej Vsi, výskum Ľ. Kraskovskej 1954) končí osamotenou uzatváracou úvodzovkou bez zodpovedajúcej otváracej úvodzovky kdekoľvek v bloku alebo v bezprostredne okolitých blokoch. Pravdepodobne ide o stratený začiatok citátu (napr. priama citácia z Kraskovskej správy 1962) pri extrakcii z pôvodného blogu. Nedopĺňané/neodstraňované bez prístupu k pôvodnému zdroju."
+    },
+    {
+      "type": "NUMBER_IMPOSSIBLE",
+      "block": 32,
+      "text": "Zemnica mala štvorcový pôdorys s plochou 320 cm².",
+      "issue": "320 cm² (cca 17,9 × 17,9 cm) je fyzicky nezmyselná plocha pre pôdorys obydlia (polozemnice) — zodpovedá ploche zošita, nie stavby. Pravdepodobne malo byť v m² (napr. 320 m²? aj to je veľké, alebo iný rád veľkosti — napr. rozmer 3,2 × 3,2 m by dával 'plochu' okolo 10 m²) alebo išlo o preklep v pôvodnom zdroji. Opravený iba formát exponentu (cm2 -> cm²); samotná číselná hodnota NEMENENÁ bez overenia zdroja (Štefanovičová 1975 alebo iný archeologický report)."
+    }
+  ]
+}

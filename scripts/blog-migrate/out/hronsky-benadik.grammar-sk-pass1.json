@@ -1,0 +1,36 @@
+{
+  "slug": "hronsky-benadik",
+  "note": "grammar-sk agent, prvý prechod (článok nikdy predtým nemal grammar-sk aplikovaný). Zdrojový text je väčšinou odborná stať (pravdepodobne parafráza/výťah z Habovštiak 1979, kategória 1 podľa §21 pôvodu pravidiel — veľa em/en dash nekonzistencií, systémové OCR zlepenia). Žiadny quote-block/priamy citát, žiadna chránená zóna.",
+  "appliedFixes": [
+    { "rule": "B typografia (rok-rozsah, em dash bez medzier → en dash s medzerami)", "before": "1972—1977", "after": "1972 – 1977", "block": "excerpt + block 1 + timeline.year + timeline.description" },
+    { "rule": "typografia (trailing whitespace)", "block": 1 },
+    { "rule": "B typografia (číselný rozsah)", "before": "80—90 m", "after": "80 – 90 m", "block": 2, "note": "aj v keyFacts 'Rozmery'" },
+    { "rule": "B typografia (číselný rozsah)", "before": "200—228 m", "after": "200 – 228 m", "block": 2 },
+    { "rule": "B typografia (vnútorná konzistencia — apozičná pomlčka medzi miestami, podľa vzoru už existujúceho v tom istom článku: 'Hronský Beňadik — Psiare')", "before": "cesta Zvolen—Levice", "after": "cesta Zvolen — Levice", "block": 3 },
+    { "rule": "typografia (trailing whitespace)", "block": 3 },
+    { "rule": "OCR artefakt (referenčný vzor z §21.2: '/(\\\\w{3,})(nebolo|...)/  → FLAG \"nichnebolo\"') + chýbajúca medzera po bodke + chýbajúca koncová bodka", "before": "val.V ostatných častiach hradiska sú natoľko prudké svahy, že na nichnebolo nutné... palisáda", "after": "val. V ostatných častiach hradiska sú natoľko prudké svahy, že na nich nebolo nutné... palisáda.", "block": "gallery caption + image caption + image alt (identický reťazec 3×)" },
+    { "rule": "A3 zhoda podmetu s prísudkom (dvojnásobný podmet = plurál) ×2 + oprava čiarkového zrazenia (comma splice)", "before": "Pokračovanie valu... a jeho napojenie... je prerušené poľnou cestou, pokračovanie valu... zničil chodník a terénne úpravy...", "after": "Pokračovanie valu... a jeho napojenie... sú prerušené poľnou cestou. Pokračovanie valu... zničili chodník a terénne úpravy...", "block": 6, "note": "kompaktné súvetie s dvoma samostatnými prípadmi plurálového podmetu (Pokračovanie+napojenie; chodník+úpravy) nesprávne v singulári; zároveň čiarka medzi dvoma hlavnými vetami nahradená bodkou" },
+    { "rule": "B typografia (číselný rozsah)", "before": "hrúbkou 60—80 cm", "after": "hrúbkou 60 – 80 cm", "block": 8, "note": "aj v keyFacts 'Opevnenie'" },
+    { "rule": "typografia (trailing whitespace)", "block": 10 },
+    { "rule": "A1 oprava čiarkového zrazenia (comma splice, 2 hlavné vety, rôzne podmety)", "before": "Chodník od severu zrejme vznikol stáročným putovaním ku kaplnke, cesta zo západu bola určená pre poľnohospodárske stroje a povozy.", "after": "Chodník od severu zrejme vznikol stáročným putovaním ku kaplnke. Cesta zo západu bola určená pre poľnohospodárske stroje a povozy.", "block": 12 },
+    { "rule": "A1 oprava čiarkového zrazenia (bodkočiarka namiesto čiarky)", "before": "ale ani deštruovaného valu, nemožno teda s istotou posúdiť", "after": "ale ani deštruovaného valu; nemožno teda s istotou posúdiť", "block": 12 },
+    { "rule": "typografia (vnútorná konzistencia nadpisov — ostatné nadpisy 'Poloha'/'Opevnenie'/'Nálezy' sú v bežnom zápise, nie CAPS LOCK)", "before": "DATOVANIE HRADISKA A JEHO PRAVDEPODOBNÁ FUNKCIA", "after": "Datovanie hradiska a jeho pravdepodobná funkcia", "block": 14 },
+    { "rule": "B typografia (nekonzistentné úvodzovky — otváracia „ slovenská, zatváracia bola obyčajná rovná \\\")", "before": "„k Jelenke\\\"", "after": "„k Jelenke“", "block": 15, "note": "zhoda s konvenciou už použitou v tom istom článku (napr. citácia miestneho názvu 'Tomišovec' by mala rovnaký pár)" },
+    { "rule": "B typografia (číselný rozsah storočí, chýbajúce medzery)", "before": "prelome 9.–10. storočia", "after": "prelome 9. – 10. storočia", "block": 18, "note": "aj timeline.year prvej položky" },
+    { "rule": "sémantická oprava slova podobného tvaru (§21.9/§21.10 vzor) — 'slovenské' (novodobý národný prívlastok) namiesto 'slovanské' (etnická/dobová príslušnosť), nekonzistentné s bezprostredne susediacimi vetami toho istého odseku, ktoré správne používajú 'slovanské'/'slovanských'", "before": "slovenské hradiská na tomto úseku Pohronia vznikli", "after": "slovanské hradiská na tomto úseku Pohronia vznikli", "block": 21 },
+    { "rule": "A8 diakritika (referenčný vzor §21.1 A8: najsť/nenajdete → nájsť/nenájdete)", "before": "nenajdete stopu po akejkoľvek informačnej tabuli", "after": "nenájdete stopu po akejkoľvek informačnej tabuli", "block": 22 },
+    { "rule": "typografia (trailing whitespace ×2)", "block": 22 },
+    { "rule": "B typografia (rozsah strán)", "before": "str. 73-93", "after": "str. 73 – 93", "block": "content.sources.items[0] + citations[0] (identický reťazec)" },
+    { "rule": "B typografia (číselný rozsah, cross-field)", "before": "4–5 hradísk", "after": "4 – 5 hradísk", "block": "keyFacts 'Systém hradísk'" }
+  ],
+  "reviewed_no_change": [
+    "'pohodlnému to prechodu' vzor sa v tomto článku nevyskytuje.",
+    "'zničil chodník' (V-S slovosled s predsúvaním jednotného čísla pred zloženým podmetom) — po zvážení opravené na plurál 'zničili' pre konzistenciu s A3, pozri appliedFixes.",
+    "'Sloveni' (namiesto 'Slovania') — ponechané, ide o dobový/odborný historiografický termín (kmeňový názov), nie preklep; nezamieňať s opravou 'slovenské'→'slovanské' vyššie, ktorá je iný prípad (prídavné meno, jasná nekonzistencia v tom istom odseku).",
+    "'Spracoval Orgoň' (blok 23) vs. authorName 'Orgon' — známy diakritický pár, podľa existujúceho precedensu (memory: drazovce) sa nezjednocuje, obe formy označujú tú istú osobu.",
+    "Historický prézent 'kanonika Kosmasa, ktorý ešte v 12. storočí píše' (telo) vs. minulý čas 'písal' (timeline) — štylistický rozdiel, nie gramatická chyba, oba tvary sú platné."
+  ],
+  "flags": [
+    "'donedávna' použité 3× v článku (bloky 15, 18, 19) — presne referenčný príklad RELATIVE_DATE z §21.5 ('donedávna — zastará'). Text nezmenený, nahlásené v review.json."
+  ]
+}

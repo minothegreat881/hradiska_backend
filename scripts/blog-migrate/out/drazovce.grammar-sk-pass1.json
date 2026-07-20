@@ -1,0 +1,33 @@
+{
+  "slug": "drazovce",
+  "note": "grammar-sk agent, prvý prechod (článok nikdy predtým nemal grammar-sk aplikovaný).",
+  "criticalFixes": [
+    { "issue": "Blok 4+5 a blok 7+8 boli dva neoznačené priame Janšákove citáty (1929) rozliate v obyčajnom rich-texte s neúplnou/nekonzistentnou typografiou úvodzoviek.", "fix": "Prevedené na 2 samostatné content.quote-block (author='Štefan Janšák', source='Slovenské hradiská z doby hallštatskej, 1929'), narrator-úvod ('Ako uvádza už Štefan Janšák,') odstránený ako redundantný voči poľu author." },
+    { "issue": "Blok 23 obsahoval holú bibliografiu (Kraskovská 1961, Janšák 1929) zlepenú v tele namiesto v Zdrojoch.", "fix": "Presunuté do content.sources ako 2 nové items, blok 23 odstránený z tela." },
+    { "issue": "2× MISSING_WORD — HTML odkaz na 'dražovský kostolík' bol pri extrakcii vystrihnutý a zanechal prázdne miesto ('Je to známy , ktorý...', 'informuje nielen o , ale...').", "fix": "Doplnené 'dražovský kostolík' na základe zhodného doslovného spojenia z KF #2 ('Na hradisku stojí známy dražovský kostolík...') — nejde o vymyslenie, len o rekonštrukciu z už existujúceho textu v tom istom článku." }
+  ],
+  "appliedFixes": [
+    { "rule": "A8 pravopis (predreformná ortografia)", "before": "Prvá zpráva o obci Dražovce", "after": "Prvá správa o obci Dražovce", "block": 0, "note": "aj v excerpte" },
+    { "rule": "B typografia (apozícia = pomlčka)", "before": "vŕšok - západný výbežok Zoborského pohoria - na ktorom", "after": "vŕšok — západný výbežok Zoborského pohoria — na ktorom", "block": 0 },
+    { "rule": "B typografia", "before": "múrov - ide o hornú časť ... klenba - koncha", "after": "múrov — ide o hornú časť ... klenba — koncha", "block": 1 },
+    { "rule": "A4 pádová väzba", "before": "podrobne opisuje zloženia väčšieho valu", "after": "podrobne opisuje zloženie väčšieho valu", "block": 2 },
+    { "rule": "A1 comma splice", "before": "sa rozpadol a zväčša zrútil, Š. Janšák uvádza,", "after": "sa rozpadol a zväčša zrútil. Š. Janšák uvádza,", "block": 2 },
+    { "rule": "A8", "before": "temer úplne zničil val", "after": "takmer úplne zničil val", "block": 2, "note": "mimo citátu (narátorský text, nie priama Janšákova reč) — 'temer' v samotných citátoch by ostalo nedotknuté" },
+    { "rule": "A8", "before": "boli kolmo umiestené dva oválne pupáky", "after": "boli kolmo umiestnené dva oválne pupáky", "block": 11 },
+    { "rule": "A1 nadbytočná čiarka (podmet-prísudok)", "before": "vykopané na ploche hradiska, sa používali", "after": "vykopané na ploche hradiska sa používali", "block": 11 },
+    { "rule": "B typografia (chýbajúca bodka pred menom autora fotky)", "before": "val akropolyAutor: Matúš Šajbidor", "after": "val akropoly. Autor: Matúš Šajbidor", "block": 12, "note": "caption aj alt" },
+    { "rule": "D globálny slovník (rímske -> arabské číslice)", "before": "od XI. stor. do prvej polovice XVII. stor.", "after": "od 11. storočia do prvej polovice 17. storočia", "block": 21 },
+    { "rule": "D", "before": "najmä v XIV. - XV. stor.", "after": "najmä v 14. – 15. storočí", "block": 21 },
+    { "rule": "D", "before": "trval ešte v prvej polovici XVII. stor.", "after": "trval ešte v prvej polovici 17. storočia", "block": 21 },
+    { "rule": "D", "before": "bol overený pre XVI. stor. mincou", "after": "bol overený pre 16. storočie mincou", "block": 21 },
+    { "rule": "D cross-field (timeline dash)", "before": "11. storočie - prvá polovica 17. storočia", "after": "11. storočie – prvá polovica 17. storočia", "block": "timeline" }
+  ],
+  "reviewed_no_change": [
+    "'(pozn. Orgoň)' v bloku 18 — ponechané, 'Orgoň' je diakritický variant authorName 'Orgon', nie iná osoba (na rozdiel od prípadu Žilina-Závodie/Moravčík).",
+    "Bloky 10, 13, 20 — vnorené medzititulky ako plain rich-text bez heading komponentu — existujúci štrukturálny vzor naprieč celým korpusom, mimo rozsahu gramatickej korektúry.",
+    "'XXIII' v bibliografickej citácii Sborník MSS ponechané ako rímska číslica — bibliografická konvencia ročníka, nie vecný text článku."
+  ],
+  "flags": [
+    "Blok 5 (teraz quote-block A) obsahuje vetu '...bezprostredne nad cigánskou (no ale pán Janšák, toľká politická nekorektnosť !) kolóniou.' — parentéza je zjavne MODERNÁ editorská poznámka vložená doprostred toho, čo má byť doslovný Janšákov citát z roku 1929, oslovujúca ho priamo v druhej osobe. Toto výrazne narúša integritu citátu (nie je to Janšákov text), ale keďže ide o obsahovú/redakčnú otázku (čo s tým urobiť — vystrihnúť? Označiť ako [pozn. red.]? Nechať?), nie o gramatiku, PONECHANÉ bez zásahu a nahlásené používateľovi na rozhodnutie namiesto tichého vymazania."
+  ]
+}

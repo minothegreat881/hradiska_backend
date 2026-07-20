@@ -1,0 +1,100 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2016-09-zrekonstruovali-ukradnutu-prilbu-z.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1810576787195001995",
+    "bloggerPostUrl": "http://www.hradiska.sk/2016/09/zrekonstruovali-ukradnutu-prilbu-z.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1810576787195001995/comments/default",
+    "extractedAt": "2026-07-18T11:21:23.693Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 2,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/8etBZbVVZHw",
+        "https://www.youtube.com/embed/lqGqtOmyVGQ"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Zrekonštruovali ukradnutú prilbu z Bojnej",
+    "slug": "zrekonstruovali-ukradnutu-prilbu-z-bojnej",
+    "excerpt": "Pravdepodobne niekedy okolo roku 2000 našiel nelegálny detektorista na Bojnej helmu z 9. storočia. Nález neoznámil archeológom a privlastnil si ju. Následne ju predal s najväčšou pravdepodobnosťou do Nemecka a odvtedy sa po helme doslova \"zľahla…",
+    "authorName": "Orgon",
+    "publishedAt": "2016-09-09T07:09:00.001+02:00",
+    "originalPublishedDate": "2016-09-09T07:09:00.001+02:00",
+    "updatedAt": "2016-09-09T19:42:43.720+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pravdepodobne niekedy okolo roku 2000 našiel nelegálny detektorista na Bojnej helmu z 9. storočia. Nález neoznámil archeológom a privlastnil si ju. Následne ju predal s najväčšou pravdepodobnosťou do Nemecka a odvtedy sa po helme doslova „zľahla zem“. Keďže ju predával cez aukčnú stránku, na internete sa objavila v čase jej predaja jedna fotografia, a to je spolu s tvrdením niektorých svedkov jediný dôkaz jej existencie.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "8etBZbVVZHw",
+        "url": "https://www.youtube.com/embed/8etBZbVVZHw",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nadšenec z Českej republiky Tomáš Vlasatý si dal tú prácu, že o helme získal všetky dostupné informácie a podľa nich dal vypracovať repliku helmy. Na jej výrobu finančne prispelo množstvo dobrovoľníkov. Následne ju daroval múzeu Veľkej Moravy v Bojnej, kde ju môžete vidieť naživo. Azda sa niekedy podarí dopracovať aj k originálu, ktorý sa teraz bezpochyby nachádza v nejakej súkromnej zbierke na „západe“. Takto kvôli detektoristom prichádzame o skvosty našej histórie. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "lqGqtOmyVGQ",
+        "url": "https://www.youtube.com/embed/lqGqtOmyVGQ",
+        "caption": ""
+      }
+    ],
+    "citations": []
+  }
+}

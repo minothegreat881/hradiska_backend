@@ -1,0 +1,17 @@
+{
+  "slug": "moravany-nad-vahom-hradiste",
+  "flags": [
+    {
+      "type": "NUMBER_MISMATCH",
+      "location": "keyFacts[0].value vs. blocks['Opevnená poloha Hradište upútala pozornosť...'] / timeline['Prvý opis polohy Hradište...']",
+      "text_a": "keyFacts: 'Hradište, 3 km východne od Moravian nad Váhom, kóta 369 m n. m.'",
+      "text_b": "telo/timeline: 'kóta 371'; samostatne telo: 'z polohy Hradiště (369 m n. m.)' (v inej vete, o náleze ostrohy)",
+      "note": "Kóta 371 (Janšákovo meranie, 1930) a 369 m n. m. (spomenuté pri náleze ostrohy z r. 2000) sa vzťahujú na tú istú polohu Hradište, ale číslo sa líši. Môže ísť o dva rôzne zdroje merania (staršie/novšie), nie nutne o chybu — preto FLAG namiesto tichej opravy, vecný spor sa nerieši svojvoľne (§21.5, §21.6.3)."
+    },
+    {
+      "type": "UNCERTAIN_OCR",
+      "location": "blocks['Opevnená poloha Hradište upútala pozornosť...'] — 'krátkymi, asi 1 m vysokými valmi c d, e f.'",
+      "note": "Označenie 'c d, e f' pôsobí ako odkaz na body/úsečky z Janšákovho plánu (asi 'c–d, e–f'), medzi písmenami chýba spojovník. Nezmenené — neisté, aký presný symbol/formát mal byť použitý (pomlčka vs. spojovník), radšej ponechať pôvodný text a nechať na overenie."
+    }
+  ]
+}

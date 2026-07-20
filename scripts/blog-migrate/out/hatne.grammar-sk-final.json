@@ -1,0 +1,39 @@
+{
+  "slug": "hatne",
+  "note": "grammar-sk finálny audit — pass1 draft aplikovaný priamo do intermediate.json + fresh pass 2 (cross-field).",
+  "criticalFixesApplied": [
+    "Blok 1 (content.quote-block): odstránené redundantné vonkajšie úvodzovky z poľa text (QuoteBlock.tsx si ich sám pridáva); vnorené „Väčším\" ponechané nedotknuté.",
+    "Blok 17: bibliografia (4 položky) presunutá z content.rich-text do nového content.sources bloku (title: 'Zdroje a literatúra', intro: null); '*Diplomová práca+' opravené na '[Diplomová práca]'."
+  ],
+  "appliedFixes": [
+    { "rule": "OCR chyba v citáte (protected zone, mechanická oprava)", "before": "medzí obcou Hátne", "after": "medzi obcou Hátne", "block": 1 },
+    { "rule": "A7 bohemizmus", "before": "osídlenie je tu omnoho staršie", "after": "osídlenie je tu oveľa staršie", "block": 2 },
+    { "rule": "B typografia p.n.l.", "before": "3. tisícročia p.n.l.", "after": "3. tisícročia p. n. l.", "block": 2, "propagatedTo": ["keyFacts.Najstaršie osídlenie", "timeline[0].year"] },
+    { "rule": "A1 uzavretie vsuvky", "before": "o oboch hrádkoch, prepojených koženým mostom je založená", "after": "o oboch hrádkoch, prepojených koženým mostom, je založená", "block": 3, "note": "caption aj alt" },
+    { "rule": "B typografia m²/tisícový oddeľovač", "before": "v rozlohe 1970 m2", "after": "v rozlohe 1 970 m²", "block": 4, "propagatedTo": ["keyFacts.Rozloha Väčšieho hrádku"] },
+    { "rule": "A4 nesprávny pád (datív)", "before": "vystavuje svoj južný svah slncu", "after": "vystavuje svoj južný svah slnku", "block": 4 },
+    { "rule": "A8 archaizmus", "before": "rozobrali už temer celú vápencovú skalu", "after": "rozobrali už takmer celú vápencovú skalu", "block": 5 },
+    { "rule": "B typografia medzera pred %", "before": "aspoň v 50% nájdených", "after": "aspoň v 50 % nájdených", "block": 5 },
+    { "rule": "D cross-field priezvisko rodu", "before": "rodu Hatňanskovcov", "after": "rodu Hatňanských", "block": 6, "note": "caption aj alt; zjednotené s tvarom v keyFacts a bloku 15" },
+    { "rule": "B typografia číselný rozsah", "before": "(14.-15. storočie)", "after": "(14. – 15. storočie)", "block": 12, "propagatedTo": ["timeline[5].year"] },
+    { "rule": "B typografia apozícia = pomlčka", "before": "svoje sídlo - stredoveký hrádok ... významnejšej pevnosti - Budatína", "after": "svoje sídlo — stredoveký hrádok ... významnejšej pevnosti — Budatína", "block": 13 },
+    { "rule": "B typografia nadbytočná dvojbodka", "before": "autorka Stanka F:", "after": "autorka Stanka F.", "block": 16 }
+  ],
+  "crossFieldPass2": [
+    "keyFacts.Najstaršie osídlenie: '3. tisícročie p.n.l.' -> '3. tisícročie p. n. l.' (zhoda s telom)",
+    "keyFacts.Rozloha Väčšieho hrádku: '1970 m²' -> '1 970 m²' (tisícový oddeľovač, zhoda s telom)",
+    "timeline[0].year: '3. tisícročie p.n.l.' -> '3. tisícročie p. n. l.'",
+    "timeline[5].year: '14.-15. storočie' -> '14. – 15. storočie'",
+    "keyFacts.Majitelia už mala správny tvar 'Rod Hatňanských' — bez zmeny",
+    "excerpt, title, tags: bez zmien (neobsahujú opravované formy)"
+  ],
+  "skippedNoChange": [
+    "Bloky 2/4/5 — Janšákov technický opis s bodovým značením (val a b, jarok J k) zvažovaný ako quote-block, ale bez úvodzovkového dôkazu ponechaný ako parafráza (blok 7 explicitne hovorí o Janšákovi v 3. osobe)",
+    "'otázkou času, kedy' (blok 9) — ustálený idióm, nie chyba",
+    "'kamenné osličky' (blok 8) — legitímny archeologický termín"
+  ],
+  "flagsResolved": [
+    "Blok 16 'autorka Stanka F:' — chýbajúca fotogaléria je artefakt neúplnej migrácie, nedopĺňané (žiadny zdroj na overenie); iba typograficky opravené dvojbodka -> bodka."
+  ],
+  "unresolvedReviewNeeded": false
+}

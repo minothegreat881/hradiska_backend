@@ -1,0 +1,35 @@
+{
+  "slug": "ducove-kostolec",
+  "note": "grammar-sk agent, prvý prechod. Dva rozsiahle priame citáty z Dvořáka (moderná kniha 2004, neprevedené na quote-block) a jeden z Ruttkaya (2006), ponechané v pôvodnej forme s opravenou len typografiou.",
+  "criticalFixes": [
+    { "issue": "NUMBER_MISMATCH: blok 4 tvrdil, že cintorín na Kostolci fungoval 'až do polovice 19. storočia', hoci timeline (id 2872) aj priamo citovaný Dvořák v bloku 18 ('Trvalo to až do polovice 15. storočia') zhodne uvádzajú 15. storočie.", "fix": "Opravené na '15. storočia' v tele — zjavný preklep/chyba storočia, vysoká istota vďaka dvojitej zhode s timeline aj vlastným citátom článku." },
+    { "issue": "'Dvožák' — preklep mena Pavla Dvořáka v bloku 17 (chýbajúce ř, nahradené ž).", "fix": "Opravené na 'Dvořák', meno je v tom istom článku inde (bloky 6, 20, Zdroje) vždy správne." }
+  ],
+  "appliedFixes": [
+    { "rule": "A8 preklep + B rozsah + B pomlčka", "before": "zďaleka viďiteľný ... prevýšením 70-80 m ... sídla - dvorca", "after": "zďaleka viditeľný ... prevýšením 70 – 80 m ... sídla — dvorca", "block": 0 },
+    { "rule": "A4 zhoda rodu + B pomlčka + zjednotenie zátvoriek/lomítok + spojovník miestneho názvu + A8 preklep", "before": "Je chránená ... kamennej-eneolitu ... /2600 r. pred n. l./ ... Cintorín - Veľký diel ... /4000 - 3000.../ ... rámcove datovaná ... /1300 - 1100.../ ... hradiska - mohutný ... /2 - 3 stor. n. l./", "after": "Je chránený ... kamennej — eneolitu ... (2600 r. pred n. l.) ... Cintorín-Veľký diel ... (4000 – 3000...) ... rámcovo datovaná ... (1300 – 1100...) ... hradiska — mohutný ... (2. – 3. stor. n. l.)", "block": 1, "note": "zjednotené lomítkové dátumové zátvorky /X/ na štandardné (X), konzistentné s timeline formátom" },
+    { "rule": "B rozsah + pomlčky + NUMBER_MISMATCH storočia + A1 vsuvka čiarky", "before": "9. - 10. stor. ... časti - zrubové domy a kostolík - rotunda ... 19. storočia ... 1968-1972 ... 15. stor. pravdepodobne ... Považí bolo ... stanovisko - základňa", "after": "9. – 10. stor. ... časti — zrubové domy a kostolík — rotunda ... 15. storočia ... 1968 – 1972 ... 15. stor., pravdepodobne ... Považí, bolo ... stanovisko — základňa", "block": 4 },
+    { "rule": "B typografia (zjednotenie zátvoriek s formátom Zdrojov)", "before": "Stopy dávnej minulosti 3 - Zrod národa.", "after": "Stopy dávnej minulosti 3 (Zrod národa).", "block": 6 },
+    { "rule": "A8 preklep v protected-zone citáte (len typografia, nie slovník)", "before": "žial, len nezreteľné", "after": "žiaľ, len nezreteľné", "block": 7 },
+    { "rule": "B rozsah + pomlčka", "before": "60 - 70 ľudí ... feudál - vojak", "after": "60 – 70 ľudí ... feudál — vojak", "block": 9 },
+    { "rule": "B typografia (medzera pred úvodzovkou)", "before": "protiľahlých stenách. \"", "after": "protiľahlých stenách.\"", "block": 13 },
+    { "rule": "A9 zhoda prídavného mena", "before": "VÝZNAMNE ARCHEOLOGICKÉ LOKALITY", "after": "VÝZNAMNÉ ARCHEOLOGICKÉ LOKALITY", "block": 14, "note": "aj v Zdrojoch, rovnaký preklep na oboch miestach" },
+    { "rule": "B rozsah (v protected-zone citáte, len typografia)", "before": "franským dvorcom (curtis) 8.-9. storočia", "after": "franským dvorcom (curtis) 8. – 9. storočia", "block": 15 },
+    { "rule": "A8 preklep vlastného mena", "before": "K zániku dvorca Dvožák píše:", "after": "K zániku dvorca Dvořák píše:", "block": 17 },
+    { "rule": "A1 vsuvka čiarky", "before": "na ktorú upozorňuje Dvořák vo svojej knihe je skutočnosť", "after": "na ktorú upozorňuje Dvořák vo svojej knihe, je skutočnosť", "block": 20 },
+    { "rule": "B rozsah", "before": "v rokoch 1969-1975 rozsiahly", "after": "v rokoch 1969 – 1975 rozsiahly", "block": 21 },
+    { "rule": "A1 chýbajúce čiarky + B pomlčka", "before": "Žiaľ palisáda ... osôb - majiteľov areálu (myslím že je to cirkev) ... tabuľka ktorá ukazuje ... hradisku ako je známe sú", "after": "Žiaľ, palisáda ... osôb — majiteľov areálu (myslím, že je to cirkev) ... tabuľka, ktorá ukazuje ... hradisku, ako je známe, sú", "block": 23 },
+    { "rule": "B rozsah (caption/alt)", "before": "9.-10. storočí", "after": "9. – 10. storočí", "block": 2 },
+    { "rule": "B typografia (medzera pred zátvorkou + spojovník kultúry)", "before": "Velaticko Beierdorfská kultúra )", "after": "velaticko-beierdorfská kultúra)", "block": 11, "note": "caption aj alt" },
+    { "rule": "Sources: zhoda prídavného mena + medzera + pravopis + chýbajúca zátvorka", "before": "VÝZNAMNE ARCHEOLOGICKÉ ... Ruttkay M .:2006 ... Nitrianskeho kniežactva, Nitra [bez uzatváracej zátvorky]", "after": "VÝZNAMNÉ ARCHEOLOGICKÉ ... Ruttkay M.: 2006 ... Nitrianskeho kniežatstva, Nitra)", "block": "sources" },
+    { "rule": "Sources: pomlčka", "before": "3D Obrázky - rekonštrukcia", "after": "3D Obrázky — rekonštrukcia", "block": "sources" }
+  ],
+  "reviewed_no_change": [
+    "Rozsiahle citáty Dvořáka (bloky 7+9+10+13 a 17+18) a Ruttkaya (blok 15) — moderná literatúra (2004, 2006), NEPREVEDENÉ na quote-block (pozri memory 'quote-only-period-source'), opravená len typografia (medzery, pomlčky), nie slová.",
+    "'Tisícdeväťsto preskúmaných hrobov' (blok 18, priamy citát Dvořáka) vs. '1545 hrobov' (blok 4, KF, timeline) — reálny číselný rozpor medzi zdrojmi (staršia kniha Dvořáka vs. neskoršie presné archeologické spočítanie), NEOPRAVENÉ ani jedno, keďže ide o citát a nie o preklep."
+  ],
+  "flags": [
+    "Blok 23: '...združeniu \"\" podarí zrealizovať...' — prázdne úvodzovky bez názvu občianskeho združenia, zjavne stratený text pri extrakcii. Ponechané ako viditeľný marker chýbajúceho obsahu namiesto tichého vymazania, keďže názov si vymýšľať nemôžem.",
+    "Zdroje, položka 5: '3D Obrázky — rekonštrukcia dvorca sú prevzaté z Autormi sú architekti...' — veta pôsobí, že medzi 'prevzaté z' a 'Autormi' chýba názov zdroja/URL. Nedopĺňané bez overenia."
+  ]
+}

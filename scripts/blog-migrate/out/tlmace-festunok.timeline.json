@@ -1,0 +1,96 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 9 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "neolit",
+      "title": "Najstaršie osídlenie",
+      "description": "Staršia časť hradiska bez opevnenia (alebo s opevnením neskôr porušeným staviteľmi) využívala terasu chránenú z dvoch strán prirodzeným svahom a zo strany tretej takmer kolmou skalou.",
+      "type": "founding"
+    },
+    {
+      "year": "koniec 8. – začiatok 9. storočia",
+      "title": "Bojovnícke hroby v Malých Kozmálovciach",
+      "description": "Hroby s mečom karolínskeho typu, strmeňmi a kopijami svedčia o prítomnosti bojovníkov v okolí Kozároviec ešte pred vybudovaním hradísk.",
+      "type": "event"
+    },
+    {
+      "year": "9. – 10. storočie",
+      "title": "Vybudovanie slovanského opevnenia",
+      "description": "Novšia časť hradiska s valom (celková dĺžka 560 m, plocha 1,84 ha) a dvojitou vstupnou bránou; nálezy keramiky ukazujú, že poslednými obyvateľmi boli Slovania.",
+      "type": "construction"
+    },
+    {
+      "year": "9. – 10. storočie",
+      "title": "Súčasť systému hradísk Slovenskej brány",
+      "description": "Spolu s hradiskami Grác, Krivín a Beňadická skala tvorilo systém strážiaci dôležitú cestu z juhu na stredné Slovensko k rudným ložiskám — podľa J. Dekana východnú hranicu Nitrianskeho kniežatstva.",
+      "type": "event"
+    },
+    {
+      "year": "1075",
+      "title": "Založenie opátstva v Hronskom Beňadiku",
+      "description": "Knieža Gejza I. založil opátstvo, aby mal pod kontrolou strategický vstup na sever Slovenska do banských miest cez Slovenskú bránu.",
+      "type": "event"
+    },
+    {
+      "year": "17. – 19. júla 1664",
+      "title": "Boje medzi cisárskym vojskom a Turkami",
+      "description": "Cisárska armáda generála Louisa de Souchesa mala stanovište na kozároveckých lúkach a na Festunku, odkiaľ 19. júla začala útok smerom na Čajkov a Levice.",
+      "type": "event"
+    },
+    {
+      "year": "1928",
+      "title": "Janšákov opis hradiska",
+      "description": "Štefan Janšák dokumentuje hradisko a jeho archeologické nálezy v diele Staré osídlenie Slovenska.",
+      "type": "discovery"
+    },
+    {
+      "year": "1968",
+      "title": "Archeologický výskum A. Habovštiaka",
+      "description": "Výskum priniesol rekonštrukciu valu hradiska z 9. – 10. storočia v Tlmačoch.",
+      "type": "discovery"
+    },
+    {
+      "year": "polovica 20. storočia",
+      "title": "Rozparcelovanie hradiska",
+      "description": "Hradisko, ktoré ešte v polovici 20. storočia patrilo medzi šesť najzachovalejších na Slovensku a vydržalo 1000 rokov v dobrom stave, bolo rozparcelované na vinice a záhradky.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Skalný poloostrov nad pravým brehom Hrona (24 m nad hladinou), pri vstupe do Slovenskej brány medzi Tlmačmi a Kozárovcami",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozmery",
+      "value": "Nepravidelný štvoruholník 150 × 190 m, dĺžka valu na hrebeni 560 m, plocha hradiska 1,84 ha",
+      "icon": "shield"
+    },
+    {
+      "label": "Konštrukcia valu",
+      "value": "Drevozemný val (šírka 320 – 330 cm) s kamenným múrom z lomových kameňov (140 – 150 cm) na vonkajšej strane, celková šírka 470 – 500 cm; výška 5 – 6 m od dna priekopy",
+      "icon": "shield"
+    },
+    {
+      "label": "Dvojitá brána",
+      "value": "Svojrázne riešenie vstupu — dve brány (šírka 10 m a 6 m) oddelené vydláždenou predsieňou, zatiaľ neznáme z iných lokalít",
+      "icon": "building"
+    },
+    {
+      "label": "Obetný kameň",
+      "value": "Uprostred hradiska kameň dlhý 2 m, široký a vysoký 1 m, obklopený malým valom",
+      "icon": "scroll"
+    },
+    {
+      "label": "Susedné hradiská",
+      "value": "Grác (Pipíška, Malé Kozmálovce), Krivín (Rybník, päť nádvorí) a Beňadická skala — spolu tvorili obranný systém Slovenskej brány",
+      "icon": "star"
+    },
+    {
+      "label": "Zachovalosť",
+      "value": "Ešte v polovici 20. storočia jedno zo šiestich najzachovalejších hradísk na Slovensku, neskôr rozparcelované na vinice a záhradky",
+      "icon": "crown"
+    }
+  ]
+}

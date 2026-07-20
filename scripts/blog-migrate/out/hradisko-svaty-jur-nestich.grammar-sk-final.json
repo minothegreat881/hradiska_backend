@@ -1,0 +1,17 @@
+{
+  "slug": "hradisko-svaty-jur-nestich",
+  "note": "grammar-sk agent, pass 2 — cross-field konzistencia (§21.4) po aplikovaní body opráv v hradisko-svaty-jur-nestich.grammar-sk-pass1.json. Mapa {before->after} z tela (pomlčky, veľké/malé písmená vlastných mien, číselné rozsahy) skontrolovaná proti excerpt/keyFacts/timeline/media captions/title/tags/location.",
+  "crossFieldFixes": [
+    { "field": "title", "before": "Hradisko Svätý Jur - Neštich", "after": "Hradisko Svätý Jur – Neštich", "note": "typografia pomlčky; rovnaký string sa opakovane používal aj ako generický alt text (12× naprieč blokmi/galériou) — všetky výskyty zjednotené v jednom kroku." },
+    { "field": "location.name", "before": "Svätý Jur - Neštich", "after": "Svätý Jur – Neštich", "note": "location nie je v pôvodnom zozname polí zo zadania, ale ide o priamu obdobu title (zobrazovaný názov miesta) postihnutú tou istou typografickou chybou — opravené pre konzistenciu s title." },
+    { "field": "media alt+caption (blok 41, gallery)", "before": "Jeden z najnovších nálezov - lunicovitý závesok", "after": "Jeden z najnovších nálezov – lunicovitý závesok", "note": "typografia pomlčky, opravené na oboch miestach (blok aj gallery[])." },
+    { "field": "content.sources[3] + citations[4]", "before": "Hradisko - odborný článok od Dr. Vaváka", "after": "Hradisko – odborný článok od Dr. Vaváka", "note": "typografia pomlčky, duplicitné pole opravené na oboch miestach." },
+    { "field": "media alt+caption (blok 62, fotogaléria)", "before": "moje \"skúsené\" oko", "after": "moje „skúsené“ oko", "note": "zjednotenie úvodzoviek na slovenský štýl." }
+  ],
+  "checkedNoChange": [
+    "keyFacts a timeline preverené skriptom proti všetkým opravovaným tvarom v tele (zbytky, 138-161, 720-750, 4,5-5, Svätého jura, Biely kameň, číselné rozsahy so spojovníkom, Kaganátu) — žiadny zastaraný tvar sa v nich nenašiel; sidebar bol už pred úpravou konzistentný.",
+    "excerpt — neobsahuje žiadny z opravovaných výrazov, žiadna zmena netreba.",
+    "tags (bez zmeny), quotes: [] (bez zmeny)."
+  ],
+  "flags": []
+}

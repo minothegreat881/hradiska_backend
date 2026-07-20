@@ -1,0 +1,23 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Ohlásiť archeologický nález sa oplatí' (2016-08). FLAG: blok [25] = sploštená tabuľka nálezného (štrukturálny extrakčný artefakt) — na ručnú úpravu.",
+  "corrections": [
+    {
+      "hint": 1,
+      "before": "Bohužiaľ mnoho nálezov",
+      "after": "Bohužiaľ, mnoho nálezov",
+      "reason": "čiarka po vsuvke (A1)"
+    },
+    {
+      "hint": 13,
+      "before": "z pokladu nájdenom v Bratislave",
+      "after": "z pokladu nájdeného v Bratislave",
+      "reason": "zhoda/pád nájdeného (A4)"
+    },
+    {
+      "hint": 15,
+      "before": "odovzdaní 1732 mincí",
+      "after": "odovzdaní 1 732 mincí",
+      "reason": "oddeľovač tisícov (B)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "mikulcice-kopcany",
+  "note": "grammar-sk agent (§21), prvý beh. 26 blokov, žiadny odstránený/pridaný. Obsahuje 2 vnorené odkazy (content.rich-text s typom 'link' dieťaťom) v blokoch 16 a 18 — zachované nedotknuté, len okolitý text opravený. Opravy aplikované aj na keyFacts (id 292) a timeline (id 282, 288) pre cross-field konzistenciu s telom.",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "A8 diakritika + A7 bohemizmus + A1 čiarka", "before": "predvelkomoravského ... sa mohlo jednať o kmeňové centrum ... ľudskou činnosťou a tak bolo možné", "after": "predveľkomoravského ... mohlo ísť o kmeňové centrum ... ľudskou činnosťou, a tak bolo možné", "block": 0 },
+    { "rule": "A9 malé písmeno (opisné spojenie, nie vlastný názov)", "before": "termín Mikulčicko-Kopčianske hradisko", "after": "termín mikulčicko-kopčianske hradisko", "block": 1 },
+    { "rule": "D cross-field (zjednotenie s 'trojloďová' v bloku 7 a KF)", "before": "trojlodnej baziliky", "after": "trojloďovej baziliky", "block": 3 },
+    { "rule": "A3 zhoda podmetu a slovesa + A1 vsuvka čiarok", "before": "Aglomerácie ako už bolo naznačené leží", "after": "Aglomerácia, ako už bolo naznačené, leží", "block": 4 },
+    { "rule": "B typografia (úvodzovky, dobový citát zo Života sv. Cyrila a Metoda — protected zone, upravená len typografia)", "before": "\"leží potom vo veľkom chráme moravskom ... Bohorodičky\"", "after": "„leží potom vo veľkom chráme moravskom ... Bohorodičky“", "block": 7 },
+    { "rule": "B pomlčka + B rozsah + D cross-field pád (zhoda s timeline id 282: 'základovej múry')", "before": "\"Cháronovej mince\" - zlatého ... z rokov 856 - 866 ... základové múry baziliky", "after": "„Cháronovej mince“ — zlatého ... z rokov 856–866 ... základovej múry baziliky", "block": 9 },
+    { "rule": "B spojovník (zložené prídavné meno) + A1 nadbytočná čiarka", "before": "umelecko - remeselných dielní ... s rybami, a iné.", "after": "umelecko-remeselných dielní ... s rybami a iné.", "block": 10 },
+    { "rule": "B medzera pred jednotkou + B pomlčka", "before": "dlhej 26m a širokej takmer 10m. ... súčasnosti – napr. Nitra).", "after": "dlhej 26 m a širokej takmer 10 m. ... súčasnosti — napr. Nitra).", "block": 13 },
+    { "rule": "B pomlčka + A4 pád (2×) + A4 pád (2×)", "before": "písacích nástrojov - stilo. ... spracovanie železa, dreva, hrnčiarstvo a textilníctva. ... s pozlátenými gombíky a striebornými ... dlabané člny - monoxyly ... železná zubadlá ... miniatúrnej bohoslužobné knihy ... stopy konzumácia potravín", "after": "písacích nástrojov — stilo. ... spracovanie železa, dreva, hrnčiarstva a textilníctva. ... s pozlátenými gombíkmi a striebornými ... dlabané člny — monoxyly ... železné zubadlá ... miniatúrnej bohoslužobnej knihy ... stopy konzumácie potravín", "block": 16, "note": "vnorený odkaz 'Kostol sv. Margity Antiochijskej' (child typu link) zachovaný nedotknutý" },
+    { "rule": "A9 malé písmeno (opisný prívlastok, nie vlastný názov — zhoda s 'mikulčického' v ostatných blokoch)", "before": "Množstvo nálezov z Mikulčického hradiska nájdete tu:", "after": "Množstvo nálezov z mikulčického hradiska nájdete tu:", "block": 18, "note": "vnorený odkaz 'Bohatstvo Slovenov' (child typu link) zachovaný nedotknutý" },
+    { "rule": "A4 pád (zhoda s 'požiaru') + preklep/pád", "before": "(požiaru, dobytie a pod.) ... obnovu schátraného areáli", "after": "(požiaru, dobytia a pod.) ... obnovu schátraného areálu", "block": 19 },
+    { "rule": "B pomlčka (nadpis) + A9 malé písmeno", "before": "Kopčany - Slovenská časť Mikulčíc", "after": "Kopčany — slovenská časť Mikulčíc", "block": 20 },
+    { "rule": "B spojovník + B pomlčka (2×) + preklep (predikát) + preklep (dobový citát Janšák — protected zone, opravený len OCR preklep 'kilomentra') + B pomlčka v citáte + B pomlčka (atribúcia)", "before": "roľnícko – pastierskych osád ... hradného centra – Valov ... prediktát kopčiansko-mikulčické ... tri aj štvrť kilomentra ... na čiare Valy – dnešná obec Mikulčice ... (Š. Janšák – Brány do dávnoveku).", "after": "roľnícko-pastierskych osád ... hradného centra — Valov ... predikát kopčiansko-mikulčické ... tri aj štvrť kilometra ... na čiare Valy — dnešná obec Mikulčice ... (Š. Janšák — Brány do dávnoveku).", "block": 21 },
+    { "rule": "A9 veľké písmeno (zhoda s 'Kostola sv. Margity' v tom istom bloku) + duplicitné slovo + A8 kedy->keď + D cross-field (zhoda s 'kostol č. 3'/'kostol č. 6') + B rozsah (zhoda s timeline) + A8 kedy->keď", "before": "v blízkosti kostolía sv. Margity Antiochijskej až do do 13. storočia, kedy sa tento priestor ... bývalého kostola IX na podhradí ... v 16.-17. storočí. ... 18. storočia, kedy postavili", "after": "v blízkosti Kostola sv. Margity Antiochijskej až do 13. storočia, keď sa tento priestor ... bývalého kostola č. 9 na podhradí ... v 16.–17. storočí. ... 18. storočia, keď postavili", "block": 24 },
+    { "rule": "B rozsah (D cross-field s telom)", "before": "(856-866)", "after": "(856–866)", "block": "keyFacts id 292 (Byzantský nález)" },
+    { "rule": "B rozsah + A8 kedy->keď (D cross-field s telom)", "before": "z rokov 856-866, ... storočia, kedy postavili", "after": "z rokov 856–866, ... storočia, keď postavili", "block": "timeline id 282, 288" }
+  ],
+  "reviewed_no_change": [
+    "Bloky 6, 12, 15 — krátke nadpisy/text bez chýb.",
+    "Bloky 16 a 18 obsahujú vnorené odkazy (content.rich-text 'link' deti) — zachované bezo zmeny, opravovaný len okolitý text.",
+    "location, excerpt, gallery — bez gramatických chýb."
+  ],
+  "flags": [
+    "Blok 16: fráza '...spomenuté dnešné Kopčany s kostolom [Kostol sv. Margity Antiochijskej].' — slovo 'kostolom' (7. pád) bezprostredne pred odkazom, ktorého kotviaci text znie 'Kostol sv. Margity Antiochijskej' (1. pád, veľké K), čo pôsobí ako duplicita ('s kostolom Kostol...'). Nedotknuté — úprava by vyžadovala zmenu textu kotvy odkazu, čo je mimo rozsahu gramatickej opravy plynulého textu; nejasné, či kotviaci text má zodpovedať názvu cieľovej stránky.",
+    "Zdroje, položka 'zdroj:' (id 311) je osamotená bez URL aj bez nadväzujúceho textu (na rozdiel od podobného prípadu v článku 'Slovanské hradiská v Nemecku', kde nasledovala osirotená URL na zlúčenie) — tu niet čo zlúčiť, nedopĺňané.",
+    "Zdroje, položka 'foto: Orgoň, Linda Hronikova' (id 312) — meno 'Hronikova' môže chýbať dĺžeň/mäkčeň ('Hroníková'?), nízka istota, nedopĺňané."
+  ]
+}

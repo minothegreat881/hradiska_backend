@@ -1,0 +1,50 @@
+{
+  "timeline": [
+    {
+      "year": "doba halštatská",
+      "title": "Halštatská keramika na Paprudí",
+      "description": "Na svahu Paprudia je doložená aj keramika halštatská.",
+      "type": "discovery"
+    },
+    {
+      "year": "stredná doba rímska",
+      "title": "Nález keramiky na temene Holíša",
+      "description": "Do literatúry lokalitu zaviedol A. P. Šichman, ktorý na temene Holíša spomína nález keramiky datovanej do strednej doby rímskej.",
+      "type": "discovery"
+    },
+    {
+      "year": "80. roky 20. storočia",
+      "title": "Výskum Jozefa Moravčíka",
+      "description": "V polovici 80. rokov Holíš skúmal archeológ Jozef Moravčík s členmi archeologického krúžku a zistil kultúrnu vrstvu s nálezmi keramiky v sedle medzi dvoma vrcholmi Holíša.",
+      "type": "discovery"
+    },
+    {
+      "year": "90. roky 20. storočia",
+      "title": "Vyplienenie lokality vykrádačmi",
+      "description": "V 90. rokoch sa Holíš stal terčom nájazdov vykrádačov, ktorí ho totálne vyplienili; časť nálezov sa podarilo zadokumentovať a publikovať v knihe Karola Pietu.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "severovýchodne od Nimnice, na rozhraní Trenčín – Žilina",
+      "icon": "map"
+    },
+    {
+      "label": "Kultúry",
+      "value": "halštatská, púchovská, doba rímska",
+      "icon": "scroll"
+    },
+    {
+      "label": "Miestne názvy",
+      "value": "temeno Holíš, západné úpätie Hrádky",
+      "icon": "flag"
+    },
+    {
+      "label": "Publikácia nálezov",
+      "value": "Karol Pieta: Die keltische Besiedlung der Slowakei, AU SAV Nitra 2010",
+      "icon": "book"
+    }
+  ]
+}

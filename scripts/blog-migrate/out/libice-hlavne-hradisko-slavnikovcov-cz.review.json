@@ -1,0 +1,12 @@
+{
+  "slug": "libice-hlavne-hradisko-slavnikovcov-cz",
+  "unresolvedFlags": [
+    {
+      "block": 12,
+      "excerpt": "...Za neho vzniklo pražské biskupstvo, ktorého prvým biskupom sa stal Sas znalý slovenských pomerov — Dětmar...",
+      "issue": "'znalý slovenských pomerov' je vecne podozrivé. Dětmar bol prvým biskupom PRAŽSKÉHO (českého) biskupstva a celý odsek/článok sa týka výlučne českých dejín (Slavníkovci, Přemyslovci, Čechy) — o Slovensku sa v tomto kontexte vôbec nehovorí. Vysoká pravdepodobnosť, že v origináli malo byť 'znalý českých pomerov', a 'slovenských' je preklep/chyba pri prepise (zdroj: Slovane.cz).",
+      "action": "NEOPRAVENÉ — mení fakt, nie iba gramatiku (§21.6 bod 3, zákaz rozhodovania vecného sporu). Ponechané v pôvodnom znení 'slovenských pomerov'. Treba overiť proti pôvodnému zdroju (http://www.slovane.cz/view.php?cisloclanku=2008040009 alebo http://www.e-stredovek.cz/view.php?cisloclanku=2005082901) a rozhodnúť ručne.",
+      "sourceFlag": "prevzaté z out/libice.grammar-sk-pass1.json bez zmeny"
+    }
+  ]
+}

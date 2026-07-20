@@ -1,0 +1,7 @@
+{
+  "_note": "grammar-sk v7 §21 — aktualita 'Michalovce – Život na Veľkej Morave' (2014-06). Autorova SK próza. Titulok fix (patch bp.title): 'Michalovce - Život'→'Michalovce – Život' (en dash, B). FLAG (nemeniť): typAktivity=ine ponechané per rozhodnutie používateľa, hoci ide o podujatie.",
+  "corrections": [
+    { "hint": 0, "before": "v sobotu 28.6.2014", "after": "v sobotu 28. 6. 2014", "reason": "medzery v dátume (B)" },
+    { "hint": 1, "before": "Videli sme ako sa v 9. storočí", "after": "Videli sme, ako sa v 9. storočí", "reason": "čiarka pred 'ako' (A1)" }
+  ]
+}

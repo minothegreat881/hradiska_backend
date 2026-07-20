@@ -1,0 +1,984 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label28-podturen.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-6344004807746510362",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/09/podturen-basta-velinok-varta.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/6344004807746510362/comments/default",
+    "extractedAt": "2026-07-13T23:07:32.110Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.google.com/maps?dg=optperm&ie=UTF8&t=h&source=embed&ll=49.057529,19.701791&spn=0.004921,0.00912&z=16&output=embed"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 15,
+      "captionedImages": 11,
+      "separatorImages": 4
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Podtureň - Bašta / Velínok / Varta",
+    "slug": "podturen-basta-velinok-varta",
+    "excerpt": "So súhlasom autora Vám prinášame skvelý článok od PhDr. Víťazoslava Struhára, ktorý sa zaoberá tromi zaujímavými hradiskami v obci Podtureň, ležiacej na Liptove. Veľmi zaujímavý pre nás je najmä údaj o tom, že prinajmenšom jedno z hradísk - Bašta,…",
+    "authorName": "Orgon",
+    "publishedAt": "2013-09-09T14:25:00.005+02:00",
+    "originalPublishedDate": "2013-09-09T14:25:00.005+02:00",
+    "updatedAt": "2017-03-08T10:04:53.778+01:00",
+    "readingTime": 16,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNT8Fh0dFLgmZ4Zuwc04kpFvDKYszGEA2hEKZm_LjpwPF8Jppzfhpm-Hzp7e29n49cItjFT_rteg2A8Y7QSN3KTbLp13C17I8-aBPq7szZk1e-vmCVJ19_3_Wm8uGKc3coNmsGD_Uyc9g/s0/mapa.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNT8Fh0dFLgmZ4Zuwc04kpFvDKYszGEA2hEKZm_LjpwPF8Jppzfhpm-Hzp7e29n49cItjFT_rteg2A8Y7QSN3KTbLp13C17I8-aBPq7szZk1e-vmCVJ19_3_Wm8uGKc3coNmsGD_Uyc9g/s1600/mapa.JPG",
+        "filename": "mapa.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNT8Fh0dFLgmZ4Zuwc04kpFvDKYszGEA2hEKZm_LjpwPF8Jppzfhpm-Hzp7e29n49cItjFT_rteg2A8Y7QSN3KTbLp13C17I8-aBPq7szZk1e-vmCVJ19_3_Wm8uGKc3coNmsGD_Uyc9g/s1600/mapa.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 237,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "mapka prevzatá z knihy PhDr. Peter Laučík: Podtureň - brána do laténskeho Liptova. Marmota Press, 2006"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvL43u2_jkcsFQ6T2mu0AyRt-gnR9IO1-hiCjceXTF8hlGZoXLDTtH5t9-XJKAiNIch1SvvSlNFhutHImEXEtwIfdEkomi7LS37VxUoTs-BIShaiRg8lKqn2yYkdJgRWrpLxEPVuxnqTs/s0/Obr.1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvL43u2_jkcsFQ6T2mu0AyRt-gnR9IO1-hiCjceXTF8hlGZoXLDTtH5t9-XJKAiNIch1SvvSlNFhutHImEXEtwIfdEkomi7LS37VxUoTs-BIShaiRg8lKqn2yYkdJgRWrpLxEPVuxnqTs/s1600/Obr.1.jpg",
+        "filename": "Obr.1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvL43u2_jkcsFQ6T2mu0AyRt-gnR9IO1-hiCjceXTF8hlGZoXLDTtH5t9-XJKAiNIch1SvvSlNFhutHImEXEtwIfdEkomi7LS37VxUoTs-BIShaiRg8lKqn2yYkdJgRWrpLxEPVuxnqTs/s1600/Obr.1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 252,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pôdorysný plán opevnení v Podturni z r.1880"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHNSo6jbETCnOlhS8Drz4F4nEd4Go8ICt7s-hoAWpii_g0vp8yf3x3rfciigKydEBpynEVbIfMUuFFa4eFKcHrOp7NfI4Ss7O18j2NF-D0z-JNkxkzsxTxRKpQTIZAGpxnKF_zsyW7ONY/s0/Obr.2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHNSo6jbETCnOlhS8Drz4F4nEd4Go8ICt7s-hoAWpii_g0vp8yf3x3rfciigKydEBpynEVbIfMUuFFa4eFKcHrOp7NfI4Ss7O18j2NF-D0z-JNkxkzsxTxRKpQTIZAGpxnKF_zsyW7ONY/s1600/Obr.2.jpg",
+        "filename": "Obr.2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHNSo6jbETCnOlhS8Drz4F4nEd4Go8ICt7s-hoAWpii_g0vp8yf3x3rfciigKydEBpynEVbIfMUuFFa4eFKcHrOp7NfI4Ss7O18j2NF-D0z-JNkxkzsxTxRKpQTIZAGpxnKF_zsyW7ONY/s1600/Obr.2.jpg",
+          "displayedWidth": 285,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Hradisko Velínok podľa nákresu J.Neudecka"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgE777qiPUscaDYHw6Xdl4pxMFw2Hjo1T0BO5jAwQDpdwJ9xFkc871ksns9jyYlSuVyVt6gQonwfG5FVoHhK46mz4mH634Eo5eaiGdA39ikSogjOZ-lnNI6dXpZa2OAJ1JgLjC3W5X04/s0/Obr.3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgE777qiPUscaDYHw6Xdl4pxMFw2Hjo1T0BO5jAwQDpdwJ9xFkc871ksns9jyYlSuVyVt6gQonwfG5FVoHhK46mz4mH634Eo5eaiGdA39ikSogjOZ-lnNI6dXpZa2OAJ1JgLjC3W5X04/s1600/Obr.3.jpg",
+        "filename": "Obr.3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgE777qiPUscaDYHw6Xdl4pxMFw2Hjo1T0BO5jAwQDpdwJ9xFkc871ksns9jyYlSuVyVt6gQonwfG5FVoHhK46mz4mH634Eo5eaiGdA39ikSogjOZ-lnNI6dXpZa2OAJ1JgLjC3W5X04/s1600/Obr.3.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 266,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Opevnenie na Velínku zamerané počas výskumu diaľnice v r.1975-76"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG2voqBFxEDG_lTB_pAvvrjPGoNaC7K_l8f4Zev8brw20dBFCShGQIgGNHlztjts7fpjyDJ8XKb2A26-12EaWYNB6L4x8zw0Ferpqx7BZNTBpCBaS6LGJxhxGb-e080Qeyb2CYlC2CQ2s/s0/Obr.4.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG2voqBFxEDG_lTB_pAvvrjPGoNaC7K_l8f4Zev8brw20dBFCShGQIgGNHlztjts7fpjyDJ8XKb2A26-12EaWYNB6L4x8zw0Ferpqx7BZNTBpCBaS6LGJxhxGb-e080Qeyb2CYlC2CQ2s/s1600/Obr.4.jpg",
+        "filename": "Obr.4.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG2voqBFxEDG_lTB_pAvvrjPGoNaC7K_l8f4Zev8brw20dBFCShGQIgGNHlztjts7fpjyDJ8XKb2A26-12EaWYNB6L4x8zw0Ferpqx7BZNTBpCBaS6LGJxhxGb-e080Qeyb2CYlC2CQ2s/s1600/Obr.4.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 174,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Púchovské hradisko a stredoveký hrádok na Bašte, porušené ťažbou vápenca"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FAFgwTG5V4d5Wq9UaF5cKR485mmj1RkV7kF6L5jmV1mH4JRu6D0bSawuvZf6X5nditDrhDGk7KTpwA32b1qn-edZxtgtMv49f4Uz3BfNBEBFP3N5ed6bc5BATL0nROvzAgyHsgnMftI/s0/Obr.5.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FAFgwTG5V4d5Wq9UaF5cKR485mmj1RkV7kF6L5jmV1mH4JRu6D0bSawuvZf6X5nditDrhDGk7KTpwA32b1qn-edZxtgtMv49f4Uz3BfNBEBFP3N5ed6bc5BATL0nROvzAgyHsgnMftI/s1600/Obr.5.jpg",
+        "filename": "Obr.5.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FAFgwTG5V4d5Wq9UaF5cKR485mmj1RkV7kF6L5jmV1mH4JRu6D0bSawuvZf6X5nditDrhDGk7KTpwA32b1qn-edZxtgtMv49f4Uz3BfNBEBFP3N5ed6bc5BATL0nROvzAgyHsgnMftI/s1600/Obr.5.jpg",
+          "displayedWidth": 181,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Kolekcia archeologických nálezov z Velínku v publikácii J.Neudecka z r.1880"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDNdknWFGwzQOhHuFENy5ZE2Wou13MnNLQ1s1m6SeocIkC1Go8I1ZPyXsXT1Gi3BoCsXmiPG_wdFlJhzA2JI9saC99VuIcBK0deaJtv-CG2mE8V3ndZ_oRJP6qaUU0Mi31x2pi6zJfcw/s0/Obr.6.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDNdknWFGwzQOhHuFENy5ZE2Wou13MnNLQ1s1m6SeocIkC1Go8I1ZPyXsXT1Gi3BoCsXmiPG_wdFlJhzA2JI9saC99VuIcBK0deaJtv-CG2mE8V3ndZ_oRJP6qaUU0Mi31x2pi6zJfcw/s1600/Obr.6.jpg",
+        "filename": "Obr.6.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDNdknWFGwzQOhHuFENy5ZE2Wou13MnNLQ1s1m6SeocIkC1Go8I1ZPyXsXT1Gi3BoCsXmiPG_wdFlJhzA2JI9saC99VuIcBK0deaJtv-CG2mE8V3ndZ_oRJP6qaUU0Mi31x2pi6zJfcw/s1600/Obr.6.jpg",
+          "displayedWidth": 250,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Sídlisková keramika púchovskej kultúry z hradiska na Bašte."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-mC-tbu2_gwS5-M9X3D0b0Aq9NZCxU7YpfTQPD8Pa1UCHzWiW9ObIX3SIEJdHE6flsV6YVRSaEpawz_yvlkQVRse64I0e8-rAGa6V9bDEp91_9IfhTHYHeuMnkZiTPL8NOf_rZ4FfbI0/s0/Obr.7.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-mC-tbu2_gwS5-M9X3D0b0Aq9NZCxU7YpfTQPD8Pa1UCHzWiW9ObIX3SIEJdHE6flsV6YVRSaEpawz_yvlkQVRse64I0e8-rAGa6V9bDEp91_9IfhTHYHeuMnkZiTPL8NOf_rZ4FfbI0/s1600/Obr.7.jpg",
+        "filename": "Obr.7.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-mC-tbu2_gwS5-M9X3D0b0Aq9NZCxU7YpfTQPD8Pa1UCHzWiW9ObIX3SIEJdHE6flsV6YVRSaEpawz_yvlkQVRse64I0e8-rAGa6V9bDEp91_9IfhTHYHeuMnkZiTPL8NOf_rZ4FfbI0/s1600/Obr.7.jpg",
+          "displayedWidth": 233,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Podtureň-Bašta. Inventár ohňom zničenej chaty z 1. storočia n.l."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZGQgW6CQ19yNRxUXX1QXypaiXTzjDSoDnuu6wIBMwM6fbF-AVDQXegBoGfyCXGVvi5N65j8SiJPfBJwodqi-urM7wuY7hzDPqrgdaw218KX6cSKNRaf_LdwnyRggHC12r_KUxc6ZuDWE/s0/ba%C5%A1ta+kv.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZGQgW6CQ19yNRxUXX1QXypaiXTzjDSoDnuu6wIBMwM6fbF-AVDQXegBoGfyCXGVvi5N65j8SiJPfBJwodqi-urM7wuY7hzDPqrgdaw218KX6cSKNRaf_LdwnyRggHC12r_KUxc6ZuDWE/s1600/ba%C5%A1ta+kv.jpg",
+        "filename": "bašta+kv.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZGQgW6CQ19yNRxUXX1QXypaiXTzjDSoDnuu6wIBMwM6fbF-AVDQXegBoGfyCXGVvi5N65j8SiJPfBJwodqi-urM7wuY7hzDPqrgdaw218KX6cSKNRaf_LdwnyRggHC12r_KUxc6ZuDWE/s1600/ba%C5%A1ta+kv.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Bašta (foto: Kvetka M)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimCtYf32JL9s9y8cjObVuA2-MGkxbPplJPwuX35g7RUdh-abc5bZhORGTKP3YcdaDPzO7kn7X-B4htP6Qz1NC2PBtewCXZ-MDwKeDrHtIt4FQOI9P-kkMD8BYTE61i3bL625d9ORja7fQ/s0/Varta++Vel%C3%ADnok++Ba%C5%A1ta+++kv.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimCtYf32JL9s9y8cjObVuA2-MGkxbPplJPwuX35g7RUdh-abc5bZhORGTKP3YcdaDPzO7kn7X-B4htP6Qz1NC2PBtewCXZ-MDwKeDrHtIt4FQOI9P-kkMD8BYTE61i3bL625d9ORja7fQ/s1600/Varta++Vel%C3%ADnok++Ba%C5%A1ta+++kv.jpg",
+        "filename": "Varta++Velínok++Bašta+++kv.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimCtYf32JL9s9y8cjObVuA2-MGkxbPplJPwuX35g7RUdh-abc5bZhORGTKP3YcdaDPzO7kn7X-B4htP6Qz1NC2PBtewCXZ-MDwKeDrHtIt4FQOI9P-kkMD8BYTE61i3bL625d9ORja7fQ/s1600/Varta++Vel%C3%ADnok++Ba%C5%A1ta+++kv.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 239,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Varta, Velínok, Bašta (foto: Kvetka)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0L4ALx9LGK8VK97SFD7PLhxKZSphwWSiZvtIE1TkSBFYVr65LecYnWztEnTyUgFFmqykrFmLJYul_7dp-8COeU3l01JSEomE0735-EOSFRSCox7-FNC0ClRn_0eXU2Y5LdLl0Xpi_1zQ/s0/IMAG0346+bros.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0L4ALx9LGK8VK97SFD7PLhxKZSphwWSiZvtIE1TkSBFYVr65LecYnWztEnTyUgFFmqykrFmLJYul_7dp-8COeU3l01JSEomE0735-EOSFRSCox7-FNC0ClRn_0eXU2Y5LdLl0Xpi_1zQ/s1600/IMAG0346+bros.jpg",
+        "filename": "IMAG0346+bros.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0L4ALx9LGK8VK97SFD7PLhxKZSphwWSiZvtIE1TkSBFYVr65LecYnWztEnTyUgFFmqykrFmLJYul_7dp-8COeU3l01JSEomE0735-EOSFRSCox7-FNC0ClRn_0eXU2Y5LdLl0Xpi_1zQ/s1600/IMAG0346+bros.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Bašta (autor foto: P. Bros)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkU-tDIQgOkXGIb0jyu18XsaJiTMi9wYFHlO5LX_sW9cJyCpFfsQxMy1jWdXhB-gc5SBkW6rWIf3AymI6Kau1l2AlCB_-plnKx9FuTURU3JOicsEmgaHu5-VzF6MNrF4iamH8OMXDVr7Q/s0/IMAG0351+Bros.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkU-tDIQgOkXGIb0jyu18XsaJiTMi9wYFHlO5LX_sW9cJyCpFfsQxMy1jWdXhB-gc5SBkW6rWIf3AymI6Kau1l2AlCB_-plnKx9FuTURU3JOicsEmgaHu5-VzF6MNrF4iamH8OMXDVr7Q/s1600/IMAG0351+Bros.jpg",
+        "filename": "IMAG0351+Bros.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkU-tDIQgOkXGIb0jyu18XsaJiTMi9wYFHlO5LX_sW9cJyCpFfsQxMy1jWdXhB-gc5SBkW6rWIf3AymI6Kau1l2AlCB_-plnKx9FuTURU3JOicsEmgaHu5-VzF6MNrF4iamH8OMXDVr7Q/s1600/IMAG0351+Bros.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLt1EVh8NZFsWqnEPnv77fCPseyJP8ZEpR-0UmcKSm6bn2KKdd8z18QbmX1192x2iBv98aKUlzeW0V6V115WjVSUwTAqRFDt0c_4JPMjKGgCh1jfzqPdeNiv9-0VBloKmMCnWcAgleEZw/s0/IMAG0352+bros.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLt1EVh8NZFsWqnEPnv77fCPseyJP8ZEpR-0UmcKSm6bn2KKdd8z18QbmX1192x2iBv98aKUlzeW0V6V115WjVSUwTAqRFDt0c_4JPMjKGgCh1jfzqPdeNiv9-0VBloKmMCnWcAgleEZw/s1600/IMAG0352+bros.jpg",
+        "filename": "IMAG0352+bros.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLt1EVh8NZFsWqnEPnv77fCPseyJP8ZEpR-0UmcKSm6bn2KKdd8z18QbmX1192x2iBv98aKUlzeW0V6V115WjVSUwTAqRFDt0c_4JPMjKGgCh1jfzqPdeNiv9-0VBloKmMCnWcAgleEZw/s1600/IMAG0352+bros.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipN_ArX6VZ511f0CHESBJlpg_v_93r-GsYYRa3yGryr7spnR3SE7g427e_sr74BIGLoWCld9z2lQkyEpxY_U4h4U2AePu27mD9RW4XyzUqtr87xORngNQ_wQ5NCfZ9vRQwO0iNqTSOEgE/s0/podturen-1+Rudo+Mlady.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipN_ArX6VZ511f0CHESBJlpg_v_93r-GsYYRa3yGryr7spnR3SE7g427e_sr74BIGLoWCld9z2lQkyEpxY_U4h4U2AePu27mD9RW4XyzUqtr87xORngNQ_wQ5NCfZ9vRQwO0iNqTSOEgE/s1600/podturen-1+Rudo+Mlady.jpg",
+        "filename": "podturen-1+Rudo+Mlady.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipN_ArX6VZ511f0CHESBJlpg_v_93r-GsYYRa3yGryr7spnR3SE7g427e_sr74BIGLoWCld9z2lQkyEpxY_U4h4U2AePu27mD9RW4XyzUqtr87xORngNQ_wQ5NCfZ9vRQwO0iNqTSOEgE/s1600/podturen-1+Rudo+Mlady.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvJ8nzms5mnL3Z-9jve29DPUPifalwMxz886n9iYJg8UfkJU6MPk6hJ804obSUzOuxMWlwAiPUy1LU6rgGoYxhIRzjUGdpTuCPvWf7RLJNQRmyo7gLwP35Gw8dsRfBfpo8AOHB74tphJA/s0/podturen-2+Rudo+Mlady.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvJ8nzms5mnL3Z-9jve29DPUPifalwMxz886n9iYJg8UfkJU6MPk6hJ804obSUzOuxMWlwAiPUy1LU6rgGoYxhIRzjUGdpTuCPvWf7RLJNQRmyo7gLwP35Gw8dsRfBfpo8AOHB74tphJA/s1600/podturen-2+Rudo+Mlady.jpg",
+        "filename": "podturen-2+Rudo+Mlady.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvJ8nzms5mnL3Z-9jve29DPUPifalwMxz886n9iYJg8UfkJU6MPk6hJ804obSUzOuxMWlwAiPUy1LU6rgGoYxhIRzjUGdpTuCPvWf7RLJNQRmyo7gLwP35Gw8dsRfBfpo8AOHB74tphJA/s1600/podturen-2+Rudo+Mlady.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Podtureň"
+    ],
+    "category": null,
+    "location": {
+      "name": "Podtureň",
+      "latitude": 49.057529,
+      "longitude": 19.701791,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Tri opevnenia pri Podturni",
+        "value": "Bašta, Velínok a Varta - ostrohovité opevnenia na vápencových výbežkoch 130-150 m nad údolím Váhu",
+        "icon": "mountain"
+      },
+      {
+        "label": "Slovanské osídlenie Bašty",
+        "value": "Prinajmenšom hradisko Bašta bolo využívané aj Slovanmi v 9.-10. storočí",
+        "icon": "star"
+      },
+      {
+        "label": "Opevnenie na Velínku",
+        "value": "Valové opevnenie s rozmermi 70×90 m malo drevenú roštovú konštrukciu zosilnenú kamennou plentou, polokliešťovú bránu a strážnu vežu na kamenných základoch",
+        "icon": "building"
+      },
+      {
+        "label": "Výskum pred diaľnicou D1",
+        "value": "V. Hanuliak a K. Pieta skúmali lokalitu v rokoch 1975-76 v súvislosti s výstavbou diaľnice D-1",
+        "icon": "book"
+      },
+      {
+        "label": "Pôvod názvu Podtureň",
+        "value": "Meno osady sa odvodzuje od slov bašta a turňa - dobového označenia veže drevenej architektúry strážneho hrádku",
+        "icon": "custom"
+      },
+      {
+        "label": "Trvanie stredovekého hrádku",
+        "value": "Nálezy keramiky, streliek do kuše, praciek, podkov a uhorských mincí datujú drevozemný hrádok približne od 13. do 15. storočia",
+        "icon": "shield"
+      },
+      {
+        "label": "Žiarové pohrebisko pri Velínku",
+        "value": "J. Neudeck odkryl v podhradí 25 popolníc so zvyškami spálených kostí, popola a bronzových šperkov z mladšej doby bronzovej",
+        "icon": "map"
+      },
+      {
+        "label": "Obranný systém priekop",
+        "value": "Priestor medzi Velínkom a Vartou chránila trojitá sústava hrotitých priekop v polohe Fľak pod Vartou",
+        "icon": "shield"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "pred vyše 4 000 rokmi",
+        "title": "Eneolitické osídlenie okolia Varty",
+        "description": "Skromné keramické nálezy na úpätí Varty naznačujú, že sa v okolí terajšej osady usadili nositelia eneolitickej badenskej kultúry, ktorí sem prenikli zo severných častí dnešného Maďarska.",
+        "type": "era"
+      },
+      {
+        "year": "staršia doba bronzová",
+        "title": "Nález záveska typu Hodejov na Velínku",
+        "description": "Na Velínku sa našiel rebrovaný srdcovitý závesok typu Hodejov, doklad kontaktov s otomanskou kultúrou; nález publikoval J. Neudeck.",
+        "type": "discovery"
+      },
+      {
+        "year": "mladšia doba bronzová",
+        "title": "Žiarové pohrebisko pri Velínku",
+        "description": "Pri stavbe železnice v podhradí objavili žiarové pohrebisko; J. Neudeck tu odkryl 25 popolníc so zvyškami spálených kostí, popola a bronzových predmetov (ihlice, prstene, náušnice, špirály).",
+        "type": "discovery"
+      },
+      {
+        "year": "neskorá doba laténska",
+        "title": "Vznik najstaršieho opevnenia na Bašte",
+        "description": "Pôvodné osídlenie polohy Bašta spadá do neskorej doby laténskej, kedy tu vzniklo aj najstaršie opevnenie, neskôr poškodené ďalšími zásahmi.",
+        "type": "founding"
+      },
+      {
+        "year": "1. storočie n.l.",
+        "title": "Požiar chaty na Bašte",
+        "description": "Ohňom bola zničená chata na Bašte; jej inventár, spolu s fragmentom náramku a vinutím bronzovej spony, je datovateľný do 1. storočia n.l.",
+        "type": "destruction"
+      },
+      {
+        "year": "1932",
+        "title": "Nález keramiky a železného noža pri Bašte",
+        "description": "Pri prieskume sídliska v západnom podhradí Bašty získal P. Okoličány črepy hlinených nádob a železný nôž.",
+        "type": "discovery"
+      },
+      {
+        "year": "1975-1976",
+        "title": "Archeologický výskum pred výstavbou diaľnice D1",
+        "description": "V. Hanuliak a K. Pieta pri výskume v Podturni zistili na vrchole Velínku menšie valové opevnenie s rozmermi 70×90 m, s drevenou roštovou konštrukciou zosilnenou kamennou plentou a polokliešťovým uzatvorením brány so strážnou vežou.",
+        "type": "discovery"
+      },
+      {
+        "year": "koniec 2. storočia",
+        "title": "Úpadok a zánik púchovskej kultúry",
+        "description": "Po takmer piatich storočiach rozmachu dochádza k pozvoľnému úpadku púchovskej kultúry a k násilnému zániku väčšiny hradísk; obyvateľstvo sa pravdepodobne presídlilo do južnejších oblastí Panónie.",
+        "type": "destruction"
+      },
+      {
+        "year": "prelom 4. a 5. storočia",
+        "title": "Germánske osídlenie na mieste starších opevnení",
+        "description": "Skupinky germánskych kmeňov na krátky čas obsadili strategické polohy na miestach starších opevnení a využívali blízke zdroje železnej rudy.",
+        "type": "event"
+      },
+      {
+        "year": "9.-10. storočie",
+        "title": "Slovanské osídlenie Bašty",
+        "description": "Dominujúca poloha vrcholu bola opäť využitá, ako dokladajú nepočetné sekundárne nálezy keramiky z plochy hradiska a jeho juhozápadného úpätia.",
+        "type": "era"
+      },
+      {
+        "year": "13.-15. storočie",
+        "title": "Stredoveký drevozemný hrádok",
+        "description": "Podľa nálezov keramiky, streliek do kuše, praciek, podkov a železných nožov, ako aj stredovekých uhorských mincí, možno trvanie drevozemného hrádku ohraničiť 13. až 15. storočím.",
+        "type": "construction"
+      },
+      {
+        "year": "16. storočie",
+        "title": "Zánik strážneho hrádku",
+        "description": "Zánikom hrádku niekedy v priebehu nepokojného 16. storočia stratila lokalita svoj strategický význam.",
+        "type": "destruction"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "So súhlasom autora Vám prinášame skvelý článok od "
+              },
+              {
+                "type": "link",
+                "url": "http://www.archeologiask.sk/",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "PhDr. Víťazoslava Struhára"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ", ktorý sa zaoberá tromi zaujímavými hradiskami v obci Podtureň, ležiacej na Liptove. Veľmi zaujímavý pre nás je najmä údaj o tom, že prinajmenšom jedno z hradísk - Bašta, bolo využívané aj Slovanmi v 9.-10. storočí. Na mapu slovanských hradísk si teda môžeme zaznačiť ďalšie hradisko na severe Slovenska. Článok prinášame v plnom znení. Autorovi patrí vďaka za ústretovosť. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "https://www.google.com/maps?dg=optperm&ie=UTF8&t=h&source=embed&ll=49.057529,19.701791&spn=0.004921,0.00912&z=16",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "View Larger Map"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Praveké a včasnohistorické osídlenie Podturne a jej okolia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "\""
+              },
+              {
+                "type": "text",
+                "text": "Každého bojovníka ako aj bádateľa zaoberajúceho sa starovekým stavebníctvom musí nesporne zaujať opevnenie ležiace pri osade Podtureň v Liptove, ktoré dominuje nielen údoliu Váhu, ale aj širokému okoliu, nachádzajúce sa na 130-150 m vysokom pahorku, oddelenom na severe od ďalšej vyvýšeniny, ktorú od východu obteká potok Jamníček.",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Približne takto opísal sústavu ostrohovitých výbežkov vážskej terasy nad touto východoliptovskou obcou v 70. rokoch 19. storočia jeden z významných amatérskych archeológov Július Neudeck. Hoci povolaním bol zememeračský inžinier na stavbe Košicko – bohumínskej magistrály, vo voľnom čase sa zaoberal aj prieskumom prehistorických lokalít. Jeho záujem vzbudzovali najmä opevnené hrádky a hradiská nachádzajúce sa popri toku Váhu, ktorých zameral, popísal a nakreslil takmer tri desiatky. Práve Podturni venoval vo svojej dvojdielnej štúdii o germánskych opevneniach na hornom toku Váhu osobitnú pozornosť, pretože systém tunajších hradísk a sídlisk považoval za jeden z najväčších na Považí. A nebol pritom ďaleko od pravdy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lokality, ktoré vzbudili pozornosť aj u ďalších súvekých historikov a archeológov - Bélu Majlátha a Józsefa Mihalika, sa nachádzajú na výbežkoch vápencovej ostrohy na pravobreží rieky Váh. Najviac na východ vysunutý je vrch nazývaný ktorý sa týči nad vyústením potoka Jamníček do vážskej nivy. Západne od neho sa ešte nedávno nachádzala vyvýšenina , ktorá bola zničená pri stavbe diaľnice D-1, kameňolom však narušil do značnej miery aj Baštu. Trojicu opevnení uzatvára kopec , s dodnes neskúmaným opevnením. Doterajšie poznatky získané archeologickým výskumom dokazujú, že výrazná terénna dominanta so strategickou polohou pri hlavnom komunikačnom ťahu smerujúcom na Spiš, zaujala už najstarších roľníkov a pastierov, ktorí obývali Liptov na sklonku doby kamennej. Skromné keramické nálezy objavené niekde na úpätí Varty naznačujú, že už pred vyše 4 tisícročiami sa v okolí terajšej osady usadili nositelia eneolitickej badenskej kultúry, ktorí sem prenikli odniekiaľ zo severných častí dnešného Maďarska. Popri otvorených osadách (Liptovská Teplá, Bešeňová, Sliače) osídľovali aj vyššie položené miesta (Lipt.Mara-Havránok, Lúčky) a niektoré jaskyne (Okno v Demänovej, Vyvieračka v Prosieku, Starhradská jaskyňa). Analýza keramiky a kamenných nástrojov dokázala úzke kultúrne kontakty s Poľskom, odkiaľ sa na Liptov dostávali aj osobitné štiepané kamenné sekerky, vyrobené zo zvláštnej odrody pazúrika – tzv. G typu. Ich nálezy poznáme napríklad z Bešeňovej, Lipt. Michala, Dechtár a Liptovského Trnovca. Jeden z exemplárov sa našiel aj v Uhorskej Vsi v roku 1933 v polohe „Vlčienec“, resp. „Zadná Babka“ a jeho tvar a rozmery sú takmer zhodné s nálezom z bešeňovských travertínov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po relatívne hustejšom osídlení v závere doby kamennej zaznamenávame v nasledujúcej staršej dobe bronzovej na Liptove len sporadické stopy antropogénnej aktivity. Vyspelé starobronzové civilizácie existujúce v priebehu 20. až 15. storočia p.n.l. uprednostňovali úrodnejšie oblasti východného a juhozápadného Slovenska, silná enkláva tzv. otomanskej kultúry sa však vytvorila aj na susednom Spiši, s významným strediskom v Spišskom Štvrtku. Práve z tohto centra dochádzalo občas aj k prenikaniu nositeľov otomanskej kultúry smerom na západ, pričom impulzom mohla byť práve prospekcia medi a iných surovín, ktorých ložiská sa v hojnom počte nachádzajú aj v masíve Nízkych Tatier. Svedectvom prítomnosti ľudu tejto kultúry západne od Spiša sú ojedinelé nálezy z niekoľkých lokalít. Patrí sem napríklad kolekcia bronzových záušníc z Liskovskej jaskyne pri Ružomberku, ale predovšetkým nález rebrovaného srdcovitého závesku typu Hodejov, ktorý sa našiel na Velínku a publikoval ho ešte v minulom storočí J.Neudeck."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Oveľa súvislejšie a hustejšie začali liptovskú kotlinu osídľovať od strednej doby bronzovej kmene lužickej kultúry, ktorá sa rozšírila na rozsiahlom území od Nemecka cez Poľsko a zasiahla takmer celú severnú časť Slovenska. Väčšina osád sa zakladala na terasách potokov a riek, zatiaľ čo hospodársko-správnu a obrannú funkciu zastávali výšinné opevnené hradiská. Tie boli zakladané najčastejšie na vrcholoch neprístupných kopcov, dobre chránených prirodzenými strmými zrázmi a umelo vybudovanými valovými násypmi. Takouto dobre chránenou polohou bola aj lokalita „Vislavce“, situovaná na ľavom brehu Váhu oproti vtoku Belej do Váhu, na okraji dnešného Liptovského Hrádku. Neudeck tu pri prieskume v r.1878 zistil pozostatky valov a údajne sa v týchto miestach v minulosti našiel aj bronzový meč."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jedno z ďalších strategických bodov sa muselo zrejme nachádzať aj na vrchu . Jeho opevnenie je síce mladšieho dáta, ale nálezy bronzových nákrčníkov a náramku s rytou rebrovanou výzdobou, ktoré ako poznamenáva J.Neudeck „vypadávali z profilu po každom daždi“, dokazujú využívanie tohto dominantného miesta aj v mladšej dobe bronzovej. Bezprostredne v jeho podhradí bolo pri stavbe železnice objavené aj žiarové pohrebisko, kde tunajší osadníci svojich mŕtvych spaľovali a ich zvyšky následne ukladali do zeme v hlinených urnách. Neudeck na lokalite, nachádzajúcej sa len pár desiatok metrov od kúrie Potúrňanských, kde žil so svojou manželkou Emmou, odkryl celkom 25 popolníc so zvyškami spálených kostí, popola a zlomkov predmetov. Osem urnových hrobov bolo umiestnených v kamennej obrube a takmer všetky obsahovali bronzové ihlice, prstene, náušnice, špirály, zlomky ihiel, sklenených a kostených perál. Najzaujímavejším bol bohatý hrob, ktorý obsahoval až tri do seba vložené hlinené nádoby."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Uvedené pohrebisko podrobne popisuje (pod lokalitou Uhorská Ves) vo svojich prácach aj B.Majláth, niekedy uvádzaný ako autor výskumu. Je preto pravdepodobné, keďže už mal skúsenosti z výskumu súvekého pohrebiska v Liptovskej Ondrašovej, že s Neudeckom pri vykopávkach spolupracoval a získané nálezy sa dostali do jeho „bronzovej zbierky“, aby nakoniec skončili v Natürhistorisches Muzeum vo Viedni."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podobné osudy častokrát postihli aj mnohé ďalšie pamiatky z obdobia lužickej kultúry, ktoré sa objavovali v priebehu 19. storočia, najmä skvostné umelecky hodnotné bronzové šperky a meče tzv. liptovského typu, ktoré boli asi najpôsobivejšími výrobkami severoslovenských kovolejárskych dielní. Týka sa to napríklad aj dnes už nezvestných predmetov z údajného hromadného pokladu objaveného v Kráľovej Lehote, z ktorého sa do Majláthovej zbierky dostal meč s čiaškovitou rukoväťou a honosný náramenný kruh tzv. šalgotajánskeho typu. Našťastie, veľa iných pokladov sa podarilo zachrániť a odborníci ich mali možnosť podrobne preskúmať a zdokumentovať. Sem patrí aj depot bronzových nádob objavený v r. 1969 v Liptovskej Ondrašovej, ktorý obsahoval deväť šálok uložených v kotli, spolu s hrotom kopije a srpovitým predmetom. Najunikátnejším exemplárom bol artefakt kosákovitého tvaru so zložitou rytou výzdobou, ktorý by mohol súvisieť s istými kultovými praktikami, a ktorý má vzdialené analógie až v ďalekej Mezopotámii. Podľa archeológa Dr. Václava Furmánka možno poklad datovať približne do 9. storočia p.n.l."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Časté a bohaté nálezy bronzových predmetov indikujú predpoklad, že v severnej časti Slovenska fungovali na sklonku doby bronzovej významné produkčné centrá, ktoré zásobovali technologicky výborne zvládnutými výrobkami susedné aj vzdialenejšie kultúry popolnicových polí. Vysokú hospodársku úroveň si severoslovenskí lužičania udržali aj v nasledujúcej staršej dobe železnej (7.-4. storočie p.n.l.). V materiálnej kultúre autochtónneho usadlého obyvateľstva horských oblastí sa začali čoraz viac prejavovať vplyvy prichádzajúce z východoalpského územia, kde v tom čase nastupovala nová epocha reprezentovaná halštatskou kultúrou. Podľa najcharakteristickejších nálezísk spomínaného obdobia dostala táto fácia lužickej kultúry pomenovanie oravská skupina. Početné urnové pohrebiská zachytené výskumom na susednej Orave nás informujú o úrovni hospodárstva, sociálnej hierarchii aj remeselnej zručnosti tunajšieho obyvateľstva. Na Liptove, kde bola v dobe halštatskej rovnaká kultúrna situácia, však poznáme oveľa menej materiálu a nekropoly sú takmer neznáme. Len torzovité poznatky priniesol výskum žiarových hrobov v polohe Konislavy pri Liptovskom Trnovci, zapustených do plášťa, zrejme staršej mohyly. S typicky halštatským pohrebiskom možno počítať zatiaľ len v Liptovskom Hrádku. Na brehu riečky Belá v záhrade lesníckej školy, ako uvádza B.Majláth v práci Lipómegyei östelepek (1873) , sa narazilo na pozostatky pohrebiska, z ktorého sa podarilo zachrániť údajne 47 popolníc. Podľa vyobrazenia dvoch nádob s typickou rytou lineárnou výzdobou tu pochovávali svojich mŕtvych predstavitelia oravskej skupiny lužickej kultúry, ktorí žili na okolitých sídliskách. Jedno z nich s veľkou pravdepodobnosťou skúmal v rokoch 1886-1887 v katastri Liptovského Hrádku J.Mihalik, pričom objavil niekoľko ohnísk a získal množstvo keramiky. Podľa jeho informácií sa tu našla aj nezdobená nádoba s obsahom uhlíkov a popola, v ktorej ležala pazúriková čepeľ, čo naznačuje, že sa jednalo o žiarový hrob, ktorý snáď mohol byť aj súčasťou menšieho pohrebiska z rovnakého obdobia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Aj napriek absencii širších poznatkov o pohrebnom ríte a niektorých nadstavbových javoch vieme o predmetnom období niektoré dôležité informácie z početného prieskumu výšinných opevnených sídlisk. Tieto sa ako nový fenomén objavujú najmä vo vyššie položených horských, často až extrémnych polohách, Nízkych a Západných Tatier ako aj Chočských vrchov. Ich charakteristickou črtou je okrem strategického a dobre chráneného umiestnenia často aj existencia mohutného opevnenia. Silné zoskupenie týchto lokalít sa nachádzalo najmä na hrebeňoch Nízkych Tatier južne od Liptovského Mikuláša, na vrcholoch Iľanovskej a Demänovskej Poludnice, Končistého, Bodovej a Sinej. Pri výskume na Demänovskej Poludnici bola zachytená prepálená popolovitá vrstva s výskytom keramiky, mazanice a žulových okruhliakov. Zaujímavým zistením boli zvyšky zuhoľnateného obilia, strukovín a uhlíky viacerých drevín. Menší sondážny prieskum uskutočnený na vrchole Mnícha nad Bobrovcom odhalil zas masívny vyše stometrový val s jednoduchou bránou, aj keď nálezy tu boli podstatne skromnejšie. Na archeologické nálezy však boli chudobné aj ostatné vysokohorské výšinné sídliská, čo poukazuje spolu s existenciou opevnenia predovšetkým na ich obranný (refugiálny) charakter. Bežný hospodársky život sa odohrával prevažne na nížinných sídliskách, ktorým dominovali centrálne hradiská v ich blízkosti. Jednu z mála halštatských osád sa podarilo identifikovať v Liptovskom Mikuláši – Vrbici. Na neveľkej ploche bola odhalená kultúrna vrstva s uhlíkmi, v ktorej sa našlo hlinené závažie a bronzová ihlica s dvojicou špirálovitých ružíc."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Príkladom malej sídliskovej aglomerácie môže byť napr. sídlisko Chopce v Závažnej Porube s neďalekým hrádkom pri Liptovskom Jáne, ale určite najmä populárne hradisko Roháčka pri Ploštíne. Pri západnom úpätí ostrohovitej vyvýšeniny existovalo rozsiahle sídlisko, ktoré zachytil v r.1970 Dr.Karol Pieta a z niekoľkých objektov získal zlomky typickej, do čierna vypálenej leštenej keramiky s rytými vzormi spolu s ďalšími predmetmi sídliskového charakteru. Aj na plošine Roháčky sa našlo množstvo archeologického materiálu, ten pochádza najmä z vykopávok J.Volku-Starohorského, ktorý tu našiel aj dielňu na spracovanie parožia. Už pred ním sa o túto zaujímavú a povesťami opradenú lokalitu zaujímal J.Mihalik, ktorý pri jej úpätí v roku 1888 objavil údajne aj popolnicové pohrebisko, z ktorého jedna nádoba sa nachádza v martinskom múzeu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pre poznanie umeleckého prejavu doby halštatskej je veľmi významný hromadný nález bronzových predmetov z Liptovského Jána pochádzajúci z roku 1869 a v súčasnosti uložený v Budapešti. Okrem troch bronzových prsteňov bola jeho súčasťou aj antropomorfná plastika stojacej postavy, ktorá napodobňuje o niečo detailnejšie figúrky vyrábané vo sfére primárnej halštatskej kultúry a akcentuje pôsobenie vplyvov vo výtvarnom umení až ďaleko v odľahlej oblasti severoslovenských kotlín. Spomínaný predmet však nie je jediným dôkazom prieniku nelužických elementov do autochtónneho prostredia obývaného nositeľmi oravskej skupiny. Nálezy trojbokých streliek východného pôvodu z Demänovskej Poludnice a z Vyšného Kubína naznačujú cudzí zásah do kontinuálneho vývinu lužickej kultúry, ktorý mal nepochybne násilný charakter a spôsobil zánik väčšiny nížinných hradísk aj vysoko položených refúgií. Svedčia o tom vrstvy so zvyškami deštruovaných objektov a stopami požiaru (tzv. zánikové horizonty), ale napr. aj ľudské kosti z Demänovskej Poludnice, ktoré podávajú svedectvo o „horúcich chvíľach“ tu ukrytého obyvateľstva."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "S významnými zmenami, ktoré nastali po týchto katastrofických udalostiach, dochádza aj k vzniku novej kultúrnej situácie na bývalom teritóriu rozšírenia oravskej skupiny lužických popolnicových polí. Smerom do severne ležiacich území začali niekedy v 4. storočí p.n.l. prenikať prvé ohlasy laténskej kultúry, ktorá je už tradične spájaná s etnickým prejavom podunajských Keltov. Po prvotných obojstranných kontaktoch v staršej a začiatkom strednej doby laténskej sa predpokladá, že v jej mladšom období dochádzalo aj k priamym fyzickým stretom, ktoré vyústili do postupného splynutia s pôvodným lužickým obyvateľstvom. Vzájomné spolužitie etnicky rozdielnych skupín sa napokon prejavilo vznikom charakteristickej kultúry, ktorá dostala pomenovanie púchovská. V hmotnom prejave aj náboženských tradíciách došlo určite k obohateniu domáceho podložia a symbióza obidvoch elementov znamenala neobvyklý rozmach v hospodárskej sfére aj v sídliskovej štruktúre. V predsunutých líniách horských pásiem vznikajú nové hradiská, v okolí ktorých sa budujú otvorené agrárno – remeselné osady. Jedna z najrozsiahlejších sídliskových aglomerácií vznikla na vrchu Havránok, nad terajšou vodnou nádržou Liptovská Mara a pozostávala z akropoly a šiestich okolitých osád. Na vrchole kopca sa nachádzalo mohutným valom opevnené hradisko, v ktorého areáli existovala aj unikátna svätyňa. Niekoľkokrát do roka sa tu schádzali obyvatelia celého Liptova, aby sa zúčastnili na oslavách a náboženských obradoch, ktorých súčasťou boli aj ľudské obety a spaľovacie žertvy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z výsledkov archeologických výskumov, ktoré boli realizované za posledných pár desaťročí, sme získali kvantitou aj kvalitou bohaté poznatky o živote starých púchovčanov. Významné informácie priniesol aj výskum v Podturni, ktorý tu realizovali archeológovia V.Hanuliak a K.Pieta v rokoch 1975-76 v súvislosti s budovaním diaľnice D-1. Na vrchole bolo zistené menšie valové opevnenie s rozmermi 70x90, ktoré však malo dômyselne vybudovanú drevenú roštovú konštrukciu, zosilnenú čelnou kamennou plentou. Smerom ku bráne prechádzal val do hlineného násypu so zabudovaným kamenným múrom. Zvláštnosťou konštrukcie, ktorá zatiaľ nemá u nás paralely, je polokliešťové uzatvorenie brány a strážna veža stavaná na kamenných základoch . Podľa týchto znakov možno uvažovať, že hradisko na Velínku malo dominantnú úlohu v rámci ostatných opevnení v Podturni a zabezpečovalo východnú hranicu Liptovskej kotliny v najstaršej – laténskej fáze púchovskej kultúry. Do obranného komplexu ďalej patrila aj trojitá sústava hrotitých priekop , ktorá vypĺňala priestor medzi Velínkom a Vartou a jej priebeh bol identifikovaný odkryvom v polohe Fľak pod Vartou. Prínosom výskumu na tejto ploche bolo aj zachytenie jedného sídliskového objektu s kolovou konštrukciou a ohniskom, ktorý bol jedným z vedúcich typov obydlí v oblasti rozšírenia púchovskej kultúry. Iným druhom obytných objektov bol potom zrubový drevený dom s vymazanou dlážkou a ohniskom, ktorého forma prakticky pretrvala v ľudovej architektúre severného Slovenska až do súčasnosti."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ďalším sprievodným znakom vývoja púchovskej kultúry v mladšej a neskorej dobe laténskej je aj výstavba systému rozlohou neveľkých opevnených hrádkov , situovaných najčastejšie v predsunutých líniách horských masívov a pri vstupoch do dolín. Aj v širšom okolí Podturne registrujeme niekoľko takýchto strážnych hrádkov. Do úvahy pripadá najmä poloha Hrádok pri Jakubovanoch a rovnomenná poloha v Liptovskom Jáne, alebo lokalita Kameničná , kde V.Uhlár objavil neveľké valové opevnenie. Do tejto kategórie možno napokon zaradiť aj hradiská, ktoré boli vytvorené na vrcholových plošinách Varty . O charaktere a presnejšom datovaní osídlenia na máme len útržkovité informácie zo starších prieskumov J.Volka, I.Houdeka a A.Petrovského-Šichmana, ktorí odtiaľto získali materiál púchovského charakteru. Konkrétnejšie vedomosti máme však z hradiska , kde prebehol podrobnejší archeologický výskum. Pôvodné osídlenie tejto polohy spadá do neskorej doby laténskej, kedy tu vzniklo aj najstaršie opevnenie, poškodené neskoršími zásahmi. Ťažisko osídlenia Bašty však spadá do mladšieho púchovského obdobia na začiatku staršej doby rímskej. V deštrukciách ohňom zničených objektov boli objavené dobre zachovalé zvyšky keramických nádob a drobných predmetov, okrem iného aj fragment náramku a vinutie bronzovej spony, ktoré sú datovateľné do 1. stor.n.l. Pod jedným zo zhorených trámov sa našla takmer úplná štvoruchá nádobka, ktorá by podľa K.Pietu mohla byť aj istou formou obetného daru, zabezpečujúceho ochranu tunajšieho strážneho hrádku."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na základe archeologického výskumu, ktorý bol v predstihu realizovaný na diaľnicou ohrozených lokalitách, získali odborníci nové poznatky o osídlení tohto regiónu v pravekom a včasnohistorickom období. Po spracovaní jeho výsledkov možno konštatovať, že spomínané opevnené ostrohovité polohy Bašta, Varta a Velínok boli významným prvkom v obrannom systéme budovanom v priebehu trvania púchovskej kultúry. Zároveň chránili aj otvorené sídliská, ktoré sa nachádzali v blízkom aj širšom okolí. Z nich možno spomenúť sídlisko v západnom podhradí Bašty, kde pri prieskume v r.1932 získal P.Okoličány črepy hlinených nádob a železný nôž, alebo osadu v polohe „Závoz“, odkiaľ podľa V.Budinského-Kričku pochádza germánska keramika z mladšej doby rímskej."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po takmer piatich storočiach rozmachu púchovskej kultúry dochádza na konci 2. storočia k jej pozvoľnému úpadku. Po násilnom zániku väčšiny hradísk boli postupne opustené aj sídliská a obyvateľstvo sa pravdepodobne presídlilo do južnejších oblastí Panónie, pričom tento proces sa zvykne dávať do súvisu s Markomanskými vojnami. Púchovská kultúra, v mladšom období obohatená o dácke, germánske a rímske prvky, zanikla a územie Liptova bolo na niekoľko storočí opustené. Nová vlna osídlenia zasiahla tento región až na prelome 4. a 5. storočia, kedy skupinky germánskych kmeňov na krátky čas obsadili najmä strategické polohy na miestach starších opevnení. V areáloch bývalých hradísk (Havránok, Turík, Lazisko) existovali výrobné osady, využívajúce blízke zdroje železnej rudy. Intenzívnu remeselnú činnosť dokladujú bohaté kolekcie poľnohospodárskeho a pracovného náradia, zbraní a spôn, ako aj stopy spracovania železa zachytené napr. na lokalite „Hrádok“ v Liptovskom Jáne. Charakteristickým prejavom tohto horizontu je aj výroba a využívanie masívnych hlinených zásobníc s okružím, zdobených typickou viacnásobnou vlnovkou."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po odchode posledných germánskych kmeňov, ktoré sa v súvislosti s veľkým sťahovaním národov presunuli do južných častí Európy, dochádza opäť k vysídleniu Liptova a tento stav pretrváva prakticky až do 9. storočia. Zatiaľ chýbajú doklady o najstaršom slovanskom zásahu, ktorý sa v prvej kolonizačnej vlne obmedzil prevažne na nížinaté oblasti juhozápadného a východného Slovenska. K súvislému a trvalému osídleniu tohto regiónu dochádza vlastne až od veľkomoravského obdobia, kedy vznikajú prvé stredoveké osady a zárodky budúcich miest. Na obranu formujúceho sa veľkomoravského a neskôr včasnouhorského štátu boli na strategických miestach budované malé opevnené hrádky s vojensko-strážnou funkciou. Niekedy v bola opäť využitá aj dominujúca poloha vrcholu , ako vieme na základe nepočetných sekundárnych nálezov keramiky z plochy hradiska a jeho JZ úpätia. Pri výskume ťažbou značne poškodeného hrádku bola odkrytá už len časť akropoly s obvodovou priekopou a predpolím. Bolo zistené, že lokalita bola chránená zo severu palisádou a strmými zrázmi, od juhu ho zabezpečovala polkruhová priekopa vyhĺbená do vápencového podložia, pričom jej hĺbka dosahovala 220- 270 cm . Vstup do areálu zabezpečovalo drevené premostenie, ktoré sa napájalo na okruhliakmi dláždenú cestu vedúcu k úpätiu Bašty . Podľa datovateľných nálezov keramiky, streliek do kuše, praciek, podkov a železných nožov možno trvanie tunajšieho drevozemného hrádku ohraničiť 13. až 15. storočím, čo potvrdzujú aj nálezy stredovekých uhorských mincí."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Existencia spomínaného dreveného hrádku mala vplyv aj na pomenovanie osady, ktorá vznikla na jej úpätí. Jej názov možno odvodzovať od synonyma bašta a turňa, čo bolo vlastne zaužívané označenie veže, akiste súčasti drevenej architektúry tunajšieho strážneho hrádku. Jeho zánikom niekedy v priebehu nepokojného 16. storočia stratila lokalita svoj strategický význam a ďalšia história obce je už spätá s rodom Potornayiovcov, ktorí si asi kilometer južnejšie vybudovali nové renesančné sídlo.\""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "mapka prevzatá z knihy PhDr. Peter Laučík: Podtureň - brána do laténskeho Liptova. Marmota Press, 2006",
+            "url": null
+          },
+          {
+            "text": "Pôdorysný plán opevnení v Podturni z r.1880",
+            "url": null
+          },
+          {
+            "text": "Hradisko Velínok podľa nákresu J.Neudecka",
+            "url": null
+          },
+          {
+            "text": "Opevnenie na Velínku zamerané počas výskumu diaľnice v r.1975-76",
+            "url": null
+          },
+          {
+            "text": "Púchovské hradisko a stredoveký hrádok na Bašte, porušené ťažbou vápenca",
+            "url": null
+          },
+          {
+            "text": "Kolekcia archeologických nálezov z Velínku v publikácii J.Neudecka z r.1880",
+            "url": null
+          },
+          {
+            "text": "Sídlisková keramika púchovskej kultúry z hradiska na Bašte.",
+            "url": null
+          },
+          {
+            "text": "Podtureň-Bašta. Inventár ohňom zničenej chaty z 1. storočia n.l.",
+            "url": null
+          },
+          {
+            "text": "9. až 10. storočí",
+            "url": null
+          },
+          {
+            "text": "PhDr. Víťazoslav Struhár",
+            "url": "http://www.archeologiask.sk/"
+          },
+          {
+            "text": "Literatúra",
+            "url": null
+          },
+          {
+            "text": "Hanuliak,V.: Malé stredoveké opevnené sídla v Liptove. Archaeologia Historica 13, 1988, s.299-306.",
+            "url": null
+          },
+          {
+            "text": "Hanuliak,V.-Pieta,K.: Výskum v Podturni. AVANS v r.1975. Nitra 1976, s.101-103.",
+            "url": null
+          },
+          {
+            "text": "Hanuliak,V.-Pieta,K.: Výskum v Podturni v roku 1976. AVANS v r.1976. Nitra 1977, s.123-124.",
+            "url": null
+          },
+          {
+            "text": "Majláth,B.: A Liptómegyei östelepek. Archaeologiai Közlemények 9, 1873/1, s.37-57.",
+            "url": null
+          },
+          {
+            "text": "Neudeck,J.: Germanischen Befestigungen des oberen Waagthales in Ungarn. Mittheilungen der Antropologischen Gesselschaft in Wien 8, 1879, s.273-277.",
+            "url": null
+          },
+          {
+            "text": "Neudeck,J.: Germanischen Befestigung des oberen Waagthales in Ungarn. Mittheilungen der Antropologischen Gesselschaft in Wien 9, 1880, s.29-59.",
+            "url": null
+          },
+          {
+            "text": "Pieta,K.: Halštatské výšinné sídliská v Liptove. Archeologické rozhledy 35, 1983, s.39-48.",
+            "url": null
+          },
+          {
+            "text": "Pieta,K.: Die Púchov – kultur. Nitra 1982.",
+            "url": null
+          },
+          {
+            "text": "Pieta,K.: Liptovská Mara. Včasnohistorické centrum severného Slovenska. Bratislava 1996.",
+            "url": null
+          },
+          {
+            "text": "Polla,B.: Archeológia na Slovensku v Minulosti. Martin 1996.",
+            "url": null
+          },
+          {
+            "text": "Struhár,V.: Predstavitelia archeologického bádania na Liptove od druhej polovice 19. do konca 20. storočia. In: Prínos osobností Liptova pre históriu a súčasnosť. Bratislava 2000, s.119-132.",
+            "url": null
+          },
+          {
+            "text": "Struhár,V.: Eneolitické osídlenie Liptova - súčasný stav poznatkov. Acta Arch. Carpathica. Kraków, v tlači.",
+            "url": null
+          },
+          {
+            "text": "Uhlár,V.: Mních pri Ružomberku v praveku a včasnej dobe dejinnej. Študijné Zvesti AÚ SAV 4. Nitra 1961, s.139-177.",
+            "url": null
+          },
+          {
+            "text": "Veliačik,L.: Die Lausitzer Kultur in der Slowakei . Nitra 1983.",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "mapka prevzatá z knihy PhDr. Peter Laučík: Podtureň - brána do laténskeho Liptova. Marmota Press, 2006"
+      },
+      {
+        "type": "book",
+        "text": "Lokality, ktoré vzbudili pozornosť aj u ďalších súvekých historikov a archeológov - Bélu Majlátha a Józsefa Mihalika, sa nachádzajú na výbežkoch vápencovej ostrohy na pravobreží rieky Váh. Najviac na východ vysunutý je vrch nazývaný ktorý sa týči nad vyústením potoka Jamníček do vážskej nivy. Západne od neho sa ešte nedávno nachádzala vyvýšenina , ktorá bola zničená pri stavbe diaľnice D-1, kameňolom však narušil do značnej miery aj Baštu. Trojicu opevnení uzatvára kopec , s dodnes neskúmaným opevnením. Doterajšie poznatky získané archeologickým výskumom dokazujú, že výrazná terénna dominanta so strategickou polohou pri hlavnom komunikačnom ťahu smerujúcom na Spiš, zaujala už najstarších roľníkov a pastierov, ktorí obývali Liptov na sklonku doby kamennej. Skromné keramické nálezy objavené niekde na úpätí Varty naznačujú, že už pred vyše 4. tisícročiami sa v okolí terajšej osady usadili nositelia eneolitickej badenskej kultúry, ktorí sem prenikli odniekiaľ zo severných častí dnešného Maďarska. Popri otvorených osadách (Liptovská Teplá, Bešeňová, Sliače) osídľovali aj vyššie položené miesta (Lipt.Mara-Havránok, Lúčky) a niektoré jaskyne (Okno v Demänovej, Vyvieračka v Prosieku, Starhradská jaskyňa). Analýza keramiky a kamenných nástrojov dokázala úzke kultúrne kontakty s Poľskom, odkiaľ sa na Liptov dostávali aj osobitné štiepané kamenné sekerky, vyrobené zo zvláštnej odrody pazúrika – tzv. G typu. Ich nálezy poznáme napríklad z Bešeňovej, Lipt. Michala, Dechtár a Liptovského Trnovca. Jeden z exemplárov sa našiel aj v Uhorskej Vsi v roku 1933 v polohe „Vlčienec“, resp. „Zadná Babka“ a jeho tvar a rozmery sú takmer zhodné s nálezom z bešeňovských travertínov."
+      },
+      {
+        "type": "book",
+        "text": "Pôdorysný plán opevnení v Podturni z r.1880"
+      },
+      {
+        "type": "book",
+        "text": "Po relatívne hustejšom osídlení v závere doby kamennej zaznamenávame v nasledujúcej staršej dobe bronzovej na Liptove len sporadické stopy antropogénnej aktivity. Vyspelé starobronzové civilizácie existujúce v priebehu 20. až 15. storočia p.n.l. uprednostňovali úrodnejšie oblasti východného a juhozápadného Slovenska, silná enkláva tzv. otomanskej kultúry sa však vytvorila aj na susednom Spiši, s významným strediskom v Spišskom Štvrtku. Práve s tohto centra dochádzalo občas aj k prenikaniu nositeľov otomanskej kultúry smerom na západ, pričom impulzom mohla byť práve prospekcia medi a iných surovín, ktorých ložiská sa v hojnom počte nachádzajú aj v masíve Nízkych Tatier. Svedectvom prítomnosti ľudu tejto kultúry západne od Spiša sú ojedinelé nálezy z niekoľkých lokalít. Patrí sem napríklad kolekcia bronzových záušníc z Liskovskej jaskyne pri Ružomberku, ale predovšetkým nález rebrovaného srdcovitého závesku typu Hodejov, ktorý sa našiel na Velínku a publikoval ho ešte v minulom storočí J.Neudeck."
+      },
+      {
+        "type": "book",
+        "text": "Oveľa súvislejšie a hustejšie začali liptovskú kotlinu osídľovať od strednej doby bronzovej kmene lužickej kultúry, ktorá sa rozšírila na rozsiahlom území od Nemecka cez Poľsko a zasiahla takmer celú severnú časť Slovenska. Väčšina osád sa zakladala na terasách potokov a riek, zatiaľ čo hospodársko-správnu a obrannú funkciu zastávali výšinné opevnené hradiská. Tie boli zakladané najčastejšie na vrcholoch neprístupných kopcov, dobre chránených prirodzenými strmými zrázmi a umelo vybudovanými valovými násypmi. Takouto dobre chránenou polohou bola aj lokalita „Vislavce“, situovaná na ľavom brehu Váhu oproti vtoku Belej do Váhu, na okraji dnešného Liptovského Hrádku. Neudeck tu pri prieskume v r.1878 zistil pozostatky valov a údajne sa v týchto miestach v minulosti našiel aj bronzový meč."
+      },
+      {
+        "type": "book",
+        "text": "Hradisko Velínok podľa nákresu J.Neudecka"
+      },
+      {
+        "type": "book",
+        "text": "Jedno z ďalších strategických bodov sa muselo zrejme nachádzať aj na vrchu . Jeho opevnenie je síce mladšieho dáta, ale nálezy bronzových nákrčníkov a náramku s rytou rebrovanou výzdobou, ktoré ako poznamenáva J.Neudeck „vypadávali z profilu po každom daždi“, dokazujú využívanie tohto dominantného miesta aj v mladšej dobe bronzovej. Bezprostredne v jeho podhradí bolo pri stavbe železnice objavené aj žiarové pohrebisko, kde tunajší osadníci svojich mŕtvych spaľovali a ich zvyšky následne ukladali do zeme v hlinených urnách. Neudeck na lokalite, nachádzajúcej sa len pár desiatok metrov od kúrie Potúrňanských, kde žil so svojou manželkou Emmou, odkryl celkom 25 popolníc so zvyškami spálených kostí, popola a zlomkov predmetov. Osem urnových hrobov bolo umiestnených v kamennej obrube a takmer všetky obsahovali bronzové ihlice, prstene, náušnice, špirály, zlomky ihiel, sklenených a kostených perál. Najzaujímavejším bol bohatý hrob, ktorý obsahoval až tri do seba vložené hlinené nádoby."
+      },
+      {
+        "type": "book",
+        "text": "Opevnenie na Velínku zamerané počas výskumu diaľnice v r.1975-76"
+      },
+      {
+        "type": "book",
+        "text": "Uvedené pohrebisko podrobne popisuje (pod lokalitou Uhorská Ves) vo svojich prácach aj B.Majláth, niekedy uvádzaný ako autor výskumu. Je preto pravdepodobné, keďže už mal skúsenosti z výskumu súvekého pohrebiska v Liptovskej Ondrašovej, že s Neudeckom pri vykopávkach spolupracoval a získané nálezy sa dostali do jeho „bronzovej zbierky“, aby nakoniec skončili v Natürhistorisches Muzeum vo Viedni."
+      },
+      {
+        "type": "book",
+        "text": "Podobné osudy často krát postihli aj mnohé ďalšie pamiatky z obdobia lužickej kultúry, ktoré sa objavovali v priebehu 19. storočia, najmä skvostné umelecky hodnotné bronzové šperky a meče tzv. liptovského typu, ktoré boli asi najpôsobivejšími výrobkami severoslovenských kovolejárskych dielní. Týka sa to napríklad aj dnes už nezvestných predmetov z údajného hromadného pokladu objaveného v Kráľovej Lehote, z ktorého sa do Majláthovej zbierky dostal meč s čiaškovitou rukoväťou a honosný náramenný kruh tzv. šalgotajánskeho typu. Našťastie, veľa iných pokladov sa podarilo zachrániť a odborníci ich mali možnosť podrobne preskúmať a zdokumentovať. Sem patrí aj depot bronzových nádob objavený v r. 1969 v Liptovskej Ondrášovej, ktorý obsahoval deväť šálok uložených v kotli, spolu s hrotom kopije a srpovitým predmetom. Najunikátnejším exemplárom bol artefakt kosákovitého tvaru so zložitou rytou výzdobou, ktorý by mohol súvisieť s istými kultovými praktikami, a ktorý má vzdialené analógie až v ďalekej Mezopotámii. Podľa archeológa Dr. Václava Furmánka možno poklad datovať približne do 9. storočia p.n.l."
+      },
+      {
+        "type": "book",
+        "text": "Púchovské hradisko a stredoveký hrádok na Bašte, porušené ťažbou vápenca"
+      },
+      {
+        "type": "book",
+        "text": "Časté a bohaté nálezy bronzových premetov indikujú predpoklad, že v severnej časti Slovenska fungovali na sklonku doby bronzovej významné produkčné centrá, ktoré zásobovali technologicky výborne zvládnutými výrobkami susedné aj vzdialenejšie kultúry popolnicových polí. Vysokú hospodársku úroveň si severoslovenskí lužičania udržali aj v nasledujúcej staršej dobe železnej (7.-4. storočie p.n.l.). V materiálnej kultúre autochtónneho usadlého obyvateľstva horských oblastí sa začali čoraz viac prejavovať vplyvy prichádzajúce z východoalpského územia, kde v tom čase nastupovala nová epocha reprezentovaná halštatskou kultúrou. Podľa najcharakteristickejších nálezísk spomínaného obdobia dostala táto fácia lužickej kultúry pomenovanie oravská skupina. Početné urnové pohrebiská zachytené výskumom na susednej Orave nás informujú o úrovni hospodárstva, sociálnej hierarchii aj remeselnej zručnosti tunajšieho obyvateľstva. Na Liptove, kde bola v dobe halštatskej rovnaká kultúrna situácia, však poznáme oveľa menej materiálu a nekropoly sú takmer neznáme. Len torzovité poznatky priniesol výskum žiarových hrobov v polohe Konislavy pri Liptovskom Trnovci, zapustených do plášťa, zrejme staršej mohyly. S typicky halštatským pohrebiskom možno počítať zatiaľ len v Liptovskom Hrádku. Na brehu riečky Belá v záhrade lesníckej školy, ako uvádza B.Majláth v práci Lipómegyei östelepek (1873) , sa narazilo na pozostatky pohrebiska, z ktorého sa podarilo zachrániť údajne 47 popolníc. Podľa vyobrazenia dvoch nádob s typickou rytou lineárnou výzdobou tu pochovávali svojich mŕtvych predstavitelia oravskej skupiny lužickej kultúry, ktorí žili na okolitých sídliskách. Jedno z nich s veľkou pravdepodobnosťou skúmal v rokoch 1886-1887 v katastri Liptovského Hrádku J.Mihalik, pričom objavil niekoľko ohnísk a získal množstvo keramiky. Podľa jeho informácií sa tu našla aj nezdobená nádoba s obsahom uhlíkov a popola, v ktorej ležala pazúriková čepeľ, čo naznačuje že sa jednalo o žiarový hrob, ktorý snáď mohol byť aj súčasťou menšieho pohrebiska z rovnakého obdobia."
+      },
+      {
+        "type": "book",
+        "text": "Kolekcia archeologických nálezov z Velínku v publikácii J.Neudecka z r.1880"
+      },
+      {
+        "type": "book",
+        "text": "Aj napriek absencii širších poznatkov o pohrebnom ríte a niektorých nadstavbových javoch vieme o predmetnom období niektoré dôležité informácie z početného prieskumu výšinných opevnených sídlisk. Tieto sa ako nový fenomén objavujú najmä vo vyššie položených horských, často až extrémnych polohách, Nízkych a Západných Tatier ako aj Chočských vrchov. Ich charakteristickou črtou je okrem strategického a dobre chráneného umiestnenia často aj existencia mohutného opevnenia. Silné zoskupenie týchto lokalít sa nachádzalo najmä na hrebeňoch Nízkych Tatier južne od Liptovského Mikuláša, na vrcholoch Iľanovskej a Demänovskej Poludnice, Končistého, Bodovej a Sinej. Pri výskume na Demänovskej Poludnici bola zachytená prepálená popolovitá vrstva s výskytom keramiky, mazanice a žulových okruhliakov. Zaujímavým zistením boli zvyšky zuhoľnateného obilia, strukovín a uhlíky viacerých drevín. Menší sondážny prieskum uskutočnený na vrchole Mnícha nad Bobrovcom odhalil zas masívny vyše stometrový val s jednoduchou bránou, aj keď nálezy tu boli podstatne skromnejšie. Na archeologické nálezy však boli chudobné aj ostatné vysokohorské výšinné sídliská, čo poukazuje spolu s existenciou opevnenia predovšetkým na ich obranný (refugiálny) charakter. Bežný hospodársky život sa odohrával prevažne na nížinných sídliskách, ktorým dominovali centrálne hradiská v ich blízkosti. Jednu z mála halštatských osád sa podarilo identifikovať v Liptovskom Mikuláši – Vrbici. Na neveľkej ploche bola odhalená kultúrna vrstva s uhlíkmi, v ktorej sa našlo hlinené závažie a bronzová ihlica s dvojicou špirálovitých ružíc."
+      },
+      {
+        "type": "book",
+        "text": "Sídlisková keramika púchovskej kultúry z hradiska na Bašte."
+      },
+      {
+        "type": "book",
+        "text": "Príkladom malej sídliskovej aglomerácie môže byť napr. sídlisko Chopce v Závažnej Porube s neďalekým hrádkom pri Liptovskom Jáne, ale určite najmä populárne hradisko Roháčka pri Ploštíne. Pri západnom úpätí ostrohovitej vyvýšeniny existovalo rozsiahle sídlisko, ktoré zachytil v r.1970 Dr.Karol Pieta a z niekoľkých objektov získal zlomky typickej, do čierna vypálenej leštenej keramiky s rytými vzormi spolu s ďalšími predmetmi sídliskového charakteru. Aj na plošine Roháčky sa našlo množstvo archeologického materiálu, ten pochádza najmä z vykopávok J.Volku-Starohorského, ktorý tu našiel aj dielňu na spracovanie parožia. Už pred ním sa o túto zaujímavú a povesťami opradenú lokalitu zaujímal J.Mihalik, ktorý pri jej úpätí v roku 1888 objavil údajne aj popolnicové pohrebisko, z ktorého jedna nádoba sa nachádza v martinskom múzeu."
+      },
+      {
+        "type": "book",
+        "text": "Pre poznanie umeleckého prejavu doby halštatskej je veľmi významný hromadný nález bronzových predmetov z Liptovského Jána pochádzajúci z roku 1869 a v súčasnosti uložený v Budapešti. Okrem troch bronzových prsteňov bola jeho súčasťou aj antropomorfná plastika stojacej postavy, ktorá napodobňuje o niečo detailnejšie figúrky vyrábané vo sfére primárnej halštatskej kultúry a akcentuje pôsobenie vplyvov vo výtvarnom umení až ďaleko v odľahlej oblasti severoslovenských kotlín. Spomínaný predmet však nie je jediným dôkazom prieniku nelužických elementov do autochtónneho prostredia obývaného nositeľmi oravskej skupiny. Nálezy trojbokých streliek východného pôvodu z Demänovskej Poludnice a z Vyšného Kubína naznačujú cudzí zásah do kontinuálneho vývinu lužickej kultúry, ktorý mal nepochybne násilný charakter a spôsobil zánik väčšiny nížinných hradísk aj vysoko položených refúgií. Svedčia o tom vrstvy so zvyškami deštruovaných objektov a stopami požiaru (tzv. zánikové horizonty), ale napr. aj ľudské kosti z Demänovskej Poludnice, ktoré podávajú svedectvo o „horúcich chvíľach“ tu ukrytého obyvateľstva."
+      },
+      {
+        "type": "book",
+        "text": "S významnými zmenami, ktoré nastali po týchto katastrofických udalostiach, dochádza aj k vzniku novej kultúrnej situácie na bývalom teritóriu rozšírenia oravskej skupiny lužických popolnicových polí. Smerom do severne ležiacich území začali niekedy v 4.storočí p.n.l. prenikať prvé ohlasy laténskej kultúry, ktorá je už tradične spájaná s etnickým prejavom podunajských Keltov. Po prvotných obojstranných kontaktoch v staršej a začiatkom strednej doby laténskej sa predpokladá, že v jej mladšom období dochádzalo aj k priamym fyzickým stretom, ktoré vyústili do postupného splynutia s pôvodným lužickým obyvateľstvom. Vzájomné spolužitie etnicky rozdielnych skupín sa napokon prejavilo vznikom charakteristickej kultúry, ktorá dostala pomenovanie púchovská. V hmotnom prejave aj náboženských tradíciách došlo určite k obohateniu domáceho podložia a symbióza obidvoch elementov znamenala neobvyklý rozmach v hospodárskej sfére aj v sídliskovej štruktúre. V predsunutých líniách horských pásiem vznikajú nové hradiská, v okolí ktorých sa budujú otvorené agrárno – remeselné osady. Jedna z najrozsiahlejších sídliskových aglomerácií vznikla na vrchu Havránok, nad terajšou vodnou nádržou Liptovská Mara a pozostávala z akropoly a šiestich okolitých osád. Na vrchole kopca sa nachádzalo mohutným valom opevnené hradisko, v ktorého areáli existovala aj unikátna svätyňa. Niekoľkokrát do roka sa tu schádzali obyvatelia celého Liptova, aby sa zúčastnili na oslavách a náboženských obradoch, ktorých súčasťou boli aj ľudské obety a spaľovacie žertvy."
+      },
+      {
+        "type": "book",
+        "text": "Podtureň-Bašta. Inventár ohňom zničenej chaty z 1. storočia n.l."
+      },
+      {
+        "type": "book",
+        "text": "Z výsledkov archeologických výskumov, ktoré boli realizované za posledných pár desaťročí sme získali kvantitou aj kvalitou bohaté poznatky o živote starých púchovčanov. Významné informácie priniesol aj výskum v Podturni, ktorý tu realizovali archeológovia V.Hanuliak a K.Pieta v rokoch 1975-76 v súvislosti s budovaním diaľnice D-1. Na vrchole bolo zistené menšie valové opevnenie s rozmermi 70x90, ktoré však malo dômyselne vybudovanú drevenú roštovú konštrukciu, zosilnenú čelnou kamennou plentou. Smerom ku bráne prechádzal val do hlineného násypu so zabudovaným kamenným múrom. Zvláštnosťou konštrukcie, ktorá zatiaľ nemá u nás paralely, je polokliešťové uzatvorenie brány a strážna veža stavaná na kamenných základoch . Podľa týchto znakov možno uvažovať, že hradisko na Velínku malo dominantnú úlohu v rámci ostatných opevnení v Podturni a zabezpečovalo východnú hranicu Liptovskej kotliny v najstaršej – laténskej fáze púchovskej kultúry. Do obranného komplexu ďalej patrila aj trojitá sústava hrotitých priekop , ktorá vypĺňala priestor medzi Velínkom a Vartou a jej priebeh bol identifikovaný odkryvom v polohe Fľak pod Vartou. Prínosom výskumu na tejto ploche bolo aj zachytenie jedného sídliskového objektu s kolovou konštrukciou a ohniskom, ktorý bol jedným z vedúcich typov obydlí v oblasti rozšírenia púchovskej kultúry. Iným druhom obytných objektov bol potom zrubový drevený dom s vymazanou dlážkou a ohniskom, ktorého forma prakticky pretrvala v ľudovej architektúre severného Slovenska až do súčasnosti."
+      },
+      {
+        "type": "book",
+        "text": "Ďalším sprievodným znakom vývoja púchovskej kultúry v mladšej a neskorej dobe laténskej je aj výstavba systému rozlohou neveľkých opevnených hrádkov , situovaných najčastejšie v predsunutých líniách horských masívov a pri vstupoch do dolín. Aj v širšom okolí Podturne registrujeme niekoľko takýchto strážnych hrádkov. Do úvahy pripadá najmä poloha Hrádok pri Jakubovanoch a rovnomenná poloha v Liptovskom Jáne, alebo lokalita Kameničná , kde V.Uhlár objavil neveľké valové opevnenie. Do tejto kategórie možno napokon zaradiť aj hradiská, ktoré boli vytvorené na vrcholových plošinách Varty . O charaktere a presnejšom datovaní osídlenia na máme len útržkovité informácie zo starších prieskumov J.Volka, I.Houdeka a A.Petrovského-Šichmana, ktorí odtiaľto získali materiál púchovského charakteru. Konkrétnejšie vedomosti máme však z hradiska , kde prebehol podrobnejší archeologický výskum. Pôvodné osídlenie tejto polohy spadá do neskorej doby laténskej, kedy tu vzniklo aj najstaršie opevnenie, poškodené neskoršími zásahmi. Ťažisko osídlenia Bašty však spadá do mladšieho púchovského obdobia na začiatku staršej doby rímskej. V deštrukciách ohňom zničených objektov boli objavené dobre zachovalé zvyšky keramických nádob a drobných predmetov, okrem iného aj fragment náramku a vinutie bronzovej spony, ktoré sú datovateľné do 1. stor.n.l. Pod jedným zo zhorených trámov sa našla takmer úplná štvoruchá nádobka, ktorá by podľa K.Pietu mohla byť aj istou formou obetného daru, zabezpečujúceho ochranu tunajšieho strážneho hrádku."
+      },
+      {
+        "type": "book",
+        "text": "Na základe archeologického výskumu, ktorý bol v predstihu realizovaný na diaľnicou ohrozených lokalitách, získali odborníci nové poznatky o osídlení tohto regiónu v pravekom a včasnohistorickom období. Po spracovaní jeho výsledkov možno konštatovať, že spomínané opevnené ostrohovité polohy Bašta, Varta a Velínok boli významným prvkom v obrannom systéme budovanom v priebehu trvania púchovskej kultúry. Zároveň chránili aj otvorené sídliská, ktoré sa nachádzali v blízkom aj širšom okolí. Z nich možno spomenúť sídlisko v západnom podhradí Bašty, kde pri prieskume v r.1932 získal P.Okoličány črepy hlinených nádob a železný nôž, alebo osadu v polohe „Závoz“, odkiaľ podľa V.Budinského-Kričku pochádza germánska keramika z mladšej doby rímskej."
+      },
+      {
+        "type": "book",
+        "text": "Po takmer piatich storočiach rozmachu púchovskej kultúry dochádza na konci 2. storočia k jej pozvoľnému úpadku. Po násilnom zániku väčšiny hradísk boli postupne opustené aj sídliská a obyvateľstvo sa pravdepodobne presídlilo do južnejších oblastí Panónie, pričom tento proces sa zvykne dávať do súvisu z Markomanskými vojnami. Púchovská kultúra, v mladšom období obohatená o dácke, germánske a rímske prvky, zanikla a územie Liptova bolo na niekoľko storočí opustené. Nová vlna osídlenia zasiahla tento región až na prelome 4. a 5. storočia, kedy skupinky germánstkych kmeňov na krátky čas obsadili najmä strategické polohy na miestach starších opevnení. V areáloch bývalých hradísk (Havránok, Turík, Lazisko) existovali výrobné osady, využívajúce blízke zdroje železnej rudy. Intenzívnu remeselnú činnosť dokladujú bohaté kolekcie poľnohospodárskeho a pracovného náradia, zbraní a spôn, ako aj stopy spracovania železa zachytené napr. na lokalite „Hrádok“ v Liptovskom Jáne. Charakteristickým prejavom tohto horizontu je aj výroba a využívanie masívnych hlinených zásobníc s okružím, zdobených typickou viacnásobnou vlnovkou."
+      },
+      {
+        "type": "attribution",
+        "text": "9. až 10. storočí"
+      },
+      {
+        "type": "book",
+        "text": "Po odchode posledných germánskych kmeňov, ktoré sa v súvislosti s veľkým sťahovaním národov presunuli do južných častí Európy, dochádza opäť k vysídleniu Liptova a tento stav pretrváva prakticky až do 9. storočia. Zatiaľ chýbajú doklady o najstaršom slovanskom zásahu, ktorý sa v prvej kolonizačnej vlne obmedzil prevažne na nížinaté oblasti juhozápadného a východného Slovenska. K súvislému a trvalému osídleniu tohto regiónu dochádza vlastne až od veľkomoravského obdobia, kedy vznikajú prvé stredoveké osady a zárodky budúcich miest. Na obranu formujúceho sa veľkomoravského a neskôr včasnouhorského štátu boli na strategických miestach budované malé opevnené hrádky s vojensko-strážnou funkciou. Niekedy v bola opäť využitá aj dominujúca poloha vrcholu , ako vieme na základe nepočetných sekundárnych nálezov keramiky z plochy hradiska a jeho JZ úpätia. Pri výskume ťažbou značne poškodeného hrádku bola odkrytá už len časť akropoly s obvodovou priekopou a predpolím. Bolo zistené, že lokalita bola chránená zo severu palisádou a strmými zrázmi, od juhu ho zabezpečovala polkruhová priekopa vyhĺbená do vápencového podložia, pričom jej hĺbka dosahovala 220- 270 cm . Vstup do areálu zabezpečovalo drevené premostenie, ktoré sa napájalo na okruhliakmi dláždenú cestu vedúcu k úpätiu Bašty . Podľa datovateľných nálezov keramiky, streliek do kuše, praciek, podkov, a železných nožov možno trvanie tunajšieho drevozemného hrádku ohraničiť 13. až 15. storočím, čo potvrdzujú aj nálezy stredovekých uhorských mincí."
+      },
+      {
+        "type": "book",
+        "text": "Existencia spomínaného dreveného hrádku, mala vplyv aj na pomenovanie osady, ktorá vznikla na jej úpätí. Jej názov možno odvodzovať od synonyma bašta a turňa, čo bolo vlastne zaužívané označenie veže, akiste súčasti drevenej architektúry tunajšieho strážneho hrádku. Jeho zánikom niekedy v priebehu nepokojného 16. storočia stratila lokalita svoj strategický význam a ďalšia história obce je už spätá s rodom Potornayiovcov, ktorí si asi kilometer južnejšie vybudovali nové renesančné sídlo.\""
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.archeologiask.sk/",
+        "title": "PhDr. Víťazoslav Struhár"
+      },
+      {
+        "type": "attribution",
+        "text": "Literatúra"
+      },
+      {
+        "type": "book",
+        "text": "Hanuliak,V.: Malé stredoveké opevnené sídla v Liptove. Archaeologia Historica 13, 1988, s.299-306."
+      },
+      {
+        "type": "book",
+        "text": "Hanuliak,V.-Pieta,K.: Výskum v Podturni. AVANS v r.1975. Nitra 1976, s.101-103."
+      },
+      {
+        "type": "book",
+        "text": "Hanuliak,V.-Pieta,K.: Výskum v Podturni v roku 1976. AVANS v r.1976. Nitra 1977, s.123-124."
+      },
+      {
+        "type": "book",
+        "text": "Majláth,B.: A Liptómegyei östelepek. Archaeologiai Közlemények 9, 1873/1, s.37-57."
+      },
+      {
+        "type": "book",
+        "text": "Neudeck,J.: Germanischen Befestigungen des oberen Waagthales in Ungarn. Mittheilungen der Antropologischen Gesselschaft in Wien 8, 1879, s.273-277."
+      },
+      {
+        "type": "book",
+        "text": "Neudeck,J.: Germanischen Befestigung des oberen Waagthales in Ungarn. Mittheilungen der Antropologischen Gesselschaft in Wien 9, 1880, s.29-59."
+      },
+      {
+        "type": "book",
+        "text": "Pieta,K.: Halštatské výšinné sídliská v Liptove. Archeologické rozhledy 35, 1983, s.39-48."
+      },
+      {
+        "type": "book",
+        "text": "Pieta,K.: Die Púchov – kultur. Nitra 1982."
+      },
+      {
+        "type": "book",
+        "text": "Pieta,K.: Liptovská Mara. Včasnohistorické centrum severného Slovenska. Bratislava 1996."
+      },
+      {
+        "type": "book",
+        "text": "Polla,B.: Archeológia na Slovensku v Minulosti. Martin 1996."
+      },
+      {
+        "type": "book",
+        "text": "Struhár,V.: Predstavitelia archeologického bádania na Liptove od druhej polovice 19. do konca 20. storočia. In: Prínos osobností Liptova pre históriu a súčasnosť. Bratislava 2000, s.119-132."
+      },
+      {
+        "type": "book",
+        "text": "Struhár,V.: Eneolitické osídlenie Liptova - súčasný stav poznatkov. Acta Arch. Carpathica. Kraków, v tlači."
+      },
+      {
+        "type": "book",
+        "text": "Uhlár,V.: Mních pri Ružomberku v praveku a včasnej dobe dejinnej. Študijné Zvesti AÚ SAV 4. Nitra 1961, s.139-177."
+      },
+      {
+        "type": "book",
+        "text": "Veliačik,L.: Die Lausitzer Kultur in der Slowakei . Nitra 1983."
+      }
+    ]
+  }
+}

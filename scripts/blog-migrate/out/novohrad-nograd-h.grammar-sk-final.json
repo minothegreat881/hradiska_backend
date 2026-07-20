@@ -1,0 +1,23 @@
+{
+  "slug": "novohrad-nograd-h",
+  "note": "grammar-sk agent, finálny prechod (pass 1 z draftu novohrad-nograd.grammar-sk-pass1.json aplikovaný priamo do intermediate.json + fresh pass 2 cross-field). Krátky článok, žiadne criticalFixes (žiadny quote-block/bibliografia v tele).",
+  "pass1_applied": {
+    "appliedFixes_count": 5,
+    "appliedFixes_summary": [
+      "Blok 0 + excerpt: 'relatívna výška okolo 50-60 m' -> '50 – 60 m' (propagované do oboch výskytov naraz)",
+      "Blok 2: 'na prelome IX.-X. stor.' -> 'na prelome 9. – 10. storočia'; 'na čele so špánom' -> 'na čele so županom' (zjednotené s timeline id 3851); 'kedy sa z neho' -> 'keď sa z neho' (A8)",
+      "Blok 6: 'v rokoch 1475-1506' -> '1475 – 1506'; '140x90 m' -> '140 × 90 m'",
+      "Blok 8: 'naopak - v roku 1709' -> 'naopak — v roku 1709'",
+      "Blok 9: 'spracovala: Kvetka' -> 'Spracovala: Kvetka' (A9, zjednotené s KF)"
+    ]
+  },
+  "pass2_cross_field": {
+    "checked": ["excerpt", "keyFacts[]", "timeline[]", "media captions", "title", "tags", "citations[]", "location"],
+    "findings": [
+      "keyFacts[] a timeline[] boli už pred úpravou v korektnom tvare (50 – 60 m, 140 × 90 m, 1475 – 1506, 'županom', 'Spracovala: Kvetka') — telo (body) sa touto úpravou dorovnalo na už existujúci správny tvar v sidebar poliach. Žiadna nová nekonzistencia nenájdená.",
+      "citations[] (top-level) neobsahuje číselné rozsahy ani mená vyžadujúce opravu — bez zmeny.",
+      "Titul 'Novohrad  (Nógrád) (H)' obsahuje dvojitú medzeru a '(H)' suffix — ide o pôvodný formát zdrojového labelu (rovnaký vzor ako iné články v korpuse, napr. Blatnohrad v §5.2 dokumentácii), nie gramatickú chybu — ponechané nedotknuté."
+    ]
+  },
+  "upload_ready": true
+}

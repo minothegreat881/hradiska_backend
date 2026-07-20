@@ -1,0 +1,78 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2015-01-bojna-zivot-slovanov-na-hradisku-v-zime.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-2982334007527029845",
+    "bloggerPostUrl": "http://www.hradiska.sk/2015/01/bojna-zivot-slovanov-na-hradisku-v-zime.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/2982334007527029845/comments/default",
+    "extractedAt": "2026-07-18T11:21:14.446Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "//www.youtube.com/embed/xPgGB7pPZbY"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Bojná – život Slovanov na hradisku v zime",
+    "slug": "bojna-zivot-slovanov-na-hradisku-v-zime",
+    "excerpt": "Chalani so skupiny Herjan si na vlastnej koži vyskúšali život na zasneženom a zamrznutom hradisku v Bojnej.",
+    "authorName": "Orgon",
+    "publishedAt": "2015-01-18T21:26:00.001+01:00",
+    "originalPublishedDate": "2015-01-18T21:26:00.001+01:00",
+    "updatedAt": "2015-01-18T21:26:50.969+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Chalani zo skupiny Herjan si na vlastnej koži vyskúšali život na zasneženom a zamrznutom hradisku v Bojnej.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "xPgGB7pPZbY",
+        "url": "https://www.youtube.com/embed/xPgGB7pPZbY",
+        "caption": ""
+      }
+    ],
+    "citations": []
+  }
+}

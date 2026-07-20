@@ -7,11 +7,11 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.30% vs originál (gramaticky opravené slová vyňaté: 0) — zvyšné mimo: spracoval, orgoň, foto, ľubomír, červený (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (5) ⊆ galéria (15) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 8, keyFacts 8
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 4 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 5 |
 | embed (video/3D) | 1 |
-| sources (zdroje) | 1 → 15 položiek |
+| sources (zdroje) | 1 → 5 položiek |
 
 ## Obrázky
 - **galéria:** 15 (3 s popisom)
@@ -48,10 +48,19 @@
   - Dnes: Tradičné pútnické miesto, na sv. Juraja sa v kostolíku ešte dnes slúži omša
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 4**
+  - interpunkcia (čiarky/bodky): 4
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `vo výške 450 m n. m,` → `vo výške 450 m n. m.,` | chýbajúca bodka v skratke n. m. |
+| 2 | undefined | `1974,1976-1980` → `1974, 1976-1980` | chýbajúca medzera po čiarke |
+| 3 | undefined | `nadzemných objektov . Rozsah` → `nadzemných objektov. Rozsah` | medzera pred bodkou |
+| 4 | undefined | `dechtárske jamy Románsku prestavbu` → `dechtárske jamy. Románsku prestavbu` | chýbajúca bodka medzi vetami |
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 7884 znakov (1196 slov)
+- **text tela:** 7876 znakov (1196 slov)
+- **pokrytie textu vs originál:** 99.30% (mimo: spracoval, orgoň, foto, ľubomír, červený)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

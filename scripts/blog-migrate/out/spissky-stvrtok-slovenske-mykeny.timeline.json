@@ -1,0 +1,56 @@
+{
+  "timeline": [
+    {
+      "year": "okolo 3500 rokov (doba bronzová)",
+      "title": "Vznik mestečka na Myšej Hôrke",
+      "description": "Mestečko staré cca 3500 rokov vybudovali ľudia otomanskej kultúry, prisťahovalci zo Sedmohradska, ktorých lákala bohatá surovinová základňa a výskyt medi.",
+      "type": "founding"
+    },
+    {
+      "year": "koniec 19. storočia",
+      "title": "Prvá správa o pevnosti",
+      "description": "Prvú správu o historickej pevnosti na Myšej Hôrke napísal archeológ Alexander Münich.",
+      "type": "discovery"
+    },
+    {
+      "year": "po 1. svetovej vojne",
+      "title": "Zabránenie devastácii lokality",
+      "description": "Myšej Hôrke hrozila úplná devastácia, ktorej zabránili úrady.",
+      "type": "event"
+    },
+    {
+      "year": "šesťdesiate roky 20. storočia",
+      "title": "Upozornenie Františka Javorského",
+      "description": "Na lokalitu upozornil archeológ František Javorský, rodák zo Spišského Štvrtka.",
+      "type": "discovery"
+    },
+    {
+      "year": "1968 – 1974",
+      "title": "Systematický výskum pod vedením J. Vlaďara",
+      "description": "Výskum viedol doc. PhDr. Jozef Vlaďar, DrSc. z Archeologického ústavu Slovenskej akadémie vied v Nitre; nálezy boli odborníkmi ohodnotené ako európsky objav.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha opevnenej plochy",
+      "value": "cca 6600 m², s tridsiatimi deviatimi domami a kultovým miestom",
+      "icon": "map"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "kamenný val široký 6 m, predsunutá kamenná stena a 6 m široká priekopa, hlavná brána v tvare U",
+      "icon": "shield"
+    },
+    {
+      "label": "Kultúra",
+      "value": "otomanská kultúra (Otomani-Füzesabony), prechod medzi staršou a strednou dobou bronzovou",
+      "icon": "scroll"
+    },
+    {
+      "label": "Významné nálezy",
+      "value": "zlaté a bronzové šperky, fajansové perly (dovtedy známe len z Egypta), výrobky z kostí a jantáru s mykénskymi ornamentmi",
+      "icon": "star"
+    }
+  ]
+}

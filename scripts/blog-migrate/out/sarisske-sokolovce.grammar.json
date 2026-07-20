@@ -1,0 +1,48 @@
+{
+  "body": [
+    {"before": "Väčšinou bol výzdoby.", "after": "Väčšinou bol bez výzdoby."},
+    {"before": "Svedčia o existencii kováčskej práce na hradisku, nie o hutníckom spracovaní železa", "after": "Svedčia o existencii kováčskej práce na hradisku, nie o hutníckom spracovaní železa."},
+    {"before": "Pri jej výkope pod humusovitou vrstve terénu", "after": "Pri jej výkope pod humusovitou vrstvou terénu"},
+    {"before": "Nálezy tohto druhu vo vnútorno areáli", "after": "Nálezy tohto druhu vo vnútornom areáli"},
+    {"before": "Nožík ma odlomený hrot", "after": "Nožík má odlomený hrot"},
+    {"before": "so slabo viditeľnou časťou pravdepodobne obdĺžníkovej plastickej značky", "after": "so slabo viditeľnou časťou pravdepodobne obdĺžnikovej plastickej značky"},
+    {"before": "ojedinelý hrubší črep tmavošedej farby", "after": "ojedinelý hrubší črep tmavosivej farby"},
+    {"before": "o aký druh potravy sa jedná", "after": "o aký druh potravy ide"},
+    {"before": "patrí snáď aj zlomok z dna hnedosivej nádoby", "after": "patrí azda aj zlomok z dna hnedosivej nádoby"},
+    {"before": "druhý, s oblúkovitým ostrím, je snáď zlomkom noža", "after": "druhý, s oblúkovitým ostrím, je azda zlomkom noža"},
+    {"before": "snáď stopy potravy)", "after": "azda stopy potravy)"},
+    {"before": "by podľa E. Krippela bolo možné určiť snáď chemickou cestou.", "after": "by podľa E. Krippela bolo možné určiť azda chemickou cestou."},
+    {"before": "Tento druh streliek je známy už od pozdnej doby laténskej", "after": "Tento druh streliek je známy už od neskorej doby laténskej"},
+    {"before": "svedčí zlomok nádoby, prevŕtaný k spevneniu prasknutej časti.", "after": "svedčí zlomok nádoby, prevŕtaný na spevnenie prasknutej časti."},
+    {"before": "bolo potrebné k jej úplnému zachyteniu zamerať a prekopať časť sondy 4.", "after": "bolo potrebné na jej úplné zachytenie zamerať a prekopať časť sondy 4."},
+    {"before": "sa hodili k lovu i k boju, pretože spôsobili tržnú ranu", "after": "hodili sa na lov i na boj, pretože spôsobili tržnú ranu"},
+    {"before": "najväčšia šírka 125m.", "after": "najväčšia šírka 125 m."},
+    {"before": "ktorý realizoval zaslúžilý bádateľ V. Budinský – Krička.", "after": "ktorý realizoval zaslúžilý bádateľ V. Budinský-Krička."},
+    {"before": "Pokusnými sondami získal V. Budinský – Krička archeologický materiál", "after": "Pokusnými sondami získal V. Budinský-Krička archeologický materiál"},
+    {"before": "Na základe získaného materiálu V. Budinský – Krička datoval jeho osídlenie", "after": "Na základe získaného materiálu V. Budinský-Krička datoval jeho osídlenie"},
+    {"before": "v severo – južnom smere, na kužeľovitej hradovej hure", "after": "v severojužnom smere, na kužeľovitej hradovej hure"},
+    {"before": "doterajšie hrobové nálezy železných kresadiel zo slovansko – avarského a staromaďarského obdobia", "after": "doterajšie hrobové nálezy železných kresadiel zo slovansko-avarského a staromaďarského obdobia"},
+    {"before": "BD –HA –HB", "after": "BD – HA – HB"},
+    {"before": "BD – HA –HB", "after": "BD – HA – HB"},
+    {"before": "väčšie – menšie kusy uhlíkov i ojedinelé zlomky tehloviny", "after": "väčšie či menšie kusy uhlíkov i ojedinelé zlomky tehloviny"},
+    {"before": "spracované v teplote nad 1200◦.", "after": "spracované v teplote nad 1 200 °C."},
+    {"before": " dĺžka 4,3 cm a max. šírka 2,1 cm", "after": "dĺžka 4,3 cm a max. šírka 2,1 cm"},
+    {"before": "aj čiastočne nazrieť do „kuchyne” našich slovanských predkov", "after": "aj čiastočne nazrieť do „kuchyne\" našich slovanských predkov"}
+  ],
+  "keyFacts": [
+    {"index": 4, "field": "value", "before": "spracované nad 1200°C", "after": "spracované nad 1 200 °C"},
+    {"index": 6, "field": "value", "before": "V. Budinský-Krička (1965 – 1967)", "after": "V. Budinský-Krička (výskum 1965, publikácia 1967)"}
+  ],
+  "splitHeadingBlocks": [
+    {"matchText": "Rozbor nálezového inventáru I. Keramika Keramický materiál", "headings": ["Rozbor nálezového inventáru", "I. Keramika"], "paragraphStart": "Keramický materiál, získaný doterajším výskumom"},
+    {"matchText": "II. Železné predmety Z nálezov tohto druhu", "headings": ["II. Železné predmety"], "paragraphStart": "Z nálezov tohto druhu získaných"},
+    {"matchText": "III. Železná troska R. Pleiner", "headings": ["III. Železná troska"], "paragraphStart": "R. Pleiner z Archeologického ústavu"},
+    {"matchText": "IV. Uhlíky Vzorky uhlíkov", "headings": ["IV. Uhlíky"], "paragraphStart": "Vzorky uhlíkov z kultúrnej vrstvy"}
+  ],
+  "splitSourceItem": {
+    "matchText": "s. 113 – 133. Pramene k dejinám osídlenia Slovenska",
+    "splitAt": "Pramene k dejinám osídlenia Slovenska",
+    "firstText": "BÉREŠ, J.: Výsledky doterajšieho výskumu slovanského hradiska v Šarišských Sokolovciach. In: Nové obzory, 16, Košice 1974, s. 113 – 133.",
+    "secondText": "Pramene k dejinám osídlenia Slovenska z konca 5. až z 13. stor. III. časť. Východné Slovensko."
+  }
+}

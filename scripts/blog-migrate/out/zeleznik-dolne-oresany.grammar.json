@@ -1,0 +1,24 @@
+{
+  "_note": "3 opráv aplikovaných, 0 cross-node preskočených, 0 nenájdených v dumpe (možná halucinácia)",
+  "corrections": [
+    {
+      "block": "?",
+      "before": "Nie ďaleko od uvedeného miesta",
+      "after": "Neďaleko od uvedeného miesta",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "cez  zaujímavú plošinku",
+      "after": "cez zaujímavú plošinku",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "vrcholného stredoveku a spolu 3 ostrohy",
+      "after": "vrcholného stredoveku, a spolu 3 ostrohy",
+      "reason": "gramatika/pravopis"
+    }
+  ],
+  "skippedNotFound": []
+}

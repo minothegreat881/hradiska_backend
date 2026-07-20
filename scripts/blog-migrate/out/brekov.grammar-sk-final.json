@@ -1,0 +1,16 @@
+{
+  "slug": "brekov",
+  "note": "grammar-sk pass1 aplikovaný priamo + pass2 cross-field konzistencia. Editované priamo v out/brekov.intermediate.json.",
+  "step2_crossfield_checks": [
+    { "field": "keyFacts[]", "result": "3 nálezy opravené súbežne s telom: 'Rozmery hradiska' (SV - JZ → SV – JZ, 70 x 40 → 70 × 40 m), 'Obdobie osídlenia' (8. - 10. storočie → 8. – 10. storočie), 'Charakter hradiska' (útočištný → útočiskový). KeyFact 'Typické nálezy' už mala pred opravou správny tvar 'praslene' — použitá ako referenčný signál pri oprave rovnakej chyby v tele/timeline." },
+    { "field": "timeline[]", "result": "5 nálezov: 2× rok/year pole s spojovníkom namiesto en dash (položky 'Slovanská poľnohospodársko-remeselnícka osada', 'Datovanie nájdenej keramiky', 'Slovanské hradisko na Brekovskom hradnom kopci'), 1× description s SV - JZ / 70 x 40 (položka 'Slovanské hradisko...'), 1× 'prasleny' → 'praslene' (položka '1971'). Všetky opravené súbežne s telom." },
+    { "field": "excerpt", "result": "Zhodná s telom blok 0, ktorý nemal žiadnu chybu — bez zmeny." },
+    { "field": "media captions", "result": "Žiadny obrázok v tele nemá duplicitnú položku v gallery[] s rozdielnym popiskom vyžadujúcim opravu (jediný obrázok s popiskom — letecké foto — je už v poriadku a zhodný v oboch miestach)." },
+    { "field": "title, tags, authorName", "result": "title='Brekov' (bez problému). tags=['Brekov','Menšie hradiská'] (bez problému). authorName už bolo 'Orgon' pred touto úpravou." },
+    { "field": "citations[] / content.sources", "result": "Iba 1 URL zdroj, žiadna bibliografia zlepená v tele (na rozdiel od Bojníc a Bošáce) — žiadna reštrukturalizácia potrebná." }
+  ],
+  "step2_scan_result": "Plný sken tela + keyFacts + timeline + excerpt + tags + title na rímske číslice (žiadne nenájdené — článok ich nepoužíva vôbec), číselné rozsahy na spojovník (5 nálezov, všetky opravené), 'AxB' zápis násobenia (3 nálezy, všetky opravené), bohemizmy zo zoznamu A7 (3 nálezy: prasleny/útočištný/snáď, všetky opravené aj cross-field), diakritiku A8 — žiadny ďalší nález nad rámec appliedFixes v pass1.",
+  "flags_unresolved": [],
+  "protected_zone_verification": "Článok neobsahuje žiadny dobový citát, blockquote ani nezatvorenú „úvodzovku — žiadna chránená zóna sa v tomto článku nevyskytuje, celé telo prešlo plnou gramatickou korektúrou.",
+  "upload_ready": true
+}

@@ -1,0 +1,101 @@
+{
+  "_note": "Agent 1, overnight batch 13.7.2026",
+  "timeline": [
+    {
+      "year": "22 800 rokov pred n. l.",
+      "title": "Venuša z mamutoviny",
+      "description": "V chotári Moravian nad Váhom bola nájdená plastika Venuše zhotovená z mamutoviny, zaradená do gravettienskej kultúry.",
+      "type": "discovery"
+    },
+    {
+      "year": "9. — 10. storočie",
+      "title": "Osídlenie v okolí Moravian",
+      "description": "Z okolia obce je doložené osídlenie v polohe Kostolec v Ducovom, v obciach Hubina, Banka a z opevnenej polohy Hradiště a Marhát.",
+      "type": "event"
+    },
+    {
+      "year": "1930",
+      "title": "Prvý opis polohy Hradište Štefanom Janšákom",
+      "description": "Štefan Janšák v krátkom článku zameral a opísal opevnenú polohu Hradište, ležiacu 3 km východne od Moravian ako kótu 371 postranného hrebeňa Hlohoveckých hôr.",
+      "type": "discovery"
+    },
+    {
+      "year": "1973",
+      "title": "Zisťovací archeologický výskum",
+      "description": "Na polohe Hradište sa uskutočnil zisťovací archeologický výskum, ktorý následne vyhodnotil Ruttkay (1975, 1989).",
+      "type": "discovery"
+    },
+    {
+      "year": "12. — 13. storočie",
+      "title": "Vznik stredovekého opevnenia",
+      "description": "Na základe sprievodného materiálu bola výšinná fortifikácia na polohe Hradište datovaná do 12. — 13. storočia; horná plošina bola splanírovaná, pod akropolou vybudovaná priekopa a val.",
+      "type": "construction"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Nález železného písadla — stila",
+      "description": "Z polohy Lopata pochádza nález železného písadla (stila) z predveľkomoravského a veľkomoravského obdobia.",
+      "type": "discovery"
+    },
+    {
+      "year": "2000",
+      "title": "Náhodný nález železnej ostrohy",
+      "description": "Na polohe Hradište sa náhodne našla železná ostroha z obdobia pred vznikom Veľkej Moravy, vytlačená na povrch koreňom stromu.",
+      "type": "discovery"
+    },
+    {
+      "year": "obdobie Veľkej Moravy",
+      "title": "Strategický význam pri kontrole prechodu",
+      "description": "Opevnenie na Hradišti malo zrejme strategický význam už v období Veľkej Moravy, v nadväznosti na staršie opevnenia z 9. — 10. storočia lemujúce prechod na Považie a na Moravu s centrálnym hradiskom Valy v Bojnej.",
+      "type": "event"
+    },
+    {
+      "year": "1270",
+      "title": "Prvá písomná zmienka o hrade",
+      "description": "Prvá písomná správa o hrade, ktorý vznikol z kráľovskej iniciatívy a slúžil na správu kráľovského eráru pri kontrole komunikačných prechodov cez Považský Inovec, pochádza z roku 1270.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Hradište, 3 km východne od Moravian nad Váhom, kóta 369 m n. m.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Typ objektu",
+      "value": "Malý výšinný hrad, súčasť hradného panstva Tematín",
+      "icon": "shield"
+    },
+    {
+      "label": "Prvá písomná zmienka",
+      "value": "Rok 1270, hrad vznikol z kráľovskej iniciatívy",
+      "icon": "scroll"
+    },
+    {
+      "label": "Funkcia",
+      "value": "Správa kráľovského eráru a kontrola komunikačných prechodov cez Považský Inovec",
+      "icon": "crown"
+    },
+    {
+      "label": "Datovanie opevnenia",
+      "value": "12. — 13. storočie",
+      "icon": "calendar"
+    },
+    {
+      "label": "Veľkomoravský kontext",
+      "value": "Predveľkomoravská železná ostroha typu IIA (podľa D. Bialekovej) a väzba na starodávny prechod na Považie s centrálnym hradiskom Valy v Bojnej",
+      "icon": "sword"
+    },
+    {
+      "label": "Významný nález",
+      "value": "Železné písadlo (stilus) z 9. storočia z polohy Lopata — prvý exemplár svojho druhu na Slovensku",
+      "icon": "book"
+    },
+    {
+      "label": "Výskum",
+      "value": "Zameral Štefan Janšák (1930), zisťovací výskum v roku 1973 vyhodnotil A. Ruttkay",
+      "icon": "users"
+    }
+  ]
+}

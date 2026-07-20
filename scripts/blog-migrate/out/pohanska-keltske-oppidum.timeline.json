@@ -1,0 +1,67 @@
+{
+  "timeline": [
+    {
+      "year": "mladšia doba kamenná",
+      "title": "Prvé stopy osídlenia",
+      "description": "Na rôznych miestach sa našlo niekoľko brúsených a štiepaných kamenných nástrojov, stratených najstaršími roľníkmi pravdepodobne pri love alebo exploatácii dreva.",
+      "type": "discovery"
+    },
+    {
+      "year": "staršia bronzová doba",
+      "title": "Ojedinelé nálezy",
+      "description": "Ojedinelé nálezy zo staršej bronzovej doby zahŕňajú bronzovú ihlicu s prevŕtanou hlavicou.",
+      "type": "discovery"
+    },
+    {
+      "year": "mladšia bronzová doba",
+      "title": "Prvé hradisko ľudu velatickej kultúry",
+      "description": "Prvé sídlisko vzniklo v mladšej bronzovej dobe — ľud velatickej kultúry tu vybudoval menšie hradisko, osídlená bola predovšetkým akropola a niektoré terasy.",
+      "type": "founding"
+    },
+    {
+      "year": "2. storočie pred n. l.",
+      "title": "Vznik keltského oppida",
+      "description": "V mladšej dobe laténskej sa Pohanská stala keltským oppidom s plochou 49 ha, chráneným tromi prstencami valov.",
+      "type": "construction"
+    },
+    {
+      "year": "1. storočie pred n. l.",
+      "title": "Zánik oppida požiarom",
+      "description": "Predmety zakopali do zeme v prvej polovici 1. storočia pred naším letopočtom, vtedy asi Pohanská zanikla; oppidum zaniklo požiarom, pravdepodobne pri útoku Dákov po ich víťazstve nad Keltmi pri Neziderskom jazere.",
+      "type": "destruction"
+    },
+    {
+      "year": "1928",
+      "title": "Opis hradiska Štefanom Janšákom",
+      "description": "Štefan Janšák podrobne opísal opevnenie hradiska vrátane priebehu jednotlivých valov.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha oppida",
+      "value": "49 ha, chránené tromi prstencami valov",
+      "icon": "map"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "výška bez cimburia asi 2,5 m, šírka 4 m; na najzraniteľnejších miestach dvojitý múr (murus duplex)",
+      "icon": "shield"
+    },
+    {
+      "label": "Poloha",
+      "value": "kóta 497, západný svah Malých Karpát, katastr obce Plavecké Podhradie",
+      "icon": "mountain"
+    },
+    {
+      "label": "Remeslá",
+      "value": "hrnčiarstvo, kováčstvo — nálezy troch depotov nástrojov vrátane nákovy a železných hrivien",
+      "icon": "building"
+    },
+    {
+      "label": "Zánik",
+      "value": "Dákovia po víťazstve nad Keltmi pri Neziderskom jazere pod velením kráľa Burebistu",
+      "icon": "sword"
+    }
+  ]
+}

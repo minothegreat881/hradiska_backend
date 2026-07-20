@@ -1,0 +1,23 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Časopis o hradiskách v tlačenej podobe' (2017-12).",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "nemôžme riskovať",
+      "after": "nemôžeme riskovať",
+      "reason": "nemôžme→nemôžeme (A8)"
+    },
+    {
+      "hint": 0,
+      "before": "medzi 4-5 Eurami",
+      "after": "medzi 4 – 5 eurami",
+      "reason": "číselný rozsah en dash + mena malým (B/A9)"
+    },
+    {
+      "hint": 0,
+      "before": "vytlačilo napr. 1000 kusov",
+      "after": "vytlačilo napr. 1 000 kusov",
+      "reason": "oddeľovač tisícov (B)"
+    }
+  ]
+}

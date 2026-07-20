@@ -49,6 +49,10 @@ const STRAPI_URL = args.strapiUrl ?? 'http://localhost:1337';
 const INPUT_PATH = resolve(__dirname, args.input ?? DEFAULT_INPUT);
 const CATEGORY_DOC_ID = args.category ?? DEFAULT_CATEGORY;
 const DRY_RUN = args['dry-run'] !== 'false';
+// --prefer=s1600: sťahuj rovno menší 1600px variant. Veľké s0 originály (najmä PNG
+// letáky/plagáty) choke-ujú sharp na strane Strapi → upload timeout. s1600 je pre web
+// dostačujúci a spracuje sa rýchlo.
+const PREFER_S1600 = args.prefer === 's1600';
 const UPLOADS_DIR = resolve(__dirname, '..', '..', 'public', 'uploads');
 // API token: cez --token=... alebo STRAPI_TOKEN env.
 // Vytvor v admin: Settings → API Tokens → Create new (Full Access, Unlimited duration).
@@ -127,8 +131,24 @@ function normalizeTitle(s) {
 // Strapi REST helpers
 // -----------------------------------------------------------------------------
 
+// Pod ťažkým súbežným loadom (viacero migračných agentov naraz) vie Strapi dev server prijať
+// TCP spojenie, ale nikdy naň neodpovedať — undici fetch() bez signal potom visí donekonečna
+// (žiadny error, žiadny timeout), čo v praxi nútilo ručne killovať a reštartovať proces.
+// AbortSignal.timeout() zaručí, že sa takéto zavesené požiadavky po 30s samé zrušia a idú do
+// bežnej retry vetvy (continue-on-error / multi-pass), namiesto trvalého zamrznutia.
+// 30s bolo pod súbežným loadom viacerých agentov príliš tesné (pozorované: jednoduchý JSON
+// POST /api/blog-tags trval 25.7s) — multipart /api/upload potrebuje ešte viac rezervy.
+// 2026-07-17: na tomto stroji (CPU throttle — slabá batéria) Strapi generuje sharp náhľady
+// ~205s/obrázok; pri 90s klient abortoval PRED dokončením, Strapi upload aj tak dobehol na
+// pozadí (201) → SHA index sa nezapísal → ďalší pass nahral DUPLIKÁT. 240s > pozorovaných 205s
+// zaručí, že klient počká na 201, zapíše SHA a beh je idempotentný / resumovateľný po páde.
+const STRAPI_FETCH_TIMEOUT_MS = 240000;
+
 async function strapiGet(path) {
-  const res = await fetch(`${STRAPI_URL}${path}`, { headers: { ...AUTH_HEADERS } });
+  const res = await fetch(`${STRAPI_URL}${path}`, {
+    headers: { ...AUTH_HEADERS },
+    signal: AbortSignal.timeout(STRAPI_FETCH_TIMEOUT_MS),
+  });
   const body = await res.text();
   if (!res.ok) throw new Error(`GET ${path} → ${res.status}: ${body.slice(0, 300)}`);
   return JSON.parse(body);
@@ -139,6 +159,7 @@ async function strapiPostJson(path, data) {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', ...AUTH_HEADERS },
     body: JSON.stringify({ data }),
+    signal: AbortSignal.timeout(STRAPI_FETCH_TIMEOUT_MS),
   });
   const body = await res.text();
   if (!res.ok) throw new Error(`POST ${path} → ${res.status}: ${body.slice(0, 500)}`);
@@ -150,6 +171,7 @@ async function strapiPutJson(path, data) {
     method: 'PUT',
     headers: { 'Content-Type': 'application/json', ...AUTH_HEADERS },
     body: JSON.stringify({ data }),
+    signal: AbortSignal.timeout(STRAPI_FETCH_TIMEOUT_MS),
   });
   const body = await res.text();
   if (!res.ok) throw new Error(`PUT ${path} → ${res.status}: ${body.slice(0, 500)}`);
@@ -174,6 +196,7 @@ async function strapiUploadFile(buffer, filename, mimeType, caption) {
         method: 'POST',
         headers: { ...AUTH_HEADERS, Connection: 'close' },
         body: fd,
+        signal: AbortSignal.timeout(STRAPI_FETCH_TIMEOUT_MS),
       });
       const body = await res.text();
       if (!res.ok) throw new Error(`UPLOAD ${filename} → ${res.status}: ${body.slice(0, 500)}`);
@@ -222,7 +245,7 @@ async function downloadImage(preferredUrl, fallbackUrl) {
     let lastErr;
     for (let attempt = 1; attempt <= 3; attempt++) {
       try {
-        const res = await fetch(url, { redirect: 'follow' });
+        const res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(45000) });
         if (!res.ok) {
           if (res.status === 404) return null;
           throw new Error(`HTTP ${res.status}`);
@@ -241,6 +264,16 @@ async function downloadImage(preferredUrl, fallbackUrl) {
     throw lastErr;
   }
 
+  // --prefer=s1600: skús rovno menší variant, s0 len ako fallback (opačné poradie).
+  if (PREFER_S1600) {
+    try {
+      const r = await tryFetch(fallbackUrl, 's1600');
+      if (r && r.buffer.length > 1024) return { ...r, variant: 's1600' };
+    } catch (e) { /* fall through */ }
+    const r = await tryFetch(preferredUrl, 's0');
+    if (!r) throw new Error(`Both /s1600/ and /s0/ failed for ${preferredUrl}`);
+    return { ...r, variant: 's0' };
+  }
   // 1) Skús /s0/ (originál)
   try {
     const r = await tryFetch(preferredUrl, 's0');
@@ -260,14 +293,23 @@ async function downloadImage(preferredUrl, fallbackUrl) {
 
 async function loadExistingMediaIndex() {
   // GET /api/upload/files vráti všetky media. Pre v5 to vyžaduje populate prípadne paginate.
+  // POZN.: tento endpoint (admin content-manager route) nerešpektuje pagination[page]/[pageSize]
+  // query params rovnako ako content-api REST — v praxi vždy vráti celý zoznam na page=1 (pozorované
+  // za behu: pageSize=100 → 4000+ items). Pôvodná 50-page slučka preto opakovane sťahovala ten istý
+  // (rastúci, viacmegabajtový) payload až 50x na jeden upload, čo pri viacerých súbežných migračných
+  // agentoch reálne preťažovalo zdieľaný Strapi dev server (fetch failed / hang pre všetkých).
+  // Fix: ak stránka vráti viac položiek než požadovaný pageSize, endpoint evidentne stránkovanie
+  // ignoruje → použi tento jediný (kompletný) výsledok a neopakuj zbytočne ďalšie fetch-e.
   const out = { byHash: new Map(), files: [] };
+  const PAGE_SIZE = 100;
   let page = 1;
   while (true) {
-    const j = await strapiGet(`/api/upload/files?pagination[page]=${page}&pagination[pageSize]=100`);
+    const j = await strapiGet(`/api/upload/files?pagination[page]=${page}&pagination[pageSize]=${PAGE_SIZE}`);
     const items = Array.isArray(j) ? j : (j.results || j.data || []);
     if (!items.length) break;
     for (const f of items) out.files.push(f);
-    if (items.length < 100) break;
+    if (items.length > PAGE_SIZE) break; // endpoint neignoruje pageSize → toto je už kompletný zoznam
+    if (items.length < PAGE_SIZE) break;
     page++;
     if (page > 50) break;
   }
@@ -299,7 +341,7 @@ async function resolveTag(name) {
 
 async function findExistingPost(slug) {
   const r = await strapiGet(
-    `/api/blog-posts?filters[slug][$eq]=${encodeURIComponent(slug)}&pagination[pageSize]=1&publicationState=preview`,
+    `/api/blog-posts?filters[slug][$eq]=${encodeURIComponent(slug)}&pagination[pageSize]=1&publicationState=preview&populate[0]=category`,
   );
   const items = r.data || [];
   return items.length > 0 ? items[0] : null;
@@ -407,7 +449,7 @@ function buildPayload(intermediate, options) {
 function buildNotes(intermediate, payload, mediaArray, options) {
   const bp = intermediate.blogPost;
   const notes = [];
-  notes.push(`category = ${options.categoryDocumentId} (Kniežacie sídla). Natvrdo.`);
+  notes.push(`category = ${options.categoryDocumentId} (default, len pre nové POST). Pri PUT na existujúci článok sa zachová jeho už nastavená kategória.`);
   if (bp.tags?.length) {
     notes.push(
       `tags (${bp.tags.length}): ${JSON.stringify(bp.tags)}. Pred POST sa resolveuje po slugu (create-if-missing).`,
@@ -457,15 +499,17 @@ async function doRealUpload(intermediate, payload, mediaArray, options) {
   console.log('[1/5] Tag resolve...');
   const tagDocIds = [];
   for (const t of intermediate.blogPost.tags || []) {
+    if (!t || t.trim().length > 50) { console.warn(`     [warn] tag preskočený (>50 znakov): "${(t || '').slice(0, 40)}…"`); continue; }
     const r = await resolveTag(t);
     tagDocIds.push(r.documentId);
     console.log(`     "${t}" → slug="${r.slug}" documentId=${r.documentId} (${r.action})`);
   }
 
-  // -- Step 2: Load existing media + sha256 dedup ---------------------------
-  console.log('\n[2/5] Load existing Media Library...');
-  const existing = await loadExistingMediaIndex();
-  console.log(`     existing files: ${existing.files.length}`);
+  // -- Step 2: (preskočené) ---------------------------
+  // loadExistingMediaIndex() GET /api/upload/files trvá ~45 s (5000+ médií, multi-MB) a
+  // výsledok `existing` sa NIKDE ďalej nepoužíva — dedup je výlučne SHA-based cez shaIndex.
+  // Preto ho preskakujeme (obrovská úspora času na každý článok).
+  const existing = { files: [], byHash: new Map() };
 
   // Snímka pred uploadom — počítame fyzické súbory v public/uploads/
   const beforeUploadCount = readdirSync(UPLOADS_DIR).filter((n) => !n.startsWith('.')).length;
@@ -495,31 +539,61 @@ async function doRealUpload(intermediate, payload, mediaArray, options) {
   const uploadLog = [];
   const failedThisPass = [];
 
+  // Stiahni konkrétnu URL (2 pokusy). Vráti {buffer,mimeType,variant} alebo null.
+  async function tryDownloadUrl(url, label) {
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      try {
+        const res = await fetch(url, { redirect: 'follow', signal: AbortSignal.timeout(45000) });
+        if (!res.ok) { if (res.status === 404) return null; throw new Error(`HTTP ${res.status}`); }
+        return { buffer: Buffer.from(await res.arrayBuffer()), mimeType: res.headers.get('content-type') || 'image/jpeg', variant: label };
+      } catch (e) { if (attempt < 2) await new Promise((r) => setTimeout(r, 1000)); }
+    }
+    return null;
+  }
+
   async function processItem(m) {
-    let dl;
-    try {
-      dl = await downloadImage(m.preferredUrl, m.fallbackUrl);
-    } catch (e) {
-      console.error(`     [${m.index.toString().padStart(2)}] ${m.filename} → DOWNLOAD FAILED: ${e.message}`);
+    // Poradie variantov (pri --prefer=s1600 najprv menší). Kľúčové: skús SHA OBOCH
+    // variantov voči indexu — obrázky boli nahraté v rôznych variantoch (s0 aj s1600),
+    // takže reuse musí matchnúť čokoľvek je uložené. Párovanie výlučne cez SHA-256 → bez pomiešania.
+    const variants = PREFER_S1600
+      ? [[m.fallbackUrl, 's1600'], [m.preferredUrl, 's0']]
+      : [[m.preferredUrl, 's0'], [m.fallbackUrl, 's1600']];
+    let firstDl = null, firstSha = null;
+    for (const [url, label] of variants) {
+      if (!url) continue;
+      const dl = await tryDownloadUrl(url, label);
+      if (!dl || dl.buffer.length <= 1024) continue;
+      const sha = sha256(dl.buffer);
+      if (!firstDl) { firstDl = dl; firstSha = sha; }
+      const localDupe = uploadLog.find((u) => u.sha === sha);
+      if (localDupe) {
+        mediaIdByIndex[m.index] = localDupe.mediaId;
+        uploadLog.push({ index: m.index, filename: m.filename, action: 'reused-by-sha', variant: dl.variant, mediaId: localDupe.mediaId, sha });
+        console.log(`     [${m.index.toString().padStart(2)}] ${m.filename} → REUSE by SHA (${dl.variant}, id=${localDupe.mediaId})`);
+        return { ok: true };
+      }
+      if (shaIndex[sha]) {
+        mediaIdByIndex[m.index] = shaIndex[sha].mediaId;
+        uploadLog.push({ index: m.index, filename: m.filename, action: 'reused-by-sha-persisted', variant: dl.variant, mediaId: shaIndex[sha].mediaId, sha });
+        console.log(`     [${m.index.toString().padStart(2)}] ${m.filename} → REUSE by SHA, prior run (${dl.variant}, id=${shaIndex[sha].mediaId})`);
+        return { ok: true };
+      }
+    }
+    if (!firstDl) {
+      console.error(`     [${m.index.toString().padStart(2)}] ${m.filename} → DOWNLOAD FAILED (oba varianty)`);
       return { ok: false, reason: 'download-failed' };
     }
-    const sha = sha256(dl.buffer);
-    const localDupe = uploadLog.find((u) => u.sha === sha);
-    if (localDupe) {
-      mediaIdByIndex[m.index] = localDupe.mediaId;
-      uploadLog.push({ index: m.index, filename: m.filename, action: 'reused-by-sha', variant: dl.variant, mediaId: localDupe.mediaId, sha });
-      console.log(`     [${m.index.toString().padStart(2)}] ${m.filename} → REUSE by SHA (${dl.variant}, id=${localDupe.mediaId})`);
-      return { ok: true };
-    }
-    const persisted = shaIndex[sha];
-    if (persisted) {
-      mediaIdByIndex[m.index] = persisted.mediaId;
-      uploadLog.push({ index: m.index, filename: m.filename, action: 'reused-by-sha-persisted', variant: dl.variant, mediaId: persisted.mediaId, sha });
-      console.log(`     [${m.index.toString().padStart(2)}] ${m.filename} → REUSE by SHA, prior run (${dl.variant}, id=${persisted.mediaId})`);
-      return { ok: true };
-    }
+    const dl = firstDl, sha = firstSha;
+    // Sanitizuj názov: blogger /img/a/ hash je 190+ znakov s '=' a bez prípony → Strapi ho odmietne.
+    const safeName = (() => {
+      let f = (m.filename || '').split('?')[0].replace(/=[a-z]\d+(-[a-z]\d+)*$/i, '');
+      if (f.length > 80 || !/\.(jpe?g|png|gif|webp|avif)$/i.test(f) || /[=]/.test(f)) {
+        f = (f.replace(/[^a-zA-Z0-9]/g, '').slice(-32) || 'img') + '.jpg';
+      }
+      return f;
+    })();
     try {
-      const uploaded = await strapiUploadFile(dl.buffer, m.filename, dl.mimeType, m.caption);
+      const uploaded = await strapiUploadFile(dl.buffer, safeName, dl.mimeType, m.caption);
       mediaIdByIndex[m.index] = uploaded.id;
       uploadLog.push({ index: m.index, filename: m.filename, action: 'uploaded', variant: dl.variant, size: dl.buffer.length, mediaId: uploaded.id, sha });
       shaIndex[sha] = { mediaId: uploaded.id, filename: m.filename };
@@ -667,6 +741,14 @@ async function doRealUpload(intermediate, payload, mediaArray, options) {
   let result;
   if (existingPost) {
     console.log(`     existing post found: documentId=${existingPost.documentId}, PUT ...`);
+    // Zachovaj existujúcu kategóriu pri re-uploade (napr. gramatika) — nepresúvaj
+    // článok naspäť do DEFAULT_CATEGORY, ak už bol manuálne/správne zaradený inde.
+    if (existingPost.category?.documentId) {
+      if (existingPost.category.documentId !== CATEGORY_DOC_ID) {
+        console.log(`     ℹ️  kategória zachovaná: "${existingPost.category.name}" (namiesto default "Kniežacie sídla")`);
+      }
+      finalData.category = { connect: [{ documentId: existingPost.category.documentId }] };
+    }
     result = await strapiPutJson(`/api/blog-posts/${existingPost.documentId}`, finalData);
   } else {
     console.log(`     no existing post for slug="${slug}", POST ...`);

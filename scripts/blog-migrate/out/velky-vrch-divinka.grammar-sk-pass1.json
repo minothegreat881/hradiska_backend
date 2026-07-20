@@ -1,0 +1,30 @@
+{
+  "slug": "hradisko-velky-vrch-divinka",
+  "note": "grammar-sk agent, prvý prechod. Extrémne dlhý, hustý článok s dvomi obrovskými priamymi citátmi (Moravčík, viacero blokov; Fusek/Holeščák 2019, blok 29-30), oba moderná literatúra, neprevedené na quote-block. Aplikované najmä hromadné typografické opravy (medzery v zátvorkách, 'n.l.'->'n. l.', číselné rozsahy).",
+  "criticalFixes": [
+    { "issue": "Blok 0 a blok 1 boli rozdelené uprostred slova ('Dr. Joze' | 'f Moravčík') — extrakčný artefakt, ktorý by sa pri renderovaní zobrazil ako dve oddelené vety s useknutým slovom.", "fix": "Bloky 0 a 1 zlúčené do jedného bloku." },
+    { "issue": "Desiatky výskytov medzier vnútri zátvoriek ('( text )' namiesto '(text)') a 'n.l.' namiesto 'n. l.' naprieč takmer celým článkom.", "fix": "Hromadne opravené regulárnym výrazom naprieč všetkými blokmi." }
+  ],
+  "appliedFixes": [
+    { "rule": "B pomlčka (zložené priezvisko) — hromadne", "before": "Petrovský - Šichman / Petrovský Šichman", "after": "Petrovský-Šichman", "block": "viacero (0, 4, excerpt, Zdroje)" },
+    { "rule": "B rozsah", "before": "1972 -73 / (2002 VZP XXI: 7-36) / (Moravčík 1980a. 19, 30)", "after": "1972 – 1973 / (2002 VZP XXI: 7–36) / (Moravčík 1980a, 19, 30)", "block": 0 },
+    { "rule": "A7 bohemizmus", "before": "sa jedná o veľké centrálne hradisko", "after": "ide o veľké centrálne hradisko", "block": 0 },
+    { "rule": "B rozsah", "before": "8.-9. stor.", "after": "8. – 9. stor.", "block": 8 },
+    { "rule": "B rozsah + preklep + OCR line-break", "before": "1955-1959 ... 2-3 časových horizontov ... rímskych provincíí ... prí- stavby", "after": "1955 – 1959 ... 2 – 3 časových horizontov ... rímskych provincií ... prístavby", "block": 10 },
+    { "rule": "medzera po bodke + A8 preklep + B typografia + medzera po čiarke", "before": "hrade.Obe ... svojim stvárnením ... 1.st. pred n. l. ... nálezy,najmä", "after": "hrade. Obe ... svojím stvárnením ... 1. stor. pred n. l. ... nálezy, najmä", "block": 12 },
+    { "rule": "B typografia (medzery, pomlčka)", "before": "2m, ... 4 m- vybudované", "after": "2 m, ... 4 m — vybudované", "block": 19 },
+    { "rule": "B rozsah + OCR line-break + duplicitná čiarka + medzera pred dvojbodkou", "before": "20- 30 roky ... sa- verného ... obyvateľstva,, ... Divinke : 4 druhy ... 166-180 ... 12.– 13. stor. ... 5.-6. stor. ... 8. - 9. stor.,", "after": "20 – 30 roky ... severného ... obyvateľstva, ... Divinke: 4 druhy ... 166 – 180 ... 12. – 13. stor. ... 5. – 6. stor. ... 8. – 9. stor.,", "block": 22 },
+    { "rule": "A8 preklep", "before": "Nitrianskeho kniežatsva", "after": "Nitrianskeho kniežatstva", "block": 24 },
+    { "rule": "A8 preklep + B rozsah + OCR line-break", "before": "svojim dobytkom ... 12.– 13. stor. ... ka- plnke", "after": "svojím dobytkom ... 12. – 13. stor. ... kaplnke", "block": 26 },
+    { "rule": "A8 preklep (v protected-zone citáte, len typografia)", "before": "fortikácie (2×)", "after": "fortifikácie", "block": "29, 30" },
+    { "rule": "B rozsah + preklep priezviska + medzera pred dvojbodkou (Zdroje)", "before": "ČAS...Zborník ... Petrovský Šichman, Anton :", "after": "ČAS... Zborník ... Petrovský-Šichman, Anton:", "block": "sources" },
+    { "rule": "B rozsah (KF + timeline)", "before": "1955-1959 / 1972-1973", "after": "1955 – 1959 / 1972 – 1973", "block": "keyFacts, timeline" }
+  ],
+  "reviewed_no_change": [
+    "Rozsiahle citáty Moravčík (bloky 0-26, viacero) a Fusek/Holeščák 2019 (bloky 29-30) — moderná literatúra, neprevedené na quote-block, opravená len typografia.",
+    "'60-tych rokoch' — akceptovaný neformálny tvar, ponechané."
+  ],
+  "flags": [
+    "Blok 32: 'Naše OZ Hradiská ... umiestnili na hradisko . Cesta vedie...' — chýba predmet vety (čo presne umiestnili — pravdepodobne informačná tabuľa), zjavne stratený text pri extrakcii. Nedopĺňané bez overenia, iba orezaná nadbytočná medzera pred bodkou."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "okolo 1. tisícročia pred Kristom",
+      "title": "Založenie hradiska Hrádok",
+      "description": "Lužičania si na pomedzí obcí Kamenec pod Vtáčnikom a Bystričany vybudovali hradisko Hrádok, ktoré slúžilo ako útočisko a skrýša pred nepriateľmi.",
+      "type": "founding"
+    },
+    {
+      "year": "2. stor. pred n. l. – 2. stor. n. l.",
+      "title": "Keltsko-dácko-púchovské osídlenie",
+      "description": "Hradisko prebudoval ľud púchovskej kultúry, ktorý ovplyvnili keltsko-dácke kmene naučiac obyvateľov ťažiť a spracovávať železnú rudu, používať hrnčiarsky kruh a jazdiť na koni; v okolí sa našlo množstvo črepového materiálu z tohto obdobia.",
+      "type": "era"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Slovanské osídlenie a veľkomoravská prestavba",
+      "description": "Na hradisku sa objavujú Slovania a počas Veľkomoravskej ríše bolo hradisko prebudované a využívané, keďže sa na strategických miestach obnovovali alebo nanovo budovali opevnenia.",
+      "type": "event"
+    },
+    {
+      "year": "najskôr 13. storočie",
+      "title": "Stavba donjonu",
+      "description": "V strednej časti opevnenej plochy vznikla štvorcovitá kamenná stavba s rozmermi 9,5 x 9,8 m, ktorá zrejme slúžila ako obytná a zároveň strážna veža (donjon).",
+      "type": "construction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Hradisko leží na hornej plošine andezitového brala Hrádok (kóta 880, resp. 661), cca 6 km juhovýchodne od obce Kamenec pod Vtáčnikom.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "Hornú plošinu obopínajú dva pásy valov, so vstupnými bránami kliešťovitého typu v severozápadnej a juhovýchodnej časti vonkajšieho valu.",
+      "icon": "shield"
+    },
+    {
+      "label": "Donjon",
+      "value": "V strede opevnenej plochy sa odkryli základy štvorcovitej kamennej stavby s rozmermi 9,5 x 9,8 m, ktorá slúžila ako obytná a zároveň strážna veža.",
+      "icon": "building"
+    },
+    {
+      "label": "Ľudový názov",
+      "value": "Obyvatelia obce Bystričany dodnes nazývajú celú skalu s donjonom Dvorčená skala.",
+      "icon": "custom"
+    },
+    {
+      "label": "Konštrukcia valov",
+      "value": "Druhá sonda odkryla súvislú vrstvu uhlíkov a spáleného dreva, čo naznačuje valy z nasucho kladených kameňov s drevenou komorovou konštrukciou.",
+      "icon": "book"
+    },
+    {
+      "label": "Stopy rímskeho vplyvu",
+      "value": "Črepový materiál získaný na Hrádku obsahuje popri prvkoch staršej fázy púchovskej kultúry aj prvky s možnosťou zaradenia do obdobia rímskych provincií.",
+      "icon": "star"
+    },
+    {
+      "label": "Praveké osídlenie",
+      "value": "V okolí hradiska sa našlo množstvo črepového materiálu z keltsko-dácko-púchovského osídlenia, ako aj zo staršieho halštatského obdobia.",
+      "icon": "map"
+    }
+  ]
+}

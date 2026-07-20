@@ -1,0 +1,50 @@
+{
+  "slug": "zeleznik-dolne-oresany",
+  "generatedAt": "2026-07-15T16:15:28.797Z",
+  "corrections": [
+    {
+      "before": "kedy prejdete okolo spomenutého Husieho Stoku",
+      "after": "keď prejdete okolo spomenutého Husieho stoku",
+      "reason": "kedy->keď vo vzťažnej vete; \"Stoku\" lowercased for consistency with \"Husom stoku\" elsewhere (common noun component of hydronym)",
+      "category": "A8+A9",
+      "occurrences": 1
+    },
+    {
+      "before": "kamenej architektúre",
+      "after": "kamennej architektúre",
+      "reason": "missing consonant: kamenej -> kamennej",
+      "category": "A8",
+      "occurrences": 1
+    },
+    {
+      "before": "6 železných šípov",
+      "after": "šesť železných šípov",
+      "reason": "low number (<=10) spelled as word in flowing prose (§21.10); propagates to keyFacts",
+      "category": "typography",
+      "occurrences": 2
+    },
+    {
+      "before": "3 ostrohy",
+      "after": "tri ostrohy",
+      "reason": "low number (<=10) spelled as word in flowing prose (§21.10); propagates to keyFacts",
+      "category": "typography",
+      "occurrences": 2
+    },
+    {
+      "before": "Archeologia Historica",
+      "after": "Archaeologia historica",
+      "reason": "journal name per protected-terms global dictionary (Archaeologia historica)",
+      "category": "cross-field",
+      "occurrences": 3
+    }
+  ],
+  "structuralChanges": [
+    {
+      "note": "Removed orphaned single-word heading block \"Orgoň\" (matches documented §21.10 pattern from Lipt. Štiavnica; zero informational content, authorName already records this).",
+      "removedCount": 1,
+      "removedContent": [
+        "[{\"type\":\"heading\",\"children\":[{\"type\":\"text\",\"text\":\"Orgoň\"}],\"level\":2}]"
+      ]
+    }
+  ]
+}

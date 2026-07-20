@@ -1,0 +1,99 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-pohanska-brana.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5433419569031062294",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/03/pohanska-brana.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/5433419569031062294/comments/default",
+    "extractedAt": "2026-07-16T21:57:41.555Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Pohanská - brána",
+    "slug": "pohanska-brana",
+    "excerpt": "Prinášame umeleckú predstavu vzhľadu brány a časti opevnenia keltského oppida Pohanská. Brána s dvojitým kliešťovým opevnením sa nachádzala v severovýchodnej časti hradiska. Autorom kresby je Haden Sutton, ktorému patrí veľká vďaka.",
+    "authorName": "Haden Sutton",
+    "publishedAt": "2013-03-05T22:31:00.003+01:00",
+    "originalPublishedDate": "2013-03-05T22:31:00.003+01:00",
+    "updatedAt": "2013-03-05T22:32:58.110+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45OkPTfxdxmzC4paAmbgofi405DrFCxs8Q0c9wQ6YLlPgN6z7vJxReE-Embko1O3esq1DVRQohddqWb7sX94trGrMbwpozBPFnpvg2ET-DqMTy508wAran3XxvhSJD8SPdTcW6ghULDw/s0/Kresba+Haden+bra%CC%81na1.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45OkPTfxdxmzC4paAmbgofi405DrFCxs8Q0c9wQ6YLlPgN6z7vJxReE-Embko1O3esq1DVRQohddqWb7sX94trGrMbwpozBPFnpvg2ET-DqMTy508wAran3XxvhSJD8SPdTcW6ghULDw/s1600/Kresba+Haden+bra%CC%81na1.JPG",
+        "filename": "Kresba+Haden+brána1.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45OkPTfxdxmzC4paAmbgofi405DrFCxs8Q0c9wQ6YLlPgN6z7vJxReE-Embko1O3esq1DVRQohddqWb7sX94trGrMbwpozBPFnpvg2ET-DqMTy508wAran3XxvhSJD8SPdTcW6ghULDw/s1600/Kresba+Haden+bra%CC%81na1.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 198,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      { "label": "Autor kresby", "value": "Haden Sutton", "icon": "users" },
+      { "label": "Typ opevnenia", "value": "Dvojité kliešťové opevnenie", "icon": "shield" },
+      { "label": "Poloha brány", "value": "Severovýchodná časť hradiska", "icon": "map" }
+    ],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prinášame umeleckú predstavu vzhľadu brány a časti opevnenia "
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/search/label/Pohansk%C3%A1%20-%20Keltsk%C3%A9%20Oppidum",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "keltského oppida Pohanská"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ". Brána s dvojitým kliešťovým opevnením sa nachádzala v severovýchodnej časti hradiska. Autorom kresby je Haden Sutton, ktorému patrí veľká vďaka."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "beckov-slovanske-hradisko",
+  "note": "grammar-sk agent, prvý prechod. Kvalitný odborný text (D. Hulínek, SAHI), Sources sekcia už existovala.",
+  "appliedFixes": [
+    { "rule": "B typografia (číselný rozsah + apozícia)", "before": "13. - 18. storočia ... brala - 253 m", "after": "13. – 18. storočia ... brala — 253 m", "block": 5 },
+    { "rule": "B typografia (zjednotenie úvodzoviek s house-style)", "before": "\"trenčianskym\" ... \"Trecen\"", "after": "„trenčianskym\" ... „Trecen\"", "block": 7 },
+    { "rule": "B typografia (úvodzovky, apozícia, číselné rozsahy)", "before": "\"Blondóc\" / \"castrórum\" / 13. - 18. stor. / 930 - 940 / Bratislava - Hlohovec - ... / podolia - ... komitátu - / (1077 - 1095) / Štefana I. 1000 - 1038", "after": "„Blondóc\" / „castrórum\" / 13. – 18. stor. / 930 – 940 / Bratislava – Hlohovec – ... / podolia — ... komitátu — / (1077 – 1095) / Štefana I. (1000 – 1038)", "block": 9, "note": "posledná oprava aj doplnila chýbajúce zátvorky okolo letopočtov, zjednotené s timeline (id 2555, 2556, 2557 mali všetky už správny formát)" },
+    { "rule": "MISSING_WORD (chýbajúca predložka)", "before": "tým aj pre kočovné obyvateľstvo menej zaujímavom území", "after": "tým aj pre kočovné obyvateľstvo v menej zaujímavom území", "block": 11, "note": "lokál 'zaujímavom území' vyžaduje predložku 'v', bez nej veta gramaticky nefunguje" },
+    { "rule": "B typografia (číselné rozsahy, apozícia)", "before": "10. - 11. stor. / 13. - 18. stor. / terénu - ... bralo -", "after": "10. – 11. stor. / 13. – 18. stor. / terénu — ... bralo —", "block": 12 },
+    { "rule": "A3 zhoda podmetu s prísudkom", "before": "Samotná výhodná poloha ... priam vypovedajú o strategicko-vojenskej...", "after": "...priam vypovedá o strategicko-vojenskej...", "block": 12, "note": "podmet 'poloha' je jednotné číslo, sloveso bolo mylne v množnom" },
+    { "rule": "B typografia (apozícia) + chýbajúca koncová bodka", "before": "so súhlasom autora - archeológa SAHI", "after": "so súhlasom autora — archeológa SAHI.", "block": 15 },
+    { "rule": "B typografia (apozícia)", "before": "v časti Sady - keramika ... 8. stor. - ide o jamu ... 10. stor. - 8 objektov", "after": "v časti Sady — keramika ... 8. stor. — ide o jamu ... 10. stor. — 8 objektov", "block": 16 },
+    { "rule": "UNCLOSED_PAREN", "before": "8 objektov (polozemnica, sídliskové jamy s keramickými nálezmi.(6)", "after": "8 objektov (polozemnica, sídliskové jamy s keramickými nálezmi).(6)", "block": 16, "note": "chýbajúca uzatváracia zátvorka pred poznámkou pod čiarou (6); vysoká istota opravy, len doplnenie interpunkcie, nie obsahu" },
+    { "rule": "B typografia (zjednotenie úvodzoviek)", "before": "Castrum \"Blundus\"", "after": "Castrum „Blundus\"", "block": "keyFacts" },
+    { "rule": "B typografia (zjednotenie úvodzoviek)", "before": "Nájdené \"za skalicami\".", "after": "Nájdené „za skalicami\".", "block": "timeline" }
+  ],
+  "reviewed_no_change": [
+    "Bloky 0-4, 8, 10, 13, 14, 17 — bez chýb.",
+    "'stratený meč' (blok 16) — nezvyčajné slovné spojenie (nález opísaný ako 'stratený'), možný preklep alebo zámer, nemám ako overiť pôvodný zdroj (Historická revue), NEOPRAVENÉ.",
+    "Footnote značky (6)(7)(8) glued priamo k textu bez medzery — konzistentný vlastný štýl tohto článku (prevzaté z odborného časopisu), ponechané."
+  ],
+  "flags": [
+    "'stratený meč' v bloku 16 — možný preklep/neobvyklé slovné spojenie pri opise archeologického nálezu, ponechané bez zásahu."
+  ]
+}

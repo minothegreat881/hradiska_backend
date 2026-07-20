@@ -1,0 +1,11 @@
+{
+  "slug": "hradok-nad-vahom",
+  "flags_unresolved": [
+    {
+      "location": "blocks[6] (content.rich-text, depot hrivien)",
+      "text": "68 menších exemplárov dlhých 165–1200 mm",
+      "reason": "Fyzicky nepravdepodobný rozsah pre \"menšie\" exempláre — 1200 mm (1,2 m) je výrazne väčšie než \"väčšie\" exempláre spomenuté v tej istej vete (250–300 mm). Možný preklep v pôvodnom zdroji (napr. 65–120 mm?), no bez overenia proti Pleinerovej publikácii (1961) sa číslo nesmie svojvoľne meniť.",
+      "action": "ponechané verbatim, len opravená typografia pomlčky (165-1200 -> 165–1200 mm)"
+    }
+  ]
+}

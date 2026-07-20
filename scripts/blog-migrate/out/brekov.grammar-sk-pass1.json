@@ -1,0 +1,22 @@
+{
+  "slug": "brekov",
+  "note": "grammar-sk agent, prvý plnohodnotný v7 prechod (článok mal doteraz iba starý preklep-level grammar.json). Krátky, čisto odborný text bez dobových citátov a bez blockquote — žiadna chránená zóna (§21.3) sa neaktivovala (žiadny 'uvádza:'-trigger, žiadny nezatvorený „citát).",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "A7 bohemizmus (prasleny → praslene)", "before": "hlinené prasleny a dve sklené perly", "after": "hlinené praslene a dve sklené perly", "block": 1, "note": "rovnaká chyba aj v timeline (položka 1971) — keyFacts 'Typické nálezy' už mala správny tvar 'praslene', čo potvrdilo smer opravy" },
+    { "rule": "A7 bohemizmus (útočištný → útočiskový)", "before": "Hradiská mali pravdepodobne útočištný aj obranný charakter", "after": "Hradiská mali pravdepodobne útočiskový aj obranný charakter", "block": 9, "note": "rovnaká chyba aj v keyFacts 'Charakter hradiska'" },
+    { "rule": "A7 bohemizmus (snáď → azda)", "before": "Systematický výskum snáď umožní hlbší pohľad", "after": "Systematický výskum azda umožní hlbší pohľad", "block": 10 },
+    { "rule": "A4 pádová väzba (o rozmeroch → s rozmermi, bohemizmus)", "before": "malo elipsovitý pôdorys v smere SV - JZ o rozmeroch približne 70 x 40 m", "after": "malo elipsovitý pôdorys v smere SV – JZ s rozmermi približne 70 × 40 m", "block": 6, "note": "timeline (položka 'Slovanské hradisko na Brekovskom hradnom kopci') už mala správny tvar 's rozmermi', čo potvrdilo smer opravy" },
+    { "rule": "B typografia (číselné rozsahy storočí, spojovník → en dash)", "before": "8. - 10. storočia / 8. - 10. storočie / koniec 9. - začiatok 10. storočia / 9. - 10. storočie / (9. - 10. storočie)", "after": "8. – 10. storočia / 8. – 10. storočie / koniec 9. – začiatok 10. storočia / 9. – 10. storočie / (9. – 10. storočie)", "block": "viaceré (1, 6) + keyFacts + timeline (3 položky)" },
+    { "rule": "B typografia (svetové strany rozsah, spojovník → en dash)", "before": "SV - JZ", "after": "SV – JZ", "block": "6 + keyFacts + timeline" },
+    { "rule": "B typografia (× namiesto x)", "before": "70 x 40 m", "after": "70 × 40 m", "block": "6 + keyFacts + timeline" }
+  ],
+  "reviewed_no_change": [
+    "authorName už bolo 'Orgon' (nie 'Unknown'), telo neobsahuje žiadnu frázu 'Autor:'/'Spracoval:', ktorá by tomu protirečila — bez zmeny.",
+    "'obdĺžniku' (blok 2) — už správne s krátkym i (nie 'obdĺžníku'), zodpovedá pravidlu A8, žiadna zmena potrebná.",
+    "'a to 8. storočie' (blok 5) — čiarka pred vysvetľovacím 'a to' už bola prítomná, žiadna zmena.",
+    "'V objektoch sa okrem...' a 'Okrem toho sa v odkrytých objektoch...' (blok 1) — pozícia sa/si už bola správna (2. pozícia po úvodnej predložkovej fráze), žiadna zmena.",
+    "'zv. 70. a 80. roky 20. storočia' (timeline) vs. 'sedemdesiatych a osemdesiatych rokov' (telo, blok 10) — rozdielny zápis (číslicami vs. slovom) rovnakého údaja; nejde o A8/§21.10 chybu (pravidlo o číslovkách slovom platí len pre nízke číslovky do desať), ponechané ako prijateľná štylistická variácia."
+  ],
+  "flags": []
+}

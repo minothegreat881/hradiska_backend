@@ -1,0 +1,225 @@
+{
+  "slug": "skalka-nad-vahom",
+  "pass": 1,
+  "scope": "body (content.rich-text + content.image-block captions/alt + content.sources) + title + tags + citations",
+  "corrections": [
+    {
+      "block": "blocks[0].body[0]",
+      "before": "Návršie sa dostalo v miestnom pomenovaní označenie „Chochel\".",
+      "after": "Návršiu sa dostalo v miestnom pomenovaní označenia „Chochel“.",
+      "reason": "A4 pádová väzba — reflexívna konštrukcia „dostalo sa mu/niečomu niečoho\" vyžaduje datív podmetu + genitív predmetu (Návršiu...označenia), nie nominatív+akuzatív. Zároveň typografia: rovný úvodzovkový znak po „ nahradený správnym slovenským uzatváracím „…“."
+    },
+    {
+      "block": "blocks[1].body[0]",
+      "before": "šírkou 23-39 m",
+      "after": "šírkou 23 – 39 m",
+      "reason": "B typografia — číselný rozsah, spojovník → pomlčka s medzerami."
+    },
+    {
+      "block": "blocks[2].body[0]",
+      "before": "do rokov 1889-1890",
+      "after": "do rokov 1889 – 1890",
+      "reason": "B typografia — rokový rozsah, spojovník → pomlčka."
+    },
+    {
+      "block": "blocks[2].body[0]",
+      "before": "pohanská svätyňa - Venušin chrám",
+      "after": "pohanská svätyňa – Venušin chrám",
+      "reason": "B typografia — apozičná pomlčka (nie spojovník); cross-field zhoda s keyFacts, ktoré už majú „–“."
+    },
+    {
+      "block": "blocks[5].body[0]",
+      "before": "a následne prirodzeným spôsobom deštruovalo",
+      "after": "a následne sa prirodzeným spôsobom deštruovalo",
+      "reason": "A2 chýbajúce zvratné „sa\" — „deštruovať sa\" (zanikať) je v tomto význame reflexívne sloveso."
+    },
+    {
+      "block": "blocks[5].body[0]",
+      "before": "fortifikácia z juhozápadného okraja lokality zaniká. Doposiaľ nie je známa funkcia opisovanej osady,",
+      "after": "fortifikácia z juhozápadného okraja lokality zanikla. Doteraz nie je známa funkcia opisovanej osady,",
+      "reason": "Časová nekonzistencia — celý odsek je v minulom čase a samotný časový údaj („zanikla\") potvrdzuje aj timeline (položka „Zánik fortifikácie požiarom\": „...zanikla...\"); prítomný čas „zaniká\" bol chyba. „Doposiaľ\" → A7 bohemizmus (rovnaká rodina ako „dosiaľ\") → „doteraz\"."
+    },
+    {
+      "block": "blocks[9].body[0]",
+      "before": "spojená s Keltským etnikom",
+      "after": "spojená s keltským etnikom",
+      "reason": "A9 — prídavné meno odvodené od etnonyma sa píše malým písmenom (etnonymum samotné „Kelti\" veľkým, ale „keltský\" ako prídavné meno malým)."
+    },
+    {
+      "block": "blocks[9].body[0]",
+      "before": "prekrytá 15-18 cm hrubou vrstvou",
+      "after": "prekrytá 15 – 18 cm hrubou vrstvou",
+      "reason": "B typografia — číselný rozsah."
+    },
+    {
+      "block": "blocks[9].body[0]",
+      "before": "pod uhlom cca 45-50°.",
+      "after": "pod uhlom cca 45 – 50°.",
+      "reason": "B typografia — číselný rozsah."
+    },
+    {
+      "block": "blocks[11].body[0]",
+      "before": "Ďalej bola nájdená bronzovou sponou typu Alesia, sponou s prehnutým lučíkom zo železnej tyčinky, bronzovým priečne žliabkovaným náramkom a železnou omegovitou sponou, bronzovou sponou typu Almgren a zlomok bronzovej zápony včasného noricko-panónskeho typu.",
+      "after": "Ďalej bola nájdená bronzová spona typu Alesia, spona s prehnutým lučíkom zo železnej tyčinky, bronzový priečne žliabkovaný náramok a železná omegovitá spona, bronzová spona typu Almgren a zlomok bronzovej zápony včasného noricko-panónskeho typu.",
+      "reason": "A4 pádová väzba — trpný rod „bola nájdená\" vyžaduje nominatív podmetu (vymenované predmety), nie inštrumentál."
+    },
+    {
+      "block": "blocks[13].body[0]",
+      "before": "z domácich zvierat, najmä ovca, hovädzí dobytok a koza.",
+      "after": "z domácich zvierat, najmä oviec, hovädzieho dobytka a kôz.",
+      "reason": "A4 pádová väzba — apozícia k „z domácich zvierat\" (genitív pl.) musí byť v genitíve, nie v nominatíve."
+    },
+    {
+      "block": "blocks[15].body[0]",
+      "before": "ústupom severným smerom - z trenčianskeho mikroregiónu",
+      "after": "ústupom severným smerom – z trenčianskeho mikroregiónu",
+      "reason": "B typografia — apozičná pomlčka."
+    },
+    {
+      "block": "blocks[16].body[0]",
+      "before": "Po obsadení územia Germánmi najmä v čase markomanských vojen proti Rímskej ríši, bolo hradisko",
+      "after": "Po obsadení územia Germánmi, najmä v čase markomanských vojen proti Rímskej ríši, bolo hradisko",
+      "reason": "A1 uzavretie vloženej vety — vsuvka „najmä v čase markomanských vojen proti Rímskej ríši\" musí mať čiarku z oboch strán, chýbala otváracia."
+    },
+    {
+      "block": "blocks[17].body[0]",
+      "before": "Stredovek - Sloveni",
+      "after": "Stredovek – Sloveni",
+      "reason": "B typografia — nadpis, oddeľovacia pomlčka namiesto spojovníka."
+    },
+    {
+      "block": "blocks[18].body[0]",
+      "before": "Z obdobia raného stredoveku, kedy územie Považia obývali Sloveni,",
+      "after": "Z obdobia raného stredoveku, keď územie Považia obývali Sloveni,",
+      "reason": "A8 — „kedy\" vo vzťažnej vete (viažuca sa na „obdobia\") → „keď\"."
+    },
+    {
+      "block": "blocks[19].body[0]",
+      "before": "zahĺbenie 1,7-1,9 m",
+      "after": "zahĺbenie 1,7 – 1,9 m",
+      "reason": "B typografia — číselný rozsah s desatinnou čiarkou."
+    },
+    {
+      "block": "blocks[19].body[0]",
+      "before": "dlhodobejšom používaní objektu počas 9.-10. stor.",
+      "after": "dlhodobejšom používaní objektu počas 9. – 10. stor.",
+      "reason": "B typografia — storočný rozsah."
+    },
+    {
+      "block": "blocks[19].body[0]",
+      "before": "pochádzajúci z 11.-12. stor.",
+      "after": "pochádzajúci z 11. – 12. stor.",
+      "reason": "B typografia — storočný rozsah."
+    },
+    {
+      "block": "blocks[22].body[0]",
+      "before": "údaj 5,3 x 5,4-5,6 m, resp.",
+      "after": "údaj 5,3 × 5,4 – 5,6 m, resp.",
+      "reason": "B typografia — „x\" → „×\" a číselný rozsah spojovník → pomlčka."
+    },
+    {
+      "block": "blocks[23].body[0]",
+      "before": "na vyše 30 m3.",
+      "after": "na vyše 30 m³.",
+      "reason": "B typografia — m3 → m³."
+    },
+    {
+      "block": "blocks[23].body[0]",
+      "before": "Z 10.-12. stor. sú takéto stavby",
+      "after": "Z 10. – 12. stor. sú takéto stavby",
+      "reason": "B typografia — storočný rozsah."
+    },
+    {
+      "block": "blocks[23].body[0]",
+      "before": "sakrálnej architektúry v Uhorskom štáte v 11. a 12. storočí.",
+      "after": "sakrálnej architektúry v uhorskom štáte v 11. a 12. storočí.",
+      "reason": "A9 — prídavné meno od vlastného mena malým, keďže „uhorský štát\" tu nie je oficiálny názov (na rozdiel od „Uhorské kráľovstvo\", ktoré je ponechané veľkým ako oficiálny názov)."
+    },
+    {
+      "block": "blocks[24] (image-block: alt + caption) a zodpovedajúca položka gallery[]",
+      "before": "z knihy Andreja Boteka - Veľkomoravské kostoly na Slovensku a odraz ich tradície v neskoršom období .",
+      "after": "z knihy Andreja Boteka – Veľkomoravské kostoly na Slovensku a odraz ich tradície v neskoršom období.",
+      "reason": "B typografia — pomlčka pred názvom knihy + medzera pred bodkou na konci vety odstránená. Opravené na všetkých 3 výskytoch (gallery[] + alt + caption obrázka v tele)."
+    },
+    {
+      "block": "blocks[25].body[0]",
+      "before": "skupina šiestich hrobov z 9.-10. stor., umiestnených",
+      "after": "skupina šiestich hrobov z 9. – 10. stor., umiestnených",
+      "reason": "B typografia — storočný rozsah."
+    },
+    {
+      "block": "blocks[25].body[0]",
+      "before": "Celková plocha lode 14,8 m sotva mohla byť určená",
+      "after": "Celková plocha lode 14,8 m² sotva mohla byť určená",
+      "reason": "Chýbajúca jednotka plochy — cross-field overené proti keyFacts („plocha lode iba 14,8 m²\"), telo malo iba „m\" namiesto „m²\"."
+    },
+    {
+      "block": "blocks[27].body[0]",
+      "before": "táto stavba aj napriek archaickej podstate zaznamenaných výnimočností (dispozícia, rozmery, absencia oltárnej menzy, zrejme aj drevená konštrukcia stien), mala v období",
+      "after": "táto stavba, aj napriek archaickej podstate zaznamenaných výnimočností (dispozícia, rozmery, absencia oltárnej menzy, zrejme aj drevená konštrukcia stien), mala v období",
+      "reason": "A1 uzavretie vloženej vety — chýbala otváracia čiarka pred vloženou vetou „aj napriek...stien)\"."
+    },
+    {
+      "block": "blocks[27].body[0]",
+      "before": "vstúpil do benediktinského opátstva založeného na Skalke",
+      "after": "vstúpil do benediktínskeho opátstva založeného na Skalke",
+      "reason": "A8 pravopis — „benediktínsky\" s dĺžňom (cross-field overené proti keyFacts „Benediktínske opátstvo\")."
+    },
+    {
+      "block": "blocks[28].body[0]",
+      "before": "Bol teda kamenný, alebo drevený? Pochádza z čias Veľkej Moravy, alebo bol postavený až v čase rozvoja sakrálnej architektúry v Uhorskom kráľovstve? Jednalo sa vôbec o kresťanskú stavbu,",
+      "after": "Bol teda kamenný alebo drevený? Pochádza z čias Veľkej Moravy alebo bol postavený až v čase rozvoja sakrálnej architektúry v Uhorskom kráľovstve? Išlo vôbec o kresťanskú stavbu,",
+      "reason": "A1 nadbytočná čiarka — „alebo\" spájajúce rovnorodé členy/vety s tým istým (vypusteným) podmetom čiarku nemá (2×). A7 bohemizmus — „Jednalo sa o\" → „Išlo o\"."
+    },
+    {
+      "block": "blocks[30].body[0]",
+      "before": "aplikáciu zásady zakotvenú v „Legis Salicae\", podľa ktorej",
+      "after": "aplikáciu zásady zakotvenú v „Legis Salicae“, podľa ktorej",
+      "reason": "B typografia — rovný úvodzovkový znak → správna slovenská uzatváracia úvodzovka."
+    },
+    {
+      "block": "blocks[31].body[0]",
+      "before": "vampírskych hrobov, kedy boli jedinci",
+      "after": "vampírskych hrobov, keď boli jedinci",
+      "reason": "A8 — „kedy\" vo vzťažnej vete → „keď\"."
+    },
+    {
+      "block": "blocks[34].body[0]",
+      "before": "výzdobných motívov príznačných pre 9.-10. stor. Na základe miesta nájdenia je potrebné medzi sídliskové nálezy z 9.-10. stor. zaradiť aj krúžkovú náušnicu z bronzového drôtu, bronzový gombík a hrot šípu so spätnými krídelkami. Do 10.-11. stor. patrí romboidná a deltoidná forma hrotov šípov.",
+      "after": "výzdobných motívov príznačných pre 9. – 10. stor. Na základe miesta nájdenia je potrebné medzi sídliskové nálezy z 9. – 10. stor. zaradiť aj krúžkovú náušnicu z bronzového drôtu, bronzový gombík a hrot šípu so spätnými krídelkami. Do 10. – 11. stor. patrí romboidná a deltoidná forma hrotov šípov.",
+      "reason": "B typografia — storočné rozsahy (3×)."
+    },
+    {
+      "block": "blocks[39].body[0]",
+      "before": "založené benediktinské opátstvo.",
+      "after": "založené benediktínske opátstvo.",
+      "reason": "A8 pravopis — „benediktínsky\" s dĺžňom (cross-field overené proti keyFacts)."
+    },
+    {
+      "block": "citations[] + blocks[42] content.sources.items (rovnaký text 2×)",
+      "before": "A JEJ VYZNÁM V DEJINÁCH OSÍDLENIA TRENČIANSKEHO MIKROREGIÓNU, SLOVENSKÁ ARCHEOLÓGIA XLVI-2,1998, 309-331",
+      "after": "A JEJ VÝZNAM V DEJINÁCH OSÍDLENIA TRENČIANSKEHO MIKROREGIÓNU, SLOVENSKÁ ARCHEOLÓGIA XLVI-2, 1998, 309 – 331",
+      "reason": "A8 preklep/OCR — „VYZNÁM\" nie je slovo, správne „VÝZNAM\"; typografia — medzera po čiarke pred ročníkom, stránkovací rozsah pomlčkou."
+    },
+    {
+      "block": "citations[] + blocks[42] content.sources.items (rovnaký text 2×)",
+      "before": "z 10. storočia z Považia , Zborník SNM, 2007",
+      "after": "z 10. storočia z Považia, Zborník SNM, 2007",
+      "reason": "B typografia — medzera pred čiarkou odstránená."
+    },
+    {
+      "block": "title, tags[0], blocks[*].alt (8×), blocks[24] caption + gallery caption (súčasť predošlej opravy)",
+      "before": "Skalka Nad Váhom",
+      "after": "Skalka nad Váhom",
+      "reason": "A9 — predložka „nad\" v zemepisnom názve sa píše malým písmenom (porov. Nové Mesto nad Váhom); protected-terms.json už mal samostatne „Skalka\" ako chránený termín."
+    }
+  ],
+  "notAppliedOutOfScope": [
+    {
+      "field": "blogPost.location.name",
+      "before": "Skalka Nad Váhom",
+      "after": "Skalka nad Váhom",
+      "reason": "Rovnaká oprava ako v title/tags/alt, ale location nie je v povolenom rozsahu úprav tejto session — zdokumentované pre budúce PUT/re-upload."
+    }
+  ]
+}

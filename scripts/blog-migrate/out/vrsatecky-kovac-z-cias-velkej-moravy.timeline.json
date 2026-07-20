@@ -1,0 +1,101 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "mladšia doba bronzová",
+      "title": "Sídlisko lužickej kultúry",
+      "description": "Na Vršatci sa nachádzalo sídlisko a žiarové pohrebisko lužickej kultúry z mladšej doby bronzovej.",
+      "type": "era"
+    },
+    {
+      "year": "zlom letopočtu",
+      "title": "Sídlisko púchovskej kultúry",
+      "description": "Na mieste jestvovalo sídlisko púchovskej kultúry zo zlomu letopočtu.",
+      "type": "era"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Slovanské osídlenie Vršatca",
+      "description": "Vznikla súvislá plocha slovanského sídliska v úžľabine potôčka pod hradnými bralami; Sloveni obývali obe strany spodnej časti doliny.",
+      "type": "founding"
+    },
+    {
+      "year": "koniec 9. – začiatok 10. storočia",
+      "title": "Kováčska dielňa vo Vršateckom Podhradí",
+      "description": "V sídlisku fungovala kováčska dielňa slovanského kováča, ktorej základy neskôr celkom zničili stavebné práce.",
+      "type": "construction"
+    },
+    {
+      "year": "1348",
+      "title": "Prvá písomná zmienka ako Oroszlánko",
+      "description": "Vršatecké Podhradie sa v písomných prameňoch spomína pod názvom Oroszlánko.",
+      "type": "event"
+    },
+    {
+      "year": "1470",
+      "title": "Zmienka ako Podhrady",
+      "description": "Obec sa spomína pod názvom Podhrady.",
+      "type": "event"
+    },
+    {
+      "year": "marec 1965",
+      "title": "Prvý nález kováčskeho náradia",
+      "description": "Pri stavebných prácach buldozér narazil na hromadný nález: tri nákovy, dláto, štyri kováčske kliešte, dve sekery, obsta, krojidlo, malú symetrickú radlicu, motyku, klčovnicu a kúsky železa – polotovaru.",
+      "type": "discovery"
+    },
+    {
+      "year": "august 1965",
+      "title": "Druhý nález kováčskeho náradia",
+      "description": "Na rovnakom mieste bola objavená druhá časť nálezu: sekera, obsta, krátka kosa a čiastočne spracovaná železná hrivna.",
+      "type": "discovery"
+    },
+    {
+      "year": "1970",
+      "title": "Vršatec chráneným prírodným výtvorom",
+      "description": "Skalný útvar Vršatec sa stal chráneným prírodným výtvorom kvôli vzácnej vápnomilnej kvetene.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Nadmorská výška",
+      "value": "cca 700 m – jedno z najvyššie položených sídlisk na Považí",
+      "icon": "mountain"
+    },
+    {
+      "label": "Prvý nález (marec 1965)",
+      "value": "3 nákovy, dláto, 4 kováčske kliešte, 2 sekery, obsta, krojidlo, radlica, motyka, klčovnica a kúsky železa",
+      "icon": "custom"
+    },
+    {
+      "label": "Druhý nález (august 1965)",
+      "value": "sekera, obsta, krátka kosa a čiastočne spracovaná železná hrivna",
+      "icon": "custom"
+    },
+    {
+      "label": "Vršatecká sekera",
+      "value": "dĺžka 205 mm, šírka ostria 65 mm, kovaná z dvoch materiálov s rôznym obsahom uhlíka",
+      "icon": "shield"
+    },
+    {
+      "label": "Kováčske majstrovstvo",
+      "value": "kováč poznal metódu navárania tvrdšieho, na uhlík bohatšieho železa na ostrie nástrojov",
+      "icon": "star"
+    },
+    {
+      "label": "Zničená dielňa",
+      "value": "základy kováčskej dielne z konca 9. – začiatku 10. storočia zničil buldozér pri stavbe rekreačného strediska",
+      "icon": "building"
+    },
+    {
+      "label": "Nevyriešená záhada",
+      "value": "možná súvislosť s pokladom železných predmetov z hradiska v Pružine, len niekoľko kilometrov od Vršatca",
+      "icon": "map"
+    },
+    {
+      "label": "Chránené územie",
+      "value": "od roku 1970 je skalný útvar Vršatec chráneným prírodným výtvorom pre vzácnu vápnomilnú kvetenu",
+      "icon": "mountain"
+    }
+  ]
+}

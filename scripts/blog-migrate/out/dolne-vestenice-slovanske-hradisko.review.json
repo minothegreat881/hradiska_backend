@@ -1,0 +1,27 @@
+{
+  "slug": "dolne-vestenice-slovanske-hradisko",
+  "note": "FLAG-only nálezy z grammar-sk pass1 + pass2, nevyriešené, čakajú na rozhodnutie používateľa.",
+  "flags": [
+    {
+      "category": "RELATIVE_DATE",
+      "location": "blogPost.excerpt, blogPost.blocks[0] (prvý odsek) a blogPost.timeline[] (položka year:'posledné roky', title:'Objavenie hradiska archeológmi')",
+      "issue": "Fráza 'Pred niekoľkými rokmi archeológovia objavili...' (a zhodne timeline 'posledné roky') je relatívny dátum viazaný na dátum publikovania článku (2018) — časom zastará a číta sa nejednoznačne. V zdrojovom texte ani nikde inde v článku nie je uvedený konkrétny rok objavu hradiska.",
+      "action_taken": "Ponechané bez zásahu — agent nevymýšľa dátum, ktorý nie je v texte (§21.6 bod 1, memory 'agent-timeline-keyfacts-source-only').",
+      "decision_needed": "Dohľadať konkrétny rok objavu (ak je známy, napr. z dátumu publikovania blogu 2018 alebo z inej korešpondencie) a nahradiť 'pred niekoľkými rokmi'/'posledné roky' konkrétnym rokom, alebo ponechať ako je."
+    },
+    {
+      "category": "CERTAINTY_LOST",
+      "location": "blogPost.blocks[] (odsek 'Matej Ruttkay v knihe Bojná 2 uvádza...') vs. blogPost.timeline[] (položka year:'prelom 9. a 10. stor.', title:'Zánik hradiska')",
+      "issue": "Telo: 'Situácia by mohla naznačovať zánik hradiska na prelome 9. a 10. stor.' (modálne 'by mohla' — neistota). Timeline: 'Nálezová situácia (keramika, kovové predmety) naznačuje zánik hradiska na prelome 9. a 10. storočia.' (bez modálneho slova — vyznieva ako istota). Presne zodpovedá vzoru §21.5 CERTAINTY_LOST.",
+      "action_taken": "Ponechané bez zásahu — kategória je explicitne 'flag, neopravuj' (§21.5).",
+      "decision_needed": "Doplniť do timeline modálne oslabenie (napr. 'mohla by naznačovať' / 'zrejme naznačuje'), aby zodpovedalo miere istoty v tele."
+    },
+    {
+      "category": "BIBLIO_IN_BODY",
+      "location": "blogPost.blocks[] — posledný blok, plain content.rich-text s textom začínajúcim 'Literatúra' (2 bibliografické položky Ruttkay a Pieta)",
+      "issue": "Bibliografia je vložená ako obyčajný odsek v tele (s doslovnými zalomeniami riadkov \\n), nie ako content.sources komponent. blogPost.citations je prázdne pole ([]). Presne zodpovedá vzoru §21.5 BIBLIO_IN_BODY.",
+      "action_taken": "Ponechané štrukturálne nezmenené (mimo rozsahu gramatickej korektúry — reštruktúrovanie blocks[] nie je súčasť tejto úlohy). Iba mechanická typografia v texte (číselný rozsah rokov) bola opravená.",
+      "decision_needed": "Prekonvertovať tento blok na content.sources (+ naplniť top-level citations[]), podobne ako bolo urobené v drazovce."
+    }
+  ]
+}

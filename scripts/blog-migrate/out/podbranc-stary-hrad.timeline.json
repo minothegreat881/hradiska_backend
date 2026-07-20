@@ -1,0 +1,107 @@
+{
+  "_note": "Agent 1, overnight batch 13.7.2026",
+  "timeline": [
+    {
+      "year": "cca 2500 pred n. l.",
+      "title": "Najstaršie osídlenie (eneolit)",
+      "description": "Nositelia kultúry s kanelovanou keramikou (stredný eneolit) vyhľadávali a osídľovali vyvýšené polohy a zhruba 2500 rokov pred n. l. na nich stavali opevnené sídla.",
+      "type": "founding"
+    },
+    {
+      "year": "mladšia doba bronzová – staršia doba železná",
+      "title": "Nálezy z obdobia lužickej kultúry",
+      "description": "Ďalšie archeologické nálezy na hradisku pochádzajú z obdobia lužickej kultúry, teda z mladšej doby bronzovej až staršej doby železnej.",
+      "type": "event"
+    },
+    {
+      "year": "doba laténska a doba rímska",
+      "title": "Znovuosídlenie v keltskom a rímskom období",
+      "description": "Návršie hradiska bolo znovu osídlené v čase keltskej expanzie v strednej a neskoršej dobe laténskej, a tiež v dobe rímskej.",
+      "type": "event"
+    },
+    {
+      "year": "8. – 9. storočie",
+      "title": "Slovanské osídlenie",
+      "description": "Zo slovanského obdobia pochádzajú typické slovanské črepy a ostroha s háčikmi, datované do 8. a 9. storočia, teda do obdobia rozkvetu Nitrianskeho kniežatstva a následne Veľkej Moravy.",
+      "type": "event"
+    },
+    {
+      "year": "obdobie Veľkej Moravy",
+      "title": "Slovania obnovili hradisko a jeho opevnenie",
+      "description": "Slovania hradisko obnovili a zdokonalili aj jeho opevnenie; znovuvybudovanie hradiska v tomto období zrejme súvisí s jeho polohou nad cestou, ktorá Brezovským priesmykom prechádzala cez Malé Karpaty.",
+      "type": "construction"
+    },
+    {
+      "year": "po zániku Veľkej Moravy",
+      "title": "Hradisko naďalej obývané",
+      "description": "Hradisko existovalo i po zániku Veľkej Moravy; historik B. Varsik predpokladá, že bolo obývané až do vybudovania kamenného hradu Branč.",
+      "type": "event"
+    },
+    {
+      "year": "1913",
+      "title": "Prvý archeologický výskum – Štefan Janšák",
+      "description": "Hradisko ako prvý skúmal Štefan Janšák, a to už v roku 1913 – bolo to prvé hradisko, ktoré tento významný slovenský vedec skúmal. Objavili ho 6. augusta 1913 a za dva dni ho zovrubne preskúmali.",
+      "type": "discovery"
+    },
+    {
+      "year": "1946 – 1947",
+      "title": "Zisťovací výskum Štátneho archeologického ústavu",
+      "description": "Štátny archeologický ústav v Martine vykonal na lokalite zisťovací výskum pod vedením Vojtecha Budinského-Kričku, terénne práce viedol Viktor Šemmer.",
+      "type": "discovery"
+    },
+    {
+      "year": "1947",
+      "title": "Sondy na terasách a valoch",
+      "description": "Viktor Šemmer spolu so štyrmi robotníkmi vykopal štyri sondy na terasách a tromi sondami preskúmal valy hradiska.",
+      "type": "discovery"
+    },
+    {
+      "year": "12. storočie",
+      "title": "Zánik hradiska",
+      "description": "Po ukľudnení pomerov, ustálení hraníc a najmä po vybudovaní kamenného hradu na vedľajšom kopci hradisko stratilo svoj význam a v 12. storočí zaniklo.",
+      "type": "destruction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Nadmorská výška",
+      "value": "454 m n. m.",
+      "icon": "mountain"
+    },
+    {
+      "label": "Obvod valu",
+      "value": "1060 m (vyše 1 km)",
+      "icon": "shield"
+    },
+    {
+      "label": "Najväčšia šírka hradiska",
+      "value": "145 m",
+      "icon": "map"
+    },
+    {
+      "label": "Dĺžka hradiska",
+      "value": "takmer 500 m",
+      "icon": "map"
+    },
+    {
+      "label": "Počet nádvorí",
+      "value": "tri",
+      "icon": "building"
+    },
+    {
+      "label": "Prvý výskum",
+      "value": "Štefan Janšák, 1913",
+      "icon": "scroll"
+    },
+    {
+      "label": "Zisťovací výskum",
+      "value": "1946 – 1947 (V. Budinský-Krička, V. Šemmer)",
+      "icon": "scroll"
+    },
+    {
+      "label": "Zánik hradiska",
+      "value": "12. storočie",
+      "icon": "flag"
+    }
+  ]
+}

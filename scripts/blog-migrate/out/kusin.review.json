@@ -1,0 +1,17 @@
+{
+  "slug": "kusin",
+  "flags": [
+    {
+      "type": "MISSING_WORD",
+      "block": "8 (body) + timeline entry 'Slovanské osídlenie hradiska'",
+      "text": "možno rámcovo datovať do obdobia prelomu 9. a 10. storočia do začiatkov 11. storočia",
+      "issue": "Konštrukcia 'datovať do obdobia X do Y' (dve 'do' bez spájacieho 'od' medzi hranicami rozpätia) pôsobí ako chýbajúce slovo — očakávalo by sa 'od prelomu 9. a 10. storočia do začiatkov 11. storočia'. Vzor sa opakuje identicky 3× (telo blok 8, timeline popis, čiastočne aj keyFacts 'Datovanie osídlenia' ako skrátená fráza bez slovesa). Keďže ide o doslovný/takmer doslovný prevzatý text z odbornej state V. Budinského-Kričku (1983), nedopĺňané — mohlo by ísť o dobovú elipsu autora, nie chybu extrakcie. Ponechané, čaká na overenie proti originálnej publikácii."
+    },
+    {
+      "type": "AMBIGUOUS_WORD",
+      "block": "gallery",
+      "text": "Pohľad z vnútorného V valu na vonkajší nižšie",
+      "issue": "Osamotené veľké písmeno 'V' pred slovom 'valu' nemá jasný význam — v susednej popiske ('pokračujeme po S vale na V') sa písmená S/V používajú ako skratky svetových strán (sever/východ), čo by tu nedávalo zmysel ('vnútorného východ valu'). Mohlo by ísť o preklep/duplicitu ('vnútorného valu' bez 'V') alebo o označenie z pôdorysného plánu (Dr. Slivka). Neopravené, ponechané v pôvodnom znení."
+    }
+  ]
+}

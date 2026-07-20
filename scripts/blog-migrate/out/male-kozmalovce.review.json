@@ -1,0 +1,17 @@
+{
+  "slug": "male-kozmalovce",
+  "flags": [
+    {
+      "type": "EMPTY_COLON",
+      "location": "blocks[heading 'Foto Matúš Martinák:']",
+      "text": "Foto Matúš Martinák:",
+      "note": "Nadpis končí dvojbodkou bez nasledujúceho obsahu v blocks[] — pravdepodobne mal uvádzať fotogalériu, ktorá sa v tele nenachádza (obrázky sú len v gallery[]). Nezasahované, len na vedomie (potvrdený opakovaný vzor v korpuse, §21.5)."
+    },
+    {
+      "type": "UNCERTAIN_CITATION_OCR",
+      "location": "blocks[rich-text 'JANŠÁK, Š.: Staré osídlenie Slovenska...']",
+      "text": "In: Sbor, Muz. Slov. Spoloč, 25. Turčiansky Sv. Martin 1931",
+      "note": "Skratka 'Sbor, Muz. Slov. Spoloč,' pôsobí ako OCR artefakt skratky 'Sborník Muzeálnej slovenskej spoločnosti' — čiarky namiesto bodiek. Nezmenené, keďže ide o bibliografický záznam a úprava by mohla zmeniť zamýšľané skrátenie bez istoty o správnom tvare."
+    }
+  ]
+}

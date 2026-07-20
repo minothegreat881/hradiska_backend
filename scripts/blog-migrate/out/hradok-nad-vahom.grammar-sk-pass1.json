@@ -1,0 +1,30 @@
+{
+  "slug": "hradok-nad-vahom",
+  "note": "grammar-sk agent, prvý prechod (článok nikdy predtým nemal grammar-sk aplikovaný). §21.8 regresný test — obsahuje 2 známe vecné anomálie (165-1200 mm fyzikálne nemožné pre 'menšie' hrivny; 114+68=182≠247), ktoré sa NESMÚ ticho opraviť, iba nahlásiť. Žiadny quote-block/priamy citát v tele (nepriama reč 'Janšák uvádza, že...' bez úvodzoviek nie je chránená zóna podľa §21.3). Článok má $meta.sanityFlags:['zeroCitations'] — bibliografia existuje iba ako holé rich-text/heading bloky v tele (blocks 8-11), citations[]=[] a content.sources chýba úplne.",
+  "appliedFixes": [
+    { "rule": "A8 diakritika + A1 chýbajúca čiarka pred vzťažným zámenom (cross-field — excerpt mal starý/nesprávny tvar, telo už malo správny)", "before": "Severozápadná čast obce Hrádok v ktorej sa nachádza aj kostol", "after": "Severozápadná časť obce Hrádok, v ktorej sa nachádza aj kostol", "block": "excerpt", "note": "telo (blok 0) malo tvar už správny ('časť', čiarka pred 'v ktorej'); excerpt bol vygenerovaný samostatne a niesol starú/nesprávnu verziu — klasický §21.4 prípad." },
+    { "rule": "typografia (trailing whitespace ×3)", "block": "0, 1, 2" },
+    { "rule": "A1 nadbytočná čiarka (alebo spája rovnorodé členy)", "before": "či je umelé, alebo prirodzené", "after": "či je umelé alebo prirodzené", "block": 1 },
+    { "rule": "A2 pozícia zvratného sa (najčastejšia chyba korpusu) — potvrdené krížovo timeline popisom, ktorý už mal správne 'sa narazilo'", "before": "r. 1954 narazilo sa na sídliskovú vrstvu", "after": "r. 1954 sa narazilo na sídliskovú vrstvu", "block": 5 },
+    { "rule": "typografia (vnútorná konzistencia skratky storočia — inde v článku vždy 'storočia'/'storočie' celé)", "before": "datované do 9. stor.", "after": "datované do 9. storočia", "block": 5 },
+    { "rule": "typografia (cca bez bodky)", "before": "v hĺbke ca 100 cm", "after": "v hĺbke cca 100 cm", "block": 6 },
+    { "rule": "B typografia (rozsah storočí, chýbajúce medzery pri pomlčke)", "before": "navážkou z 13.-14. stor.", "after": "navážkou z 13. – 14. storočia", "block": 6, "note": "aj timeline.year + timeline.description (Stredoveká navážka nad depotom)" },
+    { "rule": "B typografia (číselný rozsah — LEN formát pomlčky, hodnoty 250/300 nezmenené)", "before": "250-300 mm", "after": "250 – 300 mm", "block": 6 },
+    { "rule": "B typografia (číselný rozsah — LEN formát pomlčky, hodnoty 165/1200 ZÁMERNE NEZMENENÉ, pozri review.json NUMBER_IMPOSSIBLE)", "before": "165-1200 mm", "after": "165 – 1200 mm", "block": 6 },
+    { "rule": "typografia (cca bez bodky)", "before": "vážil ca 65 kg", "after": "vážil cca 65 kg", "block": 6, "note": "aj keyFacts 'Hmotnosť depotu'" },
+    { "rule": "OCR artefakt (referenčný vzor §21.2: rozpálkovaný nadpis, letter-spacing)", "before": "L i t e r a t ú r a", "after": "Literatúra", "block": 8 },
+    { "rule": "A8 diakritika (skratka časopisu — Slovenská archeológia, porov. globálny slovník §21.1 A9)", "before": "Slov. Archeologia, 1961", "after": "Slov. Archeológia, 1961", "block": 10 },
+    { "rule": "B typografia (rozsah strán)", "before": "s. 415-418.", "after": "s. 415 – 418.", "block": 10 },
+    { "rule": "typografia (mechanické zlúčenie 2 bibliografických riadkov zlepených cez doslovné \\n znaky v heading bloku do čitateľného textu — bez odstránenia informácie)", "before": "VSNS, str. 84\\n \\n Foto 22.8.2013:\\n \\n ", "after": "VSNS, str. 84. Foto 22.8.2013:", "block": 11 }
+  ],
+  "reviewed_no_change": [
+    "Bloky 9-10 (Janšák 1930 citácia, Pleiner 1961 citácia) — 'Sborník' (Janšák) a 'hřivny' (Pleiner, skutočný český názov Pleinerovho článku z roku 1961) ponechané nedotknuté ako verbatim bibliografické tituly, rovnaký precedens ako 'Sborník MSS' v hradiste-pri-partizanskom.",
+    "'Nitrianskeho kniežatstva' — už správne veľké/malé písmená (adjektívum veľké, podstatné meno malé, vzor 'Uhorské kráľovstvo').",
+    "'kniežaťom Pribinom a Mojmírom' — inštrumentálna apozícia bez prídavného mena, pravidlo o rode slova 'knieža' (§21.9) sa netýka tohto tvaru."
+  ],
+  "flags": [
+    "NUMBER_IMPOSSIBLE: '68 menších exemplárov dlhých 165 – 1200 mm' — 1200 mm (1,2 m) je fyzicky nezmyselné pre 'menšie' hrivny, obzvlášť keď 'stredné' exempláre (114 ks) majú iba 250 – 300 mm. Iba typografia pomlčky opravená, hodnoty 165/1200 NEZMENENÉ.",
+    "NUMBER_MISMATCH: telo aj keyFacts ('Počet hrivien v depote': '247 kusov (114 stredných + 68 menších)') zhodne uvádzajú 114 + 68 = 182 ≠ 247. Nejde o cross-field nesúlad (obe polia sa zhodujú), ale o chybu v pôvodných zdrojových dátach — nezasahované.",
+    "STRUCTURAL/zeroCitations: článok má prázdne citations[] a chýbajúci content.sources blok, hoci telo obsahuje 3 bibliografické položky (Janšák 1930, Pleiner 1961, VSNS str. 84) ako holé rich-text/heading bloky. Toto je mimo úzkeho rozsahu gramatickej korektúry (vyžaduje rozhodnutie, ako VSNS rozpísať a ako rozdeliť blok 11 na samostatné citácie) — ponechané na Fázu 1/4 override, nie tichoticho doplnené."
+  ]
+}

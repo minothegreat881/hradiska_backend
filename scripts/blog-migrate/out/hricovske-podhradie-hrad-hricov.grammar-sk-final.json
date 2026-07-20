@@ -1,0 +1,39 @@
+{
+  "slug": "hricovske-podhradie-hrad-hricov",
+  "note": "grammar-sk pass1 (draft, out/hricov.grammar-sk-pass1.json) aplikovaný + pass2 cross-field konzistencia. UPOZORNENIE: out/hricovske-podhradie-hrad-hricov.intermediate.json v out/ neexistoval (chýbajúci súbor — pozri detail nižšie), preto bol rekonštruovaný z out/hricovske-podhradie-hrad-hricov.payload.json (posledný skutočne odoslaný upload payload, dryRun:false) a editovaný priamo v novo vytvorenom intermediate.json.",
+  "reconstruction_caveat": {
+    "issue": "Pôvodný out/hricovske-podhradie-hrad-hricov.intermediate.json sa v out/ nenašiel (na rozdiel od 96 ostatných článkov vrátane drazovce a gbelany). K dispozícii bol iba .payload.json (upload log), .grammar.json (staršia predchádzajúca korektúra pred grammar-sk), .timeline.json a .upload-log.json.",
+    "action_taken": "Zrekonštruovaný blogPost objekt z payload.data (zhodný s tým, čo je live v Strapi, keďže payload má dryRun:false). $meta je nový, so zreteľnou poznámkou o rekonštrukcii.",
+    "known_limitation": "coverImage/gallery zostávajú vo forme '<media-ref:N>' placeholderov (post-resolution tvar z uploadu), NIE v raw sourceUrl/fallbackUrl/blogger tvare ako ostatné intermediate.json súbory — pôvodné obrázkové metadáta sa nedali obnoviť bez re-behu extract.mjs na surovom feede (data/refugia12-hricov-mikov-kopec.single.json), čo je mimo rozsahu tejto gramatickej úlohy. category je tiež v post-resolution tvare (connect/documentId namiesto stringu), tags majú _resolve:'pending'. citations pole neexistovalo v payloade vôbec — založené ako nové prázdne pole a doplnené 2 položkami pri presune bibliografie (pozri nižšie).",
+    "recommendation": "Textové polia (title/excerpt/blocks/timeline/keyFacts/citations/content.sources) sú teraz gramaticky opravené a pripravené na PUT re-upload. Pred akýmkoľvek budúcim PUT je ale potrebné overiť/doplniť skutočné coverImage/gallery media objekty a category string zo živého Strapi záznamu (GET živý článok, §18.3), keďže tento reštruovaný súbor ich má len ako placeholdery."
+  },
+  "step1_criticalFixes_applied": [
+    "Blok 6 obsahoval bibliografiu (Jozef Moravčík, 2015) ZLEPENÚ s fotokreditom ('Foto (Ján Barčiak):') v jednom rich-text bloku; článok nemal vôbec content.sources sekciu. Vytvorená nová content.sources sekcia (a zodpovedajúce top-level citations[]) s 2 položkami: book (Moravčík) + attribution (Foto: Ján Barčiak, preformátované z '(Meno):' na 'Foto: Meno' — formátový, nie obsahový zásah, konzistentné s existujúcim vzorom 'Autor: Heretik' v iných článkoch). Blok 6 odstránený z tela."
+  ],
+  "step1_appliedFixes_applied": [
+    { "rule": "D globálny slovník (zjednotenie zloženého priezviska)", "before": "A. Petrovský - Šichman / A. Petrovský – Šichman / V. Budinskému – Kričkovi / V. Budinského - Kričku", "after": "jednotný spojovník bez medzier: A. Petrovský-Šichman / V. Budinskému-Kričkovi / V. Budinského-Kričku", "applied_to": ["block 0 (2×)", "block 3 (2×)", "block 4 (2×)"], "note": "'Mikov kopec – hradný vrch' v bloku 3 je INÁ pomlčka (apozícia, nie priezvisko) — výslovne nedotknutá" },
+    { "rule": "B typografia (chýbajúca medzera pred 'storočia')", "before": "20.storočia / 13.stor. / 10.stor.", "after": "20. storočia / 13. storočia / 10. storočia", "applied_to": ["block 0", "block 4 (3×)", "excerpt"] },
+    { "rule": "B typografia (číselné rozsahy storočí = en dash s medzerami)", "before": "10.-11.stor. a potom 12.-13.stor. / z 9.-10. stor. a potom z 10.-11.stor. / timeline '10.-11. a 12.-13. storočia'", "after": "10. – 11. storočia a potom 12. – 13. storočia. / z 9. – 10. storočia a potom z 10. – 11. storočia. / timeline '10. – 11. a 12. – 13. storočia.'", "applied_to": ["block 3", "timeline (1969)"], "note": "PASS2 OPRAVA NAVYŠE: pri mechanickej aplikácii en dash + medzery draftové 'before/after' vzory nechtiac zjedli koncovú vetnú bodku pred nasledujúcou veľkou vetou ('...storočia Medzi nálezmi' / '...storočia ' na konci bloku) — v pass 2 doplnené späť, inak by vznikla chýbajúca bodka medzi vetami (nová chyba)." },
+    { "rule": "A7 bohemizmus", "before": "omnoho staršie / omnoho skôr / omnoho neskôr", "after": "oveľa staršie / oveľa skôr / oveľa neskôr", "applied_to": ["block 0", "block 4 (2×)", "excerpt"] },
+    { "rule": "A5 slovosled + A1 chýbajúca čiarka", "before": "ktorý nesie názov aj Mikov kopec i v roku 1949", "after": "ktorý nesie aj názov Mikov kopec, i v roku 1949", "applied_to": ["block 0"] },
+    { "rule": "D cross-field (skratka vs. plný tvar)", "before": "Štefan Meliš z P. Bystrice", "after": "Štefan Meliš z Považskej Bystrice", "applied_to": ["block 0"] },
+    { "rule": "A8", "before": "dňa 25. 8. 1993, kedy sa skúmala", "after": "dňa 25. 8. 1993, keď sa skúmala", "applied_to": ["block 1"] },
+    { "rule": "B typografia (znak násobenia)", "before": "6 x 3,5 m", "after": "6 × 3,5 m", "applied_to": ["block 1"] },
+    { "rule": "A4 nekonzistentná deklinácia cudzieho mena", "before": "od Justus van der Nypoorta", "after": "od Justusa van der Nypoorta", "applied_to": ["caption a alt obrázku medirytiny"] },
+    { "rule": "B typografia (číselný rozsah)", "before": "v rokoch 1946-1947", "after": "v rokoch 1946 – 1947", "applied_to": ["block 4"] },
+    { "rule": "B typografia (nekonzistentná úvodzovka)", "before": "„Imramovec“", "after": "„Imramovec\"", "applied_to": ["block 4"] }
+  ],
+  "step2_crossfield_additions_beyond_draft": [
+    {
+      "rule": "B typografia (bibliografický oddeľovač podnadpisu, pri presune do sources)",
+      "before": "Hradiská - Svedkovia dávnych čias",
+      "after": "Hradiská — Svedkovia dávnych čias",
+      "applied_to": ["content.sources item Moravčík", "citations[] Moravčík"],
+      "reason": "rovnaký vzor ako pri drazovce — pri presune holej bibliografie z tela do Zdrojov aplikovaná typografická normalizácia pomlčky na em dash (podnadpis)."
+    }
+  ],
+  "step2_scan_result": "Plný sken keyFacts+timeline+excerpt+tags+title+blocks+citations: 0 zvyšných 'NN.storočia'/'NN.stor.' bez medzery, 0 nenormalizovaných číselných rozsahov, 0 nekonzistentných tvarov Petrovský-Šichman/Budinský-Krička, 0 bohemizmov (jedná sa/nakoľko), 0 zvyškov '6x3,5' ani ', kedy '.",
+  "flags_unresolved": [],
+  "protected_zone_verification": "Článok neobsahuje žiadny dobový priamy citát ani content.quote-block — žiadna chránená zóna.",
+  "upload_ready": "TEXT ÁNO (blocks/timeline/keyFacts/excerpt/citations gramaticky opravené a cross-field konzistentné) — ale POZOR, media/category/tags sú rekonštruované v post-resolution tvare (pozri reconstruction_caveat), NIE plne zhodné so vzorom ostatných *.intermediate.json súborov. Pred reálnym PUT re-uploadom treba najprv GET živého článku a doplniť skutočné media objekty podľa §18.3 postupu."
+}

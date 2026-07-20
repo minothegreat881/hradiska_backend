@@ -1,0 +1,44 @@
+{
+  "slug": "slovanske-hradiska-na-orave",
+  "note": "grammar-sk agent, prvý prechod (článok nikdy predtým nemal grammar-sk aplikovaný). Žiadne chránené zóny — celý článok je moderný autorský text (Orgoň) bez blockquote komponentov, bez dobových priamych citátov a bez nezatvorených „ úvodzoviek; jediný pramenný odkaz (Hulínek/Čajka 2004) je parafrázovaný, nie citovaný doslovne.",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "A3 zhoda podmet-prísudok (spec-literal príklad)", "before": "Halštatská doba, ako nazývame staršiu dobu železnú, bolo obdobie praveku 700 až 400 rokov pred Kristom.", "after": "Halštatská doba, ako nazývame staršiu dobu železnú, je obdobie praveku 700 až 400 rokov pred Kristom.", "block": 24 },
+    { "rule": "A4 pádová väzba — inštrumentál pri mennom prísudku (spec-literal príklad)", "before": "Základ valu bola roštovo-skriňová konštrukcia...", "after": "Základom valu bola roštovo-skriňová konštrukcia...", "block": 27 },
+    { "rule": "A1 vsuvka (spec-literal príklad tohto článku)", "before": "Ako som uviedol hradisko malo predovšetkým vojenský účel", "after": "Ako som uviedol, hradisko malo predovšetkým vojenský účel", "block": 30, "note": "presne ten istý príklad ako v MIGRATION.md §21.1" },
+    { "rule": "A1 čiarka pred vedľajšou vetou (chýbajúca prvá čiarka)", "before": "12. storočia predpokladáme, že...", "after": "12. storočia, predpokladáme, že...", "block": 5, "note": "aj chýbajúca koncová bodka na konci vety doplnená" },
+    { "rule": "A1 vsuvka — 'resp.' vložka", "before": "Oravská skupina resp. oravský typ bola lokálna skupina", "after": "Oravská skupina, resp. oravský typ, bola lokálna skupina", "block": 20 },
+    { "rule": "A1 nadbytočná čiarka (a spája rovnorodé členy, spec-literal výnimka)", "before": "Údolia rieky Orava, a jej postranných prítokov poskytovali...", "after": "Údolia rieky Orava a jej postranných prítokov poskytovali...", "block": 24 },
+    { "rule": "A1 nadbytočná čiarka (a spája rovnorodé členy, presne spec-literal príklad 'výhodné prechody a umožňovali')", "before": "najmä však výhodné prechody, a umožňovali komunikačné spojenie", "after": "najmä však výhodné prechody a umožňovali komunikačné spojenie", "block": 24 },
+    { "rule": "A7 bohemizmus (nakoľko->keďže)", "before": "..., nakoľko hrad Orava ešte neexistoval", "after": "..., keďže hrad Orava ešte neexistoval.", "block": 5 },
+    { "rule": "A8 vzťažná veta kedy->keď", "before": "v roku 1898, kedy bola nenávratne zničená", "after": "v roku 1898, keď bola nenávratne zničená", "block": 12 },
+    { "rule": "A8 diakritika (Podla->Podľa, spec-literal príklad)", "before": "Podla doterajšieho bádania", "after": "Podľa doterajšieho bádania", "block": 26 },
+    { "rule": "A8 diakritika (chýbajúce ť)", "before": "rieka Orava mohla ešte zaplavovat údolie", "after": "rieka Orava mohla ešte zaplavovať údolie", "block": 32 },
+    { "rule": "A8 diakritika (chýbajúci mäkčeň Velký->Veľký)", "before": "je Velký Bysterec", "after": "je Veľký Bysterec", "block": 8 },
+    { "rule": "A8 preklep (hlave->hlavne)", "before": "obydlia slúžili hlave ako ubytovne", "after": "obydlia slúžili hlavne ako ubytovne", "block": 30 },
+    { "rule": "A8 diakritika (prikrytámi->prikrytými)", "before": "uloženými v jamke alebo prikrytámi pieskovcovou doskou", "after": "uloženými v jamke alebo prikrytými pieskovcovou doskou", "block": 21 },
+    { "rule": "A8 pravopis (s->so pred spoluhláskovou skupinou)", "before": "v úzkom kontakte s susedným územím dnešného Poľska", "after": "v úzkom kontakte so susedným územím dnešného Poľska", "block": 21 },
+    { "rule": "A8 pravopisná konzistencia (dubovianského->dubovianskeho, zjednotené s blokom 26)", "before": "O histórii dubovianského hrádku vieme veľmi málo", "after": "O histórii dubovianskeho hrádku vieme veľmi málo", "block": 32 },
+    { "rule": "A9 malé písmená (slovanský ako prídavné meno mimo začiatku vety)", "before": "Téma Slovanských hradísk na Orave je podrobne spracovaná", "after": "Téma slovanských hradísk na Orave je podrobne spracovaná", "block": 33 },
+    { "rule": "A9 veľké písmená (vlastné meno)", "before": "Mezibrodie, Oravský podzámok, Sedliacka Dubová - Žiar", "after": "Mezibrodie, Oravský Podzámok, Sedliacka Dubová – Žiar", "block": 24, "note": "'Oravský podzámok' malým p nekonzistentné s 'Oravský Podzámok' použitým všade inde v článku; aj typografia pomlčky" },
+    { "rule": "A9 malé písmená konzistencia (Tupá Skala -> Tupá skala)", "before": "Najvýznamnejšie hradiská oravskej skupiny boli Tupá Skala", "after": "Najvýznamnejšie hradiská oravskej skupiny boli Tupá skala", "block": 21, "note": "zjednotené s dominantným tvarom 'Ostrá/Tupá skala' (malé s) použitým v excerpte, keyFacts, timeline aj zvyšku tela" },
+    { "rule": "B typografia (m2 -> m², oddeľovač tisícov)", "before": "s rozlohou 2500 m2.", "after": "s rozlohou 2 500 m².", "block": 4 },
+    { "rule": "B typografia (číselný rozsah desatinné číslo)", "before": "rozlohou približne 1,5-2 ha.", "after": "rozlohou približne 1,5 – 2 ha.", "block": 4 },
+    { "rule": "B typografia (číselné rozsahy nadmorských výšok, 6×)", "before": "490-1612 m / 465-650 m / 455-1224 m / 495-1224 m", "after": "490 – 1612 m / 465 – 650 m / 455 – 1224 m / 495 – 1224 m", "block": "2, 8, 13, 17" },
+    { "rule": "B typografia (rozsah storočí s bodkou)", "before": "z 8.-9. a 10.-12. stor.", "after": "z 8. – 9. a 10. – 12. stor.", "block": 13 },
+    { "rule": "B typografia (pomlčka apozícia/rozsah)", "before": "(železné predmety - zbrane, výstroj koňa)", "after": "(železné predmety – zbrane, výstroj koňa)", "block": 2 },
+    { "rule": "B typografia (medzery v číselnom odkaze)", "before": "(Pramene II 1992,18,19)", "after": "(Pramene II 1992, 18, 19)", "block": 13 },
+    { "rule": "B typografia (pomlčky v nadpisoch, 4×)", "before": "Vyšný Kubín-Ostrá Skala / Dolný Kubín- Veľký Bysterec-Trniny / Istebné - Hrádok / Oravský Podzámok-Hrad", "after": "Vyšný Kubín – Ostrá skala / Dolný Kubín – Veľký Bysterec-Trniny / Istebné – Hrádok / Oravský Podzámok – Hrad", "block": "0, 7, 11, 15", "note": "vnútorný spojovník v 'Bysterec-Trniny' ponechaný (jeden zložený názov lokality, nie apozícia dvoch názvov)" },
+    { "rule": "B typografia (chýbajúca medzera medzi vetami pri odkaze, zlepené slová)", "before": "lokalít Oravy - Ostrá skala nad Vyšným Kubínom- bola osídlená", "after": "lokalít Oravy – Ostrá skala nad Vyšným Kubínom – bola osídlená", "block": 1, "note": "text bol rozdelený na 3 uzly (text/link/text); medzi koncom odkazu a druhou pomlčkou chýbala medzera — mechanická oprava" },
+    { "rule": "D pravopisná konzistencia mena (Čaplovica -> Čaploviča)", "before": "(podľa P. Čaplovica)", "after": "(podľa P. Čaploviča)", "block": 28, "note": "genitív priezviska Čaplovič je 'Čaploviča' (zhoda s telom, blok 8: 'pod vedením P. Čaploviča'); aj gallery[] popisok" },
+    { "rule": "Title case (vetná veľkosť písmen v nadpise)", "before": "Slovanské Hradiská na Orave", "after": "Slovanské hradiská na Orave", "field": "title", "note": "slovenská konvencia je vetná veľkosť písmen (len prvé slovo veľké), nie anglická Title Case" }
+  ],
+  "reviewed_no_change": [
+    "Blok 24 — 'Význam týchto ciest reflektuje s hromadnými nálezmi bronzov z...' — pádová väzba 'reflektuje s' (inštrumentál) je podozrivá (očakávalo by sa 'odráža sa v' + lokál, alebo 'reflektuje' + akuzatív bez predložky), ale oprava by si vyžadovala zmenu slovesa/väzby nad rámec jednoduchej opravy pádovej koncovky (A4 príklady menia len koncovku, nie sloveso) — PONECHANÉ nedotknuté, nejde o jednoznačný mechanický zásah.",
+    "Blok 21 — 'Hradiská sa už stavali aj za pomoci kameňa, žili z remesla a chovu oviec a vykazujú náznaky vnútornej urbanizácie.' — podmet 'Hradiská' (opevnenia) gramaticky nemôže 'žiť z remesla a chovu oviec' ani 'vykazovať náznaky urbanizácie' vo vlastnom mene — ide zjavne o elidovaný podmet (obyvatelia hradísk), ale doplnenie chýbajúceho slova by bolo dopísanie vety nad rámec gramatickej korektúry — NAHLÁSENÉ ako flag namiesto opravy.",
+    "Sentence-initial 'Slovanský'/'Slovanské' v blokoch 4 a 8 ('Slovanský opevňovací systém...', 'Slovanské obyvateľstvo...') — veľké písmeno je correct, ide o začiatok vety, nie o chybu A9."
+  ],
+  "flags": [
+    "MISSING_WORD — Blok 21: 'Hradiská sa už stavali aj za pomoci kameňa, žili z remesla a chovu oviec a vykazujú náznaky vnútornej urbanizácie.' Podmet vety je 'Hradiská' (stavby), no predikáty 'žili', 'chovu oviec', 'vykazujú náznaky urbanizácie' dávajú zmysel len pri podmete 'obyvatelia/obyvateľstvo hradísk'. Pravdepodobne chýba slovo (napr. 'ich obyvatelia'), ale doplnenie by bolo vymyslenie textu — ponechané nedotknuté, nahlásené na rozhodnutie."
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 12 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "pred príchodom Maďarov",
+      "title": "Predpokladané slovanské hradisko",
+      "description": "Lokalita bola osídlená už pred založením hradu vojvodcom Boršom; sídlisko mohlo mať centrálne postavenie v rámci celej dolnopohronskej oblasti.",
+      "type": "founding"
+    },
+    {
+      "year": "9. – 10. storočie (ojedinele 7. – 8.)",
+      "title": "Slovanská keramika na Várheďi",
+      "description": "Výskum roku 1968 priniesol pomerne veľa slovanskej keramiky z tohto obdobia.",
+      "type": "event"
+    },
+    {
+      "year": "podľa Anonymovej kroniky",
+      "title": "Založenie hradu Boršom",
+      "description": "Uhorský kronikár Anonymus uvádza Starý Tekov ako miesto, kde Borš, jeden z vodcov Arpádovho vojska, údajne založil hrad, ktorý sa neskôr stal sídlom župy.",
+      "type": "founding"
+    },
+    {
+      "year": "11. storočie",
+      "title": "Vznik románskeho kostola",
+      "description": "V okolí kostola sa pochovávalo najneskôr od 11. storočia (doložené mincami z hrobov); murivo terajšieho kostola obsahuje zvyšky románskej stavby.",
+      "type": "construction"
+    },
+    {
+      "year": "1075",
+      "title": "Zakladacia listina hronskobeňadického opátstva",
+      "description": "Listina spomína obec Starý Tekov.",
+      "type": "event"
+    },
+    {
+      "year": "1206, 1240 – 1246",
+      "title": "Písomné zmienky o hrade",
+      "description": "Hrad sa spomína roku 1206 a v rokoch 1240 – 1246, s uvedenými županmi Geche a Verner.",
+      "type": "event"
+    },
+    {
+      "year": "1241 – 1242",
+      "title": "Tatársky vpád",
+      "description": "Hrad neposkytol dostatočné útočište ani mešťanom z podhradia; poškodila sa pri tom výsadná listina Starého Tekova.",
+      "type": "destruction"
+    },
+    {
+      "year": "1253",
+      "title": "Kráľ Belo IV. prepisuje listinu",
+      "description": "Kráľ Belo IV. konfirmoval a nanovo prepísal poškodenú výsadnú listinu Starého Tekova.",
+      "type": "event"
+    },
+    {
+      "year": "2. polovica 13. storočia",
+      "title": "Úpadok významu hradu",
+      "description": "Význam hradu začal upadať.",
+      "type": "destruction"
+    },
+    {
+      "year": "1320",
+      "title": "Presun sídla župy do Levíc",
+      "description": "Župan Imrich de Beche prenáša sídlo župy — novým centrom sa stáva hrad v neďalekých Leviciach.",
+      "type": "destruction"
+    },
+    {
+      "year": "1895",
+      "title": "Obhliadka ruín kláštorného kostola",
+      "description": "Maďarský historik P. Gerecze zaznamenal, že ruiny kostola s polygonálne uzavretým presbytériom (šírka 6,05 m) v juhozápadnej časti kopca ešte stáli.",
+      "type": "discovery"
+    },
+    {
+      "year": "1949, 1968",
+      "title": "Zisťovacie archeologické výskumy",
+      "description": "Výskumy priniesli dôležité poznatky o osídlení všetkých troch častí lokality (A. Habovštiak, P. Bednár).",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Trachytový kopec pôvodne obtekaný dvoma ramenami Hrona; vrcholová plošina v tvare nepravidelnej elipsy (650 × 100 – 135 m)",
+      "icon": "mountain"
+    },
+    {
+      "label": "Tri časti hradiska",
+      "value": "Severovýchodná (Várheď — hradný vrch), stredná (Tekovská ulica) a juhozápadná (Starý kostol) — každá s vlastným stredovekým vývinom",
+      "icon": "building"
+    },
+    {
+      "label": "Kamenný feudálny hrad",
+      "value": "Stál na východnej časti Várheďu, dnes úplne zaniknutý; opevnenie postupne palisáda → hradba z nasucho kladených kameňov",
+      "icon": "shield"
+    },
+    {
+      "label": "Dnešný stav Várheďu",
+      "value": "Od konca 18. storočia slúži ako cintorín, čo znemožnilo súvislejší archeologický výskum",
+      "icon": "scroll"
+    },
+    {
+      "label": "Románsky/gotický kostol",
+      "value": "Zvyšky románskeho muriva zo starostlivo opracovaných tufových kvádrov; terajší gotický kostol postavený v 14. storočí, prestavaný koncom 17. storočia",
+      "icon": "building"
+    },
+    {
+      "label": "Kláštorný kostol (juhozápad)",
+      "value": "Základy obdĺžnikovej stavby 4,3 × 5,5 m, presbytérium polygonálne uzavreté, 16 preskúmaných hrobov bez sprievodných nálezov",
+      "icon": "scroll"
+    },
+    {
+      "label": "Paralely",
+      "value": "Ako aj Bratislava, Nitra a Zemplín — komitátne hrady vznikli na miestach starších opevnených slovanských centier",
+      "icon": "star"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "pruzina-mesciska",
+  "flags": [
+    {
+      "type": "AMBIGUOUS_CONSTRUCTION",
+      "location": "blocks[33]",
+      "note": "\"chcel požiadať obyvateľov Pružiny, že ak na hradisku v minulosti našli zaujímavý predmet, nech sa mi ozvú na mail\" uses an ungrammatical \"že ak...nech\" construction where standard Slovak requires \"aby...ak\" (\"požiadať niekoho, aby...\"). Fixing requires restructuring clause order beyond a local swap, so left unchanged pending human decision on preferred phrasing."
+    },
+    {
+      "type": "OCR_ARTIFACT_LABELS",
+      "location": "blocks[9]-[30] (Martin Olšovský 1996 field report, quoted verbatim)",
+      "note": "Point-label markers like \"(1)\", \"(2)\"... and dash-bullet style (\"- obvod\", \"-nárazové\") are the report author's own idiosyncratic typing convention, inconsistently spaced. Left untouched as part of the protected verbatim quote per SS21.3 (no punctuation/orthography changes inside quoted primary sources)."
+    },
+    {
+      "type": "LIST_FORMATTING_LOST",
+      "location": "blocks[11]",
+      "note": "\"Cieľ: - Zameranie... - Zistenie...\" appears to be a bulleted list collapsed into a single paragraph during extraction. Structural, not a text/grammar fix -- flagged for possible future re-structuring into a proper list, out of scope for this pass."
+    }
+  ]
+}

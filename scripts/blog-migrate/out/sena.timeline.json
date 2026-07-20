@@ -1,0 +1,102 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 10 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "7. – 8. storočie (dolná hranica)",
+      "title": "Predpokladaný vznik Veľkého starého hradu",
+      "description": "Staroslovanský kmeňový hrad, stredisko širokého kraja; vznik hradu je kladený pred 10. storočie, keďže stále opevnené miesta vznikajú až pri trvalom usadení obyvateľstva.",
+      "type": "founding"
+    },
+    {
+      "year": "9. – začiatok 10. storočia (horná hranica)",
+      "title": "Obdobie fungovania hradiska",
+      "description": "Horná časová hranica založenia hradu — obdobie, kedy Starý veľký hrad ešte plnil funkciu centrálneho hradu širokého okolia.",
+      "type": "event"
+    },
+    {
+      "year": "po 1038 (smrť Štefana I.)",
+      "title": "Založenie Nového hradu v Abaujvári",
+      "description": "Nový hrad vznikol pred nástupom kráľa Samuela Abu na trón (1041 – 1044); Starý veľký hrad bol v tom čase už zrejme nevyužiteľný a z vojenského hľadiska zastaraný.",
+      "type": "event"
+    },
+    {
+      "year": "1041 – 1044",
+      "title": "Nový hrad preberá centrálnu funkciu",
+      "description": "Po vybudovaní Nového hradu (Abaujvár) sa stáva administratívnym a politickým strediskom župy namiesto Veľkého starého hradu.",
+      "type": "event"
+    },
+    {
+      "year": "1255",
+      "title": "Prvá písomná zmienka",
+      "description": "Kráľ Béla IV. daruje Senianom zem Čaňu (Chon); v darovacej listine sa pri opise hraníc spomína miesto zvané Ówár (Starý hrad).",
+      "type": "event"
+    },
+    {
+      "year": "1317",
+      "title": "Metácia hraníc Kechnec – Seňa",
+      "description": "Listina o vytýčení severných hraníc Kechneca spomína dolnú hranicu hradu zvaného Nagyowar (Veľký starý hrad).",
+      "type": "event"
+    },
+    {
+      "year": "1784",
+      "title": "Mapa Sene a okolia",
+      "description": "V Hadtörténeti múzeum (Vojenské historické múzeum) v Budapešti objavená mapa zobrazujúca valy Veľkého starého hradu v úplnosti.",
+      "type": "discovery"
+    },
+    {
+      "year": "1880 – 1891",
+      "title": "Zamerania valov",
+      "description": "Mapy G. Györffyho a M. Lamiovej zachytávajú valy v podobe lichobežníka — severná strana dlhá cca 670 m, vzdialenosť severojužných valov 870 m, južný val cca 450 m, šírka valov 9 – 10 m, výška 1 m.",
+      "type": "discovery"
+    },
+    {
+      "year": "1962",
+      "title": "Zničenie severnej časti valu",
+      "description": "Pri stavebných prácach bola severná časť valu roztlačená buldozérom; južná časť splynula s terénom v dôsledku obrábania pôdy.",
+      "type": "destruction"
+    },
+    {
+      "year": "1951",
+      "title": "Varsíkova lokalizácia hradu",
+      "description": "Branislav Varsík lokalizuje hrad na vyvýšenine medzi Belžanským potokom a riečkou Szartos — no archeologický prieskum na tomto mieste nenašiel žiadne stopy fortifikácie.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Katastrálne územie medzi Belžanským potokom a železničnou stanicou, južne od Košíc, pri slovensko-maďarskej hranici; maďarský názov Várhely (Hradová)",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozmery",
+      "value": "Predpokladaná dĺžka hradieb 2860 m, šírka múrov 9 – 10 m, výška odhadovaná na 4 – 5 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Konštrukcia",
+      "value": "Drevenohlinitá hradba bez kamenného čela (v okolí chýba stavebný kameň), pravdepodobne roštovej alebo komorovej konštrukcie",
+      "icon": "building"
+    },
+    {
+      "label": "Obranné prvky",
+      "value": "Priekopy napájané riečkou Szartos (východ) a Belžanským potokom (západ a juh); zo severu, kde priekopa nemohla byť napustená vodou, sa predpokladajú najsilnejšie hradby",
+      "icon": "shield"
+    },
+    {
+      "label": "Odhadovaný počet obyvateľov",
+      "value": "Asi 500 – 600 bojovníkov na obranu hradieb, s ďalšími ženami, deťmi a starcami spolu asi 2000 ľudí v čase ohrozenia",
+      "icon": "users"
+    },
+    {
+      "label": "Historické názvy",
+      "value": "Óvár a Nagyóvár (Starý hrad a Veľký starý hrad) v najstarších listinách; súvisiace katastrálne názvy Fidvár (Kechnec) a Sárvár (Gyňov)",
+      "icon": "crown"
+    },
+    {
+      "label": "Autor textu",
+      "value": "Štefan Kolivoško, zástupca riaditeľky Verejnej knižnice J. Bocatia v Košiciach; obrázky Ing. Peter Zdravecký",
+      "icon": "scroll"
+    }
+  ]
+}

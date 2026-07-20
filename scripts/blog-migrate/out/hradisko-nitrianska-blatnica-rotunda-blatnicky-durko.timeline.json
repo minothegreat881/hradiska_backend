@@ -1,0 +1,95 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 8 timeline + 8 keyFacts.",
+  "timeline": [
+    {
+      "year": "9. storočie",
+      "title": "Vznik staršieho dvorca",
+      "description": "Starší veľmožský dvorec pri Nitrianskej Blatnici vznikol v 9. storočí, čiastočne súčasne s dvorcom v Ducovom.",
+      "type": "founding"
+    },
+    {
+      "year": "doba Svätoplukova (9. storočie)",
+      "title": "Vybudovanie rotundy Blatnický Ďurko",
+      "description": "Rotunda so zhodnými rozmermi ako kostolík v Ducovom (vnútorný priemer 730 cm, hrúbka múrov 73 cm) — obe merané longobardskou stopou (36,5 cm), tak ako dvojapsidová rotunda v Mikulčiciach.",
+      "type": "construction"
+    },
+    {
+      "year": "10. – 11. storočie",
+      "title": "Vznik mladšieho, menšieho dvorca",
+      "description": "Druhý dvorec s plochou asi 3500 m² (oproti 9000 m² staršej fázy), zrejme s hospodárskou funkciou spojenou s ťažbou železnej rudy.",
+      "type": "construction"
+    },
+    {
+      "year": "11. storočie",
+      "title": "Zánik mladšieho dvorca, vznik malej osady",
+      "description": "Po zániku dvorca tu vznikla malá osada so zrubovými príbytkami, vonkajšími pecami a dechtárskymi jamami; okolo rotundy vznikol prikostolný cintorín.",
+      "type": "event"
+    },
+    {
+      "year": "1185",
+      "title": "Listina kráľa Bela III.",
+      "description": "Spomína Stojislava, ktorému kráľ za hrdinstvo v boji udelil matke do doživotného užívania majetky nazývané Sárfew (Blatnica).",
+      "type": "event"
+    },
+    {
+      "year": "polovica 13. storočia",
+      "title": "Zánik osady aj funkcie rotundy",
+      "description": "Zanikla aj pôvodná funkcia rotundy; približne v tom čase zaniklo aj niekoľko ďalších osád v okolí, ktorých polia zarástli lesom.",
+      "type": "destruction"
+    },
+    {
+      "year": "1530",
+      "title": "Obnova kostolíka Annou Thurzovou",
+      "description": "Kostolík dala z ruín znovu vystavať Anna Thurzová na pamiatku manžela Františka, ktorý padol pri Moháči.",
+      "type": "event"
+    },
+    {
+      "year": "1974, 1976 – 1980",
+      "title": "Archeologický výskum",
+      "description": "Terénne obhliadky a výskum potvrdili, že Kostol sv. Juraja vznikol už vo včasnom stredoveku, s rozmermi zhodnými s rotundou v Ducovom.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "6 km východne od dvorca v Ducovom, v lesnom pásme masívu Marhát vo výške 450 m n. m., takmer 5 km od Nitrianskej Blatnice",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rotunda Blatnický Ďurko",
+      "value": "Kruhová loď s podkovovitou apsidou, vnútorný priemer 730 cm, hrúbka múrov 73 cm — zhodné rozmery ako rotunda v Ducovom",
+      "icon": "building"
+    },
+    {
+      "label": "Dvorec — staršia fáza",
+      "value": "Nepravidelný kvadratický pôdorys obohnaný palisádami, plocha okolo 9000 m²",
+      "icon": "shield"
+    },
+    {
+      "label": "Dvorec — mladšia fáza",
+      "value": "Podstatne menšia, asi 3500 m², zrejme s hospodárskou funkciou (exploatácia blízkeho náleziska železnej rudy)",
+      "icon": "shield"
+    },
+    {
+      "label": "Cintorín pri rotunde",
+      "value": "Vyše 120 hrobov z 11. až polovice 13. storočia, výrazne prevažujú mužské kostry — svedčí o baníckej populácii",
+      "icon": "users"
+    },
+    {
+      "label": "Ťažba železnej rudy",
+      "value": "V lesnom pásme katastrov Nitrianskej Blatnice a Vozokán rad kutacích jám a píng, najväčšia s priemerom do 20 m a hĺbkou asi 8 m",
+      "icon": "mountain"
+    },
+    {
+      "label": "Výskumník",
+      "value": "Lokalitu skúmal Alexander Ruttkay — ten istý, ktorý skúmal aj Kostolec (Ducové)",
+      "icon": "scroll"
+    },
+    {
+      "label": "Dnes",
+      "value": "Tradičné pútnické miesto, na sv. Juraja sa v kostolíku ešte dnes slúži omša",
+      "icon": "star"
+    }
+  ]
+}

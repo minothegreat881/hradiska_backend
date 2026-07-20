@@ -1,0 +1,18 @@
+{
+  "slug": "slovanske-hradiska-v-rakusku-a",
+  "pass": "final (pass1 + pass2 cross-field)",
+  "summary": {
+    "correctionsApplied": 11,
+    "categories": {
+      "padove_vazby_bohemizmy": 3,
+      "tvaroslovie": 1,
+      "typografia": 5,
+      "interpunkcia": 1,
+      "velke_male_pismena": 1
+    },
+    "flagged": 3,
+    "crossFieldPropagationNoted": 1,
+    "crossFieldPropagationApplied": 0
+  },
+  "note": "Pass 1 detail v out/slovanske-hradiska-v-rakusku-a.grammar-sk-pass1.json. FLAG položky (3×, vrátane možnej stratenej číslovky a osirotenej bibliografie „Orgoň\") a cross-field cieľ mimo rozsahu (keyFacts[7], 1×) v out/slovanske-hradiska-v-rakusku-a.review.json. Žiadna cross-field propagácia do title/tags/excerpt nebola potrebná (excerpt je orezaný pred bodom prvej opravy; tags je prázdne pole; title bez zmeny). Rakúske/nemecké/české vlastné mená a citácie zámerne nedotknuté (§21.3 duch pravidla rozšírený na cudzojazyčné bibliografické záznamy)."
+}

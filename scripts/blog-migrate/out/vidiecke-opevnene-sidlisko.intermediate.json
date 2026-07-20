@@ -1,0 +1,106 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-vidiecke-opevnene-sidlisko.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1754100820768732932",
+    "bloggerPostUrl": "http://www.hradiska.sk/2015/01/vidiecke-opevnene-sidlisko.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1754100820768732932/comments/default",
+    "extractedAt": "2026-07-16T21:57:49.307Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Vidiecke opevnené sídlisko",
+    "slug": "vidiecke-opevnene-sidlisko",
+    "excerpt": "Náš spolupracovník Peter Bros nakreslil ďalší zaujímavý pohľad do života našich slovanských predkov. Nie je na ňom zobrazené žiadne konkrétne hradisko, ale jeho konfigurácia nie je ničím výnimočným v hornatých častiach Slovenska. Kresba zobrazuje…",
+    "authorName": "Peter Bros",
+    "publishedAt": "2015-01-26T14:13:00.003+01:00",
+    "originalPublishedDate": "2015-01-26T14:13:00.003+01:00",
+    "updatedAt": "2015-01-26T14:13:48.447+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfVprX1tnRK9HzqWkFLZapVk8PAwEagBKLdMx-iEX1iOVg65coNysgtgKqxMm74C7_fH7UcbsF8wVOatm6f8cm-A1M-RHkOGFJe92gWOEp_vps4-YBaZOKlJofw1XJ6IXHs6okKW4B5HI/s0/Bros+-+hradisko+mal%C3%A1+br%C3%A1na.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfVprX1tnRK9HzqWkFLZapVk8PAwEagBKLdMx-iEX1iOVg65coNysgtgKqxMm74C7_fH7UcbsF8wVOatm6f8cm-A1M-RHkOGFJe92gWOEp_vps4-YBaZOKlJofw1XJ6IXHs6okKW4B5HI/s1600/Bros+-+hradisko+mal%C3%A1+br%C3%A1na.jpg",
+        "filename": "Bros+-+hradisko+malá+brána.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfVprX1tnRK9HzqWkFLZapVk8PAwEagBKLdMx-iEX1iOVg65coNysgtgKqxMm74C7_fH7UcbsF8wVOatm6f8cm-A1M-RHkOGFJe92gWOEp_vps4-YBaZOKlJofw1XJ6IXHs6okKW4B5HI/s1600/Bros+-+hradisko+mal%C3%A1+br%C3%A1na.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 189,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": ["3D rekonštrukcia", "vidiecke hradisko", "kresba"],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Obdobie",
+        "value": "8. – 11. storočie",
+        "icon": "calendar"
+      },
+      {
+        "label": "Typ sídliska",
+        "value": "vidiecke opevnené sídlisko",
+        "icon": "shield"
+      }
+    ],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Náš spolupracovník Peter Bros nakreslil ďalší zaujímavý pohľad do života našich slovanských predkov. Nie je na ňom zobrazené žiadne konkrétne hradisko, ale jeho konfigurácia nie je ničím výnimočným v hornatých častiach Slovenska. Kresba zobrazuje bežný život na hradisku v období 8. – 11. storočia. V dolnej časti je sústredené bežné obyvateľstvo a je pomerne jednoducho opevnená, horná časť slúžila ozbrojenej zložke a zároveň plnila úlohu varty a v prípade ohrozenia aj refugiálnu funkciu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ďakujeme."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

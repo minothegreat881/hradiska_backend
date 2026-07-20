@@ -1,0 +1,23 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Hľadajte na hradiskách poklady' (2017-01). FLAG: blok [17] = sploštený zoznam lokalít bez zalomení (zlepené slová) — na ručnú úpravu.",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "s detektromi kovov",
+      "after": "s detektormi kovov",
+      "reason": "preklep detektromi→detektormi (A8)"
+    },
+    {
+      "hint": 1,
+      "before": "Avšak málo kto vie",
+      "after": "Avšak málokto vie",
+      "reason": "málo kto→málokto (A8)"
+    },
+    {
+      "hint": 1,
+      "before": "drobných \"pokladov\"",
+      "after": "drobných „pokladov“",
+      "reason": "slovenské úvodzovky (B)"
+    }
+  ]
+}

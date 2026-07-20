@@ -1,0 +1,10 @@
+{
+  "slug": "pov-bystrica-dedovec-opevnene-sidlisko",
+  "flags": [
+    {
+      "type": "MINOR_NOTE",
+      "location": "blocks[10] (Remeselníci)",
+      "note": "Formátovací \"bold\" flag na hranici slova \"skalpela\" (rozdelené na dva text-uzly) je pravdepodobne artefakt extrakcie z pôvodného HTML formátovania, nie textová chyba — ponechané nedotknuté."
+    }
+  ]
+}

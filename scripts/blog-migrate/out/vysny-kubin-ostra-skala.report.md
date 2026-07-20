@@ -7,11 +7,11 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.65% vs originál (gramaticky opravené slová vyňaté: 1) — zvyšné mimo: spracoval, orgoň, lit (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (8) ⊆ galéria (22) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 11, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 7 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 8 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 5 položiek |
+| sources (zdroje) | 1 → 4 položiek |
 
 ## Obrázky
 - **galéria:** 22 (9 s popisom)
@@ -50,10 +50,24 @@
   - Zdroj: Spracoval Orgoň, podľa Pavla Čaploviča
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 7**
+  - interpunkcia (čiarky/bodky): 3
+  - chýbajúce medzery: 2
+  - iné: 2
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `Kelti (resp.presnejšie ľud` → `Kelti (resp. presnejšie ľud` | chýbajúca medzera |
+| 2 | undefined | `prisypané prevažne zemou . Tento` → `prisypané prevažne zemou. Tento` | medzera pred bodkou |
+| 3 | undefined | `drevenou komorovou konštrukciou . Sídliskové` → `drevenou komorovou konštrukciou. Sídliskové` | medzera pred bodkou |
+| 4 | undefined | `tri zlaté smince -statéry ktoré sa tu našli` → `tri zlaté mince - statéry, ktoré sa tu našli` | preklep (smince->mince), medzery pri pomlčke, chýbajúca čiarka |
+| 5 | undefined | `termín 220 ± 45 n. 1., čo približne` → `termín 220 ± 45 n. l., čo približne` | OCR zámena l/1 v skratke n. l. |
+| 6 | undefined | `do Panónie (173 — 180 n. 1.)` → `do Panónie (173 — 180 n. l.)` | OCR zámena l/1 v skratke n. l. |
+| 7 | undefined | `opäť v 9. storočí n.l. naši` → `opäť v 9. storočí n. l. naši` | chýbajúca medzera |
 
 ## Ostatné
 - **komentáre:** 0
-- **text tela:** 9742 znakov (1442 slov)
+- **text tela:** 9743 znakov (1443 slov)
+- **pokrytie textu vs originál:** 99.65% (mimo: spracoval, orgoň, lit)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

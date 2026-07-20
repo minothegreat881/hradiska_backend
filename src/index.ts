@@ -42,7 +42,19 @@ export default {
    * An asynchronous register function that runs before
    * your application is initialized.
    */
-  register(/* { strapi }: { strapi: Core.Strapi } */) {},
+  register(/* { strapi }: { strapi: Core.Strapi } */) {
+    // Windows dev env: multer's temp-file cleanup after /api/upload occasionally hits
+    // EBUSY (antivirus/OS briefly locks the temp file), which throws as an unhandled
+    // rejection and kills the whole process. The upload itself already succeeded by
+    // that point, so treat this specific case as non-fatal instead of crashing.
+    process.on('unhandledRejection', (err: any) => {
+      if (err && err.code === 'EBUSY') {
+        console.warn(`⚠️  Ignoring transient EBUSY during temp-file cleanup: ${err.path}`);
+        return;
+      }
+      throw err;
+    });
+  },
 
   /**
    * An asynchronous bootstrap function that runs before

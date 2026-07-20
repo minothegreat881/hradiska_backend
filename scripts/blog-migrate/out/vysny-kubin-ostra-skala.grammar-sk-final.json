@@ -1,0 +1,22 @@
+{
+  "slug": "vysny-kubin-ostra-skala",
+  "note": "grammar-sk pass 2 — cross-field konzistencia (§21.4). Mapa {before -> after} z pass 1 prehnaná cez timeline[], keyFacts[], excerpt, media captions/alt, title, tags.",
+  "crossFieldChecked": ["excerpt", "keyFacts[]", "timeline[].year", "timeline[].title", "timeline[].description", "title", "tags", "media alt/caption", "content.sources", "citations"],
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "D cross-field (title ALL-CAPS artefakt -> tags aj 4× alt textov, doslovné kópie title)", "field": "tags[0], 4× image-block.alt", "before": "Vyšný Kubín - OSTRÁ SKALA (a variant s koncovou medzerou)", "after": "Vyšný Kubín – Ostrá skala", "note": "vykonané súčasne v pass 1 jedným replace_all + jedným samostatným Editom pre tags." },
+    { "rule": "D cross-field (2500 m² -> 2 500 m², telo aj keyFacts mali rovnaký chýbajúci tisícový oddeľovač)", "field": "keyFacts[2].value (Opevnenie)", "before": "s plochou 2500 m²", "after": "s plochou 2 500 m²" },
+    { "rule": "D cross-field (70±55 zosúladené s už správnym tvarom '70 ± 55 n. l.' v timeline[3].year)", "field": "žiadna zmena v timeline (bol už správny), telo zosúladené v pass 1", "before": "-", "after": "-" },
+    { "rule": "D cross-field (173 — 180 zosúladené s už správnym tvarom '173 – 180 n. l.' v timeline[5].year)", "field": "žiadna zmena v timeline (bol už správny), telo zosúladené v pass 1", "before": "-", "after": "-" },
+    { "rule": "D cross-field (1,5-2 ha zosúladené s už správnym tvarom '1,5 – 2 ha' v keyFacts[5] Rozloha slovanského hradiska)", "field": "žiadna zmena v keyFacts (bol už správny), telo zosúladené v pass 1", "before": "-", "after": "-" }
+  ],
+  "reviewed_no_change": [
+    "excerpt — zhoduje sa doslovne s prvou vetou blocku 0 ('Významným keltským a neskôr slovanským hradiskom...'), v tejto vete neboli žiadne gramatické opravy v pass 1, preto excerpt nezmenený.",
+    "timeline[] — všetkých 11 položiek prekontrolovaných; žiadny ďalší stale tvar mimo už uvedených troch (70±55, 173—180, 1,5-2 ha) nenájdený — timeline bol vo väčšine číselných/typografických detailov už v cieľovom tvare a slúžil ako referencia pre opravu tela.",
+    "keyFacts[] — všetkých 7 položiek prekontrolovaných; jediný nález bol '2500 m²' (opravené), zvyšok bol už konzistentný s opraveným telom.",
+    "location.name — mimo rozsahu §21.4 zoznamu polí, zámerne nezmenené (pozri pass1 reviewed_no_change)."
+  ],
+  "flags": [],
+  "uploadReady": true,
+  "verifiedJsonValid": true
+}

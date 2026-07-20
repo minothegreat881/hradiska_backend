@@ -1,0 +1,107 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 10 timeline + 8 keyFacts.",
+  "timeline": [
+    {
+      "year": "koniec 6. storočia",
+      "title": "Príchod západoslovanských kmeňov",
+      "description": "Lužičania, Lutici, Bodrci, Pomorania a Ránovia osídlili východ, sever a severozápad dnešného Nemecka po odchode germánskych kmeňov.",
+      "type": "founding"
+    },
+    {
+      "year": "okolo 880",
+      "title": "Založenie hradiska Raddusch",
+      "description": "Oválne hradisko na brehu Bischdorfského jazera v Dolnej Lužici, so stenami širokými 10 m a dvoma tunelovými bránami.",
+      "type": "construction"
+    },
+    {
+      "year": "2. polovica 9. storočia",
+      "title": "Staršia fáza hradiska Gross Raden",
+      "description": "Významné hradisko a svätyňa kmeňa Warnovov na polostrove pri jazere Binnensee; o niekoľko desaťročí zničené.",
+      "type": "construction"
+    },
+    {
+      "year": "okolo 900",
+      "title": "Zničenie osídlenia Gross Raden",
+      "description": "Osídlenie aj svätyňa zničené požiarom; príčina nie je doložená písomnými prameňmi. Rýchlo obnovené s väčšími domami a presunutou svätyňou.",
+      "type": "destruction"
+    },
+    {
+      "year": "925 – 950",
+      "title": "Postupné prestavby hradiska Raddusch",
+      "description": "Opevnenie bolo dvakrát renovované, pričom vnútorná plocha sa postupne zmenšovala z 35 – 36 m na 28 m v priemere.",
+      "type": "construction"
+    },
+    {
+      "year": "928",
+      "title": "Obliehanie Brandenburgu an der Havel",
+      "description": "Sídelné hradisko hevelanských kniežat obliehal nemecký kráľ Henrich I.",
+      "type": "event"
+    },
+    {
+      "year": "963",
+      "title": "Dobytie Lužice markgrófom Gerom",
+      "description": "Znamenalo koniec hradiska Raddusch, ktoré ostalo opustené a postupne chátralo.",
+      "type": "destruction"
+    },
+    {
+      "year": "koniec 10. storočia",
+      "title": "Definitívne opustenie Gross Radenu",
+      "description": "Osada bola druhýkrát zničená a definitívne opustená, pravdepodobne v súvislosti s ťažením Ota III. proti mecklenburským Slovanom v roku 995.",
+      "type": "destruction"
+    },
+    {
+      "year": "1150 – 1165",
+      "title": "Zánik hradiska Brandenburg",
+      "description": "Po smrti kniežaťa Pribislava-Henricha (1150) hradisko získal Albrecht Medveď (definitívne 1157); v roku 1165 na jeho mieste postavili kresťanský dóm.",
+      "type": "destruction"
+    },
+    {
+      "year": "1984 – 1989",
+      "title": "Archeologický výskum Raddusch",
+      "description": "Preukázal osídlenie lokality už na konci doby bronzovej a v období sťahovania národov; hradisko dnes zrekonštruované do slovanskej podoby.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Gross Raden",
+      "value": "Hradisko a svätyňa Warnovov pri jazere Binnensee, kruhová drevozemná hradba s priemerom 50 m; dnes archeoskanzen (rekonštrukcia 1987)",
+      "icon": "shield"
+    },
+    {
+      "label": "Raddusch",
+      "value": "Oválne hradisko Lužičanov medzi Lübbenau a Cottbus, dnes zrekonštruované do podoby spred 1000 rokov",
+      "icon": "building"
+    },
+    {
+      "label": "Arkona",
+      "value": "Najznámejšie slovanské hradisko v Nemecku, na ostrove Rujana (Rujana), sídlo kultu Svantovíta",
+      "icon": "crown"
+    },
+    {
+      "label": "Torgelow",
+      "value": "Zrekonštruovaná slovanská dedina z 9. – 10. storočia v Ukranenlande, s replikami lodí Svarog (1997) a Svantovit (1998)",
+      "icon": "star"
+    },
+    {
+      "label": "Köpenick",
+      "value": "Hradný ostrov v Berlíne, centrum kmeňa Sprevanov; knieža Jaxa z Köpenicku porazil roku 1157 Albrechta Medveďa, hradisko dobyté najneskôr 1178",
+      "icon": "crown"
+    },
+    {
+      "label": "Spandau",
+      "value": "Hradisko Hevelanov pri ústí Sprévy, rozkvet od konca 10. do polovice 12. storočia, zaniklo po dobytí Albrechtom Medveďom (1157)",
+      "icon": "building"
+    },
+    {
+      "label": "Behren-Lübchin",
+      "value": "Ostrovné hradisko Čerezpänov spomínané u Saxa Grammatica (1171), jedno z posledných odolávajúcich nemeckej a kresťanskej expanzii",
+      "icon": "shield"
+    },
+    {
+      "label": "Stargrad (Oldenburg)",
+      "value": "Hlavné mesto kmeňa Vagrov, sídlo kniežaťa a svätyňa; dnes rekonštrukcia v múzeu Oldenburger Wallmuseum",
+      "icon": "mountain"
+    }
+  ]
+}

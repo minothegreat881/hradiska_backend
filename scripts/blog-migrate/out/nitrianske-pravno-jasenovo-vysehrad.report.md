@@ -1,17 +1,17 @@
 # Migračný report — Nitrianske Pravno/Jasenovo - Vyšehrad
 
 - **slug:** `nitrianske-pravno-jasenovo-vysehrad` · **documentId:** `yipqxoxauoqce1rjvce93s4f` · **publikované:** ✅
-- **kategória:** Mocenské centrá · **tagy:** Nitrianske Pravno - Vyšehrad · **lokalita:** Nitrianske Pravno - Vyšehrad (Slovensko)
+- **kategória:** Kniežacie sídla · **tagy:** Nitrianske Pravno - Vyšehrad · **lokalita:** Nitrianske Pravno - Vyšehrad (Slovensko)
 
 ## ✅ Integrita a úplnosť
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 100.00% vs originál (gramaticky opravené slová vyňaté: 3) — nič nechýba ✅
 - ✅ Obrázky evidované: telo (16) ⊆ galéria (30) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 10, keyFacts 8
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 4 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -50,10 +50,22 @@
   - Výskumníci: K. A. Medvecký (prvý výskum), Š. Janšák (opis a zameranie, 1928), Marta Remiášová (systematický výskum, 70. roky 20. storočia)
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 4**
+  - chýbajúce medzery: 1
+  - iné: 1
+  - interpunkcia (čiarky/bodky): 1
+  - preklepy: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `Vyšehradebez obáv` → `Vyšehrade bez obáv` | chýbajúca medzera |
+| 2 | undefined | `tvorili vyšehradská hradnú obec` → `tvorili vyšehradskú hradnú obec` | akuzatív po tvorili |
+| 3 | undefined | `Vyšehradskej) :` → `Vyšehradskej):` | medzera pred dvojbodkou |
+| 4 | undefined | `Vyšehrad: Cenrálne hradisko?` → `Vyšehrad: Centrálne hradisko?` | preklep |
 
 ## Ostatné
 - **komentáre:** 3
 - **text tela:** 18943 znakov (2939 slov)
+- **pokrytie textu vs originál:** 100.00% ✅
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

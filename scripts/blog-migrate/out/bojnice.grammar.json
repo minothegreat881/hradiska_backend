@@ -1,0 +1,39 @@
+{
+  "slug": "bojnice-hradisko-a-centrum-dechtarstva-v-slovanskom-obdobi",
+  "appliedFixes": [
+    { "id": "01", "type": "rozpor+duplicita", "note": "Zjednotená spomienka na dechtárske pece v dubnickom chotári v bloku 17 (60. roky -> 50. roky 20. storočia), odstránená duplicitná veta v bloku 19." },
+    { "id": "02", "type": "duplicita+zlé umiestnenie", "note": "Odstránená duplicitná Bialeková z tela (bloky 25 a 28), presunutá jediná kópia do Zdrojov a literatúry." },
+    { "id": "03", "type": "nečitateľné", "note": "Opravená OCR-poškodená citácia Šaurová (Zkoum.n. -> Zkoumání, výrobn.ch -> výrobních, technologi. -> technológií) a presunutá do Zdrojov." },
+    { "id": "04", "type": "stratené odkazy", "note": "Prepoštská jaskyňa: odkaz presunutý zo surovej URL na text 'Prepoštskej jaskyne'. CEA odkaz už bol funkčný, netreba opravovať." },
+    { "id": "05", "type": "metadáta", "note": "authorName: Unknown -> Orgon." },
+    { "id": "06", "type": "gramatika", "note": "Opravený zmenený podmet v bloku 11 (traktorista Galanský -> pluh traktoristu Galanského)." },
+    { "id": "07", "type": "gramatika", "note": "Opravená pozícia zvratného 'sa' na 6 miestach (bloky 4x2, 11, 22x3)." },
+    { "id": "08", "type": "väzba", "note": "o priemeru -> s priemerom (blok 11), zároveň zjednotený dash." },
+    { "id": "09", "type": "väzba", "note": "Netýka sa tohto článku (poznámka odkazuje na Šarišské Sokolovce)." },
+    { "id": "10", "type": "gramatika+štylistika", "note": "Pozícia 'sa' opravená, žiaducich -> žiadaných (blok 11)." },
+    { "id": "11", "type": "interpunkcia+štylistika", "note": "Pridaná čiarka pred 'aké', najskôr z dreva -> zrejme z dreva (blok 22)." },
+    { "id": "12", "type": "štylistika", "note": "zberanie -> zbieranie (blok 13)." },
+    { "id": "13", "type": "rozpor", "note": "Odstránená protirečiaca veta 'Jamy v polohe Zadné lány a práve tak i v polohe Vrábecké boli do výroby zapojené naraz.' (blok 13)." },
+    { "id": "14", "type": "štylistika", "note": "popudom pre bližšie povšimnutie si -> podnetom na bližšie preskúmanie (blok 15)." },
+    { "id": "15", "type": "štylistika", "note": "došiel k záverom -> dospel k záverom (blok 15)." },
+    { "id": "16", "type": "typografia", "note": "Rímske číslice nahradené arabskými (bloky 3, 15x2, 24), zjednotený dash aj pri už-arabskej '9.-10. storočia' v bloku 4." },
+    { "id": "17", "type": "typografia", "note": "3x4 m -> 3 × 4 m opravené v tele (blok 1) aj v Kľúčových faktoch." },
+    { "id": "18", "type": "typografia", "note": "Em dash bez medzier a spojovníky v rozsahoch nahradené en dashom s medzerami (bloky 7, 11, 22x4)." },
+    { "id": "19", "type": "typografia", "note": "Kľúčové fakty: 110-140 cm a 120-500 °C opravené na en dash s medzerami." },
+    { "id": "20", "type": "vecné", "note": "Ján František Pálfy -> Ján Pálffy (blok 0 aj excerpt)." },
+    { "id": "21", "type": "cross-article", "note": "Zjednotené na 'Zoborská listina z roku 1113' na oboch miestach v bloku 7." },
+    { "id": "22", "type": "typografia", "note": "Nemecké úvodzovky a trojbodie nahradené slovenskými úvodzovkami a znakom elipsy v bloku 7." },
+    { "id": "23", "type": "štylistika", "note": "Vyriešené v rámci opravy #01 (celá veta prepísaná)." },
+    { "id": "24", "type": "štylistika", "note": "snáď -> azda (blok 24)." },
+    { "id": "25", "type": "štylistika+nesúlad s KF", "note": "Sú to nesporne objekty jedinečné svojho druhu u nás. -> Sú to objekty svojho druhu jedinečné na Slovensku. (blok 10)." },
+    { "id": "26", "type": "duplicita", "note": "Blok 19 skrátený, ponechaná len jedinečná informácia o využití dechtu/dreveného uhlia (zvyšok duplikoval blok 17)." }
+  ],
+  "structural": [
+    "Presunuté 3 bibliografické položky (Bialeková 1989, Bialeková 1962, Šaurová 1982) z tela článku do sekcie Zdroje a literatúra ako prvé 3 položky (bez URL).",
+    "Odstránené bloky 25, 26, 28, 29 (rozhádzaná/duplicitná literatúra v tele).",
+    "Obrázok sokoliara (pôvodne blok 27) presunutý bezprostredne pred sekciu Zdroje a literatúra.",
+    "authorName zmenené z Unknown na Orgon.",
+    "Opravený aj excerpt (perex) článku — rovnaké chyby ako v prvom odseku tela (surová URL, Ján František Pálfy).",
+    "Timeline (dodatočná oprava po upozornení používateľa): 8.-9./9.-10. storočie -> en dash s medzerami (v roku aj v popise), 1241-1242 -> en dash, VIII. a IX. storočí -> 8. a 9. storočí, listine zoborského opátstva -> Zoborskej listine, nemecké úvodzovky a trojbodie -> slovenské úvodzovky a elipsa."
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "flags": [
+    {
+      "block": 3,
+      "type": "COMMA_SPLICE",
+      "text": "...v ktorom sa pamiatka nachádza, vykrádaním sa oberáme o dôležité informácie...",
+      "note": "Dve hlavné vety spojené iba čiarkou (bez spojky). Ponechané ako list-item štýl autora; kandidát na bodku/pomlčku. Neopravené (nezasahovať do štýlu bez schválenia)."
+    },
+    {
+      "block": 7,
+      "type": "MISSING_WORD",
+      "text": "-pamiatkam, ktoré sú tisíce rokov ukryté v zemi, je najlepšie pod zemou",
+      "note": "Veta pôsobí useknuto — chýba sloveso (napr. 'je najlepšie ponechať ich pod zemou'). Nedopisujem (§21.6)."
+    }
+  ]
+}

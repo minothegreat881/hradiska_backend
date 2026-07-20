@@ -1,0 +1,12 @@
+{
+  "slug": "slovanske-hradiska-v-nemecku",
+  "flags": [
+    {
+      "type": "POSSIBLE_MISSING_URL",
+      "location": "content.sources.items (posledná položka) + citations[] (zrkadlová položka)",
+      "text": "Podrobnejšie informácie, ako aj nespočetné množstvo ďalších hradísk nájdete na stránke, len je potrebná znalosť nemčiny.",
+      "issue": "Medzera pred pôvodnou čiarkou ('na stránke , len') naznačovala, že tam mohla byť plánovaná ďalšia URL (odkaz na 'stránku'), ktorá sa pri extrakcii stratila. V Zdrojoch sú dostupné 2 URL (leva-net.webnode.cz a slawenburgen.npage.de) — nie je isté, ktorá z nich (ak vôbec) mala byť na tomto mieste odkazovaná.",
+      "action": "NEOPRAVENÉ obsahovo — doplnená iba typografická oprava (odstránená nadbytočná medzera pred čiarkou, 'najdete' -> 'nájdete'). Žiadna URL nedopĺňaná bez overenia."
+    }
+  ]
+}

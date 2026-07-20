@@ -1,0 +1,716 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-prasnik-tlsta-hora.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8401639037501545140",
+    "bloggerPostUrl": "http://www.hradiska.sk/2017/07/prasnik-tlsta-hora.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/8401639037501545140/comments/default",
+    "extractedAt": "2026-07-15T22:20:22.483Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5113.865174336175!2d17.682434340752746!3d48.645206620080145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ssk!2ssk!4v1500060303458"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 22,
+      "captionedImages": 12,
+      "separatorImages": 10
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "longRichText"
+    ]
+  },
+  "blogPost": {
+    "title": "Prašník - Tlstá hora",
+    "slug": "prasnik-tlsta-hora",
+    "excerpt": "Obec Prašník je našim čitateľom známa zaujímavým ale už čiastočne zničeným slovanským hradiskom nad Osadou u Fajnorov. Obec sa rozprestiera v blízkosti starého priesmyku cez Malé Karpaty z Trnavskej pahorkatiny na opačnú stranu pohoria. Spomenutý…",
+    "authorName": "Orgoň",
+    "publishedAt": "2017-07-14T22:16:00.004+02:00",
+    "originalPublishedDate": "2017-07-14T22:16:00.004+02:00",
+    "updatedAt": "2026-03-19T13:56:54.268+01:00",
+    "readingTime": 6,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLUNdb2c1saReNXzrsTbzpCNFUbTRpujhxc3EDbL3WUIowLS-gN9nVPGi_7myLRgqWDbuPUFZsI-f-fiAGCNFZ1a450D4gCGJIKC1z9zDpYek4-D2ZQrgTl1NwN6gNK7nZdh6h34Nu52fLb2oLNiAVydCxY_3hOaK6GnVUEqcYwQLZQzUjQ-qBZgZ0VQ/s0/LIDAR.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLUNdb2c1saReNXzrsTbzpCNFUbTRpujhxc3EDbL3WUIowLS-gN9nVPGi_7myLRgqWDbuPUFZsI-f-fiAGCNFZ1a450D4gCGJIKC1z9zDpYek4-D2ZQrgTl1NwN6gNK7nZdh6h34Nu52fLb2oLNiAVydCxY_3hOaK6GnVUEqcYwQLZQzUjQ-qBZgZ0VQ/s1600/LIDAR.jpg",
+      "filename": "LIDAR.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLUNdb2c1saReNXzrsTbzpCNFUbTRpujhxc3EDbL3WUIowLS-gN9nVPGi_7myLRgqWDbuPUFZsI-f-fiAGCNFZ1a450D4gCGJIKC1z9zDpYek4-D2ZQrgTl1NwN6gNK7nZdh6h34Nu52fLb2oLNiAVydCxY_3hOaK6GnVUEqcYwQLZQzUjQ-qBZgZ0VQ/s958/LIDAR.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 266,
+        "originalWidth": 958,
+        "originalHeight": 796
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLUNdb2c1saReNXzrsTbzpCNFUbTRpujhxc3EDbL3WUIowLS-gN9nVPGi_7myLRgqWDbuPUFZsI-f-fiAGCNFZ1a450D4gCGJIKC1z9zDpYek4-D2ZQrgTl1NwN6gNK7nZdh6h34Nu52fLb2oLNiAVydCxY_3hOaK6GnVUEqcYwQLZQzUjQ-qBZgZ0VQ/s0/LIDAR.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLUNdb2c1saReNXzrsTbzpCNFUbTRpujhxc3EDbL3WUIowLS-gN9nVPGi_7myLRgqWDbuPUFZsI-f-fiAGCNFZ1a450D4gCGJIKC1z9zDpYek4-D2ZQrgTl1NwN6gNK7nZdh6h34Nu52fLb2oLNiAVydCxY_3hOaK6GnVUEqcYwQLZQzUjQ-qBZgZ0VQ/s1600/LIDAR.jpg",
+        "filename": "LIDAR.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLUNdb2c1saReNXzrsTbzpCNFUbTRpujhxc3EDbL3WUIowLS-gN9nVPGi_7myLRgqWDbuPUFZsI-f-fiAGCNFZ1a450D4gCGJIKC1z9zDpYek4-D2ZQrgTl1NwN6gNK7nZdh6h34Nu52fLb2oLNiAVydCxY_3hOaK6GnVUEqcYwQLZQzUjQ-qBZgZ0VQ/s958/LIDAR.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 266,
+          "originalWidth": 958,
+          "originalHeight": 796
+        },
+        "caption": "Tlstá hora na LIDARovom mapovaní"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLYm0DF9z4Cs2gUyWVvT7RExX0JVLjjWF3URVXr4qYk4w3-xv7bQNg0YfKylC5KgObuXOreYe2YgvmOHyN_9wFZ6z1GI3u8QLqqgwBoguWOlTaM5dBEGUsWxMcW_zhs6Bzwlu_KfQtiGXX/s0/Depot+na%25CC%2581krc%25CC%258Cni%25CC%2581ky+%2528Bartik+Farkas%25CC%258C%2529+.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLYm0DF9z4Cs2gUyWVvT7RExX0JVLjjWF3URVXr4qYk4w3-xv7bQNg0YfKylC5KgObuXOreYe2YgvmOHyN_9wFZ6z1GI3u8QLqqgwBoguWOlTaM5dBEGUsWxMcW_zhs6Bzwlu_KfQtiGXX/s1600/Depot+na%25CC%2581krc%25CC%258Cni%25CC%2581ky+%2528Bartik+Farkas%25CC%258C%2529+.jpg",
+        "filename": "Depot+na%CC%81krc%CC%8Cni%CC%81ky+%28Bartik+Farkas%CC%8C%29+.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLYm0DF9z4Cs2gUyWVvT7RExX0JVLjjWF3URVXr4qYk4w3-xv7bQNg0YfKylC5KgObuXOreYe2YgvmOHyN_9wFZ6z1GI3u8QLqqgwBoguWOlTaM5dBEGUsWxMcW_zhs6Bzwlu_KfQtiGXX/s1034/Depot+na%25CC%2581krc%25CC%258Cni%25CC%2581ky+%2528Bartik+Farkas%25CC%258C%2529+.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 1034,
+          "originalHeight": 792
+        },
+        "caption": "Depot bronzových nákrčníkov z hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMnMxromaCHbdsIzK-TtYA6tRLg6szl-3IhXsW2ZNZpZpJnI9LevSE9ws5QtCi1s-bVs2WwL5LVH_SYpxb61l-afbJ1-pjnmFVujoZdMfU2XFuNWMFPj0z1XRi1j_id1EdD0f_GDHWogn/s0/Kolnik+SZ+33.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMnMxromaCHbdsIzK-TtYA6tRLg6szl-3IhXsW2ZNZpZpJnI9LevSE9ws5QtCi1s-bVs2WwL5LVH_SYpxb61l-afbJ1-pjnmFVujoZdMfU2XFuNWMFPj0z1XRi1j_id1EdD0f_GDHWogn/s1600/Kolnik+SZ+33.jpg",
+        "filename": "Kolnik+SZ+33.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMnMxromaCHbdsIzK-TtYA6tRLg6szl-3IhXsW2ZNZpZpJnI9LevSE9ws5QtCi1s-bVs2WwL5LVH_SYpxb61l-afbJ1-pjnmFVujoZdMfU2XFuNWMFPj0z1XRi1j_id1EdD0f_GDHWogn/s848/Kolnik+SZ+33.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 757,
+          "originalHeight": 848
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnljEdvv0aPlvxJ8ItMYhzL1opIHkAcWoSczs4QKwYJvxD-bpnQnvhH5RSak0FsxtyoXYXn6CM4Owz6jL6QAdCgUlUs_BBV3_UgvJFTvflHZkrTL8lwtMySZXmj-7sR92Y_S6fYUBUfPe/s0/Kolnik+SZ+33+-+2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnljEdvv0aPlvxJ8ItMYhzL1opIHkAcWoSczs4QKwYJvxD-bpnQnvhH5RSak0FsxtyoXYXn6CM4Owz6jL6QAdCgUlUs_BBV3_UgvJFTvflHZkrTL8lwtMySZXmj-7sR92Y_S6fYUBUfPe/s1600/Kolnik+SZ+33+-+2.jpg",
+        "filename": "Kolnik+SZ+33+-+2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKnljEdvv0aPlvxJ8ItMYhzL1opIHkAcWoSczs4QKwYJvxD-bpnQnvhH5RSak0FsxtyoXYXn6CM4Owz6jL6QAdCgUlUs_BBV3_UgvJFTvflHZkrTL8lwtMySZXmj-7sR92Y_S6fYUBUfPe/s716/Kolnik+SZ+33+-+2.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 652,
+          "originalHeight": 716
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9yRqbPd4M0awHy_s-4dMQvUndSGlwZlUYF5d5UtDTNOIZ9CIY2XBwOkfUGHa3AK52Ls4jEo3QMRU23zf9P0RjIVk-sKYC-JnJfHN1bcu9bGBRcVdIQbuN_eZ8dONdCQBCdQgYGkGicdc/s0/DOC110717-11072017081320.1-page-001.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9yRqbPd4M0awHy_s-4dMQvUndSGlwZlUYF5d5UtDTNOIZ9CIY2XBwOkfUGHa3AK52Ls4jEo3QMRU23zf9P0RjIVk-sKYC-JnJfHN1bcu9bGBRcVdIQbuN_eZ8dONdCQBCdQgYGkGicdc/s1600/DOC110717-11072017081320.1-page-001.jpg",
+        "filename": "DOC110717-11072017081320.1-page-001.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9yRqbPd4M0awHy_s-4dMQvUndSGlwZlUYF5d5UtDTNOIZ9CIY2XBwOkfUGHa3AK52Ls4jEo3QMRU23zf9P0RjIVk-sKYC-JnJfHN1bcu9bGBRcVdIQbuN_eZ8dONdCQBCdQgYGkGicdc/s1600/DOC110717-11072017081320.1-page-001.jpg",
+          "displayedWidth": 226,
+          "displayedHeight": 320,
+          "originalWidth": 1132,
+          "originalHeight": 1600
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9IcCTg7xgfnnyKjWw3Ftt43bjY_e9qUXKJObZS20KRDShreeIzMSjoOALbxX4_eOWzozgCuktC9eiROjr-XPQpKa5z6-KxkKy-9hIp2UekNRri5a3_t1sbjlA5MYfNO0Ti0XOMzuOm68/s0/DOC110717-11072017081320.3-page-001.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9IcCTg7xgfnnyKjWw3Ftt43bjY_e9qUXKJObZS20KRDShreeIzMSjoOALbxX4_eOWzozgCuktC9eiROjr-XPQpKa5z6-KxkKy-9hIp2UekNRri5a3_t1sbjlA5MYfNO0Ti0XOMzuOm68/s1600/DOC110717-11072017081320.3-page-001.jpg",
+        "filename": "DOC110717-11072017081320.3-page-001.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9IcCTg7xgfnnyKjWw3Ftt43bjY_e9qUXKJObZS20KRDShreeIzMSjoOALbxX4_eOWzozgCuktC9eiROjr-XPQpKa5z6-KxkKy-9hIp2UekNRri5a3_t1sbjlA5MYfNO0Ti0XOMzuOm68/s1600/DOC110717-11072017081320.3-page-001.jpg",
+          "displayedWidth": 226,
+          "displayedHeight": 320,
+          "originalWidth": 1132,
+          "originalHeight": 1600
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia98xUU_LdmvAwgXbkwhn20pUU2mOec-VAE0EVP29doS0IWWaFAkHlVzNF-Lsr-nFPJr2_L1I6ECk7_slnajDZcjoZyClq9HKf3D16yPl-vXESqSNFCMkI9-ZwKQity6Tu7kqiNIH-KJw/s0/DOC110717-11072017081320.4-page-001.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia98xUU_LdmvAwgXbkwhn20pUU2mOec-VAE0EVP29doS0IWWaFAkHlVzNF-Lsr-nFPJr2_L1I6ECk7_slnajDZcjoZyClq9HKf3D16yPl-vXESqSNFCMkI9-ZwKQity6Tu7kqiNIH-KJw/s1600/DOC110717-11072017081320.4-page-001.jpg",
+        "filename": "DOC110717-11072017081320.4-page-001.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia98xUU_LdmvAwgXbkwhn20pUU2mOec-VAE0EVP29doS0IWWaFAkHlVzNF-Lsr-nFPJr2_L1I6ECk7_slnajDZcjoZyClq9HKf3D16yPl-vXESqSNFCMkI9-ZwKQity6Tu7kqiNIH-KJw/s1600/DOC110717-11072017081320.4-page-001.jpg",
+          "displayedWidth": 226,
+          "displayedHeight": 320,
+          "originalWidth": 1132,
+          "originalHeight": 1600
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrwL1sebcPNk5k1_vqmbFsYG-gxGLh_GKzRLrkZy2vCpbyXkDosoAkl56omrsN6NtVJoPTBY6Ot3ibOyuKVi6fQKEEDCNQAvMQmJUOfEVkunRMAgu_QWVFMjvA1hCEKn7eTgpEfnO_uaQ/s0/DOC110717-11072017081320.5-page-001.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrwL1sebcPNk5k1_vqmbFsYG-gxGLh_GKzRLrkZy2vCpbyXkDosoAkl56omrsN6NtVJoPTBY6Ot3ibOyuKVi6fQKEEDCNQAvMQmJUOfEVkunRMAgu_QWVFMjvA1hCEKn7eTgpEfnO_uaQ/s1600/DOC110717-11072017081320.5-page-001.jpg",
+        "filename": "DOC110717-11072017081320.5-page-001.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrwL1sebcPNk5k1_vqmbFsYG-gxGLh_GKzRLrkZy2vCpbyXkDosoAkl56omrsN6NtVJoPTBY6Ot3ibOyuKVi6fQKEEDCNQAvMQmJUOfEVkunRMAgu_QWVFMjvA1hCEKn7eTgpEfnO_uaQ/s1600/DOC110717-11072017081320.5-page-001.jpg",
+          "displayedWidth": 226,
+          "displayedHeight": 320,
+          "originalWidth": 1132,
+          "originalHeight": 1600
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiw6ik7M5becN87bTYCBOJlmaWiMvFBgdUJkg2RSxdzaxgS6CwlcTWNKYqbZx_usy3Js2u-9djzV8mZ_j0hABvNgQmq_6zW_fMsaPaKY7K_bluOSLkeARCM0CqPXrNXyZsIlCnsWkH7DYdQY315colvwF9iPnj5dLxhney40wS1jIQnZRtbhp-7DYyzFhI/s0/Sn%C3%ADmka%20obrazovky%202026-03-19%20134213.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiw6ik7M5becN87bTYCBOJlmaWiMvFBgdUJkg2RSxdzaxgS6CwlcTWNKYqbZx_usy3Js2u-9djzV8mZ_j0hABvNgQmq_6zW_fMsaPaKY7K_bluOSLkeARCM0CqPXrNXyZsIlCnsWkH7DYdQY315colvwF9iPnj5dLxhney40wS1jIQnZRtbhp-7DYyzFhI/s1600/Sn%C3%ADmka%20obrazovky%202026-03-19%20134213.jpg",
+        "filename": "Snímka obrazovky 2026-03-19 134213.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiw6ik7M5becN87bTYCBOJlmaWiMvFBgdUJkg2RSxdzaxgS6CwlcTWNKYqbZx_usy3Js2u-9djzV8mZ_j0hABvNgQmq_6zW_fMsaPaKY7K_bluOSLkeARCM0CqPXrNXyZsIlCnsWkH7DYdQY315colvwF9iPnj5dLxhney40wS1jIQnZRtbhp-7DYyzFhI/s645/Sn%C3%ADmka%20obrazovky%202026-03-19%20134213.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 290,
+          "originalWidth": 645,
+          "originalHeight": 585
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAPUP-yGubMlHk6kDiSA4UG-BgHkcBzrsbpiV2Lo9QTkbGpW1MNEYjFE60w-eYSRr-zEuh0cUNnOLygHy_QqgxVoBmvLcGY-vptRMXuz3O2bb3C9pzbnj54XehqzZw9vM6IAzXlfT8fp72_8EYkC4H9mazvlRmsM_4cL8of1DwRJ0Bv_emU-lDMElPii7C/s0/Sn%C3%ADmka%20obrazovky%202026-03-19%20134237.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAPUP-yGubMlHk6kDiSA4UG-BgHkcBzrsbpiV2Lo9QTkbGpW1MNEYjFE60w-eYSRr-zEuh0cUNnOLygHy_QqgxVoBmvLcGY-vptRMXuz3O2bb3C9pzbnj54XehqzZw9vM6IAzXlfT8fp72_8EYkC4H9mazvlRmsM_4cL8of1DwRJ0Bv_emU-lDMElPii7C/s1600/Sn%C3%ADmka%20obrazovky%202026-03-19%20134237.jpg",
+        "filename": "Snímka obrazovky 2026-03-19 134237.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAPUP-yGubMlHk6kDiSA4UG-BgHkcBzrsbpiV2Lo9QTkbGpW1MNEYjFE60w-eYSRr-zEuh0cUNnOLygHy_QqgxVoBmvLcGY-vptRMXuz3O2bb3C9pzbnj54XehqzZw9vM6IAzXlfT8fp72_8EYkC4H9mazvlRmsM_4cL8of1DwRJ0Bv_emU-lDMElPii7C/s436/Sn%C3%ADmka%20obrazovky%202026-03-19%20134237.jpg",
+          "displayedWidth": 278,
+          "displayedHeight": 320,
+          "originalWidth": 379,
+          "originalHeight": 436
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaZsFJycPI60TgGjMXEGqepPdWPrTRKV34_X4_ehGiCTV7sJyFl43cHkjWzVfTMtpGGGlP2KaplK-lmuL48nPgDYf1bgbTnjmRrCaFM4sTU9_yXjXE0x8cvMXaRqi1F7amyXfYbN5CJvAX67XwBx2k-XHTSbSslhQ5G6AiUhZTu14PF69Y-ox0FLL5LFAh/s0/Sn%C3%ADmka%20obrazovky%202026-03-19%20134126.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaZsFJycPI60TgGjMXEGqepPdWPrTRKV34_X4_ehGiCTV7sJyFl43cHkjWzVfTMtpGGGlP2KaplK-lmuL48nPgDYf1bgbTnjmRrCaFM4sTU9_yXjXE0x8cvMXaRqi1F7amyXfYbN5CJvAX67XwBx2k-XHTSbSslhQ5G6AiUhZTu14PF69Y-ox0FLL5LFAh/s1600/Sn%C3%ADmka%20obrazovky%202026-03-19%20134126.jpg",
+        "filename": "Snímka obrazovky 2026-03-19 134126.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaZsFJycPI60TgGjMXEGqepPdWPrTRKV34_X4_ehGiCTV7sJyFl43cHkjWzVfTMtpGGGlP2KaplK-lmuL48nPgDYf1bgbTnjmRrCaFM4sTU9_yXjXE0x8cvMXaRqi1F7amyXfYbN5CJvAX67XwBx2k-XHTSbSslhQ5G6AiUhZTu14PF69Y-ox0FLL5LFAh/s876/Sn%C3%ADmka%20obrazovky%202026-03-19%20134126.jpg",
+          "displayedWidth": 237,
+          "displayedHeight": 320,
+          "originalWidth": 650,
+          "originalHeight": 876
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxAAnDjmedg0aSWKv9QjCMXJPr2jK779cn809O4UoPlm9tUYQCQB1R5uJc7yPLVyP8wqVL6eLauuh0t6pZlHF5nrtpxfUK2QVz4iOF8K_ny2yvibfoI5GPU_DRtp3YpN8AENFyRjaQUqA/s0/Oblu%25CC%2581k+valu.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxAAnDjmedg0aSWKv9QjCMXJPr2jK779cn809O4UoPlm9tUYQCQB1R5uJc7yPLVyP8wqVL6eLauuh0t6pZlHF5nrtpxfUK2QVz4iOF8K_ny2yvibfoI5GPU_DRtp3YpN8AENFyRjaQUqA/s1600/Oblu%25CC%2581k+valu.JPG",
+        "filename": "Oblu%CC%81k+valu.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxAAnDjmedg0aSWKv9QjCMXJPr2jK779cn809O4UoPlm9tUYQCQB1R5uJc7yPLVyP8wqVL6eLauuh0t6pZlHF5nrtpxfUK2QVz4iOF8K_ny2yvibfoI5GPU_DRtp3YpN8AENFyRjaQUqA/s1600/Oblu%25CC%2581k+valu.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Oblúk valu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLgPhjEKh-hlyXU0KmmYIo7nLorVkZahrpLGaYqHiLgGQbEmFJrk8T6AhOKpg8tpcn3cI7fBZnY_wiewuDLhdwKdAar37o-qSjKfeu1WgS25zJcv1ezGJR4hIs-daiQQ9B-cewt-1IwzU/s0/Oznam.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLgPhjEKh-hlyXU0KmmYIo7nLorVkZahrpLGaYqHiLgGQbEmFJrk8T6AhOKpg8tpcn3cI7fBZnY_wiewuDLhdwKdAar37o-qSjKfeu1WgS25zJcv1ezGJR4hIs-daiQQ9B-cewt-1IwzU/s1600/Oznam.JPG",
+        "filename": "Oznam.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLgPhjEKh-hlyXU0KmmYIo7nLorVkZahrpLGaYqHiLgGQbEmFJrk8T6AhOKpg8tpcn3cI7fBZnY_wiewuDLhdwKdAar37o-qSjKfeu1WgS25zJcv1ezGJR4hIs-daiQQ9B-cewt-1IwzU/s1600/Oznam.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjle0zFdSu3t0NBLZqT4qfdegVtuUns1Yi3QJQlm9aJmYTkleujufKoh1iCRwMHARtJ82H5x3KhCJMjUGif3qPXqcYbt_8NiP17eWxZ8Lekc2r1XkpCZijeIzTPY15Cq9HIVibM3z6Ziz8/s0/Pouz%25CC%258Ci%25CC%2581vany%25CC%2581+vstup+do+hradiska+preti%25CC%2581naju%25CC%2581ci+val+1.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjle0zFdSu3t0NBLZqT4qfdegVtuUns1Yi3QJQlm9aJmYTkleujufKoh1iCRwMHARtJ82H5x3KhCJMjUGif3qPXqcYbt_8NiP17eWxZ8Lekc2r1XkpCZijeIzTPY15Cq9HIVibM3z6Ziz8/s1600/Pouz%25CC%258Ci%25CC%2581vany%25CC%2581+vstup+do+hradiska+preti%25CC%2581naju%25CC%2581ci+val+1.JPG",
+        "filename": "Pouz%CC%8Ci%CC%81vany%CC%81+vstup+do+hradiska+preti%CC%81naju%CC%81ci+val+1.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjle0zFdSu3t0NBLZqT4qfdegVtuUns1Yi3QJQlm9aJmYTkleujufKoh1iCRwMHARtJ82H5x3KhCJMjUGif3qPXqcYbt_8NiP17eWxZ8Lekc2r1XkpCZijeIzTPY15Cq9HIVibM3z6Ziz8/s1600/Pouz%25CC%258Ci%25CC%2581vany%25CC%2581+vstup+do+hradiska+preti%25CC%2581naju%25CC%2581ci+val+1.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Dnes používaný vstup na hradisko preťal pôvodný val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTpax6msRs94dp4_9NRAcqmfoTs9wJrfioCscV0iBMblsdJnnlrvjZbS0ZgvZtOzuwUCUtnHjxTO8TD2jzoaRi7J42lU1FiwdPgeiMOWE-trxZK0FD8UMn8DWjhjwteNyymDLJT-c8_nU/s0/Pouz%25CC%258Ci%25CC%2581vany%25CC%2581+vstup+do+hradiska+preti%25CC%2581naju%25CC%2581ci+val+2.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTpax6msRs94dp4_9NRAcqmfoTs9wJrfioCscV0iBMblsdJnnlrvjZbS0ZgvZtOzuwUCUtnHjxTO8TD2jzoaRi7J42lU1FiwdPgeiMOWE-trxZK0FD8UMn8DWjhjwteNyymDLJT-c8_nU/s1600/Pouz%25CC%258Ci%25CC%2581vany%25CC%2581+vstup+do+hradiska+preti%25CC%2581naju%25CC%2581ci+val+2.JPG",
+        "filename": "Pouz%CC%8Ci%CC%81vany%CC%81+vstup+do+hradiska+preti%CC%81naju%CC%81ci+val+2.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTpax6msRs94dp4_9NRAcqmfoTs9wJrfioCscV0iBMblsdJnnlrvjZbS0ZgvZtOzuwUCUtnHjxTO8TD2jzoaRi7J42lU1FiwdPgeiMOWE-trxZK0FD8UMn8DWjhjwteNyymDLJT-c8_nU/s1600/Pouz%25CC%258Ci%25CC%2581vany%25CC%2581+vstup+do+hradiska+preti%25CC%2581naju%25CC%2581ci+val+2.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Používaný vstup do hradiska pretínajúci val 2"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIU8u5zlhTOmNS06RTuSTfZcjuuZw9j29taFiHnIjh5GVyTjcJmcZrF18GQ5vVVgdrr10PfHdPIgW2rdJVdC9XoV5k6S6LXTl3zcYc0MF47Y04vUg8EfeSvioreq-MR24Ut1-fqOAB1J8/s0/Pretnutie+valu+starou+nepouz%25CC%258Ci%25CC%2581vanou+lesnou+cestou+pod+pouz%25CC%258Ci%25CC%2581vany%25CC%2581m+vstupom+do+hradiska.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIU8u5zlhTOmNS06RTuSTfZcjuuZw9j29taFiHnIjh5GVyTjcJmcZrF18GQ5vVVgdrr10PfHdPIgW2rdJVdC9XoV5k6S6LXTl3zcYc0MF47Y04vUg8EfeSvioreq-MR24Ut1-fqOAB1J8/s1600/Pretnutie+valu+starou+nepouz%25CC%258Ci%25CC%2581vanou+lesnou+cestou+pod+pouz%25CC%258Ci%25CC%2581vany%25CC%2581m+vstupom+do+hradiska.JPG",
+        "filename": "Pretnutie+valu+starou+nepouz%CC%8Ci%CC%81vanou+lesnou+cestou+pod+pouz%CC%8Ci%CC%81vany%CC%81m+vstupom+do+hradiska.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIU8u5zlhTOmNS06RTuSTfZcjuuZw9j29taFiHnIjh5GVyTjcJmcZrF18GQ5vVVgdrr10PfHdPIgW2rdJVdC9XoV5k6S6LXTl3zcYc0MF47Y04vUg8EfeSvioreq-MR24Ut1-fqOAB1J8/s1600/Pretnutie+valu+starou+nepouz%25CC%258Ci%25CC%2581vanou+lesnou+cestou+pod+pouz%25CC%258Ci%25CC%2581vany%25CC%2581m+vstupom+do+hradiska.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Pretnutie valu starou nepoužívanou lesnou cestou pod používaným vstupom do hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJmR4H6lDxS4dDjRTUmIdDpvFnF7kCg8D33TXcqEAuapUOrbFpim-h99NlqYFb7IeYvU8Gf_HKCTjXb379oRYDwY4iPRYpNB3usHCOeMH9vrxwO7ydCYEiuqy1XQh91mg1_AAmOTMn2og/s0/Pretnuty%25CC%2581+val+v+pouz%25CC%258Ci%25CC%2581vanom+vstupe+do+hradiska.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJmR4H6lDxS4dDjRTUmIdDpvFnF7kCg8D33TXcqEAuapUOrbFpim-h99NlqYFb7IeYvU8Gf_HKCTjXb379oRYDwY4iPRYpNB3usHCOeMH9vrxwO7ydCYEiuqy1XQh91mg1_AAmOTMn2og/s1600/Pretnuty%25CC%2581+val+v+pouz%25CC%258Ci%25CC%2581vanom+vstupe+do+hradiska.JPG",
+        "filename": "Pretnuty%CC%81+val+v+pouz%CC%8Ci%CC%81vanom+vstupe+do+hradiska.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJmR4H6lDxS4dDjRTUmIdDpvFnF7kCg8D33TXcqEAuapUOrbFpim-h99NlqYFb7IeYvU8Gf_HKCTjXb379oRYDwY4iPRYpNB3usHCOeMH9vrxwO7ydCYEiuqy1XQh91mg1_AAmOTMn2og/s1600/Pretnuty%25CC%2581+val+v+pouz%25CC%258Ci%25CC%2581vanom+vstupe+do+hradiska.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Pretnutý val v používanom vstupe do hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgER1RQ0Ezm088ZNCNoqDYovGeDS5vobY948819XJLYmjvrEqOHHTdi0QYzRSrTMNBUmNF80XhYFETduqdtsNxs3QGn2n0p9U7NtQYj_TGDRRoZpTu5llSy967r2ZU2ZPEF-hEV-S-2Wck/s0/Stu%25CC%2581panie+valu+k+dnes%25CC%258Cne%25CC%2581mu+vstupu+1.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgER1RQ0Ezm088ZNCNoqDYovGeDS5vobY948819XJLYmjvrEqOHHTdi0QYzRSrTMNBUmNF80XhYFETduqdtsNxs3QGn2n0p9U7NtQYj_TGDRRoZpTu5llSy967r2ZU2ZPEF-hEV-S-2Wck/s1600/Stu%25CC%2581panie+valu+k+dnes%25CC%258Cne%25CC%2581mu+vstupu+1.JPG",
+        "filename": "Stu%CC%81panie+valu+k+dnes%CC%8Cne%CC%81mu+vstupu+1.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgER1RQ0Ezm088ZNCNoqDYovGeDS5vobY948819XJLYmjvrEqOHHTdi0QYzRSrTMNBUmNF80XhYFETduqdtsNxs3QGn2n0p9U7NtQYj_TGDRRoZpTu5llSy967r2ZU2ZPEF-hEV-S-2Wck/s1600/Stu%25CC%2581panie+valu+k+dnes%25CC%258Cne%25CC%2581mu+vstupu+1.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Stúpanie valu k dnešnému vstupu 1"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCELuy54ObnNgib7BWF0HAYtj7w-zqzmQREVjTKcqmz6hD79jj5veCaR9Mncv9zA0wVqClTFpbeoZXoFvdsjz4eIW0lSFF3td4VemzMSGgeBM78qPgT781WyWoVVuD_S_YCFBjM751-A4/s0/Stu%25CC%2581panie+valu+k+dnes%25CC%258Cne%25CC%2581mu+vstupu+2.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCELuy54ObnNgib7BWF0HAYtj7w-zqzmQREVjTKcqmz6hD79jj5veCaR9Mncv9zA0wVqClTFpbeoZXoFvdsjz4eIW0lSFF3td4VemzMSGgeBM78qPgT781WyWoVVuD_S_YCFBjM751-A4/s1600/Stu%25CC%2581panie+valu+k+dnes%25CC%258Cne%25CC%2581mu+vstupu+2.JPG",
+        "filename": "Stu%CC%81panie+valu+k+dnes%CC%8Cne%CC%81mu+vstupu+2.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCELuy54ObnNgib7BWF0HAYtj7w-zqzmQREVjTKcqmz6hD79jj5veCaR9Mncv9zA0wVqClTFpbeoZXoFvdsjz4eIW0lSFF3td4VemzMSGgeBM78qPgT781WyWoVVuD_S_YCFBjM751-A4/s1600/Stu%25CC%2581panie+valu+k+dnes%25CC%258Cne%25CC%2581mu+vstupu+2.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Stúpanie valu k dnešnému vstupu2"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHVMmtc6MwYBtqB7KBDHCGaWXfYGMdUeYqGKccAcx2LEV69-i6N9CA6MY5JG0flFIbuK8J4EdVs__eQjpM23MqGQygdj5MASXKCPUsXaVa-GVt89iJplUVnzUJH2D8V-t8ZmWGfmPr0Ps/s0/Val+na+vy%25CC%2581chodnej+strane+so+zatoc%25CC%258Ceni%25CC%2581m+smerom+k+dnes%25CC%258Cne%25CC%2581mu+vstupu.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHVMmtc6MwYBtqB7KBDHCGaWXfYGMdUeYqGKccAcx2LEV69-i6N9CA6MY5JG0flFIbuK8J4EdVs__eQjpM23MqGQygdj5MASXKCPUsXaVa-GVt89iJplUVnzUJH2D8V-t8ZmWGfmPr0Ps/s1600/Val+na+vy%25CC%2581chodnej+strane+so+zatoc%25CC%258Ceni%25CC%2581m+smerom+k+dnes%25CC%258Cne%25CC%2581mu+vstupu.JPG",
+        "filename": "Val+na+vy%CC%81chodnej+strane+so+zatoc%CC%8Ceni%CC%81m+smerom+k+dnes%CC%8Cne%CC%81mu+vstupu.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHVMmtc6MwYBtqB7KBDHCGaWXfYGMdUeYqGKccAcx2LEV69-i6N9CA6MY5JG0flFIbuK8J4EdVs__eQjpM23MqGQygdj5MASXKCPUsXaVa-GVt89iJplUVnzUJH2D8V-t8ZmWGfmPr0Ps/s1600/Val+na+vy%25CC%2581chodnej+strane+so+zatoc%25CC%258Ceni%25CC%2581m+smerom+k+dnes%25CC%258Cne%25CC%2581mu+vstupu.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Val na východnej strane so zatočením smerom k dnešnému vstupu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE6H4y-eSUY5nR2Tmd9XuUyOzK6YVyudmKadiuKzNgS5pTS6RmX5mcZVzBU98-Ibwih1Q92KMdKenImuRRUfwMMjvF2_B8-t_MAQvr7PjWSdwrDHsqS4imUpuv5G7QAhM0m8u8q77oZfM/s0/Val+na+vy%25CC%2581chodnej+strane.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE6H4y-eSUY5nR2Tmd9XuUyOzK6YVyudmKadiuKzNgS5pTS6RmX5mcZVzBU98-Ibwih1Q92KMdKenImuRRUfwMMjvF2_B8-t_MAQvr7PjWSdwrDHsqS4imUpuv5G7QAhM0m8u8q77oZfM/s1600/Val+na+vy%25CC%2581chodnej+strane.JPG",
+        "filename": "Val+na+vy%CC%81chodnej+strane.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE6H4y-eSUY5nR2Tmd9XuUyOzK6YVyudmKadiuKzNgS5pTS6RmX5mcZVzBU98-Ibwih1Q92KMdKenImuRRUfwMMjvF2_B8-t_MAQvr7PjWSdwrDHsqS4imUpuv5G7QAhM0m8u8q77oZfM/s1600/Val+na+vy%25CC%2581chodnej+strane.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Val na východnej strane"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiByVa6TeveCKzbkDX6msTO6fdje_5YVUDtswzyJ9Kez76YXgU1vVx3z8_lHKv33_udXLIS_pBqOzjqZ3QeKhfytBqnt0IIRPQ2jKAu-qzXI2mKDpAsdj7wJRhm_pptN6XHoiQwe-5Y3pY/s0/Zac%25CC%258Ciatok+valu+na+vy%25CC%2581chodnej+strane.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiByVa6TeveCKzbkDX6msTO6fdje_5YVUDtswzyJ9Kez76YXgU1vVx3z8_lHKv33_udXLIS_pBqOzjqZ3QeKhfytBqnt0IIRPQ2jKAu-qzXI2mKDpAsdj7wJRhm_pptN6XHoiQwe-5Y3pY/s1600/Zac%25CC%258Ciatok+valu+na+vy%25CC%2581chodnej+strane.JPG",
+        "filename": "Zac%CC%8Ciatok+valu+na+vy%CC%81chodnej+strane.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiByVa6TeveCKzbkDX6msTO6fdje_5YVUDtswzyJ9Kez76YXgU1vVx3z8_lHKv33_udXLIS_pBqOzjqZ3QeKhfytBqnt0IIRPQ2jKAu-qzXI2mKDpAsdj7wJRhm_pptN6XHoiQwe-5Y3pY/s1600/Zac%25CC%258Ciatok+valu+na+vy%25CC%2581chodnej+strane.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Začiatok valu na východnej strane"
+      }
+    ],
+    "tags": [
+      "Prašník - Tlstá hora"
+    ],
+    "category": null,
+    "location": {
+      "name": "Prašník - Tlstá hora",
+      "latitude": 48.645206620080145,
+      "longitude": 17.682434340752746,
+      "region": null,
+      "country": null
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "kóta 426 m, 3,5 km východne od Prašníka, prevýšenie 226 m nad riečku Holešku",
+        "icon": "mountain"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "kamenná stena valu výšky asi 2,30 m, šírky komorovej konštrukcie asi 170 cm",
+        "icon": "shield"
+      },
+      {
+        "label": "Výnimočný nález",
+        "value": "včasnolaténska železná opasková zápona s výzdobou hlavy dravého vtáka a gryfov",
+        "icon": "star"
+      },
+      {
+        "label": "Ľudový názov",
+        "value": "niektorí hradisko nazývajú aj Babylon",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "staršia doba železná (halštatská)",
+        "title": "Vznik hradiska ľudu kalenderberskej kultúry",
+        "description": "Hradisko datujeme do staršej doby železnej; jeho budovateľom zrejme bol ľud kalenderberskej kultúry, ktorá sa na území Slovenska preslávila najmä hradiskom Molpír.",
+        "type": "founding"
+      },
+      {
+        "year": "prelom staršej a mladšej doby železnej",
+        "title": "Zánik osídlenia",
+        "description": "Osídlenie hradiska končí na prelome staršej a mladšej (laténskej) doby železnej.",
+        "type": "destruction"
+      },
+      {
+        "year": "80. roky 20. storočia",
+        "title": "Archeologický výskum Petra Nováka",
+        "description": "Výskum hradiska realizoval začiatkom 80. rokov pracovník Trnavského múzea Petr Novák, ktorý tu otvoril 10 sond.",
+        "type": "discovery"
+      },
+      {
+        "year": "2019",
+        "title": "Publikácia nálezu opaskovej zápony",
+        "description": "K. Pieta v roku 2019 publikoval nález a analýzu včasnolaténskej železnej opaskovej zápony s výzdobou v podobe gryfov a hlavy dravého vtáka.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Obec Prašník je našim čitateľom známa zaujímavým ale už čiastočne zničeným slovanským "
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/search/label/Pra%C5%A1n%C3%ADk%20-%20Osada%20u%20Fajnorov",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "hradiskom nad Osadou u Fajnorov."
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Obec sa rozprestiera v blízkosti starého priesmyku cez Malé Karpaty z Trnavskej pahorkatiny na opačnú stranu pohoria. Spomenutý Hrádok leží v tesnej blízkosti tohto priesmyku. V obci sa však vypína aj ďalšie, menej známe hradisko, vzdialené 3,5 km východne, a to na vrchole mohutného návršia, zvaného Tlstá hora, na kóte 426 m. Hradisko datujeme do mystického obdobia staršej doby železnej (halštatská doba) a jeho budovateľom zrejme bol ľud kalenderberskej kultúry, ktorá sa na území Slovenska preslávila najmä hradiskom Molpír so svojimi výnimočnými bronzovými a keramickými nálezmi, ako aj nádhernou maľovanou keramikou z kniežacích halštatských mohýl z Nových Košarísk. Osídlenie hradiska končí na prelome staršej a mladšej (laténskej) doby železnej. Niektorí ho nazývajú aj Babylon."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výskum hradiska realizoval začiatkom 80. rokov pracovník Trnavského múzea Petr Novák, ktorý tu otvoril 10 sond. Pokiaľ ide o vzhľad a umiestnenie hradiska, Novák píše, že k oválnej náhornej plošine, prevýšenej o 226 m nad riečku Holešku, pretekajúcu údolím, je opevnením pričlenená časť východného svahu s umelo upravenými terasami. Na severnom a západnom okraji hradiska sa opevnenie nezistilo, avšak strmé úbočia s vystupujúcimi skalami vápencového podložia aj s prípadnou drevenou palisádou poskytovali dostatočnú ochranu pred prípadným útokom nepriateľa. Opevnenie juhovýchodnej strany hradiska nie je dokončené a od strmého severného svahu ho delí asi 40 metrov. Pôvodne tam zrejme bola len palisáda a predpokladalo sa, že sa val dobuduje. Predná stena valu bola tvorená z nasucho kladených kameňov, val zrejme mal komorovú konštrukciu so šírkou asi 170 cm. Kamenná stena valu mala výšku približne 2,30 metra a je možné predpokladať (aj keď sa to nepodarilo doložiť výskumom), že na korune valu bola ešte vztýčená drevená palisáda. Výskumom sa potvrdilo na hradisku niekoľko domov, ktoré mali zrejme obdobnú konštrukciu ako domy na spomenutom hradisku Molpír v Smoleniciach, pričom sa jednalo o koly, medzi ktorými bol prútený výplet vymazaný hlinenou mazanicou. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLUNdb2c1saReNXzrsTbzpCNFUbTRpujhxc3EDbL3WUIowLS-gN9nVPGi_7myLRgqWDbuPUFZsI-f-fiAGCNFZ1a450D4gCGJIKC1z9zDpYek4-D2ZQrgTl1NwN6gNK7nZdh6h34Nu52fLb2oLNiAVydCxY_3hOaK6GnVUEqcYwQLZQzUjQ-qBZgZ0VQ/s0/LIDAR.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLUNdb2c1saReNXzrsTbzpCNFUbTRpujhxc3EDbL3WUIowLS-gN9nVPGi_7myLRgqWDbuPUFZsI-f-fiAGCNFZ1a450D4gCGJIKC1z9zDpYek4-D2ZQrgTl1NwN6gNK7nZdh6h34Nu52fLb2oLNiAVydCxY_3hOaK6GnVUEqcYwQLZQzUjQ-qBZgZ0VQ/s1600/LIDAR.jpg",
+          "filename": "LIDAR.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLUNdb2c1saReNXzrsTbzpCNFUbTRpujhxc3EDbL3WUIowLS-gN9nVPGi_7myLRgqWDbuPUFZsI-f-fiAGCNFZ1a450D4gCGJIKC1z9zDpYek4-D2ZQrgTl1NwN6gNK7nZdh6h34Nu52fLb2oLNiAVydCxY_3hOaK6GnVUEqcYwQLZQzUjQ-qBZgZ0VQ/s958/LIDAR.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 266,
+            "originalWidth": 958,
+            "originalHeight": 796
+          }
+        },
+        "alt": "Tlstá hora na LIDARovom mapovaní",
+        "caption": "Tlstá hora na LIDARovom mapovaní",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pokiaľ ide o nálezy, nájdené pri výskume, najväčšie množstvo predstavuje keramika, ktorej analógie poznáme z prostredia lužickej kultúry (šálky), ale aj z prostredia severo-východného Maďarska (kultúra Mezocsát). Najpočetnejšia je však keramika kalenderberskej kultúry, všetko datované do halštatského obdobia. Okrem toho sa našli viaceré hlinené prasleny, bronzový krúžok, trojboká bronzová strelka známa aj z Molpíru, prisudzovaná kočovným národom ako Skýti, ale aj pozoruhodné výrobky z parohov, ako doštičky zdobené geometrickými ornamentmi a rôzne parohové nástroje. Všetky tieto nálezy zapadajú do obrazu osídlenia hradiska v staršej dobe železnej. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko mohlo plniť funkciu jednak ako dôležitý strážny a obchodný bod na horskom priechode, ale Novák nevylučuje ani funkciu lokálneho správneho centra v období halštatskej kultúry. Žiaľ hradisko bolo v minulosti, ale aj stále je terčom vykrádačov, ktorí dokonca na hradisku nedávno napadli archeológa. Bude preto v záujme nás všetkých, ak na hradisko začnú častejšie chodiť turisti a záujemci o našu históriu, pretože čím viac ľudí sa tam premelie, tým menší kľud budú mať vykrádači. Priaznivci Geocachingu tu môžu tiež hľadať "
+              },
+              {
+                "type": "link",
+                "url": "https://www.geocaching.com/geocache/GC3T4CV_vykryvac-babylon",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "kešku."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLYm0DF9z4Cs2gUyWVvT7RExX0JVLjjWF3URVXr4qYk4w3-xv7bQNg0YfKylC5KgObuXOreYe2YgvmOHyN_9wFZ6z1GI3u8QLqqgwBoguWOlTaM5dBEGUsWxMcW_zhs6Bzwlu_KfQtiGXX/s0/Depot+na%25CC%2581krc%25CC%258Cni%25CC%2581ky+%2528Bartik+Farkas%25CC%258C%2529+.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLYm0DF9z4Cs2gUyWVvT7RExX0JVLjjWF3URVXr4qYk4w3-xv7bQNg0YfKylC5KgObuXOreYe2YgvmOHyN_9wFZ6z1GI3u8QLqqgwBoguWOlTaM5dBEGUsWxMcW_zhs6Bzwlu_KfQtiGXX/s1600/Depot+na%25CC%2581krc%25CC%258Cni%25CC%2581ky+%2528Bartik+Farkas%25CC%258C%2529+.jpg",
+          "filename": "Depot+na%CC%81krc%CC%8Cni%CC%81ky+%28Bartik+Farkas%CC%8C%29+.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLYm0DF9z4Cs2gUyWVvT7RExX0JVLjjWF3URVXr4qYk4w3-xv7bQNg0YfKylC5KgObuXOreYe2YgvmOHyN_9wFZ6z1GI3u8QLqqgwBoguWOlTaM5dBEGUsWxMcW_zhs6Bzwlu_KfQtiGXX/s1034/Depot+na%25CC%2581krc%25CC%258Cni%25CC%2581ky+%2528Bartik+Farkas%25CC%258C%2529+.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": null,
+            "originalWidth": 1034,
+            "originalHeight": 792
+          }
+        },
+        "alt": "Depot bronzových nákrčníkov z hradiska",
+        "caption": "Depot bronzových nákrčníkov z hradiska",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zaujímavý nález včasno-laténskej opaskovej zápony z hradiska Prašník - Tlstá hora. \n",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "\nZ článku od K. Pietu z roku 2019:\n \"Počet včasnolaténskych nálezísk z oblasti malých Karpát rozšíril starší náhodný nález železnej opaskovej zápony, ktorý sa spolu s ďalšími predmetmi podarilo zdokumentovať (obr. 1; 2). Podľa získaných údajov pochádzajú z hradiska Prašník, Tlstá hora (426 m), okres Trnava, s intenzívnym osídlením kalenderberskej kultúry s lužickými vplyvmi (Novák 2001; Veliačik/Romsauer 1994). Krabicová železná zápona (dvojdielna zápona s puzdrom; Bujna 2011, 125, 127) patrí k typickým súčastiam opaska ženského, ale ojedinele aj mužského kroja včaskolaténskeho obdobia (obr. 3). Časté sú najmä v jednoduchom železnom prevedení bez výzdoby (Frey 1996, 202, obr. 2; 6; Stöllner 2002, 96–98). Aj zápony tohto typu z hradiska Slepý vrch pri Horných Orešanoch patria prevažne k prostým železným exemplárom (Pieta 2007, 13, obr. 10; Pieta/Jakubčinová/ Šebesta 2011, 212, obr. 97: 10). Exemplár z Prašníka patrí k variantu s veľkou obdĺžnikovou platničkou a vyčnievajúcim háčikom, ktoré boli súčasťou zapínania širších kožených opaskov. Zdá sa, že kusy s vyčnievajúcim háčikom včítane nálezu z Prašníka patria k mladším variantom, datovaným na koniec stupňa Lta, alebo na začiatok stupňa LtB1 (Bujna 2011, 125, 127), prípadne ešte o niečo neskôr (Ramsl 2011, 105). Výzdoba zápony z Prašníka sa sústredila na jej viditeľné časti, na hornú časť puzdra a na prinitovanú záchytnú časť. Háčik má tvar zvieracej hlavy, masky s úzkymi očami mandľového tvaru a plastickým orámovaním línií obŕv, zvýraznených presekávaním. Okrúhle nozdry evokujú silné fantastické zviera, štvornožca (býk, baran, diviak). Kompozícia zdobenej plochy veľmi dobre zodpovedá včasnolaténskemu štýlu s využitím antitheticky (proti sebe) postavených figúr, ktoré vytvárajú symetrickú kompozíciu výjavu. Dvojice gryfov s charakteristickým zahnutým zobákom, okrúhlymi alebo mandľovými očami a veľkými hrotitými ušami vstupujú ako orientalizujúci motív do keltského umenia už v jeho najstaršej fáze, kedy sú aplikované na prelamovaných pásových záponách i na ďalších honosných výrobkoch. K detailom výzdoby nachádzame paralely na viacerých artefaktoch včasnokeltského umenia. Línie meandrov, lemujúce centrálny výjav na kratších stranách puzdra nachádzame napríklad na bronzovej zápone zo Schwabsburgu (Frey 2002, 291) alebo na zápone zo Želkovíc, okr. Hořovice (Megaw/Megaw 2001, obr. 429B). Určitú predlohu k analyzovanému exempláru vidíme v známej bronzovej zápone z hrobu 17 z rakúskeho pohrebiska Herzogenburg-Ossarn s háčikom v tvare zvieracej hlavy a antitheticky komponovanou figurálnou rytou výzdobou (Frey 2002, 288, obr. 173). Postava gryfa sa do keltského umeleckého remesla dostala z Orientu a v modifikovanej podobe (s hlavou dravého vtáka, orla a telom štvornožca, ale bez krídel) patrí k často používaným motívom na celom území včasnokeltskej civilizácie včítane jeho východnej časti (Frey 2002, 201, 202; Szabó 2012, 693). V keltskej ikonografii ide zrejme dominantne o zdôraznenie dravého vtáka, orla, ktorý je v mytologickej symbolike stotožňovaný s jedným z hlavných božstiev keltského panteónu, s Taranisom. Motív hlavy dravého vtáka s výrazným nadol zahnutým zobákom patrí k častým motívom najmä na sponách včasnolaténskeho obdobia. Nachádzame ich aj na lokalitách západného Slovenska a výnimočne aj v horskej oblasti (obr. 4). K nálezom zo slovenska pribudol exkluzívny artefakt keltského výtvarného umenia z Horných Orešian. Je to rukoväť noža alebo britvy s aplikovanou postavou gryfa (obr. 5)\""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMnMxromaCHbdsIzK-TtYA6tRLg6szl-3IhXsW2ZNZpZpJnI9LevSE9ws5QtCi1s-bVs2WwL5LVH_SYpxb61l-afbJ1-pjnmFVujoZdMfU2XFuNWMFPj0z1XRi1j_id1EdD0f_GDHWogn/s0/Kolnik+SZ+33.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMnMxromaCHbdsIzK-TtYA6tRLg6szl-3IhXsW2ZNZpZpJnI9LevSE9ws5QtCi1s-bVs2WwL5LVH_SYpxb61l-afbJ1-pjnmFVujoZdMfU2XFuNWMFPj0z1XRi1j_id1EdD0f_GDHWogn/s1600/Kolnik+SZ+33.jpg",
+          "filename": "Kolnik+SZ+33.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMnMxromaCHbdsIzK-TtYA6tRLg6szl-3IhXsW2ZNZpZpJnI9LevSE9ws5QtCi1s-bVs2WwL5LVH_SYpxb61l-afbJ1-pjnmFVujoZdMfU2XFuNWMFPj0z1XRi1j_id1EdD0f_GDHWogn/s848/Kolnik+SZ+33.jpg",
+            "displayedWidth": null,
+            "displayedHeight": 320,
+            "originalWidth": 757,
+            "originalHeight": 848
+          }
+        },
+        "alt": "Prašník - Tlstá hora",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Orgoň"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Petr Novák: Archeologický výskum halštatského hradiska na Tlestej hore v Prašníku, Západoslovenské múzeum v Trnave 2001. Za poskytnutie tejto vzácnej knihy (vyšlo iba 100 kusov) ďakujem Pavlovi Satkovi",
+            "url": null
+          },
+          {
+            "text": "Bartík/Farkaš/Jelínek 2019 – Bronzehortfunde aus den Kleinen Karpaten und ihren Vorgebirgsgebieten. Hromadné nálezy bronzov z Malých Karpát a ich podhorských oblastí. In. Bazovský, I. – Březinová, G. (edit): Ľudia a hory – Archeologická perspektíva. Bratislava – Nitra 2019, 15-102.",
+            "url": null
+          },
+          {
+            "text": "K. Pieta 2019: The early la Tène belt hook from Prašník in: Fragmenty Času. Venované Elene Miroššayovej k 70. narodeninám, Študijné zvesti archeologického ústavu SAV – supplementum 1, 2019, 397–406",
+            "url": null
+          },
+          {
+            "text": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=10&c=17.757745,48.377503&sc=n&it=point&fbclid=iwar3xpwpodum4v7kxxnmb3-iglzj_n47mddh1mt-omiyev7m0fime65udlb8&pos=48.642708,17.681352,17",
+            "url": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=10&c=17.757745,48.377503&sc=n&it=point&fbclid=iwar3xpwpodum4v7kxxnmb3-iglzj_n47mddh1mt-omiyev7m0fime65udlb8&pos=48.642708,17.681352,17"
+          },
+          {
+            "text": "Dnes používaný vstup na hradisko preťal pôvodný val",
+            "url": null
+          },
+          {
+            "text": "Používaný vstup do hradiska pretínajúci val 2",
+            "url": null
+          },
+          {
+            "text": "Pretnutie valu starou nepoužívanou lesnou cestou pod používaným vstupom do hradiska",
+            "url": null
+          },
+          {
+            "text": "Pretnutý val v používanom vstupe do hradiska",
+            "url": null
+          },
+          {
+            "text": "Stúpanie valu k dnešnému vstupu 1",
+            "url": null
+          },
+          {
+            "text": "Stúpanie valu k dnešnému vstupu2",
+            "url": null
+          },
+          {
+            "text": "Val na východnej strane so zatočením smerom k dnešnému vstupu",
+            "url": null
+          },
+          {
+            "text": "Val na východnej strane",
+            "url": null
+          },
+          {
+            "text": "Začiatok valu na východnej strane",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "book",
+        "text": "Petr Novák: Archeologický výskum halštatského hradiska na Tlestej hore v Prašníku, Západoslovenské múzeum v Trnave 2001. Za poskytnutie tejto vzácnej knihy (vyšlo iba 100 kusov) ďakujem Pavlovi Satkovi"
+      },
+      {
+        "type": "book",
+        "text": "Bartík/Farkaš/Jelínek 2019 – Bronzehortfunde aus den Kleinen Karpaten und ihren Vorgebirgsgebieten. Hromadné nálezy bronzov z Malých Karpát a ich podhorských oblastí. In. Bazovský, I. – Březinová, G. (edit): Ľudia a hory – Archeologická perspektíva. Bratislava – Nitra 2019, 15-102."
+      },
+      {
+        "type": "book",
+        "text": "K. Pieta 2019: The early la Tène belt hook from Prašník in: Fragmenty Času. Venované Elene Miroššayovej k 70. narodeninám, Študijné zvesti archeologického ústavu SAV – supplementum 1, 2019, 397–406"
+      },
+      {
+        "type": "external-url",
+        "url": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=10&c=17.757745,48.377503&sc=n&it=point&fbclid=iwar3xpwpodum4v7kxxnmb3-iglzj_n47mddh1mt-omiyev7m0fime65udlb8&pos=48.642708,17.681352,17",
+        "title": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=10&c=17.757745,48.377503&sc=n&it=point&fbclid=iwar3xpwpodum4v7kxxnmb3-iglzj_n47mddh1mt-omiyev7m0fime65udlb8&pos=48.642708,17.681352,17"
+      },
+      {
+        "type": "book",
+        "text": "Foto (autor M. Sládok):"
+      },
+      {
+        "type": "book",
+        "text": "Dnes používaný vstup na hradisko preťal pôvodný val"
+      },
+      {
+        "type": "book",
+        "text": "Používaný vstup do hradiska pretínajúci val 2"
+      },
+      {
+        "type": "book",
+        "text": "Pretnutie valu starou nepoužívanou lesnou cestou pod používaným vstupom do hradiska"
+      },
+      {
+        "type": "book",
+        "text": "Pretnutý val v používanom vstupe do hradiska"
+      },
+      {
+        "type": "book",
+        "text": "Stúpanie valu k dnešnému vstupu 1"
+      },
+      {
+        "type": "book",
+        "text": "Stúpanie valu k dnešnému vstupu2"
+      },
+      {
+        "type": "book",
+        "text": "Val na východnej strane so zatočením smerom k dnešnému vstupu"
+      },
+      {
+        "type": "book",
+        "text": "Val na východnej strane"
+      },
+      {
+        "type": "book",
+        "text": "Začiatok valu na východnej strane"
+      }
+    ]
+  }
+}

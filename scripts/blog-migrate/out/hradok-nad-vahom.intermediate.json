@@ -1,0 +1,466 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label-cand2-Hrdok_nad_Vhom.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-2032803319798241612",
+    "bloggerPostUrl": "http://www.hradiska.sk/2012/12/hradok-nad-vahom.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/2032803319798241612/comments/default",
+    "extractedAt": "2026-07-15T17:53:33.533Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&t=h&ll=48.698354,17.88475&spn=0.001239,0.00228&z=18&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 15,
+      "captionedImages": 13,
+      "separatorImages": 2
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations"
+    ]
+  },
+  "blogPost": {
+    "title": "Hrádok nad Váhom",
+    "slug": "hradok-nad-vahom",
+    "excerpt": "Hradisko ako prvý popísal, zameral a nakreslil geniálny slovenský vedec Štefan Janšák v roku 1930. Severozápadná čast obce Hrádok v ktorej sa nachádza aj kostol, bola osídlená už v dobe železnej.",
+    "authorName": "Orgon",
+    "publishedAt": "2012-12-01T18:39:00.000+01:00",
+    "originalPublishedDate": "2012-12-01T18:39:00.000+01:00",
+    "updatedAt": "2014-11-29T11:39:45.015+01:00",
+    "readingTime": 3,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYjU61seavUs2ILC9o7VIwfTNFtWbyalaRLRwyi1jjiPmfuBW5w3_sdR1G86jdpQ_ppfqOo9plG-iNm6SBFNCYNgstManzBWyGRTHEsanW8Z03j_6bnpbwSQMf3rg6ploA8-3bfehH1ns/s0/jansak.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYjU61seavUs2ILC9o7VIwfTNFtWbyalaRLRwyi1jjiPmfuBW5w3_sdR1G86jdpQ_ppfqOo9plG-iNm6SBFNCYNgstManzBWyGRTHEsanW8Z03j_6bnpbwSQMf3rg6ploA8-3bfehH1ns/s1600/jansak.jpg",
+      "filename": "jansak.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYjU61seavUs2ILC9o7VIwfTNFtWbyalaRLRwyi1jjiPmfuBW5w3_sdR1G86jdpQ_ppfqOo9plG-iNm6SBFNCYNgstManzBWyGRTHEsanW8Z03j_6bnpbwSQMf3rg6ploA8-3bfehH1ns/s1600/jansak.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 220,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYjU61seavUs2ILC9o7VIwfTNFtWbyalaRLRwyi1jjiPmfuBW5w3_sdR1G86jdpQ_ppfqOo9plG-iNm6SBFNCYNgstManzBWyGRTHEsanW8Z03j_6bnpbwSQMf3rg6ploA8-3bfehH1ns/s0/jansak.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYjU61seavUs2ILC9o7VIwfTNFtWbyalaRLRwyi1jjiPmfuBW5w3_sdR1G86jdpQ_ppfqOo9plG-iNm6SBFNCYNgstManzBWyGRTHEsanW8Z03j_6bnpbwSQMf3rg6ploA8-3bfehH1ns/s1600/jansak.jpg",
+        "filename": "jansak.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYjU61seavUs2ILC9o7VIwfTNFtWbyalaRLRwyi1jjiPmfuBW5w3_sdR1G86jdpQ_ppfqOo9plG-iNm6SBFNCYNgstManzBWyGRTHEsanW8Z03j_6bnpbwSQMf3rg6ploA8-3bfehH1ns/s1600/jansak.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 220,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Plánik hradiska od Š. Janšáka"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjltbn-laMyH63-GVVWyCoj9n08lNkwHxsi6y4i0NKexqd7TWeTHjdOT3Y-zE9wa0GhDz-gLMAhEQyilHiWeY1DV51SBh5gO4X1IVGRXhnZ7asQ_n3s9K88nIycw3r5Hm0VfBCbTinOdfk/s0/voj+map2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjltbn-laMyH63-GVVWyCoj9n08lNkwHxsi6y4i0NKexqd7TWeTHjdOT3Y-zE9wa0GhDz-gLMAhEQyilHiWeY1DV51SBh5gO4X1IVGRXhnZ7asQ_n3s9K88nIycw3r5Hm0VfBCbTinOdfk/s1600/voj+map2.jpg",
+        "filename": "voj+map2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjltbn-laMyH63-GVVWyCoj9n08lNkwHxsi6y4i0NKexqd7TWeTHjdOT3Y-zE9wa0GhDz-gLMAhEQyilHiWeY1DV51SBh5gO4X1IVGRXhnZ7asQ_n3s9K88nIycw3r5Hm0VfBCbTinOdfk/s1600/voj+map2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 190,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Hradisko na 2. vojenskom mapovaní"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1i4x9JfpNw6uzEmHOjZy5HShApubUEIg_ospJArVuVBb7hdc5jJkkGmG6vYXi_goJfjJFqpSqWkiGOOOhkA9_fkWri-wRDXbHCs-YCzXlZ3CmfojoA9PhS2TBaMLAnjdiFRT_D_CSFdo/s0/s%CC%8Ci%CC%81py+AVANS+2000.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1i4x9JfpNw6uzEmHOjZy5HShApubUEIg_ospJArVuVBb7hdc5jJkkGmG6vYXi_goJfjJFqpSqWkiGOOOhkA9_fkWri-wRDXbHCs-YCzXlZ3CmfojoA9PhS2TBaMLAnjdiFRT_D_CSFdo/s1600/s%CC%8Ci%CC%81py+AVANS+2000.jpg",
+        "filename": "šípy+AVANS+2000.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1i4x9JfpNw6uzEmHOjZy5HShApubUEIg_ospJArVuVBb7hdc5jJkkGmG6vYXi_goJfjJFqpSqWkiGOOOhkA9_fkWri-wRDXbHCs-YCzXlZ3CmfojoA9PhS2TBaMLAnjdiFRT_D_CSFdo/s1600/s%CC%8Ci%CC%81py+AVANS+2000.jpg",
+          "displayedWidth": 206,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "slovanské hroty šípov z hradiska (AVANS 2000)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr5PvS2vLWv0smXZVo31ikuza-RTQA1ggyev1YfnaAk7StHJ5pZwGJTJV-vtIT1TF93x_eFDWCRP9uJ9uBx57uq05EBbY2v2s-CqgPVz7mbL7iyyRfnvNwMWYGRtPbUMo2SkvuGttBTFk/s0/Hrivny.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr5PvS2vLWv0smXZVo31ikuza-RTQA1ggyev1YfnaAk7StHJ5pZwGJTJV-vtIT1TF93x_eFDWCRP9uJ9uBx57uq05EBbY2v2s-CqgPVz7mbL7iyyRfnvNwMWYGRtPbUMo2SkvuGttBTFk/s1600/Hrivny.jpg",
+        "filename": "Hrivny.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr5PvS2vLWv0smXZVo31ikuza-RTQA1ggyev1YfnaAk7StHJ5pZwGJTJV-vtIT1TF93x_eFDWCRP9uJ9uBx57uq05EBbY2v2s-CqgPVz7mbL7iyyRfnvNwMWYGRtPbUMo2SkvuGttBTFk/s1600/Hrivny.jpg",
+          "displayedWidth": 253,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s0/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s1600/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+        "filename": "Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s1600/Hlavic%25CC%258Cka+web-stra%25CC%2581nky_2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 95,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIhIpja7TfqkRcrd4QQvc7SBvhN5joZRql91upzNsxJGMp89fYu35ev7ifu5JD1FXhRAjq4wKzQd71vT4TAeVGWdP3mBI77K4VPZ2GHrVdE-Ad5ZvKjx2BA29q7yB9FxrvVA4oDvE4SbA/s0/IMG_2794.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIhIpja7TfqkRcrd4QQvc7SBvhN5joZRql91upzNsxJGMp89fYu35ev7ifu5JD1FXhRAjq4wKzQd71vT4TAeVGWdP3mBI77K4VPZ2GHrVdE-Ad5ZvKjx2BA29q7yB9FxrvVA4oDvE4SbA/s1600/IMG_2794.JPG",
+        "filename": "IMG_2794.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIhIpja7TfqkRcrd4QQvc7SBvhN5joZRql91upzNsxJGMp89fYu35ev7ifu5JD1FXhRAjq4wKzQd71vT4TAeVGWdP3mBI77K4VPZ2GHrVdE-Ad5ZvKjx2BA29q7yB9FxrvVA4oDvE4SbA/s1600/IMG_2794.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "prístupná je iba časť, ktorá patrí ku kostolu a potom asi v strede hradiska časť, kde je postavený Obecný úrad"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA6wpkOOOb3SuW0bbXmjqDY9ykxrFjulzKgIDST2vLzV71U73hiyxqxpNYGj2kdvOFEvWTYDdrBLgblwIlNcDIhKyBDcslAYLpHLuD8SxcM_JP9ECy2n7PwIlZ4zrY22XDrrbWeHtV51s/s0/IMG_2795.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA6wpkOOOb3SuW0bbXmjqDY9ykxrFjulzKgIDST2vLzV71U73hiyxqxpNYGj2kdvOFEvWTYDdrBLgblwIlNcDIhKyBDcslAYLpHLuD8SxcM_JP9ECy2n7PwIlZ4zrY22XDrrbWeHtV51s/s1600/IMG_2795.JPG",
+        "filename": "IMG_2795.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA6wpkOOOb3SuW0bbXmjqDY9ykxrFjulzKgIDST2vLzV71U73hiyxqxpNYGj2kdvOFEvWTYDdrBLgblwIlNcDIhKyBDcslAYLpHLuD8SxcM_JP9ECy2n7PwIlZ4zrY22XDrrbWeHtV51s/s1600/IMG_2795.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "vysoký a ostrý okraj hradiska na severnej strane"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFeWsuDYHLde9j6-XhPfy9KkK3F3ZckQZ8Y4lSqaCAut-AyQXHk8A627NmvAzsLxz8xXW9ykCAD8ETrXHbR9YlnnFbLlAnG2S3ZYz8WjXSN1cr1dCovEFOokAxOvV5862ThUIqLkMVVOI/s0/IMG_2796.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFeWsuDYHLde9j6-XhPfy9KkK3F3ZckQZ8Y4lSqaCAut-AyQXHk8A627NmvAzsLxz8xXW9ykCAD8ETrXHbR9YlnnFbLlAnG2S3ZYz8WjXSN1cr1dCovEFOokAxOvV5862ThUIqLkMVVOI/s1600/IMG_2796.JPG",
+        "filename": "IMG_2796.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFeWsuDYHLde9j6-XhPfy9KkK3F3ZckQZ8Y4lSqaCAut-AyQXHk8A627NmvAzsLxz8xXW9ykCAD8ETrXHbR9YlnnFbLlAnG2S3ZYz8WjXSN1cr1dCovEFOokAxOvV5862ThUIqLkMVVOI/s1600/IMG_2796.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "hneď za kostolom sa začínajú dvory súkromných domov. Ktovie, čo všetko našli pri kopaní základov"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpWncvxaHSr9_h0JweA8Y7ML5Bl2D9QwwaI3qDL8BEmPseHkSkhPFGo2bjUQiQ-LI2tTxJzaQHb9EwmMAPN4MNKmzwtpY6w8Ck20LZSXKdkfjoZD1vZNylC5dyRniJvDrgQyl1uGPV0g/s0/IMG_2797.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpWncvxaHSr9_h0JweA8Y7ML5Bl2D9QwwaI3qDL8BEmPseHkSkhPFGo2bjUQiQ-LI2tTxJzaQHb9EwmMAPN4MNKmzwtpY6w8Ck20LZSXKdkfjoZD1vZNylC5dyRniJvDrgQyl1uGPV0g/s1600/IMG_2797.JPG",
+        "filename": "IMG_2797.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBpWncvxaHSr9_h0JweA8Y7ML5Bl2D9QwwaI3qDL8BEmPseHkSkhPFGo2bjUQiQ-LI2tTxJzaQHb9EwmMAPN4MNKmzwtpY6w8Ck20LZSXKdkfjoZD1vZNylC5dyRniJvDrgQyl1uGPV0g/s1600/IMG_2797.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "severný okraj je pooraný plytkou orbou."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuC4B2-nrOeCY_1iKLYbvlD4jpAKDzmZt-nPLwxU-sJ60Kka9X1vTTZWfUnOghXrsX5hLEHMCy9WiQCjmojipjBPhH5piXAqIoligWwVQLynxEmMbLU5WttZ6D6xQTnHkmSgkQUH8xYkE/s0/IMG_2802.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuC4B2-nrOeCY_1iKLYbvlD4jpAKDzmZt-nPLwxU-sJ60Kka9X1vTTZWfUnOghXrsX5hLEHMCy9WiQCjmojipjBPhH5piXAqIoligWwVQLynxEmMbLU5WttZ6D6xQTnHkmSgkQUH8xYkE/s1600/IMG_2802.JPG",
+        "filename": "IMG_2802.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuC4B2-nrOeCY_1iKLYbvlD4jpAKDzmZt-nPLwxU-sJ60Kka9X1vTTZWfUnOghXrsX5hLEHMCy9WiQCjmojipjBPhH5piXAqIoligWwVQLynxEmMbLU5WttZ6D6xQTnHkmSgkQUH8xYkE/s1600/IMG_2802.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "severovýchodný okraj"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoj42MsJ5XROQMFe5BdFhyzfG496rHVGIJH8rKyXxIGcvWuxaLkW51Apsn_LX46RQZkcudxl0rvM0UBWLq4XbgbBtw26RzqleEu37d-9VDO9ORDDymLKxEhZHQLS3gdHqTJGqhQ-PPVtA/s0/IMG_2805.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoj42MsJ5XROQMFe5BdFhyzfG496rHVGIJH8rKyXxIGcvWuxaLkW51Apsn_LX46RQZkcudxl0rvM0UBWLq4XbgbBtw26RzqleEu37d-9VDO9ORDDymLKxEhZHQLS3gdHqTJGqhQ-PPVtA/s1600/IMG_2805.JPG",
+        "filename": "IMG_2805.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoj42MsJ5XROQMFe5BdFhyzfG496rHVGIJH8rKyXxIGcvWuxaLkW51Apsn_LX46RQZkcudxl0rvM0UBWLq4XbgbBtw26RzqleEu37d-9VDO9ORDDymLKxEhZHQLS3gdHqTJGqhQ-PPVtA/s1600/IMG_2805.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "priekopa ide naprieč cez stred hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq296aMuQALrH1-XWs5NkTEBJQWTkS6oTB43YQVnKzTpOmFmwMurFPJyvl_0m_461SOhmZPq2CKNfBny3Iby9TJXW7lL5R0cg0ZXyUCsd2z8jd_3QCkeRzoYvWfdNsBGeaJsAnzn7jjI8/s0/IMG_2807.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq296aMuQALrH1-XWs5NkTEBJQWTkS6oTB43YQVnKzTpOmFmwMurFPJyvl_0m_461SOhmZPq2CKNfBny3Iby9TJXW7lL5R0cg0ZXyUCsd2z8jd_3QCkeRzoYvWfdNsBGeaJsAnzn7jjI8/s1600/IMG_2807.JPG",
+        "filename": "IMG_2807.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq296aMuQALrH1-XWs5NkTEBJQWTkS6oTB43YQVnKzTpOmFmwMurFPJyvl_0m_461SOhmZPq2CKNfBny3Iby9TJXW7lL5R0cg0ZXyUCsd2z8jd_3QCkeRzoYvWfdNsBGeaJsAnzn7jjI8/s1600/IMG_2807.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "juhovýchodná časť hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHxboTiw6nQfFgz6IWH4CpbKy4eZx36yBdK7cn2_rzjbFsfrRyM5oUDcdV6Wbwlaa03xXjrJqdolf_YwnkJNeCIDGxyeFcJhgy_9AscO3wI6sLtOE-9b1iJ23Z-Q778jayvkQRKZapD4/s0/IMG_2815.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHxboTiw6nQfFgz6IWH4CpbKy4eZx36yBdK7cn2_rzjbFsfrRyM5oUDcdV6Wbwlaa03xXjrJqdolf_YwnkJNeCIDGxyeFcJhgy_9AscO3wI6sLtOE-9b1iJ23Z-Q778jayvkQRKZapD4/s1600/IMG_2815.JPG",
+        "filename": "IMG_2815.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHxboTiw6nQfFgz6IWH4CpbKy4eZx36yBdK7cn2_rzjbFsfrRyM5oUDcdV6Wbwlaa03xXjrJqdolf_YwnkJNeCIDGxyeFcJhgy_9AscO3wI6sLtOE-9b1iJ23Z-Q778jayvkQRKZapD4/s1600/IMG_2815.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "na ceste boli popadané praveké črepy, nikto si ich nevšíma"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT0894YEW-7eoB3i6I7OwY-dPTq2u3C90rPkFkBckJceiUnLU02vz1BRU2Tcfm6TM8O4Y5AD8Z3THNLeSUNbN0Z-z9lu7REZrh2HTKTbsKI61v6WwpbV23ILf1GjnCP1x4bUhmSKaPsKg/s0/IMG_2819.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT0894YEW-7eoB3i6I7OwY-dPTq2u3C90rPkFkBckJceiUnLU02vz1BRU2Tcfm6TM8O4Y5AD8Z3THNLeSUNbN0Z-z9lu7REZrh2HTKTbsKI61v6WwpbV23ILf1GjnCP1x4bUhmSKaPsKg/s1600/IMG_2819.JPG",
+        "filename": "IMG_2819.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT0894YEW-7eoB3i6I7OwY-dPTq2u3C90rPkFkBckJceiUnLU02vz1BRU2Tcfm6TM8O4Y5AD8Z3THNLeSUNbN0Z-z9lu7REZrh2HTKTbsKI61v6WwpbV23ILf1GjnCP1x4bUhmSKaPsKg/s1600/IMG_2819.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "cesta na hradisko"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3yRpEx8Jq5n7EkjZYVKnl1fHpi63Sp9VSL2nKM8lcyRQTQwkG19r4UmTHOg1vA8-kgM3RdwLFtX4yQmRggNZYawQ-aPtZpyU7Yv_ocZmydvuMkH2gGBT19Yg_oeM3n6oW33_eENsrt-M/s0/IMG_2823.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3yRpEx8Jq5n7EkjZYVKnl1fHpi63Sp9VSL2nKM8lcyRQTQwkG19r4UmTHOg1vA8-kgM3RdwLFtX4yQmRggNZYawQ-aPtZpyU7Yv_ocZmydvuMkH2gGBT19Yg_oeM3n6oW33_eENsrt-M/s1600/IMG_2823.JPG",
+        "filename": "IMG_2823.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3yRpEx8Jq5n7EkjZYVKnl1fHpi63Sp9VSL2nKM8lcyRQTQwkG19r4UmTHOg1vA8-kgM3RdwLFtX4yQmRggNZYawQ-aPtZpyU7Yv_ocZmydvuMkH2gGBT19Yg_oeM3n6oW33_eENsrt-M/s1600/IMG_2823.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "obecný úrad, na ceste k nemu sa našiel poklad hrivien"
+      }
+    ],
+    "tags": [
+      "Hrádok nad Váhom"
+    ],
+    "category": null,
+    "location": {
+      "name": "Hrádok nad Váhom",
+      "latitude": 48.698354,
+      "longitude": 17.88475,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Rozmery ostrohu",
+        "value": "dlhý 200 m, priemerne 40 m široký, dvíhajúci sa 10 m nad okolie",
+        "icon": "map"
+      },
+      {
+        "label": "Poklad sekerovitých hrivien",
+        "value": "247 kusov, celková hmotnosť po náleze ca 65 kg, 114 exemplárov dlhých 250–300 mm",
+        "icon": "star"
+      },
+      {
+        "label": "Hĺbka uloženia depotu",
+        "value": "ca 100 cm, jama zasahovala 40 cm do sprašového podložia, prekrytá stredovekou navážkou z 13. – 14. storočia",
+        "icon": "building"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "9. storočie",
+        "title": "Nález slovanských črepov pri kostole",
+        "description": "Pri kopaní odpadovej jamy vo farskej záhrade r. 1954 narazilo sa na sídliskovú vrstvu, z ktorej pochádza železná pracka, časť zubadla a slovanské črepy, datované do 9. storočia.",
+        "type": "discovery"
+      },
+      {
+        "year": "9. storočie",
+        "title": "Uloženie pokladu sekerovitých hrivien",
+        "description": "Nález veľkého pokladu 247 železných sekerovitých hrivien (dlhú dobu najväčší poklad hrivien v Československu) je datovaný do 9. storočia; jeho uloženie môže súvisieť s nepokojnými časmi konfliktu medzi kniežaťom Pribinom a Mojmírom.",
+        "type": "event"
+      },
+      {
+        "year": "1954",
+        "title": "Nález sídliskovej vrstvy pri kostole",
+        "description": "Pri kopaní odpadovej jamy vo farskej záhrade narazilo sa na sídliskovú vrstvu so slovanskými nálezmi.",
+        "type": "discovery"
+      },
+      {
+        "year": "1955",
+        "title": "Objav pokladu sekerovitých hrivien",
+        "description": "Hradisko sa najviac preslávilo nálezom veľkého pokladu sekerovitých hrivien pri hĺbení základov novej ohrady areálu Miestneho národného výboru.",
+        "type": "discovery"
+      },
+      {
+        "year": "1930",
+        "title": "Janšákov opis hradiska",
+        "description": "Hradisko ako prvý popísal, zameral a nakreslil Štefan Janšák v roku 1930.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko ako prvý popísal, zameral a nakreslil geniálny slovenský vedec Štefan Janšák v roku 1930. Severozápadná časť obce Hrádok v ktorej sa nachádza aj kostol, bola osídlená už v dobe železnej. \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pre nás je dôležité, že v tejto časti obce vybudovali naši slovanskí predkovia v časoch Veľkej Moravy významné hradisko. Štefan Janšák pri popise hradiska uvádza, že jazykovitý ostroh, dlhý 200 m, široký priemerne 40 m a 10 m nad okolie sa dvíhajúci, bol veľmi výhodným miestom pre staré osídlenie. Hradisko (viď obrázok nižšie) sa rozprestieralo približne na ploche a-b-e-c-d-f-a. Partia a-b-e-f-a mohla byť jadrom, oddeleným od ostatného povrchu prirodzeným stupňom v mieste e-f. O prehĺbení c-d, nachádzajúcom sa pri kostole, ktorým vedie dnes ulica obce, nemožno dnes s určitosťou povedať, či je umelé, alebo prirodzené. V každom prípade však slúžilo hradišťu iba na prospech. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Historický kamenný hrad z neskoršieho obdobia, stál v partii a-b-e-f-a, kde bol v 30. rokoch dvorec so záhradou a obrábaným poľom. V súčasnosti sa v priestore hradiska nachádzajú záhrady, domy a spomenutý kostol. Štefan Janšák na hradisku našiel viaceré črepy, ktoré zaradil do doby halštatskej.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYjU61seavUs2ILC9o7VIwfTNFtWbyalaRLRwyi1jjiPmfuBW5w3_sdR1G86jdpQ_ppfqOo9plG-iNm6SBFNCYNgstManzBWyGRTHEsanW8Z03j_6bnpbwSQMf3rg6ploA8-3bfehH1ns/s0/jansak.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYjU61seavUs2ILC9o7VIwfTNFtWbyalaRLRwyi1jjiPmfuBW5w3_sdR1G86jdpQ_ppfqOo9plG-iNm6SBFNCYNgstManzBWyGRTHEsanW8Z03j_6bnpbwSQMf3rg6ploA8-3bfehH1ns/s1600/jansak.jpg",
+          "filename": "jansak.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYjU61seavUs2ILC9o7VIwfTNFtWbyalaRLRwyi1jjiPmfuBW5w3_sdR1G86jdpQ_ppfqOo9plG-iNm6SBFNCYNgstManzBWyGRTHEsanW8Z03j_6bnpbwSQMf3rg6ploA8-3bfehH1ns/s1600/jansak.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 220,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Plánik hradiska od Š. Janšáka",
+        "caption": "Plánik hradiska od Š. Janšáka",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Poklad sekerovitých hrivien na hradisku"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pri kopaní odpadovej jamy vo farskej záhrade r. 1954 narazilo sa na sídliskovú vrstvu, z ktorej pochádza železná pracka, časť zubadla a slovanské črepy, datované do 9. stor. Hradisko sa však najviac preslávilo nálezom veľkého pokladu sekerovitých hrivien v roku 1955, ktorý bol dlhú dobu najväčším pokladom hrivien v celom Československu.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na depot narazili pri hĺbení základov pre novú ohradu areálu Miestneho národného výboru v záreze cesty v hĺbke ca 100 cm. Miesto nálezu sa nachádza priamo v areáli veľkomoravského hradiska. Jama, v ktorej bol depot uložený, zasahovala 40 cm do sprašového podložia. Horná časť depotu bola prekrytá stredovekou navážkou z 13. – 14. stor. Depot obsahoval 247 železných sekerovitých hrivien prevažne strednej veľkosti (114 exemplárov dlhých 250–300 mm) a 68 menších exemplárov dlhých 165–1200 mm. Zvyšok tvorili zlomky hrivien. Na niektorých hrivnách badať intencionálne odseknutie časti prípadne lichobežníkové alebo trojuholníkové výseky. Niektoré nesú tiež znaky prekovávania. Depot po nájdení vážil ca 65 kg a hrivny v ňom boli poskladané v hromádkach po 20 kusov. Nález je datovaný do 9. storočia a jeho uloženie môže súvisieť s nepokojnými časmi konfliktu medzi kniežaťom Pribinom a Mojmírom, podobne ako to bolo v prípade neďalekého Pobedimu. Obyvateľ hradiska – možno obchodník, ktorý hrivny používal ako platidlo, alebo iný bezpochyby bohatý obyvateľ Považia si poklad uložil z dôvodu obavy, že príde o svoj majetok. Keďže sa pre tento poklad, ktorý musel mať v časoch Nitrianskeho kniežatstva veľmi vysokú hodnotu už nikto nevrátil, jeho majiteľ zrejme prišiel o niečo drahocennejšie ako hrivny – o vlastný život."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjltbn-laMyH63-GVVWyCoj9n08lNkwHxsi6y4i0NKexqd7TWeTHjdOT3Y-zE9wa0GhDz-gLMAhEQyilHiWeY1DV51SBh5gO4X1IVGRXhnZ7asQ_n3s9K88nIycw3r5Hm0VfBCbTinOdfk/s0/voj+map2.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjltbn-laMyH63-GVVWyCoj9n08lNkwHxsi6y4i0NKexqd7TWeTHjdOT3Y-zE9wa0GhDz-gLMAhEQyilHiWeY1DV51SBh5gO4X1IVGRXhnZ7asQ_n3s9K88nIycw3r5Hm0VfBCbTinOdfk/s1600/voj+map2.jpg",
+          "filename": "voj+map2.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjltbn-laMyH63-GVVWyCoj9n08lNkwHxsi6y4i0NKexqd7TWeTHjdOT3Y-zE9wa0GhDz-gLMAhEQyilHiWeY1DV51SBh5gO4X1IVGRXhnZ7asQ_n3s9K88nIycw3r5Hm0VfBCbTinOdfk/s1600/voj+map2.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 190,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradisko na 2. vojenskom mapovaní",
+        "caption": "Hradisko na 2. vojenskom mapovaní",
+        "position": "right",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Literatúra",
+        "intro": "Foto: 22.8.2013",
+        "items": [
+          {
+            "text": "Štefan Janšák: Staré osídlenie Slovenska, in Sborník Slovenskej muzeálnej spoločnosti, 1930",
+            "url": null
+          },
+          {
+            "text": "PLEINER, R.: Slovanské sekerovité hřivny. Slov. Archeologia, 1961, s. 415-418.",
+            "url": null
+          },
+          {
+            "text": "VSNS, str. 84",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

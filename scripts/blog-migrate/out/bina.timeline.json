@@ -1,0 +1,109 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 12 timeline + 6 keyFacts.",
+  "timeline": [
+    {
+      "year": "najneskoršie polovica 9. storočia",
+      "title": "Chata s pokladom hrivien",
+      "description": "Chata s keramickými nálezmi a nedohotovenými žarnovmi datovaná najneskoršie do polovice 9. storočia.",
+      "type": "discovery"
+    },
+    {
+      "year": "druhá polovica 9. storočia",
+      "title": "Hrob s veľkomoravským hrncom",
+      "description": "Hrob nad chatou obsahoval charakteristický veľkomoravský hrniec, potvrdené aj nálezom sklovitej perly v susednom hrobe.",
+      "type": "discovery"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Podľa modernej archeológie: vznik opevnenia",
+      "description": "Najnovšie exaktné metódy datovania (potvrdené aj K. Pietom v roku 2009) posunuli vybudovanie opevnenia do obdobia Veľkej Moravy.",
+      "type": "construction"
+    },
+    {
+      "year": "polovica 10. storočia",
+      "title": "Najneskorší možný termín uloženia pokladu",
+      "description": "Poklady sekerovitých hrivien sú najčastejšie v 9. storočí, ojedinele v prvej polovici 10. storočia.",
+      "type": "event"
+    },
+    {
+      "year": "997 – 998",
+      "title": "Alternatívna teória: povstanie Koppáňa",
+      "description": "Staršia teória (Habovštiak, 60. roky) datuje opevnenie do čias Koppáňovho povstania proti Štefanovi I. — dnes prekonaný názor.",
+      "type": "event"
+    },
+    {
+      "year": "1001",
+      "title": "Zakladacia listina pannonhalmského opátstva",
+      "description": "Dokladá historický fakt Koppányho porážky — kráľ Štefan I. obdaroval kláštor majetkami po víťazstve.",
+      "type": "event"
+    },
+    {
+      "year": "druhá polovica 12. storočia (začiatok)",
+      "title": "Horná hranica datovania valu",
+      "description": "Objekty a hroby vbudované do telesa valu po jeho vybudovaní sú datované do tohto obdobia.",
+      "type": "event"
+    },
+    {
+      "year": "1135",
+      "title": "Bzovícka listina",
+      "description": "Zmieňuje, že kráľ Štefan I. daroval časť Bíne Huntovmu synovi Binovi, po ktorom dostala obec svoje pomenovanie.",
+      "type": "event"
+    },
+    {
+      "year": "60. roky 20. storočia",
+      "title": "Archeologický výskum (Habovštiak)",
+      "description": "Výskum objavil hroby zahĺbené do valu a dospel k záveru o mladšom pôvode valu (post-veľkomoravské obdobie).",
+      "type": "discovery"
+    },
+    {
+      "year": "1983",
+      "title": "Objavený hrob veľmožskej ženy",
+      "description": "Najbohatší veľkomoravský veľmožský hrob na Slovensku — žena vo veku 17-24 rokov.",
+      "type": "discovery"
+    },
+    {
+      "year": "2008",
+      "title": "Ďalší archeologický výskum",
+      "description": "Objavené ďalšie hroby zahĺbené do telesa valu z obdobia stredoveku.",
+      "type": "discovery"
+    },
+    {
+      "year": "27.10.2009",
+      "title": "Prednáška K. Pietu",
+      "description": "PhDr. Karol Pieta vo Vedeckej cukrárni potvrdil veľkomoravské datovanie opevnenia na základe najnovších metód.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Celková rozloha opevnenia",
+      "value": "107,58 ha — najrozsiahlejšie súvislé opevnenie na Slovensku, jedno z najväčších v Karpatskej kotline",
+      "icon": "mountain"
+    },
+    {
+      "label": "Valy",
+      "value": "Tri prstence, celková dĺžka 5100 m; výška 4–9,40 m, šírka v základni 16–24 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Priekopa",
+      "value": "Hĺbka až 11,5 m medzi korunou valu a dnom priekopy",
+      "icon": "mountain"
+    },
+    {
+      "label": "Objem zeminy",
+      "value": "Cca 253 000 m³ — stavba trvala približne 6 mesiacov pri 500 robotníkoch",
+      "icon": "building"
+    },
+    {
+      "label": "Hrob veľmožskej ženy (1983)",
+      "value": "Najbohatší veľkomoravský veľmožský hrob na Slovensku — 14 strieborných náušníc, prstene, gombíky, 2 nožíky",
+      "icon": "star"
+    },
+    {
+      "label": "Výskum",
+      "value": "Š. Janšák (30. roky), archeológovia 60. rokov, B. Chropovský, K. Pieta — datovanie sporné medzi 9. a koncom 10. storočia",
+      "icon": "scroll"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "tlmace-festunok",
+  "note": "grammar-sk agent, prvý prechod (článok nikdy predtým nemal grammar-sk aplikovaný). Zmiešaný pôvod: úvod a väčšina tela je odborný opis (pravdepodobne prevzatý/parafrázovaný z Habovštiak 1973 a Janšák 1928, typ 1 z úvodu §21 — veľa bohemizmov, ale BEZ quote-block a bez odseku uvádzajúceho priamu citáciu pred dvojbodkou), posledné odseky sú vlastný autorský komentár (typ 2, Orgoň, napr. 'Lenže súdruhovia rozhodli...'). Žiadna chránená zóna podľa §21.3 (žiadny blockquote, žiadny nezatvorený „citát). §21.7 spomína historický bug pri Tlmačiach (§9.8, sweep na pomlčky pred odstránením duplicitného bloku) — v tomto behu bola typografia aplikovaná AŽ PO štrukturálnej oprave (presun bibliografie), aby sa rovnaký bug nezopakoval.",
+  "criticalFixes": [
+    { "issue": "BIBLIO_IN_BODY: blok 16 (nadpis 'Použitá literatúra a pramene:') + blok 17 ('Janšák, Štefan: Staré osídlenie Slovenska, 1928.') + blok 18 ('Habovštiak, Anton: Hradisko z 9.-10. storočia v Tlmačoch, 1973.') boli tri samostatné rich-text bloky s bibliografiou zlepenou v tele namiesto v content.sources — presne rovnaký vzor ako v drazovce blok 23.", "fix": "Bloky 16–18 odstránené z tela; obe citácie (Janšák 1928, Habovštiak 1973) presunuté ako prvé 2 položky do content.sources.items aj do citations[] (typ 'book'). Pri presune opravený aj číselný rozsah 'z 9.-10. storočia' → 'z 9. – 10. storočia' (typografia)." },
+    { "issue": "A3 zhoda podmetu s prísudkom (blok 12): 'Strategickú polohu Slovenskej brány si uvedomoval aj knieža Gejza I., neskorší uhorský kráľ a založil ... opátstvo, aby mal pod kontrolou...' — 'knieža' je v slovenčine stredného rodu ('to knieža'), ale slovesá 'uvedomoval/založil/mal' sú mužského rodu. Presne referenčný príklad z §21.1 A3 ('knieža... si uvedomoval → ...uvedomovalo').", "fix": "uvedomoval→uvedomovalo, založil→založilo, mal→malo (zachovaná rovnaká vetná stavba, len opravená zhoda); doplnená čiarka uzatvárajúca apozíciu 'neskorší uhorský kráľ'. CROSS-FIELD: identická chyba bola aj v timeline položke 'Založenie opátstva v Hronskom Beňadiku' ('Knieža Gejza I. založil opátstvo, aby mal pod kontrolou...') — opravená rovnako (založil→založilo, mal→malo)." }
+  ],
+  "appliedFixes": [
+    { "rule": "B typografia (medzera pred jednotkou)", "before": "výška 24m nad hladinou", "after": "výška 24 m nad hladinou", "block": 1 },
+    { "rule": "A8 i/y", "before": "chránená z dvoch strán prirodzeným, príkrim svahom", "after": "chránená z dvoch strán prirodzeným, príkrym svahom", "block": 1 },
+    { "rule": "A8 pravopis (temer → takmer)", "before": "a na strane tretej temer kolmou skalou", "after": "a na strane tretej takmer kolmou skalou", "block": 1 },
+    { "rule": "A1 čiarka + B typografia (×)", "before": "z obvodového valu v tvare nepravidelného štvoruholníka, s rozmermi hlavných osí 150x190 m pozostávalo", "after": "z obvodového valu v tvare nepravidelného štvoruholníka s rozmermi hlavných osí 150 × 190 m, pozostávalo", "block": 3, "note": "cross-field: keyFacts 'Rozmery' už mal '150 × 190 m'" },
+    { "rule": "B typografia (chýbajúca jednotka)", "before": "z ktorých prvá bola široká 10 a druhá 6m.", "after": "z ktorých prvá bola široká 10 m a druhá 6 m.", "block": 3, "note": "cross-field: keyFacts 'Dvojitá brána' už mal 'šírka 10 m a 6 m'" },
+    { "rule": "A1 čiarka pred 'a to' (vysvetľovacie)", "before": "prerušené len v juhozápadnej časti a to kvôli ľahšiemu prístupu", "after": "prerušené len v juhozápadnej časti, a to kvôli ľahšiemu prístupu", "block": 5 },
+    { "rule": "B typografia (číselné rozsahy a medzery pred jednotkou)", "before": "výšku 5-6m (od dna priekopy) a na vnútornej strane 2-3m ... hĺbku 1,5-2m ... činila 560m a plocha hradiska 1,84ha ... 140-150cm ... 470-500cm ... 2m dlhý, 1m široký a 1m vysoký", "after": "výšku 5 – 6 m ... 2 – 3 m ... hĺbku 1,5 – 2 m ... 560 m a plocha hradiska 1,84 ha ... 140 – 150 cm ... 470 – 500 cm ... 2 m dlhý, 1 m široký a 1 m vysoký", "block": 5, "note": "cross-field: keyFacts 'Konštrukcia valu' a 'Obetný kameň' už mali presne tieto cieľové tvary s medzerami a en dashmi" },
+    { "rule": "A8 pravopis (zlepenina rozdelená chybne)", "before": "Drevo zemná časť, široká 320-330cm", "after": "Drevozemná časť, široká 320 – 330 cm", "block": 5, "note": "nekonzistentné s 'drevozemného valu' skôr v tej istej vete a 'Drevozemná konštrukcia' neskôr v tom istom bloku" },
+    { "rule": "B typografia", "before": "(asi 1km) na juh", "after": "(asi 1 km) na juh", "block": 8 },
+    { "rule": "B typografia (číselný rozsah)", "before": "podobné nálezy z 9.-10. stor.", "after": "podobné nálezy z 9. – 10. stor.", "block": 9 },
+    { "rule": "A5 slovosled (pomocné pred plnovýznamovým)", "before": "mohli by byť i nálezy železných hrotov šípov", "after": "by mohli byť i nálezy železných hrotov šípov", "block": 9, "note": "presne referenčný príklad z §21.1 A5" }
+  ],
+  "reviewed_no_change": [
+    "„Festung“ / „Hradze“ (blok 0) — dvojica „ (U+201E) a „ (U+201C) je správna slovensko-nemecká typografia úvodzoviek (obe jazyky zdieľajú rovnaký formát), nie chyba; overené kontrolou kódových bodov.",
+    "'u západných Slovanov bol bežný' (blok 6) — presne referenčný FALOŠNÝ POZITÍV z §21.1 A7 ('u' + skupina ľudí je správne), ponechané.",
+    "'bolo treba strážiť' (blok 7) — na rozdiel od bohemizmu 'je treba' (prítomný čas) je 'bolo treba' (minulý čas) štandardná spisovná slovenčina, keďže neohybné 'treba' potrebuje pomocné sloveso na vyjadrenie minulého času.",
+    "'z konca 8. alebo zo začiatku 9. stor.' (blok 9) vs. timeline 'koniec 8. – začiatok 9. storočia' — odlišná formulácia (alternatíva vs. rozsah), ale vecne zlučiteľná parafráza, nie CERTAINTY_LOST.",
+    "'Lenže súdruhovia rozhodli...' (blok 13) — neformálny autorský hlas (typ 2 v úvode §21, blogový štýl Orgoňa), mimo rozsahu gramatickej korektúry štylistiky."
+  ],
+  "flags": [
+    "Pozri out/tlmace-festunok.review.json — RELATIVE_DATE (blok 9, 'donedávna'), STRUCTURAL (blok 15, osirotený nadpis 'Foto Matúš Martinák:' bez nadväzujúcich obrázkov v tele)."
+  ]
+}

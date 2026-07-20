@@ -1,0 +1,35 @@
+{
+  "_note": "grammar-sk v7 §21 — 'DANUVINA ALACRIS opäť na vodách Dunaja' (2024-05). Dlhá reportáž; vysoko isté opravy.",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "hliadkovej lode zo 4 storočia",
+      "after": "hliadkovej lode zo 4. storočia",
+      "reason": "ordinál s bodkou (A8)"
+    },
+    {
+      "hint": 1,
+      "before": "Rímsko - germánskeho centrálneho múzea",
+      "after": "Rímsko-germánskeho centrálneho múzea",
+      "reason": "zložené prídavné meno bez medzier (B)"
+    },
+    {
+      "hint": 11,
+      "before": "O 9,30 v nákladnom",
+      "after": "O 9.30 v nákladnom",
+      "reason": "čas s bodkou, nie čiarkou (B)"
+    },
+    {
+      "hint": 13,
+      "before": "ďalších 15km veslovania",
+      "after": "ďalších 15 km veslovania",
+      "reason": "medzera pred jednotkou (B)"
+    },
+    {
+      "hint": 18,
+      "before": "pravdepodobne 13.októbra 2024",
+      "after": "pravdepodobne 13. októbra 2024",
+      "reason": "medzera po ordináli (B)"
+    }
+  ]
+}

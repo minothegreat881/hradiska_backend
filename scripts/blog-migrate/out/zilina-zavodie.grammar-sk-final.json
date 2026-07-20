@@ -1,0 +1,56 @@
+{
+  "slug": "zilina-zavodie",
+  "note": "HIGH PRIORITY — live excerpt was raw CSS junk, now fixed. Sidebar (Agent 1) populated using pre-existing verified draft (out/zilina-zavodie.timeline.json, batch 28) after re-checking every item against body + correcting 3 issues found during verification. All criticalFixes + appliedFixes from grammar-sk-pass2.json applied. Cross-field sweep clean.",
+  "sidebar": {
+    "timelineCount": 6,
+    "keyFactsCount": 8,
+    "sourceOnlyVerified": true,
+    "note": "Re-used out/zilina-zavodie.timeline.json (pre-existing Agent-1 draft) after verifying every item against blogPost.blocks body text. Corrected 3 issues found during verification: (1) '5.–6. storočie' missing spaces around en dash — fixed to '5. – 6. storočie' to match body; (2) 1923 entry cited '(Bratislava 1923)' — 'Bratislava' as place of publication is NOT stated anywhere in body, so it was removed (no external knowledge); (3) keyFact 'Funkcia hradiska' still said 'útočištné' — updated to 'útočiskové' to match the A7 bohemizmus fix applied to body. Added 1 new keyFact ('Susedné opevnenia', sourced from block 3 listing neighbouring hillforts) to round out density to 8."
+  },
+  "criticalFixesApplied": [
+    {
+      "issue": "Live `excerpt` field was raw CSS junk: 'p { margin-bottom: 0.25cm; ... }p.western {...}p.cjk {...}' — no readable text at all. This was broken on the live site.",
+      "fix": "Replaced with a clean excerpt built from the opening of body block 0 (Toto zaujímavé žilinské hradisko... Dvíha sa spod Žiliny smerom k Hričovu…)."
+    },
+    {
+      "issue": "Image captions/alt for obr.4.jpg (block 5) and obr.5.jpg (block 7) had raw CSS junk prefixed before the real caption text; the `alt` fields were CSS truncated mid-string with no real text at all.",
+      "fix": "CSS stripped from both blocks' caption AND alt (alt set to the same clean caption text, consistent with the alt=caption convention used elsewhere in this article)."
+    },
+    {
+      "issue": "Gallery items matching obr.4.jpg and obr.5.jpg (gallery[1], gallery[2]) had the same CSS junk in their `caption` field.",
+      "fix": "Cleaned to match the fixed body captions."
+    },
+    {
+      "issue": "Gallery item obr.6.JPG (gallery[4], not referenced in body) had the same CSS junk plus 'n.l.' missing a space.",
+      "fix": "Cleaned to 'Zlomky nádob púchovskej kultúry z 1. stor. pred n. l.'"
+    },
+    {
+      "issue": "content.sources.items had 11 entries — 1 real bibliography (Moravčík 2015) + 10 duplicates of gallery photo captions (pohľad na západnú časť opevnenia, predný malý val..., etc., all already present verbatim in gallery[] with their own real captions). Same 10 duplicates also existed in top-level citations[] (12 entries total there, incl. the 'Článok prevzatý z :' intro).",
+      "fix": "Removed all 10 duplicate items from both content.sources.items and citations[]. Kept + reformatted the single real bibliography entry: 'MORAVČÍK, J.: Niektoré opevnenia v centrálnej časti Žilinskej kotliny. In: Hradiská – Svedkovia dávnych čias. Dolná Mariková 2015.' Also fixed stray space-before-colon in intro ('Článok prevzatý z :' → 'Článok prevzatý z:')."
+    }
+  ],
+  "appliedFromPass2": [
+    { "rule": "A9 malé písmeno pri prídavnom mene z vlastného mena", "field": "block 0", "before": "Toto zaujímavé Žilinské hradisko", "after": "Toto zaujímavé žilinské hradisko" },
+    { "rule": "B typografia", "field": "block 0", "before": "dediny Strážov“.", "after": "dediny Strážov\"." },
+    { "rule": "D cross-field (telo vs. timeline)", "field": "block 0", "before": "príspevok R. Zauymusa", "after": "príspevok R. Zaymusa", "confidence": "nízka — nemožno externe overiť, ponechaný vo flags nižšie" },
+    { "rule": "A9 zložené prídavné meno = spojovník", "field": "block 1", "before": "kamenisto – hlinitým valom", "after": "kamenisto-hlinitým valom" },
+    { "rule": "B typografia (atribúcia)", "field": "block 2 + gallery[0]", "before": "hradiska - Martin Gavlás", "after": "hradiska — Martin Gavlás" },
+    { "rule": "A7 bohemizmus", "field": "block 4 + KF 'Funkcia hradiska'", "before": "útočištným opevnením", "after": "útočiskovým opevnením" },
+    { "rule": "A4 predložková väzba", "field": "block 4", "before": "zrejme slúžilo k ochrane obyvateľstva", "after": "zrejme slúžilo na ochranu obyvateľstva" },
+    { "rule": "A1 nadbytočná čiarka (podmet-prísudok)", "field": "block 6", "before": "svojou rozlohou asi 6 ha, je podobné", "after": "svojou rozlohou asi 6 ha je podobné" },
+    { "rule": "A8", "field": "block 6", "before": "kedy tu sídlil ľud", "after": "keď tu sídlil ľud" },
+    { "rule": "B typografia (chýbajúca medzera v en dash)", "field": "timeline (nové)", "before": "5.–6. storočie", "after": "5. – 6. storočie" }
+  ],
+  "crossFieldSweep": {
+    "checkedTerms": ["Zauymusa", "kamenisto –", "útočištn", "k ochrane obyvateľstva", "6 ha, je", "kedy tu sídlil", "5.–6.", "margin-bottom", "hradiska - Martin"],
+    "result": "0 výskytov starých foriem po oprave naprieč telom, excerpt, captions, gallery, sources, citations, timeline, keyFacts."
+  },
+  "skipped": [
+    "'Autor textu: Mgr. Jozef Moravčík' na konci bloku 6 ponechané bez zmeny — atribúcia tretej strany, nejednoznačný prípad na odstránenie (rovnako ako v pass2)."
+  ],
+  "flags": [
+    "R. Zaymusa/Zauymusa — meno opravené na základe zhody s pôvodným (pass2-schváleným) timeline draftom, nie externe overené. Ak sa objaví pôvodný zdroj (Sborník Muzeálnej slovenskej spoločnosti, 1900), over správny tvar."
+  ],
+  "reviewFile": "out/zilina-zavodie.review.json",
+  "uploadReady": true
+}

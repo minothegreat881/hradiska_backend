@@ -1,0 +1,72 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "stredná doba laténska",
+      "title": "Najstaršie doložené osídlenie",
+      "description": "Najstaršie osídlenie hradiska je doložené v strednej dobe laténskej.",
+      "type": "era"
+    },
+    {
+      "year": "doba sťahovania národov",
+      "title": "Osídlenie v dobe sťahovania národov",
+      "description": "Hradisko bolo osídlené aj v dobe sťahovania národov.",
+      "type": "era"
+    },
+    {
+      "year": "9.-10. stor.",
+      "title": "Vrchol osídlenia za Veľkej Moravy",
+      "description": "Najväčší a najdôležitejší súbor nálezov pochádza z včasného stredoveku, z 9.-10. storočia, teda z obdobia existencie Veľkej Moravy.",
+      "type": "era"
+    },
+    {
+      "year": "prelom 9. a 10. stor.",
+      "title": "Zánik hradiska",
+      "description": "Nálezová situácia (keramika, kovové predmety) naznačuje zánik hradiska na prelome 9. a 10. storočia.",
+      "type": "destruction"
+    },
+    {
+      "year": "posledné roky",
+      "title": "Objavenie hradiska archeológmi",
+      "description": "Archeológovia objavili doposiaľ neznáme slovanské hradisko v obci Dolné Vestenice; nasledoval archeologický výskum AU SAV pod vedením Karola Pietu za účasti OZ Hradiská.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha a tvar",
+      "value": "približne 0,5 ha, podlhovastý tvar, poloha pripomína stolovú horu",
+      "icon": "mountain"
+    },
+    {
+      "label": "Poloha",
+      "value": "na rozhraní Dolných Vesteníc a Uhrovského Podhradia, nad údolím Hradištnica",
+      "icon": "map"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "mohutný val na severnej strane (aj s pôvodným vstupom), inde drevená palisáda",
+      "icon": "shield"
+    },
+    {
+      "label": "Remeselná výroba",
+      "value": "doložená výroba šperkárov, kovolejárov a kováčov vrátane sekerovitých hrivien",
+      "icon": "custom"
+    },
+    {
+      "label": "Významné nálezy",
+      "value": "ostrohy s háčikmi, fragmenty krúžkovej zbroje, olovené ingoty, fragment oloveného kríža, hroty šípov",
+      "icon": "star"
+    },
+    {
+      "label": "Archeologický výskum",
+      "value": "realizovaný AU SAV pod vedením Karola Pietu, za účasti OZ Hradiská",
+      "icon": "book"
+    },
+    {
+      "label": "Nálezy v okolí",
+      "value": "pri úpätí hradiska a v širšom okolí sa našlo viac ojedinelých nálezov a depotov hrivien a náradia",
+      "icon": "building"
+    }
+  ]
+}

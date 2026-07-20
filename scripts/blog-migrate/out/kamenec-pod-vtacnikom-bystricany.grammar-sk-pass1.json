@@ -1,0 +1,24 @@
+{
+  "slug": "kamenec-pod-vtacnikom-bystricany",
+  "note": "grammar-sk agent, prvý (a jediný predchádzajúci) prechod — kategória 'Strážna a hospodárska funkcia' nikdy predtým gramaticky spracovaná. Krátky článok (7 blokov + zdroje), žiadny quote-block, žiadna chránená zóna.",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "B typografia (apozícia menom, hyphen -> em dash)", "before": "vybudovali hradisko - Hrádok, ktoré slúžilo", "after": "vybudovali hradisko — Hrádok, ktoré slúžilo", "block": 1 },
+    { "rule": "A3 zhoda podmetu s prísudkom (dvojnásobný podmet -> plurál)", "before": "a dvoma sondami sa zistila aj štruktúra a časové zaradenie samotného hradiska", "after": "a dvoma sondami sa zistili aj štruktúra a časové zaradenie samotného hradiska", "block": 3 },
+    { "rule": "A2 pozícia zvratného sa (posun za uzavretú vsuvku)", "before": "brány č. 2, našla sa na krátkom úseku súvislá vrstva", "after": "brány č. 2, sa našla na krátkom úseku súvislá vrstva", "block": 5 },
+    { "rule": "A7 bohemizmus (jedná sa o -> ide o) + A4 pádová väzba (o rozmeroch -> s rozmermi) + B typografia (x -> ×)", "before": "Jedná sa o štvorcovitú kamennú stavbu o rozmeroch 9,5 x 9,8 m", "after": "Ide o štvorcovitú kamennú stavbu s rozmermi 9,5 × 9,8 m", "block": 5 },
+    { "rule": "B typografia (apozícia menom, hyphen -> em dash)", "before": "na ktorej je donjon - Dvorčená skala", "after": "na ktorej je donjon — Dvorčená skala", "block": 5 },
+    { "rule": "A3 zhoda podmetu s prísudkom (dvojnásobný podmet -> plurál)", "before": "Nie je zatiaľ známa štruktúra a celkový charakter vnútorného valu", "after": "Nie sú zatiaľ známe štruktúra a celkový charakter vnútorného valu", "block": 7 },
+    { "rule": "A7 predložka 'u' + vec je chybná -> 'pri'", "before": "čo je častý úkaz práve u púchovských hradísk", "after": "čo je častý úkaz práve pri púchovských hradiskách", "block": 7 },
+    { "rule": "A8/typografia (rozpálkovaný preklep veľkého I, medzera pred otáznikom)", "before": "NIekoľko pohľadov na lužické (slovanské ?) valy", "after": "Niekoľko pohľadov na lužické (slovanské?) valy", "block": "gallery (Niekoľko pohľadov na valy, mimo tela — obrázok nie je v content.image-block)" },
+    { "rule": "B typografia (apozícia, hyphen -> em dash)", "before": "Foto (autor - Rusalka):", "after": "Foto (autor — Rusalka):", "block": "citations" },
+    { "rule": "OCR/extrakcia — zlepené dve bibliografické položky bez oddeľovača", "before": "Horná Nitra III, 1966D. Bialeková: Pramene", "after": "Horná Nitra III, 1966. D. Bialeková: Pramene", "block": "sources + citations (rovnaký text na oboch miestach)" }
+  ],
+  "reviewed_no_change": [
+    "'resp.' (2×, excerpt aj block 1/2) — bežná skratka, konzistentná v celom článku, neopravené.",
+    "'Veľkomoravskej ríše' veľkým — vlastný názov štátu (analogické 'Uhorské kráľovstvo', §21.1 A9), nie opisný prívlastok — ponechané veľkým.",
+    "'cca 6 km' — bez bodky, správne, žiadny zásah.",
+    "'špeciálka' (gallery caption) — neobvyklý, ale nie gramaticky chybný popisok, ponechané."
+  ],
+  "flags": []
+}

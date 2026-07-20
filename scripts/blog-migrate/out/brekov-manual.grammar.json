@@ -1,0 +1,17 @@
+{
+  "slug": "brekov",
+  "appliedFixes": [
+    { "id": "01+02", "type": "závažné", "note": "Bloky 9 a 11 (skupinový záver z porovnávacej štúdie viacerých východoslovenských hradísk — plurál 'týchto hradísk', metatext 'v práci'/'autori') odstránené v celom rozsahu, keďže sa netýkajú konkrétne Brekova a bez prístupu k pôvodnej štúdii nemožno spoľahlivo doplniť, o ktoré hradiská išlo. Zvolená druhá z dvoch možností navrhnutých v reporte." },
+    { "id": "01-KF", "note": "KF 'Charakter hradiska: pravdepodobne útočištný aj obranný' a 'Dĺžka osídlenia: približne jedna až dve generácie' odstránené — boli odvodené z odstráneného skupinového textu, nie z Brekov-špecifických zistení." },
+    { "id": "02-timeline", "note": "Timeline event '70. a 80. roky 20. storočia — Zhrnutie poznatkov o hradiskách' odstránený — bol to metatext o štúdii, nie skutočná udalosť v dejinách Brekova." },
+    { "id": "04", "type": "bibliografia", "note": "Doplnený zdroj 'Archeologické výskumy a nálezy na Slovensku (AVANS), Nitra 1999' popri existujúcej URL valka.cz. Potvrdené nálezom obrázka 'Avans 1999.jpg' v Media Library (id 1718, Obr. 90 Brekov, Archeologický ústav SAV Nitra) — obrázok nebol vložený do tela, len použitý na overenie zdroja." },
+    { "id": "06", "type": "predložková zhoda", "note": "do konca 9. a k začiatku 10. storočia -> do konca 9. a na začiatok 10. storočia (blok 2 aj timeline 'Datovanie nájdenej keramiky')." },
+    { "id": "10", "type": "typografia", "note": "70 x 40 m -> 70 × 40 m (telo blok 6, KF, timeline)." },
+    { "id": "11", "type": "typografia", "note": "Spojovníky v rozsahoch nahradené en dashom s medzerami: 8.-10. storočia (blok 1, KF, timeline), 9.-10. storočie (blok 6, timeline), SV-JZ (blok 6, KF, timeline), koniec 9.-začiatok 10. (timeline)." },
+    { "id": "12", "type": "nesúlad s KF", "note": "hlinené prasleny -> hlinené praslene (blok 1 aj timeline 'Záchranný archeologický výskum')." },
+    { "id": "13", "note": "útočištný sa vyskytovalo len v odstránených blokoch 9/KF — netreba samostatnú opravu." },
+    { "id": "14", "note": "Tag 'Menšie hradiská' overený — používa sa aj v Podbranč, Jasenica, Hradište pod Vrátnom, Zámčisko Modra. Zámerná kategória, netreba meniť." },
+    { "id": "05,07,08,09", "note": "Findings sa nachádzali výhradne v odstránených blokoch 9/11, stali sa bezpredmetnými." }
+  ],
+  "openQuestion": "03 - vyriešené: používateľ zvolil doplnenie vety. Pridaná veta do bloku 0 (perex): 'Na Brekovskom hradnom kopci sa nachádzalo menšie slovanské strážne hradisko z 8. – 10. storočia, jedno z viacerých takýchto hradísk severovýchodného Slovenska, ktoré strážilo cestu údolím Laborca.' — postavená výlučne na faktoch už prítomných v článku (blok 6, tag 'Menšie hradiská')."
+}

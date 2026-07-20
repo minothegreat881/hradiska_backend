@@ -1,0 +1,31 @@
+{
+  "slug": "molpir",
+  "flags": [
+    {
+      "type": "BIBLIO_IN_BODY",
+      "location": "blocks[posledný rich-text blok, 'Lit:' ...]",
+      "note": "Bibliografia (Dvořák 2003, Hulínek & Čajka 2004, Stegmann-Rajtár 2008, Turčan 1994/1995) je vložená priamo v tele za textom 'Lit:' a 'www.smolenice.sk', ale `citations`/`sources` sú prázdne ([]). Molpír nemá `content.sources` blok vôbec. Odporúčam pri ďalšom kroku (mimo rozsahu grammar-sk) presunúť tieto záznamy do `content.sources`/`citations`."
+    },
+    {
+      "type": "STRUCTURAL_ARTEFAKT",
+      "location": "posledný rich-text blok, za 'Najzaujímavejšie slovanské nálezy z Molpíra:'",
+      "text": "Fotogaléria\\n \\n   \\n  \\n  ... (viacero prázdnych riadkov) ... Pozrite si tiež:",
+      "note": "Za nadpisom 'Najzaujímavejšie slovanské nálezy z Molpíra:' nasleduje osamotené slovo 'Fotogaléria' a rad prázdnych riadkov — pravdepodobne artefakt vloženej fotogalérie z pôvodného blogu, ktorá sa v extrakcii nezachovala ako obsah. Nezasahované do slovného poradia/mazania, len na vedomie (§21.10 vzor osirotených fragmentov)."
+    },
+    {
+      "type": "MISSING_WORD_SOFT",
+      "location": "blocks['Hradisko kalenderberskej kultúry bolo...'] — veta 'Na akropole boli budované aj z vnútornej strany pozdĺž opevnenia.'",
+      "note": "Veta nemá explicitné podstatné meno-podmet (elidovaný, pravdepodobne 'domy' z predchádzajúcej vety). Gramaticky sa zhoduje (plurál), význam je čitateľný z kontextu, preto nezmenené — len na vedomie pre prípad, že extrakcia vynechala slovo."
+    },
+    {
+      "type": "STYLE_INCONSISTENCY",
+      "location": "telo",
+      "note": "Článok strieda dve rôzne značenia letopočtu pred Kristom: 'pred Kr.' (úvodný odsek) a 'p. n. l.' (odsek o zániku hradiska). Nezjednotené, keďže by to bola štylistická voľba nad rámec gramatickej opravy — len na vedomie."
+    },
+    {
+      "type": "UNCERTAIN_MEANING",
+      "location": "blocks['Už v rokoch 1890 a 1895 preskúmal smolenický farár...'] — 'Zistil opevnenie troma obrannými múrmi'",
+      "note": "Väzba 'Zistil opevnenie troma obrannými múrmi' je štylisticky stlačená/nejasná (chýba zjavne predložka alebo sloveso 'opevnené'). Nezmenené, keďže ide o možnú zámernú skratku dobového odborného textu a oprava by mohla zmeniť význam bez istoty."
+    }
+  ]
+}

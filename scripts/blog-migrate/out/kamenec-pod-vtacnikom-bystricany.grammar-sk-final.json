@@ -1,0 +1,35 @@
+{
+  "slug": "kamenec-pod-vtacnikom-bystricany",
+  "sourceDraft": "out/kamenec-pod-vtacnikom-bystricany.grammar-sk-pass1.json",
+  "appliedAt": "2026-07-15",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "B typografia (apozícia menom, hyphen -> em dash)", "before": "vybudovali hradisko - Hrádok, ktoré slúžilo", "after": "vybudovali hradisko — Hrádok, ktoré slúžilo", "block": 1 },
+    { "rule": "A3 zhoda podmetu s prísudkom (dvojnásobný podmet -> plurál)", "before": "a dvoma sondami sa zistila aj štruktúra a časové zaradenie samotného hradiska", "after": "a dvoma sondami sa zistili aj štruktúra a časové zaradenie samotného hradiska", "block": 3 },
+    { "rule": "A2 pozícia zvratného sa (posun za uzavretú vsuvku)", "before": "brány č. 2, našla sa na krátkom úseku súvislá vrstva", "after": "brány č. 2, sa našla na krátkom úseku súvislá vrstva", "block": 5 },
+    { "rule": "A7 bohemizmus (jedná sa o -> ide o) + A4 pádová väzba (o rozmeroch -> s rozmermi) + B typografia (x -> ×)", "before": "Jedná sa o štvorcovitú kamennú stavbu o rozmeroch 9,5 x 9,8 m", "after": "Ide o štvorcovitú kamennú stavbu s rozmermi 9,5 × 9,8 m", "block": 5 },
+    { "rule": "B typografia (apozícia menom, hyphen -> em dash)", "before": "na ktorej je donjon - Dvorčená skala", "after": "na ktorej je donjon — Dvorčená skala", "block": 5 },
+    { "rule": "A3 zhoda podmetu s prísudkom (dvojnásobný podmet -> plurál)", "before": "Nie je zatiaľ známa štruktúra a celkový charakter vnútorného valu", "after": "Nie sú zatiaľ známe štruktúra a celkový charakter vnútorného valu", "block": 7 },
+    { "rule": "A7 predložka 'u' + vec je chybná -> 'pri'", "before": "čo je častý úkaz práve u púchovských hradísk", "after": "čo je častý úkaz práve pri púchovských hradiskách", "block": 7 },
+    { "rule": "A8/typografia (rozpálkovaný preklep veľkého I, medzera pred otáznikom)", "before": "NIekoľko pohľadov na lužické (slovanské ?) valy", "after": "Niekoľko pohľadov na lužické (slovanské?) valy", "block": "gallery" },
+    { "rule": "B typografia (apozícia, hyphen -> em dash)", "before": "Foto (autor - Rusalka):", "after": "Foto (autor — Rusalka):", "block": "citations" },
+    { "rule": "OCR/extrakcia — zlepené dve bibliografické položky bez oddeľovača", "before": "Horná Nitra III, 1966D. Bialeková: Pramene", "after": "Horná Nitra III, 1966. D. Bialeková: Pramene", "block": "sources + citations" }
+  ],
+  "crossFieldPropagation_step2": {
+    "excerpt": "Fixed independently — had its OWN uncorrected error ('o osídlenia' -> 'o osídlení', genitive instead of locative after 'o') that did not even exist in body block 1 (body already said 'o osídlení'), plus propagated the 'hradisko - Hrádok' -> 'hradisko — Hrádok' dash fix.",
+    "keyFacts": "'Donjon' value: propagated '9,5 x 9,8 m' -> '9,5 × 9,8 m' (× multiplication typography, same number as body block 5).",
+    "timeline": "'Stavba donjonu' description: propagated '9,5 x 9,8 m' -> '9,5 × 9,8 m' (same fix, 3rd occurrence of this figure in the article).",
+    "title_note": "Title 'Kamenec pod Vtáčnikom/Bystričany' — no grammar issue, left unchanged per established corpus convention (titles are stable display strings).",
+    "tags": "Single tag 'Kamenec pod Vtáčnikom' — no issue, unchanged.",
+    "authorName": "'Orgon' (no diacritic) — matches canonical DB convention confirmed elsewhere in corpus (distinct from in-body 'Orgoň' spelling in citations attribution, which is correct as-is). No change."
+  },
+  "reviewed_no_change": [
+    "'resp.' (2×) — bežná skratka, konzistentná, neopravené.",
+    "'Veľkomoravskej ríše' veľkým — vlastný názov štátu, nie opisný prívlastok — ponechané veľkým.",
+    "'cca 6 km' — bez bodky, správne.",
+    "'špeciálka' (gallery caption) — neobvyklý, ale nie gramaticky chybný popisok."
+  ],
+  "flags_unresolved": [],
+  "blockCountChange": "8 -> 8 (no blocks removed/added)",
+  "uploadReady": true
+}

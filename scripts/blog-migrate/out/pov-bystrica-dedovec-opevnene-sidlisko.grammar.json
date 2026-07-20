@@ -1,0 +1,100 @@
+{
+  "corrections": [
+    {
+      "path": "blogPost.excerpt",
+      "before": "v rokoch 1957 - 1958 pod vedením A. Petrovského-Šichmana.",
+      "after": "v rokoch 1957 – 1958 pod vedením A. Petrovského-Šichmana.",
+      "reason": "typografia: pomlčka v rozsahu rokov (zhoda s KF6/TL1)"
+    },
+    {
+      "path": "blogPost.blocks[0].body[0].children[0].text",
+      "before": "v rokoch 1957 - 1958 pod vedením A. Petrovského-Šichmana.",
+      "after": "v rokoch 1957 – 1958 pod vedením A. Petrovského-Šichmana.",
+      "reason": "typografia: pomlčka v rozsahu rokov (zhoda s KF6/TL1)"
+    },
+    {
+      "path": "blogPost.excerpt",
+      "before": "Sídlisko je dosiaľ najlepšie preskúmaným",
+      "after": "Sídlisko je doteraz najlepšie preskúmaným",
+      "reason": "bohemizmus: \"dosiaľ\" -> \"doteraz\""
+    },
+    {
+      "path": "blogPost.blocks[0].body[0].children[0].text",
+      "before": "Sídlisko je dosiaľ najlepšie preskúmaným",
+      "after": "Sídlisko je doteraz najlepšie preskúmaným",
+      "reason": "bohemizmus: \"dosiaľ\" -> \"doteraz\""
+    },
+    {
+      "path": "blogPost.timeline[1].description",
+      "before": "a stala sa dosiaľ najlepšie preskúmaným sídliskom",
+      "after": "a stala sa doteraz najlepšie preskúmaným sídliskom",
+      "reason": "bohemizmus: \"dosiaľ\" -> \"doteraz\" (timeline)"
+    },
+    {
+      "path": "blogPost.blocks[2].body[0].children[0].text",
+      "before": "na ploche s rozmermi 57 x 46 m preskúmalo",
+      "after": "na ploche s rozmermi 57 × 46 m preskúmalo",
+      "reason": "typografia: × namiesto x (zhoda s KF0)"
+    },
+    {
+      "path": "blogPost.blocks[2].body[0].children[0].text",
+      "before": "rozličné, 10 - 45 cm zahĺbené objekty",
+      "after": "rozličné, 10 – 45 cm zahĺbené objekty",
+      "reason": "typografia: pomlčka"
+    },
+    {
+      "path": "blogPost.blocks[2].body[0].children[0].text",
+      "before": "plochou 4 m2 a väčšie",
+      "after": "plochou 4 m² a väčšie",
+      "reason": "typografia: m² (horný index)"
+    },
+    {
+      "path": "blogPost.blocks[2].body[0].children[0].text",
+      "before": "(pod 4 m2) s ohniskom",
+      "after": "(pod 4 m²) s ohniskom",
+      "reason": "typografia: m²"
+    },
+    {
+      "path": "blogPost.blocks[2].body[0].children[0].text",
+      "before": "s plochou nad 4 m2 išlo",
+      "after": "s plochou nad 4 m² išlo",
+      "reason": "typografia: m²"
+    },
+    {
+      "path": "blogPost.blocks[2].body[0].children[0].text",
+      "before": "s plochou 0,8 - 2,8 m2.",
+      "after": "s plochou 0,8 – 2,8 m².",
+      "reason": "typografia: pomlčka + m²"
+    },
+    {
+      "path": "blogPost.blocks[5].body[0].children[0].text",
+      "before": "nejednalo sa o „otvorenú“ osadu",
+      "after": "nešlo o „otvorenú“ osadu",
+      "reason": "bohemizmus: \"jednalo sa o\" -> \"išlo o\" (záporný tvar)"
+    },
+    {
+      "path": "blogPost.blocks[10].body[0].children[0].text",
+      "before": "bolo 7 zachovaných v celku",
+      "after": "bolo sedem zachovaných vcelku",
+      "reason": "nízka číslovka slovom v súvislom texte + \"vcelku\" jedným slovom (zhoda s KF2)"
+    },
+    {
+      "path": "blogPost.blocks[10].body[0].children[2].text",
+      "before": "domácu remeselnú činnosť - železné ihly",
+      "after": "domácu remeselnú činnosť – železné ihly",
+      "reason": "typografia: pomlčka"
+    },
+    {
+      "path": "blogPost.blocks[10].body[0].children[2].text",
+      "before": "hlinené prasleny, kamenné brúsiky",
+      "after": "hlinené praslene, kamenné brúsiky",
+      "reason": "tvaroslovie: praslene (nie prasleny)"
+    },
+    {
+      "path": "blogPost.blocks[16].body[0].children[0].text",
+      "before": "Je dosť možné, že sa jednalo o akýsi druh",
+      "after": "Je dosť možné, že išlo o akýsi druh",
+      "reason": "bohemizmus: \"jednalo sa o\" -> \"išlo o\""
+    }
+  ]
+}

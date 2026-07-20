@@ -1,0 +1,7 @@
+{
+  "_note": "grammar-sk v7 §21 — aktualita 'ANKETA' (2014-05). Autorova SK próza. Titulok fix (patch bp.title): 'ANKETA !!!!!  '→'ANKETA!!!!!'. FLAG (nemeniť): typAktivity=podujatie ponechané per rozhodnutie používateľa, hoci anketa ~ ine.",
+  "corrections": [
+    { "hint": 0, "before": "z dôvodu že ich majitelia sa boja že by", "after": "z dôvodu, že sa ich majitelia boja, že by", "reason": "čiarky pred 'že' (A1) + poloha zvratného 'sa' (A2)" },
+    { "hint": 1, "before": "za účelom vedeckého skúmania", "after": "s cieľom vedeckého skúmania", "reason": "kalk 'za účelom' → 's cieľom' (A7)" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "slug": "bosaca-srniansky-haj",
+  "note": "grammar-sk pass1 (draft) aplikovaný priamo + pass2 cross-field konzistencia. Editované priamo v out/bosaca-srniansky-haj.intermediate.json. Regresný test §21.8 splnený (Holuby 1924 citát: 0 zmien slov).",
+  "step2_crossfield_checks": [
+    { "field": "keyFacts[] a timeline[]", "result": "Plne skontrolované — všetky hodnoty (rozloha, dĺžky valov, mená autorov výskumu Holuby/Janšák, rok 1859/1930/1983) sú konzistentné s opraveným telom. Žiadny stale-form nález (žiadne rímske číslice, žiadne '3x4'-štýl zápisy, žiadne staré tvary mien). KeyFact 'Priekopa v sedle' používa 'val f-g' (spojovník) oproti telu 'val f, g' (čiarka) — technická notácia bodového značenia, nie gramatická chyba, ponechané v oboch podobách." },
+    { "field": "excerpt", "result": "1 nález, opravený súbežne s telom: 'z Bošáckej doliny - Srňanský háj' → 'z Bošáckej doliny — Srňanský háj' (apozičná pomlčka)." },
+    { "field": "media captions (image-block + gallery[] duplicitná položka)", "result": "1 obrázok (PB290692.JPG) existuje aj v tele aj v gallery[] — capitalizácia a fotokredit ('Foto: M. Krajčovič', presunutý z osiroteného textového fragmentu na konci Holubyho bloku) doplnené na OBOCH miestach." },
+    { "field": "title, tags, authorName", "result": "title a tags ponechané nedotknuté (obsahujú 'Srniansky Háj' — pozri PLACE_NAME_VARIANT flag, mimo mechanického rozsahu opravy). authorName opravené 'Unknown' → 'Orgon'." },
+    { "field": "citations[] / content.sources", "result": "2 bibliografické citácie (Janšák 1930, Bialeková 1989) + 1 URL zdroj zosynchronizované medzi content.sources.items a blogPost.citations[], v rovnakom poradí. Tretia pôvodná 'citácia' (heading 'Národopisný Věstník Českoslovanský XVII. 1924') sa nepresunula do sources — jej informácia je teraz nosená poľom quote-block.source, keďže ide špecificky o zdroj práve tohto citátu, nie všeobecný odkaz na ďalšie čítanie." }
+  ],
+  "step2_scan_result": "Plný sken tela + keyFacts + timeline + excerpt + tags + title na rímske číslice, číselné rozsahy na pomlčku, 'AxB' zápis, bohemizmy, diakritiku — mimo appliedFixes v pass1 žiadny ďalší nález. Osobitná pozornosť venovaná overeniu, že žiadna z opráv v tele (najmä A2 sa-pozícia fixy) nezasiahla do textu vnútri content.quote-block (bola aplikovaná mimo neho, blok samotný editovaný len pri OCR/zalomení podľa §21.3).",
+  "flags_unresolved": [
+    "Pozri out/bosaca-srniansky-haj.review.json — PLACE_NAME_VARIANT (title/tags 'Srniansky Háj' vs. telo+citát 'Srňanský háj')."
+  ],
+  "protected_zone_verification": "Holubyho citát (Národopisný Věstník Českoslovanský XVII, 1924) — teraz formálne content.quote-block. 0 zmien slov, iba 3 mechanické opravy zalomenia z tlače (§21.3 explicitne povolená kategória). Programaticky overené: word count 442/442, všetkých 8 referenčných tvarov z §21.3 zoznamu prítomných a nedotknutých. Osirotený fragment 'Foto M. Krajčovič:' (nebol súčasťou citátu, iný register/autor) extrahovaný a zlúčený do captions najbližšieho obrázka namiesto zmazania (dokumentované vyššie).",
+  "upload_ready": true
+}

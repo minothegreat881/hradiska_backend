@@ -1,0 +1,808 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label28-hradiste-partizanske.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-6167302425273782431",
+    "bloggerPostUrl": "http://www.hradiska.sk/2014/04/hradiste-pri-partizanskom.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/6167302425273782431/comments/default",
+    "extractedAt": "2026-07-15T17:53:35.441Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&ll=48.685889,18.376554&spn=0.005716,0.016404&t=h&z=17&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 17,
+      "captionedImages": 7,
+      "separatorImages": 10
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Hradište (pri Partizánskom) ",
+    "slug": "hradiste-pri-partizanskom",
+    "excerpt": "Výšinné hradisko v Hradišti je prírodný útvar, ktorý sa nachádza na najužšom mieste nitrickej doliny, na pravom brehu rieky Nitrice. Z geologického hľadiska menšiu časť hradiska nazývanú Pravdová zo severnej a severovýchodnej strany tvoria…",
+    "authorName": "Orgon",
+    "publishedAt": "2014-04-10T20:49:00.002+02:00",
+    "originalPublishedDate": "2014-04-10T20:49:00.002+02:00",
+    "updatedAt": "2018-08-03T21:37:36.764+02:00",
+    "readingTime": 7,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJT4wVGz3BGIb1JAlddFaXTC9nJZt14xwFbyTr73YWzcJT_Kr7JBcLStyhHcjaUY6A1UzVmNPhF4KIxkWmyUpylGWR8Mho2U3Ii7LyIAd5wXTH8XEl06ZzCbMoIe0i6D3J2Ab8L7_Miia/s0/DJI_0080aaa.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJT4wVGz3BGIb1JAlddFaXTC9nJZt14xwFbyTr73YWzcJT_Kr7JBcLStyhHcjaUY6A1UzVmNPhF4KIxkWmyUpylGWR8Mho2U3Ii7LyIAd5wXTH8XEl06ZzCbMoIe0i6D3J2Ab8L7_Miia/s1600/DJI_0080aaa.JPG",
+      "filename": "DJI_0080aaa.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJT4wVGz3BGIb1JAlddFaXTC9nJZt14xwFbyTr73YWzcJT_Kr7JBcLStyhHcjaUY6A1UzVmNPhF4KIxkWmyUpylGWR8Mho2U3Ii7LyIAd5wXTH8XEl06ZzCbMoIe0i6D3J2Ab8L7_Miia/s1600/DJI_0080aaa.JPG",
+        "displayedWidth": 320,
+        "displayedHeight": 240,
+        "originalWidth": 1600,
+        "originalHeight": 1200
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJT4wVGz3BGIb1JAlddFaXTC9nJZt14xwFbyTr73YWzcJT_Kr7JBcLStyhHcjaUY6A1UzVmNPhF4KIxkWmyUpylGWR8Mho2U3Ii7LyIAd5wXTH8XEl06ZzCbMoIe0i6D3J2Ab8L7_Miia/s0/DJI_0080aaa.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJT4wVGz3BGIb1JAlddFaXTC9nJZt14xwFbyTr73YWzcJT_Kr7JBcLStyhHcjaUY6A1UzVmNPhF4KIxkWmyUpylGWR8Mho2U3Ii7LyIAd5wXTH8XEl06ZzCbMoIe0i6D3J2Ab8L7_Miia/s1600/DJI_0080aaa.JPG",
+        "filename": "DJI_0080aaa.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJT4wVGz3BGIb1JAlddFaXTC9nJZt14xwFbyTr73YWzcJT_Kr7JBcLStyhHcjaUY6A1UzVmNPhF4KIxkWmyUpylGWR8Mho2U3Ii7LyIAd5wXTH8XEl06ZzCbMoIe0i6D3J2Ab8L7_Miia/s1600/DJI_0080aaa.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie6XKW_1eZ88MfiZ3-fXqRjzg8ROHlZmqUrlEzChLx8QNQEn7ej1m_xl58MwQQ84etQK3Dbt-GNjBLWJBx0SOKr0zBDBO90hrlCGf5NHJhOGKWlsyWR3abCypp8MFzIyrcYmIfrSB93ps/s0/Toma%CC%81s%CC%8C+Kytka.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie6XKW_1eZ88MfiZ3-fXqRjzg8ROHlZmqUrlEzChLx8QNQEn7ej1m_xl58MwQQ84etQK3Dbt-GNjBLWJBx0SOKr0zBDBO90hrlCGf5NHJhOGKWlsyWR3abCypp8MFzIyrcYmIfrSB93ps/s1600/Toma%CC%81s%CC%8C+Kytka.jpg",
+        "filename": "Tomáš+Kytka.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie6XKW_1eZ88MfiZ3-fXqRjzg8ROHlZmqUrlEzChLx8QNQEn7ej1m_xl58MwQQ84etQK3Dbt-GNjBLWJBx0SOKr0zBDBO90hrlCGf5NHJhOGKWlsyWR3abCypp8MFzIyrcYmIfrSB93ps/s1600/Toma%CC%81s%CC%8C+Kytka.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "foto: Tomáš Kytka"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3YH9QstlptseVISIJ0QoHM1yB2hRWoQKhkrDeLHee_gQOWwXWZrfTpxcEDQmW8KORdEsYl00ByIVKJ5BuCuRvCWilUL6EzHxfXPnEFCqhXsNn6tpp7dFpOJptRHw5czliiOlo8ohd5vnH/s0/DJI_0090aaa.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3YH9QstlptseVISIJ0QoHM1yB2hRWoQKhkrDeLHee_gQOWwXWZrfTpxcEDQmW8KORdEsYl00ByIVKJ5BuCuRvCWilUL6EzHxfXPnEFCqhXsNn6tpp7dFpOJptRHw5czliiOlo8ohd5vnH/s1600/DJI_0090aaa.JPG",
+        "filename": "DJI_0090aaa.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3YH9QstlptseVISIJ0QoHM1yB2hRWoQKhkrDeLHee_gQOWwXWZrfTpxcEDQmW8KORdEsYl00ByIVKJ5BuCuRvCWilUL6EzHxfXPnEFCqhXsNn6tpp7dFpOJptRHw5czliiOlo8ohd5vnH/s1600/DJI_0090aaa.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdusbkrIV4LVUXAQwi7lmn9-jwFAhfTt_d7LcYkbA9Kqmi2N0x-t3EVcLVilWoRnTm6QNwv5X5-ExHiDqtq4dVhON7ru1OkZmsfTBU67Nb3-tal8cEDayGCd1AEO5h3o-A5sVBzWdAQdF/s0/DJI_0097aaa.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdusbkrIV4LVUXAQwi7lmn9-jwFAhfTt_d7LcYkbA9Kqmi2N0x-t3EVcLVilWoRnTm6QNwv5X5-ExHiDqtq4dVhON7ru1OkZmsfTBU67Nb3-tal8cEDayGCd1AEO5h3o-A5sVBzWdAQdF/s1600/DJI_0097aaa.JPG",
+        "filename": "DJI_0097aaa.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdusbkrIV4LVUXAQwi7lmn9-jwFAhfTt_d7LcYkbA9Kqmi2N0x-t3EVcLVilWoRnTm6QNwv5X5-ExHiDqtq4dVhON7ru1OkZmsfTBU67Nb3-tal8cEDayGCd1AEO5h3o-A5sVBzWdAQdF/s1600/DJI_0097aaa.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYsScTNPZQyWuhxCJ7KtH2VKdykwKgOMgD5fvIqAhm4RbqPXdi48q1-4hXkulKUtZb4hBjFFaBy5WnSuL7Gz4ZmrICowNv9CNJdrGZ5RL5wXB5cT8KLWDkQibzVNqesIHb9XuCjoe2Rfk/s0/po%CC%82dorys+jans%CC%8Ca%CC%81k.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYsScTNPZQyWuhxCJ7KtH2VKdykwKgOMgD5fvIqAhm4RbqPXdi48q1-4hXkulKUtZb4hBjFFaBy5WnSuL7Gz4ZmrICowNv9CNJdrGZ5RL5wXB5cT8KLWDkQibzVNqesIHb9XuCjoe2Rfk/s1600/po%CC%82dorys+jans%CC%8Ca%CC%81k.jpg",
+        "filename": "pôdorys+janšák.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYsScTNPZQyWuhxCJ7KtH2VKdykwKgOMgD5fvIqAhm4RbqPXdi48q1-4hXkulKUtZb4hBjFFaBy5WnSuL7Gz4ZmrICowNv9CNJdrGZ5RL5wXB5cT8KLWDkQibzVNqesIHb9XuCjoe2Rfk/s1600/po%CC%82dorys+jans%CC%8Ca%CC%81k.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 249,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFKAWINR9MrvbdzdBIlzx30GZEmXTGyAPk291wI7EKxWeLiADwxxDxLn5NKctyMVFNLGZFQpspUEyjZC6ydkPujvzg4uL6KMJvYEMrwA2X8RA0qhmGFQ4h6LNq8jDDaK6E9_zNoiM9xw/s0/prierez+Jans%CC%8Ca%CC%81k.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFKAWINR9MrvbdzdBIlzx30GZEmXTGyAPk291wI7EKxWeLiADwxxDxLn5NKctyMVFNLGZFQpspUEyjZC6ydkPujvzg4uL6KMJvYEMrwA2X8RA0qhmGFQ4h6LNq8jDDaK6E9_zNoiM9xw/s1600/prierez+Jans%CC%8Ca%CC%81k.jpg",
+        "filename": "prierez+Janšák.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFKAWINR9MrvbdzdBIlzx30GZEmXTGyAPk291wI7EKxWeLiADwxxDxLn5NKctyMVFNLGZFQpspUEyjZC6ydkPujvzg4uL6KMJvYEMrwA2X8RA0qhmGFQ4h6LNq8jDDaK6E9_zNoiM9xw/s1600/prierez+Jans%CC%8Ca%CC%81k.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 207,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1n-7Whd7rsKdb9uW5Cv4r3-Yn54Vej9GGoJfJsFedx2ojON9IjqTW1Mcy6TSvy0yzvooqKYNwkMB6v8QpLmaiOABRtS50v-lhRcpuaXqD5xD_WgLGPiufAUbHuMyrs0jOYRiXW5DIxU/s0/jans%CC%8Ca%CC%81k+kresba.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1n-7Whd7rsKdb9uW5Cv4r3-Yn54Vej9GGoJfJsFedx2ojON9IjqTW1Mcy6TSvy0yzvooqKYNwkMB6v8QpLmaiOABRtS50v-lhRcpuaXqD5xD_WgLGPiufAUbHuMyrs0jOYRiXW5DIxU/s1600/jans%CC%8Ca%CC%81k+kresba.jpg",
+        "filename": "janšák+kresba.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1n-7Whd7rsKdb9uW5Cv4r3-Yn54Vej9GGoJfJsFedx2ojON9IjqTW1Mcy6TSvy0yzvooqKYNwkMB6v8QpLmaiOABRtS50v-lhRcpuaXqD5xD_WgLGPiufAUbHuMyrs0jOYRiXW5DIxU/s1600/jans%CC%8Ca%CC%81k+kresba.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 155,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8qHouPFaakam4hDl7bzXjdIeuH7XLAY9YsVE3GLoBmWiNXao9-zGZ_o4mjzMQO4QnKUcoKVC8VaAI4oetysm3eSZKuz60DGjf7N2FPojBWEpmi38TaINW-fKQvbaJlKgKj-YvcOU1a0g/s0/+Juhoza%CC%81padny%CC%81+svah+hradiska.+.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8qHouPFaakam4hDl7bzXjdIeuH7XLAY9YsVE3GLoBmWiNXao9-zGZ_o4mjzMQO4QnKUcoKVC8VaAI4oetysm3eSZKuz60DGjf7N2FPojBWEpmi38TaINW-fKQvbaJlKgKj-YvcOU1a0g/s1600/+Juhoza%CC%81padny%CC%81+svah+hradiska.+.jpg",
+        "filename": "+Juhozápadný+svah+hradiska.+.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8qHouPFaakam4hDl7bzXjdIeuH7XLAY9YsVE3GLoBmWiNXao9-zGZ_o4mjzMQO4QnKUcoKVC8VaAI4oetysm3eSZKuz60DGjf7N2FPojBWEpmi38TaINW-fKQvbaJlKgKj-YvcOU1a0g/s1600/+Juhoza%CC%81padny%CC%81+svah+hradiska.+.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Juhozápadný svah hradiska."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuKc6vjoeNH80BLNoMPL-SPS3Gq1rk9avpfmJfgq7k3yNRObWnaFCcHxhjlxczx8z1EOgSK-PXw6Dbs0PzMoG8GItm6DOxoxwT0745xej6COsbAAIwnicusdQbnm2A3L34YY5HZ6zCjQ4/s0/+Juz%CC%8Cny%CC%81+svah+hradiska+nebolo+potrebne%CC%81+opevn%CC%8Covat%CC%8C.+.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuKc6vjoeNH80BLNoMPL-SPS3Gq1rk9avpfmJfgq7k3yNRObWnaFCcHxhjlxczx8z1EOgSK-PXw6Dbs0PzMoG8GItm6DOxoxwT0745xej6COsbAAIwnicusdQbnm2A3L34YY5HZ6zCjQ4/s1600/+Juz%CC%8Cny%CC%81+svah+hradiska+nebolo+potrebne%CC%81+opevn%CC%8Covat%CC%8C.+.jpg",
+        "filename": "+Južný+svah+hradiska+nebolo+potrebné+opevňovať.+.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuKc6vjoeNH80BLNoMPL-SPS3Gq1rk9avpfmJfgq7k3yNRObWnaFCcHxhjlxczx8z1EOgSK-PXw6Dbs0PzMoG8GItm6DOxoxwT0745xej6COsbAAIwnicusdQbnm2A3L34YY5HZ6zCjQ4/s1600/+Juz%CC%8Cny%CC%81+svah+hradiska+nebolo+potrebne%CC%81+opevn%CC%8Covat%CC%8C.+.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Južný svah hradiska nebolo potrebné opevňovať."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEg-Fz6wc_FqXKtS4GaVOb3KlkU72Nc20quf9C6MkkWv9J26u3Mf99bwUWEOgen-cVVBObUExY-r4Tj3_K7veNVkapZuw6EqrQvBL4xj2pK2o9H1jfD65gptHOPhp6piGVNt-xPDCUdRk/s0/+Koruna+valu+prebiehaju%CC%81ca+od+za%CC%81padu+az%CC%8C+na+severovy%CC%81chod+je+porastena%CC%81+husty%CC%81mi+trnkami.Mn%CC%8Cam+.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEg-Fz6wc_FqXKtS4GaVOb3KlkU72Nc20quf9C6MkkWv9J26u3Mf99bwUWEOgen-cVVBObUExY-r4Tj3_K7veNVkapZuw6EqrQvBL4xj2pK2o9H1jfD65gptHOPhp6piGVNt-xPDCUdRk/s1600/+Koruna+valu+prebiehaju%CC%81ca+od+za%CC%81padu+az%CC%8C+na+severovy%CC%81chod+je+porastena%CC%81+husty%CC%81mi+trnkami.Mn%CC%8Cam+.jpg",
+        "filename": "+Koruna+valu+prebiehajúca+od+západu+až+na+severovýchod+je+porastená+hustými+trnkami.Mňam+.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEg-Fz6wc_FqXKtS4GaVOb3KlkU72Nc20quf9C6MkkWv9J26u3Mf99bwUWEOgen-cVVBObUExY-r4Tj3_K7veNVkapZuw6EqrQvBL4xj2pK2o9H1jfD65gptHOPhp6piGVNt-xPDCUdRk/s1600/+Koruna+valu+prebiehaju%CC%81ca+od+za%CC%81padu+az%CC%8C+na+severovy%CC%81chod+je+porastena%CC%81+husty%CC%81mi+trnkami.Mn%CC%8Cam+.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Koruna valu prebiehajúca od západu až na severovýchod je porastená hustými trnkami.Mňam"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpstTIaSOCA0-RhWybYtA_aM4hT36k8-x5CZ2UC8g3gHhacE_7YM8lDYib1R9cLJi2RnVEmRsfUyc_lmA8GlxiaQXbV5XTGLM4zWVum3oop2VT2ktnC_sTBk7jLbj1QWrropnJWK2mjc/s0/+Nerovnosti+na+ploche+hradiska.+.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpstTIaSOCA0-RhWybYtA_aM4hT36k8-x5CZ2UC8g3gHhacE_7YM8lDYib1R9cLJi2RnVEmRsfUyc_lmA8GlxiaQXbV5XTGLM4zWVum3oop2VT2ktnC_sTBk7jLbj1QWrropnJWK2mjc/s1600/+Nerovnosti+na+ploche+hradiska.+.jpg",
+        "filename": "+Nerovnosti+na+ploche+hradiska.+.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIpstTIaSOCA0-RhWybYtA_aM4hT36k8-x5CZ2UC8g3gHhacE_7YM8lDYib1R9cLJi2RnVEmRsfUyc_lmA8GlxiaQXbV5XTGLM4zWVum3oop2VT2ktnC_sTBk7jLbj1QWrropnJWK2mjc/s1600/+Nerovnosti+na+ploche+hradiska.+.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Nerovnosti na ploche hradiska."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAl8ADtN7gmM5BVEabgCEewH1oG-ZqxDhU0Ihwk1gLQil5TfkQlEFZO4yoTdeg9OB0cGLtdp08QT1yDBfvp3-mO8WNvt6NK9dSp65Hv5eUsZwgF7yIDJUm0TqV2fRcdrK8gCe29FJZgBQ/s0/+Pohl%CC%8Cad+spod+za%CC%81pane%CC%81ho+valu+na+vrchol+valu.Vy%CC%81s%CC%8Cka+koli%CC%81s%CC%8Ce+od+1,5metra+do+2metrov,podl%CC%8Ca+nerovnosti%CC%81.+.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAl8ADtN7gmM5BVEabgCEewH1oG-ZqxDhU0Ihwk1gLQil5TfkQlEFZO4yoTdeg9OB0cGLtdp08QT1yDBfvp3-mO8WNvt6NK9dSp65Hv5eUsZwgF7yIDJUm0TqV2fRcdrK8gCe29FJZgBQ/s1600/+Pohl%CC%8Cad+spod+za%CC%81pane%CC%81ho+valu+na+vrchol+valu.Vy%CC%81s%CC%8Cka+koli%CC%81s%CC%8Ce+od+1,5metra+do+2metrov,podl%CC%8Ca+nerovnosti%CC%81.+.jpg",
+        "filename": "+Pohľad+spod+zápaného+valu+na+vrchol+valu.Výška+kolíše+od+1,5metra+do+2metrov,podľa+nerovností.+.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAl8ADtN7gmM5BVEabgCEewH1oG-ZqxDhU0Ihwk1gLQil5TfkQlEFZO4yoTdeg9OB0cGLtdp08QT1yDBfvp3-mO8WNvt6NK9dSp65Hv5eUsZwgF7yIDJUm0TqV2fRcdrK8gCe29FJZgBQ/s1600/+Pohl%CC%8Cad+spod+za%CC%81pane%CC%81ho+valu+na+vrchol+valu.Vy%CC%81s%CC%8Cka+koli%CC%81s%CC%8Ce+od+1,5metra+do+2metrov,podl%CC%8Ca+nerovnosti%CC%81.+.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad spod zápaného valu na vrchol valu.Výška kolíše od 1,5metra do 2metrov,podľa nerovností."
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHgPJQY-yz7hIJ4I0imvkqRFXQf-9YzTKFEd8Fq3cQCWGMBRdSJOC6BcCeG67SFVVnlC3x6FaYroJWBOjS4oAcOmJ5AtO70qsasFSHJqg8F_jeJVnsBQwVmFDzZEpC54jNwrlKCpMjCc8/s0/8601_3806758265322_2024917172_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHgPJQY-yz7hIJ4I0imvkqRFXQf-9YzTKFEd8Fq3cQCWGMBRdSJOC6BcCeG67SFVVnlC3x6FaYroJWBOjS4oAcOmJ5AtO70qsasFSHJqg8F_jeJVnsBQwVmFDzZEpC54jNwrlKCpMjCc8/s1600/8601_3806758265322_2024917172_n.jpg",
+        "filename": "8601_3806758265322_2024917172_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHgPJQY-yz7hIJ4I0imvkqRFXQf-9YzTKFEd8Fq3cQCWGMBRdSJOC6BcCeG67SFVVnlC3x6FaYroJWBOjS4oAcOmJ5AtO70qsasFSHJqg8F_jeJVnsBQwVmFDzZEpC54jNwrlKCpMjCc8/s1600/8601_3806758265322_2024917172_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "pohľad z akropoly na predhradie"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdHfgtJ9GJ-_MlBM6TM4RVbfrKa07heCc1JTitA3CvfYB4Pba390y8fEjqD_vfxeCN_cfBEvhJY7ybikqZ-3Af4eKuw_qBWp24W3j4HOmuoPuV37dbR61J1p2MZTAUGaY5z-LzFAabrFk/s0/522402_3806754305223_354919784_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdHfgtJ9GJ-_MlBM6TM4RVbfrKa07heCc1JTitA3CvfYB4Pba390y8fEjqD_vfxeCN_cfBEvhJY7ybikqZ-3Af4eKuw_qBWp24W3j4HOmuoPuV37dbR61J1p2MZTAUGaY5z-LzFAabrFk/s1600/522402_3806754305223_354919784_n.jpg",
+        "filename": "522402_3806754305223_354919784_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdHfgtJ9GJ-_MlBM6TM4RVbfrKa07heCc1JTitA3CvfYB4Pba390y8fEjqD_vfxeCN_cfBEvhJY7ybikqZ-3Af4eKuw_qBWp24W3j4HOmuoPuV37dbR61J1p2MZTAUGaY5z-LzFAabrFk/s1600/522402_3806754305223_354919784_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhODB-3lBFCsasKfiAt0R3JtUxM57IPQED-IT3DkH0yFR8ZEG3Q3OtgC_SKoTKZAfpYxjyLYfSOx6cxpa7lxYw4pIdxicFxPeN5RSHi4xFejAMEGENT7ys_rUsIj6Pr6Dt65t7UJzEZLOI/s0/1533962_3806752065167_1018703877_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhODB-3lBFCsasKfiAt0R3JtUxM57IPQED-IT3DkH0yFR8ZEG3Q3OtgC_SKoTKZAfpYxjyLYfSOx6cxpa7lxYw4pIdxicFxPeN5RSHi4xFejAMEGENT7ys_rUsIj6Pr6Dt65t7UJzEZLOI/s1600/1533962_3806752065167_1018703877_n.jpg",
+        "filename": "1533962_3806752065167_1018703877_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhODB-3lBFCsasKfiAt0R3JtUxM57IPQED-IT3DkH0yFR8ZEG3Q3OtgC_SKoTKZAfpYxjyLYfSOx6cxpa7lxYw4pIdxicFxPeN5RSHi4xFejAMEGENT7ys_rUsIj6Pr6Dt65t7UJzEZLOI/s1600/1533962_3806752065167_1018703877_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTyxh_8M6ZGY7MSuz5LyXeOJtm1WTccacUG8dxiW3YULFdY4aEcCzPwpIcT-UnUdiXxLgN13HE54z5WeKqI9A4YH-MzIy0TPYB-2h-4n_2wdjkmEkeJllCz5QGwkmMQdYZBBvmFBldEJ0/s0/1559880_3806749425101_1415730666_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTyxh_8M6ZGY7MSuz5LyXeOJtm1WTccacUG8dxiW3YULFdY4aEcCzPwpIcT-UnUdiXxLgN13HE54z5WeKqI9A4YH-MzIy0TPYB-2h-4n_2wdjkmEkeJllCz5QGwkmMQdYZBBvmFBldEJ0/s1600/1559880_3806749425101_1415730666_n.jpg",
+        "filename": "1559880_3806749425101_1415730666_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTyxh_8M6ZGY7MSuz5LyXeOJtm1WTccacUG8dxiW3YULFdY4aEcCzPwpIcT-UnUdiXxLgN13HE54z5WeKqI9A4YH-MzIy0TPYB-2h-4n_2wdjkmEkeJllCz5QGwkmMQdYZBBvmFBldEJ0/s1600/1559880_3806749425101_1415730666_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifyZLeMV1Acpje0Ds4t-Mv8W6CravZRtlUNu6Dh8bX3aUb31kKaUS2FeuAMos6gZeNfPWfEVNFL2PoF0c9o7h9uWfQEhPK9i1f1euN_Rypsz6Kmet7aoE8_uLlq5evJhb0JaVh43EpQeY/s0/1560692_3806758705333_2079846533_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifyZLeMV1Acpje0Ds4t-Mv8W6CravZRtlUNu6Dh8bX3aUb31kKaUS2FeuAMos6gZeNfPWfEVNFL2PoF0c9o7h9uWfQEhPK9i1f1euN_Rypsz6Kmet7aoE8_uLlq5evJhb0JaVh43EpQeY/s1600/1560692_3806758705333_2079846533_n.jpg",
+        "filename": "1560692_3806758705333_2079846533_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifyZLeMV1Acpje0Ds4t-Mv8W6CravZRtlUNu6Dh8bX3aUb31kKaUS2FeuAMos6gZeNfPWfEVNFL2PoF0c9o7h9uWfQEhPK9i1f1euN_Rypsz6Kmet7aoE8_uLlq5evJhb0JaVh43EpQeY/s1600/1560692_3806758705333_2079846533_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Hradište (pri Partizánskom)"
+    ],
+    "category": null,
+    "location": {
+      "name": "Hradište (pri Partizánskom)",
+      "latitude": 48.685889,
+      "longitude": 18.376554,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "najužšie miesto nitrickej doliny, pravý breh rieky Nitrice, nadmorská výška 210–260 m",
+        "icon": "map"
+      },
+      {
+        "label": "Rozloha hradiska",
+        "value": "povrch rozdelený na dve časti s celkovým povrchom 6,45 ha",
+        "icon": "building"
+      },
+      {
+        "label": "Opevnenie (podľa Janšáka, 1928)",
+        "value": "val asi 400 m dlhý, v najvyššom bode 5 m vysoký, v základni 60 m široký",
+        "icon": "shield"
+      },
+      {
+        "label": "Autor opisu",
+        "value": "Ing. Štefan Janšák, zakladateľ slovenskej archeológie, historik a pedagóg",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "mladšia doba bronzová – doba halštatská",
+        "title": "Vybudovanie hradiska ľudom lužickej kultúry",
+        "description": "Hradisko vybudoval s najväčšou pravdepodobnosťou ľud lužickej kultúry (mladšia doba bronzová a doba halštatská).",
+        "type": "founding"
+      },
+      {
+        "year": "9. – 10. storočie",
+        "title": "Slovanské osídlenie hradiska",
+        "description": "V období 9. – 10. storočia hradisko využili aj Slovania.",
+        "type": "era"
+      },
+      {
+        "year": "1100",
+        "title": "Vznik románskeho kostola sv. Barnabáša",
+        "description": "Na hradisku stojí románsky kostol sv. Barnabáša, postavený asi v roku 1100, a okolo neho zachovaný cintorín s náhrobnými doskami z 11. a 12. storočia.",
+        "type": "construction"
+      },
+      {
+        "year": "1533",
+        "title": "Prvá písomná zmienka o obci Hradište",
+        "description": "Obec je príkladom starého osídlenia, ktoré nie je zachytené v písomných prameňoch — prvý krát sa spomína až v roku 1533.",
+        "type": "event"
+      },
+      {
+        "year": "11. – 15. storočie",
+        "title": "Sídliskový horizont na polohe Pravdová",
+        "description": "Na polohe Pravdová bol lokalizovaný sídliskový horizont z 11. až 14. – 15. storočia.",
+        "type": "era"
+      },
+      {
+        "year": "15. storočie",
+        "title": "Zrúcanina hradu na Pravdovej",
+        "description": "Podľa lexikónu Magyar országh varmegy (Nyitra) sa v Hradišti na kopci nad osadou v 15. storočí nachádzala zrúcanina hradu.",
+        "type": "destruction"
+      },
+      {
+        "year": "august 1926",
+        "title": "Objav hradiska Š. Janšákom",
+        "description": "Podľa Janšákovho opisu z roku 1928 bolo hradisko objavené autorom v auguste 1926.",
+        "type": "discovery"
+      },
+      {
+        "year": "1928",
+        "title": "Janšákov výskum a opis hradiska",
+        "description": "Výškové a plošné parametre hradiska zmeral v r. 1928 Ing. Štefan Janšák, zakladateľ slovenskej archeológie, a opísal ho v zborníku muzeálnej spoločnosti.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výšinné hradisko v Hradišti je prírodný útvar, ktorý sa nachádza na najužšom mieste nitrickej doliny, na pravom brehu rieky Nitrice. Z geologického hľadiska menšiu časť hradiska nazývanú Pravdová zo severnej a severovýchodnej strany tvoria neprístupné dolomitické vápence. Prevažná časť areálu hradiska sa skladá z piesočnatého podložia. Prikryté je hlinito-piesočnatou a hlinitou zeminou, ktorá dnes slúži ako orná pôda.\n \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Piesočnatý substrát na južnej strane hradiska sa viac používal ako stavebný materiál. Keď sa dolovanie piesku priblížilo ku kostolu, ďalšie práce z bezpečnostných dôvodov zakázali. Vrstva zeminy nad piesočnatým substrátom je rôznej hrúbky. Na niektorých miestach sa pri hĺbkovej orbe vyorávajú kamene. Hradisko v praveku slúžilo ako sídlisko ľudských spoločenstiev. Malo obrannú funkciu a bolo z troch strán neprístupné. Obrana kopca bola z otvorenej strany posilnená hlineným valom, ktorého zvyšky sa zachovali dodnes. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko sa nachádza v nadmorskej výške 210 m, jeho najvyšší bod je 260 m. Má nerovný sedlový povrch, ktorý sa tiahne východo-západným smerom. Plocha hradiska, ktorú z menšej časti pokrýva mačina, sa využíva na pasenie dobytka. Menšia plocha je zastavená kostolom, v jeho blízkosti je umiestnený starý a nový cintorín. Najväčšia plocha areálu hradiska slúži ako orná pôda. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJT4wVGz3BGIb1JAlddFaXTC9nJZt14xwFbyTr73YWzcJT_Kr7JBcLStyhHcjaUY6A1UzVmNPhF4KIxkWmyUpylGWR8Mho2U3Ii7LyIAd5wXTH8XEl06ZzCbMoIe0i6D3J2Ab8L7_Miia/s0/DJI_0080aaa.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJT4wVGz3BGIb1JAlddFaXTC9nJZt14xwFbyTr73YWzcJT_Kr7JBcLStyhHcjaUY6A1UzVmNPhF4KIxkWmyUpylGWR8Mho2U3Ii7LyIAd5wXTH8XEl06ZzCbMoIe0i6D3J2Ab8L7_Miia/s1600/DJI_0080aaa.JPG",
+          "filename": "DJI_0080aaa.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJT4wVGz3BGIb1JAlddFaXTC9nJZt14xwFbyTr73YWzcJT_Kr7JBcLStyhHcjaUY6A1UzVmNPhF4KIxkWmyUpylGWR8Mho2U3Ii7LyIAd5wXTH8XEl06ZzCbMoIe0i6D3J2Ab8L7_Miia/s1600/DJI_0080aaa.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 1600,
+            "originalHeight": 1200
+          }
+        },
+        "alt": "Hradište (pri Partizánskom) ",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Datovanie hradiska"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko vybudoval z najväčšou pravdepodobnosťou "
+              },
+              {
+                "type": "text",
+                "text": "ľud lužickej kultúry (mladšia doba bronzová",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " a "
+              },
+              {
+                "type": "text",
+                "text": "doba halštatská",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ") a neskôr, v období 9. – 10. storočia ho využili aj "
+              },
+              {
+                "type": "text",
+                "text": "Slovania",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Obec je príkladom starého osídlenia, ktoré nie je zachytené v písomných prameňoch. Prvý krát sa spomína až v roku 1533, hoci na hradisku stojí románsky kostol sv. Barnabáša, postavený asi v roku 1100 a okolo neho zachovaný cintorín s náhrobnými doskami z "
+              },
+              {
+                "type": "text",
+                "text": "11. a 12. storočia.",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " Románska krstiteľnica sa momentálne nachádza v SNM – v zámku Bojnice."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výškové a plošné parametre zmeral v r. 1928 Ing. Janšák, zakladateľ slovenskej archeológie, historik a pedagóg. Janšák opisuje hradisko takto:   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.quote-block",
+        "text": "Hradisko v Hradišti sa rozprestiera na hornom výbežku (ostrohu) nad obcou Hradište, pri hradskej Veľké Bielice-Vestenice, Župa Nitrianska. Jedna strana je skala z drobivého vápenca, horským tlakom porušeného, na štrk a piesok rozpadového, a preto prudkými dažďami v drolené jarky rozorvaná. Najvyššie položená časť hradiska je príkra skala z vápenatého tufu, dvíhajúca sa nad nivó cesty. Tretia strana je mierne naklonený pasienok, rozrytý jarkami a porastený krovím. Časť tejto strany tvorí orné pole. Geografickou polohou hradisko leží na horskom výbežku či ostrohu. Preto strana západná je najmenej prírodne chránená, súvisiaca voľným a veľmi plochým hrebeňom s ostatným terénom. Opatrená je silným násypom asi 400 m dlhým a v najvyššom bode 5 m vysokým. Prierez je v základni 60 m široký. Tento svah je dnes proti pôvodnej výške pravdepodobne značne nižší, Iebo sa na ňom nachádzajú obrábane role. Následkom toho sa pri každom oraní posunuje pôda z vrchola valu oboma smermi dolu.",
+        "author": "Štefan Janšák",
+        "source": "Niektoré novoobjavené hradiská slovenské, 1928"
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie6XKW_1eZ88MfiZ3-fXqRjzg8ROHlZmqUrlEzChLx8QNQEn7ej1m_xl58MwQQ84etQK3Dbt-GNjBLWJBx0SOKr0zBDBO90hrlCGf5NHJhOGKWlsyWR3abCypp8MFzIyrcYmIfrSB93ps/s0/Toma%CC%81s%CC%8C+Kytka.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie6XKW_1eZ88MfiZ3-fXqRjzg8ROHlZmqUrlEzChLx8QNQEn7ej1m_xl58MwQQ84etQK3Dbt-GNjBLWJBx0SOKr0zBDBO90hrlCGf5NHJhOGKWlsyWR3abCypp8MFzIyrcYmIfrSB93ps/s1600/Toma%CC%81s%CC%8C+Kytka.jpg",
+          "filename": "Tomáš+Kytka.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie6XKW_1eZ88MfiZ3-fXqRjzg8ROHlZmqUrlEzChLx8QNQEn7ej1m_xl58MwQQ84etQK3Dbt-GNjBLWJBx0SOKr0zBDBO90hrlCGf5NHJhOGKWlsyWR3abCypp8MFzIyrcYmIfrSB93ps/s1600/Toma%CC%81s%CC%8C+Kytka.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "foto: Tomáš Kytka",
+        "caption": "foto: Tomáš Kytka",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.quote-block",
+        "text": "Val sa stále splošťuje a stáva sa nižším. Koľko mu takto ubudlo z pôvodnej výšky, nemožno ani približne udať. Ak uvažujeme, že na hrebeni val mal ešte drevené palisády, bol chodník asi 2 m široký potrebný v prípade nevyhnutnej obrany. Dá sa predpokladať, že val z vonkajšej strany bol 10 m široký a strana vnútorná, po ktorej musel byť voľný prístup k palisádam, mala sklon pozvoľnejší. Val je v celej dĺžke zachovaný veľmi zreteľný a robí na prvý pohľad dojem veľkej prirodzenej vlny terénu. Až po bedlivom pozorovaní možno zistiť, že je robený ľudskou rukou. Na svojom konci je prerušený cestou, do neho sa zarezávajúcou. Povrch hradiska je rozdelený na dve veľké časti s celkovým povrchom 6,45 ha. Časť prvá, ktorá je na vyvýšenom mieste a najlepšie je chránená, a teda najbezpečnejšia, bola miestom, kde sa zdržiavali civilní aj duchovní pohlavári a vodcovia. Podľa polohy a významu bolo ju možné pokladať za akýsi druh akropolisu. V druhej časti hradiska leží cintorín, na ktorom sa aj dnes pochováva.",
+        "author": "Štefan Janšák",
+        "source": "Niektoré novoobjavené hradiská slovenské, 1928"
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3YH9QstlptseVISIJ0QoHM1yB2hRWoQKhkrDeLHee_gQOWwXWZrfTpxcEDQmW8KORdEsYl00ByIVKJ5BuCuRvCWilUL6EzHxfXPnEFCqhXsNn6tpp7dFpOJptRHw5czliiOlo8ohd5vnH/s0/DJI_0090aaa.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3YH9QstlptseVISIJ0QoHM1yB2hRWoQKhkrDeLHee_gQOWwXWZrfTpxcEDQmW8KORdEsYl00ByIVKJ5BuCuRvCWilUL6EzHxfXPnEFCqhXsNn6tpp7dFpOJptRHw5czliiOlo8ohd5vnH/s1600/DJI_0090aaa.JPG",
+          "filename": "DJI_0090aaa.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3YH9QstlptseVISIJ0QoHM1yB2hRWoQKhkrDeLHee_gQOWwXWZrfTpxcEDQmW8KORdEsYl00ByIVKJ5BuCuRvCWilUL6EzHxfXPnEFCqhXsNn6tpp7dFpOJptRHw5czliiOlo8ohd5vnH/s1600/DJI_0090aaa.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 1600,
+            "originalHeight": 1200
+          }
+        },
+        "alt": "Hradište (pri Partizánskom) ",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.quote-block",
+        "text": "Na sever od cintorína stojí múrom ohradený kostol a možno predpokladať, že na miestach, kde dnes stojí kostol, boli voľakedy pohanské oltáre, kde praobyvatelia obetovali svojim bohom dary. Prechod z pohanstva ku kresťanstvu nebol taký náhly, ako sa to podáva v učebniciach dejepisu. Rozpory medzi prívržencami kresťanstva a pôvodného pohanstva sa často prekonávali dlho a možno aj tvrdo. Nové kresťanské učenie sa postupne ukladalo do sŕdc veriacich. Tí, ktorí prijali kresťanskú vieru, sa menili nielen vnútorne, ale aj navonok vonkajšie zmeny sa prejavili v sídlach a v obydliach. Kresťania sa postupne zbavovali pohanských zvykov a povier. Nálezy boli zistené iba na povrchu, bez vykopávok sú to črepy z prvej doby železnej, roztrúsené po celom povrchu hradiska hlavne však v jeho východnej polovici. Hromadné nálezy črepov sa našli v miestach rozkopaných a zo svahu padajúcich valov. To by nasvedčovalo, že valy boli viac razy opravované a doplňované, a tak sa dostali do nich zvyšky nádob. Na tej strane sú otvorené lomy a hradisku z nich hrozí nebezpečenstvo veľkého poškodenia. Vykopávok ani pokusných ani systematických nebolo, ba o tomto hradisku niet zmienky nikde v odbornej literatúre. Na cintoríne v čerstvo vykopaných hroboch niet kultúrnych vrstiev, ba ani črepy sa nenašli. V tom mieste je zemina veľmi tvrdá, zmiešaná s hrubým štrkom a balvanmi. Niekde sú skaly blízko povrchu, o čom podávajú svedectvo začaté a nedokončené hroby, ktoré bolo treba inde vykopať. Hradisko bolo objavené autorom v auguste 1926 roku.",
+        "author": "Štefan Janšák",
+        "source": "Niektoré novoobjavené hradiská slovenské, 1928"
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdusbkrIV4LVUXAQwi7lmn9-jwFAhfTt_d7LcYkbA9Kqmi2N0x-t3EVcLVilWoRnTm6QNwv5X5-ExHiDqtq4dVhON7ru1OkZmsfTBU67Nb3-tal8cEDayGCd1AEO5h3o-A5sVBzWdAQdF/s0/DJI_0097aaa.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdusbkrIV4LVUXAQwi7lmn9-jwFAhfTt_d7LcYkbA9Kqmi2N0x-t3EVcLVilWoRnTm6QNwv5X5-ExHiDqtq4dVhON7ru1OkZmsfTBU67Nb3-tal8cEDayGCd1AEO5h3o-A5sVBzWdAQdF/s1600/DJI_0097aaa.JPG",
+          "filename": "DJI_0097aaa.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdusbkrIV4LVUXAQwi7lmn9-jwFAhfTt_d7LcYkbA9Kqmi2N0x-t3EVcLVilWoRnTm6QNwv5X5-ExHiDqtq4dVhON7ru1OkZmsfTBU67Nb3-tal8cEDayGCd1AEO5h3o-A5sVBzWdAQdF/s1600/DJI_0097aaa.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 1600,
+            "originalHeight": 1200
+          }
+        },
+        "alt": "Hradište (pri Partizánskom) ",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Toto je skrátený text článku, ktorý bol uverejnený v zborníku muzeálnej spoločnosti r. 1928. Autor v článku napísal, že slovanské predhistorické hradiská, alebo hradiská z úsvitu historických čias ležia spravidla na výbežkoch horských reťazí, na rozhraní medzi horstvom a rovinou alebo dolinou, ktorá k nemu prilieha. Hradisko v Hradišti malo obranný a hospodársky význam. Opis hradiska je v mnohých smeroch podnetný pre archeologický a historický výskum. Hradisko sa do dnešných čias všestranne archeologicky nepreskúmalo. Doposiaľ nebol ani jednoznačne určený význam a postavenie hradiska v slovanskom období. Všetky nálezy, ktoré sa našli na povrchu hradiska, pochádzajú z povrchových zberov alebo z náhodných roľníckych vyorávok."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Halštatský materiál",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " (lužická kultúra) sa nachádzal po celom hradisku. Na polohe Pravdova bol lokalizovaný sídliskový horizont z "
+              },
+              {
+                "type": "text",
+                "text": "11. až 14. – 15. storočia.",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " Táto poloha tvorí len časť halštatského sídliskového areálu. Geofyzikálne merania (A. Ruttkay) naznačujú na okraji akropoly existenciu stavby, ktorá nebola skúmaná. Je možné, že sa jedná o majetok johanitského konventu Štefana kráľa v Ostrihome, ktorý sa spomína vo dvoch listinách, ale jeho presné určenie nie je isté.   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYsScTNPZQyWuhxCJ7KtH2VKdykwKgOMgD5fvIqAhm4RbqPXdi48q1-4hXkulKUtZb4hBjFFaBy5WnSuL7Gz4ZmrICowNv9CNJdrGZ5RL5wXB5cT8KLWDkQibzVNqesIHb9XuCjoe2Rfk/s0/po%CC%82dorys+jans%CC%8Ca%CC%81k.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYsScTNPZQyWuhxCJ7KtH2VKdykwKgOMgD5fvIqAhm4RbqPXdi48q1-4hXkulKUtZb4hBjFFaBy5WnSuL7Gz4ZmrICowNv9CNJdrGZ5RL5wXB5cT8KLWDkQibzVNqesIHb9XuCjoe2Rfk/s1600/po%CC%82dorys+jans%CC%8Ca%CC%81k.jpg",
+          "filename": "pôdorys+janšák.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYsScTNPZQyWuhxCJ7KtH2VKdykwKgOMgD5fvIqAhm4RbqPXdi48q1-4hXkulKUtZb4hBjFFaBy5WnSuL7Gz4ZmrICowNv9CNJdrGZ5RL5wXB5cT8KLWDkQibzVNqesIHb9XuCjoe2Rfk/s1600/po%CC%82dorys+jans%CC%8Ca%CC%81k.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 249,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradište (pri Partizánskom) ",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Stredoveký hrad",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na Pravdovej stál v dávnoveku hrad alebo hradu podobná stavba. Hrad bol vlastníctvom veľmoža, ktorý mal staroslovanské meno Pravda. Zmienka o hrade a jeho vlastníkovi je uvedená v lexikóne Magyar országh varmegy (Nyitra), kde je napísané, že v Hradišti na kopci nad osadou sa v 15. storočí nachádzala zrúcanina hradu. Zvyšky základov stavby bolo vidno v tridsiatych rokoch na okraji vyvýšeniny hradiska situovanej juhozápadným smerom. V neskorších rokoch zvyšky muriva prikryla mačina, ktorá tvorí povrch vyvýšeniny.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "A pridáme ešte jednu legendu: ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podľa starej legendy, ktorá sa obci Hradište traduje z generácie na generáciu, stál na Pravdovej hrad, v ňom žil veľmož menom Pravdapán, ktorému patrila osada pod hradom polia a lesy v najbližšom okolí. Aj na ľavom brehu Nitrice na vrchu Chotoma bol hrad. Tam žil iný veľmož – Chotomapán, ktorému patrili všetky lesy a osady na sever od Hradišťa. Obidvaja veľmoži udržiavali medzi sebou spojenie cez visutý most, ktorý spájal Pravdovú s Chotomou. Premostenie bolo potrebné preto, lebo medzi hradmi bolo nepriepustné prostredie vyplnené močiarmi a lužným pralesom. Legende o Visutom moste chýba racionálne jadro. Za danej úrovne technických možnosti sa takáto stavba nedala realizovať.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFKAWINR9MrvbdzdBIlzx30GZEmXTGyAPk291wI7EKxWeLiADwxxDxLn5NKctyMVFNLGZFQpspUEyjZC6ydkPujvzg4uL6KMJvYEMrwA2X8RA0qhmGFQ4h6LNq8jDDaK6E9_zNoiM9xw/s0/prierez+Jans%CC%8Ca%CC%81k.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFKAWINR9MrvbdzdBIlzx30GZEmXTGyAPk291wI7EKxWeLiADwxxDxLn5NKctyMVFNLGZFQpspUEyjZC6ydkPujvzg4uL6KMJvYEMrwA2X8RA0qhmGFQ4h6LNq8jDDaK6E9_zNoiM9xw/s1600/prierez+Jans%CC%8Ca%CC%81k.jpg",
+          "filename": "prierez+Janšák.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFKAWINR9MrvbdzdBIlzx30GZEmXTGyAPk291wI7EKxWeLiADwxxDxLn5NKctyMVFNLGZFQpspUEyjZC6ydkPujvzg4uL6KMJvYEMrwA2X8RA0qhmGFQ4h6LNq8jDDaK6E9_zNoiM9xw/s1600/prierez+Jans%CC%8Ca%CC%81k.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 207,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Hradište (pri Partizánskom) ",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Foto: Tomáš Kytka, Tomáš Humaj, AU SAV"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": "Zdroj:",
+        "items": [
+          {
+            "text": "Janšák, Štefan. Niektoré Novoobjavené Hradiská Slovenské. Turč. sv. Martin: Muzeum Slov. Spol., 1928",
+            "url": null
+          },
+          {
+            "text": "Štefan Ďurina: Hradište - Pamätnica obce, IKAR, 1996",
+            "url": null
+          },
+          {
+            "text": "Súpis pamiatok I., Bratislava 1967, s. 447",
+            "url": null
+          },
+          {
+            "text": "Ruttkay, A.: Feudálne sídla a fortifikačné zariadenia na Slovensku spred polovice 13. (Problematika a novšie výskumy), Zborník SNM, LXXXIII? História 29, 1989",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Zdroj:"
+      },
+      {
+        "type": "book",
+        "text": "Janšák, Štefan. Niektoré Novoobjavené Hradiská Slovenské. Turč. sv. Martin: Muzeum Slov. Spol., 1928"
+      },
+      {
+        "type": "book",
+        "text": "Štefan Ďurina: Hradište - Pamätnica obce, IKAR, 1996"
+      },
+      {
+        "type": "book",
+        "text": "Súpis pamiatok I., Bratislava 1967, s. 447"
+      },
+      {
+        "type": "book",
+        "text": "Ruttkay, A.: Feudálne sídla a fortifikačné zariadenia na Slovensku spred polovice 13. (Problematika a novšie výskumy),"
+      },
+      {
+        "type": "book",
+        "text": "Zborník SNM, LXXXIII? História 29, 1989"
+      },
+      {
+        "type": "attribution",
+        "text": "Foto:"
+      }
+    ]
+  }
+}

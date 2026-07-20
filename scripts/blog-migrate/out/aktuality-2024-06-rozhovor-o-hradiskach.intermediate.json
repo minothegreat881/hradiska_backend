@@ -1,0 +1,80 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2024-06-rozhovor-o-hradiskach.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-6275931567117648037",
+    "bloggerPostUrl": "http://www.hradiska.sk/2024/06/rozhovor-o-hradiskach.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/6275931567117648037/comments/default",
+    "extractedAt": "2026-07-18T11:21:57.032Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/JwEbqTXA6rU"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "shortExcerpt",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Rozhovor o Hradiskách",
+    "slug": "rozhovor-o-hradiskach",
+    "excerpt": "",
+    "authorName": "Orgon",
+    "publishedAt": "2024-06-13T12:09:00.003+02:00",
+    "originalPublishedDate": "2024-06-13T12:09:00.003+02:00",
+    "updatedAt": "2024-06-13T12:09:55.348+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rozhovor o činnosti nášho OZ Hradiská\n"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "JwEbqTXA6rU",
+        "url": "https://www.youtube.com/embed/JwEbqTXA6rU",
+        "caption": ""
+      }
+    ],
+    "citations": []
+  }
+}

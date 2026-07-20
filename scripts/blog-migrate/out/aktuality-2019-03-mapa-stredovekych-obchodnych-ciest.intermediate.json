@@ -1,0 +1,110 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2019-03-mapa-stredovekych-obchodnych-ciest.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1776291310868996147",
+    "bloggerPostUrl": "http://www.hradiska.sk/2019/03/mapa-stredovekych-obchodnych-ciest.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1776291310868996147/comments/default",
+    "extractedAt": "2026-07-18T11:21:42.227Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 2,
+    "comments": [
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-2364427093389851753",
+        "bloggerPostId": "2364427093389851753",
+        "author": "Orgon",
+        "authorProfile": "https://www.blogger.com/profile/01396912608531297025",
+        "published": "2020-01-20T15:37:08.754+01:00",
+        "updated": "2020-01-20T15:37:08.754+01:00",
+        "content": "Myslíš ako že na tej mape nieje o ňom zmienka?",
+        "inReplyToArticle": "http://www.hradiska.sk/2019/03/mapa-stredovekych-obchodnych-ciest.html",
+        "replyToBloggerId": "734447603724115066",
+        "replyToFeedHref": "http://www.blogger.com/feeds/6818054921907446479/1776291310868996147/comments/default/734447603724115066"
+      },
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-734447603724115066",
+        "bloggerPostId": "734447603724115066",
+        "author": "Anonymous",
+        "authorProfile": "https://www.blogger.com/profile/09747064531731262734",
+        "published": "2020-01-19T11:24:38.723+01:00",
+        "updated": "2020-01-19T11:24:38.723+01:00",
+        "content": "Kde je Zámčisko pri Novej Bani? slovanské hradisko,ani zmienka o tejto lokalite!",
+        "inReplyToArticle": "http://www.hradiska.sk/2019/03/mapa-stredovekych-obchodnych-ciest.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      }
+    ],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://easyzoom.com/embed/ec482e04c2b240d4969c14156bb6836f"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Mapa stredovekých obchodných ciest",
+    "slug": "mapa-stredovekych-obchodnych-ciest",
+    "excerpt": "Martin Janmansson vytvoril a na stránke Merchant machine zaujímavú mapu. Je to pravdepodobne najpodrobnejšia mapa stredovekých obchodných ciest v Európe, Ázii a Afrike v 11. a 12. storočí, ktoré sú k dispozícii online. Zahŕňa hlavné a menšie miesta,…",
+    "authorName": "Orgon",
+    "publishedAt": "2019-03-04T17:40:00.002+01:00",
+    "originalPublishedDate": "2019-03-04T17:40:00.002+01:00",
+    "updatedAt": "2019-03-04T17:47:03.910+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Martin Janmansson vytvoril a na stránke "
+              },
+              {
+                "type": "link",
+                "url": "https://merchantmachine.co.uk/medieval-trade-routes/?fbclid=IwAR3Mb0zyXq4lSzh2vSzTZSUT-Ny1lUgJa5Eb2DZm1bWc3Xhxb-sZCpJVuUY",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Merchant machine"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " zaujímavú mapu. Je to pravdepodobne najpodrobnejšia mapa stredovekých obchodných ciest v Európe, Ázii a Afrike v 11. a 12. storočí, ktorá je k dispozícii online. Zahŕňa hlavné a menšie miesta, hlavné a menšie cesty, námorné cesty, kanály a cesty. Škoda, že sú v nej použité pomerne chaotické názvy miest, niekedy v dnešnej podobe, niekedy v neskorostredovekej a podobne. Myslím však, že stojí za bližšie pozretie. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

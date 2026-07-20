@@ -1,0 +1,96 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 9 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "9. storočie",
+      "title": "Vznik hradiska",
+      "description": "Objekt 1/90 datovaný na základe veľkomoravskej keramiky do 9. storočia — hradisko plnilo úlohu lokálneho správneho centra, zrejme aj v pohnutých časoch zániku Veľkej Moravy.",
+      "type": "founding"
+    },
+    {
+      "year": "10. – 11. storočie",
+      "title": "Pokračujúce osídlenie",
+      "description": "Ostatné preskúmané objekty obsahujú keramiku typickú pre toto obdobie.",
+      "type": "event"
+    },
+    {
+      "year": "11. storočie",
+      "title": "Tretia stavebná fáza opevnenia",
+      "description": "Na hlinito-kamenný val postavený v prvej fáze pribudol po obvode kamenný murovaný múr (šírka 120 cm); zánik hrádku sa dáva do súvisu s budovaním župného hradu na Pustom hrade.",
+      "type": "construction"
+    },
+    {
+      "year": "1263",
+      "title": "Listina Bela IV. (mylne priraďovaná)",
+      "description": "Pôvodne sa predpokladalo, že hradisko je doložené v tejto listine, no ukázalo sa, že sa vzťahuje na Hrádok v Lieskovci, nie na Priekopu.",
+      "type": "event"
+    },
+    {
+      "year": "1336",
+      "title": "Zmienka o zemi „Hradík\"",
+      "description": "Správa o predaji dediny Sampor komesovi Ondrejovi spomína časť zeme „Hradík\" pri Zvolene (terre Hradik prope civitatem Zolium), ktorú M. Ďurková spája s hrádkom Priekopa.",
+      "type": "event"
+    },
+    {
+      "year": "30. roky 20. storočia",
+      "title": "Prvé zameranie a amatérske výkopy",
+      "description": "Š. Janšák zameral lokalitu (spolu s J. Eisnerom publikovaná ako Môťovský hrádok); učiteľ Jozef Kabát a profesor Jakub Trnka so žiakmi vykonávali amatérske výkopy.",
+      "type": "discovery"
+    },
+    {
+      "year": "1958",
+      "title": "Zasypanie koryta Slatiny",
+      "description": "Pôvodné 6 m hlboké koryto rieky Slatiny, ktoré poskytovalo prirodzenú ochranu z východnej strany, bolo po tomto roku zasypané.",
+      "type": "destruction"
+    },
+    {
+      "year": "1967",
+      "title": "Pridelenie lokality záhradkárom",
+      "description": "Napriek zápisu do zoznamu chránených pamiatok MsNV pridelil plató hrádku Slovenskému zväzu záhradkárov — porušenie zákona o ochrane kultúrnych pamiatok.",
+      "type": "destruction"
+    },
+    {
+      "year": "1988 – 1990",
+      "title": "Systematický archeologický výskum",
+      "description": "Štyri výskumné sezóny pod vedením Marty Mácelovej odkryli profil valu, dve (neskôr tri) stavebné fázy opevnenia a 12 sídliskových objektov.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Nad sútokom Slatiny a Neresnice v Môťovej, asi 1 km juhovýchodne od Zvolenského zámku, na severnom úpätí Javoria",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozmery",
+      "value": "Nepravidelný obdĺžnik max. 165 × 95 m, výmera 9891 m², plocha valu 1886 m²",
+      "icon": "shield"
+    },
+    {
+      "label": "Opevnenie — 1. fáza",
+      "value": "1,60 m široký kamenný múr z nasucho kladeného lomového kameňa (biotitické granolity), na vonkajšej strane hlinitého jadra",
+      "icon": "shield"
+    },
+    {
+      "label": "Opevnenie — 2. fáza",
+      "value": "1,40 m široká komorová konštrukcia s prevlhčeným žltým ílom; šírka valu sa touto prestavbou zdvojnásobila",
+      "icon": "shield"
+    },
+    {
+      "label": "Opevnenie — 3. fáza",
+      "value": "Obvodný kamenný murovaný múr na maltu (šírka 120 cm) nad komorovou konštrukciou, datovaný do 11. storočia",
+      "icon": "building"
+    },
+    {
+      "label": "Priekopa",
+      "value": "Hrotitá, šijovitá, s doloženou hĺbkou 380 cm; súčasná výška valu 290 cm, šírka pri päte 18 m",
+      "icon": "mountain"
+    },
+    {
+      "label": "Súčasný stav",
+      "value": "Zdevastované záhradkárskou osadou od roku 1967 — plató rozparcelované, priekopa čiastočne zasypaná, chatky postavené priamo na hrádku",
+      "icon": "scroll"
+    }
+  ]
+}

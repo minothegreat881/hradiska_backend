@@ -1,0 +1,532 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-prosne-zlaty-kon.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-603122958590059062",
+    "bloggerPostUrl": "http://www.hradiska.sk/2012/11/prosne-zlaty-kon.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/603122958590059062/comments/default",
+    "extractedAt": "2026-07-15T22:20:22.974Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://maps.google.sk/maps?hl=sk&t=h&ie=UTF8&ll=49.185981,18.408591&spn=0.002454,0.00456&z=17&output=embed"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 20,
+      "captionedImages": 13,
+      "separatorImages": 7
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Prosné - Zlatý kôň",
+    "slug": "prosne-zlaty-kon",
+    "excerpt": "Z predchádzajúceho článku o keltskom obetisku v lokalite Uhliská vieme, že obec v Prosné, nachádzajúca sa v doline Marikovského potoka mala zrejme v období Púchovskej kultúry veľký kultový význam. V tejto obci však poznáme aj veľmi zaujímavé…",
+    "authorName": "Orgoň",
+    "publishedAt": "2012-11-01T18:02:00.002+01:00",
+    "originalPublishedDate": "2012-11-01T18:02:00.002+01:00",
+    "updatedAt": "2025-11-04T08:38:40.688+01:00",
+    "readingTime": 2,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC600mcj4N-9jZgSiuOPHHVUs1kb_PK3wsK4YLm-4ybAWW2Rzc5wyFzguzeMull8RaejmKP89VIaOS454UxKR3XdSt3uylzZiA9D82LzBhbjgLRUL4Z7u-Lbnh1o-53iOty14iH9SnsmA/s0/FB_IMG_1589572985272.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC600mcj4N-9jZgSiuOPHHVUs1kb_PK3wsK4YLm-4ybAWW2Rzc5wyFzguzeMull8RaejmKP89VIaOS454UxKR3XdSt3uylzZiA9D82LzBhbjgLRUL4Z7u-Lbnh1o-53iOty14iH9SnsmA/s1600/FB_IMG_1589572985272.jpg",
+      "filename": "FB_IMG_1589572985272.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC600mcj4N-9jZgSiuOPHHVUs1kb_PK3wsK4YLm-4ybAWW2Rzc5wyFzguzeMull8RaejmKP89VIaOS454UxKR3XdSt3uylzZiA9D82LzBhbjgLRUL4Z7u-Lbnh1o-53iOty14iH9SnsmA/s1600/FB_IMG_1589572985272.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 230,
+        "originalWidth": 1024,
+        "originalHeight": 736
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC600mcj4N-9jZgSiuOPHHVUs1kb_PK3wsK4YLm-4ybAWW2Rzc5wyFzguzeMull8RaejmKP89VIaOS454UxKR3XdSt3uylzZiA9D82LzBhbjgLRUL4Z7u-Lbnh1o-53iOty14iH9SnsmA/s0/FB_IMG_1589572985272.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC600mcj4N-9jZgSiuOPHHVUs1kb_PK3wsK4YLm-4ybAWW2Rzc5wyFzguzeMull8RaejmKP89VIaOS454UxKR3XdSt3uylzZiA9D82LzBhbjgLRUL4Z7u-Lbnh1o-53iOty14iH9SnsmA/s1600/FB_IMG_1589572985272.jpg",
+        "filename": "FB_IMG_1589572985272.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC600mcj4N-9jZgSiuOPHHVUs1kb_PK3wsK4YLm-4ybAWW2Rzc5wyFzguzeMull8RaejmKP89VIaOS454UxKR3XdSt3uylzZiA9D82LzBhbjgLRUL4Z7u-Lbnh1o-53iOty14iH9SnsmA/s1600/FB_IMG_1589572985272.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 230,
+          "originalWidth": 1024,
+          "originalHeight": 736
+        },
+        "caption": "Zlatý kôň.: Autor Bohuš Šikulinec"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Kk6iK0oZmAtTw5vrsh7Lv0BGQAKIF9CVsZQ1683rkj89KK6SiKOay5g-DHCBWL2sP6UWQOyLdS8CrtNxtyP01Bv0JaxXK5Yp7OCUdUtAd6aqlecsDf4MbTB6kvL0BuPLe-KHP5uZojg/s0/c%CC%8Cendova+kresba.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Kk6iK0oZmAtTw5vrsh7Lv0BGQAKIF9CVsZQ1683rkj89KK6SiKOay5g-DHCBWL2sP6UWQOyLdS8CrtNxtyP01Bv0JaxXK5Yp7OCUdUtAd6aqlecsDf4MbTB6kvL0BuPLe-KHP5uZojg/s1600/c%CC%8Cendova+kresba.jpg",
+        "filename": "čendova+kresba.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Kk6iK0oZmAtTw5vrsh7Lv0BGQAKIF9CVsZQ1683rkj89KK6SiKOay5g-DHCBWL2sP6UWQOyLdS8CrtNxtyP01Bv0JaxXK5Yp7OCUdUtAd6aqlecsDf4MbTB6kvL0BuPLe-KHP5uZojg/s1600/c%CC%8Cendova+kresba.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 191,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Umelecká vizualizácia hradiska (autor Čendo)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQzvOu3r48VV7T_z0KIoPS7hQ_ogPvzRLhoFGhiUfj_iqhaxA2x6YZBmMPM5rUo5stcnA_flLLilU2T7vJHjWu7v0TGUnKGMl9holNx5MJQAQgpQ3ojcvVX5zYR3tq9Mbr6wZv3lrrt1s/s0/na%CC%81c%CC%8Crt+Melis%CC%8Cwww.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQzvOu3r48VV7T_z0KIoPS7hQ_ogPvzRLhoFGhiUfj_iqhaxA2x6YZBmMPM5rUo5stcnA_flLLilU2T7vJHjWu7v0TGUnKGMl9holNx5MJQAQgpQ3ojcvVX5zYR3tq9Mbr6wZv3lrrt1s/s1600/na%CC%81c%CC%8Crt+Melis%CC%8Cwww.jpg",
+        "filename": "náčrt+Melišwww.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQzvOu3r48VV7T_z0KIoPS7hQ_ogPvzRLhoFGhiUfj_iqhaxA2x6YZBmMPM5rUo5stcnA_flLLilU2T7vJHjWu7v0TGUnKGMl9holNx5MJQAQgpQ3ojcvVX5zYR3tq9Mbr6wZv3lrrt1s/s1600/na%CC%81c%CC%8Crt+Melis%CC%8Cwww.jpg",
+          "displayedWidth": 285,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Nákres polohy podľa Štefana Meliša"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgamiOptjE8ChWCDlXRFBMd0prrvOCN2e_qoN6kXaGbV7h91vKwIRO6tgu49NdMPsW3B9lwPj3XCPphAlw5ZJ4ZZZOTZFh6F7l0O6sldevdbkaZcF5GRCh1j0y9kvzgCaRTejh_XP9Ha_M/s0/Lacko+kone%25C4%258Dn%25C3%25A1+verzia.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgamiOptjE8ChWCDlXRFBMd0prrvOCN2e_qoN6kXaGbV7h91vKwIRO6tgu49NdMPsW3B9lwPj3XCPphAlw5ZJ4ZZZOTZFh6F7l0O6sldevdbkaZcF5GRCh1j0y9kvzgCaRTejh_XP9Ha_M/s1600/Lacko+kone%25C4%258Dn%25C3%25A1+verzia.jpg",
+        "filename": "Lacko+kone%C4%8Dn%C3%A1+verzia.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgamiOptjE8ChWCDlXRFBMd0prrvOCN2e_qoN6kXaGbV7h91vKwIRO6tgu49NdMPsW3B9lwPj3XCPphAlw5ZJ4ZZZOTZFh6F7l0O6sldevdbkaZcF5GRCh1j0y9kvzgCaRTejh_XP9Ha_M/s1600/Lacko+kone%25C4%258Dn%25C3%25A1+verzia.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "A. Lacko"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetYkyxz6-bzft-mulFl_aRf8SxWkD7gzP5JbNvQaqbm_2vQjIC4QrCMjMsSZmWADuInz30q1FgGhbfRHkwwvaQ-5Vlw56W65nPkZHj2_1XWjz4FomypzJr8JX3rZVNEUWANHLndOu-74/s0/Obr%25C3%25A1zek+od+Pe%25C5%25A5a+Brosa.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetYkyxz6-bzft-mulFl_aRf8SxWkD7gzP5JbNvQaqbm_2vQjIC4QrCMjMsSZmWADuInz30q1FgGhbfRHkwwvaQ-5Vlw56W65nPkZHj2_1XWjz4FomypzJr8JX3rZVNEUWANHLndOu-74/s1600/Obr%25C3%25A1zek+od+Pe%25C5%25A5a+Brosa.jpg",
+        "filename": "Obr%C3%A1zek+od+Pe%C5%A5a+Brosa.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetYkyxz6-bzft-mulFl_aRf8SxWkD7gzP5JbNvQaqbm_2vQjIC4QrCMjMsSZmWADuInz30q1FgGhbfRHkwwvaQ-5Vlw56W65nPkZHj2_1XWjz4FomypzJr8JX3rZVNEUWANHLndOu-74/s1600/Obr%25C3%25A1zek+od+Pe%25C5%25A5a+Brosa.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 163,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "P.Bros"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRsZ5epDWg6Jnvp5HMWSCQeSmyNbatXDZs8-5CpIHeaOQyraf49iL0Xji2a9vOY4PS9aHMUp3jfP7V_KMBlHmB-4-oTYi1np3rX1AaWEkLEShSJn2dVcsvSDDd3Jf0pqYq5CO174KetDE/s0/AN_Prosne%CC%81.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRsZ5epDWg6Jnvp5HMWSCQeSmyNbatXDZs8-5CpIHeaOQyraf49iL0Xji2a9vOY4PS9aHMUp3jfP7V_KMBlHmB-4-oTYi1np3rX1AaWEkLEShSJn2dVcsvSDDd3Jf0pqYq5CO174KetDE/s1600/AN_Prosne%CC%81.jpg",
+        "filename": "AN_Prosné.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRsZ5epDWg6Jnvp5HMWSCQeSmyNbatXDZs8-5CpIHeaOQyraf49iL0Xji2a9vOY4PS9aHMUp3jfP7V_KMBlHmB-4-oTYi1np3rX1AaWEkLEShSJn2dVcsvSDDd3Jf0pqYq5CO174KetDE/s1600/AN_Prosne%CC%81.jpg",
+          "displayedWidth": 226,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Plánik od M. Olšovského"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5RNsXmxeqyCRPjVMb3KpFd5WlrlHR0MDkzDJmWWtYOiSrYoeOSOxPpTv2Nu6hY0vrNEqLF0engso3EUK9XRlVkbPOGoaQwb5GCKyd9YTlQX4ieU_1pzaqwiMcVp3f6A5jd2O-DthDdLE/s0/039.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5RNsXmxeqyCRPjVMb3KpFd5WlrlHR0MDkzDJmWWtYOiSrYoeOSOxPpTv2Nu6hY0vrNEqLF0engso3EUK9XRlVkbPOGoaQwb5GCKyd9YTlQX4ieU_1pzaqwiMcVp3f6A5jd2O-DthDdLE/s1600/039.jpg",
+        "filename": "039.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5RNsXmxeqyCRPjVMb3KpFd5WlrlHR0MDkzDJmWWtYOiSrYoeOSOxPpTv2Nu6hY0vrNEqLF0engso3EUK9XRlVkbPOGoaQwb5GCKyd9YTlQX4ieU_1pzaqwiMcVp3f6A5jd2O-DthDdLE/s1600/039.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXt-nVyomkzFj7XQkumOZFMdvKnQMOYHfWoC7mjRuA-vDEwrYfNZfgd8-W41guNeIOtdbsdcs8z__yefgetWxWfTPSkJgi2JfswE-Q_2A7Ko5FLXXhTT-gqmj30OnjwHqCXN_PLx-GAlM/s0/050.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXt-nVyomkzFj7XQkumOZFMdvKnQMOYHfWoC7mjRuA-vDEwrYfNZfgd8-W41guNeIOtdbsdcs8z__yefgetWxWfTPSkJgi2JfswE-Q_2A7Ko5FLXXhTT-gqmj30OnjwHqCXN_PLx-GAlM/s1600/050.jpg",
+        "filename": "050.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXt-nVyomkzFj7XQkumOZFMdvKnQMOYHfWoC7mjRuA-vDEwrYfNZfgd8-W41guNeIOtdbsdcs8z__yefgetWxWfTPSkJgi2JfswE-Q_2A7Ko5FLXXhTT-gqmj30OnjwHqCXN_PLx-GAlM/s1600/050.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6TOUegyuh0WmsiaU6dU60zvNrvLLJ59nLoj9eaqnOBeF1v0oD2jE0306Oc-5fhY3J5X5lSQ2KUCsg392iTej6m0O2qrgdlSXHLQ82wJWEYqjQqr1cY5NoN6eb3J5a-m1XsCpSDEmwGTY/s0/135.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6TOUegyuh0WmsiaU6dU60zvNrvLLJ59nLoj9eaqnOBeF1v0oD2jE0306Oc-5fhY3J5X5lSQ2KUCsg392iTej6m0O2qrgdlSXHLQ82wJWEYqjQqr1cY5NoN6eb3J5a-m1XsCpSDEmwGTY/s1600/135.jpg",
+        "filename": "135.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6TOUegyuh0WmsiaU6dU60zvNrvLLJ59nLoj9eaqnOBeF1v0oD2jE0306Oc-5fhY3J5X5lSQ2KUCsg392iTej6m0O2qrgdlSXHLQ82wJWEYqjQqr1cY5NoN6eb3J5a-m1XsCpSDEmwGTY/s1600/135.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCxYxHT803JM0GUgv6M5s0EzbH2MolDTJeHuqkC6mNUZLYrTXeHJEZZj7mx9bbdyeiSaPmE0kw6-O6CrP7kTBy63MALkINHElwKe5AZcT-SpykpdVd28WhANtsuDhwyZ5vNkL4pSxaySE/s0/IMG_5265.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCxYxHT803JM0GUgv6M5s0EzbH2MolDTJeHuqkC6mNUZLYrTXeHJEZZj7mx9bbdyeiSaPmE0kw6-O6CrP7kTBy63MALkINHElwKe5AZcT-SpykpdVd28WhANtsuDhwyZ5vNkL4pSxaySE/s1600/IMG_5265.JPG",
+        "filename": "IMG_5265.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCxYxHT803JM0GUgv6M5s0EzbH2MolDTJeHuqkC6mNUZLYrTXeHJEZZj7mx9bbdyeiSaPmE0kw6-O6CrP7kTBy63MALkINHElwKe5AZcT-SpykpdVd28WhANtsuDhwyZ5vNkL4pSxaySE/s1600/IMG_5265.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad od prístupovej cesty smerom na hradisko"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP7LHBJ45r49ZajdFofqNZVS2E2Xqvug26XsWJCLnwz8j5vj9Pyu5Qh6UQRHfAfKTC0UZebLFvleRkSadrp-hIAohHo7ZMHabwsvRKM-dZhaNvPtg6jom_HQphCj-oTwHyOx0RFl_PwR4/s0/IMG_5250.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP7LHBJ45r49ZajdFofqNZVS2E2Xqvug26XsWJCLnwz8j5vj9Pyu5Qh6UQRHfAfKTC0UZebLFvleRkSadrp-hIAohHo7ZMHabwsvRKM-dZhaNvPtg6jom_HQphCj-oTwHyOx0RFl_PwR4/s1600/IMG_5250.JPG",
+        "filename": "IMG_5250.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP7LHBJ45r49ZajdFofqNZVS2E2Xqvug26XsWJCLnwz8j5vj9Pyu5Qh6UQRHfAfKTC0UZebLFvleRkSadrp-hIAohHo7ZMHabwsvRKM-dZhaNvPtg6jom_HQphCj-oTwHyOx0RFl_PwR4/s1600/IMG_5250.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Na tomto zábere je zachytené takmer celé hradisko. Vpravo val, vľavo obývaná terasa"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir7z5-NTpNDx-xVeS-4FFFCAWb8TF-pJXFivq1FJX9wyOYwPoyUAqv529A51dcF8TdbNt0LnWi7p32kHVLxQ5PSFXz7CLgAYv5Qesmh-YK40H8DlBwngYTehMjWHgZrZAWV_7T_km6Wf8/s0/IMG_5249.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir7z5-NTpNDx-xVeS-4FFFCAWb8TF-pJXFivq1FJX9wyOYwPoyUAqv529A51dcF8TdbNt0LnWi7p32kHVLxQ5PSFXz7CLgAYv5Qesmh-YK40H8DlBwngYTehMjWHgZrZAWV_7T_km6Wf8/s1600/IMG_5249.JPG",
+        "filename": "IMG_5249.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir7z5-NTpNDx-xVeS-4FFFCAWb8TF-pJXFivq1FJX9wyOYwPoyUAqv529A51dcF8TdbNt0LnWi7p32kHVLxQ5PSFXz7CLgAYv5Qesmh-YK40H8DlBwngYTehMjWHgZrZAWV_7T_km6Wf8/s1600/IMG_5249.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Výhľad z okraja hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipS0HxynXxOl-Sw0JMkpwd76Wtdo5sJQ2cl_YDKMMECfDs982feh0za8zePG3W8_ixLrrHxHnTCMXNW7jLNmPd_XA-iZTfAfjfnDtT8vFCc9RvEa6-OWKsM_s9arQCpZpl76cIQO_GQj8/s0/IMG_5245.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipS0HxynXxOl-Sw0JMkpwd76Wtdo5sJQ2cl_YDKMMECfDs982feh0za8zePG3W8_ixLrrHxHnTCMXNW7jLNmPd_XA-iZTfAfjfnDtT8vFCc9RvEa6-OWKsM_s9arQCpZpl76cIQO_GQj8/s1600/IMG_5245.JPG",
+        "filename": "IMG_5245.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipS0HxynXxOl-Sw0JMkpwd76Wtdo5sJQ2cl_YDKMMECfDs982feh0za8zePG3W8_ixLrrHxHnTCMXNW7jLNmPd_XA-iZTfAfjfnDtT8vFCc9RvEa6-OWKsM_s9arQCpZpl76cIQO_GQj8/s1600/IMG_5245.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Niekoľko pohľadov na terasu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ-L4f5aHLSPHAn7pVWsp8aeOREO-EoPG3xr0iMfHS4YbXh0WTKPF2aQsSbzOmdLtEwb7FdS_EDOVBpfDR07NQLNu0vudCCivSqZRnCPXRmjS5Qzu_amfU4myAOdwrTFVlljFHFDpuGbk/s0/IMG_5243.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ-L4f5aHLSPHAn7pVWsp8aeOREO-EoPG3xr0iMfHS4YbXh0WTKPF2aQsSbzOmdLtEwb7FdS_EDOVBpfDR07NQLNu0vudCCivSqZRnCPXRmjS5Qzu_amfU4myAOdwrTFVlljFHFDpuGbk/s1600/IMG_5243.JPG",
+        "filename": "IMG_5243.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ-L4f5aHLSPHAn7pVWsp8aeOREO-EoPG3xr0iMfHS4YbXh0WTKPF2aQsSbzOmdLtEwb7FdS_EDOVBpfDR07NQLNu0vudCCivSqZRnCPXRmjS5Qzu_amfU4myAOdwrTFVlljFHFDpuGbk/s1600/IMG_5243.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMNWofP_1rsDMLaJP-7kWrxgDHYiWQWzUPGKWyNfjFOARWuX50s2vzC6k4HMEoO9qeFwNXwZp7eCUcBQfqdOjK5AvRCaiYK4Jp2BTyUgRhLuoEIZDf4UyYjfGqci_yN4QCh1CypXKCSF0/s0/IMG_5233.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMNWofP_1rsDMLaJP-7kWrxgDHYiWQWzUPGKWyNfjFOARWuX50s2vzC6k4HMEoO9qeFwNXwZp7eCUcBQfqdOjK5AvRCaiYK4Jp2BTyUgRhLuoEIZDf4UyYjfGqci_yN4QCh1CypXKCSF0/s1600/IMG_5233.JPG",
+        "filename": "IMG_5233.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMNWofP_1rsDMLaJP-7kWrxgDHYiWQWzUPGKWyNfjFOARWuX50s2vzC6k4HMEoO9qeFwNXwZp7eCUcBQfqdOjK5AvRCaiYK4Jp2BTyUgRhLuoEIZDf4UyYjfGqci_yN4QCh1CypXKCSF0/s1600/IMG_5233.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6euoLW6XXas5NnLH-PudOvc_QBODvO98csKCQHLRDCP_p5dKFumDRk3tosnPZ_YDKoppR7ihyphenhyphenGmcA8NaKdjOQ5cM2MnRaxwssmW81cuYgQXZY2KOUXWWc2mG3cik-LCWIKfSNzoy0Ml8/s0/IMG_5227.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6euoLW6XXas5NnLH-PudOvc_QBODvO98csKCQHLRDCP_p5dKFumDRk3tosnPZ_YDKoppR7ihyphenhyphenGmcA8NaKdjOQ5cM2MnRaxwssmW81cuYgQXZY2KOUXWWc2mG3cik-LCWIKfSNzoy0Ml8/s1600/IMG_5227.JPG",
+        "filename": "IMG_5227.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6euoLW6XXas5NnLH-PudOvc_QBODvO98csKCQHLRDCP_p5dKFumDRk3tosnPZ_YDKoppR7ihyphenhyphenGmcA8NaKdjOQ5cM2MnRaxwssmW81cuYgQXZY2KOUXWWc2mG3cik-LCWIKfSNzoy0Ml8/s1600/IMG_5227.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z valu na terasu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXGaq_TBIVQmgAp_wQ2TrKrHpY9Go_tHxbm7HzPILv7Y7-7Dp5ZM2svbBB2um7fMqaeeMIsP5Q5_L5ZSupSjhruxQYqb2XGcFdL8kUPDKEQr53X34JtUz0Z8WLXRaItTWcAm-DunOU8m4/s0/IMG_5220.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXGaq_TBIVQmgAp_wQ2TrKrHpY9Go_tHxbm7HzPILv7Y7-7Dp5ZM2svbBB2um7fMqaeeMIsP5Q5_L5ZSupSjhruxQYqb2XGcFdL8kUPDKEQr53X34JtUz0Z8WLXRaItTWcAm-DunOU8m4/s1600/IMG_5220.JPG",
+        "filename": "IMG_5220.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXGaq_TBIVQmgAp_wQ2TrKrHpY9Go_tHxbm7HzPILv7Y7-7Dp5ZM2svbBB2um7fMqaeeMIsP5Q5_L5ZSupSjhruxQYqb2XGcFdL8kUPDKEQr53X34JtUz0Z8WLXRaItTWcAm-DunOU8m4/s1600/IMG_5220.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAN4Y_oUnHgnaTim2MywvHxK9Ka-TrRry9-NHQmOfZlb2ys86Wvqm8-Lz8-Otsiqp7GYJ29IbH-haRFq2ZDQvcLU6jSvDo43KCyEoOkegcBScygqXDg-AI3s2ymUCaQ_6KN2GxPbEq1LM/s0/IMG_7640.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAN4Y_oUnHgnaTim2MywvHxK9Ka-TrRry9-NHQmOfZlb2ys86Wvqm8-Lz8-Otsiqp7GYJ29IbH-haRFq2ZDQvcLU6jSvDo43KCyEoOkegcBScygqXDg-AI3s2ymUCaQ_6KN2GxPbEq1LM/s1600/IMG_7640.JPG",
+        "filename": "IMG_7640.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAN4Y_oUnHgnaTim2MywvHxK9Ka-TrRry9-NHQmOfZlb2ys86Wvqm8-Lz8-Otsiqp7GYJ29IbH-haRFq2ZDQvcLU6jSvDo43KCyEoOkegcBScygqXDg-AI3s2ymUCaQ_6KN2GxPbEq1LM/s1600/IMG_7640.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Naša informačná tabuľa na hradisku"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipHcLC8J5PGRkCTpCG8BbBwVquq7bRZnFCh05xDqHIYrHAHzM2M0ejP5jpIBsAKzdYcHc-M0a3QMgdnHVBxI6f8c1DfPaHmRvacyZ7zradkcvNEK2l3UncYJfvqTT_Q7QmXfANImrHkUo/s0/P4050935.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipHcLC8J5PGRkCTpCG8BbBwVquq7bRZnFCh05xDqHIYrHAHzM2M0ejP5jpIBsAKzdYcHc-M0a3QMgdnHVBxI6f8c1DfPaHmRvacyZ7zradkcvNEK2l3UncYJfvqTT_Q7QmXfANImrHkUo/s1600/P4050935.JPG",
+        "filename": "P4050935.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipHcLC8J5PGRkCTpCG8BbBwVquq7bRZnFCh05xDqHIYrHAHzM2M0ejP5jpIBsAKzdYcHc-M0a3QMgdnHVBxI6f8c1DfPaHmRvacyZ7zradkcvNEK2l3UncYJfvqTT_Q7QmXfANImrHkUo/s1600/P4050935.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s0/Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s1600/Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg",
+        "filename": "Hlavička+web-stránky_2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVXOS3Eq3cyw9U99PyCBQeBntQXYWxhtge8yJr01evOOEKwV46Q2HZzrZOBcaK49p2eSfBXifoMytQVsVSIhiB8_bU6jt2jiTis1EiTc3nmF4cHo0xZdqSLI7Ery7vGTLPigWqN_xkTi0/s1600/Hlavic%CC%8Cka+web-stra%CC%81nky_2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 95,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Prosné - Zlatý kôň"
+    ],
+    "category": null,
+    "location": {
+      "name": "Prosné - Zlatý kôň",
+      "latitude": 49.1147,
+      "longitude": 18.3792,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "ostrý horský hrebeň východne od obce Prosné, doline Marikovského potoka",
+        "icon": "mountain"
+      },
+      {
+        "label": "Nálezy",
+        "value": "železné spony, streľa do šípu, klince, zápona z opaska, keramika",
+        "icon": "scroll"
+      },
+      {
+        "label": "Pôvod názvu",
+        "value": "podľa ústnej tradície nález pokladu zlatých mincí so zobrazením koníka",
+        "icon": "star"
+      },
+      {
+        "label": "Zdroj textu",
+        "value": "Po stopách predkov (Martin Olšovský, Štefan Meliš, Jozef Moravčík, 2008)",
+        "icon": "book"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1. storočie pred n. l. – 1. storočie n. l.",
+        "title": "Intenzívne osídlenie hrádku",
+        "description": "Hrádok púchovskej kultúry v polohe Zlatý kôň mal malé opevnenie s intenzívnym osídlením z rozhrania 1. storočia pred n. l. a 1. storočia n. l.",
+        "type": "era"
+      },
+      {
+        "year": "okolo r. 1962",
+        "title": "Objav hrádku Štefanom Melišom",
+        "description": "Hrádok objavil a niekoľko črepov na ňom získal Štefan Meliš.",
+        "type": "discovery"
+      },
+      {
+        "year": "“prvá” republika",
+        "title": "Nález keltskej mince",
+        "description": "V blízkosti hrádku našli dvaja chlapci z Prosného keltskú mincu a predali ju zlatníkovi v Považskej Bystrici.",
+        "type": "discovery"
+      },
+      {
+        "year": "december 2021",
+        "title": "Výskum OZ Hradiská s Trenčianskym múzeom",
+        "description": "V decembri 2021 vykonalo OZ Hradiská s Trenčianskym múzeom výskum hrádku.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z predchádzajúceho článku o keltskom obetisku v lokalite "
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/search/label/Prosn%C3%A9%20-%20Keltsk%C3%A9%20obetisko",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Uhliská"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " vieme, že obec v Prosnom, nachádzajúca sa v doline Marikovského potoka mala zrejme v období púchovskej kultúry veľký kultový význam. V tejto obci však poznáme aj veľmi zaujímavé hradisko s názvom Zlatý kôň. Som rád, že Vám môžem o tomto hradisku priniesť krátky text spolu s obrázkami, pochádzajúcimi zo skvelého (oficiálne nevydaného) súboru dokumentov s názvom Po stopách predkov. Text pochádza z pera Štefana Meliša a Jozefa Moravčíka, fotografie nálezov od pána Martina Olšovského.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Druhou významnou lokalitou je hrádok púchovskej kultúry v polohe Zlatý kôň, ktorý sa nachádza východne od obce na ostrom horskom hrebeni, kde je malé opevnenie s intenzívnym osídlením z rozhrania 1. storočia pred n. l. a 1. storočia n. l.",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pri podrobnom prieskume polohy sa podarilo zistiť okrem črepov aj niekoľko železných predmetov – spony, strelu do šípu, klince, záponu z opaska, malé kovania a kramličku."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Údajne na tejto lokalite sa našla aj zlatá keltská (?) minca (J. Chmulík), ktorá sa však dostala do rúk zlatníka v Pov. Bystrici. Podľa opisu nálezcu bola na nej plastická značka v tvare Z, čo by mohlo byť štylizované telo koníka (?). Dnes sa už tento nález nedá overiť a presnejšie určiť. Podľa ústnej tradície už dávnejšie sa tu mali nájsť aj iné zlaté mince - celý poklad - na ktorých vraj bol znázornený koník (podľa toho aj názov Zlatý kôň), a za tento poklad si mal nálezca kúpiť neďaleký laz Uhry."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V okolitých obciach sa o tejto lokalite traduje viac povestí. Podľa jednej z nich bola vraj kedysi na skale pod temenom vyrytá podoba barana. Povesť má možno pravdu, ale išlo skôr o podobu koňa. Kôň bol totiž u Keltov uctievaným zvieraťom. Obrovská silueta koňa vyrytá na strane skalnatého vrchu nachádza sa aj v Anglicku. Na temene Zlatého koňa je úzka terasa, na ktorej bol malý hrádok asi v dobe laténskej až rímskej. Hrádok objavil a niekoľko črepov na ňom získal Štefan Meliš niekedy okolo r. 1962. Podľa Dr. Petrovského-Šichmana tu bolo keltské kultovné miesto. Pôvodný názov kopca Zlatý kôň hľadal v spojení s ľudovou rozprávkou o Slncovom koni. V období \"prvej\" republiky našli v blízkosti hrádku dvaja chlapci z Prosného mincu, pravdepodobne keltskú, a predali ju zlatníkovi v Považskej Bystrici."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Martin Olšovský, Štefan Meliš, Jozef Moravčík: Po stopách predkov, Archeológia Stredného Považia od praveku po stredovek - súbor dokumentov a fotografií, vydal vlastným nákladom Martin Olšovský v roku 2008 v počte 4 kusy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC600mcj4N-9jZgSiuOPHHVUs1kb_PK3wsK4YLm-4ybAWW2Rzc5wyFzguzeMull8RaejmKP89VIaOS454UxKR3XdSt3uylzZiA9D82LzBhbjgLRUL4Z7u-Lbnh1o-53iOty14iH9SnsmA/s0/FB_IMG_1589572985272.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC600mcj4N-9jZgSiuOPHHVUs1kb_PK3wsK4YLm-4ybAWW2Rzc5wyFzguzeMull8RaejmKP89VIaOS454UxKR3XdSt3uylzZiA9D82LzBhbjgLRUL4Z7u-Lbnh1o-53iOty14iH9SnsmA/s1600/FB_IMG_1589572985272.jpg",
+          "filename": "FB_IMG_1589572985272.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfC600mcj4N-9jZgSiuOPHHVUs1kb_PK3wsK4YLm-4ybAWW2Rzc5wyFzguzeMull8RaejmKP89VIaOS454UxKR3XdSt3uylzZiA9D82LzBhbjgLRUL4Z7u-Lbnh1o-53iOty14iH9SnsmA/s1600/FB_IMG_1589572985272.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 230,
+            "originalWidth": 1024,
+            "originalHeight": 736
+          }
+        },
+        "alt": "Zlatý kôň.: Autor Bohuš Šikulinec",
+        "caption": "Zlatý kôň.: Autor Bohuš Šikulinec",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V decembri 2021 vykonalo naše OZ Hradiská s Trenčianskym múzeom výskum hrádku. "
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/2025/11/prosne-zlaty-kon-vyskum.html",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Tu nájdete niektoré nálezy z výskumu."
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n \n Foto 31.12.2013 (Orgoň)\n \n "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

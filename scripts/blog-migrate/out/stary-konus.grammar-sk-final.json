@@ -1,0 +1,19 @@
+{
+  "slug": "stary-konus",
+  "pass": "final (pass1 + pass2 cross-field)",
+  "summary": {
+    "correctionsApplied": 13,
+    "categories": {
+      "authorName": 1,
+      "velke_male_pismena_svetove_strany": 1,
+      "typografia": 8,
+      "bohemizmy": 1,
+      "uvodzovky": 1,
+      "diakritika": 3,
+      "meno_zjednotenie": 1
+    },
+    "flagged": 2,
+    "crossFieldPropagationApplied": 1
+  },
+  "note": "Pass 1 detail v out/stary-konus.grammar-sk-pass1.json. FLAG položky (BIBLIO_IN_BODY, UNCLOSED_PAREN) v out/stary-konus.review.json. Cross-field propagácia aplikovaná do excerpt (zdieľa orezaný text s blocks[0]). authorName opravené Anonymous → Orgon podľa overeného vzoru z troch predošlých článkov (§21.10). Gallery-only popisky (nepoužité v tele) skontrolované rovnako prísne ako telové — 4 opravy nájdené výlučne tam (Val na SZ okraji, odfotiť/neboli, družstva, 10.–11. storočí)."
+}

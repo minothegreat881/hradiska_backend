@@ -1,0 +1,42 @@
+{
+  "_note": "6 opráv aplikovaných, 0 cross-node preskočených, 0 nenájdených v dumpe (možná halucinácia)",
+  "corrections": [
+    {
+      "block": "?",
+      "before": "zachovalejši v porovnaní",
+      "after": "zachovalejší v porovnaní",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "z neho osta­lo iba torzo",
+      "after": "z neho ostalo iba torzo",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "ktorý azda sídlili na hrádku bol Juraj z Hatného",
+      "after": "ktorý azda sídlil na hrádku, bol Juraj z Hatného",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "ktorým odporujú nálezy",
+      "after": "ktorému odporujú nálezy",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "Sborník slovenskejmuzeálnej spoločnosti",
+      "after": "Sborník slovenskej muzeálnej spoločnosti",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "Martin 1930Moravčík, J.",
+      "after": "Martin 1930. Moravčík, J.",
+      "reason": "gramatika/pravopis"
+    }
+  ],
+  "skippedNotFound": []
+}

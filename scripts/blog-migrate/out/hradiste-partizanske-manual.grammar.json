@@ -1,0 +1,27 @@
+{
+  "slug": "hradiste-pri-partizanskom",
+  "appliedFixes": [
+    { "id": "01", "type": "duplicita + strata pri mazaní", "note": "Bibliografia (5 položiek, bloky 23-30) odstránená z tela — bola duplicitná so Zdrojmi a naviac Súpis pamiatok/Ruttkay boli zlepené v jednom riadku. Fotokredity (Kytka, Humaj, AÚ SAV), ktoré existovali LEN v tele, prenesené do Zdrojov ako nová položka 'Foto:' — nestratili sa." },
+    { "id": "02", "type": "nezatvorený citát", "note": "Janšákov citát (bloky 7,9,10,12,13 — cca 600 slov, prerušené obrázkom) prevedený na content.quote-block (author='Štefan Janšák', source='Niektoré novoobjavené hradiská slovenské, 1928'). Fotka 'foto: Tomáš Kytka' presunutá tesne za citát, aby ho neprerušovala." },
+    { "id": "03", "type": "obsah + gramatika", "note": "Veta 'Legende o Visutom moste chýba racionálne jadro...' nahradená presne navrhnutým znením 'Legenda je, samozrejme, obraznou pamäťou na dve opevnené polohy, nie na skutočný most.' (blok 21/15 po presune)." },
+    { "id": "04", "note": "Otáznik v 'LXXXIII? História 29, 1989' odstránený, položka zlúčená s predchádzajúcou neúplnou Ruttkayho citáciou (chýbajúce 'storočia' doplnené) do jednej čistej položky v Zdrojoch." },
+    { "id": "05", "type": "OCR", "note": "boIi -> boli opravené priamo v citáte (OCR chyba prepisu, nie Janšákov pravopis)." },
+    { "id": "06", "note": "'trnkami.Mňam' -> 'trnkami. Mňam.' (galéria, media 2030, caption aj alt)." },
+    { "id": "07", "note": "5 chýb v jednom popisku opravených naraz: zápaného->západného, medzery po bodke/čiarke, '1,5metra'->'1,5 metra', '2metrov'->'2 metrov' (galéria, media 2032, caption aj alt)." },
+    { "id": "08", "note": "'foto:'/'pohľad z akropoly...' -> veľké písmeno na začiatku (galéria media 2022 aj telo obrázku Kytku; galéria media 2033)." },
+    { "id": "09", "note": "Popisky 'Juhozápadný svah...' a 'Nerovnosti...' už boli v poriadku, ponechané bez zmeny." },
+    { "id": "10", "type": "hands off", "note": "Janšákove dobové tvary (nivó, pohlaď, bedlivom, rozpadového, 'v drolené jarky rozorvaná') v citáte NEDOTKNUTÉ." },
+    { "id": "11", "note": "'v auguste 1926 roku' v citáte ponechané. KF aj timeline už mali modernú formu 'v auguste 1926' — bez zmeny." },
+    { "id": "12", "type": "hands off", "note": "'Val je v celej dĺžke zachovaný veľmi zreteľný' — Janšákova formulácia, v citáte nedotknutá." },
+    { "id": "13", "note": "'sa jedná o majetok' -> 'ide o majetok' (blok 16, mimo citátu)." },
+    { "id": "14", "note": "Pravdova -> Pravdová (chýbajúci dĺžeň, blok 16). Ostatné tvary (na Pravdovej, Pravdovú) už boli správne skloňované." },
+    { "id": "15", "note": "'ktorý mal staroslovanské meno Pravda' -> 'ktorý mal podľa tradície staroslovanské meno Pravda' (zmiernenie legendy podanej ako fakt, blok 19)." },
+    { "id": "16", "note": "Chýbajúca čiarka 'osada pod hradom polia' -> 'osada pod hradom, polia' doplnená (blok 21)." },
+    { "id": "17", "note": "Rozpor 'nezachytené v prameňoch... spomína sa v 1533' vyriešený preformulovaním na 'ktorého počiatky písomné pramene nezachytávajú' (blok 5)." },
+    { "id": "18", "note": "Timeline: 'Obec sa prvý krát spomína' -> 'Obec sa prvýkrát spomína'." },
+    { "id": "19", "type": "typografia", "note": "'9. - 10. storočia' -> '9. – 10. storočia' (blok 5). '11. až 14. – 15. storočia' zjednodušené na jednoznačné '11. – 15. storočia' (blok 16) — nejasný dvojitý rozsah nahradený jedným rozsahom." },
+    { "id": "20", "note": "Anglické úvodzovky pri Janšákovom citáte nahradené slovenskými „...\" — vyriešené automaticky konverziou na quote-block (component vyžaduje čistý text, úvodzovky pridané manuálne na začiatok/koniec)." },
+    { "id": "21", "type": "cross-article", "note": "Janšákova citácia modernizovaná rovnako ako v Hradci: 'Niektoré Novoobjavené Hradiská Slovenské' -> 'Niektoré novoobjavené hradiská slovenské', 'Muzeum Slov. Spol.' -> 'Muzeálna slovenská spoločnosť' (v Zdrojoch)." },
+    { "id": "22", "type": "cross-article", "note": "'Magyar országh varmegy (Nyitra)' -> 'Magyarország vármegyéi és városai — Nyitravármegye', zhoda s citáciou v článku Seňa (blok 19)." }
+  ]
+}

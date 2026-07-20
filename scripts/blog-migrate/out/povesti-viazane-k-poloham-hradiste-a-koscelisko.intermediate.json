@@ -1,0 +1,346 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-povesti-hradiste-koscelisko.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-4486303897053431855",
+    "bloggerPostUrl": "http://www.hradiska.sk/2014/01/povesti-viazane-k-poloham-hradiste.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/4486303897053431855/comments/default",
+    "extractedAt": "2026-07-16T17:10:51.192Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Povesti viazané k polohám Hradište a Koscelisko",
+    "slug": "povesti-viazane-k-poloham-hradiste-a-koscelisko",
+    "excerpt": "Prinášame druhú časť k predchádzajúcemu článku, ktorý sa týkal predpokladanej starodávnej cesty na severnom Považí (Mariková, Mostište, Zbora). Autorom je opäť Mgr. Peter Schreiber. K lokalitám Hradište a Koscelisko sa viažu aj tri povesti, ktoré…",
+    "authorName": "Peter Schreiber",
+    "publishedAt": "2014-01-21T09:41:00.003+01:00",
+    "originalPublishedDate": "2014-01-21T09:41:00.003+01:00",
+    "updatedAt": "2014-01-21T09:52:01.494+01:00",
+    "readingTime": 3,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [
+      "Povesti viazané k polohám Hradište a Koscelisko"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Autor",
+        "value": "Peter Schreiber",
+        "icon": "book"
+      },
+      {
+        "label": "Lokalita",
+        "value": "Hradište a Koscelisko (Zborov, severné Považie)",
+        "icon": "map"
+      },
+      {
+        "label": "Motív",
+        "value": "Nadprirodzené sily strážiace zaniknuté hradisko a kostolisko – čert, prízraky, zakázané miesto",
+        "icon": "star"
+      },
+      {
+        "label": "Zdroj",
+        "value": "M. Húževka: Púchovské povesti (1990); J. Mišún (zost.): Obec Mestečko (2006)",
+        "icon": "scroll"
+      }
+    ],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prinášame druhú časť k predchádzajúcemu článku, ktorý sa týkal predpokladanej starodávnej cesty na severnom Považí (Mariková, Mostište, Zbora). Autorom je opäť Mgr. Peter Schreiber."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "K lokalitám Hradište a Koscelisko sa viažu aj tri povesti, ktoré boli zaznamenané a publikované Milanom Húževkom v knihe Púchovské povesti a v monografii o obci Mestečko (Ján Mišún a kolektív). Ďalej uvádzam skrátený prepis povestí."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Povesť ovčiar spod Čechovca[1]:"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Povesť spomína, že istému pastierovi, ovčiarovi, pri love divých kôz na vrchu neďaleko zhoreného "
+              },
+              {
+                "type": "text",
+                "text": "hradiska",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " sa zjavil divý cap a sľúbil pastierovi, že mu splní jedno želanie, ak teda nebude strieľať kozy v jeho stáde. Na to mu dal cap jeden svoj roh a pastier si z neho mal vyrobiť trúbu. Na trúbu mal zatrúbiť, keď mu bude najhoršie a bude mu splnené jedno želanie (Húževka 1990)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Povesť utopená svadba:",
+                "bold": true,
+                "italic": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Mládenec z Mestečka hľadal nevestu. Už ako malý chlapec pásaval lichvu na "
+              },
+              {
+                "type": "text",
+                "text": "Hradišti",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ". Vyhliadol si nevestu z osady Gaškov, nad obcou Vydrná. Raz mu jeden vandrák, idúc cez pasienok, poradil, aby si ju napriek otcovým zákazom vzal za ženu. Na vohľady chodil cez miesto, ktoré sa nazývalo "
+              },
+              {
+                "type": "text",
+                "text": "Jezero",
+                "italic": true
+              },
+              {
+                "type": "link",
+                "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/povesti%20k%20%C4%8Dlanku%20%C5%A0im%C3%BAnky%20(%C5%A0irok%C3%A1)....docx#_ftn2",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "[2]"
+                  }
+                ],
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ". Bolo to miesto, kde sa utopil nejeden dobytok. Vedel sa tomu nebezpečnému miestu vyhýbať. Keď nastal čas pytačiek, mládenec vyzval svatov, aby sa spolu vybrali do Gaškov, vypýtať nevestu. O polnoci sa nevesta aj so ženíchom museli pobrať do Mestečka. Išli smerom k "
+              },
+              {
+                "type": "text",
+                "text": "Jezeru",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ", ale divý pohonič, akoby podcenil nebezpečenstvo, hnal kone vpred. Bezstarostní svadobčania spievali, muzika hrala a záprah sa hnal priamo do trasoviska"
+              },
+              {
+                "type": "text",
+                "text": " Jezera",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ". Na jeho okraji sa pohonič zmenil na čerta, vandráka, ktorý kedysi pošepol zámer mládencovi. Voz sa ocitol v bahne. V tej chvíli kohút, čo ho široká niesla ako dar do zaťovho dvora, zakikiríkal. Všetci sa utopili v"
+              },
+              {
+                "type": "text",
+                "text": " Jezere",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ". Počas svätojánskej noci je vraj na mieste počuť spev svadobčanov, zvuky hudobných nástrojov a kohútie zakikiríkanie. Poznámka, podľa rozprávania Kataríny Václavíkovej (Mišún 2006)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Povesť Zámčiská:",
+                "bold": true,
+                "italic": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pod vrchom Stráža mal stáť starý koscel. Toto miesto volali Zborani Koscel a Mestečani Zámčiská. V Zámčiskách strašievalo, nikto sa tam v noci neodvážil ísť. Jeden smelý človek vraj raz v Zámčiskách vyčkal do polnoci. Keď hlásnik trúbil v Zbore dvanástu hodinu, dostal strach. Potom sa pod ním zem pohla, a neďaleko v brehu čosi puklo. Zo škáry, pomedzi korene bukov sa ukázal tieň chlapa, a ten mu povedal: „už nikdy sem nechoď“. Toto je miesto, ktoré nesmie byť znesvätené. Kto by sem chodil z obyčajných ľudí, môže spôsobiť ohromné nešťastie. Poznámka, podľa rozprávania Ondreja Ševelu (Mišún 2006)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Záver:",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "K lokalite Hradište sa viažu dve povesti, v ktorých sa spomínajú nadprirodzené sily. Objavuje sa tu motív čerta, čisto teoreticky tu môže ísť o démonizáciu tohto miesta, rovnako ako v prípade blízkej polohy Jezero. V priľahlej časti Moravy, oblasti Vsetínska, bola táto problematika podrobne rozpracovaná, na základe archeologických lokalít z obdobia včasného stredoveku v nadväznosti na ústnu slovesnosť v regióne (Hlavica 2009)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Hlavica 2009. – M. 2009: Raně středověké kultovní aktivity na vrchu Klášťov a jejich odraz v archeologických pramenech a ústní lidové slovesnosti. Bakalářská diplomová práce, depon. in Masarykova univerzita Filozofická fakulta, Ústav archeologie a muzeologie, Brno, 2-65.",
+            "url": null
+          },
+          {
+            "text": "Húževka 1990 – M. Húževka: Púchovské povesti. Martin 1990, 7-374.",
+            "url": null
+          },
+          {
+            "text": "Mišún 2006 – J. Mišún (zost.): Obec Mestečko. Zbora 2006, 5-121.",
+            "url": null
+          },
+          {
+            "text": "[1]",
+            "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/povesti%20k%20%C4%8Dlanku%20%C5%A0im%C3%BAnky%20(%C5%A0irok%C3%A1)....docx#_ftnref1"
+          },
+          {
+            "text": "osada Čechovec je súčasť obce Dohňany, časť Zbora",
+            "url": null
+          },
+          {
+            "text": "Jazerka, spomínaná v druhom texte „Šimúnky (Široká), Hradište, Koscelisko – možné súvislosti“",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Autor: Mgr. Peter Schreiber"
+      },
+      {
+        "type": "book",
+        "text": "Hlavica 2009. – M. 2009: Raně středověké kultovní aktivity na vrchu Klášťov a jejich odraz v archeologických pramenech a ústní lidové slovesnosti. Bakalářská diplomová práce, depon. in Masarykova univerzita Filozofická fakulta, Ústav archeologie a muzeologie, Brno, 2-65."
+      },
+      {
+        "type": "book",
+        "text": "Húževka 1990 – M. Húževka: Púchovské povesti. Martin 1990, 7-374."
+      },
+      {
+        "type": "book",
+        "text": "Mišún 2006 – J. Mišún (zost.): Obec Mestečko. Zbora 2006, 5-121."
+      },
+      {
+        "type": "external-url",
+        "url": "file:///C:/Documents%20and%20Settings/Peter%20Jencik/My%20Documents/Downloads/povesti%20k%20%C4%8Dlanku%20%C5%A0im%C3%BAnky%20(%C5%A0irok%C3%A1)....docx#_ftnref1",
+        "title": "[1]"
+      },
+      {
+        "type": "book",
+        "text": "osada Čechovec je súčasť obce Dohňany, časť Zbora"
+      },
+      {
+        "type": "book",
+        "text": "Jazerka, spomínaná v druhom texte „Šimúnky (Široká), Hradište, Koscelisko – možné súvislosti“"
+      }
+    ]
+  }
+}

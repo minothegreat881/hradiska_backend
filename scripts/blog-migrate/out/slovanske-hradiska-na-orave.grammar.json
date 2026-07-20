@@ -1,0 +1,255 @@
+{
+  "_note": "Aplikované priamo na živý článok cez GET->apply->PUT (14.7.2026), zdroj: externý jazykový korektúrny report (47 nálezov). 44 opráv aplikovaných (vrátane broadcast na duplicitné alt/caption polia), 3 už boli medzičasom opravené (#1 odde2ujúci, #3 čí/či, #5 umožnovali), 1 finding (#11 z ďaleka viďiteľný) bol zastaraný — text medzičasom prepísaný inak. #42 (zjednotenie stor./storočia) a #45 (anglický titulok) sa v Strapi obsahu vôbec nenašli/neaplikujú — neriešené. #47 (kniežatstvo — anachronizmus) je vecná, nie jazyková poznámka, zámerne nezmenené.",
+  "corrections": [
+    {
+      "before": "zo severnej strany odde2ujúci hradný vrch",
+      "after": "zo severnej strany oddeľujúci hradný vrch",
+      "reason": "n#1"
+    },
+    {
+      "before": "uloženými v jamke alebo prikrytámi pieskovcovou doskou",
+      "after": "uloženými v jamke alebo prikrytými pieskovcovou doskou",
+      "reason": "n#2"
+    },
+    {
+      "before": "O tom, čí tu bolo slovanské opevnené sídlisko",
+      "after": "O tom, či tu bolo slovanské opevnené sídlisko",
+      "reason": "n#3"
+    },
+    {
+      "before": "je Velký Bysterec",
+      "after": "je Veľký Bysterec",
+      "reason": "n#4"
+    },
+    {
+      "before": "a umožnovali komunikačné spojenie",
+      "after": "a umožňovali komunikačné spojenie",
+      "reason": "n#5"
+    },
+    {
+      "before": "rieka Orava mohla ešte zaplavovat údolie",
+      "after": "rieka Orava mohla ešte zaplavovať údolie",
+      "reason": "n#6"
+    },
+    {
+      "before": "obydlia slúžili hlave ako ubytovne",
+      "after": "obydlia slúžili hlavne ako ubytovne",
+      "reason": "n#7"
+    },
+    {
+      "before": "O histórii dubovianského hrádku",
+      "after": "O histórii dubovianskeho hrádku",
+      "reason": "n#8"
+    },
+    {
+      "before": "Podla doterajšieho bádania",
+      "after": "Podľa doterajšieho bádania",
+      "reason": "n#9"
+    },
+    {
+      "before": "šlo o objekt s prevládajúcimi pevnostnými črtami",
+      "after": "išlo o objekt s prevládajúcimi pevnostnými črtami",
+      "reason": "n#10"
+    },
+    {
+      "before": "Mezibrodie, Oravský podzámok, Sedliacka Dubová",
+      "after": "Medzibrodie, Oravský Podzámok, Sedliacka Dubová",
+      "reason": "n#12"
+    },
+    {
+      "before": "Pokus o rekonštrukciu halštatského hradiska na Žiari. (podľa P. Čaplovica)",
+      "after": "Pokus o rekonštrukciu halštatského hradiska na Žiari. (podľa P. Čaploviča)",
+      "reason": "n#13"
+    },
+    {
+      "before": "Slovanské Hradiská na Orave",
+      "after": "Slovanské hradiská na Orave",
+      "reason": "n#14-title"
+    },
+    {
+      "before": "Tupá a Ostrá Skala (autor Tomáš Demian)",
+      "after": "Tupá a Ostrá skala (autor Tomáš Demian)",
+      "reason": "n#14b"
+    },
+    {
+      "before": "hradisko vo Vyšnom Kubíne pretrvalo až do 12. storočia predpokladáme, že",
+      "after": "hradisko vo Vyšnom Kubíne pretrvalo až do 12. storočia, predpokladáme, že",
+      "reason": "n#15"
+    },
+    {
+      "before": "Ako som uviedol hradisko malo predovšetkým vojenský účel",
+      "after": "Ako som uviedol, hradisko malo predovšetkým vojenský účel",
+      "reason": "n#16"
+    },
+    {
+      "before": "Údolia rieky Orava, a jej postranných prítokov poskytovali",
+      "after": "Údolia rieky Oravy a jej postranných prítokov poskytovali",
+      "reason": "n#17"
+    },
+    {
+      "before": "najmä však výhodné prechody, a umožňovali komunikačné spojenie",
+      "after": "najmä však výhodné prechody a umožňovali komunikačné spojenie",
+      "reason": "n#18"
+    },
+    {
+      "before": "Drahoslava Hulínka, Michala Čajku: Včasnostredoveké hradiská",
+      "after": "Drahoslava Hulínka a Michala Čajku: Včasnostredoveké hradiská",
+      "reason": "n#19"
+    },
+    {
+      "before": "Na deštrukcii staršieho halštatského valu osadili vo včasnom stredoveku slovanskú palisádu",
+      "after": "Na deštrukciu staršieho halštatského valu osadili vo včasnom stredoveku slovanskú palisádu.",
+      "reason": "n#20+32"
+    },
+    {
+      "before": "nakoľko hrad Orava ešte neexistoval",
+      "after": "nakoľko hrad Orava ešte neexistoval.",
+      "reason": "n#21"
+    },
+    {
+      "before": "cca. od 750 pred Kr.",
+      "after": "cca 750 pred Kr.",
+      "reason": "n#22"
+    },
+    {
+      "before": "(Pramene II 1992,18,19)",
+      "after": "(Pramene II 1992, 18, 19)",
+      "reason": "n#23"
+    },
+    {
+      "before": "Halštatská doba, ako nazývame staršiu dobu železnú, bolo obdobie praveku 700 až 400 rokov pred Kristom.",
+      "after": "Halštatská doba, ako nazývame staršiu dobu železnú, je obdobie praveku od 700 do 400 rokov pred Kristom.",
+      "reason": "n#24+27"
+    },
+    {
+      "before": "Význam týchto ciest reflektuje s hromadnými nálezmi bronzov z Komjatnej",
+      "after": "Význam týchto ciest dokladajú hromadné nálezy bronzov z Komjatnej",
+      "reason": "n#25"
+    },
+    {
+      "before": "Usudzuje sa o tom na základe dvoch starších nálezov",
+      "after": "Usudzuje sa tak na základe dvoch starších nálezov",
+      "reason": "n#26"
+    },
+    {
+      "before": "Hradiská sa už stavali aj za pomoci kameňa, žili z remesla a chovu oviec a vykazujú náznaky vnútornej urbanizácie.",
+      "after": "Hradiská sa už stavali aj za pomoci kameňa a vykazujú náznaky vnútornej urbanizácie. Ich obyvatelia žili z remesla a chovu oviec.",
+      "reason": "n#28"
+    },
+    {
+      "before": "Budovy na nádvorí stavali minimálne 9 metrov od obrannej chodby, z ktorých sa na pôvodných miestach našli črepy a mazanica.",
+      "after": "Budovy na nádvorí stavali minimálne 9 metrov od obrannej chodby. Na ich pôvodných miestach sa našli črepy a mazanica.",
+      "reason": "n#29"
+    },
+    {
+      "before": "Nedosahuje však takú intenzitu ako v oboch dominantných časových úsekoch.",
+      "after": "Osídlenie však nedosahuje takú intenzitu ako v oboch dominantných časových úsekoch.",
+      "reason": "n#30"
+    },
+    {
+      "before": "Vo včasnostredovekom období mala ťažisko osídlenia v dvoch horizontoch.",
+      "after": "Osídlenie malo vo včasnostredovekom období dve ťažiskové fázy.",
+      "reason": "n#31"
+    },
+    {
+      "before": "Základ valu bola roštovo-skriňová konštrukcia",
+      "after": "Základom valu bola roštovo-skriňová konštrukcia",
+      "reason": "n#33"
+    },
+    {
+      "before": "postavenou na 1 meter vysokej kamennej nadmurovke",
+      "after": "postavenou na 1 meter vysokej kamennej podmurovke",
+      "reason": "n#34"
+    },
+    {
+      "before": "O histórii dubovianskeho hrádku vieme veľmi málo, iba vieme datovať jeho zánik do strednej doby laténskej v 3. až 2. storočí pred Kristom.",
+      "after": "O histórii dubovianskeho hrádku vieme veľmi málo; jeho zánik možno datovať do strednej doby laténskej, do 3. až 2. storočia pred Kristom.",
+      "reason": "n#35"
+    },
+    {
+      "before": "je lokalizovaná na skalnatom útvare severne od obce",
+      "after": "je lokalizovaná na skalnom útvare severne od obce",
+      "reason": "n#36"
+    },
+    {
+      "before": "bola v úzkom kontakte s susedným územím dnešného Poľska, čo dokazuje podoba hradísk",
+      "after": "bola v úzkom kontakte s susedným územím dnešného Poľska, čo dokladá podoba hradísk",
+      "reason": "n#37"
+    },
+    {
+      "before": "Predpokladá sa, že zanikol spolu s hradiskom v Istebnom. Pravdepodobne obidve hradiská boli dobyté a vypálené.",
+      "after": "Predpokladá sa, že zanikol spolu s hradiskom v Istebnom. Pravdepodobne boli obidve hradiská dobyté a vypálené.",
+      "reason": "n#38"
+    },
+    {
+      "before": "Takto vybudovaný obranný systém s využitím dymovej signalizácie tvoril silný obranný celok miestneho kniežatstva.",
+      "after": "Takto vybudovaná sústava s využitím dymovej signalizácie tvorila silný obranný celok miestneho kniežatstva.",
+      "reason": "n#39"
+    },
+    {
+      "before": "s rozlohou 2500 m2",
+      "after": "s rozlohou 2 500 m²",
+      "reason": "n#40"
+    },
+    {
+      "before": "s rozlohou približne 1,5-2 ha",
+      "after": "s rozlohou približne 1,5 – 2 ha",
+      "reason": "n#41a"
+    },
+    {
+      "before": "v chotári 490-1612 m",
+      "after": "v chotári 490 – 1 612 m",
+      "reason": "n#41b1"
+    },
+    {
+      "before": "v chotári 465-650 m",
+      "after": "v chotári 465 – 650 m",
+      "reason": "n#41b2"
+    },
+    {
+      "before": "v chotári 455-1224 m",
+      "after": "v chotári 455 – 1 224 m",
+      "reason": "n#41b3"
+    },
+    {
+      "before": "v chotári 495-1224 m",
+      "after": "v chotári 495 – 1 224 m",
+      "reason": "n#41b4"
+    },
+    {
+      "before": "z 8.-9. a 10.-12. stor.",
+      "after": "z 8. – 9. a 10. – 12. stor.",
+      "reason": "n#41c"
+    },
+    {
+      "before": "Istebné - Hrádok",
+      "after": "Istebné – Hrádok",
+      "reason": "n#43-heading"
+    },
+    {
+      "before": "a Istebné Hrádok.",
+      "after": "a Istebné – Hrádok.",
+      "reason": "n#43a"
+    },
+    {
+      "before": "Istebnom – Hrádok",
+      "after": "Istebné – Hrádok",
+      "reason": "n#43b"
+    },
+    {
+      "before": "Istebného – Hrádok",
+      "after": "Istebné – Hrádok",
+      "reason": "n#43c"
+    },
+    {
+      "before": "Dolný Kubín- Veľký Bysterec-Trniny",
+      "after": "Dolný Kubín – Veľký Bysterec – Trniny",
+      "reason": "n#44"
+    },
+    {
+      "before": "Val, v pôdoryse majúci tvar nesymetrickej podkovy, chránil",
+      "after": "Val, ktorý má v pôdoryse tvar nesymetrickej podkovy, chránil",
+      "reason": "n#46"
+    }
+  ]
+}

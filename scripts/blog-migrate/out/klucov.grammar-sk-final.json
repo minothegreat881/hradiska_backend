@@ -1,0 +1,30 @@
+{
+  "slug": "klucov",
+  "sourceDraft": "out/klucov.grammar-sk-pass1.json",
+  "pass1AppliedFixes": [
+    { "rule": "A7 bohemizmus + medzera pred čiarkou", "field": "excerpt", "before": "zistilo , že sa jedná o hradisko", "after": "zistilo, že ide o hradisko" },
+    { "rule": "A7 bohemizmus (rovnaká veta v tele)", "block": 0, "before": "zistilo, že sa jedná o hradisko", "after": "zistilo, že ide o hradisko" },
+    { "rule": "A1 vsuvka čiarky (obojstranne)", "block": 2, "before": "Vyvýšenina na ktorej sa rozprestieralo slovanské hradisko je dnes", "after": "Vyvýšenina, na ktorej sa rozprestieralo slovanské hradisko, je dnes" },
+    { "rule": "A7 bohemizmus", "block": 5, "before": "Jedná sa o jedno z najstarších hradísk", "after": "Ide o jedno z najstarších hradísk" },
+    { "rule": "A4 pád/rod (množné číslo)", "block": 7, "before": "typická pre prvé slovanská hradiska", "after": "typická pre prvé slovanské hradiská" },
+    { "rule": "A8 preklep (chýbajúci dĺžeň)", "block": 10, "before": "primykala svojim južným a severným koncom", "after": "primykala svojím južným a severným koncom" },
+    { "rule": "A3 zhoda podmetu s prísudkom (číslo)", "block": 11, "before": "zachované vo dvojiciach a tvoril tak dve paralelné rady", "after": "zachované vo dvojiciach a tvorili tak dve paralelné rady" },
+    { "rule": "štrukturálne — prázdny caption/alt", "block": 12, "before": "alt/caption boli iba osamotená bodka '.'", "after": "caption vyprázdnený (showCaption:false), alt nastavený na 'Klučov' — rovnaký fallback ako ostatné no-caption obrázky článku" },
+    { "rule": "A3 zhoda rodu + A1 vsuvka čiarky", "block": 13, "before": "Šírka prechodu bola 4 až 5 m a tvoril bránu ... Obrancovia, stojaci na vrchole hradby boli", "after": "Šírka prechodu bola 4 až 5 m a tvorila bránu ... Obrancovia, stojaci na vrchole hradby, boli" },
+    { "rule": "A4 zhoda (príd. meno namiesto príslovky)", "block": 16, "before": "Vstup bol teda tesne, ale zároveň dostatočne priestranný", "after": "Vstup bol teda tesný, ale zároveň dostatočne priestranný" },
+    { "rule": "A8 preklepy (chýbajúce písmená)", "block": 20, "before": "obyvateľom hradika v prípade obliehnia prístup", "after": "obyvateľom hradiska v prípade obliehania prístup" },
+    { "rule": "A4 pád + A3 zhoda rodu (Hradba = ženský rod)", "block": 21, "before": "nedosahovala výšok ... predstavoval pre obranu prekážku", "after": "nedosahovala výšky ... predstavovala pre obranu prekážku" },
+    { "rule": "B pomlčka + A8 preklep + A4 preklep/pád", "block": 23, "before": "sýpok - jám ... vo včasnostredovakom období ... viacero kamených žarnovou", "after": "sýpok — jám ... vo včasnostredovekom období ... viacero kamenných žarnovov" }
+  ],
+  "pass2CrossFieldChecks": [
+    { "field": "keyFacts (Vnútorná zástavba)", "finding": "už obsahovalo správne 'sýpok — jám' (em dash) kým telo (blok 23) malo hyphen 'sýpok - jám'", "action": "telo zosúladené s keyFacts, žiadna ďalšia zmena keyFacts potrebná" },
+    { "field": "typografia (§21.2 sweep)", "finding": "žiadne ďalšie x-separátory / 'ca' skratky / zvyšné preklepy (hradika, obliehnia, výšok, jedná) v tele, excerpte, keyFacts ani timeline po oprave", "action": "žiadna ďalšia zmena — regex sweep čistý" },
+    { "field": "gallery[].caption (media[], §21.4)", "finding": "gallery pole malo vlastnú kópiu toho istého zdrojového obrázka (Bez+názvu6.jpg, sourceUrl zhodný s blocks[12]) s rovnakým chybným captionom '.'", "action": "zosúladené s opravou blocks[12] — caption nastavený na null (rovnaký fallback ako ostatné no-caption položky galérie)" }
+  ],
+  "notedNotFixed": [
+    "Zdroj 'Bc. Anna Bajerova: ... ve střední Evrope' (rovnaká citácia ako v Gars-Thunau) — český bibliografický titul, ponechaný bez zásahu (citácia, nie slovenský text)."
+  ],
+  "flags": [],
+  "quoteBlocksTouched": 0,
+  "status": "upload-ready"
+}

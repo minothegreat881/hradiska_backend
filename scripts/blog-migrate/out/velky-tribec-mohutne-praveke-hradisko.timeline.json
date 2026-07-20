@@ -1,0 +1,112 @@
+{
+  "_note": "Agent 1, overnight batch 13.7.2026",
+  "timeline": [
+    {
+      "year": "neskorá doba bronzová – halštatská doba (lužická kultúra)",
+      "title": "Vznik a hlavné využívanie hradiska",
+      "description": "Nálezy keramiky z prvej doby železnej (hallštattskej), črepy datované do neskorej doby bronzovej a halštatu i nálezy z lužickej kultúry v závere doby bronzovej spájajú hlavné využívanie mohutného hradiska s ľudom lužickej kultúry a halštatským obdobím.",
+      "type": "founding"
+    },
+    {
+      "year": "doba laténska a rímska",
+      "title": "Opätovné využitie hradiska",
+      "description": "Po zániku lužickej kultúry bolo hradisko istý čas zrejme opustené; po niekoľkých storočiach ho obyvatelia znovu využili v dobe laténskej a rímskej, avšak nie v pôvodnom rozsahu opevnenia, iba vo vhodnejších menších častiach.",
+      "type": "event"
+    },
+    {
+      "year": "1922",
+      "title": "Prvý publikovaný opis hradiska",
+      "description": "Lívius Odescalchi ako prvý hradisko popísal a zakreslil; jeho rukopis bol publikovaný v nemeckom jazyku vo výročnej správe Rakúskej antropologickej spoločnosti vo Viedni spolu s 5 obrázkami v texte.",
+      "type": "discovery"
+    },
+    {
+      "year": "začiatok 20. storočia",
+      "title": "Anonymný rukopis o hradisku",
+      "description": "V Matičnom archíve v Martine sa zachoval 11-stránkový rukopis štúdie „O prähistorickom pevnostnom vale na vrchu Tríbči“ bez uvedeného autora; botanik Pavol Eliaš preukázal, že ide o slovenský preklad Odescalchiho nemeckého článku.",
+      "type": "discovery"
+    },
+    {
+      "year": "1929",
+      "title": "Podrobný výskum Štefana Janšáka",
+      "description": "Štefan Janšák hradisko podrobne opísal a zakreslil vo svojom článku; uviedol napr. celkovú dĺžku obvodového valu 1882 m, plošnú rozlohu 102 ha a nálezy drobných črepov keramiky z prvej doby železnej.",
+      "type": "discovery"
+    },
+    {
+      "year": "90. roky 20. storočia",
+      "title": "Vykradnutie hradiska detektoristami",
+      "description": "Po Janšákovi sa hradisku podrobnejšie nikto nevenoval a bolo ponechané napospas nelegálnym detektoristom, ktorí ho pripravili najmä o väčšie kovové predmety.",
+      "type": "destruction"
+    },
+    {
+      "year": "2001",
+      "title": "Povrchový zber archeológov",
+      "description": "Archeológovia Jana Katkinová a Slavomír Katkin vykonali na hradisku iba povrchový zber a výsledky zverejnili v AVANSE za rok 2001; nájdené črepy rámcovo datovali podobne ako Janšák do neskorej doby bronzovej a halštatu.",
+      "type": "discovery"
+    },
+    {
+      "year": "2019",
+      "title": "Výskum na základe leteckého snímkovania",
+      "description": "Archeológovia Borza a Borzová sa hradisku venovali na základe leteckého snímkovania a ich článok priniesol zaujímavé informácie o priebehu opevnenia a o predsunutom vale.",
+      "type": "discovery"
+    },
+    {
+      "year": "september 2024",
+      "title": "Systematický výskum s detektorom kovov",
+      "description": "Pamiatkový úrad SR a Krajský pamiatkový úrad Nitra s prispením OZ Hradiská a Archeo Moravia vykonali na hradisku systematický výskum za pomoci detektora kovov, podkladom bolo aj kvalitné moderné lidarové snímkovanie terénu.",
+      "type": "discovery"
+    },
+    {
+      "year": "2024",
+      "title": "Nové poznatky o datovaní a nečakané nálezy",
+      "description": "Výsledky výskumu priniesli úplne nové poznatky k datovaniu hradiska aj viaceré nečakané nálezy (drobné zlomky bronzových predmetov z mladšej a neskorej doby bronzovej, kovové zliatky, fragmenty spôn), ako aj hlinený praslen a keramické črepy datované do obdobia ľudu lužickej kultúry v závere doby bronzovej.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Nadmorská výška",
+      "value": "820 m (vrchol hradiska), kóta 829 m",
+      "icon": "mountain"
+    },
+    {
+      "label": "Plošná rozloha hradiska",
+      "value": "102 ha",
+      "icon": "map"
+    },
+    {
+      "label": "Dĺžka obvodového valu",
+      "value": "1882 m, pomocný val cca 200 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Výška valu",
+      "value": "0,5 – 1 m (navonok tvorí 4-5 m vysoký stupeň)",
+      "icon": "shield"
+    },
+    {
+      "label": "Brány",
+      "value": "štyri otvory (brány) 8-10 m široké, hlavný vchod na severozápadnej strane",
+      "icon": "flag"
+    },
+    {
+      "label": "Datovanie osídlenia",
+      "value": "neskorá doba bronzová a halštatská doba (lužická kultúra), neskôr opätovne doba laténska a rímska",
+      "icon": "calendar"
+    },
+    {
+      "label": "Prvý bádateľ",
+      "value": "Lívius Odescalchi – opis a nákres, publikované 1922",
+      "icon": "book"
+    },
+    {
+      "label": "Kľúčový bádateľ",
+      "value": "Štefan Janšák – podrobný opis a nákres hradiska, 1929",
+      "icon": "book"
+    },
+    {
+      "label": "Výskum 2024",
+      "value": "Pamiatkový úrad SR a Krajský pamiatkový úrad Nitra s OZ Hradiská a Archeo Moravia, detektor kovov, lidar",
+      "icon": "users"
+    }
+  ]
+}

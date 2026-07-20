@@ -1,0 +1,24 @@
+{
+  "slug": "visegrad-dalsie-velkomoravske-hradisko-v-madarsku-hu",
+  "note": "grammar-sk pass 2 — cross-field konzistencia (§21.4). Mapa {before -> after} z pass 1 prehnaná cez timeline[], keyFacts[], excerpt, media captions, title, tags, content.sources/citations.",
+  "crossFieldChecked": ["excerpt", "keyFacts[]", "timeline[]", "title", "tags (prázdne, bez zmeny)", "media captions/alt", "content.sources", "citations"],
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "D chránený názov 'Šibrikov kopec' — zjednotené naprieč telom, keyFacts aj gallery caption", "field": "keyFacts[0].value, gallery caption (Najstaršia fotka z roku 1872)", "before": "Sibrikov kopec / na Šibrikovom kopci (telo malo nesprávny tvar na niektorých miestach)", "after": "Šibrikov kopec všade", "note": "keyFacts[0] mal už správny tvar 'Šibrikovom kopci' — slúžil ako jedna z referencií; opravovaných bolo 17 výskytov spolu naprieč celým dokumentom, zahrnuté v pass 1." },
+    { "rule": "D cross-field (130×140 m — telo aj timeline mali rovnaký chýbajúci znak ×)", "field": "timeline[0].description", "before": "rozmery cca 130×140 m", "after": "rozmery cca 130 × 140 m" },
+    { "rule": "D cross-field (1220-ych — telo malo neštandardný tvar, timeline už mal 'v 20. rokoch 13. storočia')", "field": "žiadna zmena v timeline (bol už správny), telo zosúladené v pass 1", "before": "-", "after": "-" },
+    { "rule": "D cross-field NUMBER_MISMATCH propagácia flagu (rovnaký údaj '7 km' na 3 miestach)", "field": "excerpt, keyFacts[0].value", "before": "-", "after": "-", "note": "flag z pass 1 sa týka rovnako excerptu aj keyFacts[0] (identický číselný údaj) — nefixované, len poznačené na rovnakom mieste ako v pass 1." }
+  ],
+  "reviewed_no_change": [
+    "title, tags — title opravený v pass 1 (veľkomoravské malým); tags je prázdne pole, bez zmeny (staršia poznámka navrhovala pridať nový tag 'Maďarsko - Slovanské hradiská' — kategorizácia, mimo rozsahu grammar-sk, neprevzaté).",
+    "timeline[] — všetkých 16 položiek prekontrolovaných; okrem timeline[0] (opravené) bol zvyšok už v cieľovom tvare a v mnohých prípadoch slúžil ako referencia na opravu tela (320. rokov, 1220-ych/20. rokoch 13. storočia).",
+    "keyFacts[] — všetkých 7 položiek prekontrolovaných; jediný (nefixovaný) nález je zdieľaný NUMBER_MISMATCH flag z pass 1 (7 km), inak bez zmeny.",
+    "content.sources / citations — mimo opravy 'CommArchHung 2017, 193 – 235.' (aplikovanej zhodne v oboch poliach) žiadny ďalší nález; maďarské/anglické bibliografické tituly ponechané úplne nedotknuté."
+  ],
+  "flags": [
+    { "type": "NUMBER_MISMATCH (prenesený z pass 1)", "location": "excerpt + blok 0 tela + keyFacts[0]", "detail": "Pozri out/visegrad-dalsie-velkomoravske-hradisko-v-madarsku-hu.grammar-sk-pass1.json — '7 km' vs vypočítaných ~20 km zo súradníc v tom istom súbore. Rovnaký nález, neopakovaný v plnom znení tu." },
+    { "type": "UNCLOSED_QUOTE (prenesený z pass 1)", "location": "blok 5", "detail": "Pozri pass1 — neuzavretý citát z Buzás a kol. 2014, nedotknutý." }
+  ],
+  "uploadReady": true,
+  "verifiedJsonValid": true
+}

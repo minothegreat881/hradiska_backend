@@ -1,0 +1,24 @@
+{
+  "_note": "3 opráv aplikovaných, 0 cross-node preskočených, 0 nenájdených v dumpe (možná halucinácia)",
+  "corrections": [
+    {
+      "block": "?",
+      "before": "knihe Boná 2 uvádza",
+      "after": "knihe Bojná 2 uvádza",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "možnože v spojení",
+      "after": "možno v spojení",
+      "reason": "gramatika/pravopis"
+    },
+    {
+      "block": "?",
+      "before": "i d'alších prírodných zdrojov",
+      "after": "i ďalších prírodných zdrojov",
+      "reason": "gramatika/pravopis"
+    }
+  ],
+  "skippedNotFound": []
+}

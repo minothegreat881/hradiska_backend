@@ -1,0 +1,28 @@
+{
+  "slug": "varin-nezbudska-lucka-gabrisova",
+  "note": "grammar-sk agent, prvý prechod. Najhustejší odborný archeologický text zo zvyšných 8 článkov (výskumná práca Z. Stanekovej prevzatá takmer doslovne).",
+  "criticalFixes": [
+    { "issue": "Bibliografická citácia (PhDr. Zuzana Staneková, rigorózna práca 2021) bola prilepená na koniec obrovského bloku 12 (Železná studňa) namiesto samostatnej content.sources sekcie; článok nemal vôbec Zdroje.", "fix": "Vytvorená nová content.sources s 1 položkou; text odstránený z konca bloku 12. Footnote marker '(1)' v bloku 1 zostáva nedotknutý a naďalej odkazuje na tento jediný zdroj." },
+    { "issue": "3 medzititulky ('Košíkovitý závesok', 'Bronzová figúrka barana', 'Železná studňa') boli zlepené priamo do textu odsekov namiesto vlastných blokov.", "fix": "Vyčlenené ako samostatné bloky pred príslušným odsekom, rovnaký vzor ako pri iných článkoch tejto session (napr. Dreveník)." }
+  ],
+  "appliedFixes": [
+    { "rule": "A4 zhoda privlastňovacieho zámena s rodom podmetu", "before": "Poloha ... Jeho miernejšie svahy pod temenom", "after": "Poloha ... Jej miernejšie svahy pod temenom", "block": 2, "note": "'Poloha' je ženský rod, zámeno bolo mylne v strednom/mužskom rode" },
+    { "rule": "A1 chýbajúca uzatváracia čiarka vsuvky", "before": "ich telo, bez zahnutých ramienok dosahuje okolo 5–8 cm", "after": "ich telo, bez zahnutých ramienok, dosahuje okolo 5–8 cm", "block": 10 },
+    { "rule": "A1 nadbytočná čiarka pred krátkou spojkou", "before": "iné sú väčšie, a značne variabilná", "after": "iné sú väčšie a značne variabilná", "block": 10 },
+    { "rule": "A1 chýbajúca uzatváracia čiarka vsuvky", "before": "hoci sa, ako už bolo uvedené vyššie vyskytujú", "after": "hoci sa, ako už bolo uvedené vyššie, vyskytujú", "block": 10 },
+    { "rule": "B typografia (znak násobenia)", "before": "15 x 23 m", "after": "15 × 23 m", "block": 12, "note": "zjednotené s KF, ktoré malo už správny znak ×" },
+    { "rule": "D cross-field (skratka vs. plný tvar storočia)", "before": "polovice 1. stor. až začiatku 2. stor. n. l.", "after": "polovice 1. storočia až začiatku 2. storočia n. l.", "block": 12, "note": "timeline (id 4740) malo už rozpísaný tvar" },
+    { "rule": "A4 nesprávny pád podmetu (inštrumentál namiesto nominatívu)", "before": "Sprievodnými nálezmi keramiky sú všetky zhodne datované do 1. stor. n. l.", "after": "Sprievodné nálezy keramiky sú všetky zhodne datované do 1. storočia n. l.", "block": 12 },
+    { "rule": "B typografia (nepriama otázka = bodka, nie otáznik)", "before": "kde sídlili remeselníci pracujúci v týchto rozsiahlych dielňach vo Varínskej oblasti?", "after": "...vo Varínskej oblasti.", "block": 12 },
+    { "rule": "A2 pozícia zvratného 'sa' (druhá/Wackernagelova pozícia)", "before": "Azda čiastočne sa podarilo túto hádanku zodpovedať", "after": "Azda sa čiastočne podarilo túto hádanku zodpovedať", "block": 12 },
+    { "rule": "MISSING_WORD (vysoká istota, opakovaný názov lokality v tom istom odseku)", "before": "Toto by mohlo súvisieť so železiarskym strediskom na Železnej.", "after": "Toto by mohlo súvisieť so železiarskym strediskom na Železnej studni.", "block": 12, "note": "'Železná studňa' je názov lokality používaný desiatky krát v tom istom bloku; 'na Železnej' bez podstatného mena je zjavne useknuté" }
+  ],
+  "reviewed_no_change": [
+    "Bloky 0, 1, 3-9 (mimo hlavičiek) — bez ďalších chýb.",
+    "'patria medzi, z hľadiska symboliky, čitateľné predmety' (blok 6) — vsuvka je korektne uzavretá z oboch strán, ponechané.",
+    "'bola pec, resp. pece zborené' (blok 12) — nejednoznačná zhoda čísla pri alternatíve jednotné/množné číslo ('pec, resp. pece'), ale ide o zámerne ponechanú alternatívu autorky, nie jasnú chybu s jednoznačnou opravou; neopravené."
+  ],
+  "flags": [
+    "Blok 12: veta 'Najmä hrubostenné nádoby s natavenými zvyškami.' je bez slovesa a pôsobí ako odseknutý zvyšok vety (pravdepodobne strata úvodnej časti pri prevzatí z rigoróznej práce, napr. '[O tom svedčia] najmä hrubostenné nádoby...'). Nedopĺňané bez overenia v origináli (Staneková 2021), iba nahlásené."
+  ]
+}

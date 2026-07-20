@@ -1,0 +1,23 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Základné zásady OZ Hradiská' (2026-02).",
+  "corrections": [
+    {
+      "hint": 0,
+      "before": "(ďalej len \"združenie\")",
+      "after": "(ďalej len „združenie“)",
+      "reason": "slovenské úvodzovky (B)"
+    },
+    {
+      "hint": 2,
+      "before": "národných dejín - včasný stredovek",
+      "after": "národných dejín – včasný stredovek",
+      "reason": "spojovník → en dash, vsuvka (B)"
+    },
+    {
+      "hint": 2,
+      "before": "autorov populárno náučných článkov",
+      "after": "autorov populárno-náučných článkov",
+      "reason": "zložené prídavné meno so spojovníkom (B)"
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2014-07-anketa.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1071013690299156323",
+    "bloggerPostUrl": "http://www.hradiska.sk/2014/07/anketa.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1071013690299156323/comments/default",
+    "extractedAt": "2026-07-18T11:21:12.299Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Anketa",
+    "slug": "anketa-2014-jul",
+    "excerpt": "Asi 1 mesiac tu máme anketu s otázkou: \"Keby bola vyhlásená amnestia na archeo nálezy, zúčastnili by ste sa na nej?\"",
+    "authorName": "Orgon",
+    "publishedAt": "2014-07-22T10:27:00.001+02:00",
+    "originalPublishedDate": "2014-07-22T10:27:00.001+02:00",
+    "updatedAt": "2014-07-22T10:38:45.606+02:00",
+    "readingTime": 2,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Asi 1 mesiac tu máme anketu s otázkou:\n \n "
+              },
+              {
+                "type": "text",
+                "text": "\"Keby bola vyhlásená amnestia na archeo nálezy, zúčastnili by ste sa na nej?\"",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jej doterajší výsledok nie je síce nijako vedecky overiteľný a samozrejme ani pre nikoho záväzný. Avšak vzhľadom na absenciu vedeckého výskumu, či oficiálnej štatistiky na túto tému, ako aj vzhľadom na to, že našu stránku číta komunita ľudí, o ktorých možno dôvodne predpokladať, že z rôznych dôvodov majú doma odložené archeologické nálezy, jej doterajší výsledok by som neignoroval. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ukázalo sa totiž, že existuje pomerne veľké množstvo ľudí (konkrétne ku dnešnému dňu, "
+              },
+              {
+                "type": "text",
+                "text": "zo 118 zúčastnených máme až 39",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " ľudí), ktorí by v prípade amnestie priniesli svoje nálezy s cieľom odborného skúmania a zaevidovania, avšak iba v tom prípade, ak by im nálezy boli následne vrátené. Ide o pomerne "
+              },
+              {
+                "type": "text",
+                "text": "vysoké percento",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " zúčastnených hlasujúcich a je otázne, či je vhodné, aby sa také vysoké percento odignorovalo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Stojí za zamyslenie, či by po prípadnom úspechu nálezovej amnestie, (ktorá ak bude, tak predpokladám, že sa bude vzťahovať iba na odovzdané nálezy) nebolo pre dobro veci, keby zákonodarca vymyslel konštrukciu, na základe ktorej by sa umožnilo zaevidovať aj takéto nálezy. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dalo by sa to zrealizovať napr. tým spôsobom, že by sa takéto nálezy po vedeckom štúdiu zaevidovali a ich pôvodní nezákonní držitelia (ktorými sú dnes) by sa stali "
+              },
+              {
+                "type": "text",
+                "text": "legálnymi držiteľmi",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " (nie vlastníkmi, pretože vlastníkom nálezov je štát) nálezu s tým, že "
+              },
+              {
+                "type": "text",
+                "text": "by mali zároveň povinnosť sa o nálezy starať",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " a zabezpečiť ich pred stratou, či krádežou. V prípade ak by sa rozhodli nálezy predať, "
+              },
+              {
+                "type": "text",
+                "text": "mohli by ich „predať“ jedine štátu",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " za nálezné.\n \n Otázkou však je, či by vôbec o takúto formu mali záujem tí, o ktorých ide (držitelia nálezov). "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pokiaľ ide o množstvo ľudí, ktorí by v prípade amnestie svoje nálezy odovzdali múzeu bez nároku na odmenu (29 hlasujúcich) tak tu si myslím, že sa nemáme o čom baviť. Ak by odovzdalo nálezy iba týchto 29 ľudí, tak aj to bude veľké pozitívum a samozrejme treba predpokladať, že ich bude oveľa viac. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Takže amnestia by bola určite prospešná, už aj v tej najobmedzenejšej forme. Verme že sa ju aspoň v tej obmedzenej forme (odovzdanie nálezov) podarí presadiť v zákonodarnom procese. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Je to zaujímavý podnet na diskusiu, aj keď predpokladám, že množstvo archeológov sa s tým nebude stotožňovať .... "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

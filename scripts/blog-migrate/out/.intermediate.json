@@ -1,0 +1,55 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-visolaje-slovansky-mohylnik.json",
+    "sourceLabel": null,
+    "postId": "",
+    "bloggerPostUrl": null,
+    "repliesLink": null,
+    "extractedAt": "2026-07-16T15:02:47.698Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroBlocks",
+      "zeroImages",
+      "zeroCitations",
+      "shortExcerpt",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "",
+    "slug": "",
+    "excerpt": "",
+    "authorName": "",
+    "publishedAt": "",
+    "originalPublishedDate": "",
+    "updatedAt": "",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [],
+    "citations": []
+  }
+}

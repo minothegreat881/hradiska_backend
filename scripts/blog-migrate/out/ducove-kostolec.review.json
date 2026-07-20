@@ -1,0 +1,20 @@
+{
+  "slug": "ducove-kostolec",
+  "unresolvedFlags": [
+    {
+      "type": "MISSING_SOURCE_NAME",
+      "location": "content.sources items[4] / citations[] attribution: '3D Obrázky — rekonštrukcia dvorca sú prevzaté z Autormi sú architekti Viktória Kyjovská a Štefan Šuster...'",
+      "description": "Veta pôsobí, že medzi 'prevzaté z' a 'Autormi' chýba názov zdroja/URL (napr. webová stránka, odkiaľ boli 3D obrázky prevzaté). Nedopĺňané bez overenia — nevymýšľam chýbajúci názov/URL.",
+      "fromPass": 1
+    }
+  ],
+  "resolvedFalsePositives_fromDraft": [
+    {
+      "draftFlag": "Blok 23: '...združeniu \"\" podarí zrealizovať...' — draft diagnostikoval prázdne úvodzovky bez názvu občianskeho združenia, zjavne stratený text pri extrakcii.",
+      "resolution": "FALSE POSITIVE. V skutočnej štruktúre blocks[23].body[0].children je text rozdelený: '...združeniu \"' + link[text:'Dedičstvo otcov zachovaj nám pane', url:'http://www.pnky.sk/...'] + '\" podarí zrealizovať...'. Názov občianskeho združenia JE v článku prítomný ako klikateľný odkaz — nič nechýba. Pass-1 draft bol zjavne spustený na flattened plain-textovej extrakcii, ktorá stratila obsah <a> odkazu (rovnaký vzor false positive ako pri chotebuz-podobora). Opravené iba úvodzovky na Slovak-style („...\" namiesto \"...\") — text ani odkaz sa nemenili."
+    }
+  ],
+  "notFixed_directQuoteFactualDiscrepancy": [
+    "'Tisícdeväťsto preskúmaných hrobov' (blocks[18], priamy citát Dvořáka) vs. '1545 hrobov' (blocks[4], keyFacts, timeline) — reálny číselný rozpor medzi staršou knihou Dvořáka a neskorším presným archeologickým spočítaním. NEOPRAVENÉ ani jedno znenie, keďže blocks[18] je priamy citát a nie preklep (§21.6.3 — nerozhodovať vecný spor)."
+  ]
+}

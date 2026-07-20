@@ -1,0 +1,59 @@
+{
+  "slug": "bojna-vyznamne-velkomoravske-centrum",
+  "pass": "grammar-sk final (pass1 applied + pass2 cross-field sweep). Block indices below use PRE-split numbering (matching the draft); after the structural split of former block 23, all indices from 24 onward shift by +1 (82 -> 83 blocks total, confirmed).",
+  "criticalFixes": [
+    { "issue": "Blok 23 mal zlepený medzititulok 'Kruhové plakety' (bold text-run) na konci odseku namiesto samostatného heading-bloku.", "fix": "Vyčlenený ako samostatný content.rich-text heading (level 2, bold), vložený pred pôvodný blok 24 ('Plaketa 1'). Blocks count 82 -> 83, overené." },
+    { "issue": "Blok 8 — draft nahlásil 'osirotenú vetu' bez podmetu (' z roku 2008, sa v strednej časti...').", "fix": "ZAMIETNUTÉ ako false positive po overení v štruktúre: blok 8 má na začiatku link-uzol s textom 'Podľa správy z výskumu hradiska', za ktorým nasleduje text ' z roku 2008, sa v strednej časti...' — spolu tvoria kompletnú, gramaticky správnu vetu. Draft evidentne pracoval s plochým textom bez zachytenia obsahu link-uzla. Žiadny zásah nebol potrebný." },
+    { "issue": "Blok 72 (rozsiahly priamy citát K. Pietu z bloku 71) nebol na konci uzavretý úvodzovkou.", "fix": "Doplnená chýbajúca uzatváracia úvodzovka na konci bloku 72 ('...dve bronzové závažia\" namiesto '...závažia'). Overené v aktuálnom texte (blok, ktorý začína 'Dokladom poľnohospodárstva sú 2 typy kosákov')." }
+  ],
+  "appliedFixes": [
+    { "rule": "B typografia (medzery, pomlčka, jednotky)", "before": "BOJNÁ I - Valy ... vo výške 390-430 m.n.m.", "after": "BOJNÁ I – Valy ... vo výške 390 – 430 m n. m.", "block": 0, "note": "'Bojná I – Valy' zjednotené naprieč CELÝM dokumentom (nadpis, telo x2, excerpt, timeline title) podľa referenčného tvaru z keyFacts ('Bojná I – Valy')" },
+    { "rule": "A8 preklep + nielen", "before": "výsledkami monntálnej archeológie ... nie len hradisko", "after": "výsledkami montánnej archeológie ... nielen hradisko", "block": 2 },
+    { "rule": "D cross-field (kniežactva -> kniežatstva)", "before": "v rámci Nitrianskeho kniežactva", "after": "v rámci Nitrianskeho kniežatstva", "block": 2, "note": "zjednotené s ostatnými výskytmi v článku ('Pribinovho kniežatstva', 'Moravské kniežatstvo') a s citáciou 3 v sources, ktorá už mala správny tvar" },
+    { "rule": "A7 bohemizmus + A9 malé písmeno + B pomlčka + A1 čiarka", "before": "činí skoro 14 ha ... 3-5 m ... 10m ... sa mohlo jednať ... Slovanský kmeň ... mýtnej stanice - každý (predovšetkým kupci) kto chcel", "after": "dosahuje skoro 14 ha ... 3 – 5 m ... 10 m ... mohlo ísť ... slovanský kmeň ... mýtnej stanice — každý (predovšetkým kupci), kto chcel", "block": 6 },
+    { "rule": "A1 čiarky pri vsuvke, B pomlčka, A8 kedy->keď, MISSING_WORD predložka", "before": "podľa Karola Pietu, jeden z trámov, ktorý tvoril okraj komory hradby bol ... 894 - tzn. ... kedy zomrel ... Keďže zánikovej vrstve sa", "after": "podľa Karola Pietu jeden z trámov, ktorý tvoril okraj komory hradby, bol ... 894 — tzn. ... keď zomrel ... Keďže v zánikovej vrstve sa", "block": 11 },
+    { "rule": "B typografia (spojovník bez medzery)", "before": "blatnicko- mikulčického", "after": "blatnicko-mikulčického", "block": 14 },
+    { "rule": "A4 pád", "before": "tvar rovnoramenného krížu", "after": "tvar rovnoramenného kríža", "block": 17 },
+    { "rule": "B typografia (medzery, násobenie)", "before": "na300x600x300 (mm)", "after": "na 300 × 600 × 300 (mm)", "block": 20 },
+    { "rule": "B typografia", "before": "780 a 820 n.l.", "after": "780 a 820 n. l.", "block": 22 },
+    { "rule": "štrukturálne", "before": "Kruhové plakety (zlepené na konci bloku 23)", "after": "vyčlenené ako samostatný heading blok", "block": 23 },
+    { "rule": "chýbajúca bodka + A7 bohemizmus + skratka bez bodky", "before": "SVAVM Pravdepodobne sa jedná o Krista ... tzv Christus-Engel", "after": "SVAVM. Pravdepodobne ide o Krista ... tzv. Christus-Engel", "block": 25 },
+    { "rule": "B typografia (caption/alt, 255-znakový limit alt poľa)", "before": "caption aj alt boli identické, dlhé; alt bol ticho orezaný na 255 znakov uprostred slova ('...Za informácie k')", "after": "caption ponechaný plný (opravená čiarka pred 'ktoré' x2, 'K.Pieta'->'K. Pieta', 'Eur'->'eur'); alt nahradený samostatnou kompletnou stručnou vetou pod limitom ('...ukradnutá z hradiska detektoristom a predaná na aukcii.')", "block": 26, "note": "fix aplikovaný na inline image-block AJ na zodpovedajúcu duplicitnú položku v top-level gallery[]" },
+    { "rule": "duplicitné slovo + A4 zhoda rodu + euphónia s/so", "before": "predmet v v tvare ... Táto osoba by mohol byť ... s zvončekom", "after": "predmet v tvare ... Táto osoba by mohla byť ... so zvončekom", "block": 28 },
+    { "rule": "B typografia (rozsahy)", "before": "19- 20 mm a priemerom 190-192 mm", "after": "19 – 20 mm a priemerom 190 – 192 mm", "block": 38 },
+    { "rule": "B typografia (medzery, rozsah)", "before": "2-6 mm ... 2180g. ... 200g.", "after": "2 – 6 mm ... 2180 g. ... 200 g.", "block": 40 },
+    { "rule": "B typografia (pomlčka, chýbajúca bodka)", "before": "Oldenburg- srdce ... tohto zvona) Talianske ... Pribinu - či ... Mojmíra zatiaľ", "after": "Oldenburg — srdce ... tohto zvona). Talianske ... Pribinu — či ... Mojmíra, zatiaľ", "block": 42 },
+    { "rule": "chýbajúca medzera + D globálny slovník + A1 čiarka", "before": "stavby( rotundy ... aquilejských misionárov ... oblasti čím sa otvorila", "after": "stavby (rotundy ... akvilejských misionárov ... oblasti, čím sa otvorila", "block": 46, "note": "'aquilejských' zjednotené s timeline (id 796), ktoré malo už 'akvilejským'" },
+    { "rule": "A1 nadbytočná čiarka", "before": "Preto je, možné že obe nákončia", "after": "Preto je možné, že obe nákončia", "block": 48 },
+    { "rule": "A8 preklep", "before": "tieto premety ukazujú", "after": "tieto predmety ukazujú", "block": 50 },
+    { "rule": "medzery, nadbytočná čiarka, chýbajúca bodka", "before": "kosákov ( zaoblený ... kovania, a botka ... dve bronzové závažia", "after": "kosákov (zaoblený ... kovania a botka ... dve bronzové závažia.\"", "block": 51, "note": "doplnená aj chýbajúca uzatváracia úvodzovka citátu z bloku 71/72 — pozri criticalFixes" },
+    { "rule": "B pomlčka + A7 bohemizmus + preklep + úvodzovka + chýbajúca bodka", "before": "I. -Valy ... nejedná sa iba ... Archeologického ústav ... zachovať\" Predpokladá,", "after": "I. – Valy ... nejde iba ... Archeologického ústavu ... zachovať\". Predpokladá,", "block": 53, "note": "aj zjednotenie zatváracej úvodzovky curly ' -> straight \" podľa house-style" },
+    { "rule": "B typografia (viacnásobné pomlčky, rozsahy, OCR line-break preklep, chýbajúca medzera po bodke)", "before": "miesta - strmé zrázy ... 25-30 m ... 3-3,5 m ... vchodu - smerom ... za-táča ... predhradie.V bode", "after": "miesta — strmé zrázy ... 25 – 30 m ... 3 – 3,5 m ... vchodu — smerom ... zatáča ... predhradie. V bode", "block": 63, "note": "priamy citát K. Pietu (nekonvertovaný na quote-block, moderný zdroj nie dobový prameň) — menená len typografia" },
+    { "rule": "A8 kedy->keď, B pomlčka, chýbajúca medzera po bodke", "before": "dobe, kedy na území ... sídlisko - refúgium ... Nitry.V Bojnej", "after": "dobe, keď na území ... sídlisko — refúgium ... Nitry. V Bojnej", "block": 65 },
+    { "rule": "OCR line-break preklep + B pomlčka", "before": "razbou Valentiniá-na I. ... opaskov - pracky", "after": "razbou Valentiniána I. ... opaskov — pracky", "block": 67 },
+    { "rule": "B pomlčka (atribúcia)", "before": "(autor - Ľubomír Červený)", "after": "(autor — Ľubomír Červený)", "block": "69, 74" },
+    { "rule": "B typografia (medzera pred bodkočiarkou)", "before": "s. ; TASR", "after": "s.; TASR", "block": 77 },
+    { "rule": "Sources+citations: chýbajúce medzery, nekonzistentný pravopis, preklep priezviska", "before": "M .:2006 ... 2007 ,Bojná ... Ruttkayiová.: ... kniežactva vs. kniežatstva", "after": "M.: 2006 ... 2007, Bojná ... Ruttkayová: ... zjednotené na 'kniežatstva'; pomlčka 'Bojná - neznáme' -> 'Bojná — neznáme'", "block": "sources + citations (obe polia, duplicitný text)" }
+  ],
+  "pass2CrossFieldCheck": {
+    "method": "Mapa before->after zo appliedFixes preverená proti excerpt, keyFacts[], timeline[], gallery[] captions, title, tags.",
+    "findings": [
+      "'Bojná I – Valy' zjednotené vo VŠETKÝCH 5 výskytoch: title (ponechaný s hyphen — pozri outOfScope), excerpt (2x), blok 0 (2x), timeline title, blok 53 — referenčný tvar prevzatý z keyFacts, ktoré ho už mali správne.",
+      "'akvilejských/akvilejským' zjednotené medzi telom (blok 46) a timeline (rok 796).",
+      "'kniežatstva' zjednotené medzi telom (blok 2), sources item 1 a existujúcimi správnymi tvarmi (timeline, blok 11, sources item 3).",
+      "Gallery[] duplicitná položka pre ukradnutú helmu (rovnaký text ako inline image-block v bloku 26) opravená identicky.",
+      "citations[] duplikuje 3 knižné položky zo content.sources verbatim — opravené identicky v oboch poliach."
+    ],
+    "outOfScope": [
+      "Top-level 'title' a 'location.name' ('Bojná - Významné Veľkomoravské centrum') ponechané s jednoduchým spojovníkom — ide o zobrazovaný/URL-bezpečný titulok, nie plynulý text v strede vety; draft ho neoznačil a nejde o jednoznačnú gramatickú chybu.",
+      "Väčšina z 57 gallery obrázkov bez popisu alebo s krátkym vlastným popisom (napr. 'detailný pohľad na rekonštrukciu valu') nebola nezávisle auditovaná — mimo rozsahu cross-field propagácie (žiadny zodpovedajúci text v appliedFixes)."
+    ]
+  },
+  "skippedOrFlagged": [
+    { "item": "3 veľké priame citáty (bloky 55+57+59, 63-67, 72, 78) z tlačových správ a odborných publikácií K. Pietu", "reason": "NEPREVEDENÉ na content.quote-block — moderná literatúra/web (2007-2011), nie dobový prameň (memory 'quote-only-period-source'). Ponechané ako rich-text, iba typografia opravená." },
+    { "item": "Vnorené úvodzovky „...\" (curly-curly) v citátoch novinárskych rozhovorov (bloky 57, 59)", "reason": "Zámerné odlíšenie od house-style „...\" (straight), typograficky zmysluplné, ponechané." },
+    { "item": "'nepoznáme, okrem tohto prípadu, dve ani len podobné predmety' (blok 48)", "reason": "Neobvyklý slovosled, nejde o jasnú chybu podľa žiadneho konkrétneho pravidla, ponechané ako v drafte." }
+  ],
+  "protectedQuoteBlocks": "Žiadny content.quote-block v článku (viacero rozsiahlych citátov K. Pietu ostáva vedome ako rich-text, nie quote-block, keďže ide o modernú literatúru).",
+  "uploadReady": true
+}

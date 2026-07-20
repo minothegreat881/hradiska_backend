@@ -1,0 +1,20 @@
+{
+  "slug": "brodske-veles",
+  "appliedFixes": [
+    { "id": "01", "type": "duplicita", "note": "Poznámky [1]–[8] existovali dvakrát. Ponechané sú len ako inline markery v tele (na pôvodnom mieste, dead file:// odkazy nahradené obyčajným textom '[1]'…'[8]') a ako číslované položky v Zdrojoch. Duplicitný zlepený blok (pôvodný blok 8) odstránený úplne." },
+    { "id": "02", "type": "pozor pri mazaní", "note": "Preklep 'vo všasnoslovanskom' opravený na 'vo včasnoslovanskom' priamo v Zdrojoch (položka [1]) — ponechaná verzia (Zdroje) mala chybu, odstránená telová verzia ju mala správne; typo neostalo prenesené." },
+    { "id": "03", "type": "duplicita", "note": "Povesť o Cyrilovi a Metodovi + 'TIK Gbely' odstránené zo Zdrojov (boli tam duplicitne aj s chýbajúcou čiarkou). Jediná kópia ostáva v tele (blok 9-10), tá mala čiarku už správne." },
+    { "id": "04", "type": "metadáta+prázdna dvojbodka", "note": "authorName zmenené z 'Orgon' na 'Mgr. Pavol Vrablec, PhD.' (skutočný, menovite uvedený autor prevzatého článku). Bloky 6+7 zlúčené do jednej vety s funkčným odkazom na dejinyzahoria.sk namiesto osamotenej URL na ďalšom riadku." },
+    { "id": "05", "type": "typografia", "note": "'10 hrobov.[3]Vychádzajúc' rozdelené na dva odseky (blok 2)." },
+    { "id": "06", "type": "typografia", "note": "'In:Archælogia historica 23/98' -> 'In: Archaeologia historica 23/98' (Zdroje, položka [4])." },
+    { "id": "07", "type": "gramatika", "note": "'dve dôležité cesty a tieto nadobudli' -> 'dve dôležité cesty, ktoré nadobudli' (blok 3)." },
+    { "id": "08", "type": "gramatika", "note": "'spoje centrálnych sídlisk' -> 'spojnice medzi centrálnymi sídliskami' (blok 3)." },
+    { "id": "09", "type": "interpunkcia", "note": "'zo susedných Kútov a to je datované' -> 'zo susedných Kútov, a to je datované' (blok 5)." },
+    { "id": "10", "type": "typografia", "note": "'Prvého vojenského mapovania (1782 - 1784)' -> 'prvého vojenského mapovania (1782 – 1784)' — v tele, v Media Library aj v gallery (media 1923)." },
+    { "id": "11", "type": "typografia", "note": "Nemecká zatváracia úvodzovka „…1163,“ -> „…1163," opravená v tele aj v timeline." },
+    { "id": "12", "type": "nedoložený fakt v KF", "note": "KF 'Opevnenie' doplnené o 'Podľa amatérskeho prieskumu K. Jakubca (okolo r. 1970) … – odborne nepotvrdené'." },
+    { "id": "13", "note": "KF 'Rotunda pri hradisku' rovnako doplnené o pripísanie K. Jakubcovi a hedge 'odborne nepotvrdené'." },
+    { "id": "14", "type": "zmierni", "note": "KF 'Datovanie hradiska' preformulované na 'Osídlenie interpretované ako hradisko, datované do 9.–10. storočia (veľkomoravské obdobie)' — odráža opatrnú formuláciu z tela." },
+    { "id": "15", "type": "nejasné", "note": "Veta 'Prípad Zámčiska pri Uníne je nedoriešený.' odstránená (blok 5) — visela bez kontextu, nemám zdroj na doplnenie, čo presne je nedoriešené." }
+  ]
+}

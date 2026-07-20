@@ -1,0 +1,73 @@
+{
+  "_note": "Agent 1, overnight batch 14.7.2026",
+  "timeline": [
+    {
+      "year": "končiaca doba bronzová",
+      "title": "Vybudovanie hradiska Lužickou kultúrou",
+      "description": "Hradisko vybudoval ľud lužickej kultúry v končiacej dobe bronzovej.",
+      "type": "founding"
+    },
+    {
+      "year": "staršia doba železná (halštat)",
+      "title": "Využívanie v halštatskom období",
+      "description": "Ľud lužickej kultúry hradisko naďalej využíval počas staršej doby železnej (halštatské obdobie); husté osídlenie dokazuje veľké množstvo úlomkov keramiky typickej pre lužickú kultúru.",
+      "type": "era"
+    },
+    {
+      "year": "koniec halštatu, laténska a rímska doba",
+      "title": "Hradisko zostalo nevyužívané",
+      "description": "Koncom halštatského obdobia lužická kultúra zanikla a mnohé jej opevnenia prevzal ľud púchovskej kultúry, no z hradiska Šiance nepoznáme nálezy z laténskej a rímskej doby, takže vtedy zrejme nebolo využívané.",
+      "type": "event"
+    },
+    {
+      "year": "8.-10. storočie",
+      "title": "Obnova hradiska Slovanmi",
+      "description": "Naši predkovia Slovania hradisko opätovne zrekonštruovali a využívali; po nich tu zostal črepový materiál aj bohatý depot kovových predmetov.",
+      "type": "construction"
+    },
+    {
+      "year": "8.-10. storočie",
+      "title": "Nález depotov kovových predmetov",
+      "description": "Na hradisku sa našli dva hromadné nálezy - kováčske náradie (dve kladivá a nákova) a osem hrotov šípov s tuľajkami a spätnými háčikmi; ďalšie nálezy zahŕňajú výzbroj, odev a časti konského postroja s prvkami viažucimi sa na avarské prostredie.",
+      "type": "discovery"
+    },
+    {
+      "year": "8.-10. storočie",
+      "title": "Hradisko ako dočasné refúgium",
+      "description": "Napriek bohatým depotom svedčia nevýrazné stopy osídlenia vo vnútri hradiska o tom, že nebolo stále obývané - archeológovia predpokladajú, že Slovania ho používali iba dočasne ako útočisko v čase ohrozenia.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Pohorie Tríbeč, južne od Klátovej Novej Vsi, 460,0 m n. m.",
+      "icon": "map"
+    },
+    {
+      "label": "Rozloha",
+      "value": "9,35 ha",
+      "icon": "mountain"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "Mimoriadne mohutný valový systém, jeden z najväčších na Slovensku",
+      "icon": "shield"
+    },
+    {
+      "label": "Osídľujúce kultúry",
+      "value": "Lužická kultúra (doba bronzová, halštat), Slovania (8.-10. storočie)",
+      "icon": "users"
+    },
+    {
+      "label": "Vstup do hradiska",
+      "value": "Najmenej dve brány, najmohutnejšie opevnenie pri juhozápadnej bráne",
+      "icon": "building"
+    },
+    {
+      "label": "Význačné nálezy",
+      "value": "Kováčske náradie, hroty šípov, výzbroj a konský postroj s avarskými prvkami",
+      "icon": "sword"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "turie-hradek",
+  "flags": [
+    {
+      "type": "NAME_INCONSISTENCY",
+      "issue": "Názov lokality kolíše medzi tvarom 'Hrádek' (bohemizujúci/dialektálny tvar) a 'Hrádok' (spisovný slovenský tvar) naprieč celým článkom, bez zjavného pravidla.",
+      "evidence": "'Hrádek': title ('Turie-Hrádek'), tag, location.name, image alt, 2× v tele ako vlastné meno ('Medzi tieto môžeme opäť zaradiť aj Hrádek v Turí...', 'Krátkodobo bol Hrádek v Turí využívaný...'), aj v názve citovaného prameňa (Moravčík: 'Hrádek v Turí', Spravodaj mestského múzea Rajec 1999 — v sources aj citations). 'Hrádok'/'hrádok': keyFacts (2×), timeline (2×), obrázkové popisky ('Hrádok v 80 rokoch' ×3, 'Vzhľad hrádku...'), a 1× v tele ako vlastné meno ('na Hrádku v Turí zanechal... Jedno z opevnení sa nachádzalo práve na Hrádku v Turí'), plus viacero výskytov ako obyčajné podstatné meno ('hrádok', malým, správne spisovne).",
+      "why_not_fixed": "Nedá sa mechanicky zjednotiť — môže ísť buď o autorovu nekonzistenciu (prevzatie tvaru 'Hrádek' z titulu citovaného Moravčíkovho článku do vlastného nadpisu blogu), alebo o skutočný miestny/dialektálny názov lokality, ktorý sa líši od spisovného obecného slova 'hrádok'. §21.10 vyžaduje sémantické rozlíšenie historicko-miestnych názvov, nie mechanické zjednotenie; pri neistote sa nemení. Ponechané nedotknuté vo všetkých poliach, čaká na rozhodnutie človeka (a prípadne doplnenie do protected-terms.json)."
+    },
+    {
+      "type": "NAME_MISMATCH (nízka istota)",
+      "issue": "Obrázková popiska 'Slovanské črepy, ktoré našiel na hradisku P. Šichman' používa skratku 'P. Šichman', zatiaľ čo telo článku dôsledne používa celé meno 'Dr. Anton Petrovský-Šichman' (aj v sources: 'Petrovský-Šichman').",
+      "why_not_fixed": "Pravdepodobne ide len o skrátenie zloženého priezviska 'Petrovský-Šichman' na 'P. Šichman' (bežná konvencia), nie o odlišnú osobu — ale bez istoty nemenené, iba nahlásené."
+    }
+  ]
+}

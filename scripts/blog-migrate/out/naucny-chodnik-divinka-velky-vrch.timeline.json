@@ -1,0 +1,38 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 1 timeline + 5 keyFacts.",
+  "timeline": [
+    {
+      "year": "31. 8. 2014",
+      "title": "Otvorenie náučného chodníka",
+      "description": "V rámci akcie Staroslovanská Divinka slávnostne otvorený náučný chodník na hradisku Veľký vrch; krst chodníka vykonal zástupca OZ Hradiská Čendo, odborný výklad poskytla archeologička Mgr. Andrea Slaná.",
+      "type": "event"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Náučný chodník",
+      "value": "Vedie z centra obce Divinka až na vrcholovú časť hradiska, so 7 informačnými tabuľami o dejinách hradiska a archeologických kultúrach",
+      "icon": "scroll"
+    },
+    {
+      "label": "Realizátori",
+      "value": "OZ Hradiská, obec Divinka, Archeologický ústav SAV, Považské múzeum Žilina, Komposesorát Veľký vrch, Hradisko Divinka, nadácia Pontis a Nadačný fond Kia Motors Slovakia",
+      "icon": "crown"
+    },
+    {
+      "label": "Odborná garancia",
+      "value": "Texty korigoval PhDr. Gabriel Fusek, CSc. (Archeologický ústav); unikátne fotografie nálezov poskytla Mgr. Andrea Slaná (Považské múzeum Žilina)",
+      "icon": "star"
+    },
+    {
+      "label": "Ochrana lokality",
+      "value": "Hradisko je národnou kultúrnou pamiatkou (NKP) — umiestnenie tabúľ vyžadovalo správne konanie Krajského pamiatkového úradu v Žiline",
+      "icon": "shield"
+    },
+    {
+      "label": "Plánované rozšírenie",
+      "value": "Po ukončení prebiehajúceho archeologického výskumu pribudnú na Veľkom vrchu ďalšie 2 tabule s výsledkami najnovších výskumov",
+      "icon": "building"
+    }
+  ]
+}

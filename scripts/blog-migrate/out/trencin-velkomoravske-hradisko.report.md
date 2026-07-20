@@ -1,17 +1,17 @@
 # Migračný report — Trenčín - Veľkomoravské hradisko
 
 - **slug:** `trencin-velkomoravske-hradisko` · **documentId:** `zkh1xwlwzw9hz8ua3nripnc1` · **publikované:** ✅
-- **kategória:** Mocenské centrá · **tagy:** Trenčín - Veľkomoravské hradisko · **lokalita:** Trenčín (Slovensko)
+- **kategória:** Kniežacie sídla · **tagy:** Trenčín - Veľkomoravské hradisko · **lokalita:** Trenčín (Slovensko)
 
 ## ✅ Integrita a úplnosť
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.75% vs originál (gramaticky opravené slová vyňaté: 0) — zvyšné mimo: tšit, včasnostredovekú, lit (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (9) ⊆ galéria (45) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 11, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 7 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -50,10 +50,25 @@
   - Kontinuita centra: Porovnateľná s Bratislavou, Devínom, Zvolenom a Bojnou — veľkomoravské správne centrum pretrvávajúce do Uhorského kráľovstva
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 7**
+  - interpunkcia (čiarky/bodky): 3
+  - písanie spolu/krátenie: 2
+  - chýbajúce medzery: 1
+  - veľké/malé písmená: 1
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `1. tisícročia pred n.l. na hradnej` → `1. tisícročia pred n. l. na hradnej` | chýbajúca medzera |
+| 2 | undefined | `v 50. -tych rokoch` → `v 50.-tych rokoch` | medzera pred spojovníkom, konzistentne s '80.-tych' v bloku 8 |
+| 3 | undefined | `v 70. tych rokoch` → `v 70.-tych rokoch` | chýbajúci spojovník, konzistentne s '80.-tych' |
+| 4 | undefined | `v štádiu vývoja do 12, stor, môžeme` → `v štádiu vývoja do 12. stor. môžeme` | čiarky namiesto bodiek v skratke storočia |
+| 5 | undefined | `9.-11, storočí` → `9.-11. storočí` | čiarka namiesto bodky |
+| 6 | undefined | `avšak nie jediné, Ďalšie sa nachádzalo` → `avšak nie jediné, ďalšie sa nachádzalo` | veľké písmeno uprostred vety |
+| 7 | undefined | `neboli bezprostrednými, organizátormi kristianizácie` → `neboli bezprostrednými organizátormi kristianizácie` | nadbytočná čiarka medzi prídavným menom a podstatným menom |
 
 ## Ostatné
 - **komentáre:** 8
-- **text tela:** 13380 znakov (1967 slov)
+- **text tela:** 13375 znakov (1966 slov)
+- **pokrytie textu vs originál:** 99.75% (mimo: tšit, včasnostredovekú, lit)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

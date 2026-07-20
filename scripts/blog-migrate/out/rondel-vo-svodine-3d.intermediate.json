@@ -1,0 +1,184 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-rondel-vo-svodine-3d.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3708105563005236881",
+    "bloggerPostUrl": "http://www.hradiska.sk/2017/01/v-spolupraci-s-projektom-dwarf-digital.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3708105563005236881/comments/default",
+    "extractedAt": "2026-07-16T21:58:05.020Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 2,
+    "comments": [
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-6247600788000723991",
+        "bloggerPostId": "6247600788000723991",
+        "author": "Anonymous",
+        "authorProfile": "https://www.blogger.com/profile/01677675681750177122",
+        "published": "2018-10-31T19:53:26.227+01:00",
+        "updated": "2018-10-31T19:53:26.227+01:00",
+        "content": "Tento komentár bol odstránený autorom.",
+        "inReplyToArticle": "http://www.hradiska.sk/2017/01/v-spolupraci-s-projektom-dwarf-digital.html",
+        "replyToBloggerId": "3716968587304357476",
+        "replyToFeedHref": "http://www.blogger.com/feeds/6818054921907446479/3708105563005236881/comments/default/3716968587304357476"
+      },
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-3716968587304357476",
+        "bloggerPostId": "3716968587304357476",
+        "author": "Anonymous",
+        "authorProfile": "https://www.blogger.com/profile/01677675681750177122",
+        "published": "2018-10-31T19:50:25.919+01:00",
+        "updated": "2018-10-31T19:50:25.919+01:00",
+        "content": "Tento komentár bol odstránený autorom.",
+        "inReplyToArticle": "http://www.hradiska.sk/2017/01/v-spolupraci-s-projektom-dwarf-digital.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      }
+    ],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/Xp-rTAFbrrA?feature=player_embedded"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Rondel vo Svodíne - 3D",
+    "slug": "rondel-vo-svodine-3d",
+    "excerpt": "V spolupráci s projektom Dwarf digital archeology Vám prinášame túto úžasnú novú 3D vidualizáciu neolitického rondelu, ktorý bol objavený v obci Svodín.",
+    "authorName": "Orgoň",
+    "publishedAt": "2017-01-13T22:06:00.000+01:00",
+    "originalPublishedDate": "2017-01-13T22:06:00.000+01:00",
+    "updatedAt": "2017-01-13T22:50:31.519+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Obec Svodín",
+        "icon": "map"
+      },
+      {
+        "label": "Typ stavby",
+        "value": "Kruhový pôdorys ohradený drevenými palisádami a priekopami, so štyrmi bránami orientovanými na svetové strany",
+        "icon": "building"
+      },
+      {
+        "label": "Obdobie",
+        "value": "Mladší neolit (4900 – 4500 pred n. l.), lengyelská kultúra",
+        "icon": "calendar"
+      },
+      {
+        "label": "Astronomická orientácia",
+        "value": "Juhozápadná brána smerovala na západ vysokého Mesiaca (jún – september, cyklus 18,6 roka), severozápadná brána naň v období december – apríl",
+        "icon": "star"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "4900 – 4500 pred n. l.",
+        "title": "Vznik rondela",
+        "description": "Rondel vznikol v období mladšieho neolitu a patrí k lengyelskej kultúre.",
+        "type": "era"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V spolupráci s projektom Dwarf digital archeology Vám prinášame túto úžasnú novú 3D vizualizáciu neolitického rondelu, ktorý bol objavený v obci Svodín."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "Xp-rTAFbrrA",
+        "url": "https://www.youtube.com/embed/Xp-rTAFbrrA",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rondel je monumentálna stavba s kruhovým pôdorysom ohraničeným drevenými palisádami a priekopami so štyrmi bránami, ktoré sú väčšinou orientované na svetové strany. Objavuje sa na Slovensku, Morave, v Čechách, Maďarsku, Bavorsku, Porýní a taktiež v Británii. Tieto praveké stavby pochádzajú z obdobia mladšieho neolitu (4900 – 4500 pred n. l.) a patria k tzv. lengyelskej kultúre. Rondely sú teda staršie než egyptské pyramídy alebo známy anglický Stonehenge."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jeden z najznámejších rondelov je práve vo Svodíne. Jeho juhozápadná brána je orientovaná na smer vysokého Mesiaca, ktorý tam raz za 28 dní zapadá od júna do septembra každých 18,6 roka. Od decembra do apríla Mesiac zapadal na smere severozápadnej brány. Každá z brán do rondelu mala orientáciu na konkrétny bod na horizonte, kde Mesiac vychádzal alebo zapadal. Na týchto extrémnych polohách východu a západu Mesiaca nad svodínskym rondelom Slnko nikdy nemohlo vychádzať ani zapadať. \n \n Rondely vznikali v jednom stavebnom cykle uprostred rozľahlých osád s rozlohou 13 až 30 hektárov, ktoré pozostávali z veľkých kolových domov. Do rondelov viedli zvyčajne štyri súmerne rozmiestnené, protiľahlé vchody, tie však mali len zriedkavo spoločnú os. Svojou orientáciou voči hlavným svetovým stranám priam núkajú skúmanie možných súvislostí s chodom nebeských telies, slnovratmi alebo rovnodennosťou (taká orientácia stavieb sa však v neolite nepoužívala).\n \n Pri analýze orientácie rondelov na Slovensku sa objavil princíp, podľa ktorého veľká časť rondelov bola primárne orientovaná na smery západu Mesiaca. Mali teda aj významnú astronomickú úlohu: ich orientácia obohatila rituály o kalendár, ktorý im vtlačil pevný časový rámec pri uctievaní Slnka a Mesiaca. Či mohli byť používané aj ako opevnenia proti nepriateľom nevedno, avšak ich konštrukcia takúto možnosť mohla poskytovať.\n\nOrgoň"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Perný Lukáš: Rondely – praveká architektúra plná otáznikov",
+            "url": "http://www.posterus.sk/?p=14634"
+          },
+          {
+            "text": "http://www.svodin.sk/turisticky-portal/o-obci/historia-a-pamiatky-obce/",
+            "url": "http://www.svodin.sk/turisticky-portal/o-obci/historia-a-pamiatky-obce/"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "http://www.posterus.sk/?p=14634",
+        "title": "Perný Lukáš: Rondely – praveká architektúra plná otáznikov"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.svodin.sk/turisticky-portal/o-obci/historia-a-pamiatky-obce/",
+        "title": "http://www.svodin.sk/turisticky-portal/o-obci/historia-a-pamiatky-obce/"
+      }
+    ]
+  }
+}

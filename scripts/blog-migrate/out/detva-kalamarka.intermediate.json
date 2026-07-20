@@ -1,0 +1,900 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label28-detva-kalamarka.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-2910261587121963907",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/09/detva-kalamarka.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/2910261587121963907/comments/default",
+    "extractedAt": "2026-07-15T17:53:34.011Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "http://maps.google.com/?ie=UTF8&t=h&vpsrc=0&ll=48.605716,19.418678&spn=0.004966,0.00912&z=16&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 29,
+      "captionedImages": 16,
+      "separatorImages": 13
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Detva - Kalamárka",
+    "slug": "detva-kalamarka",
+    "excerpt": "Výskum výšinnej polohy Kalamárka približne 5 km severne od Detvy, v Detvianskom predhorí Poľany vykonával Peter Šalkovský. Ide o jedinú dosial známu včasno-stredovekú lokalitu v Detvianskej kotline (východne od Zvolena), ktorá bola v minulosti…",
+    "authorName": "Orgoň",
+    "publishedAt": "2011-09-21T21:57:00.016+02:00",
+    "originalPublishedDate": "2011-09-21T21:57:00.016+02:00",
+    "updatedAt": "2020-01-11T13:44:18.495+01:00",
+    "readingTime": 6,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_hQnFhJMlsA9SOgIo2zs-o9DBcYbDfM3jUc4InCi0AkX4lTDg2gABWfWAVd9QpVktvVEW4d2re8_loAjGS2WWqqrRnoCC242GLzBW0sn08MvVVFPY_kaUaRghLiZeF2HY-VKuFQBYTU/s0/foto+jpg.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_hQnFhJMlsA9SOgIo2zs-o9DBcYbDfM3jUc4InCi0AkX4lTDg2gABWfWAVd9QpVktvVEW4d2re8_loAjGS2WWqqrRnoCC242GLzBW0sn08MvVVFPY_kaUaRghLiZeF2HY-VKuFQBYTU/s1600/foto+jpg.JPG",
+      "filename": "foto+jpg.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_hQnFhJMlsA9SOgIo2zs-o9DBcYbDfM3jUc4InCi0AkX4lTDg2gABWfWAVd9QpVktvVEW4d2re8_loAjGS2WWqqrRnoCC242GLzBW0sn08MvVVFPY_kaUaRghLiZeF2HY-VKuFQBYTU/s1600/foto+jpg.JPG",
+        "displayedWidth": 179,
+        "displayedHeight": 320,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_hQnFhJMlsA9SOgIo2zs-o9DBcYbDfM3jUc4InCi0AkX4lTDg2gABWfWAVd9QpVktvVEW4d2re8_loAjGS2WWqqrRnoCC242GLzBW0sn08MvVVFPY_kaUaRghLiZeF2HY-VKuFQBYTU/s0/foto+jpg.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_hQnFhJMlsA9SOgIo2zs-o9DBcYbDfM3jUc4InCi0AkX4lTDg2gABWfWAVd9QpVktvVEW4d2re8_loAjGS2WWqqrRnoCC242GLzBW0sn08MvVVFPY_kaUaRghLiZeF2HY-VKuFQBYTU/s1600/foto+jpg.JPG",
+        "filename": "foto+jpg.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_hQnFhJMlsA9SOgIo2zs-o9DBcYbDfM3jUc4InCi0AkX4lTDg2gABWfWAVd9QpVktvVEW4d2re8_loAjGS2WWqqrRnoCC242GLzBW0sn08MvVVFPY_kaUaRghLiZeF2HY-VKuFQBYTU/s1600/foto+jpg.JPG",
+          "displayedWidth": 179,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMChIOs8mUQ8EG-tcuwavvTiLZrYsPQDJ0IV7s5GiaN8jENuncYCXp9Qwp_ldf14Cp-E-giteywZeiD8OwUAt1e-Kloy7iP-vLPdudL-rSihbw830wdsPkGDocuRKGn-jvo-0dhfmcloI/s0/pla%CC%81n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMChIOs8mUQ8EG-tcuwavvTiLZrYsPQDJ0IV7s5GiaN8jENuncYCXp9Qwp_ldf14Cp-E-giteywZeiD8OwUAt1e-Kloy7iP-vLPdudL-rSihbw830wdsPkGDocuRKGn-jvo-0dhfmcloI/s1600/pla%CC%81n.jpg",
+        "filename": "plán.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMChIOs8mUQ8EG-tcuwavvTiLZrYsPQDJ0IV7s5GiaN8jENuncYCXp9Qwp_ldf14Cp-E-giteywZeiD8OwUAt1e-Kloy7iP-vLPdudL-rSihbw830wdsPkGDocuRKGn-jvo-0dhfmcloI/s1600/pla%CC%81n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyI60R8mO1LS06jjcxvbFl4t7rYOWcrdvy9iuLQsOrgrhjee46TqV5NN0j15fd1hju5nvGs0Wdgdlklq0gHaj87V4uYmmu_sSq2JQmn9SW6cNLCE7erlZzjY1FEIeS605qAh1s7gT4VU/s0/val+jpg.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyI60R8mO1LS06jjcxvbFl4t7rYOWcrdvy9iuLQsOrgrhjee46TqV5NN0j15fd1hju5nvGs0Wdgdlklq0gHaj87V4uYmmu_sSq2JQmn9SW6cNLCE7erlZzjY1FEIeS605qAh1s7gT4VU/s1600/val+jpg.JPG",
+        "filename": "val+jpg.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyI60R8mO1LS06jjcxvbFl4t7rYOWcrdvy9iuLQsOrgrhjee46TqV5NN0j15fd1hju5nvGs0Wdgdlklq0gHaj87V4uYmmu_sSq2JQmn9SW6cNLCE7erlZzjY1FEIeS605qAh1s7gT4VU/s1600/val+jpg.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 121,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb3p520mgasJ_TZBv_sNXqbeRk_EIkuJNuk4e9kQ-CttegbFZJMXAYLo8h5bOSPShVZT_jO4OJrcaDLfynZHYL8Vo_W3MHhFZVSsnlqg1AGkAg44xes2W08GXWRYfJVu2Vf2HWML82Cps/s0/nalez.bmp",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb3p520mgasJ_TZBv_sNXqbeRk_EIkuJNuk4e9kQ-CttegbFZJMXAYLo8h5bOSPShVZT_jO4OJrcaDLfynZHYL8Vo_W3MHhFZVSsnlqg1AGkAg44xes2W08GXWRYfJVu2Vf2HWML82Cps/s1600/nalez.bmp",
+        "filename": "nalez.bmp",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb3p520mgasJ_TZBv_sNXqbeRk_EIkuJNuk4e9kQ-CttegbFZJMXAYLo8h5bOSPShVZT_jO4OJrcaDLfynZHYL8Vo_W3MHhFZVSsnlqg1AGkAg44xes2W08GXWRYfJVu2Vf2HWML82Cps/s1600/nalez.bmp",
+          "displayedWidth": 320,
+          "displayedHeight": 230,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_iIRINNq1MVZ5nGfL-HLrhDM-dREx_Dg6HxU-o1Kkgs0lzotZdQPGSlI_q_hkvfKhnfFbP7ZW4enlrA1hYSBErMp0FiV9EaIoAfi7tFIFa31SiRAgJJMP-ufwIgHwIrLOgQQPhNS8Nhk2/s0/Mec%25CC%258C+z+Detvy+SA+1975+Rutkay.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_iIRINNq1MVZ5nGfL-HLrhDM-dREx_Dg6HxU-o1Kkgs0lzotZdQPGSlI_q_hkvfKhnfFbP7ZW4enlrA1hYSBErMp0FiV9EaIoAfi7tFIFa31SiRAgJJMP-ufwIgHwIrLOgQQPhNS8Nhk2/s1600/Mec%25CC%258C+z+Detvy+SA+1975+Rutkay.jpg",
+        "filename": "Mec%CC%8C+z+Detvy+SA+1975+Rutkay.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_iIRINNq1MVZ5nGfL-HLrhDM-dREx_Dg6HxU-o1Kkgs0lzotZdQPGSlI_q_hkvfKhnfFbP7ZW4enlrA1hYSBErMp0FiV9EaIoAfi7tFIFa31SiRAgJJMP-ufwIgHwIrLOgQQPhNS8Nhk2/s1600/Mec%25CC%258C+z+Detvy+SA+1975+Rutkay.jpg",
+          "displayedWidth": 65,
+          "displayedHeight": 320,
+          "originalWidth": 161,
+          "originalHeight": 786
+        },
+        "caption": "Meč z Detvy, zrejme z hradiska kalamárka. (SA 1975)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddfJBNqQ1KkdqJm13ZcCOsbbAe0sX_rLrAqhMlQgdbqvmieoiJfZN8qY-v4T5vSSIn0_J-i93JEwp7F8cNG-M6MdtWCD78q5RTyPpqE-_8o7XSfOKzk8csCvFpjfM_nuIE59BLJb74_c/s0/rekonstrukcia.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddfJBNqQ1KkdqJm13ZcCOsbbAe0sX_rLrAqhMlQgdbqvmieoiJfZN8qY-v4T5vSSIn0_J-i93JEwp7F8cNG-M6MdtWCD78q5RTyPpqE-_8o7XSfOKzk8csCvFpjfM_nuIE59BLJb74_c/s1600/rekonstrukcia.jpg",
+        "filename": "rekonstrukcia.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddfJBNqQ1KkdqJm13ZcCOsbbAe0sX_rLrAqhMlQgdbqvmieoiJfZN8qY-v4T5vSSIn0_J-i93JEwp7F8cNG-M6MdtWCD78q5RTyPpqE-_8o7XSfOKzk8csCvFpjfM_nuIE59BLJb74_c/s1600/rekonstrukcia.jpg",
+          "displayedWidth": 201,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir6WIJ3GPHQmh6G5CVcljXKWqSflYeU6oGmx2R2P00gCYDy0X8AXRXLx5loD-I1VagO4SF5i6TxDqZ4WlOWottEbNTdjeN7LoFNVbs20pNw9O94dAjZhr_QjWdWOpiIVaCKME4pGBQ9AU/s0/IMG_8420.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir6WIJ3GPHQmh6G5CVcljXKWqSflYeU6oGmx2R2P00gCYDy0X8AXRXLx5loD-I1VagO4SF5i6TxDqZ4WlOWottEbNTdjeN7LoFNVbs20pNw9O94dAjZhr_QjWdWOpiIVaCKME4pGBQ9AU/s1600/IMG_8420.jpg",
+        "filename": "IMG_8420.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir6WIJ3GPHQmh6G5CVcljXKWqSflYeU6oGmx2R2P00gCYDy0X8AXRXLx5loD-I1VagO4SF5i6TxDqZ4WlOWottEbNTdjeN7LoFNVbs20pNw9O94dAjZhr_QjWdWOpiIVaCKME4pGBQ9AU/s1600/IMG_8420.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad na Kalamárku z juhovýchodu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidH0L9ijQAchh8mgaRpPFyYA8ht8w15h8_zyJ8A2fcB6VQfOItg6fml54Ie5VSYGn9bAOzvVUU2abbZRyLunRXaRgZmrEGHzuKcjR4ZKr73rOLUGHtdaNHqudyJbkN3ptYVv-OLuKd0fw/s0/IMG_8426.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidH0L9ijQAchh8mgaRpPFyYA8ht8w15h8_zyJ8A2fcB6VQfOItg6fml54Ie5VSYGn9bAOzvVUU2abbZRyLunRXaRgZmrEGHzuKcjR4ZKr73rOLUGHtdaNHqudyJbkN3ptYVv-OLuKd0fw/s1600/IMG_8426.jpg",
+        "filename": "IMG_8426.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidH0L9ijQAchh8mgaRpPFyYA8ht8w15h8_zyJ8A2fcB6VQfOItg6fml54Ie5VSYGn9bAOzvVUU2abbZRyLunRXaRgZmrEGHzuKcjR4ZKr73rOLUGHtdaNHqudyJbkN3ptYVv-OLuKd0fw/s1600/IMG_8426.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Prístup je možný iba z juhovýchodnej strany, tak tomu bolo aj v 9.-10. storočí"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguGUTmgKi5wVKWCLM1O97vnZc9003LO6a7cX3es2DNfnFDIoJdX6gDttcAKxHK1REf8S-JKbbobf3ZHFqoekGJqRHjyMzN38GJpI56cKxiRVvymp4Qh0hK_8_RcDLL4Zo75HhFS6aUIJk/s0/IMG_8427.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguGUTmgKi5wVKWCLM1O97vnZc9003LO6a7cX3es2DNfnFDIoJdX6gDttcAKxHK1REf8S-JKbbobf3ZHFqoekGJqRHjyMzN38GJpI56cKxiRVvymp4Qh0hK_8_RcDLL4Zo75HhFS6aUIJk/s1600/IMG_8427.jpg",
+        "filename": "IMG_8427.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguGUTmgKi5wVKWCLM1O97vnZc9003LO6a7cX3es2DNfnFDIoJdX6gDttcAKxHK1REf8S-JKbbobf3ZHFqoekGJqRHjyMzN38GJpI56cKxiRVvymp4Qh0hK_8_RcDLL4Zo75HhFS6aUIJk/s1600/IMG_8427.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ealw5tmCIZoXKKDZ4zxF4LiC9zWTU7ScGYVeGxwv8hGoHqd98vNxzDiIZ6vzHpjqt0WgBgOkylVhncDtRm9iS6CgFGZpatukCK5tDVQrbbL7jU5KAycCFTqSLa-tTkre8uBAX3zXAl8/s0/IMG_8430.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ealw5tmCIZoXKKDZ4zxF4LiC9zWTU7ScGYVeGxwv8hGoHqd98vNxzDiIZ6vzHpjqt0WgBgOkylVhncDtRm9iS6CgFGZpatukCK5tDVQrbbL7jU5KAycCFTqSLa-tTkre8uBAX3zXAl8/s1600/IMG_8430.jpg",
+        "filename": "IMG_8430.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ealw5tmCIZoXKKDZ4zxF4LiC9zWTU7ScGYVeGxwv8hGoHqd98vNxzDiIZ6vzHpjqt0WgBgOkylVhncDtRm9iS6CgFGZpatukCK5tDVQrbbL7jU5KAycCFTqSLa-tTkre8uBAX3zXAl8/s1600/IMG_8430.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Z jedinej prístupnej strany vybudovali kelti a následne Sloveni mohutný val, ktorého pozostatky sú viditeľné aj dnes"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIMKJ3mtlGTdVnY-RJgLSgoHCNQqLdZ-qMGO1Sr_s1q6LAeeYenW1AtxXnxsKWTTOArTHiHWlUnk450Exy23VlMeXVjOcTvG-D8UryptsQ97rbxEctiW_eaR0nX9gUew3vlYyGuutC-gU/s0/IMG_8432.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIMKJ3mtlGTdVnY-RJgLSgoHCNQqLdZ-qMGO1Sr_s1q6LAeeYenW1AtxXnxsKWTTOArTHiHWlUnk450Exy23VlMeXVjOcTvG-D8UryptsQ97rbxEctiW_eaR0nX9gUew3vlYyGuutC-gU/s1600/IMG_8432.jpg",
+        "filename": "IMG_8432.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIMKJ3mtlGTdVnY-RJgLSgoHCNQqLdZ-qMGO1Sr_s1q6LAeeYenW1AtxXnxsKWTTOArTHiHWlUnk450Exy23VlMeXVjOcTvG-D8UryptsQ97rbxEctiW_eaR0nX9gUew3vlYyGuutC-gU/s1600/IMG_8432.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM36iH1aUvUqyLSAJ03RNYbxsnwpOvpe4uX9ZQfybQzeNerb35VpYJQu5SMQf55UqKub0bh8Yi2q8R6nidHI-QfSwgz-KrXWy_BJzEhjzMdtl1KQ1qXhglXSWwX0dtTq9qRUXzUDeUllg/s0/IMG_8435.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM36iH1aUvUqyLSAJ03RNYbxsnwpOvpe4uX9ZQfybQzeNerb35VpYJQu5SMQf55UqKub0bh8Yi2q8R6nidHI-QfSwgz-KrXWy_BJzEhjzMdtl1KQ1qXhglXSWwX0dtTq9qRUXzUDeUllg/s1600/IMG_8435.jpg",
+        "filename": "IMG_8435.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM36iH1aUvUqyLSAJ03RNYbxsnwpOvpe4uX9ZQfybQzeNerb35VpYJQu5SMQf55UqKub0bh8Yi2q8R6nidHI-QfSwgz-KrXWy_BJzEhjzMdtl1KQ1qXhglXSWwX0dtTq9qRUXzUDeUllg/s1600/IMG_8435.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCIHQdD0DwTpjZiMX2gUsTxl0upDhFuVWAM45cbvrK9UcU9A7HnhsbTjmEOqEA2jgnE0aTmXN0FdX_OBymas-mYaKeCgLdocnpn7BVj-5Vmn2OrZo1T6byliaj2PEB-bRM2jB6AQAaons/s0/IMG_8437.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCIHQdD0DwTpjZiMX2gUsTxl0upDhFuVWAM45cbvrK9UcU9A7HnhsbTjmEOqEA2jgnE0aTmXN0FdX_OBymas-mYaKeCgLdocnpn7BVj-5Vmn2OrZo1T6byliaj2PEB-bRM2jB6AQAaons/s1600/IMG_8437.jpg",
+        "filename": "IMG_8437.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCIHQdD0DwTpjZiMX2gUsTxl0upDhFuVWAM45cbvrK9UcU9A7HnhsbTjmEOqEA2jgnE0aTmXN0FdX_OBymas-mYaKeCgLdocnpn7BVj-5Vmn2OrZo1T6byliaj2PEB-bRM2jB6AQAaons/s1600/IMG_8437.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Slovanský obranca Kalamárky - Starý Detvan"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmM2ZGjBmMv47XNSv4UqEG0692Z3j2Yy8z0nCQKXtTpw1ZvrH5RWkeLhRWGJluv2DD9McFYeczwU3NR002-NCR0gpS3gJA0EE0H69sFZHqtlXdMR4TghJmmMd3bYqcNAa27xr10yVnels/s0/IMG_8442.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmM2ZGjBmMv47XNSv4UqEG0692Z3j2Yy8z0nCQKXtTpw1ZvrH5RWkeLhRWGJluv2DD9McFYeczwU3NR002-NCR0gpS3gJA0EE0H69sFZHqtlXdMR4TghJmmMd3bYqcNAa27xr10yVnels/s1600/IMG_8442.jpg",
+        "filename": "IMG_8442.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmM2ZGjBmMv47XNSv4UqEG0692Z3j2Yy8z0nCQKXtTpw1ZvrH5RWkeLhRWGJluv2DD9McFYeczwU3NR002-NCR0gpS3gJA0EE0H69sFZHqtlXdMR4TghJmmMd3bYqcNAa27xr10yVnels/s1600/IMG_8442.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z vrcholu hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBGSPt0GB6BKVHqfO9_tFFxj1Um6KXTZQXCTJORZayXXlvYYSMIK-2fx63Qhq4dC1jPA8Ve8ohpZanzQvKPlVXFOLw1OD7Pc5Bs2_Qcsg0C6hD_GZswNe1tZgFPC4DmWo4kSFpdKsNnA/s0/IMG_8446.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBGSPt0GB6BKVHqfO9_tFFxj1Um6KXTZQXCTJORZayXXlvYYSMIK-2fx63Qhq4dC1jPA8Ve8ohpZanzQvKPlVXFOLw1OD7Pc5Bs2_Qcsg0C6hD_GZswNe1tZgFPC4DmWo4kSFpdKsNnA/s1600/IMG_8446.jpg",
+        "filename": "IMG_8446.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBGSPt0GB6BKVHqfO9_tFFxj1Um6KXTZQXCTJORZayXXlvYYSMIK-2fx63Qhq4dC1jPA8Ve8ohpZanzQvKPlVXFOLw1OD7Pc5Bs2_Qcsg0C6hD_GZswNe1tZgFPC4DmWo4kSFpdKsNnA/s1600/IMG_8446.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtI1UmF7It8u28ZvaYzqsnGvgtRipJCKqyhAtyLR51rBSa4Grp3gOpY8HbBoatKmNKGUNxPkg6ABITfRoCB4YF_3zrjc9nQff4Wsz7I_gMNBl2dLm1uBxkDTDkwH_vTu2BeKE8v84B3hM/s0/IMG_8447.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtI1UmF7It8u28ZvaYzqsnGvgtRipJCKqyhAtyLR51rBSa4Grp3gOpY8HbBoatKmNKGUNxPkg6ABITfRoCB4YF_3zrjc9nQff4Wsz7I_gMNBl2dLm1uBxkDTDkwH_vTu2BeKE8v84B3hM/s1600/IMG_8447.jpg",
+        "filename": "IMG_8447.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtI1UmF7It8u28ZvaYzqsnGvgtRipJCKqyhAtyLR51rBSa4Grp3gOpY8HbBoatKmNKGUNxPkg6ABITfRoCB4YF_3zrjc9nQff4Wsz7I_gMNBl2dLm1uBxkDTDkwH_vTu2BeKE8v84B3hM/s1600/IMG_8447.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "V ľavej časti viditeľný val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ8VWBiZ6KLsywSycgZIpvJPyN2AME_ViNMx_5dSSvfgzWJQs0bDwsFOkd2liiSjR9o2tbNrVWC9EHi6W3T7ZVTCbJyrhhT4966sGu1dcFIyxSS4a_o-GX7rnyhyphenhyphenLofP_TqTDh0AikYp0/s0/IMG_8448.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ8VWBiZ6KLsywSycgZIpvJPyN2AME_ViNMx_5dSSvfgzWJQs0bDwsFOkd2liiSjR9o2tbNrVWC9EHi6W3T7ZVTCbJyrhhT4966sGu1dcFIyxSS4a_o-GX7rnyhyphenhyphenLofP_TqTDh0AikYp0/s1600/IMG_8448.jpg",
+        "filename": "IMG_8448.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ8VWBiZ6KLsywSycgZIpvJPyN2AME_ViNMx_5dSSvfgzWJQs0bDwsFOkd2liiSjR9o2tbNrVWC9EHi6W3T7ZVTCbJyrhhT4966sGu1dcFIyxSS4a_o-GX7rnyhyphenhyphenLofP_TqTDh0AikYp0/s1600/IMG_8448.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Vrcholová plošina hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-3GSPR6CeH7shU5wH44av1p40_u7e7Z6jUqHMgA7McF8lmXH9pClQSwGqEEO2-SVDVChmkbikj-8kjRJMurlz0b_YRXC-ruybmm2NwXo3LOEDs6iRwYdUVpIFTLfztfpAxhV91slUlQk/s0/IMG_8455.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-3GSPR6CeH7shU5wH44av1p40_u7e7Z6jUqHMgA7McF8lmXH9pClQSwGqEEO2-SVDVChmkbikj-8kjRJMurlz0b_YRXC-ruybmm2NwXo3LOEDs6iRwYdUVpIFTLfztfpAxhV91slUlQk/s1600/IMG_8455.jpg",
+        "filename": "IMG_8455.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-3GSPR6CeH7shU5wH44av1p40_u7e7Z6jUqHMgA7McF8lmXH9pClQSwGqEEO2-SVDVChmkbikj-8kjRJMurlz0b_YRXC-ruybmm2NwXo3LOEDs6iRwYdUVpIFTLfztfpAxhV91slUlQk/s1600/IMG_8455.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Skalné bralá Kalamárky"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxwWS_s0e27AAewxozDmR39xLZ_9lYptD2BKmz9s62iynlEQEncG7ThaXYC2ZhdfWDRUQ1AHXoVH5f2VmCkB5pUodv9aOMtaA2biKJp5lCWGThLNyM1U-U1jp8EpqSOWdENi3FjpBmwQk/s0/IMG_8475.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxwWS_s0e27AAewxozDmR39xLZ_9lYptD2BKmz9s62iynlEQEncG7ThaXYC2ZhdfWDRUQ1AHXoVH5f2VmCkB5pUodv9aOMtaA2biKJp5lCWGThLNyM1U-U1jp8EpqSOWdENi3FjpBmwQk/s1600/IMG_8475.jpg",
+        "filename": "IMG_8475.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxwWS_s0e27AAewxozDmR39xLZ_9lYptD2BKmz9s62iynlEQEncG7ThaXYC2ZhdfWDRUQ1AHXoVH5f2VmCkB5pUodv9aOMtaA2biKJp5lCWGThLNyM1U-U1jp8EpqSOWdENi3FjpBmwQk/s1600/IMG_8475.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Cisterna v prípade obliehania zabezpečovala pre obrancov dostatočnú zásobu vody"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_EoF62sQWhXTlD_gXhUGRKWWPK1oOyj_BGhhgN8TsGYS33UvL_WvSL75gdjZerlOyZa29nxDGndaELF-fZmdrta0M8k5dyW0exN6oky-w0-_UXuGGooZLQE7y2bGZxOarS8osQapsa4/s0/IMG_8476.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_EoF62sQWhXTlD_gXhUGRKWWPK1oOyj_BGhhgN8TsGYS33UvL_WvSL75gdjZerlOyZa29nxDGndaELF-fZmdrta0M8k5dyW0exN6oky-w0-_UXuGGooZLQE7y2bGZxOarS8osQapsa4/s1600/IMG_8476.jpg",
+        "filename": "IMG_8476.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_EoF62sQWhXTlD_gXhUGRKWWPK1oOyj_BGhhgN8TsGYS33UvL_WvSL75gdjZerlOyZa29nxDGndaELF-fZmdrta0M8k5dyW0exN6oky-w0-_UXuGGooZLQE7y2bGZxOarS8osQapsa4/s1600/IMG_8476.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLYdMEamfbtZDr1B77xoE8JNS6Wq-bVUjxJelYbxTJ5WCm4B0ArP_gZj64gqnNIYulKeFW2AEIceRUPvsBE96H6cfCCBoD9VayJM-XzKSrpM2Tljon23X2IwRSA0j8pvVId1z-FfVgoU/s0/IMG_8485.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLYdMEamfbtZDr1B77xoE8JNS6Wq-bVUjxJelYbxTJ5WCm4B0ArP_gZj64gqnNIYulKeFW2AEIceRUPvsBE96H6cfCCBoD9VayJM-XzKSrpM2Tljon23X2IwRSA0j8pvVId1z-FfVgoU/s1600/IMG_8485.jpg",
+        "filename": "IMG_8485.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOLYdMEamfbtZDr1B77xoE8JNS6Wq-bVUjxJelYbxTJ5WCm4B0ArP_gZj64gqnNIYulKeFW2AEIceRUPvsBE96H6cfCCBoD9VayJM-XzKSrpM2Tljon23X2IwRSA0j8pvVId1z-FfVgoU/s1600/IMG_8485.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "V prípadnej bitke o hradisko by som chcel určite radšej stáť na tomto mieste, ako dolu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1lMPcjq4tWOcGv-1rM-gFA4cHm0Et44Sz9V_rZ0jdTlRHpnQ3eHp5MXcw7jSC6jiGHkpMCmpqVa9J1Aa3zVNVe3vnv9W4cGVfdluAXS-DqURpssZlYhzu9Jt3d8OuvAKSm8OkfcrlBY/s0/IMG_8498.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1lMPcjq4tWOcGv-1rM-gFA4cHm0Et44Sz9V_rZ0jdTlRHpnQ3eHp5MXcw7jSC6jiGHkpMCmpqVa9J1Aa3zVNVe3vnv9W4cGVfdluAXS-DqURpssZlYhzu9Jt3d8OuvAKSm8OkfcrlBY/s1600/IMG_8498.jpg",
+        "filename": "IMG_8498.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy1lMPcjq4tWOcGv-1rM-gFA4cHm0Et44Sz9V_rZ0jdTlRHpnQ3eHp5MXcw7jSC6jiGHkpMCmpqVa9J1Aa3zVNVe3vnv9W4cGVfdluAXS-DqURpssZlYhzu9Jt3d8OuvAKSm8OkfcrlBY/s1600/IMG_8498.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pozostatky palisádového opevnenia...pardón pozostatky zábradlia pre turistov"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoyJW8HxxmFQAOqOlZeWNAsUK3IDd5zzp1qnGao9SuTAiLVHxSKLgltJ6I-rUUeg6vqTdT2Bbiuqyqio6HDCuiorlalFr-WQ11v_1LbhV7va4RYsggeDCeJPmb0BI4SF9MHcGHkyaiYIk/s0/IMG_8509.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoyJW8HxxmFQAOqOlZeWNAsUK3IDd5zzp1qnGao9SuTAiLVHxSKLgltJ6I-rUUeg6vqTdT2Bbiuqyqio6HDCuiorlalFr-WQ11v_1LbhV7va4RYsggeDCeJPmb0BI4SF9MHcGHkyaiYIk/s1600/IMG_8509.jpg",
+        "filename": "IMG_8509.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoyJW8HxxmFQAOqOlZeWNAsUK3IDd5zzp1qnGao9SuTAiLVHxSKLgltJ6I-rUUeg6vqTdT2Bbiuqyqio6HDCuiorlalFr-WQ11v_1LbhV7va4RYsggeDCeJPmb0BI4SF9MHcGHkyaiYIk/s1600/IMG_8509.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEq-aPnW7nVhyqRznhmyf_DJ-07Owiml7-I2WZ18V_ihIBE2haUM0v06VkXqkCJlqVzzmvy8ZO_nO01StoqPQNZ6dZ7tFUKZqPLnETl4D2iNDT4fwU8lAoE3HLreat38dy_2-IYmsG9lw/s0/IMG_8511.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEq-aPnW7nVhyqRznhmyf_DJ-07Owiml7-I2WZ18V_ihIBE2haUM0v06VkXqkCJlqVzzmvy8ZO_nO01StoqPQNZ6dZ7tFUKZqPLnETl4D2iNDT4fwU8lAoE3HLreat38dy_2-IYmsG9lw/s1600/IMG_8511.jpg",
+        "filename": "IMG_8511.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEq-aPnW7nVhyqRznhmyf_DJ-07Owiml7-I2WZ18V_ihIBE2haUM0v06VkXqkCJlqVzzmvy8ZO_nO01StoqPQNZ6dZ7tFUKZqPLnETl4D2iNDT4fwU8lAoE3HLreat38dy_2-IYmsG9lw/s1600/IMG_8511.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Skaly z čelnej plenty valu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBvk-jueSfT3lkvc7htjz2CADeWiO2U2Z57a3mE4H8u5gXTpwirPsmfQtJHawTaXmDaCRjA69iBzJB8O9ueNf5EL0jOX3IAwvd8Ep3Fw8nYyEXzyHsF4tjUofMawm8qUR3gtoEO8WofzY/s0/IMG_8519.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBvk-jueSfT3lkvc7htjz2CADeWiO2U2Z57a3mE4H8u5gXTpwirPsmfQtJHawTaXmDaCRjA69iBzJB8O9ueNf5EL0jOX3IAwvd8Ep3Fw8nYyEXzyHsF4tjUofMawm8qUR3gtoEO8WofzY/s1600/IMG_8519.jpg",
+        "filename": "IMG_8519.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBvk-jueSfT3lkvc7htjz2CADeWiO2U2Z57a3mE4H8u5gXTpwirPsmfQtJHawTaXmDaCRjA69iBzJB8O9ueNf5EL0jOX3IAwvd8Ep3Fw8nYyEXzyHsF4tjUofMawm8qUR3gtoEO8WofzY/s1600/IMG_8519.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Majestátne bralá"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKOvTcul0Tkh-SFATejivucPvr_n4ARlZ5X0A-weoTFPi_bfbV2mkkECthKtn7Ec4ZUwykkBQkwfLF3fxDmb7WJEzgnZTrIcGu-if8AlE5OeGYiPQhan6yqIbGJjB10fJpfFCigHsYC1I/s0/IMG_8523.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKOvTcul0Tkh-SFATejivucPvr_n4ARlZ5X0A-weoTFPi_bfbV2mkkECthKtn7Ec4ZUwykkBQkwfLF3fxDmb7WJEzgnZTrIcGu-if8AlE5OeGYiPQhan6yqIbGJjB10fJpfFCigHsYC1I/s1600/IMG_8523.jpg",
+        "filename": "IMG_8523.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKOvTcul0Tkh-SFATejivucPvr_n4ARlZ5X0A-weoTFPi_bfbV2mkkECthKtn7Ec4ZUwykkBQkwfLF3fxDmb7WJEzgnZTrIcGu-if8AlE5OeGYiPQhan6yqIbGJjB10fJpfFCigHsYC1I/s1600/IMG_8523.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Vysoké bralá chránili plošinu hradiska z troch strán"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtOFyPGWmN8QP3GWLAlTBgyokzgisMqMhVYTlkhbcJR6HAHr9cuRDA1NNgNFaNo-0ItGxPL887riBi921Mk4R-PDzVeIjnr56qZH7DFxcbCDit8K4nxT1RiRzjxoIGgeqlmPX5y992RCQ/s0/IMG_8525.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtOFyPGWmN8QP3GWLAlTBgyokzgisMqMhVYTlkhbcJR6HAHr9cuRDA1NNgNFaNo-0ItGxPL887riBi921Mk4R-PDzVeIjnr56qZH7DFxcbCDit8K4nxT1RiRzjxoIGgeqlmPX5y992RCQ/s1600/IMG_8525.jpg",
+        "filename": "IMG_8525.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtOFyPGWmN8QP3GWLAlTBgyokzgisMqMhVYTlkhbcJR6HAHr9cuRDA1NNgNFaNo-0ItGxPL887riBi921Mk4R-PDzVeIjnr56qZH7DFxcbCDit8K4nxT1RiRzjxoIGgeqlmPX5y992RCQ/s1600/IMG_8525.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQgR0ltaF4DiWL187lWogPn_RFRhBLVlXzqqnDqEPQYdMogCdsWfmnVR3WlS8OqSFL0xN1wOBmR0jOEuURzDWgb-YmzD2kdaUyIG2gaEZn3Y_4ZruDq4oMSn3D0OxFbeWSJx80J0YM7N0/s0/IMG_8526.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQgR0ltaF4DiWL187lWogPn_RFRhBLVlXzqqnDqEPQYdMogCdsWfmnVR3WlS8OqSFL0xN1wOBmR0jOEuURzDWgb-YmzD2kdaUyIG2gaEZn3Y_4ZruDq4oMSn3D0OxFbeWSJx80J0YM7N0/s1600/IMG_8526.jpg",
+        "filename": "IMG_8526.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQgR0ltaF4DiWL187lWogPn_RFRhBLVlXzqqnDqEPQYdMogCdsWfmnVR3WlS8OqSFL0xN1wOBmR0jOEuURzDWgb-YmzD2kdaUyIG2gaEZn3Y_4ZruDq4oMSn3D0OxFbeWSJx80J0YM7N0/s1600/IMG_8526.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbIBfxUuKg7LoxHKoqQANRVsXVFclUPqJ4USkeUFsLMxHVBDriXhyphenhyphenZJkk-Ak_w6zw2NLdXKnH5u5Szh7rhSo0e1jMTJ84BjYYZ47ZUZzE54GLoYBM_cis2DTYPZJnWlUHnYV6RYruhkA/s0/IMG_8536.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbIBfxUuKg7LoxHKoqQANRVsXVFclUPqJ4USkeUFsLMxHVBDriXhyphenhyphenZJkk-Ak_w6zw2NLdXKnH5u5Szh7rhSo0e1jMTJ84BjYYZ47ZUZzE54GLoYBM_cis2DTYPZJnWlUHnYV6RYruhkA/s1600/IMG_8536.jpg",
+        "filename": "IMG_8536.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbIBfxUuKg7LoxHKoqQANRVsXVFclUPqJ4USkeUFsLMxHVBDriXhyphenhyphenZJkk-Ak_w6zw2NLdXKnH5u5Szh7rhSo0e1jMTJ84BjYYZ47ZUZzE54GLoYBM_cis2DTYPZJnWlUHnYV6RYruhkA/s1600/IMG_8536.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Večer na Kalamárke ..."
+      }
+    ],
+    "tags": [
+      "Detva - Kalamárka"
+    ],
+    "category": null,
+    "location": {
+      "name": "Detva - Kalamárka",
+      "latitude": 48.605716,
+      "longitude": 19.418678,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "stĺpovitý andezitový výbežok, 803–816 m n. m., cca 5 km severne od Detvy",
+        "icon": "mountain"
+      },
+      {
+        "label": "Vrcholová plošina",
+        "value": "cca 0,9 ha, chránená z troch strán (cca 88 % obvodu) skalnými stenami vysokými 8–25 m",
+        "icon": "map"
+      },
+      {
+        "label": "Analyzovaný keramický materiál",
+        "value": "2040 keramických črepov",
+        "icon": "scroll"
+      },
+      {
+        "label": "Najvýznamnejší nález",
+        "value": "železný dvojsečný meč (SA 1975)",
+        "icon": "sword"
+      },
+      {
+        "label": "Celková šírka valu",
+        "value": "440–450 cm v hornej časti, dĺžka približne 50 m",
+        "icon": "shield"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "záver doby bronzovej",
+        "title": "Najstaršie opevnenie",
+        "description": "Ako ukázal archeologický výskum, najstaršie opevnenie na Kalamárke pochádza až zo záveru doby bronzovej; prvýkrát bola osídlená lužickou a kyjatickou kultúrou.",
+        "type": "founding"
+      },
+      {
+        "year": "1. tretina – 1. polovica 9. storočia",
+        "title": "Nálezy blatnicko-mikulčického horizontu",
+        "description": "Nálezy jazykovitého nákončia opaska a prevliečky, hlásiace sa k blatnicko-mikulčickému horizontu, indikujú prítomnosť sociálne privilegovanej vrstvy; výskum však stopy opevnenia z tohto obdobia nezistil.",
+        "type": "discovery"
+      },
+      {
+        "year": "koniec 9. – 10. storočie",
+        "title": "Výstavba včasnostredovekého valu",
+        "description": "Keramickými nálezmi vo výplni a podkladovej vrstve valu možno jeho výstavbu datovať do neskorého veľkomoravského až poveľkomoravského obdobia.",
+        "type": "construction"
+      },
+      {
+        "year": "od počiatku 9. storočia",
+        "title": "Strážna funkcia hradiska",
+        "description": "Lokalitu možno interpretovať ako malé výšinné hradisko strážiace horský priechod z Poiplia údolím Kriváňa do Zvolenskej kotliny, obývané už od počiatku 9. storočia.",
+        "type": "era"
+      },
+      {
+        "year": "10. – 1. polovica 11. storočia",
+        "title": "Obdobie staromaďarského ohrozenia a Bielochorvátskeho kniežatstva",
+        "description": "Hradisko plnilo strážnu funkciu bezpečne v období staromaďarského ohrozenia, v období tzv. Bielochorvátskeho kniežatstva a snáď i neskôr v časoch českých a poľských zásahov.",
+        "type": "era"
+      },
+      {
+        "year": "1018",
+        "title": "Poľsko-uhorské vyrovnanie",
+        "description": "Zo skúpych písomných prameňov vzťahujúcich sa k 10. – 11. storočiu možno vyčítať, že stredoslovenské a severoslovenské regióny boli obsadené Arpádovcami a pripojené k Uhorsku až po tzv. poľsko-uhorskom vyrovnaní.",
+        "type": "event"
+      },
+      {
+        "year": "11. storočie",
+        "title": "Zánik strategického významu hradiska",
+        "description": "Po stabilizácii štátotvornej situácie v Karpatskej kotline stratilo hradisko v Detve svoj strategický význam a nebolo už osídlené.",
+        "type": "destruction"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výskum výšinnej polohy Kalamárka približne 5 km severne od Detvy, v Detvianskom predhorí Poľany vykonával Peter Šalkovský. Ide o jedinú dosiaľ známu včasnostredovekú lokalitu v Detvianskej kotline (východne od Zvolena), ktorá bola v minulosti viacnásobným stredobodom pozornosti amatérskych „bádateľov“, a tým bola sústavne znižovaná jej vypovedacia hodnota."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Šalkovský uvádza, že polohu tvorí stĺpovitý andezitový výbežok (803–816 m n. m.) s vrcholovou plošinou (cca 0,9 ha) chránenou z troch strán (cca 88 % obvodu lokality) 8–25 m vysokými zvislými skalnými stenami. Iba z východu, kde prechádza svahovito do plochého horského sedla, bolo potrebné vybudovať približne 50 m dlhý val nad prirodzeným terénnym zlomom. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kalamárka, niekedy i pod názvom Chrapková či Hrabková, je jednou z najdlhšie známych archeologických lokalít stredného Slovenska, záujem o ňu bol už v 19. storočí. Novodobý výskum potvrdil viacnásobné osídlenie lokality od neskorej doby bronzovej, cez dobu halštatskú, laténsku, rímsku, obdobie sťahovania národov až po včasný stredovek. Až 91 % nálezov pochádza z vnútorného areálu, z nich najviac z pásma za valom (56 %) a centrálnej časti akropoly (27 %), kde bol odkrytý i jediný sídliskový objekt - zahĺbená stavba na suchej podmurovke (5,7 × 3,2 m). Najmenej (8 %) nálezov pochádza z juhozápadného výbežku Kalamárky. Iba 9 % nálezov z plochého sedla pod hradiskom a žiadne nálezy zo zisťovacích sond západne od hradiska svedčia o minimálnom záujme sídliskovo využívať plochy mimo chráneného areálu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_hQnFhJMlsA9SOgIo2zs-o9DBcYbDfM3jUc4InCi0AkX4lTDg2gABWfWAVd9QpVktvVEW4d2re8_loAjGS2WWqqrRnoCC242GLzBW0sn08MvVVFPY_kaUaRghLiZeF2HY-VKuFQBYTU/s0/foto+jpg.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_hQnFhJMlsA9SOgIo2zs-o9DBcYbDfM3jUc4InCi0AkX4lTDg2gABWfWAVd9QpVktvVEW4d2re8_loAjGS2WWqqrRnoCC242GLzBW0sn08MvVVFPY_kaUaRghLiZeF2HY-VKuFQBYTU/s1600/foto+jpg.JPG",
+          "filename": "foto+jpg.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_hQnFhJMlsA9SOgIo2zs-o9DBcYbDfM3jUc4InCi0AkX4lTDg2gABWfWAVd9QpVktvVEW4d2re8_loAjGS2WWqqrRnoCC242GLzBW0sn08MvVVFPY_kaUaRghLiZeF2HY-VKuFQBYTU/s1600/foto+jpg.JPG",
+            "displayedWidth": 179,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Detva - Kalamárka",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Strategicky výhodne situovaná Kalamárka lákala človeka už v praveku. Postupne bola osídlená viacerými kultúrami, prvýkrát už v neskorej dobe bronzovej lužickou a kyjatickou kultúrou. Ako ukázal archeologický výskum, najstaršie opevnenie pochádza až zo záveru doby bronzovej. Osídlená bola tiež Keltmi a neskôr ju využívali aj germánski Kvádi v časoch, kedy na našom území proti nim bojoval rímsky cisár Marcus Aurelius. Predmetom pozornosti Slovanov sa stala už v období zániku avarského kaganátu a vzniku Nitrianskeho kniežatstva, čo okrem keramiky dokladajú i nálezy jazykovitého nákončia opaska a prevliečky, hlásiacich sa k blatnicko-mikulčickému horizontu, s viacerými analógiami z prostredia 1. tretiny – 1. polovice 9. stor. z juhozápadného Slovenska i Moravy. Hoci výskum stopy opevnenia z tohoto obdobia nezistil, zmienené nálezy blatnicko-mikulčického typu indikujú prítomnosť sociálne privilegovanej vrstvy. Ťažisko osídlenia i doložená fortifikačná aktivita patria do neskoroveľkomoravského až poveľkomoravského obdobia. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMChIOs8mUQ8EG-tcuwavvTiLZrYsPQDJ0IV7s5GiaN8jENuncYCXp9Qwp_ldf14Cp-E-giteywZeiD8OwUAt1e-Kloy7iP-vLPdudL-rSihbw830wdsPkGDocuRKGn-jvo-0dhfmcloI/s0/pla%CC%81n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMChIOs8mUQ8EG-tcuwavvTiLZrYsPQDJ0IV7s5GiaN8jENuncYCXp9Qwp_ldf14Cp-E-giteywZeiD8OwUAt1e-Kloy7iP-vLPdudL-rSihbw830wdsPkGDocuRKGn-jvo-0dhfmcloI/s1600/pla%CC%81n.jpg",
+          "filename": "plán.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMChIOs8mUQ8EG-tcuwavvTiLZrYsPQDJ0IV7s5GiaN8jENuncYCXp9Qwp_ldf14Cp-E-giteywZeiD8OwUAt1e-Kloy7iP-vLPdudL-rSihbw830wdsPkGDocuRKGn-jvo-0dhfmcloI/s1600/pla%CC%81n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Detva - Kalamárka",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Opevnenie",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Včasnostredoveký val bol vybudovaný na výrazných zvyškoch pravekého, resp. protohistorického opevnenia, ktorých povrch bol zrejme čiastočne upravený, znivelizovaný. Celková šírka valu v hornej časti bola 440–450 cm. Vnútro valu bolo vyplnené zeminou, zväčša druhotne silne prepálenou, a vystužené bližšie nešpecifikovanou, azda priečnou roštovou konštrukciou, ktorú indikujú sporadické dubové uhlíky a zvyšok brvna. Celková dĺžka valu bola približne 50 metrov, v jeho južnej, veľmi zle zachovanej časti, možno predpokladať prerušenie vchodom. Valy podobnej, tzv. škrupinovej konštrukcie predstavujú hlavný typ velkomoravských opevnení, aplikovaný na mnohých hradiskách z konca 8. – 10 . stor. v celom strednom Podunajsku i v Čechách. Atypickým prvkom v Detvianskej konštrukcii je použitie vnútorného kamenného múru, ktorý sa v náznakoch vyskytuje len ojedinele (Majcichov, Spišské Tomášovce, Strachotín), a zväčša býval nahradený drevenou stenou. Uvedený typ hradby, pôvodne označovaný ako premyslovský, bol s rôznymi odchýlkami rozšírený na celom západoslovanskom území. Keramickými nálezmi vo výplni a podkladovej vrstve valu možno jeho výstavbu datovať do neskorého velkomoravského až poveľkomoravského obdobia (koniec 9. – 10. stor.).\n       "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyI60R8mO1LS06jjcxvbFl4t7rYOWcrdvy9iuLQsOrgrhjee46TqV5NN0j15fd1hju5nvGs0Wdgdlklq0gHaj87V4uYmmu_sSq2JQmn9SW6cNLCE7erlZzjY1FEIeS605qAh1s7gT4VU/s0/val+jpg.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyI60R8mO1LS06jjcxvbFl4t7rYOWcrdvy9iuLQsOrgrhjee46TqV5NN0j15fd1hju5nvGs0Wdgdlklq0gHaj87V4uYmmu_sSq2JQmn9SW6cNLCE7erlZzjY1FEIeS605qAh1s7gT4VU/s1600/val+jpg.JPG",
+          "filename": "val+jpg.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQyI60R8mO1LS06jjcxvbFl4t7rYOWcrdvy9iuLQsOrgrhjee46TqV5NN0j15fd1hju5nvGs0Wdgdlklq0gHaj87V4uYmmu_sSq2JQmn9SW6cNLCE7erlZzjY1FEIeS605qAh1s7gT4VU/s1600/val+jpg.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 121,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Detva - Kalamárka",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Nálezy"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Analýze bolo podrobených 2040 keramických črepov. Najarchaickejšie keramické typy majú svoje predlohy na sídliskách a hradiskách (8. – 1. pol. 9. stor. Prša, Sliač, Vyškovce nad Iplom, Hradec). Ide o jednoducho profilované menšie hrnce so zaobleným alebo jednoducho šikmo zrezaným okrajom, pomerne nedokonale obtáčané a neumelo zdobené. Väčšinu keramiky tvorí technologicky vyspelejšia hrnčiarska produkcia, akú poznáme zo sídlisk 2. pol. 9. – 10. stor. (Ipelský Sokolec, Slovenské Ďarmoty, Zvolen, Bojnice, Tlmače, Hronský Beňadik), viac profilovaná, s dokonalejšou, najmä hrebeňovou výzdobou. Najmladší a technologicky najprogresívnejší materiál je súčasne i najmenej početný. Ide najmä o väčšie hrnce so šikmo až zvislo zrezanými rímsovite vytiahnutými hranami okraja, alebo so zosilneným žliabkovaným okrajom, zdobené viac žliabkami a závitnicami. Tento materiál nemožno zaradiť vyššie než do 10./11. stor. (Hronský Beňadik, Bíňa). V súbore ostatných artefaktov (72 kusov) sú zastúpené zbrane - najzaujímavejší z nich je železný dvojsečný meč, (súčasti výstroja, hroty šípov, pracky, nákončie, podkova) i poľnohospodárske a remeselné nástroje a domáce potreby (ako kosák, žarnov, dlátka, kresadla, osličky, prasleny, nožíky, sekera), stavebné a závesné kovania ako klince, skoby, kľúč, ktoré rámcovo možno zaradiť do 9. – 11. stor. \n \n   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb3p520mgasJ_TZBv_sNXqbeRk_EIkuJNuk4e9kQ-CttegbFZJMXAYLo8h5bOSPShVZT_jO4OJrcaDLfynZHYL8Vo_W3MHhFZVSsnlqg1AGkAg44xes2W08GXWRYfJVu2Vf2HWML82Cps/s0/nalez.bmp",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb3p520mgasJ_TZBv_sNXqbeRk_EIkuJNuk4e9kQ-CttegbFZJMXAYLo8h5bOSPShVZT_jO4OJrcaDLfynZHYL8Vo_W3MHhFZVSsnlqg1AGkAg44xes2W08GXWRYfJVu2Vf2HWML82Cps/s1600/nalez.bmp",
+          "filename": "nalez.bmp",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb3p520mgasJ_TZBv_sNXqbeRk_EIkuJNuk4e9kQ-CttegbFZJMXAYLo8h5bOSPShVZT_jO4OJrcaDLfynZHYL8Vo_W3MHhFZVSsnlqg1AGkAg44xes2W08GXWRYfJVu2Vf2HWML82Cps/s1600/nalez.bmp",
+            "displayedWidth": 320,
+            "displayedHeight": 230,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Detva - Kalamárka",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Zhrnutie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na základe vykonaných výskumov Šalkovský uvádza, že celkovo môžeme lokalitu interpretovať ako malé výšinné hradisko strážiace v predsunutej, strategicky výhodnej polohe horský priechod z Poiplia údolím Kriváňa do Zvolenskej kotliny, obývané už od počiatku 9. stor., bezpečne však v období staromaďarského ohrozenia, v období tzv. Bielochorvátskeho kniežatstva a snáď i neskôr v časoch českých a polských zásahov a mocenského ovládnutia Slovenska (10. – 1. pol. 11. stor.). Výraznú obrannú vojensko-politickú aktivitu neskorých veľkomoravských mocenských štruktúr a ich dedičov v regióne centrálneho Slovenska, bohatého na nerastné suroviny, dokreslujú popri detvianskom hradisku i ďalšie fortifikácie, ako napr. 20 km západne vzdialené hradisko vo Zvolene-Moťovej (10. – 11. stor.) pri vyústení cesty od Krupiny do Zvolena, ako i sústava troch hradísk v Tlmačoch, Malých Kozmálovciach a Hronskom Beňadiku (koniec 9. – 10. stor.) uzatvárajúcich pohronskú cestu na stredné Slovensko.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Záverom Šalkovský uvádza, že zo skúpych písomných prameňov vzťahujúcich sa k 10. – 11. stor. možno vyčítať, že stredoslovenské a severoslovenské regióny boli obsadené Arpádovcami a pripojené k Uhorsku až po tzv. polsko-uhorskom vyrovnaní (r. 1018) a smrti Boleslava Chrabrého v 2. pol. 11. stor. Po stabilizácii štátotvornej situácie v Karpatskej kotline stratilo hradisko v Detve svoj strategický význam a nebolo už osídlené. Výnimočnosť postavenia a historický význam detvianskeho strážneho hradiska zvýrazňuje jeho predsunuté situovanie na východnom okraji Detvianskej kotliny, ktorá až do neskorého stredoveku bola iba málo osídlenou časťou Zvolenského komitátu. Jadro osídlenia, ktorému hradisko slúžilo, sa nachádza 20 až 30 km západnejšie v pohronskej oblasti, ktorá mala sídliskovo a poľnohospodársky výhodnejšiu polohu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_iIRINNq1MVZ5nGfL-HLrhDM-dREx_Dg6HxU-o1Kkgs0lzotZdQPGSlI_q_hkvfKhnfFbP7ZW4enlrA1hYSBErMp0FiV9EaIoAfi7tFIFa31SiRAgJJMP-ufwIgHwIrLOgQQPhNS8Nhk2/s0/Mec%25CC%258C+z+Detvy+SA+1975+Rutkay.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_iIRINNq1MVZ5nGfL-HLrhDM-dREx_Dg6HxU-o1Kkgs0lzotZdQPGSlI_q_hkvfKhnfFbP7ZW4enlrA1hYSBErMp0FiV9EaIoAfi7tFIFa31SiRAgJJMP-ufwIgHwIrLOgQQPhNS8Nhk2/s1600/Mec%25CC%258C+z+Detvy+SA+1975+Rutkay.jpg",
+          "filename": "Mec%CC%8C+z+Detvy+SA+1975+Rutkay.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_iIRINNq1MVZ5nGfL-HLrhDM-dREx_Dg6HxU-o1Kkgs0lzotZdQPGSlI_q_hkvfKhnfFbP7ZW4enlrA1hYSBErMp0FiV9EaIoAfi7tFIFa31SiRAgJJMP-ufwIgHwIrLOgQQPhNS8Nhk2/s1600/Mec%25CC%258C+z+Detvy+SA+1975+Rutkay.jpg",
+            "displayedWidth": 65,
+            "displayedHeight": 320,
+            "originalWidth": 161,
+            "originalHeight": 786
+          }
+        },
+        "alt": "Meč z Detvy, zrejme z hradiska kalamárka. (SA 1975)",
+        "caption": "Meč z Detvy, zrejme z hradiska kalamárka. (SA 1975)",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prístup a označenie:",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " Význam hradiska Kaľamárka prezentuje v súčasnosti Náučný chodník. Prístup bicyklom, automobilom na parkovisko pod hájovňou po panelovej ceste z osady Stavanisko; pešo po červenej turistickej značke z osady Stavanisko. S autom sa dostanete prakticky asi 200 m od hradiska. Na hradisku je niekoľko pekne spracovaných informačných tabulí, z ktorých sa návštevník dozvie potrebné informácie o histórii tohto výnimočného miesta. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Spracoval Orgoň\n \n Foto 25.3.2012 (autor Orgoň)\n \n "
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": "Zdroj:",
+        "items": [
+          {
+            "text": "ŠALKOVSKÝ, P.: Slovanské hradisko v Detve - príspevok k rekonštrukcii dejín stredného Slovenska. In: Zborník referátov z konferencie „Svätopluk 894–1994“, Nitra 1997, 213-220.",
+            "url": null
+          },
+          {
+            "text": "Šalkovský, Peter: Detva: Praveké a včasnohistorické hradisko k dávnych dejinám Slovenska. Nitra 2009.",
+            "url": null
+          },
+          {
+            "text": "http://www.fhv.umb.sk/app/user.php?ACTION=PUBLICATION&user=macelova",
+            "url": "http://www.fhv.umb.sk/app/user.php?ACTION=PUBLICATION&user=macelova"
+          },
+          {
+            "text": "Marta Mácelová : Slovanské osídlenie v období od 6. do 12. storočia in Osídlenie Zvolenskej kotliny od včasného stredoveku do polovice 19. storočia, Banská Bystrica 2009 Celú publikáciu nájdete vo formáte PDF na adrese:",
+            "url": null
+          },
+          {
+            "text": "http://www.panoramio.com/user/179042?comment_page=1&photo_page=4",
+            "url": "http://www.panoramio.com/user/179042?comment_page=1&photo_page=4"
+          },
+          {
+            "text": "http://zvolen.sme.sk/c/5385964/z-kalamarky-archeologovia-preskumali-zatial-iba-zlomok.html",
+            "url": "http://zvolen.sme.sk/c/5385964/z-kalamarky-archeologovia-preskumali-zatial-iba-zlomok.html"
+          },
+          {
+            "text": "Šalkovský: Stredné Slovensko vo včasnom stredoveku, Nitra 2011",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Zdroj:"
+      },
+      {
+        "type": "book",
+        "text": "ŠALKOVSKÝ, P.: Slovanské hradisko v Detve - príspevok k rekonštrukcii dejín stredného Slovenska. In: Zborník referátov z konferencie \"Svätopluk 894-1994\", Nitra 1997, 213-220."
+      },
+      {
+        "type": "book",
+        "text": "Šalkovský, Peter: Detva: Praveké a včasnohistorické hradisko k dávnych dejinám Slovenska. Nitra 2009."
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.fhv.umb.sk/app/user.php?ACTION=PUBLICATION&user=macelova",
+        "title": "http://www.fhv.umb.sk/app/user.php?ACTION=PUBLICATION&user=macelova"
+      },
+      {
+        "type": "book",
+        "text": "Marta Mácelová : Slovanské osídlenie v období od 6. do 12. storočia in Osídlenie Zvolenskej kotliny od včasného stredoveku do polovice 19. storočia, Banská Bystrica 2009 Celú publikáciu nájdete vo formáte PDF na adrese:"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.panoramio.com/user/179042?comment_page=1&photo_page=4",
+        "title": "http://www.panoramio.com/user/179042?comment_page=1&photo_page=4"
+      },
+      {
+        "type": "attribution",
+        "text": "foto:"
+      },
+      {
+        "type": "external-url",
+        "url": "http://zvolen.sme.sk/c/5385964/z-kalamarky-archeologovia-preskumali-zatial-iba-zlomok.html",
+        "title": "http://zvolen.sme.sk/c/5385964/z-kalamarky-archeologovia-preskumali-zatial-iba-zlomok.html"
+      },
+      {
+        "type": "book",
+        "text": "Šalkovský: Stredné Slovensko vo včasnom stredoveku, Nitra 2011"
+      }
+    ]
+  }
+}

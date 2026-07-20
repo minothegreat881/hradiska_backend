@@ -1,0 +1,33 @@
+{
+  "slug": "trencianske-teplice-certova-skala",
+  "flags": [
+    {
+      "type": "SELF_CONTRADICTION (nejednoznačný názov polohy)",
+      "block": "blocks[18].body[0] (heading) vs blocks[19].body[0]",
+      "text": "heading: \"Keltské obetisko „Nad Družstevnou tehelňou - Seravy“\"; nasledujúci odsek: \"V okolí hradiska na polohe „Nad starou tehelňou“ – na výšinnej polohe...\"",
+      "note": "Nadpis pomenúva polohu obetiska „Nad Družstevnou tehelňou - Seravy“, ale hneď nasledujúci odsek o tom istom obetisku hovorí o polohe „Nad starou tehelňou“. Môže ísť o dva rôzne dobové/mapové názvy tej istej polohy (družstevná = dnešná, stará = historická), alebo o skutočnú nezrovnalosť. Neopravené/nezjednotené — vyžaduje overenie, ktorý názov je správny/aktuálny."
+    },
+    {
+      "type": "BIBLIO_IN_BODY",
+      "block": "blocks[20].body[0]",
+      "text": "Karol Pieta: Laténezeitlicher Burgwall und Opferplatz in Trenčianske Teplice, In: J. Bouzek - H. Friesinger - B. Komoróczy (eds.): Gentes, Reges und Rom. Brno 2000.",
+      "note": "Odborná citácia (nemecký text) je vsadená ako samostatný rich-text odsek v tele, no `citations`/`content.sources` obsahujú iba 2 URL (geocaching.sk, wikipedia) — táto kniha medzi nimi chýba. Presun do content.sources je štrukturálna zmena nad rámec gramatickej korektúry — ponechané na ľudské rozhodnutie. V rámci bloku opravená iba mechanická medzera pred dvojbodkou; samotný nemecký text citácie nezmenený."
+    }
+  ],
+  "crossFieldPropagation": [
+    {
+      "field": "location.name",
+      "before": "Trenčianske Teplice - Čertova Skala",
+      "after": "Trenčianske Teplice – Čertova skala",
+      "reason": "Rovnaká oprava ako title/tags/alt (kanonický tvar \"Čertova skala\" + pomlčka). NEAPLIKOVANÉ na intermediate.json (location mimo povoleného rozsahu tejto session) — zdokumentované pre budúci re-upload."
+    },
+    {
+      "field": "keyFacts[0].value (Rozloha hradiska)",
+      "note": "Už používa správny tvar „75 × 25 metrov\" — bez potreby zmeny, telo bolo opravené aby s ním súhlasilo (bolo „75x25\")."
+    }
+  ],
+  "notes": [
+    "Nemecký text citácie Karla Pietu (Laténezeitlicher Burgwall und Opferplatz...) ponechaný bez zásahu do jazyka — je to skutočný názov nemeckej odbornej state, nie OCR chyba.",
+    "„Oliwa\" (názov rekreačného zariadenia) ponechané nezmenené — vlastný názov."
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 7 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "6. – 8. storočie",
+      "title": "Včasnoslovanské a starohradištné osídlenie",
+      "description": "Zachytené na dvoch miestach v severnej časti hradiska, s priľahlým súdobým kostrovým pohrebiskom.",
+      "type": "founding"
+    },
+    {
+      "year": "začiatok 9. storočia",
+      "title": "Vybudované hradisko a veľmožský dvorec",
+      "description": "Dvorec v severozápadnej časti hradiska budovaný v dvoch fázach.",
+      "type": "construction"
+    },
+    {
+      "year": "druhá polovica 9. storočia",
+      "title": "Väčšina hrobov a nálezov pri kostole",
+      "description": "Štyri hroby veľmožov s mečmi, zlaté a strieborné šperky podobné nálezom z Mikulčíc a Starého Mesta.",
+      "type": "event"
+    },
+    {
+      "year": "prvá polovica 10. storočia",
+      "title": "Vznik pohanskej svätyne",
+      "description": "Kolový objekt z 8 obvodových jamiek okolo jamky stredovej, obohnaný palisádou.",
+      "type": "construction"
+    },
+    {
+      "year": "11. – 12. storočie",
+      "title": "Zánik kostola",
+      "description": "Kostol zanikol niekedy v tomto období.",
+      "type": "destruction"
+    },
+    {
+      "year": "11. storočie",
+      "title": "Hradisko celkom opustené",
+      "description": "Neskôr úplne zabudnuté; meno \"Pohansko\" získalo až neskôr od nálezov pripisovaných dávnemu pohanskému ľudu.",
+      "type": "destruction"
+    },
+    {
+      "year": "2008",
+      "title": "Výskumná sezóna",
+      "description": "V severovýchodnej časti hradiska odkryté základy ďalšej kamennej stavby s predpokladaným sakrálnym účelom.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha hradiska",
+      "value": "27 ha samotné hradisko, s podhradiami až 100 ha",
+      "icon": "mountain"
+    },
+    {
+      "label": "Valy",
+      "value": "Dĺžka 2 km, šírka až 25 m — jedno z najväčších ranostredovekých opevnení v strednej Európe",
+      "icon": "shield"
+    },
+    {
+      "label": "Kostol",
+      "value": "Trojloďový, 18,6 m dlhý, 7,2 m široký, zdobený farebnými freskami",
+      "icon": "building"
+    },
+    {
+      "label": "Cintorín pri kostole",
+      "value": "~400 hrobov s 800 predmetmi, vrátane 4 hrobov veľmožov s mečmi",
+      "icon": "users"
+    },
+    {
+      "label": "Veľmožský dvorec",
+      "value": "Rozloha takmer 1 ha, obohnaný drevenou palisádou, budovaný v dvoch fázach",
+      "icon": "crown"
+    },
+    {
+      "label": "Remeselnícke sídlisko",
+      "value": "Plocha vyše 2 ha, 260 veľkomoravských objektov (spracovanie dreva, kože, kovov, kováčstvo, šperkárstvo)",
+      "icon": "star"
+    },
+    {
+      "label": "Pohanská svätyňa",
+      "value": "Kolový objekt s priemerom 260 cm, otvorený k východu slnka v deň letného slnovratu",
+      "icon": "scroll"
+    }
+  ]
+}

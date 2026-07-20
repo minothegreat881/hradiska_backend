@@ -1,0 +1,16 @@
+{
+  "_note": "grammar-sk §21 — aktualita 'Prečo to vlastne robím?' (2010-05). Podpis Orgoň odstránený (schválené), funkčný e-mail ponechaný.",
+  "corrections": [
+    { "hint": 0, "before": "najmä. Keltov, či Lužickej kultúry", "after": "najmä Keltov, či lužickej kultúry", "reason": "zbytočná bodka po najmä + kultúra malým (A9)" },
+    { "hint": 0, "before": "Mojim zámerom", "after": "Mojím zámerom", "reason": "inštrumentál mojím, dĺžeň (A8)" },
+    { "hint": 0, "before": "základu - tzn.", "after": "základu – tzn.", "reason": "spojovník ako pomlčka → en dash (B)" },
+    { "hint": 0, "before": "za 1-2 mesiace", "after": "za 1 – 2 mesiace", "reason": "číselný rozsah en dash (B)" },
+    { "hint": 1, "before": "že sa tu jedná o neziskový blog", "after": "že tu ide o neziskový blog", "reason": "bohemizmus jedná sa o → ide o (A7)" },
+    { "hint": 1, "before": "Prečo práve Slovanské Hradiská?", "after": "Prečo práve slovanské hradiská?", "reason": "všeobecné podst. meno + prídavné malým (A9)" },
+    { "hint": 1, "before": "našich Slovanských predkov", "after": "našich slovanských predkov", "reason": "prídavné meno od etnonyma malým (A9)" },
+    { "hint": 1, "before": "remeselníci - kováči", "after": "remeselníci – kováči", "reason": "spojovník ako pomlčka → en dash (B)" },
+    { "hint": 1, "before": "dejín - raný stredovek", "after": "dejín – raný stredovek", "reason": "spojovník ako pomlčka → en dash (B)" },
+    { "hint": 1, "before": "dôvodov. \n   Orgoň\n \n KONTAKT", "after": "dôvodov.\n\nKONTAKT", "reason": "osirotený podpis Orgoň odstránený (§21.10, schválené)" },
+    { "hint": 1, "before": " ORGON333@GMAIL.COM", "after": "ORGON333@GMAIL.COM", "reason": "oprava rozbitého boldu (medzera vnútri **), e-mail ponechaný" }
+  ]
+}

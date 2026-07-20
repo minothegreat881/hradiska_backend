@@ -1,0 +1,39 @@
+{
+  "slug": "chotebuz-podobora",
+  "pass1AppliedFrom": "chotebuz-podobora.grammar-sk-pass1.json",
+  "step1_appliedFixes": [
+    { "rule": "preklep (excerpt)", "block": "excerpt", "before": "s potokom, na avšak z väčšej časti", "after": "s potokom, avšak z väčšej časti" },
+    { "rule": "A8 kedy->keď", "block": 1, "before": "kedy bolo postavené mohutné opevnenie", "after": "keď bolo postavené mohutné opevnenie" },
+    { "rule": "MISSING_WORD (nezmyselné slovo)", "block": 4, "before": "vnútorná rozloha dňu 1,8 ha", "after": "vnútorná rozloha 1,8 ha" },
+    { "rule": "A9 malé písmeno + preklep + A4 pád", "block": 6, "before": "V Halštatskom období ... rôzne iné nélezy ... pred našim letopočtom", "after": "V halštatskom období ... rôzne iné nálezy ... pred naším letopočtom" },
+    { "rule": "A1 čiarka + A4 pád + A1 vsuvka + B rozsahy", "block": 11, "before": "zráz na ktorom nerástli ... početnejšie slovanský ľud ... akropole ako už bolo spomenuté stála ... 4-5 m ... 20-40 cm ... 15-17 m ... pomernej nevýrazné", "after": "zráz, na ktorom nerástli ... početnejší slovanský ľud ... akropole, ako už bolo spomenuté, stála ... 4 – 5 m ... 20 – 40 cm ... 15 – 17 m ... pomerne nevýrazné" },
+    { "rule": "A4 zhoda rodu + A4 pád", "block": 14, "before": "vrstva drenážne ... zachytávame iba ich najspodnejšej časti zahĺbené", "after": "vrstva drenážna ... zachytávame iba ich najspodnejšiu časť, zahĺbenú" },
+    { "rule": "A7 bohemizmus + preklep (chýbajúci dĺžeň)", "block": 16, "before": "Jedná sa predovšetkým ... u všetkých konštrukcii", "after": "Ide predovšetkým ... u všetkých konštrukcií" },
+    { "rule": "A4 slovný tvar", "block": 19, "before": "alebo ustajnené dobytka", "after": "alebo ustajnenie dobytka" },
+    { "rule": "B násobenie + A7 archaizmus + A3 zhoda + preklep", "block": 21, "before": "3,2 x 5,2 x 5,8 m ... časť neboli snáď ani koly ... Približné uprostred ... 1 x 1 m", "after": "3,2 × 5,2 × 5,8 m ... časť nebola azda ani koly ... Približne uprostred ... 1 × 1 m" },
+    { "rule": "A8 kedy->keď + A4 pád", "block": 23, "before": "Mojmírovcov, kedy sa zvlášť ... v pravouhlých zemniacich", "after": "Mojmírovcov, keď sa zvlášť ... v pravouhlých zemniciach" },
+    { "rule": "A4 pád + A3 zhoda rodu zámena", "block": 25, "before": "za dané politickej situácie ... fortifikácia, ktoré sa pomerne skoro", "after": "za danej politickej situácie ... fortifikácia, ktorá sa pomerne skoro" },
+    { "rule": "preklep", "block": 27, "before": "mimoriedne pútavým", "after": "mimoriadne pútavým" },
+    { "rule": "B pomlčka (alt + caption v bloku 28 + gallery)", "block": "28, gallery", "before": "palisády - z dôvodu výšky palisády", "after": "palisády — z dôvodu výšky palisády", "note": "replace_all, string je zdieľaná medzi gallery[6].caption a blocks[28].alt/caption — všetky 3 výskyty opravené" },
+    { "rule": "Sources + citations: medzera pred čiarkou", "block": "sources, citations", "before": "ve Slezsku , Libri", "after": "ve Slezsku, Libri", "note": "replace_all, výskyt v blocks[30].items[0].text aj citations[2].text" }
+  ],
+  "step1_flagsFromDraft_resolved": [
+    {
+      "draftFlag": "Blok 27: 'nájdete , ktorý má...' a 'historická skupina , ktorá...' — draft diagnostikoval MISSING_WORD (chýbajúci 'archeoskanzen') a medzery pred čiarkami.",
+      "resolution": "FALSE POSITIVE zo strany pass-1 draftu. Draft bol zjavne spustený na flattened plain-textovej extrakcii, ktorá stratila obsah <a> odkazov. V skutočnej štruktúre blocks[27].body[0].children je text rozdelený na text-uzly PREPLETENÉ s 'link' uzlami: '...nájdete ' + link[text:'archeoskanzen'] + ', ktorý má...' a '...historická skupina ' + link[text:'Tizon'] + ', ktorá návštevníkom...'. Slovo 'archeoskanzen' aj názov 'Tizon' sú teda v článku PRÍTOMNÉ (ako klikateľné odkazy), nič nechýba a čiarky nemajú medzeru pred sebou v skutočnom JSON. Nedopĺňal som žiadnu vetu (§21.6.1) — nebolo čo dopĺňať.",
+      "action": "Jediná reálna oprava v tomto bloku: preklep 'mimoriedne' → 'mimoriadne' (aplikované vyššie). Flag sa NEPRENÁŠA do review.json — nejde o vecnú nejednoznačnosť, len o artefakt inej textovej reprezentácie v drafte."
+    }
+  ],
+  "step2_crossFieldSweep": {
+    "checked": ["excerpt", "keyFacts[]", "timeline[]", "media captions/alt", "gallery captions", "content.sources items", "citations[]", "title", "tags"],
+    "found": [
+      "keyFacts 'vnútorná rozloha 1,8 ha', 'Šírka 15 – 17 m', '3,2 × 5,2 × 5,8 m' už boli v opravenom tvare pred zásahom (predbežne konzistentné, žiadna ďalšia zmena potrebná)",
+      "gallery caption (index 6) zdieľa presne rovnaký text ako blocks[28].alt/caption — opravené naraz (replace_all) namiesto 3 samostatných editov, aby nevznikol rozpor",
+      "content.sources items[0].text aj citations[2].text obsahovali identickú bibliografickú položku s medzerou pred čiarkou — opravené na oboch miestach"
+    ],
+    "regressionCheckAgainstOldForms": "grep na 29 starých tvarov (na avšak, kedy bolo postavené, rozloha dňu, Halštatskom období, nélezy, našim letopočtom, zráz na ktorom, početnejšie slovanský, ako už bolo spomenuté stála, 4-5 m, 20-40 cm, 15-17 m, pomernej nevýrazné, drenážne (, najspodnejšej časti zahĺbené, Jedná sa predovšetkým, konštrukcii boli, ustajnené dobytka, 3,2 x 5,2, neboli snáď, Približné uprostred, 1 x 1 m, kedy sa zvlášť, zemniacich krytých, za dané politickej, ktoré sa pomerne skoro, mimoriedne pútavým, palisády - z dôvodu, ve Slezsku , Libri) po úprave — 0 výskytov"
+  },
+  "step2_notAltered": "content.quote-block nie je v článku prítomný; žiadne dobové citáty na ochranu",
+  "unresolvedFlags": [],
+  "result": "out/chotebuz-podobora.intermediate.json je validný JSON (31 blokov), upload-ready"
+}

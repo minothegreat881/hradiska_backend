@@ -1,0 +1,146 @@
+{
+  "slug": "zemianske-podhradie-martakova-skala",
+  "note": "grammar-sk agent v7, finálny beh po cross-field kontrole (pass 2). Obsahuje 2 chránené dobové citácie z Holubyho článku (Slovenské pohľady, 1887): (1) dlhý viacdetný content.rich-text úsek 'pod Baštou zase je Marťákova skala... na tých násypoch stáli.' (otvorený „ v tele vety 'uvádza, že „', nikdy sa nezatvára v texte bloku — chránené celé, §21.3 nezatvorený citát), (2) samostatný content.quote-block ('Na lúke, u päty Marťákovej skaly...') a (3) uzavretá italická citácia povesti na konci ('Povesť hovorí, že Hradiská...'). Vo všetkých 3 nezmenené ani jedno slovo (dobová/dialektálna slovenčina Holubyho: 'jehož', 'dakoľko', 'jakoby', 'ač', 'vraj', 'jim' ponechané).",
+  "appliedFixes": [
+    {
+      "rule": "Cross-field zjednotenie názvu lokality (en dash namiesto medzera-hyphen-medzera)",
+      "before": "Zemianske Podhradie - Martákova skala",
+      "after": "Zemianske Podhradie – Martákova skala",
+      "block": "title, tags, location.name, image alt (6×)",
+      "note": "zhoda so súrodeneckým článkom zemianske-podhradie-hradista, ktorý už mal v title en dash"
+    },
+    {
+      "rule": "A3 zhoda podmetu s prísudkom",
+      "before": "Oblasť Bielych Karpát bola osídlená človekom už v dobe kamennej, pretože sú územím",
+      "after": "..., pretože je územím",
+      "block": 1,
+      "note": "podmet 'Oblasť' je jednotné číslo, nie 'sú'"
+    },
+    {
+      "rule": "B typografia (apozícia em dash + číselný rozsah en dash)",
+      "before": "Neskôr - v mladšej a neskorej dobe bronzovej až halštatskej (1 200-700-500 rokov pred n. l.)",
+      "after": "Neskôr — v mladšej a neskorej dobe bronzovej až halštatskej (1 200 – 700 – 500 rokov pred n. l.)",
+      "block": 1
+    },
+    {
+      "rule": "B typografia (apozícia em dash)",
+      "before": "pochádza zaujímavý nález - nádherný exemplár",
+      "after": "pochádza zaujímavý nález — nádherný exemplár",
+      "block": 1
+    },
+    {
+      "rule": "A1 nadbytočná čiarka (rovnorodé členy spájané 'alebo')",
+      "before": "honosný odev náčelníka, alebo inej významnej osoby",
+      "after": "honosný odev náčelníka alebo inej významnej osoby",
+      "block": 1
+    },
+    {
+      "rule": "B typografia (číselný rozsah en dash)",
+      "before": "V neskorej dobe laténskej (100-0 rokov pred n. l.)",
+      "after": "V neskorej dobe laténskej (100 – 0 rokov pred n. l.)",
+      "block": 2,
+      "note": "timeline mala už správny tvar '100 – 0 pred n. l.' — telo malo starý bez medzier"
+    },
+    {
+      "rule": "B typografia (apozícia em dash ×2 + číselný rozsah en dash)",
+      "before": "v Zemianskom Podhradí - polohy Pod Hrádky... alebo v Hornom Srní - poloha Ostrá hora. Znova boli osídlené v 9.—10. stor.",
+      "after": "v Zemianskom Podhradí — polohy Pod Hrádky... alebo v Hornom Srní — poloha Ostrá hora. Znova boli osídlené v 9. – 10. stor.",
+      "block": 3
+    },
+    {
+      "rule": "A1 chýbajúca čiarka pred vzťažnou vetou + uzatváracia čiarka + B typografia (číselný rozsah en dash)",
+      "before": "V článku ktorý vyšiel v časopise Slovenské pohľady, ročník VII. z 25. okt. 1887, strana 217 — 221 uvádza, že „",
+      "after": "V článku, ktorý vyšiel v časopise Slovenské pohľady, ročník VII. z 25. okt. 1887, strana 217 – 221, uvádza, že „",
+      "block": "úvod k Holubyho citátu (mimo chránenej zóny)",
+      "note": "rovnaká oprava strany '217 – 221' propagovaná do sources aj citations"
+    },
+    {
+      "rule": "A1 uzatváracie čiarky vsuvky 'žiaľ' + B typografia (apozícia em dash)",
+      "before": "z ktorých žiaľ väčšinu vykradli v minulosti detektoristi ... v období raného stredoveku – v 9. až 11. storočí",
+      "after": "z ktorých, žiaľ, väčšinu vykradli v minulosti detektoristi ... v období raného stredoveku — v 9. až 11. storočí",
+      "block": "odsek po quote-blocku ('Dnes vieme, že...')"
+    },
+    {
+      "rule": "A1 chýbajúca uzatváracia čiarka vsuvky",
+      "before": "Okrem nálezov, ktoré sa podarilo nájsť Holubymu poznáme z lokality",
+      "after": "Okrem nálezov, ktoré sa podarilo nájsť Holubymu, poznáme z lokality",
+      "block": "'Okrem nálezov...' odsek"
+    },
+    {
+      "rule": "A1 nadbytočná čiarka (korelatív 'či už X alebo Y')",
+      "before": "či už z vojensko-strategických dôvodov, alebo z núdzových (refugiálnych) dôvodov",
+      "after": "či už z vojensko-strategických dôvodov alebo z núdzových (refugiálnych) dôvodov",
+      "block": "'Jedným zo zaujímavých pozostatkov...' odsek"
+    },
+    {
+      "rule": "A7 bohemizmus + B typografia (dvojmedzera + apozícia em dash)",
+      "before": "Jedná sa o železné kovanie – prevliečku  s dlhým oválnym pútkom",
+      "after": "Ide o železné kovanie — prevliečku s dlhým oválnym pútkom",
+      "block": "'O tom, že Martákova skala...' odsek",
+      "note": "hodnota '101 cm' v tej istej vete nahlásená ako NUMBER_IMPOSSIBLE, viď review.json — nezmenená"
+    },
+    {
+      "rule": "B typografia (apozícia em dash)",
+      "before": "Nález Kolník datuje do 1. polovice 9. storočia – tzn. do obdobia",
+      "after": "Nález Kolník datuje do 1. polovice 9. storočia — tzn. do obdobia",
+      "block": "'O tom, že Martákova skala...' odsek"
+    },
+    {
+      "rule": "B typografia (vsuvka em dash)",
+      "before": "Ďalším významným slovanským nálezom – od toho istého detektoristu – je",
+      "after": "Ďalším významným slovanským nálezom — od toho istého detektoristu — je",
+      "block": "'Ďalším významným...' odsek"
+    },
+    {
+      "rule": "A7 bohemizmus",
+      "before": "podobne ako pri viacerých ďalších (napr. Pobedim) sa jedná o výrobok slovenského kováča",
+      "after": "... ide o výrobok slovenského kováča",
+      "block": "'Ďalším významným...' odsek"
+    },
+    {
+      "rule": "B typografia (apozícia em dash)",
+      "before": "bol nájdený keltský depot – masívna železná sekera",
+      "after": "bol nájdený keltský depot — masívna železná sekera",
+      "block": "timeline[5].description"
+    },
+    {
+      "rule": "D globálny slovník (skratka bez dĺžňa)",
+      "before": "Štúdijné zvesti AU SAV",
+      "after": "Študijné zvesti AÚ SAV",
+      "block": "sources + citations (2× výskyt)",
+      "note": "obe opravy: 'Štúdijné' -> 'Študijné' (A9, časopis) a 'AU' -> 'AÚ' (potvrdený vzor z §21.4)"
+    },
+    {
+      "rule": "B typografia (chýbajúca medzera po dvojbodke)",
+      "before": "Spracoval:Orgoň",
+      "after": "Spracoval: Orgoň",
+      "block": "citations"
+    },
+    {
+      "rule": "B typografia (medzery v dátume)",
+      "before": "Foto: 10.5.2015:",
+      "after": "Foto: 10. 5. 2015:",
+      "block": "citations"
+    },
+    {
+      "rule": "B typografia (orezanie extrakčných whitespace/newline artefaktov na koncoch odsekov)",
+      "before": "5 odsekov s trailing '\\n \\n \\n' alebo dvojitou medzerou na konci",
+      "after": "orezané; chránená Holubyho citácia a jej susedné spájacie medzery medzi bold/plain uzlami nedotknuté",
+      "block": "viacero"
+    }
+  ],
+  "reviewed_no_change": [
+    "Celý chránený citát Holuby 1887 (content.rich-text úsek 'pod Baštou...' + samostatný content.quote-block + záverečná povesť) — 0 zmien, vrátane archaizmov 'jehož', 'dakoľko', 'jakoby', 'vraj', 'jim', 'ač'.",
+    "'Titom Kolníkom' — správny inštrumentál mena Titus (vzor: Titus -> Tita/Titovi/Titom), nie preklep.",
+    "'typu I. typologickej schémy A. Ruttkaya' — rímska číslica v typologickej klasifikácii (nie dátum/storočie), zachovaná (bežná konvencia archeologických typológií)."
+  ],
+  "flags_ref": "out/zemianske-podhradie-martakova-skala.review.json",
+  "crossFieldVerified": [
+    "100 – 0 pred n. l.: telo zjednotené s timeline, ktorá mala už správny en dash tvar.",
+    "9. – 10./9. – 11. storočie: telo zjednotené s timeline (žiadna zmena timeline nebola potrebná).",
+    "Zemianske Podhradie – Martákova skala (en dash): title/tags/location.name/6× image alt zjednotené.",
+    "Študijné zvesti AÚ SAV: oprava aplikovaná zhodne v sources aj citations (2 bibliografické záznamy × 2 polia = 4 miesta).",
+    "excerpt sa zhoduje s prvým odsekom tela po bod useknutia — bez opravovaných reťazcov, bez zmeny.",
+    "101 cm (prevliečka) zostáva nezmenené vo všetkých poliach — nikde sa neopakuje mimo tela, takže nevznikla cross-field nekonzistencia, iba NUMBER_IMPOSSIBLE flag."
+  ]
+}

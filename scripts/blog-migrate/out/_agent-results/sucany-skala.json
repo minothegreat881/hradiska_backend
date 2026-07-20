@@ -1,0 +1,25 @@
+{
+  "timeline": [
+    { "year": "1930", "title": "Janšák skúma a zverejňuje hradisko", "description": "Janšák hradisko ako prvý skúmal a zverejnil v roku 1930, pričom uviedol, že nemohlo byť dokonalejšieho prirodzeného hradu, než je práve Skala.", "type": "discovery" },
+    { "year": "I. storočie n. l.", "title": "Nález bronzových spôn", "description": "Na hradisku boli nájdené 2 bronzové spony, datované do I. storočia n. l.", "type": "discovery" },
+    { "year": "14. storočie", "title": "Mince označené za falzifikáty", "description": "Zaujímavým nálezom boli 2 mince zo 14. storočia, ktoré Janšák označil za falzifikáty, spolu s kruhovým štítkom z medi pripraveným na razbu.", "type": "discovery" },
+    { "year": "50. – 60. roky 20. storočia (SA 1961)", "title": "Archeologický výskum Igora Hrubca", "description": "Igor Hrubec vykonával v Sučanoch archeologický výskum a uvádza, že osídlenie hradiska súviselo vždy s osadou nachádzajúcou sa severne od neho smerom k Váhu; okrem črepov púchovskej kultúry našiel aj slovanské črepy.", "type": "discovery" },
+    { "year": "1964", "title": "Zverejnenie nálezov Petrovským-Šichmanom", "description": "Petrovskému-Šichmanovi sa podarilo zachytiť a zverejniť niekoľko slovanských črepov s vlnovkou (VZP 1964).", "type": "discovery" }
+  ],
+  "keyFacts": [
+    { "label": "Výška skalného útesu", "value": "40 m vysoký skalný útes zvaný Skala", "icon": "mountain" },
+    { "label": "Rozloha nádvoria", "value": "4350 m², tvar podkovy", "icon": "map" },
+    { "label": "Obvodový val", "value": "dĺžka 94 m, dnes už len 0,30–0,40 m vysoký", "icon": "shield" },
+    { "label": "Stredný val (m-o-c-s-n)", "value": "dĺžka 88 m, výška smerom k hradisku až 8 m", "icon": "shield" },
+    { "label": "Vonkajší val (o-p-d-r-s)", "value": "dĺžka 108 m, najvyšší bod 6 m nad dnom priekopy", "icon": "shield" },
+    { "label": "Archeologické nálezy", "value": "slovanské a púchovské črepy, mazanica, hlinená korálka, rímske a kotínske mince, 2 bronzové spony z I. storočia n. l.", "icon": "custom" },
+    { "label": "Prvý výskumník", "value": "hradisko ako prvý preskúmal a zverejnil Š. Janšák v roku 1930", "icon": "book" },
+    { "label": "Prirodzené oddelenie skaly", "value": "Skala bola od hrebeňa oddelená 8 m vysokým prirodzeným stupňom", "icon": "mountain" }
+  ],
+  "corrections": [
+    { "before": "so stránky zemepisnej", "after": "zo stránky zemepisnej" },
+    { "before": "pretože skala Skala bola od hrebeňa", "after": "pretože Skala bola od hrebeňa" },
+    { "before": "archeologický výskum (SA 1961) uvádza, že osídlenie", "after": "archeologický výskum (SA 1961), uvádza, že osídlenie" },
+    { "before": "I. storočia n.l. A pozostatky polozemníc", "after": "I. storočia n. l. a pozostatky polozemníc" }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "okolo 1200 pred Kr.",
+      "title": "Nástup gávskej kultúry",
+      "description": "Gávska kultúra nahradila na východnom Slovensku pilinskú kultúru a kultúru Suciu de Sus a stala sa nositeľkou najintenzívnejšieho osídlenia hradiska v mladšom úseku mladšej doby bronzovej.",
+      "type": "era"
+    },
+    {
+      "year": "do 750 pred Kr.",
+      "title": "Koniec osídlenia z doby bronzovej",
+      "description": "Osídlenie nositeľmi gávskej kultúry trvalo na hradisku až do konca bronzovej doby.",
+      "type": "era"
+    },
+    {
+      "year": "10. – 11. storočie",
+      "title": "Slovanské osídlenie hradiska",
+      "description": "Osem nájdených keramických úlomkov možno datovať do tohto obdobia, teda do obdobia zanikajúcej veľkomoravskej ríše a nasledovného nestabilného formovania uhorského štátu; hradisko azda poskytlo Slovanom útočište pred náporom staromaďarských kmeňových družín do Medzibodrožia.",
+      "type": "event"
+    },
+    {
+      "year": "50. roky",
+      "title": "Archeologický výskum hradiska",
+      "description": "Výskum hradiska sa uskutočnil ešte v 50. rokoch.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Rozloha",
+      "value": "7,8 ha (podľa literatúry)",
+      "icon": "map"
+    },
+    {
+      "label": "Výška valového opevnenia",
+      "value": "až 8 m zo západnej (prístupnejšej) strany, 1–3 m z ostatných strán",
+      "icon": "shield"
+    },
+    {
+      "label": "Poloha",
+      "value": "Popričný vrch, východne od obce Koňuš, okres Michalovce",
+      "icon": "mountain"
+    },
+    {
+      "label": "Osídlenie z doby bronzovej",
+      "value": "Gávska kultúra, cca 1200 – 750 pred Kr.",
+      "icon": "book"
+    },
+    {
+      "label": "Slovanské nálezy",
+      "value": "8 keramických úlomkov datovaných do 10. – 11. storočia",
+      "icon": "star"
+    },
+    {
+      "label": "Archeologický výskum",
+      "value": "Realizovaný v 50. rokoch (V. Budinský-Krička)",
+      "icon": "book"
+    },
+    {
+      "label": "Vodný zdroj",
+      "value": "Prameň na svahu hradiska, ktorý nevyschol ani napriek suchu",
+      "icon": "custom"
+    },
+    {
+      "label": "Pôvodný názov",
+      "value": "Stari Konjus",
+      "icon": "custom"
+    }
+  ]
+}

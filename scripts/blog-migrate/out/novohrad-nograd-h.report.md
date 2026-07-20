@@ -5,9 +5,9 @@
 
 ## ✅ Integrita a úplnosť
 
-> **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
+> **⚠ POZOR — niečo sa mohlo stratiť, pozri kontroly**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ❌ Text: pokrytie 96.19% vs originál (gramaticky opravené slová vyňaté: 0) — zvyšné mimo: phphttp, foto, prevzaté, euroregion, neogradiensis, jpgobr, kep, novad, vara, legi (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (2) ⊆ galéria (7) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 7, keyFacts 6
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 2 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 9 položiek |
+| sources (zdroje) | 1 → 8 položiek |
 
 ## Obrázky
 - **galéria:** 7 (7 s popisom)
@@ -50,5 +50,6 @@
 ## Ostatné
 - **komentáre:** 0
 - **text tela:** 2465 znakov (372 slov)
+- **pokrytie textu vs originál:** 96.19% (mimo: phphttp, foto, prevzaté, euroregion, neogradiensis, jpgobr, kep, novad)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

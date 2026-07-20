@@ -1,0 +1,72 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "obdobie púchovskej kultúry",
+      "title": "Osídlenie v období púchovskej kultúry",
+      "description": "Na akropole a pri severozápadnom vale sa našli hrubozrnné aj jemnozrnné tuhované črepy; nálezy svedčia o osídlení hradiska v období púchovskej kultúry.",
+      "type": "era"
+    },
+    {
+      "year": "slovanské obdobie",
+      "title": "Nález slovanskej keramiky",
+      "description": "Dr. Šalkovský uvádza, že na hradisku bola nájdená aj slovanská keramika, a zaraďuje ho medzi potenciálne slovanské hradiská („neisté opevnené výšinné sídliská“); rovnaký názor zastáva aj Dr. Hulínek.",
+      "type": "era"
+    },
+    {
+      "year": "907",
+      "title": "Bitka pri Bratislave (podľa povesti)",
+      "description": "Podľa miestnej povesti sa v jeden júlový deň roku 907 odohrala pri Bratislave bitka, v ktorej „zapadla Slávov sláva“ - Veľká Morava padla po útoku staromaďarských jazdcov a bavorských rytierov.",
+      "type": "battle"
+    },
+    {
+      "year": "začiatok 10. storočia (podľa povesti)",
+      "title": "Zánik hrádku zradou (podľa povesti)",
+      "description": "Podľa povesti bol hrádok staršinu Lysoňa vydaný nepriateľom zradou jeho syna Klaboňa a vypálený; na jeho mieste neskôr vyrástli múry nového hradu Sklabiňa.",
+      "type": "destruction"
+    },
+    {
+      "year": "1930",
+      "title": "Objavenie a publikovanie hradiska",
+      "description": "Hradisko objavil a ako prvý publikoval Š. Janšák.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha a výška",
+      "value": "Kóta 696 juhovýchodne od obce Turčianske Jaseno, nad dolinou potoka Vôdky",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rozloha hradiska",
+      "value": "5,2 ha - vonkajšie nádvorie (5,04 ha) a chránená akropola (0,16 ha)",
+      "icon": "map"
+    },
+    {
+      "label": "Opevnenie",
+      "value": "Tri pásma valov: severný val i-k-h dlhý 112 m, zaniknutý val g-j a mohutný oblúkovitý val d-696-f dlhý 74 m, vysoký až 8 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Objaviteľ",
+      "value": "Hradisko objavil a ako prvý publikoval Š. Janšák v roku 1930",
+      "icon": "book"
+    },
+    {
+      "label": "Archeologické nálezy",
+      "value": "Hrubozrnné aj jemnozrnné tuhované črepy z obdobia púchovskej kultúry",
+      "icon": "custom"
+    },
+    {
+      "label": "Slovanské osídlenie",
+      "value": "Podľa Dr. Šalkovského a Dr. Hulínka patrí medzi potenciálne slovanské hradiská vďaka nálezu slovanskej keramiky",
+      "icon": "star"
+    },
+    {
+      "label": "Povesť o zániku",
+      "value": "Podľa miestnej povesti tu stál hrádok staršinu Lysoňa, po zrade zničený; na jeho mieste neskôr vznikol hrad Sklabiňa",
+      "icon": "building"
+    }
+  ]
+}

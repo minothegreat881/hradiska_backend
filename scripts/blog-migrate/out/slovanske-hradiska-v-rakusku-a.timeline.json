@@ -1,0 +1,65 @@
+{
+  "_note": "Agent, overnight batch 28 (Strážna funkcia) 13.-14.7.2026",
+  "timeline": [
+    {
+      "year": "začiatok 10. storočia",
+      "title": "Vznik hradiska Sand pri Raabse",
+      "description": "Slovanské hradisko Sand pri Raabse nad Dyjou vzniklo začiatkom 10. storočia, pravdepodobne ako lokálne centrum, prípadne so strážnou funkciou.",
+      "type": "founding"
+    },
+    {
+      "year": "3. štvrtina 10. storočia",
+      "title": "Zánik hradiska Sand pri Raabse",
+      "description": "Hradisko bolo zrejme prepadnuté Maďarmi a zaniklo pri požiari, pri ktorom sa múr zrútil na drevené stavby.",
+      "type": "destruction"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Senftenberg na pomedzí Veľkej Moravy",
+      "description": "Územie so Senftenberským hradiskom mohlo byť v 9. storočí súčasťou Veľkej Moravy, respektíve prechodným územím medzi Východnou markou, Bavorskom a Moravou.",
+      "type": "era"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Počet opísaných hradísk v Dolnom Rakúsku",
+      "value": "6 lokalít – Sand pri Raabse, Maissau-Limberg, Oberleis-Oberleiserberg, Stein an der Donau, Senftenberg, Langenlois-Schiltern",
+      "icon": "map"
+    },
+    {
+      "label": "Sand pri Raabse – severná priekopa a múr",
+      "value": "priekopa 2,4 m široká a 2 m hlboká, za ňou múr z nasucho kladeného kameňa vysoký asi 2,4 m",
+      "icon": "shield"
+    },
+    {
+      "label": "Sand pri Raabse – pretiahnutá zrubová stavba",
+      "value": "dĺžka necelých 18 m, šírka 7 m na východnom a 4 m na západnom konci, s ohniskom uprostred",
+      "icon": "building"
+    },
+    {
+      "label": "Sand pri Raabse – zánik hradiska",
+      "value": "zaniklo asi v 3. štvrtine 10. storočia po prepadnutí Maďarmi a následnom požiari",
+      "icon": "star"
+    },
+    {
+      "label": "Oberleis-Oberleiserberg – nadmorská výška",
+      "value": "454 m n. m., pôvodne praveké opevnené sídlisko druhotne využité Slovanmi ako strážny bod",
+      "icon": "mountain"
+    },
+    {
+      "label": "Maissau-Limberg – poloha Heidenstatt",
+      "value": "okolo 288 m n. m., pôvodne praveké hradisko s prevažne keramickým nálezovým materiálom",
+      "icon": "mountain"
+    },
+    {
+      "label": "Stein an der Donau a Senftenberg",
+      "value": "obe ležia v okrese Krems an der Donau vo východnom Waldvierteli a plnili strážnu funkciu",
+      "icon": "map"
+    },
+    {
+      "label": "Nález na hradnom kopci pri Raabse",
+      "value": "plocha 14 x 11 m s lomovými kameňmi – interpretovaná ako stavba s kamennou podmurovkou a drevenou nadstavbou",
+      "icon": "custom"
+    }
+  ]
+}

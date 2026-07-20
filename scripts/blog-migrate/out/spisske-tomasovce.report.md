@@ -7,11 +7,11 @@
 
 > **✅ MIGRÁCIA ÚPLNÁ — nič sa nestratilo (text + obrázky + rytmus OK)**
 
-- ℹ️ Text: % pokrytia nepočítané (originál feed nedostupný)
+- ✅ Text: pokrytie 99.81% vs originál (gramaticky opravené slová vyňaté: 0) — zvyšné mimo: bŕeclav, spracoval, orgoň (over: map-widget/tvary/odkazy)
 - ✅ Obrázky evidované: telo (6) ⊆ galéria (23) — žiadny sa nestratil
 - ✅ Rytmus: max 1 obrázok za sebou (žiadna stena)
 - ✅ Sidebar: timeline 6, keyFacts 7
-- ℹ️ Gramatika: audit súbor nenájdený (korektúra nebežala)
+- ✅ Gramatika: 5 opráv aplikovaných (audit súbor)
 
 ## Obsah (bloky)
 | typ | počet |
@@ -21,7 +21,7 @@
 | poem (básne/verše) | 0 |
 | image-block (v tele) | 6 |
 | embed (video/3D) | 0 |
-| sources (zdroje) | 1 → 6 položiek |
+| sources (zdroje) | 1 → 5 položiek |
 
 ## Obrázky
 - **galéria:** 23 (20 s popisom)
@@ -45,10 +45,20 @@
   - Regionálny kontext: Jedno zo 14 publikovaných slovenských hradísk s rovnakou fortifikačnou technikou (spolu s Pobedimom, Bojnou, Nitrou, Devínom a ďalšími)
 
 ## Gramatická korektúra
-- gramatika: (audit súbor nenájdený — korektúra nebežala alebo bez zmien)
+- **opráv spolu: 5**
+  - interpunkcia (čiarky/bodky): 5
+
+| # | blok | pôvodné → navrhované | dôvod |
+|---|---|---|---|
+| 1 | undefined | `do troch polôh Hradisko bolo zložené` → `do troch polôh. Hradisko bolo zložené` | chýbajúca bodka medzi vetami |
+| 2 | undefined | `prielomu Hornádu Predsunutý kratší` → `prielomu Hornádu. Predsunutý kratší` | chýbajúca bodka medzi vetami |
+| 3 | undefined | `takúto fortifikačnú techniku predpokladať Doklady podobných` → `takúto fortifikačnú techniku predpokladať. Doklady podobných` | chýbajúca bodka medzi vetami |
+| 4 | undefined | `obrannú architektúru Plenty tomášovského` → `obrannú architektúru. Plenty tomášovského` | chýbajúca bodka medzi vetami |
+| 5 | undefined | `sondážnych akcií Polkruhový valovitý` → `sondážnych akcií. Polkruhový valovitý` | chýbajúca bodka medzi vetami |
 
 ## Ostatné
 - **komentáre:** 1
-- **text tela:** 19206 znakov (2793 slov)
+- **text tela:** 19189 znakov (2793 slov)
+- **pokrytie textu vs originál:** 99.81% (mimo: bŕeclav, spracoval, orgoň)
 
 _Report vygenerovaný Fázou 6 migračného pipeline._

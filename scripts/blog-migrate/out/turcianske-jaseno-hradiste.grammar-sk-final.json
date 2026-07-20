@@ -1,0 +1,34 @@
+{
+  "slug": "turcianske-jaseno-hradiste",
+  "note": "Sidebar (Agent 1) vytvorený od nuly + aplikovaný criticalFix (16 duplicitných Zdrojov, doslovná kópia legendy) + appliedFixes z grammar-sk-pass2.json + finálna cross-field kontrola (§21.4). Kritická oprava: sekcia Zdroje aj citations[] obsahovali 16-položkovú doslovnú duplicitu quote-blocku 'Skaza Hradišťa' — odstránené, quote-block samotný nedotknutý (overené: 4655 znakov pred aj po).",
+  "sidebar": {
+    "timelineCount": 6,
+    "keyFactsCount": 8,
+    "sourceOnlyVerified": true,
+    "note": "Dva roky označené ⚠ NEISTÝ (obdobie výstavby hradiska, obdobie slovenského/slovanského nálezu keramiky) — text neuvádza presný rok, nevymyslené. Legenda 'Skaza Hradišťa' zaradená do timeline len ako legenda, explicitne opísaná ako 'ľudová povesť, nie overený historický fakt' — dátum '907' z chráneného quote-blocku (protected §21.3) NEBOL použitý, len rámcový 'začiatok 10. storočia' explicitne uvedený v tele (blok 8)."
+  },
+  "criticalFixApplied": {
+    "issue": "content.sources.items (20 položiek) aj top-level citations[] (21 položiek) obsahovali 16 duplicitných items — doslovná kópia celého quote-blocku 'Skaza Hradišťa' (úvodná veta + nadpis + 14 odsekov legendy) rozdelená na jednotlivé items.",
+    "fix": "Odstránených 16 duplicitných items z oboch polí. Ponechané a preformátované 4 skutočné bibliografické položky (+ 'Spracoval: Orgoň' v citations): ŠALKOVSKÝ, P.: Stredné Slovensko vo včasnom stredoveku, Nitra 2011; JANŠÁK, Š.: Staré osídlenie Slovenska (neuzavretá zátvorka odstránená, formát zjednotený so sučianskou citáciou rovnakého diela); Bitka pri Bratislave SAHI 2008; URL turcianskejaseno.sk.",
+    "verified": "quote-block 'Skaza Hradišťa' dĺžka textu pred/po: 4655/4655 znakov — 0 zmien."
+  },
+  "appliedFromPass2": [
+    { "rule": "A8 modernizácia archaizmu + A2 pozícia sa", "field": "block 1", "before": "Najpríkrejší svah nachodí sa v partii", "after": "Najpríkrejší svah sa nachádza v partii" },
+    { "rule": "B typografia (zmiešaný spojovník/pomlčka)", "field": "block 2 + KF Tri valy hradiska", "before": "val d – 696 - f", "after": "val d – 696 – f" },
+    { "rule": "OCR artefakt", "field": "block 4", "before": "čiarami1' a b c e i a", "after": "čiarami a b c e i a" },
+    { "rule": "A8 preklep", "field": "block 4", "before": "umiestenie stád", "after": "umiestnenie stád" },
+    { "rule": "A1 vsuvka obojstranne", "field": "block 4", "before": "plošina d e f d s rozlohou 0,16 ha tvorí", "after": "plošina d e f d, s rozlohou 0,16 ha, tvorí" },
+    { "rule": "D cross-article", "field": "block 6 caption + alt + gallery[1].caption", "before": "II. voj. mapovania", "after": "2. voj. mapovania" },
+    { "rule": "B typografia", "field": "block 7", "before": "„neisté opevnené výšinné sídliská“", "after": "„neisté opevnené výšinné sídliská\"" },
+    { "rule": "D cross-field (excerpt bol nesynchronizovaný)", "field": "excerpt", "before": "Turčianske Jaseno nesie názov", "after": "Turčianske Jaseno, nesie názov", "note": "telo (blok 0) malo už opravený tvar s čiarkou; iba excerpt zaostával." },
+    { "rule": "B typografia", "field": "keyFacts (nové)", "before": "5,2 ha - vonkajšie", "after": "napísané rovno s pomlčkou v novom keyFact 'Rozloha hradiska'" },
+    { "rule": "D cross-field", "field": "timeline (nové)", "before": "„zapadla Slávov sláva“ - Veľká", "after": "citát z legendy nebol prevzatý do novej timeline (legenda je chránená zóna, §21.3) — namiesto neho timeline referuje len rámcové obdobie z tela ('začiatok 10. storočia')" }
+  ],
+  "crossFieldSweep": {
+    "checkedTerms": ["nachodí sa", "696 - f", "umiestenie stád", "II. voj. mapovania", "Turčianske Jaseno nesie"],
+    "result": "0 výskytov starých foriem po oprave."
+  },
+  "flags": [],
+  "reviewFile": null,
+  "uploadReady": true
+}

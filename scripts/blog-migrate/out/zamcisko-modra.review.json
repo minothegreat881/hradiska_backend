@@ -1,0 +1,18 @@
+{
+  "slug": "zamcisko-modra",
+  "generatedAt": "2026-07-15T16:15:28.789Z",
+  "flags": [
+    {
+      "type": "OCR_UNCERTAIN",
+      "location": "Janšák quote (protected), block ~1053",
+      "text": "klesá na kólii 484",
+      "note": "Possibly OCR corruption of \"kóte 484\" (matches earlier \"na kóte 464\", \"kótu 499\"), but inside protected Janšák 1928 quotation — left untouched per §21.3. Flagging for human review."
+    },
+    {
+      "type": "UNUSUAL_NOTATION",
+      "location": "body, block ~936 (Janšák coordinates paraphrase)",
+      "text": "34° 57 1/2' východnej dĺžky, 48° 21 3/4' severnej šírky",
+      "note": "Old-style degree/minute/fraction survey notation from Janšák paraphrase; left as-is, plausible period cartography convention, low confidence it is an error."
+    }
+  ]
+}

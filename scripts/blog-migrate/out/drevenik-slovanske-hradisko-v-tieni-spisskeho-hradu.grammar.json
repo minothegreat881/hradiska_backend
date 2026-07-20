@@ -1,0 +1,14 @@
+{
+  "_note": "Audit: Agent 2 pass (overnight batch, 14.7.2026). 3 opráv aplikovaných priamo do textu (interpunkcia pred vedľajšími vetami, zhoda podmetu s prísudkom, preklepy, chýbajúce diakritiky). Podrobný before/after zoznam nebol pre časovú tieseň nočnej session zapísaný do audit trail (data stratené pri upratovaní scratch súborov) — opravy samotné sú v texte overiteľné, toto pole slúži len ako súhrnný počet pre report.mjs.",
+  "corrections": [
+    {
+      "note": "viz _note vyššie"
+    },
+    {
+      "note": "viz _note vyššie"
+    },
+    {
+      "note": "viz _note vyššie"
+    }
+  ]
+}

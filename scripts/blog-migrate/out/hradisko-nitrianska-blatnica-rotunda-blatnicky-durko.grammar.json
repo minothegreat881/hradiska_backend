@@ -1,0 +1,9 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Nitrianska Blatnica - rotunda Blatnický Ďurko, 13.7.2026. Priame citáty Dvořáka a Ruttkaya (bloky 3,5,8,11,12) nedotknuté okrem mechanických artefaktov. Hromadne skolabovaných 5 dvojitých medzier skriptom.",
+  "corrections": [
+    { "hint": 0, "before": "vo výške 450 m n. m,", "after": "vo výške 450 m n. m.,", "reason": "chýbajúca bodka v skratke n. m." },
+    { "hint": 1, "before": "1974,1976-1980", "after": "1974, 1976-1980", "reason": "chýbajúca medzera po čiarke" },
+    { "hint": 6, "before": "nadzemných objektov . Rozsah", "after": "nadzemných objektov. Rozsah", "reason": "medzera pred bodkou" },
+    { "hint": 8, "before": "dechtárske jamy Románsku prestavbu", "after": "dechtárske jamy. Románsku prestavbu", "reason": "chýbajúca bodka medzi vetami" }
+  ]
+}

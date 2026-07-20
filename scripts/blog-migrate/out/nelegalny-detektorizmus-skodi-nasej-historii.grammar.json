@@ -1,0 +1,34 @@
+{
+  "corrections": [
+    {
+      "hint": 3,
+      "before": "tak dôležitý, ako kontext v ktorom sa pamiatka nachádza",
+      "after": "taký dôležitý ako kontext, v ktorom sa pamiatka nachádza",
+      "reason": "A8 tak→taký pred príd. menom; nadbytočná čiarka pred porovnávacím 'ako'; A1 chýbajúca čiarka pred vzťažným 'v ktorom'"
+    },
+    {
+      "hint": 7,
+      "before": "ktorý vie najlepšie ako s nimi naložiť",
+      "after": "ktorý vie najlepšie, ako s nimi naložiť",
+      "reason": "A1 chýbajúca čiarka pred vzťažnou príslovkou 'ako' uvádzajúcou vedľajšiu vetu"
+    },
+    {
+      "hint": 8,
+      "before": "§ 249 odsek 1 trestného zákona, je",
+      "after": "§ 249 odseku 1 Trestného zákona je",
+      "reason": "A4 pádová väzba (Podľa + genitív: odseku); A9 názov zákona veľkým (Trestný zákon); nadbytočná čiarka medzi podmetovou frázou a prísudkom"
+    },
+    {
+      "hint": 8,
+      "before": "trestným činom, začo hrozí",
+      "after": "trestným činom, za čo hrozí",
+      "reason": "B/typo začo→za čo (dve slová)"
+    },
+    {
+      "hint": 9,
+      "before": "Kontakty na archeológov Krajských pamiatkových úradov",
+      "after": "Kontakty na archeológov krajských pamiatkových úradov",
+      "reason": "A9 generický (nie konkrétny inštitučný názov) plurál → malé písmeno"
+    }
+  ]
+}

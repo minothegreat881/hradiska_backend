@@ -1,0 +1,30 @@
+{
+  "slug": "hronsky-benadik",
+  "appliedFixes": [
+    { "id": "01", "note": "Lidar popisok opravený presne podľa navrhnutého znenia — chýbajúce medzery po bodke a pred 'nebolo', em dash pri poslednej vsuvke. Opravené v tele (blok 4) aj v Media Library (media 1632)." },
+    { "id": "02", "note": "Nadpis 'DATOVANIE HRADISKA A JEHO PRAVDEPODOBNÁ FUNKCIA' -> 'Datovanie hradiska a jeho pravdepodobná funkcia' (blok 14)." },
+    { "id": "03", "note": "Nadpis 'Označenie a stav hradiska v súčasnosti' oddelený do vlastného heading bloku (bol treťou textovou časťou toho istého odseku, teraz vlastný blok)." },
+    { "id": "04", "note": "'zdroj:' prefix odstránený zo Zdrojov pred Habovštiakom." },
+    { "id": "05", "note": "Kalplnka -> Kaplnka (galéria, media 1642, caption aj alt)." },
+    { "id": "06", "note": "nenajdete -> nenájdete (nový blok 24, pôvodne súčasť bloku 22)." },
+    { "id": "07", "note": "útočište/útočisko zjednotené na útočisko (bloky 16 a 20; blok 21 už malo útočisko správne)." },
+    { "id": "08", "note": "Nadbytočná čiarka 'zo skaly, nad cestou' odstránená (blok 18)." },
+    { "id": "09", "note": "Sloveni -> Slovania (blok 18), zhoda so zvyškom článku." },
+    { "id": "10", "note": "'sa iste nedostali' -> 'sa pravdepodobne nedostali' (blok 18) — zmiernenie Habovštiakovej istoty z roku 1979." },
+    { "id": "11", "note": "'pohľad na val od východu' -> 'Pohľad na val od východu' (galéria, media 1645, caption aj alt)." },
+    { "id": "12", "type": "typografia", "note": "Em dash bez medzier a tretí variant (timeline) zjednotené na en dash s medzerami: 1972 – 1977 (telo, excerpt, timeline), 80 – 90 m, 200 – 228 m, 60 – 80 cm, Zvolen – Levice, Hronský Beňadik – Psiare (em->en dash), KF 'Rozmery' a 'Opevnenie'." },
+    { "id": "13", "note": "'prelome 9.–10. storočia' -> 'prelome 9. a 10. storočia' (blok 18 aj timeline year)." },
+    { "id": "14", "note": "KF 'Systém hradísk': '4–5 hradísk' -> '4 – 5 hradísk' (medzery)." },
+    { "id": "15", "note": "'str. 73-93' -> 's. 73 – 93' (Zdroje, položka Habovštiak)." },
+    { "id": "16", "note": "KF 'Opevnenie': 'zachovaných 85 bm' -> 'zachovaných 85 bežných metrov' (rozpísaná skratka, zhoda s telom)." },
+    { "id": "17", "note": "„k Jelenke\" ponechané bez zmeny — už správne." },
+    { "id": "18", "type": "rozpor v timeline", "note": "Prvá timeline položka (prelom 9.–10. stor.) prepísaná ako explicitná hypotéza s odkazom na nasledujúcu položku s reálnym datovaním, aby nepôsobila ako rovnocenný, konkurenčný fakt." },
+    { "id": "19", "note": "Doplnená veta o jamách po detektoristoch do novej sekcie 'Označenie a stav hradiska v súčasnosti', aby popisok galérie (media 1657) mal oporu v texte." },
+    { "id": "20", "type": "register", "note": "Vyriešené štrukturálne rozdelením bloku 22 na samostatné časti — Orgoňov praktický hlas je teraz oddelený vlastným nadpisom od predchádzajúceho odborného textu." },
+    { "id": "21", "type": "cross-article", "note": "uhorského kráľovstva -> Uhorského kráľovstva (blok 22, KF 'Zánik', timeline 'Zánik pohronských hradísk' — year aj description)." }
+  ],
+  "structural": [
+    "Heading 'Spracoval Orgoň' (pôvodný blok 23) odstránený na žiadosť používateľa.",
+    "Nový heading 'Foto 3.6.2012' pridaný pred sekciu Zdroje (chýbal, doplnený podľa požiadavky)."
+  ]
+}

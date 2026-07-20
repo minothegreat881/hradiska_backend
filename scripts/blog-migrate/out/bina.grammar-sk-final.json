@@ -1,0 +1,66 @@
+{
+  "slug": "bina",
+  "pass": "grammar-sk final (pass1 applied + pass2 cross-field sweep)",
+  "criticalFixes": [
+    {
+      "issue": "Meno maďarského vodcu povstania sa v článku vyskytovalo v troch nekonzistentných tvaroch: 'Koppány' (správny), 'Kopáň' (chýbajúce druhé p) a 'Koppáň' (hybrid, dvojité p + mäkčeň namiesto 'ny').",
+      "fix": "Zjednotené na 'Koppány' vo všetkých pádoch, podľa deklinačného vzoru, ktorý článok sám používal správne na inom mieste (genitív 'Koppányho', inštrumentál 'Koppányom', posesívny genitív 'Koppányovho'): blok 21 'Kopáňovi' -> 'Koppánymu' (datív), blok 47 'Kopáňa' -> 'Koppányho' (genitív), blok 51 'Kopáňom' -> 'Koppányom' (inštrumentál) a 'Kopáň mal' -> 'Koppány mal' (nominatív), timeline (997 – 998 položka) title 'Koppáňa' -> 'Koppányho' a description 'Koppáňovho' -> 'Koppányovho'. Bloky 49 a 53 už mali správny tvar 'Koppány' pri všetkých výskytoch (draft ich uviedol v zozname postihnutých blokov, no v skutočnosti nepotrebovali zásah)."
+    }
+  ],
+  "appliedFixes": [
+    { "rule": "D globálny slovník (rímske -> arabské, preklep, apozícia)", "before": "I. voj. mapovaní ... vonkajší vaj", "after": "1. voj. mapovaní ... vonkajší val", "block": 3, "note": "caption + alt + gallery[0] (3 miesta, identický text)" },
+    { "rule": "B typografia", "before": "hĺbkou — 4 až 6 m - značne prispieval", "after": "hĺbkou — 4 až 6 m — značne prispieval", "block": 8 },
+    { "rule": "A1 čiarka pred 'takže'", "before": "zachovalé takže umožňujú", "after": "zachovalé, takže umožňujú", "block": 8 },
+    { "rule": "D + A8", "before": "v 9-11. storočí ... najdete TU", "after": "v 9. – 11. storočí ... nájdete TU", "block": 9, "note": "caption + alt + gallery[2] (3 miesta)" },
+    { "rule": "B typografia (dimenzie, no-space en dash ako v KF)", "before": "1 — 2 m", "after": "1–2 m", "block": 11 },
+    { "rule": "B typografia (dimenzie)", "before": "22 — 28 m / 8 —9 m", "after": "22–28 m / 8–9 m", "block": 15 },
+    { "rule": "A1 nadbytočná čiarka", "before": "mohla, mať okolo 15,60 ha", "after": "mohla mať okolo 15,60 ha", "block": 17 },
+    { "rule": "B typografia (m³, ca->cca)", "before": "ca 253 000 m3 ... 3 m3", "after": "cca 253 000 m³ ... 3 m³", "block": 17 },
+    { "rule": "A4 zhoda rodu", "before": "najrozsiahlejší súvislé opevnený priestor", "after": "najrozsiahlejší súvislý opevnený priestor", "block": 17 },
+    { "rule": "A7 bohemizmus", "before": "sa nejedná o typické slovanské hradisko", "after": "nejde o typické slovanské hradisko", "block": 21 },
+    { "rule": "MISSING_WORD — ZAMIETNUTÉ (false positive)", "before": "vo  dňa 27. 10. 2009 (draft videl dvojitú medzeru)", "after": "beze zmeny — štruktúrovaný JSON má medzi textovými uzlami link-uzol s textom 'Vedeckej cukrárni', takže veta je už kompletná: '...vo [Vedeckej cukrárni](odkaz) dňa 27. 10. 2009...'. Draft pracoval s plochým textom bez zachytenia link-child a preto videl medzeru ako chýbajúce slovo.", "block": 21, "note": "OVERENÉ v štruktúre — žiadny zásah nebol potrebný ani urobený" },
+    { "rule": "B typografia (číselný rozsah, nedimenzia -> medzery)", "before": "minúta 46-48", "after": "minúta 46 – 48", "block": 21 },
+    { "rule": "Koppány unifikácia (datív)", "before": "vojny proti Kopáňovi", "after": "vojny proti Koppánymu", "block": 21 },
+    { "rule": "B typografia (dimenzie)", "before": "4 — 9,40 m ... 16 — 24 m", "after": "4–9,40 m ... 16–24 m", "block": 23 },
+    { "rule": "A1 uzatváracia čiarka vsuvky", "before": "K priekope, ktorá sa nachádza pred valom bolo zistené", "after": "K priekope, ktorá sa nachádza pred valom, bolo zistené", "block": 25 },
+    { "rule": "A8", "before": "Takto výškový rozdiel ... pôvodná výska valu", "after": "Takýto výškový rozdiel ... pôvodná výška valu", "block": 25 },
+    { "rule": "B typografia (apozícia)", "before": "chát - polozemníc", "after": "chát — polozemníc", "block": 27 },
+    { "rule": "A1 nadbytočná čiarka", "before": "V hornej časti výplne chaty, našlo sa", "after": "V hornej časti výplne chaty našlo sa", "block": 27 },
+    { "rule": "A1 čiarka pred vzťažnou vetou", "before": "priehlbinu — objekt ktorý mal priemer", "after": "priehlbinu — objekt, ktorý mal priemer", "block": 29 },
+    { "rule": "B typografia (zjednotenie pomlčiek)", "before": "objektov – chata - mala", "after": "objektov — chata — mala", "block": 32 },
+    { "rule": "A7 archaizmus", "before": "museli snáď príbytok opustiť", "after": "museli azda príbytok opustiť", "block": 32 },
+    { "rule": "B typografia (rozsah, nedimenzia)", "before": "5—10 rokov", "after": "5 – 10 rokov", "block": 36 },
+    { "rule": "A8", "before": "o Anonymovu zprávu", "after": "o Anonymovu správu", "block": 44 },
+    { "rule": "Koppány unifikácia (genitív)", "before": "povstania Kopáňa", "after": "povstania Koppányho", "block": 47 },
+    { "rule": "B typografia (rozsah)", "before": "XIII. —XV. stor.", "after": "XIII. – XV. stor.", "block": 49 },
+    { "rule": "DOUBLE_PUNCTUATION (mechanická oprava na hranici chráneného citátu)", "before": "Hunta a Poznana.\".", "after": "Hunta a Poznana.\"", "block": 49, "note": "citát z dobovej uhorskej kroniky ostáva nedotknutý; opravená iba nadbytočná bodka MIMO úvodzoviek" },
+    { "rule": "B typografia (rozsah)", "before": "v r. 997—998", "after": "v r. 997 – 998", "block": 49 },
+    { "rule": "A8 (cudzí znak ř)", "before": "kronikářova zmienka", "after": "kronikárova zmienka", "block": 49 },
+    { "rule": "Koppány unifikácia (inštrumentál)", "before": "nad Kopáňom", "after": "nad Koppányom", "block": 51 },
+    { "rule": "Koppány unifikácia (nominatív)", "before": "Kopáň mal totiž", "after": "Koppány mal totiž", "block": 51 },
+    { "rule": "A1 nadbytočná čiarka pred zátvorkou", "before": "bojovníkov, (Vencellín) —", "after": "bojovníkov (Vencellín) —", "block": 51 },
+    { "rule": "A9 veľké písmeno", "before": "technických možnostiach štefanovho vojska", "after": "technických možnostiach Štefanovho vojska", "block": 53 },
+    { "rule": "B typografia (m³)", "before": "3 m3 zeminy", "after": "3 m³ zeminy", "block": 53 },
+    { "rule": "A8", "before": "Budovani opevnení", "after": "Budovanie opevnení", "block": 55 },
+    { "rule": "B typografia (medzery v dátume)", "before": "Foto 26.10.2013:", "after": "Foto 26. 10. 2013:", "block": 58 },
+    { "rule": "Sources+citations: apozícia, preklep, rozsah strán", "before": "Archeologické pamiatky - Kultúrne krásy / Slovenská archeologia 14 / 439-486 / J.-W. Gothe Universität", "after": "Archeologické pamiatky — Kultúrne krásy / Slovenská archeológia 14 / 439–486 / J.-W. Goethe Universität", "block": "sources + citations (obe polia, duplicitný text)" }
+  ],
+  "pass2CrossFieldCheck": {
+    "method": "Mapa before->after zo appliedFixes preverená proti gallery[], keyFacts[], timeline[], excerpt, title, tags, citations[].",
+    "findings": [
+      "gallery[0] a gallery[2] captions boli doslovné duplikáty inline image-block alt/caption — opravené identicky (replace_all).",
+      "citations[] duplikuje 3 položky zo content.sources verbatim (Turčan, Habovštiak, Bednár/Henning) — opravené identicky v oboch poliach.",
+      "Koppány-tvary unifikované aj v timeline (id '997 – 998': title 'Koppáňa'->'Koppányho', description 'Koppáňovho'->'Koppányovho'); keyFacts neobsahovali meno Koppány, žiadna zmena.",
+      "Timeline year '27.10.2009' opravený na '27. 10. 2009' (zhoda s telom, blok 21).",
+      "Timeline description hrobu veľmožskej ženy '17-24 rokov' opravené na '17 – 24 rokov' (typografia rozsahu, telo používa odlišnú konštrukciu '17 až 24 rokov' takže priama zhoda reťazcov nebola možná, len typografické zjednotenie pomlčky).",
+      "keyFacts už mali správne m³, cca, en dash bez medzier pri dimenziách (KF bol referenčný štýl pre telo, nie naopak) — žiadna zmena KF potrebná."
+    ],
+    "outOfScope": "Plný nezávislý audit všetkých 57 gallery obrázkov (39 bez popisu, ~12 ďalších s popisom mimo tela) nebol vykonaný — mimo rozsahu tejto cross-field propagácie, ktorá sleduje iba konkrétne before->after páry z appliedFixes. Príklad nenavrhnutej opravy: gallery caption 'pohľad do vnútra areálu hradiska - v pozadí vidieť časť prostredného valu' má tiež pomlčku bez medzier, ale tento text sa nikde v tele neopakuje, takže nešlo o cross-field propagáciu v zmysle zadania."
+  },
+  "skippedOrFlagged": [
+    { "item": "block 49 a 53, protected chránené zóny (citáty z uhorských kroník)", "reason": "Dva priame citáty ('Keď Štefan zhromaždil vojsko...' a 'Prišli aj Hunt a Poznaň...') zostali úplne nedotknuté vrátane 'sv. Stefana' (nie 'Štefana') — dobový/citovaný preklad kroniky, chránená zóna podľa §21.3 (detegovaná signálom 'doslova uvádzajú:')." },
+    { "item": "reviewed_no_change z draftu", "reason": "'(obilná jama a pod.) Pri sídliskových...' (blok 32) — abbreviation-bodka ako veta-konštrukcia, ponechané ako v drafte." }
+  ],
+  "protectedQuoteBlocks": "Žiadny content.quote-block komponent v článku; dva dobové citáty z uhorských kroník sú vložené priamo v texte bloku 49 v úvodzovkách — ponechané ako inline chránená zóna, nekonvertované na samostatný quote-block (menšia štrukturálna zmena nebola súčasťou zadania pre tento článok a mohla by zmeniť vizuálne rozdelenie odseku).",
+  "uploadReady": true
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "ducove-kostolec",
+  "pass1AppliedFrom": "ducove-kostolec.grammar-sk-pass1.json",
+  "step1_criticalFixes": [
+    { "issue": "NUMBER_MISMATCH: blocks[4] tvrdil, že cintorín na Kostolci fungoval 'až do polovice 19. storočia', hoci timeline (2872) aj priamo citovaný Dvořák v blocks[18] ('Trvalo to až do polovice 15. storočia') zhodne uvádzajú 15. storočie.", "fix": "Opravené na '15. storočia' v tele — vysoká istota vďaka dvojitej zhode s timeline aj vlastným citátom článku." },
+    { "issue": "'Dvožák' — preklep mena Pavla Dvořáka v blocks[17] (chýbajúce ř).", "fix": "Opravené na 'Dvořák'; meno je v tom istom článku inde (blocks[6], [20], Zdroje) vždy správne." }
+  ],
+  "step1_appliedFixes": [
+    { "rule": "A8 preklep + B rozsah + B pomlčka", "block": 0, "before": "zďaleka viďiteľný ... prevýšením 70-80 m ... sídla - dvorca", "after": "zďaleka viditeľný ... prevýšením 70 – 80 m ... sídla — dvorca" },
+    { "rule": "A4 zhoda rodu + B pomlčka + zjednotenie zátvoriek + spojovník + preklep", "block": 1, "after": "Je chránený ... kamennej — eneolitu ... (2600 r. pred n. l.) ... Cintorín-Veľký diel ... (4000 – 3000...) ... rámcovo datovaná ... (1300 – 1100...) ... hradiska — mohutný ... (2. – 3. stor. n. l.)" },
+    { "rule": "B rozsah (caption/alt)", "block": 2, "before": "9.-10. storočí", "after": "9. – 10. storočí", "note": "replace_all alt+caption" },
+    { "rule": "B rozsah + pomlčky + NUMBER_MISMATCH storočia + A1 vsuvka čiarky", "block": 4, "after": "9. – 10. stor. ... časti — zrubové domy a kostolík — rotunda ... 15. storočia ... 1968 – 1972 ... 15. stor., pravdepodobne ... Považí, bolo ... stanovisko — základňa" },
+    { "rule": "B typografia (zátvorky)", "block": 6, "before": "Stopy dávnej minulosti 3 - Zrod národa.", "after": "Stopy dávnej minulosti 3 (Zrod národa)." },
+    { "rule": "A8 preklep v Dvořák-citáte (len typografia, nie slovník)", "block": 7, "before": "žial, len nezreteľné", "after": "žiaľ, len nezreteľné" },
+    { "rule": "B rozsah + pomlčka", "block": 9, "before": "60 - 70 ľudí ... feudál - vojak", "after": "60 – 70 ľudí ... feudál — vojak" },
+    { "rule": "B typografia (medzera pred úvodzovkou)", "block": 13, "before": "protiľahlých stenách. \"", "after": "protiľahlých stenách.\"" },
+    { "rule": "A9 zhoda prídavného mena", "block": 14, "before": "VÝZNAMNE ARCHEOLOGICKÉ LOKALITY", "after": "VÝZNAMNÉ ARCHEOLOGICKÉ LOKALITY" },
+    { "rule": "B rozsah (v Ruttkay-citáte, len typografia)", "block": 15, "before": "franským dvorcom (curtis) 8.-9. storočia", "after": "franským dvorcom (curtis) 8. – 9. storočia" },
+    { "rule": "A8 preklep vlastného mena", "block": 17, "before": "K zániku dvorca Dvožák píše:", "after": "K zániku dvorca Dvořák píše:" },
+    { "rule": "A1 vsuvka čiarky", "block": 20, "before": "na ktorú upozorňuje Dvořák vo svojej knihe je skutočnosť", "after": "na ktorú upozorňuje Dvořák vo svojej knihe, je skutočnosť" },
+    { "rule": "B rozsah", "block": 21, "before": "v rokoch 1969-1975 rozsiahly", "after": "v rokoch 1969 – 1975 rozsiahly" },
+    { "rule": "A1 chýbajúce čiarky + B pomlčka + úvodzovky", "block": 23, "after": "Žiaľ, palisáda ... osôb — majiteľov areálu (myslím, že je to cirkev) ... tabuľka, ktorá ukazuje ... hradisku, ako je známe, sú ... združeniu „Dedičstvo otcov zachovaj nám pane“ podarí", "note": "'združeniu \"\"' z draftu bol FALSE POSITIVE (link strata pri flattened extrakcii) — názov združenia je v skutočnosti prítomný ako odkaz, viď review.json; opravené iba úvodzovkové znaky" },
+    { "rule": "B typografia (medzera pred zátvorkou + spojovník kultúry)", "block": 11, "before": "Velaticko Beierdorfská kultúra )", "after": "velaticko-beierdorfská kultúra)", "note": "replace_all alt+caption" },
+    { "rule": "Sources+citations: zhoda + medzera + pravopis + chýbajúca zátvorka", "block": "sources, citations", "before": "VÝZNAMNE ARCHEOLOGICKÉ ... Ruttkay M .:2006 ... Nitrianskeho kniežactva, Nitra [bez zátvorky]", "after": "VÝZNAMNÉ ARCHEOLOGICKÉ ... Ruttkay M.: 2006 ... Nitrianskeho kniežatstva, Nitra)", "note": "replace_all, duplicitné v sources aj citations" },
+    { "rule": "Sources+citations: pomlčka", "block": "sources, citations", "before": "3D Obrázky - rekonštrukcia", "after": "3D Obrázky — rekonštrukcia", "note": "replace_all, duplicitné v sources aj citations" }
+  ],
+  "step2_crossFieldSweep": {
+    "checked": ["excerpt", "keyFacts[]", "timeline[]", "media captions/alt", "content.sources items", "citations[]", "title", "tags"],
+    "found": [
+      "excerpt zdieľalo doslovne prvú vetu blocks[0] a malo tie isté chyby (viďiteľný, 70-80 m bez medzier) — opravené zhodne s blocks[0]",
+      "keyFacts[] a timeline[] mali UŽ pred zásahom správne tvary (20 – 25 cm, 60 – 70 ľudí, 1969 – 1975, 8. – 9. storočia, 2. – 3. storočie n. l., do polovice 15. storočia) — potvrdená konzistencia, žiadna ďalšia zmena potrebná; timeline (1545 hrobov, 15. storočie) potvrdilo, že blocks[4]'s pôvodné '19. storočia' bola chyba (viď criticalFixes)",
+      "content.sources items[2] (Ruttkay) a citations[2] obsahujú identický text s rovnakými preklepmi — opravené na oboch miestach (replace_all)",
+      "content.sources items[4] (3D Obrázky) a citations[] posledná položka (attribution) obsahujú identický text — opravené na oboch miestach (replace_all)"
+    ],
+    "notAltered_directQuotesModernLiterature": [
+      "blocks[7] + blocks[9] + blocks[10] + blocks[13] (Dvořák, Stopy dávnej minulosti 3, 2004) — priamy citát modernej literatúry, NEPREVEDENÉ na quote-block (memory 'quote-only-period-source': quote-block iba pre dobové pramene). Opravená len typografia (medzery, diakritika 'žiaľ'), nie slová.",
+      "blocks[17] + blocks[18] (Dvořák) — rovnako, len typografia (medzera pred úvodzovkou v blocks[13] súvisí s týmto istým citátom).",
+      "blocks[15] (Ruttkay, in Bojná 2006) — rovnako, len rozsah storočí opravený na typografickú normu."
+    ],
+    "regressionCheckAgainstOldForms": "grep na 30+ starých tvarov (vrátane duplicity v excerpt, keyFacts, sources/citations) po úprave — 0 výskytov"
+  },
+  "unresolvedFlags": "pozri out/ducove-kostolec.review.json (1 skutočný flag: chýbajúci názov/URL zdroja pri 3D obrázkoch; 1 vyriešený false positive z draftu; 1 zdokumentovaná faktická nezhoda medzi priamym citátom a modernými dátami, zámerne neopravená)",
+  "result": "out/ducove-kostolec.intermediate.json je validný JSON (26 blokov), upload-ready"
+}

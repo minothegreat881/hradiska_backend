@@ -1,0 +1,99 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite3-pohanska-svatyna-most-pri-bratislave-nove-3d.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-4164915775133976816",
+    "bloggerPostUrl": "http://www.hradiska.sk/2019/03/ako-mohli-prebiehat-stare-pohanske.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/4164915775133976816/comments/default",
+    "extractedAt": "2026-07-16T21:57:30.856Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/v6pIyCJeN6I?feature=player_embedded"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Pohanská svätyňa Most pri Bratislave - nové 3D",
+    "slug": "pohanska-svatyna-most-pri-bratislave-nove-3d",
+    "excerpt": "Ako mohli prebiehať staré pohanské rituály Slovanov? V novom videu sme sa pokúsili vdýchnuť trocha atmosféry do staršej vizualizácie slovanskej svätyne, ktorá sa nachádzala v Moste pri Bratislave. Viac o lokalite nájdete tu:…",
+    "authorName": "Orgoň",
+    "publishedAt": "2019-03-09T16:44:00.002+01:00",
+    "originalPublishedDate": "2019-03-09T16:44:00.002+01:00",
+    "updatedAt": "2019-03-09T16:46:19.749+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Most pri Bratislave",
+        "icon": "map"
+      },
+      {
+        "label": "Téma vizualizácie",
+        "value": "pohanské rituály starých Slovanov pri slovanskej svätyni",
+        "icon": "star"
+      }
+    ],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ako mohli prebiehať staré pohanské rituály Slovanov? V novom videu sme sa pokúsili vdýchnuť trocha atmosféry do staršej vizualizácie slovanskej svätyne, ktorá sa nachádzala v Moste pri Bratislave. Viac o lokalite nájdete tu: "
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/2010/09/prva-staroslovanska-svatyna-na.html?fbclid=IwAR3Je_ZA_37chmZcQ4H8FBGQ6a-MvFDcQLVuafaCzFNHMsuIAOsBzeBSCx4",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "http://www.hradiska.sk/…/prva-staroslovanska-svatyna-na.html"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "v6pIyCJeN6I",
+        "url": "https://www.youtube.com/embed/v6pIyCJeN6I",
+        "caption": ""
+      }
+    ],
+    "citations": []
+  }
+}

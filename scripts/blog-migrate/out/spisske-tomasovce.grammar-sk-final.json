@@ -1,0 +1,29 @@
+{
+  "slug": "spisske-tomasovce",
+  "note": "Pass 2 — cross-field konzistencia (§21.4). Mapa {before→after} z pass 1 aplikovaná na excerpt, keyFacts[], timeline[], media captions, title, tags, sources.",
+  "beforeAfterMap": [
+    { "before": "v poslednej dobe", "after": "v poslednom čase" },
+    { "before": "holi", "after": "boli" },
+    { "before": "vejárovité", "after": "vejárovito" },
+    { "before": "komunikačné", "after": "komunikačne" },
+    { "before": "u priemerného valu / u najmasívnejšieho", "after": "pri priemernom vale / pri najmasívnejšom" },
+    { "before": "obecne", "after": "všeobecne" },
+    { "before": "Znútra", "after": "Zvnútra" },
+    { "before": "do tehlová", "after": "dotehla" },
+    { "before": "Tomášov-ským", "after": "Tomášovským" },
+    { "before": "zamedzoval mechanické rozrušenie", "after": "zamedzoval mechanickému rozrušeniu" },
+    { "before": "číselné rozsahy s pomlčkou bez medzier (napr. 540-567)", "after": "číselné rozsahy s en dashom a medzerami (540 – 567)" },
+    { "before": "apozičná pomlčka ' - ' bez medzier okolo krátkeho spojovníka", "after": "em dash ' — '" }
+  ],
+  "crossFieldChecks": [
+    { "field": "excerpt", "result": "OBSAHOVAL zastaraný tvar 'v poslednej dobe' — opravené na 'v poslednom čase' (rovnaká veta ako blok 0 tela, replace_all pokryl oba výskyty naraz)." },
+    { "field": "keyFacts[]", "result": "ŽIADNA oprava nutná — naopak, keyFacts už mali správne tvary skôr než telo (en dashe v rozsahoch '540 – 567 m n. m.', '3,9 – 4 m', '1,6 – 2,1 m', '2,1 – 2,6 m', '3,6 – 4,1 m', '5 – 6 ha'; správny tvar 'vejárovito' v položke 'Severozápadné nárožie'). Toto je presne opačný smer propagácie než opísaný v §21.4 (tam telo malo správny tvar a sidebar zastaraný) — tu sidebar (Agent 1, spracovaný neskôr/lepšie) už mal správny tvar a telo (pôvodný extrakt) bolo zastarané. Opravy v appliedFixes tela boli vyladené TAK, aby sa zhodovali s už existujúcim správnym tvarom v keyFacts." },
+    { "field": "timeline[]", "result": "Žiadny zo 6 záznamov neobsahuje opravované tvary (holi, vejárovité, obecne, Znútra, do tehlová, Tomášov-ským, u priemerného, komunikačné, mechanické rozrušenie, v poslednej dobe). Dátumové/rozsahové formáty v timeline ('koniec 8. – polovica 9. storočia' a pod.) už používajú en dash — konzistentné, žiadna zmena potrebná." },
+    { "field": "media[].caption / alternativeText", "result": "Skontrolovaných všetkých 20 popiskov v galérii aj v tele (image-block alt/caption) — žiadny neobsahuje opravované tvary. Bez zmeny." },
+    { "field": "title", "result": "'Spišské Tomášovce' — bez zmeny, neobsahuje opravované tvary." },
+    { "field": "tags", "result": "['Najvýznamnejšie hradiská', 'Spišské Tomášovce'] — bez zmeny." },
+    { "field": "content.sources / citations", "result": "Bez gramatických zásahov (bibliografické citácie mimo rozsahu A9); EMPTY_COLON flag pri 'Anglický preklad prevzatý z:' zaznamenaný v review.json, text nezmenený." },
+    { "field": "location.name", "result": "'Spišské Tomášovce - Hradisko I' — pole je identifikátor/názov lokality, nie prozaický text v rozsahu §21.4 (nie je v zozname polí: body/excerpt/keyFacts/timeline/media/sources/title/tags), ponechané bez zásahu." }
+  ],
+  "verdict": "Cross-field propagácia preverená na všetkých poliach zo zoznamu §21.4. Jediná skutočná propagácia bola excerpt ('v poslednej dobe' → 'v poslednom čase'); vo zvyšných poliach bolo telo naopak dotiahnuté na už správne tvary v keyFacts. intermediate.json je po pass 1 + pass 2 pripravený na upload (mimo 4 nahlásených flagov v review.json, ktoré čakajú na rozhodnutie človeka)."
+}

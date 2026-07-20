@@ -1,0 +1,645 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\label28-male-kozmalovce.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3125245440863247806",
+    "bloggerPostUrl": "http://www.hradiska.sk/2011/10/male-kozmalovce.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3125245440863247806/comments/default",
+    "extractedAt": "2026-07-13T23:07:29.673Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&ll=48.282143,18.522005&spn=0.005726,0.015503&t=h&z=17&vpsrc=6&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 20,
+      "captionedImages": 12,
+      "separatorImages": 7
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": []
+  },
+  "blogPost": {
+    "title": "Malé Kozmálovce",
+    "slug": "male-kozmalovce",
+    "excerpt": "Hradisko Grác – Malé Kozmálovce sa nachádza približne 4 km severozápadne od Starého Tekova. Patrí k strážnym hradiskám z oblasti Slovenskej brány, ktorého úlohou bolo chrániť vstup do pohronia. Význam hradisko spolu s ostatnými strážnymi hradiskami,…",
+    "authorName": "Orgon",
+    "publishedAt": "2011-10-18T20:26:00.004+02:00",
+    "originalPublishedDate": "2011-10-18T20:26:00.004+02:00",
+    "updatedAt": "2020-07-17T09:42:13.707+02:00",
+    "readingTime": 2,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRqnqs0qVgeUfH69LoCUevNBLmsFgVvKv7ddSipkjF6Xj1-9pyhywqyPlBv6NH0CjrdsljMio9eLOj6srK-4zBILZuDIxxSCunaBH32E7tKfLGLDDqMI_ZCQIzqaaIGxgQO3ATznJPuo_/s0/Kozm%25C3%25A1lovce++-Pip%25C3%25AD%25C5%25A1ka+LIDAR.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRqnqs0qVgeUfH69LoCUevNBLmsFgVvKv7ddSipkjF6Xj1-9pyhywqyPlBv6NH0CjrdsljMio9eLOj6srK-4zBILZuDIxxSCunaBH32E7tKfLGLDDqMI_ZCQIzqaaIGxgQO3ATznJPuo_/s1600/Kozm%25C3%25A1lovce++-Pip%25C3%25AD%25C5%25A1ka+LIDAR.JPG",
+      "filename": "Kozm%C3%A1lovce++-Pip%C3%AD%C5%A1ka+LIDAR.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRqnqs0qVgeUfH69LoCUevNBLmsFgVvKv7ddSipkjF6Xj1-9pyhywqyPlBv6NH0CjrdsljMio9eLOj6srK-4zBILZuDIxxSCunaBH32E7tKfLGLDDqMI_ZCQIzqaaIGxgQO3ATznJPuo_/s1600/Kozm%25C3%25A1lovce++-Pip%25C3%25AD%25C5%25A1ka+LIDAR.JPG",
+        "displayedWidth": 320,
+        "displayedHeight": 256,
+        "originalWidth": 917,
+        "originalHeight": 735
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRqnqs0qVgeUfH69LoCUevNBLmsFgVvKv7ddSipkjF6Xj1-9pyhywqyPlBv6NH0CjrdsljMio9eLOj6srK-4zBILZuDIxxSCunaBH32E7tKfLGLDDqMI_ZCQIzqaaIGxgQO3ATznJPuo_/s0/Kozm%25C3%25A1lovce++-Pip%25C3%25AD%25C5%25A1ka+LIDAR.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRqnqs0qVgeUfH69LoCUevNBLmsFgVvKv7ddSipkjF6Xj1-9pyhywqyPlBv6NH0CjrdsljMio9eLOj6srK-4zBILZuDIxxSCunaBH32E7tKfLGLDDqMI_ZCQIzqaaIGxgQO3ATznJPuo_/s1600/Kozm%25C3%25A1lovce++-Pip%25C3%25AD%25C5%25A1ka+LIDAR.JPG",
+        "filename": "Kozm%C3%A1lovce++-Pip%C3%AD%C5%A1ka+LIDAR.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRqnqs0qVgeUfH69LoCUevNBLmsFgVvKv7ddSipkjF6Xj1-9pyhywqyPlBv6NH0CjrdsljMio9eLOj6srK-4zBILZuDIxxSCunaBH32E7tKfLGLDDqMI_ZCQIzqaaIGxgQO3ATznJPuo_/s1600/Kozm%25C3%25A1lovce++-Pip%25C3%25AD%25C5%25A1ka+LIDAR.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 256,
+          "originalWidth": 917,
+          "originalHeight": 735
+        },
+        "caption": "LIDAR hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jAcDDu_Nb-y1T2R3XMAGwuTfQDmF3m9BW8wn2KTWtJNGQuRkN4dCkUIEm0f9dCXSdbQah0l5yUqLNYxHdPgPpj2OS0Z8tdDFSh5fJChk27nnUvg3jKibTWCaOYzuA5T_xPm99-PfzRk/s0/11_MKozma%CC%81lovce.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jAcDDu_Nb-y1T2R3XMAGwuTfQDmF3m9BW8wn2KTWtJNGQuRkN4dCkUIEm0f9dCXSdbQah0l5yUqLNYxHdPgPpj2OS0Z8tdDFSh5fJChk27nnUvg3jKibTWCaOYzuA5T_xPm99-PfzRk/s1600/11_MKozma%CC%81lovce.jpg",
+        "filename": "11_MKozmálovce.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jAcDDu_Nb-y1T2R3XMAGwuTfQDmF3m9BW8wn2KTWtJNGQuRkN4dCkUIEm0f9dCXSdbQah0l5yUqLNYxHdPgPpj2OS0Z8tdDFSh5fJChk27nnUvg3jKibTWCaOYzuA5T_xPm99-PfzRk/s1600/11_MKozma%CC%81lovce.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 212,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "letecký pohľad na hradisko"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTUnALoCmBVGYNVQCtwgRKOnC98QaptJWp6Tpo140WFFALDxx32PuWmzlx9qS-1w8hIn9mwSHJAwrogdOZSE2wwE9M-ArkhhbSNa5G7zQGPN6lgI2Bq0C7i8X7oZrPsHzLFCE_HndXo0Y/s0/mapa+kozm+jans%CC%8Ca%CC%81k1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTUnALoCmBVGYNVQCtwgRKOnC98QaptJWp6Tpo140WFFALDxx32PuWmzlx9qS-1w8hIn9mwSHJAwrogdOZSE2wwE9M-ArkhhbSNa5G7zQGPN6lgI2Bq0C7i8X7oZrPsHzLFCE_HndXo0Y/s1600/mapa+kozm+jans%CC%8Ca%CC%81k1.jpg",
+        "filename": "mapa+kozm+janšák1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTUnALoCmBVGYNVQCtwgRKOnC98QaptJWp6Tpo140WFFALDxx32PuWmzlx9qS-1w8hIn9mwSHJAwrogdOZSE2wwE9M-ArkhhbSNa5G7zQGPN6lgI2Bq0C7i8X7oZrPsHzLFCE_HndXo0Y/s1600/mapa+kozm+jans%CC%8Ca%CC%81k1.jpg",
+          "displayedWidth": 283,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfL_rCgoczZz23Ynga52aC8KSzWgtB9IwIkfikpZFOZ0-GX7NtKNsSNVBZdKNSeBqudr8wy0xYGPExXuvLrw3nvLVBEWXabq4kD1CWwQjdZbxzWRyxG4msv6_TDietDApkTaGqeASJKi0/s0/mapa+kozm+jans%CC%8Ca%CC%81k12.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfL_rCgoczZz23Ynga52aC8KSzWgtB9IwIkfikpZFOZ0-GX7NtKNsSNVBZdKNSeBqudr8wy0xYGPExXuvLrw3nvLVBEWXabq4kD1CWwQjdZbxzWRyxG4msv6_TDietDApkTaGqeASJKi0/s1600/mapa+kozm+jans%CC%8Ca%CC%81k12.jpg",
+        "filename": "mapa+kozm+janšák12.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfL_rCgoczZz23Ynga52aC8KSzWgtB9IwIkfikpZFOZ0-GX7NtKNsSNVBZdKNSeBqudr8wy0xYGPExXuvLrw3nvLVBEWXabq4kD1CWwQjdZbxzWRyxG4msv6_TDietDApkTaGqeASJKi0/s1600/mapa+kozm+jans%CC%8Ca%CC%81k12.jpg",
+          "displayedWidth": 235,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnbhJgrwxQ2_XNU8tXrCA6prcZx4lZYvC84rH4fsHH_J2MUh9c9QvpHp1LUrPDIpmKaNk3lwB3_Ugr_HOMxaHOT5SAbi_m2en5QtW_Jkb3TlBisAPwjL7os4oqw-IcVzX6kLy82bu8-V0/s0/p1010070d.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnbhJgrwxQ2_XNU8tXrCA6prcZx4lZYvC84rH4fsHH_J2MUh9c9QvpHp1LUrPDIpmKaNk3lwB3_Ugr_HOMxaHOT5SAbi_m2en5QtW_Jkb3TlBisAPwjL7os4oqw-IcVzX6kLy82bu8-V0/s1600/p1010070d.jpg",
+        "filename": "p1010070d.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnbhJgrwxQ2_XNU8tXrCA6prcZx4lZYvC84rH4fsHH_J2MUh9c9QvpHp1LUrPDIpmKaNk3lwB3_Ugr_HOMxaHOT5SAbi_m2en5QtW_Jkb3TlBisAPwjL7os4oqw-IcVzX6kLy82bu8-V0/s1600/p1010070d.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Odkrytý val odhaľuje kamenú konštrukciu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWSEqFtExZBcJyj0ALjbEjDCvoXVZNqECJSYNrWB88HZ5_fJBUjAgYaGtE52X2ir3eHmNhuE73OoCtwaSPWuV2GgOOoVgMymV3ezSXI2K1QcZeHbFP7ANbbVPrW_g_Rq4vrjFOff-kcGw/s0/p1010071n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWSEqFtExZBcJyj0ALjbEjDCvoXVZNqECJSYNrWB88HZ5_fJBUjAgYaGtE52X2ir3eHmNhuE73OoCtwaSPWuV2GgOOoVgMymV3ezSXI2K1QcZeHbFP7ANbbVPrW_g_Rq4vrjFOff-kcGw/s1600/p1010071n.jpg",
+        "filename": "p1010071n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWSEqFtExZBcJyj0ALjbEjDCvoXVZNqECJSYNrWB88HZ5_fJBUjAgYaGtE52X2ir3eHmNhuE73OoCtwaSPWuV2GgOOoVgMymV3ezSXI2K1QcZeHbFP7ANbbVPrW_g_Rq4vrjFOff-kcGw/s1600/p1010071n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Dodnes viditeľný priebeh valu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOG3Zl47-ck7VR6kLoN-FsricCUZQG9eWs7XOVXcilntg97tFDZrnhTvB6f1Fhs_E3JsslhnntwaUXxSOpkr8WQZ7kRhQouolqFtBQDUK__ijh3zt1449DeZsZ_kKH1tGEDB3ZOVoU5ic/s0/p1010088cr.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOG3Zl47-ck7VR6kLoN-FsricCUZQG9eWs7XOVXcilntg97tFDZrnhTvB6f1Fhs_E3JsslhnntwaUXxSOpkr8WQZ7kRhQouolqFtBQDUK__ijh3zt1449DeZsZ_kKH1tGEDB3ZOVoU5ic/s1600/p1010088cr.jpg",
+        "filename": "p1010088cr.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOG3Zl47-ck7VR6kLoN-FsricCUZQG9eWs7XOVXcilntg97tFDZrnhTvB6f1Fhs_E3JsslhnntwaUXxSOpkr8WQZ7kRhQouolqFtBQDUK__ijh3zt1449DeZsZ_kKH1tGEDB3ZOVoU5ic/s1600/p1010088cr.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqWRJZogkoA5gJoFqz4GkZFWFKhDaCEUuQ3klg-5MkeklsYnXR7ag_7km2SjgJTFc2YSQyKva5XdSQYB7ITgBmZfaIVkh-ooc_qN1BouJQQy2J8Zn9ctlEE8oGb9AFK1R8M0C1IZ2Su9s/s0/c%CC%8Crepy+jans%CC%8Ca%CC%81k.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqWRJZogkoA5gJoFqz4GkZFWFKhDaCEUuQ3klg-5MkeklsYnXR7ag_7km2SjgJTFc2YSQyKva5XdSQYB7ITgBmZfaIVkh-ooc_qN1BouJQQy2J8Zn9ctlEE8oGb9AFK1R8M0C1IZ2Su9s/s1600/c%CC%8Crepy+jans%CC%8Ca%CC%81k.jpg",
+        "filename": "črepy+janšák.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqWRJZogkoA5gJoFqz4GkZFWFKhDaCEUuQ3klg-5MkeklsYnXR7ag_7km2SjgJTFc2YSQyKva5XdSQYB7ITgBmZfaIVkh-ooc_qN1BouJQQy2J8Zn9ctlEE8oGb9AFK1R8M0C1IZ2Su9s/s1600/c%CC%8Crepy+jans%CC%8Ca%CC%81k.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 185,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Slovanské črepy z hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1zKkvxMVgCLTSCUGoMGe6FoWJjjy8Nor4Ii_rxiajzecQKMD55HdWaP5bna6cOil8l7PtMqZHLfrp8Jga_i6Qb9d-97AQzYNQnACJRKfwnF-CziVZDEDCD7HDhT4cc4dg5abkPRfLT4Mp/s0/Male%25CC%2581+Kozmalovce+SA+1975+Rutkay.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1zKkvxMVgCLTSCUGoMGe6FoWJjjy8Nor4Ii_rxiajzecQKMD55HdWaP5bna6cOil8l7PtMqZHLfrp8Jga_i6Qb9d-97AQzYNQnACJRKfwnF-CziVZDEDCD7HDhT4cc4dg5abkPRfLT4Mp/s1600/Male%25CC%2581+Kozmalovce+SA+1975+Rutkay.jpg",
+        "filename": "Male%CC%81+Kozmalovce+SA+1975+Rutkay.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1zKkvxMVgCLTSCUGoMGe6FoWJjjy8Nor4Ii_rxiajzecQKMD55HdWaP5bna6cOil8l7PtMqZHLfrp8Jga_i6Qb9d-97AQzYNQnACJRKfwnF-CziVZDEDCD7HDhT4cc4dg5abkPRfLT4Mp/s1600/Male%25CC%2581+Kozmalovce+SA+1975+Rutkay.jpg",
+          "displayedWidth": 73,
+          "displayedHeight": 320,
+          "originalWidth": 177,
+          "originalHeight": 775
+        },
+        "caption": "Včasnostredoveký meč z malých Kozmáloviec"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuiV86AlYwza0nHuMoxgDCaeVJV2wSRKZvpFEhXoh6bmr8jtiThP0ivX82jqYdtSVAq0Rk1M_ts1OdBagtQNP3-gkdVfLldKQoZkPrg16Y0Sg-f0n4-UfomDez5sVyPFQp8jJiLIdC-aQ/s0/IMG_2931.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuiV86AlYwza0nHuMoxgDCaeVJV2wSRKZvpFEhXoh6bmr8jtiThP0ivX82jqYdtSVAq0Rk1M_ts1OdBagtQNP3-gkdVfLldKQoZkPrg16Y0Sg-f0n4-UfomDez5sVyPFQp8jJiLIdC-aQ/s1600/IMG_2931.jpg",
+        "filename": "IMG_2931.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuiV86AlYwza0nHuMoxgDCaeVJV2wSRKZvpFEhXoh6bmr8jtiThP0ivX82jqYdtSVAq0Rk1M_ts1OdBagtQNP3-gkdVfLldKQoZkPrg16Y0Sg-f0n4-UfomDez5sVyPFQp8jJiLIdC-aQ/s1600/IMG_2931.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 150,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad na lokalitu hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7l75ZGOHvtFHxL6r7tsB0UmFAb0LK90tVlMhlj0ap-kmMNPTvI6pGD5kVti-wMfhmCeafZ3P6Lsx6BToD3967Yc_AkN8BupZy-SZjjKOSj5i3kKZnRThSvhCEIfkHPfYdIe1pRmGieg/s0/Koruna+valu+na+severnej+strane+hradiska.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7l75ZGOHvtFHxL6r7tsB0UmFAb0LK90tVlMhlj0ap-kmMNPTvI6pGD5kVti-wMfhmCeafZ3P6Lsx6BToD3967Yc_AkN8BupZy-SZjjKOSj5i3kKZnRThSvhCEIfkHPfYdIe1pRmGieg/s1600/Koruna+valu+na+severnej+strane+hradiska.jpg",
+        "filename": "Koruna+valu+na+severnej+strane+hradiska.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI7l75ZGOHvtFHxL6r7tsB0UmFAb0LK90tVlMhlj0ap-kmMNPTvI6pGD5kVti-wMfhmCeafZ3P6Lsx6BToD3967Yc_AkN8BupZy-SZjjKOSj5i3kKZnRThSvhCEIfkHPfYdIe1pRmGieg/s1600/Koruna+valu+na+severnej+strane+hradiska.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Koruna valu v severnej časti"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieFnMILVvgikgfLbpnV0NiTTdZTbcnIlLA0hcHpKrkTiLrYz4AEAu4syHwbQsaj1DWr2WjYMC8YrjzHU6zISnMWtu_netHL0vDxWY78dHvhExHaZUbZAhq3ww1BM5Mtf459sIB3_pjlr4/s0/Koruna+valu+na+severnej+strane2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieFnMILVvgikgfLbpnV0NiTTdZTbcnIlLA0hcHpKrkTiLrYz4AEAu4syHwbQsaj1DWr2WjYMC8YrjzHU6zISnMWtu_netHL0vDxWY78dHvhExHaZUbZAhq3ww1BM5Mtf459sIB3_pjlr4/s1600/Koruna+valu+na+severnej+strane2.jpg",
+        "filename": "Koruna+valu+na+severnej+strane2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieFnMILVvgikgfLbpnV0NiTTdZTbcnIlLA0hcHpKrkTiLrYz4AEAu4syHwbQsaj1DWr2WjYMC8YrjzHU6zISnMWtu_netHL0vDxWY78dHvhExHaZUbZAhq3ww1BM5Mtf459sIB3_pjlr4/s1600/Koruna+valu+na+severnej+strane2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Severovýchodný val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBTH7FktmnNCm6JdAFJH3fAV38Tm5Ec8cSi0ovuSAnV5Um-Nubto7-FsDMNPyMlsATGU1UNofLySKwC_DGFlRjjjngUyvKqqmTZ9jhkyOAXxCXkPRqg3rzQbXc00jD07BfsgAHCpX9_Gk/s0/Na+korune+valu+v+severovy%25CC%2581chodnej+c%25CC%258Casti.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBTH7FktmnNCm6JdAFJH3fAV38Tm5Ec8cSi0ovuSAnV5Um-Nubto7-FsDMNPyMlsATGU1UNofLySKwC_DGFlRjjjngUyvKqqmTZ9jhkyOAXxCXkPRqg3rzQbXc00jD07BfsgAHCpX9_Gk/s1600/Na+korune+valu+v+severovy%25CC%2581chodnej+c%25CC%258Casti.jpg",
+        "filename": "Na+korune+valu+v+severovy%CC%81chodnej+c%CC%8Casti.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBTH7FktmnNCm6JdAFJH3fAV38Tm5Ec8cSi0ovuSAnV5Um-Nubto7-FsDMNPyMlsATGU1UNofLySKwC_DGFlRjjjngUyvKqqmTZ9jhkyOAXxCXkPRqg3rzQbXc00jD07BfsgAHCpX9_Gk/s1600/Na+korune+valu+v+severovy%25CC%2581chodnej+c%25CC%258Casti.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0dOgzdIimcWdrkzBxHfqyyOtYTkCRLf-PMCarYgy47MxzlyMTicrWLooWKpbobdIeuQKB4KNF3I9efdr60lxOxC0oPihprXw4lPEes6cmst43SWMt643uyLVBPO-CBtE7qjy-RDk7GY/s0/Pohl%25CC%258Cad+zo+severovy%25CC%2581chodnej+c%25CC%258Casti+na+rieku+Hron.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0dOgzdIimcWdrkzBxHfqyyOtYTkCRLf-PMCarYgy47MxzlyMTicrWLooWKpbobdIeuQKB4KNF3I9efdr60lxOxC0oPihprXw4lPEes6cmst43SWMt643uyLVBPO-CBtE7qjy-RDk7GY/s1600/Pohl%25CC%258Cad+zo+severovy%25CC%2581chodnej+c%25CC%258Casti+na+rieku+Hron.jpg",
+        "filename": "Pohl%CC%8Cad+zo+severovy%CC%81chodnej+c%CC%8Casti+na+rieku+Hron.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ0dOgzdIimcWdrkzBxHfqyyOtYTkCRLf-PMCarYgy47MxzlyMTicrWLooWKpbobdIeuQKB4KNF3I9efdr60lxOxC0oPihprXw4lPEes6cmst43SWMt643uyLVBPO-CBtE7qjy-RDk7GY/s1600/Pohl%25CC%258Cad+zo+severovy%25CC%2581chodnej+c%25CC%258Casti+na+rieku+Hron.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pohľad z hradiska na Hron"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRb0o8ycNpZRN4PPKYYWdYvoF72JyQdh4SHXCgpDSCZ1zcN8KstmYDmrMx7UUoVPfyk0AtbZMs-2SR0D02lFJSkABtzdqmSoi11-LLOPgzIoc8TPhDYGe9BB95dbMk3ANdHw5N3cL5HQ/s0/Val+na+juz%25CC%258Cnej+strane+hradiska%252C+A+-+novodoba%25CC%2581+cesta+vedu%25CC%2581ca+do+vinohradov%252C+B+-+teleso+valu%252C+C+-+vnu%25CC%2581torny%25CC%2581+priestor+hradiska.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRb0o8ycNpZRN4PPKYYWdYvoF72JyQdh4SHXCgpDSCZ1zcN8KstmYDmrMx7UUoVPfyk0AtbZMs-2SR0D02lFJSkABtzdqmSoi11-LLOPgzIoc8TPhDYGe9BB95dbMk3ANdHw5N3cL5HQ/s1600/Val+na+juz%25CC%258Cnej+strane+hradiska%252C+A+-+novodoba%25CC%2581+cesta+vedu%25CC%2581ca+do+vinohradov%252C+B+-+teleso+valu%252C+C+-+vnu%25CC%2581torny%25CC%2581+priestor+hradiska.jpg",
+        "filename": "Val+na+juz%CC%8Cnej+strane+hradiska%2C+A+-+novodoba%CC%81+cesta+vedu%CC%81ca+do+vinohradov%2C+B+-+teleso+valu%2C+C+-+vnu%CC%81torny%CC%81+priestor+hradiska.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRb0o8ycNpZRN4PPKYYWdYvoF72JyQdh4SHXCgpDSCZ1zcN8KstmYDmrMx7UUoVPfyk0AtbZMs-2SR0D02lFJSkABtzdqmSoi11-LLOPgzIoc8TPhDYGe9BB95dbMk3ANdHw5N3cL5HQ/s1600/Val+na+juz%25CC%258Cnej+strane+hradiska%252C+A+-+novodoba%25CC%2581+cesta+vedu%25CC%2581ca+do+vinohradov%252C+B+-+teleso+valu%252C+C+-+vnu%25CC%2581torny%25CC%2581+priestor+hradiska.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Val na južnej strane hradiska, A - novodobá cesta vedúca do vinohradov, B - teleso valu, C - vnútorný priestor hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0efFMsFXjFJ-8SS_RLDQWOLWBoHOZnSLaDAIuYpYr1YAzqG0SuGbIdTuQxJ2zK7I4DHXC22TnIfZ2krt4U-iDiK8dUXaH-CFq22oq_IMg2BVFp54zhAhZqg9OX0wDufpifevll6DtSo/s0/Val+na+severnej+c%25CC%258Casti+hradiska.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0efFMsFXjFJ-8SS_RLDQWOLWBoHOZnSLaDAIuYpYr1YAzqG0SuGbIdTuQxJ2zK7I4DHXC22TnIfZ2krt4U-iDiK8dUXaH-CFq22oq_IMg2BVFp54zhAhZqg9OX0wDufpifevll6DtSo/s1600/Val+na+severnej+c%25CC%258Casti+hradiska.jpg",
+        "filename": "Val+na+severnej+c%CC%8Casti+hradiska.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE0efFMsFXjFJ-8SS_RLDQWOLWBoHOZnSLaDAIuYpYr1YAzqG0SuGbIdTuQxJ2zK7I4DHXC22TnIfZ2krt4U-iDiK8dUXaH-CFq22oq_IMg2BVFp54zhAhZqg9OX0wDufpifevll6DtSo/s1600/Val+na+severnej+c%25CC%258Casti+hradiska.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7zt99QQ53EwL4R86B6NGvSGyLK8TY5byRGLlcjGsb8NbQwFU0hBRmfwmYPEKB51Vk-Bqe8qf6tdbKOiPGfoRCjeJP6n6LYOGQUhEeXZXYARzoedwKeU_xL2thCXFrvuh-XKC_p7sBQwM/s0/Vyznac%25CC%258Cenie+koruny+valu+na+severnej+strane+hradiska.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7zt99QQ53EwL4R86B6NGvSGyLK8TY5byRGLlcjGsb8NbQwFU0hBRmfwmYPEKB51Vk-Bqe8qf6tdbKOiPGfoRCjeJP6n6LYOGQUhEeXZXYARzoedwKeU_xL2thCXFrvuh-XKC_p7sBQwM/s1600/Vyznac%25CC%258Cenie+koruny+valu+na+severnej+strane+hradiska.jpg",
+        "filename": "Vyznac%CC%8Cenie+koruny+valu+na+severnej+strane+hradiska.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7zt99QQ53EwL4R86B6NGvSGyLK8TY5byRGLlcjGsb8NbQwFU0hBRmfwmYPEKB51Vk-Bqe8qf6tdbKOiPGfoRCjeJP6n6LYOGQUhEeXZXYARzoedwKeU_xL2thCXFrvuh-XKC_p7sBQwM/s1600/Vyznac%25CC%258Cenie+koruny+valu+na+severnej+strane+hradiska.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2wVTemLmeMx4iCmpYBVw7qsQpRHLT5kGZd_V2XFbMNHIV4huEWaBs_u74HtPj9eoV1WMPBeRMeqUasGIb8S1IIHXu7dagMe54I17MOZzQyD2MAyIZkx9O5vsXN1j5_EOIWns48k1g4c8/s0/Vyznac%25CC%258Cenie+telesa+valu+na+severnej+strane.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2wVTemLmeMx4iCmpYBVw7qsQpRHLT5kGZd_V2XFbMNHIV4huEWaBs_u74HtPj9eoV1WMPBeRMeqUasGIb8S1IIHXu7dagMe54I17MOZzQyD2MAyIZkx9O5vsXN1j5_EOIWns48k1g4c8/s1600/Vyznac%25CC%258Cenie+telesa+valu+na+severnej+strane.jpg",
+        "filename": "Vyznac%CC%8Cenie+telesa+valu+na+severnej+strane.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2wVTemLmeMx4iCmpYBVw7qsQpRHLT5kGZd_V2XFbMNHIV4huEWaBs_u74HtPj9eoV1WMPBeRMeqUasGIb8S1IIHXu7dagMe54I17MOZzQyD2MAyIZkx9O5vsXN1j5_EOIWns48k1g4c8/s1600/Vyznac%25CC%258Cenie+telesa+valu+na+severnej+strane.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Vyznačenie telesa valu na severnej strane"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg37nDWo8BMtMeUKHMIYuawprGindszLM_8N4Hq4SQoD_QEePlVYUPKC_vNfRYkYX5oeyh9BaGlrrmocTicfF0DQPZeVF_6TOLk9xWkZhLRPax_BGemqP1owcPW7hj3LmuCmLhB-q8VrK2_/s0/DJI_0010.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg37nDWo8BMtMeUKHMIYuawprGindszLM_8N4Hq4SQoD_QEePlVYUPKC_vNfRYkYX5oeyh9BaGlrrmocTicfF0DQPZeVF_6TOLk9xWkZhLRPax_BGemqP1owcPW7hj3LmuCmLhB-q8VrK2_/s1600/DJI_0010.JPG",
+        "filename": "DJI_0010.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg37nDWo8BMtMeUKHMIYuawprGindszLM_8N4Hq4SQoD_QEePlVYUPKC_vNfRYkYX5oeyh9BaGlrrmocTicfF0DQPZeVF_6TOLk9xWkZhLRPax_BGemqP1owcPW7hj3LmuCmLhB-q8VrK2_/s1600/DJI_0010.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 163,
+          "originalWidth": 1600,
+          "originalHeight": 815
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1czulyKx_MuyW4prcYmNlhnNcFudwIR2NUUUuvrUT7XZQlt-Cm5im-OhSYrhwbyBxKEnpa1CyHHp_m92s9RDtoPpzh9J-FW_qpmjNTfYxL1MzCRkoDUVx3u6pW6Jwh1ULLW2940c-1jiE/s0/DJI_0014.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1czulyKx_MuyW4prcYmNlhnNcFudwIR2NUUUuvrUT7XZQlt-Cm5im-OhSYrhwbyBxKEnpa1CyHHp_m92s9RDtoPpzh9J-FW_qpmjNTfYxL1MzCRkoDUVx3u6pW6Jwh1ULLW2940c-1jiE/s1600/DJI_0014.JPG",
+        "filename": "DJI_0014.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1czulyKx_MuyW4prcYmNlhnNcFudwIR2NUUUuvrUT7XZQlt-Cm5im-OhSYrhwbyBxKEnpa1CyHHp_m92s9RDtoPpzh9J-FW_qpmjNTfYxL1MzCRkoDUVx3u6pW6Jwh1ULLW2940c-1jiE/s1600/DJI_0014.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 209,
+          "originalWidth": 1600,
+          "originalHeight": 1047
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Malé Kozmálovce"
+    ],
+    "category": null,
+    "location": {
+      "name": "Malé Kozmálovce",
+      "latitude": 48.282143,
+      "longitude": 18.522005,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "4 km severozápadne od Starého Tekova, na vrchu Pipíška zvanom Grác",
+        "icon": "map"
+      },
+      {
+        "label": "Funkcia",
+        "value": "Strážne hradisko v Slovenskej bráne, chrániace vstup do Pohronia",
+        "icon": "shield"
+      },
+      {
+        "label": "Rozloha",
+        "value": "Opevnená plocha v tvare nepravidelného štvoruholníka so zaoblenými rohmi, 2,4 ha",
+        "icon": "mountain"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "Val s prevýšením 3 m smerom von a 2 m dovnútra hradiska, čiastočne stavaný z kameňa bez malty",
+        "icon": "building"
+      },
+      {
+        "label": "Hrob bojovníka (1938)",
+        "value": "Meč karolínskeho typu X, dva železné strmene a hrncovitá nádoba zdobená vlnovkou, datované na koniec 8. – začiatok 9. storočia",
+        "icon": "star"
+      },
+      {
+        "label": "Ďalšie hroby (1947)",
+        "value": "Tri hroby s hlinenými nádobami a železnými kópiami, nájdené pri kopaní piesku severne od obce",
+        "icon": "custom"
+      },
+      {
+        "label": "Datovanie osídlenia",
+        "value": "Podľa povrchových nálezov keramiky datované do 9., resp. 10. storočia",
+        "icon": "book"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1938",
+        "title": "Objav hrobu slovanského bojovníka",
+        "description": "Pri rigolovaní vinohradu severne od obce sa našiel hrob slovanského bojovníka s mečom karolínskeho typu X, dvoma železnými strmeňmi a hrncovitou nádobou zdobenou vlnovkou.",
+        "type": "discovery"
+      },
+      {
+        "year": "koniec 8. – začiatok 9. storočia",
+        "title": "Datovanie hrobu bojovníka",
+        "description": "Nájdený hrob možno datovať na koniec 8. a začiatok 9. storočia.",
+        "type": "era"
+      },
+      {
+        "year": "1947",
+        "title": "Nález ďalších troch hrobov",
+        "description": "Pri kopaní piesku na terénnej vyvýšenine severne od obce medzi cestou do Tlmačov a vinicou sa zistili tri ďalšie hroby s hlinenými nádobami a železnými kópiami; nálezy sa nevyberali odborne.",
+        "type": "discovery"
+      },
+      {
+        "year": "9. – 10. storočie",
+        "title": "Datovanie osídlenia a opevnenia",
+        "description": "Podľa povrchových nálezov keramiky možno osídlenie lokality i jej opevnenie datovať do 9., resp. 10. storočia.",
+        "type": "era"
+      },
+      {
+        "year": "začiatok 10. storočia",
+        "title": "Ochrana obyvateľstva pred Starými Maďarmi",
+        "description": "Po rozpade centrálnej veľkomoravskej vlády začiatkom 10. storočia hradisko spolu s ostatnými strážnymi hradiskami v Slovenskej bráne chránilo slovenské obyvateľstvo pred útokmi starých Maďarov.",
+        "type": "era"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko Grác – Malé Kozmálovce sa nachádza približne 4 km severozápadne od Starého Tekova. Patrí k strážnym hradiskám z oblasti Slovenskej brány, ktorého úlohou bolo chrániť vstup do Pohronia. Význam hradiska spolu s ostatnými strážnymi hradiskami, ktoré boli postavené v "
+              },
+              {
+                "type": "link",
+                "url": "http://slovanske-hradiska.blogspot.com/2011/10/hradiska-v-oblasti-slovenskej-brany.html",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Slovenskej bráne"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " nadobudlo hlavne v časoch po rozpade centrálnej veľkomoravskej vlády začiatkom 10. storočia, kedy chránili slovenské obyvateľstvo pred útokmi starých Maďarov.\n \n \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Roku 1938 sa pri rigolovaní vinohradu severne od obce našiel hrob slovanského bojovníka. V hrobe bol pri kostre meč karolínskeho typu X, dva železné strmene a hrncovitá nádoba zdobená vlnovkou. Hrob možno datovať na koniec 8. a začiatok 9. stor.\n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ďalšie tri hroby, v ktorých boli údajne hlinené nádoby a železné kopije (z nálezov sa zachovala iba jedna súdkovitá nádoba) sa zistili r. 1947 pri kopaní piesku na terénnej vyvýšenine severne od obce medzi cestou do Tlmačov a vinicou. Žiaľ, tieto nálezy sa nevyberali odborne a o ich nálezových okolnostiach chýbajú bližšie údaje."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRqnqs0qVgeUfH69LoCUevNBLmsFgVvKv7ddSipkjF6Xj1-9pyhywqyPlBv6NH0CjrdsljMio9eLOj6srK-4zBILZuDIxxSCunaBH32E7tKfLGLDDqMI_ZCQIzqaaIGxgQO3ATznJPuo_/s0/Kozm%25C3%25A1lovce++-Pip%25C3%25AD%25C5%25A1ka+LIDAR.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRqnqs0qVgeUfH69LoCUevNBLmsFgVvKv7ddSipkjF6Xj1-9pyhywqyPlBv6NH0CjrdsljMio9eLOj6srK-4zBILZuDIxxSCunaBH32E7tKfLGLDDqMI_ZCQIzqaaIGxgQO3ATznJPuo_/s1600/Kozm%25C3%25A1lovce++-Pip%25C3%25AD%25C5%25A1ka+LIDAR.JPG",
+          "filename": "Kozm%C3%A1lovce++-Pip%C3%AD%C5%A1ka+LIDAR.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkRqnqs0qVgeUfH69LoCUevNBLmsFgVvKv7ddSipkjF6Xj1-9pyhywqyPlBv6NH0CjrdsljMio9eLOj6srK-4zBILZuDIxxSCunaBH32E7tKfLGLDDqMI_ZCQIzqaaIGxgQO3ATznJPuo_/s1600/Kozm%25C3%25A1lovce++-Pip%25C3%25AD%25C5%25A1ka+LIDAR.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 256,
+            "originalWidth": 917,
+            "originalHeight": 735
+          }
+        },
+        "alt": "LIDAR hradiska",
+        "caption": "LIDAR hradiska",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zvyšky zemného opevnenia, resp. hradiska sa zachovali na východnej časti vrchu Pipíška, zvanej Grác, pokrytej agátovým lesom a v južnej časti vinohradmi. Vrch sa východným okrajom prudko zvažuje skalným zrázom do inundačného územia Hrona, ktorý tvorí prirodzenú ochranu polohy. Z ostatných strán polohu chránil val, ktorý sa východnými koncami pripájal k spomenutému skalnému zrázu a ohraničoval plochu v podobe nepravidelného štvoruholníka so zaoblenými rohmi (2,4 ha). Val na zachovalejších úsekoch má smerom von prevýšenie 3 m, dovnútra hradiska 2 m. Materiál na jeho násyp sa sčasti získaval na mieste, no pozdĺž valu nebadať výraznejšiu priekopu. Na stavbu fortifikácie bol zo značnej časti použitý kameň, ktorý nie je pospájaný maltou. Takto uzavretá plocha hradiska je rozdelená nízkym valom v smere J—S na dve časti — západnú a východnú."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jAcDDu_Nb-y1T2R3XMAGwuTfQDmF3m9BW8wn2KTWtJNGQuRkN4dCkUIEm0f9dCXSdbQah0l5yUqLNYxHdPgPpj2OS0Z8tdDFSh5fJChk27nnUvg3jKibTWCaOYzuA5T_xPm99-PfzRk/s0/11_MKozma%CC%81lovce.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jAcDDu_Nb-y1T2R3XMAGwuTfQDmF3m9BW8wn2KTWtJNGQuRkN4dCkUIEm0f9dCXSdbQah0l5yUqLNYxHdPgPpj2OS0Z8tdDFSh5fJChk27nnUvg3jKibTWCaOYzuA5T_xPm99-PfzRk/s1600/11_MKozma%CC%81lovce.jpg",
+          "filename": "11_MKozmálovce.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jAcDDu_Nb-y1T2R3XMAGwuTfQDmF3m9BW8wn2KTWtJNGQuRkN4dCkUIEm0f9dCXSdbQah0l5yUqLNYxHdPgPpj2OS0Z8tdDFSh5fJChk27nnUvg3jKibTWCaOYzuA5T_xPm99-PfzRk/s1600/11_MKozma%CC%81lovce.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 212,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "letecký pohľad na hradisko",
+        "caption": "letecký pohľad na hradisko",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podľa povrchových nálezov keramiky možno osídlenie lokality i jej opevnenie datovať do 9., resp. 10. stor."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Foto Matúš Martinák:\n \n \n "
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Literatúra",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Habovštiak: Malé Kozmálovce, okres Levice In: Chropovský: Významné Slovanské náleziská na Slovensku 1978, str. 124"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "BUDINSKÝ-KRIČKA, V.: Nové nálezy kostrových hrobov z doby hradištnej na juhozápadnom Slovensku. Čas. Muz. slov. Spoloč., 37—38, 1947, s. 34."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "JANŠÁK, Š.: Staré osídlenie Slovenska. In: Sbor, Muz. Slov. Spoloč, 25. Turčiansky Sv. Martin 1931"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "http://www.skyscrapercity.com/showthread.php?t=904992&page=4",
+            "url": "http://www.skyscrapercity.com/showthread.php?t=904992&page=4"
+          },
+          {
+            "text": "D. Bialeková: Pramene k dejinám osídlenia Slovenska z konca 5. až 13. storočia zv. II Stredoslovenský kraj, Nitra 1989",
+            "url": null
+          },
+          {
+            "text": "http://www.cevnad.sav.sk/aktuality.html#2_1",
+            "url": "http://www.cevnad.sav.sk/aktuality.html#2_1"
+          },
+          {
+            "text": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=18&c=18.523254,48.282913&sc=n#/identify?parcelsc=[664399195]&parcelse=[654043157]",
+            "url": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=18&c=18.523254,48.282913&sc=n#/identify?parcelsc=[664399195]&parcelse=[654043157]"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "http://www.skyscrapercity.com/showthread.php?t=904992&page=4",
+        "title": "http://www.skyscrapercity.com/showthread.php?t=904992&page=4"
+      },
+      {
+        "type": "book",
+        "text": "D. Bialeková: Pramene k dejinám osídlenia Slovenska z konca 5. až 13. storočia zv. II Stredoslovenský kraj, Nitra 1989"
+      },
+      {
+        "type": "external-url",
+        "url": "http://www.cevnad.sav.sk/aktuality.html#2_1",
+        "title": "http://www.cevnad.sav.sk/aktuality.html#2_1"
+      },
+      {
+        "type": "external-url",
+        "url": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=18&c=18.523254,48.282913&sc=n#/identify?parcelsc=[664399195]&parcelse=[654043157]",
+        "title": "https://zbgis.skgeodesy.sk/mkzbgis/sk/teren?bm=dmr&z=18&c=18.523254,48.282913&sc=n#/identify?parcelsc=[664399195]&parcelse=[654043157]"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "_note": "grammar-sk v7 §21 — 'Živá história v júli' (2015-07). Autorove bloky [0][1][2] opravené. Bloky [4][6][7] = verbatim citáty organizátorov (Vae Victis, Utgard; uvedené '...nasledovné:'/'píšu:'), FB-štýl bez diakritiky → CHRÁNENÉ (§21.3), nedotýkam sa.",
+  "corrections": [
+    { "hint": 1, "before": "1. Živý Starovek.", "after": "1. Živý starovek.", "reason": "obdobie/názov 'starovek' malým, konzistencia s [2] a #19 (A9)" },
+    { "hint": 2, "before": "Dňa 11.7.2015", "after": "Dňa 11. 7. 2015", "reason": "medzery v dátume (B)" },
+    { "hint": 2, "before": "po prvý krát aj na macedónskych", "after": "po prvýkrát aj na macedónskych", "reason": "prvý krát→prvýkrát (A8)" },
+    { "hint": 2, "before": "účasť skupín nie len zo Slovenska", "after": "účasť skupín nielen zo Slovenska", "reason": "nie len→nielen (A8)" }
+  ]
+}

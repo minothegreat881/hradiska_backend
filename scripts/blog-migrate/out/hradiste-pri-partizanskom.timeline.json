@@ -1,0 +1,74 @@
+{
+  "timeline": [
+    {
+      "year": "mladšia doba bronzová – doba halštatská",
+      "title": "Vybudovanie hradiska ľudom lužickej kultúry",
+      "description": "Hradisko vybudoval s najväčšou pravdepodobnosťou ľud lužickej kultúry (mladšia doba bronzová a doba halštatská).",
+      "type": "founding"
+    },
+    {
+      "year": "9. – 10. storočie",
+      "title": "Slovanské osídlenie hradiska",
+      "description": "V období 9. – 10. storočia hradisko využili aj Slovania.",
+      "type": "era"
+    },
+    {
+      "year": "1100",
+      "title": "Vznik románskeho kostola sv. Barnabáša",
+      "description": "Na hradisku stojí románsky kostol sv. Barnabáša, postavený asi v roku 1100, a okolo neho zachovaný cintorín s náhrobnými doskami z 11. a 12. storočia.",
+      "type": "construction"
+    },
+    {
+      "year": "1533",
+      "title": "Prvá písomná zmienka o obci Hradište",
+      "description": "Obec je príkladom starého osídlenia, ktoré nie je zachytené v písomných prameňoch — prvý krát sa spomína až v roku 1533.",
+      "type": "event"
+    },
+    {
+      "year": "11. – 15. storočie",
+      "title": "Sídliskový horizont na polohe Pravdová",
+      "description": "Na polohe Pravdová bol lokalizovaný sídliskový horizont z 11. až 14. – 15. storočia.",
+      "type": "era"
+    },
+    {
+      "year": "15. storočie",
+      "title": "Zrúcanina hradu na Pravdovej",
+      "description": "Podľa lexikónu Magyar országh varmegy (Nyitra) sa v Hradišti na kopci nad osadou v 15. storočí nachádzala zrúcanina hradu.",
+      "type": "destruction"
+    },
+    {
+      "year": "august 1926",
+      "title": "Objav hradiska Š. Janšákom",
+      "description": "Podľa Janšákovho opisu z roku 1928 bolo hradisko objavené autorom v auguste 1926.",
+      "type": "discovery"
+    },
+    {
+      "year": "1928",
+      "title": "Janšákov výskum a opis hradiska",
+      "description": "Výškové a plošné parametre hradiska zmeral v r. 1928 Ing. Štefan Janšák, zakladateľ slovenskej archeológie, a opísal ho v zborníku muzeálnej spoločnosti.",
+      "type": "discovery"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "najužšie miesto nitrickej doliny, pravý breh rieky Nitrice, nadmorská výška 210–260 m",
+      "icon": "map"
+    },
+    {
+      "label": "Rozloha hradiska",
+      "value": "povrch rozdelený na dve časti s celkovým povrchom 6,45 ha",
+      "icon": "building"
+    },
+    {
+      "label": "Opevnenie (podľa Janšáka, 1928)",
+      "value": "val asi 400 m dlhý, v najvyššom bode 5 m vysoký, v základni 60 m široký",
+      "icon": "shield"
+    },
+    {
+      "label": "Autor opisu",
+      "value": "Ing. Štefan Janšák, zakladateľ slovenskej archeológie, historik a pedagóg",
+      "icon": "scroll"
+    }
+  ]
+}

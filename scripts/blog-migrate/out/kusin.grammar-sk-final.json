@@ -1,0 +1,33 @@
+{
+  "slug": "kusin",
+  "sourceDraft": "out/kusin.grammar-sk-pass1.json",
+  "appliedAt": "2026-07-15",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "B typografia (apozícia, hyphen -> em dash)", "before": "jediný železný predmet - postranné závesné kovanie vedierka", "after": "jediný železný predmet — postranné závesné kovanie vedierka", "block": 7 },
+    { "rule": "cross-field meno (Budinský-Krička) + B rozsah strán en dash", "before": "BUDINSKÝ - KRIČKA, V.: ... s. 97 - 111.", "after": "BUDINSKÝ-KRIČKA, V.: ... s. 97 – 111.", "block": 11 },
+    { "rule": "A8 chýbajúca diakritika (gallery caption)", "before": "umela priekopa na najplytsom mieste", "after": "umelá priekopa na najplytšom mieste", "block": "gallery" },
+    { "rule": "A5 slovosled príslovky (gallery caption)", "before": "Rez valom, urobili ho lesníci zrejme, prerazili val v jednej časti.", "after": "Rez valom, urobili ho lesníci, zrejme prerazili val v jednej časti.", "block": "gallery" },
+    { "rule": "A1 vsuvka 'žiaľ' uzavretá čiarkami (gallery caption)", "before": "o rez valom sa žiaľ postarala ťažká technika", "after": "o rez valom sa, žiaľ, postarala ťažká technika", "block": "gallery" },
+    { "rule": "B typografia + A8 diakritika ×2 (gallery caption)", "before": "rez detail - zdá sa, že miestami sú aj nasucho kladene kamene, ale je to zdevastovane", "after": "rez detail — zdá sa, že miestami sú aj nasucho kladené kamene, ale je to zdevastované", "block": "gallery" },
+    { "rule": "B typografia (apozícia, hyphen -> em dash) (gallery caption)", "before": "vnútorná plocha hradiska - pekná rovinka", "after": "vnútorná plocha hradiska — pekná rovinka", "block": "gallery" }
+  ],
+  "crossFieldPropagation_step2": {
+    "excerpt": "'Kusínskeho potok' -> 'Kusínskeho potoka' (excerpt malo nesprávny/neúplný genitívny tvar, ktorý telo blok 1 už malo správne ako 'Kusínskeho potoka' — klasický nezávisle generovaný perex, opravený samostatne).",
+    "keyFacts": "Skontrolované, žiadny ďalší rozdiel oproti telu (Budinský-Krička, en dash v rozsahu strán, 7,7 cm — všetko už bolo v keyFacts správne pred opravou tela).",
+    "timeline": "Skontrolované, žiadna zmena potrebná okrem toho, čo je zachytené vo flagu MISSING_WORD (identická fráza 'do obdobia X do Y' — ponechaná nezmenená spolu s telom, pozri review.json).",
+    "title_tags_location": "'Kusín' — bez zmeny, jednoslovný názov zhodný so slugom.",
+    "authorName": "'Orgon' — bez zmeny, hoci telo článku je vecne prevzatá odborná stať Budinského-Kričku (nie autorský text Orgoňa); authorName v tomto korpuse označuje osobu, ktorá článok na hradiska.sk spracovala/publikovala, nie pôvodného autora citovanej state — konzistentné s konvenciou zvyšku korpusu (napr. citácie 'Foto (autor - X)' existujú popri authorName)."
+  },
+  "reviewed_no_change": [
+    "Telo je jazykovo vzorný odborný text (sa/si pozícia, pádové väzby, zhoda podmet-prísudok správne), preto minimum zásahov v samotnej próze — väčšina nálezov bola v novších neformálnych gallery popiskoch.",
+    "'hodno', 'sa žiada pripomenúť' — archaické, ale spisovné, nemodernizované.",
+    "Lowercase/no-period gallery popisky (koruna valu, prerazený val a i.) — konzistentný vlastný štýl danej fotoskupiny, veľkosť písmena nezjednocovaná."
+  ],
+  "flags_unresolved": [
+    { "type": "MISSING_WORD", "detail": "'datovať do obdobia X do Y' bez 'od' — 3× naprieč telom/timeline/keyFacts, možná dobová elipsa zdrojového textu, nedopĺňané. Pozri out/kusin.review.json." },
+    { "type": "AMBIGUOUS_WORD", "detail": "'Pohľad z vnútorného V valu na vonkajší nižšie' — nejasné osamotené 'V'. Pozri out/kusin.review.json." }
+  ],
+  "blockCountChange": "14 -> 14 (no blocks removed/added)",
+  "uploadReady": true
+}

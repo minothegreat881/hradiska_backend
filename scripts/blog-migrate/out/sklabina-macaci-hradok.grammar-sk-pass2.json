@@ -1,0 +1,19 @@
+{
+  "slug": "sklabina-macaci-hradok",
+  "note": "grammar-sk agent, druhý prechod.",
+  "appliedFixes": [
+    { "rule": "A1 uzavretie vsuvky", "before": "nazývaného aj Mačací hrádok leží", "after": "nazývaného aj Mačací hrádok, leží", "block": 0 },
+    { "rule": "A1 nadbytočná čiarka + B", "before": "prebiehajúcom, v smere Z-V", "after": "prebiehajúcom v smere Z – V", "block": 0 },
+    { "rule": "D cross-article", "before": "II. vojenského mapovania", "after": "2. vojenského mapovania", "block": 0, "note": "aj v timeline; caption obrázka (block 3) už mala arabsky správne — telo bolo nekonzistentné voči vlastnej caption" },
+    { "rule": "B typografia", "before": "35 × 70m", "after": "35 × 70 m", "block": 1 },
+    { "rule": "A1 vsuvka repozícia čiarky", "before": "Je pravdepodobné, (ako uvádza Dr. Pieta) že", "after": "Je pravdepodobné (ako uvádza Dr. Pieta), že", "block": 2 },
+    { "rule": "E MISSING_WORD (opravené, nie len FLAG — timeline malo správny tvar)", "before": "sa opakovane spomína v polohe Brvenné", "after": "sa opakovane spomína poloha Brvenné", "block": 5, "note": "'ktorá' (fem.) sa vzťahuje na 'poloha', nie na 'listine' — chýbajúce slovo malo presný predobraz v already-correct timeline description" },
+    { "rule": "D cross-field (excerpt bol nesynchronizovaný)", "before": "skľabiňského ... Je ho vrcholová časť je pomerne", "after": "sklabinského ... Jeho vrcholová časť je pomerne", "block": "excerpt", "note": "excerpt niesol STARÝ, pred-opravný tvar duplicitného slovesa aj nesprávny pravopis prídavného mena, hoci telo už malo obe opravené" },
+    { "rule": "preklep v KF labeli", "before": "Bronzový záveslok", "after": "Bronzový závesok", "block": "keyFacts" }
+  ],
+  "reviewed_no_change": [
+    "Bloky 4, 6, 7 — bez gramatických chýb.",
+    "KeyFacts hodnoty, timeline ostatné položky — bez chýb."
+  ],
+  "flags": []
+}

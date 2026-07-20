@@ -1,0 +1,239 @@
+{
+  "$meta": {
+    "_reconstructionNote": "hricovske-podhradie-hrad-hricov.intermediate.json chýbal v out/ (nikdy sa nezachoval alebo bol zmazaný po uploade). Tento súbor bol rekonštruovaný z out/hricovske-podhradie-hrad-hricov.payload.json (payload.data), čo je posledný skutočne odoslaný POST payload (dryRun:false, teda zhodný so živým článkom v čase uploadu). coverImage/gallery preto zostávajú vo forme '<media-ref:N>' placeholderov namiesto plných sourceUrl/blogger objektov ako v ostatných intermediate.json súboroch — pôvodné obrázkové metadáta (sourceUrl, filename, blogger rozmery) sa nedali obnoviť bez re-behu extract.mjs na surovom feede, čo je mimo rozsahu tejto gramatickej úlohy. category/tags sú tiež v post-resolution tvare (documentId/_resolve), nie v raw extract tvare. citations pole neexistovalo v payloade — založené ako prázdne [] pre schémovú konzistenciu s ostatnými článkami.",
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\refugia12-hricov-mikov-kopec.single.json",
+    "reconstructedAt": "2026-07-15T09:36:18.652Z"
+  },
+  "blogPost": {
+    "title": "HRIČOVSKÉ PODHRADIE – HRAD HRIČOV",
+    "slug": "hricovske-podhradie-hrad-hricov",
+    "excerpt": "Hrad Hričov má dlhú a bohatú históriu ešte skôr ako tu vznikol murovaný stredoveký hrad. Archeologické nálezy objavované už koncom 40-tych rokov 20. storočia dokumentujú oveľa staršie osídlenie hradného kopca ako je stredovek a novovek. Prvé z nich…",
+    "authorName": "Orgon",
+    "featured": false,
+    "readingTime": 4,
+    "publishedAt": "2017-03-01T17:08:00.001+01:00",
+    "originalPublishedDate": "2017-03-01T17:08:00.001+01:00",
+    "coverImage": "<media-ref:0>",
+    "gallery": [
+      "<media-ref:0>",
+      "<media-ref:1>",
+      "<media-ref:2>",
+      "<media-ref:3>",
+      "<media-ref:4>"
+    ],
+    "category": {
+      "connect": [
+        {
+          "documentId": "ju7qzoselv8vtk40oiddwps8"
+        }
+      ]
+    },
+    "tags": [
+      "Hričov - Mikov kopec"
+    ],
+    "location": {
+      "name": "Hričov (hrad)",
+      "latitude": 49.21136,
+      "longitude": 18.61982,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Jaskyňa pod hradom",
+        "value": "Asi 15 m dlhá, s jamou 6 × 3,5 m hlbokou približne 5 m pred horným otvorom",
+        "icon": "mountain"
+      },
+      {
+        "label": "Prvá písomná zmienka",
+        "value": "Rok 1254 – kráľ Belo IV. daroval hrad Tolušovi, synovi Farkaša",
+        "icon": "book"
+      },
+      {
+        "label": "Najstaršie osídlenie",
+        "value": "Nálezy z lužickej kultúry z mladšej doby bronzovej až staršej doby železnej",
+        "icon": "shield"
+      },
+      {
+        "label": "Púchovská kultúra",
+        "value": "Najviac nálezov na hradnom vrchu patrí púchovskej kultúre z obdobia neskorého laténu až staršej doby rímskej",
+        "icon": "star"
+      },
+      {
+        "label": "Unikátny nález",
+        "value": "Železné kliešte nájdené v roku 1961 – prvý nález tohto druhu na severnom Slovensku, dnes súčasť expozície v Púchove",
+        "icon": "custom"
+      },
+      {
+        "label": "Majetok biskupstva",
+        "value": "Už od roku 1208 patril Hričov nitrianskemu biskupstvu",
+        "icon": "map"
+      },
+      {
+        "label": "Malé opevnenie Dúbravy",
+        "value": "Nad Dolným Hričovom v polohe Dúbravy sa nachádza menšie opevnenie ako pandant k stredovekému hradu",
+        "icon": "building"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1208",
+        "title": "Hričov majetkom nitrianskeho biskupstva",
+        "description": "Majetok Hričov bol už začiatkom 13. storočia (1208) majetkom nitrianskeho biskupstva.",
+        "type": "event"
+      },
+      {
+        "year": "1254",
+        "title": "Prvá písomná zmienka o hrade Hričov",
+        "description": "Hrad sa prvýkrát spomína v roku 1254, keď ho kráľ Belo IV. daroval Tolušovi, synovi Farkaša.",
+        "type": "founding"
+      },
+      {
+        "year": "1947",
+        "title": "Prvé archeologické nálezy odovzdané Budinskému-Kričkovi",
+        "description": "A. Petrovský-Šichman odovzdal prvé nálezy z hradného kopca prof. V. Budinskému-Kričkovi, ktorý ich zaradil do staršej doby železnej; v tom istom roku objavil na hradnom vrchu aj prvú slovanskú keramiku.",
+        "type": "discovery"
+      },
+      {
+        "year": "1949",
+        "title": "Prvá sonda na Mikovom kopci",
+        "description": "A. Petrovský-Šichman uskutočnil na lokalite Mikov kopec – hradný vrch prvú sondu, v ktorej sa okrem črepov púchovskej kultúry našli aj zlomky slovanskej keramiky a unikátny kamenný praslen; v tomto roku sa tu objavili aj ďalšie pamiatky púchovskej kultúry.",
+        "type": "discovery"
+      },
+      {
+        "year": "1959",
+        "title": "Ďalší nález slovanskej keramiky",
+        "description": "F. Kvasník objavil na hradnom vrchu ďalšiu slovanskú keramiku.",
+        "type": "discovery"
+      },
+      {
+        "year": "1961",
+        "title": "Nález železných klieští v jaskyni",
+        "description": "František Kvasník našiel v jaskyni vedľa hradu železné kliešte a zlomok žarnova; kliešte sa stali prvým nálezom svojho druhu na severnom Slovensku a súčasťou expozície púchovskej kultúry v Púchove.",
+        "type": "discovery"
+      },
+      {
+        "year": "1969",
+        "title": "Nález stredovekej keramiky v jaskyni",
+        "description": "Žiaci učilišťa Pozemných stavieb našli v jaskyni hradného brala keramiku datovanú do 10. – 11. a 12. – 13. storočia.",
+        "type": "discovery"
+      },
+      {
+        "year": "1993",
+        "title": "Archeologický prieskum jaskyne pod hradom",
+        "description": "Členovia archeologického krúžku z Považskej Bystrice dňa 25. 8. 1993 preskúmali jaskyňu pod hradom, z ktorej pochádzajú železné kliešte.",
+        "type": "discovery"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hrad Hričov má dlhú a bohatú históriu ešte skôr ako tu vznikol murovaný stredoveký hrad. Archeologické nálezy objavované už koncom 40-tych rokov 20. storočia dokumentujú oveľa staršie osídlenie hradného kopca ako je stredovek a novovek. Prvé z nich odovzdal A. Petrovský-Šichman už v roku 1947 prof. V. Budinskému-Kričkovi a ten ich zaradil do staršej doby železnej. Podobné pamiatky objavil aj O. Šedo v polohe Komíny (kóta 532), ktorá sa nachádza severne od hradu. Všetky tieto nálezy možno zaradiť do rámca lužickej kultúry, ktorá v mladšej dobe bronzovej až staršej dobe železnej reprezentuje osídlenie severného Slovenska. Najviac pamiatok z hradného vrchu patrí do púchovskej kultúry. Reprezentujú ich najmä zlomky nádob zdobených zvislým ryhovaním, ktoré je typické práve pre keramiku púchovskej kultúry z obdobia neskorého laténu. K nim možno zaradiť aj zlomky veľkých hlinených zásobníc, v ktorých si vtedajšie obyvateľstvo severného Slovenska ukladalo zásoby potravín. Nálezy keramiky púchovskej kultúry z obdobia neskorého laténu až staršej doby rímskej objavené na území Hričovského Podhradia sú dôkazom, že toto územie bolo koncom starého a na začiatku nového letopočtu už súvislo osídlené. Pamiatky púchovskej kultúry sa objavili na hradnom kopci, ktorý nesie aj názov Mikov kopec, i v roku 1949. Viacero nálezov keramiky púchovskej kultúry nájdených na hradnom vrchu odovzdal do Považského múzea aj dlhoročný spolupracovník múzea Štefan Meliš z Považskej Bystrice a väčšina z nich patrí opäť do okruhu púchovskej kultúry najmä z obdobia neskorého laténu a zo staršej doby rímskej. V roku 1961 našiel František Kvasník v jaskyni vedľa hradu železné kliešte aj zlomok žarnova, ktoré taktiež možno zaradiť do okruhu pamiatok púchovskej kultúry. Železné kliešte sa vtedy stali vôbec prvým nálezom tohto druhu na celom severnom Slovensku a stali sa preto aj súčasťou expozície púchovskej kultúry v Púchove. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jeden z posledných prieskumov areálu Hričovského hradu realizovali členovia archeologického krúžku z Považskej Bystrice dňa 25. 8. 1993, keď sa skúmala aj jaskyňa pod hradom, z ktorej pochádzajú železné kliešte. Jaskyňa je dlhá asi 15 m a pred jej horným otvorom bola vyhĺbená jama o rozmeroch asi 6 × 3,5 m hlboká približne 5 m, ktorá prerezala všetky sídliskové vrstvy na hradnom kopci. Jamu vykopal miestny občan Kabašta, ktorý sem pravidelne chodil a zrejme odnášal aj archeologické nálezy. Podľa jednotlivých vrstiev sa dala aspoň čiastočne rekonštruovať nálezová situácia na hradnom kopci. V najspodnejšej vrstve sa nachádzali pamiatky z obdobia neskorého laténu – čiže púchovskej kultúry, v strede výkopu boli už nálezy slovanskej keramiky a v horných vrstvách stredoveká keramika. Tak ako narastali jednotlivé sídliskové vrstvy, vypĺňal sa aj priestor pred jaskyňou a tak sa niektoré nálezy dostali aj do jej vnútorných priestorov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "image": "<media-ref:0>",
+        "alt": "Hričov na medirytine od Justusa van der Nypoorta",
+        "caption": "Hričov na medirytine od Justusa van der Nypoorta",
+        "position": "right",
+        "pairWithNext": false,
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prvú slovanskú keramiku objavil na hradnom vrchu A. Petrovský-Šichman už v roku 1947 a potom F. Kvasník v roku 1959. V roku 1949 urobil A. Petrovský-Šichman na lokalite Mikov kopec – hradný vrch, prvú sondu, v ktorej sa okrem črepov púchovskej kultúry našli aj zlomky slovanskej keramiky ako aj unikátny kamenný praslen z vretena na navíjanie priadze. Aj v roku 1969 našli žiaci učilišťa Pozemných stavieb v jaskyni hradného brala keramiku z viacerých časových úsekov stredoveku datovanú do 10. – 11. storočia a potom 12. – 13. storočia. Medzi nálezmi odovzdanými do Považského múzea v Žiline Š. Melišom sa okrem starších pamiatok nachádzali aj zlomky nádob z 9. – 10. storočia a potom z 10. – 11. storočia. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Opakovane doložené dôkazy o osídlení hradného vrchu pred vznikom vlastného hradu, ktorý sa spomína až v roku 1254, keď ho kráľ Belo IV. daroval Tolušovi, synovi Farkaša, hovoria jasnou rečou o tom, že tu mohlo byť staršie opevnenie oveľa skôr ako v polovici 13. storočia a až potom mohol vzniknúť stredoveký hrad. O nálezoch stredovekej keramiky sa hovorí tiež aj v správe prof. V. Budinského-Kričku pri publikovaní súboru pamiatok získaných Štátnym archeologickým ústavom v rokoch 1946 – 1947. Tak sa zdá, že osídlenie hradného kopca pokračovalo nepretržite aj v nasledujúcich obdobiach, z ktorých sú k dispozícii už aj písomné pramene. Ako pandant k stredovekému hradu možno priradiť aj malé opevnenie nad Dolným Hričovom v polohe Dúbravy. Menšie opevnenie sa nachádza na temene kopca, tesne nad križovatkou považskej hradskej s jej kratšou vetvou idúcou cez Ovčiarsko do Žiliny. Západné úpätie kopca nesie názov „Imramovec\", z čoho A. Petrovský-Šichman odvodil, že tento termín pochádza z mena sv. Emeráma, ktorému bola zasvätená najstaršia kresťanská stavba na území Slovenska v Pribinovej Nitrave. Pretože bol majetok Hričov už začiatkom 13. storočia (1208) majetkom nitrianskeho biskupstva, mohol aj tu byť kostol zasvätený sv. Emerámovi. Posledným príspevkom k osídleniu územia je nález slovanskej keramiky z 9. a možno aj z 10. storočia v priestore výstavby výrobnej haly firmy VITACO. Aj tieto nálezy podporujú predpoklad dlhodobého slovanského osídlenia územia pred vznikom vlastného hradu, ktorý sa začal stavať až oveľa neskôr v polovici 13. storočia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "image": "<media-ref:1>",
+        "alt": " HRIČOVSKÉ PODHRADIE – HRAD HRIČOV",
+        "caption": "",
+        "position": "left",
+        "pairWithNext": false,
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Jozef Moravčík: NIEKTORÉ OPEVNENIA V CENTRÁLNEJ ČASTI ŽILINSKEJ KOTLINY in Hradiská — Svedkovia dávnych čias. Dolná Mariková 2015",
+            "url": null
+          },
+          {
+            "text": "Foto: Ján Barčiak",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "book",
+        "text": "Jozef Moravčík: NIEKTORÉ OPEVNENIA V CENTRÁLNEJ ČASTI ŽILINSKEJ KOTLINY in Hradiská — Svedkovia dávnych čias. Dolná Mariková 2015"
+      },
+      {
+        "type": "attribution",
+        "text": "Foto: Ján Barčiak"
+      }
+    ]
+  }
+}

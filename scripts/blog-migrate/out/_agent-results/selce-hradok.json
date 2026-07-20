@@ -1,0 +1,29 @@
+{
+  "timeline": [
+    { "year": "117 – 195 n. l.", "title": "Obdobie ukrytia rímskych mincí", "description": "Mince cisárov Septima Severa a Trajána pochádzajú z tohto obdobia; podľa Dr. Kolníkovej nemuseli byť ukryté naraz, ale postupne v rôznych časových obdobiach.", "type": "era" },
+    { "year": "10. – 11. storočie", "title": "Slovanské osídlenie hradiska", "description": "Z prieskumu P. Mosného pochádzajú tri výrazné slovanské črepy z dna nádoby, ktoré Dr. Mácelová rámcovo datuje do 10. – 11. storočia.", "type": "era" },
+    { "year": "30. roky 20. storočia", "title": "Nález depotu rímskych mincí", "description": "Na hradisku sa našiel depot strieborných rímskych denárov viacerých cisárov (najviac Marca Aurélia, ďalej Trajána a Didia Iuliána) a 2 strieborné spony.", "type": "discovery" },
+    { "year": "50. roky 20. storočia", "title": "Prieskum V. Budinského-Kričku", "description": "V. Budinský-Krička našiel slovanské črepy zdobené širšími vodorovnými líniami, ktoré datoval do poveľkomoravského obdobia.", "type": "discovery" },
+    { "year": "1988", "title": "Výskum Karola Pietu", "description": "Počas výskumu Dr. Karola Pietu (AVANS 1988) sa na hradisku získal súbor keramiky a kovových predmetov lužickej kultúry z neskorej doby bronzovej, nálezy púchovskej kultúry z neskorej doby laténskej (železná spona), z doby sťahovania národov (železné trojboké strelky) a stredoveké nálezy.", "type": "discovery" },
+    { "year": "1999", "title": "Nález 6 rímskych denárov", "description": "Na svahu hrádku sa našlo 6 kusov rímskych denárov cisárov Septima Severa a Trajána.", "type": "discovery" },
+    { "year": "2001", "title": "Publikácia nálezu mincí", "description": "Nález rímskych mincí zo Seliec-Hrádku publikovala Dr. Eva Kolníková.", "type": "event" }
+  ],
+  "keyFacts": [
+    { "label": "Nadmorská výška", "value": "780 m n. m.", "icon": "mountain" },
+    { "label": "Typ opevnenia", "value": "Vrcholové hradisko na vápencovej skale (hrebeňová antiklinála), val chránil dve plošiny, steny brala 2 – 7 m vysoké", "icon": "mountain" },
+    { "label": "Depot rímskych mincí", "value": "V 30. rokoch 20. stor. tu našli depot strieborných denárov (Marcus Aurelius, Traján, Didius Iulianus) a 2 strieborné spony", "icon": "star" },
+    { "label": "Marcus Aurelius", "value": "Väčšina denárov patrí cisárovi Marcovi Aureliovi, ktorý sa zúčastnil vojnovej výpravy rímskej armády na území Slovenska", "icon": "shield" },
+    { "label": "Ďalší nález mincí", "value": "V roku 1999 sa na svahu našlo 6 rímskych denárov (Septimius Severus, Traján), publikovaných Dr. Kolníkovou v roku 2001", "icon": "star" },
+    { "label": "Archeologické kultúry", "value": "Doložená lužická kultúra (neskorá doba bronzová), púchovská kultúra (neskorá doba laténska), doba sťahovania národov a stredovek", "icon": "book" },
+    { "label": "Slovanské osídlenie", "value": "Slovanské črepy datované do 10. – 11. stor.; funkcia nejasná – možno refúgium, strážny bod alebo sídlo šľachtica", "icon": "building" },
+    { "label": "Prístupnosť", "value": "Hradisko nie je značené, nevedie k nemu turistický chodník a je husto zarastené krovím", "icon": "map" }
+  ],
+  "corrections": [
+    { "before": "najdený", "after": "nájdený" },
+    { "before": "najsť", "after": "nájsť" },
+    { "before": "Dr.Kolníková", "after": "Dr. Kolníková" },
+    { "before": "pädesiatych", "after": "päťdesiatych" },
+    { "before": "predpokladať že", "after": "predpokladať, že" },
+    { "before": "K o l n í k o v á : Nový", "after": "Kolníková: Nový" }
+  ]
+}

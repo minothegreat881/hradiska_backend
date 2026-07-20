@@ -1,0 +1,14 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Slovanské hradiská v Nemecku, 13.7.2026. Zdrojový text obsahoval desiatky dvojitých medzier (mechanický artefakt) — hromadne skolabované skriptom (13 text uzlov), preto nie sú jednotlivo vypísané v corrections. Priamy citát Adama Brémskeho (blok 8) nedotknutý.",
+  "corrections": [
+    { "hint": 0, "before": "storočia n. l. obývali", "after": "storočia n. l. obývali", "reason": "medzery v skratke n. l. (aplikované priamo, nie cez hint-nájdi)" },
+    { "hint": 1, "before": "pomoranské kmene", "after": "pomoranské kmene", "reason": "preklep pomorandské->pomoranské (aplikované priamo)" },
+    { "hint": 10, "before": "okolo r. 1066", "after": "okolo r. 1066", "reason": "chýbajúca bodka za r (aplikované priamo)" },
+    { "hint": 12, "before": "dnes sa na ňom nachádza", "after": "dnes sa na ňom nachádza", "reason": "zdvojená predložka v/na (aplikované priamo)" },
+    { "hint": 12, "before": "Gross Raden priamo", "after": "Gross Raden priamo", "reason": "stratený znak í (aplikované priamo)" },
+    { "hint": 12, "before": "badať mohutnú kruhovú", "after": "badať mohutnú kruhovú", "reason": "preklep muhutnú->mohutnú (aplikované priamo)" },
+    { "hint": 12, "before": "z 9. a 10. storočia", "after": "z 9. a 10. storočia", "reason": "chýbajúca bodka (aplikované priamo)" },
+    { "hint": 33, "before": "10. storočia do polovice", "after": "10. storočia do polovice", "reason": "veľké písmeno uprostred vety (aplikované priamo)" },
+    { "hint": 34, "before": "Albertom Medveďom\".", "after": "Albertom Medveďom\".", "reason": "medzera pred bodkou (aplikované priamo)" }
+  ]
+}

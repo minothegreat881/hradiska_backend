@@ -3,7 +3,7 @@
 Kompletný popis pipeline z Blogger feedu do Strapi: dáta, transformácie, upload, publish, override-y, frontend integrácia. Tento dokument je úplnou náhradou pamäti Claude session — z neho má byť možné v akejkoľvek novej session pokračovať bez straty kontextu.
 
 **Referenčné články (overené, plne funkčné vrátane sidebaru + gramatiky):** Wogastisburg, Staré Město – Velehrad
-**Posledný update:** Júl 2026 (v6 — rozbíjanie zhlukov, sidebar-agenti, report)
+**Posledný update:** Júl 2026 (v7.1 — `grammar-sk` agent, §21: gramatické jadro na úrovni vety, cross-field propagácia, FLAG-only kategórie, test suite; §21.9/§21.10: ~50 dodatočných pravidiel z manuálnej QA celého 48-článkového korpusu po nasadení — všetky publikované)
 
 ---
 
@@ -15,7 +15,7 @@ Toto je hlavný flow. Každá fáza má samostatný artefakt (audit stopa, rollb
 Fáza 1  extract.mjs        → out/<slug>.intermediate.json   (telo v dok. poradí + rytmus obrázkov, galéria, lokalita, komentáre, embed, sources)
 Fáza 1b Manuálna štruktúra → quote-blocky (dobové pramene), názov lokality, kategória   (definuje CHRÁNENÉ ZÓNY pre gramatiku)
 Fáza 2  Agent 1 (sidebar)  → out/<slug>.timeline.json        (timeline[] + keyFacts[], LEN zo zdroja, overené proti telu)
-Fáza 3  Agent 2 (gramatika)→ out/<slug>.grammar.json         (before→after opravy, len pravopis, chránené zóny)
+Fáza 3  grammar-sk agent   → out/<slug>.grammar.json         (before→after opravy, gram. jadro + typografia + cross-field, chránené zóny — detail §21)
 Fáza 4  Upload / re-upload → Strapi (POST alebo idempotentný PUT so zachovaním quote/embed/obrázkov)
 Fáza 6  report.mjs         → out/<slug>.report.md            (ZÁVER: štatistika všetkého — koľko, z čoho do čoho)
 ```
@@ -27,8 +27,11 @@ node scripts/blog-migrate/extract.mjs --post=scripts/blog-migrate/data/<post>.js
 
 # Fáza 1b — manuálne: rozdeliť dobové citáty do quote-block, doplniť location.name, kategóriu (--category alebo default)
 
-# Fáza 2 + 3 — sidebar + gramatika: spusti agentov (Claude subagenty) na telo (rich-text),
+# Fáza 2 + 3 — sidebar + grammar-sk: spusti agentov (Claude subagenty) na telo (rich-text) AJ na
+#   excerpt/keyFacts/timeline/captions/sources/title/tags (cross-field, §21.4) —
 #   výsledky → out/<slug>.timeline.json + out/<slug>.grammar.json (LEN po schválení používateľom)
+#   grammar-sk detailná špecifikácia (gram. jadro A1–A9, typografia B, chránené zóny C,
+#   cross-field D, FLAG-only E, zákazy F, test suite): §21
 
 # Fáza 4 — upload (token z .env). Nový článok: upload.mjs. Re-upload s aplikáciou audit súborov:
 #   GET živý → aplikuj grammar/timeline/keyFacts → PUT (zachová quote-blocky, embed, obrázky, galériu)
@@ -42,7 +45,7 @@ node scripts/blog-migrate/report.mjs --slug=<slug> --feed=data/<post>.json
 - **Rytmus obrázkov (Fáza 1):** obrázok do tela len ak od posl. obrázka v tele pribudlo ≥800 zn textu; zhluky sa „rozbíjajú" (defer-queue, captioned priorita) do neskorších medzier. **Nikdy stena** (max 1 obrázok za sebou). No-caption zhluky + overflow → galéria **s popisom**. Viď §17.
 - **Dobové citáty = quote-block:** iba pôvodný dobový prameň (kronika/listina). Napr. Fulda „svätopluk odišiel…" ostáva **malými písmenami** (článok argumentuje malými písmenami originálu). Viď §18.
 - **Agent 1 (sidebar):** timeline + keyFacts **LEN z textu článku**, žiadne externé znalosti; rok bez opory → `⚠ NEISTÝ`, nevymýšľať; pred zápisom **overiť každú zdrojovú vetu proti telu**. Viď §18.
-- **Agent 2 (gramatika):** LEN pravopis, žiadne preformulovanie. Ochrana: **štrukturálna** (vidí len `content.rich-text`, quote-blocky nikdy) + **lexikálna** (`protected-terms.json`) + **pri pochybnosti nechať a označiť**. Viď §18.
+- **grammar-sk agent (nahrádza "Agent 2"):** slovenský gramatický korektor na úrovni vety (čiarky, pozícia *sa/si*, zhoda, pádové väzby, slovosled, bohemizmy — nie len pravopis/preklepy) + typografia (regex, bezpečné) + **cross-field propagácia** (`body`→`excerpt`/`keyFacts`/`timeline`/captions/`sources`/`title`/`tags`, nie len `body`). Ochrana: **štrukturálna** (vidí len `content.rich-text`, quote-blocky nikdy) + **lexikálna** (`protected-terms.json` + globálny slovník mien) + **pri pochybnosti FLAG do `<slug>.review.json` a nechať**. Nikdy nedopisuje vety ani nemodernizuje citáty. Detailná špecifikácia, regexy, chránené zóny, FLAG-kategórie a test suite: §21.
 - **Re-upload zachováva ručnú prácu:** quote-blocky, embed, obrázky, galéria, kategória, tagy sa pri PUT **nesmú stratiť** — payload sa stavia z GET živého článku, mení sa len čo treba.
 - **Audit súbory** (`.timeline.json`, `.grammar.json`) sú oddelené od surového extraktu — rollback + prehľad. Token natrvalo v `.env` (§6.2).
 - **Básne = quote-block, ale iný komponent:** centrovaný kurzívový beh ≥2 veršov → `content.poem` (nie `content.rich-text`, nie `quote-block`). Detekcia je automatická (pre-pass `markPoemRuns`), žiadny manuálny krok. Viď §20.
@@ -909,6 +912,16 @@ Zistené priamym prehliadaním publikovaného článku (screenshoty), nie automa
 
 **Poučenie:** táto rodina bugov (zlý "prvý rich-text blok") mala 3 rôzne dátové príčiny (prázdny blok, citácia, nadpis) ale JEDNU spoločnú frontendovú slabinu — `firstRichTextIndex` bol príliš naivný. Fix (f) je teraz robustný voči všetkým variantom naraz, vrátane akýchkoľvek budúcich neobjavených.
 
+### 9.14 Dva bugy nájdené pri prvom kompletnom novom-článku uploade cez `upload.mjs` (refugiá batch, 14.7.2026)
+
+Predošlé session vždy overovali `payload.json` (dry-run) a POST response — ani jedno neodhalí tieto dva bugy, lebo response ich nepopuluje a dry-run payload ich vôbec neobsahuje. Odhalené až priamym GET-om živého článku po uploade.
+
+**g) `_media-sha256-index.json` korumpovaný na 269 KB núl (`NUL byte`), `upload.mjs` fatal crashol pri `JSON.parse` na kroku [3/5].** Príčina pravdepodobne prerušený zápis (crash/kill) v predošlom behu, ktorý súbor len alokoval, ale neskončil zápis obsahu. Keďže ide výhradne o výkonnostnú cache (dedup sa aj tak vždy overuje cez skutočný SHA-256 stiahnutého súboru, nie len cez tento index — pozri komentár v `upload.mjs:478-489`), oprava je bezpečná: `echo '{}' > out/_media-sha256-index.json`. Ak sa `upload.mjs` niekedy zasekne na `[fatal] Unexpected token ... is not valid JSON` presne na tomto kroku, toto je prvá vec na kontrolu (`node -e "JSON.parse(require('fs').readFileSync('out/_media-sha256-index.json','utf8'))"`).
+
+**h) `upload.mjs` (nový článok, POST vetva) nezahŕňa `out/<slug>.timeline.json` (`timeline[]`/`keyFacts[]`) do payloadu.** POST prebehne úspešne, verify blok v konzole vypíše `blocks total`/`gallery`/`category`/`tags`, ale **nevypíše ani neposiela** `timeline`/`keyFacts` — tie ostanú na živom článku prázdne, hoci `out/<slug>.timeline.json` existuje a bol pripravený a schválený. Nebolo doteraz zachytené, lebo žiadna predošlá session netrasovala nový POST cez `?populate=keyFacts,timeline` GET check. **Dočasný workaround (kým sa `upload.mjs` neopraví):** po každom `--dry-run=false` POST-e nového článku ručne `PUT` s `{ timeline: <slug>.timeline.json.timeline, keyFacts: <slug>.timeline.json.keyFacts }` na vrátený `documentId`, potom overiť `GET ...?populate[0]=keyFacts&populate[1]=timeline`. Pozri memory `upload-mjs-timeline-keyfacts-gap`.
+
+**i) grammar-sk (§21) prvý plošný beh na 8 predtým nikdy-nespracovaných článkoch (14.7.2026): Dražovce, Dreveník, Gbeľany, Hatné, Hričovské podhradie, Ladce/Tunežice/Nozdrovice, Lipt. Štiavnica, Varín/Nezbudská Lúčka — všetkých 8 hotových, audit v `out/<slug>.grammar-sk-pass1.json`.** Najčastejšie nájdené vzory naprieč všetkými 8: (1) **BIBLIO_IN_BODY** — bibliografia zlepená v `content.rich-text` namiesto `content.sources`, v 6/8 článkoch (niekedy aj bez akejkoľvek existujúcej Sources sekcie); (2) neoznačené priame Janšákove citáty (technický opis valov s bodovým značením a-b-c-d) prevedené na `content.quote-block` tam, kde textový dôkaz (úvodzovky, štýl) bol dostatočne silný — pri absencii takého dôkazu (Hatné bloky 2/4/5) NEBOLI prevedené, len ponechané ako parafráza; (3) chýbajúce medzery v skratkách `p.n.l.`/`n.l.`/`m n. m.` naprieč takmer každým článkom; (4) číselné rozsahy na pomlčku namiesto en dash; (5) zlepené medzititulky bez vlastného bloku (Dreveník, Varín) — vyčlenené ako samostatné bloky. Dva prípady vedome NEOPRAVENÉ a nahlásené používateľovi namiesto tichého zásahu: Dražovce (moderná redakčná poznámka vložená doprostred Janšákovho citátu — obsahové rozhodnutie, nie gramatika) a Varín (orphaned veta bez slovesa — možná strata textu pri prevzatí zo zdroja, nemožno overiť bez prístupu k Stanekovej 2021).
+
 ---
 
 ## 10. Recovery procedure — ak nová Claude session
@@ -1154,11 +1167,11 @@ Agenti = **Claude subagenti**, ktorí čítajú telo a LEN NAVRHUJÚ; používat
 - **Pred zápisom OVERIŤ:** každá zdrojová veta musí byť doslovne z tela (grep proti telu); položku bez opory vyhoď.
 - Flexibilné `year`: „623", „623–624", „po 630", „~631", „13. storočie", „50. roky 20. storočia". Frontend (`ArticleSidebar.tsx`) rendruje timeline v poradí poľa (BEZ sortovania) — neistý label ostáva na svojej chronologickej pozícii.
 
-### 18.2 Agent 2 — Gramatická korektúra
-- **Vstup:** telo (`content.rich-text`) + `scripts/blog-migrate/protected-terms.json`. **Výstup:** `out/<slug>.grammar.json` = `{ corrections: [{block, before, after, reason}] }`.
-- **Rozsah:** LEN pravopis — čiarky/bodky, i/y, dĺžne, nominatív plurálu, zhoda podmet–prísudok, predložky, veľké/malé, preklepy. **Žiadne preformulovanie / slovosled / štylistika.** Oprava platí len ak sa before/after líšia výhradne v pravopise.
-- **Ochrana v 3 vrstvách:** (1) **štrukturálna** — vidí len rich-text, `quote-block`/`sources`/`embed` **nikdy** (dobové citáty automaticky chránené); (2) **lexikálna** — `protected-terms.json` (kmeňová zhoda; vlastné mená, odborné/dobové termíny, pramene, autori — **rastie s každým článkom**); (3) **behaviorálna** — pri pochybnosti **nemeniť, označiť** do sekcie „⚠ NEISTÉ".
-- **Aplikácia:** `before` musí presne+jednoznačne sedieť s uzlom (over grep, počet=1). Aplikuje sa pri re-uploade (GET živý → replace v text-uzloch → PUT). Captions a `content.sources` sú **mimo** (URL, bibliografia).
+### 18.2 grammar-sk agent — Gramatická korektúra (plná špecifikácia: §21)
+- **Vstup:** telo (`content.rich-text`) + `excerpt` + `keyFacts[]` + `timeline[]` + captions + `sources` + `title`/`tags` + `scripts/blog-migrate/protected-terms.json`. **Výstup:** `out/<slug>.grammar.json` = `{ corrections: [{block, before, after, reason}] }` + `out/<slug>.review.json` (FLAG-only nálezy, §21.5).
+- **Rozsah:** gramatické jadro na úrovni vety — interpunkcia (najmä chýbajúca čiarka pred podraďovacími spojkami a pri uzatváraní vsuviek), **pozícia zvratného *sa/si*** (najčastejšia chyba v korpuse), zhoda podmet–prísudok, pádové väzby, slovosled, prechodníky, bohemizmy, i/y, dĺžne, veľké/malé — PLUS typografia (regex) PLUS cross-field propagácia rovnakej opravy naprieč všetkými poľami (§21.4). **Nikdy nepreformulúva štylisticky nad rámec gramatickej opravy a nikdy nedopisuje vety.**
+- **Ochrana v 3 vrstvách:** (1) **štrukturálna** — vidí len rich-text, `quote-block` **nikdy** (dobové citáty automaticky chránené, detekcia §21.3); (2) **lexikálna** — `protected-terms.json` + globálny slovník mien (§21.4, kmeňová zhoda; vlastné mená, odborné/dobové termíny, pramene, autori — **rastie s každým článkom**); (3) **behaviorálna** — pri pochybnosti **nemeniť, FLAG** (§21.5).
+- **Aplikácia:** `before` musí presne+jednoznačne sedieť s uzlom (over grep, počet=1). Aplikuje sa pri re-uploade (GET živý → replace v text-uzloch → PUT). Captions a `content.sources` sú **v rozsahu** (na rozdiel od pôvodnej v6 verzie) — cross-field propagácia ich musí pokryť rovnako ako telo.
 
 ### 18.3 Re-upload so zachovaním ručnej práce
 PUT nesmie stratiť quote-blocky, embed, obrázky, galériu, kategóriu, tagy. Postup: **GET živý článok (deep populate)** → prestav write-payload (media → id, relácie → connect/set, quote/embed/sources verbatim) → aplikuj grammar na rich-text + nastav timeline/keyFacts → **PUT na documentId**. Dry-run najprv overí integritu (počty blokov, quote/embed/obrázky zachované, grammar aplikovaná 100 %). Vzor skriptu: `_woga-reupload.mjs` / `_vele-reupload.mjs` (dočasné, mazané po behu).
@@ -1226,6 +1239,253 @@ markPoemRuns: beh (V|_)+ s ≥2 veršami (V) → content.poem (text: verše spoj
 ### 20.4 Frontend — `PoemRenderer` (Variant A: ornamentálny rám)
 
 Vlastný vizuál, zámerne odlišný od `quote-block` (ten má zlatý ľavý okraj): podfarbený panel (`rgba(196,165,116,0.07)`), tenké orámovanie, ornament (linka–kosoštvorec–linka) nad veršami, atribúcia oddelená zlatou linkou pod textom, uppercase + letter-spacing (rovnaký vzor ako `QuoteBlock`'s Feather+cite). Farby/písmo výhradne z existujúcej palety (`#a87437`/`#7d4f1d`, Georgia serif) — 3 varianty (rám / iniciála / bočný ornament) navrhnuté ako HTML mockup a odsúhlasené pred zápisom.
+
+---
+
+## 21. `grammar-sk` — slovenský gramatický agent (v7, nahrádza §18.2 "Agent 2")
+
+Formálna špecifikácia gramatického korektora pre celý korpus (~85 článkov). Agent je **v prvom rade slovenský gramatický korektor** — typografia, cross-field konzistencia a hlásenia sú nadstavba nad tým, nie hlavná funkcia. Pracuje **na úrovni vety, nie regexu** (okrem časti B, ktorá je bezpečná na priamu aplikáciu).
+
+**Pôvod pravidiel:** korpus pochádza z troch zdrojov s odlišným zaobchádzaním —
+1. odborné state prevzaté z literatúry (60.–90. roky, často OCR sken — Bialeková, Habovštiak, Šalkovský): dobová slovenčina, veľa bohemizmov, systematicky chybná pozícia zvratného *sa*;
+2. vlastné texty autora (Orgoň): blogový, osobný hlas;
+3. doslovné citáty z historických prameňov (Holuby 1924, Janšák 1928): dobová slovenčina, ktorú **nikto neopravuje** (§21.3).
+
+### 21.1 Gramatické jadro
+
+**A1. Čiarka pred spojkou** — slovenčina vyžaduje čiarku pred podraďovacími spojkami (*že, aby, keď, keďže, pretože, lebo, hoci, akoby, ako keby, kým, zatiaľ čo, akonáhle, len čo, pokiaľ, ak* v strede vety), vzťažnými zámenami (*ktorý/-á/-é/-í*) a vzťažnými príslovkami (*kde, kam, odkiaľ, kedy, ako*). V korpuse chýba systematicky.
+- `je vysoko pravdepodobné že...` → `..., že...`
+- `Preto bolo potrebné aby stavitelia...` → `..., aby stavitelia...`
+- `informačných tabúľ z ktorých sa návštevník dozvie` → `..., z ktorých sa...`
+- **Výnimka** — *a* spájajúca rovnorodé členy nemá čiarku (`výhodné prechody a umožňovali...`), ale MÁ ju, ak spája dve hlavné vety s rôznymi podmetmi (`Sídlisko zásobovalo hrádok vodou, a obyvateľstvo sa mohlo ukryť...`).
+
+**Uzavretie vloženej vety** — vsuvka/vzťažná veta sa uzatvára čiarkou z OBOCH strán; v korpuse často chýba tá druhá.
+- `Vzhľadom na to, že hradisko pretrvalo do 12. storočia predpokladáme...` → `..., predpokladáme...`
+- Detekcia: `, ktor*` bez ďalšej čiarky pred nasledujúcim slovesom v tej istej vete → `FLAG_MISSING_COMMA`.
+
+**Vsuvky a apozície** — `Ako som uviedol hradisko malo...` → `Ako som uviedol, hradisko malo...`; `Žiaľ výskum...` → `Žiaľ, výskum...`; apozícia menom cez pomlčku: `spätý s ... osobnosťou dejín Matúšom Čákom` → `... — Matúšom Čákom`.
+
+**a to (vysvetľovacie)** — vždy čiarka pred: `... a to zo staršej doby bronzovej` → `..., a to zo staršej doby bronzovej`.
+
+**Nadbytočná čiarka** — rovnako častá chyba opačným smerom, hlavne medzi podmetom a prísudkom (čo tam **nikdy** nestojí): `Pri východnom okraji terasy, sa v miestach...` → bez čiarky; `Podľa zamerania Lamiovej jej severná strana, sa tiahne...` → bez čiarky.
+
+**A2. Pozícia zvratného *sa/si* (najčastejšia chyba v celom korpuse)** — slovenčina má *sa/si* na druhej (Wackernagelovej) pozícii vo vete, hneď za prvým prízvučným členom. Vyskytuje sa v každom prevzatom texte.
+- `Vo výplni objektov prichádzalo sa na črepy` → `Vo výplni objektov sa prichádzalo na črepy`
+- `Okrem keramiky v objektoch našli sa železné nožíky` → `... sa v objektoch našli...`
+- `Varsík pri situovaní hradu sa opieral...` → `Varsík sa pri situovaní hradu opieral...`
+- `Obvodový val, dlhý 420 m, zachoval si dodnes výšku...` → `... si zachoval dodnes...`
+- Dvojité *sa* v jednej vete: `Doposiaľ sa mi nepodarilo dopátrať sa k informácii` → jedno *sa* stačí.
+- Chýbajúce *sa*: `zo získanej zeminy navŕšila hradba` → `... sa navŕšila hradba`.
+- **Implementácia:** nedá sa spoľahlivo riešiť regexom — treba nájsť prvý prízvučný člen vety a overiť polohu *sa/si* voči nemu. Pri neistote → `FLAG`, nechať človeku.
+
+**A3. Zhoda podmetu s prísudkom** — dvojnásobný podmet vyžaduje plurál (`Jej intravilán a blízke okolie bolo...` → `... boli...`); pozor na rod (`Halštatská doba... bolo obdobie` → `je obdobie`; `v Seni ani v jeho blízkom okolí` → `v jej` — Seňa je ženský rod; `knieža... si uvedomoval` → `... si uvedomovalo` alebo prepísať na `Gejza I. si uvedomoval`).
+
+**A4. Pádové väzby** — menný prísudok potrebuje inštrumentál (`Základ valu bola konštrukcia` → `Základom valu bola...`); pozor na väzby ako `zamedzoval mechanické rozrušenie` → `... mechanickému rozrušeniu` (datív), `Kontinuitu (nie Kontinuita) osídlenia možno sledovať`, `o priemere` → `s priemerom`, `sondy o dĺžke 45 metrov` (bohemizmus) → `sondy s dĺžkou 45 metrov` / `sondy dlhé 45 metrov`, `pod humusovitou vrstve` → `pod humusovitou vrstvou` (inštrumentál), `podmienky pre rozvoj` (bohemizmus) → `podmienky na rozvoj`.
+
+**A5. Slovosled** — pomocné sloveso pred plnovýznamovým (`mohli by byť` → `by mohli byť`); sponové sloveso hneď po úvodnej fráze (`Z obranného hľadiska hrad bol umiestnený` → `... bol hrad umiestnený`); rozbitá väzba (`Vápencový kameň, ..., lámal sa vo výbežkoch` → `... sa lámal...`).
+
+**A6. Prechodníky** — visiaci prechodník vzťahujúci sa na iný podmet než hlavná veta je chyba, nie štýl: `Dominantná časť bola opevnená valmi, vytvárajúc tak lichobežníkový areál` (prechodník sa vzťahuje na *valy*, podmet je *časť*) → `... a vytvárala tak lichobežníkový areál`.
+
+**A7. Bohemizmy** — nahradiť mimo citátov (§21.3): *jedná sa o/jednať sa o* → *ide o/ísť o*; *nakoľko* (príčinné) → *keďže*; *snáď* → *azda/vari/možno*; *závislý na* → *závislý od*; *obecne* → *všeobecne*; *činiť* (=byť) → *byť/dosahovať/predstavovať*; *zbytky* → *zvyšky*; *popísať* (=opísať) → *opísať*; *obtiažne* → *ťažké/náročné*; *došiel k záveru* → *dospel k záveru*; *prevedený výskum* → *uskutočnený výskum*; *v poslednej dobe* → *v poslednom čase*; *popud* → *podnet*; *povšimnutie si* → *všimnutie si*; *zberanie* → *zbieranie*; *pozdná doba laténska* → *neskorá doba laténska*; *šedý* → *sivý*; *útočištný* → *útočiskový*; *leda* → *alebo/nanajvýš*; *o čo ide* → *išlo o*; *dosiaľ* → *doteraz*; *hrať rolu* → *zohrávať úlohu*; *naplňovať* → *napĺňať*; *je treba* → *treba*; *k spevneniu* (účel) → *na spevnenie*; *spoje* (=spojnice) → *spojnice*. **Falošný pozitív:** `u západných Slovanov` (u + skupina ľudí) je SPRÁVNE; `u priemerného valu` (u + vec) je CHYBNÉ → `pri priemernom vale`.
+
+**A8. Pravopis a tvaroslovie** — *kedy* → *keď* (vo vzťažnej vete); *prasleny* → *praslene*; *kresadla* → *kresadlá*; *prvý krát* → *prvýkrát*; *nie len* → *nielen*; *celkove* → *celkovo*; príslovky na *-o* nie *-e* (*vejárovité* → *vejárovito*, *komunikačné* → *komunikačne*); *priehlbeň* → *priehlbina*; genitív neživ. m.r. *rezervoára* → *rezervoáru*; *siedmych* → *siedmich*; *obdĺžníkovej* → *obdĺžnikovej*; lokál krátke i (*konštrukcií/tradícií* → *konštrukcii/tradícii*); *rýchle* (príslovka) → *rýchlo*; genitív *uhlu* → *uhla*. Diakritika (časté vypadnutia): *čast→časť, velmi→veľmi, nedaleko→neďaleko, Podla→Podľa, umožnovali→umožňovali, klúč→kľúč, najsť/nenajdete→nájsť/nenájdete, uvolnili→uvoľnili, hlbku→hĺbku*. České znaky z OCR (*kostěné→kostené, štětovaný→štetovaný*) — **okrem znakov vnútri chráneného citátu** (§21.3).
+
+**A9. Veľké/malé písmená** — kultúry a obdobia malým (*Lužická kultúra→lužická, Praveku→praveku, Veľkomoravskom období→veľkomoravskom*); etnonymá veľkým (*kelti→Kelti*); prídavné mená od vlastných mien malým (*Tatárskeho vpádu→tatárskeho, Bielochorvátskeho→bielochorvátskeho, Senianského→senianskeho*); ale vlastné mená samotné veľkým (*Oravský podzámok→Oravský Podzámok, hradiska kalamárka→Kalamárka, Svätého jura→Svätého Jura*); štáty veľkým (*uhorské kráľovstvo→Uhorské kráľovstvo*); časopisy (*Slovenská Archeológia→Slovenská archeológia, Štúdijné zvesti→Študijné zvesti*); *trenčianski župani* malým (nie vlastné meno).
+
+### 21.2 Typografia (regexy — bezpečné na priamu aplikáciu)
+
+```
+/(\d)(m|cm|mm|km|ha|kg)\b/g     → "$1 $2"          # 24m → 24 m
+/(\d)\s*[xX]\s*(\d)/g           → "$1 × $2"        # 3x4, 150 X 190
+/m2\b/ → m²   /m3\b/ → m³
+/(\d)-(\d)/g                    → "$1 – $2"        # 8-25 → 8 – 25
+/(\d+\.)\s*-\s*(\d+\.)/g        → "$1 – $2"        # 9. - 10.
+/(\d{4})[—–](\d{4})/g           → "$1 – $2"        # 1972—1977 (aj em dash bez medzier)
+/\b(\d{4,})\b/                  → oddeľovač tisícov (2500 → 2 500)
+/\bca\b/ → "cca"
+/[""]/g → „ "                                       # slovenské úvodzovky
+/\bpr\.\s*n\.\s*l\./ → "pred n. l."
+/m\s*n\.\s*m\./ → "m n. m."
+/◦/ → °
+/\/([^\/]{3,40})\//g → "($1)"                       # lomky ako zátvorky → skutočné zátvorky
+```
+
+**OCR artefakty:**
+```
+/\bboIi\b/ → "boli"                       # veľké I namiesto malého l
+/(\w{2,})-\s*(\w{2,})/ → FLAG              # Chro-povský, Tomášov-ským (zalomenie z tlače)
+/\.\s*(\d)\b/ → FLAG                       # "m.2" — bodka pred exponentom
+/(\d)\s*°(?!C)/ → FLAG                     # chýba jednotka
+/L\s+i\s+t\s+e\s+r/ → FLAG                 # rozpálkovaný nadpis (letter-spacing prevzatý doslovne)
+/(\w)\.(\w)/ → FLAG                        # zlepené slová bez medzery: "val.V", "trnkami.Mňam"
+/(\w{3,})(nebolo|nemá|som|sa)\b/ → FLAG     # "nichnebolo" a pod.
+```
+
+### 21.3 Ochranné zóny — dobové citáty sa NEDOTÝKAJÚ
+
+Rozširuje §18 (dobové citáty = `quote-block`). Detekcia chránenej zóny:
+```js
+function is_protected(block, prev_block) {
+  if (block.type === 'blockquote') return true;
+  if (prev_block && /(:|uvádza:|píše:|opisuje takto:|nasledovné:)\s*$/.test(prev_block.text)) return true;
+  if (block.text.startsWith('„') && !block.text.trimEnd().endsWith('"')) return true; // nezatvorený citát — chráň celý blok
+  return false;
+}
+```
+**V chránenej zóne sa NEAPLIKUJE:** bohemizmy, odstránenie ě/ř/ů, modernizácia pravopisu, interpunkcia, pozícia *sa/si*.
+**V chránenej zóne sa APLIKUJE AJ TAK:** `boIi → boli` (OCR chyba prepisu, nie autorov pravopis), `Srňan-ského → Srňanského` (zalomenie z tlače), `val.V → val. V` (chýbajúca medzera — mechanická, nie pravopisná zmena).
+
+**Referenčné tvary, ktoré MUSIA prežiť nedotknuté** (regresný test, §21.6):
+- Holuby (1924): *jako, zkameněliny, zachráněno, musea, jílu, prichodí podivným, najsnadnejšie, Dionys Stúr*
+- Janšák (1928): *nivó, pohlaď, bedlivom, rozpadového*, „Hradisko bolo objavené autorom v auguste 1926 roku"
+
+Test nastavenia agenta: ak zmení čo i len jedno slovo v Holubyho alebo Janšákovom citáte, je zle nastavený.
+
+### 21.4 Cross-field konzistencia
+
+Agent MUSÍ bežať na **všetkých** poliach, nie len na `body`: `body`, `excerpt`, `keyFacts[]`, `timeline[].label`, `timeline[].description`, `media[].caption`, `media[].alternativeText`, `sources`, `title`, `tags`.
+
+**Propagácia:** (1) zbieraj mapu `{before → after}` zo všetkých zmien v `body`; (2) aplikuj tú istú mapu na ostatné polia; (3) loguj každú propagáciu. Potvrdené triedy chýb, ktoré tým agent chytí (opakovane nájdené naprieč článkami tejto session — Bojnice, Šimunky, Vestenice, Hradec, Hradište pri Partizánskom): timeline má rímske číslice, keď telo už arabské; timeline má spojovníky, keď telo pomlčky; timeline má nemecké úvodzovky; timeline má skratku bez dĺžňa (*AU SAV*), keď telo *AÚ SAV*; timeline má *popísal*, keď telo *opísal*; `excerpt` má starý tvar (*čast*), keď `body` má opravené (*časť*) — **perex sa generuje samostatne, treba ho fixovať zvlášť**; `keyFacts` majú *3x4 m*, keď telo *3 × 4 m*.
+
+**Globálny slovník mien** (rozširuje `protected-terms.json`):
+```json
+{
+  "Budinský-Krička": ["Budinský – Krička"],
+  "Šalkovský": ["Salkovský"],
+  "Ševčíková": ["Sevčíková"],
+  "Belo IV.": ["Béla IV.", "Bela IV."],
+  "Marcus Aurelius": ["Marcus Aurélius"],
+  "Zvolen-Môťová": ["Zvolen-Moťová"],
+  "Šibrikov kopec": ["Sibrikov kopec"],
+  "Antoninus Pius": ["Antonius Pius"],
+  "Ján Pálffy": ["Ján František Pálfy"],
+  "Robert Majsky": ["Rober Májsky"],
+  "Archaeologia historica": ["Archælogia historica"],
+  "Magyarország vármegyéi és városai": ["Magyar országh varmegy"]
+}
+```
+
+### 21.5 FLAG — nahlás, neopravuj
+
+Agent tieto veci nerieši sám. Zapíše do `out/<slug>.review.json`, text nechá nezmenený, čaká na človeka.
+
+**Štrukturálne:** `UNCLOSED_QUOTE` (citát sa otvorí a nezatvorí), `UNCLOSED_PAREN` (zátvorka sa zatvorí bez otvorenia), `EMPTY_COLON` (riadok `/:\s*$/m` — end-of-line dvojbodka bez obsahu; potvrdené 14× naprieč korpusom), `DUPLICATE_BIBLIO` (bibliografia v `body` AJ v `sources`), `BIBLIO_IN_BODY` (bibliografia v `body`, `sources` prázdne), `DEAD_FOOTNOTE` (`[n]` v texte, poznámka neexistuje), `FOOTNOTE_GAP` (číslovanie začína od `[2]`), `HEADING_INLINE` (nadpis vlepený doprostred odseku).
+
+**Vecné:** `NUMBER_IMPOSSIBLE` (napr. "menšie hrivny dlhé 165-1200 mm" — 1,2 m je fyzicky nezmyselné pre "menšie"), `NUMBER_MISMATCH` (KF "247 kusov (114 + 68)" → súčet 182 ≠ 247), `DATE_CONTRADICTION` ("1018" + popis "v 2. polovici 11. storočia"), `COUNT_MISMATCH` ("štyri sezóny", uvedené tri roky), `RELATIVE_DATE` ("pred niekoľkými rokmi", "donedávna" — zastará), `CENTURY_DRIFT` ("začiatkom tohto storočia" v texte z roku 1978).
+
+**Sémantické (agent to nevie opraviť sám, len upozorní):** `MEANING_INVERTED` (veta hovorí opak toho, čo autor myslel — napr. "útočná funkcia" má byť "útočisková", "presunulo osídlenie OD povodia" má byť "DO povodia"), `MISSING_WORD` (veta bez slovesa/podstatného mena), `SELF_CONTRADICTION` (článok si protirečí sám v sebe), `CERTAINTY_LOST` (`body` má modálne slovo — "pravdepodobne", "zdá sa" —, `keyFacts`/`timeline` ho stratili a tvrdia to isté ako istotu; **najčastejšia chyba extrakcie**, potvrdené opakovane).
+
+### 21.6 Čo agent NIKDY nesmie
+
+1. **Dopísať vetu.** Ani keď informácia zjavne chýba. Ani z popisku obrázka (viď memory `feedback-no-unverified-body-additions` — presne tento prípad sa už stal a používateľ ho odmietol).
+2. **Modernizovať citát.** Holuby a Janšák zostávajú, ako sú (§21.3).
+3. **Rozhodnúť vecný spor.** Ak si text protirečí, nahlás (`SELF_CONTRADICTION`) — nevyberať stranu.
+4. **Zmazať blok bez diffu.** Vždy overiť, čo sa reálne stráca.
+5. **Bežať len na `body`.** `timeline`, `excerpt` a captions sú rovnako dôležité (§21.4).
+
+### 21.7 Pozícia v pipeline
+
+```
+parse → images → components → grammar-sk(pass 1) → keyfacts → timeline → grammar-sk(pass 2) → upload
+                                     │                                          │
+                              gramatika + typografia              cross-field konzistencia
+                                   na body                        + CERTAINTY_LOST detekcia
+```
+
+**Kritické poradie:** nikdy neaplikovať typografickú normalizáciu (pomlčky, medzery) PRED porovnávaním na identitu pri mazaní duplicitných blokov. Potvrdený bug (Tlmače, §9.8): sweep na pomlčky zmenil citáciu skôr, než beh na odstránenie duplicitného bloku stihol nájsť zhodu — duplicita ticho prežila, lebo `before`-text porovnania už nesedel.
+
+### 21.8 Test suite (regresný, spustiť pred nasadením na nový batch)
+
+| Článok | Čo overuje |
+|---|---|
+| `bosaca-srniansky-haj` | Holuby 1924 (400 slov) — 0 zmien v citáte |
+| `hradiste-pri-partizanskom` | Janšák 1928 (600 slov) — 0 zmien v citáte |
+| `sena` | pozícia *sa* (5×), Varsik/Varsík |
+| `pobedim` | duplicitná veta, m²/m³, chybné väzby |
+| `hradok-nad-vahom` | 165-1200 mm (fyzikálne nemožné), 114+68≠247 |
+| `brodske-veles` | poznámky 2×, preklep len v jednej verzii |
+| `spisske-tomasovce` | "holi", chýbajúce slovo, anglický blok |
+| `detva-kalamarka` | rozbité zátvorky, Boleslav Chrabrý (dátumový rozpor) |
+
+**Kritérium úspechu pred nasadením na nový batch:**
+- 0 zmien v Holubyho a Janšákovom citáte,
+- interpunkcia opravená vo všetkých prevzatých textoch,
+- pozícia *sa* opravená alebo označená (nikdy tichoticho preskočená),
+- 0 dopísaných viet,
+- cross-field propagácia preukázateľne funguje na `timeline` aj `excerpt`.
+
+### 21.9 Dodatočné pravidlá z manuálnej QA (Júl 2026, po dokončení migrácie)
+
+Po nahratí všetkých 48 článkov používateľ ručne prešiel ~15 živých článkov a našiel desiatky chýb, ktoré `grammar-sk` v pôvodnom behu nezachytil. Každá nižšie je overený, opravený prípad (nie hypotéza) — agent ich má aktívne hľadať pri každom ďalšom behu (nové články aj prípadné re-audity starých).
+
+**A1/A3/A4 — nové potvrdené vzory zhody a väzby** (rozširujú §21.1):
+- ***knieža* — rod závisí od toho, čo sa s ním zhoduje** (jemnejšie pravidlo, opravené po náleze v Tlmačoch): **prídavné meno pri samotnom slove *knieža*** je vždy stredného rodu — `slovanský knieža` → `slovanské knieža` (Gars-Thunau), `prvé (nie prvý) nitrianske knieža`. Ale **prísudok/sloveso, ktoré sa viaže na KONKRÉTNU pomenovanú mužskú osobu** (knieža + vlastné meno, napr. *Gejza I.*), sa riadi zhodou podľa zmyslu a je v mužskom rode — `knieža Gejza I. ... založilo opátstvo` → `založil` (Tlmače-Festunok, 2×: telo aj časová os), NIE `založilo`. Kontrolovať pri KAŽDOM výskyte slova *knieža* — obe zhody (menná pri prívlastku, slovesná pri mene) sa v korpuse strieda nekonzistentne.
+- **Zhoda rodu pri podmete zloženom z dvoch slov rôzneho rodu** — píšuci často "skĺzne" na rod bližšieho/posledného slova namiesto skutočného gramatického podmetu: `Staré mesto – Velehrad bol` → `bolo` (podmet *mesto*, stredný rod, nie *Velehrad*); `poloha... predurčilo` → `predurčila` (podmet *poloha*, žen. rod); `zistili... celý rad` → `zistil sa celý rad`; `vpád..., ktorý zničili` → `ktorý zničil` (vzťažné zámeno v sg., zhoda s *vpád* nie s vecným obsahom vety).
+- **Príčastie v mennom rade sa musí zhodovať s podstatným menom, ktoré uvádza** — `nálezy..., pochádzajúcich z hrobov` → `pochádzajúce` (nie genitív, zhoda s *nálezy*); vzťahové príčastie pri inštrumentáli → `obohnaný palisádou tvoriaci kruh` → `tvoriacou` (zhoda s *palisádou*, nie s objektom).
+- **`pozostávať z`, nie `s`** — zámena predložiek s/z pri tejto väzbe (`pozostával s keramiky` → `z keramiky`).
+- **Chýbajúce predložky pri neúplných vetách** — `svedčí o funkcii ako kostole` → radšej celé preformulovať (`svedčí o jej funkcii biskupského kostola`); `sa počiatočných finančných ťažkostiach` → `pri počiatočných...`; `náušníc dvojitým príveskom` → `náušníc s dvojitým príveskom`. Tieto sú ťažké na regex, ale časté — venovať zvýšenú pozornosť vetám s vynechanou predložkou pred inštrumentálom/lokálom.
+- **`nielen X aj Y` bez „ale"** — vždy skontrolovať, či je pri `nielen... aj` prítomné aj `ale` (`nielen výroba a obchod aj strategická sila` → `nielen..., ale aj...`).
+- **`tak` vs `taký` pred prídavným menom** — `už nebol tak nadradený` → `taký nadradený`.
+
+**A7 — nové bohemizmy/čechizmy (rozširujú zoznam)**:
+`obkolesený` → *obklopený* / *obkľúčený* (vyskytlo sa v 2 článkoch — Beckov, Bratislava — pravdepodobne systémové v starších textoch); `vzhľadom k` → *vzhľadom na* (Gars-Thunau, 2×; POZOR — v tom istom článku sa vyskytuje aj správne "vzhľadom na", takže ide o nekonzistenciu, nie neznalosť autora); `u ktorej` → *pri ktorej* / *o ktorej* (Břeclav-Pohansko); `v svojej` → *vo svojej* (vokalizácia predložky pred *v-*, Ducové); `zakopáním` → *zakopaním* (slovenčina tu nemá dĺžeň); `Devínským/Bratislavským hradiskom` → *devínskym/bratislavským* (prídavné mená od vlastných mien malým + slovenský tvar bez tvrdého -ým).
+
+**A8 — nové pravopisné/tvaroslovné chyby (rozširujú zoznam, s frekvenciou tam, kde sa opakovali)**:
+`tohoto` → *tohto* (Staré Mesto-Velehrad, 3× v jednom článku — **najčastejšia jednotlivá chyba nájdená pri celej QA**, kontrolovať vždy); `potencionálny` → *potenciálny* (Bojná; veľmi rozšírená chyba v beletrii aj odbornej slovenčine); `siedmych` → *siedmich* (G číslovky *sedem*; nájdené 2× nezávisle — Bojná, Svätý Jur); `dosial` → *dosiaľ*, `ked` → *keď* (chýbajúce mäkčene, Bíňa); `mede` → *medi* (G od *meď*, Bojná, 2×); `mire` → *miere* (Bojná); `mlynu` → *mlyna* (G mužského neživotného *mlyn*, Velehrad); `rozlišitelným` → *rozlíšiteľným*; `nieje` → *nie je* (vždy dve slová); `nevieryhodnosť` → *nevierohodnosť*; `castrórum` → *castrorum* (**latinské slová/citácie nemajú slovenské dĺžne** — nová všeobecná poznámka, kontrolovať pri akomkoľvek vloženom latinskom výraze); `Antonia Pia` → *Antonina Pia* (nesprávny pád mena Antoninus Pius — pridané do §21.4 globálneho slovníka nižšie).
+
+**B — typografia (rozširuje §21.2)**:
+- **`v ľavo` / `v pravo` → `vľavo` / `vpravo`** (jedno slovo) — veľmi častá chyba **konkrétne v popiskoch obrázkov** (nájdené v 3+ článkoch: Gars-Thunau, Divinka ×2, a už predtým Pohansko). Rovnaký vzor: `do ľava` → `doľava`.
+- Rovnaké typografické pravidlá (dĺžne, mäkčene, veľké písmená, medzery pred/za interpunkciou) treba aplikovať **rovnako prísne na `caption`/`alt` polia obrázkov ako na `body`** — pri tejto QA sa ukázalo, že popisky obrázkov (najmä tie, čo existujú LEN v `gallery[]`, nie ako `content.image-block` v tele) sú systematicky menej skontrolované než hlavný text. Ak ten istý obrázok existuje v tele AJ ako samostatná položka v galérii (časté pri duplicitných/preexportovaných fotkách), **obe kópie popisky treba opraviť zvlášť** — sú to oddelené Strapi Media Library záznamy.
+
+**A9 — veľké/malé písmená (rozširuje §21.1)**: rovnaké pravidlo "obdobia/kultúry malým" platí aj v popiskoch obrázkov, nielen v tele — `Veľkomoravského obdobia/kostola` → *veľkomoravského*, `Avarského Kaganátu` → *Avarského kaganátu* (nadpis), `Moravské Pole` → *Moravské pole* (druhé slovo v bežnom spojení malým, nie názov inštitúcie).
+
+**§21.4 — doplnenie globálneho slovníka mien**:
+```json
+{
+  "Antoninus Pius (G: Antonina Pia)": ["Antonia Pia", "Antonius Pia"],
+  "Marcus Aurelius (G: Marca Aurélia)": ["Marca Aurelia"]
+}
+```
+
+**Nová štrukturálna FLAG-kategória — osirotené bloky za `content.sources`**: ak sa v `blocks[]` nachádza `content.rich-text` blok ZA (t.j. s vyšším indexom než) blokom `content.sources`, takmer vždy ide o osirotený fragment popisky/atribúcie fotky, ktorý mal byť súčasťou najbližšieho predchádzajúceho `content.image-block`, nie samostatná veta v tele (potvrdené na Divinke — 3 takéto bloky, jeden niesol cennú bibliografickú citáciu, ktorá sa musela preniesť do `caption` obrázka namiesto zmazania). Agent má tento vzor aktívne hľadať a navrhnúť buď zlúčenie do `caption` najbližšieho obrázka, alebo FLAG na ľudské rozhodnutie — nikdy nenechať fragment ticho visieť za Zdrojmi.
+
+**Vyriešený systémový frontend bug (nie chyba obsahu)**: `Webdesignforhradiskask/src/components/QuoteBlock.tsx` (riadok ~136, jednoriadkový/`default` variant) renderoval `— {author}{source && `, ${source}`}` — pri prázdnom `author` (bežné pri anonymných dobových prameňoch typu Fredegarova kronika) to vyrobilo `— , Zdroj` (osamotená čiarka). Opravené na `— {[author, source].filter(Boolean).join(', ')}`. Toto NIE JE niečo, čo treba opravovať v obsahu článkov — je to opravené raz v komponente a platí to spätne pre celý web. Ak sa niekedy tento komponent prepisuje, zachovať toto správanie.
+
+### 21.10 Druhé kolo manuálnej QA — ďalších ~25 článkov (pokračovanie §21.9)
+
+**Nová kategória — sémantická zámena slova podobného tvaru, opačný význam.** Nejde o preklep ani gramatiku, ale o slovo, ktoré je pravopisne správne, no logicky obrátené: `predprseň... zrejme bránila obrancov` → má byť **chránila** (Klučov; *brániť koho* = zastávať sa, nie *poskytovať ochranu*). Agent má pri overovaní zmyslu vety (nie len jej tvaru) venovať pozornosť slovesám ako brániť/chrániť, kde zámena mení výpoveď na opak.
+
+**Vynechaný predmetový/zvratný zámen pred "je potrebné/možno".** Rovnaký vzor potvrdený 2×: `Kontinuitu (nie Kontinuita) osídlenia možno sledovať` (referenčný príklad v §21.1 A4) a analogicky `preto ju (chýbalo) je potrebné započítať medzi...` (Trenčín) — sloveso `je potrebné/možno` + infinitív takmer vždy vyžaduje pred sebou akuzatívny zámen odkazujúci na podmet predošlej vetnej časti. Kontrolovať zakaždým, keď sa tieto slovesá vyskytnú hneď za spojkou.
+
+**Nejednoznačné/nezhodné odkazovacie zámeno.** `Podľa nej` (Zemplín) odkazovalo na slovo vzdialené a rodovo nezhodné s bezprostredným predchodcom v texte (ktorý bol mužského rodu) — zámen sa tak javil ako odkazujúci na nesprávne miesto. Pri krátkych zámenách (nej/neho/tomu) treba overiť zhodu s NAJBLIŽŠÍM podstatným menom v predošlej vete, nie len prítomnosť antecedentu niekde vyššie; pri nezhode radšej preformulovať (`Podľa tejto zmienky/kroniky`) než ponechať nejednoznačné.
+
+**OCR/kódovací artefakt: symbol priemeru (Ø/⌀) skomolený na číslicu „0".** `(0 ca 13 – 21 cm)` malo byť `(⌀ ca 13 – 21 cm)` (Pobedim) — pri výskyte osamotenej „0" bezprostredne pred „ca [číslo] cm/m" ide takmer vždy o zdegradovaný symbol priemeru, nie skutočnú nulu. FLAG, ak nie je isté, či ide o tento vzor alebo o inú číslovku.
+
+**Duplicitná veta parafrázovaním (nielen doslovná duplicita).** Dve vety za sebou hovoriace presne to isté inými slovami (`V opevnenom centre sídlil veľmož so svojou družinou... / Opevnené centrum bolo osídlené veľmožom, ktorý mal svoju družinu...`, Pobedim — toto je presne referenčný testovací prípad z §21.8, doteraz nikdy nevyriešený) — agent má hľadať aj TAKÚTO parafrázovanú duplicitu, nielen doslovne zhodné vety, a jednu z dvoch odstrániť (zvyčajne tú menej plynulú).
+
+**Skratka „cca" sa píše bez bodky** (z lat. *circa*, skrátené vypustením konca — nie orezaním). `cca. 20 cm` → `cca 20 cm` (potvrdené 2×: Slovanské hradiská na Orave, Lipt. Štiavnica).
+
+**Nízke číslovky (do desať) v súvislom (nie tabuľkovom/faktografickom) texte sa píšu slovom.** `2 strieborné spony`, `6 kusov denárov` → `dve strieborné spony`, `šesť kusov denárov` (Selce-Hrádok) — najmä keď `keyFacts`/`timeline` už majú rovnaký údaj slovom a telo číslicou, ide o cross-field nekonzistenciu podľa §21.4, nie len štylistiku.
+
+**Rozšírenie štrukturálnej kategórie „osirotené bloky"**: nejde len o bloky ZA `content.sources` (§21.9), ale o AKÝKOĽVEK samostatný `content.rich-text` blok/heading obsahujúci iba osamotené meno, skratku alebo fragment bez vetnej stavby — napr. celý heading-blok s textom len „Orgoň" (Lipt. Štiavnica), popiska začínajúca osamoteným veľkým písmenom „A komorová hradba" (Chotěbuz, pravdepodobne zvyšok legendy k plánu „A) ..."). Tieto sú takmer vždy artefakty extrakcie (odrezaný podpis, odrezaná legenda) — FLAG alebo, ak je zrejmé že nenesú žiadnu informáciu, zmazať s poznámkou.
+
+**Pole `authorName` nemusí zodpovedať realite — vždy overiť proti telu.** Nájdené 2 druhy chýb: (a) hodnota `"Unknown"` namiesto `"Orgon"` (3 články: `praveke-hradisko-na-sitne`, `nitrianske-pravno-jasenovo-vysehrad`, `sena` — opravené); (b) `authorName` nezohľadňuje explicitne uvedeného INÉHO autora v samotnom tele (`drevenik-...`: telo hovorilo „Autor článku: Dominik Sabol", ale `authorName` bolo „Orgon" — opravené na „Dominik Sabol", veta v tele sa stala nadbytočnou a bola zmazaná). Skontrolovať zhodu pri každom článku, kde sa v tele nachádza fráza „Autor(ka):"/„Spracoval(a):".
+
+**Historicko-miestne názvy s viacerými tvarmi treba rozlíšiť SÉMANTICKY (podľa toho, o čom sa práve hovorí), nie len zjednotiť pravopisne.** Vysegrad/Visegrad/Visegrád/Vyšehrad (4 tvary v jednom článku, Visegrad-HU) sa NEZJEDNOCUJÚ na jeden tvar — dnešné maďarské mesto = *Visegrád* (s dĺžňom), veľkomoravské/slovanské hradisko na tom istom mieste = *Vyšehrad*. Podobne Těšín/Tešín (Chotěbuz) — český vs. poslovenčený tvar toho istého miesta, treba sa rozhodnúť pre jeden podľa kontextu (mesto samo = radšej Tešín; oficiálny geomorfologický názov ako *Těšínska pahorkatina* zostáva v pôvodnom tvare). Toto je NÁROČNEJŠIA úloha než bežná konzistencia mena — vyžaduje pochopenie, ku ktorej z dvoch entít sa každá veta vzťahuje, nie mechanické find-replace. Priamy citát obsahujúci pôvodný (aj „nesprávny") tvar mena sa NEMENÍ (§21.3) — len sa doplní chýbajúca interpunkcia okolo neho.
+
+**Medzera/interpunkcia sa stráca na hranici textových uzlov okolo vloženého odkazu (`type: "link"`).** Keď je veta rozdelená cez `<a>` odkaz na samostatné `children` (text-pred-odkazom, link, text-po-odkaze), extrakcia niekedy stratí medzeru pred odkazom alebo koncovú bodku pred ďalším odsekom (`...storočia –` [chýba medzera] `Súmrak Veľkej Moravy` [link] `\n\nSúčasný stav...` [chýba bodka na konci predošlej vety], Zvolen-Môťová). Kontrolovať KAŽDÝ text-child bezprostredne pred a po `type: "link"` uzle zvlášť, nielen zreťazený text bloku.
+
+**`-ami` namiesto `-mi` v inštrumentáli plurálu mužských podstatných mien.** `s fortifikačnými objektami` → `objektmi` (Zvolen-Môťová) — nespisovný/hovorový tvar, kontrolovať pri mužských neživotných podstatných menách v inštrumentáli množného čísla.
+
+**Chýbajúca spojka/predložka na konci vymenovania údajov.** `dĺžke 165 m a šírke 95 m, výmere 9 891 m²` pôsobí useknuto — potrebuje `a výmere` alebo `s výmerou` pred posledným údajom (Zvolen-Môťová).
+
+**Latinské binomické (druhové) názvy** musia mať (a) správny pravopis — `Homo neandertalensis` → `Homo neanderthalensis` s „th" (Dreveník) — a (b) kurzívu (`italic: true` na Strapi Blocks text-uzle). Kontrolovať pri každom výskyte kurzívou nepísaného `Homo` alebo iného rodového mena.
+
+**Svetové strany v bežnom spojení (nie oficiálny názov regiónu) malým písmenom** — rozširuje A9: `z Východného Slovenska` → `z východného Slovenska` (Dreveník); rovnako pri Západnom/Strednom Slovensku, ak nejde o vlastný názov administratívnej jednotky.
+
+**Predpona *pred-* sa píše VŽDY dokopy, nikdy so spojovníkom.** `pred-veľkomoravský` → `predveľkomoravský` (Gbeľany, potvrdené 4× v jednom článku — vrátane skrytého výskytu priamo v poli `timeline[].year`, nie len v `description`). Pripomienka: pri kontrole `timeline` prejsť VŠETKY polia položky (`year`, `title`, `description`), nie len `description`.
+
+**Pripomienka NFD/NFC** (potvrdené opäť, Klučov — „predprseň" uložené s kombinujúcim mäkčeňom namiesto predkomponovaného znaku): pri hľadaní/nahrádzaní textu VŽDY najprv `.normalize('NFC')`, inak `String.includes()` tichoticho zlyhá aj keď sa reťazce vizuálne zhodujú.
 
 ---
 

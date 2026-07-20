@@ -1,0 +1,58 @@
+{
+  "slug": "bojnice-hradisko-a-centrum-dechtarstva-v-slovanskom-obdobi",
+  "note": "grammar-sk agent, prvý plnohodnotný prechod (článok mal doteraz iba starý preklep-level grammar.json, nikdy nie v7 sentence-level pass).",
+  "criticalFixes": [
+    { "issue": "Bibliografia (3 citácie: Bialeková 1989, Bialeková 1962, Šaurová 1982) bola zlepená ako holé content.rich-text bloky v tele namiesto content.sources — BIBLIO_IN_BODY. Navyše bola citácia Bialeková 1989 duplikovaná doslovne 2× (blok 25 aj blok 28 identické).", "fix": "Odstránený duplicitný blok (druhý výskyt Bialeková 1989). Zvyšné 3 unikátne citácie presunuté z tela do content.sources.items (url: null) AJ do top-level blogPost.citations (type: book), zachovaná ich pôvodná formulácia. 3 rich-text bloky s holou bibliografiou odstránené z tela." },
+    { "issue": "Citácia Šaurová (D.) mala OCR-poškodený text 'Zkoum.n. výrobn.ch objektů a technologi. archeologickými metodami 2. 1982,' — chýbajúce písmená nahradené bodkou (OCR artefakt, nie autorský pravopis).", "fix": "Mechanicky zrekonštruované na 'Zkoumání výrobních objektů a technologií archeologickými metodami 2, 1982' (jednoznačné české spojenie z kontextu), trailing čiarka nahradená bodkou. Nahlásené v review.json pre nižšiu istotu rekonštrukcie (OCR_RECONSTRUCTION_LOW_CONFIDENCE)." },
+    { "issue": "authorName bolo 'Unknown', hoci text má osobný blogový hlas autora (odporúčanie externej stránky 'Postup... si môžete pozrieť na tejto kvalitnej stránke') konzistentný so zvyškom korpusu písaným Orgoňom.", "fix": "authorName zmenené na 'Orgon' (rovnaký vzor ako 3 iné potvrdené prípady v §21.10)." },
+    { "issue": "Meno 'Ján František Pálfy' (excerpt + blok 0) je variant chybného tvaru z globálneho slovníka mien (§21.4: kanonický tvar 'Ján Pálffy').", "fix": "Nahradené kanonickým tvarom 'Ján Pálffy' na oboch miestach." }
+  ],
+  "appliedFixes": [
+    { "rule": "A4 pádová väzba (o priemere → s priemerom)", "before": "štyri pravidelné kruhy o priemeru cca 110—140 cm", "after": "štyri pravidelné kruhy s priemerom cca 110 – 140 cm", "block": 11 },
+    { "rule": "A2 pozícia sa/si (Wackernagel)", "before": "Vo výplni objektov prichádzalo sa na črepy", "after": "Vo výplni objektov sa prichádzalo na črepy", "block": 4 },
+    { "rule": "A2", "before": "Okrem keramiky v objektoch našli sa železné nožíky", "after": "Okrem keramiky sa v objektoch našli železné nožíky", "block": 4 },
+    { "rule": "A2", "before": "Po začistení povrchu objavili sa štyri pravidelné kruhy", "after": "Po začistení povrchu sa objavili štyri pravidelné kruhy", "block": 11 },
+    { "rule": "A2", "before": "v druhej polovici hlina sa vyberala ďalej", "after": "v druhej polovici sa hlina vyberala ďalej", "block": 11 },
+    { "rule": "A2", "before": "Do tejto priehlbiny zachytával sa vytekajúci decht", "after": "Do tejto priehlbiny sa zachytával vytekajúci decht", "block": 11 },
+    { "rule": "A2", "before": "V prvej jame našlo sa pár typických slovanských črepov", "after": "V prvej jame sa našlo pár typických slovanských črepov", "block": 11 },
+    { "rule": "A2", "before": "Takmer súčasne s objavením jám v polohe Zadné lány prišlo sa na ďalšie nálezisko", "after": "...lány sa prišlo na ďalšie nálezisko", "block": 13 },
+    { "rule": "A2", "before": "Vo vnútri nádoby zachoval sa značne hrubý povlak dechtu", "after": "Vo vnútri nádoby sa zachoval značne hrubý povlak dechtu", "block": 13 },
+    { "rule": "A2", "before": "Už v českých prameňoch z XI. storočia spomínajú sa výrobcovia smoly", "after": "Už v českých prameňoch z 11. storočia sa spomínajú výrobcovia smoly", "block": 15 },
+    { "rule": "A2", "before": "Tradícia veľkomoravského dechtárstva v prievidzskej oblasti zachovala sa prakticky donedávna", "after": "...oblasti sa zachovala prakticky donedávna", "block": 17 },
+    { "rule": "A2", "before": "Povrch prepážky musel sa pred ohňom chrániť vrstvou hliny", "after": "Povrch prepážky sa musel pred ohňom chrániť vrstvou hliny", "block": 22 },
+    { "rule": "A2 + A8 (nakládli → naložili)", "before": "Na takto zapravené dno nakládli sa polená až po okraj a po zapálení dreva, ústie jamy sa uzavrelo", "after": "Na takto zapravené dno sa naložili polená až po okraj a po zapálení dreva sa ústie jamy uzavrelo", "block": 22, "note": "'nakládli' je český/nespisovný tvar slovesa naložiť; súčasne zjednotená pozícia sa v oboch koordinovaných vetách" },
+    { "rule": "A2", "before": "Pri 450—500 °C zuhoľňujú sa zostávajúce látky", "after": "Pri 450 – 500 °C sa zuhoľňujú zostávajúce látky", "block": 22 },
+    { "rule": "A1 vsuvka/apozícia (uzavretie čiarkou/pomlčkou z oboch strán)", "before": "a niekedy v neskoršom období – pravdepodobne...1241-1242 bolo prestavané", "after": "...1241 – 1242 – bolo prestavané", "block": 7, "note": "otvorená vsuvka pomlčkou nebola uzavretá pred pokračovaním hlavnej vety" },
+    { "rule": "A1 uzavretie vloženej vety čiarkou", "before": "z vlastnej komory, kam sa nakladala surovina a spodnej priehlbiny, kde...", "after": "z vlastnej komory, kam sa nakladala surovina, a spodnej priehlbiny, kde...", "block": 13 },
+    { "rule": "A1 apozícia = pomlčka", "before": "svoje domy - polozemnice budovali", "after": "svoje domy — polozemnice budovali", "block": 3 },
+    { "rule": "A1 vsuvka uzavretá čiarkou z oboch strán", "before": "opletané steny omazané hlinou tzv. mazanicou, ktorá...", "after": "opletané steny omazané hlinou, tzv. mazanicou, ktorá...", "block": 3 },
+    { "rule": "A3 zhoda príčastia v mennom rade", "before": "zvláštnu služobnú vrstvu ... zaoberajúci sa azda i výrobou smoly", "after": "...vrstvu ... zaoberajúcu sa azda i výrobou smoly", "block": 15, "note": "príčastie sa musí zhodovať s 'vrstvu' (žen. r., akuzatív), nie byť v mužskom nom." },
+    { "rule": "A7 bohemizmus (zberanie → zbieranie)", "before": "kam ju vkladali na zberanie dechtu", "after": "kam ju vkladali na zbieranie dechtu", "block": 13 },
+    { "rule": "A7 (popud → podnet, povšimnutie si → všimnutie si)", "before": "je popudom pre bližšie povšimnutie si tohto dôležitého remesla", "after": "je podnetom pre bližšie všimnutie si tohto dôležitého remesla", "block": 15 },
+    { "rule": "A7 (došiel k záverom → dospel k záverom)", "before": "R. Krajčovič ... došiel k záverom", "after": "R. Krajčovič ... dospel k záverom", "block": 15 },
+    { "rule": "A7 (snáď → azda)", "before": "niekedy snáď i opevnených osadách", "after": "niekedy azda i opevnených osadách", "block": 24 },
+    { "rule": "A8 diakritika (kedy → keď vo vzťažnej vete)", "before": "v 50. rokoch 20. storočia, kedy si niektorí obyvatelia", "after": "v 50. rokoch 20. storočia, keď si niektorí obyvatelia", "block": 19 },
+    { "rule": "A8 diakritika (oblastiami → oblasťami)", "before": "s bližšími i vzdialenejšími oblastiami", "after": "s bližšími i vzdialenejšími oblasťami", "block": 17 },
+    { "rule": "A9 veľké písmeno na začiatku popisky", "before": "črep slovanskej nádoby so symbolom svastiky", "after": "Črep slovanskej nádoby so symbolom svastiky", "block": 23, "note": "aj v gallery[] duplicitnej položke" },
+    { "rule": "D globálny slovník mien (Ján František Pálfy → Ján Pálffy)", "before": "Ján František Pálfy", "after": "Ján Pálffy", "block": 0, "note": "aj v excerpte" },
+    { "rule": "D rímske → arabské číslice", "before": "IX.—X. storočia", "after": "9. – 10. storočia", "block": 3 },
+    { "rule": "D", "before": "z 9.-10. storočia", "after": "z 9. – 10. storočia", "block": 4 },
+    { "rule": "D", "before": "z XI. storočia", "after": "z 11. storočia", "block": 15 },
+    { "rule": "D", "before": "vznikajúcej v VIII. a IX. storočí", "after": "vznikajúcej v 8. a 9. storočí", "block": 15 },
+    { "rule": "D", "before": "až do X. storočia", "after": "až do 10. storočia", "block": 24 },
+    { "rule": "B typografia (× namiesto x)", "before": "rozmery cca 3x4 m", "after": "rozmery cca 3 × 4 m", "block": 1, "note": "aj v keyFacts" },
+    { "rule": "B typografia (číselné rozsahy, pomlčka/em dash bez medzier → en dash s medzerami)", "before": "1241-1242 / 110—140 cm / 120—150 °C / 150—270 °C / 275—450 °C / 450—500 °C", "after": "1241 – 1242 / 110 – 140 cm / 120 – 150 °C / 150 – 270 °C / 275 – 450 °C / 450 – 500 °C", "block": "viaceré (7, 11, 22) + keyFacts + timeline" },
+    { "rule": "B typografia", "before": "Slovanská sekera - bradatica z Bojníc / Prepoštská jaskyňa - bydlisko neandertálca", "after": "Slovanská sekera — bradatica z Bojníc / Prepoštská jaskyňa — bydlisko neandertálca", "block": "captions/alt aj gallery[]" }
+  ],
+  "reviewed_no_change": [
+    "blogPost.title 'Bojnice - hradisko a centrum dechtárstva v slovanskom období' — plný hyphen v title poli je zavedená konvencia naprieč celým korpusom (overené: Blatnohrad, Bojná, Bošáca, Břeclav-Pohansko atď. všetky používajú plain '-' v title, na rozdiel od en dash v podnadpisoch/timeline), preto NEMENENÉ. Rovnako ponechané 3 duplicity tohto reťazca v alt textoch obrázkov bez vlastnej popisky (bloky 5, 8, 20).",
+    "'Veľkomoravskej ríše' — veľké písmeno ponechané, ide o názov štátneho útvaru (rovnaká kategória ako 'Uhorské kráľovstvo' v A9), nie obdobie/kultúra.",
+    "'zv. II' a 'Horná Nitra I' v bibliografických citáciách — rímske číslice ponechané, ide o číslovanie zväzku/ročníka časopisu (bibliografická konvencia), nie vecný text (rovnaký precedens ako drazovce 'Sborník MSS XXIII').",
+    "'in:' malým písmenom v citácii Bialeková 1962 — ponechané v pôvodnom tvare citácie, nejde o gramatickú chybu.",
+    "'u nás' (block 10, 15) — správne použitie, nie bohemizmus (predložka u + skupina osôb/kontext, nie 'u veci').",
+    "Opakovanie 'ešte...ešte' v bloku 17 ('ešte v 60. rokoch si ešte živo spomínali') — štylistická redundancia, nie gramatická chyba; presahuje rozsah gramatickej korektúry (§18.2 zákaz štylistického prepisovania nad rámec), ponechané."
+  ],
+  "flags": [
+    "Pozri out/bojnice-hradisko-a-centrum-dechtarstva-v-slovanskom-obdobi.review.json — SELF_CONTRADICTION (blok 17 vs. 19, rozdielne desaťročia pre tú istú spomienku na dechtárske pece), RELATIVE_DATE (2× 'donedávna'), OCR_RECONSTRUCTION_LOW_CONFIDENCE (citácia Šaurová)."
+  ]
+}

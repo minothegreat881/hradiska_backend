@@ -1,0 +1,17 @@
+{
+  "slug": "hradiste-pod-vratnom",
+  "note": "grammar-sk pass1 aplikovaný priamo do out/hradiste-pod-vratnom.intermediate.json + pass2 cross-field kontrola. Žiadna chránená zóna (žiadny dobový citát) — celý text je autorský hlas Orgoňa.",
+  "step1_appliedFixes_applied": [
+    { "rule": "typografia (trailing whitespace)", "applied_to": ["block 1"] },
+    { "rule": "B typografia (lomky → zátvorky, 3×)", "applied_to": ["block 2 (paleolite, neolitu, 1800–700 pr. n. l.)"] },
+    { "rule": "A3 zhoda čísla + A4 pádová väzba", "before": "hradiská, veľké o rozlohe ... ktoré slúžilo", "after": "hradisko, veľké s rozlohou ... ktoré slúžilo", "applied_to": ["block 2"], "note": "potvrdené krížovou kontrolou s keyFacts aj timeline (obe majú jednotné číslo 'hradisko')" },
+    { "rule": "typografia (trailing whitespace)", "applied_to": ["block 2"] },
+    { "rule": "B typografia + §21.10 nízke číslovky slovom", "before": "/ 4 hroby prevažne bez milodarov/", "after": "(štyri hroby prevažne bez milodarov)", "applied_to": ["block 5"] },
+    { "rule": "typografia (medzera pred čiarkou)", "before": "Historica Slovaca V , 1947", "after": "Historica Slovaca V, 1947", "applied_to": ["content.sources.items[3]", "citations[3]"] }
+  ],
+  "step2_crossfield_additions": [],
+  "step2_scan_result": "Plný sken keyFacts + timeline + excerpt + tags + title na rímske číslice, lomky, bohemizmy, nekonzistentné číslovky (slovo vs. číslica) — keyFacts a timeline už boli interne konzistentné a zámerne ponechané v číslicovej (faktografickej) podobe pre '4 hroby'/'s 4 hrobmi' podľa výnimky v §21.10. Jediná skutočná cross-field chyba (plurál 'hradiská' v tele vs. singulár všade inde) opravená už v kroku 1, nešlo o samostatný pass2 nález.",
+  "nfd_nfc_note": "Súbor preventívne normalizovaný na .normalize('NFC') pred úpravami (1 bajt rozdiel, žiadny viditeľný obsah zmenený).",
+  "flags_unresolved": [],
+  "upload_ready": true
+}

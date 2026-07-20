@@ -1,0 +1,9 @@
+{
+  "_note": "Audit: schválené gramatické opravy (Agent 2). Beckov, 13.7.2026. Chránené kmene a quote-blocky nechané.",
+  "corrections": [
+    { "hint": 12, "before": "Beckovského skalného, hradného brala", "after": "Beckovského skalného hradného brala", "reason": "nadbytočná čiarka medzi zhodnými prívlastkami" },
+    { "hint": 16, "before": "Aj v obci , ulice Slnečná a Zelená , sa", "after": "Aj v obci, ulice Slnečná a Zelená, sa", "reason": "medzera pred čiarkou" },
+    { "hint": 2, "before": "Nového Mesta Nad Váhom", "after": "Nového Mesta nad Váhom", "reason": "oficiálny názov mesta má predložku malým písmenom" },
+    { "hint": 7, "before": "tvoril základ kastelániu \"Trecen\". Budúceho trenčianskeho komitátu", "after": "tvoril základ kastelánie \"Trecen\", budúceho trenčianskeho komitátu", "reason": "genitív po základ (kastelánie) + spojenie vetného zlomku čiarkou namiesto bodky" }
+  ]
+}

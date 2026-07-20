@@ -1,0 +1,33 @@
+{
+  "slug": "trencin-velkomoravske-hradisko",
+  "note": "Pass 2 — cross-field konzistencia (§21.4).",
+  "beforeAfterMap": [
+    { "before": "Praveku", "after": "praveku" },
+    { "before": "50.-tych / 70.-tych / 80.-tych rokoch", "after": "50. / 70. / 80. rokoch" },
+    { "before": "mepe", "after": "mape" },
+    { "before": "obtiažne", "after": "náročné" },
+    { "before": "315-380 / 65-75 / 35-50 / 15.-16. / 9.-13. / 9.-11. / 9.-12.", "after": "315 – 380 / 65 – 75 / 35 – 50 / 15. – 16. / 9. – 13. / 9. – 11. / 9. – 12." },
+    { "before": "Sevčíková", "after": "Ševčíková" },
+    { "before": "Staré Město", "after": "Staré Mesto" },
+    { "before": "prelomu 10.-11. storočia", "after": "prelomu 10./11. storočia" },
+    { "before": "pol 12. stor.", "after": "pol. 12. stor." },
+    { "before": "trenčiansky župani", "after": "trenčianski župani" },
+    { "before": "1119-1125 / 1092-1100", "after": "1119 – 1125 / 1092 – 1100" },
+    { "before": "Treinehen", "after": "Treinchen" },
+    { "before": "kedy (2×)", "after": "keď" },
+    { "before": "Slovenské veľkomesto", "after": "slovenské veľkomesto" },
+    { "before": "rimanov / rimania (4×)", "after": "Rimanov / Rimania" },
+    { "before": "uvolnili", "after": "uvoľnili" },
+    { "before": "z mohutným rachotom", "after": "s mohutným rachotom" }
+  ],
+  "crossFieldChecks": [
+    { "field": "excerpt", "result": "Excerpt je krátky úsek blogu 0 useknutý pred '…' skôr, než sa objaví prvá oprava (apozícia Matúšom Čákom). Žiadny opravovaný tvar sa v ňom nenachádza. Bez zmeny." },
+    { "field": "keyFacts[]", "result": "OPRAVENÉ — label 'Najstarší trenčiansky župani' mal rovnakú chybu čísla ako telo ('trenčiansky' namiesto 'trenčianski'), opravené na 'Najstarší trenčianski župani'. Ostatné keyFacts (rotunda 315 – 380 cm, Staré Mesto/Levý Hradec) už mali cieľové tvary pred pass 1 — telo bolo dotiahnuté na ich úroveň." },
+    { "field": "timeline[]", "result": "ŽIADNA oprava nutná — timeline už mal cieľové tvary ('civitas Treinchen', 'Staré Mesto', 'prelom 10./11. – 1. tretina 11. storočia', '80. roky 20. storočia'), ktoré slúžili ako referencia pre opravu tela." },
+    { "field": "media[].caption / alternativeText", "result": "OPRAVENÉ — 'Trenčín na mepe 1739' (preklep 'mepe'→'mape') sa vyskytoval 3× (gallery caption + image-block alt + caption), opravené všade naraz." },
+    { "field": "title / tags / location.name", "result": "'Trenčín - Veľkomoravské hradisko' — mimo rozsahu §21.4 (identifikátor), bez zmeny." },
+    { "field": "content.sources / citations", "result": "OPRAVENÉ — bibliografický titul 'Stredoveké rotundy na Slovensku 9.-13. storočie' (Martin Vančo) mal nesprávny číselný rozsah aj v tele aj v oboch bibliografických poliach (sources + citations), zjednotené na '9. – 13. storočie' vo všetkých troch výskytoch." },
+    { "field": "content.quote-block", "result": "Nedotknuté — štrukturálne chránené vždy podľa §21.3, bez ohľadu na obsah." }
+  ],
+  "verdict": "Cross-field propagácia preverená na všetkých poliach zo zoznamu §21.4. Dva potvrdené obojsmerné prípady: keyFacts label (trenčianski župani) a bibliografia (9.–13. storočie) zdieľali rovnakú chybu s telom; viacero ďalších prípadov malo sidebar (timeline/keyFacts) už správne a telo bolo dotiahnuté na jeho úroveň. intermediate.json je po pass 1 + pass 2 pripravený na upload — žiadne nevyriešené flagy (review.json sa pre tento článok nevytváral, nebolo čo nahlásiť)."
+}

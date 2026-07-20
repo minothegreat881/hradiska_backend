@@ -1,0 +1,101 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\aktuality-2017-12-pred-2-rokmi-sme-vydali-zbornik.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-2955936540870100537",
+    "bloggerPostUrl": "http://www.hradiska.sk/2017/12/pred-2-rokmi-sme-vydali-zbornik.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/2955936540870100537/comments/default",
+    "extractedAt": "2026-07-18T11:21:33.516Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Zborník",
+    "slug": "zbornik",
+    "excerpt": "Pred 2 rokmi sme vydali zborník Hradiská - svedkovia dávnych čias. Jeho náklad 500 ks bol okamžite vypredaný a dostať sa k nemu už bolo pomerne komplikované. Preto sme sa rozhodli, že zborník zverejníme celý na Academii a tým sa stane prístupný…",
+    "authorName": "Orgon",
+    "publishedAt": "2017-12-25T12:31:00.006+01:00",
+    "originalPublishedDate": "2017-12-25T12:31:00.006+01:00",
+    "updatedAt": "2017-12-25T12:32:59.615+01:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2cCZnAr_8OF5SzjjMe3HkM7adJlsOzAjFybdXHpu8EFclns8EfC4S-ewQmtBvX4VbgnqLs7gtkiI0rnDHiX3AQmxeQXkgSD-iGUwUkfJu-LmSlqjEmoWA2IcCTmhoJx8J5RcYmob1IAUC/s0/obalka+3D.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2cCZnAr_8OF5SzjjMe3HkM7adJlsOzAjFybdXHpu8EFclns8EfC4S-ewQmtBvX4VbgnqLs7gtkiI0rnDHiX3AQmxeQXkgSD-iGUwUkfJu-LmSlqjEmoWA2IcCTmhoJx8J5RcYmob1IAUC/s1600/obalka+3D.jpg",
+        "filename": "obalka+3D.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2cCZnAr_8OF5SzjjMe3HkM7adJlsOzAjFybdXHpu8EFclns8EfC4S-ewQmtBvX4VbgnqLs7gtkiI0rnDHiX3AQmxeQXkgSD-iGUwUkfJu-LmSlqjEmoWA2IcCTmhoJx8J5RcYmob1IAUC/s1600/obalka+3D.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 287,
+          "originalWidth": 960,
+          "originalHeight": 862
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pred 2 rokmi sme vydali zborník Hradiská – svedkovia dávnych čias. Jeho náklad 500 ks bol okamžite vypredaný a dostať sa k nemu už bolo pomerne komplikované. Preto sme sa rozhodli, že zborník zverejníme celý na Academii a tým sa stane prístupný všetkým záujemcom. Berte to ako darček pod stromček."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "https://www.academia.edu/35501046/Hradisk%C3%A1_-_Svedkovia_d%C3%A1vnych_%C4%8Dias_-_full",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "ZBORNÍK"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

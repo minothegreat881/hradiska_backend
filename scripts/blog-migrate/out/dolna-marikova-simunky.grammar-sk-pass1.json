@@ -1,0 +1,49 @@
+{
+  "slug": "dolna-marikova-simunky",
+  "note": "grammar-sk agent, prvý plný vetný prechod (článok mal predtým iba starú pre-v7 preklepovú úpravu). Obsahuje 4 chránené zóny (moderné priame citáty: Juraj Malec 2×, Robert Majsky, Peter Schreiber; plus 1 historický citát: obecná kronika Marikovej 1941 + krátky citát páter Povala) — vo všetkých iba mechanické OCR/medzerové opravy, žiadna zmena slova.",
+  "criticalFixes": [],
+  "appliedFixes": [
+    { "rule": "B typografia (číselný rozsah)", "before": "12-15 metrov", "after": "12 – 15 metrov", "block": "Približne 1,5 km severozápadne...", "note": "aj keyFacts" },
+    { "rule": "A1 nadbytočná čiarka (podmet-prísudok)", "before": "vápencových skalnatých brál, je vysoké", "after": "vápencových skalnatých brál je vysoké", "block": "Približne 1,5 km severozápadne..." },
+    { "rule": "B typografia (m n. m.)", "before": "601 m n.m.", "after": "601 m n. m.", "block": "Približne 1,5 km severozápadne...", "note": "aj keyFacts" },
+    { "rule": "A7 bohemizmus", "before": "je treba na túto cestu odbočiť", "after": "treba na túto cestu odbočiť", "block": "Na brale Široká naši predkovia..." },
+    { "rule": "A3 zhoda podmet-prísudok (dvojnásobný podmet)", "before": "Poloha... a nadväznosť... dáva lokalite charakter", "after": "Poloha... a nadväznosť... dávajú lokalite charakter", "block": "Poloha na skalnej plošine..." },
+    { "rule": "B typografia (násobenie)", "before": "8 x 10 m", "after": "8 × 10 m", "block": "Poloha na skalnej plošine..." },
+    { "rule": "A1 uzavretie vloženej vety (chýbajúca druhá čiarka)", "before": "dôkaz o tom, v podobe viditeľnej brány neexistuje", "after": "dôkaz o tom, v podobe viditeľnej brány, neexistuje", "block": "Poloha na skalnej plošine..." },
+    { "rule": "B typografia (číselný rozsah)", "before": "terás šírky 10-15 m", "after": "terás šírky 10 – 15 m", "block": "Poloha na skalnej plošine..." },
+    { "rule": "A8 pádová koncovka (zámena predložky/pádu)", "before": "slúžiť obrancom v prípadne obliehania", "after": "slúžiť obrancom v prípade obliehania", "block": "Poloha na skalnej plošine..." },
+    { "rule": "D globálny slovník mien", "before": "uvádza archeológ Rober Májsky", "after": "uvádza archeológ Robert Majsky", "block": "Ako už bolo uvedené vyššie...", "note": "protected-terms.json: Robert Majsky (nie Rober Májsky); samotný citát za menom nedotknutý (chránená zóna)" },
+    { "rule": "B typografia (medzera pred úvodzovkami)", "before": "tento záznam:  „Kátlina", "after": "tento záznam: „Kátlina", "block": "Treba uviesť, že lokalitu...", "note": "mechanická oprava mimo obsahu chráneného citátu" },
+    { "rule": "A7 bohemizmus", "before": "bolo na nálezisku prevedených niekoľko výskumov", "after": "bolo na nálezisku uskutočnených niekoľko výskumov", "block": "Prvé archeologické nálezy na Šimunkách..." },
+    { "rule": "A3 zhoda podmet-prísudok (viacnásobný podmet, výpočet predmetov)", "before": "súbor detektorových nálezov..., ktorý tvorí jedna včasnostredoveká ostroha, prevliečka ostrohy, súčasť vedra a dva zahnuté nože", "after": "..., ktorý tvoria jedna včasnostredoveká ostroha, prevliečka ostrohy, súčasť vedra a dva zahnuté nože", "block": "Po roku 2008 sa v okolí hradiska..." },
+    { "rule": "A3 zhoda podmet-prísudok (rod)", "before": "Prvý krok, ktorý sme podnikli, bolo vyčistenie hradiska", "after": "Prvý krok, ktorý sme podnikli, bol vyčistenie hradiska", "block": "V roku 2016 preto členovia..." },
+    { "rule": "A4 pádová väzba (bohemizmus 'o rozmeroch')", "before": "sondu o rozmeroch 1x2 metre", "after": "sondu s rozmermi 1 × 2 metre", "block": "V roku 2016 preto členovia..." },
+    { "rule": "A1 uzavretie vloženej vety", "before": "každý kovový nález, nájdený s detektormi kovov bol zadokumentovaný", "after": "každý kovový nález, nájdený s detektormi kovov, bol zadokumentovaný", "block": "V roku 2016 preto členovia..." },
+    { "rule": "B typografia (násobenie)", "before": "sondou s rozmermi 40x40 cm", "after": "sondou s rozmermi 40 × 40 cm", "block": "V roku 2016 preto členovia..." },
+    { "rule": "A7 bohemizmus", "before": "nakoľko výšinná poloha a opevnenie dávali", "after": "keďže výšinná poloha a opevnenie dávali", "block": "Aký význam mohlo mať hradisko..." },
+    { "rule": "A7 bohemizmus", "before": "Zaujímavosťou je, že sa jedná zrejme o najsevernejšie hradisko", "after": "Zaujímavosťou je, že ide zrejme o najsevernejšie hradisko", "block": "Aký význam mohlo mať hradisko..." },
+    { "rule": "A7 bohemizmus + A1 chýbajúca čiarka", "before": "alebo sa jednalo o iné faktory (...) sa už nedozvieme.", "after": "alebo išlo o iné faktory (...), sa už nedozvieme.", "block": "Prečo si teda títo kočovníci..." },
+    { "rule": "B typografia (pomlčka namiesto rozdeleného spojovníka)", "before": "cez Klieštinu- Strážisko", "after": "cez Klieštinu – Strážisko", "block": "Prečo si teda títo kočovníci..." },
+    { "rule": "A9 veľké/malé (cross-field zjednotenie v rámci tej istej vety)", "before": "spomínaná dolina Bielej Vody", "after": "spomínaná dolina Bielej vody", "block": "Prečo si teda títo kočovníci...", "note": "zjednotené s 2 ďalšími výskytmi 'Bielej vody' (malé v) v tom istom odseku/článku" },
+    { "rule": "A9 formálny názov mapovania (cross-field zjednotenie)", "before": "Detkovec na mape 2. vojenského mapovania", "after": "Detkovec na mape II. vojenského mapovania", "block": "gallery caption + image-block alt/caption (2+ výskyty)", "note": "telo aj timeline používajú rímske 'II. vojenské mapovanie' — zjednotené" },
+    { "rule": "A1 čiarka pred vzťažným zámenom", "before": "Nálezy ktoré publikoval J. Moravčík", "after": "Nálezy, ktoré publikoval J. Moravčík", "block": "gallery caption + image-block alt/caption" },
+    { "rule": "A9 veľké písmená (formálny názov obdobia)", "before": "Motyka z obdobia veľkej Moravy", "after": "Motyka z obdobia Veľkej Moravy", "block": "gallery caption" },
+    { "rule": "B typografia (číselný rozsah) + A9 (Tatárskeho→tatárskeho)", "before": "12.-13. storočia (do obdobia Tatárskeho vpádu)", "after": "12. – 13. storočia (do obdobia tatárskeho vpádu)", "block": "gallery caption", "note": "presný príklad z §21.1 A9" },
+    { "rule": "A8 preklep (chýbajúce písmeno)", "before": "Hrebeň, ohraničujúci okrej hradiska", "after": "Hrebeň, ohraničujúci okraj hradiska", "block": "gallery caption + image-block alt/caption + content.sources.items + citations[] (4 miesta)" },
+    { "rule": "B typografia (číselný rozsah, str.)", "before": "s. 131-133.", "after": "s. 131 – 133.", "block": "content.sources / citations[]" },
+    { "rule": "B typografia (číselný rozsah + medzera)", "before": "s.7-36.", "after": "s. 7 – 36.", "block": "content.sources / citations[]" },
+    { "rule": "B typografia (číselný rozsah)", "before": "s. 6-259.", "after": "s. 6 – 259.", "block": "content.sources / citations[]" },
+    { "rule": "B typografia (medzera)", "before": "cit.: s.259", "after": "cit.: s. 259", "block": "content.sources / citations[]" },
+    { "rule": "B typografia (URL veľké/malé)", "before": "Www.hradiska.sk", "after": "www.hradiska.sk", "block": "content.sources / citations[]" }
+  ],
+  "reviewed_no_change": [
+    "4 moderné priame citáty (Juraj Malec 2×, Robert Majsky, Peter Schreiber) — ponechané bez zmeny slova, iba narrátorský text okolo nich (uvádzacie frázy, meno) bol v rozsahu úpravy.",
+    "Historický citát obecnej kroniky Marikovej (1941) a krátky citát páter Povalu — chránená zóna (§21.3), nedotknuté okrem 1 mechanickej opravy dvojmedzery pred úvodzovkami mimo samotného citovaného textu.",
+    "'v podobe viditeľnej brány' vsuvka opravená iba doplnením chýbajúcej čiarky, obsah nedotknutý.",
+    "'vodných zdrojov-studničiek' — ponechané ako kompaktný spojovníkový zložený výraz (nie apozícia vyžadujúca pomlčku).",
+    "Heading 'Orgoň' (osamotené meno) — viď review.json, ponechané ako autorský podpis, nie chyba extrakcie."
+  ],
+  "flags": [
+    "Pozri out/dolna-marikova-simunky.review.json — UNCLOSED_PAREN (citát páter Povalu) a štrukturálna poznámka k osamotenému heading-u 'Orgoň' (§21.10, informačná, nie chyba)."
+  ]
+}

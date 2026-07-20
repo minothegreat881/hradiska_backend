@@ -1,0 +1,28 @@
+{
+  "slug": "beckov-slovanske-hradisko",
+  "pass": "grammar-sk final (pass1 applied + pass2 cross-field sweep)",
+  "appliedFixes": [
+    { "rule": "B typografia (číselný rozsah + apozícia)", "before": "13. - 18. storočia ... brala - 253 m", "after": "13. – 18. storočia ... brala — 253 m", "block": 5 },
+    { "rule": "B typografia (úvodzovky house-style)", "before": "\"trenčianskym\" ... \"Trecen\"", "after": "„trenčianskym\" ... „Trecen\"", "block": 7 },
+    { "rule": "B typografia (úvodzovky, apozícia, číselné rozsahy)", "before": "Beckov - \"Blondóc\" / \"castrórum\" / 13. - 18. stor. / 930 - 940 / Bratislava - Hlohovec - ... / podolia - ... komitátu - / (1077 - 1095) / Štefana I. 1000 - 1038", "after": "Beckov — „Blondóc\" / „castrórum\" / 13. – 18. stor. / 930 – 940 / Bratislava – Hlohovec – ... / podolia — ... komitátu — / (1077 – 1095) / Štefana I. (1000 – 1038)", "block": 9, "note": "pass2 doplnil aj apozičnú pomlčku 'Beckov — „Blondóc\"', ktorú draft nezachytil v skrátenom before/after, ale patrí pod rovnaké pravidlo B (apozícia); zjednotené s timeline id 2555/2556/2557" },
+    { "rule": "MISSING_WORD (chýbajúca predložka)", "before": "tým aj pre kočovné obyvateľstvo menej zaujímavom území", "after": "tým aj pre kočovné obyvateľstvo v menej zaujímavom území", "block": 11 },
+    { "rule": "B typografia (číselné rozsahy, apozícia)", "before": "10. - 11. stor. / 13. - 18. stor. / terénu - ... bralo -", "after": "10. – 11. stor. / 13. – 18. stor. / terénu — ... bralo —", "block": 12 },
+    { "rule": "A3 zhoda podmetu s prísudkom", "before": "Samotná výhodná poloha ... priam vypovedajú o strategicko-vojenskej...", "after": "...priam vypovedá o strategicko-vojenskej...", "block": 12 },
+    { "rule": "B typografia (apozícia) + chýbajúca koncová bodka", "before": "so súhlasom autora - archeológa SAHI", "after": "so súhlasom autora — archeológa SAHI.", "block": 15 },
+    { "rule": "B typografia (apozícia)", "before": "v časti Sady - keramika ... 8. stor. - ide o jamu ... 10. stor. - 8 objektov", "after": "v časti Sady — keramika ... 8. stor. — ide o jamu ... 10. stor. — 8 objektov", "block": 16 },
+    { "rule": "UNCLOSED_PAREN", "before": "8 objektov (polozemnica, sídliskové jamy s keramickými nálezmi.(6)", "after": "8 objektov (polozemnica, sídliskové jamy s keramickými nálezmi).(6)", "block": 16 },
+    { "rule": "B typografia (zjednotenie úvodzoviek)", "before": "Castrum \"Blundus\"", "after": "Castrum „Blundus\"", "block": "keyFacts" },
+    { "rule": "B typografia (zjednotenie úvodzoviek)", "before": "Nájdené \"za skalicami\".", "after": "Nájdené „za skalicami\".", "block": "timeline" }
+  ],
+  "pass2CrossFieldCheck": {
+    "method": "Mapa všetkých before->after zo appliedFixes preverená proti excerpt, keyFacts[], timeline[], captions, title, tags.",
+    "findings": "Timeline aj keyFacts už mali korektný formát (en dash, zátvorky) pre '930 – 940', '(1077 – 1095)', 'Štefana I. (1000 – 1038)', 'Bratislava – Hlohovec – Nitra – Levice – Rimavská Sobota' PRED touto opravou — telo bolo pozadu, teraz zjednotené. Jediné reálne cross-field nekonzistencie boli úvodzovky v keyFacts ('Blundus') a timeline ('za skalicami'), oba opravené. Excerpt, title, tags, captions (žiadne obrázky s captions v tomto článku) bez zmien — draft ich ani neuvádzal.",
+    "sweepA1_A9_timeline_keyFacts": "Vykonaný sweep timeline[]/keyFacts[] podľa §21.1 (čiarky, sa/si, bohemizmy, veľké/malé písmená) nad rámec draftu — žiadne ďalšie chyby nájdené."
+  },
+  "skippedOrFlagged": [
+    { "item": "'stratený meč' (blok 16)", "reason": "Nezvyčajné slovné spojenie pri opise nálezu meča; možný preklep, nemám ako overiť pôvodný zdroj (Historická revue). Ponechané nezmenené, zapísané do review.json." },
+    { "item": "Footnote značky (6)(7)(8) glued bez medzery", "reason": "Konzistentný vlastný štýl článku (prevzaté z odborného časopisu), nemenené." }
+  ],
+  "protectedQuoteBlocks": "Žiadny content.quote-block v článku — nebola potrebná konverzia ani citátová ochrana.",
+  "uploadReady": true
+}

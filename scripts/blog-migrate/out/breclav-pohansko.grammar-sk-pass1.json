@@ -1,0 +1,18 @@
+{
+  "slug": "breclav-pohansko",
+  "note": "grammar-sk agent, prvý prechod. Krátky, ale gramaticky dosť nedbalý článok (viacero rodových zhôd, preklepov).",
+  "appliedFixes": [
+    { "rule": "B typografia (spojovník bez medzier) + zjednotenie úvodzoviek", "before": "moravsko - rakúskej ... Názov „Pohansko“ získalo", "after": "moravsko-rakúskej ... Názov „Pohansko\" získalo", "block": "0, excerpt" },
+    { "rule": "D globálny slovník (jedno slovo) + B typografia + A3 zhoda podmet-prísudok + A9 malé písmeno", "before": "Včasno - slovanské ... osídlenia (6-8. Storočie) bolo zachytené", "after": "Včasnoslovanské ... osídlenie (6. – 8. storočie) bolo zachytené", "block": 1, "note": "zjednotené s timeline (id 3090), ktoré malo už 'Včasnoslovanské' ako jedno slovo" },
+    { "rule": "A1 chýbajúce čiarky", "before": "trojloďový 18,6 m dlhý ... charakteru aké sa našli", "after": "trojloďový, 18,6 m dlhý ... charakteru, aké sa našli", "block": 3 },
+    { "rule": "A4 zhoda rodu + preklep", "before": "zistený veľmožská dvorec ... víacpriestorovými domami ... podmurovkách, a hospodárska časť", "after": "zistený veľmožský dvorec ... viacpriestorovými domami ... podmurovkách a hospodárska časť", "block": 5 },
+    { "rule": "A1 nadbytočná čiarka + A8 preklep + A4 pád", "before": "areály, a menšie pohrebisko ... velmožského dvorca ... zachytené jeho okraja ... sakrálnej účel", "after": "areály a menšie pohrebisko ... veľmožského dvorca ... zachytené jeho okraje ... sakrálny účel", "block": 6 },
+    { "rule": "A4 zhoda rodu + A7 archaizmus + B pomlčka", "before": "sídliskovej areál ... snáď remeselnícko-výrobný ... veľmožovi - kniežaciemu hodnostárovi - so sídlom", "after": "sídliskový areál ... azda remeselnícko-výrobný ... veľmožovi — kniežaciemu hodnostárovi — so sídlom", "block": 8 },
+    { "rule": "A9 veľké písmeno (vlastné meno) + duplicitné slová/A7 bohemizmus + A1 chýbajúca čiarka + A5 slovosled", "before": "V pohansku bola ... Jedná sa o sa o kolový objekt ... hradiska sa nachádza ... funkciu kultovú", "after": "V Pohansku bola ... Ide o kolový objekt ... hradiska, sa nachádza ... kultovú funkciu", "block": 10 },
+    { "rule": "B typografia (zjednotenie úvodzoviek)", "before": "meno \"Pohansko\" získalo", "after": "meno „Pohansko\" získalo", "block": "timeline" }
+  ],
+  "reviewed_no_change": [
+    "Blok 2, 4, 7, 9, 11 — bez chýb."
+  ],
+  "flags": []
+}

@@ -1,0 +1,132 @@
+{
+  "_note": "Audit súbor: schválená timeline + keyFacts (Agent 1, overené proti telu článku). Retroaktívna verifikácia 13.7.2026 v rámci auditu Mocenských centier — každá položka overená proti telu (word-overlap skript + ručná kontrola sporných zhôd), 0 nezdrojovaných položiek nájdených. 15 timeline + 7 keyFacts.",
+  "timeline": [
+    {
+      "year": "koniec 320. rokov",
+      "title": "Rímska pevnosť Pone Navata",
+      "description": "Rimania vybudovali na Šibrikovom kopci trojuholníkovú pevnosť (rozmery cca 130×140 m), súčasť severných opevnení Limes Romanus.",
+      "type": "construction"
+    },
+    {
+      "year": "372",
+      "title": "Postavenie väčšej strážnej veže",
+      "description": "K rímskej pevnosti pribudla väčšia strážna veža.",
+      "type": "construction"
+    },
+    {
+      "year": "5. storočie",
+      "title": "Odchod rímskych stráží",
+      "description": "Rímske stráže opustili pevnosť.",
+      "type": "destruction"
+    },
+    {
+      "year": "9. storočie",
+      "title": "Slovanské hradisko na Šibrikovom kopci",
+      "description": "Slovania využili pozostatky rímskeho opevnenia a vybudovali hradisko — lokálne správne centrum nitrianskej časti Veľkej Moravy, pomenované Vyšegrad (výšinný hrad).",
+      "type": "founding"
+    },
+    {
+      "year": "prelom 8. a 9. storočia",
+      "title": "Staršia stena vypletená prútím",
+      "description": "Podľa výskumu z roku 2013 pozostatky steny vypletenej prútím pod základmi neskoršieho kostola.",
+      "type": "construction"
+    },
+    {
+      "year": "10. storočie (maďarské datovanie)",
+      "title": "Predrománsky kostol",
+      "description": "Základy predrománskeho kostola, pod ktorými sa našla ostroha z 8. storočia; z vonkajšej strany hrob pravdepodobne pochovaného kňaza s časťou kalicha.",
+      "type": "construction"
+    },
+    {
+      "year": "1009",
+      "title": "Prvá písomná zmienka o Visegrade ako sídle župy",
+      "description": "Listina kráľa Štefana I. spomína Visegrád civitas; Visegrádska župa zahŕňala oblasť na oboch brehoch Dunaja.",
+      "type": "event"
+    },
+    {
+      "year": "začiatok 11. storočia",
+      "title": "Kamenná budova — sídlo župana",
+      "description": "V juhovýchodnej časti hradu postavená budova (16,5 × 10/9 m) na ruinách rímskych stavieb, s vykurovanou východnou miestnosťou.",
+      "type": "construction"
+    },
+    {
+      "year": "pred 1055",
+      "title": "Ortodoxný kláštor pod Šibrikovým kopcom",
+      "description": "Kráľ Ondrej I. dal postaviť kláštor východného obradu pre mníchov prišlých s manželkou Anastáziou z Kijeva — skôr než začal stavbu opátstva v Tihany.",
+      "type": "construction"
+    },
+    {
+      "year": "1063 – 1081",
+      "title": "Prepošstský kostol a väznenie Šalamúna",
+      "description": "Po roku 1063 postavený honosný prepošstský kostol s freskami; roku 1081 dal sv. Ladislav zatvoriť zosadeného kráľa Šalamúna do veže pevnosti.",
+      "type": "event"
+    },
+    {
+      "year": "1220. roky – 1490",
+      "title": "Zmeny správy kláštora",
+      "description": "Ortodoxný kláštor prevzali v 20. rokoch 13. storočia benediktíni, neskôr roku 1490 paulíni.",
+      "type": "event"
+    },
+    {
+      "year": "12. storočie",
+      "title": "Úpadok župného centra",
+      "description": "Podobne ako iné župné sídla bez výhodnej hospodárskej polohy, aj Visegrad začal upadať na úroveň dedinského trhového centra.",
+      "type": "destruction"
+    },
+    {
+      "year": "13. storočie (tatársky vpád)",
+      "title": "Zánik župného hradu",
+      "description": "Zanedbaný župný hrad na Šibrikovom kopci padol za obeť Tatárom; po ich odchode ho už neobnovili.",
+      "type": "destruction"
+    },
+    {
+      "year": "okolo 1560",
+      "title": "Zánik kláštora",
+      "description": "Ortodoxný kláštor celkom zanikol počas tureckej nadvlády.",
+      "type": "destruction"
+    },
+    {
+      "year": "po tatárskom vpáde (13. stor.)",
+      "title": "Výstavba nového horného a dolného hradu",
+      "description": "V rámci programu Bela IV. postavili dnešný horný hrad Visegrád a dolný hrad (Šalamúnova veža); kamene zo zaniknutého župného hradu boli druhotne použité.",
+      "type": "construction"
+    }
+  ],
+  "keyFacts": [
+    {
+      "label": "Poloha",
+      "value": "Cca 7 km vzdušnou čiarou od Štúrova, na Šibrikovom kopci (nižší vedľajší kopec oproti dnešnému hornému hradu)",
+      "icon": "mountain"
+    },
+    {
+      "label": "Rímska pevnosť Pone Navata",
+      "value": "Trojuholníkový pôdorys, rozmery cca 130 × 140 m, súčasť Limes Romanus; opustená v 5. storočí",
+      "icon": "shield"
+    },
+    {
+      "label": "Slovanský Vyšegrad",
+      "value": "Meno znamená „výšinný hrad\" — doložené v prameňoch už v roku 1009; lokálne správne centrum nitrianskej časti Veľkej Moravy",
+      "icon": "crown"
+    },
+    {
+      "label": "Predrománsky kostol",
+      "value": "Základy z 10. storočia, pod nimi ostroha z 8. storočia a stena vypletená prútím z prelomu 8./9. storočia",
+      "icon": "building"
+    },
+    {
+      "label": "Sídlo župana",
+      "value": "Kamenná budova zo začiatku 11. storočia na ruinách rímskych stavieb, 16,5 × 10/9 m, s vykurovanou miestnosťou",
+      "icon": "building"
+    },
+    {
+      "label": "Väzenie kráľa Šalamúna",
+      "value": "V roku 1081 tu bol na príkaz sv. Ladislava uväznený zosadený kráľ Šalamún",
+      "icon": "crown"
+    },
+    {
+      "label": "Dnes",
+      "value": "V múzeu vo Visegrade viditeľné nálezy typické pre obdobie Veľkej Moravy, hoci slovanské hradisko maďarská literatúra takmer nezmieňuje",
+      "icon": "star"
+    }
+  ]
+}

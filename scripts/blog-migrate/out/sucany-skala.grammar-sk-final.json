@@ -1,0 +1,36 @@
+{
+  "slug": "sucany-skala",
+  "note": "Sidebar (Agent 1) vytvorený od nuly + aplikované nálezy z grammar-sk-pass2.json + finálna cross-field kontrola (§21.4). intermediate.json je upload-ready.",
+  "sidebar": {
+    "timelineCount": 7,
+    "keyFactsCount": 8,
+    "sourceOnlyVerified": true,
+    "note": "Všetky roky/obdobia overené proti telu (I. storočie n. l. — bronzové spony; obdobie púchovskej kultúry — polozemnice; 14. storočie — falošné mince; 1930 — Janšák; 50.–60. roky a 1961 — Hrubec; 1964 — Petrovský-Šichman). Žiadny fakt mimo textu, žiadny vymyslený rok."
+  },
+  "appliedFromPass2": [
+    { "rule": "D cross-field (excerpt bol nesynchronizovaný)", "field": "excerpt", "before": "so stránky zemepisnej", "after": "zo stránky zemepisnej" },
+    { "rule": "B typografia", "field": "block 1", "before": "„Skala“", "after": "„Skala\"" },
+    { "rule": "A1 uzavretie vsuvky", "field": "block 1", "before": "zverejnil v roku 1930 uvádza", "after": "zverejnil v roku 1930, uvádza" },
+    { "rule": "A2 pozícia sa", "field": "block 3", "before": "val k b z i l ťahá sa oblúkom", "after": "val k b z i l sa ťahá oblúkom" },
+    { "rule": "A2 pozícia sa", "field": "block 3", "before": "pripojuje sa ku skale", "after": "sa ... pripojuje ku skale" },
+    { "rule": "A7 bohemizmus", "field": "block 3", "before": "Jeho dĺžka činí 108 m.", "after": "Jeho dĺžka dosahuje 108 m." },
+    { "rule": "A7 bohemizmus", "field": "block 3", "before": "Výška valu m o c s n činí", "after": "Výška valu m o c s n dosahuje" },
+    { "rule": "A2 pozícia sa + preklep", "field": "block 3", "before": "vznáša sa nado dnom", "after": "sa vznáša nad dnom" },
+    { "rule": "A8", "field": "block 3", "before": "velmi nedokonalá", "after": "veľmi nedokonalá" },
+    { "rule": "A1 nadbytočná čiarka + B typografia", "field": "block 5", "before": "4350 m2, má tvar podkovy", "after": "4 350 m² má tvar podkovy" },
+    { "rule": "A7 bohemizmus", "field": "block 6", "before": "(snáď peňazokazeckú)", "after": "(azda peňazokazeckú)" }
+  ],
+  "extraFixesBeyondPass2": [
+    { "rule": "B typografia (tisícový oddeľovač, §21.2)", "field": "block 5", "before": "4350", "after": "4 350", "reason": "Doplnené popri m2→m² oprave, aby sa predišlo novej cross-field nezhode s keyFact 'Plocha hradiska' (ktorý používa opravený tvar 4 350 m²)." }
+  ],
+  "crossFieldSweep": {
+    "checkedTerms": ["so stránky", "velmi", "„Skala“", "snáď", "činí", "4350", "nado dnom"],
+    "result": "0 výskytov starých foriem mimo tela po oprave — žiadna propagácia potrebná (timeline/keyFacts boli napísané rovno v opravenom tvare)."
+  },
+  "skipped": [
+    "Letter-labely valov (k b z i l, m o c s n, o p d r s) ponechané s medzerami v tele (mimo rozsahu B); v keyFacts zapísané so spojovníkmi pre čitateľnosť (k – b – z – i – l), čo nemení číselný obsah."
+  ],
+  "flags": [],
+  "reviewFile": null,
+  "uploadReady": true
+}

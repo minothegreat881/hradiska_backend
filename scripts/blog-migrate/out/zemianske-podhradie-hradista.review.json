@@ -1,0 +1,15 @@
+{
+  "slug": "zemianske-podhradie-hradista",
+  "flags": [
+    {
+      "type": "EMPTY_COLON",
+      "issue": "Samostatný blok s textom 'Foto:' (telo, aj sources aj citations) — dvojbodka bez nasledujúceho obsahu, autor fotografa/dátum sa zrejme nedostal do exportu.",
+      "why_not_fixed": "§21.6 — nemazať bez zdokumentovania; ponechané, čaká na rozhodnutie, či doplniť alebo odstrániť."
+    },
+    {
+      "type": "MISSING_WORD (osirotená predložka na hranici odkazu)",
+      "issue": "Položka sources/citations 'Rekonštrukcia hradiska prevzatá z' končí predložkou 'z' bez nasledujúceho objektu — v tele je táto veta spojená s odkazom (linkom) na cevnad.sav.sk hneď za textom, ale pri extrakcii do sources/citations sa text a odkaz rozdelili na dve samostatné položky zoznamu (samostatný URL item existuje inde v tom istom zozname), takže položka s textom 'prevzatá z' pôsobí useknuto.",
+      "why_not_fixed": "Ide o štrukturálny dôsledok rozdelenia link-uzla od textu pri extrakcii do zoznamu sources/citations (mimo mandátu grammar-sk — nejde o vetu v tele, kde je spojenie so zdrojom zachované správne), nie o chýbajúce slovo v gramatickom zmysle. Nahlásené na zváženie zlúčenia položiek pri budúcej úprave exportu sources."
+    }
+  ]
+}

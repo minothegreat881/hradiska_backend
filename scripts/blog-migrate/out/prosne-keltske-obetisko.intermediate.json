@@ -1,0 +1,838 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\newsite-prosne-keltske-obetisko.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8626994227993696047",
+    "bloggerPostUrl": "http://www.hradiska.sk/2012/08/prosne-keltske-obetisko.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/8626994227993696047/comments/default",
+    "extractedAt": "2026-07-16T15:03:40.738Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://maps.google.com/?ie=UTF8&t=h&ll=49.173175,18.379569&spn=0.00982,0.018239&z=15&output=embed"
+      ],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 20,
+      "captionedImages": 5,
+      "separatorImages": 15
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations"
+    ]
+  },
+  "blogPost": {
+    "title": "Prosné - Keltské obetisko",
+    "slug": "prosne-keltske-obetisko",
+    "excerpt": "V obci Prosné (okres Pov. Bystrica) , na pravej strane údolia Marikovského potoka v horskom sedle Uhliská, približne 1,2 km juhozápadne od obce sa v dobe rímskej (cca pred 2000 rokmi) nachádzalo kultové miesto - obetisko ľudu púchovskej kultúry.…",
+    "authorName": "Jozef Moravčík",
+    "publishedAt": "2012-08-30T17:36:00.002+02:00",
+    "originalPublishedDate": "2012-08-30T17:36:00.002+02:00",
+    "updatedAt": "2018-04-26T10:13:26.479+02:00",
+    "readingTime": 8,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Bh9W_hrVo06r5wqyiThX0W9uZkhcKU7gBGuNWmavms-WNqhJ7zXsJWcPdLTXhijqd5mJsv2mbm-8iHGRVPvdZSCHBhjTuEqozB745-Zg99h6OYr0FrXD22RHlR79EPhLoyhcsjOB2nQ/s0/uhliska.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Bh9W_hrVo06r5wqyiThX0W9uZkhcKU7gBGuNWmavms-WNqhJ7zXsJWcPdLTXhijqd5mJsv2mbm-8iHGRVPvdZSCHBhjTuEqozB745-Zg99h6OYr0FrXD22RHlR79EPhLoyhcsjOB2nQ/s1600/uhliska.jpg",
+      "filename": "uhliska.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Bh9W_hrVo06r5wqyiThX0W9uZkhcKU7gBGuNWmavms-WNqhJ7zXsJWcPdLTXhijqd5mJsv2mbm-8iHGRVPvdZSCHBhjTuEqozB745-Zg99h6OYr0FrXD22RHlR79EPhLoyhcsjOB2nQ/s1600/uhliska.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 188,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Bh9W_hrVo06r5wqyiThX0W9uZkhcKU7gBGuNWmavms-WNqhJ7zXsJWcPdLTXhijqd5mJsv2mbm-8iHGRVPvdZSCHBhjTuEqozB745-Zg99h6OYr0FrXD22RHlR79EPhLoyhcsjOB2nQ/s0/uhliska.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Bh9W_hrVo06r5wqyiThX0W9uZkhcKU7gBGuNWmavms-WNqhJ7zXsJWcPdLTXhijqd5mJsv2mbm-8iHGRVPvdZSCHBhjTuEqozB745-Zg99h6OYr0FrXD22RHlR79EPhLoyhcsjOB2nQ/s1600/uhliska.jpg",
+        "filename": "uhliska.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Bh9W_hrVo06r5wqyiThX0W9uZkhcKU7gBGuNWmavms-WNqhJ7zXsJWcPdLTXhijqd5mJsv2mbm-8iHGRVPvdZSCHBhjTuEqozB745-Zg99h6OYr0FrXD22RHlR79EPhLoyhcsjOB2nQ/s1600/uhliska.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 188,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Lokalita Uhliská - čiernou je zobrazená skúmaná plocha"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJcYBRr5BR-f7l2YOxgwZ3UWhlpNWba6ILhgleQYbv7ji2eo28epe8frzgYCQ38MDCiMTQ1a-vbpSKOdfG9ZBuKC7enVVMfMlsc9eg5eVtFyfkxCwASHSgoPyqBLyV1T1Q97auCsaD_7Xi/s0/Dron.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJcYBRr5BR-f7l2YOxgwZ3UWhlpNWba6ILhgleQYbv7ji2eo28epe8frzgYCQ38MDCiMTQ1a-vbpSKOdfG9ZBuKC7enVVMfMlsc9eg5eVtFyfkxCwASHSgoPyqBLyV1T1Q97auCsaD_7Xi/s1600/Dron.jpg",
+        "filename": "Dron.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJcYBRr5BR-f7l2YOxgwZ3UWhlpNWba6ILhgleQYbv7ji2eo28epe8frzgYCQ38MDCiMTQ1a-vbpSKOdfG9ZBuKC7enVVMfMlsc9eg5eVtFyfkxCwASHSgoPyqBLyV1T1Q97auCsaD_7Xi/s1600/Dron.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhgyfF4wFaAhYHOhLzp0Xn8Z3EK33RK1Oux-MQkeNtXQ0aq6vRSExmVfxugCuVJY6pRPNFcg2zvSoT8VJUxHMdoepdmKOaQoYeKnL8oKDUTbAFgN28E5UnHcnPPdokR4rvnMrzrRiKNUI/s0/185.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhgyfF4wFaAhYHOhLzp0Xn8Z3EK33RK1Oux-MQkeNtXQ0aq6vRSExmVfxugCuVJY6pRPNFcg2zvSoT8VJUxHMdoepdmKOaQoYeKnL8oKDUTbAFgN28E5UnHcnPPdokR4rvnMrzrRiKNUI/s1600/185.jpg",
+        "filename": "185.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhgyfF4wFaAhYHOhLzp0Xn8Z3EK33RK1Oux-MQkeNtXQ0aq6vRSExmVfxugCuVJY6pRPNFcg2zvSoT8VJUxHMdoepdmKOaQoYeKnL8oKDUTbAFgN28E5UnHcnPPdokR4rvnMrzrRiKNUI/s1600/185.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn8Nte1wMtk6Lgi0Amq3ELod9GreW_q8SB02bI8c8yHKubHi7YiJQccaMQZvDCka9okrUq7khgz5NHMNOUAwju8AEbGb42UHi1Mrqeh38gSJJOM_2-tuP2h_qL_yUDj67OMZGyeYCBJYQ/s0/71357231.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn8Nte1wMtk6Lgi0Amq3ELod9GreW_q8SB02bI8c8yHKubHi7YiJQccaMQZvDCka9okrUq7khgz5NHMNOUAwju8AEbGb42UHi1Mrqeh38gSJJOM_2-tuP2h_qL_yUDj67OMZGyeYCBJYQ/s1600/71357231.jpg",
+        "filename": "71357231.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn8Nte1wMtk6Lgi0Amq3ELod9GreW_q8SB02bI8c8yHKubHi7YiJQccaMQZvDCka9okrUq7khgz5NHMNOUAwju8AEbGb42UHi1Mrqeh38gSJJOM_2-tuP2h_qL_yUDj67OMZGyeYCBJYQ/s1600/71357231.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 205,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Predstava o vzhľade obetiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgswmgvSkF24PH0gT74dXiZLQZIyf17clyijleXXy4sXAETasw04menABI6FBFuKL_EuLKYXfV8ipZ3LmGmGNP4WS13Kv1SIxidE506A-gZA1Y3VY-sk0p-V7M7-1_e2vrH65J4tSCDuI/s0/n1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgswmgvSkF24PH0gT74dXiZLQZIyf17clyijleXXy4sXAETasw04menABI6FBFuKL_EuLKYXfV8ipZ3LmGmGNP4WS13Kv1SIxidE506A-gZA1Y3VY-sk0p-V7M7-1_e2vrH65J4tSCDuI/s1600/n1.jpg",
+        "filename": "n1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgswmgvSkF24PH0gT74dXiZLQZIyf17clyijleXXy4sXAETasw04menABI6FBFuKL_EuLKYXfV8ipZ3LmGmGNP4WS13Kv1SIxidE506A-gZA1Y3VY-sk0p-V7M7-1_e2vrH65J4tSCDuI/s1600/n1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 160,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "šperky, ktoré boli predmetom obete"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-N6GkLHIHLRrGV2IvJgkt68M8jW5gCo3bklTR9ss7E9GJp8bfdTI0fwZmBPVzS93rC6za0UsvKM9hOqNPD4EYmVDKKtzxpqIO3V0avgO_NKe36ivdEiYUfVq99-yFuYgBBIaJPi5RgCs/s0/n2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-N6GkLHIHLRrGV2IvJgkt68M8jW5gCo3bklTR9ss7E9GJp8bfdTI0fwZmBPVzS93rC6za0UsvKM9hOqNPD4EYmVDKKtzxpqIO3V0avgO_NKe36ivdEiYUfVq99-yFuYgBBIaJPi5RgCs/s1600/n2.jpg",
+        "filename": "n2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-N6GkLHIHLRrGV2IvJgkt68M8jW5gCo3bklTR9ss7E9GJp8bfdTI0fwZmBPVzS93rC6za0UsvKM9hOqNPD4EYmVDKKtzxpqIO3V0avgO_NKe36ivdEiYUfVq99-yFuYgBBIaJPi5RgCs/s1600/n2.jpg",
+          "displayedWidth": 232,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "ďalšie obetované predmety"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgY7eBhgLB8oizYLf8jHA8B5KvpN8DQST5Btkzh-z4iKiQlervx5SSySk_g-8tl8m0XFZfYaeyQ3PfR4LAIsR990qUeui71AbLv8A3TTqPDoR9xaLHbwrE9dQSmZrVB6MopsjK0LdFCnw/s0/n3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgY7eBhgLB8oizYLf8jHA8B5KvpN8DQST5Btkzh-z4iKiQlervx5SSySk_g-8tl8m0XFZfYaeyQ3PfR4LAIsR990qUeui71AbLv8A3TTqPDoR9xaLHbwrE9dQSmZrVB6MopsjK0LdFCnw/s1600/n3.jpg",
+        "filename": "n3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgY7eBhgLB8oizYLf8jHA8B5KvpN8DQST5Btkzh-z4iKiQlervx5SSySk_g-8tl8m0XFZfYaeyQ3PfR4LAIsR990qUeui71AbLv8A3TTqPDoR9xaLHbwrE9dQSmZrVB6MopsjK0LdFCnw/s1600/n3.jpg",
+          "displayedWidth": 235,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Množstvo črepov ľudu púchovskej kultúry"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65bbHeSB6zPHO3F9pOwk1ARO_LKXCLI4dN2f4f38vcdfJxqq0Wgvoxi9iVz2H27pHqXsB3yqjUmKh2EjmPEgcMY6KwZUQqLWgYrRJrwXw-RPM63eLUlbJD3FmgrqMXcpCp0ur1EH-AuA/s0/Orgon%CC%8C_Reverz_F+maly.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65bbHeSB6zPHO3F9pOwk1ARO_LKXCLI4dN2f4f38vcdfJxqq0Wgvoxi9iVz2H27pHqXsB3yqjUmKh2EjmPEgcMY6KwZUQqLWgYrRJrwXw-RPM63eLUlbJD3FmgrqMXcpCp0ur1EH-AuA/s1600/Orgon%CC%8C_Reverz_F+maly.jpg",
+        "filename": "Orgoň_Reverz_F+maly.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65bbHeSB6zPHO3F9pOwk1ARO_LKXCLI4dN2f4f38vcdfJxqq0Wgvoxi9iVz2H27pHqXsB3yqjUmKh2EjmPEgcMY6KwZUQqLWgYrRJrwXw-RPM63eLUlbJD3FmgrqMXcpCp0ur1EH-AuA/s1600/Orgon%CC%8C_Reverz_F+maly.jpg",
+          "displayedWidth": null,
+          "displayedHeight": null,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDc_w5lyiRhWI0Wmxb8LPwxvcDDG5_DtEgCN2yEjR7VI4FB9Ea3TI78xX0jcuT8ICyuCkr1G8NwvV97hCgMV5ZbvaOB55R0enflKI5rpdze5d3phApFmOP15zEOvJmc12yXK6ePI_tZGY/s0/IMG_6738.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDc_w5lyiRhWI0Wmxb8LPwxvcDDG5_DtEgCN2yEjR7VI4FB9Ea3TI78xX0jcuT8ICyuCkr1G8NwvV97hCgMV5ZbvaOB55R0enflKI5rpdze5d3phApFmOP15zEOvJmc12yXK6ePI_tZGY/s1600/IMG_6738.jpg",
+        "filename": "IMG_6738.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDc_w5lyiRhWI0Wmxb8LPwxvcDDG5_DtEgCN2yEjR7VI4FB9Ea3TI78xX0jcuT8ICyuCkr1G8NwvV97hCgMV5ZbvaOB55R0enflKI5rpdze5d3phApFmOP15zEOvJmc12yXK6ePI_tZGY/s1600/IMG_6738.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8qvEt2eCzTuM9R_11nldc8TyCW7mdQAp6EIwyrjbOVuiSWHWe1E7yMV5hlz-L2KwMJw3_9hpRksFKdh8EnwvUtkCAmsO3xmlSOU69Fbw9TrSNVLrjW5OIgW5WXJg7xihIMM0QtlODVGE/s0/IMG_6741.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8qvEt2eCzTuM9R_11nldc8TyCW7mdQAp6EIwyrjbOVuiSWHWe1E7yMV5hlz-L2KwMJw3_9hpRksFKdh8EnwvUtkCAmsO3xmlSOU69Fbw9TrSNVLrjW5OIgW5WXJg7xihIMM0QtlODVGE/s1600/IMG_6741.jpg",
+        "filename": "IMG_6741.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8qvEt2eCzTuM9R_11nldc8TyCW7mdQAp6EIwyrjbOVuiSWHWe1E7yMV5hlz-L2KwMJw3_9hpRksFKdh8EnwvUtkCAmsO3xmlSOU69Fbw9TrSNVLrjW5OIgW5WXJg7xihIMM0QtlODVGE/s1600/IMG_6741.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDZ0OLcrp19XMO-xDbd3So2xJ4mzJQFhOBA8HA195gRJawKmgdqhHsQumtjlCkHYQNPPZej9E4CNvsNngov-HFRcLPHo0xoL35eI9sd9vLVt_jt-WXgUAPd7TU6r_AjHfqsAe2cosVI6g/s0/IMG_6747.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDZ0OLcrp19XMO-xDbd3So2xJ4mzJQFhOBA8HA195gRJawKmgdqhHsQumtjlCkHYQNPPZej9E4CNvsNngov-HFRcLPHo0xoL35eI9sd9vLVt_jt-WXgUAPd7TU6r_AjHfqsAe2cosVI6g/s1600/IMG_6747.jpg",
+        "filename": "IMG_6747.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDZ0OLcrp19XMO-xDbd3So2xJ4mzJQFhOBA8HA195gRJawKmgdqhHsQumtjlCkHYQNPPZej9E4CNvsNngov-HFRcLPHo0xoL35eI9sd9vLVt_jt-WXgUAPd7TU6r_AjHfqsAe2cosVI6g/s1600/IMG_6747.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRxE3ufjD9Z_A08xten87ycyi-7LHtowT4S2JulyvRoLqeh4ViObO_Q0-7A6pljf_258qPqQZcRdAUfCXWVWat-WsfeTpzDFpAdLOTD7EGirAPKBZYXU1MDqXwyoI-SrvE6cUaq5DHdJA/s0/IMG_6748.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRxE3ufjD9Z_A08xten87ycyi-7LHtowT4S2JulyvRoLqeh4ViObO_Q0-7A6pljf_258qPqQZcRdAUfCXWVWat-WsfeTpzDFpAdLOTD7EGirAPKBZYXU1MDqXwyoI-SrvE6cUaq5DHdJA/s1600/IMG_6748.jpg",
+        "filename": "IMG_6748.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRxE3ufjD9Z_A08xten87ycyi-7LHtowT4S2JulyvRoLqeh4ViObO_Q0-7A6pljf_258qPqQZcRdAUfCXWVWat-WsfeTpzDFpAdLOTD7EGirAPKBZYXU1MDqXwyoI-SrvE6cUaq5DHdJA/s1600/IMG_6748.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_3BjMWxFJAot1LAPCuoP423L89QO3ysy4jWGg7jP57xkkZ-NBfvLn4dG2thtgA4xC7GpvkTVB0hC64VMyiXt0aJGY0s4S0BIaD5fHuKMBbt7WuXFgpEyhE5ZBf_jr0YTxWqTIAFenFo/s0/IMG_6751.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_3BjMWxFJAot1LAPCuoP423L89QO3ysy4jWGg7jP57xkkZ-NBfvLn4dG2thtgA4xC7GpvkTVB0hC64VMyiXt0aJGY0s4S0BIaD5fHuKMBbt7WuXFgpEyhE5ZBf_jr0YTxWqTIAFenFo/s1600/IMG_6751.jpg",
+        "filename": "IMG_6751.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_3BjMWxFJAot1LAPCuoP423L89QO3ysy4jWGg7jP57xkkZ-NBfvLn4dG2thtgA4xC7GpvkTVB0hC64VMyiXt0aJGY0s4S0BIaD5fHuKMBbt7WuXFgpEyhE5ZBf_jr0YTxWqTIAFenFo/s1600/IMG_6751.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJUF_Eeul9Ov2CnbPlZLBSoPZyBO5ykXEDJ6k_vjAme1atG-HA4lMOb51m4jMMgYV4F1TrlhI79VFxBU9BWd0c4FmEfu4JxNGZtVvRH1GPwArWA7CsKMlr8e7HO3Q2tLrIIw7ZBDdj9fk/s0/IMG_6754.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJUF_Eeul9Ov2CnbPlZLBSoPZyBO5ykXEDJ6k_vjAme1atG-HA4lMOb51m4jMMgYV4F1TrlhI79VFxBU9BWd0c4FmEfu4JxNGZtVvRH1GPwArWA7CsKMlr8e7HO3Q2tLrIIw7ZBDdj9fk/s1600/IMG_6754.jpg",
+        "filename": "IMG_6754.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJUF_Eeul9Ov2CnbPlZLBSoPZyBO5ykXEDJ6k_vjAme1atG-HA4lMOb51m4jMMgYV4F1TrlhI79VFxBU9BWd0c4FmEfu4JxNGZtVvRH1GPwArWA7CsKMlr8e7HO3Q2tLrIIw7ZBDdj9fk/s1600/IMG_6754.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Cz1ySKnItkuebXSYpf82R3iFOyW5FYKYbKBzlv7CVT9cKL2tzWbugaabUuZ4fphxgfQxe-5nkCkBU7YyT4cVZjDXq3Ef0FkFVHHsg76sy-rjRqXUKK7Yj6puAoX36w7aersXpba5Qq0/s0/IMG_6757.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Cz1ySKnItkuebXSYpf82R3iFOyW5FYKYbKBzlv7CVT9cKL2tzWbugaabUuZ4fphxgfQxe-5nkCkBU7YyT4cVZjDXq3Ef0FkFVHHsg76sy-rjRqXUKK7Yj6puAoX36w7aersXpba5Qq0/s1600/IMG_6757.jpg",
+        "filename": "IMG_6757.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Cz1ySKnItkuebXSYpf82R3iFOyW5FYKYbKBzlv7CVT9cKL2tzWbugaabUuZ4fphxgfQxe-5nkCkBU7YyT4cVZjDXq3Ef0FkFVHHsg76sy-rjRqXUKK7Yj6puAoX36w7aersXpba5Qq0/s1600/IMG_6757.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDXAzsIU3YLpbc-7cBFVGJXQKWvJ43OZVyVFPrirybONXGKIoDYzqK7_txtgGYQXaenwZ-OS18SRISyx0n0ZeCGty4r1ar6qesq3WBrl9lO3goFDwMa5aCeypMdfNqbkUJ7_lpHXYuk0/s0/IMG_6763.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDXAzsIU3YLpbc-7cBFVGJXQKWvJ43OZVyVFPrirybONXGKIoDYzqK7_txtgGYQXaenwZ-OS18SRISyx0n0ZeCGty4r1ar6qesq3WBrl9lO3goFDwMa5aCeypMdfNqbkUJ7_lpHXYuk0/s1600/IMG_6763.jpg",
+        "filename": "IMG_6763.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeDXAzsIU3YLpbc-7cBFVGJXQKWvJ43OZVyVFPrirybONXGKIoDYzqK7_txtgGYQXaenwZ-OS18SRISyx0n0ZeCGty4r1ar6qesq3WBrl9lO3goFDwMa5aCeypMdfNqbkUJ7_lpHXYuk0/s1600/IMG_6763.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfNd_WYoZUg8KgDY786E8VKe3hjCLa-ZYFOgi8loCGKvucH_zGD5plm3-YdC03ce6TuJqouPM0d6vV5ZlTGy81HgC3mMIoHb5AQIUYSHkSGs_ktiuzGsk9U_BvqUes6coZ-h4kQ-lvJC4/s0/IMG_6765.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfNd_WYoZUg8KgDY786E8VKe3hjCLa-ZYFOgi8loCGKvucH_zGD5plm3-YdC03ce6TuJqouPM0d6vV5ZlTGy81HgC3mMIoHb5AQIUYSHkSGs_ktiuzGsk9U_BvqUes6coZ-h4kQ-lvJC4/s1600/IMG_6765.jpg",
+        "filename": "IMG_6765.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfNd_WYoZUg8KgDY786E8VKe3hjCLa-ZYFOgi8loCGKvucH_zGD5plm3-YdC03ce6TuJqouPM0d6vV5ZlTGy81HgC3mMIoHb5AQIUYSHkSGs_ktiuzGsk9U_BvqUes6coZ-h4kQ-lvJC4/s1600/IMG_6765.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguo1H8NQxtyqfBBchktgx4YJV4q3TywO4Lybck7gNfVp86azzGAyoQrkyHP7SG2mFyB-sY7w_J60xfNKX-zyhxARkkOnTYgM1dc2DmR8fb2v0WfMWh-PZF61sMng9pAtoyXVSreHhMotE/s0/IMG_6770.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguo1H8NQxtyqfBBchktgx4YJV4q3TywO4Lybck7gNfVp86azzGAyoQrkyHP7SG2mFyB-sY7w_J60xfNKX-zyhxARkkOnTYgM1dc2DmR8fb2v0WfMWh-PZF61sMng9pAtoyXVSreHhMotE/s1600/IMG_6770.jpg",
+        "filename": "IMG_6770.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguo1H8NQxtyqfBBchktgx4YJV4q3TywO4Lybck7gNfVp86azzGAyoQrkyHP7SG2mFyB-sY7w_J60xfNKX-zyhxARkkOnTYgM1dc2DmR8fb2v0WfMWh-PZF61sMng9pAtoyXVSreHhMotE/s1600/IMG_6770.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyR7uofFPBmLn9nEuulj1ZHox52sveg1dLl8L5nG9qvtHKkTvhfc8zOx2_ZCeNuNDAWGBc6a-DfUwRbmkVAHFwp2bYX-CUJIqSCTDt0hAnNz8bLworP4cYKYo9-ICdMrof7xhbeRpTkEI/s0/IMG_6780.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyR7uofFPBmLn9nEuulj1ZHox52sveg1dLl8L5nG9qvtHKkTvhfc8zOx2_ZCeNuNDAWGBc6a-DfUwRbmkVAHFwp2bYX-CUJIqSCTDt0hAnNz8bLworP4cYKYo9-ICdMrof7xhbeRpTkEI/s1600/IMG_6780.jpg",
+        "filename": "IMG_6780.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyR7uofFPBmLn9nEuulj1ZHox52sveg1dLl8L5nG9qvtHKkTvhfc8zOx2_ZCeNuNDAWGBc6a-DfUwRbmkVAHFwp2bYX-CUJIqSCTDt0hAnNz8bLworP4cYKYo9-ICdMrof7xhbeRpTkEI/s1600/IMG_6780.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiemLMHfIlizwCBXNwzFpODQF4LnuGdl8XPtEvD__z1qvYttyTWCg3URz2ocpxo4lHTOgB_eGNsFOc8x2Gu9uO2bQaCilPqvkJ9vqCahW9lhSiSAnEKftKp7PXCcfUScTVVu2CLIQZfZOY/s0/IMG_6790.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiemLMHfIlizwCBXNwzFpODQF4LnuGdl8XPtEvD__z1qvYttyTWCg3URz2ocpxo4lHTOgB_eGNsFOc8x2Gu9uO2bQaCilPqvkJ9vqCahW9lhSiSAnEKftKp7PXCcfUScTVVu2CLIQZfZOY/s1600/IMG_6790.jpg",
+        "filename": "IMG_6790.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiemLMHfIlizwCBXNwzFpODQF4LnuGdl8XPtEvD__z1qvYttyTWCg3URz2ocpxo4lHTOgB_eGNsFOc8x2Gu9uO2bQaCilPqvkJ9vqCahW9lhSiSAnEKftKp7PXCcfUScTVVu2CLIQZfZOY/s1600/IMG_6790.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Prosné - Keltské obetisko"
+    ],
+    "category": null,
+    "location": {
+      "name": "Prosné - Keltské obetisko",
+      "latitude": 49.173175,
+      "longitude": 18.379569,
+      "region": null,
+      "country": "Slovensko"
+    },
+    "keyFacts": [
+      {
+        "label": "Autor",
+        "value": "Jozef Moravčík",
+        "icon": "book"
+      },
+      {
+        "label": "Lokalita",
+        "value": "Prosné (okres Považská Bystrica), sedlo Uhliská",
+        "icon": "map"
+      },
+      {
+        "label": "Datovanie",
+        "value": "2. – 1. storočie pred n. l. (púchovská kultúra)",
+        "icon": "calendar"
+      },
+      {
+        "label": "Výnimočnosť",
+        "value": "Jedno z mála plne preskúmaných keltských obetísk na Slovensku, s dokladmi ľudských obetí",
+        "icon": "shield"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "2. – 1. stor. pred n. l.",
+        "title": "Existencia obetiska",
+        "description": "Obetisko slúžilo ľudu púchovskej kultúry na obetovanie výrobkov, zvierat aj ľudí, obrady na naše územie priniesli Kelti.",
+        "type": "event"
+      },
+      {
+        "year": "1965",
+        "title": "Objavenie náleziska",
+        "description": "Peter Kondrčík na poli pod Ostrencom zistil rozoranú tmavú vrstvu s črepmi a kalcinovanými kosťami, ktoré odovzdal Štefanovi Melišovi.",
+        "type": "event"
+      },
+      {
+        "year": "1965 – 1966",
+        "title": "Záchranný výskum",
+        "description": "A. Petrovský-Šichman spolu s J. Moravčíkom vykopali 5 sond a objavili obetnú jamu aj kolovú jamku.",
+        "type": "event"
+      },
+      {
+        "year": "1980",
+        "title": "Publikovanie štúdie",
+        "description": "K. Pieta a J. Moravčík publikovali nález v časopise Slovenská archeológia (XVIII-2).",
+        "type": "event"
+      },
+      {
+        "year": "2008",
+        "title": "Ďalšia publikácia",
+        "description": "Nález bol zdokumentovaný aj v knihe Po stopách predkov (M. Olšovský, Š. Meliš, J. Moravčík).",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V obci Prosné (okres Pov. Bystrica), na pravej strane údolia Marikovského potoka v horskom sedle Uhliská, približne 1,2 km juhozápadne od obce sa v dobe rímskej (cca pred 2000 rokmi) nachádzalo kultové miesto - obetisko ľudu púchovskej kultúry. Miesto svojím tvarom pripomína amfiteáter s výškou 470/495 m (nad morom) a zvažuje sa k juhozápadu. Obetisko leží uprostred kopcov Ostrenec (540 m), Oddiely (524 m) a Žiar (570 m). Odlesnená plocha predstavuje približne 250x140 m a je sčasti lúkou, sčasti oráčinou. Cez sedlo Uhliská prechádza chodník do krátkej doliny Upohlav, ktorá je paralelná s Marikovskou dolinou."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nálezisko objavil vďaka upozorneniu miestneho obyvateľstva v roku 1965 pán Peter Kondrčík, spolupracovník pána Štefana Meliša, kedy na poli bezprostredne pod úpätím Ostrenca zistili rozoranú tmavú vrstvu s úlomkami keramiky a kalcinovanými kosťami. Kondrčík odovzdal Melišovi črepy a kalcinované kosti, ktoré zozbieral na lokalite, a pán Meliš ich doniesol Petrovskému-Šichmanovi, ktorý hneď rozpoznal, že sa jedná o ľudské kosti a keramiku z laténskeho obdobia. V tom istom roku tu začal kopať A. Petrovský-Šichman, a pokračoval aj v nasledujúcom roku spolu s J. Moravčíkom na záchrannom výskume. Bolo vykopaných 5 sond, v ktorých sa našlo množstvo nálezov keramiky, prepálených šperkov, nástrojov, kostí, ostroha, perly, zlatá minca, bronzové náramky a ihlice, a podobne. Medzi sondami 2 a 3 bola objavená kolová jama, ktorá bola “šikmá” a objavená bola veľká obetná jama."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Bh9W_hrVo06r5wqyiThX0W9uZkhcKU7gBGuNWmavms-WNqhJ7zXsJWcPdLTXhijqd5mJsv2mbm-8iHGRVPvdZSCHBhjTuEqozB745-Zg99h6OYr0FrXD22RHlR79EPhLoyhcsjOB2nQ/s0/uhliska.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Bh9W_hrVo06r5wqyiThX0W9uZkhcKU7gBGuNWmavms-WNqhJ7zXsJWcPdLTXhijqd5mJsv2mbm-8iHGRVPvdZSCHBhjTuEqozB745-Zg99h6OYr0FrXD22RHlR79EPhLoyhcsjOB2nQ/s1600/uhliska.jpg",
+          "filename": "uhliska.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Bh9W_hrVo06r5wqyiThX0W9uZkhcKU7gBGuNWmavms-WNqhJ7zXsJWcPdLTXhijqd5mJsv2mbm-8iHGRVPvdZSCHBhjTuEqozB745-Zg99h6OYr0FrXD22RHlR79EPhLoyhcsjOB2nQ/s1600/uhliska.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 188,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Lokalita Uhliská - čiernou je zobrazená skúmaná plocha",
+        "caption": "Lokalita Uhliská - čiernou je zobrazená skúmaná plocha",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Archeológ Jozef Moravčík o obetisku píše:"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.quote-block",
+        "text": "Už dávnejšie sa tu nachádzali črepy z nádob vyoraných počas hlbokej orby, ale až v 60-tych rokoch sa vďaka dlhoročnému spolupracovníkovi múzea Š. Melišovi realizoval záchranný archeologický výskum. Priestor s nálezmi nebol veľký (asi 10x11 m), ale o to viac pamiatok sa tu podarilo zachrániť. Priamo v oráčine sa vyskytovalo veľké množstvo zlomkov z nádob, ale aj drobné predmety z bronzu, železa aj skla a našla sa aj malá zlatá minca (1/24 keltskej mince typu Athéna Alkis), ktorá váži len 0, 13 g.\n\nPri podrobnom prieskume náleziska sa zistilo, že tu bolo obetisko ľudu púchovskej kultúry v 2.-l.stor.pr.n.l., kde sa uskutočňovalo obetovanie výrobkov, zvierat aj ľudí vtedajším pohanským božstvám. Na okraji náleziska sa zistila hlboká jama ľadvinovitého tvaru, vyplnená čiernou mastnou zeminou a drobnými nálezmi, do ktorej sa odlievala krv obetovaných zvierat a zrejme aj ľudských obetí. Spálené kostrové zvyšky sa pri analýze v Archeologickom ústave v Prahe podarilo identifikovať ako pozostatky 3-5 dospelých mužských jedincov vo veku okolo 40-50 rokov. Tieto obrady priniesli na naše územie Kelti, ktorí spolu s domácim ľudom lužickej kultúry prispeli k sformovaniu sa púchovskej kultúry.\n\nO spôsobe obetovania sa dá dnes už len teoreticky uvažovať, ale podľa niektorých analógií išlo zrejme o pravidelné pohanské ohrady spojené v minulosti možno so slnovratom alebo privolávaním dobrej úrody, prípadne s ďakovnými obetinami za úspešné obchodné alebo vojenské výpravy. Skladba obetín hovorí zrejme aj o zložení vtedajšej spoločnosti, kde sa popri výrobcoch (keramika), chovateľoch (zvieracie kosti), nachádzajú aj šperky (spony, náramky, sklené perly) a súčasti výstroja vojakov (ostroha, zápona opaska), obchodníci (minca), pričom ľudské obetiny symbolizovali zrejme celý kmeň. Druhé podobné obetisko (pohanský chrám) sa na Slovensku našlo ešte na hradisku púchovskej kultúry Havránok pri Liptovskej Mare, kde sa v hlbokých šachtách objavili kostry dievčat vo veku 18-20 rokov.",
+        "author": "Jozef Moravčík",
+        "source": "K. Pieta, J. Moravčík: Spätlatènezeitliche Opferplatz in Prosné, Slovenská archeológia XVIII-2, 1980"
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "(treba však doplniť, že ďalšie sa našlo aj v Trenčianskych Tepliciach v lokalite Stará tehelňa, neďaleko hradiska Čertova skala – pozn. Orgoň)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJcYBRr5BR-f7l2YOxgwZ3UWhlpNWba6ILhgleQYbv7ji2eo28epe8frzgYCQ38MDCiMTQ1a-vbpSKOdfG9ZBuKC7enVVMfMlsc9eg5eVtFyfkxCwASHSgoPyqBLyV1T1Q97auCsaD_7Xi/s0/Dron.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJcYBRr5BR-f7l2YOxgwZ3UWhlpNWba6ILhgleQYbv7ji2eo28epe8frzgYCQ38MDCiMTQ1a-vbpSKOdfG9ZBuKC7enVVMfMlsc9eg5eVtFyfkxCwASHSgoPyqBLyV1T1Q97auCsaD_7Xi/s1600/Dron.jpg",
+          "filename": "Dron.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJcYBRr5BR-f7l2YOxgwZ3UWhlpNWba6ILhgleQYbv7ji2eo28epe8frzgYCQ38MDCiMTQ1a-vbpSKOdfG9ZBuKC7enVVMfMlsc9eg5eVtFyfkxCwASHSgoPyqBLyV1T1Q97auCsaD_7Xi/s1600/Dron.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 1600,
+            "originalHeight": 1200
+          }
+        },
+        "alt": "Prosné - Keltské obetisko",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.quote-block",
+        "text": "Drobné predmety nájdené v Prosnom boli prakticky všetky deformované a polámané, pretože ich zámerne poškodzovali počas obradov a hádzali do obetných ohňov. Taktiež veľa črepov prešlo ohňom, pretože boli sekundárne prepálené. Celý priestor náleziska sa javil ako tmavý fľak v svetlej ílovitej zemine, ktorý bol intenzívne premiešaný uhlíkmi a popolom.\n\nObetnú jamu zrejme pravidelne čistili, preto sa tu našli pamiatky len z posledného obdobia jej používania. Medzi keramikou prevažovali výrobky vytočené na hrnčiarskom kruhu, zdobené rytou, vlešťovanou aj plastickou výzdobou a našli sa aj zlomky z maľovaných nádob, ktoré sa vyrábali na území zaujatom púchovskou kultúrou len na hradiskách (oppidách). Obetisko slúžilo širšiemu regiónu do okruhu 20-30 km a obyvatelia osád z tohto územia sem chodili pravidelne obetovať počas dlhého obdobia. Obetisko v Prosnom je výnimočnou lokalitou púchovskej kultúry v rámci celého Slovenska a možno v budúcnosti sa podarí aj objav iných podobných nálezísk v dalších regiónoch Slovenska.“",
+        "author": "Jozef Moravčík",
+        "source": "K. Pieta, J. Moravčík: Spätlatènezeitliche Opferplatz in Prosné, Slovenská archeológia XVIII-2, 1980"
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Obetná jama."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V západnom rohu náleziska zachytili archeológovia mastnú čiernu hlinu, ktorá sa výrazne líšila od flyšového podložia. Táto hlina predstavovala výplň väčšej obetnej jamy. Prehĺbenina oválneho tvaru, bola zapustená do hĺbky 70 cm do podložia. Rozmery približne 240x90 cm. Výplň jamy pozostávala z jednotlivých 2-4 cm hrubých vrstiev humusu a 2-10 cm hrubých vrstiev sterilnej žltej hliny. Vrstvy sa tiahli viditeľne šikmo so sklonom na západ. Tmavý mastný humus obsahoval veľa kalcinovaných kostí, črepiny, jednu neobhorenú zvieraciu kosť, úlomky bronzu, fragmenty 2 ihlíc (spôn) a jednu železnú pracku z opasku. Väčšia časť náleziska bola silne preoraná, takže iba miestami sa podarilo zachytiť niekoľko cm hrubú neporušenú vrstvu, ležiacu priamo na podloží. V dokumentácii nie je žiadna zmienka o ohniskách, prípadne o stopách po ohni. Vzorky drevených uhlíkov sa pri vykopávkach nebrali, alebo sa nezachovali. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhgyfF4wFaAhYHOhLzp0Xn8Z3EK33RK1Oux-MQkeNtXQ0aq6vRSExmVfxugCuVJY6pRPNFcg2zvSoT8VJUxHMdoepdmKOaQoYeKnL8oKDUTbAFgN28E5UnHcnPPdokR4rvnMrzrRiKNUI/s0/185.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhgyfF4wFaAhYHOhLzp0Xn8Z3EK33RK1Oux-MQkeNtXQ0aq6vRSExmVfxugCuVJY6pRPNFcg2zvSoT8VJUxHMdoepdmKOaQoYeKnL8oKDUTbAFgN28E5UnHcnPPdokR4rvnMrzrRiKNUI/s1600/185.jpg",
+          "filename": "185.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhgyfF4wFaAhYHOhLzp0Xn8Z3EK33RK1Oux-MQkeNtXQ0aq6vRSExmVfxugCuVJY6pRPNFcg2zvSoT8VJUxHMdoepdmKOaQoYeKnL8oKDUTbAFgN28E5UnHcnPPdokR4rvnMrzrRiKNUI/s1600/185.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 213,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Prosné - Keltské obetisko",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Ako obetisko vyzeralo?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "O interpretáciu obetiska sa pokúsil významný keltológ Karol Pieta, ktorý uvádza, že pri terénnych vykopávkach v Prosnom bolo možné získať iba málo informácií o tom, ako tento objekt pôvodne vyzeral, čo možno do určitej miery pripísať každoročnému preorávaniu pôdy nad plytko zasadeným objektom, ale nepochybne k tomu prispel aj samotný charakter kultového miesta. Pre rekonštrukciu a interpretáciu máme k dispozícii iba zistenú jamu s vrstevnatou výplňou, ďalej nájdené obetné dary a tiež kolovú jamu. Treba dodať, že ani celá plocha nebola úplne preskúmaná. Z vykonaného rozsahu vykopávok sa dá usudzovať, že objekt nemal žiadne také archeologicky zachytiteľné ohraničenie, ktoré býva typickým znakom každého posvätného miesta a má varovnú funkciu. Pri antických chrámových okrskoch (temenos) to býval múr alebo stupňovitá vyvýšenina (pódium), keltské svätyne bývali oddelené od profánneho okolia priekopou, palisádou, múrom, alebo kombináciou uvedených prekážok. V Liptovskej Mare bol posvätný okrsok vymedzený opevnením hradiska, v ktorom sa okrem popísaných kultových objektov nenachádzali intra muros žiadne iné stopy po osídlení. Na prístupnejšej východnej strane boli pri bráne osadené kamenné stély, ktoré naznačovali sakrálny charakter miesta a upozorňovali na nedotknuteľnosť tabuizovaného areálu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pri prírodných svätyniach, medzi ktoré objekt v Prosnom nepochybne patrí, musíme predpokladať viditeľné označenia na koloch alebo na stromoch na okraji čistiny alebo lesa. Viaceré antické pramene referujú o keltských posvätných hájoch a o v nich vykonávaných krvavých obetiach, často ľudských. Niektorí antickí autori popisujú takýto háj s oltármi a nahrubo vytesanými soškami bohov (modiel). Posvätné háje druidov spomínajú aj Tacitus a ďalší historici. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn8Nte1wMtk6Lgi0Amq3ELod9GreW_q8SB02bI8c8yHKubHi7YiJQccaMQZvDCka9okrUq7khgz5NHMNOUAwju8AEbGb42UHi1Mrqeh38gSJJOM_2-tuP2h_qL_yUDj67OMZGyeYCBJYQ/s0/71357231.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn8Nte1wMtk6Lgi0Amq3ELod9GreW_q8SB02bI8c8yHKubHi7YiJQccaMQZvDCka9okrUq7khgz5NHMNOUAwju8AEbGb42UHi1Mrqeh38gSJJOM_2-tuP2h_qL_yUDj67OMZGyeYCBJYQ/s1600/71357231.jpg",
+          "filename": "71357231.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn8Nte1wMtk6Lgi0Amq3ELod9GreW_q8SB02bI8c8yHKubHi7YiJQccaMQZvDCka9okrUq7khgz5NHMNOUAwju8AEbGb42UHi1Mrqeh38gSJJOM_2-tuP2h_qL_yUDj67OMZGyeYCBJYQ/s1600/71357231.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 205,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Predstava o vzhľade obetiska",
+        "caption": "Predstava o vzhľade obetiska",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Kolová jamka"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Táto už v texte spomenutá jamka bola vyhĺbená šikmo a čiastočne bola obložená aj kameňmi. O jej hĺbke nemáme žiaden údaj. Je preto otázne, či slúžila pre nejakú nadzemnú konštrukciu pre spaľovanie obetín, alebo je to stopa po nejakej drevenej stéle – hlavnom symbole obetiska. Treba zvážiť aj možnosť nejakého astronomického významu. Napr. v Holzhausene smerovala os šikmo zasadeného kôlu k poludňovému slnku v čase letného slnovratu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Obetné dary"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Medzi obetnými darmi v Prosnom boli - ako už je vyššie spomenuté - nádoby, šperky a doplnky či súčiastky odevov. Dokladom nekrvavých potravinových obetín sú hlinené nádoby, ktoré ostali po obetovaných plodoch zeme, jedlách a nápojoch. Vysoko dominujú nádoby vyrábané na hrnčiarskom kruhu, ktoré v podmienkach miestnych sídlisk neboli obvyklým javom, a určite to súvisí s určitým kvalitatívnym výberom keramiky pre kultové účely. Čo sa týka tvaru nádob pôvodnej zbierky, ktorá obsahovala približne 100 nádob, dominujú misy a vázy. Misy slúžili hlavne pri jedení a pití, ale nepochybne sa hodili aj na ďalšie účely počas obetného ceremoniálu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgswmgvSkF24PH0gT74dXiZLQZIyf17clyijleXXy4sXAETasw04menABI6FBFuKL_EuLKYXfV8ipZ3LmGmGNP4WS13Kv1SIxidE506A-gZA1Y3VY-sk0p-V7M7-1_e2vrH65J4tSCDuI/s0/n1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgswmgvSkF24PH0gT74dXiZLQZIyf17clyijleXXy4sXAETasw04menABI6FBFuKL_EuLKYXfV8ipZ3LmGmGNP4WS13Kv1SIxidE506A-gZA1Y3VY-sk0p-V7M7-1_e2vrH65J4tSCDuI/s1600/n1.jpg",
+          "filename": "n1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgswmgvSkF24PH0gT74dXiZLQZIyf17clyijleXXy4sXAETasw04menABI6FBFuKL_EuLKYXfV8ipZ3LmGmGNP4WS13Kv1SIxidE506A-gZA1Y3VY-sk0p-V7M7-1_e2vrH65J4tSCDuI/s1600/n1.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 160,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "šperky, ktoré boli predmetom obete",
+        "caption": "šperky, ktoré boli predmetom obete",
+        "position": "right",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Ľudské obety"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vedci zistili, že nájdené pozostatky zo spálených mŕtvol patrili najmenej piatim dospelým ľudským indivíduám. Z nich bolo možné určiť, že jeden, ale pravdepodobne aj dvaja, boli muži. Analýza upozornila na zvláštny fakt, že medzi nájdenými zlomkami kostí sa vôbec nenachádzali časti tvárových kostí, stavce, články prstov a hlavice kĺbov dlhých kostí, ktoré typicky nachádzame na pohrebiskách spopolnených ľudí. Až na jeden úlomok kosti z rebra pozostáva nájdený materiál z lýtkových kostí a kostí z končatín. Zdá sa tiež, že podobne ako ostatné obetné dary – zvieratá, keramika a iné predmety – aj ľudské obete boli ukladané na obetnú hranicu iba neúplné, uplatňoval sa istý výber časti tela. Prítomnosť ľudských lýtkových kostí pripomína existenciu čaší z lebiek, ktoré sú doložené u Keltov podľa písomných prameňov, napr. o lebke rímskeho konzula Lucia Postumia, ktorého Bójovia premohli a zabili, sa píše, že druidi ju používali ako nádobu pre obetovaný nápoj (Livius), sú aj ďalšie zmienky o pití z čaší, zhotovených z lebiek nepriateľov. Tento zvyk nepochybne súvisel s kultom sťatých hláv a nebol iba dôkazom statočnosti a uskutočnenej pomsty, ale podobne ako poľovačka na lebky a kanibalizmus mal aj magický význam v zmysle preberania vlastností usmrteného prostredníctvom jeho lebky, sidla duševných síl. Uvedené nálezy potvrdzujú, že v Prosnom sa ľudské obete nespaľovali celé, ale iba časti z nich sa po predchádzajúcom usmrtení a rozštvrtení dostali na obetnú hranicu. Karol Pieta tiež uvádza, že so zreteľom na chýbajúce zvyšky nie je vylúčený ani rituálny kanibalizmus, ktorý u Keltov spomínajú Plinius aj Pausanias."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-N6GkLHIHLRrGV2IvJgkt68M8jW5gCo3bklTR9ss7E9GJp8bfdTI0fwZmBPVzS93rC6za0UsvKM9hOqNPD4EYmVDKKtzxpqIO3V0avgO_NKe36ivdEiYUfVq99-yFuYgBBIaJPi5RgCs/s0/n2.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-N6GkLHIHLRrGV2IvJgkt68M8jW5gCo3bklTR9ss7E9GJp8bfdTI0fwZmBPVzS93rC6za0UsvKM9hOqNPD4EYmVDKKtzxpqIO3V0avgO_NKe36ivdEiYUfVq99-yFuYgBBIaJPi5RgCs/s1600/n2.jpg",
+          "filename": "n2.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-N6GkLHIHLRrGV2IvJgkt68M8jW5gCo3bklTR9ss7E9GJp8bfdTI0fwZmBPVzS93rC6za0UsvKM9hOqNPD4EYmVDKKtzxpqIO3V0avgO_NKe36ivdEiYUfVq99-yFuYgBBIaJPi5RgCs/s1600/n2.jpg",
+            "displayedWidth": 232,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "ďalšie obetované predmety",
+        "caption": "ďalšie obetované predmety",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Preklad z nemeckého originálu: Kvetka (ďakujem)"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Použitá literatúra:"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "K.Pieta, J. Moravčík: Spätlatenezeitliche opferplatz in Prosné, Slovenská archeológia, XVIII-2, 1980"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Martin Olšovský, Štefan Meliš, Jozef Moravčík: Po stopách predkov, Archeológia Stredného Považia od praveku po stredovek - súbor dokumentov a fotografií, vydal vlastným nákladom Martin Olšovský v roku 2008 v počte 4 kusy. Autori dali súhlas na použitie textu výhradne na stránke www.hradiska.sk"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Obrázok - rekonštrukcia obetiska prevzatý zo stránky: http://www.skyscrapercity.com/showthread.php?t=904992"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Karol Pieta: Keltské osídlenie Slovenska\n \n Foto 9.3.2014 (Orgoň)\n \n "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

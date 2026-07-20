@@ -1,0 +1,54 @@
+{
+  "slug": "hradisko-velky-vrch-divinka",
+  "note": "grammar-sk agent, finálny prechod (pass 1 z draftu velky-vrch-divinka.grammar-sk-pass1.json aplikovaný priamo do intermediate.json + fresh pass 2 cross-field). Extrémne hustý článok s dvomi rozsiahlymi priamymi citátmi (Moravčík; Fusek/Holeščák 2019) — oba moderná literatúra (nie dobové pramene v zmysle §21.3), preto povolená typografická aj drobná pravopisná korektúra, ale žiadne štylistické prepisovanie ani dopĺňanie textu.",
+  "pass1_applied": {
+    "criticalFixes": [
+      "Bloky 0 a 1 (rozdelené uprostred slova 'Dr. Joze' | 'f Moravčík') zlúčené do jedného bloku.",
+      "Hromadné typografické opravy medzier v zátvorkách a 'n.l.' -> 'n. l.' aplikované naprieč celým článkom vrátane keyFacts[] a timeline[] (tie neboli v draft-e explicitne pokryté, ale obsahovali rovnaký vzor — opravené v rámci pass 2)."
+    ],
+    "appliedFixes_count": 28,
+    "appliedFixes_summary": [
+      "'Petrovský - Šichman' / 'Petrovský Šichman' -> 'Petrovský-Šichman' (excerpt, telo 2×, Zdroje)",
+      "'1972 -73' / '1972 - 73' -> '1972 – 1973' (telo, excerpt)",
+      "'(2002 VZP XXI: 7-36)' -> '(2002 VZP XXI: 7–36)'",
+      "'(Moravčík 1980a. 19, 30)' -> '(Moravčík 1980a, 19, 30)'",
+      "A7 bohemizmus: 'sa jedná o veľké centrálne hradisko' -> 'ide o veľké centrálne hradisko'",
+      "'8.-9. stor.' -> '8. – 9. stor.' (2 samostatné výskyty)",
+      "'1955-1959' -> '1955 – 1959' (telo, KF, timeline)",
+      "'2-3 časových horizontov' -> '2 – 3 časových horizontov'",
+      "'rímskych provincíí' -> 'rímskych provincií'; 'prí- stavby' (OCR zalomenie) -> 'prístavby'",
+      "'kultúry.Obe' -> 'kultúry. Obe' (chýbajúca medzera po bodke)",
+      "'svojim' -> 'svojím' (4× naprieč článkom: stvárnením, dobytkom, veľkým hradiskom, významom)",
+      "'1.st. pred n.l.' -> '1. stor. pred n. l.'; 'nálezy,najmä' -> 'nálezy, najmä'",
+      "'2m,' -> '2 m,'; '4 m- vybudované' -> '4 m — vybudované'",
+      "'20- 30 roky n.l.' -> '20 – 30 roky n. l.' + doplnená čiarka pred 'keď'",
+      "OCR zalomenie 'se- verného' -> 'severného'",
+      "Duplicitná čiarka 'obyvateľstva,,' -> 'obyvateľstva,'",
+      "Medzera pred dvojbodkou: 'Divinke : 4 druhy' -> 'Divinke: 4 druhy'; '(autorka : Z. Staneková)' -> '(autorka: Z. Staneková)' (aj v gallery[])",
+      "'166-180' -> '166 – 180'; '5.-6. stor.' -> '5. – 6. stor.'; '8. - 9. stor.,' -> '8. – 9. stor.,'",
+      "Preklep 'Nitrianskeho kniežatsva' -> 'Nitrianskeho kniežatstva'",
+      "'12.– 13. stor.' -> '12. – 13. stor.' (telo + timeline)",
+      "OCR zalomenie 'ka- plnke' -> 'kaplnke'",
+      "OCR artefakt (súkromná znaková oblasť Unicode, PUA U+E119 — pravdepodobne nesprávne extrahovaná 'fi' ligatúra z PDF): 'forti[PUA]kácie' -> 'fortifikácie' (2× v citáte Fusek/Holeščák 2019, moderná literatúra, nie dobový prameň — typografická/OCR oprava povolená)",
+      "Zdroje: 'ČAS...Zborník' -> 'ČAS... Zborník'; 'Petrovský Šichman, Anton :' -> 'Petrovský-Šichman, Anton:'",
+      "Diakritika: 'najdený' -> 'nájdený' (caption/alt, 3 výskyty)"
+    ]
+  },
+  "pass2_cross_field": {
+    "checked": ["excerpt", "keyFacts[]", "timeline[]", "gallery[] captions", "media alt/caption v blocks", "title", "tags", "citations[]"],
+    "findings": [
+      "keyFacts['Hlavné výskumné kampane'] a timeline (2 položky) mali pôvodne '1955-1959'/'1972-1973' nezhodne s väčšinou tela — opravené na '1955 – 1959'/'1972 – 1973'.",
+      "keyFacts a timeline mali systematicky 'n.l.' (bez medzery) vo všetkých 6 výskytoch (roky/obdobia) — zjednotené na 'n. l.' podľa §21.2 typografie, konzistentne s telom.",
+      "'AU SAV' (blok 'Prístup na hradisko a označenie', chýbajúci dĺžeň) vs. 'Archeologický ústav SAV'/'AÚ' v ostatných výskytoch (timeline, telo, aj externé komentáre v $meta) — zjednotené na 'AÚ SAV'.",
+      "Draft-ové FLAGy 'chýbajúce meno hradiska pri pomlčke' (analogicky k slovanske-hradiska-v-nemecku) sa v tomto článku nevyskytli — nekontrolované, keďže sa netýkali tohto článku.",
+      "citations[] je v tomto článku prázdne pole ([]) — nekontrolované/netýka sa."
+    ]
+  },
+  "protected_zones_untouched": [
+    "Rozsiahle citáty Dr. Jozefa Moravčíka (viacero blokov) a G. Fuseka/M. Holeščáka (2019) — moderná odborná literatúra, NIE dobový prameň v zmysle §21.3, preto boli opravené typografia a mechanické OCR artefakty (medzery, pomlčky, PUA ligatúra), ale žiadne slovo nebolo štylisticky prepísané ani nebola menená vecná formulácia."
+  ],
+  "non_issues_in_current_file": [
+    "Draft-ový FLAG 'blok 32 chýba predmet vety (Naše OZ Hradiská ... umiestnili na hradisko . Cesta vedie...)' — OVERENÉ: veta má v aktuálnom súbore predmet prítomný ako odkaz (content.link) 'náučný chodník pozostávajúci zo 7 informačných tabúľ' presne na danom mieste. Veta je gramaticky úplná, žiadny zásah nebol potrebný."
+  ],
+  "upload_ready": true
+}

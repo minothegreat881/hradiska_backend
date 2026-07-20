@@ -1,0 +1,412 @@
+{
+  "corrections": [
+    {
+      "path": "blogPost.blocks[0].body[0].children[2].text",
+      "before": "jedno z hradísk - Bašta, bolo využívané",
+      "after": "jedno z hradísk – Bašta, bolo využívané",
+      "reason": "typografia: pomlčka (telo + excerpt)"
+    },
+    {
+      "path": "blogPost.keyFacts[1].value",
+      "before": "9.-10. storočí",
+      "after": "9. – 10. storočí",
+      "reason": "typografia: pomlčka v rozsahu storočí"
+    },
+    {
+      "path": "blogPost.blocks[0].body[0].children[2].text",
+      "before": "9.-10. storočí",
+      "after": "9. – 10. storočí",
+      "reason": "typografia: pomlčka v rozsahu storočí"
+    },
+    {
+      "path": "blogPost.timeline[9].year",
+      "before": "9.-10. storočie",
+      "after": "9. – 10. storočie",
+      "reason": "typografia: pomlčka v rozsahu storočí (timeline.year)"
+    },
+    {
+      "path": "blogPost.citations[3].text",
+      "before": "20. až 15. storočia p.n.l.",
+      "after": "20. až 15. storočia pred n. l.",
+      "reason": "typografia: rozpis skratky \"p.n.l.\" -> \"pred n. l.\" + medzery"
+    },
+    {
+      "path": "blogPost.blocks[6].body[0].children[0].text",
+      "before": "20. až 15. storočia p.n.l.",
+      "after": "20. až 15. storočia pred n. l.",
+      "reason": "typografia: rozpis skratky \"p.n.l.\" -> \"pred n. l.\" + medzery"
+    },
+    {
+      "path": "blogPost.citations[9].text",
+      "before": "do 9. storočia p.n.l.",
+      "after": "do 9. storočia pred n. l.",
+      "reason": "typografia: rozpis skratky"
+    },
+    {
+      "path": "blogPost.blocks[10].body[0].children[0].text",
+      "before": "do 9. storočia p.n.l.",
+      "after": "do 9. storočia pred n. l.",
+      "reason": "typografia: rozpis skratky"
+    },
+    {
+      "path": "blogPost.citations[11].text",
+      "before": "(7.-4. storočie p.n.l.)",
+      "after": "(7. – 4. storočie pred n. l.)",
+      "reason": "typografia: pomlčka + rozpis skratky"
+    },
+    {
+      "path": "blogPost.blocks[11].body[0].children[0].text",
+      "before": "(7.-4. storočie p.n.l.)",
+      "after": "(7. – 4. storočie pred n. l.)",
+      "reason": "typografia: pomlčka + rozpis skratky"
+    },
+    {
+      "path": "blogPost.blocks[15].body[0].children[0].text",
+      "before": "v 4. storočí p.n.l. prenikať",
+      "after": "v 4. storočí pred n. l. prenikať",
+      "reason": "typografia: rozpis skratky"
+    },
+    {
+      "path": "blogPost.citations[17].text",
+      "before": "v 4.storočí p.n.l. prenikať",
+      "after": "v 4. storočí pred n. l. prenikať",
+      "reason": "typografia: medzera + rozpis skratky (citácia)"
+    },
+    {
+      "path": "blogPost.citations[11].text",
+      "before": "v rokoch 1886-1887",
+      "after": "v rokoch 1886 – 1887",
+      "reason": "typografia: pomlčka v rozsahu rokov"
+    },
+    {
+      "path": "blogPost.blocks[11].body[0].children[0].text",
+      "before": "v rokoch 1886-1887",
+      "after": "v rokoch 1886 – 1887",
+      "reason": "typografia: pomlčka v rozsahu rokov"
+    },
+    {
+      "path": "blogPost.keyFacts[3].value",
+      "before": "v rokoch 1975-76",
+      "after": "v rokoch 1975 – 76",
+      "reason": "typografia: pomlčka v rozsahu rokov"
+    },
+    {
+      "path": "blogPost.citations[19].text",
+      "before": "v rokoch 1975-76",
+      "after": "v rokoch 1975 – 76",
+      "reason": "typografia: pomlčka v rozsahu rokov"
+    },
+    {
+      "path": "blogPost.blocks[16].body[0].children[0].text",
+      "before": "v rokoch 1975-76",
+      "after": "v rokoch 1975 – 76",
+      "reason": "typografia: pomlčka v rozsahu rokov"
+    },
+    {
+      "path": "blogPost.citations[7].text",
+      "before": "výskumu diaľnice v r.1975-76",
+      "after": "výskumu diaľnice v r. 1975 – 76",
+      "reason": "typografia: medzera za skratkou \"r.\" + pomlčka"
+    },
+    {
+      "path": "blogPost.blocks[22].items[3].text",
+      "before": "výskumu diaľnice v r.1975-76",
+      "after": "výskumu diaľnice v r. 1975 – 76",
+      "reason": "typografia: medzera za skratkou \"r.\" + pomlčka"
+    },
+    {
+      "path": "blogPost.gallery[3].caption",
+      "before": "výskumu diaľnice v r.1975-76",
+      "after": "výskumu diaľnice v r. 1975 – 76",
+      "reason": "typografia: medzera za skratkou \"r.\" + pomlčka"
+    },
+    {
+      "path": "blogPost.timeline[6].year",
+      "before": "1975-1976",
+      "after": "1975 – 1976",
+      "reason": "typografia: pomlčka v rozsahu rokov (timeline.year)"
+    },
+    {
+      "path": "blogPost.keyFacts[0].value",
+      "before": "130-150 m",
+      "after": "130 – 150 m",
+      "reason": "typografia: pomlčka v rozsahu výšky"
+    },
+    {
+      "path": "blogPost.blocks[3].body[0].children[1].text",
+      "before": "130-150 m",
+      "after": "130 – 150 m",
+      "reason": "typografia: pomlčka v rozsahu výšky"
+    },
+    {
+      "path": "blogPost.keyFacts[0].value",
+      "before": "Varta - ostrohovité",
+      "after": "Varta – ostrohovité",
+      "reason": "typografia: pomlčka"
+    },
+    {
+      "path": "blogPost.citations[19].text",
+      "before": "s rozmermi 70x90, ktoré",
+      "after": "s rozmermi 70 × 90 m, ktoré",
+      "reason": "typografia: × namiesto x + medzery + chýbajúca jednotka \"m\" (zhoda s KF2/TL6)"
+    },
+    {
+      "path": "blogPost.blocks[16].body[0].children[0].text",
+      "before": "s rozmermi 70x90, ktoré",
+      "after": "s rozmermi 70 × 90 m, ktoré",
+      "reason": "typografia: × namiesto x + medzery + chýbajúca jednotka \"m\" (zhoda s KF2/TL6)"
+    },
+    {
+      "path": "blogPost.keyFacts[2].value",
+      "before": "rozmermi 70×90 m",
+      "after": "rozmermi 70 × 90 m",
+      "reason": "typografia: medzery okolo ×"
+    },
+    {
+      "path": "blogPost.timeline[6].description",
+      "before": "rozmermi 70×90 m",
+      "after": "rozmermi 70 × 90 m",
+      "reason": "typografia: medzery okolo ×"
+    },
+    {
+      "path": "blogPost.citations[24].text",
+      "before": "220- 270 cm . Vstup",
+      "after": "220 – 270 cm. Vstup",
+      "reason": "typografia: pomlčka + medzera pred bodkou"
+    },
+    {
+      "path": "blogPost.blocks[20].body[0].children[0].text",
+      "before": "220- 270 cm . Vstup",
+      "after": "220 – 270 cm. Vstup",
+      "reason": "typografia: pomlčka + medzera pred bodkou"
+    },
+    {
+      "path": "blogPost.citations[1].text",
+      "before": "vyvýšenina , ktorá bola zničená",
+      "after": "vyvýšenina, ktorá bola zničená",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[5].body[0].children[0].text",
+      "before": "vyvýšenina , ktorá bola zničená",
+      "after": "vyvýšenina, ktorá bola zničená",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[1].text",
+      "before": "uzatvára kopec , s dodnes",
+      "after": "uzatvára kopec, s dodnes",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[5].body[0].children[0].text",
+      "before": "uzatvára kopec , s dodnes",
+      "after": "uzatvára kopec, s dodnes",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[6].text",
+      "before": "nachádzať aj na vrchu . Jeho opevnenie",
+      "after": "nachádzať aj na vrchu. Jeho opevnenie",
+      "reason": "medzera pred bodkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[8].body[0].children[0].text",
+      "before": "nachádzať aj na vrchu . Jeho opevnenie",
+      "after": "nachádzať aj na vrchu. Jeho opevnenie",
+      "reason": "medzera pred bodkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[19].text",
+      "before": "na kamenných základoch . Podľa týchto",
+      "after": "na kamenných základoch. Podľa týchto",
+      "reason": "medzera pred bodkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[16].body[0].children[0].text",
+      "before": "na kamenných základoch . Podľa týchto",
+      "after": "na kamenných základoch. Podľa týchto",
+      "reason": "medzera pred bodkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[19].text",
+      "before": "hrotitých priekop , ktorá vypĺňala",
+      "after": "hrotitých priekop, ktorá vypĺňala",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[16].body[0].children[0].text",
+      "before": "hrotitých priekop , ktorá vypĺňala",
+      "after": "hrotitých priekop, ktorá vypĺňala",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[20].text",
+      "before": "opevnených hrádkov , situovaných",
+      "after": "opevnených hrádkov, situovaných",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[17].body[0].children[0].text",
+      "before": "opevnených hrádkov , situovaných",
+      "after": "opevnených hrádkov, situovaných",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[20].text",
+      "before": "lokalita Kameničná , kde V.Uhlár",
+      "after": "lokalita Kameničná, kde V.Uhlár",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[17].body[0].children[0].text",
+      "before": "lokalita Kameničná , kde V.Uhlár",
+      "after": "lokalita Kameničná, kde V.Uhlár",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[20].text",
+      "before": "plošinách Varty . O charaktere",
+      "after": "plošinách Varty. O charaktere",
+      "reason": "medzera pred bodkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[17].body[0].children[0].text",
+      "before": "plošinách Varty . O charaktere",
+      "after": "plošinách Varty. O charaktere",
+      "reason": "medzera pred bodkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[20].text",
+      "before": "máme však z hradiska , kde prebehol",
+      "after": "máme však z hradiska, kde prebehol",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[17].body[0].children[0].text",
+      "before": "máme však z hradiska , kde prebehol",
+      "after": "máme však z hradiska, kde prebehol",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[24].text",
+      "before": "dominujúca poloha vrcholu , ako vieme",
+      "after": "dominujúca poloha vrcholu, ako vieme",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[20].body[0].children[0].text",
+      "before": "dominujúca poloha vrcholu , ako vieme",
+      "after": "dominujúca poloha vrcholu, ako vieme",
+      "reason": "medzera pred čiarkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[24].text",
+      "before": "k úpätiu Bašty . Podľa datovateľných",
+      "after": "k úpätiu Bašty. Podľa datovateľných",
+      "reason": "medzera pred bodkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.blocks[20].body[0].children[0].text",
+      "before": "k úpätiu Bašty . Podľa datovateľných",
+      "after": "k úpätiu Bašty. Podľa datovateľných",
+      "reason": "medzera pred bodkou (extrakčný artefakt)"
+    },
+    {
+      "path": "blogPost.citations[11].text",
+      "before": "Lipómegyei östelepek (1873) , sa narazilo",
+      "after": "Lipómegyei östelepek (1873), sa narazilo",
+      "reason": "medzera pred čiarkou"
+    },
+    {
+      "path": "blogPost.blocks[11].body[0].children[0].text",
+      "before": "Lipómegyei östelepek (1873) , sa narazilo",
+      "after": "Lipómegyei östelepek (1873), sa narazilo",
+      "reason": "medzera pred čiarkou"
+    },
+    {
+      "path": "blogPost.citations[1].text",
+      "before": "stavbe diaľnice D-1,",
+      "after": "stavbe diaľnice D1,",
+      "reason": "oficiálny názov diaľnice D1 (bez spojovníka)"
+    },
+    {
+      "path": "blogPost.blocks[5].body[0].children[0].text",
+      "before": "stavbe diaľnice D-1,",
+      "after": "stavbe diaľnice D1,",
+      "reason": "oficiálny názov diaľnice D1 (bez spojovníka)"
+    },
+    {
+      "path": "blogPost.citations[19].text",
+      "before": "s budovaním diaľnice D-1.",
+      "after": "s budovaním diaľnice D1.",
+      "reason": "oficiálny názov diaľnice D1 (bez spojovníka)"
+    },
+    {
+      "path": "blogPost.blocks[16].body[0].children[0].text",
+      "before": "s budovaním diaľnice D-1.",
+      "after": "s budovaním diaľnice D1.",
+      "reason": "oficiálny názov diaľnice D1 (bez spojovníka)"
+    },
+    {
+      "path": "blogPost.keyFacts[3].value",
+      "before": "s výstavbou diaľnice D-1",
+      "after": "s výstavbou diaľnice D1",
+      "reason": "oficiálny názov diaľnice D1 (bez spojovníka, KF3)"
+    },
+    {
+      "path": "blogPost.blocks[11].body[0].children[0].text",
+      "before": "čo naznačuje, že sa jednalo o žiarový hrob",
+      "after": "čo naznačuje, že išlo o žiarový hrob",
+      "reason": "bohemizmus: \"jednalo sa o\" -> \"išlo o\""
+    },
+    {
+      "path": "blogPost.citations[11].text",
+      "before": "čo naznačuje že sa jednalo o žiarový hrob",
+      "after": "čo naznačuje, že išlo o žiarový hrob",
+      "reason": "chýbajúca čiarka + bohemizmus (citácia)"
+    },
+    {
+      "path": "blogPost.citations[22].text",
+      "before": "do súvisu z Markomanskými vojnami",
+      "after": "do súvisu s Markomanskými vojnami",
+      "reason": "nesprávna predložka z/s (citácia; zhoda s telom)"
+    },
+    {
+      "path": "blogPost.citations[22].text",
+      "before": "skupinky germánstkych kmeňov",
+      "after": "skupinky germánskych kmeňov",
+      "reason": "preklep (citácia; zhoda s telom)"
+    },
+    {
+      "path": "blogPost.citations[9].text",
+      "before": "Podobné osudy často krát postihli",
+      "after": "Podobné osudy častokrát postihli",
+      "reason": "príslovka jedným slovom (citácia; zhoda s telom)"
+    },
+    {
+      "path": "blogPost.citations[11].text",
+      "before": "Časté a bohaté nálezy bronzových premetov",
+      "after": "Časté a bohaté nálezy bronzových predmetov",
+      "reason": "preklep (citácia; zhoda s telom)"
+    },
+    {
+      "path": "blogPost.citations[25].text",
+      "before": "Existencia spomínaného dreveného hrádku, mala vplyv",
+      "after": "Existencia spomínaného dreveného hrádku mala vplyv",
+      "reason": "nadbytočná čiarka medzi podmetom a prísudkom (citácia)"
+    },
+    {
+      "path": "blogPost.citations[24].text",
+      "before": "praciek, podkov, a železných nožov",
+      "after": "praciek, podkov a železných nožov",
+      "reason": "nadbytočná čiarka pred \"a\" (citácia)"
+    },
+    {
+      "path": "blogPost.citations[9].text",
+      "before": "v Liptovskej Ondrášovej, ktorý obsahoval deväť šálok",
+      "after": "v Liptovskej Ondrašovej, ktorý obsahoval deväť šálok",
+      "reason": "diakritika: Ondrašová (citácia; zhoda s telom)"
+    }
+  ]
+}
