@@ -43,12 +43,30 @@ console.log('ZOSTÁVA',todo.length);todo.forEach(i=>console.log((i.interSlug||i.
 ```
 Výpis tela na korektúru: `node dump-body.mjs <interSlug> [...]`
 
-## STAV k 2026-07-21 — PRÍPRAVA HOTOVÁ
-- **Feedy stiahnuté: 60/60** (data/*.json). **Extract: 60/60** (out/*.intermediate.json).
-- **grammar-sk korektúra HOTOVÁ: 60/60 ✅** — každý článok má kompletné
-  `out/<interSlug>.{timeline,grammar,review}.json` (Agent 1 + korektúra + FLAG-y).
-- **Upload: 0/60** (NEZAČATÉ — ďalšia fáza F3, po jednom, náročné na PC, až po schválení FLAG-ov).
-- Redirecty (F6): nezačaté, ÚPLNE posledné, podľa OBSAHU.
+## STAV k 2026-07-20 — UPLOAD HOTOVÝ ✅
+- **Feedy 60/60 · Extract 60/60 · grammar-sk 60/60 · Upload 60/60 ✅**
+- **DB = 365 článkov** (305 pôvodných + 60 migrovaných), overené (distinct document_id, published).
+  Komentáre importované (blog_comments = 933). Integrita sedí.
+- Upload cez `apply-audit.mjs` (grammar+keyFacts+timeline+kategória+sanitizácia odkazov) →
+  `upload.mjs`; sekvenčný driver `_upload-all.mjs` (52 auto), 2 ručne dorobené
+  (tabula-holis: neplatný odkaz href="#" → sanitizácia; biskupin 65 obr.: 600s timeout).
+- **HOTOVÉ po migrácii (2026-07-21):**
+  1. ✅ **SEO 60/60** — unikátny metaTitle(≤70)/metaDescription(≤160) z obsahu (`_seo-apply.mjs`;
+     POZOR: `dotenv` cesta na `../../.env`, GET cez public — api-token nemá find právo, PUT cez token).
+  2. ✅ **Sitemap + prerender** regenerované (375 URL / 365 článkov + 60 nových má SEO hlavičky).
+  3. ✅ **Komentárový controller** — `update` povoľuje api-token (src + skompilované `dist/`, Strapi
+     reštartovaný). Threading doplnený: **116 odpovedí zanorených** (`_rethread-comments.mjs`,
+     mapa sourceBloggerId→docId z DB). Komentáre 933, všetky `visible`, žiadne duplikáty.
+  4. ⏳ **FLAG-y (71)** — Wave A HOTOVÁ (9 opráv: EXCERPT_CSS, CAPTION_CSS, TITLE_CASE/FIX,
+     MISSING_WORD confident, case fixes — `_flag-fixes-A.mjs` → edit final.json + re-upload
+     s reused médiami, SEO zachované). **Re-upload je PC-safe** (upload.mjs médiá `reused`,
+     buildPayload NEposiela metaTitle → SEO ostáva).
+- **ZOSTÁVA:**
+  - **Wave B (štrukturálne, ~17):** BIBLIO_IN_BODY 8 → content.sources, QUOTE_PERIOD 5 → quote-block,
+    POEM 1, INTRO_AS_QUOTE 2, HEADING_INLINE 1. Rovnaká cesta (edit final.json + re-upload).
+  - **Potrebuje používateľa:** LOCATION_MANUAL **15 súradníc** (lat/lng — NEVYMÝŠĽAŤ, alebo „bez mapy") +
+    ~7 MISSING_WORD/NAME kde chýba meno z prameňa (firma, kniha, skupina, partner) + 2 NAME_INCONSISTENT.
+  - Redirecty (F6): ÚPLNE posledné, podľa OBSAHU.
 
 ### FLAG-y na kontrolu pred uploadom (71 spolu, prehľad)
 - **LOCATION_MANUAL (15)** — chýbajú súradnice; NEVYMYSLENÉ, doplniť lat/lng alebo článok bez mapy.

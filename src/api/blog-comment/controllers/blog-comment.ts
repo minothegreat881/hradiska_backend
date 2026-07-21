@@ -67,6 +67,11 @@ export default factories.createCoreController(
     },
 
     async update(ctx) {
+      const auth = ctx.state?.auth;
+      const hasApiToken = auth?.strategy?.name === 'api-token';
+      // API token (migrácia — 2. prechod threadingu: doplnenie inReplyTo) smie všetko.
+      if (hasApiToken) return super.update(ctx);
+
       const user = ctx.state?.user;
       if (!user) return ctx.unauthorized();
       const rec = await strapi.documents('api::blog-comment.blog-comment').findOne({
