@@ -136,4 +136,4 @@ build
 scripts/blog-migrate/out/*.payload.json
 scripts/blog-migrate/out/*.upload-log.json
 scripts/blog-migrate/out/_dry-run-report.json
-scripts/blog-migrate/out/_verify.json
+scripts/blog-migrate/out/_verify.jsonscripts/seo/seo-batch.json
