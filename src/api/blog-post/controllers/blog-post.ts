@@ -54,6 +54,12 @@ interface IndexEntry {
   cover: string | null;
   place: string | null;   // názov lokality (ak má article location)
   hasLocation: boolean;   // pre delenie roletky Lokality vs Články
+  metaTitle: string;      // SEO titulok (pre prerender hlavičky)
+  metaDescription: string;
+  author: string;
+  date: string | null;    // originalPublishedDate || publishedAt
+  lat: number | null;     // súradnice lokality → JSON-LD Place
+  lng: number | null;
   text: string;           // plný čistý text tela + metadát
 }
 
@@ -71,7 +77,7 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
       // max iterácie, keby sa podmienka konca niekedy pošmykla.
       for (let start = 0, guard = 0; guard < 200; start += limit, guard++) {
         const batch = await strapi.documents('api::blog-post.blog-post').findMany({
-          fields: ['title', 'slug', 'excerpt'],
+          fields: ['title', 'slug', 'excerpt', 'metaTitle', 'metaDescription', 'authorName', 'originalPublishedDate', 'publishedAt'],
           populate: {
             blocks: true,
             quotes: true,
@@ -109,6 +115,12 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
             cover: coverUrl(p.coverImage),
             place: p.location?.name || null,
             hasLocation: !!p.location?.name,
+            metaTitle: p.metaTitle || '',
+            metaDescription: p.metaDescription || '',
+            author: p.authorName || 'Hradiská',
+            date: p.originalPublishedDate || p.publishedAt || null,
+            lat: p.location?.latitude ?? null,
+            lng: p.location?.longitude ?? null,
             text,
           });
         }
