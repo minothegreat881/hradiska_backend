@@ -43,15 +43,24 @@ console.log('ZOSTÁVA',todo.length);todo.forEach(i=>console.log((i.interSlug||i.
 ```
 Výpis tela na korektúru: `node dump-body.mjs <interSlug> [...]`
 
-## STAV k 2026-07-21
+## STAV k 2026-07-21 — PRÍPRAVA HOTOVÁ
 - **Feedy stiahnuté: 60/60** (data/*.json). **Extract: 60/60** (out/*.intermediate.json).
-- **grammar-sk korektúra HOTOVÁ: 9/60** — nitra-v-9-storoci, 3d-rekonstrukcia-velmozskeho-
-  dvorca-v-ducovom-kostolci, janovce-machalovce, archeologicke-kultury-na-slovensku-datovanie,
-  skalica-hradisko-na-kalvarii, trstin-novy-hradok, okopanec-borinka, ponicka-huta-na-klastore,
-  unin-zamcisko.
-- **Zostáva 51** (viď príkaz vyššie): 13 informačné tabule, 13 aktuality (vr. 5 výprav),
-  9 staroveké sídla, 5 všeobecne, 4 svätyne, 4 3D, 2 listiny, 1 povesti.
-- **Upload: 0/60** (nezačaté). Redirecty (F6): nezačaté, robiť ÚPLNE posledné, podľa OBSAHU.
+- **grammar-sk korektúra HOTOVÁ: 60/60 ✅** — každý článok má kompletné
+  `out/<interSlug>.{timeline,grammar,review}.json` (Agent 1 + korektúra + FLAG-y).
+- **Upload: 0/60** (NEZAČATÉ — ďalšia fáza F3, po jednom, náročné na PC, až po schválení FLAG-ov).
+- Redirecty (F6): nezačaté, ÚPLNE posledné, podľa OBSAHU.
+
+### FLAG-y na kontrolu pred uploadom (71 spolu, prehľad)
+- **LOCATION_MANUAL (15)** — chýbajú súradnice; NEVYMYSLENÉ, doplniť lat/lng alebo článok bez mapy.
+- **MISSING_WORD (14)** — extrakcia vypustila slovo; over proti zdroju v `data/<slug>.json`.
+- **BIBLIO_IN_BODY (8)** — bibliografia v tele → presunúť do content.sources.
+- **QUOTE_PERIOD (5)** — dobové pramene (Fulda, Mauríkios, Masúdi, Fredegar…) → content.quote-block.
+- Kategórie zmenené: gorazd-petresovicz-zamcisko → povesti; horne-plachtince-pohansky-vrch → staroveke-sidla.
+- Ostatné jednorazové: CAPTION_CSS (Stupava), EXCERPT_CSS (Holásky 2), POEM (Gorazd),
+  CZECH_VERBATIM (kocovni-pastevci, lh), TITLE_FIX (lh), IMAGE_HEAVY (poľské výpravy).
+
+### Nástroj na dávkový zápis artefaktov
+`_write-batch.mjs` — edituj `DATA` objekt a spusti; zapíše timeline/grammar/review bez bash-quoting.
 
 ## Kľúčové pasce
 - `interSlug` ≠ URL-slug (viď krok 2). Fronta má `interSlug` — používať ho.
