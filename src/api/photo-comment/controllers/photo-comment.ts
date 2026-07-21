@@ -83,6 +83,29 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
       q.filters = { ...(q.filters || {}), status: { $eq: 'visible' } };
       ctx.query = q;
     }
-    return super.find(ctx);
+    const response: any = await super.find(ctx);
+
+    // Doťaženie mena autora a príznaku „môj". `populate[user]` cez verejné API
+    // Strapi ticho zahodí (rovnako ako pri blog-comment), takže by autor ostal
+    // vždy „Člen" a mazanie vlastného by sa nezobrazilo. Meno aj vlastníctvo
+    // preto dopočítame tu cez document service (servisné práva) a von pošleme
+    // LEN authorName (reťazec) + mine (boolean), nikdy údaje účtu.
+    if (Array.isArray(response?.data) && response.data.length) {
+      const ids = response.data.map((d: any) => d.documentId);
+      const rows = await strapi.documents('api::photo-comment.photo-comment').findMany({
+        filters: { documentId: { $in: ids } } as any,
+        populate: { user: true } as any,
+        fields: ['documentId'],
+        pagination: { pageSize: ids.length } as any,
+      });
+      const meta = new Map(rows.map((r: any) => [r.documentId, r.user]));
+      const uid = ctx.state?.user?.id;
+      response.data.forEach((d: any) => {
+        const u: any = meta.get(d.documentId);
+        d.authorName = u?.displayName || u?.username || 'Zmazaný účet';
+        d.mine = !!(uid && u?.id === uid);
+      });
+    }
+    return response;
   },
 }));

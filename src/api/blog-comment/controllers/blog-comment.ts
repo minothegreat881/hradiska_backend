@@ -108,6 +108,28 @@ export default factories.createCoreController(
       return super.find(ctx);
     },
 
+    /**
+     * GET /blog-comments/mine?post=<documentId>
+     * Vráti documentId vlastných komentárov prihláseného člena k danému článku.
+     * Frontend tým označí „môj komentár" (zobrazí tlačidlo Zmazať) bez toho, aby
+     * musel posielať token na verejný GET — ten pri Member role padá na
+     * sanitizácii filtra `post` („Invalid key post"). Tu ide dotaz cez document
+     * service so servisnými právami, takže sanitizácia roly ho neobmedzuje, a
+     * von posielame LEN pole documentId, nikdy údaje účtu.
+     */
+    async mine(ctx) {
+      const user = ctx.state?.user;
+      if (!user) return ctx.unauthorized();
+      const post = ctx.query?.post;
+      if (!post) return ctx.badRequest('post (documentId) je povinný.');
+      const rows = await strapi.documents('api::blog-comment.blog-comment').findMany({
+        filters: { post: { documentId: post }, user: { id: user.id } } as any,
+        fields: ['documentId'],
+        pagination: { pageSize: 500 } as any,
+      });
+      return { data: rows.map((r: any) => r.documentId) };
+    },
+
     async like(ctx) {
       // PONECHANÉ kvôli spätnej kompatibilite frontendu, ale lajky sa presúvajú
       // na kolekciu `reaction` (per účet). Tento endpoint len zvyšuje counter.

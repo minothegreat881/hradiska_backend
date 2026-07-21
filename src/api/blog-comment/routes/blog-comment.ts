@@ -15,6 +15,15 @@ export default {
       handler: 'blog-comment.find',
     },
     {
+      // Custom: documentId vlastných komentárov k danému článku. MUSÍ byť pred
+      // /:id, inak by to zachytil findOne s id='mine'. Slúži na označenie
+      // „môj komentár" na frontende bez posielania tokenu na verejný GET
+      // (ten by pri Member role padol na sanitizáciu filtra `post`).
+      method: 'GET',
+      path: '/blog-comments/mine',
+      handler: 'blog-comment.mine',
+    },
+    {
       method: 'GET',
       path: '/blog-comments/:id',
       handler: 'blog-comment.findOne',
