@@ -61,11 +61,19 @@ Výpis tela na korektúru: `node dump-body.mjs <interSlug> [...]`
      MISSING_WORD confident, case fixes — `_flag-fixes-A.mjs` → edit final.json + re-upload
      s reused médiami, SEO zachované). **Re-upload je PC-safe** (upload.mjs médiá `reused`,
      buildPayload NEposiela metaTitle → SEO ostáva).
-- **ZOSTÁVA:**
-  - **Wave B (štrukturálne, ~17):** BIBLIO_IN_BODY 8 → content.sources, QUOTE_PERIOD 5 → quote-block,
-    POEM 1, INTRO_AS_QUOTE 2, HEADING_INLINE 1. Rovnaká cesta (edit final.json + re-upload).
-  - **Potrebuje používateľa:** LOCATION_MANUAL **15 súradníc** (lat/lng — NEVYMÝŠĽAŤ, alebo „bez mapy") +
-    ~7 MISSING_WORD/NAME kde chýba meno z prameňa (firma, kniha, skupina, partner) + 2 NAME_INCONSISTENT.
+  5. ✅ **FLAG Wave B (štrukturálne, 11 článkov)** — `_flag-fixes-B.mjs`: biblio z tela → content.sources
+     (presun, nie mazanie — okrem skalica = čistý duplikát), 2× intro quote→rich, 1× rich→quote (Fuldské
+     anály), source doplnený na dobové quote-blocky (Mauríkios/Fredegar/Regino). Operácie podľa OBSAHU, nie indexu.
+  6. ✅ **Duplikované komentáre vyčistené** — re-upload kedy-prisli (171 kom.) duplikoval 71 (pageSize cap
+     100, viď [[upload-comment-dedup-pagesize]]). Zmazané z DB (Strapi stop→delete→štart), kedy-prisli
+     prevláknený nanovo. `upload.mjs` dedup opravený (stránkovanie). Stav: 933 kom., 0 visiacich, 0 dup.
+  - **LOCATION_MANUAL (15):** rozhodnuté — kde v origináli neboli súradnice, **necháme bez mapy** (HOTOVÉ).
+- **ZOSTÁVA (drobné, potrebuje používateľa/prameň):**
+  - ~7 MISSING_WORD/NAME kde extrakcia vypustila meno (firma geodetov, kniha, reenaktorská skupina,
+    partner tabule; niektoré sú v `data/<slug>.json`/digeste — napr. tabula-holis výrobca „Cenwood") — Wave C.
+  - 2 NAME_INCONSISTENT (trstin Biksárdsky×Biksársky, unin kultúra) — treba doménové potvrdenie.
+  - Vedome PRESKOČENÉ (judgement): bojova-taktika inline citáty (ostávajú próza), gorazd POEM
+    (reštrukturalizácia by bola stratová), janovce inline heading (kozmetické).
   - Redirecty (F6): ÚPLNE posledné, podľa OBSAHU.
 
 ### FLAG-y na kontrolu pred uploadom (71 spolu, prehľad)

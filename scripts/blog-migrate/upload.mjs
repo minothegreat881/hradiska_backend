@@ -762,14 +762,19 @@ async function doRealUpload(intermediate, payload, mediaArray, options) {
   const sourceComments = intermediate.$meta?.comments || [];
   if (sourceComments.length > 0) {
     console.log(`\n[6/6] Import komentárov (${sourceComments.length}, 2-pass)...`);
-    // Lookup existujúce komentáre tohto postu (dedup cez bloggerPostId)
-    const existingComments = await strapiGet(
-      `/api/blog-comments?filters[post][documentId][$eq]=${documentId}&filters[sourceBlogger][$eq]=true&pagination[pageSize]=200`,
-    );
-    // Map: bloggerPostId (číselný) → strapi documentId
+    // Lookup existujúce komentáre tohto postu (dedup cez bloggerPostId).
+    // POZOR: Strapi zastropuje pageSize na 100 — MUSÍ sa stránkovať cez všetky
+    // stránky, inak sa pri článku so >100 komentármi „pretečené" komentáre pri
+    // re-uploade znovu vytvoria ako duplikáty (napr. 171 → 71 dup). Preto slučka.
     const bloggerIdToDocId = new Map();
-    for (const ec of existingComments.data || []) {
-      if (ec.sourceBloggerId) bloggerIdToDocId.set(ec.sourceBloggerId, ec.documentId);
+    for (let page = 1; ; page++) {
+      const res = await strapiGet(
+        `/api/blog-comments?filters[post][documentId][$eq]=${documentId}&filters[sourceBlogger][$eq]=true&pagination[page]=${page}&pagination[pageSize]=100`,
+      );
+      const rows = res.data || [];
+      for (const ec of rows) if (ec.sourceBloggerId) bloggerIdToDocId.set(ec.sourceBloggerId, ec.documentId);
+      const pageCount = res.meta?.pagination?.pageCount ?? 1;
+      if (rows.length < 100 || page >= pageCount) break;
     }
 
     // -- Pass 1: vytvorenie všetkých komentárov bez inReplyTo (zachytíme documentId) --
