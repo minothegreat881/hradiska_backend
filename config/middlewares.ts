@@ -43,6 +43,7 @@ export default [
   'strapi::poweredBy',
   'strapi::query',
   'strapi::body',
+  'global::authRateLimit', // rate-limiting POST /api/auth/* (brute-force ochrana)
   'strapi::session',
   'strapi::favicon',
   'strapi::public',
