@@ -68,12 +68,17 @@ Výpis tela na korektúru: `node dump-body.mjs <interSlug> [...]`
      100, viď [[upload-comment-dedup-pagesize]]). Zmazané z DB (Strapi stop→delete→štart), kedy-prisli
      prevláknený nanovo. `upload.mjs` dedup opravený (stránkovanie). Stav: 933 kom., 0 visiacich, 0 dup.
   - **LOCATION_MANUAL (15):** rozhodnuté — kde v origináli neboli súradnice, **necháme bez mapy** (HOTOVÉ).
-- **ZOSTÁVA (drobné, potrebuje používateľa/prameň):**
-  - ~7 MISSING_WORD/NAME kde extrakcia vypustila meno (firma geodetov, kniha, reenaktorská skupina,
-    partner tabule; niektoré sú v `data/<slug>.json`/digeste — napr. tabula-holis výrobca „Cenwood") — Wave C.
-  - 2 NAME_INCONSISTENT (trstin Biksárdsky×Biksársky, unin kultúra) — treba doménové potvrdenie.
+  7. ✅ **Wave C — MISSING_WORD/NAME preverené.** KĽÚČOVÉ: ~8 „chýbajúcich mien" boli **FALOŠNÉ
+     poplachy** — mená SÚ v článkoch ako **odkazy** (link uzly), grammar-sk review ich nevidel, lebo
+     nečítal text odkazov (Cenwood, OZ Púchovo dedičstvo, skupiny Slavibor, GEOTOP ONDRUŠKA, Skryté
+     poklady, Fredegarova kronika, Vae Victis, Zbručský idol, „mapa Skalice"). NETREBALO opravovať.
+     Jediná skutočná oprava: **pezinok** „storočia zdá, že" → „storočia. Zdá sa, že" (re-upload OK).
+     turcianska rt#5 gramaticky OK (necháné). pezinok „drevenými [stĺpmi]" — chýba aj v origináli, nechané.
+- **ZOSTÁVA (potrebuje doménové rozhodnutie používateľa):**
+  - 2 NAME_INCONSISTENT: trstin Biksárdsky×Biksársky priesmyk; unin telo „maďarovsko-věteřovská" vs
+    popisok „unětická" kultúra.
   - Vedome PRESKOČENÉ (judgement): bojova-taktika inline citáty (ostávajú próza), gorazd POEM
-    (reštrukturalizácia by bola stratová), janovce inline heading (kozmetické).
+    (reštrukturalizácia stratová), janovce inline heading (kozmetické).
   - Redirecty (F6): ÚPLNE posledné, podľa OBSAHU.
 
 ### FLAG-y na kontrolu pred uploadom (71 spolu, prehľad)
