@@ -40,6 +40,24 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
       } as any,
       populate: { user: true } as any,
     });
+
+    // Notifikácia „odpoveď" autorovi rodičovského foto-komentára (galéria).
+    if (body.inReplyTo) {
+      try {
+        const parent = await strapi.documents('api::photo-comment.photo-comment').findOne({
+          documentId: body.inReplyTo,
+          populate: { user: { fields: ['id'] } } as any,
+        });
+        const parentUserId = (parent as any)?.user?.id;
+        if (parentUserId) {
+          await strapi.service('api::notification.notification').notify({
+            type: 'reply', recipientId: parentUserId, actorId: user.id,
+            photoCommentId: (created as any).id, fileId: body.fileId ?? null,
+            text: body.content.slice(0, 300),
+          });
+        }
+      } catch { /* notifikácia je vedľajší efekt */ }
+    }
     return { data: created };
   },
 
@@ -100,10 +118,27 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
       });
       const meta = new Map(rows.map((r: any) => [r.documentId, r.user]));
       const uid = ctx.state?.user?.id;
+
+      // Lajky komentárov: reaction targetType='photo-comment', targetId = documentId.
+      // Von posielame počet + (pre prihláseného) documentId vlastnej reakcie na unlike.
+      const reactions = await strapi.documents('api::reaction.reaction').findMany({
+        filters: { targetType: 'photo-comment', targetId: { $in: ids } } as any,
+        populate: { user: { fields: ['id'] } } as any,
+        pagination: { pageSize: 5000 } as any,
+      });
+      const likeCount = new Map<string, number>();
+      const myLike = new Map<string, string>();
+      for (const r of reactions as any[]) {
+        likeCount.set(r.targetId, (likeCount.get(r.targetId) || 0) + 1);
+        if (uid && r.user?.id === uid) myLike.set(r.targetId, r.documentId);
+      }
+
       response.data.forEach((d: any) => {
         const u: any = meta.get(d.documentId);
         d.authorName = u?.displayName || u?.username || 'Zmazaný účet';
         d.mine = !!(uid && u?.id === uid);
+        d.likeCount = likeCount.get(d.documentId) || 0;
+        d.myLikeId = myLike.get(d.documentId) || null;
       });
     }
     return response;

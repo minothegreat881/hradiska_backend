@@ -20,11 +20,15 @@ import { factories } from '@strapi/strapi';
  * ráta priamo z reakcií.
  */
 async function bumpCommentLikes(strapi: any, targetType: string, targetId: string, delta: number) {
-  if (targetType !== 'comment') return;
+  const uid =
+    targetType === 'comment' ? 'api::blog-comment.blog-comment'
+    : targetType === 'photo-comment' ? 'api::photo-comment.photo-comment'
+    : null;
+  if (!uid) return;
   try {
-    const c = await strapi.documents('api::blog-comment.blog-comment').findOne({ documentId: targetId });
+    const c = await strapi.documents(uid).findOne({ documentId: targetId });
     if (!c) return;
-    await strapi.documents('api::blog-comment.blog-comment').update({
+    await strapi.documents(uid).update({
       documentId: targetId,
       data: { likes: Math.max(0, (c.likes || 0) + delta) },
     });
@@ -65,6 +69,22 @@ export default factories.createCoreController('api::reaction.reaction', ({ strap
           await strapi.service('api::notification.notification').notify({
             type: 'like', recipientId: authorId, actorId: user.id,
             commentId: (c as any).id, postId: (c as any)?.post?.id ?? null,
+            text: ((c as any)?.content || '').slice(0, 160),
+          });
+        }
+      } catch { /* notifikácia je vedľajší efekt */ }
+    } else if (targetType === 'photo-comment') {
+      // Lajk foto-komentára → notifikuj autora komentára (galéria).
+      try {
+        const c = await strapi.documents('api::photo-comment.photo-comment').findOne({
+          documentId: targetId,
+          populate: { user: { fields: ['id'] } } as any,
+        });
+        const authorId = (c as any)?.user?.id;
+        if (authorId) {
+          await strapi.service('api::notification.notification').notify({
+            type: 'like', recipientId: authorId, actorId: user.id,
+            photoCommentId: (c as any).id, fileId: (c as any)?.fileId ?? null,
             text: ((c as any)?.content || '').slice(0, 160),
           });
         }

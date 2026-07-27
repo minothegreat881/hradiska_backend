@@ -21,6 +21,10 @@
       "required": true,
       "maxLength": 5000
     },
+    "likes": {
+      "type": "integer",
+      "default": 0
+    },
     "status": {
       "type": "enumeration",
       "enum": ["visible", "hidden", "spam"],

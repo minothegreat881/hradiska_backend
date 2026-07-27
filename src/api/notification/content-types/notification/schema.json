@@ -51,6 +51,14 @@
       "relation": "manyToOne",
       "target": "api::blog-comment.blog-comment"
     },
+    "photoComment": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::photo-comment.photo-comment"
+    },
+    "fileId": {
+      "type": "integer"
+    },
     "aktualita": {
       "type": "relation",
       "relation": "manyToOne",

@@ -137,3 +137,6 @@ scripts/blog-migrate/out/*.payload.json
 scripts/blog-migrate/out/*.upload-log.json
 scripts/blog-migrate/out/_dry-run-report.json
 scripts/blog-migrate/out/_verify.jsonscripts/seo/seo-batch.json
+
+# Hetzner API token — NIKDY nekomitovať
+.hcloud-token

@@ -25,6 +25,8 @@ export default ({ strapi }: { strapi: any }) => ({
     actorId?: number | null;
     postId?: number | null;
     commentId?: number | null;
+    photoCommentId?: number | null;
+    fileId?: number | null;
     aktualitaId?: number | null;
     text?: string | null;
   }) {
@@ -40,13 +42,17 @@ export default ({ strapi }: { strapi: any }) => ({
     const prefKey = PREF[type];
     if (prefKey && recipient[prefKey] === false) return null; // člen si daný typ vypol
 
-    // Agregácia lajkov: rovnaký príjemca + komentár, neprečítané, do 1 h → navýš počet.
-    if (type === 'like' && input.commentId) {
+    // Agregácia lajkov: rovnaký príjemca + (blog alebo foto) komentár, neprečítané,
+    // do 1 h → navýš počet namiesto ďalšej notifikácie.
+    if (type === 'like' && (input.commentId || input.photoCommentId)) {
       const since = new Date(Date.now() - 3600_000).toISOString();
+      const key: any = input.photoCommentId
+        ? { photoComment: { id: input.photoCommentId } }
+        : { comment: { id: input.commentId } };
       const existing = await strapi.documents(UID).findMany({
         filters: {
           recipient: { id: recipientId }, type: 'like', read: false,
-          comment: { id: input.commentId }, createdAt: { $gt: since },
+          ...key, createdAt: { $gt: since },
         } as any,
         sort: { createdAt: 'desc' }, pagination: { pageSize: 1 },
       });
@@ -67,6 +73,8 @@ export default ({ strapi }: { strapi: any }) => ({
         actor: input.actorId || null,
         post: input.postId || null,
         comment: input.commentId || null,
+        photoComment: input.photoCommentId || null,
+        fileId: input.fileId || null,
         aktualita: input.aktualitaId || null,
       } as any,
     });

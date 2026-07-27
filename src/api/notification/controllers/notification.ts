@@ -21,11 +21,13 @@ export default ({ strapi }: { strapi: any }) => ({
         actor: { fields: ['username', 'displayName'] },
         post: { fields: ['title', 'slug'] },
         comment: { fields: ['content', 'documentId'] },
+        photoComment: { fields: ['content', 'documentId', 'fileId'] },
         aktualita: { fields: ['nazov'] },
       },
       pagination: { page, pageSize },
     });
     const total = await strapi.documents(UID).count({ filters: { recipient: { id: user.id } } });
+    // fileId je aj priamo na notifikácii (pre prípad zmazaného komentára)
     return { data: rows, meta: { pagination: { page, pageSize, total } } };
   },
 
