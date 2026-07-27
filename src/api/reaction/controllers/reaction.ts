@@ -121,6 +121,47 @@ export default factories.createCoreController('api::reaction.reaction', ({ strap
     return { data };
   },
 
+  /**
+   * GET /reactions/mine/photos — moje olajkované fotky (targetType='photo').
+   * targetId = fileId (Media Library). Doťaží náhľad fotky a článok (z galérie).
+   */
+  async minePhotos(ctx) {
+    const user = ctx.state?.user;
+    if (!user) return ctx.unauthorized();
+    const reactions = await strapi.documents('api::reaction.reaction').findMany({
+      filters: { user: { id: user.id }, targetType: 'photo' } as any,
+      sort: { createdAt: 'desc' }, pagination: { pageSize: 500 } as any,
+    });
+    const fileIds = reactions
+      .map((r: any) => parseInt(r.targetId, 10))
+      .filter((n: number) => !Number.isNaN(n));
+    if (!fileIds.length) return { data: [] };
+
+    const files = await strapi.db.query('plugin::upload.file').findMany({
+      where: { id: { $in: fileIds } },
+      select: ['id', 'url', 'formats', 'alternativeText'],
+    });
+    const byId = new Map<number, any>(files.map((f: any) => [f.id, f]));
+
+    const out: any[] = [];
+    for (const r of reactions as any[]) {
+      const fid = parseInt(r.targetId, 10);
+      const f = byId.get(fid);
+      if (!f) continue;
+      let post: any = null;
+      try {
+        const posts = await strapi.documents('api::blog-post.blog-post').findMany({
+          filters: { gallery: { id: fid } } as any,
+          fields: ['title', 'slug'], pagination: { pageSize: 1 } as any,
+        });
+        if (posts[0]) post = { title: (posts[0] as any).title, slug: (posts[0] as any).slug };
+      } catch { /* prelink je voliteľný */ }
+      const thumb = f.formats?.thumbnail?.url || f.formats?.small?.url || f.url;
+      out.push({ fileId: fid, url: f.url, thumb, alt: f.alternativeText || '', post });
+    }
+    return { data: out };
+  },
+
   async delete(ctx) {
     const user = ctx.state?.user;
     if (!user) return ctx.unauthorized();

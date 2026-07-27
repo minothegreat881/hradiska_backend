@@ -5,5 +5,6 @@
 export default {
   routes: [
     { method: 'GET', path: '/reactions/mine/posts', handler: 'reaction.minePosts', config: { policies: [] } },
+    { method: 'GET', path: '/reactions/mine/photos', handler: 'reaction.minePhotos', config: { policies: [] } },
   ],
 };

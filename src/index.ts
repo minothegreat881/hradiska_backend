@@ -298,6 +298,7 @@ async function setupMemberPermissions(strapi: Core.Strapi) {
     'api::reaction.reaction.delete',
     'api::reaction.reaction.find',
     'api::reaction.reaction.minePosts',
+    'api::reaction.reaction.minePhotos',
     // vlastné foto-komentáre (profil → Moje komentáre) + základ galérie
     'api::photo-comment.photo-comment.mineAll',
     'api::photo-comment.photo-comment.find',
