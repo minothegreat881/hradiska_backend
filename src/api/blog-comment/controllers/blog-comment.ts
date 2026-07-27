@@ -19,6 +19,12 @@ import { factories } from '@strapi/strapi';
  */
 const isStaff = (user: any) => user?.role?.type === 'authenticated';
 
+/** URL avatara účtu (thumbnail → small → originál), alebo null. */
+function avatarUrl(av: any): string | null {
+  if (!av) return null;
+  return av.formats?.thumbnail?.url || av.formats?.small?.url || av.url || null;
+}
+
 export default factories.createCoreController(
   'api::blog-comment.blog-comment',
   ({ strapi }) => ({
@@ -132,7 +138,23 @@ export default factories.createCoreController(
         q.filters = { ...(q.filters || {}), status: { $eq: 'visible' } };
         ctx.query = q;
       }
-      return super.find(ctx);
+      const response: any = await super.find(ctx);
+
+      // Avatar autora: `populate[user]` cez verejné API Strapi zahadzuje, preto
+      // ho dopočítame cez document service (servisné práva) a von pošleme LEN
+      // URL avatara (reťazec), nikdy iné údaje účtu.
+      if (Array.isArray(response?.data) && response.data.length) {
+        const ids = response.data.map((d: any) => d.documentId);
+        const rows = await strapi.documents('api::blog-comment.blog-comment').findMany({
+          filters: { documentId: { $in: ids } } as any,
+          populate: { user: { populate: { avatar: { fields: ['url', 'formats'] } } } } as any,
+          fields: ['documentId'],
+          pagination: { pageSize: ids.length } as any,
+        });
+        const avById = new Map(rows.map((r: any) => [r.documentId, avatarUrl(r.user?.avatar)]));
+        response.data.forEach((d: any) => { d.authorAvatar = avById.get(d.documentId) ?? null; });
+      }
+      return response;
     },
 
     /**

@@ -13,6 +13,12 @@ import { factories } from '@strapi/strapi';
  */
 const isStaff = (user: any) => user?.role?.type === 'authenticated';
 
+/** URL avatara účtu (thumbnail → small → originál), alebo null. */
+function avatarUrl(av: any): string | null {
+  if (!av) return null;
+  return av.formats?.thumbnail?.url || av.formats?.small?.url || av.url || null;
+}
+
 export default factories.createCoreController('api::photo-comment.photo-comment', ({ strapi }) => ({
   async create(ctx) {
     const user = ctx.state?.user;
@@ -159,7 +165,7 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
       const ids = response.data.map((d: any) => d.documentId);
       const rows = await strapi.documents('api::photo-comment.photo-comment').findMany({
         filters: { documentId: { $in: ids } } as any,
-        populate: { user: true } as any,
+        populate: { user: { populate: { avatar: { fields: ['url', 'formats'] } } } } as any,
         fields: ['documentId'],
         pagination: { pageSize: ids.length } as any,
       });
@@ -183,6 +189,7 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
       response.data.forEach((d: any) => {
         const u: any = meta.get(d.documentId);
         d.authorName = u?.displayName || u?.username || 'Zmazaný účet';
+        d.authorAvatar = avatarUrl(u?.avatar);
         d.mine = !!(uid && u?.id === uid);
         d.likeCount = likeCount.get(d.documentId) || 0;
         d.myLikeId = myLike.get(d.documentId) || null;
