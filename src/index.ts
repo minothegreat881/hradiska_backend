@@ -335,6 +335,11 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
     'plugin::users-permissions.user.find',
     'plugin::users-permissions.user.update',
     'plugin::users-permissions.user.destroy',
+    // Moderácia komentárov k fotkám (galéria) — staff vidí všetky statusy a smie
+    // meniť status / mazať (controller photo-comment si staff overuje sám).
+    'api::photo-comment.photo-comment.find',
+    'api::photo-comment.photo-comment.update',
+    'api::photo-comment.photo-comment.delete',
   ];
 
   for (const action of actions) {
@@ -348,7 +353,7 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
       console.log(`  ✓ staff: ${action}`);
     }
   }
-  console.log('🛡️  Staff user-management permissions configured');
+  console.log('🛡️  Staff user-management + photo-comment moderation permissions configured');
 }
 
 /**

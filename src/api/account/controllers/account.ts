@@ -7,6 +7,7 @@
  */
 const USER = 'plugin::users-permissions.user';
 const COMMENT = 'api::blog-comment.blog-comment';
+const PHOTO_COMMENT = 'api::photo-comment.photo-comment';
 const REACTION = 'api::reaction.reaction';
 const SHARE = 'api::share.share';
 
@@ -22,11 +23,17 @@ export default ({ strapi }: { strapi: any }) => ({
       filters: { id: user.id },
       populate: { avatar: { fields: ['url', 'formats'] } },
     });
-    const [comments, favorites, shares] = await Promise.all([
+    // Do počtov rátame aj aktivitu k FOTKÁM (galéria): photo-comment a
+    // reaction targetType='photo' — inak profil ukazoval 0 aj keď člen reagoval.
+    const [blogComments, photoComments, postLikes, photoLikes, shares] = await Promise.all([
       strapi.documents(COMMENT).count({ filters: { user: { id: user.id }, status: { $ne: 'spam' } } }),
+      strapi.documents(PHOTO_COMMENT).count({ filters: { user: { id: user.id }, status: { $ne: 'spam' } } }),
       strapi.documents(REACTION).count({ filters: { user: { id: user.id }, targetType: 'post' } }),
+      strapi.documents(REACTION).count({ filters: { user: { id: user.id }, targetType: 'photo' } }),
       strapi.documents(SHARE).count({ filters: { user: { id: user.id } } }),
     ]);
+    const comments = blogComments + photoComments;
+    const favorites = postLikes + photoLikes;
     return {
       id: full.id,
       username: full.username,
