@@ -304,6 +304,8 @@ async function setupMemberPermissions(strapi: Core.Strapi) {
     'api::photo-comment.photo-comment.create',
     'api::photo-comment.photo-comment.update',
     'api::photo-comment.photo-comment.delete',
+    // upload — aby si člen vedel nahrať vlastný avatar (POST /api/upload)
+    'plugin::upload.content-api.upload',
   ];
 
   for (const role of roles) {

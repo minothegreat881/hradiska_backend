@@ -50,9 +50,11 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
         });
         const parentUserId = (parent as any)?.user?.id;
         if (parentUserId) {
-          await strapi.service('api::notification.notification').notify({
+          const notif = strapi.service('api::notification.notification');
+          const postId = await notif.postIdFromFile(body.fileId);
+          await notif.notify({
             type: 'reply', recipientId: parentUserId, actorId: user.id,
-            photoCommentId: (created as any).id, fileId: body.fileId ?? null,
+            photoCommentId: (created as any).id, fileId: body.fileId ?? null, postId,
             text: body.content.slice(0, 300),
           });
         }

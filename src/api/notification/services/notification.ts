@@ -82,6 +82,22 @@ export default ({ strapi }: { strapi: any }) => ({
     return created;
   },
 
+  /**
+   * Z fileId (fotka z galérie) dohľadá článok, ktorý ju obsahuje — aby foto-
+   * notifikácia vedela nastaviť `post` a frontend odkázal rovno na fotku.
+   */
+  async postIdFromFile(fileId?: number | null): Promise<number | null> {
+    if (!fileId) return null;
+    try {
+      const posts = await strapi.documents('api::blog-post.blog-post').findMany({
+        filters: { gallery: { id: fileId } } as any,
+        fields: ['id'],
+        pagination: { pageSize: 1 } as any,
+      });
+      return (posts[0] as any)?.id ?? null;
+    } catch { return null; }
+  },
+
   /** Fan-out novej aktuality: upozorni všetkých členov s notifyPost !== false. */
   async notifyNewPost(aktualitaId: number, aktualitaTitle: string) {
     const members = await strapi.documents(USER).findMany({

@@ -82,9 +82,11 @@ export default factories.createCoreController('api::reaction.reaction', ({ strap
         });
         const authorId = (c as any)?.user?.id;
         if (authorId) {
-          await strapi.service('api::notification.notification').notify({
+          const notif = strapi.service('api::notification.notification');
+          const postId = await notif.postIdFromFile((c as any)?.fileId);
+          await notif.notify({
             type: 'like', recipientId: authorId, actorId: user.id,
-            photoCommentId: (c as any).id, fileId: (c as any)?.fileId ?? null,
+            photoCommentId: (c as any).id, fileId: (c as any)?.fileId ?? null, postId,
             text: ((c as any)?.content || '').slice(0, 160),
           });
         }
