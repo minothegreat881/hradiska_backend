@@ -86,6 +86,9 @@ export default {
     // Set up member/staff (non-public) permissions for profil + notifikácie + push
     await setupMemberPermissions(strapi);
 
+    // Staff-only: správa používateľov (find/update/destroy) — LEN rola Authenticated
+    await setupStaffUserPermissions(strapi);
+
     // Seed sample aktuality (only on first run, if collection is empty)
     await seedAktuality(strapi);
   },
@@ -308,4 +311,39 @@ async function setupMemberPermissions(strapi: Core.Strapi) {
     }
   }
   console.log('🔐 Member/staff permissions configured');
+}
+
+/**
+ * Správa používateľov v admine — LEN pre built-in rolu `authenticated` (staff).
+ * NIE pre custom rolu Member, inak by hocijaký prihlásený člen mohol mazať účty.
+ * Grantuje find/update/destroy na plugin::users-permissions.user.
+ * Idempotentné: existujúce (find/update pridané ručne) preskočí, doplní destroy.
+ */
+async function setupStaffUserPermissions(strapi: Core.Strapi) {
+  const staffRole = await strapi.db.query('plugin::users-permissions.role').findOne({
+    where: { type: 'authenticated' },
+  });
+  if (!staffRole) {
+    console.log('⚠️ Rola „authenticated" (staff) nenájdená, preskakujem user-management permissions');
+    return;
+  }
+
+  const actions = [
+    'plugin::users-permissions.user.find',
+    'plugin::users-permissions.user.update',
+    'plugin::users-permissions.user.destroy',
+  ];
+
+  for (const action of actions) {
+    const existing = await strapi.db.query('plugin::users-permissions.permission').findOne({
+      where: { action, role: staffRole.id },
+    });
+    if (!existing) {
+      await strapi.db.query('plugin::users-permissions.permission').create({
+        data: { action, role: staffRole.id },
+      });
+      console.log(`  ✓ staff: ${action}`);
+    }
+  }
+  console.log('🛡️  Staff user-management permissions configured');
 }
