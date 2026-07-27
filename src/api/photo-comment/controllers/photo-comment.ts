@@ -94,6 +94,51 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
     return super.delete(ctx);
   },
 
+  /**
+   * GET /photo-comments/mine-all — VŠETKY foto-komentáre člena (profil → Moje
+   * komentáre). Doťaží počet lajkov (reactions), počet odpovedí, stav a článok
+   * (dohľadaný z fileId cez galériu) pre preklik.
+   */
+  async mineAll(ctx) {
+    const user = ctx.state?.user;
+    if (!user) return ctx.unauthorized();
+    const rows = await strapi.documents('api::photo-comment.photo-comment').findMany({
+      filters: { user: { id: user.id } } as any,
+      sort: { createdAt: 'desc' },
+      pagination: { pageSize: 500 } as any,
+    });
+    const out: any[] = [];
+    for (const c of rows as any[]) {
+      const replyCount = await strapi.documents('api::photo-comment.photo-comment').count({
+        filters: { inReplyTo: c.documentId, status: { $ne: 'spam' } } as any,
+      });
+      const likeCount = await strapi.documents('api::reaction.reaction').count({
+        filters: { targetType: 'photo-comment', targetId: c.documentId } as any,
+      });
+      let post: any = null;
+      try {
+        const posts = await strapi.documents('api::blog-post.blog-post').findMany({
+          filters: { gallery: { id: c.fileId } } as any,
+          fields: ['title', 'slug'],
+          pagination: { pageSize: 1 } as any,
+        });
+        if (posts[0]) post = { title: (posts[0] as any).title, slug: (posts[0] as any).slug };
+      } catch { /* prelink je voliteľný */ }
+      out.push({
+        documentId: c.documentId,
+        content: c.content,
+        status: c.status,
+        likes: likeCount,
+        replyCount,
+        editedAt: c.editedAt ?? null,
+        createdAt: c.createdAt,
+        fileId: c.fileId,
+        post,
+      });
+    }
+    return { data: out };
+  },
+
   async find(ctx) {
     // Verejnosť vidí len viditeľné. Staff (admin) vidí všetko.
     if (!isStaff(ctx.state?.user)) {
