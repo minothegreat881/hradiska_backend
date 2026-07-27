@@ -1,0 +1,29 @@
+{
+ "changes": [
+  {
+   "before": "dňa 16. 6.2013 osadili",
+   "after": "dňa 16. 6. 2013 osadili",
+   "rule": "B typografia (dátum)"
+  },
+  {
+   "before": "pod svahom  novú informačnú tabuľu",
+   "after": "pod svahom slovanského hradiska Mesciská novú informačnú tabuľu",
+   "rule": "B dvojitá medzera + doplnené z excerptu"
+  },
+  {
+   "before": "po modrej turistickej (aj cyklistickej ) trase",
+   "after": "po modrej turistickej (aj cyklistickej) trase",
+   "rule": "B medzera pred zátvorkou"
+  },
+  {
+   "before": "a navštíviť toto výnimočného hradiska",
+   "after": "a navštíviť toto výnimočné hradisko",
+   "rule": "A4 pád (navštíviť + akuzatív)"
+  },
+  {
+   "before": "Ďakujeme že si našli čas",
+   "after": "Ďakujeme, že si našli čas",
+   "rule": "A1 čiarka pred že"
+  }
+ ]
+}

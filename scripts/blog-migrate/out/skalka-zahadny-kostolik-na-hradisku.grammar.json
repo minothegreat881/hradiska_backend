@@ -1,0 +1,29 @@
+{
+ "changes": [
+  {
+   "before": "rozmery… údaj 5,3 x 5,4-5,6 m",
+   "after": "…údaj 5,3 × 5,4 – 5,6 m",
+   "rule": "B typografia (×, en dash)"
+  },
+  {
+   "before": "odhadnúť na vyše 30 m3",
+   "after": "odhadnúť na vyše 30 m³",
+   "rule": "B m³"
+  },
+  {
+   "before": "Z 10.-12. stor. sú takéto",
+   "after": "Z 10. – 12. stor. sú takéto",
+   "rule": "B en dash"
+  },
+  {
+   "before": "v susednom Rakúsku a Polsku",
+   "after": "v susednom Rakúsku a Poľsku",
+   "rule": "A8 diakritika"
+  },
+  {
+   "before": "zásady zakotvenú v „Legis Salicae\"",
+   "after": "zásady zakotvenej v „Legis Salicae\"",
+   "rule": "A3 zhoda"
+  }
+ ]
+}

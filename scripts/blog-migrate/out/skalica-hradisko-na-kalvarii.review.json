@@ -1,0 +1,5 @@
+{ "flags":[
+  {"type":"LOCATION_MANUAL","detail":"Bez súradníc v zdroji (vŕšok Kalvária, Skalica). Doplniť lat/lng."},
+  {"type":"MISSING_WORD","detail":"rt#7: „dokladom o existencii hradiska je , ktorá sa údajne nachádza v archíve\" — chýba podmet (mapa?). Nedopĺňam, over v zdroji."},
+  {"type":"BIBLIO_IN_BODY","detail":"rt#9 „Literatúra:Štefan Janšák…\" zlepená bibliografia v tele → content.sources (citations už extrahované)."},
+  {"type":"NAME_STYLE","detail":"„Staromadarský/staromadarského\" → „staromaďarský\" (ď) na viacerých miestach — cross-field."}]}

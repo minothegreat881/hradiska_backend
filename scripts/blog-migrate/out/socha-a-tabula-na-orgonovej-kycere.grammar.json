@@ -1,0 +1,29 @@
+{
+ "changes": [
+  {
+   "before": "V sobotu 1.9.2018 sa naše združenie zúčastnilo akcie - slávnostného odhalenia",
+   "after": "V sobotu 1. 9. 2018 sa naše združenie zúčastnilo akcie — slávnostného odhalenia",
+   "rule": "B dátum + pomlčka"
+  },
+  {
+   "before": "na Orgoňovej Kýčere - jedného z najvyšších",
+   "after": "na Orgoňovej Kýčere — jedného z najvyšších",
+   "rule": "B pomlčka"
+  },
+  {
+   "before": "o tajomnom Orgoňovi - poslednom pohanskom žrecovi",
+   "after": "o tajomnom Orgoňovi — poslednom pohanskom žrecovi",
+   "rule": "B pomlčka"
+  },
+  {
+   "before": "odmietal prijať nové náboženstvo - kresťanstvo",
+   "after": "odmietal prijať nové náboženstvo — kresťanstvo",
+   "rule": "B pomlčka"
+  },
+  {
+   "before": "Okrem odhalenia 3 metrovej sochy",
+   "after": "Okrem odhalenia 3-metrovej sochy",
+   "rule": "B spojovník (3-metrovej)"
+  }
+ ]
+}

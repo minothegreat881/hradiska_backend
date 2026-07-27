@@ -1,0 +1,663 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\stary-plast-plavecky-mikulas.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-7510050131508499434",
+    "bloggerPostUrl": "http://www.hradiska.sk/2021/06/stary-plast-plavecky-mikulas.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/7510050131508499434/comments/default",
+    "extractedAt": "2026-07-21T14:07:28.489Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://sk.frame.mapy.cz/s/ramujolome"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 20,
+      "captionedImages": 3,
+      "separatorImages": 17
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Starý plášť (Plavecký Mikuláš) ",
+    "slug": "stary-plast-plavecky-mikulas",
+    "excerpt": "Kde sa nachádza Málo známe, ale zato veľmi pekné malokarpatské hradisko je Starý plášť, ktorý sa nachádza v katastri obce Plavecký Mikuláš. Jeho názov znie dosť tajomne, ale pred niekoľkými mesiacmi som na fóre na našej facebookovej skupine…",
+    "authorName": "Orgon",
+    "publishedAt": "2021-06-20T11:58:00.008+02:00",
+    "originalPublishedDate": "2021-06-20T11:58:00.008+02:00",
+    "updatedAt": "2021-06-21T12:49:39.225+02:00",
+    "readingTime": 5,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgoh1CVVHvb4vdsBUm4z4ajwm_jUYeiZfEwbS1d4eZnWCj098Do1miVILmG55Q_G8OVnRRdx5Ny8VAK3jhQSKCbEWu0zAxJuGIPl0EVuY-v0nCaXf1L3nmQvzNdxBChs6Q6nPvJwum0Li/s0/LIDAR.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgoh1CVVHvb4vdsBUm4z4ajwm_jUYeiZfEwbS1d4eZnWCj098Do1miVILmG55Q_G8OVnRRdx5Ny8VAK3jhQSKCbEWu0zAxJuGIPl0EVuY-v0nCaXf1L3nmQvzNdxBChs6Q6nPvJwum0Li/s1600/LIDAR.jpg",
+      "filename": "LIDAR.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgoh1CVVHvb4vdsBUm4z4ajwm_jUYeiZfEwbS1d4eZnWCj098Do1miVILmG55Q_G8OVnRRdx5Ny8VAK3jhQSKCbEWu0zAxJuGIPl0EVuY-v0nCaXf1L3nmQvzNdxBChs6Q6nPvJwum0Li/s2048/LIDAR.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": null,
+        "originalWidth": 2048,
+        "originalHeight": 1134
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgoh1CVVHvb4vdsBUm4z4ajwm_jUYeiZfEwbS1d4eZnWCj098Do1miVILmG55Q_G8OVnRRdx5Ny8VAK3jhQSKCbEWu0zAxJuGIPl0EVuY-v0nCaXf1L3nmQvzNdxBChs6Q6nPvJwum0Li/s0/LIDAR.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgoh1CVVHvb4vdsBUm4z4ajwm_jUYeiZfEwbS1d4eZnWCj098Do1miVILmG55Q_G8OVnRRdx5Ny8VAK3jhQSKCbEWu0zAxJuGIPl0EVuY-v0nCaXf1L3nmQvzNdxBChs6Q6nPvJwum0Li/s1600/LIDAR.jpg",
+        "filename": "LIDAR.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgoh1CVVHvb4vdsBUm4z4ajwm_jUYeiZfEwbS1d4eZnWCj098Do1miVILmG55Q_G8OVnRRdx5Ny8VAK3jhQSKCbEWu0zAxJuGIPl0EVuY-v0nCaXf1L3nmQvzNdxBChs6Q6nPvJwum0Li/s2048/LIDAR.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1134
+        },
+        "caption": "LIDARová snímka hradiska Starý plášť (Tibor Lieskovský)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1EfRWbdUNi0Ll-hj2I9XD8gJcI-GZ2v9KRcQBfUaBbh7HVOa0zph2UQPUxV3lJh9phhs2be6mOLWWJfNGvCZRAQjW1nP6xF-z_oQE0cGh9R79-V88YcNplehLUVS1roiYA2rjLcbjlrG/s0/69612296_10214634845135744_8522350296595169280_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1EfRWbdUNi0Ll-hj2I9XD8gJcI-GZ2v9KRcQBfUaBbh7HVOa0zph2UQPUxV3lJh9phhs2be6mOLWWJfNGvCZRAQjW1nP6xF-z_oQE0cGh9R79-V88YcNplehLUVS1roiYA2rjLcbjlrG/s1600/69612296_10214634845135744_8522350296595169280_n.jpg",
+        "filename": "69612296_10214634845135744_8522350296595169280_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1EfRWbdUNi0Ll-hj2I9XD8gJcI-GZ2v9KRcQBfUaBbh7HVOa0zph2UQPUxV3lJh9phhs2be6mOLWWJfNGvCZRAQjW1nP6xF-z_oQE0cGh9R79-V88YcNplehLUVS1roiYA2rjLcbjlrG/s2048/69612296_10214634845135744_8522350296595169280_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": "pohľad na kamenný val"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrTrQUM6EsZiB-3pBFZeD1JzeIaGBlR3TxTqLGy6rDNgxa0m-wL0LaO1QPfs53DSPOqJ2qHUUJjbOy42PESfR_JK5wQVxUwbPlkuoahZUU5f07GVBZM4iiUU9DR5M-tYKKkk7TH5FCEpd/s0/70844687_10214634841535654_1968921164352847872_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrTrQUM6EsZiB-3pBFZeD1JzeIaGBlR3TxTqLGy6rDNgxa0m-wL0LaO1QPfs53DSPOqJ2qHUUJjbOy42PESfR_JK5wQVxUwbPlkuoahZUU5f07GVBZM4iiUU9DR5M-tYKKkk7TH5FCEpd/s1600/70844687_10214634841535654_1968921164352847872_n.jpg",
+        "filename": "70844687_10214634841535654_1968921164352847872_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrTrQUM6EsZiB-3pBFZeD1JzeIaGBlR3TxTqLGy6rDNgxa0m-wL0LaO1QPfs53DSPOqJ2qHUUJjbOy42PESfR_JK5wQVxUwbPlkuoahZUU5f07GVBZM4iiUU9DR5M-tYKKkk7TH5FCEpd/s2048/70844687_10214634841535654_1968921164352847872_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": "Vstupná brána na hradisko sa používa aj po 3000 rokoch"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmUhvqIXZhEzqri-Jon4niugAAWhtUniIROOJeI6RZ83E_vzNdC-6RA_azQybJIky42kKBAH1Q9_Si4SAT_8i9tLJ2d3-ERn60pgJZ5E6xXWVBLNVIH3Tnm0MUHDmA-Xz8t2uyAQLV2VDM/s0/66519058_449124558971454_6740806142911315968_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmUhvqIXZhEzqri-Jon4niugAAWhtUniIROOJeI6RZ83E_vzNdC-6RA_azQybJIky42kKBAH1Q9_Si4SAT_8i9tLJ2d3-ERn60pgJZ5E6xXWVBLNVIH3Tnm0MUHDmA-Xz8t2uyAQLV2VDM/s1600/66519058_449124558971454_6740806142911315968_n.jpg",
+        "filename": "66519058_449124558971454_6740806142911315968_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmUhvqIXZhEzqri-Jon4niugAAWhtUniIROOJeI6RZ83E_vzNdC-6RA_azQybJIky42kKBAH1Q9_Si4SAT_8i9tLJ2d3-ERn60pgJZ5E6xXWVBLNVIH3Tnm0MUHDmA-Xz8t2uyAQLV2VDM/s960/66519058_449124558971454_6740806142911315968_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivUCMCQDhAe8pBCn5XkOiCntbaJgChyphenhyphen0JwRuk8XQYbDVfURCqeJryLX-bqcQHwMJh3ixLvY6qwSLVKcJdJz6kmH1Zm4fKNcDo3GueJd6NW8_Z7jigVK1-HJyp7X5rFrgo5_2I1dOrhpJOQ/s0/Sekerky+a+spona2.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivUCMCQDhAe8pBCn5XkOiCntbaJgChyphenhyphen0JwRuk8XQYbDVfURCqeJryLX-bqcQHwMJh3ixLvY6qwSLVKcJdJz6kmH1Zm4fKNcDo3GueJd6NW8_Z7jigVK1-HJyp7X5rFrgo5_2I1dOrhpJOQ/s1600/Sekerky+a+spona2.png",
+        "filename": "Sekerky+a+spona2.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivUCMCQDhAe8pBCn5XkOiCntbaJgChyphenhyphen0JwRuk8XQYbDVfURCqeJryLX-bqcQHwMJh3ixLvY6qwSLVKcJdJz6kmH1Zm4fKNcDo3GueJd6NW8_Z7jigVK1-HJyp7X5rFrgo5_2I1dOrhpJOQ/s946/Sekerky+a+spona2.png",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 946,
+          "originalHeight": 550
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHpK840Y_aZhqRz2FNQG2wBtfp3lOSm3OIOSjsDi2vTdBz4BWWd9KgPYhdkvdcmN-T1AzHBjkYE6JpsPFo3nNvYrMjikDveyDioSK65n8itpUnOuVRaUWc15qY4A8KlhNexYL33R3UwhB1/s0/Kosa%25CC%2581ky+a+noz%25CC%258Ce.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHpK840Y_aZhqRz2FNQG2wBtfp3lOSm3OIOSjsDi2vTdBz4BWWd9KgPYhdkvdcmN-T1AzHBjkYE6JpsPFo3nNvYrMjikDveyDioSK65n8itpUnOuVRaUWc15qY4A8KlhNexYL33R3UwhB1/s1600/Kosa%25CC%2581ky+a+noz%25CC%258Ce.jpg",
+        "filename": "Kosa%CC%81ky+a+noz%CC%8Ce.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHpK840Y_aZhqRz2FNQG2wBtfp3lOSm3OIOSjsDi2vTdBz4BWWd9KgPYhdkvdcmN-T1AzHBjkYE6JpsPFo3nNvYrMjikDveyDioSK65n8itpUnOuVRaUWc15qY4A8KlhNexYL33R3UwhB1/s797/Kosa%25CC%2581ky+a+noz%25CC%258Ce.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 611,
+          "originalHeight": 797
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKZ86i4evHJU58MjCWDZzJQvDXtOgtcML5n9yOJf-gIRj8H5AUtUXv4n_yPx-dCODjzVl9_wkDgDBYHK7QsUEauEZfomofjsyGmDAjLEZ_oNKoXlneMtb9G-08MIWV_DYJPL4RXuS1Be2M/s0/C%25CC%258Crepy.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKZ86i4evHJU58MjCWDZzJQvDXtOgtcML5n9yOJf-gIRj8H5AUtUXv4n_yPx-dCODjzVl9_wkDgDBYHK7QsUEauEZfomofjsyGmDAjLEZ_oNKoXlneMtb9G-08MIWV_DYJPL4RXuS1Be2M/s1600/C%25CC%258Crepy.jpg",
+        "filename": "C%CC%8Crepy.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKZ86i4evHJU58MjCWDZzJQvDXtOgtcML5n9yOJf-gIRj8H5AUtUXv4n_yPx-dCODjzVl9_wkDgDBYHK7QsUEauEZfomofjsyGmDAjLEZ_oNKoXlneMtb9G-08MIWV_DYJPL4RXuS1Be2M/s777/C%25CC%258Crepy.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 600,
+          "originalHeight": 777
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBzysQn9RQFGfKsSwqEWcDh9lCzud_jZALG-pS7C2ZfnwJkWWirh68Be7Wjvf2EycMWw_E_fYGwLn1TfaG3p7FNdRTJzcBJ8hCpv09EaBFOXKmjF_GV4-qMXpCIAFtjnKu7n7A8fb5YTex/s0/66505424_449291205621456_4313029360056532992_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBzysQn9RQFGfKsSwqEWcDh9lCzud_jZALG-pS7C2ZfnwJkWWirh68Be7Wjvf2EycMWw_E_fYGwLn1TfaG3p7FNdRTJzcBJ8hCpv09EaBFOXKmjF_GV4-qMXpCIAFtjnKu7n7A8fb5YTex/s1600/66505424_449291205621456_4313029360056532992_n.jpg",
+        "filename": "66505424_449291205621456_4313029360056532992_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBzysQn9RQFGfKsSwqEWcDh9lCzud_jZALG-pS7C2ZfnwJkWWirh68Be7Wjvf2EycMWw_E_fYGwLn1TfaG3p7FNdRTJzcBJ8hCpv09EaBFOXKmjF_GV4-qMXpCIAFtjnKu7n7A8fb5YTex/s960/66505424_449291205621456_4313029360056532992_n.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 720,
+          "originalHeight": 960
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwo6fvDySNIkQ5yKzNcoJatvX1McSza9iHq5xc6ccclsL0oKmkfFgyUV86GOZTBQ7E66nzsZnhOgEzrZkibG41P2Ygz9M27n3ZPpykqwydEd4f_UxlsvziJ_3c0FL_eweOtV1ebS7rmXHm/s0/66826543_449124578971452_5277635588323803136_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwo6fvDySNIkQ5yKzNcoJatvX1McSza9iHq5xc6ccclsL0oKmkfFgyUV86GOZTBQ7E66nzsZnhOgEzrZkibG41P2Ygz9M27n3ZPpykqwydEd4f_UxlsvziJ_3c0FL_eweOtV1ebS7rmXHm/s1600/66826543_449124578971452_5277635588323803136_n.jpg",
+        "filename": "66826543_449124578971452_5277635588323803136_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwo6fvDySNIkQ5yKzNcoJatvX1McSza9iHq5xc6ccclsL0oKmkfFgyUV86GOZTBQ7E66nzsZnhOgEzrZkibG41P2Ygz9M27n3ZPpykqwydEd4f_UxlsvziJ_3c0FL_eweOtV1ebS7rmXHm/s960/66826543_449124578971452_5277635588323803136_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfsYK2ThPM5macLSNUau_c2rNrtRSjwI2peiyESCnRsZP1AM50frLsMfg21EL4P7BMyb7Y0yrRyCAIM81msPV_M9CDug7QKxNS9Qf4jCU_f4G0J90_fCzewSlNkPek6AjzCbPCMxfKbC26/s0/70514870_10214634858736084_358895245439533056_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfsYK2ThPM5macLSNUau_c2rNrtRSjwI2peiyESCnRsZP1AM50frLsMfg21EL4P7BMyb7Y0yrRyCAIM81msPV_M9CDug7QKxNS9Qf4jCU_f4G0J90_fCzewSlNkPek6AjzCbPCMxfKbC26/s1600/70514870_10214634858736084_358895245439533056_n.jpg",
+        "filename": "70514870_10214634858736084_358895245439533056_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfsYK2ThPM5macLSNUau_c2rNrtRSjwI2peiyESCnRsZP1AM50frLsMfg21EL4P7BMyb7Y0yrRyCAIM81msPV_M9CDug7QKxNS9Qf4jCU_f4G0J90_fCzewSlNkPek6AjzCbPCMxfKbC26/s2048/70514870_10214634858736084_358895245439533056_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzEOsPUa-5BrhpaTXinWWWtVybqi6V8zSLLFemzPNeBblok1WYlrbQ_fOzcnpCu-pF-WbtbsPCCeuVZ8i90zVcII30bT_3vNbXKm2Z89CiCKKjAzV-siI4bje-nhD2WADP4g1wt8WkLW2I/s0/70516122_10214634859696108_287993053438803968_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzEOsPUa-5BrhpaTXinWWWtVybqi6V8zSLLFemzPNeBblok1WYlrbQ_fOzcnpCu-pF-WbtbsPCCeuVZ8i90zVcII30bT_3vNbXKm2Z89CiCKKjAzV-siI4bje-nhD2WADP4g1wt8WkLW2I/s1600/70516122_10214634859696108_287993053438803968_n.jpg",
+        "filename": "70516122_10214634859696108_287993053438803968_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzEOsPUa-5BrhpaTXinWWWtVybqi6V8zSLLFemzPNeBblok1WYlrbQ_fOzcnpCu-pF-WbtbsPCCeuVZ8i90zVcII30bT_3vNbXKm2Z89CiCKKjAzV-siI4bje-nhD2WADP4g1wt8WkLW2I/s2048/70516122_10214634859696108_287993053438803968_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnYNJ0jgqkVlYE5MHEnqUlbjxVJ-wVxQWvXra5w4Gd6jnDib5hkLA7BxQf_mR9e-8V2ane3IchBQbvFyJTjplb3fKv-CqHlMqsgfXvjeCeELu1zLgrdJ9FjeXZMf50TiNRr7YDb8ltOsTG/s0/70629823_10214634840415626_1446145050823098368_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnYNJ0jgqkVlYE5MHEnqUlbjxVJ-wVxQWvXra5w4Gd6jnDib5hkLA7BxQf_mR9e-8V2ane3IchBQbvFyJTjplb3fKv-CqHlMqsgfXvjeCeELu1zLgrdJ9FjeXZMf50TiNRr7YDb8ltOsTG/s1600/70629823_10214634840415626_1446145050823098368_n.jpg",
+        "filename": "70629823_10214634840415626_1446145050823098368_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnYNJ0jgqkVlYE5MHEnqUlbjxVJ-wVxQWvXra5w4Gd6jnDib5hkLA7BxQf_mR9e-8V2ane3IchBQbvFyJTjplb3fKv-CqHlMqsgfXvjeCeELu1zLgrdJ9FjeXZMf50TiNRr7YDb8ltOsTG/s2048/70629823_10214634840415626_1446145050823098368_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifsayDa_K3aNvnQXMCMRykX9AfE7TkBWgXzV8KMewUA7SxulgsKLoJG5dJ7bHFSgNS1v9NzELzAFnCIKCAS7bjOq9u8M6xWPaXpus1XD8U7Zf6VqJu8eqXXwPLC5ThTkdiXURaAgxMIASM/s0/70681641_10214634861136144_5921169049592528896_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifsayDa_K3aNvnQXMCMRykX9AfE7TkBWgXzV8KMewUA7SxulgsKLoJG5dJ7bHFSgNS1v9NzELzAFnCIKCAS7bjOq9u8M6xWPaXpus1XD8U7Zf6VqJu8eqXXwPLC5ThTkdiXURaAgxMIASM/s1600/70681641_10214634861136144_5921169049592528896_n.jpg",
+        "filename": "70681641_10214634861136144_5921169049592528896_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifsayDa_K3aNvnQXMCMRykX9AfE7TkBWgXzV8KMewUA7SxulgsKLoJG5dJ7bHFSgNS1v9NzELzAFnCIKCAS7bjOq9u8M6xWPaXpus1XD8U7Zf6VqJu8eqXXwPLC5ThTkdiXURaAgxMIASM/s2048/70681641_10214634861136144_5921169049592528896_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha7FcoLQU61DF9wbL4RCP3cdR2iI-ity_CSRRF8qLvcBs8Gk_y4lXLhodZ8K3DayfR3yXE_8D9nGo7islfwYB8IdA_oGaAhzQvbyYfgPVveEuIGSeb6zODqpO5TXYJ5mZ4p5UHcLScTKQa/s0/70706609_10214634839095593_9095066829553926144_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha7FcoLQU61DF9wbL4RCP3cdR2iI-ity_CSRRF8qLvcBs8Gk_y4lXLhodZ8K3DayfR3yXE_8D9nGo7islfwYB8IdA_oGaAhzQvbyYfgPVveEuIGSeb6zODqpO5TXYJ5mZ4p5UHcLScTKQa/s1600/70706609_10214634839095593_9095066829553926144_n.jpg",
+        "filename": "70706609_10214634839095593_9095066829553926144_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha7FcoLQU61DF9wbL4RCP3cdR2iI-ity_CSRRF8qLvcBs8Gk_y4lXLhodZ8K3DayfR3yXE_8D9nGo7islfwYB8IdA_oGaAhzQvbyYfgPVveEuIGSeb6zODqpO5TXYJ5mZ4p5UHcLScTKQa/s2048/70706609_10214634839095593_9095066829553926144_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjFUgmUkniEtFPdptm0wNKkLKLUmUUEFjKStMLo1DOF3PBQZNvYxMOQ2uTgGG-UbjS8dX0TQRdX13IKdzuONApakvf0iXjqUWpq9BxxDRWoHkxpl9yXqJwMnaQFBHKqd12L0GdOk-gljvx/s0/70716612_10214634844375725_519956433140187136_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjFUgmUkniEtFPdptm0wNKkLKLUmUUEFjKStMLo1DOF3PBQZNvYxMOQ2uTgGG-UbjS8dX0TQRdX13IKdzuONApakvf0iXjqUWpq9BxxDRWoHkxpl9yXqJwMnaQFBHKqd12L0GdOk-gljvx/s1600/70716612_10214634844375725_519956433140187136_n.jpg",
+        "filename": "70716612_10214634844375725_519956433140187136_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjFUgmUkniEtFPdptm0wNKkLKLUmUUEFjKStMLo1DOF3PBQZNvYxMOQ2uTgGG-UbjS8dX0TQRdX13IKdzuONApakvf0iXjqUWpq9BxxDRWoHkxpl9yXqJwMnaQFBHKqd12L0GdOk-gljvx/s2048/70716612_10214634844375725_519956433140187136_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAbLN4zItueD8ooRuWB3ceFP8X0419FeAiGWqDTh9mgO8Q5gCc2sjfPqH7cdpBOMi0gtesJYuVKn-H5noVPaBE11MLP-7AaCn8fFpON_uXncfHJQZrFY90Lz2_bh7aTKn7TQXR2hUGDsrt/s0/70718716_10214634847415801_3539488690436833280_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAbLN4zItueD8ooRuWB3ceFP8X0419FeAiGWqDTh9mgO8Q5gCc2sjfPqH7cdpBOMi0gtesJYuVKn-H5noVPaBE11MLP-7AaCn8fFpON_uXncfHJQZrFY90Lz2_bh7aTKn7TQXR2hUGDsrt/s1600/70718716_10214634847415801_3539488690436833280_n.jpg",
+        "filename": "70718716_10214634847415801_3539488690436833280_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAbLN4zItueD8ooRuWB3ceFP8X0419FeAiGWqDTh9mgO8Q5gCc2sjfPqH7cdpBOMi0gtesJYuVKn-H5noVPaBE11MLP-7AaCn8fFpON_uXncfHJQZrFY90Lz2_bh7aTKn7TQXR2hUGDsrt/s2048/70718716_10214634847415801_3539488690436833280_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip061xjLoFz580tfIofDvProHMMKxC8b_GXTxbMjVnsyxBoIF75ouEcY0EGFwxhci0paFaY1MbCDJLM4_gO2UgHlPXmIMPEtmdkRGqhoASCtfg2oECPlK-HfV9TcddWdNMSOxv9O8h9Sfw/s0/70844687_10214634841535654_1968921164352847872_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip061xjLoFz580tfIofDvProHMMKxC8b_GXTxbMjVnsyxBoIF75ouEcY0EGFwxhci0paFaY1MbCDJLM4_gO2UgHlPXmIMPEtmdkRGqhoASCtfg2oECPlK-HfV9TcddWdNMSOxv9O8h9Sfw/s1600/70844687_10214634841535654_1968921164352847872_n.jpg",
+        "filename": "70844687_10214634841535654_1968921164352847872_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip061xjLoFz580tfIofDvProHMMKxC8b_GXTxbMjVnsyxBoIF75ouEcY0EGFwxhci0paFaY1MbCDJLM4_gO2UgHlPXmIMPEtmdkRGqhoASCtfg2oECPlK-HfV9TcddWdNMSOxv9O8h9Sfw/s2048/70844687_10214634841535654_1968921164352847872_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM5u9XbnoGRssnFFZKjiVkEt5zfBjK7r1wifOA9AUxwxLA7MiV1sm3-w6EtrtraL0yyvqdLrlKeaeM6EDDpwQU3Hx_AOm3tp9vjedRT39g5KzoRysdYUSLuL34dlMynlkcoR1w-7RJQVzB/s0/71085656_10214634843695708_4458024084420165632_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM5u9XbnoGRssnFFZKjiVkEt5zfBjK7r1wifOA9AUxwxLA7MiV1sm3-w6EtrtraL0yyvqdLrlKeaeM6EDDpwQU3Hx_AOm3tp9vjedRT39g5KzoRysdYUSLuL34dlMynlkcoR1w-7RJQVzB/s1600/71085656_10214634843695708_4458024084420165632_n.jpg",
+        "filename": "71085656_10214634843695708_4458024084420165632_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM5u9XbnoGRssnFFZKjiVkEt5zfBjK7r1wifOA9AUxwxLA7MiV1sm3-w6EtrtraL0yyvqdLrlKeaeM6EDDpwQU3Hx_AOm3tp9vjedRT39g5KzoRysdYUSLuL34dlMynlkcoR1w-7RJQVzB/s2048/71085656_10214634843695708_4458024084420165632_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkdCWK1ik77BH_kKggeK-SB3dIEjF8HMjYh0ULPwodUkCb9wJlOXhHnzzluG95m8EtmItq56nbcvWjbiI-nJsbzZTLwgB9_KltFtvPVwvt8nqGEuI7Td0Pc5ES67MtP8CWL5mxdeiAJ5z9/s0/71139739_10214634842495678_2406771609638535168_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkdCWK1ik77BH_kKggeK-SB3dIEjF8HMjYh0ULPwodUkCb9wJlOXhHnzzluG95m8EtmItq56nbcvWjbiI-nJsbzZTLwgB9_KltFtvPVwvt8nqGEuI7Td0Pc5ES67MtP8CWL5mxdeiAJ5z9/s1600/71139739_10214634842495678_2406771609638535168_n.jpg",
+        "filename": "71139739_10214634842495678_2406771609638535168_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkdCWK1ik77BH_kKggeK-SB3dIEjF8HMjYh0ULPwodUkCb9wJlOXhHnzzluG95m8EtmItq56nbcvWjbiI-nJsbzZTLwgB9_KltFtvPVwvt8nqGEuI7Td0Pc5ES67MtP8CWL5mxdeiAJ5z9/s2048/71139739_10214634842495678_2406771609638535168_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-kUVswoTXe_qVJT0axr0zNtfIAtdzkkA9wOl5tq2iagEqs-ZFvAwT-g9PyE1S3-QN0KiOuUm6Jyvz8tV6SIJ9eMoaZPhD9ddaGJh-NkfnwAycR3BfU7GwWVUWUBSKhuiiLluQiMPiUSul/s0/96377527_10216460075845371_956499851158224896_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-kUVswoTXe_qVJT0axr0zNtfIAtdzkkA9wOl5tq2iagEqs-ZFvAwT-g9PyE1S3-QN0KiOuUm6Jyvz8tV6SIJ9eMoaZPhD9ddaGJh-NkfnwAycR3BfU7GwWVUWUBSKhuiiLluQiMPiUSul/s1600/96377527_10216460075845371_956499851158224896_n.jpg",
+        "filename": "96377527_10216460075845371_956499851158224896_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-kUVswoTXe_qVJT0axr0zNtfIAtdzkkA9wOl5tq2iagEqs-ZFvAwT-g9PyE1S3-QN0KiOuUm6Jyvz8tV6SIJ9eMoaZPhD9ddaGJh-NkfnwAycR3BfU7GwWVUWUBSKhuiiLluQiMPiUSul/s2048/96377527_10216460075845371_956499851158224896_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Starý Plášť (Plavecký Mikuláš)"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Nadmorská výška",
+        "value": "nad 640 m (Plavecký kras, Malé Karpaty)"
+      },
+      {
+        "label": "Rozmery",
+        "value": "oválny areál ~190 × 140 m, plocha 1,9 ha"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "drevozemný val ~260 m + skalné steny do 15 m"
+      },
+      {
+        "label": "Kultúra",
+        "value": "velatická → podolská (neskorá doba bronzová)"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "neskorá doba bronzová",
+        "title": "Ľud popolnicových polí",
+        "description": "Stavitelia velatickej a neskôr podolskej kultúry; okuliarovité spony, nože typu Stillfried."
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kde sa nachádza",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " \n Málo známe, ale zato veľmi pekné malokarpatské hradisko je Starý plášť, ktorý sa nachádza v katastri obce Plavecký Mikuláš. Jeho názov znie dosť tajomne, ale pred niekoľkými mesiacmi som na fóre na našej facebookovej skupine facebookovej skupine "
+              },
+              {
+                "type": "link",
+                "url": "https://www.facebook.com/groups/118846781525141",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "facebookovej skupine Hradiska.sk"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " zachytil, že jeden čitateľ, ktorý pochádza z okolia hradiska, uviedol, že pôvodný názov bol Stará plošť. Takéto pomenovanie by vzhľadom na pomerne rovnú plošinu hradiska už dávalo celkom iný zmysel. Zatiaľ sa mi však nepodarilo zachytiť tento názov na žiadnej starej mape, takže stále musíme brať túto informáciu s rezervou. Prístup k nemu je možný tak od orešanskej strany ako aj od Záhoria, nakoľko z oboch strán sa po turistickom chodníku dostanete pohodlne k Mon Reposu a odtiaľ sa cez kamenné vráta bez problémov dostanete na lesnú cestu vedúcu na hradisko.    \nTáto časť horského masívu je tvorená vápencom tvoriacim tzv. „Plavecký kras“. V rámci Malých Karpát sa hradisko nachádza vo vyššej polohe, jeho nadmorská výška presahuje 640 m a keďže samotné hradisko je sčasti na vyvýšenej skale, ktorá vyčnieva z lesného porastu, je hradisko z okolia dobre viditeľné do veľkej vzdialenosti. To zároveň znamená, že obyvatelia hradiska mali veľmi dobrý výhľad na široké okolie, čo je veľká taktická výhoda. Hradisko chránia zo západnej, južnej a východnej strany zvislé, až 15 m vysoké skalné steny, alebo prudký svah. Zo severnej, najprístupnejšej strany postavili jeho obrancovia drevozemný val, ktorého pozostatky sú v niektorých častiach ešte stále dobre viditeľné. Skalné steny, strmý svah a fortifikácia ohraničujú areál zhruba oválneho tvaru s rozmermi 190x140 m, s celkovou vnútornou plochou 1,9 ha, ktorá je pomerne rovná, aj keď samozrejme nejde o žiadnu ideálnu rovinu a sú tu aj miesta s výraznejšími prevýšeniami.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Opevnenie ",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\nPokiaľ ide o popis valového opevnenia, v tomto smere uvádza Juraj Bartík, že „jediným v súčasnosti známym prvkom umelého opevnenia Starého plášťa je val chrániaci prístup zo severu a západu. V teréne dobre pozorovateľný oblúk navŕšený z miestnych vápencových balvanov s najväčšími rozmermi presahujúcimi 0,5 m, prevažne však len 0,2-0,3 m sa tiahne v dĺžke približne 180 m. Na západe sa val ľudskému oku postupne stráca. V tejto časti je ale jeho priebeh dobre pozorovateľný na vizualizácii digitálneho modelu reliéfu. Oblúk umelého opevnenia prepájajúci severovýchodný a juhozápadný okraj skalnej steny tak dosahuje celkovú dĺžku okolo 260 m. V severnej, najmohutnejšej časti má deštrukcia z kamenia a hliny výšku 2 m a šírku až 12 m. Súčasné rozmery sú však nepochybne zmenené zosunutím kamennej masy dolu svahom. Stopy priekopy sa v teréne neprejavili.“  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgoh1CVVHvb4vdsBUm4z4ajwm_jUYeiZfEwbS1d4eZnWCj098Do1miVILmG55Q_G8OVnRRdx5Ny8VAK3jhQSKCbEWu0zAxJuGIPl0EVuY-v0nCaXf1L3nmQvzNdxBChs6Q6nPvJwum0Li/s0/LIDAR.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgoh1CVVHvb4vdsBUm4z4ajwm_jUYeiZfEwbS1d4eZnWCj098Do1miVILmG55Q_G8OVnRRdx5Ny8VAK3jhQSKCbEWu0zAxJuGIPl0EVuY-v0nCaXf1L3nmQvzNdxBChs6Q6nPvJwum0Li/s1600/LIDAR.jpg",
+          "filename": "LIDAR.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgoh1CVVHvb4vdsBUm4z4ajwm_jUYeiZfEwbS1d4eZnWCj098Do1miVILmG55Q_G8OVnRRdx5Ny8VAK3jhQSKCbEWu0zAxJuGIPl0EVuY-v0nCaXf1L3nmQvzNdxBChs6Q6nPvJwum0Li/s2048/LIDAR.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": null,
+            "originalWidth": 2048,
+            "originalHeight": 1134
+          }
+        },
+        "alt": "LIDARová snímka hradiska Starý plášť (Tibor Lieskovský)",
+        "caption": "LIDARová snímka hradiska Starý plášť (Tibor Lieskovský)",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Brána",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\nV severovýchodnej časti valu sa nachádza aj dnes používaný vstup do areálu opevnenia. Jedná sa zjavne o pôvodnú bránu, tvorenú najvýchodnejším, južným smerom zahnutý úsek valu. „Polbastión“ chrániaci východnú stranu vstupu kopíruje prirodzenú konfiguráciu skalnatého podložia ktoré, navýšili umelým opevnením. Obe ramená vstupu sú zahnuté dovnútra hradiska a vytvárajú tak mohutnú bránu lievikovitého pôdorysu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nálezy ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Napriek tomu, že hradisko bolo objavené už začiatkom 50. rokov, doposiaľ sa na ňom nekonal žiadny sondážny archeologický výskum, ale iba povrchové zbery. Zároveň bolo hradisko vykradnuté detektoristami. Niektoré nelegálne získané nálezy sa podarilo pracovníkom SNM zdokumentovať. Dve bronzové tuľajkové bronzové sekerky spolu s okuliarovitou sponou, boli uložené spoločne, tesne za valom, východne od vnútornej strany vstupnej brány. Okuliarovité spony s osmičkovitou slučkou sa vyskytujú predovšetkým v hromadných nálezoch mladých a neskorých popolnicových polí a teda aj najstaršie datovanie hradiska je možné zrejme zaradiť do tohto obdobia. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1EfRWbdUNi0Ll-hj2I9XD8gJcI-GZ2v9KRcQBfUaBbh7HVOa0zph2UQPUxV3lJh9phhs2be6mOLWWJfNGvCZRAQjW1nP6xF-z_oQE0cGh9R79-V88YcNplehLUVS1roiYA2rjLcbjlrG/s0/69612296_10214634845135744_8522350296595169280_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1EfRWbdUNi0Ll-hj2I9XD8gJcI-GZ2v9KRcQBfUaBbh7HVOa0zph2UQPUxV3lJh9phhs2be6mOLWWJfNGvCZRAQjW1nP6xF-z_oQE0cGh9R79-V88YcNplehLUVS1roiYA2rjLcbjlrG/s1600/69612296_10214634845135744_8522350296595169280_n.jpg",
+          "filename": "69612296_10214634845135744_8522350296595169280_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ1EfRWbdUNi0Ll-hj2I9XD8gJcI-GZ2v9KRcQBfUaBbh7HVOa0zph2UQPUxV3lJh9phhs2be6mOLWWJfNGvCZRAQjW1nP6xF-z_oQE0cGh9R79-V88YcNplehLUVS1roiYA2rjLcbjlrG/s2048/69612296_10214634845135744_8522350296595169280_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": null,
+            "originalWidth": 2048,
+            "originalHeight": 1536
+          }
+        },
+        "alt": "pohľad na kamenný val",
+        "caption": "pohľad na kamenný val",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ďalším zdokumentovaným súborom nelegálnych nálezov z hradiska sú bronzové nože typu Stillfried, kosáky a fragment náramku, ktoré sa nenašli vo vnútornom areáli hradiska Starý plášť, ale v jeho tesnej blízkosti, na svahu pod valom a na úpätí obvodovej skalnej steny. Zrejme netvorili ucelený depot, ale sa jedná o jednotlivé nálezy. Na Slovensku sú v súčasnosti zastúpené predovšetkým na lokalitách lužickej kultúry, datované do neskorej doby bronzovej. Fragment náramku je úlomkom kruhového neuzavretého šperku s ukončeniami mierne vyhnutými von. Ozdobu zápästia alebo členku pokrýval z viditeľnej „vonkajšej“ strany ornament zhotovený rytím aj vybíjaním (odtlačkami punca). Rôzne lokálne varianty tejto výzdoby pokrývajú náramky i nánožníky v strednom Podunajsku, východoalpskom priestore aj v Čechách. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrTrQUM6EsZiB-3pBFZeD1JzeIaGBlR3TxTqLGy6rDNgxa0m-wL0LaO1QPfs53DSPOqJ2qHUUJjbOy42PESfR_JK5wQVxUwbPlkuoahZUU5f07GVBZM4iiUU9DR5M-tYKKkk7TH5FCEpd/s0/70844687_10214634841535654_1968921164352847872_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrTrQUM6EsZiB-3pBFZeD1JzeIaGBlR3TxTqLGy6rDNgxa0m-wL0LaO1QPfs53DSPOqJ2qHUUJjbOy42PESfR_JK5wQVxUwbPlkuoahZUU5f07GVBZM4iiUU9DR5M-tYKKkk7TH5FCEpd/s1600/70844687_10214634841535654_1968921164352847872_n.jpg",
+          "filename": "70844687_10214634841535654_1968921164352847872_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIrTrQUM6EsZiB-3pBFZeD1JzeIaGBlR3TxTqLGy6rDNgxa0m-wL0LaO1QPfs53DSPOqJ2qHUUJjbOy42PESfR_JK5wQVxUwbPlkuoahZUU5f07GVBZM4iiUU9DR5M-tYKKkk7TH5FCEpd/s2048/70844687_10214634841535654_1968921164352847872_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": null,
+            "originalWidth": 2048,
+            "originalHeight": 1536
+          }
+        },
+        "alt": "Vstupná brána na hradisko sa používa aj po 3000 rokoch",
+        "caption": "Vstupná brána na hradisko sa používa aj po 3000 rokoch",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V rokoch 1993-2000 sa na lokalite konali povrchové zbery pracovníkmi SNM (1993 – 2000). Našli početné črepy z keramických nádob vo vnútornom areáli hradiska, predovšetkým v priestore za najsevernejšie sa nachádzajúcim úsekom valu. V tejto časti bol nájdený aj fragment čepele bronzového noža. V oblasti západného ukončenia valu našli fragmenty pravekej keramiky aj z prednej strany opevnenia. Úlomky sú bez výnimky malých rozmerov, v absolútnej väčšine nezdobené. Jeden z nich, hrubostenný, je masívne druhotne prepálený. Ani v jednom prípade sa nezistilo tuhovanie povrchu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Datovanie a osídlenie hradiska"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na základe keramiky a nájdených bronzových predmetov môžeme hradisko datovať do obdobia neskorej doby bronzovej a jeho staviteľmi a obyvateľmi bol zrejme ľud velatickej a neskôr podolskej kultúry. Vo všeobecnosti toto obdobie patrí do rámca ľudu popolnicových polí."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmUhvqIXZhEzqri-Jon4niugAAWhtUniIROOJeI6RZ83E_vzNdC-6RA_azQybJIky42kKBAH1Q9_Si4SAT_8i9tLJ2d3-ERn60pgJZ5E6xXWVBLNVIH3Tnm0MUHDmA-Xz8t2uyAQLV2VDM/s0/66519058_449124558971454_6740806142911315968_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmUhvqIXZhEzqri-Jon4niugAAWhtUniIROOJeI6RZ83E_vzNdC-6RA_azQybJIky42kKBAH1Q9_Si4SAT_8i9tLJ2d3-ERn60pgJZ5E6xXWVBLNVIH3Tnm0MUHDmA-Xz8t2uyAQLV2VDM/s1600/66519058_449124558971454_6740806142911315968_n.jpg",
+          "filename": "66519058_449124558971454_6740806142911315968_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmUhvqIXZhEzqri-Jon4niugAAWhtUniIROOJeI6RZ83E_vzNdC-6RA_azQybJIky42kKBAH1Q9_Si4SAT_8i9tLJ2d3-ERn60pgJZ5E6xXWVBLNVIH3Tnm0MUHDmA-Xz8t2uyAQLV2VDM/s960/66519058_449124558971454_6740806142911315968_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": null,
+            "originalWidth": 960,
+            "originalHeight": 720
+          }
+        },
+        "alt": "Starý plášť (Plavecký Mikuláš) ",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V rámci zhodnotenia hradiska uvádza Juraj Bartík, že hradisko Starý plášť sa nenachádzalo v ľudskými aktivitami nedotknutom regióne, ale v krajine často navštevovanej a pravdepodobne hospodársky využívanej. Horská oblasť sa hodila na sezónne pasenie stádových domestikovaných zvierat, zber lesných plodov a lov zveriny. S kovolejárstvom súvisela spotreba dreveného uhlia, produkovaného v mladších obdobiach predovšetkým v horských zalesnených terénoch. Archeologicky nedoložená, avšak potenciálne možná je praveká exploatácia rúd v oblasti medeného zrudnenia medzi Smolenicami a Sološnicou, teda v bezprostrednej blízkosti hradiska Starý plášť."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Orgoň"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Bartík/Lieskovský 2020: Starý Plášť pri Plaveckom Mikuláši. K poznaniu hradísk z mladšej a neskorej doby bronzovej v Malých Karpatoch. Starý plášť near Plavecký Mikuláš. A paper on discovering hillforts from the later and late Bronze Age in the Lesser Carpathians. Zborník SNM 114, Arch. 30, 81-117.",
+            "url": null
+          },
+          {
+            "text": "Bartík/Farkaš/Jelínek 2019 – Bronzehortfunde aus den Kleinen Karpaten und ihren Vorgebirgsgebieten. Hromadné nálezy bronzov z Malých Karpát a ich podhorských oblastí. In. Bazovský, I. – Březinová, G. (edit): Ľudia a hory – Archeologická perspektíva. Bratislava – Nitra 2019, 15-102.",
+            "url": null
+          },
+          {
+            "text": "Zdroj produktov LLS: ÚGKK SR, Vizualizácia: Tibor Lieskovský (STU Bratislava)",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "book",
+        "text": "Bartík/Lieskovský 2020: Starý Plášť pri Plaveckom Mikuláši. K poznaniu hradísk z mladšej a neskorej doby bronzovej v Malých Karpatoch. Starý plášť near Plavecký Mikuláš. A paper on discovering hillforts from the later and late Bronze Age in the Lesser Carpathians. Zborník SNM 114, Arch. 30, 81-117."
+      },
+      {
+        "type": "book",
+        "text": "Bartík/Farkaš/Jelínek 2019 – Bronzehortfunde aus den Kleinen Karpaten und ihren Vorgebirgsgebieten. Hromadné nálezy bronzov z Malých Karpát a ich podhorských oblastí. In. Bazovský, I. – Březinová, G. (edit): Ľudia a hory – Archeologická perspektíva. Bratislava – Nitra 2019, 15-102."
+      },
+      {
+        "type": "book",
+        "text": "Zdroj produktov LLS: ÚGKK SR, Vizualizácia: Tibor Lieskovský (STU Bratislava)"
+      }
+    ]
+  }
+}

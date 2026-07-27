@@ -24,6 +24,12 @@ export default {
       handler: 'blog-comment.mine',
     },
     {
+      // Custom: VŠETKY vlastné komentáre (profil → „Moje komentáre"). Pred /:id.
+      method: 'GET',
+      path: '/blog-comments/mine-all',
+      handler: 'blog-comment.mineAll',
+    },
+    {
       method: 'GET',
       path: '/blog-comments/:id',
       handler: 'blog-comment.findOne',

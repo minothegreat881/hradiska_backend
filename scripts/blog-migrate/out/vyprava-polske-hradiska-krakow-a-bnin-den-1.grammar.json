@@ -1,0 +1,14 @@
+{
+ "changes": [
+  {
+   "before": "Našim hlavným cieľom boli archeoskanzeny",
+   "after": "Naším hlavným cieľom boli archeoskanzeny",
+   "rule": "A8 tvar (Naším)"
+  },
+  {
+   "before": "najznámejšia \"slovanská\" modla, tzv. . Mesto Krakow",
+   "after": "najznámejšia „slovanská\" modla, tzv. Światowid ze Zbrucza. Mesto Krakov",
+   "rule": "B úvodzovky + doplnené meno modly (over) + dvojitá medzera"
+  }
+ ]
+}

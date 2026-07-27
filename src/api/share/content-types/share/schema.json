@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "shares",
+  "info": {
+    "singularName": "share",
+    "pluralName": "shares",
+    "displayName": "Share",
+    "description": "Zdieľanie článku prihláseným členom (pre počet zdieľaní v profile a záložku „Obľúbené a zdieľané\")."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "channel": {
+      "type": "string",
+      "maxLength": 40
+    },
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    },
+    "post": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::blog-post.blog-post"
+    }
+  }
+}

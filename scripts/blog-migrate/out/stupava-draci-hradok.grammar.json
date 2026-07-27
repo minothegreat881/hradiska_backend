@@ -1,0 +1,8 @@
+{ "changes":[
+  {"before":"vonkajšími rozmermi 10 x 10 m","after":"vonkajšími rozmermi 10 × 10 m","rule":"B typografia (×)"},
+  {"before":"plochu s rozlohou okolo 370 m2","after":"plochu s rozlohou okolo 370 m²","rule":"B typografia (m²)"},
+  {"before":"maltovou dlážkou s rozmermi minimálne 14 x 11,4 m","after":"maltovou dlážkou s rozmermi minimálne 14 × 11,4 m","rule":"B typografia (×)"},
+  {"before":"zahynul comes Alexander (Farkaš 2006, 235-296)","after":"zahynul comes Alexander (Farkaš 2006, 235 – 296)","rule":"B typografia (en dash)"},
+  {"before":"po ceste č.1108","after":"po ceste č. 1108","rule":"B typografia (medzera)"},
+  {"before":"kde sa zmestia cca. 2-3 autá","after":"kde sa zmestia cca 2 – 3 autá","rule":"B typografia (cca bez bodky, en dash)"},
+  {"before":"asi 300-400 m od spomínaného miesta","after":"asi 300 – 400 m od spomínaného miesta","rule":"B typografia"}]}

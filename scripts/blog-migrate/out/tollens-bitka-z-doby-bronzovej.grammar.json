@@ -1,0 +1,64 @@
+{
+ "changes": [
+  {
+   "before": "organizácie života Doby bronzovej",
+   "after": "organizácie života doby bronzovej",
+   "rule": "A9 obdobie malým (cross-field: „Doby bronzovej\" všade → „doby bronzovej\")"
+  },
+  {
+   "before": "V jedinej oblasti o veľkosti 12 m² sa našlo 1478 kosti",
+   "after": "…sa našlo 1478 kostí",
+   "rule": "A4 pád (genitív plurálu kostí)"
+  },
+  {
+   "before": "nájsť v žiadnej z učebníc dejepisu-písané slovo",
+   "after": "…z učebníc dejepisu — písané slovo",
+   "rule": "B typografia (pomlčka)"
+  },
+  {
+   "before": "stovky tiel ležalo mrtvych porozhadzovaných",
+   "after": "stovky tiel ležalo mŕtvych porozhadzovaných",
+   "rule": "A8 diakritika"
+  },
+  {
+   "before": "iní sa potopili na dno a hlbka ich uchránila",
+   "after": "iné sa potopili na dno a hĺbka ich uchránila",
+   "rule": "A3 zhoda (telá→iné) + A8 diakritika (hĺbka)"
+  },
+  {
+   "before": "našiel jednú časť kosti",
+   "after": "našiel jednu časť kosti",
+   "rule": "A8 dĺžeň (jednu)"
+  },
+  {
+   "before": "datované rádiokarbónovou metódou okolo roku 1250 p.n.l.",
+   "after": "…okolo roku 1250 pred n. l.",
+   "rule": "B typografia (pred n. l.)"
+  },
+  {
+   "before": "taký veľký boj s tisíckami ľuďmi",
+   "after": "taký veľký boj s tisíckami ľudí",
+   "rule": "A4 pád (genitív ľudí)"
+  },
+  {
+   "before": "Pred Tollens, priamich dôkazov o násilí",
+   "after": "Pred Tollense priamych dôkazov o násilí",
+   "rule": "A8 preklep + A1 nadbytočná čiarka"
+  },
+  {
+   "before": "chýbali dokonca aj historické spávy o nejakej vojne a všetci vyskumníci vysvetľovali",
+   "after": "…historické správy o nejakej vojne a všetci výskumníci vysvetľovali",
+   "rule": "A8 preklepy (správy, výskumníci)"
+  },
+  {
+   "before": "10.000 kosti v tejto miestnosti",
+   "after": "10 000 kostí v tejto miestnosti",
+   "rule": "B oddeľovač tisícov + A4 pád"
+  },
+  {
+   "before": "jednotlivých kostí-lebiek a stehenných kosti",
+   "after": "jednotlivých kostí — lebiek a stehenných kostí",
+   "rule": "B pomlčka + A4 pád (kostí)"
+  }
+ ]
+}

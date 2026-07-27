@@ -1,0 +1,34 @@
+{
+ "changes": [
+  {
+   "before": "501 m, orientovaný v smere S-J je značne úzky",
+   "after": "501 m, orientovaný v smere S-J, je značne úzky",
+   "rule": "A1 vložená veta"
+  },
+  {
+   "before": "od západu zovretý Sucharskym",
+   "after": "od západu zovretý Sucharským",
+   "rule": "A8 dĺžeň"
+  },
+  {
+   "before": "rozmermi cca 350-400 m x 180-200 m",
+   "after": "…cca 350 – 400 × 180 – 200 m",
+   "rule": "B typografia"
+  },
+  {
+   "before": "na severnej a južnej strany hradiska",
+   "after": "na severnej a južnej strane hradiska",
+   "rule": "A4 pád (lokál)"
+  },
+  {
+   "before": "Eisner v roku 1933, ktorý naviac odkazuje",
+   "after": "Eisner v roku 1933, ktorý navyše odkazuje",
+   "rule": "A7 bohemizmus"
+  },
+  {
+   "before": "Črepy, nájdené pri výskume v 90. rokoch preukázali",
+   "after": "Črepy nájdené pri výskume v 90. rokoch preukázali",
+   "rule": "A1 nadbytočná čiarka"
+  }
+ ]
+}

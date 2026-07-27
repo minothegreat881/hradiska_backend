@@ -1,0 +1,485 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\pezinok-stary-zamok-ii.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1770545830919770321",
+    "bloggerPostUrl": "http://www.hradiska.sk/2018/11/pezinok-stary-zamok-ii.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1770545830919770321/comments/default",
+    "extractedAt": "2026-07-21T14:07:37.585Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2487.011639393841!2d17.22251074132633!3d48.344011542198814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ssk!2ssk!4v1541785282486"
+      ],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/mJMFLRvMwrU"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 14,
+      "captionedImages": 1,
+      "separatorImages": 13
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "longRichText",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Pezinok: Starý zámok II",
+    "slug": "pezinok-stary-zamok-ii",
+    "excerpt": "Stredoveký hrádok Pezinok - Zámok II leží na dlhom úzkom hrebeni Malých Karpát, nad sútokom horských potokov Sedláčkov jarok a Blatina v Cajlanskej (Hrubej) doline neďaleko bývalej drevorubačskej osady Rybníček. Hrádok tak okrem hlavnej doliny…",
+    "authorName": "Orgon",
+    "publishedAt": "2018-11-09T18:53:00.001+01:00",
+    "originalPublishedDate": "2018-11-09T18:53:00.001+01:00",
+    "updatedAt": "2019-03-04T17:47:41.819+01:00",
+    "readingTime": 9,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdZD-dVR26miYT5-d70kjs2eH2iAA8cTGj6d2Ho4pd7jfOaORC8GRYYnYzz2c5qiHfXwlQhnxPTowvbIxQBbP3gGyG9iQD0K51wdj6X6-NHmSuFGpnT_k4criMl7RiWFn77CnQiE_HyVPr/s0/PK+hrad+rek.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdZD-dVR26miYT5-d70kjs2eH2iAA8cTGj6d2Ho4pd7jfOaORC8GRYYnYzz2c5qiHfXwlQhnxPTowvbIxQBbP3gGyG9iQD0K51wdj6X6-NHmSuFGpnT_k4criMl7RiWFn77CnQiE_HyVPr/s1600/PK+hrad+rek.jpg",
+      "filename": "PK+hrad+rek.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdZD-dVR26miYT5-d70kjs2eH2iAA8cTGj6d2Ho4pd7jfOaORC8GRYYnYzz2c5qiHfXwlQhnxPTowvbIxQBbP3gGyG9iQD0K51wdj6X6-NHmSuFGpnT_k4criMl7RiWFn77CnQiE_HyVPr/s1600/PK+hrad+rek.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 232,
+        "originalWidth": 1600,
+        "originalHeight": 1161
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdZD-dVR26miYT5-d70kjs2eH2iAA8cTGj6d2Ho4pd7jfOaORC8GRYYnYzz2c5qiHfXwlQhnxPTowvbIxQBbP3gGyG9iQD0K51wdj6X6-NHmSuFGpnT_k4criMl7RiWFn77CnQiE_HyVPr/s0/PK+hrad+rek.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdZD-dVR26miYT5-d70kjs2eH2iAA8cTGj6d2Ho4pd7jfOaORC8GRYYnYzz2c5qiHfXwlQhnxPTowvbIxQBbP3gGyG9iQD0K51wdj6X6-NHmSuFGpnT_k4criMl7RiWFn77CnQiE_HyVPr/s1600/PK+hrad+rek.jpg",
+        "filename": "PK+hrad+rek.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdZD-dVR26miYT5-d70kjs2eH2iAA8cTGj6d2Ho4pd7jfOaORC8GRYYnYzz2c5qiHfXwlQhnxPTowvbIxQBbP3gGyG9iQD0K51wdj6X6-NHmSuFGpnT_k4criMl7RiWFn77CnQiE_HyVPr/s1600/PK+hrad+rek.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 232,
+          "originalWidth": 1600,
+          "originalHeight": 1161
+        },
+        "caption": "Hypotetický vzhľad hrádku"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3EQv0BL41g7fDTTjpxQqWoVkSZTg7ouZmKRt1IpSksgtv29DyOo7Q1ve-LXhl0fUFBQOtQukdVM3QUsAMXgIH7T6-n2qbnQlYNRk0TW_ri6kenGY_was-Q0myGHHzLl8gNjLYiPtgKuw2/s0/3.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3EQv0BL41g7fDTTjpxQqWoVkSZTg7ouZmKRt1IpSksgtv29DyOo7Q1ve-LXhl0fUFBQOtQukdVM3QUsAMXgIH7T6-n2qbnQlYNRk0TW_ri6kenGY_was-Q0myGHHzLl8gNjLYiPtgKuw2/s1600/3.png",
+        "filename": "3.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3EQv0BL41g7fDTTjpxQqWoVkSZTg7ouZmKRt1IpSksgtv29DyOo7Q1ve-LXhl0fUFBQOtQukdVM3QUsAMXgIH7T6-n2qbnQlYNRk0TW_ri6kenGY_was-Q0myGHHzLl8gNjLYiPtgKuw2/s1600/3.png",
+          "displayedWidth": 198,
+          "displayedHeight": 320,
+          "originalWidth": 528,
+          "originalHeight": 850
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9QvNoJsu-vk8-R0QSgizqc9cEIhDgvjwYU-4B2sEBnTpfX3-k9o37H4zfEpVIyGIM1-GkjB8Oem_-BVIjunKay87ZMYi2bneHG8yVZ_XyLll7umqRh3LfI41Zrtpu4P1YkYdnQWhrKqnt/s0/5.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9QvNoJsu-vk8-R0QSgizqc9cEIhDgvjwYU-4B2sEBnTpfX3-k9o37H4zfEpVIyGIM1-GkjB8Oem_-BVIjunKay87ZMYi2bneHG8yVZ_XyLll7umqRh3LfI41Zrtpu4P1YkYdnQWhrKqnt/s1600/5.png",
+        "filename": "5.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9QvNoJsu-vk8-R0QSgizqc9cEIhDgvjwYU-4B2sEBnTpfX3-k9o37H4zfEpVIyGIM1-GkjB8Oem_-BVIjunKay87ZMYi2bneHG8yVZ_XyLll7umqRh3LfI41Zrtpu4P1YkYdnQWhrKqnt/s1600/5.png",
+          "displayedWidth": 233,
+          "displayedHeight": 320,
+          "originalWidth": 604,
+          "originalHeight": 828
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpDn_qLi1BLuMgxYKQ7Lgt9nOczzfUYwLfLxHb1aBgdIlNB9xRtJfv_rGQJNAU84AasOQCG0lUYaXzYqG_HEUEZuhP-Ju4r2PWB9O2N1resmZ-8I77Gs3u1MAzUS9V-tGZXhhkhb5xU6TU/s0/2.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpDn_qLi1BLuMgxYKQ7Lgt9nOczzfUYwLfLxHb1aBgdIlNB9xRtJfv_rGQJNAU84AasOQCG0lUYaXzYqG_HEUEZuhP-Ju4r2PWB9O2N1resmZ-8I77Gs3u1MAzUS9V-tGZXhhkhb5xU6TU/s1600/2.png",
+        "filename": "2.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpDn_qLi1BLuMgxYKQ7Lgt9nOczzfUYwLfLxHb1aBgdIlNB9xRtJfv_rGQJNAU84AasOQCG0lUYaXzYqG_HEUEZuhP-Ju4r2PWB9O2N1resmZ-8I77Gs3u1MAzUS9V-tGZXhhkhb5xU6TU/s1600/2.png",
+          "displayedWidth": 235,
+          "displayedHeight": 320,
+          "originalWidth": 616,
+          "originalHeight": 836
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8RAixsCPINUkU1G_7bvzmCnDd1_2AKxCWB5tT-xtE5lyzjqHsdqVP7Gztiyzi28jyWe6VyH66Y-2QN1VgeQaAUBEjJszg9iVd072MAYfsk2e-wX4btPwhlKbCsRoFnhLuKsBV2f6mB1xf/s0/Screenshot_2018-11-09+14+Farkas%25CC%258C+pdf+-+ZbornikSlovenskehoNarodnehoMuzeaArcheologia25_2015_257_297+pdf.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8RAixsCPINUkU1G_7bvzmCnDd1_2AKxCWB5tT-xtE5lyzjqHsdqVP7Gztiyzi28jyWe6VyH66Y-2QN1VgeQaAUBEjJszg9iVd072MAYfsk2e-wX4btPwhlKbCsRoFnhLuKsBV2f6mB1xf/s1600/Screenshot_2018-11-09+14+Farkas%25CC%258C+pdf+-+ZbornikSlovenskehoNarodnehoMuzeaArcheologia25_2015_257_297+pdf.png",
+        "filename": "Screenshot_2018-11-09+14+Farkas%CC%8C+pdf+-+ZbornikSlovenskehoNarodnehoMuzeaArcheologia25_2015_257_297+pdf.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8RAixsCPINUkU1G_7bvzmCnDd1_2AKxCWB5tT-xtE5lyzjqHsdqVP7Gztiyzi28jyWe6VyH66Y-2QN1VgeQaAUBEjJszg9iVd072MAYfsk2e-wX4btPwhlKbCsRoFnhLuKsBV2f6mB1xf/s1600/Screenshot_2018-11-09+14+Farkas%25CC%258C+pdf+-+ZbornikSlovenskehoNarodnehoMuzeaArcheologia25_2015_257_297+pdf.png",
+          "displayedWidth": 320,
+          "displayedHeight": 312,
+          "originalWidth": 868,
+          "originalHeight": 848
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc2RHtiaX1Tnd9oyLnAXXycnoDVsr2n_abWu5DsZrkd3QQGIMa-LVY7OOtimojLIDzC-F1xP6qSv5kuXx32sChnSdDheZCXGUWZE6zeGISUJ2nsH0XmCMHbUg_geOk6aLISE7WAZKsFgR8/s0/4.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc2RHtiaX1Tnd9oyLnAXXycnoDVsr2n_abWu5DsZrkd3QQGIMa-LVY7OOtimojLIDzC-F1xP6qSv5kuXx32sChnSdDheZCXGUWZE6zeGISUJ2nsH0XmCMHbUg_geOk6aLISE7WAZKsFgR8/s1600/4.png",
+        "filename": "4.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc2RHtiaX1Tnd9oyLnAXXycnoDVsr2n_abWu5DsZrkd3QQGIMa-LVY7OOtimojLIDzC-F1xP6qSv5kuXx32sChnSdDheZCXGUWZE6zeGISUJ2nsH0XmCMHbUg_geOk6aLISE7WAZKsFgR8/s1600/4.png",
+          "displayedWidth": 320,
+          "displayedHeight": 258,
+          "originalWidth": 660,
+          "originalHeight": 534
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQXBoxeKRVBqs57L_q7t-dRSCNwf9Gam5SvINm-Q7meXPedq4ueArxwh2NsN7_1RIuXNPxB_IeHDmasS3br6Ezgiqbf_Z3ozV_GiOZKoycfgByha-4y38Z9v-HL2WYYwsDPTxRu1_FCS3/s0/44506621_329708294246415_3101611831102275584_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQXBoxeKRVBqs57L_q7t-dRSCNwf9Gam5SvINm-Q7meXPedq4ueArxwh2NsN7_1RIuXNPxB_IeHDmasS3br6Ezgiqbf_Z3ozV_GiOZKoycfgByha-4y38Z9v-HL2WYYwsDPTxRu1_FCS3/s1600/44506621_329708294246415_3101611831102275584_n.jpg",
+        "filename": "44506621_329708294246415_3101611831102275584_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQXBoxeKRVBqs57L_q7t-dRSCNwf9Gam5SvINm-Q7meXPedq4ueArxwh2NsN7_1RIuXNPxB_IeHDmasS3br6Ezgiqbf_Z3ozV_GiOZKoycfgByha-4y38Z9v-HL2WYYwsDPTxRu1_FCS3/s1600/44506621_329708294246415_3101611831102275584_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJMf8No61b1qNd3gXeW_fyrXm6tu4hC9M5Bc77J_jzbXflmhHSoLwKTjlKJFOSADPFMUp3LvAuz2lDb75sp2sjmHO1rM7bon_DM-YUYldDnWEk9ZuAYyY537pFfoUCjnm24olEYqjXtYSL/s0/44606600_329708357579742_8047425152444530688_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJMf8No61b1qNd3gXeW_fyrXm6tu4hC9M5Bc77J_jzbXflmhHSoLwKTjlKJFOSADPFMUp3LvAuz2lDb75sp2sjmHO1rM7bon_DM-YUYldDnWEk9ZuAYyY537pFfoUCjnm24olEYqjXtYSL/s1600/44606600_329708357579742_8047425152444530688_n.jpg",
+        "filename": "44606600_329708357579742_8047425152444530688_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJMf8No61b1qNd3gXeW_fyrXm6tu4hC9M5Bc77J_jzbXflmhHSoLwKTjlKJFOSADPFMUp3LvAuz2lDb75sp2sjmHO1rM7bon_DM-YUYldDnWEk9ZuAYyY537pFfoUCjnm24olEYqjXtYSL/s1600/44606600_329708357579742_8047425152444530688_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRctq7Z6u2PfNfgzKPuoce1Jg62vs9whS3nAa4jyCyv1JqSdlS2NnIaL6dQI0UZG-WsDjeGGPitIG5EbeP_ks9vdGP0hR22ce35DUxlSxk2iaJQbHcfCUnM1hrVUe8b5fbExwKkRuymn-f/s0/44684538_329707840913127_4232531330648244224_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRctq7Z6u2PfNfgzKPuoce1Jg62vs9whS3nAa4jyCyv1JqSdlS2NnIaL6dQI0UZG-WsDjeGGPitIG5EbeP_ks9vdGP0hR22ce35DUxlSxk2iaJQbHcfCUnM1hrVUe8b5fbExwKkRuymn-f/s1600/44684538_329707840913127_4232531330648244224_n.jpg",
+        "filename": "44684538_329707840913127_4232531330648244224_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRctq7Z6u2PfNfgzKPuoce1Jg62vs9whS3nAa4jyCyv1JqSdlS2NnIaL6dQI0UZG-WsDjeGGPitIG5EbeP_ks9vdGP0hR22ce35DUxlSxk2iaJQbHcfCUnM1hrVUe8b5fbExwKkRuymn-f/s1600/44684538_329707840913127_4232531330648244224_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL9DYUz3-oZ_D9ZAR11fgV1VFe3eEV2d1GSsnBGK6PAI1RcizQTYa9T9Isch2wkyWqA1u7H6FwKwjYxYtx4cXDlWN9TrGYspCtgSMOGOM_1HmfLnzEumQJvMPuimXP-iRgX_EV2LgzENKl/s0/44703405_329708140913097_3234624043386667008_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL9DYUz3-oZ_D9ZAR11fgV1VFe3eEV2d1GSsnBGK6PAI1RcizQTYa9T9Isch2wkyWqA1u7H6FwKwjYxYtx4cXDlWN9TrGYspCtgSMOGOM_1HmfLnzEumQJvMPuimXP-iRgX_EV2LgzENKl/s1600/44703405_329708140913097_3234624043386667008_n.jpg",
+        "filename": "44703405_329708140913097_3234624043386667008_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL9DYUz3-oZ_D9ZAR11fgV1VFe3eEV2d1GSsnBGK6PAI1RcizQTYa9T9Isch2wkyWqA1u7H6FwKwjYxYtx4cXDlWN9TrGYspCtgSMOGOM_1HmfLnzEumQJvMPuimXP-iRgX_EV2LgzENKl/s1600/44703405_329708140913097_3234624043386667008_n.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 720,
+          "originalHeight": 960
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF6q4YduAaesF8n7-cJ9p31mNyQdv2OA98M8d8PccIWIXVV_RsH9INGJTp009NfPjTAy26RLYuPpnfwhjH1eyxwfcKFXsencbLM5Id_nn5kQhJBdvnumWMHG9RcGMrtUnwNfEHI79uszHa/s0/DSC_3282.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF6q4YduAaesF8n7-cJ9p31mNyQdv2OA98M8d8PccIWIXVV_RsH9INGJTp009NfPjTAy26RLYuPpnfwhjH1eyxwfcKFXsencbLM5Id_nn5kQhJBdvnumWMHG9RcGMrtUnwNfEHI79uszHa/s1600/DSC_3282.JPG",
+        "filename": "DSC_3282.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF6q4YduAaesF8n7-cJ9p31mNyQdv2OA98M8d8PccIWIXVV_RsH9INGJTp009NfPjTAy26RLYuPpnfwhjH1eyxwfcKFXsencbLM5Id_nn5kQhJBdvnumWMHG9RcGMrtUnwNfEHI79uszHa/s1600/DSC_3282.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 1200,
+          "originalHeight": 1600
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoPTMVWTx12axctQvx0SPuhO9Hoc7INksfE-uq1fY6O3sMmJ_6hCNElPWBVqYJTnisb1PpNlSTZ7CKTiHIb4rgeOoUPrVKi5AWdYM91lj_bnHwSm1u_lKW0vQrWMpo4ZMhtJ4zqSb8KrL7/s0/DSC_3285.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoPTMVWTx12axctQvx0SPuhO9Hoc7INksfE-uq1fY6O3sMmJ_6hCNElPWBVqYJTnisb1PpNlSTZ7CKTiHIb4rgeOoUPrVKi5AWdYM91lj_bnHwSm1u_lKW0vQrWMpo4ZMhtJ4zqSb8KrL7/s1600/DSC_3285.JPG",
+        "filename": "DSC_3285.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoPTMVWTx12axctQvx0SPuhO9Hoc7INksfE-uq1fY6O3sMmJ_6hCNElPWBVqYJTnisb1PpNlSTZ7CKTiHIb4rgeOoUPrVKi5AWdYM91lj_bnHwSm1u_lKW0vQrWMpo4ZMhtJ4zqSb8KrL7/s1600/DSC_3285.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9LQyqgu_y9oE1J-SzfIiF7QxrYrXFOpvQ4AZmdU2uhP2Y3Cu_HkwtvhxBb8RVSs8S1cEUKpt0Yq30mrBF16K4Nhqiuc-qAy7cZ9HoJssFF3lZfxEZ9ACp6DYnWcNVIgnOYWdqGZyL3aJe/s0/DSC_3295.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9LQyqgu_y9oE1J-SzfIiF7QxrYrXFOpvQ4AZmdU2uhP2Y3Cu_HkwtvhxBb8RVSs8S1cEUKpt0Yq30mrBF16K4Nhqiuc-qAy7cZ9HoJssFF3lZfxEZ9ACp6DYnWcNVIgnOYWdqGZyL3aJe/s1600/DSC_3295.JPG",
+        "filename": "DSC_3295.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9LQyqgu_y9oE1J-SzfIiF7QxrYrXFOpvQ4AZmdU2uhP2Y3Cu_HkwtvhxBb8RVSs8S1cEUKpt0Yq30mrBF16K4Nhqiuc-qAy7cZ9HoJssFF3lZfxEZ9ACp6DYnWcNVIgnOYWdqGZyL3aJe/s1600/DSC_3295.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQWd0UFODOT6ozbriDgjP3It0JusPObaKwV2KvVZw0-usJ8ItrqVWJZsc3-lxFrpxAFZbacPI36lVaM3mJlaTaq2sjLv6elT-cOb6eFjo4NnOuX3eDCcau8IuZ2-HtBa5Xu8TN5V3FrKnt/s0/DSC_3299.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQWd0UFODOT6ozbriDgjP3It0JusPObaKwV2KvVZw0-usJ8ItrqVWJZsc3-lxFrpxAFZbacPI36lVaM3mJlaTaq2sjLv6elT-cOb6eFjo4NnOuX3eDCcau8IuZ2-HtBa5Xu8TN5V3FrKnt/s1600/DSC_3299.JPG",
+        "filename": "DSC_3299.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQWd0UFODOT6ozbriDgjP3It0JusPObaKwV2KvVZw0-usJ8ItrqVWJZsc3-lxFrpxAFZbacPI36lVaM3mJlaTaq2sjLv6elT-cOb6eFjo4NnOuX3eDCcau8IuZ2-HtBa5Xu8TN5V3FrKnt/s1600/DSC_3299.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 1200,
+          "originalHeight": 1600
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Pezinok: Starý zámok II"
+    ],
+    "category": null,
+    "location": {
+      "name": "Pezinok: Starý zámok II",
+      "latitude": 48.344011542198814,
+      "longitude": 17.22251074132633,
+      "region": null,
+      "country": null
+    },
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Stredoveký hrádok Pezinok - Zámok II leží na dlhom úzkom hrebeni Malých Karpát, nad sútokom horských potokov Sedláčkov jarok a Blatina v Cajlanskej (Hrubej) doline neďaleko bývalej drevorubačskej osady Rybníček. Hrádok tak okrem hlavnej doliny kontroloval aj niekoľko bočných doliniek, ktoré umožňovali prechod od Pezinka smerom na Záhorie cez sedlo Baba alebo sedlo pod Javorinou. Jej úlohou mohla byť ochrana jednej z menej známych obchodných a vojenských ciest spájajúcich Karpatskú kotlinu cez Trnavskú pahorkatinu so západnejšie ležiacimi časťami Európy, predovšetkým s Rakúskom a Českým kráľovstvom. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jeho pôdorys bol prispôsobený stiesnenému horskému terénu - úzkemu a dlhému skalnatému hrebeňu. Zrejme aj preto hrádok napokon dosiahol dĺžku až okolo 200 m. Pevnôstka, ktorú podľa súčasných poznatkov nemožno jednoznačne stotožniť so žiadnou opevnenou polohou z obdobia vrcholného stredoveku známou z písomných prameňov, ležala mimo hlavných trás obchodných a vojenských komunikácií spájajúcich Uhorsko so západnejšie ležiacimi oblasťami Európy, zrejme však kontrolovala jeden až dva prechody predovšetkým regionálneho významu spájajúce Trnavskú pahorkatinu a Záhorie. Jedna z prístupových ciest na opevnenú plochu viedla od severu po vrchole hrebeňa a do hrádku vstupovala cez do skalného masívu zasekanú šijovú, zatiaľ bližšie neskúmanú priekopu. Iná prístupová cesta viedla do sedielka medzi Srnčím vŕškom a skalným zubom s drevenou zástavbou na vrchole od severu, po komunikácii stúpajúcej po západnom úbočí, dnes z veľkej časti zničenej už opusteným kameňolomom. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdZD-dVR26miYT5-d70kjs2eH2iAA8cTGj6d2Ho4pd7jfOaORC8GRYYnYzz2c5qiHfXwlQhnxPTowvbIxQBbP3gGyG9iQD0K51wdj6X6-NHmSuFGpnT_k4criMl7RiWFn77CnQiE_HyVPr/s0/PK+hrad+rek.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdZD-dVR26miYT5-d70kjs2eH2iAA8cTGj6d2Ho4pd7jfOaORC8GRYYnYzz2c5qiHfXwlQhnxPTowvbIxQBbP3gGyG9iQD0K51wdj6X6-NHmSuFGpnT_k4criMl7RiWFn77CnQiE_HyVPr/s1600/PK+hrad+rek.jpg",
+          "filename": "PK+hrad+rek.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdZD-dVR26miYT5-d70kjs2eH2iAA8cTGj6d2Ho4pd7jfOaORC8GRYYnYzz2c5qiHfXwlQhnxPTowvbIxQBbP3gGyG9iQD0K51wdj6X6-NHmSuFGpnT_k4criMl7RiWFn77CnQiE_HyVPr/s1600/PK+hrad+rek.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 232,
+            "originalWidth": 1600,
+            "originalHeight": 1161
+          }
+        },
+        "alt": "Hypotetický vzhľad hrádku",
+        "caption": "Hypotetický vzhľad hrádku",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na rozdiel od cesty po hrebeni je v teréne doložená stále zreteľným zárezom a nálezmi materiálnej kultúry z obdobia vrcholného stredoveku. Podľa archeologických nálezov končila relatívne pohodlná, ale priamo z fortifikácie dobre kontrolovateľná prístupová komunikácia práve v sedielku a azda tu sa odohrávali aj niektoré bežné činnosti súvisiace s funkciou i hospodárskou prevádzkou fortifikácie. Stopy po pôvodne predpokladaných hospodárskych prístreškoch sa tu však zatiaľ nepodarilo doložiť. Zo sedielka smerom k hrádku stúpal od juhu strmý chodník, ktorý musel prekročiť dodnes zreteľnú, približne 4,2 m širokú, do skaly zasekanú priekopu, azda po úzkom, ani nie 1 m širokom a teda dobre brániteľnom skalnom páse, medzi ňou a východným zrázom brala. Na rekonštrukciu toho, ako bol riešený samotný vstup do pevnôstky však stopy v teréne nestačia. Plytký žliabok zasekaný do skalného podložia pred priekopou nevylučuje, že z vonkajšej strany bola doplnená ľahkou ženijnou prekážkou pripomínajúcou plot. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podľa archeologických nálezov zaberala vrchol skalného zubu niekoľkoposchodová drevená, najskôr zrubová stavba vežového charakteru, podľa zlomkov mazanice z protipožiarnych, izolačných a estetických dôvodov pôvodne aspoň čiastočne chránená vrstvou hlinenej omietky. Rozmery „veže“ nie sú jednoznačné, museli sa prispôsobiť limitovaným rozmerom brala a zákonom statiky, dĺžka stien však zrejme presahovala 5 m. Jeden z jej rohov bol podchytený hranolom z importovaného pieskovca na ktorý nadväzovali „podmurovky“ z lomového, na sucho kladeného kameňa a stopy po spálených trámoch. Približne v strede objektu sa nachádzal asi 1 m hlboký zásah do skalného podložia s rozmermi 2,9 x 1,7-2,3 m. Jama pravdepodobne slúžila ako podzemný priestor drevených vežovitých stavieb „skalných hradov“, ktorý zaisťoval ukotvenie a stabilitu vyšších budov ale mohol byť tiež využitý aj na uskladnenie zásob. Priamo na „vežu“ nadväzovala ďalšia drevená stavba, s dlhšou osou paralelnou s osou hrebeňa (3,6 x 1,5m). Jej západnú časť zahĺbili do skalného podložia. Dlážka a pravdepodobne aj obloženie skalných stien podľa zvyškov drevených uhlíkov azda pozostávalo z dosák. Jej východná časť chýba, terén tu prudko klesá do údolia, ktoré vedie k horárni Rybníček. Jednou z možností je, že sa tu svah aj s jej zvyškami zrútil. Iný variant nevylučuje, že jej bok vyčnieval ponad zráz na spôsob balkóna podopretého drevenými. Stavba č. 2, na rozdiel od blízkej veže, zrejme bola len jednopriestorová budova s jediným podlažím. O vnútornom zariadení stavieb vrcholnostredovekých malých opevnených polôh sa stále vie pomerne málo. Na podklade nálezov a analógií však možno predpokladať ich základné vybavenie dreveným nábytkom (stôl, lôžko a podľa kľúčov k uzamykacím mechanizmom pravdepodobne aj truhlami a truhlicami). Krátke železné pánty môžu pochádzať ako z nábytku, tak okeníc či záklopiek okenných otvorov. Okrem nezachovaných drevených výrobkov patrila k výbave keramika a zrejme na aspoň občasný pobyt vyššej spoločenskej vrstvy na hrádku poukazuje fragment sklenej nádoby. Zaujímavosťou oproti iným podobným opevneným polohám je pomerne malé zastúpenie remeselníckych nástrojov potrebných pri stavbe, údržbe i prevádzke pevnosti v nálezovom materiáli. Celkom chýbajú poľnohospodárske nástroje, čo môže odzrkadľovať aj špecifickú funkciu hrádku bez priameho hospodárskeho zázemia. Archeologický výskum zatiaľ nepriniesol jednoznačné poznatky o spôsobe opevnenia Starého zámku II. Okrem drevenej veže s predsunutou priekopou v jeho južnej, dominantnej časti sa obrana zrejme spoliehala predovšetkým na strmé, ťažko schodné svahy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3EQv0BL41g7fDTTjpxQqWoVkSZTg7ouZmKRt1IpSksgtv29DyOo7Q1ve-LXhl0fUFBQOtQukdVM3QUsAMXgIH7T6-n2qbnQlYNRk0TW_ri6kenGY_was-Q0myGHHzLl8gNjLYiPtgKuw2/s0/3.png",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3EQv0BL41g7fDTTjpxQqWoVkSZTg7ouZmKRt1IpSksgtv29DyOo7Q1ve-LXhl0fUFBQOtQukdVM3QUsAMXgIH7T6-n2qbnQlYNRk0TW_ri6kenGY_was-Q0myGHHzLl8gNjLYiPtgKuw2/s1600/3.png",
+          "filename": "3.png",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3EQv0BL41g7fDTTjpxQqWoVkSZTg7ouZmKRt1IpSksgtv29DyOo7Q1ve-LXhl0fUFBQOtQukdVM3QUsAMXgIH7T6-n2qbnQlYNRk0TW_ri6kenGY_was-Q0myGHHzLl8gNjLYiPtgKuw2/s1600/3.png",
+            "displayedWidth": 198,
+            "displayedHeight": 320,
+            "originalWidth": 528,
+            "originalHeight": 850
+          }
+        },
+        "alt": "Pezinok: Starý zámok II",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "mJMFLRvMwrU",
+        "url": "https://www.youtube.com/embed/mJMFLRvMwrU",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Doposiaľ sa nepodarilo zachytiť doklady murovanej, alebo drevozemnej hradby. Za stavbou č. 2 sa už začínal ťažobný priestor bývalého kameňolomu, ktorému nenávratne padla za obeť celá centrálna, azda najdôležitejšia časť stredovekej pevnôstky. Podľa hrotitých zásekov v doteraz zachovanej skalnej stene pôvodného brala nemožno vylúčiť, že obidve budovy od pôvodného hrebeňa oddeľovala jedna až dve hrotité priekopy. Tie mohli uzatvárať prístupovú cestu po hrebeni k jadru alebo k najstaršej časti „Starého zámku“. Okrem požiaru na násilný zánik Starého zámku II poukazujú početné železné hroty šípov podľa ktorých nepriateľ postupoval po vozovej ceste smerom na Srnčí vŕšok a potom k samotnému opevneniu. Možno predpokladať, že na časti šípov boli pripevnené zápalné látky, ktoré mali nahlodať odhodlanie obrancov alebo aspoň sčasti ich zamestnať hasením založeného požiaru. Časové vymedzenie pomerne krátkej existencie najstaršej fázy vývoja a zániku Starého zámku II pri Pezinku umožňuje predovšetkým sprievodný archeologický materiál. Z keramických tvarov prevládali hrnce s kalichovito roztvoreným ústim, ale boli aj džbány so širokými, ryhami členenými uškami. Nálezy umožňujú položiť zánikový horizont dreveného hrádku do 2. polovice 13. až na začiatok 14. storočia, pričom strieborné viedenské fenigy razené Přemyslom Otakarom II. môžu toto obdobie s istou opatrnosťou zúžiť na sedemdesiate roky 13. storočia. Jej vznik tak možno predpokladať v druhej polovici 13. storočia. Niektoré z hrotov šípov majú podľa súčasných poznatkov na bojové strely 13. storočia nezvyklý, sčasti archaický tvar. Niektoré z nich pôvodne patrili k špecializovaným loveckým strelkám, ktoré v takejto podobe prežívali vo východnej Európe hlboko do vrcholného stredoveku. Šípy v prípade, ak všetky súvisia s dobývaním Starého zámku, tak môžu poukazovať na niekoľko zaujímavých skutočností. Napríklad na etnicitu časti obrancov pevnôstky. V druhej polovici 13. a na začiatku 14. storočia uhorskí panovníci radi usadzovali v pohraničných regiónoch strážcov hraníc pôvodom z východoeurópskych stepí, napr. Polovcov a Kumánov, v ktorých prostredí mali takého hroty dlhú tradíciu. Nemožno však ani vylúčiť, že v dobe, keď sa obrancom míňali šípy vhodné na boj s aspoň čiastočne obrneným protivníkom, z núdze použili aj muníciu inak určenú na lov divej zveri. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podľa súčasných poznatkov na vrchole brala, kde pôvodne stála zrubová veža, po jej zániku už nevznikli iné stavby. Zatiaľ predovšetkým zberové nálezy zo sutiny pod zadnou stenou kameňolomu na východnom svahu hrebeňa a z okolia mohutnej šijovej priekopy v prirodzenom terénnom zlome na sever od pomaly lesom zarastajúcej ťažobnej jamy však dokladajú, že poloha neupadla do zabudnutia ani neskôr a bola aspoň príležitostne využívaná ako oporný alebo signalizačný bod najneskôr do prelomu 15./16. storočia. Z prevádzkových a azda aj obranných dôvodov sa potom fortifikácia postupne predlžovala smerom na sever, k výraznej šijovej priekope. Na otázku, či možno Starý zámok II stotožniť s tým hradom v Pezinku, ktorý podľa Klosterneuburskej kroniky obsadil na jar roku 1271 český kráľ Přemysl Otakar II., nedal archeologický výskum jednoznačnú odpoveď, avšak túto možnosť nemôžeme vylúčiť. Archeologické nálezy umožňujú len rámcové datovanie ozbrojenej akcie, pri ktorom zanikla jeho najstaršia časť, a to napriek nálezom mincí razených týmto panovníkom na území Rakúska. Oproti Starému zámku I však pre túto možnosť ale hovorí viac indícií: – drevená pevnôstka stála v dobe expanzie českého kráľa na západné Slovensko. – skalné bralo zvýšené najmenej o dvojpodlažnú zrubovú stavbu mohlo vyvolávať dojem silnej a obranyschopnej veže. – niekedy v danom období tu prebehol boj, ktorý mal pre opevnenie fatálne dôsledky. Neslobodno však zabúdať ani na ďalšie bojové akcie, pri ktorých hral pezinský hrad a celý západ dnešného Slovenska aktívnu úlohu v závere 13. a na začiatku 14. storočia. – napriek tomu, že hrádok nemohol mať veľkú posádku, na podklade niektorých nálezov tu možno rátať s prítomnosťou spoločenskej elity z radov šľachty (napr. vtedy istotne cenná sklenená nádoba talianskeho pôvodu). V súčasnosti sa však na podklade nových nálezov odkrytých pri rekonštrukcii priamo v meste stojaceho Pezinského zámku, ktoré tu dokladajú existenciu kamenného hradu už v priebehu 13. storočia zdá, že práve on vstúpil do análov a je tým hradom, ktorý stál kronikárovi za zmienku pri popise vojenských úspechov českého kráľa a nie menej významná, navyše drevená pevnôstka stratená hlboko v horách. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9QvNoJsu-vk8-R0QSgizqc9cEIhDgvjwYU-4B2sEBnTpfX3-k9o37H4zfEpVIyGIM1-GkjB8Oem_-BVIjunKay87ZMYi2bneHG8yVZ_XyLll7umqRh3LfI41Zrtpu4P1YkYdnQWhrKqnt/s0/5.png",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9QvNoJsu-vk8-R0QSgizqc9cEIhDgvjwYU-4B2sEBnTpfX3-k9o37H4zfEpVIyGIM1-GkjB8Oem_-BVIjunKay87ZMYi2bneHG8yVZ_XyLll7umqRh3LfI41Zrtpu4P1YkYdnQWhrKqnt/s1600/5.png",
+          "filename": "5.png",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9QvNoJsu-vk8-R0QSgizqc9cEIhDgvjwYU-4B2sEBnTpfX3-k9o37H4zfEpVIyGIM1-GkjB8Oem_-BVIjunKay87ZMYi2bneHG8yVZ_XyLll7umqRh3LfI41Zrtpu4P1YkYdnQWhrKqnt/s1600/5.png",
+            "displayedWidth": 233,
+            "displayedHeight": 320,
+            "originalWidth": 604,
+            "originalHeight": 828
+          }
+        },
+        "alt": "Pezinok: Starý zámok II",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Starý zámok II pri Pezinku patrí do skupiny zatiaľ pomerne málo známych drevených alebo drevozemných hrádkov z 13. až začiatku 14. storočia, z ktorých niektoré ležia v pomerne neveľkej vzdialenosti od kamenných od podstatne známejších kamenných hradov (napr. Pajštún – Dračí hrádok, Pezinok – Starý zámok I a II, Smolenice – Kalvária, Dobrá Voda – Pod Mariášom, azda Červený Kameň a pod.). Pred rozsiahlejšími archeologickými výskumami týchto dvojíc možno len uvažovať o ich časovej nasledovnosti, prípadne len kratšej vzájomnej paralelnosti. Mohlo by tak ísť o postupné nahradzovanie starších, pomaly zastarávajúcich fortifikácií modernejšími, ale stavebne aj !nančne náročnejšími. Okrem nich sa však drevozemné hrádky objavujú aj na strategických miestach na okraji alebo vo vnútri malokarpatských dolín (akoby v zmysle zásady kontrolovať, ale nebyť priveľmi na očiach – Železník, Pod Mariášom, Dračí hrádok, Starý zámok II). Podľa sprievodného materiálu väčšina z nich vznikla v priebehu 13. storočia, azda po tatárskom vpáde a zanikla v závere 13. či na začiatku 14. storočia, v období bojov medzi Uhorskom a Českým kráľovstvom, prípadne v nasledovných nepokojných dobách spätých s vládou posledných Arpádovcov a nastupujúcou feudálnou anarchiou. Archeologický materiál len v prípade Kuchynského hradu a Starého zámku II umožňuje predpokladať ich dlhší vývoj, končiaci niekedy v druhej polovici 15. či na samom počiatku 16. storočia. V prípade Kuchyne a azda aj Starého zámku však staršie opevnenie postupne doplnila kamenná architektúra, ktorej zvyšky sa zachovali aj na Dračom hrádku. Drevozemné opevnenia v podobe malých pevnôstok sa však opäť objavili v 15. storočí (napr. Ostriež pri Brezovej pod Bradlom), keď boli čiastočne revitalizované aj niektoré staršie praveké až včasnostredoveké hradiská."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpDn_qLi1BLuMgxYKQ7Lgt9nOczzfUYwLfLxHb1aBgdIlNB9xRtJfv_rGQJNAU84AasOQCG0lUYaXzYqG_HEUEZuhP-Ju4r2PWB9O2N1resmZ-8I77Gs3u1MAzUS9V-tGZXhhkhb5xU6TU/s0/2.png",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpDn_qLi1BLuMgxYKQ7Lgt9nOczzfUYwLfLxHb1aBgdIlNB9xRtJfv_rGQJNAU84AasOQCG0lUYaXzYqG_HEUEZuhP-Ju4r2PWB9O2N1resmZ-8I77Gs3u1MAzUS9V-tGZXhhkhb5xU6TU/s1600/2.png",
+          "filename": "2.png",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpDn_qLi1BLuMgxYKQ7Lgt9nOczzfUYwLfLxHb1aBgdIlNB9xRtJfv_rGQJNAU84AasOQCG0lUYaXzYqG_HEUEZuhP-Ju4r2PWB9O2N1resmZ-8I77Gs3u1MAzUS9V-tGZXhhkhb5xU6TU/s1600/2.png",
+            "displayedWidth": 235,
+            "displayedHeight": 320,
+            "originalWidth": 616,
+            "originalHeight": 836
+          }
+        },
+        "alt": "Pezinok: Starý zámok II",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Text je prevzatý iba s drobnými úpravami zo záveru článku od Zdenka Farkaša: STREDOVEKÉ OPEVNENIE STARÝ ZÁMOK II PRI PEZINKU, ZBORNÍK SLOVENSKÉHO NÁRODNÉHO MÚZEA CIX [ 2015 ARCHEOLÓGIA 25, ktorý celý nájdete na "
+              },
+              {
+                "type": "link",
+                "url": "http://www.snm.sk/swift_data/source/archeologicke_muzeum/zborniky/z25/ZbornikSlovenskehoNarodnehoMuzeaArcheologia25_2015_257_297.pdf?58d9245f7e669",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "TEJTO ADRESE"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "\n \n Foto Orgoň:\n \n "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

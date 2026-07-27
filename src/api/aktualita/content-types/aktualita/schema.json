@@ -53,6 +53,12 @@
     "zvyraznene": {
       "type": "boolean",
       "default": false
+    },
+    "membersNotified": {
+      "type": "boolean",
+      "default": false,
+      "private": true,
+      "description": "Interné: členovia už boli upozornení na túto aktualitu (bráni opakovanému push pri každej úprave)."
     }
   }
 }

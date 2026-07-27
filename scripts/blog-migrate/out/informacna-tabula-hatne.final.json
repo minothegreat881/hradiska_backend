@@ -1,0 +1,484 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\informacna-tabula-hatne.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-8345324928465388714",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/11/informacna-tabula-hatne.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/8345324928465388714/comments/default",
+    "extractedAt": "2026-07-21T14:08:20.713Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 19,
+      "captionedImages": 12,
+      "separatorImages": 7
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Informačná tabuľa Hatné",
+    "slug": "informacna-tabula-hatne",
+    "excerpt": "Dňa 16. 11. 2013, v slnečnú jesennú sobotu, naše Občianske združenie Hradiská podniklo ďalšiu akciu - osadenie informačnej tabule pri hrádkoch v Hatnom (Hatňanská Skala a Hrádek)",
+    "authorName": "Unknown",
+    "publishedAt": "2013-11-17T20:53:00.003+01:00",
+    "originalPublishedDate": "2013-11-17T20:53:00.003+01:00",
+    "updatedAt": "2013-11-18T18:21:18.690+01:00",
+    "readingTime": 2,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAAbd0bYoD8gP5rgI1f_S2Ar4ZZ_FrV00BrJi4o2LFgunYL5l-E9QLdmHPORS1LRhAl6wZjDdDcsFVluUesMkmAVcvzT3PiC6AzwnTCS7IQERhrgwbpJTO3ZtEKUg19MweUSmGr_Y6Gho/s0/IMG_4468.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAAbd0bYoD8gP5rgI1f_S2Ar4ZZ_FrV00BrJi4o2LFgunYL5l-E9QLdmHPORS1LRhAl6wZjDdDcsFVluUesMkmAVcvzT3PiC6AzwnTCS7IQERhrgwbpJTO3ZtEKUg19MweUSmGr_Y6Gho/s1600/IMG_4468.JPG",
+      "filename": "IMG_4468.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAAbd0bYoD8gP5rgI1f_S2Ar4ZZ_FrV00BrJi4o2LFgunYL5l-E9QLdmHPORS1LRhAl6wZjDdDcsFVluUesMkmAVcvzT3PiC6AzwnTCS7IQERhrgwbpJTO3ZtEKUg19MweUSmGr_Y6Gho/s1600/IMG_4468.JPG",
+        "displayedWidth": 213,
+        "displayedHeight": 320,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAAbd0bYoD8gP5rgI1f_S2Ar4ZZ_FrV00BrJi4o2LFgunYL5l-E9QLdmHPORS1LRhAl6wZjDdDcsFVluUesMkmAVcvzT3PiC6AzwnTCS7IQERhrgwbpJTO3ZtEKUg19MweUSmGr_Y6Gho/s0/IMG_4468.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAAbd0bYoD8gP5rgI1f_S2Ar4ZZ_FrV00BrJi4o2LFgunYL5l-E9QLdmHPORS1LRhAl6wZjDdDcsFVluUesMkmAVcvzT3PiC6AzwnTCS7IQERhrgwbpJTO3ZtEKUg19MweUSmGr_Y6Gho/s1600/IMG_4468.JPG",
+        "filename": "IMG_4468.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAAbd0bYoD8gP5rgI1f_S2Ar4ZZ_FrV00BrJi4o2LFgunYL5l-E9QLdmHPORS1LRhAl6wZjDdDcsFVluUesMkmAVcvzT3PiC6AzwnTCS7IQERhrgwbpJTO3ZtEKUg19MweUSmGr_Y6Gho/s1600/IMG_4468.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Náš alchymista mieša tajné čarodejnícke prísady, ktoré odoženú vandalov od snahy poškodiť tabuľu"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pGYAMH_v7hJr0wB_pOz1wzEMnLfkaTWnrb1AhzsFeokMAAAUMPa-hIMO8G8NYRBd5AKj6lV7dARBMD5kQrG38adPgxv0IJXZW13L7_eQOMVLS1PXRgYS5MP0McZSGliVP20OH1TDzGo/s0/1401199_597939876933227_1410494547_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pGYAMH_v7hJr0wB_pOz1wzEMnLfkaTWnrb1AhzsFeokMAAAUMPa-hIMO8G8NYRBd5AKj6lV7dARBMD5kQrG38adPgxv0IJXZW13L7_eQOMVLS1PXRgYS5MP0McZSGliVP20OH1TDzGo/s1600/1401199_597939876933227_1410494547_o.jpg",
+        "filename": "1401199_597939876933227_1410494547_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1pGYAMH_v7hJr0wB_pOz1wzEMnLfkaTWnrb1AhzsFeokMAAAUMPa-hIMO8G8NYRBd5AKj6lV7dARBMD5kQrG38adPgxv0IJXZW13L7_eQOMVLS1PXRgYS5MP0McZSGliVP20OH1TDzGo/s1600/1401199_597939876933227_1410494547_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "jama musí byť patrične hlboká"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJtCuuj5iNJGGjFHbertjI9aiqH6LTOpX-moU1pl_mO87A7rkF4F0NUz5y5-T27LqiKqXICppEtw313mKhCUXl-2Kiap0gVcXIPs9jUN1T6wV3PS_1zV5zuVEKKCgYJvh9UmrxtlKMqbY/s0/IMG_4477.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJtCuuj5iNJGGjFHbertjI9aiqH6LTOpX-moU1pl_mO87A7rkF4F0NUz5y5-T27LqiKqXICppEtw313mKhCUXl-2Kiap0gVcXIPs9jUN1T6wV3PS_1zV5zuVEKKCgYJvh9UmrxtlKMqbY/s1600/IMG_4477.JPG",
+        "filename": "IMG_4477.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJtCuuj5iNJGGjFHbertjI9aiqH6LTOpX-moU1pl_mO87A7rkF4F0NUz5y5-T27LqiKqXICppEtw313mKhCUXl-2Kiap0gVcXIPs9jUN1T6wV3PS_1zV5zuVEKKCgYJvh9UmrxtlKMqbY/s1600/IMG_4477.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "ešte posledné úpravy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDyr7fmC1WtLnAlfTwjwOhyphenhyphenaSzLY2lUb5_skxZ_cYAhhy7Uv31atdIQsMcZMrEf688KuPhziZH4zWH-J7MgafFXmkoPwPlIy7ggXke3_Z7Gu6vlFkbeDL06Hqbx7VfC_bk1slvJS4uks/s0/PB168682.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDyr7fmC1WtLnAlfTwjwOhyphenhyphenaSzLY2lUb5_skxZ_cYAhhy7Uv31atdIQsMcZMrEf688KuPhziZH4zWH-J7MgafFXmkoPwPlIy7ggXke3_Z7Gu6vlFkbeDL06Hqbx7VfC_bk1slvJS4uks/s1600/PB168682.JPG",
+        "filename": "PB168682.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMDyr7fmC1WtLnAlfTwjwOhyphenhyphenaSzLY2lUb5_skxZ_cYAhhy7Uv31atdIQsMcZMrEf688KuPhziZH4zWH-J7MgafFXmkoPwPlIy7ggXke3_Z7Gu6vlFkbeDL06Hqbx7VfC_bk1slvJS4uks/s1600/PB168682.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPkDIdGne9th6SovtHbk1rTKY8LhMa9jy5Evw3X1A5xWgn2cvCZfHX4FiJ2ofDY8sJgTlvOHN8hcjoglTY65ek_zARgM49q03045esSFQrOWAAXaXn2_QYUkdJqbl_viPS8mg9VBJ7GhY/s0/PB168688.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPkDIdGne9th6SovtHbk1rTKY8LhMa9jy5Evw3X1A5xWgn2cvCZfHX4FiJ2ofDY8sJgTlvOHN8hcjoglTY65ek_zARgM49q03045esSFQrOWAAXaXn2_QYUkdJqbl_viPS8mg9VBJ7GhY/s1600/PB168688.JPG",
+        "filename": "PB168688.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPkDIdGne9th6SovtHbk1rTKY8LhMa9jy5Evw3X1A5xWgn2cvCZfHX4FiJ2ofDY8sJgTlvOHN8hcjoglTY65ek_zARgM49q03045esSFQrOWAAXaXn2_QYUkdJqbl_viPS8mg9VBJ7GhY/s1600/PB168688.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Už sa stalo našou dobrou tradíciou, že tabuľu pokrstí zo slovanského picieho rohu Čendo s pravou slovanskou medovinou"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJeU2Ro9K8ECvjEG76pxhZ1Ubqbez2hcYe6NmrqoGrxhGAKUhDmJv_ZZ9qPn5oI_beXeSdrETNOIRwKfUX3wAQ96emzVDCiYrEu3zARx6YfSsd_nDVKjFsciC_XM7xD28bOwPT4ewVbj0/s0/IMG_4486.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJeU2Ro9K8ECvjEG76pxhZ1Ubqbez2hcYe6NmrqoGrxhGAKUhDmJv_ZZ9qPn5oI_beXeSdrETNOIRwKfUX3wAQ96emzVDCiYrEu3zARx6YfSsd_nDVKjFsciC_XM7xD28bOwPT4ewVbj0/s1600/IMG_4486.JPG",
+        "filename": "IMG_4486.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJeU2Ro9K8ECvjEG76pxhZ1Ubqbez2hcYe6NmrqoGrxhGAKUhDmJv_ZZ9qPn5oI_beXeSdrETNOIRwKfUX3wAQ96emzVDCiYrEu3zARx6YfSsd_nDVKjFsciC_XM7xD28bOwPT4ewVbj0/s1600/IMG_4486.JPG",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLq9gUkrlYc7DSa2zCSClCKXO6DlXekeKT-9EnrDAj9bngpsmWkfWA8TIUKx5xDps-5oHUk5WwJiFylKLm2Pm3KrTOuHFUlt1gSVDq0ojNIMdxNL920U4pbnajMIFrOxK8z23_PpBj9DY/s0/PB168698.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLq9gUkrlYc7DSa2zCSClCKXO6DlXekeKT-9EnrDAj9bngpsmWkfWA8TIUKx5xDps-5oHUk5WwJiFylKLm2Pm3KrTOuHFUlt1gSVDq0ojNIMdxNL920U4pbnajMIFrOxK8z23_PpBj9DY/s1600/PB168698.JPG",
+        "filename": "PB168698.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLq9gUkrlYc7DSa2zCSClCKXO6DlXekeKT-9EnrDAj9bngpsmWkfWA8TIUKx5xDps-5oHUk5WwJiFylKLm2Pm3KrTOuHFUlt1gSVDq0ojNIMdxNL920U4pbnajMIFrOxK8z23_PpBj9DY/s1600/PB168698.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "archeológ pán Mgr. Jozef Moravčík rozpráva o dejinách oboch hrádkov"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMrgyZyAe1roeJKd3sceA36qbY3lhxvq3y5yZYkUYBVGaloSODNNwJtezujlDGyLLRFYyFhwkVssCglBqw1bwGAb3JiJRpxn8Zvag-69Owt3cQqhR9n8c3v7puTBcKcSOg6mEYpR1fseY/s0/PB168712.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMrgyZyAe1roeJKd3sceA36qbY3lhxvq3y5yZYkUYBVGaloSODNNwJtezujlDGyLLRFYyFhwkVssCglBqw1bwGAb3JiJRpxn8Zvag-69Owt3cQqhR9n8c3v7puTBcKcSOg6mEYpR1fseY/s1600/PB168712.JPG",
+        "filename": "PB168712.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMrgyZyAe1roeJKd3sceA36qbY3lhxvq3y5yZYkUYBVGaloSODNNwJtezujlDGyLLRFYyFhwkVssCglBqw1bwGAb3JiJRpxn8Zvag-69Owt3cQqhR9n8c3v7puTBcKcSOg6mEYpR1fseY/s1600/PB168712.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "pni starostka Hatného Mgr. Iveta Žilovcová"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhw-vsmaCYmRYsVTQRvhGHT0P4SAqzw7guNqDxY-IQTaY5Vzcoim1EoIoGui0GjJ6mJj3JK-T7uYYDhlxTptZhJx9dDar3WNZCvqpIHPHJbWLPMZ_R95xy3FCegsbI_LgyxNjRKJ0VMXw/s0/PB168735.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhw-vsmaCYmRYsVTQRvhGHT0P4SAqzw7guNqDxY-IQTaY5Vzcoim1EoIoGui0GjJ6mJj3JK-T7uYYDhlxTptZhJx9dDar3WNZCvqpIHPHJbWLPMZ_R95xy3FCegsbI_LgyxNjRKJ0VMXw/s1600/PB168735.JPG",
+        "filename": "PB168735.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhw-vsmaCYmRYsVTQRvhGHT0P4SAqzw7guNqDxY-IQTaY5Vzcoim1EoIoGui0GjJ6mJj3JK-T7uYYDhlxTptZhJx9dDar3WNZCvqpIHPHJbWLPMZ_R95xy3FCegsbI_LgyxNjRKJ0VMXw/s1600/PB168735.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Na akcii boli viacerí záujemcovia o históriu. Pán Štefan Žilovec ukazuje jeho projekt - ortomapa časi marikovskej doliny s vyznačenými chotárnymi názvami, ktoré už dnes upadajú do zabudnutia"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6nElj08oV3Y6FG5iVzU2u1RiWGCL-47rm7sKbbLcUooRl8pVxH8iW826ELCpKOgkykgoiLiOXyzv6VFqjXBIsN3TSw1ukaSxT8_d7RKlXQIwFORRrey0xngyqmprhAT-q9_vPv5YLnac/s0/PB168745.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6nElj08oV3Y6FG5iVzU2u1RiWGCL-47rm7sKbbLcUooRl8pVxH8iW826ELCpKOgkykgoiLiOXyzv6VFqjXBIsN3TSw1ukaSxT8_d7RKlXQIwFORRrey0xngyqmprhAT-q9_vPv5YLnac/s1600/PB168745.JPG",
+        "filename": "PB168745.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6nElj08oV3Y6FG5iVzU2u1RiWGCL-47rm7sKbbLcUooRl8pVxH8iW826ELCpKOgkykgoiLiOXyzv6VFqjXBIsN3TSw1ukaSxT8_d7RKlXQIwFORRrey0xngyqmprhAT-q9_vPv5YLnac/s1600/PB168745.JPG",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Pán Martin Olšovský ukazuje svoju knihu Po stopách predkov, ktorá u prítomných vzbudila veľký záujem"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPVCDqC47dnHv3FMakdob2cjZFBc_KZ_QevmR0poxjyy8Qu9nNuPzG7M4qpqisR9FFCbDq-dU0K7pWKdqkVw_Y6UnNBNl7ruc4w2tb5Ix1vSTOVsf-M4FYFZGkPyo5afcP-z294LMFlp8/s0/PB168752.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPVCDqC47dnHv3FMakdob2cjZFBc_KZ_QevmR0poxjyy8Qu9nNuPzG7M4qpqisR9FFCbDq-dU0K7pWKdqkVw_Y6UnNBNl7ruc4w2tb5Ix1vSTOVsf-M4FYFZGkPyo5afcP-z294LMFlp8/s1600/PB168752.JPG",
+        "filename": "PB168752.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPVCDqC47dnHv3FMakdob2cjZFBc_KZ_QevmR0poxjyy8Qu9nNuPzG7M4qpqisR9FFCbDq-dU0K7pWKdqkVw_Y6UnNBNl7ruc4w2tb5Ix1vSTOVsf-M4FYFZGkPyo5afcP-z294LMFlp8/s1600/PB168752.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLfEQ5R8OOJldgfEmF72UGEB22KwAXuMx6PhiAkCdvxxJ7Wzd5yaXSd-uvo6I3SsAVUIz9RvAsoa381YZ_bHQ59dZsujJAcQAuWkBWGSYuWaCG5wvRmLxOlIJVPqfx-wXoqcJmYwKomOY/s0/PB168773.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLfEQ5R8OOJldgfEmF72UGEB22KwAXuMx6PhiAkCdvxxJ7Wzd5yaXSd-uvo6I3SsAVUIz9RvAsoa381YZ_bHQ59dZsujJAcQAuWkBWGSYuWaCG5wvRmLxOlIJVPqfx-wXoqcJmYwKomOY/s1600/PB168773.JPG",
+        "filename": "PB168773.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLfEQ5R8OOJldgfEmF72UGEB22KwAXuMx6PhiAkCdvxxJ7Wzd5yaXSd-uvo6I3SsAVUIz9RvAsoa381YZ_bHQ59dZsujJAcQAuWkBWGSYuWaCG5wvRmLxOlIJVPqfx-wXoqcJmYwKomOY/s1600/PB168773.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Na Skale. V pozadí val a za ním kaplnka"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZVnvSH1EBdBLnU-Rdv5BtF_WMs1nqyUPt_k3_epcnDum9WNW3eblfknJHbQoqpJiDhya-TM53PR6KbHrzweXFPmoCo3Hk8ptI4oKAO3nw5SxpR-vReAf3sQkOtCoTeE3Ysx7jvqvmOyc/s0/581510_757835987566486_697548906_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZVnvSH1EBdBLnU-Rdv5BtF_WMs1nqyUPt_k3_epcnDum9WNW3eblfknJHbQoqpJiDhya-TM53PR6KbHrzweXFPmoCo3Hk8ptI4oKAO3nw5SxpR-vReAf3sQkOtCoTeE3Ysx7jvqvmOyc/s1600/581510_757835987566486_697548906_n.jpg",
+        "filename": "581510_757835987566486_697548906_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZVnvSH1EBdBLnU-Rdv5BtF_WMs1nqyUPt_k3_epcnDum9WNW3eblfknJHbQoqpJiDhya-TM53PR6KbHrzweXFPmoCo3Hk8ptI4oKAO3nw5SxpR-vReAf3sQkOtCoTeE3Ysx7jvqvmOyc/s1600/581510_757835987566486_697548906_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 179,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq9yPSHXsY1xGVzuUoKoVD-1vEfn8CP4Wl-8wM9S-ARxDNgxLuxMPIWDCF819DMQvopWDLTJEZLq5v645eLYqMuOKtVT2GxLSmP8AL9Tq5mKiD0Mdbb-0gexdlJQREsO4un8jbCJMTch0/s0/1424361_757835444233207_2101062491_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq9yPSHXsY1xGVzuUoKoVD-1vEfn8CP4Wl-8wM9S-ARxDNgxLuxMPIWDCF819DMQvopWDLTJEZLq5v645eLYqMuOKtVT2GxLSmP8AL9Tq5mKiD0Mdbb-0gexdlJQREsO4un8jbCJMTch0/s1600/1424361_757835444233207_2101062491_n.jpg",
+        "filename": "1424361_757835444233207_2101062491_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq9yPSHXsY1xGVzuUoKoVD-1vEfn8CP4Wl-8wM9S-ARxDNgxLuxMPIWDCF819DMQvopWDLTJEZLq5v645eLYqMuOKtVT2GxLSmP8AL9Tq5mKiD0Mdbb-0gexdlJQREsO4un8jbCJMTch0/s1600/1424361_757835444233207_2101062491_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 179,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi-U7VJYwd7mVqSEZuMqHQ81Qg-JWZYO7_lR3-c-oiZh5-IYJL2cNtZuXZh2UhY-pOAJmnSdgbk5Z0mKj9QhgWE8rwoSXj2Bj2unOf6F4OM3SwlbS_OxBJMlLINaaDZec_Xa6gkAGf_oU/s0/IMG_4500.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi-U7VJYwd7mVqSEZuMqHQ81Qg-JWZYO7_lR3-c-oiZh5-IYJL2cNtZuXZh2UhY-pOAJmnSdgbk5Z0mKj9QhgWE8rwoSXj2Bj2unOf6F4OM3SwlbS_OxBJMlLINaaDZec_Xa6gkAGf_oU/s1600/IMG_4500.JPG",
+        "filename": "IMG_4500.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi-U7VJYwd7mVqSEZuMqHQ81Qg-JWZYO7_lR3-c-oiZh5-IYJL2cNtZuXZh2UhY-pOAJmnSdgbk5Z0mKj9QhgWE8rwoSXj2Bj2unOf6F4OM3SwlbS_OxBJMlLINaaDZec_Xa6gkAGf_oU/s1600/IMG_4500.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK4R9tJE8xSO-Jnfee8s38yZNDHXh6f7YVOnL1GZyVZU11T30nDolTXUHqJVnr9XWIV68TY9ERornOuyvkj_YbSd7NaybHR3QeDTnTxwRKP4VNjKp2hwbypqKd9lCiaF4Y8XJ6UDaWI0s/s0/1425430_597940790266469_508664285_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK4R9tJE8xSO-Jnfee8s38yZNDHXh6f7YVOnL1GZyVZU11T30nDolTXUHqJVnr9XWIV68TY9ERornOuyvkj_YbSd7NaybHR3QeDTnTxwRKP4VNjKp2hwbypqKd9lCiaF4Y8XJ6UDaWI0s/s1600/1425430_597940790266469_508664285_o.jpg",
+        "filename": "1425430_597940790266469_508664285_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK4R9tJE8xSO-Jnfee8s38yZNDHXh6f7YVOnL1GZyVZU11T30nDolTXUHqJVnr9XWIV68TY9ERornOuyvkj_YbSd7NaybHR3QeDTnTxwRKP4VNjKp2hwbypqKd9lCiaF4Y8XJ6UDaWI0s/s1600/1425430_597940790266469_508664285_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFYPDAksqf7fWSxCga_JEuzGGCC0ZaLkBsxeyfXi0rw_4r9cy18SVkUpY8ZoiA4OzTg7cR4VF_W6vBW2bhYE8RxeTR5vgMSTYfbsrnlX9kUbuRK9VfrNB9NBbGkEPAPR3hPyNjW4QI3Q4/s0/1401741_597941020266446_1027609304_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFYPDAksqf7fWSxCga_JEuzGGCC0ZaLkBsxeyfXi0rw_4r9cy18SVkUpY8ZoiA4OzTg7cR4VF_W6vBW2bhYE8RxeTR5vgMSTYfbsrnlX9kUbuRK9VfrNB9NBbGkEPAPR3hPyNjW4QI3Q4/s1600/1401741_597941020266446_1027609304_o.jpg",
+        "filename": "1401741_597941020266446_1027609304_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFYPDAksqf7fWSxCga_JEuzGGCC0ZaLkBsxeyfXi0rw_4r9cy18SVkUpY8ZoiA4OzTg7cR4VF_W6vBW2bhYE8RxeTR5vgMSTYfbsrnlX9kUbuRK9VfrNB9NBbGkEPAPR3hPyNjW4QI3Q4/s1600/1401741_597941020266446_1027609304_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Umiestnenie tabule v rámci oddychovej zóny"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidebYd5oKSxKgR6epg7ipWCn_T6_dbVLn09eQUp3KxUfRjNM3b-EhMASSiEaJt_R0QPaHH_Ut0NI2plSaoaQqblVxjV2KyxkLEoCq625U4G64W83aQjgE2O_RLpevBYZoSLhyphenhyphennGuo9xlg/s0/IMG_4490.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidebYd5oKSxKgR6epg7ipWCn_T6_dbVLn09eQUp3KxUfRjNM3b-EhMASSiEaJt_R0QPaHH_Ut0NI2plSaoaQqblVxjV2KyxkLEoCq625U4G64W83aQjgE2O_RLpevBYZoSLhyphenhyphennGuo9xlg/s1600/IMG_4490.JPG",
+        "filename": "IMG_4490.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidebYd5oKSxKgR6epg7ipWCn_T6_dbVLn09eQUp3KxUfRjNM3b-EhMASSiEaJt_R0QPaHH_Ut0NI2plSaoaQqblVxjV2KyxkLEoCq625U4G64W83aQjgE2O_RLpevBYZoSLhyphenhyphennGuo9xlg/s1600/IMG_4490.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Skala"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuWVUBJ64dmf2Me3rORO9IS7HzkeOZfFurWIGg_dXppW3OP2sA64bfW450-Ho3GsV9k_eeytgZ4yirBIjChZe-TYxRvkt9m6dgmaJZZE-yH-Del7jnqE3XeBwf1AzbeaEWNqltQCafeM0/s0/IMG_4496.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuWVUBJ64dmf2Me3rORO9IS7HzkeOZfFurWIGg_dXppW3OP2sA64bfW450-Ho3GsV9k_eeytgZ4yirBIjChZe-TYxRvkt9m6dgmaJZZE-yH-Del7jnqE3XeBwf1AzbeaEWNqltQCafeM0/s1600/IMG_4496.JPG",
+        "filename": "IMG_4496.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuWVUBJ64dmf2Me3rORO9IS7HzkeOZfFurWIGg_dXppW3OP2sA64bfW450-Ho3GsV9k_eeytgZ4yirBIjChZe-TYxRvkt9m6dgmaJZZE-yH-Del7jnqE3XeBwf1AzbeaEWNqltQCafeM0/s1600/IMG_4496.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "Hrádek"
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Aktivita",
+        "value": "info tabuľa pri hrádkoch v Hatnom (Hatňanská Skala a Hrádek)"
+      },
+      {
+        "label": "Dátum",
+        "value": "16. 11. 2013"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "2013",
+        "title": "Tabuľa Hatné",
+        "description": "Uzavretie „tabuľovej sezóny\" 2013; odborná kontrola J. Moravčík."
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dňa 16. 11. 2013, v slnečnú jesennú sobotu, naše "
+              },
+              {
+                "type": "link",
+                "url": "http://hradiska333.blogspot.sk/",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Občianske združenie Hradiská"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " podniklo ďalšiu akciu - osadenie informačnej tabule pri hrádkoch v Hatnom (Hatňanská Skala a Hrádek)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Text informačnej tabule nám po odbornej stránke skontroloval pán Mgr. Jozef Moravčík, ktorý pôsobil niekoľko desaťročí ako archeológ žilinského múzea a ktorý aj v marikovskej doline vykonal v minulosti množstvo archeologických výskumov.\n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Počasie nám (ako aj v predchádzajúce akcie) opäť prialo. Naše pozvanie zúčastniť sa na odhalení tabule prijala pani "
+              },
+              {
+                "type": "text",
+                "text": "starostka obce Hatné, Mgr. Iveta Žilovcová.",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " Ďalšími vzácnymi hosťami boli páni "
+              },
+              {
+                "type": "text",
+                "text": "Mgr. Jozef Moravčík",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " a členovia jeho niekdajšieho archeologického krúžku "
+              },
+              {
+                "type": "text",
+                "text": "Martin Olšovský, Dr. Stanislav Miko a Gašpar Zemančík",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". Pán Štefan Meliš a Ladislav Janech museli pre zdravotné problémy účasť odrieknuť, aj keď len veľmi neradi. Okrem nich prišli zástupcovia Matice Slovenskej a viacero …ktorým nie je ich história ľahostajná.\n \n Pani starostka nám vyšla veľmi v ústrety jednak tým že spolu s "
+              },
+              {
+                "type": "text",
+                "text": "Maticou Slovenskou",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": " sa (za obec) podieľa na financovaní tabule a jednak s technickým zabezpečením osadenia tabule v priestoroch novej oddychovej zóny v Hatnom, ktorá leží práve medzi obidvomi hrádkami. Za spoluprácu a ústretovosť jej patrí veľká vďaka."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAAbd0bYoD8gP5rgI1f_S2Ar4ZZ_FrV00BrJi4o2LFgunYL5l-E9QLdmHPORS1LRhAl6wZjDdDcsFVluUesMkmAVcvzT3PiC6AzwnTCS7IQERhrgwbpJTO3ZtEKUg19MweUSmGr_Y6Gho/s0/IMG_4468.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAAbd0bYoD8gP5rgI1f_S2Ar4ZZ_FrV00BrJi4o2LFgunYL5l-E9QLdmHPORS1LRhAl6wZjDdDcsFVluUesMkmAVcvzT3PiC6AzwnTCS7IQERhrgwbpJTO3ZtEKUg19MweUSmGr_Y6Gho/s1600/IMG_4468.JPG",
+          "filename": "IMG_4468.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAAbd0bYoD8gP5rgI1f_S2Ar4ZZ_FrV00BrJi4o2LFgunYL5l-E9QLdmHPORS1LRhAl6wZjDdDcsFVluUesMkmAVcvzT3PiC6AzwnTCS7IQERhrgwbpJTO3ZtEKUg19MweUSmGr_Y6Gho/s1600/IMG_4468.JPG",
+            "displayedWidth": 213,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Náš alchymista mieša tajné čarodejnícke prísady, ktoré odoženú vandalov od snahy poškodiť tabuľu",
+        "caption": "Náš alchymista mieša tajné čarodejnícke prísady, ktoré odoženú vandalov od snahy poškodiť tabuľu",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pri slávnostnom odhalení tabule nám pútavým spôsobom dejiny oboch hrádkov priblížil samotný pán Moravčík a príhovor mala aj pani starostka obce Hatné. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potom sme sa - posilnení dobrým pocitom z vykonanej práce a staroslovanskou medovinou - spoločne vybrali do terénu - navštíviť oba hrádky. \n \n \n "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tým sme uzavreli \"tabuľovú sezónu\" pre rok 2013 a už teraz sa tešíme na budúci rok, v ktorom už máme dohodnuté a predkonzultované ďalšie 4 tabule. Ak máte záujem, aby sme aj vo Vašom meste/obci v ktorom sa nachádza hradisko (najlepšie také, ktoré máme už na stránke), a ste ochotní pomôcť nám s organizáciou (najmä so zabezpečením súhlasu vlastníkov pozemku a financií od sponzorov, či obecných úradov), ozvite sa nám. \n \n Autori fotografií:\n Dr. Stanislav Miko\n Sammi\n Stanka\n Orgoň"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

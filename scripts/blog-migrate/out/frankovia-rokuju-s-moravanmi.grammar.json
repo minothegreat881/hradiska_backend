@@ -1,0 +1,24 @@
+{
+ "changes": [
+  {
+   "before": "Diplomacia existuje prinajmenšom od vtedy",
+   "after": "Diplomacia existuje prinajmenšom odvtedy",
+   "rule": "A8 pravopis (odvtedy)"
+  },
+  {
+   "before": "s celým vtedy známym svetom - so štátom Chetitov",
+   "after": "…svetom — so štátom Chetitov",
+   "rule": "B pomlčka"
+  },
+  {
+   "before": "Už  popisuje známu scénu, kde vyslanci kráľa Dagoberta",
+   "after": "Už Fredegarova kronika opisuje známu scénu, kde vyslanci kráľa Dagoberta",
+   "rule": "B dvojitá medzera + doplnený prameň + A7 popisuje→opisuje (pozri FLAG)"
+  },
+  {
+   "before": "\"urovnať\" spor so Samovou ríšov",
+   "after": "„urovnať\" spor so Samovou ríšou",
+   "rule": "B úvodzovky + A8 preklep (ríšov→ríšou)"
+  }
+ ]
+}

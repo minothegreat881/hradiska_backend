@@ -1,0 +1,546 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\turcianska-blatnica-plesovica.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-664489922653521751",
+    "bloggerPostUrl": "http://www.hradiska.sk/2019/07/turcianska-blatnica-plesovica.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/664489922653521751/comments/default",
+    "extractedAt": "2026-07-21T14:07:34.267Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 1,
+      "mapIframeSrcs": [
+        "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5743.1789846411!2d18.933926148827922!3d48.93648935690855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ssk!2ssk!4v1564320461138!5m2!1ssk!2ssk"
+      ],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.blogger.com/video.g?token=AD6v5dwKku92w0JEV6nYUcer2jgW0sHYk39sXRX8N04DP0bYqAbTDb7lCnsdd9vpKsEb6GcpQj8pvSEc2f1roQKMTQ"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 12,
+      "captionedImages": 5,
+      "separatorImages": 7
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Turčianska Blatnica – Plešovica ",
+    "slug": "turcianska-blatnica-plesovica",
+    "excerpt": "Nad obcou Blatnica v Turci sa ťahá smerom od juhozápadu na severovýchod asi 1,5 km dlhý horský chrbát, zvaný Plešovica. Na východe s ním susedí Gaderská dolina, na juhu a západe Blatnica, na severe je oddelený úzkym a hlbokým sedlom od hlavného…",
+    "authorName": "Orgon",
+    "publishedAt": "2019-07-28T15:37:00.000+02:00",
+    "originalPublishedDate": "2019-07-28T15:37:00.000+02:00",
+    "updatedAt": "2019-07-30T14:48:07.273+02:00",
+    "readingTime": 5,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1VPdAojpAiPxj0-LCKUeOFCt4WJZsqROeXjlcCwcLKQRaI8tDrvpImj8qKFxYWYuvD8EtFT6RFVezbEEDZk6mluuBHIdwVr_Sc1GgpdhwRkfqBfcUK5vz1hSP01jO5enNJZzLf_h-YsX/s0/Mapka+Pieta.JPG",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1VPdAojpAiPxj0-LCKUeOFCt4WJZsqROeXjlcCwcLKQRaI8tDrvpImj8qKFxYWYuvD8EtFT6RFVezbEEDZk6mluuBHIdwVr_Sc1GgpdhwRkfqBfcUK5vz1hSP01jO5enNJZzLf_h-YsX/s1600/Mapka+Pieta.JPG",
+      "filename": "Mapka+Pieta.JPG",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1VPdAojpAiPxj0-LCKUeOFCt4WJZsqROeXjlcCwcLKQRaI8tDrvpImj8qKFxYWYuvD8EtFT6RFVezbEEDZk6mluuBHIdwVr_Sc1GgpdhwRkfqBfcUK5vz1hSP01jO5enNJZzLf_h-YsX/s1600/Mapka+Pieta.JPG",
+        "displayedWidth": 320,
+        "displayedHeight": 223,
+        "originalWidth": 1082,
+        "originalHeight": 757
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1VPdAojpAiPxj0-LCKUeOFCt4WJZsqROeXjlcCwcLKQRaI8tDrvpImj8qKFxYWYuvD8EtFT6RFVezbEEDZk6mluuBHIdwVr_Sc1GgpdhwRkfqBfcUK5vz1hSP01jO5enNJZzLf_h-YsX/s0/Mapka+Pieta.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1VPdAojpAiPxj0-LCKUeOFCt4WJZsqROeXjlcCwcLKQRaI8tDrvpImj8qKFxYWYuvD8EtFT6RFVezbEEDZk6mluuBHIdwVr_Sc1GgpdhwRkfqBfcUK5vz1hSP01jO5enNJZzLf_h-YsX/s1600/Mapka+Pieta.JPG",
+        "filename": "Mapka+Pieta.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1VPdAojpAiPxj0-LCKUeOFCt4WJZsqROeXjlcCwcLKQRaI8tDrvpImj8qKFxYWYuvD8EtFT6RFVezbEEDZk6mluuBHIdwVr_Sc1GgpdhwRkfqBfcUK5vz1hSP01jO5enNJZzLf_h-YsX/s1600/Mapka+Pieta.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 223,
+          "originalWidth": 1082,
+          "originalHeight": 757
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRV9VTsPuLzkEpQHBdyHWcX55aZKJXL4o2b8CP6XBk_bCG9iZ28CZ71AlGjugU6RSMX2lzpsCNYKsJ7MxjvshGGpX3TPxC7cgM2RjIaLKkACjA1gUy0SreLBw2Qqjz_IIbtW2OR3EHJ-XC/s0/Spony.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRV9VTsPuLzkEpQHBdyHWcX55aZKJXL4o2b8CP6XBk_bCG9iZ28CZ71AlGjugU6RSMX2lzpsCNYKsJ7MxjvshGGpX3TPxC7cgM2RjIaLKkACjA1gUy0SreLBw2Qqjz_IIbtW2OR3EHJ-XC/s1600/Spony.jpg",
+        "filename": "Spony.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRV9VTsPuLzkEpQHBdyHWcX55aZKJXL4o2b8CP6XBk_bCG9iZ28CZ71AlGjugU6RSMX2lzpsCNYKsJ7MxjvshGGpX3TPxC7cgM2RjIaLKkACjA1gUy0SreLBw2Qqjz_IIbtW2OR3EHJ-XC/s1600/Spony.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 131,
+          "originalWidth": 1047,
+          "originalHeight": 429
+        },
+        "caption": "Laténske spony z hradiska"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihstAhtyVcj3RqhgDBPN3A9ZwStNC1Zy9HBs7Kau-Ourstd03LPcFJD-T7ZQIUwPa0-2ITGfz_HetJyncLBOOirusDMe4nLxZ8U4-fGTSZoc0tBMB-hM3Df5KxKUkwE2ky7qEvU-7kvFhO/s0/17635217_10213019595584905_5426027444430548879_o.jpeg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihstAhtyVcj3RqhgDBPN3A9ZwStNC1Zy9HBs7Kau-Ourstd03LPcFJD-T7ZQIUwPa0-2ITGfz_HetJyncLBOOirusDMe4nLxZ8U4-fGTSZoc0tBMB-hM3Df5KxKUkwE2ky7qEvU-7kvFhO/s1600/17635217_10213019595584905_5426027444430548879_o.jpeg",
+        "filename": "17635217_10213019595584905_5426027444430548879_o.jpeg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihstAhtyVcj3RqhgDBPN3A9ZwStNC1Zy9HBs7Kau-Ourstd03LPcFJD-T7ZQIUwPa0-2ITGfz_HetJyncLBOOirusDMe4nLxZ8U4-fGTSZoc0tBMB-hM3Df5KxKUkwE2ky7qEvU-7kvFhO/s1600/17635217_10213019595584905_5426027444430548879_o.jpeg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": 640,
+          "originalHeight": 960
+        },
+        "caption": "Zrejme najslávnejší slovanský meč pochádza z Blatnice"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubiWiE3uD58f448U95J0XWYy3Ofyhyphenhyphenovi8e4Rg6aRRcenw0ZHZxLX3QVD_OvZLImFLhtU99-OOqI3qy9X-D4JIwfA4wr0fz7T_i7biVvaugwguaQYTA45H_dxCqgq9GJBBG9mcdux_E57/s0/P5120003.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubiWiE3uD58f448U95J0XWYy3Ofyhyphenhyphenovi8e4Rg6aRRcenw0ZHZxLX3QVD_OvZLImFLhtU99-OOqI3qy9X-D4JIwfA4wr0fz7T_i7biVvaugwguaQYTA45H_dxCqgq9GJBBG9mcdux_E57/s1600/P5120003.JPG",
+        "filename": "P5120003.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubiWiE3uD58f448U95J0XWYy3Ofyhyphenhyphenovi8e4Rg6aRRcenw0ZHZxLX3QVD_OvZLImFLhtU99-OOqI3qy9X-D4JIwfA4wr0fz7T_i7biVvaugwguaQYTA45H_dxCqgq9GJBBG9mcdux_E57/s1600/P5120003.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Reťaz z pošvy keltského meča"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVcKHGZscnvA8W4KtYk7e7U_RWdxTt1wyfo-hGj29gzUS6Izd5faF4dWctd0hOfaECBZxBg9nhx-qLBr291Bc-R26ZOea3JnMx8tIGHR7DKJcpc6EyNRoXx8aUXx1BwNbpvDuQtDkzGer/s0/P5120005.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVcKHGZscnvA8W4KtYk7e7U_RWdxTt1wyfo-hGj29gzUS6Izd5faF4dWctd0hOfaECBZxBg9nhx-qLBr291Bc-R26ZOea3JnMx8tIGHR7DKJcpc6EyNRoXx8aUXx1BwNbpvDuQtDkzGer/s1600/P5120005.JPG",
+        "filename": "P5120005.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVcKHGZscnvA8W4KtYk7e7U_RWdxTt1wyfo-hGj29gzUS6Izd5faF4dWctd0hOfaECBZxBg9nhx-qLBr291Bc-R26ZOea3JnMx8tIGHR7DKJcpc6EyNRoXx8aUXx1BwNbpvDuQtDkzGer/s1600/P5120005.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": 192,
+          "originalWidth": 1600,
+          "originalHeight": 964
+        },
+        "caption": "Keltský meč v pošve z Blatnice"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYzigUIe_YXY14pqZ7NHOumr-Im6-w0DYaRnYNtiiY0fdQjC2MCC6bZ6N1K66H_8IAU5xNVqDzpWsy5FuuxZjeWP1BA8Y9LDYLfae18mBffV0rhIKygwboXEfJHU6GpM7CMpxMhjffM-lP/s0/naramky.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYzigUIe_YXY14pqZ7NHOumr-Im6-w0DYaRnYNtiiY0fdQjC2MCC6bZ6N1K66H_8IAU5xNVqDzpWsy5FuuxZjeWP1BA8Y9LDYLfae18mBffV0rhIKygwboXEfJHU6GpM7CMpxMhjffM-lP/s1600/naramky.jpg",
+        "filename": "naramky.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYzigUIe_YXY14pqZ7NHOumr-Im6-w0DYaRnYNtiiY0fdQjC2MCC6bZ6N1K66H_8IAU5xNVqDzpWsy5FuuxZjeWP1BA8Y9LDYLfae18mBffV0rhIKygwboXEfJHU6GpM7CMpxMhjffM-lP/s1600/naramky.jpg",
+          "displayedWidth": 222,
+          "displayedHeight": 320,
+          "originalWidth": 579,
+          "originalHeight": 832
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv-DnyFQoOq9a6YNqx-hGPY1m0V5As9BTk1QuQxKCOCUB36keA480S-XPjvR8bc7jN_auYMS6hy5sx9rCDth8lwK5_GIVV-QMGr_zxO9d7Kzliml3VTX4bEBtirqmbVRbPxJ33dCzQPVwb/s0/BL05015.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv-DnyFQoOq9a6YNqx-hGPY1m0V5As9BTk1QuQxKCOCUB36keA480S-XPjvR8bc7jN_auYMS6hy5sx9rCDth8lwK5_GIVV-QMGr_zxO9d7Kzliml3VTX4bEBtirqmbVRbPxJ33dCzQPVwb/s1600/BL05015.jpg",
+        "filename": "BL05015.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv-DnyFQoOq9a6YNqx-hGPY1m0V5As9BTk1QuQxKCOCUB36keA480S-XPjvR8bc7jN_auYMS6hy5sx9rCDth8lwK5_GIVV-QMGr_zxO9d7Kzliml3VTX4bEBtirqmbVRbPxJ33dCzQPVwb/s1600/BL05015.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 239,
+          "originalWidth": 595,
+          "originalHeight": 446
+        },
+        "caption": "kresba slovanskeho depotu z Blatnice"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfM1QbggKTQpS3UB4NTcdmIQqHqeEXheacU-Rl4wqezkRWXYD20qkhrzvORXAKm1L7fSRKySBlK4FNOgLVpV919UVUW4IUCwvnhX1MdNATWdHIQm0ltJqFeCyQLfnKyC5YMlLg6ch-f8O/s0/67228960_10211916836155116_1417422147793453056_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfM1QbggKTQpS3UB4NTcdmIQqHqeEXheacU-Rl4wqezkRWXYD20qkhrzvORXAKm1L7fSRKySBlK4FNOgLVpV919UVUW4IUCwvnhX1MdNATWdHIQm0ltJqFeCyQLfnKyC5YMlLg6ch-f8O/s1600/67228960_10211916836155116_1417422147793453056_o.jpg",
+        "filename": "67228960_10211916836155116_1417422147793453056_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfM1QbggKTQpS3UB4NTcdmIQqHqeEXheacU-Rl4wqezkRWXYD20qkhrzvORXAKm1L7fSRKySBlK4FNOgLVpV919UVUW4IUCwvnhX1MdNATWdHIQm0ltJqFeCyQLfnKyC5YMlLg6ch-f8O/s1600/67228960_10211916836155116_1417422147793453056_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 147,
+          "originalWidth": 1600,
+          "originalHeight": 736
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPEhWVWwD09RolEwUSCLzlhEjBZ3WrhCuZ62Q2p83hnsPEUgLr8MXmj9wVNGrQWRM-7jPDlx9WgRveJKeXT9AtVxIiX-6jNe46Dk-sTM4uitPDbf2AvyBPEHBDtVp_0hgaLSZwKwdol32U/s0/64324248_10211916837395147_1900115582112497664_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPEhWVWwD09RolEwUSCLzlhEjBZ3WrhCuZ62Q2p83hnsPEUgLr8MXmj9wVNGrQWRM-7jPDlx9WgRveJKeXT9AtVxIiX-6jNe46Dk-sTM4uitPDbf2AvyBPEHBDtVp_0hgaLSZwKwdol32U/s1600/64324248_10211916837395147_1900115582112497664_o.jpg",
+        "filename": "64324248_10211916837395147_1900115582112497664_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPEhWVWwD09RolEwUSCLzlhEjBZ3WrhCuZ62Q2p83hnsPEUgLr8MXmj9wVNGrQWRM-7jPDlx9WgRveJKeXT9AtVxIiX-6jNe46Dk-sTM4uitPDbf2AvyBPEHBDtVp_0hgaLSZwKwdol32U/s1600/64324248_10211916837395147_1900115582112497664_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1600,
+          "originalHeight": 902
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEishGoPypUoHANOhKF0y0apUlY6wKSpSPQMOdDQTMPgpsrrDYdSEfMF8MwJxq7MmB4hJ25c9M6ngHXwUblP-IzS5VgmdSVXS1hzIS55drxOB0RxewV_gIYtutvaCmIdS9RVKgMPQOtcuNcC/s0/67196130_10211916838315170_8432948129967374336_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEishGoPypUoHANOhKF0y0apUlY6wKSpSPQMOdDQTMPgpsrrDYdSEfMF8MwJxq7MmB4hJ25c9M6ngHXwUblP-IzS5VgmdSVXS1hzIS55drxOB0RxewV_gIYtutvaCmIdS9RVKgMPQOtcuNcC/s1600/67196130_10211916838315170_8432948129967374336_o.jpg",
+        "filename": "67196130_10211916838315170_8432948129967374336_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEishGoPypUoHANOhKF0y0apUlY6wKSpSPQMOdDQTMPgpsrrDYdSEfMF8MwJxq7MmB4hJ25c9M6ngHXwUblP-IzS5VgmdSVXS1hzIS55drxOB0RxewV_gIYtutvaCmIdS9RVKgMPQOtcuNcC/s1600/67196130_10211916838315170_8432948129967374336_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1600,
+          "originalHeight": 902
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNyUJn59rsJWVdindTLgkLg0YZ6o-GNuNTza7Si9m5LsMdwRy8fStuOhhGckODmgmzz8AcFSjyz7sTM-wnQBvYSZhVMRuEeOubXzfrC8B_svQTgrT5uztv_66DnqhitL9rdL_rX4L84nb6/s0/67355098_10211916837835158_129283746879766528_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNyUJn59rsJWVdindTLgkLg0YZ6o-GNuNTza7Si9m5LsMdwRy8fStuOhhGckODmgmzz8AcFSjyz7sTM-wnQBvYSZhVMRuEeOubXzfrC8B_svQTgrT5uztv_66DnqhitL9rdL_rX4L84nb6/s1600/67355098_10211916837835158_129283746879766528_o.jpg",
+        "filename": "67355098_10211916837835158_129283746879766528_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNyUJn59rsJWVdindTLgkLg0YZ6o-GNuNTza7Si9m5LsMdwRy8fStuOhhGckODmgmzz8AcFSjyz7sTM-wnQBvYSZhVMRuEeOubXzfrC8B_svQTgrT5uztv_66DnqhitL9rdL_rX4L84nb6/s1600/67355098_10211916837835158_129283746879766528_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1600,
+          "originalHeight": 902
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfgCEoKTxHyFsg3g91HWXyBtKeNw_kOUn-mf9nzJaJzRrQIXxfSGv48fZfJfXSwgynfZwe4nN5cDjN1vC93BBPPqOtTTSbqTFsxAQOWH2EvR0GcxLXra2LaPCkOvh_xW_lTPjgRC0t2ZCc/s0/67654103_10211916839835208_7645721001598124032_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfgCEoKTxHyFsg3g91HWXyBtKeNw_kOUn-mf9nzJaJzRrQIXxfSGv48fZfJfXSwgynfZwe4nN5cDjN1vC93BBPPqOtTTSbqTFsxAQOWH2EvR0GcxLXra2LaPCkOvh_xW_lTPjgRC0t2ZCc/s1600/67654103_10211916839835208_7645721001598124032_o.jpg",
+        "filename": "67654103_10211916839835208_7645721001598124032_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfgCEoKTxHyFsg3g91HWXyBtKeNw_kOUn-mf9nzJaJzRrQIXxfSGv48fZfJfXSwgynfZwe4nN5cDjN1vC93BBPPqOtTTSbqTFsxAQOWH2EvR0GcxLXra2LaPCkOvh_xW_lTPjgRC0t2ZCc/s1600/67654103_10211916839835208_7645721001598124032_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1600,
+          "originalHeight": 902
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Turčianska Blatnica – Plešovica"
+    ],
+    "category": null,
+    "location": {
+      "name": "Turčianska Blatnica – Plešovica",
+      "latitude": 48.93648935690855,
+      "longitude": 18.933926148827922,
+      "region": null,
+      "country": null
+    },
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "hrebeň Plešovica, kóta 683 (nad Blatnicou, Turiec)"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "val 63 m (do 4 m), plocha ~1700 m²"
+      },
+      {
+        "label": "Charakter",
+        "value": "zrejme kultové miesto — extrémny počet hromadných nálezov"
+      },
+      {
+        "label": "Slávne nálezy",
+        "value": "prilba typu Berru (1879), slovanský meč z Blatnice"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "mladšia–neskorá doba bronzová",
+        "title": "Hromadné nálezy",
+        "description": "Depoty zbraní a šperkov na svahoch i vrchole; oravská skupina."
+      },
+      {
+        "year": "koniec halštatu – začiatok laténu",
+        "title": "Kultové praktiky",
+        "description": "Spony, depoty; nadregionálny význam."
+      },
+      {
+        "year": "mladšia doba laténska",
+        "title": "Keltské osídlenie",
+        "description": "Spony spojenej konštrukcie na vnútornej ploche."
+      },
+      {
+        "year": "2. stor. po Kr.",
+        "title": "Poloha Rémová",
+        "description": "Štítové puklice, spony, ľudské kosti — pokračovanie tradície."
+      },
+      {
+        "year": "včasný stredovek",
+        "title": "Kniežací hrob",
+        "description": "Blatnica-Sebeslavce (19. stor.) — pretrvávajúci význam."
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nad obcou Blatnica v Turci sa ťahá smerom od juhozápadu na severovýchod asi 1,5 km dlhý horský chrbát, zvaný Plešovica. Na východe s ním susedí Gaderská dolina, na juhu a západe Blatnica, na severe je oddelený úzkym a hlbokým sedlom od hlavného horského hrebeňa, na ktorého poslednom výbežku sa nachádzajú zrúcaniny Blatnického hradu.\n \n   \n \n Hradisko leží na dolnom konci Plešovice, na kóte 683. Je to podlhovastý, veľmi ostrý hrebeň, v svojom najdlhšom smere síce temer vodorovný, ale taký úzky, že je na ňom sotva miesto pre nepohodlný chodník. Na všetky strany spadá neobyčajne strmo, na východ a na juh dokonca kolmou skalou. Prístup je možný len zo sedla od Blatnického zámku. Na južnom konci sa rozširuje hrebeň trochu v malú, sklonenú plošinu. Geologicky patrí Plešovica k útvaru chočských dolomitov a vápencov. Prirodzená bezpečnosť hradiska je veľmi dokonalá. Na východnej strane, južnej a západnej bráni prístup do hradiska kolmá skala. Na strane severo-západnej a severnej je zase svah s veľkým sklonom. Iba od severo-východu sa možno do neho dostať po hrebeni. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Valové opevnenia sú prispôsobené tak, aby zamedzili prístup práve po hrebeni. Preto val, dlhý 63 m, je najmocnejší a najvyšší v časti najľahšieho prístupu. Dosahuje tam až výšky 4 m smerom navonok a 1 m smerom dovnútra. Podobné vlastnosti majú aj ostatné valy, ktoré pamätajú na možnosť, že by sa nepriateľovi, ktorý sa priblížil po hrebeni podarilo obísť prvé opevnenie. Svojou polohou sa teda prispôsobujú valy charakteru územia, čo možno vidieť najlepšie z vrstevnicového plánu. Zhotovené sú z materiálu, získaného na mieste. Hradisko má rozlohu cca 1700 m². Napriek tomu, že plocha hradiska a konfigurácia jeho vnútornej časti nie je úplne ideálna na obývanie, hradisko muselo mať v staroveku výnimočné postavenie, a to zrejme kultového charakteru.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Medzi prvými hradisko skúmal Štefan Janšák, ktorý je aj autorom prvého náčrtu opevnenia. V modernej dobe sa hradiskom zaoberali najmä archeológovia L. Veliačik a K. Pieta, avšak podrobnejší výskum sa tu zatiaľ nerealizoval. V priestore hradiska, ako aj v celom priestore hrebeňa vrchu a jeho terasovite upravených svahov na západe, severozápade i severe vrchu sa našiel veľký počet hromadných nálezov z mladšej i neskorej doby bronzovej. Podľa nezaručených údajov sa tu našli aj depoty z doby halštatskej. Aj stopy osídlenia, zistené pri prospekcii, svedčia o mimoriadne dlhodobom osídlení tejto významnej polohy. v celom priestore vrchu vrátane opevnenia, sa na jeho vrchole okrem pravekých nálezov zistila aj keramika a kovové predmety, ktoré siahajú od doby bronzovej až do začiatku sťahovania národov. Ďalej sa na Plešovici našli predmety, ktoré poukazujú na osídlenie tejto polohy koncom doby halštatskej a na začiatku doby laténskej. Zo starších i novších nálezov pochádzajú bronzy oravskej skupiny doby halštatskej. Dvojdielna bronzová spona s čiaškovitou nôžkou a dlhým vinutím patrí u nás k zriedkavým nálezom. V západohalštatskom prostredí sú tieto spony typickým predstaviteľom záverečnej fázy doby halštatskej. Výrazné zastúpenie majú nálezy z mladšej doby laténskej, nájdené na vnútornej ploche hradiska, reprezentované sponami hladkej spojenej konštrukcie so zalomeným lúčikom nad vinutím a vonkajšou tetivou.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1VPdAojpAiPxj0-LCKUeOFCt4WJZsqROeXjlcCwcLKQRaI8tDrvpImj8qKFxYWYuvD8EtFT6RFVezbEEDZk6mluuBHIdwVr_Sc1GgpdhwRkfqBfcUK5vz1hSP01jO5enNJZzLf_h-YsX/s0/Mapka+Pieta.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1VPdAojpAiPxj0-LCKUeOFCt4WJZsqROeXjlcCwcLKQRaI8tDrvpImj8qKFxYWYuvD8EtFT6RFVezbEEDZk6mluuBHIdwVr_Sc1GgpdhwRkfqBfcUK5vz1hSP01jO5enNJZzLf_h-YsX/s1600/Mapka+Pieta.JPG",
+          "filename": "Mapka+Pieta.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht1VPdAojpAiPxj0-LCKUeOFCt4WJZsqROeXjlcCwcLKQRaI8tDrvpImj8qKFxYWYuvD8EtFT6RFVezbEEDZk6mluuBHIdwVr_Sc1GgpdhwRkfqBfcUK5vz1hSP01jO5enNJZzLf_h-YsX/s1600/Mapka+Pieta.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 223,
+            "originalWidth": 1082,
+            "originalHeight": 757
+          }
+        },
+        "alt": "Turčianska Blatnica – Plešovica ",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nadregionálny význam Blatnice a samotného hradiska na Plešovici zdôrazňujú početné hromadné nálezy uložené v areáli opevnenia, ale i na rozsiahlej ploche na svahoch kopca, ktoré oprávnene evokujú kultový rozmer tohto miesta. Na výšinných polohách Stredná a rovná nie je doložené osídlenie z tejto doby. Od Blatnice necelé štyri kilometre vzdialený Červený grúň predstavoval asi satelitnú osadu s určitými refugiálnymi prvkami, ale aj stopami po remeselnej výrobe. Hradisko Blatnica-Plešovica a osady okolo neho zostali významným miestom osídlenia aj v dobe železnej, kedy sa tu podobne ako vo Folkušovej vytvorila aglomerácia lokalít. Pozostávala z hradiska a otvorených sídlisk pri jeho úpätí, ktoré boli (starou komunikáciou neznámeho datovania) prepojené s refúgiom na kopci Rovná. Na rôznych miestach sa tu našli depoty i ojedinelé nálezy z konca doby halštatskej i z včasnej a staršej doby laténskej.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRV9VTsPuLzkEpQHBdyHWcX55aZKJXL4o2b8CP6XBk_bCG9iZ28CZ71AlGjugU6RSMX2lzpsCNYKsJ7MxjvshGGpX3TPxC7cgM2RjIaLKkACjA1gUy0SreLBw2Qqjz_IIbtW2OR3EHJ-XC/s0/Spony.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRV9VTsPuLzkEpQHBdyHWcX55aZKJXL4o2b8CP6XBk_bCG9iZ28CZ71AlGjugU6RSMX2lzpsCNYKsJ7MxjvshGGpX3TPxC7cgM2RjIaLKkACjA1gUy0SreLBw2Qqjz_IIbtW2OR3EHJ-XC/s1600/Spony.jpg",
+          "filename": "Spony.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRV9VTsPuLzkEpQHBdyHWcX55aZKJXL4o2b8CP6XBk_bCG9iZ28CZ71AlGjugU6RSMX2lzpsCNYKsJ7MxjvshGGpX3TPxC7cgM2RjIaLKkACjA1gUy0SreLBw2Qqjz_IIbtW2OR3EHJ-XC/s1600/Spony.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 131,
+            "originalWidth": 1047,
+            "originalHeight": 429
+          }
+        },
+        "alt": "Laténske spony z hradiska",
+        "caption": "Laténske spony z hradiska",
+        "position": "left",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Extrémny počet hromadných nálezov z mladšej a neskorej doby bronzovej, ale aj z doby halštatskej a staršej doby laténskej, podobne ako aj depozity keltských zbraní v širšom priestore Blatnice, upozorňuje na zvláštne postavenie tohto miesta v rámci okolitej krajiny počas mnohých storočí. Depoty a ojedinelé artefakty z mladšej až neskorej doby bronzovej (zbrane, šperky) sa nachádzali na takmer kilometer dlhom úseku, na svahoch i na vrchole kopca Plešovica. Z Blatnice pochádza aj rozsiahly súbor bronzov získaných v sedemdesiatych rokoch 19. stor. okrem predmetov z doby bronzovej zahŕňa aj lokálne ozdoby z doby halštatskej, ako aj predmety či depoty z včasnej až staršej doby laténskej. Rovnako datovaná bronzová keltská prilba typu Berru, ktorá sa v roku 1879 dostala taktiež do zbierok národného múzea v Budapešti, pravdepodobne pochádza z okolia Blatnice.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihstAhtyVcj3RqhgDBPN3A9ZwStNC1Zy9HBs7Kau-Ourstd03LPcFJD-T7ZQIUwPa0-2ITGfz_HetJyncLBOOirusDMe4nLxZ8U4-fGTSZoc0tBMB-hM3Df5KxKUkwE2ky7qEvU-7kvFhO/s0/17635217_10213019595584905_5426027444430548879_o.jpeg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihstAhtyVcj3RqhgDBPN3A9ZwStNC1Zy9HBs7Kau-Ourstd03LPcFJD-T7ZQIUwPa0-2ITGfz_HetJyncLBOOirusDMe4nLxZ8U4-fGTSZoc0tBMB-hM3Df5KxKUkwE2ky7qEvU-7kvFhO/s1600/17635217_10213019595584905_5426027444430548879_o.jpeg",
+          "filename": "17635217_10213019595584905_5426027444430548879_o.jpeg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihstAhtyVcj3RqhgDBPN3A9ZwStNC1Zy9HBs7Kau-Ourstd03LPcFJD-T7ZQIUwPa0-2ITGfz_HetJyncLBOOirusDMe4nLxZ8U4-fGTSZoc0tBMB-hM3Df5KxKUkwE2ky7qEvU-7kvFhO/s1600/17635217_10213019595584905_5426027444430548879_o.jpeg",
+            "displayedWidth": 213,
+            "displayedHeight": 320,
+            "originalWidth": 640,
+            "originalHeight": 960
+          }
+        },
+        "alt": "Zrejme najslávnejší slovanský meč pochádza z Blatnice",
+        "caption": "Zrejme najslávnejší slovanský meč pochádza z Blatnice",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nález laténskeho meča v pošve so závesnou reťazou v horskom teréne v Blatnici-Tisovej, ako aj nové, ešte …v polohe Rémová z neskorej doby laténskej a zo staršej doby rímskej vrátane ľudských kostí, rozširujú naše poznatky o zatiaľ nedefinovaných kultových praktikách v priestore Blatnice. Depozity zbraní z Blatnice neboli odborne zdokumentované, ale ich lokalizáciu môžeme jednoznačne pokladať za vierohodnú. Bez objektívnych nálezových okolností môžeme preto len hypoteticky uvažovať o výklade týchto pozoruhodných nálezov. V prípade zbraní z Blatnice máme najskôr do činenia s kultovými praktikami, ako boli tropheá – zasvätenia ukoristených zbraní alebo obetné dary iného účelu. Je možné, že tieto rituály nadviazali na starú, asi tisícročnú tradíciu posvätného miesta v okolí vrchu Plešovica. Deformované štítové puklice, spony a ďalšie predmety z druhej polovice 2. stor. po Kr. z Rémovej môžu byť dôkazom pokračovania tejto dlhej tradície, ktorá sa možno skončila prerušením kontinuity osídlenia horskej oblasti odsunom či odchodom púchovského obyvateľstva v tejto dobe. O pretrvávajúcom význame lokality svedčí aj známy včasnostredoveký kniežací hrob objavený v Blatnici - Sebeslavciach v 19. stor.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubiWiE3uD58f448U95J0XWYy3Ofyhyphenhyphenovi8e4Rg6aRRcenw0ZHZxLX3QVD_OvZLImFLhtU99-OOqI3qy9X-D4JIwfA4wr0fz7T_i7biVvaugwguaQYTA45H_dxCqgq9GJBBG9mcdux_E57/s0/P5120003.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubiWiE3uD58f448U95J0XWYy3Ofyhyphenhyphenovi8e4Rg6aRRcenw0ZHZxLX3QVD_OvZLImFLhtU99-OOqI3qy9X-D4JIwfA4wr0fz7T_i7biVvaugwguaQYTA45H_dxCqgq9GJBBG9mcdux_E57/s1600/P5120003.JPG",
+          "filename": "P5120003.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubiWiE3uD58f448U95J0XWYy3Ofyhyphenhyphenovi8e4Rg6aRRcenw0ZHZxLX3QVD_OvZLImFLhtU99-OOqI3qy9X-D4JIwfA4wr0fz7T_i7biVvaugwguaQYTA45H_dxCqgq9GJBBG9mcdux_E57/s1600/P5120003.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 1600,
+            "originalHeight": 1200
+          }
+        },
+        "alt": "Reťaz z pošvy keltského meča",
+        "caption": "Reťaz z pošvy keltského meča",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Fenomén uctievania božstiev v horskom prostredí, prostredníctvom ukladania celých i rituálne deformovaných predmetov na miestach, ktoré sa označujú ako prírodné svätyne, ale aj na v súčasnosti nevysvetliteľných výšinných polohách, je spoločný mnohým horstvám a viacerým obdobiam. Je doložený od staršieho praveku až takmer do súčasnosti. Tieto praktiky v podobe depozitov – obetných darov a ich umiestnenie v krajine, boli predmetom skúmania najmä v alpských krajinách.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Š. Janšák: Staré osídlenie Slovenska. In: Sbor. MSS 24, Martin 1930, 1-67. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "L. Veliačik: nové poznatky ku štruktúre hradísk lužickej kultúry na severnom Slovensku. Štud. Zvesti AÚ SAV 36, 2004, 57 – 74. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Karol Pieta: HRADISKÁ VO FOLKUŠOVEJ – NECPALOCH A BLATNICI ,Juhovýchodné prvky v púchovskej kultúre, SlovenSká archeológia lXII – 1, 2014, 125 – 165"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVcKHGZscnvA8W4KtYk7e7U_RWdxTt1wyfo-hGj29gzUS6Izd5faF4dWctd0hOfaECBZxBg9nhx-qLBr291Bc-R26ZOea3JnMx8tIGHR7DKJcpc6EyNRoXx8aUXx1BwNbpvDuQtDkzGer/s0/P5120005.JPG",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVcKHGZscnvA8W4KtYk7e7U_RWdxTt1wyfo-hGj29gzUS6Izd5faF4dWctd0hOfaECBZxBg9nhx-qLBr291Bc-R26ZOea3JnMx8tIGHR7DKJcpc6EyNRoXx8aUXx1BwNbpvDuQtDkzGer/s1600/P5120005.JPG",
+          "filename": "P5120005.JPG",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVcKHGZscnvA8W4KtYk7e7U_RWdxTt1wyfo-hGj29gzUS6Izd5faF4dWctd0hOfaECBZxBg9nhx-qLBr291Bc-R26ZOea3JnMx8tIGHR7DKJcpc6EyNRoXx8aUXx1BwNbpvDuQtDkzGer/s1600/P5120005.JPG",
+            "displayedWidth": 320,
+            "displayedHeight": 192,
+            "originalWidth": 1600,
+            "originalHeight": 964
+          }
+        },
+        "alt": "Keltský meč v pošve z Blatnice",
+        "caption": "Keltský meč v pošve z Blatnice",
+        "position": "left",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Foto (L. Šubovič):\n \n \n "
+              }
+            ],
+            "level": 2
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

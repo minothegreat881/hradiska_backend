@@ -1,0 +1,54 @@
+{
+ "changes": [
+  {
+   "before": "Prvé historicky doložené stopy Germánov, pochádzajú z 2.stor. p.n.l.",
+   "after": "…stopy Germánov pochádzajú z 2. stor. pred n. l.",
+   "rule": "A1 nadbytočná čiarka + B typografia (pred n. l.)"
+  },
+  {
+   "before": "galskými ťaženiami ( 58 – 52 pred Kr.)",
+   "after": "galskými ťaženiami (58 – 52 pred Kr.)",
+   "rule": "B typografia (medzera po zátvorke)"
+  },
+  {
+   "before": "stretnutí s Grékmi a Rímskou ríšou; Najstaršie písomné",
+   "after": "…s Rímskou ríšou; najstaršie písomné",
+   "rule": "A9 malé písmeno po bodkočiarke"
+  },
+  {
+   "before": "Germáni ako národ nepredstavoval homogénnu",
+   "after": "Germáni ako národ nepredstavovali homogénnu",
+   "rule": "A3 zhoda (Germáni plurál)"
+  },
+  {
+   "before": "datovaný do prvého až počiatku druhého storočia n.l.",
+   "after": "…druhého storočia n. l.",
+   "rule": "B typografia"
+  },
+  {
+   "before": "k najvzácnejším šperkoch svojho druhu",
+   "after": "k najvzácnejším šperkom svojho druhu",
+   "rule": "A4 pád (datív šperkom)"
+  },
+  {
+   "before": "kontroloval obchod medzi rímskou ríšou a územím",
+   "after": "…medzi Rímskou ríšou a územím",
+   "rule": "A9 vlastné meno veľkým (konzistencia)"
+  },
+  {
+   "before": "vznikla “profesia” negotiator",
+   "after": "vznikla „profesia\" negotiator",
+   "rule": "B slovenské úvodzovky"
+  },
+  {
+   "before": "negotiator argentarius vascularius ktorý predával",
+   "after": "…vascularius, ktorý predával",
+   "rule": "A1 čiarka pred vzťažným zámenom"
+  },
+  {
+   "before": "toto tvrdenie zatiaľ nieje archeologicky doložené",
+   "after": "…zatiaľ nie je archeologicky doložené",
+   "rule": "A8 pravopis (nie je)"
+  }
+ ]
+}

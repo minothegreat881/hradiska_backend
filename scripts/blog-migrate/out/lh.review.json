@@ -1,0 +1,16 @@
+{
+ "flags": [
+  {
+   "type": "TITLE_FIX",
+   "detail": "Názov je len „LH\" (s množstvom medzier) — nahradiť zmysluplným, napr. „Pozvánka na historický festival (LH)\"."
+  },
+  {
+   "type": "CZECH_VERBATIM",
+   "detail": "Telo je česká pozvánka (verbatim externý text) — SK gramatika sa NEAPLIKUJE. Zvážiť, či vôbec migrovať (krátky promo príspevok)."
+  },
+  {
+   "type": "INTRO_AS_QUOTE",
+   "detail": "Text pozvánky bol vyextrahovaný ako quote-block — nie je to dobový prameň; patrí do rich-text."
+  }
+ ]
+}

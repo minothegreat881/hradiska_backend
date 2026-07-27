@@ -1,0 +1,41 @@
+{
+  "kind": "collectionType",
+  "collectionName": "moderation_warnings",
+  "info": {
+    "singularName": "moderation-warning",
+    "pluralName": "moderation-warnings",
+    "displayName": "Moderation Warning",
+    "description": "Súkromné upozornenie správcu autorovi komentára o nedodržaní noriem blogu. Zobrazí sa v profile člena (bordová karta) a je za ním notifikácia typu `warning`."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "template": {
+      "type": "enumeration",
+      "enum": ["personal_attack", "inappropriate", "spam", "disinfo", "custom"],
+      "required": true
+    },
+    "text": {
+      "type": "text",
+      "required": true,
+      "maxLength": 2000
+    },
+    "recipient": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    },
+    "moderator": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    },
+    "comment": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::blog-comment.blog-comment"
+    }
+  }
+}

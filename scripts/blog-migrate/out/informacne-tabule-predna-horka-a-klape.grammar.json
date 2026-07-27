@@ -1,0 +1,14 @@
+{
+ "changes": [
+  {
+   "before": "30.10.2018 bol otvorený",
+   "after": "30. 10. 2018 bol otvorený",
+   "rule": "B typografia (dátum)"
+  },
+  {
+   "before": "spracovalo naše OZ Hradiská, Jedna je venovaná",
+   "after": "spracovalo naše OZ Hradiská. Jedna je venovaná",
+   "rule": "A9 veta (čiarka→bodka, veľké písmeno)"
+  }
+ ]
+}

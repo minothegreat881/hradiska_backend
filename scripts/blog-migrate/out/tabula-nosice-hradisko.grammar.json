@@ -1,0 +1,19 @@
+{
+ "changes": [
+  {
+   "before": "osadenie informačnej tabule na . Tabuľu tradične vytvorilo",
+   "after": "osadenie informačnej tabule na hradisko púchovskej kultúry v Nosiciach. Tabuľu tradične vytvorilo",
+   "rule": "B doplnené z excerptu (chýbal cieľ) + zdvojená bodka"
+  },
+  {
+   "before": "tento krát v spolupráci s , Slovenskou asociáciou",
+   "after": "tentokrát v spolupráci so Slovenskou asociáciou",
+   "rule": "A8 tentokrát + B chýbajúca medzera/čiarka"
+  },
+  {
+   "before": "Tabuľa bola samozrejme umiestnené s povolením KPU Trenčín",
+   "after": "Tabuľa bola, samozrejme, umiestnená s povolením KPÚ Trenčín",
+   "rule": "A3 zhoda (umiestnená) + A8 KPÚ + čiarky okolo vsuvky"
+  }
+ ]
+}

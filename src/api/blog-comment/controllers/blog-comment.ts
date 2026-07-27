@@ -49,6 +49,9 @@ export default factories.createCoreController(
       // Zápis cez document service, nie super.create: content-API sanitizácia
       // pri užívateľskej role odmieta reláciu `post` ako holý documentId
       // („Invalid key post"). Document service ho prijme rovnako ako token cesta.
+      // Pre-moderácia: komentáre nových/pre-moderovaných autorov idú do `waiting`
+      // a nezobrazia sa verejne, kým ich admin neschváli. Ostatní ostávajú `visible`.
+      const preMod = user.preModerated === true;
       const created = await strapi.documents('api::blog-comment.blog-comment').create({
         data: {
           authorName: user.displayName || user.username,
@@ -56,13 +59,32 @@ export default factories.createCoreController(
           content: body.content,
           post: body.post,
           inReplyTo: body.inReplyTo ?? null,
-          status: 'visible',   // zobrazí sa hneď
-          approved: true,      // dorovnané kvôli starému filtru
+          status: preMod ? 'waiting' : 'visible',
+          approved: !preMod,   // dorovnané kvôli starému filtru
           sourceBlogger: false,
           user: user.id,
         } as any,
         populate: { user: true } as any,
       });
+
+      // Notifikácia „odpoveď" autorovi rodičovského komentára (inReplyTo = jeho documentId).
+      // Neblokuje odpoveď na komentár, ak sa nedá vytvoriť.
+      if (body.inReplyTo) {
+        try {
+          const parent = await strapi.documents('api::blog-comment.blog-comment').findOne({
+            documentId: body.inReplyTo,
+            populate: { user: { fields: ['id'] }, post: { fields: ['id'] } } as any,
+          });
+          const parentUserId = (parent as any)?.user?.id;
+          if (parentUserId) {
+            await strapi.service('api::notification.notification').notify({
+              type: 'reply', recipientId: parentUserId, actorId: user.id,
+              commentId: (created as any).id, postId: (parent as any)?.post?.id ?? null,
+              text: body.content.slice(0, 300),
+            });
+          }
+        } catch { /* notifikácia je vedľajší efekt */ }
+      }
       return { data: created };
     },
 
@@ -133,6 +155,39 @@ export default factories.createCoreController(
         pagination: { pageSize: 500 } as any,
       });
       return { data: rows.map((r: any) => r.documentId) };
+    },
+
+    /**
+     * GET /blog-comments/mine-all — VŠETKY komentáre prihláseného člena (pre profil,
+     * záložka „Moje komentáre"): s článkom, počtom lajkov, stavom a počtom odpovedí.
+     */
+    async mineAll(ctx) {
+      const user = ctx.state?.user;
+      if (!user) return ctx.unauthorized();
+      const rows = await strapi.documents('api::blog-comment.blog-comment').findMany({
+        filters: { user: { id: user.id } } as any,
+        sort: { createdAt: 'desc' },
+        populate: { post: { fields: ['title', 'slug'] } } as any,
+        pagination: { pageSize: 500 } as any,
+      });
+      // počet odpovedí na každý môj komentár (inReplyTo = jeho documentId)
+      const out = [] as any[];
+      for (const c of rows) {
+        const replyCount = await strapi.documents('api::blog-comment.blog-comment').count({
+          filters: { inReplyTo: (c as any).documentId, status: { $ne: 'spam' } } as any,
+        });
+        out.push({
+          documentId: (c as any).documentId,
+          content: (c as any).content,
+          status: (c as any).status,
+          likes: (c as any).likes ?? 0,
+          replyCount,
+          editedAt: (c as any).editedAt ?? null,
+          createdAt: (c as any).createdAt,
+          post: (c as any).post ? { title: (c as any).post.title, slug: (c as any).post.slug } : null,
+        });
+      }
+      return { data: out };
     },
 
     async like(ctx) {

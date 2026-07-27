@@ -1,0 +1,675 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\trzcinica-pl.json",
+    "sourceLabel": "Trzcinica (PL)",
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-353233412350780713",
+    "bloggerPostUrl": "http://www.hradiska.sk/2015/10/trzcinica-pl.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/353233412350780713/comments/default",
+    "extractedAt": "2026-07-21T14:07:50.847Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 16,
+      "captionedImages": 0,
+      "separatorImages": 16
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Trzcinica (PL)",
+    "slug": "trzcinica-pl",
+    "excerpt": "Na vyvýšenine nad údolím riečky Ropa, asi 5 km od mesta Jaslo v karpatskej oblasti Poľska ľudia oddávna poznali miesto s vysokými násypmi, ktoré volali \"Kráľovské valy\" (obr. 1, 2).",
+    "authorName": "Orgon",
+    "publishedAt": "2015-10-02T19:06:00.002+02:00",
+    "originalPublishedDate": "2015-10-02T19:06:00.002+02:00",
+    "updatedAt": "2015-10-08T19:02:28.493+02:00",
+    "readingTime": 4,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Q9Pc3lmD8nVE9nbzABWLP-aCNGbrXX3QrMzOIQPmhEuCOUJEnrN6Io3ktUkqrspT67rZ6EWm4RHNgnmauejT9GnnyNBUbEUKXD_JvkX2S0CQ_OGtRCS_EzoYSsq-MvNOIKR3ZZ9Sr5E/s0/%25281%2529Trzcinica.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Q9Pc3lmD8nVE9nbzABWLP-aCNGbrXX3QrMzOIQPmhEuCOUJEnrN6Io3ktUkqrspT67rZ6EWm4RHNgnmauejT9GnnyNBUbEUKXD_JvkX2S0CQ_OGtRCS_EzoYSsq-MvNOIKR3ZZ9Sr5E/s1600/%25281%2529Trzcinica.jpg",
+      "filename": "%281%29Trzcinica.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Q9Pc3lmD8nVE9nbzABWLP-aCNGbrXX3QrMzOIQPmhEuCOUJEnrN6Io3ktUkqrspT67rZ6EWm4RHNgnmauejT9GnnyNBUbEUKXD_JvkX2S0CQ_OGtRCS_EzoYSsq-MvNOIKR3ZZ9Sr5E/s1600/%25281%2529Trzcinica.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 146,
+        "originalWidth": null,
+        "originalHeight": null
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Q9Pc3lmD8nVE9nbzABWLP-aCNGbrXX3QrMzOIQPmhEuCOUJEnrN6Io3ktUkqrspT67rZ6EWm4RHNgnmauejT9GnnyNBUbEUKXD_JvkX2S0CQ_OGtRCS_EzoYSsq-MvNOIKR3ZZ9Sr5E/s0/%25281%2529Trzcinica.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Q9Pc3lmD8nVE9nbzABWLP-aCNGbrXX3QrMzOIQPmhEuCOUJEnrN6Io3ktUkqrspT67rZ6EWm4RHNgnmauejT9GnnyNBUbEUKXD_JvkX2S0CQ_OGtRCS_EzoYSsq-MvNOIKR3ZZ9Sr5E/s1600/%25281%2529Trzcinica.jpg",
+        "filename": "%281%29Trzcinica.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Q9Pc3lmD8nVE9nbzABWLP-aCNGbrXX3QrMzOIQPmhEuCOUJEnrN6Io3ktUkqrspT67rZ6EWm4RHNgnmauejT9GnnyNBUbEUKXD_JvkX2S0CQ_OGtRCS_EzoYSsq-MvNOIKR3ZZ9Sr5E/s1600/%25281%2529Trzcinica.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 146,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwfXSWTfPV-EoKcKN5fz8p4cMct_akVqSYvRATPAO_37eJ1NmtUetYaDxf-2fwBX7wArzssOJxorWpAe8lqzt7cBV-QsDZK7tFriD0iBOD4ddzoFq9DE54XLUunVBaOz4y0BMGdUojP6g/s0/%25282%2529Trzcinica+003.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwfXSWTfPV-EoKcKN5fz8p4cMct_akVqSYvRATPAO_37eJ1NmtUetYaDxf-2fwBX7wArzssOJxorWpAe8lqzt7cBV-QsDZK7tFriD0iBOD4ddzoFq9DE54XLUunVBaOz4y0BMGdUojP6g/s1600/%25282%2529Trzcinica+003.jpg",
+        "filename": "%282%29Trzcinica+003.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwfXSWTfPV-EoKcKN5fz8p4cMct_akVqSYvRATPAO_37eJ1NmtUetYaDxf-2fwBX7wArzssOJxorWpAe8lqzt7cBV-QsDZK7tFriD0iBOD4ddzoFq9DE54XLUunVBaOz4y0BMGdUojP6g/s1600/%25282%2529Trzcinica+003.jpg",
+          "displayedWidth": 184,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8pugJTbZPtIHO9cUofb0HaFvwrDRvraekoKit3FZouEQlb2Df06nS2BAhUOBD9yuMs3hza28gaXuythVqUwd41xSNFtsJG9sbxyD47p_uTzS_btYzpukQgbqJFDpeoRn-Z3fNeMsBv1M/s0/%25283%2529Trzcinica+004.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8pugJTbZPtIHO9cUofb0HaFvwrDRvraekoKit3FZouEQlb2Df06nS2BAhUOBD9yuMs3hza28gaXuythVqUwd41xSNFtsJG9sbxyD47p_uTzS_btYzpukQgbqJFDpeoRn-Z3fNeMsBv1M/s1600/%25283%2529Trzcinica+004.jpg",
+        "filename": "%283%29Trzcinica+004.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8pugJTbZPtIHO9cUofb0HaFvwrDRvraekoKit3FZouEQlb2Df06nS2BAhUOBD9yuMs3hza28gaXuythVqUwd41xSNFtsJG9sbxyD47p_uTzS_btYzpukQgbqJFDpeoRn-Z3fNeMsBv1M/s1600/%25283%2529Trzcinica+004.jpg",
+          "displayedWidth": 255,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOdEZoWmv9_q9NhaoSaEyQtDefK6Yo342OvWpzjv51zRen5ouBSZF-QkBnBw2TIBmNEgNKuS3eJZ2XEUtVCbGnV9Ouaem9mE2JGsEWbjSVanaRbGj2wQk3G2NYXSkEtvWCVqE5xOVIrc/s0/%25284%2529Trzcinica+008.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOdEZoWmv9_q9NhaoSaEyQtDefK6Yo342OvWpzjv51zRen5ouBSZF-QkBnBw2TIBmNEgNKuS3eJZ2XEUtVCbGnV9Ouaem9mE2JGsEWbjSVanaRbGj2wQk3G2NYXSkEtvWCVqE5xOVIrc/s1600/%25284%2529Trzcinica+008.jpg",
+        "filename": "%284%29Trzcinica+008.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOdEZoWmv9_q9NhaoSaEyQtDefK6Yo342OvWpzjv51zRen5ouBSZF-QkBnBw2TIBmNEgNKuS3eJZ2XEUtVCbGnV9Ouaem9mE2JGsEWbjSVanaRbGj2wQk3G2NYXSkEtvWCVqE5xOVIrc/s1600/%25284%2529Trzcinica+008.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 269,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4jqTEOEZzWlHP3TlsmOnQUrbe0S5EGqhORT59-CM3-CcLwfGqtP-7k2GO9NFkxfiuCbNYnDepukysJZLru0dYVsV4_v8o8xzX5_9EoRzv53I-UCj0wpUaEdxKI8jPbLfL5u_K7tqYInQ/s0/%25285%2529Trzcinica+010.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4jqTEOEZzWlHP3TlsmOnQUrbe0S5EGqhORT59-CM3-CcLwfGqtP-7k2GO9NFkxfiuCbNYnDepukysJZLru0dYVsV4_v8o8xzX5_9EoRzv53I-UCj0wpUaEdxKI8jPbLfL5u_K7tqYInQ/s1600/%25285%2529Trzcinica+010.jpg",
+        "filename": "%285%29Trzcinica+010.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4jqTEOEZzWlHP3TlsmOnQUrbe0S5EGqhORT59-CM3-CcLwfGqtP-7k2GO9NFkxfiuCbNYnDepukysJZLru0dYVsV4_v8o8xzX5_9EoRzv53I-UCj0wpUaEdxKI8jPbLfL5u_K7tqYInQ/s1600/%25285%2529Trzcinica+010.jpg",
+          "displayedWidth": 205,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk0K17BVNhYDOEGDdd4QJihtIosdM38omGF6dc-F2xc8CmgtWsr7YRpE-61PYD8vRAO1V1ZmUw_k-ZCf8cCJlFYdPNw8Jj7pTVpbNHUorFzPFkHYZCbJljcxulcZ-bvYpg2vJsHVP0SJU/s0/%25286%2529Trzcinica+012.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk0K17BVNhYDOEGDdd4QJihtIosdM38omGF6dc-F2xc8CmgtWsr7YRpE-61PYD8vRAO1V1ZmUw_k-ZCf8cCJlFYdPNw8Jj7pTVpbNHUorFzPFkHYZCbJljcxulcZ-bvYpg2vJsHVP0SJU/s1600/%25286%2529Trzcinica+012.jpg",
+        "filename": "%286%29Trzcinica+012.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk0K17BVNhYDOEGDdd4QJihtIosdM38omGF6dc-F2xc8CmgtWsr7YRpE-61PYD8vRAO1V1ZmUw_k-ZCf8cCJlFYdPNw8Jj7pTVpbNHUorFzPFkHYZCbJljcxulcZ-bvYpg2vJsHVP0SJU/s1600/%25286%2529Trzcinica+012.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 283,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzbR2AgCXVJhzPbPoI92LzjwzOaBX1hBYyoHyarQz4q6aTHoKTjQFu3Xld3YK1a9iR0uKaSW0TD5oPimnUDTHAnd6eW4qpuM3rLIrUe4u29-qTWuvkGTAM5xkY-mtWRvMtICBJXl64fHo/s0/%25287%2529Trzcinica+017.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzbR2AgCXVJhzPbPoI92LzjwzOaBX1hBYyoHyarQz4q6aTHoKTjQFu3Xld3YK1a9iR0uKaSW0TD5oPimnUDTHAnd6eW4qpuM3rLIrUe4u29-qTWuvkGTAM5xkY-mtWRvMtICBJXl64fHo/s1600/%25287%2529Trzcinica+017.jpg",
+        "filename": "%287%29Trzcinica+017.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzbR2AgCXVJhzPbPoI92LzjwzOaBX1hBYyoHyarQz4q6aTHoKTjQFu3Xld3YK1a9iR0uKaSW0TD5oPimnUDTHAnd6eW4qpuM3rLIrUe4u29-qTWuvkGTAM5xkY-mtWRvMtICBJXl64fHo/s1600/%25287%2529Trzcinica+017.jpg",
+          "displayedWidth": 249,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAMgGEg69OZKDMei5GukZVtpmzVE2M2uWI2qvvriFIEoZuxeRtjMkLGL1ZU-kguXzGkNb2vBIWVV-_A1tWRqxbyqAq7wJjhudWFsiJ7Ai6nwNkrVeTZi_uAYXma2pP8DdHmdUaUS6woP8/s0/%25288%2529Trzcinica+029.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAMgGEg69OZKDMei5GukZVtpmzVE2M2uWI2qvvriFIEoZuxeRtjMkLGL1ZU-kguXzGkNb2vBIWVV-_A1tWRqxbyqAq7wJjhudWFsiJ7Ai6nwNkrVeTZi_uAYXma2pP8DdHmdUaUS6woP8/s1600/%25288%2529Trzcinica+029.jpg",
+        "filename": "%288%29Trzcinica+029.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAMgGEg69OZKDMei5GukZVtpmzVE2M2uWI2qvvriFIEoZuxeRtjMkLGL1ZU-kguXzGkNb2vBIWVV-_A1tWRqxbyqAq7wJjhudWFsiJ7Ai6nwNkrVeTZi_uAYXma2pP8DdHmdUaUS6woP8/s1600/%25288%2529Trzcinica+029.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 229,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7NASbBT2fpIPjs0xqUHAF-o4C8iahLDH-1O1pDy83TM01ae26V67VguYnx96HZZPu9OAbvgRZuZt9cm-4FO2Os38jDfAKgXT5W1XbnPmMg-7Ztwd6OKPZwHlKyPTqQ40QuSu2eGzrfo/s0/%25289%2529Trzcinica+018.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7NASbBT2fpIPjs0xqUHAF-o4C8iahLDH-1O1pDy83TM01ae26V67VguYnx96HZZPu9OAbvgRZuZt9cm-4FO2Os38jDfAKgXT5W1XbnPmMg-7Ztwd6OKPZwHlKyPTqQ40QuSu2eGzrfo/s1600/%25289%2529Trzcinica+018.jpg",
+        "filename": "%289%29Trzcinica+018.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7NASbBT2fpIPjs0xqUHAF-o4C8iahLDH-1O1pDy83TM01ae26V67VguYnx96HZZPu9OAbvgRZuZt9cm-4FO2Os38jDfAKgXT5W1XbnPmMg-7Ztwd6OKPZwHlKyPTqQ40QuSu2eGzrfo/s1600/%25289%2529Trzcinica+018.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 151,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6HsAxok5m0znUm5vQyXkRunQ5T49Y9W8FpTebP5jNZfVD3yMoGWRM7Digjv_oymqEdKQBjtZzupQSN-V0ahw3QbpXpqlktJtXWP2TRTjPTrnLvrLUCN3k76Eo5zjuHtxgKfRoydIPfrE/s0/%252810%2529Trzcinica+019.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6HsAxok5m0znUm5vQyXkRunQ5T49Y9W8FpTebP5jNZfVD3yMoGWRM7Digjv_oymqEdKQBjtZzupQSN-V0ahw3QbpXpqlktJtXWP2TRTjPTrnLvrLUCN3k76Eo5zjuHtxgKfRoydIPfrE/s1600/%252810%2529Trzcinica+019.jpg",
+        "filename": "%2810%29Trzcinica+019.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6HsAxok5m0znUm5vQyXkRunQ5T49Y9W8FpTebP5jNZfVD3yMoGWRM7Digjv_oymqEdKQBjtZzupQSN-V0ahw3QbpXpqlktJtXWP2TRTjPTrnLvrLUCN3k76Eo5zjuHtxgKfRoydIPfrE/s1600/%252810%2529Trzcinica+019.jpg",
+          "displayedWidth": 221,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsXcvGXzhtCqxFXbrea_aESsYp406Wv36_1kZM12zEoPYneGD4HBM2cgtaXH-mHe2JGnzDfkCkwFegV00_D22nAuRxh6nzbRf-Eli791KmZNe0IHgoWFbNXcHViwoUQWCD29UABlSqyvA/s0/%252811%2529Trzcinica+026.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsXcvGXzhtCqxFXbrea_aESsYp406Wv36_1kZM12zEoPYneGD4HBM2cgtaXH-mHe2JGnzDfkCkwFegV00_D22nAuRxh6nzbRf-Eli791KmZNe0IHgoWFbNXcHViwoUQWCD29UABlSqyvA/s1600/%252811%2529Trzcinica+026.jpg",
+        "filename": "%2811%29Trzcinica+026.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsXcvGXzhtCqxFXbrea_aESsYp406Wv36_1kZM12zEoPYneGD4HBM2cgtaXH-mHe2JGnzDfkCkwFegV00_D22nAuRxh6nzbRf-Eli791KmZNe0IHgoWFbNXcHViwoUQWCD29UABlSqyvA/s1600/%252811%2529Trzcinica+026.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 235,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBoT9XGC-7J4kPDefCfOM-sa79q35BzptQ7uvOWYORjfB21aq_N1M_oulxcA4tjLzMwH8uD8KZx_Pyg3ePrBJH-KqXgiVTvbRWB5F3mYv_MxUdaHxxy-vPtTQxMg3oetyhvnc0Ts5SaYc/s0/%252812%2529Trzcinica+027.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBoT9XGC-7J4kPDefCfOM-sa79q35BzptQ7uvOWYORjfB21aq_N1M_oulxcA4tjLzMwH8uD8KZx_Pyg3ePrBJH-KqXgiVTvbRWB5F3mYv_MxUdaHxxy-vPtTQxMg3oetyhvnc0Ts5SaYc/s1600/%252812%2529Trzcinica+027.jpg",
+        "filename": "%2812%29Trzcinica+027.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBoT9XGC-7J4kPDefCfOM-sa79q35BzptQ7uvOWYORjfB21aq_N1M_oulxcA4tjLzMwH8uD8KZx_Pyg3ePrBJH-KqXgiVTvbRWB5F3mYv_MxUdaHxxy-vPtTQxMg3oetyhvnc0Ts5SaYc/s1600/%252812%2529Trzcinica+027.jpg",
+          "displayedWidth": 230,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUd7di_IMX_8Def1O6vPxYFa33-TAtANWLY7_lw5V0HAKzNuXw58QPkN9ELBrlAzKbn27Ohfb5FWNK5leJnCqzYXxeXjkXytHKglpxZ-SAAdSOGMpkGLEtU63RXICO5xQG_H713AU71IE/s0/%252813%2529Trzcinica+end.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUd7di_IMX_8Def1O6vPxYFa33-TAtANWLY7_lw5V0HAKzNuXw58QPkN9ELBrlAzKbn27Ohfb5FWNK5leJnCqzYXxeXjkXytHKglpxZ-SAAdSOGMpkGLEtU63RXICO5xQG_H713AU71IE/s1600/%252813%2529Trzcinica+end.jpg",
+        "filename": "%2813%29Trzcinica+end.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUd7di_IMX_8Def1O6vPxYFa33-TAtANWLY7_lw5V0HAKzNuXw58QPkN9ELBrlAzKbn27Ohfb5FWNK5leJnCqzYXxeXjkXytHKglpxZ-SAAdSOGMpkGLEtU63RXICO5xQG_H713AU71IE/s1600/%252813%2529Trzcinica+end.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 115,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_O9TKTM1-M7kG1ohaS1NNaFE3BTXqqAJX36jxO119K7ITItuMjlGAaFWGVFpUXLtukYJ6wUxVNahb1B_vOkzVBXAJGFr_6qncJa9_GBxic11Ojo7z9DbPrr6rrbBwPyqDycnenSUPRo/s0/%252814%2529Trzcinica+032.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_O9TKTM1-M7kG1ohaS1NNaFE3BTXqqAJX36jxO119K7ITItuMjlGAaFWGVFpUXLtukYJ6wUxVNahb1B_vOkzVBXAJGFr_6qncJa9_GBxic11Ojo7z9DbPrr6rrbBwPyqDycnenSUPRo/s1600/%252814%2529Trzcinica+032.jpg",
+        "filename": "%2814%29Trzcinica+032.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp_O9TKTM1-M7kG1ohaS1NNaFE3BTXqqAJX36jxO119K7ITItuMjlGAaFWGVFpUXLtukYJ6wUxVNahb1B_vOkzVBXAJGFr_6qncJa9_GBxic11Ojo7z9DbPrr6rrbBwPyqDycnenSUPRo/s1600/%252814%2529Trzcinica+032.jpg",
+          "displayedWidth": 234,
+          "displayedHeight": 320,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2I6FUFh4t3oAN9J9MCV6L0NnOBkZwlHW5-UQhGuorAG9v_xIa-H-3YvPlzn-CW3aM1YjmamutiiCU4WBSshDD_PmIyj0ggTglYRlgCLDnOFi504W6-QB5Cc-oy2pHDta2jmrzy5FSy-E/s0/%252815%2529Trzcinica+009.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2I6FUFh4t3oAN9J9MCV6L0NnOBkZwlHW5-UQhGuorAG9v_xIa-H-3YvPlzn-CW3aM1YjmamutiiCU4WBSshDD_PmIyj0ggTglYRlgCLDnOFi504W6-QB5Cc-oy2pHDta2jmrzy5FSy-E/s1600/%252815%2529Trzcinica+009.jpg",
+        "filename": "%2815%29Trzcinica+009.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2I6FUFh4t3oAN9J9MCV6L0NnOBkZwlHW5-UQhGuorAG9v_xIa-H-3YvPlzn-CW3aM1YjmamutiiCU4WBSshDD_PmIyj0ggTglYRlgCLDnOFi504W6-QB5Cc-oy2pHDta2jmrzy5FSy-E/s1600/%252815%2529Trzcinica+009.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 306,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl8gEuWWo_rkwghx1XBtVQI7p9lMCZGjjtMj8WPks99boIXUc9r_JKvRHzVwlaapKGQ9FkpFMEH6oKRdofhwOge4nhS2-_sb6GWdRfYLaSwjqDTHcHuUeaezpt7DwAjq6RDOEEdiaLp0w/s0/%252816%2529Trzcinica+001.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl8gEuWWo_rkwghx1XBtVQI7p9lMCZGjjtMj8WPks99boIXUc9r_JKvRHzVwlaapKGQ9FkpFMEH6oKRdofhwOge4nhS2-_sb6GWdRfYLaSwjqDTHcHuUeaezpt7DwAjq6RDOEEdiaLp0w/s1600/%252816%2529Trzcinica+001.jpg",
+        "filename": "%2816%29Trzcinica+001.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl8gEuWWo_rkwghx1XBtVQI7p9lMCZGjjtMj8WPks99boIXUc9r_JKvRHzVwlaapKGQ9FkpFMEH6oKRdofhwOge4nhS2-_sb6GWdRfYLaSwjqDTHcHuUeaezpt7DwAjq6RDOEEdiaLp0w/s1600/%252816%2529Trzcinica+001.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 282,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "nad údolím Ropa pri Jasle (Malopoľsko, PL) — „Karpatská Troja\""
+      },
+      {
+        "label": "Opevnenie",
+        "value": "valy do 10 m, plocha 3,5 ha"
+      },
+      {
+        "label": "Kultúry",
+        "value": "mierzanowicka, Otomani-Füzesabon, slovanské hradisko"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "2100–1650 pred Kr.",
+        "title": "Kultúra mierzanowicka",
+        "description": "Strážne hradisko; podkarpatské prvky, väzby s Bardejovom."
+      },
+      {
+        "year": "1650–1350 pred Kr.",
+        "title": "Otomani-Füzesabonská kultúra",
+        "description": "Prebudovanie opevnení, podhradie 2 ha, metalurgia bronzu a zlata."
+      },
+      {
+        "year": "780–1031",
+        "title": "Slovanské centrálne hradisko",
+        "description": "Jedno z najstarších slovanských hradísk Malopoľska."
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na vyvýšenine nad údolím riečky Ropa, asi 5 km od mesta Jaslo v karpatskej oblasti Poľska ľudia oddávna poznali miesto s vysokými násypmi, ktoré volali \"Kráľovské valy\" (obr. 1, 2)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Už začiatkom XIX. storočia tu boli odkryté 3 pohanské božištia a o toto miesto sa začali zaujímať milovníci starožitností. Prvý profesionálny výskum bol už v roku 1957, podrobný archeologický …v rokoch 1991 – 1996, 2005 – 2009 a priniesol senzačné objavy (obr. 3). Boli objavené najstaršie dovtedy známe obranné osady a prvé priame potvrdenie civilizačných interakcií územia Poľska s anatolijsko-balkánskou kultúrou."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Trzcinica je najlepšie zachované včasnostredoveké hradisko v Malopoľsku a jedno z najstarších slovanských hradísk vôbec. Obranné valy merané od základu násypov dosahujú ešte dnes výšku 10 m a zaberajú 3,5 ha plochy.\n Spočiatku tu bolo vybudované strážne hradisko s vchodom zo strany strže. Osada bola chránená valom s drevenozemnou palisádou (obr. 4), priekopami a …so sklonom 20 – 40° a vysokými 30 m. Bola obývaná ľuďmi \"pleszowskiej kultúry mierzanowickiej\" (2100 – 1650 pred n. l., stopy osídlenia touto kultúrou sa našli aj v okolí Bardejova) so silnými podkarpatskými prvkami. Charakteristické boli pre ňu hlinený riad zdobený otlačkami šnúry, žliabkami, malými uzlíkami, lištami a rebrovaním. Obyvatelia sa zaoberali roľníctvom, chovom, poľovaním, rybolovom, tkáčstvom a úpravou kamenných nástrojov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Q9Pc3lmD8nVE9nbzABWLP-aCNGbrXX3QrMzOIQPmhEuCOUJEnrN6Io3ktUkqrspT67rZ6EWm4RHNgnmauejT9GnnyNBUbEUKXD_JvkX2S0CQ_OGtRCS_EzoYSsq-MvNOIKR3ZZ9Sr5E/s0/%25281%2529Trzcinica.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Q9Pc3lmD8nVE9nbzABWLP-aCNGbrXX3QrMzOIQPmhEuCOUJEnrN6Io3ktUkqrspT67rZ6EWm4RHNgnmauejT9GnnyNBUbEUKXD_JvkX2S0CQ_OGtRCS_EzoYSsq-MvNOIKR3ZZ9Sr5E/s1600/%25281%2529Trzcinica.jpg",
+          "filename": "%281%29Trzcinica.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Q9Pc3lmD8nVE9nbzABWLP-aCNGbrXX3QrMzOIQPmhEuCOUJEnrN6Io3ktUkqrspT67rZ6EWm4RHNgnmauejT9GnnyNBUbEUKXD_JvkX2S0CQ_OGtRCS_EzoYSsq-MvNOIKR3ZZ9Sr5E/s1600/%25281%2529Trzcinica.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 146,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Trzcinica (PL)",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V rokoch 1650 – 1350 pred n. l. tu žila pospolitosť vyspelej Otomani-Füzesabonskej kultúry. Vybudovala novú cestu do hradiska, prebudovala a posilnila opevnenia a po ich požiari prebudovala fortifikáciu a zväčšila osadu do rozlohy 2 ha dobudovaním podhradia a zabezpečila ju palisádami a priekopami zo strany najľahšieho prístupu (obr. 6). Naviazali obchodné kontakty k moru smerom na juh i na sever a nastal rozvoj v metalurgii bronzu a zlata. Okrem aristokratickej vrstvy populácia bola v hojnejšom počte zastúpená hlavne bojovníkmi a nevoľníkmi (rozumej otroci). Ich hlavnou náplňou práce bolo obrábanie zeme, chovanie domácich zvierat, rybolov a diaľkový obchod. Hroby boli bohato obdarované. Ľudia Otomani-Füzesabonskej kultúry obývali hlavne severovýchodnú časť Karpatskej kotliny."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V období včasného stredoveku (780 – 1031 n. l.) sa tu nachádzalo obrovské sídlo, centrálne hradisko jedného zo slovanských kmeňov obývajúcich v tom čase Malopoľsko. Jeho vybudovanie stálo obrovské úsilie a námahu a nemalého kumštu a zručnosti (obr. 7)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwfXSWTfPV-EoKcKN5fz8p4cMct_akVqSYvRATPAO_37eJ1NmtUetYaDxf-2fwBX7wArzssOJxorWpAe8lqzt7cBV-QsDZK7tFriD0iBOD4ddzoFq9DE54XLUunVBaOz4y0BMGdUojP6g/s0/%25282%2529Trzcinica+003.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwfXSWTfPV-EoKcKN5fz8p4cMct_akVqSYvRATPAO_37eJ1NmtUetYaDxf-2fwBX7wArzssOJxorWpAe8lqzt7cBV-QsDZK7tFriD0iBOD4ddzoFq9DE54XLUunVBaOz4y0BMGdUojP6g/s1600/%25282%2529Trzcinica+003.jpg",
+          "filename": "%282%29Trzcinica+003.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwfXSWTfPV-EoKcKN5fz8p4cMct_akVqSYvRATPAO_37eJ1NmtUetYaDxf-2fwBX7wArzssOJxorWpAe8lqzt7cBV-QsDZK7tFriD0iBOD4ddzoFq9DE54XLUunVBaOz4y0BMGdUojP6g/s1600/%25282%2529Trzcinica+003.jpg",
+            "displayedWidth": 184,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Trzcinica (PL)",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko malo rozmery 115 x 275 m a skladalo sa z akropoly (centrálneho hradiska) a troch podhradí. Valy boli v odstupoch zo severu v rozmedzí 60-70 m, val chrániaci I. podhradie bol vysoký asi 5 m, II. podhradie chránil vyše 9m vysoký val so šírkou základov 22-24 m. Val III. podhradia bol najnižší, dosahoval výšku len 2 m a dopĺňal obranu predchádzajúcich valov zo severu, ale valy I. A II. podhradia obtáčali hradisko a chránili aj samotnú akropolu z juhu (obr. 15).Drevito-zemité valy boli konštrukčne prekladové, palisádové aj vypletané a mali dĺžku viac ako 1250 m. Prekladové valy mali šírku 3,5-5 m, vypletané 3,5 m a palisádové 2,2 m. Na ich výstavbu bolo použité 25000 m³ stavebného materiálu, z toho asi 6000 m³ dreva, zväčša dubového. Hradisko bolo obklopené niekoľkými otvorenými osadami, kde ľudia žili v zrubových domcoch a polozemniciach (obr. 8). Zničenie hradiska v dôsledku požiaru sa javí najpravdepodobnejšie v roku 1031 n.l., na koci vládnutia Mieska II, alebo počas vnútorných nepokojov v Poľsku v rokoch 1034-1039."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8pugJTbZPtIHO9cUofb0HaFvwrDRvraekoKit3FZouEQlb2Df06nS2BAhUOBD9yuMs3hza28gaXuythVqUwd41xSNFtsJG9sbxyD47p_uTzS_btYzpukQgbqJFDpeoRn-Z3fNeMsBv1M/s0/%25283%2529Trzcinica+004.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8pugJTbZPtIHO9cUofb0HaFvwrDRvraekoKit3FZouEQlb2Df06nS2BAhUOBD9yuMs3hza28gaXuythVqUwd41xSNFtsJG9sbxyD47p_uTzS_btYzpukQgbqJFDpeoRn-Z3fNeMsBv1M/s1600/%25283%2529Trzcinica+004.jpg",
+          "filename": "%283%29Trzcinica+004.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8pugJTbZPtIHO9cUofb0HaFvwrDRvraekoKit3FZouEQlb2Df06nS2BAhUOBD9yuMs3hza28gaXuythVqUwd41xSNFtsJG9sbxyD47p_uTzS_btYzpukQgbqJFDpeoRn-Z3fNeMsBv1M/s1600/%25283%2529Trzcinica+004.jpg",
+            "displayedWidth": 255,
+            "displayedHeight": 320,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Trzcinica (PL)",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V XX. a XXI. storočí bolo interdisciplinárne prebádaných vyše 160 tisíc artefaktov a bola preskúmaná obranná konštrukcia. Bolo nájdených veľa druhov hlinených a keramických nádob, kostenné a rohové výrobky, opracované kamene a kremene, unikátne pamiatky z bronzu a železa. Boli nájdené kultové predmety, prehistorické umelecké výtvory, náradie, zbrane i ozdoby. Neobvykle cenný sa ukázal byť včasnostredoveký strieborný poklad, skladajúci sa z mincí, ozdôb rôzneho druhu, strieborných kúskov i unikátneho okovania pošvy meča(obr. 9,10). Po celý čas fungovania obranného objektu v Trzcinicy sú doložené rôznorodé kultúrne vplyvy. Kostrové hroby sú doložené až od XI. storočia."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Myšlienka založiť práve tu \"Archeologický skanzen Karpatská Trója\" vznikla už v roku 1998, park zaberá rozlohu vyše 8 ha (z toho 3,5 ha hradisko) a celý projekt stál viac ako 13 mln zlotých ( cca 3,1 milióna EUR), EU dofinancovala čiastkou 1,7 milióna EUR ."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOdEZoWmv9_q9NhaoSaEyQtDefK6Yo342OvWpzjv51zRen5ouBSZF-QkBnBw2TIBmNEgNKuS3eJZ2XEUtVCbGnV9Ouaem9mE2JGsEWbjSVanaRbGj2wQk3G2NYXSkEtvWCVqE5xOVIrc/s0/%25284%2529Trzcinica+008.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOdEZoWmv9_q9NhaoSaEyQtDefK6Yo342OvWpzjv51zRen5ouBSZF-QkBnBw2TIBmNEgNKuS3eJZ2XEUtVCbGnV9Ouaem9mE2JGsEWbjSVanaRbGj2wQk3G2NYXSkEtvWCVqE5xOVIrc/s1600/%25284%2529Trzcinica+008.jpg",
+          "filename": "%284%29Trzcinica+008.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOdEZoWmv9_q9NhaoSaEyQtDefK6Yo342OvWpzjv51zRen5ouBSZF-QkBnBw2TIBmNEgNKuS3eJZ2XEUtVCbGnV9Ouaem9mE2JGsEWbjSVanaRbGj2wQk3G2NYXSkEtvWCVqE5xOVIrc/s1600/%25284%2529Trzcinica+008.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 269,
+            "originalWidth": null,
+            "originalHeight": null
+          }
+        },
+        "alt": "Trzcinica (PL)",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na hradisku sa v súčasnosti nachádzajú zrekonštruované fragmenty obranných valov (obr. 11, 12) a domov. Možete tam nájsť 9 častí obranných valov (obr. 13), fragment opevnenia, prístupovej cesty, brány a dva domy z doby bronzovej, 4 slovanské domy, vstupnú bránu (obr. 16), žriedlo vody z X storočia (obr. 14) a miesto ukrytia pokladu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Okrem niekoľkých mincí z Čiech sa o vplyve Veľkej Moravy nepíše v zdroji nič, aj keď toto územie bolo za vládcu Sama či veľkomoravských panovníkov v sfére vplyvu (poplatkov) VM. (pozn.prekl.)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zdroj: Skansen archeologiczny Karpatska Troja w Trzcinicy – Przewodnik (Jaslo 2012)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Foto, text: Jan Gancarski (autor myšlienky skanzenu a vedúci výskumného týmu)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "vydal: Muzeum Podkarpackie w Krosnie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Zdroj: Skansen archeologiczny Karpatska Troja w Trzcinicy – Przewodnik (Jaslo 2012)",
+            "url": null
+          },
+          {
+            "text": "Foto, text: Jan Gancarski (autor myšlienky skanzenu a vedúci výskumného týmu)",
+            "url": null
+          },
+          {
+            "text": "vydal: Muzeum Podkarpackie w Krosnie",
+            "url": null
+          },
+          {
+            "text": "https://www.youtube.com/watch?v=Vx-QrrB0IVk",
+            "url": "https://www.youtube.com/watch?v=Vx-QrrB0IVk"
+          },
+          {
+            "text": "trailer k hranému dokumentu tu:",
+            "url": null
+          },
+          {
+            "text": "https://www.youtube.com/watch?v=2A0mJYJ7E30",
+            "url": "https://www.youtube.com/watch?v=2A0mJYJ7E30"
+          },
+          {
+            "text": "súčasný stav z letu dronu:",
+            "url": null
+          },
+          {
+            "text": "https://www.youtube.com/watch?v=eSyug8682AA",
+            "url": "https://www.youtube.com/watch?v=eSyug8682AA"
+          },
+          {
+            "text": "sučasný stav z pohľadu návštevníka:",
+            "url": null
+          },
+          {
+            "text": "www.hradiska.sk",
+            "url": "http://www.hradiska.sk/"
+          },
+          {
+            "text": "preklad: Martin Schuster, krátené pre potreby",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Zdroj: Skansen archeologiczny Karpatska Troja w Trzcinicy – Przewodnik (Jaslo 2012)"
+      },
+      {
+        "type": "book",
+        "text": "Foto, text: Jan Gancarski (autor myšlienky skanzenu a vedúci výskumného týmu)"
+      },
+      {
+        "type": "book",
+        "text": "vydal: Muzeum Podkarpackie w Krosnie"
+      },
+      {
+        "type": "external-url",
+        "url": "https://www.youtube.com/watch?v=Vx-QrrB0IVk",
+        "title": "https://www.youtube.com/watch?v=Vx-QrrB0IVk"
+      },
+      {
+        "type": "book",
+        "text": "trailer k hranému dokumentu tu:"
+      },
+      {
+        "type": "external-url",
+        "url": "https://www.youtube.com/watch?v=2A0mJYJ7E30",
+        "title": "https://www.youtube.com/watch?v=2A0mJYJ7E30"
+      },
+      {
+        "type": "book",
+        "text": "súčasný stav z letu dronu:"
+      },
+      {
+        "type": "external-url",
+        "url": "https://www.youtube.com/watch?v=eSyug8682AA",
+        "title": "https://www.youtube.com/watch?v=eSyug8682AA"
+      },
+      {
+        "type": "book",
+        "text": "sučasný stav z pohľadu návštevníka:"
+      },
+      {
+        "type": "internal-link",
+        "url": "http://www.hradiska.sk/",
+        "title": "www.hradiska.sk"
+      },
+      {
+        "type": "book",
+        "text": "preklad: Martin Schuster, krátené pre potreby"
+      }
+    ]
+  }
+}

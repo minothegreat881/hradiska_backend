@@ -1,0 +1,29 @@
+{
+ "changes": [
+  {
+   "before": "naše  podniklo ďalšiu akciu - osadenie",
+   "after": "naše Občianske združenie Hradiská podniklo ďalšiu akciu — osadenie",
+   "rule": "B dvojitá medzera + doplnené z excerptu + pomlčka"
+  },
+  {
+   "before": "obyvateľov Hatného, ktorým nieje ich história ľahostajná",
+   "after": "…ktorým nie je ich história ľahostajná",
+   "rule": "A8 pravopis (nie je)"
+  },
+  {
+   "before": "vyšla veľmi v ústrety jednak tým že spolu s Maticou Slovenskou",
+   "after": "…jednak tým, že spolu s Maticou slovenskou",
+   "rule": "A1 čiarka pred že + A9 „slovenskou\" malé"
+  },
+  {
+   "before": "Za spoluprácu a ústretovosť je patrí veľká vďaka",
+   "after": "Za spoluprácu a ústretovosť jej patrí veľká vďaka",
+   "rule": "A8 preklep (je→jej)"
+  },
+  {
+   "before": "spoločne vybrali to terénu",
+   "after": "spoločne vybrali do terénu",
+   "rule": "A8 preklep (to→do)"
+  }
+ ]
+}

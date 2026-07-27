@@ -1,0 +1,7 @@
+{ "changes":[
+  {"before":"zásah do skalného podložia s rozmermi 2,9 x 1,7-2,3 m","after":"…s rozmermi 2,9 × 1,7 – 2,3 m","rule":"B typografia (×, en dash)"},
+  {"before":"stavba, s dlhšou osou paralelnou s osou hrebeňa (3,6 x 1,5m)","after":"…(3,6 × 1,5 m)","rule":"B typografia (×, medzera)"},
+  {"before":"železné hroty šípov podľa ktorých nepriateľ postupoval","after":"železné hroty šípov, podľa ktorých nepriateľ postupoval","rule":"A1 čiarka pred vzťažným zámenom"},
+  {"before":"Oproti Starému zámku I však pre túto možnosť ale hovorí viac indícií","after":"Oproti Starému zámku I pre túto možnosť hovorí viac indícií","rule":"A5 zdvojené však/ale"},
+  {"before":"stavebne aj !nančne náročnejšími","after":"stavebne aj finančne náročnejšími","rule":"B OCR (!n→fin)"},
+  {"before":"v neveľkej vzdialenosti od kamenných od podstatne známejších kamenných hradov","after":"v neveľkej vzdialenosti od podstatne známejších kamenných hradov","rule":"A5 zdvojené „od kamenných\""}]}

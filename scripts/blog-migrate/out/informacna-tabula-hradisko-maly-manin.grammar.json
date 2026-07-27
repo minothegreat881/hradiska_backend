@@ -1,0 +1,19 @@
+{
+ "changes": [
+  {
+   "before": "poslednú tohoročnú akciu - osadenie informačnej tabule na  (kataster",
+   "after": "poslednú tohoročnú akciu — osadenie informačnej tabule na hradisku Malý Manín (kataster",
+   "rule": "B pomlčka + doplnené z excerptu"
+  },
+  {
+   "before": "Všetkým ktorí nám včera pomohli s osadením patrí obrovská vďaka",
+   "after": "Všetkým, ktorí nám včera pomohli s osadením, patrí obrovská vďaka",
+   "rule": "A1 uzavretie vloženej vety"
+  },
+  {
+   "before": "Veríme že tabuľa bude slúžiť",
+   "after": "Veríme, že tabuľa bude slúžiť",
+   "rule": "A1 čiarka pred že"
+  }
+ ]
+}

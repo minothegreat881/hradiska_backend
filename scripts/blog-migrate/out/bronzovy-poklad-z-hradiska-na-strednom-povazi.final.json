@@ -1,0 +1,725 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\bronzovy-poklad-z-hradiska-na-strednom.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-7363549676454738514",
+    "bloggerPostUrl": "http://www.hradiska.sk/2023/01/bronzovy-poklad-z-hradiska-na-strednom.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/7363549676454738514/comments/default",
+    "extractedAt": "2026-07-21T14:07:23.856Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 2,
+    "comments": [
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-6748192159515915561",
+        "bloggerPostId": "6748192159515915561",
+        "author": "Orgon",
+        "authorProfile": "https://www.blogger.com/profile/01396912608531297025",
+        "published": "2023-01-20T13:15:19.126+01:00",
+        "updated": "2023-01-20T13:15:19.126+01:00",
+        "content": "Na Slovensku náhodný nálezca dostane 100% hodnoty nálezu",
+        "inReplyToArticle": "http://www.hradiska.sk/2023/01/bronzovy-poklad-z-hradiska-na-strednom.html",
+        "replyToBloggerId": "7325823601297060803",
+        "replyToFeedHref": "http://www.blogger.com/feeds/6818054921907446479/7363549676454738514/comments/default/7325823601297060803"
+      },
+      {
+        "id": "tag:blogger.com,1999:blog-6818054921907446479.post-7325823601297060803",
+        "bloggerPostId": "7325823601297060803",
+        "author": "Anonymous",
+        "authorProfile": null,
+        "published": "2023-01-20T09:44:31.320+01:00",
+        "updated": "2023-01-20T09:44:31.320+01:00",
+        "content": "Pekná práca. <br />Záchrane archeologických nálezov by asi pomohlo, ak by náhodný nálezca, ktorý zavolá archeológa, dostal odmenu za nález ako v Anglicku (50% majiteľ pozemku, druhých 50% nálezca).<br />A aby archeológovia dostávali dosť peňazí na záchranné výskumy, prieskum nových lokalít a osvetu/propagáciu u mládeže.<br />A múzeá dosť peňazí na výkup nálezov, vykopaných v minulosti.<br />Slovensko je plné pravekých osád, hrádkov, hradov a je škoda, že jeho história leží niekde v domácich zbierkach alebo je predávaná do zahraničia.",
+        "inReplyToArticle": "http://www.hradiska.sk/2023/01/bronzovy-poklad-z-hradiska-na-strednom.html",
+        "replyToBloggerId": null,
+        "replyToFeedHref": null
+      }
+    ],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 8,
+      "captionedImages": 0,
+      "separatorImages": 8
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "longRichText",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Bronzový poklad z hradiska na strednom Považí",
+    "slug": "bronzovy-poklad-z-hradiska-na-strednom-povazi",
+    "excerpt": "Tak, ako je rozdelená celá spoločnosť, má aj odborná verejnosť rozdielne názory na používanie detektora kovov v oblasti vyhľadávania archeologických nálezov, čomu nezriedka zodpovedá aj úroveň diskusie. Podľa hlbokého presvedčenia všetkých autorov…",
+    "authorName": "Orgon",
+    "publishedAt": "2023-01-19T14:11:00.000+01:00",
+    "originalPublishedDate": "2023-01-19T14:11:00.000+01:00",
+    "updatedAt": "2023-01-29T09:42:55.678+01:00",
+    "readingTime": 11,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYkrPstC5W3IsQcV241kGGFwPHAPr5AQDuqaEOZN7A7DSz41d7C6F_nDxay0N3EwzW6ATzJOAr1M7D7oIC3hRR61vNfmlGTK1JNrtKMW6R46QjYiSf5vDBfh-gv1Z2uA6vK5_fV1z5dX9ziqm5sU7dlRax59ECPHRu1wRgSXt7C2L1S06D2iJdZhoOiw/s0/242886386_980833445800560_1941272768825540055_n.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYkrPstC5W3IsQcV241kGGFwPHAPr5AQDuqaEOZN7A7DSz41d7C6F_nDxay0N3EwzW6ATzJOAr1M7D7oIC3hRR61vNfmlGTK1JNrtKMW6R46QjYiSf5vDBfh-gv1Z2uA6vK5_fV1z5dX9ziqm5sU7dlRax59ECPHRu1wRgSXt7C2L1S06D2iJdZhoOiw/s1600/242886386_980833445800560_1941272768825540055_n.jpg",
+      "filename": "242886386_980833445800560_1941272768825540055_n.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYkrPstC5W3IsQcV241kGGFwPHAPr5AQDuqaEOZN7A7DSz41d7C6F_nDxay0N3EwzW6ATzJOAr1M7D7oIC3hRR61vNfmlGTK1JNrtKMW6R46QjYiSf5vDBfh-gv1Z2uA6vK5_fV1z5dX9ziqm5sU7dlRax59ECPHRu1wRgSXt7C2L1S06D2iJdZhoOiw/s1599/242886386_980833445800560_1941272768825540055_n.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 240,
+        "originalWidth": 1599,
+        "originalHeight": 1200
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYkrPstC5W3IsQcV241kGGFwPHAPr5AQDuqaEOZN7A7DSz41d7C6F_nDxay0N3EwzW6ATzJOAr1M7D7oIC3hRR61vNfmlGTK1JNrtKMW6R46QjYiSf5vDBfh-gv1Z2uA6vK5_fV1z5dX9ziqm5sU7dlRax59ECPHRu1wRgSXt7C2L1S06D2iJdZhoOiw/s0/242886386_980833445800560_1941272768825540055_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYkrPstC5W3IsQcV241kGGFwPHAPr5AQDuqaEOZN7A7DSz41d7C6F_nDxay0N3EwzW6ATzJOAr1M7D7oIC3hRR61vNfmlGTK1JNrtKMW6R46QjYiSf5vDBfh-gv1Z2uA6vK5_fV1z5dX9ziqm5sU7dlRax59ECPHRu1wRgSXt7C2L1S06D2iJdZhoOiw/s1600/242886386_980833445800560_1941272768825540055_n.jpg",
+        "filename": "242886386_980833445800560_1941272768825540055_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYkrPstC5W3IsQcV241kGGFwPHAPr5AQDuqaEOZN7A7DSz41d7C6F_nDxay0N3EwzW6ATzJOAr1M7D7oIC3hRR61vNfmlGTK1JNrtKMW6R46QjYiSf5vDBfh-gv1Z2uA6vK5_fV1z5dX9ziqm5sU7dlRax59ECPHRu1wRgSXt7C2L1S06D2iJdZhoOiw/s1599/242886386_980833445800560_1941272768825540055_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1599,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7S-aORSke7u7Oe3WIb9jTZDUp-Janywdlvty9UGTHFHV0qHdkLIx4Y3Em0B2cAssMK16wDHyW7EElUBD4hTQXTlucC7XXTwoW3hFWpS1Q4QKnfLONPl8pF-mqBMMKkHsuIQq7zPNGuR2yVL73IWqAPLNUjOaCX2VhKXdWV3LpDOcsBpHaLX70eFvosw/s0/258066633_907286429925584_3193507801066037226_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7S-aORSke7u7Oe3WIb9jTZDUp-Janywdlvty9UGTHFHV0qHdkLIx4Y3Em0B2cAssMK16wDHyW7EElUBD4hTQXTlucC7XXTwoW3hFWpS1Q4QKnfLONPl8pF-mqBMMKkHsuIQq7zPNGuR2yVL73IWqAPLNUjOaCX2VhKXdWV3LpDOcsBpHaLX70eFvosw/s1600/258066633_907286429925584_3193507801066037226_n.jpg",
+        "filename": "258066633_907286429925584_3193507801066037226_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7S-aORSke7u7Oe3WIb9jTZDUp-Janywdlvty9UGTHFHV0qHdkLIx4Y3Em0B2cAssMK16wDHyW7EElUBD4hTQXTlucC7XXTwoW3hFWpS1Q4QKnfLONPl8pF-mqBMMKkHsuIQq7zPNGuR2yVL73IWqAPLNUjOaCX2VhKXdWV3LpDOcsBpHaLX70eFvosw/s960/258066633_907286429925584_3193507801066037226_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxHk8N28BUsURXIteDwiMZquziZzwpvjyCA3sDOo1I1BmyQsIHicoPBgU2ACpux0d-jS27ALXEb3lydIWggf0ZIWB0gM8Zg1wfJVSzaNvnvJA3hC1sWXALqkKMoBDpD_OaSk9wSF7YaNv0sUW8e4FIk6pAkFwg3diy9dwOWMYjXtkK4QdKwJAbFbCb-g/s0/256843731_984967658720472_7508294022887873623_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxHk8N28BUsURXIteDwiMZquziZzwpvjyCA3sDOo1I1BmyQsIHicoPBgU2ACpux0d-jS27ALXEb3lydIWggf0ZIWB0gM8Zg1wfJVSzaNvnvJA3hC1sWXALqkKMoBDpD_OaSk9wSF7YaNv0sUW8e4FIk6pAkFwg3diy9dwOWMYjXtkK4QdKwJAbFbCb-g/s1600/256843731_984967658720472_7508294022887873623_n.jpg",
+        "filename": "256843731_984967658720472_7508294022887873623_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxHk8N28BUsURXIteDwiMZquziZzwpvjyCA3sDOo1I1BmyQsIHicoPBgU2ACpux0d-jS27ALXEb3lydIWggf0ZIWB0gM8Zg1wfJVSzaNvnvJA3hC1sWXALqkKMoBDpD_OaSk9wSF7YaNv0sUW8e4FIk6pAkFwg3diy9dwOWMYjXtkK4QdKwJAbFbCb-g/s960/256843731_984967658720472_7508294022887873623_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMk7AMxBI2py1QA-_c_gAXAgRqTc8dKdqVNdx1cxYBddmj5_S2fmYFVpJ-oNtwXAIu1C6GXWP1QnJtIfZwuWOB8AjZcjggOOIIPGiiUw4zzPh48H7bDgVEVgzsZRiBHhaU4vZ-CYWbBLO1tU0iXkUYLO3O4XKtAPEwDZh3bkU6pjYMCtmnbvPzWfWVNA/s0/256843736_984967602053811_1905741399150432560_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMk7AMxBI2py1QA-_c_gAXAgRqTc8dKdqVNdx1cxYBddmj5_S2fmYFVpJ-oNtwXAIu1C6GXWP1QnJtIfZwuWOB8AjZcjggOOIIPGiiUw4zzPh48H7bDgVEVgzsZRiBHhaU4vZ-CYWbBLO1tU0iXkUYLO3O4XKtAPEwDZh3bkU6pjYMCtmnbvPzWfWVNA/s1600/256843736_984967602053811_1905741399150432560_n.jpg",
+        "filename": "256843736_984967602053811_1905741399150432560_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMk7AMxBI2py1QA-_c_gAXAgRqTc8dKdqVNdx1cxYBddmj5_S2fmYFVpJ-oNtwXAIu1C6GXWP1QnJtIfZwuWOB8AjZcjggOOIIPGiiUw4zzPh48H7bDgVEVgzsZRiBHhaU4vZ-CYWbBLO1tU0iXkUYLO3O4XKtAPEwDZh3bkU6pjYMCtmnbvPzWfWVNA/s960/256843736_984967602053811_1905741399150432560_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIXbcsXW9FXg_2nmEvzVolQdDCtJHOtuOKMhXOvHLE4dkwlRHRPLP77b50MYthbGrZCfRa-vLDJNTrG2c6A0VJbhM01G14v_OfLEMUZ5FeKU-WtBYyB9dBSDYStc2Eg_izXjGDeRAyVvw3KKV_DCv9RifCs0ra4iDNoMBmydcIe_icmJLk2TYyI3zRA/s0/254975403_980559115827993_1017971987642206385_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIXbcsXW9FXg_2nmEvzVolQdDCtJHOtuOKMhXOvHLE4dkwlRHRPLP77b50MYthbGrZCfRa-vLDJNTrG2c6A0VJbhM01G14v_OfLEMUZ5FeKU-WtBYyB9dBSDYStc2Eg_izXjGDeRAyVvw3KKV_DCv9RifCs0ra4iDNoMBmydcIe_icmJLk2TYyI3zRA/s1600/254975403_980559115827993_1017971987642206385_n.jpg",
+        "filename": "254975403_980559115827993_1017971987642206385_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIXbcsXW9FXg_2nmEvzVolQdDCtJHOtuOKMhXOvHLE4dkwlRHRPLP77b50MYthbGrZCfRa-vLDJNTrG2c6A0VJbhM01G14v_OfLEMUZ5FeKU-WtBYyB9dBSDYStc2Eg_izXjGDeRAyVvw3KKV_DCv9RifCs0ra4iDNoMBmydcIe_icmJLk2TYyI3zRA/s2015/254975403_980559115827993_1017971987642206385_n.jpg",
+          "displayedWidth": 239,
+          "displayedHeight": 320,
+          "originalWidth": 1504,
+          "originalHeight": 2015
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUmWLz9DwNmaWl4llkeuifnwgDu8fBaqCN3UtS8G6z-mlr4lQ8dnHH26dkg_KMMu8-S6F6JqspXH88Hn9zE9wjmEE8oFXN-AKBSnMet22rYHoZTba5DJ65PSmwSOtGtcocGJrEsMldlWHb4ZEER2YFwWMDD8fOjYRs_1P3GF2PFA3nRbzhe5lilmsZQ/s0/258495467_1073318446803369_4338658116014174242_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUmWLz9DwNmaWl4llkeuifnwgDu8fBaqCN3UtS8G6z-mlr4lQ8dnHH26dkg_KMMu8-S6F6JqspXH88Hn9zE9wjmEE8oFXN-AKBSnMet22rYHoZTba5DJ65PSmwSOtGtcocGJrEsMldlWHb4ZEER2YFwWMDD8fOjYRs_1P3GF2PFA3nRbzhe5lilmsZQ/s1600/258495467_1073318446803369_4338658116014174242_n.jpg",
+        "filename": "258495467_1073318446803369_4338658116014174242_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUmWLz9DwNmaWl4llkeuifnwgDu8fBaqCN3UtS8G6z-mlr4lQ8dnHH26dkg_KMMu8-S6F6JqspXH88Hn9zE9wjmEE8oFXN-AKBSnMet22rYHoZTba5DJ65PSmwSOtGtcocGJrEsMldlWHb4ZEER2YFwWMDD8fOjYRs_1P3GF2PFA3nRbzhe5lilmsZQ/s960/258495467_1073318446803369_4338658116014174242_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy6ktDdO0A3qaCFUTPHxF-7sIADUNkcbEUBJdgD1PC0heodFElTXFlrLUk507G77PLK6toFobbsm5V9AqlK9PIdFcitLvuYsuqEtq4FbES7bBHYLnHE7tdJv3SkwbQZnJMEWFJm1m9ypD4nrUWFFniZVN-MR6jZNbLjDhNUZIeSO8aRAwScUl96oA-mw/s0/263498430_462117305583019_4732860325659201100_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy6ktDdO0A3qaCFUTPHxF-7sIADUNkcbEUBJdgD1PC0heodFElTXFlrLUk507G77PLK6toFobbsm5V9AqlK9PIdFcitLvuYsuqEtq4FbES7bBHYLnHE7tdJv3SkwbQZnJMEWFJm1m9ypD4nrUWFFniZVN-MR6jZNbLjDhNUZIeSO8aRAwScUl96oA-mw/s1600/263498430_462117305583019_4732860325659201100_n.jpg",
+        "filename": "263498430_462117305583019_4732860325659201100_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy6ktDdO0A3qaCFUTPHxF-7sIADUNkcbEUBJdgD1PC0heodFElTXFlrLUk507G77PLK6toFobbsm5V9AqlK9PIdFcitLvuYsuqEtq4FbES7bBHYLnHE7tdJv3SkwbQZnJMEWFJm1m9ypD4nrUWFFniZVN-MR6jZNbLjDhNUZIeSO8aRAwScUl96oA-mw/s960/263498430_462117305583019_4732860325659201100_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1n61zJVS1UlV0UGAOQsuuNlkEIQ8_SD8spwAjEX2SaY6whuUOJOHcP-2o1zqSgtrbIkD-vPVQYdNznQua7YGxwKH9TfsnxnrL2zBrnTT9S0_TOHuwftZbBC9qygJPdJhL00Zrv1u38SXm4LOj7jiaoHrdnGWQQLjVQrPhLwr7ZMXuKo8d5UzuF8nUKA/s0/320563812_1599336380518284_511084314007933904_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1n61zJVS1UlV0UGAOQsuuNlkEIQ8_SD8spwAjEX2SaY6whuUOJOHcP-2o1zqSgtrbIkD-vPVQYdNznQua7YGxwKH9TfsnxnrL2zBrnTT9S0_TOHuwftZbBC9qygJPdJhL00Zrv1u38SXm4LOj7jiaoHrdnGWQQLjVQrPhLwr7ZMXuKo8d5UzuF8nUKA/s1600/320563812_1599336380518284_511084314007933904_n.jpg",
+        "filename": "320563812_1599336380518284_511084314007933904_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1n61zJVS1UlV0UGAOQsuuNlkEIQ8_SD8spwAjEX2SaY6whuUOJOHcP-2o1zqSgtrbIkD-vPVQYdNznQua7YGxwKH9TfsnxnrL2zBrnTT9S0_TOHuwftZbBC9qygJPdJhL00Zrv1u38SXm4LOj7jiaoHrdnGWQQLjVQrPhLwr7ZMXuKo8d5UzuF8nUKA/s2048/320563812_1599336380518284_511084314007933904_n.jpg",
+          "displayedWidth": 233,
+          "displayedHeight": 320,
+          "originalWidth": 1488,
+          "originalHeight": 2048
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Bronzový poklad"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Depot",
+        "value": "12 bronzových šperkov (štítová spona, nákrčníky, náramky, čelenka)"
+      },
+      {
+        "label": "Datovanie",
+        "value": "mladšia doba bronzová (12.–11. stor. pred Kr.), lužická kultúra"
+      },
+      {
+        "label": "Objav",
+        "value": "jeseň 2021, novoobjavené hradisko na Považí (LIDAR)"
+      },
+      {
+        "label": "Záchrana",
+        "value": "Trenčianske múzeum (J. Malec) + OZ Hradiská + PÚ SR"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "12.–11. stor. pred Kr.",
+        "title": "Uloženie depotu",
+        "description": "Kompletná šperková výbava ženského odevu, lužická kultúra."
+      },
+      {
+        "year": "jeseň 2021",
+        "title": "Objav a záchranný výskum",
+        "description": "OZ Hradiská overili LIDAR-tip; depot vyzdvihnutý v bloku, konzervovaný."
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tak, ako je rozdelená celá spoločnosť, má aj odborná verejnosť rozdielne názory na používanie detektora kovov v oblasti vyhľadávania archeologických nálezov, čomu nezriedka zodpovedá aj úroveň diskusie. Podľa hlbokého presvedčenia všetkých autorov tohto článku je však povinnosťou všetkých rozumných aktérov v oblasti ochrany a záchrany nášho spoločného kultúrneho dedičstva hľadať možné spôsoby vzájomnej spolupráce rôznych zainteresovaných strán, ktorých východiskové pozície sú – buďme úprimní – často vzájomne rozporné. Ideme teda dobrovoľne do jamy levovej a vstupujeme s našou kožou na trh, s vierou, že budeme prezentovať svojím spôsobom pioniersky spôsob záchrany ohrozenej minulosti, založený na dôvere, kompetencii a striktnom rešpektovaní právneho a etického rámca. Nech je tento článok kultivovaným príspevkom do neutíchajúcej diskusie a ilustráciou toho, čo sa dá dosiahnuť v prípade, ak sa stretnú rozumní a racionálni ľudia, …rovnaký cieľ, hoci správna cesta k cieľu býva vždy tŕnistá. Veríme, že prekážkou pochopenia nášho odkazu nebude ani istá heterogenita textu, ktorú sme zvolili s ohľadom na ne-akademický charakter periodika, v ktorom je náš článok publikovaný.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na jeseň roku 2021 sa niekoľko členov občianskeho združenia Hradiská vybralo overiť jeden tip na možné hradisko v Trenčianskom kraji. Príznaky valových opevnení boli vidieť na leteckom laserovom skenovaní („LIDAR“) Slovenska, avšak hradisko v danej lokalite doposiaľ nebolo nikde publikované, takže predpokladali, že lokalita by mohla mať potenciál pre budúci výskum. Na druhej strane bol však predpoklad, že môže byť tiež ohrozená nelegálnymi hľadačmi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYkrPstC5W3IsQcV241kGGFwPHAPr5AQDuqaEOZN7A7DSz41d7C6F_nDxay0N3EwzW6ATzJOAr1M7D7oIC3hRR61vNfmlGTK1JNrtKMW6R46QjYiSf5vDBfh-gv1Z2uA6vK5_fV1z5dX9ziqm5sU7dlRax59ECPHRu1wRgSXt7C2L1S06D2iJdZhoOiw/s0/242886386_980833445800560_1941272768825540055_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYkrPstC5W3IsQcV241kGGFwPHAPr5AQDuqaEOZN7A7DSz41d7C6F_nDxay0N3EwzW6ATzJOAr1M7D7oIC3hRR61vNfmlGTK1JNrtKMW6R46QjYiSf5vDBfh-gv1Z2uA6vK5_fV1z5dX9ziqm5sU7dlRax59ECPHRu1wRgSXt7C2L1S06D2iJdZhoOiw/s1600/242886386_980833445800560_1941272768825540055_n.jpg",
+          "filename": "242886386_980833445800560_1941272768825540055_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYkrPstC5W3IsQcV241kGGFwPHAPr5AQDuqaEOZN7A7DSz41d7C6F_nDxay0N3EwzW6ATzJOAr1M7D7oIC3hRR61vNfmlGTK1JNrtKMW6R46QjYiSf5vDBfh-gv1Z2uA6vK5_fV1z5dX9ziqm5sU7dlRax59ECPHRu1wRgSXt7C2L1S06D2iJdZhoOiw/s1599/242886386_980833445800560_1941272768825540055_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 1599,
+            "originalHeight": 1200
+          }
+        },
+        "alt": "Bronzový poklad z hradiska na strednom Považí",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dovoľte predostrieť vám ďalší text z autentickej pozície jedného z členov občianskeho združenia:",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po tom, ako sme sa vyštverali na pomerne vysoký prudký kopec a videli sme krásne rovnú vrcholovú plošinu s okrajovým valom, nám srdce zaplesalo a hneď bolo jasné, že naozaj ide o výšinné hradisko. Absencia množstva črepov napovedala, že zrejme nepôjde o hradisko púchovskej kultúry, ktoré väčšinou bývajú „posiate“ keramikou. Vzhľadom na blízkosť slovanských lokalít sme to skôr tipovali na Slovanov a iné obdobia. Navyše pod hradiskom z opačnej strany sme overili náznaky z LIDAR-u, že sa tam nachádzajú ďalšie valy, napojené na samotné hradisko, ktoré tak tvorí akúsi citadelu pomerne rozsiahleho opevňovacieho systému. Na vrchole hradiska boli viditeľné jamy, ktoré mohli pochádzať aj z nelegálnej činnosti detektoristov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nález sme ihneď nahlásili archeológovi Trenčianskeho múzea a dúfali sme, že sa čo najskôr podarí vybaviť záchranný výskum. Na Slovensku je legislatíva upravujúca archeologické výskumy pomerne prísna a ani samotní archeológovia nemôžu ísť na lokalitu robiť výskumy bez príslušných povolení, najmä od krajského pamiatkového úradu. V žiadnom prípade nemôžu v takýchto prípadoch robiť výskum amatérske združenia ako sme my bez archeológa s licenciou. Našťastie netrvalo dlho a kontaktoval nás archeológ Juraj Malec s tým, že je vybavené príslušné povolenie a môžeme ísť na výskum „nášho“ nového hradiska."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7S-aORSke7u7Oe3WIb9jTZDUp-Janywdlvty9UGTHFHV0qHdkLIx4Y3Em0B2cAssMK16wDHyW7EElUBD4hTQXTlucC7XXTwoW3hFWpS1Q4QKnfLONPl8pF-mqBMMKkHsuIQq7zPNGuR2yVL73IWqAPLNUjOaCX2VhKXdWV3LpDOcsBpHaLX70eFvosw/s0/258066633_907286429925584_3193507801066037226_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7S-aORSke7u7Oe3WIb9jTZDUp-Janywdlvty9UGTHFHV0qHdkLIx4Y3Em0B2cAssMK16wDHyW7EElUBD4hTQXTlucC7XXTwoW3hFWpS1Q4QKnfLONPl8pF-mqBMMKkHsuIQq7zPNGuR2yVL73IWqAPLNUjOaCX2VhKXdWV3LpDOcsBpHaLX70eFvosw/s1600/258066633_907286429925584_3193507801066037226_n.jpg",
+          "filename": "258066633_907286429925584_3193507801066037226_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7S-aORSke7u7Oe3WIb9jTZDUp-Janywdlvty9UGTHFHV0qHdkLIx4Y3Em0B2cAssMK16wDHyW7EElUBD4hTQXTlucC7XXTwoW3hFWpS1Q4QKnfLONPl8pF-mqBMMKkHsuIQq7zPNGuR2yVL73IWqAPLNUjOaCX2VhKXdWV3LpDOcsBpHaLX70eFvosw/s960/258066633_907286429925584_3193507801066037226_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 960,
+            "originalHeight": 720
+          }
+        },
+        "alt": "Bronzový poklad z hradiska na strednom Považí",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Vysnívaný depot"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po krátkej dobe teda prišlo ono novembrové ráno, kedy sme plní očakávaní šlapali s batohmi na chrbtoch a v dobrej nálade hore na nové hradisko. Po príchode na lokalitu sme si rozbalili „nádobíčko“, naladili zem a začali nedočkavo behať s detektormi po lokalite. Nie však Peťo. Cestou na hradisko nám rozprával, že sa mu v noci sníval sen o tom, že našiel depot. A o tom, ako všetci boli z toho nadšení, lebo bol „bronzácky“. Len nám ho nevedel presne popísať. Tak sme sa na tom pobavili a popriali sme mu, že bodaj by sa mu to aj splnilo. To sme ešte nevedeli, že osud si s nami tak krásne zahrá a že sen sa stane skutočnosťou. Peťo pomaly vytiahol z ruksaku svoj Equinox a nastavil ho. Ja som si vedľa neho zmontoval Deusa a začal sa motať po hradisku. Peťo ešte počas môjho nastavovania mi hovorí krátko po nastavení svojej mašiny: „Tu mám hneď“ signál. Ja na to „Jasne Peťo veď skús“. Signál to bol spočiatku zaujímavý, aj keď nie jasná vec. Také to niečo neurčité medzi väčším železom a farbou, čo sa často ukáže ako „bordel“, ale zároveň signál, ktorý nemôžete nechať len tak a treba ho proste kopnúť. ID okolo 20 a signál celkom pekný. …prvý signál, ktoré len málokedy vyjdú. My ostatní sme sa postupne vzďaľovali od začiatočného bodu a teda aj od Peťa, ktorý si tam kopkal ten svoj signál a už nám postupne začali vyskakovať prvé zaujímavé drobnosti. Bronzové zliatky, malý bronzový ingot a ihlica v tvare biskupskej paličky, ktoré indikovali, že to asi nebude len o tých Slovanoch, ktorých sme tipovali, ale že sa nám tu rysuje aj neskorá doba bronzová. A Peťo stále na tom svojom úvodnom mieste, na kolenách a pomaly odkrýval vrchné vrstvy zeminy, pričom dohľadávačka ešte ani náznak signálu. Avšak čím šiel hlbšie, tým mu cievka na Equinoxe jasnejšie hlásila, že to asi nevyzerá na to veľké železo, ale na hlbokú farbu. Medzitým som sa dostal mimo Petrovho dohľadu a zachytil najskôr typickú slovanskú strelku s tuľajkou a dvoma veľkými krídelkami a potom hlboký železný signál, ktorý som sa pustil kopať. Šiel som stále hlbšie až som narazil na masívne obojstranné hrotité „výstupky“, tak typické pre slovanské bradatice alebo motyky. Strašne som sa potešil, že snáď som padol na bradaticu a vykríkol od nadšenia. Po pár sekundách som však počul iný výkrik nadšenia. Prichádzal zo smeru, kde kopal Peťo. Vzápätí sa ozvali aj ďalšie výkriky od ostatných, ktorí boli okolo neho. Nechal som teda moju domnelú bradaticu a utekal sa pozrieť, čo to tam ten Peťo má. Okolo neho už stál hlúčik kamošov a vzrušene debatovali. Čo to máme hoši? Žeby nejaká zelenina? Prišiel som nad už pomerne veľkú jamu, hlbokú približne 45 cm a hneď mi bolo jasné, že toto je pre nás historická udalosť. Na dne jamy vyčnievali evidentne dva tordované bronzové nákrčníky a v ich strede sa začala črtať typická špirálovitá ozdoba z neskorej doby bronzovej. Jasný bronzácky depot! Infarktové stavy! Archeológ celý bez seba, my ešte viac. Depot už Peťo spolu s archeológom odkrývali. Robili to veľmi trpezlivo a pomaly. Samozrejme sa spravila pomerne veľká sonda a išlo sa po vrstvách. Postupne sa pred nami zjavovali zdobené bronzové náramky, ďalšie nákrčníky viacerých typov, okuliarovitá špirálová spona, veľká krásne zdobená štítová spona a ďalšie kúsky. Vzhľadom na to, že bolo evidentné, že sa jedná o veľký depot šperkov z neskorej doby bronzovej, archeológ nakoniec rozhodol, že bude najvhodnejšie vybrať celý depot vo veľkom bloku a ten zobrať so sebou. Jeho kompletné odkrývanie sa vykonávalo následne v laboratóriu, kde odbornému oku neuniknú ani prípadné organické zvyšky. Celý proces záchrany pokladu trval prakticky do večera, na konci ktorého sme mali veľký a ťažký blok zeminy, v ktorej sa ukrýval náš depot. Hrdý nálezca si ho potom zabalený a za svitu mesiaca odniesol až k autám. Všetci sme po príchode domov nemohli ešte dlho zaspať. A moja „bradatica“? Nakoniec sa z nej vykľula „iba“ krásna veľkomoravská motyka a v jej okolí ešte pár ďalších streliek a pekné Ag-čko. Všetky tieto nálezy však úctivo „smekli“ svoj klobúk pred najväčšou peckou dňa a aj roka – Peťovým pokladom ženských šperkov z neskoršej doby bronzovej, ktoré akiste pôvodne patrili významnej lužickej šľachtičnej. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxHk8N28BUsURXIteDwiMZquziZzwpvjyCA3sDOo1I1BmyQsIHicoPBgU2ACpux0d-jS27ALXEb3lydIWggf0ZIWB0gM8Zg1wfJVSzaNvnvJA3hC1sWXALqkKMoBDpD_OaSk9wSF7YaNv0sUW8e4FIk6pAkFwg3diy9dwOWMYjXtkK4QdKwJAbFbCb-g/s0/256843731_984967658720472_7508294022887873623_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxHk8N28BUsURXIteDwiMZquziZzwpvjyCA3sDOo1I1BmyQsIHicoPBgU2ACpux0d-jS27ALXEb3lydIWggf0ZIWB0gM8Zg1wfJVSzaNvnvJA3hC1sWXALqkKMoBDpD_OaSk9wSF7YaNv0sUW8e4FIk6pAkFwg3diy9dwOWMYjXtkK4QdKwJAbFbCb-g/s1600/256843731_984967658720472_7508294022887873623_n.jpg",
+          "filename": "256843731_984967658720472_7508294022887873623_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxHk8N28BUsURXIteDwiMZquziZzwpvjyCA3sDOo1I1BmyQsIHicoPBgU2ACpux0d-jS27ALXEb3lydIWggf0ZIWB0gM8Zg1wfJVSzaNvnvJA3hC1sWXALqkKMoBDpD_OaSk9wSF7YaNv0sUW8e4FIk6pAkFwg3diy9dwOWMYjXtkK4QdKwJAbFbCb-g/s960/256843731_984967658720472_7508294022887873623_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 960,
+            "originalHeight": 720
+          }
+        },
+        "alt": "Bronzový poklad z hradiska na strednom Považí",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Praveký poklad zo stredného Považia (depot bronzových predmetov z hradiska lužickej kultúry)",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Po odbornom očistení bolo zistené, že bronzový depot obsahoval kompletnú šperkovú výbavu ženského odevu. Z 12 získaných predmetov dominovala krásne zdobená masívna štítová spona, do ktorej boli zopnuté ďalšie šperky, a to 2 tordované nákrčníky, 2 náramky a viacdielna čelenka. Depot ešte obsahoval dve záušnice, okuliarovitý závesok, veľkú puklicu, malú pukličku a ďalší nákrčník. Nálezy môžeme s istotou datovať do mladšej doby bronzovej, resp. do 12. – 11. stor. pred naším letopočtom a pripísať nositeľom lužickej kultúry."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nález bronzového depotu a spôsob jeho nadobudnutia formou archeologického výskumu v rámci preventívnych opatrení zabezpečenia ochrany a záchrany archeologických nálezov je unikátnou kombináciou využitia príležitosti, ako reálne chrániť naše spoločné kultúrne dedičstvo. Nález bol nájdený vďaka preventívnym aktivitám Trenčianskeho múzea v Trenčíne, zameraným na záchranu archeologických nálezov v spolupráci s dobrovoľníkmi z občianskeho združenia Hradiská a v koordinácii s Pamiatkovým úradom Slovenskej republiky. Význam nálezu pritom nespočíva iba v jeho odbornej hodnote hmotného dokumentu pravekého osídlenia Považia. Naopak, celá genéza záchrany, výnimočná spolupráca, konzervácia a prezentácia nálezu je takým príkladom success story, ktorý v poslednom čase nemá v slovenskej archeológii obdobu. Nazdávame sa, že vďaka ochote a angažovanosti všetkých zúčastnených môže príbeh záchrany pravekého pokladu z Karpát slúžiť ako vynikajúci príklad toho, …ak všetci ťaháme za jeden povraz."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMk7AMxBI2py1QA-_c_gAXAgRqTc8dKdqVNdx1cxYBddmj5_S2fmYFVpJ-oNtwXAIu1C6GXWP1QnJtIfZwuWOB8AjZcjggOOIIPGiiUw4zzPh48H7bDgVEVgzsZRiBHhaU4vZ-CYWbBLO1tU0iXkUYLO3O4XKtAPEwDZh3bkU6pjYMCtmnbvPzWfWVNA/s0/256843736_984967602053811_1905741399150432560_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMk7AMxBI2py1QA-_c_gAXAgRqTc8dKdqVNdx1cxYBddmj5_S2fmYFVpJ-oNtwXAIu1C6GXWP1QnJtIfZwuWOB8AjZcjggOOIIPGiiUw4zzPh48H7bDgVEVgzsZRiBHhaU4vZ-CYWbBLO1tU0iXkUYLO3O4XKtAPEwDZh3bkU6pjYMCtmnbvPzWfWVNA/s1600/256843736_984967602053811_1905741399150432560_n.jpg",
+          "filename": "256843736_984967602053811_1905741399150432560_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMk7AMxBI2py1QA-_c_gAXAgRqTc8dKdqVNdx1cxYBddmj5_S2fmYFVpJ-oNtwXAIu1C6GXWP1QnJtIfZwuWOB8AjZcjggOOIIPGiiUw4zzPh48H7bDgVEVgzsZRiBHhaU4vZ-CYWbBLO1tU0iXkUYLO3O4XKtAPEwDZh3bkU6pjYMCtmnbvPzWfWVNA/s960/256843736_984967602053811_1905741399150432560_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 960,
+            "originalHeight": 720
+          }
+        },
+        "alt": "Bronzový poklad z hradiska na strednom Považí",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Záchrana nálezu je tak ukážkovým príkladom efektívnej spolupráce aktérov z rozličných sfér kultúrneho dedičstva, ktorých však spája rovnaký cieľ."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Nadregionálny význam"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Depot zo stredného Považia nie je iba náhodným zoskupením bronzových predmetov, ale uzavretým nálezovým celkom, ktorý bol odborne vyzdvihnutý, celý proces bol riadne zdokumentovaný a preto bude zdrojom mnohých nových informácií. Depotu bol vďaka odbornosti prístupu vystavený akýsi „rodný list“. Na rozdiel od prevažnej väčšiny iných bronzových depotov, ktoré pochádzajú buď z nelegálnych výkopov alebo boli nájdené bez prítomnosti archeológa, nezriedka ešte v 19. storočí, v prípade depotu zo stredného Považia boli odborne zdokumentované nálezové okolnosti, čo bude mať zaiste pozitívny vplyv na stupeň istoty jeho chronologickej klasifikácie, zasadenia do kontextu osídlenia Považia v dobe bronzovej a teda aj jeho finálnej interpretácie. Tieto aspekty z neho robia depot mimoriadnej odbornej hodnoty, význam ktorého po jeho riadnom odbornom spracovaní a publikovaní presiahne regionálne hranice Považia, resp. severozápadného Slovenska."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIXbcsXW9FXg_2nmEvzVolQdDCtJHOtuOKMhXOvHLE4dkwlRHRPLP77b50MYthbGrZCfRa-vLDJNTrG2c6A0VJbhM01G14v_OfLEMUZ5FeKU-WtBYyB9dBSDYStc2Eg_izXjGDeRAyVvw3KKV_DCv9RifCs0ra4iDNoMBmydcIe_icmJLk2TYyI3zRA/s0/254975403_980559115827993_1017971987642206385_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIXbcsXW9FXg_2nmEvzVolQdDCtJHOtuOKMhXOvHLE4dkwlRHRPLP77b50MYthbGrZCfRa-vLDJNTrG2c6A0VJbhM01G14v_OfLEMUZ5FeKU-WtBYyB9dBSDYStc2Eg_izXjGDeRAyVvw3KKV_DCv9RifCs0ra4iDNoMBmydcIe_icmJLk2TYyI3zRA/s1600/254975403_980559115827993_1017971987642206385_n.jpg",
+          "filename": "254975403_980559115827993_1017971987642206385_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieIXbcsXW9FXg_2nmEvzVolQdDCtJHOtuOKMhXOvHLE4dkwlRHRPLP77b50MYthbGrZCfRa-vLDJNTrG2c6A0VJbhM01G14v_OfLEMUZ5FeKU-WtBYyB9dBSDYStc2Eg_izXjGDeRAyVvw3KKV_DCv9RifCs0ra4iDNoMBmydcIe_icmJLk2TYyI3zRA/s2015/254975403_980559115827993_1017971987642206385_n.jpg",
+            "displayedWidth": 239,
+            "displayedHeight": 320,
+            "originalWidth": 1504,
+            "originalHeight": 2015
+          }
+        },
+        "alt": "Bronzový poklad z hradiska na strednom Považí",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Spolupráca relevantných aktérov"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nález je výsledkom symbiózy a výnimočného porozumenia medzi štátom, samosprávou a tretím sektorom. Verejnú sféru reprezentujú dve inštitúcie, ktoré majú takpovediac vo svojej pracovnej náplni ochranu kultúrneho dedičstva. Štát zastupuje Pamiatkový úrad Slovenskej republiky (resp. Krajský pamiatkový úrad Trenčín), s ktorým bol celý projekt priebežne konzultovaný a bez súhlasu ktorého by záchrana nálezu nebola možná. Z odborného hľadiska záchranu depotu zastrešilo Trenčianske múzeum v Trenčíne, ktoré vďaka svojmu archeológovi, Mgr. Jurajovi Malecovi, PhD. významne rozšírilo svoje terénne aktivity aj mimo svoj tradičný región. Archeológ by si však na rozľahlom nálezisku sám veľmi nepomohol. Svoje personálne kapacity preto tradične vďačne poskytlo občianske združenie Hradiská. Vďaka pomoci členov združenia v teréne, ktorí rešpektovali pokyny múzejného archeológa, bol nález nielen objavený, ale aj odborne vyzdvihnutý metódami archeologického výskumu ako preventívne opatrenie v rámci zabezpečenia ochrany a záchrany archeologických nálezov a tak zachránený pre ďalšie generácie. Spolupráca a vzájomná koordinácia krokov má tak charakter netradičného, o to viac však žiaduceho riešenia aktuálnej nepriaznivej situácie s ochranou archeologického kultúrneho dedičstva, v tejto veci paradoxne súvisiacej so zverejňovaním údajov (LIDAR) verejnosti. Samotný nález je pritom výsledkom iba jednej z viacerých terénnych aktivít, cieľom ktorých je záchrana ohrozeného archeologického dedičstva na Považí. Tieto aktivity Trenčianske múzeum v Trenčíne, v spolupráci s dobrovoľníkmi, vykonáva nad rámec svojich základných odborných činností, nezriedka mimo štandardného pracovného času."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUmWLz9DwNmaWl4llkeuifnwgDu8fBaqCN3UtS8G6z-mlr4lQ8dnHH26dkg_KMMu8-S6F6JqspXH88Hn9zE9wjmEE8oFXN-AKBSnMet22rYHoZTba5DJ65PSmwSOtGtcocGJrEsMldlWHb4ZEER2YFwWMDD8fOjYRs_1P3GF2PFA3nRbzhe5lilmsZQ/s0/258495467_1073318446803369_4338658116014174242_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUmWLz9DwNmaWl4llkeuifnwgDu8fBaqCN3UtS8G6z-mlr4lQ8dnHH26dkg_KMMu8-S6F6JqspXH88Hn9zE9wjmEE8oFXN-AKBSnMet22rYHoZTba5DJ65PSmwSOtGtcocGJrEsMldlWHb4ZEER2YFwWMDD8fOjYRs_1P3GF2PFA3nRbzhe5lilmsZQ/s1600/258495467_1073318446803369_4338658116014174242_n.jpg",
+          "filename": "258495467_1073318446803369_4338658116014174242_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOUmWLz9DwNmaWl4llkeuifnwgDu8fBaqCN3UtS8G6z-mlr4lQ8dnHH26dkg_KMMu8-S6F6JqspXH88Hn9zE9wjmEE8oFXN-AKBSnMet22rYHoZTba5DJ65PSmwSOtGtcocGJrEsMldlWHb4ZEER2YFwWMDD8fOjYRs_1P3GF2PFA3nRbzhe5lilmsZQ/s960/258495467_1073318446803369_4338658116014174242_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 960,
+            "originalHeight": 720
+          }
+        },
+        "alt": "Bronzový poklad z hradiska na strednom Považí",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bezodkladná reakcia na možné ohrozenie lokality ako zmena paradigmy k záchrane ohrozených častí archeologického kultúrneho dedičstva",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bezprostredná akcia bola iniciovaná vďaka pozornému oku odborníka, ktorý na novosprístupnených záberoch z LIDAR-u na Považí zachytil existenciu doteraz neznámeho hradiska, situovaného v pomerne exponovanej polohe. Niekoľko jám v priestore hradiska naznačovalo, že poloha by mohla byť predmetom záujmu nelegálnych hľadačov. Trenčianske múzeum v Trenčíne preto k terénnym aktivitám pristúpilo predovšetkým z hľadiska potreby bezodkladnej reakcie na možné ohrozenie tejto lokality. Zároveň však bolo potrebné zvoliť taký prístup, ktorý je v súlade so zákonom i medzinárodnými záväzkami Slovenskej republiky. Vďaka ústretovosti štátneho orgánu a ochoty dobrovoľníkov sa podarilo veľmi rýchlo nájsť také riešenie, ktoré spĺňa ako náročné požiadavky odbornosti, tak zákonnosti postupu, kedy bola záchrana nálezu vykonaná v striktnom súlade so zákonom o ochrane pamiatkového fondu. Uvedený prístup je tak zároveň príspevkom Trenčianskeho múzea v Trenčíne do diskusie k filozofii prístupu ochrany archeologického kultúrneho dedičstva, resp. záchrane jeho ohrozených častí."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy6ktDdO0A3qaCFUTPHxF-7sIADUNkcbEUBJdgD1PC0heodFElTXFlrLUk507G77PLK6toFobbsm5V9AqlK9PIdFcitLvuYsuqEtq4FbES7bBHYLnHE7tdJv3SkwbQZnJMEWFJm1m9ypD4nrUWFFniZVN-MR6jZNbLjDhNUZIeSO8aRAwScUl96oA-mw/s0/263498430_462117305583019_4732860325659201100_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy6ktDdO0A3qaCFUTPHxF-7sIADUNkcbEUBJdgD1PC0heodFElTXFlrLUk507G77PLK6toFobbsm5V9AqlK9PIdFcitLvuYsuqEtq4FbES7bBHYLnHE7tdJv3SkwbQZnJMEWFJm1m9ypD4nrUWFFniZVN-MR6jZNbLjDhNUZIeSO8aRAwScUl96oA-mw/s1600/263498430_462117305583019_4732860325659201100_n.jpg",
+          "filename": "263498430_462117305583019_4732860325659201100_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy6ktDdO0A3qaCFUTPHxF-7sIADUNkcbEUBJdgD1PC0heodFElTXFlrLUk507G77PLK6toFobbsm5V9AqlK9PIdFcitLvuYsuqEtq4FbES7bBHYLnHE7tdJv3SkwbQZnJMEWFJm1m9ypD4nrUWFFniZVN-MR6jZNbLjDhNUZIeSO8aRAwScUl96oA-mw/s960/263498430_462117305583019_4732860325659201100_n.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 240,
+            "originalWidth": 960,
+            "originalHeight": 720
+          }
+        },
+        "alt": "Bronzový poklad z hradiska na strednom Považí",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Záchrana, konzervácia, prezentácia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nález bol nielen odborne vyzdvihnutý, ale v krátkom čase sa mu dostalo aj náležitej odbornej pozornosti v podobe konzervácie. Táto bola vykonávaná v spolupráci so špecialistami Masarykovej univerzity v Brne a Univerzity Komenského v Bratislave, kolegom z oboch inštitúcií patrí naša vďaka za ich angažovanosť a pomoc. Konzervácia začala ešte v priestoroch Trenčianskeho múzea v Trenčíne, kde bol nález, ktorý tu bol premiestnený v bloku hliny, postupne a veľmi šetrne preparovaný, takmer v laboratórnych podmienkach. Prirodzene, celý proces so silným akcentom na interdisciplinárny prístup, bol (a priebežne je) riadne dokumentovaný. Po skončení konzervácie budú predmety na základe spolupráce s Pamiatkovým úradom Slovenskej republiky prezentované v Trenčianskom múzeu v Trenčíne. Depot bude publikovaný ako v odborných periodikách, tak v popularizačnej literatúre. Vzhľadom na nebývalý záujem verejnosti predpokladáme aj špecifický kurátorský výklad. Neformálne vzdelávanie verejnosti považujeme za mimoriadne prínosný aspekt našej práce, ktorý – ako dúfame – sa časom odrazí vo zvýšenom záujme o otázky ochrany archeologických pamiatok a nálezov"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1n61zJVS1UlV0UGAOQsuuNlkEIQ8_SD8spwAjEX2SaY6whuUOJOHcP-2o1zqSgtrbIkD-vPVQYdNznQua7YGxwKH9TfsnxnrL2zBrnTT9S0_TOHuwftZbBC9qygJPdJhL00Zrv1u38SXm4LOj7jiaoHrdnGWQQLjVQrPhLwr7ZMXuKo8d5UzuF8nUKA/s0/320563812_1599336380518284_511084314007933904_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1n61zJVS1UlV0UGAOQsuuNlkEIQ8_SD8spwAjEX2SaY6whuUOJOHcP-2o1zqSgtrbIkD-vPVQYdNznQua7YGxwKH9TfsnxnrL2zBrnTT9S0_TOHuwftZbBC9qygJPdJhL00Zrv1u38SXm4LOj7jiaoHrdnGWQQLjVQrPhLwr7ZMXuKo8d5UzuF8nUKA/s1600/320563812_1599336380518284_511084314007933904_n.jpg",
+          "filename": "320563812_1599336380518284_511084314007933904_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1n61zJVS1UlV0UGAOQsuuNlkEIQ8_SD8spwAjEX2SaY6whuUOJOHcP-2o1zqSgtrbIkD-vPVQYdNznQua7YGxwKH9TfsnxnrL2zBrnTT9S0_TOHuwftZbBC9qygJPdJhL00Zrv1u38SXm4LOj7jiaoHrdnGWQQLjVQrPhLwr7ZMXuKo8d5UzuF8nUKA/s2048/320563812_1599336380518284_511084314007933904_n.jpg",
+            "displayedWidth": 233,
+            "displayedHeight": 320,
+            "originalWidth": 1488,
+            "originalHeight": 2048
+          }
+        },
+        "alt": "Bronzový poklad z hradiska na strednom Považí",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "Mediálne atraktívna prezentácia verejného záujmu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Celá genéza záchrany depotu môže slúžiť ako ukážkový príklad toho, aké nástroje možno použiť v boji proti nelegálnym vykrádačským aktivitám. Okrem prísnej legislatívnej úpravy, ktorú všetci aktéri považujú za principiálne správne nastavenie právneho rámca, a iných represívnych nástrojov je potrebné disponovať aj „mäkkými“ nástrojmi v podobe vzdelávania, osvety a medializácie. Najmä laickej verejnosti je potrebné ukázať, že archeologické kultúrne dedičstvo je reálne ohrozované každý deň. V mediálnej rovine bol preto opakovane prezentovaný verejný záujem na ochrane archeologického kultúrneho dedičstva. S ohľadom na publikum, ktorým v tomto prípade je laická verejnosť, bol ako referenčná skutočnosť zvolený diametrálny rozdiel medzi tým, keď je významný nález odborne vyzdvihnutý, dokumentovaný, ošetrený a prezentovaný vo verejne dostupnej múzejnej zbierke a tým, keď je bez čo i len základnej dokumentácie ukradnutý z pravekej lokality a následne zmizne v súkromných zbierkach, v horšom prípade aj v zahraničí. V týchto aktivitách bude Trenčianske múzeum v Trenčíne pokračovať aj neskôr, v čase po odbornej konzervácii nálezu a ochotne poskytneme súčinnosť každému, kto sa bude chcieť na prezentácii takejto good practice podieľať."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tomáš Michalík – Juraj Malec – Peter Jenčík \n"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

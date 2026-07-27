@@ -1,0 +1,37 @@
+{
+  "kind": "collectionType",
+  "collectionName": "push_subscriptions",
+  "info": {
+    "singularName": "push-subscription",
+    "pluralName": "push-subscriptions",
+    "displayName": "Push Subscription",
+    "description": "Web Push odber prehliadača/PWA jedného člena. Jeden účet môže mať viac zariadení. `endpoint` je unikátny."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "endpoint": {
+      "type": "text",
+      "required": true
+    },
+    "p256dh": {
+      "type": "string",
+      "maxLength": 200
+    },
+    "auth": {
+      "type": "string",
+      "maxLength": 100
+    },
+    "userAgent": {
+      "type": "string",
+      "maxLength": 300
+    },
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    }
+  }
+}

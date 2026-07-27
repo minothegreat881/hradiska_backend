@@ -1,0 +1,11 @@
+{ "changes":[
+  {"before":"Hradisko má rozlohu cca 1700 m2","after":"Hradisko má rozlohu cca 1700 m²","rule":"B typografia (m²)"},
+  {"before":"z doby halštatskej. aj stopy osídlenia","after":"z doby halštatskej. Aj stopy osídlenia","rule":"A9 veľké písmeno po bodke"},
+  {"before":"tejto významnej polohy. v celom priestore vrchu","after":"tejto významnej polohy. V celom priestore vrchu","rule":"A9 veľké písmeno po bodke"},
+  {"before":"Ďalej sa na Plešovici sa našli predmety","after":"Ďalej sa na Plešovici našli predmety","rule":"A2 zdvojené sa"},
+  {"before":"osídlenie z tejto doby. od Blatnice necelé štyri","after":"osídlenie z tejto doby. Od Blatnice necelé štyri","rule":"A9 veľké písmeno po bodke"},
+  {"before":"prepojené s refúgiom na kopci rovná","after":"prepojené s refúgiom na kopci Rovná","rule":"A9 vlastné meno veľkým"},
+  {"before":"Na výšinných polohách Stredná a rovná nie je","after":"Na výšinných polohách Stredná a Rovná nie je","rule":"A9 vlastné meno veľkým"},
+  {"before":"z druhej polovice 2. stor. po kr. z Rémovej","after":"z druhej polovice 2. stor. po Kr. z Rémovej","rule":"A9 skratka Kr. veľkým"},
+  {"before":"kniežací hrob objavený v Blatnici - Sebeslavciach","after":"kniežací hrob objavený v Blatnici-Sebeslavciach","rule":"B spojovník bez medzier (názov obce)"},
+  {"before":"nevyhodnotené nálezy zbraní a ozdôb z úpätia Plešovice v polohe rémová","after":"…v polohe Rémová","rule":"A9 vlastné meno veľkým"}]}

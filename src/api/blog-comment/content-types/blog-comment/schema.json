@@ -56,7 +56,7 @@
     },
     "status": {
       "type": "enumeration",
-      "enum": ["visible", "hidden", "spam"],
+      "enum": ["visible", "hidden", "spam", "waiting", "reported"],
       "default": "visible",
       "required": true
     },

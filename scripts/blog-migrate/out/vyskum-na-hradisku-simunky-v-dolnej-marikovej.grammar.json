@@ -1,0 +1,39 @@
+{
+ "changes": [
+  {
+   "before": "oblasti okresov Púchov a a Považská Bystrica",
+   "after": "oblasti okresov Púchov a Považská Bystrica",
+   "rule": "B zdvojené „a\""
+  },
+  {
+   "before": "prišiel deň D - (resp. dva dni D) - a to víkend 7.-8. mája 2016",
+   "after": "prišiel deň D — (resp. dva dni D) — a to víkend 7. – 8. mája 2016",
+   "rule": "B pomlčky + en dash"
+  },
+  {
+   "before": "vykopali jednu sondu o rozmeroch 1x2 metre",
+   "after": "…o rozmeroch 1 × 2 metre",
+   "rule": "B typografia (×)"
+  },
+  {
+   "before": "malou sondou s rozmermi 40x40 cm",
+   "after": "malou sondou s rozmermi 40 × 40 cm",
+   "rule": "B typografia (×)"
+  },
+  {
+   "before": "každý kovový nález, najdený s detektormi",
+   "after": "každý kovový nález, nájdený s detektormi",
+   "rule": "A8 diakritika (nájdený)"
+  },
+  {
+   "before": "osídlené prinajmenšom v období Púchovskej kultúry",
+   "after": "…v období púchovskej kultúry",
+   "rule": "A9 kultúra malým"
+  },
+  {
+   "before": "F. Martausovi za to že nám vyšli v ústrety",
+   "after": "F. Martausovi za to, že nám vyšli v ústrety",
+   "rule": "A1 čiarka pred že"
+  }
+ ]
+}

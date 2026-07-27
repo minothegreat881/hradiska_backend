@@ -1,0 +1,982 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\janovcemachalovce.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-5521571402814476770",
+    "bloggerPostUrl": "http://www.hradiska.sk/2025/04/janovcemachalovce.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/5521571402814476770/comments/default",
+    "extractedAt": "2026-07-21T14:07:19.062Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 24,
+      "captionedImages": 6,
+      "separatorImages": 18
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Jánovce–Machalovce",
+    "slug": "janovce-machalovce",
+    "excerpt": "Južne od obce Jánovce a jej miestnej časti Machalovce sa týči nezalesnený kopec s názvom Hradisko, ktorý ukrýva jedno z najvýznamnejších archeologických nálezísk v regióne. Práve toto miesto s bohatou históriou, osídlené už od praveku, bolo…",
+    "authorName": "Orgon",
+    "publishedAt": "2025-04-26T16:57:00.009+02:00",
+    "originalPublishedDate": "2025-04-26T16:57:00.009+02:00",
+    "updatedAt": "2025-04-27T23:32:00.535+02:00",
+    "readingTime": 6,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebMwd8aVQY0ahrqTFJ7UQtTtTgBdZLqf5gAQp1k9qyfHEvaXvDR3fC4EpAB25JMaXQCJs4OtglHorLJU_cBbLoxoR7chwnseLCWGG5MAE540yOe50dEiAhr4f4NBb0ZohDAFPyAxQ0GBxnaueGtA2MK-s639FifcG9mmX0LsqkwdkR6GMVJikdLy5t_ZM/s0/Lidar.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebMwd8aVQY0ahrqTFJ7UQtTtTgBdZLqf5gAQp1k9qyfHEvaXvDR3fC4EpAB25JMaXQCJs4OtglHorLJU_cBbLoxoR7chwnseLCWGG5MAE540yOe50dEiAhr4f4NBb0ZohDAFPyAxQ0GBxnaueGtA2MK-s639FifcG9mmX0LsqkwdkR6GMVJikdLy5t_ZM/s1600/Lidar.jpg",
+      "filename": "Lidar.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebMwd8aVQY0ahrqTFJ7UQtTtTgBdZLqf5gAQp1k9qyfHEvaXvDR3fC4EpAB25JMaXQCJs4OtglHorLJU_cBbLoxoR7chwnseLCWGG5MAE540yOe50dEiAhr4f4NBb0ZohDAFPyAxQ0GBxnaueGtA2MK-s639FifcG9mmX0LsqkwdkR6GMVJikdLy5t_ZM/s628/Lidar.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 226,
+        "originalWidth": 628,
+        "originalHeight": 443
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebMwd8aVQY0ahrqTFJ7UQtTtTgBdZLqf5gAQp1k9qyfHEvaXvDR3fC4EpAB25JMaXQCJs4OtglHorLJU_cBbLoxoR7chwnseLCWGG5MAE540yOe50dEiAhr4f4NBb0ZohDAFPyAxQ0GBxnaueGtA2MK-s639FifcG9mmX0LsqkwdkR6GMVJikdLy5t_ZM/s0/Lidar.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebMwd8aVQY0ahrqTFJ7UQtTtTgBdZLqf5gAQp1k9qyfHEvaXvDR3fC4EpAB25JMaXQCJs4OtglHorLJU_cBbLoxoR7chwnseLCWGG5MAE540yOe50dEiAhr4f4NBb0ZohDAFPyAxQ0GBxnaueGtA2MK-s639FifcG9mmX0LsqkwdkR6GMVJikdLy5t_ZM/s1600/Lidar.jpg",
+        "filename": "Lidar.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebMwd8aVQY0ahrqTFJ7UQtTtTgBdZLqf5gAQp1k9qyfHEvaXvDR3fC4EpAB25JMaXQCJs4OtglHorLJU_cBbLoxoR7chwnseLCWGG5MAE540yOe50dEiAhr4f4NBb0ZohDAFPyAxQ0GBxnaueGtA2MK-s639FifcG9mmX0LsqkwdkR6GMVJikdLy5t_ZM/s628/Lidar.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 226,
+          "originalWidth": 628,
+          "originalHeight": 443
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmzeaeTUEswJ-PPc43ZDsi3WBgoUMiNKGOp05vRHj4miTIn7GfVM_0qoIDqKoSNBbRr4XSJa2QSZvK7AC6SEr1mcalrdTxoIFTVnfTgbOgK5t8uTLIIXI0MbV8rR87INzaZzDkEyraTGL3-z9Hz43QXyJR7XLxl42wgaM6nKsjlBr0WThTqKD955ud5GWw/s0/val.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmzeaeTUEswJ-PPc43ZDsi3WBgoUMiNKGOp05vRHj4miTIn7GfVM_0qoIDqKoSNBbRr4XSJa2QSZvK7AC6SEr1mcalrdTxoIFTVnfTgbOgK5t8uTLIIXI0MbV8rR87INzaZzDkEyraTGL3-z9Hz43QXyJR7XLxl42wgaM6nKsjlBr0WThTqKD955ud5GWw/s1600/val.jpg",
+        "filename": "val.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmzeaeTUEswJ-PPc43ZDsi3WBgoUMiNKGOp05vRHj4miTIn7GfVM_0qoIDqKoSNBbRr4XSJa2QSZvK7AC6SEr1mcalrdTxoIFTVnfTgbOgK5t8uTLIIXI0MbV8rR87INzaZzDkEyraTGL3-z9Hz43QXyJR7XLxl42wgaM6nKsjlBr0WThTqKD955ud5GWw/s626/val.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 202,
+          "originalWidth": 626,
+          "originalHeight": 396
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWwmhvwMHJVgRyuf33G1h6N9-dH0W_EIJ6gOMTnHAHLBmYI88LX_lnP4ylZXH_BYJl3DLFB53dst-XRmkHyEIkK4aDb-Be5VKqAPswEHiqXyEcQaW5w_0J_uK68jmsneHWdcS9VpdgJ9uSPfte-CUxIFVLbLj0G6vNdgyL4bYZkC33eHG6pTZNaH5qT5BN/s0/2%20VM.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWwmhvwMHJVgRyuf33G1h6N9-dH0W_EIJ6gOMTnHAHLBmYI88LX_lnP4ylZXH_BYJl3DLFB53dst-XRmkHyEIkK4aDb-Be5VKqAPswEHiqXyEcQaW5w_0J_uK68jmsneHWdcS9VpdgJ9uSPfte-CUxIFVLbLj0G6vNdgyL4bYZkC33eHG6pTZNaH5qT5BN/s1600/2%20VM.jpg",
+        "filename": "2 VM.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWwmhvwMHJVgRyuf33G1h6N9-dH0W_EIJ6gOMTnHAHLBmYI88LX_lnP4ylZXH_BYJl3DLFB53dst-XRmkHyEIkK4aDb-Be5VKqAPswEHiqXyEcQaW5w_0J_uK68jmsneHWdcS9VpdgJ9uSPfte-CUxIFVLbLj0G6vNdgyL4bYZkC33eHG6pTZNaH5qT5BN/s627/2%20VM.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 227,
+          "originalWidth": 627,
+          "originalHeight": 445
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22sk3aI3AAxLhbdtD3TPlFYRa2D_jtZh0aMgJ4YwmF4-rKFT9A28_MvttHpixwL0xXuFWLubKOmh9g4nlNMuBjeoBnP9YeqvjTT7xW5uyfYi50amUvl2nsi5TVU-k_qZexb50UVckXU52o6ImBftJ2FP967c8LYBHoKf4G9OKmPLn8aZPDzbXB_MXkUO/s0/Mach3.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22sk3aI3AAxLhbdtD3TPlFYRa2D_jtZh0aMgJ4YwmF4-rKFT9A28_MvttHpixwL0xXuFWLubKOmh9g4nlNMuBjeoBnP9YeqvjTT7xW5uyfYi50amUvl2nsi5TVU-k_qZexb50UVckXU52o6ImBftJ2FP967c8LYBHoKf4G9OKmPLn8aZPDzbXB_MXkUO/s1600/Mach3.jpg",
+        "filename": "Mach3.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22sk3aI3AAxLhbdtD3TPlFYRa2D_jtZh0aMgJ4YwmF4-rKFT9A28_MvttHpixwL0xXuFWLubKOmh9g4nlNMuBjeoBnP9YeqvjTT7xW5uyfYi50amUvl2nsi5TVU-k_qZexb50UVckXU52o6ImBftJ2FP967c8LYBHoKf4G9OKmPLn8aZPDzbXB_MXkUO/s2000/Mach3.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 131,
+          "originalWidth": 2000,
+          "originalHeight": 819
+        },
+        "caption": "Pohľad na predhradie a za ním samotné hradisko"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicF8Dlq5a40vdiQLGvQ3yJnOtmTT8P_NA56BL84VLI3EeUlBFdN6kkT5cVCbTSg6DPovXToddEiIEWFftJvhO4tEDDF7pQQJH_7g83zZEiu_x2MlpZq8v5SpI0kfP5admctZNCk94f8iDbbcQ4J9iP4TAWkW7H_UqQ8pcY4OsZ3BPe0g8avHRZRHo1-ujV/s0/bronzy.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicF8Dlq5a40vdiQLGvQ3yJnOtmTT8P_NA56BL84VLI3EeUlBFdN6kkT5cVCbTSg6DPovXToddEiIEWFftJvhO4tEDDF7pQQJH_7g83zZEiu_x2MlpZq8v5SpI0kfP5admctZNCk94f8iDbbcQ4J9iP4TAWkW7H_UqQ8pcY4OsZ3BPe0g8avHRZRHo1-ujV/s1600/bronzy.jpg",
+        "filename": "bronzy.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicF8Dlq5a40vdiQLGvQ3yJnOtmTT8P_NA56BL84VLI3EeUlBFdN6kkT5cVCbTSg6DPovXToddEiIEWFftJvhO4tEDDF7pQQJH_7g83zZEiu_x2MlpZq8v5SpI0kfP5admctZNCk94f8iDbbcQ4J9iP4TAWkW7H_UqQ8pcY4OsZ3BPe0g8avHRZRHo1-ujV/s490/bronzy.jpg",
+          "displayedWidth": 255,
+          "displayedHeight": 320,
+          "originalWidth": 391,
+          "originalHeight": 490
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisKFAniH76JuA6h_7nC9Zx_G2mWaVMHJv9NDj4mLq62ekvKfWGJgD910NVzBf4Bzj7GhGKYpHlmMDukO1-2rcJrsuqF4Ul3z_QFiJ3HfP6waf9_zZkMtP9R49CUnzOZaDcJL5df8TymwXvwwjE9bTKDNWpyWcPnXrfNUf4whIv-GzCj2YAZ5GPdyKLMu_Q/s0/soska.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisKFAniH76JuA6h_7nC9Zx_G2mWaVMHJv9NDj4mLq62ekvKfWGJgD910NVzBf4Bzj7GhGKYpHlmMDukO1-2rcJrsuqF4Ul3z_QFiJ3HfP6waf9_zZkMtP9R49CUnzOZaDcJL5df8TymwXvwwjE9bTKDNWpyWcPnXrfNUf4whIv-GzCj2YAZ5GPdyKLMu_Q/s1600/soska.jpg",
+        "filename": "soska.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisKFAniH76JuA6h_7nC9Zx_G2mWaVMHJv9NDj4mLq62ekvKfWGJgD910NVzBf4Bzj7GhGKYpHlmMDukO1-2rcJrsuqF4Ul3z_QFiJ3HfP6waf9_zZkMtP9R49CUnzOZaDcJL5df8TymwXvwwjE9bTKDNWpyWcPnXrfNUf4whIv-GzCj2YAZ5GPdyKLMu_Q/s622/soska.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 290,
+          "originalWidth": 622,
+          "originalHeight": 564
+        },
+        "caption": "Unikátna bronzová soška Kelta so zlatými očami"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjlejFYZujv3U7ojrg8Vdd6LnM72i5XvQYel8VunD3R35i9yAegIhRRHFkLRWssIAT-7n6vKLA0NAhMszVVXBp0upSuisz-4halJ_wqnGCuNNyqwtcqvL8aUKgBr5wuivOwtXNfk8tdC39JogXL9Z8wZgDj_HIFwaDFLt_TqgDsc9xcQcA0OxsC4lPBH68/s0/jantar.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjlejFYZujv3U7ojrg8Vdd6LnM72i5XvQYel8VunD3R35i9yAegIhRRHFkLRWssIAT-7n6vKLA0NAhMszVVXBp0upSuisz-4halJ_wqnGCuNNyqwtcqvL8aUKgBr5wuivOwtXNfk8tdC39JogXL9Z8wZgDj_HIFwaDFLt_TqgDsc9xcQcA0OxsC4lPBH68/s1600/jantar.jpg",
+        "filename": "jantar.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjlejFYZujv3U7ojrg8Vdd6LnM72i5XvQYel8VunD3R35i9yAegIhRRHFkLRWssIAT-7n6vKLA0NAhMszVVXBp0upSuisz-4halJ_wqnGCuNNyqwtcqvL8aUKgBr5wuivOwtXNfk8tdC39JogXL9Z8wZgDj_HIFwaDFLt_TqgDsc9xcQcA0OxsC4lPBH68/s417/jantar.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 234,
+          "originalWidth": 417,
+          "originalHeight": 305
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKCHAd0ecdtDGT-gbB7-zNkpfRvMnlBHt6ch9nC3VNmdAX7-2UztBH7zbMKLivcBmMZ_JB4F5OmeMzZfBhgcRYFOO65-OFWr63L54R2DLeZepRFcaX_-etV5uBStOZXLLRSUFDqy_f9t7JAF7TDu0qLsgsHAz-DYy4AkcCqyXjtmCEu6xR5DnUPc42G1U/s0/keramika.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKCHAd0ecdtDGT-gbB7-zNkpfRvMnlBHt6ch9nC3VNmdAX7-2UztBH7zbMKLivcBmMZ_JB4F5OmeMzZfBhgcRYFOO65-OFWr63L54R2DLeZepRFcaX_-etV5uBStOZXLLRSUFDqy_f9t7JAF7TDu0qLsgsHAz-DYy4AkcCqyXjtmCEu6xR5DnUPc42G1U/s1600/keramika.jpg",
+        "filename": "keramika.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKCHAd0ecdtDGT-gbB7-zNkpfRvMnlBHt6ch9nC3VNmdAX7-2UztBH7zbMKLivcBmMZ_JB4F5OmeMzZfBhgcRYFOO65-OFWr63L54R2DLeZepRFcaX_-etV5uBStOZXLLRSUFDqy_f9t7JAF7TDu0qLsgsHAz-DYy4AkcCqyXjtmCEu6xR5DnUPc42G1U/s843/keramika.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 144,
+          "originalWidth": 843,
+          "originalHeight": 380
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFvfz0m87GY-rS66RarR_UuUDIwfX1uGcfTXrKbPP7JJRoeddUFmMhHlNC0ECfz3vZrWsDnDgGDj7fx6LDyfCnMlUvlGQijeP5IAZPKIOUVDgVU1jATDUyHdUnQ8LUxF9taHLM33I-JXKwV2tC4SqxP8Lr7J5Wr_sbueHv_PsowdF5QddEQEneeTh_8Mde/s0/opasok.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFvfz0m87GY-rS66RarR_UuUDIwfX1uGcfTXrKbPP7JJRoeddUFmMhHlNC0ECfz3vZrWsDnDgGDj7fx6LDyfCnMlUvlGQijeP5IAZPKIOUVDgVU1jATDUyHdUnQ8LUxF9taHLM33I-JXKwV2tC4SqxP8Lr7J5Wr_sbueHv_PsowdF5QddEQEneeTh_8Mde/s1600/opasok.jpg",
+        "filename": "opasok.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFvfz0m87GY-rS66RarR_UuUDIwfX1uGcfTXrKbPP7JJRoeddUFmMhHlNC0ECfz3vZrWsDnDgGDj7fx6LDyfCnMlUvlGQijeP5IAZPKIOUVDgVU1jATDUyHdUnQ8LUxF9taHLM33I-JXKwV2tC4SqxP8Lr7J5Wr_sbueHv_PsowdF5QddEQEneeTh_8Mde/s532/opasok.jpg",
+          "displayedWidth": 301,
+          "displayedHeight": 320,
+          "originalWidth": 500,
+          "originalHeight": 532
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz5tP5BhOxvXmNUzd45eyoLcyjcLa5Kw4oszYJGERiFzNO87y7ufnzdr1oL8JSyb7dMNtTfJWUC4qzsEypBWeTDotvPdsfcHdOcpewA8IbGaNBxpQKTIeIPy8lYt9UzsG-QGWs1m7RcxGxoXKXP74soQYG2C66Wi-1P4FC5NP2cYgZasJJuZnHgmGMWdY4/s0/opasok2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz5tP5BhOxvXmNUzd45eyoLcyjcLa5Kw4oszYJGERiFzNO87y7ufnzdr1oL8JSyb7dMNtTfJWUC4qzsEypBWeTDotvPdsfcHdOcpewA8IbGaNBxpQKTIeIPy8lYt9UzsG-QGWs1m7RcxGxoXKXP74soQYG2C66Wi-1P4FC5NP2cYgZasJJuZnHgmGMWdY4/s1600/opasok2.jpg",
+        "filename": "opasok2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz5tP5BhOxvXmNUzd45eyoLcyjcLa5Kw4oszYJGERiFzNO87y7ufnzdr1oL8JSyb7dMNtTfJWUC4qzsEypBWeTDotvPdsfcHdOcpewA8IbGaNBxpQKTIeIPy8lYt9UzsG-QGWs1m7RcxGxoXKXP74soQYG2C66Wi-1P4FC5NP2cYgZasJJuZnHgmGMWdY4/s1001/opasok2.jpg",
+          "displayedWidth": 200,
+          "displayedHeight": 320,
+          "originalWidth": 625,
+          "originalHeight": 1001
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkrD_5TVqSkYIqJHh0Uh9aoWPyn-LnY32gmKL-aiiaGF402zUp7xi7J2d8qXIqar9K0eU0CyPa8zu9xy5ZRUxWe5s7gfjLxnoHtfFBEbtjOXlP_8cMEt1J-ecQGNVIEZBZuV2K348wjodgNcmQ_hnMaJEsYRzZJQjXYJ_rFX5Dg9q9So8R1TEcCnVQ81YH/s0/sklo.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkrD_5TVqSkYIqJHh0Uh9aoWPyn-LnY32gmKL-aiiaGF402zUp7xi7J2d8qXIqar9K0eU0CyPa8zu9xy5ZRUxWe5s7gfjLxnoHtfFBEbtjOXlP_8cMEt1J-ecQGNVIEZBZuV2K348wjodgNcmQ_hnMaJEsYRzZJQjXYJ_rFX5Dg9q9So8R1TEcCnVQ81YH/s1600/sklo.jpg",
+        "filename": "sklo.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkrD_5TVqSkYIqJHh0Uh9aoWPyn-LnY32gmKL-aiiaGF402zUp7xi7J2d8qXIqar9K0eU0CyPa8zu9xy5ZRUxWe5s7gfjLxnoHtfFBEbtjOXlP_8cMEt1J-ecQGNVIEZBZuV2K348wjodgNcmQ_hnMaJEsYRzZJQjXYJ_rFX5Dg9q9So8R1TEcCnVQ81YH/s625/sklo.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 209,
+          "originalWidth": 625,
+          "originalHeight": 408
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkGnpYe8QTAQlglf3XDyhF4L7LVpUFmH_fDGKpCRkeOUBOry5iYhiEf6t0JrrUXHY3_NRDJQxjAddAmrT0wgOeptEuuPX7vq8Sx8wgec2R4pUr5-r2sXQjXp24Ce6kClIBmPRKe57U8Qt0nvnJq4_fYIAWEXkYMpK64hzOt3HwLaBKLyxoH9-JEG1uNrMu/s0/sklo2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkGnpYe8QTAQlglf3XDyhF4L7LVpUFmH_fDGKpCRkeOUBOry5iYhiEf6t0JrrUXHY3_NRDJQxjAddAmrT0wgOeptEuuPX7vq8Sx8wgec2R4pUr5-r2sXQjXp24Ce6kClIBmPRKe57U8Qt0nvnJq4_fYIAWEXkYMpK64hzOt3HwLaBKLyxoH9-JEG1uNrMu/s1600/sklo2.jpg",
+        "filename": "sklo2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkGnpYe8QTAQlglf3XDyhF4L7LVpUFmH_fDGKpCRkeOUBOry5iYhiEf6t0JrrUXHY3_NRDJQxjAddAmrT0wgOeptEuuPX7vq8Sx8wgec2R4pUr5-r2sXQjXp24Ce6kClIBmPRKe57U8Qt0nvnJq4_fYIAWEXkYMpK64hzOt3HwLaBKLyxoH9-JEG1uNrMu/s750/sklo2.jpg",
+          "displayedWidth": 267,
+          "displayedHeight": 320,
+          "originalWidth": 626,
+          "originalHeight": 750
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNJIWDh_CZVjgG1lweu44QzIUdDP_OErTKPp4epKsJKad6snZbQRiaaXCA1OJtmOFBzigicZ4W4_NRWGE_r03tB-JfU6W1XxW1Yfnfdq92TStzmPNOEyUNnmFgUU95n_9QK4J5LSCOw8G7cQu5j1ATc-46GndBTDTlj7y54hSzqqIRSLc8OuW_UXOy1zd_/s0/%C5%BEena.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNJIWDh_CZVjgG1lweu44QzIUdDP_OErTKPp4epKsJKad6snZbQRiaaXCA1OJtmOFBzigicZ4W4_NRWGE_r03tB-JfU6W1XxW1Yfnfdq92TStzmPNOEyUNnmFgUU95n_9QK4J5LSCOw8G7cQu5j1ATc-46GndBTDTlj7y54hSzqqIRSLc8OuW_UXOy1zd_/s1600/%C5%BEena.jpg",
+        "filename": "žena.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNJIWDh_CZVjgG1lweu44QzIUdDP_OErTKPp4epKsJKad6snZbQRiaaXCA1OJtmOFBzigicZ4W4_NRWGE_r03tB-JfU6W1XxW1Yfnfdq92TStzmPNOEyUNnmFgUU95n_9QK4J5LSCOw8G7cQu5j1ATc-46GndBTDTlj7y54hSzqqIRSLc8OuW_UXOy1zd_/s1095/%C5%BEena.jpg",
+          "displayedWidth": 167,
+          "displayedHeight": 320,
+          "originalWidth": 571,
+          "originalHeight": 1095
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgocMmyN9oPQFCvbMQHjFdRxds5acwo9GqJjuvWZ-nXcYw1rNzULind6WMN4nvQ2LaK_HuBlWXINlhTx06Rq3qQ08K8GSsrO5rU6u8DKTALI6Q_48AHNlRjUUJp_QFO_olRMUl7-2kguapEduin_7CQ7YWghWHo9qlSwcX-98BuCpIpULJkXD_caDpdNKrf/s0/spony.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgocMmyN9oPQFCvbMQHjFdRxds5acwo9GqJjuvWZ-nXcYw1rNzULind6WMN4nvQ2LaK_HuBlWXINlhTx06Rq3qQ08K8GSsrO5rU6u8DKTALI6Q_48AHNlRjUUJp_QFO_olRMUl7-2kguapEduin_7CQ7YWghWHo9qlSwcX-98BuCpIpULJkXD_caDpdNKrf/s1600/spony.jpg",
+        "filename": "spony.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgocMmyN9oPQFCvbMQHjFdRxds5acwo9GqJjuvWZ-nXcYw1rNzULind6WMN4nvQ2LaK_HuBlWXINlhTx06Rq3qQ08K8GSsrO5rU6u8DKTALI6Q_48AHNlRjUUJp_QFO_olRMUl7-2kguapEduin_7CQ7YWghWHo9qlSwcX-98BuCpIpULJkXD_caDpdNKrf/s744/spony.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 229,
+          "originalWidth": 744,
+          "originalHeight": 533
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid9jbX38RNDIeZoDTlvXr2B5-Ij-W4U4JRmo_ACyI-AmZ57AexajkDHFUewudlPfpbaNx1v9YqAb3_XQMYiHsFJxcdQFA99VTBICoIv416Q2K16vbFFDzUuoX2ipvRl0SZ3efnNvc9rVz3M-VqeJR2V_UsAvOcOX2izQe8J3ZdRhYIBua9gynOpuG7g_5N/s0/kluc.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid9jbX38RNDIeZoDTlvXr2B5-Ij-W4U4JRmo_ACyI-AmZ57AexajkDHFUewudlPfpbaNx1v9YqAb3_XQMYiHsFJxcdQFA99VTBICoIv416Q2K16vbFFDzUuoX2ipvRl0SZ3efnNvc9rVz3M-VqeJR2V_UsAvOcOX2izQe8J3ZdRhYIBua9gynOpuG7g_5N/s1600/kluc.jpg",
+        "filename": "kluc.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid9jbX38RNDIeZoDTlvXr2B5-Ij-W4U4JRmo_ACyI-AmZ57AexajkDHFUewudlPfpbaNx1v9YqAb3_XQMYiHsFJxcdQFA99VTBICoIv416Q2K16vbFFDzUuoX2ipvRl0SZ3efnNvc9rVz3M-VqeJR2V_UsAvOcOX2izQe8J3ZdRhYIBua9gynOpuG7g_5N/s625/kluc.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 295,
+          "originalWidth": 625,
+          "originalHeight": 577
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfwqcDMG6JgaY06qeDmjx0T0ZQkBdRq5R4AOWeuH3OiEZiUR56d9tKJiNOgXWvEhQo61WvighWmoBooUkIdu-Rqt-SiIrL4dTops3r1IS0qR3YCGj-9JnkUFSBulYaI_tV7wK2kaZgYSC9e5JocmS74YPZpfEYEqs5QCw7RevqXNJxdTFRVsJdXArGvARC/s0/mince.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfwqcDMG6JgaY06qeDmjx0T0ZQkBdRq5R4AOWeuH3OiEZiUR56d9tKJiNOgXWvEhQo61WvighWmoBooUkIdu-Rqt-SiIrL4dTops3r1IS0qR3YCGj-9JnkUFSBulYaI_tV7wK2kaZgYSC9e5JocmS74YPZpfEYEqs5QCw7RevqXNJxdTFRVsJdXArGvARC/s1600/mince.jpg",
+        "filename": "mince.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfwqcDMG6JgaY06qeDmjx0T0ZQkBdRq5R4AOWeuH3OiEZiUR56d9tKJiNOgXWvEhQo61WvighWmoBooUkIdu-Rqt-SiIrL4dTops3r1IS0qR3YCGj-9JnkUFSBulYaI_tV7wK2kaZgYSC9e5JocmS74YPZpfEYEqs5QCw7RevqXNJxdTFRVsJdXArGvARC/s1282/mince.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 123,
+          "originalWidth": 1282,
+          "originalHeight": 493
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFu1P23s1TYMShnNH3_IUWcpQhdR_Z2xwTufywEpbviNYvUIfg7GGcfHhbW7scO-OqvPPT_ULxtkkG7ZoOu4I8a86auNqCR9S0-4okPhM0jnZ4iu-r0lkg7RYjnm7kgZ3LGhWHvVPRBk_jc-FzsElym0ddr8HjHCGQh4nAbCGPoeTAhLinb2VOd0c8Iro/s0/mince2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFu1P23s1TYMShnNH3_IUWcpQhdR_Z2xwTufywEpbviNYvUIfg7GGcfHhbW7scO-OqvPPT_ULxtkkG7ZoOu4I8a86auNqCR9S0-4okPhM0jnZ4iu-r0lkg7RYjnm7kgZ3LGhWHvVPRBk_jc-FzsElym0ddr8HjHCGQh4nAbCGPoeTAhLinb2VOd0c8Iro/s1600/mince2.jpg",
+        "filename": "mince2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFu1P23s1TYMShnNH3_IUWcpQhdR_Z2xwTufywEpbviNYvUIfg7GGcfHhbW7scO-OqvPPT_ULxtkkG7ZoOu4I8a86auNqCR9S0-4okPhM0jnZ4iu-r0lkg7RYjnm7kgZ3LGhWHvVPRBk_jc-FzsElym0ddr8HjHCGQh4nAbCGPoeTAhLinb2VOd0c8Iro/s595/mince2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 160,
+          "originalWidth": 595,
+          "originalHeight": 298
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh0ASrH-yDuBaDYncO8VwvzB00L5WnR6lTtcBhXbcXXb99RN_lvmQnV_Zku9TqgiqoBf-jC13em7GNvD6HFUq3LTjGW_-vDKbD-nI_K-i_Pp4bJ7ue2r5Y997mzHV6OlKMiN2XxUinlmaA-okwi-XO67N4LJ5cZpSqovvc-EyQ4WxMN3EFk6ExRlqCmzhs/s0/Bez%20n%C3%A1zvu4.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh0ASrH-yDuBaDYncO8VwvzB00L5WnR6lTtcBhXbcXXb99RN_lvmQnV_Zku9TqgiqoBf-jC13em7GNvD6HFUq3LTjGW_-vDKbD-nI_K-i_Pp4bJ7ue2r5Y997mzHV6OlKMiN2XxUinlmaA-okwi-XO67N4LJ5cZpSqovvc-EyQ4WxMN3EFk6ExRlqCmzhs/s1600/Bez%20n%C3%A1zvu4.jpg",
+        "filename": "Bez názvu4.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh0ASrH-yDuBaDYncO8VwvzB00L5WnR6lTtcBhXbcXXb99RN_lvmQnV_Zku9TqgiqoBf-jC13em7GNvD6HFUq3LTjGW_-vDKbD-nI_K-i_Pp4bJ7ue2r5Y997mzHV6OlKMiN2XxUinlmaA-okwi-XO67N4LJ5cZpSqovvc-EyQ4WxMN3EFk6ExRlqCmzhs/s2040/Bez%20n%C3%A1zvu4.jpg",
+          "displayedWidth": 180,
+          "displayedHeight": 320,
+          "originalWidth": 1148,
+          "originalHeight": 2040
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGISkwvudN1IyfhEdrhpgP_i9NP37DA2HUz5E87AMkdqg8ViKRe7wjPMrFwsFwQdgcD46pQDi0ged7BfRdvO4rOqSlicnH4MrmNW85i3U9A7i0S_o7_IlPmng-2usDG7l2i5-dQG117ffWT-J73CapVlv72YalMrXsn47X37-Aka3mLlDJR2bOktSgfcVY/s0/Bez%20n%C3%A1zvu7.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGISkwvudN1IyfhEdrhpgP_i9NP37DA2HUz5E87AMkdqg8ViKRe7wjPMrFwsFwQdgcD46pQDi0ged7BfRdvO4rOqSlicnH4MrmNW85i3U9A7i0S_o7_IlPmng-2usDG7l2i5-dQG117ffWT-J73CapVlv72YalMrXsn47X37-Aka3mLlDJR2bOktSgfcVY/s1600/Bez%20n%C3%A1zvu7.jpg",
+        "filename": "Bez názvu7.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGISkwvudN1IyfhEdrhpgP_i9NP37DA2HUz5E87AMkdqg8ViKRe7wjPMrFwsFwQdgcD46pQDi0ged7BfRdvO4rOqSlicnH4MrmNW85i3U9A7i0S_o7_IlPmng-2usDG7l2i5-dQG117ffWT-J73CapVlv72YalMrXsn47X37-Aka3mLlDJR2bOktSgfcVY/s2048/Bez%20n%C3%A1zvu7.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 1536,
+          "originalHeight": 2048
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_EW5pNXdBemll4pvsF4TL9jpEA-eqSPT2aiX-EBLws_lGSXj-JLJOZ1ZNNNQ6hS_GbhNiWdi1Fd_CgEz1dBYS9qX9lSjK12_k9wvKExbQVi-y0yIoMBE1Wuk04hfoCoFDv48N8nxzprFlOtdG_HZzFWj2eCU-nPX4n5hXG5NtoPxWK0ZkpthVu3n0g72e/s0/Bez%20n%C3%A1zvu6.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_EW5pNXdBemll4pvsF4TL9jpEA-eqSPT2aiX-EBLws_lGSXj-JLJOZ1ZNNNQ6hS_GbhNiWdi1Fd_CgEz1dBYS9qX9lSjK12_k9wvKExbQVi-y0yIoMBE1Wuk04hfoCoFDv48N8nxzprFlOtdG_HZzFWj2eCU-nPX4n5hXG5NtoPxWK0ZkpthVu3n0g72e/s1600/Bez%20n%C3%A1zvu6.jpg",
+        "filename": "Bez názvu6.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_EW5pNXdBemll4pvsF4TL9jpEA-eqSPT2aiX-EBLws_lGSXj-JLJOZ1ZNNNQ6hS_GbhNiWdi1Fd_CgEz1dBYS9qX9lSjK12_k9wvKExbQVi-y0yIoMBE1Wuk04hfoCoFDv48N8nxzprFlOtdG_HZzFWj2eCU-nPX4n5hXG5NtoPxWK0ZkpthVu3n0g72e/s1600/Bez%20n%C3%A1zvu6.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": 1600,
+          "originalHeight": 900
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFkmvqtq6ewLD-sse43TjhD25ZPcaVtZHmSRy4MHUDV1DUPZeadXAhuXcnLaNsj8p7995OMAnITyoeVhIb6-SqFECUo9wQjgFH0kBw6VvEvtS1Md4t0YDcf-le-5Lj4yTnrAaewpcY8g60Y11kLu8GLyVsbA8Q493dk8n1e6f4S8OHjYUGHvVsDSFtKaz9/s0/Bez%20n%C3%A1zvu5.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFkmvqtq6ewLD-sse43TjhD25ZPcaVtZHmSRy4MHUDV1DUPZeadXAhuXcnLaNsj8p7995OMAnITyoeVhIb6-SqFECUo9wQjgFH0kBw6VvEvtS1Md4t0YDcf-le-5Lj4yTnrAaewpcY8g60Y11kLu8GLyVsbA8Q493dk8n1e6f4S8OHjYUGHvVsDSFtKaz9/s1600/Bez%20n%C3%A1zvu5.jpg",
+        "filename": "Bez názvu5.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFkmvqtq6ewLD-sse43TjhD25ZPcaVtZHmSRy4MHUDV1DUPZeadXAhuXcnLaNsj8p7995OMAnITyoeVhIb6-SqFECUo9wQjgFH0kBw6VvEvtS1Md4t0YDcf-le-5Lj4yTnrAaewpcY8g60Y11kLu8GLyVsbA8Q493dk8n1e6f4S8OHjYUGHvVsDSFtKaz9/s2048/Bez%20n%C3%A1zvu5.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 2048,
+          "originalHeight": 1536
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUmNYVY9a4Cd7tnyw4OmiYDmNrrReOOkkegonBl05ziexcdZQUFEn-AcH50hPZKXa3ADW1vlRjGGNAijfF4ElqTUWHhb_-GhwUKfUr2f8Bd0ox0rSIUWVlwJljNAKhbYDvRlmh2Gd4EBbW9qEOZ9U6JzXE4hr1OkgBu4RzdSHW1nXGS3_oKDliJbLli-ov/s0/Bez%20n%C3%A1zvu.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUmNYVY9a4Cd7tnyw4OmiYDmNrrReOOkkegonBl05ziexcdZQUFEn-AcH50hPZKXa3ADW1vlRjGGNAijfF4ElqTUWHhb_-GhwUKfUr2f8Bd0ox0rSIUWVlwJljNAKhbYDvRlmh2Gd4EBbW9qEOZ9U6JzXE4hr1OkgBu4RzdSHW1nXGS3_oKDliJbLli-ov/s1600/Bez%20n%C3%A1zvu.jpg",
+        "filename": "Bez názvu.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUmNYVY9a4Cd7tnyw4OmiYDmNrrReOOkkegonBl05ziexcdZQUFEn-AcH50hPZKXa3ADW1vlRjGGNAijfF4ElqTUWHhb_-GhwUKfUr2f8Bd0ox0rSIUWVlwJljNAKhbYDvRlmh2Gd4EBbW9qEOZ9U6JzXE4hr1OkgBu4RzdSHW1nXGS3_oKDliJbLli-ov/s2048/Bez%20n%C3%A1zvu.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ILXZ6Q1AhrY5PktJqwbFkxgW56KVobnQEP2S4ulA7zDw03PTrQBCSsFCVRpKHj6k0law5k1zVutUdmRRzUcrxAOCPe-XYyVlU3wd1PY5xSRmNDGYH694bp6XT97Wk6pSnGApfsCdUDHE3xsjhXuXEm67rLuslJVoKfvylk3ltYLK0CsAwPri7Ftt3I_u/s0/Bez%20n%C3%A1zvu1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ILXZ6Q1AhrY5PktJqwbFkxgW56KVobnQEP2S4ulA7zDw03PTrQBCSsFCVRpKHj6k0law5k1zVutUdmRRzUcrxAOCPe-XYyVlU3wd1PY5xSRmNDGYH694bp6XT97Wk6pSnGApfsCdUDHE3xsjhXuXEm67rLuslJVoKfvylk3ltYLK0CsAwPri7Ftt3I_u/s1600/Bez%20n%C3%A1zvu1.jpg",
+        "filename": "Bez názvu1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ILXZ6Q1AhrY5PktJqwbFkxgW56KVobnQEP2S4ulA7zDw03PTrQBCSsFCVRpKHj6k0law5k1zVutUdmRRzUcrxAOCPe-XYyVlU3wd1PY5xSRmNDGYH694bp6XT97Wk6pSnGApfsCdUDHE3xsjhXuXEm67rLuslJVoKfvylk3ltYLK0CsAwPri7Ftt3I_u/s2048/Bez%20n%C3%A1zvu1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiAkZpoaKeeAZhu5gnCXYsWjgiB0g6P6kWr9JB1otdXsRadWRjbdcqyRPYyoCya0ct3mWebS7kTAcesxmWGluMzbsvM3qx-2bbpN_VAc5jrszhnM7pXFrquy_IWvcJ95-hIL2LyUHG88vj3Nhayc5QAjNnmu73bQbrz1iQB4wTf24jcyDJShsA30LwhQ3/s0/Bez%20n%C3%A1zvu2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiAkZpoaKeeAZhu5gnCXYsWjgiB0g6P6kWr9JB1otdXsRadWRjbdcqyRPYyoCya0ct3mWebS7kTAcesxmWGluMzbsvM3qx-2bbpN_VAc5jrszhnM7pXFrquy_IWvcJ95-hIL2LyUHG88vj3Nhayc5QAjNnmu73bQbrz1iQB4wTf24jcyDJShsA30LwhQ3/s1600/Bez%20n%C3%A1zvu2.jpg",
+        "filename": "Bez názvu2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEiAkZpoaKeeAZhu5gnCXYsWjgiB0g6P6kWr9JB1otdXsRadWRjbdcqyRPYyoCya0ct3mWebS7kTAcesxmWGluMzbsvM3qx-2bbpN_VAc5jrszhnM7pXFrquy_IWvcJ95-hIL2LyUHG88vj3Nhayc5QAjNnmu73bQbrz1iQB4wTf24jcyDJShsA30LwhQ3/s2000/Bez%20n%C3%A1zvu2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 2000,
+          "originalHeight": 1333
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Akropola",
+        "value": "cca 3 ha na vrchole kopca Hradisko"
+      },
+      {
+        "label": "Predhradie",
+        "value": "až 30 ha (poloha Pod Hradiskom)"
+      },
+      {
+        "label": "Kultúra",
+        "value": "púchovská (Kotíni), latén – staršia doba rímska"
+      },
+      {
+        "label": "Výskum",
+        "value": "M. Soják (od 1996), M. Hudák (2020–2022)"
+      },
+      {
+        "label": "Unikát",
+        "value": "bronzová soška Kelta so zlatými očami"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "3. stor. pred Kr.",
+        "title": "Počiatky osídlenia",
+        "description": "Prvé stopy osídlenia hradiska."
+      },
+      {
+        "year": "1. stor. pred Kr.",
+        "title": "Požiar opevnenia",
+        "description": "Prepálený val s hradbou; stopy stretov s Dákmi a Germánmi."
+      },
+      {
+        "year": "koniec 2. stor. po Kr.",
+        "title": "Zánik Kotínov",
+        "description": "Po markomanských vojnách Rimanmi presídlení do Panónie."
+      },
+      {
+        "year": "19. stor.",
+        "title": "Prvé nálezy",
+        "description": "Keramika, železná struska pri poľnohospodárstve."
+      },
+      {
+        "year": "1958",
+        "title": "Správa V. Budinského-Kričku",
+        "description": "Zaznamenané významné nálezy."
+      },
+      {
+        "year": "1996",
+        "title": "Systematický výskum",
+        "description": "M. Soják, Archeologický ústav SAV."
+      },
+      {
+        "year": "2020–2022",
+        "title": "Rozsiahle výskumy",
+        "description": "M. Hudák (Archeológia Spiš) a i.; vyše 1 500 nálezov."
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Južne od obce Jánovce a jej miestnej časti Machalovce sa týči nezalesnený kopec s názvom Hradisko, ktorý ukrýva jedno z najvýznamnejších archeologických nálezísk v regióne. Práve toto miesto s bohatou históriou, osídlené už od praveku, bolo najintenzívnejšie využívané v mladšej dobe železnej (v období laténskej kultúry) a v staršej dobe rímskej. V tom čase tu vzniklo mohutné opevnené hradisko púchovskej kultúry. \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Centrom hradiska bola opevnená akropola s rozlohou približne 3 hektáre, vystavaná na vrchole kopca. Jej obranný systém tvorili dva valy, pravdepodobne zhotovené z drevených konštrukcií vyplnených hlinou a kameňmi, medzi ktorými viedla priekopa. Vstup do hradiska zabezpečovala minimálne jedna brána, situovaná v severnej alebo severovýchodnej časti, čo naznačujú terénne zvyšky a výsledky geofyzikálnych meraní. Brána i opevnenie mohli byť doplnené strážnymi vežami, hoci ich presná podoba zatiaľ zostáva zahalená tajomstvom. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebMwd8aVQY0ahrqTFJ7UQtTtTgBdZLqf5gAQp1k9qyfHEvaXvDR3fC4EpAB25JMaXQCJs4OtglHorLJU_cBbLoxoR7chwnseLCWGG5MAE540yOe50dEiAhr4f4NBb0ZohDAFPyAxQ0GBxnaueGtA2MK-s639FifcG9mmX0LsqkwdkR6GMVJikdLy5t_ZM/s0/Lidar.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebMwd8aVQY0ahrqTFJ7UQtTtTgBdZLqf5gAQp1k9qyfHEvaXvDR3fC4EpAB25JMaXQCJs4OtglHorLJU_cBbLoxoR7chwnseLCWGG5MAE540yOe50dEiAhr4f4NBb0ZohDAFPyAxQ0GBxnaueGtA2MK-s639FifcG9mmX0LsqkwdkR6GMVJikdLy5t_ZM/s1600/Lidar.jpg",
+          "filename": "Lidar.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhebMwd8aVQY0ahrqTFJ7UQtTtTgBdZLqf5gAQp1k9qyfHEvaXvDR3fC4EpAB25JMaXQCJs4OtglHorLJU_cBbLoxoR7chwnseLCWGG5MAE540yOe50dEiAhr4f4NBb0ZohDAFPyAxQ0GBxnaueGtA2MK-s639FifcG9mmX0LsqkwdkR6GMVJikdLy5t_ZM/s628/Lidar.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 226,
+            "originalWidth": 628,
+            "originalHeight": 443
+          }
+        },
+        "alt": "Jánovce–Machalovce",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pod akropolou sa rozprestieralo predhradie – rozsiahla plocha o rozlohe až 30 hektárov v polohe Pod Hradiskom, prirodzene chránená potokom Sihoť a strmými svahmi. Archeologické prieskumy tu odhalili stopy zahlbených sídliskových objektov, ktoré narušilo poľnohospodárske obrábanie pôdy. Okrem toho sa severozápadne od akropoly nachádza ďalšia potenciálna časť predhradia v polohe Nad Jánovcami, ktorá má podobnú rozlohu. Archeologické nálezy z tejto oblasti však zatiaľ chýbajú, najmä pre jej využitie ako pasienkov. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rozsah a charakter Jánovského hradiska ho radí medzi väčšie hradiská a oppidá strednej Európy. Podobné sídla poznáme z lokalít ako Liptovská Sielnica–Liptovská Mara či keltské oppidá v Bratislave, na Devíne alebo na Zemplíne. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prvé archeologické nálezy z Jánovského hradiska boli získané už v 19. storočí, keď miestni obyvatelia nachádzali keramiku, železnú strusku a iné predmety súvisiace s hutníckou výrobou. Záujem o lokalitu sa prehĺbil až v druhej polovici 20. storočia, najmä vďaka rozvoju poľnohospodárstva v polohe Pod Hradiskom. Významné nálezy začali byť odovzdávané múzeám, čo zaznamenal aj Vojtech Budinský-Krička vo svojej správe z roku 1958. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmzeaeTUEswJ-PPc43ZDsi3WBgoUMiNKGOp05vRHj4miTIn7GfVM_0qoIDqKoSNBbRr4XSJa2QSZvK7AC6SEr1mcalrdTxoIFTVnfTgbOgK5t8uTLIIXI0MbV8rR87INzaZzDkEyraTGL3-z9Hz43QXyJR7XLxl42wgaM6nKsjlBr0WThTqKD955ud5GWw/s0/val.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmzeaeTUEswJ-PPc43ZDsi3WBgoUMiNKGOp05vRHj4miTIn7GfVM_0qoIDqKoSNBbRr4XSJa2QSZvK7AC6SEr1mcalrdTxoIFTVnfTgbOgK5t8uTLIIXI0MbV8rR87INzaZzDkEyraTGL3-z9Hz43QXyJR7XLxl42wgaM6nKsjlBr0WThTqKD955ud5GWw/s1600/val.jpg",
+          "filename": "val.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmzeaeTUEswJ-PPc43ZDsi3WBgoUMiNKGOp05vRHj4miTIn7GfVM_0qoIDqKoSNBbRr4XSJa2QSZvK7AC6SEr1mcalrdTxoIFTVnfTgbOgK5t8uTLIIXI0MbV8rR87INzaZzDkEyraTGL3-z9Hz43QXyJR7XLxl42wgaM6nKsjlBr0WThTqKD955ud5GWw/s626/val.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 202,
+            "originalWidth": 626,
+            "originalHeight": 396
+          }
+        },
+        "alt": "Jánovce–Machalovce",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Od roku 1996 sa archeologickému prieskumu tejto lokality systematicky venuje Marián Soják z Archeologického ústavu SAV. Vďaka jeho práci bol nálezový súbor rozšírený o početné mince z doby laténskej a množstvo ďalších cenných artefaktov. Na prelome 20. a 21. storočia sa k výskumom pridali aj ďalší archeológovia, ktorí odhalili nové detaily o živote na hradisku. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V posledných rokoch sa, žiaľ, hradisko stalo aj cieľom nelegálnych detektorových prieskumov. Preto v roku 2020 odštartovala snaha o jeho vyhlásenie za národnú kultúrnu pamiatku. V rámci týchto aktivít sa rozbehli rozsiahle výskumy pod vedením Matúša Hudáka zo spoločnosti Archeológia Spiš v spolupráci s Katedrou archeológie FF UKF v Nitre, Krajským pamiatkovým úradom v Žiline a spolkom Septentrio, Občianskym združením Hradiská, Archeo Moravia a ďalšími dobrovoľníkmi. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWwmhvwMHJVgRyuf33G1h6N9-dH0W_EIJ6gOMTnHAHLBmYI88LX_lnP4ylZXH_BYJl3DLFB53dst-XRmkHyEIkK4aDb-Be5VKqAPswEHiqXyEcQaW5w_0J_uK68jmsneHWdcS9VpdgJ9uSPfte-CUxIFVLbLj0G6vNdgyL4bYZkC33eHG6pTZNaH5qT5BN/s0/2%20VM.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWwmhvwMHJVgRyuf33G1h6N9-dH0W_EIJ6gOMTnHAHLBmYI88LX_lnP4ylZXH_BYJl3DLFB53dst-XRmkHyEIkK4aDb-Be5VKqAPswEHiqXyEcQaW5w_0J_uK68jmsneHWdcS9VpdgJ9uSPfte-CUxIFVLbLj0G6vNdgyL4bYZkC33eHG6pTZNaH5qT5BN/s1600/2%20VM.jpg",
+          "filename": "2 VM.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWwmhvwMHJVgRyuf33G1h6N9-dH0W_EIJ6gOMTnHAHLBmYI88LX_lnP4ylZXH_BYJl3DLFB53dst-XRmkHyEIkK4aDb-Be5VKqAPswEHiqXyEcQaW5w_0J_uK68jmsneHWdcS9VpdgJ9uSPfte-CUxIFVLbLj0G6vNdgyL4bYZkC33eHG6pTZNaH5qT5BN/s627/2%20VM.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 227,
+            "originalWidth": 627,
+            "originalHeight": 445
+          }
+        },
+        "alt": "Jánovce–Machalovce",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Medzi rokmi 2020 a 2022 bol pod hradiskom realizovaný systematický povrchový prieskum, ktorý odhalil viac ako 1 500 archeologických nálezov. Tieto dokladajú kontinuálne osídlenie miesta od praveku cez včasné dejiny až po stredovek a novovek. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na jar 2021 prebehlo geofyzikálne meranie formou magnetometrie, ktoré zachytilo priebeh valového opevnenia i viaceré výrazné anomálie. Tie naznačujú prítomnosť kovových predmetov a zahorených konštrukcií. Na základe týchto zistení bol v rokoch 2021 a 2022 realizovaný prvý sondážny archeologický výskum severozápadnej časti hradiska. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výskum viedla Mária Hudáková z Múzea Spiša v spolupráci s archeológmi z Archeológie Spiš, UKF v Nitre a Múzea v Kežmarku. Sondáže mali interdisciplinárny charakter – zahŕňali geodetické meranie, archeobotanické a archeozoologické analýzy, metalografické a petrografické štúdie nálezov, aj špeciálne geomagnetické merania. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vďaka tejto tímovej práci sa podarilo načrtnúť obraz o živote a obrane na tomto fascinujúcom hradisku, ktoré má šancu stať sa ešte významnejšou súčasťou nášho kultúrneho dedičstva."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22sk3aI3AAxLhbdtD3TPlFYRa2D_jtZh0aMgJ4YwmF4-rKFT9A28_MvttHpixwL0xXuFWLubKOmh9g4nlNMuBjeoBnP9YeqvjTT7xW5uyfYi50amUvl2nsi5TVU-k_qZexb50UVckXU52o6ImBftJ2FP967c8LYBHoKf4G9OKmPLn8aZPDzbXB_MXkUO/s0/Mach3.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22sk3aI3AAxLhbdtD3TPlFYRa2D_jtZh0aMgJ4YwmF4-rKFT9A28_MvttHpixwL0xXuFWLubKOmh9g4nlNMuBjeoBnP9YeqvjTT7xW5uyfYi50amUvl2nsi5TVU-k_qZexb50UVckXU52o6ImBftJ2FP967c8LYBHoKf4G9OKmPLn8aZPDzbXB_MXkUO/s1600/Mach3.jpg",
+          "filename": "Mach3.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22sk3aI3AAxLhbdtD3TPlFYRa2D_jtZh0aMgJ4YwmF4-rKFT9A28_MvttHpixwL0xXuFWLubKOmh9g4nlNMuBjeoBnP9YeqvjTT7xW5uyfYi50amUvl2nsi5TVU-k_qZexb50UVckXU52o6ImBftJ2FP967c8LYBHoKf4G9OKmPLn8aZPDzbXB_MXkUO/s2000/Mach3.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 131,
+            "originalWidth": 2000,
+            "originalHeight": 819
+          }
+        },
+        "alt": "Pohľad na predhradie a za ním samotné hradisko",
+        "caption": "Pohľad na predhradie a za ním samotné hradisko",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nálezy z púchovského hradiska v Jánovciach",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Púchovské hradisko v Jánovciach predstavuje významné archeologické nálezisko, ktoré nám ponúka cenné poznatky o živote Kotínov, keltského etnika osídľujúceho severné Slovensko. Osídlenie tohto miesta zaniklo približne pred 1800 rokmi, no archeologické nálezy svedčia o bohatej každodennosti aj dramatických historických udalostiach."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Výskumom sa preukázali stopy osídlenia už v 3. storočí pred Kr., pričom najintenzívnejšie obdobie využívania hradiska spadá do neskorej doby laténskej a začiatku doby rímskej. Dôležitým nálezom je dôkaz o silnom požiari opevnenia, pričom prepálený val s kamennou hradbou a drevenými kolmi možno datovať do 1. storočia pred Kr. Vypálené vrstvy obsahovali aj vojenské predmety a kontaktný materiál, ktorý nasvedčuje stretom s Dákmi a Germánmi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z predhradia pochádza unikátna bronzová soška nahého Kelta so zlatými očami, s typickým nákrčníkom (torquesom), predstavujúca realisticky modelovanú mužskú postavu bez fúzov, čo kontrastuje s antickými opismi. Výnimočný je aj fragment skleneného korálika so zobrazením ľudskej tváre, jediný svojho druhu na Slovensku. Spolu s ďalšími nálezmi korálikov z jantáru, skla a morského koralu poukazuje na rozvinuté remeslá a diaľkové kontakty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicF8Dlq5a40vdiQLGvQ3yJnOtmTT8P_NA56BL84VLI3EeUlBFdN6kkT5cVCbTSg6DPovXToddEiIEWFftJvhO4tEDDF7pQQJH_7g83zZEiu_x2MlpZq8v5SpI0kfP5admctZNCk94f8iDbbcQ4J9iP4TAWkW7H_UqQ8pcY4OsZ3BPe0g8avHRZRHo1-ujV/s0/bronzy.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicF8Dlq5a40vdiQLGvQ3yJnOtmTT8P_NA56BL84VLI3EeUlBFdN6kkT5cVCbTSg6DPovXToddEiIEWFftJvhO4tEDDF7pQQJH_7g83zZEiu_x2MlpZq8v5SpI0kfP5admctZNCk94f8iDbbcQ4J9iP4TAWkW7H_UqQ8pcY4OsZ3BPe0g8avHRZRHo1-ujV/s1600/bronzy.jpg",
+          "filename": "bronzy.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicF8Dlq5a40vdiQLGvQ3yJnOtmTT8P_NA56BL84VLI3EeUlBFdN6kkT5cVCbTSg6DPovXToddEiIEWFftJvhO4tEDDF7pQQJH_7g83zZEiu_x2MlpZq8v5SpI0kfP5admctZNCk94f8iDbbcQ4J9iP4TAWkW7H_UqQ8pcY4OsZ3BPe0g8avHRZRHo1-ujV/s490/bronzy.jpg",
+            "displayedWidth": 255,
+            "displayedHeight": 320,
+            "originalWidth": 391,
+            "originalHeight": 490
+          }
+        },
+        "alt": "Jánovce–Machalovce",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kotíni boli zruční remeselníci – doklady o šperkoch ako prstene, náušnice, náramky, či záušnice naznačujú ich cit pre estetiku. Našli sa aj ozdobné ihlice a vlasové krúžky, čo svedčí o štylizovanej úprave účesov. Domy boli prevažne zrubové, s pieskovcovými základmi a ohniskami vystlanými kameňmi. V obytných priestoroch sa našli keramické nádoby, nástroje a železný kľúč v tvare písmena T, určený na posuvný uzamykací systém – dôkaz praktických aspektov každodenného života."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Aj po zániku hradiska bolo územie čiastočne využívané. Z 1. storočia po Kr. pochádzajú ďalšie nálezy, ktoré však v nasledujúcom období miznú, čo môže súvisieť s presunom obyvateľstva na iné hradiská. Kotíni nakoniec zanikli ako samostatná entita koncom 2. storočia po Kr., keď boli po markomanských vojnách Rimanmi presídlení do Panónie. "
+              },
+              {
+                "type": "text",
+                "text": "Stravovanie a činnosti obyvateľov púchovského hradiska",
+                "bold": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisKFAniH76JuA6h_7nC9Zx_G2mWaVMHJv9NDj4mLq62ekvKfWGJgD910NVzBf4Bzj7GhGKYpHlmMDukO1-2rcJrsuqF4Ul3z_QFiJ3HfP6waf9_zZkMtP9R49CUnzOZaDcJL5df8TymwXvwwjE9bTKDNWpyWcPnXrfNUf4whIv-GzCj2YAZ5GPdyKLMu_Q/s0/soska.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisKFAniH76JuA6h_7nC9Zx_G2mWaVMHJv9NDj4mLq62ekvKfWGJgD910NVzBf4Bzj7GhGKYpHlmMDukO1-2rcJrsuqF4Ul3z_QFiJ3HfP6waf9_zZkMtP9R49CUnzOZaDcJL5df8TymwXvwwjE9bTKDNWpyWcPnXrfNUf4whIv-GzCj2YAZ5GPdyKLMu_Q/s1600/soska.jpg",
+          "filename": "soska.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisKFAniH76JuA6h_7nC9Zx_G2mWaVMHJv9NDj4mLq62ekvKfWGJgD910NVzBf4Bzj7GhGKYpHlmMDukO1-2rcJrsuqF4Ul3z_QFiJ3HfP6waf9_zZkMtP9R49CUnzOZaDcJL5df8TymwXvwwjE9bTKDNWpyWcPnXrfNUf4whIv-GzCj2YAZ5GPdyKLMu_Q/s622/soska.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 290,
+            "originalWidth": 622,
+            "originalHeight": 564
+          }
+        },
+        "alt": "Unikátna bronzová soška Kelta so zlatými očami",
+        "caption": "Unikátna bronzová soška Kelta so zlatými očami",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Archeologické nálezy z Jánoviec poskytujú cenné poznatky o stravovaní obyvateľov hradiska. Z vyše 140 nájdených fragmentov zvieracích kostí sa identifikovali zvyšky hovädzieho dobytka, koní a oviec/kozí. Tieto zvieratá boli hlavným zdrojom mäsa, mlieka a vlny. Bravčovina sa na hradisku objavovala zriedkavo a najmä v rituálnom kontexte. Archeobotanické analýzy doložili aj rastlinnú stravu – najmä proso a hrach, ale aj pšenicu, jačmeň či bôb. Pokrmy sa pripravovali v keramických hrncoch s grafitovou prímesou, ktorá zvyšovala ich tepelnú odolnosť. Nádoby ako džbány, šálky či tzv. vykurovadlá slúžili nielen na stolovanie, ale zrejme aj na uchovávanie ohňa či rituálne účely."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Poľnohospodárska činnosť je doložená nálezmi kamenných žarnovov, v ktorých sa mlelo obilie na múku, ako aj nástrojmi ako železný hrot kopáča. Skladovanie potravín zabezpečovali veľké zásobnicové nádoby s typicky tvarovaným hrdlom a držadlami. Remeselná výroba bola rozvinutá najmä v oblasti kovospracovania – nájdené boli taviace tégliky, odlievacie formy, trosky aj železné nástroje. Nálezy potvrdzujú aj spracovanie železnej rudy z miestnych zdrojov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjlejFYZujv3U7ojrg8Vdd6LnM72i5XvQYel8VunD3R35i9yAegIhRRHFkLRWssIAT-7n6vKLA0NAhMszVVXBp0upSuisz-4halJ_wqnGCuNNyqwtcqvL8aUKgBr5wuivOwtXNfk8tdC39JogXL9Z8wZgDj_HIFwaDFLt_TqgDsc9xcQcA0OxsC4lPBH68/s0/jantar.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjlejFYZujv3U7ojrg8Vdd6LnM72i5XvQYel8VunD3R35i9yAegIhRRHFkLRWssIAT-7n6vKLA0NAhMszVVXBp0upSuisz-4halJ_wqnGCuNNyqwtcqvL8aUKgBr5wuivOwtXNfk8tdC39JogXL9Z8wZgDj_HIFwaDFLt_TqgDsc9xcQcA0OxsC4lPBH68/s1600/jantar.jpg",
+          "filename": "jantar.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjlejFYZujv3U7ojrg8Vdd6LnM72i5XvQYel8VunD3R35i9yAegIhRRHFkLRWssIAT-7n6vKLA0NAhMszVVXBp0upSuisz-4halJ_wqnGCuNNyqwtcqvL8aUKgBr5wuivOwtXNfk8tdC39JogXL9Z8wZgDj_HIFwaDFLt_TqgDsc9xcQcA0OxsC4lPBH68/s417/jantar.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 234,
+            "originalWidth": 417,
+            "originalHeight": 305
+          }
+        },
+        "alt": "Jánovce–Machalovce",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ďalšou remeselnou oblasťou bola textilná výroba, doložená nálezmi praslenov a tkaním látok na tkáčskych stavoch, ktorých existenciu dokladajú hlinené závažia. Významné boli aj nálezy luxusnej maľovanej keramiky z 1. storočia pred Kr., ktoré poukazujú na lokálnu hrnčiarsku výrobu, pravdepodobne priamo na Spiši. Z oblasti výzbroje pochádzajú železné hroty šípov, kopije, jazdecké ostrohy a dôkazy o existencii vojenskej zložky na ochranu hradiska."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Obchod a kontakty púchovského hradiska",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Púchovské hradisko v Jánovciach nebolo len centrom poľnohospodárskej a remeselnej výroby, ale aj významným bodom v obchodnej sieti. Obchod potvrdzujú najmä početné nálezy mincí – vyše 1 000 kusov domácich strieborných kotínskych razieb (napr. typy Liptovská Mara, Veľký Bysterec, Spiš). Objavené boli aj importované mince, napríklad balkánske denáre, čo svedčí o nadregionálnych kontaktoch."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKCHAd0ecdtDGT-gbB7-zNkpfRvMnlBHt6ch9nC3VNmdAX7-2UztBH7zbMKLivcBmMZ_JB4F5OmeMzZfBhgcRYFOO65-OFWr63L54R2DLeZepRFcaX_-etV5uBStOZXLLRSUFDqy_f9t7JAF7TDu0qLsgsHAz-DYy4AkcCqyXjtmCEu6xR5DnUPc42G1U/s0/keramika.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKCHAd0ecdtDGT-gbB7-zNkpfRvMnlBHt6ch9nC3VNmdAX7-2UztBH7zbMKLivcBmMZ_JB4F5OmeMzZfBhgcRYFOO65-OFWr63L54R2DLeZepRFcaX_-etV5uBStOZXLLRSUFDqy_f9t7JAF7TDu0qLsgsHAz-DYy4AkcCqyXjtmCEu6xR5DnUPc42G1U/s1600/keramika.jpg",
+          "filename": "keramika.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUKCHAd0ecdtDGT-gbB7-zNkpfRvMnlBHt6ch9nC3VNmdAX7-2UztBH7zbMKLivcBmMZ_JB4F5OmeMzZfBhgcRYFOO65-OFWr63L54R2DLeZepRFcaX_-etV5uBStOZXLLRSUFDqy_f9t7JAF7TDu0qLsgsHAz-DYy4AkcCqyXjtmCEu6xR5DnUPc42G1U/s843/keramika.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 144,
+            "originalWidth": 843,
+            "originalHeight": 380
+          }
+        },
+        "alt": "Jánovce–Machalovce",
+        "caption": "",
+        "position": "center",
+        "showCaption": false,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dovážaný bol pravdepodobne aj luxusný tovar – keramika, sklo a rôzne kovové predmety. Nálezy špecifických bronzových spon, prsteňov so sklenými vložkami a importovaných častí opaskov poukazujú na kontakty s panónskym, balkánskym aj severopoľským prostredím (napr. zástupcovia przeworskej kultúry). Obchodné kontakty boli teda rozšírené naprieč strednou Európou."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na výmenu mohol slúžiť aj grafit – výnimočný materiál používaný v keramike, ktorého miestne zdroje mohli byť významné pre okolitý región. Dôležitým obchodným artiklom bola pravdepodobne aj lokálna výroba kvalitnej keramiky, vrátane maľovaných nádob."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": "Literatúra:",
+        "items": [
+          {
+            "text": "Matúš Hudák a kol.: Jánovce: Monografia obce – , 2024",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "attribution",
+        "text": "Literatúra:"
+      },
+      {
+        "type": "book",
+        "text": "Matúš Hudák a kol.: Jánovce: Monografia obce – , 2024"
+      }
+    ]
+  }
+}

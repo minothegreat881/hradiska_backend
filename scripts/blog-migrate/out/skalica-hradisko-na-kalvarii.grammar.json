@@ -1,0 +1,18 @@
+{ "changes":[
+  {"before":"cesty vedúcej do centra mesta.Na prirodzenej","after":"cesty vedúcej do centra mesta. Na prirodzenej","rule":"B typografia (chýbajúca medzera)"},
+  {"before":"na východnej strane o 6-8 m","after":"na východnej strane o 6 – 8 m","rule":"B typografia (en dash)"},
+  {"before":"šírke cca 40-50 m","after":"šírke cca 40 – 50 m","rule":"B typografia"},
+  {"before":"zrejme velmi deformovanej priekopy","after":"zrejme veľmi deformovanej priekopy","rule":"A8 diakritika"},
+  {"before":"priekopy, zretelnej okolo Kalvárie","after":"priekopy, zreteľnej okolo Kalvárie","rule":"A8 diakritika"},
+  {"before":"románska rotunda, ktoré je dodnes symbolom","after":"románska rotunda, ktorá je dodnes symbolom","rule":"A3 zhoda (rotunda ž.)"},
+  {"before":"ako napr. brozový nôž","after":"ako napr. bronzový nôž","rule":"A8 preklep"},
+  {"before":"postavili pezinskí grófi, od r. 1217","after":"postavili pezinskí grófi od r. 1217","rule":"A1 nadbytočná čiarka"},
+  {"before":"pánov z Pezlnka a Jura","after":"pánov z Pezinka a Jura","rule":"A8 preklep (Pezlnka→Pezinka)"},
+  {"before":"sídlom vládnúcich zemepánov","after":"sídlom vládnucich zemepánov","rule":"A8 dĺžeň"},
+  {"before":"súčasťou majetkov šíachty","after":"súčasťou majetkov šľachty","rule":"A8 preklep"},
+  {"before":"koncom 14. storočia zo všetkých strán prístupnej osady stalo uzavreté mesto, obohnané murovanými hradbami.Zaujímavým","after":"…obohnané murovanými hradbami. Zaujímavým","rule":"B typografia (chýbajúca medzera)"},
+  {"before":"Dobre známym je sklalický mohylník","after":"Dobre známym je skalický mohylník","rule":"A8 preklep"},
+  {"before":"dominovali viedenskú pfenigy","after":"dominovali viedenské fenigy","rule":"A3 zhoda + pravopis"},
+  {"before":"zo strachy pred týmito kočovníkmi","after":"zo strachu pred týmito kočovníkmi","rule":"A4 pád (genitív strachu)"},
+  {"before":"patril niektorému s grófov zo Sv. Jura","after":"patril niektorému z grófov zo Sv. Jura","rule":"A4 predložka (z + genitív)"},
+  {"before":"dôkazy k tomto logickému predpokladu","after":"dôkazy k tomuto logickému predpokladu","rule":"A8 tvar zámena"}]}

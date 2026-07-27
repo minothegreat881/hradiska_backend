@@ -1,0 +1,6 @@
+{ "changes":[
+  {"before":"nájsť miesto, o kde mohol byť nájdený depot","after":"nájsť miesto, kde mohol byť nájdený depot","rule":"A8 preklep (o kde→kde)"},
+  {"before":"ktorý bol krátko pred tým publikovaný","after":"ktorý bol krátko predtým publikovaný","rule":"A8 pravopis (predtým)"},
+  {"before":"Už počas nášho výstupu na na vrchol kopca","after":"Už počas nášho výstupu na vrchol kopca","rule":"B typografia (zdvojené na)"},
+  {"before":"nepodarilo identifikovať a preto usudzujem","after":"nepodarilo identifikovať, a preto usudzujem","rule":"A1 čiarka pred „a preto\""},
+  {"before":"nášho zborníka o hradiskách () Sme veľmi radi","after":"nášho zborníka o hradiskách. Sme veľmi radi","rule":"B prázdne zátvorky (artefakt) + veta"}]}

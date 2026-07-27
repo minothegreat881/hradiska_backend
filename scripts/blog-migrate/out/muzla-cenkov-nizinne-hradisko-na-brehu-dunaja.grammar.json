@@ -1,0 +1,24 @@
+{
+ "changes": [
+  {
+   "before": "Tentokrát sa jedná o . Opäť treba",
+   "after": "Tentokrát ide o nížinné hradisko na brehu Dunaja Mužla – Čenkov. Opäť treba",
+   "rule": "A7 bohemizmus + doplnené z excerptu"
+  },
+  {
+   "before": "že sa nejedná o presnú archeologickú rekonštrukciu",
+   "after": "že nejde o presnú archeologickú rekonštrukciu",
+   "rule": "A7 bohemizmus (nejedná sa o→nejde o)"
+  },
+  {
+   "before": "bol niekoľko metrový zráz",
+   "after": "bol niekoľkometrový zráz",
+   "rule": "A8 zložené slovo"
+  },
+  {
+   "before": "a to vzhľadom k predpokladom archeológov",
+   "after": "a to vzhľadom na predpoklady archeológov",
+   "rule": "A4 väzba (vzhľadom na)"
+  }
+ ]
+}

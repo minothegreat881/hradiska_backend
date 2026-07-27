@@ -1,0 +1,575 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\trstin-novy-hradok.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-1296135378022810625",
+    "bloggerPostUrl": "http://www.hradiska.sk/2021/11/trstin-novy-hradok.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/1296135378022810625/comments/default",
+    "extractedAt": "2026-07-21T14:07:27.262Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 12,
+      "captionedImages": 8,
+      "separatorImages": 4
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Trstín - Nový hrádok",
+    "slug": "trstin-novy-hradok",
+    "excerpt": "Lidarové mapovanie v rokoch 2020 a 2021 prinieslo objavy viacerých nových hradísk na západnom aj strednom Slovensku. Naše Občianske združenie Hradiská so spolupracovníkmi to samozrejme od počiatku registruje a aktívne podľa mapovania vyhľadáva nové…",
+    "authorName": "Orgon",
+    "publishedAt": "2021-11-27T23:46:00.010+01:00",
+    "originalPublishedDate": "2021-11-27T23:46:00.010+01:00",
+    "updatedAt": "2021-11-28T12:25:52.171+01:00",
+    "readingTime": 8,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUf3W4lVlFKN5FBiEOyZm3FhEMPGDcbc-PQ7bv39S_YYvcZYDNj7Xr1B7KKgI6JQ8nIB4vlM-PspZbHrZHIFzOFWoH0ACmZRkBkyIWhIu2OLI3dyPS1cnKDuXuNOeIu1Ivol6Zgmgq7kU9/s0/IMG_20211128_101101.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUf3W4lVlFKN5FBiEOyZm3FhEMPGDcbc-PQ7bv39S_YYvcZYDNj7Xr1B7KKgI6JQ8nIB4vlM-PspZbHrZHIFzOFWoH0ACmZRkBkyIWhIu2OLI3dyPS1cnKDuXuNOeIu1Ivol6Zgmgq7kU9/s1600/IMG_20211128_101101.jpg",
+      "filename": "IMG_20211128_101101.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUf3W4lVlFKN5FBiEOyZm3FhEMPGDcbc-PQ7bv39S_YYvcZYDNj7Xr1B7KKgI6JQ8nIB4vlM-PspZbHrZHIFzOFWoH0ACmZRkBkyIWhIu2OLI3dyPS1cnKDuXuNOeIu1Ivol6Zgmgq7kU9/s1080/IMG_20211128_101101.jpg",
+        "displayedWidth": 320,
+        "displayedHeight": 283,
+        "originalWidth": 1080,
+        "originalHeight": 954
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUf3W4lVlFKN5FBiEOyZm3FhEMPGDcbc-PQ7bv39S_YYvcZYDNj7Xr1B7KKgI6JQ8nIB4vlM-PspZbHrZHIFzOFWoH0ACmZRkBkyIWhIu2OLI3dyPS1cnKDuXuNOeIu1Ivol6Zgmgq7kU9/s0/IMG_20211128_101101.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUf3W4lVlFKN5FBiEOyZm3FhEMPGDcbc-PQ7bv39S_YYvcZYDNj7Xr1B7KKgI6JQ8nIB4vlM-PspZbHrZHIFzOFWoH0ACmZRkBkyIWhIu2OLI3dyPS1cnKDuXuNOeIu1Ivol6Zgmgq7kU9/s1600/IMG_20211128_101101.jpg",
+        "filename": "IMG_20211128_101101.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUf3W4lVlFKN5FBiEOyZm3FhEMPGDcbc-PQ7bv39S_YYvcZYDNj7Xr1B7KKgI6JQ8nIB4vlM-PspZbHrZHIFzOFWoH0ACmZRkBkyIWhIu2OLI3dyPS1cnKDuXuNOeIu1Ivol6Zgmgq7kU9/s1080/IMG_20211128_101101.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 283,
+          "originalWidth": 1080,
+          "originalHeight": 954
+        },
+        "caption": "LIDARový snímok hrádku s viditeľným valom"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ5W1pX5ilxhpqMI6pQpj8nMLjIW5Z-xVzLG8SlrimvpevfSDsSDCVf503wcIosDW6bLjogvx9KTFtWBgACz71W8pb9kmQEqvpRH04CaeCkS49CsBHGXH7VZofbGM8hhKvTCNjXkrKrhVb/s0/Priestor+radiska.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ5W1pX5ilxhpqMI6pQpj8nMLjIW5Z-xVzLG8SlrimvpevfSDsSDCVf503wcIosDW6bLjogvx9KTFtWBgACz71W8pb9kmQEqvpRH04CaeCkS49CsBHGXH7VZofbGM8hhKvTCNjXkrKrhVb/s1600/Priestor+radiska.jpg",
+        "filename": "Priestor+radiska.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ5W1pX5ilxhpqMI6pQpj8nMLjIW5Z-xVzLG8SlrimvpevfSDsSDCVf503wcIosDW6bLjogvx9KTFtWBgACz71W8pb9kmQEqvpRH04CaeCkS49CsBHGXH7VZofbGM8hhKvTCNjXkrKrhVb/s1049/Priestor+radiska.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 247,
+          "originalWidth": 1049,
+          "originalHeight": 809
+        },
+        "caption": "Vnútorný priestor hrádku"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3PJZte6008j-DQiXbmDr5WOmLq2FyNcqSqYG3o_sA4kht0sehSkibKV94uRSgGpVyzGkNtm-3mJYELY10jm12oP8efaxC0_x21hOgpetqbPUa_vKbDvx1eCIME-nSeb6BBNIP7AMNHYb/s0/crepy+1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3PJZte6008j-DQiXbmDr5WOmLq2FyNcqSqYG3o_sA4kht0sehSkibKV94uRSgGpVyzGkNtm-3mJYELY10jm12oP8efaxC0_x21hOgpetqbPUa_vKbDvx1eCIME-nSeb6BBNIP7AMNHYb/s1600/crepy+1.jpg",
+        "filename": "crepy+1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3PJZte6008j-DQiXbmDr5WOmLq2FyNcqSqYG3o_sA4kht0sehSkibKV94uRSgGpVyzGkNtm-3mJYELY10jm12oP8efaxC0_x21hOgpetqbPUa_vKbDvx1eCIME-nSeb6BBNIP7AMNHYb/s728/crepy+1.jpg",
+          "displayedWidth": 313,
+          "displayedHeight": 320,
+          "originalWidth": 712,
+          "originalHeight": 728
+        },
+        "caption": "Praveké črepy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuGufsJMDQd6c5VkfHvYY4-OaJGOP1OcaHw1hOcjqJhyphenhyphen_9w1qrysaUy8Q0sFhnHu2CUpvnvL7Vr5BXCwwbomXvCYB4-Ddma3Yay0j20GhfU8ZUwDv0QApnhngs3CG4kMut4S7mTJX3CeFv/s0/Spona.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuGufsJMDQd6c5VkfHvYY4-OaJGOP1OcaHw1hOcjqJhyphenhyphen_9w1qrysaUy8Q0sFhnHu2CUpvnvL7Vr5BXCwwbomXvCYB4-Ddma3Yay0j20GhfU8ZUwDv0QApnhngs3CG4kMut4S7mTJX3CeFv/s1600/Spona.jpg",
+        "filename": "Spona.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuGufsJMDQd6c5VkfHvYY4-OaJGOP1OcaHw1hOcjqJhyphenhyphen_9w1qrysaUy8Q0sFhnHu2CUpvnvL7Vr5BXCwwbomXvCYB4-Ddma3Yay0j20GhfU8ZUwDv0QApnhngs3CG4kMut4S7mTJX3CeFv/s1060/Spona.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 259,
+          "originalWidth": 1060,
+          "originalHeight": 858
+        },
+        "caption": "Spona z 1. storočia (začiatok doby rímskej)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZS3EZQgPLV599rOISzoz9bqiQ64V4932XzzsGsi6oHHpiCH1J6Rj2rZye3EOxdjqB45ks7kHUIlA5qLVj4rrj8XYTrXXPttgQs5YpJBt1_duzmE-4-TMr6wyJVV4_c4-MZY1WibsxDRM/s0/2x5.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZS3EZQgPLV599rOISzoz9bqiQ64V4932XzzsGsi6oHHpiCH1J6Rj2rZye3EOxdjqB45ks7kHUIlA5qLVj4rrj8XYTrXXPttgQs5YpJBt1_duzmE-4-TMr6wyJVV4_c4-MZY1WibsxDRM/s1600/2x5.jpg",
+        "filename": "2x5.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZS3EZQgPLV599rOISzoz9bqiQ64V4932XzzsGsi6oHHpiCH1J6Rj2rZye3EOxdjqB45ks7kHUIlA5qLVj4rrj8XYTrXXPttgQs5YpJBt1_duzmE-4-TMr6wyJVV4_c4-MZY1WibsxDRM/s800/2x5.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 221,
+          "originalWidth": 800,
+          "originalHeight": 552
+        },
+        "caption": "Boj kurucov (povstalci) proti labancom (vládne sily, maľba: G. P. Rugendas)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59syg10fbgaz_XK8wvTyvjiEglN5z6aSnT6Oo4jlz5SETP-iIqelOifTCh9InyXJ7ODNaTtV2yaYpOS4dZBTBJm0YCzOTj3uix5UTfEztfJ99q0-4LisEmjICLqE_e3rhpzL4ChfaOAGJ/s0/Nalezy+1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59syg10fbgaz_XK8wvTyvjiEglN5z6aSnT6Oo4jlz5SETP-iIqelOifTCh9InyXJ7ODNaTtV2yaYpOS4dZBTBJm0YCzOTj3uix5UTfEztfJ99q0-4LisEmjICLqE_e3rhpzL4ChfaOAGJ/s1600/Nalezy+1.jpg",
+        "filename": "Nalezy+1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59syg10fbgaz_XK8wvTyvjiEglN5z6aSnT6Oo4jlz5SETP-iIqelOifTCh9InyXJ7ODNaTtV2yaYpOS4dZBTBJm0YCzOTj3uix5UTfEztfJ99q0-4LisEmjICLqE_e3rhpzL4ChfaOAGJ/s1129/Nalezy+1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 250,
+          "originalWidth": 1129,
+          "originalHeight": 881
+        },
+        "caption": "Výber niektorých nálezov, medzi nimi spomínané olovené projektily"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglM7bC2ta4K0Fenw8OdP1nGqUeB6w33ANThUyp-t0zztLCqFBjkbE4P0bzqd7MmdQ89ukvVcMsOftq_28SyDvnIRGYxXZfqnazOPETfvZjzQlybWng5DsbUPRIAhbfeICpEEDfxucijktv/s0/Ra%25CC%2581kocy.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglM7bC2ta4K0Fenw8OdP1nGqUeB6w33ANThUyp-t0zztLCqFBjkbE4P0bzqd7MmdQ89ukvVcMsOftq_28SyDvnIRGYxXZfqnazOPETfvZjzQlybWng5DsbUPRIAhbfeICpEEDfxucijktv/s1600/Ra%25CC%2581kocy.jpg",
+        "filename": "Ra%CC%81kocy.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglM7bC2ta4K0Fenw8OdP1nGqUeB6w33ANThUyp-t0zztLCqFBjkbE4P0bzqd7MmdQ89ukvVcMsOftq_28SyDvnIRGYxXZfqnazOPETfvZjzQlybWng5DsbUPRIAhbfeICpEEDfxucijktv/s774/Ra%25CC%2581kocy.jpg",
+          "displayedWidth": 227,
+          "displayedHeight": 320,
+          "originalWidth": 549,
+          "originalHeight": 774
+        },
+        "caption": "František Rákoczy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggwuJibuxxWTU8pjob7k1rpFQ1Opz4fpWEFVyGwozUktJ5z9FkztApkMdS4aZgOcErEgrazsa0dkyWa1lA8XIsCGkXQFKLSov_DZ7-FIPrxxmvPVSL2nV2spAvslJjM7AlTuDpsu9pfbwp/s0/crepy+12.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggwuJibuxxWTU8pjob7k1rpFQ1Opz4fpWEFVyGwozUktJ5z9FkztApkMdS4aZgOcErEgrazsa0dkyWa1lA8XIsCGkXQFKLSov_DZ7-FIPrxxmvPVSL2nV2spAvslJjM7AlTuDpsu9pfbwp/s1600/crepy+12.jpg",
+        "filename": "crepy+12.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggwuJibuxxWTU8pjob7k1rpFQ1Opz4fpWEFVyGwozUktJ5z9FkztApkMdS4aZgOcErEgrazsa0dkyWa1lA8XIsCGkXQFKLSov_DZ7-FIPrxxmvPVSL2nV2spAvslJjM7AlTuDpsu9pfbwp/s821/crepy+12.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 223,
+          "originalWidth": 821,
+          "originalHeight": 571
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgri_4el-iJ8-e7uBkjnnksNTlbE_vGtZQh1R33kpTulbOl4jiU3oWUr3RM7Yg8lvUhNSKWkWHIMO2vQhHfkkqGTIRZfoEpw3Vn5VGImHnXZg_qAgGwfk59ZsT6tghyphenhyphenkkBsv9fDNBun55QC/s0/Screenshot_2021-11-27-23-03-37-293_com.miui.gallery.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgri_4el-iJ8-e7uBkjnnksNTlbE_vGtZQh1R33kpTulbOl4jiU3oWUr3RM7Yg8lvUhNSKWkWHIMO2vQhHfkkqGTIRZfoEpw3Vn5VGImHnXZg_qAgGwfk59ZsT6tghyphenhyphenkkBsv9fDNBun55QC/s1600/Screenshot_2021-11-27-23-03-37-293_com.miui.gallery.jpg",
+        "filename": "Screenshot_2021-11-27-23-03-37-293_com.miui.gallery.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgri_4el-iJ8-e7uBkjnnksNTlbE_vGtZQh1R33kpTulbOl4jiU3oWUr3RM7Yg8lvUhNSKWkWHIMO2vQhHfkkqGTIRZfoEpw3Vn5VGImHnXZg_qAgGwfk59ZsT6tghyphenhyphenkkBsv9fDNBun55QC/s2340/Screenshot_2021-11-27-23-03-37-293_com.miui.gallery.jpg",
+          "displayedWidth": 148,
+          "displayedHeight": 320,
+          "originalWidth": 1080,
+          "originalHeight": 2340
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNaB-A8Dbdk-iiaC_mk0CFr_luuIxmeFkGOYQbrsy-jTkV9yr0XmkzbdusWo6OfCIsh9ZTqBicDNE4o9F13eFAQZflEWY-OXgrB8shXy6kQnEJBYKl_7Nl2NUhSXVRTm7PO-TO4eKf19ch/s0/Leopold+Poltura+2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNaB-A8Dbdk-iiaC_mk0CFr_luuIxmeFkGOYQbrsy-jTkV9yr0XmkzbdusWo6OfCIsh9ZTqBicDNE4o9F13eFAQZflEWY-OXgrB8shXy6kQnEJBYKl_7Nl2NUhSXVRTm7PO-TO4eKf19ch/s1600/Leopold+Poltura+2.jpg",
+        "filename": "Leopold+Poltura+2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNaB-A8Dbdk-iiaC_mk0CFr_luuIxmeFkGOYQbrsy-jTkV9yr0XmkzbdusWo6OfCIsh9ZTqBicDNE4o9F13eFAQZflEWY-OXgrB8shXy6kQnEJBYKl_7Nl2NUhSXVRTm7PO-TO4eKf19ch/s784/Leopold+Poltura+2.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 295,
+          "originalWidth": 784,
+          "originalHeight": 723
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtZbuby8GIQ7-6nATc8J6NvroaLn7eCufPQlglhRBAjQ5Lro2krt-dAVTSYXk6aF5cH1x7ueQDB5wdW-lyPLejQd1ZLXIFBOYrX82IoqxrWoPKfVJn4NeqqPbeaHvI9gHCouyOYRPITLj/s0/Leopold+Poltura+1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtZbuby8GIQ7-6nATc8J6NvroaLn7eCufPQlglhRBAjQ5Lro2krt-dAVTSYXk6aF5cH1x7ueQDB5wdW-lyPLejQd1ZLXIFBOYrX82IoqxrWoPKfVJn4NeqqPbeaHvI9gHCouyOYRPITLj/s1600/Leopold+Poltura+1.jpg",
+        "filename": "Leopold+Poltura+1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtZbuby8GIQ7-6nATc8J6NvroaLn7eCufPQlglhRBAjQ5Lro2krt-dAVTSYXk6aF5cH1x7ueQDB5wdW-lyPLejQd1ZLXIFBOYrX82IoqxrWoPKfVJn4NeqqPbeaHvI9gHCouyOYRPITLj/s741/Leopold+Poltura+1.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 314,
+          "originalWidth": 741,
+          "originalHeight": 726
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU6D3rUJwDFXs31VXNeAIQ7NbWuA_44tPfe2Mzg2agmcg69TRr8DTgzZ3oyiohGX6bTjp1GIHZj0LY5mLpsq9YFS9htv8uAjBNxfZWDaNltORA52jovX0ngeFJIatfVgCF7aErHOQNH_jf/s0/Bercse%25CC%2581nyi_Miklo%25CC%2581s_VU.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU6D3rUJwDFXs31VXNeAIQ7NbWuA_44tPfe2Mzg2agmcg69TRr8DTgzZ3oyiohGX6bTjp1GIHZj0LY5mLpsq9YFS9htv8uAjBNxfZWDaNltORA52jovX0ngeFJIatfVgCF7aErHOQNH_jf/s1600/Bercse%25CC%2581nyi_Miklo%25CC%2581s_VU.jpg",
+        "filename": "Bercse%CC%81nyi_Miklo%CC%81s_VU.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU6D3rUJwDFXs31VXNeAIQ7NbWuA_44tPfe2Mzg2agmcg69TRr8DTgzZ3oyiohGX6bTjp1GIHZj0LY5mLpsq9YFS9htv8uAjBNxfZWDaNltORA52jovX0ngeFJIatfVgCF7aErHOQNH_jf/s885/Bercse%25CC%2581nyi_Miklo%25CC%2581s_VU.jpg",
+          "displayedWidth": 289,
+          "displayedHeight": 320,
+          "originalWidth": 800,
+          "originalHeight": 885
+        },
+        "caption": "Mikuláš Berczényi"
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lidarové mapovanie v rokoch 2020 a 2021 prinieslo objavy viacerých nových hradísk na západnom aj strednom Slovensku. Naše Občianske združenie Hradiská so spolupracovníkmi to samozrejme od počiatku registruje a aktívne podľa mapovania vyhľadáva nové hradiská. V apríli 2020 nás jeden z našich spolupracovníkov - Ladislav Šubovič upozornil na podozrivo vyzerajúcu štruktúru na jednom kopci v okolí Trstína. Krátko na to sme sa na toto miesto išli pozrieť a s radosťou sme mohli potvrdiť, že kopec je naozaj opevnený neveľkým polkruhovým valom a v areáli sme našli niekoľko pravekých črepov. Objav sme ohlásili na KPU Trnava, ktorý zareagoval veľmi rýchlo a na hrádku nariadil výskum, ktorý viedol archeológ Mgr. Matúš Sládok, PhD, a na ktorom sme sa aktívne zúčastnili s použitím detektoru kovov. Výsledky nášho spoločného prieskumu zhrnul archeológ M. Sládok do rozsiahleho textu, z ktorého som čerpal pri tvorbe tohto článku."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Opevnenie sa nachádza na drobnom výbežku s max. výškou 274 m n. m. nad údolím potoka Trnávka. Výbežok je od hornatej časti, z ktorej vybieha, oddelený sedlom s lesnou cestou. Pozostatok opevnenia tvorí nízky, max. 50 cm vysoký val v tvare písmena J, ktorý sa pripája k skalnatej časti, ktorá tvorí severozápadnú, západnú, juhozápadnú a čiastočne južnú časť výbežku. Opevnená plocha má max. dĺžku cca 72 m a max. šírku cca 38 m. Severovýchodne od tejto plochy je mierne zvlnený terén ohraničený líniovým útvarom v tvare písmena U, čo by mohlo byť predhradie. Hrádok s predpokladaným predhradím majú spolu dĺžku cca 95 m. Na hrádok sme v súčasnosti spolu s KPU Trnava umiestnili fotopasce za účelom zdokumentovania možných nelegálnych detektoristov."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUf3W4lVlFKN5FBiEOyZm3FhEMPGDcbc-PQ7bv39S_YYvcZYDNj7Xr1B7KKgI6JQ8nIB4vlM-PspZbHrZHIFzOFWoH0ACmZRkBkyIWhIu2OLI3dyPS1cnKDuXuNOeIu1Ivol6Zgmgq7kU9/s0/IMG_20211128_101101.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUf3W4lVlFKN5FBiEOyZm3FhEMPGDcbc-PQ7bv39S_YYvcZYDNj7Xr1B7KKgI6JQ8nIB4vlM-PspZbHrZHIFzOFWoH0ACmZRkBkyIWhIu2OLI3dyPS1cnKDuXuNOeIu1Ivol6Zgmgq7kU9/s1600/IMG_20211128_101101.jpg",
+          "filename": "IMG_20211128_101101.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUf3W4lVlFKN5FBiEOyZm3FhEMPGDcbc-PQ7bv39S_YYvcZYDNj7Xr1B7KKgI6JQ8nIB4vlM-PspZbHrZHIFzOFWoH0ACmZRkBkyIWhIu2OLI3dyPS1cnKDuXuNOeIu1Ivol6Zgmgq7kU9/s1080/IMG_20211128_101101.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 283,
+            "originalWidth": 1080,
+            "originalHeight": 954
+          }
+        },
+        "alt": "LIDARový snímok hrádku s viditeľným valom",
+        "caption": "LIDARový snímok hrádku s viditeľným valom",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pokiaľ ide o črepy z nádob, našli sme ich spolu 7. Keramika je vypálená oxidačne i redukčne. Vzhľadom na absenciu výzdoby je črepy obtiažne datovať. Prvú skupinu je možné zaradiť rámcovo do prelomu mladšej a neskorej kamennej doby až staršej železnej doby, druhú do tohto rámca alebo do rímskej doby a tretiu skôr do rímskej doby alebo včasného stredoveku."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Zo súčastí odevu a obuvi sa našli spona z mosadze, dve pracky z liatej zliatiny medi a štyri gombíky. Výborne zachovaná germánska spona je najhodnotnejším nálezom z lokality. Má závitové vinutie s opornou doštičkou. Na širokom lúčiku sa nachádzajú dve prstencovito ohraničené neuzatvorené očká. Lúčik je zdobený dvoma ryhami rovnobežnými s okrajmi a uprostred sa nachádza stredové rebro, z ktorého vychádza strechovite hranená, zrezane ukončená, nôžka. Nôžka je pri pätke zdobená dvojitou rytou líniou v tvare obráteného písmena V. Sponu je možné priradiť k typu A 45 Almgren. Datujeme ju do 1. pol. 1. storočia. Za zmienku tiež stoja niektoré gombíky, ktoré je možné datovať do 17. až 18. storočia. Nález spony by mohol byť ojedinelým stratovým nálezom, avšak v polohe s opevnením sa našli aj tri črepy datovateľné aj do rímskej doby a nálezy podobné jednému prsteňu a jednému nožu poznáme aj z rímskej doby, čo už na sponu vrhá iné svetlo. V súvislosti s ňou stoja za pozornosť dva hroty kopijí s facetovanou tuľajkou nájdené cca 1,65 km od skúmanej polohy severozápadne od Holbičkovho mlyna datované do neskorej laténskej doby až rímskej doby."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ5W1pX5ilxhpqMI6pQpj8nMLjIW5Z-xVzLG8SlrimvpevfSDsSDCVf503wcIosDW6bLjogvx9KTFtWBgACz71W8pb9kmQEqvpRH04CaeCkS49CsBHGXH7VZofbGM8hhKvTCNjXkrKrhVb/s0/Priestor+radiska.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ5W1pX5ilxhpqMI6pQpj8nMLjIW5Z-xVzLG8SlrimvpevfSDsSDCVf503wcIosDW6bLjogvx9KTFtWBgACz71W8pb9kmQEqvpRH04CaeCkS49CsBHGXH7VZofbGM8hhKvTCNjXkrKrhVb/s1600/Priestor+radiska.jpg",
+          "filename": "Priestor+radiska.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ5W1pX5ilxhpqMI6pQpj8nMLjIW5Z-xVzLG8SlrimvpevfSDsSDCVf503wcIosDW6bLjogvx9KTFtWBgACz71W8pb9kmQEqvpRH04CaeCkS49CsBHGXH7VZofbGM8hhKvTCNjXkrKrhVb/s1049/Priestor+radiska.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 247,
+            "originalWidth": 1049,
+            "originalHeight": 809
+          }
+        },
+        "alt": "Vnútorný priestor hrádku",
+        "caption": "Vnútorný priestor hrádku",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z osobných predmetov sa našli tri nože, dva prstene zo zliatiny medi a ocieľka. Obidva prstene sú pásikové plechové so spojenými koncami. Prvý ozdobný prsteň je z tenkého plechu, bez výzdoby, s priemerom 17 až 18 mm a šírkou 5 mm. Širšie pásikové plechové prstene s tepaním spojenými koncami sa vyskytujú už min. v rímskej dobe. Pásikové prstene v 9. až 10. stor. majú prevažne nespojené konce."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na hradisku sme našli päť mincí. Najstaršou mincou je jednostranný biely peniaz Maximiliána II. z roku 1566. Razené boli v Česku ako drobné strieborné nominály. Z Malých Karpát ho obsahovali dva hromadné nálezy z územia Svätého Jura z polohy Dolné Jazvečie. Podľa ich značného výskytu mali v peňažných pomeroch špecifické postavenie a boli súčasťou každodenných platobných transakcií aj najnižších vrstiev spoločnosti. V obehu pravdepodobne nahrádzali, príp. dopĺňali absentujúce drobné nominály, hlavne denáre a poldenáre/oboly. K tomu ich kurz voči uhorským minciam bol dobre počítateľný, keďže jeden uhorský denár boli dva české biele peniaze. V dobových listinách vystupujú pod názvom české babky. Ďaľšou zaujímavou mincou je strieborná poltura Leopolda I. z roku 1703. Z Malých Karpát nebol známy nález striebornej poltury Leopolda I."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3PJZte6008j-DQiXbmDr5WOmLq2FyNcqSqYG3o_sA4kht0sehSkibKV94uRSgGpVyzGkNtm-3mJYELY10jm12oP8efaxC0_x21hOgpetqbPUa_vKbDvx1eCIME-nSeb6BBNIP7AMNHYb/s0/crepy+1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3PJZte6008j-DQiXbmDr5WOmLq2FyNcqSqYG3o_sA4kht0sehSkibKV94uRSgGpVyzGkNtm-3mJYELY10jm12oP8efaxC0_x21hOgpetqbPUa_vKbDvx1eCIME-nSeb6BBNIP7AMNHYb/s1600/crepy+1.jpg",
+          "filename": "crepy+1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw3PJZte6008j-DQiXbmDr5WOmLq2FyNcqSqYG3o_sA4kht0sehSkibKV94uRSgGpVyzGkNtm-3mJYELY10jm12oP8efaxC0_x21hOgpetqbPUa_vKbDvx1eCIME-nSeb6BBNIP7AMNHYb/s728/crepy+1.jpg",
+            "displayedWidth": 313,
+            "displayedHeight": 320,
+            "originalWidth": 712,
+            "originalHeight": 728
+          }
+        },
+        "alt": "Praveké črepy",
+        "caption": "Praveké črepy",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prekvapivo ako historicky najzaujímavejšie sa ukázali nálezy spolu 39 vojenských olovených striel ktoré sa podľa tvaru dajú roztriediť do troch skupín – oválne projektily (25 ks), guľky (12 ks) a valček s dvomi konvexnými stranami. Zreteľné stopy na strelách vzniknuté výstrelom alebo deformácie vytvorené zjavne nárazom sú viditeľné na 59 % z celkového počtu striel. Prečo sa tieto olovené guľky, ktoré väčšina detektoristov zahodí ako nepotrebný odpad ukázali ako dôležité? Pretože nám prezradili doteraz nenájdené miesto dôležitej bitky z pred niekoľkých storočí, o ktorom máme písomné zmienky, ale presné miesto bojov sa doposiaľ, až do nášho výskumu nenašlo. Vojenský stret v Biksárskom priesmyku z tohto obdobia je známy len z roku 1704, kedy sa tu odohrala počas protihabsburgovského stavovského povstania Františka II. Rákociho (1703 – 1711) tzv. bitka pri Smoleniciach. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuGufsJMDQd6c5VkfHvYY4-OaJGOP1OcaHw1hOcjqJhyphenhyphen_9w1qrysaUy8Q0sFhnHu2CUpvnvL7Vr5BXCwwbomXvCYB4-Ddma3Yay0j20GhfU8ZUwDv0QApnhngs3CG4kMut4S7mTJX3CeFv/s0/Spona.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuGufsJMDQd6c5VkfHvYY4-OaJGOP1OcaHw1hOcjqJhyphenhyphen_9w1qrysaUy8Q0sFhnHu2CUpvnvL7Vr5BXCwwbomXvCYB4-Ddma3Yay0j20GhfU8ZUwDv0QApnhngs3CG4kMut4S7mTJX3CeFv/s1600/Spona.jpg",
+          "filename": "Spona.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuGufsJMDQd6c5VkfHvYY4-OaJGOP1OcaHw1hOcjqJhyphenhyphen_9w1qrysaUy8Q0sFhnHu2CUpvnvL7Vr5BXCwwbomXvCYB4-Ddma3Yay0j20GhfU8ZUwDv0QApnhngs3CG4kMut4S7mTJX3CeFv/s1060/Spona.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 259,
+            "originalWidth": 1060,
+            "originalHeight": 858
+          }
+        },
+        "alt": "Spona z 1. storočia (začiatok doby rímskej)",
+        "caption": "Spona z 1. storočia (začiatok doby rímskej)",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V nej bojovali povstalci po vedením generálov Mikuláša Berčéniho, Alexandra Károliho a Ladislava Očkaja, posilnení miestnymi ozbrojenými poddanými, proti cisárskej armáde vedenej generálom Adamom Georgom Ritschanom (Ričánom). Cisárski táborili pri Smoleniciach a keď sa Ritschan dozvedel, že sa k nemu blíži silná kurucká armáda a v okolí sa zhromažďujú miestni vzbúrenci, rozhodol sa ustúpiť z tábora na Záhorie. Vojsko aj s rodinnými príslušníkmi niektorých dôstojníkov opustilo tábor, v ktorom nechali v snahe zmiasť protivníka horieť ohne, 27. mája o 23. hodine v pevne zomknutom rade aj so 70 vozmi a 4 delami. O druhej hodine ráno nasledujúci deň, keď prišiel predný voj k lesu pri Trstíne, tak bola kolóna napadnutá Očkajovými jednotkami, miestnymi poddanými a 2 000 Károliho jazdcami. Útoky povstalcov sa síce podarilo odraziť, ale v nevýhodnej pozícii sa cisárski nemohli rozvinúť a k tomu sa kolóna pri postupovaní roztrhala na dva prúdy. Prvá časť prvého prúdu, oslabená iba na asi 300 vojakov, vyšla za stáleho boja z lesa až ráno o 9. hodine, a okolo piatej popoludní prišla do Jablonice. Druhá časť tohto prúdu, takisto sústavne napádaná povstalcami, vyšla tiež veľmi preriedená z lesa okolo jednej popoludní. Zvyšky cisárskych sa zhromaždili v jablonickom kaštieli a v jeho okolí a zakrátko ich obkľúčili povstalci. Ritschan, zranený v boji v priesmyku, sa najprv snažil provizórne opevniť, ale napokon ho dôstojníci presvedčili, aby sa v beznádejnej situácii proti obrovskej presile vzdali. Utiecť z Jablonice sa podarilo len jazdeckej jednotke kapitána Giordaniho. Druhému prúdu pod velením plukovníka Wachtendonka, ktorý v horách stratil kontakt s prvým, sa podarilo ustúpiť okolo hradu Korlátka a Plaveckého hradu smerom do Rakúska, kam dorazilo 1 100 vojakov. Zo zrážky na začiatku bitky udáva Wachtendonk straty 100 cisárskych vojakov a 300 kuruckých. Celkové straty cisárskych v bitke sa udávajú veľmi rozdielne – 300-400 až takmer 4 000 padlých, asi 700 až asi 2 000 (jazdcov) zajatých a jedno až všetky delá. Celkový počet padlých kurucov nie je známy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZS3EZQgPLV599rOISzoz9bqiQ64V4932XzzsGsi6oHHpiCH1J6Rj2rZye3EOxdjqB45ks7kHUIlA5qLVj4rrj8XYTrXXPttgQs5YpJBt1_duzmE-4-TMr6wyJVV4_c4-MZY1WibsxDRM/s0/2x5.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZS3EZQgPLV599rOISzoz9bqiQ64V4932XzzsGsi6oHHpiCH1J6Rj2rZye3EOxdjqB45ks7kHUIlA5qLVj4rrj8XYTrXXPttgQs5YpJBt1_duzmE-4-TMr6wyJVV4_c4-MZY1WibsxDRM/s1600/2x5.jpg",
+          "filename": "2x5.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZS3EZQgPLV599rOISzoz9bqiQ64V4932XzzsGsi6oHHpiCH1J6Rj2rZye3EOxdjqB45ks7kHUIlA5qLVj4rrj8XYTrXXPttgQs5YpJBt1_duzmE-4-TMr6wyJVV4_c4-MZY1WibsxDRM/s800/2x5.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 221,
+            "originalWidth": 800,
+            "originalHeight": 552
+          }
+        },
+        "alt": "Boj kurucov (povstalci) proti labancom (vládne sily, maľba: G. P. Rugendas)",
+        "caption": "Boj kurucov (povstalci) proti labancom (vládne sily, maľba: G. P. Rugendas)",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Olovené strely teda spájame s vyššie popísanou bitkou pri Smoleniciach. Samotný hrádok sa nachádza len cca 650 m od pôvodne jednej z dvoch hlavných ciest cez Biksárdsky priesmyk. Najbližšia strela bola nájdená iba cca 600 m od nej. Priamo pod hrádkom vedie cesta údolím potoka Trnávka, cez ktoré podľa J. Bánlakyho namáhavo ustupovala močaristým terénom cisárska armáda, ale podľa mapky toho istého bádateľa ustupovali cez uvedenú historickú hlavnú cestu. Podľa tejto mapy miestni povstalci obsadili priesmyk od údolia Trnávky, cez uvedenú blízku hlavnú komunikáciu až po ľavú stranu údolia potoka Raková, cez ktoré v súčasnosti vedie hlavná cesta č. 51, čiže aj priestor lokality. Strely nepochádzajú z protipechotného delostrelectva, nakoľko sa kvôli efektivite používalo len v nezalesnenom, prevažne v rovinatejšom teréne, proti masám protivníkov a nie sú ani zmienky o jeho použití v tejto bitke. Oválne projektily môžeme s istotou priradiť pištoliam. Ich tvar vznikol roztepaním guliek určených pre zbrane s väčším kalibrom (karabíny, arkebúzy alebo ľahkej muškety). Roztepanie dokazujú rovné plôšky na projektiloch vzniknuté údermi kladiva na guľky. Z guliek je časť z pištolí, ale väčšina môže byť z aj karabín, arkebúz alebo ľahkých muškiet. Celková prevaha striel z jazdeckých zbraní, ak nie ich celý počet, tu dokazuje stret jazdeckej jednotky s pechotou alebo stret dvoch jazdeckých jednotiek. Za súčasného stavu preskúmania časti bojiska sa domnievame, že tu pravdepodobne cisárska jazda vytláčala miestnych povstalcov, útočiacich na ustupujúcu kolónu. S bitkou v priesmyku pravdepodobne súvisí aj nález už vyššie spomenutej zriedkavej razby mince z roku 1703. Niektoré ďalšie nálezy, napr. nože, gombíky, podkova a klince, by bolo veľmi odvážne spojiť s bitkou, lebo nie sú presne datovateľné alebo môžu súvisieť aj s inými činnosťami. Význam nášho objavu spočíva najmä v tom, že na Slovensku je to prvá relevantnými archeologickými nálezmi zachytená bitka z období stavovských povstaní mimo obliehania a dobývania opevnení."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59syg10fbgaz_XK8wvTyvjiEglN5z6aSnT6Oo4jlz5SETP-iIqelOifTCh9InyXJ7ODNaTtV2yaYpOS4dZBTBJm0YCzOTj3uix5UTfEztfJ99q0-4LisEmjICLqE_e3rhpzL4ChfaOAGJ/s0/Nalezy+1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59syg10fbgaz_XK8wvTyvjiEglN5z6aSnT6Oo4jlz5SETP-iIqelOifTCh9InyXJ7ODNaTtV2yaYpOS4dZBTBJm0YCzOTj3uix5UTfEztfJ99q0-4LisEmjICLqE_e3rhpzL4ChfaOAGJ/s1600/Nalezy+1.jpg",
+          "filename": "Nalezy+1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59syg10fbgaz_XK8wvTyvjiEglN5z6aSnT6Oo4jlz5SETP-iIqelOifTCh9InyXJ7ODNaTtV2yaYpOS4dZBTBJm0YCzOTj3uix5UTfEztfJ99q0-4LisEmjICLqE_e3rhpzL4ChfaOAGJ/s1129/Nalezy+1.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 250,
+            "originalWidth": 1129,
+            "originalHeight": 881
+          }
+        },
+        "alt": "Výber niektorých nálezov, medzi nimi spomínané olovené projektily",
+        "caption": "Výber niektorých nálezov, medzi nimi spomínané olovené projektily",
+        "position": "center",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Datovať, kedy bolo postavené samotné valové opevnenie sa nepodarilo, ale vylučujeme jeho vznik vo vrcholnom stredoveku až novoveku, nakoľko pre fortifikácie v tomto období sú typické opevnenia masívnejšie a iného tvaru, na opevneniach z vrcholného a neskorého stredoveku sú časté nálezy militárií, klincov a keramiky, a v novoveku hlavné cesty cez priesmyk neviedli popod hrádok, takže by tu opevnenie nemalo zmysel. Črepy je možné datovať do širokého obdobia od prelomu mladšej a neskorej kamennej doby až do včasného stredoveku okrem laténskej doby, pričom v tomto rámci sme identifikovali min. dve obdobia – eneolit až halštat a rímsku dobu alebo včasný stredovek. Hŕstka črepov vypovedá o len krátkodobých pobytoch v polohe (refúgium?). Pre bronzovú dobu, halštat a včasný stredovek nie sú typické takéto nevýrazné opevnenia a z rímskej doby ich na germánskom území na našom území nepoznáme. Z eneolitu v Malých Karpatoch subtílne opevnenia poznáme. V Prašníku na Hrádku bol zistený palisádový žľab datovaný do ludanickej skupiny lengyelskej kultúry."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglM7bC2ta4K0Fenw8OdP1nGqUeB6w33ANThUyp-t0zztLCqFBjkbE4P0bzqd7MmdQ89ukvVcMsOftq_28SyDvnIRGYxXZfqnazOPETfvZjzQlybWng5DsbUPRIAhbfeICpEEDfxucijktv/s0/Ra%25CC%2581kocy.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglM7bC2ta4K0Fenw8OdP1nGqUeB6w33ANThUyp-t0zztLCqFBjkbE4P0bzqd7MmdQ89ukvVcMsOftq_28SyDvnIRGYxXZfqnazOPETfvZjzQlybWng5DsbUPRIAhbfeICpEEDfxucijktv/s1600/Ra%25CC%2581kocy.jpg",
+          "filename": "Ra%CC%81kocy.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglM7bC2ta4K0Fenw8OdP1nGqUeB6w33ANThUyp-t0zztLCqFBjkbE4P0bzqd7MmdQ89ukvVcMsOftq_28SyDvnIRGYxXZfqnazOPETfvZjzQlybWng5DsbUPRIAhbfeICpEEDfxucijktv/s774/Ra%25CC%2581kocy.jpg",
+            "displayedWidth": 227,
+            "displayedHeight": 320,
+            "originalWidth": 549,
+            "originalHeight": 774
+          }
+        },
+        "alt": "František Rákoczy",
+        "caption": "František Rákoczy",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Orgoň"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lit: Matúš Sládok: Správa o archeologickom náleze, KPU Trnava, 2021"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "https://www.geocaching.com/geocache/GC9BBTE_historia-jedneho-kopceka?fbclid=IwAR3MBMDI61EdgMpINscwILjQoji3fYJ6odWWnRz-JFE_SSfCmEWjBn0Sx0c",
+            "url": "https://www.geocaching.com/geocache/GC9BBTE_historia-jedneho-kopceka?fbclid=IwAR3MBMDI61EdgMpINscwILjQoji3fYJ6odWWnRz-JFE_SSfCmEWjBn0Sx0c"
+          },
+          {
+            "text": "Zdroj produktov LLS: ÚGKK SR, Vizualizácia: Tibor Lieskovský (STU Bratislava)",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "https://www.geocaching.com/geocache/GC9BBTE_historia-jedneho-kopceka?fbclid=IwAR3MBMDI61EdgMpINscwILjQoji3fYJ6odWWnRz-JFE_SSfCmEWjBn0Sx0c",
+        "title": "https://www.geocaching.com/geocache/GC9BBTE_historia-jedneho-kopceka?fbclid=IwAR3MBMDI61EdgMpINscwILjQoji3fYJ6odWWnRz-JFE_SSfCmEWjBn0Sx0c"
+      },
+      {
+        "type": "book",
+        "text": "Zdroj produktov LLS: ÚGKK SR, Vizualizácia: Tibor Lieskovský (STU Bratislava)"
+      }
+    ]
+  }
+}

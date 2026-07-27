@@ -1,0 +1,60 @@
+{
+  "kind": "collectionType",
+  "collectionName": "notifications",
+  "info": {
+    "singularName": "notification",
+    "pluralName": "notifications",
+    "displayName": "Notification",
+    "description": "Upozornenia pre člena: odpoveď na komentár, lajk (agregovaný), upozornenie správcu, nová aktualita. `recipient` = adresát, `actor` = kto to vyvolal (nullable pri agregovaných/systémových)."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "type": {
+      "type": "enumeration",
+      "enum": ["reply", "like", "warning", "post"],
+      "required": true
+    },
+    "read": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    },
+    "text": {
+      "type": "text",
+      "maxLength": 2000
+    },
+    "aggregateCount": {
+      "type": "integer",
+      "default": 1,
+      "min": 1
+    },
+    "recipient": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    },
+    "actor": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    },
+    "post": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::blog-post.blog-post"
+    },
+    "comment": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::blog-comment.blog-comment"
+    },
+    "aktualita": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::aktualita.aktualita"
+    }
+  }
+}

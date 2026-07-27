@@ -1,0 +1,129 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\vitazstvo.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3553663636132664847",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/05/vitazstvo.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3553663636132664847/comments/default",
+    "extractedAt": "2026-07-21T14:08:03.010Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 1,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Víťazstvo",
+    "slug": "vitazstvo",
+    "excerpt": "\"V roku 889 od vtelenia Pána vytiahol národ Maďarov, najdivokejší a nad všetky príšery krutejší, v minulých storočiach preto neznámy, že nebol nikde menovaný, kdesi zo skýtskych kráľovstiev a močiarov, ktoré Don rozprestiera svojim tokom do…",
+    "authorName": "Orgon",
+    "publishedAt": "2013-05-13T09:11:00.001+02:00",
+    "originalPublishedDate": "2013-05-13T09:11:00.001+02:00",
+    "updatedAt": "2013-05-13T20:27:54.681+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigfZ4Hk6W2eqis9STz7V9eYwrvQBxtmp3vpX8uQfAbihQOfXDlIZHvL9dXgfmunnYMveGR6xgOT21oM5IU4sg7AeRkru3CKxwBj6dlwwnsOYNvaIL4g7jfIFZwyCAJ6vUp7sWRuDI2oU0/s0/Poprava+Mad%CC%8Carov.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigfZ4Hk6W2eqis9STz7V9eYwrvQBxtmp3vpX8uQfAbihQOfXDlIZHvL9dXgfmunnYMveGR6xgOT21oM5IU4sg7AeRkru3CKxwBj6dlwwnsOYNvaIL4g7jfIFZwyCAJ6vUp7sWRuDI2oU0/s1600/Poprava+Mad%CC%8Carov.jpg",
+        "filename": "Poprava+Maďarov.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigfZ4Hk6W2eqis9STz7V9eYwrvQBxtmp3vpX8uQfAbihQOfXDlIZHvL9dXgfmunnYMveGR6xgOT21oM5IU4sg7AeRkru3CKxwBj6dlwwnsOYNvaIL4g7jfIFZwyCAJ6vUp7sWRuDI2oU0/s1600/Poprava+Mad%CC%8Carov.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": "\"Rok 902. Maďari napadli územie Moravanov. V boji však boli porazení a dali sa na útek.\" Fuldské anály, 10. storočie"
+      }
+    ],
+    "tags": [
+      "Víťazstvo"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.quote-block",
+        "text": "\"V roku 889 od vtelenia Pána vytiahol národ Maďarov, najdivokejší a nad všetky príšery krutejší, v minulých storočiach preto neznámy, že nebol nikde menovaný, kdesi zo skýtskych kráľovstiev a močiarov, ktoré Don rozprestiera svojim tokom do nekonečna."
+      },
+      {
+        "__component": "content.quote-block",
+        "text": "Odtiaľ bol teda spomenutý národ vyhnaný zo svojich vlastných sídiel susednými národmi, ktoré sa volajú Pečenehovia, lebo tí ich prevážili počtom aj statočnosťou a rodná zem, ako sme už povedali, nestačila pre obrovský rast obyvateľstva k prebývaniu. A tak keď nimi boli Maďari násilne vyhnaní, po rozlúčení s vlasťou vydávajú sa na cestu, aby vyhľadali nové zeme, ktoré by mohli obývať, a aby si tam mohli vybudovať sídla."
+      },
+      {
+        "__component": "content.quote-block",
+        "text": "Najpr blúdia po pustatinách Panóncov a Avarov a hľadajú svoju každodennú obživu z lovu a rybárčenia. Neskôr vtrhávajú častými nepriateľskými nájazdami do končin Korutáncov, Moravanov a Bulharov, len málo ľudí zabijú mečom, mnoho tisíc však šípami, ktoré vypúšťajú s takým umením z lukov zhotovených z rohov, že ich zásahom sa len s ťažkosťou možno vyhnúť.\""
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "Reginova kronika",
+            "url": "http://www.hradiska.sk/search/label/Ma%C4%8Fari%20v%20p%C3%ADsomn%C3%BDch%20prame%C5%88och"
+          },
+          {
+            "text": "\" Rok 902. Maďari napadli územie Moravanov. V boji však boli porazení",
+            "url": null
+          },
+          {
+            "text": "a dali sa na útek .\" Fuldské anály, 10. storočie",
+            "url": null
+          },
+          {
+            "text": "Naši predkovia to na začiatku 10. storočia nemali ľahké. Mocenské boje svätoplukových synov, frankovia, snažiaci sa opäť podmaniť si územie Veľkej Moravy a do toho nový nepriateľ - kočovní Maďari. S kráľom Svätoplukom síce uzatvorili mier, ten však po jeho smrti prestal platiť. Sloveni zviedli s Maďarmi mnoho bojov, niektoré víťazné niektoré žiaľ končili porážkou.",
+            "url": null
+          },
+          {
+            "text": "Scéna, ktorú pre nás nakreslil spolupracovník Tomáš Humaj patrí medzi tie svetlejšie okamihy (z pohľadu Slovenov). Kresba sa nazýva \"VÍŤAZSTVO\"",
+            "url": null
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "internal-link",
+        "url": "http://www.hradiska.sk/search/label/Ma%C4%8Fari%20v%20p%C3%ADsomn%C3%BDch%20prame%C5%88och",
+        "title": "Reginova kronika"
+      },
+      {
+        "type": "book",
+        "text": "\" Rok 902. Maďari napadli územie Moravanov. V boji však boli porazení"
+      },
+      {
+        "type": "book",
+        "text": "a dali sa na útek .\" Fuldské anály, 10. storočie"
+      },
+      {
+        "type": "book",
+        "text": "Naši predkovia to na začiatku 10. storočia nemali ľahké. Mocenské boje svätoplukových synov, frankovia, snažiaci sa opäť podmaniť si územie Veľkej Moravy a do toho nový nepriateľ - kočovní Maďari. S kráľom Svätoplukom síce uzatvorili mier, ten však po jeho smrti prestal platiť. Sloveni zviedli s Maďarmi mnoho bojov, niektoré víťazné niektoré žiaľ končili porážkou."
+      },
+      {
+        "type": "book",
+        "text": "Scéna, ktorú pre nás nakreslil spolupracovník Tomáš Humaj patrí medzi tie svetlejšie okamihy (z pohľadu Slovenov). Kresba sa nazýva \"VÍŤAZSTVO\""
+      }
+    ]
+  }
+}

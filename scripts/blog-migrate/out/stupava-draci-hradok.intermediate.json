@@ -1,0 +1,599 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\stupava-draci-hradok.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3700953177840792415",
+    "bloggerPostUrl": "http://www.hradiska.sk/2021/02/stupava-draci-hradok.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3700953177840792415/comments/default",
+    "extractedAt": "2026-07-21T14:07:29.663Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://sk.frame.mapy.cz/s/pedetuveto"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 19,
+      "captionedImages": 6,
+      "separatorImages": 9
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Stupava - Dračí hrádok",
+    "slug": "stupava-draci-hradok",
+    "excerpt": "V katastri Stupavy, ale asi len 1 km od posledných domov obce Borinka, sa nachádza ruina stredovekej pevnôstky, na mapách označená ako Dračí hrádok. Leží pomerne hlboko vo vnútri juhozápadnej časti Malých Karpát, na asi 400 m dlhom a pri úpätí 350 m…",
+    "authorName": "Orgon",
+    "publishedAt": "2021-02-06T21:11:00.007+01:00",
+    "originalPublishedDate": "2021-02-06T21:11:00.007+01:00",
+    "updatedAt": "2021-02-07T12:48:40.674+01:00",
+    "readingTime": 4,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuJ4fTR947pqRLGMDYLUoxd9qw92t5KwpE4Ar6ZZsasQRo-c7yv-rQODRtCKDYkSetVpR3tajVa9y1CyxUZ-C2WqRZTEhMgOiuyTN5OFmOjNxKfzsSyF4dF5CYYZ6iqaPwwc8bQa1r86j/s0/LIDAR+od+Tibora+vy%25CC%2581strih.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuJ4fTR947pqRLGMDYLUoxd9qw92t5KwpE4Ar6ZZsasQRo-c7yv-rQODRtCKDYkSetVpR3tajVa9y1CyxUZ-C2WqRZTEhMgOiuyTN5OFmOjNxKfzsSyF4dF5CYYZ6iqaPwwc8bQa1r86j/s1600/LIDAR+od+Tibora+vy%25CC%2581strih.jpg",
+      "filename": "LIDAR+od+Tibora+vy%CC%81strih.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuJ4fTR947pqRLGMDYLUoxd9qw92t5KwpE4Ar6ZZsasQRo-c7yv-rQODRtCKDYkSetVpR3tajVa9y1CyxUZ-C2WqRZTEhMgOiuyTN5OFmOjNxKfzsSyF4dF5CYYZ6iqaPwwc8bQa1r86j/s2048/LIDAR+od+Tibora+vy%25CC%2581strih.jpg",
+        "displayedWidth": null,
+        "displayedHeight": 320,
+        "originalWidth": 1740,
+        "originalHeight": 2048
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuJ4fTR947pqRLGMDYLUoxd9qw92t5KwpE4Ar6ZZsasQRo-c7yv-rQODRtCKDYkSetVpR3tajVa9y1CyxUZ-C2WqRZTEhMgOiuyTN5OFmOjNxKfzsSyF4dF5CYYZ6iqaPwwc8bQa1r86j/s0/LIDAR+od+Tibora+vy%25CC%2581strih.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuJ4fTR947pqRLGMDYLUoxd9qw92t5KwpE4Ar6ZZsasQRo-c7yv-rQODRtCKDYkSetVpR3tajVa9y1CyxUZ-C2WqRZTEhMgOiuyTN5OFmOjNxKfzsSyF4dF5CYYZ6iqaPwwc8bQa1r86j/s1600/LIDAR+od+Tibora+vy%25CC%2581strih.jpg",
+        "filename": "LIDAR+od+Tibora+vy%CC%81strih.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuJ4fTR947pqRLGMDYLUoxd9qw92t5KwpE4Ar6ZZsasQRo-c7yv-rQODRtCKDYkSetVpR3tajVa9y1CyxUZ-C2WqRZTEhMgOiuyTN5OFmOjNxKfzsSyF4dF5CYYZ6iqaPwwc8bQa1r86j/s2048/LIDAR+od+Tibora+vy%25CC%2581strih.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 1740,
+          "originalHeight": 2048
+        },
+        "caption": "Hradisko na lidarovej snímke (T. Lieskovský)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfTgPp087FH_IKx-UBTaVd3CBNEjASzCnuXAsDaCjNxA_mMgKk7b5BgMrJNL_RtPXrAwr12zQSotHur5yCFU_ONWgAal9N8F0L23CbTVs-Pa3B4NLxo6rdF9lTIdfRyVMcHmjpegYr0Bgi/s0/obr.+7.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfTgPp087FH_IKx-UBTaVd3CBNEjASzCnuXAsDaCjNxA_mMgKk7b5BgMrJNL_RtPXrAwr12zQSotHur5yCFU_ONWgAal9N8F0L23CbTVs-Pa3B4NLxo6rdF9lTIdfRyVMcHmjpegYr0Bgi/s1600/obr.+7.jpg",
+        "filename": "obr.+7.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfTgPp087FH_IKx-UBTaVd3CBNEjASzCnuXAsDaCjNxA_mMgKk7b5BgMrJNL_RtPXrAwr12zQSotHur5yCFU_ONWgAal9N8F0L23CbTVs-Pa3B4NLxo6rdF9lTIdfRyVMcHmjpegYr0Bgi/s2048/obr.+7.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1606
+        },
+        "caption": "Dračí hrádok, Pajštún a kláštor v Marianke na mape Adolfa Emanuela Pernolda. Stav okolo polovice 19. storočia. P { margin-bottom: 0.21cm }"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgou40OqodjeWc5pVf_fMw-DfgG3Pb902BwoDNV0gMtd8WjlO6N_aWOO5Q2v8QrH66CyX6awxS4nDKp6gRvF2MtLWHH-OArCQjP2Iea1HbQ0eSMp6NmCIaF_P-WSsJPY9MvxNavG5QPZ4i/s0/obr.+6.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgou40OqodjeWc5pVf_fMw-DfgG3Pb902BwoDNV0gMtd8WjlO6N_aWOO5Q2v8QrH66CyX6awxS4nDKp6gRvF2MtLWHH-OArCQjP2Iea1HbQ0eSMp6NmCIaF_P-WSsJPY9MvxNavG5QPZ4i/s1600/obr.+6.jpg",
+        "filename": "obr.+6.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgou40OqodjeWc5pVf_fMw-DfgG3Pb902BwoDNV0gMtd8WjlO6N_aWOO5Q2v8QrH66CyX6awxS4nDKp6gRvF2MtLWHH-OArCQjP2Iea1HbQ0eSMp6NmCIaF_P-WSsJPY9MvxNavG5QPZ4i/s2048/obr.+6.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1716
+        },
+        "caption": "Ruiny stredovekej veže na romantickej maľbe z roku 1871 (autor Teodor Weisz) P { margin-bottom: 0.21cm }"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginAkUbYyCvtl3EiX1jYYUpd4KyiZ18TX6JIL6GCWwOzWCmyE0x966OrHApF4e7wJ5KbHWLf0LFmlPfuL0yUrxdAWE4MaR5047-h2qeblzWja0hnaOLnrDdFEgJfUDSQ4zgvcyMueMr_z1/s0/obr.+2F.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginAkUbYyCvtl3EiX1jYYUpd4KyiZ18TX6JIL6GCWwOzWCmyE0x966OrHApF4e7wJ5KbHWLf0LFmlPfuL0yUrxdAWE4MaR5047-h2qeblzWja0hnaOLnrDdFEgJfUDSQ4zgvcyMueMr_z1/s1600/obr.+2F.jpg",
+        "filename": "obr.+2F.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginAkUbYyCvtl3EiX1jYYUpd4KyiZ18TX6JIL6GCWwOzWCmyE0x966OrHApF4e7wJ5KbHWLf0LFmlPfuL0yUrxdAWE4MaR5047-h2qeblzWja0hnaOLnrDdFEgJfUDSQ4zgvcyMueMr_z1/s1179/obr.+2F.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 600,
+          "originalHeight": 1179
+        },
+        "caption": "Nákončie opaska zo slovansko-avarského obdobia"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCIiqWex3fS4XzVXT8BRDrKet4lAhI255proZxgx5fQXKOpX_Wwu_JCIBaep9lJdLmV2FX7QkPEGZKyN5PtKRViwkd83g1gdTfOQx4uHlhJzz14DlrjPiXtaD1KSA9QE1tzt9mknCDYSm/s0/kluce.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCIiqWex3fS4XzVXT8BRDrKet4lAhI255proZxgx5fQXKOpX_Wwu_JCIBaep9lJdLmV2FX7QkPEGZKyN5PtKRViwkd83g1gdTfOQx4uHlhJzz14DlrjPiXtaD1KSA9QE1tzt9mknCDYSm/s1600/kluce.jpg",
+        "filename": "kluce.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDCIiqWex3fS4XzVXT8BRDrKet4lAhI255proZxgx5fQXKOpX_Wwu_JCIBaep9lJdLmV2FX7QkPEGZKyN5PtKRViwkd83g1gdTfOQx4uHlhJzz14DlrjPiXtaD1KSA9QE1tzt9mknCDYSm/s532/kluce.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 532,
+          "originalHeight": 526
+        },
+        "caption": "Stredoveké kľúe (13.- 14. st.)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMhBwYsaPtY7Ipu_losJAVpJOmH-Hk6kJZUX5qWEQP_ikyDfv89js30YyC0DywPF7aDEnf_V_jsAqlq5JaESg6O32oBtnDOvd9iY0KcnZWOWWgoLIF42fbJOShFXmeFd321zfmrBAGgiJM/s0/bradatica+a+str+sekera.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMhBwYsaPtY7Ipu_losJAVpJOmH-Hk6kJZUX5qWEQP_ikyDfv89js30YyC0DywPF7aDEnf_V_jsAqlq5JaESg6O32oBtnDOvd9iY0KcnZWOWWgoLIF42fbJOShFXmeFd321zfmrBAGgiJM/s1600/bradatica+a+str+sekera.jpg",
+        "filename": "bradatica+a+str+sekera.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMhBwYsaPtY7Ipu_losJAVpJOmH-Hk6kJZUX5qWEQP_ikyDfv89js30YyC0DywPF7aDEnf_V_jsAqlq5JaESg6O32oBtnDOvd9iY0KcnZWOWWgoLIF42fbJOShFXmeFd321zfmrBAGgiJM/s878/bradatica+a+str+sekera.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 602,
+          "originalHeight": 878
+        },
+        "caption": "Medzi kovovými nálezmi sa nachádza aj fragment zo slovanskej bradatice (číslo 2)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiLQYxwDFJTBGLgDP8-HICzNJIXe_Vts3uA2O2tf8ezdq5l6tDIVdpdpB9I2AgA8m5452RPdDyzoPfs_j-DViEO8Hyu5V0iVKZO0QR5s5yZ0-oqwB07DdYF-1p-ylmLkhMCSjEGZV7Conr/s0/c%25CC%258Crepy1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiLQYxwDFJTBGLgDP8-HICzNJIXe_Vts3uA2O2tf8ezdq5l6tDIVdpdpB9I2AgA8m5452RPdDyzoPfs_j-DViEO8Hyu5V0iVKZO0QR5s5yZ0-oqwB07DdYF-1p-ylmLkhMCSjEGZV7Conr/s1600/c%25CC%258Crepy1.jpg",
+        "filename": "c%CC%8Crepy1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiLQYxwDFJTBGLgDP8-HICzNJIXe_Vts3uA2O2tf8ezdq5l6tDIVdpdpB9I2AgA8m5452RPdDyzoPfs_j-DViEO8Hyu5V0iVKZO0QR5s5yZ0-oqwB07DdYF-1p-ylmLkhMCSjEGZV7Conr/s874/c%25CC%258Crepy1.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 603,
+          "originalHeight": 874
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimQQ6_dWLxH4bsGeCoZtAa_nl0lKW9u1Lr0PiHuEGTvYkF4TAlvhsuNPYO-kZs0SlmWmK5oBIq_X4QO2X_jXUfoy-sL8ZLpDHwA-QEEAzCrzvzWhTeQuj-4GNNrXL8nqmyr4xxyIwCsGV8/s0/ostrohy.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimQQ6_dWLxH4bsGeCoZtAa_nl0lKW9u1Lr0PiHuEGTvYkF4TAlvhsuNPYO-kZs0SlmWmK5oBIq_X4QO2X_jXUfoy-sL8ZLpDHwA-QEEAzCrzvzWhTeQuj-4GNNrXL8nqmyr4xxyIwCsGV8/s1600/ostrohy.jpg",
+        "filename": "ostrohy.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimQQ6_dWLxH4bsGeCoZtAa_nl0lKW9u1Lr0PiHuEGTvYkF4TAlvhsuNPYO-kZs0SlmWmK5oBIq_X4QO2X_jXUfoy-sL8ZLpDHwA-QEEAzCrzvzWhTeQuj-4GNNrXL8nqmyr4xxyIwCsGV8/s867/ostrohy.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 603,
+          "originalHeight": 867
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEEQqnh0zWtTxQceRSSX4KiXFxLE_CV0dMx0a6XM_sAely-SdmjriW4SgEZwIu1tdg8TB6e-9qgocQn0NKhRtu_G3bJLEpSs4lNrWMz-qnJnXjTkgsy0rRCdtXqfIJy5caYSg-aHa6wHFe/s0/s%25CC%258Ci%25CC%2581py2.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEEQqnh0zWtTxQceRSSX4KiXFxLE_CV0dMx0a6XM_sAely-SdmjriW4SgEZwIu1tdg8TB6e-9qgocQn0NKhRtu_G3bJLEpSs4lNrWMz-qnJnXjTkgsy0rRCdtXqfIJy5caYSg-aHa6wHFe/s1600/s%25CC%258Ci%25CC%2581py2.jpg",
+        "filename": "s%CC%8Ci%CC%81py2.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEEQqnh0zWtTxQceRSSX4KiXFxLE_CV0dMx0a6XM_sAely-SdmjriW4SgEZwIu1tdg8TB6e-9qgocQn0NKhRtu_G3bJLEpSs4lNrWMz-qnJnXjTkgsy0rRCdtXqfIJy5caYSg-aHa6wHFe/s876/s%25CC%258Ci%25CC%2581py2.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 570,
+          "originalHeight": 876
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_mK1VD4YRhTvImkSSnnbqgQCnKbK-jleTXW6z2nntMx69TglnUmWYPPvMZ6PhavBK6QZN37BUxBqjIB2uqhyphenhyphencup67-SNNlYiVJ55cv6NR0420B0uboGuOftmwPVghDX1UC0pIu2pr69x/s0/IMG_8512.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_mK1VD4YRhTvImkSSnnbqgQCnKbK-jleTXW6z2nntMx69TglnUmWYPPvMZ6PhavBK6QZN37BUxBqjIB2uqhyphenhyphencup67-SNNlYiVJ55cv6NR0420B0uboGuOftmwPVghDX1UC0pIu2pr69x/s1600/IMG_8512.JPG",
+        "filename": "IMG_8512.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_mK1VD4YRhTvImkSSnnbqgQCnKbK-jleTXW6z2nntMx69TglnUmWYPPvMZ6PhavBK6QZN37BUxBqjIB2uqhyphenhyphencup67-SNNlYiVJ55cv6NR0420B0uboGuOftmwPVghDX1UC0pIu2pr69x/s2048/IMG_8512.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJWV4kRqcXO0OPnRMe6XzJav0s03b0uOyZTO9asav-TAjgJ5xZXX2SmUcs0Jfz3GXensyyrGsgYLO8oNQ3oxCxRlgJWckyit45a_KRCsghofB9txe2TVUkRP1DyWu8AHQH0hn6ifLgK2un/s0/IMG_8476.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJWV4kRqcXO0OPnRMe6XzJav0s03b0uOyZTO9asav-TAjgJ5xZXX2SmUcs0Jfz3GXensyyrGsgYLO8oNQ3oxCxRlgJWckyit45a_KRCsghofB9txe2TVUkRP1DyWu8AHQH0hn6ifLgK2un/s1600/IMG_8476.JPG",
+        "filename": "IMG_8476.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJWV4kRqcXO0OPnRMe6XzJav0s03b0uOyZTO9asav-TAjgJ5xZXX2SmUcs0Jfz3GXensyyrGsgYLO8oNQ3oxCxRlgJWckyit45a_KRCsghofB9txe2TVUkRP1DyWu8AHQH0hn6ifLgK2un/s2048/IMG_8476.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooU4Vt2zEHT6IZpXcM6h3Qca473v7msKEZfQwwbyzNCYdZQ9UWq4MWBqF4fo5rufeoaMJmVHTwsMTAzYiJmTntlIpkspk4HPiy-OokcMB6-srN91ULv_DIi2dfAGleE9pDlUQokRIFwmk/s0/IMG_8479.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooU4Vt2zEHT6IZpXcM6h3Qca473v7msKEZfQwwbyzNCYdZQ9UWq4MWBqF4fo5rufeoaMJmVHTwsMTAzYiJmTntlIpkspk4HPiy-OokcMB6-srN91ULv_DIi2dfAGleE9pDlUQokRIFwmk/s1600/IMG_8479.JPG",
+        "filename": "IMG_8479.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiooU4Vt2zEHT6IZpXcM6h3Qca473v7msKEZfQwwbyzNCYdZQ9UWq4MWBqF4fo5rufeoaMJmVHTwsMTAzYiJmTntlIpkspk4HPiy-OokcMB6-srN91ULv_DIi2dfAGleE9pDlUQokRIFwmk/s2048/IMG_8479.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2nFX9yj1YfdDsL2RVBIqjEyk-mLcIXrZpFTstIs4AdQwWV0hxPKblA33ifWTCgIzdS_WmU3C9pQg5e9H-ZJf-bA6G4tgJyDMSFqRC2qoKAlZdssFDqX8NO5MbTZYrmnHnFYa6VvWAEV8k/s0/IMG_8481.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2nFX9yj1YfdDsL2RVBIqjEyk-mLcIXrZpFTstIs4AdQwWV0hxPKblA33ifWTCgIzdS_WmU3C9pQg5e9H-ZJf-bA6G4tgJyDMSFqRC2qoKAlZdssFDqX8NO5MbTZYrmnHnFYa6VvWAEV8k/s1600/IMG_8481.JPG",
+        "filename": "IMG_8481.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2nFX9yj1YfdDsL2RVBIqjEyk-mLcIXrZpFTstIs4AdQwWV0hxPKblA33ifWTCgIzdS_WmU3C9pQg5e9H-ZJf-bA6G4tgJyDMSFqRC2qoKAlZdssFDqX8NO5MbTZYrmnHnFYa6VvWAEV8k/s2048/IMG_8481.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN7IwvSqlk4FR50Tc3SvjxewA65oBdkRr9XmHwCGQBMnezgTLpPqHe_2fCBjfa7asKy0EfBv9gaDEKUDtSh5qWJJ6CKBRx5lazLluwSycXtsKM2E-fg0DPvSeykGbdqn_347kR3PRVenBY/s0/IMG_8487.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN7IwvSqlk4FR50Tc3SvjxewA65oBdkRr9XmHwCGQBMnezgTLpPqHe_2fCBjfa7asKy0EfBv9gaDEKUDtSh5qWJJ6CKBRx5lazLluwSycXtsKM2E-fg0DPvSeykGbdqn_347kR3PRVenBY/s1600/IMG_8487.JPG",
+        "filename": "IMG_8487.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN7IwvSqlk4FR50Tc3SvjxewA65oBdkRr9XmHwCGQBMnezgTLpPqHe_2fCBjfa7asKy0EfBv9gaDEKUDtSh5qWJJ6CKBRx5lazLluwSycXtsKM2E-fg0DPvSeykGbdqn_347kR3PRVenBY/s2048/IMG_8487.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV61e9J9TwDG5xot-EFKC8pujZmQuU6FzLYhUQHb3_VWZmarkmij7jQoRW6S2zfFFfCrBn7quW7ssZC0jGkvAUjOWCey57nYCM7r_KSMZUgXn9S-9vLLZKWB-nJYx5Xu7oblJHHvTqpSav/s0/IMG_8496.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV61e9J9TwDG5xot-EFKC8pujZmQuU6FzLYhUQHb3_VWZmarkmij7jQoRW6S2zfFFfCrBn7quW7ssZC0jGkvAUjOWCey57nYCM7r_KSMZUgXn9S-9vLLZKWB-nJYx5Xu7oblJHHvTqpSav/s1600/IMG_8496.JPG",
+        "filename": "IMG_8496.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV61e9J9TwDG5xot-EFKC8pujZmQuU6FzLYhUQHb3_VWZmarkmij7jQoRW6S2zfFFfCrBn7quW7ssZC0jGkvAUjOWCey57nYCM7r_KSMZUgXn9S-9vLLZKWB-nJYx5Xu7oblJHHvTqpSav/s2048/IMG_8496.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvyV6G1sEUd4IO8VQ2bWxeA2XK0vXMIENspV3x1gFHqdN4nZQM8uGvwgRef8j6mCo7mbQVh1BJ7BpHvpwVMy8P_-UBr5B0IHIjGpK2Qptdb6RW3a2Zx9fdz1OVdI4zHQOYNJnOaP09PpWe/s0/IMG_8491.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvyV6G1sEUd4IO8VQ2bWxeA2XK0vXMIENspV3x1gFHqdN4nZQM8uGvwgRef8j6mCo7mbQVh1BJ7BpHvpwVMy8P_-UBr5B0IHIjGpK2Qptdb6RW3a2Zx9fdz1OVdI4zHQOYNJnOaP09PpWe/s1600/IMG_8491.JPG",
+        "filename": "IMG_8491.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvyV6G1sEUd4IO8VQ2bWxeA2XK0vXMIENspV3x1gFHqdN4nZQM8uGvwgRef8j6mCo7mbQVh1BJ7BpHvpwVMy8P_-UBr5B0IHIjGpK2Qptdb6RW3a2Zx9fdz1OVdI4zHQOYNJnOaP09PpWe/s2048/IMG_8491.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh542dCpCLPCUSDlAj8vN3Q1N5uMv4WbD7UDcSj2WalsrdT4bl_7hyphenhyphengMNfKuOT67Qtp0a2IuYJyBmNWW8Jb1RYSbCfZML7u9rvp6HOk64rT5CUVIEBTlHToSU43bBHO6YT-iHooxjTfTKe1/s0/IMG_8509.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh542dCpCLPCUSDlAj8vN3Q1N5uMv4WbD7UDcSj2WalsrdT4bl_7hyphenhyphengMNfKuOT67Qtp0a2IuYJyBmNWW8Jb1RYSbCfZML7u9rvp6HOk64rT5CUVIEBTlHToSU43bBHO6YT-iHooxjTfTKe1/s1600/IMG_8509.JPG",
+        "filename": "IMG_8509.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh542dCpCLPCUSDlAj8vN3Q1N5uMv4WbD7UDcSj2WalsrdT4bl_7hyphenhyphengMNfKuOT67Qtp0a2IuYJyBmNWW8Jb1RYSbCfZML7u9rvp6HOk64rT5CUVIEBTlHToSU43bBHO6YT-iHooxjTfTKe1/s2048/IMG_8509.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvirfuttXiMFrgwWn4i-QUMAL4c3syb8RQnU86yzQ1g4-wj9jSWOtLIqopi5x0xgve6rcWijBotww32d4V3dtGl5onYTMvfEWc88HV_wh0tLeBtq5xF-duCtP8fZtXSD0o5b5cdKTER4xP/s0/IMG_8466.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvirfuttXiMFrgwWn4i-QUMAL4c3syb8RQnU86yzQ1g4-wj9jSWOtLIqopi5x0xgve6rcWijBotww32d4V3dtGl5onYTMvfEWc88HV_wh0tLeBtq5xF-duCtP8fZtXSD0o5b5cdKTER4xP/s1600/IMG_8466.JPG",
+        "filename": "IMG_8466.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvirfuttXiMFrgwWn4i-QUMAL4c3syb8RQnU86yzQ1g4-wj9jSWOtLIqopi5x0xgve6rcWijBotww32d4V3dtGl5onYTMvfEWc88HV_wh0tLeBtq5xF-duCtP8fZtXSD0o5b5cdKTER4xP/s2048/IMG_8466.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwu_J1OcndN8FH5LjGtzEQiAFxTXW6mCUaCfFNNnLJvn33nV79VYZNLPOikP4XqZMDUWWHdH35f_EvfltBs4614859TJPQTi_c2Gc-FGEEyIpnyw4QkYXhD1DOFwq_HhwPR8dicua8KJSI/s0/IMG_8472.JPG",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwu_J1OcndN8FH5LjGtzEQiAFxTXW6mCUaCfFNNnLJvn33nV79VYZNLPOikP4XqZMDUWWHdH35f_EvfltBs4614859TJPQTi_c2Gc-FGEEyIpnyw4QkYXhD1DOFwq_HhwPR8dicua8KJSI/s1600/IMG_8472.JPG",
+        "filename": "IMG_8472.JPG",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwu_J1OcndN8FH5LjGtzEQiAFxTXW6mCUaCfFNNnLJvn33nV79VYZNLPOikP4XqZMDUWWHdH35f_EvfltBs4614859TJPQTi_c2Gc-FGEEyIpnyw4QkYXhD1DOFwq_HhwPR8dicua8KJSI/s2048/IMG_8472.JPG",
+          "displayedWidth": 320,
+          "displayedHeight": null,
+          "originalWidth": 2048,
+          "originalHeight": 1365
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Stupava - Dračí hrádok"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V katastri Stupavy, ale asi len 1 km od posledných domov obce Borinka, sa nachádza ruina stredovekej pevnôstky, na mapách označená ako "
+              },
+              {
+                "type": "text",
+                "text": "Dračí hrádok",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ". Leží pomerne hlboko vo vnútri juhozápadnej časti Malých Karpát, na asi 400 m dlhom a pri úpätí 350 m širokom výbežku vrchu "
+              },
+              {
+                "type": "text",
+                "text": "Úboč",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": ". Výškový rozdiel medzi hladinou blízkeho vodného toku a najvyšším bodom Dračieho hrádku dosahuje takmer 98 m.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Vyvýšenina mala pod kontrolou cestu prechádzajúcu od Stupavy smerom na Košiarisko a ďalej k Lozornu či Svätému Juru. Prirodzenú obranu polohy zaisťovali z troch strán strmé úbočia. Jedinú schodnejšiu prístupovú cestu nad sedlom pod vrchom Úboč dodnes pretína krátky, do pravého uhla zalomený hlinený násyp, pozostatok rozrumenej drevozemnej hradby chránenej predsunutou priekopou, ktorú predbežne možno zaradiť do predveľkomoravského až staršieho veľkomoravského obdobia. Približne stred ostrožne pretína ďalšia, asi 12 m široká, do skalného podložia zasekaná a dnes z veľkej časti zasypaná stredoveká priekopa. Za ňou na miernej vyvýšeninke, približne vo vzdialenosti 17 m, sa nachádzajú zvyšky mohutnej hranolovej veže s vonkajšími rozmermi 10 x 10 m. Postavili ju z lomového kameňa spájaného kvalitnou vápennou maltou a hrúbka múrov na úrovni súčasného terénu dosahuje 2,5 m. Podľa funkcie, rozmerov i technológie výstavby jednoznačne stredoveká budova bola najdôležitejšou obrannou murovanou stavbou hrádku, ktorá azda v sebe kombinovala hlavné úlohy donjonu (hlavnej obytnej veže) a bergfritu (predovšetkým obrannej veže), kryjúceho hmotou obytné a hospodárske budovy na ploche hrádku zo smeru predpokladaného útoku."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuJ4fTR947pqRLGMDYLUoxd9qw92t5KwpE4Ar6ZZsasQRo-c7yv-rQODRtCKDYkSetVpR3tajVa9y1CyxUZ-C2WqRZTEhMgOiuyTN5OFmOjNxKfzsSyF4dF5CYYZ6iqaPwwc8bQa1r86j/s0/LIDAR+od+Tibora+vy%25CC%2581strih.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuJ4fTR947pqRLGMDYLUoxd9qw92t5KwpE4Ar6ZZsasQRo-c7yv-rQODRtCKDYkSetVpR3tajVa9y1CyxUZ-C2WqRZTEhMgOiuyTN5OFmOjNxKfzsSyF4dF5CYYZ6iqaPwwc8bQa1r86j/s1600/LIDAR+od+Tibora+vy%25CC%2581strih.jpg",
+          "filename": "LIDAR+od+Tibora+vy%CC%81strih.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKuJ4fTR947pqRLGMDYLUoxd9qw92t5KwpE4Ar6ZZsasQRo-c7yv-rQODRtCKDYkSetVpR3tajVa9y1CyxUZ-C2WqRZTEhMgOiuyTN5OFmOjNxKfzsSyF4dF5CYYZ6iqaPwwc8bQa1r86j/s2048/LIDAR+od+Tibora+vy%25CC%2581strih.jpg",
+            "displayedWidth": null,
+            "displayedHeight": 320,
+            "originalWidth": 1740,
+            "originalHeight": 2048
+          }
+        },
+        "alt": "Hradisko na lidarovej snímke (T. Lieskovský)",
+        "caption": "Hradisko na lidarovej snímke (T. Lieskovský)",
+        "position": "right",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pri archeologickom výskume sa za vežou podarilo odkryť takmer súvislú plochu s rozlohou okolo 370 m2. Podľa archeologických nálezov, predovšetkým keramiky, pracovných nástrojov, mincí a militárií pevnôstka zrejme vznikla v druhej polovici 13. storočia. V duchu vtedy uplatňovanej obrannej doktríny zmenšili plochu pôvodného slovanského hradiska asi na polovicu. Väčšia časť hradu, podobne ako pri väčšine vtedajších podobných fortifikácií, pozostávala z drevených, najskôr len prízemných budov zrubového typu, rozložených dookola nad strmými svahmi. Z protipožiarnych, estetických i tepelnoizolačných dôvodov ich steny pokrývala hlinená omietka. Vonkajšia strana dreveníc, azda v prielukách doplnená pevným plotom, zrejme vytvárala aj hlavnú obrannú líniu nad strmými zrázmi do údolia - inak nedoloženú hradbu. Budovy boli pravdepodobne rozmiestnené tak, že opevnenú plochu delili na menšie funkčne odlišné časti hospodárskeho a rezidenčného charakteru, s čiastočne do terénu zapustenou kuchyňou v blízkosti obytnej veže. Komunikačný priestor medzi predpokladanou kuchyňou, vežou a ostatnými stavbami vytváralo drobné, výrazne na západ sklonené nádvorie pokryté liatou maltovou dlážkou s rozmermi minimálne 14 x 11,4 m. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfTgPp087FH_IKx-UBTaVd3CBNEjASzCnuXAsDaCjNxA_mMgKk7b5BgMrJNL_RtPXrAwr12zQSotHur5yCFU_ONWgAal9N8F0L23CbTVs-Pa3B4NLxo6rdF9lTIdfRyVMcHmjpegYr0Bgi/s0/obr.+7.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfTgPp087FH_IKx-UBTaVd3CBNEjASzCnuXAsDaCjNxA_mMgKk7b5BgMrJNL_RtPXrAwr12zQSotHur5yCFU_ONWgAal9N8F0L23CbTVs-Pa3B4NLxo6rdF9lTIdfRyVMcHmjpegYr0Bgi/s1600/obr.+7.jpg",
+          "filename": "obr.+7.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfTgPp087FH_IKx-UBTaVd3CBNEjASzCnuXAsDaCjNxA_mMgKk7b5BgMrJNL_RtPXrAwr12zQSotHur5yCFU_ONWgAal9N8F0L23CbTVs-Pa3B4NLxo6rdF9lTIdfRyVMcHmjpegYr0Bgi/s2048/obr.+7.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": null,
+            "originalWidth": 2048,
+            "originalHeight": 1606
+          }
+        },
+        "alt": "Dračí hrádok, Pajštún a kláštor v Marianke na mape Adolfa Emanuela Pernolda. Stav okolo polovice 19. storočia. P { margin-bottom: 0.21cm }",
+        "caption": "Dračí hrádok, Pajštún a kláštor v Marianke na mape Adolfa Emanuela Pernolda. Stav okolo polovice 19. storočia. P { margin-bottom: 0.21cm }",
+        "position": "left",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podľa pôvodného zámeru azda mala drevenú zástavbu, predovšetkým hradbu, postupne nahradiť nová murovaná architektúra, z ktorej sa okrem veže zachovala iba časť západného obranného múru. Skôr ako mohli práce pokročiť, tak drevené domy podľahli mohutnému požiaru, pri ktorom sa hlinená omietka domov spiekla na keramickú mazanicu a pôvodne hnedá lesná pôda získala hrdzavočervené zafarbenie.    "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Početné, tvarovo veľmi variabilné hroty šípov a iných militárií z plochy hrádku i v jeho predpolí napovedajú, že príčinou jeho zániku bol priamy, zrejme úspešný ozbrojený útok. Po zničujúcom požiari už pevnôstku neobnovili. Život i úloha obrany tohto regiónu sa azda presunuli na blízky hrad Pajštún, ktorý by tak mohol byť nasledovníkom Dračieho hrádku.   "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Podľa konfrontácie historických správ s archeologickými nálezmi sa nedá vylúčiť, že Dračí hrádok by mohol byť v klosterneuburskej kronike spomínaným hradom Stupava, ktorý obsadili české vojská Přemysla Otakara II. takmer priamo za pochodu či už 13. apríla 1271 alebo v dvoch až troch najbližších dňoch a pri ktorého obrane zahynul comes Alexander ("
+              },
+              {
+                "type": "text",
+                "text": "Farkaš 2006, 235-296",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "). "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgou40OqodjeWc5pVf_fMw-DfgG3Pb902BwoDNV0gMtd8WjlO6N_aWOO5Q2v8QrH66CyX6awxS4nDKp6gRvF2MtLWHH-OArCQjP2Iea1HbQ0eSMp6NmCIaF_P-WSsJPY9MvxNavG5QPZ4i/s0/obr.+6.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgou40OqodjeWc5pVf_fMw-DfgG3Pb902BwoDNV0gMtd8WjlO6N_aWOO5Q2v8QrH66CyX6awxS4nDKp6gRvF2MtLWHH-OArCQjP2Iea1HbQ0eSMp6NmCIaF_P-WSsJPY9MvxNavG5QPZ4i/s1600/obr.+6.jpg",
+          "filename": "obr.+6.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgou40OqodjeWc5pVf_fMw-DfgG3Pb902BwoDNV0gMtd8WjlO6N_aWOO5Q2v8QrH66CyX6awxS4nDKp6gRvF2MtLWHH-OArCQjP2Iea1HbQ0eSMp6NmCIaF_P-WSsJPY9MvxNavG5QPZ4i/s2048/obr.+6.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": null,
+            "originalWidth": 2048,
+            "originalHeight": 1716
+          }
+        },
+        "alt": "Ruiny stredovekej veže na romantickej maľbe z roku 1871 (autor Teodor Weisz) P { margin-bottom: 0.21cm }",
+        "caption": "Ruiny stredovekej veže na romantickej maľbe z roku 1871 (autor Teodor Weisz) P { margin-bottom: 0.21cm }",
+        "position": "right",
+        "showCaption": true,
+        "width": "50",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dračí hrádok tak dokumentuje postupný vývoj stredovekých opevnení, smerujúci predovšetkým po tatárskom vpáde od dreveného či drevozemného „minihradiska“ ku kamennému hradu, ktorý bol násilne prerušený ozbrojenou akciou a nová, murovaná fortifikácia potom už vznikla na inom, viac požiadavkám doby a meniacej sa vojenskej taktike zodpovedajúcom mieste."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prístup: ",
+                "bold": true
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "K zvyškom Dračieho hrádku sa najjednoduchšie dostaneme cez obec Borinka. Prejdeme cez celú obec po ceste č.1108 a pokračujeme stále rovno po úzkej asfaltke, ktorá onedlho prechádza lesom. Asi po 800 m natrafíme na voľný priestor vedľa cestičky, kde sa zmestia cca. 2-3 autá. Tu môžeme zaparkovať a hneď oproti začína asi 15 minútový, len mierne náročný výstup na hrad po žltej trase. Zaparkovať sa dá aj trochu ďalej, asi 300-400 m od spomínaného miesta po ceste, kde je o niečo väčšie miesto na parkovanie."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginAkUbYyCvtl3EiX1jYYUpd4KyiZ18TX6JIL6GCWwOzWCmyE0x966OrHApF4e7wJ5KbHWLf0LFmlPfuL0yUrxdAWE4MaR5047-h2qeblzWja0hnaOLnrDdFEgJfUDSQ4zgvcyMueMr_z1/s0/obr.+2F.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginAkUbYyCvtl3EiX1jYYUpd4KyiZ18TX6JIL6GCWwOzWCmyE0x966OrHApF4e7wJ5KbHWLf0LFmlPfuL0yUrxdAWE4MaR5047-h2qeblzWja0hnaOLnrDdFEgJfUDSQ4zgvcyMueMr_z1/s1600/obr.+2F.jpg",
+          "filename": "obr.+2F.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEginAkUbYyCvtl3EiX1jYYUpd4KyiZ18TX6JIL6GCWwOzWCmyE0x966OrHApF4e7wJ5KbHWLf0LFmlPfuL0yUrxdAWE4MaR5047-h2qeblzWja0hnaOLnrDdFEgJfUDSQ4zgvcyMueMr_z1/s1179/obr.+2F.jpg",
+            "displayedWidth": null,
+            "displayedHeight": 320,
+            "originalWidth": 600,
+            "originalHeight": 1179
+          }
+        },
+        "alt": "Nákončie opaska zo slovansko-avarského obdobia",
+        "caption": "Nákončie opaska zo slovansko-avarského obdobia",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Text: Zdenek Farkaš: Stredoveké hrádky v Malých Karpatoch in: Hradiská - svedkovia dávnych čias, 2015Z. Farkaš: Stzredoveké opevnenie v Stupave - poloha Dračí hrádok, Zborník SNM, 2006"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "https://www.hrady-zamky.sk/draci-hradok/",
+            "url": "https://www.hrady-zamky.sk/draci-hradok/"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "https://www.hrady-zamky.sk/draci-hradok/",
+        "title": "https://www.hrady-zamky.sk/draci-hradok/"
+      },
+      {
+        "type": "attribution",
+        "text": "Foto (Orgoň):"
+      }
+    ]
+  }
+}

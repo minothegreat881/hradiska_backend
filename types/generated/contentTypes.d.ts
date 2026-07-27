@@ -457,6 +457,9 @@ export interface ApiAktualitaAktualita extends Struct.CollectionTypeSchema {
       'api::aktualita.aktualita'
     > &
       Schema.Attribute.Private;
+    membersNotified: Schema.Attribute.Boolean &
+      Schema.Attribute.Private &
+      Schema.Attribute.DefaultTo<false>;
     nazov: Schema.Attribute.String &
       Schema.Attribute.Required &
       Schema.Attribute.SetMinMaxLength<{
@@ -574,7 +577,9 @@ export interface ApiBlogCommentBlogComment extends Struct.CollectionTypeSchema {
       Schema.Attribute.SetMinMaxLength<{
         maxLength: 200;
       }>;
-    status: Schema.Attribute.Enumeration<['visible', 'hidden', 'spam']> &
+    status: Schema.Attribute.Enumeration<
+      ['visible', 'hidden', 'spam', 'waiting', 'reported']
+    > &
       Schema.Attribute.Required &
       Schema.Attribute.DefaultTo<'visible'>;
     updatedAt: Schema.Attribute.DateTime;
@@ -707,6 +712,119 @@ export interface ApiBlogTagBlogTag extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiModerationWarningModerationWarning
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'moderation_warnings';
+  info: {
+    description: 'S\u00FAkromn\u00E9 upozornenie spr\u00E1vcu autorovi koment\u00E1ra o nedodr\u017Ean\u00ED noriem blogu. Zobraz\u00ED sa v profile \u010Dlena (bordov\u00E1 karta) a je za n\u00EDm notifik\u00E1cia typu `warning`.';
+    displayName: 'Moderation Warning';
+    pluralName: 'moderation-warnings';
+    singularName: 'moderation-warning';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    comment: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::blog-comment.blog-comment'
+    >;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::moderation-warning.moderation-warning'
+    > &
+      Schema.Attribute.Private;
+    moderator: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
+    publishedAt: Schema.Attribute.DateTime;
+    recipient: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
+    template: Schema.Attribute.Enumeration<
+      ['personal_attack', 'inappropriate', 'spam', 'disinfo', 'custom']
+    > &
+      Schema.Attribute.Required;
+    text: Schema.Attribute.Text &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 2000;
+      }>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
+export interface ApiNotificationNotification
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'notifications';
+  info: {
+    description: 'Upozornenia pre \u010Dlena: odpove\u010F na koment\u00E1r, lajk (agregovan\u00FD), upozornenie spr\u00E1vcu, nov\u00E1 aktualita. `recipient` = adres\u00E1t, `actor` = kto to vyvolal (nullable pri agregovan\u00FDch/syst\u00E9mov\u00FDch).';
+    displayName: 'Notification';
+    pluralName: 'notifications';
+    singularName: 'notification';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    actor: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
+    aggregateCount: Schema.Attribute.Integer &
+      Schema.Attribute.SetMinMax<
+        {
+          min: 1;
+        },
+        number
+      > &
+      Schema.Attribute.DefaultTo<1>;
+    aktualita: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::aktualita.aktualita'
+    >;
+    comment: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::blog-comment.blog-comment'
+    >;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::notification.notification'
+    > &
+      Schema.Attribute.Private;
+    post: Schema.Attribute.Relation<'manyToOne', 'api::blog-post.blog-post'>;
+    publishedAt: Schema.Attribute.DateTime;
+    read: Schema.Attribute.Boolean &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<false>;
+    recipient: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
+    text: Schema.Attribute.Text &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 2000;
+      }>;
+    type: Schema.Attribute.Enumeration<['reply', 'like', 'warning', 'post']> &
+      Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiPhotoCommentPhotoComment
   extends Struct.CollectionTypeSchema {
   collectionName: 'photo_comments';
@@ -754,6 +872,52 @@ export interface ApiPhotoCommentPhotoComment
   };
 }
 
+export interface ApiPushSubscriptionPushSubscription
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'push_subscriptions';
+  info: {
+    description: 'Web Push odber prehliada\u010Da/PWA jedn\u00E9ho \u010Dlena. Jeden \u00FA\u010Det m\u00F4\u017Ee ma\u0165 viac zariaden\u00ED. `endpoint` je unik\u00E1tny.';
+    displayName: 'Push Subscription';
+    pluralName: 'push-subscriptions';
+    singularName: 'push-subscription';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    auth: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 100;
+      }>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    endpoint: Schema.Attribute.Text & Schema.Attribute.Required;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::push-subscription.push-subscription'
+    > &
+      Schema.Attribute.Private;
+    p256dh: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 200;
+      }>;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    user: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
+    userAgent: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 300;
+      }>;
+  };
+}
+
 export interface ApiReactionReaction extends Struct.CollectionTypeSchema {
   collectionName: 'reactions';
   info: {
@@ -785,6 +949,40 @@ export interface ApiReactionReaction extends Struct.CollectionTypeSchema {
       ['comment', 'photo', 'photo-comment', 'post']
     > &
       Schema.Attribute.Required;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    user: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
+  };
+}
+
+export interface ApiShareShare extends Struct.CollectionTypeSchema {
+  collectionName: 'shares';
+  info: {
+    description: 'Zdie\u013Eanie \u010Dl\u00E1nku prihl\u00E1sen\u00FDm \u010Dlenom (pre po\u010Det zdie\u013Ean\u00ED v profile a z\u00E1lo\u017Eku \u201EOb\u013E\u00FAben\u00E9 a zdie\u013Ean\u00E9").';
+    displayName: 'Share';
+    pluralName: 'shares';
+    singularName: 'share';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    channel: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 40;
+      }>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<'oneToMany', 'api::share.share'> &
+      Schema.Attribute.Private;
+    post: Schema.Attribute.Relation<'manyToOne', 'api::blog-post.blog-post'>;
+    publishedAt: Schema.Attribute.DateTime;
     updatedAt: Schema.Attribute.DateTime;
     updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
@@ -1253,6 +1451,7 @@ export interface PluginUsersPermissionsUser
     timestamps: true;
   };
   attributes: {
+    avatar: Schema.Attribute.Media<'images'>;
     blocked: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     blockedAt: Schema.Attribute.DateTime;
     blockedReason: Schema.Attribute.String &
@@ -1279,11 +1478,16 @@ export interface PluginUsersPermissionsUser
       'plugin::users-permissions.user'
     > &
       Schema.Attribute.Private;
+    notifyEmail: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
+    notifyLike: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    notifyPost: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
+    notifyReply: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<true>;
     password: Schema.Attribute.Password &
       Schema.Attribute.Private &
       Schema.Attribute.SetMinMaxLength<{
         minLength: 6;
       }>;
+    preModerated: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     provider: Schema.Attribute.String;
     publishedAt: Schema.Attribute.DateTime;
     resetPasswordToken: Schema.Attribute.String & Schema.Attribute.Private;
@@ -1300,6 +1504,14 @@ export interface PluginUsersPermissionsUser
       Schema.Attribute.SetMinMaxLength<{
         minLength: 3;
       }>;
+    warnsCount: Schema.Attribute.Integer &
+      Schema.Attribute.SetMinMax<
+        {
+          min: 0;
+        },
+        number
+      > &
+      Schema.Attribute.DefaultTo<0>;
   };
 }
 
@@ -1319,8 +1531,12 @@ declare module '@strapi/strapi' {
       'api::blog-comment.blog-comment': ApiBlogCommentBlogComment;
       'api::blog-post.blog-post': ApiBlogPostBlogPost;
       'api::blog-tag.blog-tag': ApiBlogTagBlogTag;
+      'api::moderation-warning.moderation-warning': ApiModerationWarningModerationWarning;
+      'api::notification.notification': ApiNotificationNotification;
       'api::photo-comment.photo-comment': ApiPhotoCommentPhotoComment;
+      'api::push-subscription.push-subscription': ApiPushSubscriptionPushSubscription;
       'api::reaction.reaction': ApiReactionReaction;
+      'api::share.share': ApiShareShare;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;
       'plugin::i18n.locale': PluginI18NLocale;

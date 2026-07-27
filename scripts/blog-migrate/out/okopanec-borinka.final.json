@@ -1,0 +1,623 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\okopanec-borinka.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-6249350540684338601",
+    "bloggerPostUrl": "http://www.hradiska.sk/2020/03/okopanec-borinka.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/6249350540684338601/comments/default",
+    "extractedAt": "2026-07-21T14:07:32.038Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://sk.frame.mapy.cz/s/hujolepabe"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 19,
+      "captionedImages": 7,
+      "separatorImages": 12
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Okopanec (Borinka)",
+    "slug": "okopanec-borinka",
+    "excerpt": "Doposiaľ málo známe, ale veľmi rozsiahle hradisko sa nachádza v Borinke, na členitom trojkopci s príznačným názvom Okopanec. Jeho spôsob opevnenia je veľmi neobvyklý, pretože valy sú umiestnené takým spôsobom, že obopínajú až tri vrcholy kopca, čo…",
+    "authorName": "Orgon",
+    "publishedAt": "2020-03-29T12:16:00.003+02:00",
+    "originalPublishedDate": "2020-03-29T12:16:00.003+02:00",
+    "updatedAt": "2020-05-12T10:36:27.325+02:00",
+    "readingTime": 5,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-kYHR1Tpfl9PxRcAecPMvLBPDsLF__6FM_kb0-ufu_UwDzmcYn-GrN2_RpIucDMVvYkFMfwQpnDQP6g9oo51cxZnZMBaCzzrnfFOSVQmdIViAbumEad5vtTV3Hc5XO6q85fEZXSiE3yo/s0/obr..12.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-kYHR1Tpfl9PxRcAecPMvLBPDsLF__6FM_kb0-ufu_UwDzmcYn-GrN2_RpIucDMVvYkFMfwQpnDQP6g9oo51cxZnZMBaCzzrnfFOSVQmdIViAbumEad5vtTV3Hc5XO6q85fEZXSiE3yo/s1600/obr..12.jpg",
+      "filename": "obr..12.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-kYHR1Tpfl9PxRcAecPMvLBPDsLF__6FM_kb0-ufu_UwDzmcYn-GrN2_RpIucDMVvYkFMfwQpnDQP6g9oo51cxZnZMBaCzzrnfFOSVQmdIViAbumEad5vtTV3Hc5XO6q85fEZXSiE3yo/s1600/obr..12.jpg",
+        "displayedWidth": 224,
+        "displayedHeight": 320,
+        "originalWidth": 1121,
+        "originalHeight": 1600
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-kYHR1Tpfl9PxRcAecPMvLBPDsLF__6FM_kb0-ufu_UwDzmcYn-GrN2_RpIucDMVvYkFMfwQpnDQP6g9oo51cxZnZMBaCzzrnfFOSVQmdIViAbumEad5vtTV3Hc5XO6q85fEZXSiE3yo/s0/obr..12.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-kYHR1Tpfl9PxRcAecPMvLBPDsLF__6FM_kb0-ufu_UwDzmcYn-GrN2_RpIucDMVvYkFMfwQpnDQP6g9oo51cxZnZMBaCzzrnfFOSVQmdIViAbumEad5vtTV3Hc5XO6q85fEZXSiE3yo/s1600/obr..12.jpg",
+        "filename": "obr..12.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-kYHR1Tpfl9PxRcAecPMvLBPDsLF__6FM_kb0-ufu_UwDzmcYn-GrN2_RpIucDMVvYkFMfwQpnDQP6g9oo51cxZnZMBaCzzrnfFOSVQmdIViAbumEad5vtTV3Hc5XO6q85fEZXSiE3yo/s1600/obr..12.jpg",
+          "displayedWidth": 224,
+          "displayedHeight": 320,
+          "originalWidth": 1121,
+          "originalHeight": 1600
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrUxJN-wTmTZslZ5Heq6NIaTF0sj3LPoH7I7Sp0R6bZaEbMjLfFl-Rloyrm1gZotASP3c2F4MfJjW1bmE8hAyGZKgdzK8lPZhSVI6mI81YrlmF8s0VTMBQV6jB5CNwN0lRIVbeQMhoVlD0/s0/LIDAR.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrUxJN-wTmTZslZ5Heq6NIaTF0sj3LPoH7I7Sp0R6bZaEbMjLfFl-Rloyrm1gZotASP3c2F4MfJjW1bmE8hAyGZKgdzK8lPZhSVI6mI81YrlmF8s0VTMBQV6jB5CNwN0lRIVbeQMhoVlD0/s1600/LIDAR.jpg",
+        "filename": "LIDAR.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrUxJN-wTmTZslZ5Heq6NIaTF0sj3LPoH7I7Sp0R6bZaEbMjLfFl-Rloyrm1gZotASP3c2F4MfJjW1bmE8hAyGZKgdzK8lPZhSVI6mI81YrlmF8s0VTMBQV6jB5CNwN0lRIVbeQMhoVlD0/s1600/LIDAR.jpg",
+          "displayedWidth": 275,
+          "displayedHeight": 320,
+          "originalWidth": 1379,
+          "originalHeight": 1600
+        },
+        "caption": "Na zábere z LIDARu dobre vidieť niektoré časti valu a priekopy"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF7Cg0cR7C8iduIK7mwXg15Bl8lEUAPaW9-6ZHoV2AUC4w7OeZlMN1NGEjhPDOrIEvt8CuaPc3XMN0b7xjlCBbOixMXqFa6uuEP9HEgHnjLbjr6U9lUYCde7DL5TSNojHx0pen1HbAMEhp/s0/valy+prierezy.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF7Cg0cR7C8iduIK7mwXg15Bl8lEUAPaW9-6ZHoV2AUC4w7OeZlMN1NGEjhPDOrIEvt8CuaPc3XMN0b7xjlCBbOixMXqFa6uuEP9HEgHnjLbjr6U9lUYCde7DL5TSNojHx0pen1HbAMEhp/s1600/valy+prierezy.jpg",
+        "filename": "valy+prierezy.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF7Cg0cR7C8iduIK7mwXg15Bl8lEUAPaW9-6ZHoV2AUC4w7OeZlMN1NGEjhPDOrIEvt8CuaPc3XMN0b7xjlCBbOixMXqFa6uuEP9HEgHnjLbjr6U9lUYCde7DL5TSNojHx0pen1HbAMEhp/s1600/valy+prierezy.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 259,
+          "originalWidth": 1600,
+          "originalHeight": 1297
+        },
+        "caption": "Profily valov a priekop"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RBk53YFOa7yRp0FyKl87rIN35UMV8rKOwB7vE-ie-R_hYpil9RNZYm61DS2H-8LqrBYPxvKQAqxqEnz3HjK-i_mnlnTfXr-AmyMtz_lgqjGqpQwvjD4dOlDqNCVQ7eZzExvxK1EiWE30/s0/Mapka+Laco+S%25CC%258Cubovic%25CC%258C.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RBk53YFOa7yRp0FyKl87rIN35UMV8rKOwB7vE-ie-R_hYpil9RNZYm61DS2H-8LqrBYPxvKQAqxqEnz3HjK-i_mnlnTfXr-AmyMtz_lgqjGqpQwvjD4dOlDqNCVQ7eZzExvxK1EiWE30/s1600/Mapka+Laco+S%25CC%258Cubovic%25CC%258C.jpg",
+        "filename": "Mapka+Laco+S%CC%8Cubovic%CC%8C.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RBk53YFOa7yRp0FyKl87rIN35UMV8rKOwB7vE-ie-R_hYpil9RNZYm61DS2H-8LqrBYPxvKQAqxqEnz3HjK-i_mnlnTfXr-AmyMtz_lgqjGqpQwvjD4dOlDqNCVQ7eZzExvxK1EiWE30/s1600/Mapka+Laco+S%25CC%258Cubovic%25CC%258C.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 136,
+          "originalWidth": 888,
+          "originalHeight": 380
+        },
+        "caption": "Okopanec a k nemu najbližšie hradiská z obdobia Slovanov (mapka: Ladislav Šubovič)"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZtqoAOEc5TJw6f4Wa6FojXEiq-gD8hzCtfV7Exj-Pe1p2xIKCWvA8qjuOcStQZkFT_rdHvgtEOnGWOhfDEf662ctbaJSv6Qztzba40hNfkYPBoo-eFgDdNQ3sLaRZu2_0kWqBPAOhWAi/s0/sekerky1.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZtqoAOEc5TJw6f4Wa6FojXEiq-gD8hzCtfV7Exj-Pe1p2xIKCWvA8qjuOcStQZkFT_rdHvgtEOnGWOhfDEf662ctbaJSv6Qztzba40hNfkYPBoo-eFgDdNQ3sLaRZu2_0kWqBPAOhWAi/s1600/sekerky1.jpg",
+        "filename": "sekerky1.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZtqoAOEc5TJw6f4Wa6FojXEiq-gD8hzCtfV7Exj-Pe1p2xIKCWvA8qjuOcStQZkFT_rdHvgtEOnGWOhfDEf662ctbaJSv6Qztzba40hNfkYPBoo-eFgDdNQ3sLaRZu2_0kWqBPAOhWAi/s1600/sekerky1.jpg",
+          "displayedWidth": 284,
+          "displayedHeight": 320,
+          "originalWidth": 1422,
+          "originalHeight": 1600
+        },
+        "caption": "Sekerky nájdené na Okopanci"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimPX9y7jrLbc8_EC33OFRtzEVRJ4646rlt-2K9SKjTkMbJZUzGQmR1mlUPR5XgcBC7-1i8vxgyQPlcH_rXe-XZSbpCJi4_jQH-ZlyW1JxP55ctgoU1xyM5FWdofBZS5VHHWN5nGOVG0i0A/s0/69630017_473288193221757_6109924491360468992_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimPX9y7jrLbc8_EC33OFRtzEVRJ4646rlt-2K9SKjTkMbJZUzGQmR1mlUPR5XgcBC7-1i8vxgyQPlcH_rXe-XZSbpCJi4_jQH-ZlyW1JxP55ctgoU1xyM5FWdofBZS5VHHWN5nGOVG0i0A/s1600/69630017_473288193221757_6109924491360468992_o.jpg",
+        "filename": "69630017_473288193221757_6109924491360468992_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimPX9y7jrLbc8_EC33OFRtzEVRJ4646rlt-2K9SKjTkMbJZUzGQmR1mlUPR5XgcBC7-1i8vxgyQPlcH_rXe-XZSbpCJi4_jQH-ZlyW1JxP55ctgoU1xyM5FWdofBZS5VHHWN5nGOVG0i0A/s1600/69630017_473288193221757_6109924491360468992_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7dJVbnBPEYFm7wDikvciIhUDfTb2v-hSniX2zuNihBrQorhlYXcnPQY0FoXtPWLHueHdMzVMP9jP0qygUKgoBAUJqxONCZreSCuRkwRZlyV_-AGvKilNeaQNgnnEoV6a6W4lT3aoXdY1K/s0/69932401_10214478753993563_7259787322122567680_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7dJVbnBPEYFm7wDikvciIhUDfTb2v-hSniX2zuNihBrQorhlYXcnPQY0FoXtPWLHueHdMzVMP9jP0qygUKgoBAUJqxONCZreSCuRkwRZlyV_-AGvKilNeaQNgnnEoV6a6W4lT3aoXdY1K/s1600/69932401_10214478753993563_7259787322122567680_o.jpg",
+        "filename": "69932401_10214478753993563_7259787322122567680_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7dJVbnBPEYFm7wDikvciIhUDfTb2v-hSniX2zuNihBrQorhlYXcnPQY0FoXtPWLHueHdMzVMP9jP0qygUKgoBAUJqxONCZreSCuRkwRZlyV_-AGvKilNeaQNgnnEoV6a6W4lT3aoXdY1K/s1600/69932401_10214478753993563_7259787322122567680_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": "Val s priekopou"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq-usyPu0AsYUZ_5Y2d4iBD2sq11ZIQ0ONw1xKl-HpzYQHmxE3M0DYZVuhBjr-G_dvHBv2zsxUiwWCH6f6ZLjVWqqH2qNqzXE1UudjJSj7UxFWlLW4iAnF3asPQsh6WIv4qWnFxLRUjGRp/s0/69118714_473288456555064_760726157950713856_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq-usyPu0AsYUZ_5Y2d4iBD2sq11ZIQ0ONw1xKl-HpzYQHmxE3M0DYZVuhBjr-G_dvHBv2zsxUiwWCH6f6ZLjVWqqH2qNqzXE1UudjJSj7UxFWlLW4iAnF3asPQsh6WIv4qWnFxLRUjGRp/s1600/69118714_473288456555064_760726157950713856_o.jpg",
+        "filename": "69118714_473288456555064_760726157950713856_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq-usyPu0AsYUZ_5Y2d4iBD2sq11ZIQ0ONw1xKl-HpzYQHmxE3M0DYZVuhBjr-G_dvHBv2zsxUiwWCH6f6ZLjVWqqH2qNqzXE1UudjJSj7UxFWlLW4iAnF3asPQsh6WIv4qWnFxLRUjGRp/s1600/69118714_473288456555064_760726157950713856_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUB19ZVbVySc3DkzOIAiPNqpwn75ErhsWCNzBDNk_yJWeD-YJYBmRpEJXVPz7ObXj6VVFpt5kz4Dl9E7UHc3yJmPtEMniSSrfx5XwJm1ZPgU18SIneNn3NF7-7BM4XHPDpjNYyf5WjgDEv/s0/69293792_473288273221749_4239538780245065728_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUB19ZVbVySc3DkzOIAiPNqpwn75ErhsWCNzBDNk_yJWeD-YJYBmRpEJXVPz7ObXj6VVFpt5kz4Dl9E7UHc3yJmPtEMniSSrfx5XwJm1ZPgU18SIneNn3NF7-7BM4XHPDpjNYyf5WjgDEv/s1600/69293792_473288273221749_4239538780245065728_o.jpg",
+        "filename": "69293792_473288273221749_4239538780245065728_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUB19ZVbVySc3DkzOIAiPNqpwn75ErhsWCNzBDNk_yJWeD-YJYBmRpEJXVPz7ObXj6VVFpt5kz4Dl9E7UHc3yJmPtEMniSSrfx5XwJm1ZPgU18SIneNn3NF7-7BM4XHPDpjNYyf5WjgDEv/s1600/69293792_473288273221749_4239538780245065728_o.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": 640,
+          "originalHeight": 960
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikESWYpaJcP-RroOiz22g0khAVpRYXg0aI12y1mjoFFdFNIvHrZGS5XHt4s0e9cBx5jciEYbO_cYtmX0rDAQnH4WWCLhrpvNN80qu_f9AQKgs2KMxRWadQYT2ZXTTF89lYLMCc0q5tkKVH/s0/69358287_473288023221774_6579626435588128768_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikESWYpaJcP-RroOiz22g0khAVpRYXg0aI12y1mjoFFdFNIvHrZGS5XHt4s0e9cBx5jciEYbO_cYtmX0rDAQnH4WWCLhrpvNN80qu_f9AQKgs2KMxRWadQYT2ZXTTF89lYLMCc0q5tkKVH/s1600/69358287_473288023221774_6579626435588128768_o.jpg",
+        "filename": "69358287_473288023221774_6579626435588128768_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikESWYpaJcP-RroOiz22g0khAVpRYXg0aI12y1mjoFFdFNIvHrZGS5XHt4s0e9cBx5jciEYbO_cYtmX0rDAQnH4WWCLhrpvNN80qu_f9AQKgs2KMxRWadQYT2ZXTTF89lYLMCc0q5tkKVH/s1600/69358287_473288023221774_6579626435588128768_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5mj4uWkgHK9cl3cQ5QP43_IymWe4t15WH-Tcl_kqYIamw-Xr6wd89PZC4sC8JeV7MbY8eIsNSdPCVc6N2jV5PsYjpt3R8CPPtSVgFi0api_a4BdWjYbT8blKEKib0nH5tU7UDRQvgREK4/s0/69519938_473288029888440_484133334989930496_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5mj4uWkgHK9cl3cQ5QP43_IymWe4t15WH-Tcl_kqYIamw-Xr6wd89PZC4sC8JeV7MbY8eIsNSdPCVc6N2jV5PsYjpt3R8CPPtSVgFi0api_a4BdWjYbT8blKEKib0nH5tU7UDRQvgREK4/s1600/69519938_473288029888440_484133334989930496_o.jpg",
+        "filename": "69519938_473288029888440_484133334989930496_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5mj4uWkgHK9cl3cQ5QP43_IymWe4t15WH-Tcl_kqYIamw-Xr6wd89PZC4sC8JeV7MbY8eIsNSdPCVc6N2jV5PsYjpt3R8CPPtSVgFi0api_a4BdWjYbT8blKEKib0nH5tU7UDRQvgREK4/s1600/69519938_473288029888440_484133334989930496_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2q-RpEBbpSVuyMIwuUcvOA0YutgwaP6K2kCt9mDl-ecPMir0_RjPfE18Ia-lXPRqzI5X4x25EgHOG7q4BsNVEVFKuq3DM9ej-PCSdO-m5cVBcLpiaP9HqXxVTU1OJ2wx70jsKwbYHHT-a/s0/69551457_473288336555076_8847980788398948352_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2q-RpEBbpSVuyMIwuUcvOA0YutgwaP6K2kCt9mDl-ecPMir0_RjPfE18Ia-lXPRqzI5X4x25EgHOG7q4BsNVEVFKuq3DM9ej-PCSdO-m5cVBcLpiaP9HqXxVTU1OJ2wx70jsKwbYHHT-a/s1600/69551457_473288336555076_8847980788398948352_o.jpg",
+        "filename": "69551457_473288336555076_8847980788398948352_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2q-RpEBbpSVuyMIwuUcvOA0YutgwaP6K2kCt9mDl-ecPMir0_RjPfE18Ia-lXPRqzI5X4x25EgHOG7q4BsNVEVFKuq3DM9ej-PCSdO-m5cVBcLpiaP9HqXxVTU1OJ2wx70jsKwbYHHT-a/s1600/69551457_473288336555076_8847980788398948352_o.jpg",
+          "displayedWidth": 213,
+          "displayedHeight": 320,
+          "originalWidth": 640,
+          "originalHeight": 960
+        },
+        "caption": "Val schádza z jedného kopca a následne sa zdvíha na ďalší kopec"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2eOn8dptX6KG3Nuyd_X3TldVSI5epXJ4oHn6uSmEqMX1XybIhrP5N7-MjvslosnL0mw0bqoT8AAN4Zi4U9xWeNbOmEGHps5pWkft2wHoEi4J5sDD9z47NEYSe-HuyE38jlIy3ZG5PL2eM/s0/69660581_10214478734553077_488899262629806080_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2eOn8dptX6KG3Nuyd_X3TldVSI5epXJ4oHn6uSmEqMX1XybIhrP5N7-MjvslosnL0mw0bqoT8AAN4Zi4U9xWeNbOmEGHps5pWkft2wHoEi4J5sDD9z47NEYSe-HuyE38jlIy3ZG5PL2eM/s1600/69660581_10214478734553077_488899262629806080_o.jpg",
+        "filename": "69660581_10214478734553077_488899262629806080_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2eOn8dptX6KG3Nuyd_X3TldVSI5epXJ4oHn6uSmEqMX1XybIhrP5N7-MjvslosnL0mw0bqoT8AAN4Zi4U9xWeNbOmEGHps5pWkft2wHoEi4J5sDD9z47NEYSe-HuyE38jlIy3ZG5PL2eM/s1600/69660581_10214478734553077_488899262629806080_o.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 720,
+          "originalHeight": 960
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmxZInWw34DRv3wwNMq5IWb6296aCETu8lgpa6h0w6AcPQi-WCTOTEcuvKpcl1fD8hmlzqeQkgXUrh2EAIxxevY0mfvQMjPKLdgGGByAZoscecFyNfAj7h6rjTWXp4DCl89_hLqUyyqqjW/s0/69682315_10214478759873710_664826070876291072_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmxZInWw34DRv3wwNMq5IWb6296aCETu8lgpa6h0w6AcPQi-WCTOTEcuvKpcl1fD8hmlzqeQkgXUrh2EAIxxevY0mfvQMjPKLdgGGByAZoscecFyNfAj7h6rjTWXp4DCl89_hLqUyyqqjW/s1600/69682315_10214478759873710_664826070876291072_o.jpg",
+        "filename": "69682315_10214478759873710_664826070876291072_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmxZInWw34DRv3wwNMq5IWb6296aCETu8lgpa6h0w6AcPQi-WCTOTEcuvKpcl1fD8hmlzqeQkgXUrh2EAIxxevY0mfvQMjPKLdgGGByAZoscecFyNfAj7h6rjTWXp4DCl89_hLqUyyqqjW/s1600/69682315_10214478759873710_664826070876291072_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 1600,
+          "originalHeight": 1200
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgcRV1TqR57PqbS7vnHum-laPD0gkDB6_bzS3kem373-XmQ9uIZVttqLyJ03cZwIhbjFE8QCo6rgBbXVJU1iLAdrH4xrJnQll2p-CBQK4HQmnoe3UOJeI46a4ysXpLQcC-FV6YYLOnGqX7/s0/69727341_473337949883448_5767127174188367872_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgcRV1TqR57PqbS7vnHum-laPD0gkDB6_bzS3kem373-XmQ9uIZVttqLyJ03cZwIhbjFE8QCo6rgBbXVJU1iLAdrH4xrJnQll2p-CBQK4HQmnoe3UOJeI46a4ysXpLQcC-FV6YYLOnGqX7/s1600/69727341_473337949883448_5767127174188367872_n.jpg",
+        "filename": "69727341_473337949883448_5767127174188367872_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgcRV1TqR57PqbS7vnHum-laPD0gkDB6_bzS3kem373-XmQ9uIZVttqLyJ03cZwIhbjFE8QCo6rgBbXVJU1iLAdrH4xrJnQll2p-CBQK4HQmnoe3UOJeI46a4ysXpLQcC-FV6YYLOnGqX7/s1600/69727341_473337949883448_5767127174188367872_n.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 720,
+          "originalHeight": 960
+        },
+        "caption": "Mazanica"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuY7Q3M204PBKce9NFdhuIUwNQthox1vRaM6zmdBR4RRNUkvNvASrCjYyhV8SWNR1PmXkkxdJCjAFKCTOv9CN8znO6iOyiHNv-sc508jYe8xTEJi7HXVL6_27wIy8pKmvIla_jh2Dfqlrq/s0/69916331_473287963221780_342732725158936576_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuY7Q3M204PBKce9NFdhuIUwNQthox1vRaM6zmdBR4RRNUkvNvASrCjYyhV8SWNR1PmXkkxdJCjAFKCTOv9CN8znO6iOyiHNv-sc508jYe8xTEJi7HXVL6_27wIy8pKmvIla_jh2Dfqlrq/s1600/69916331_473287963221780_342732725158936576_o.jpg",
+        "filename": "69916331_473287963221780_342732725158936576_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuY7Q3M204PBKce9NFdhuIUwNQthox1vRaM6zmdBR4RRNUkvNvASrCjYyhV8SWNR1PmXkkxdJCjAFKCTOv9CN8znO6iOyiHNv-sc508jYe8xTEJi7HXVL6_27wIy8pKmvIla_jh2Dfqlrq/s1600/69916331_473287963221780_342732725158936576_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicLY4o_Uw4isYjx5aqmHMqPs2pZcTqtbDooFFJXhFmZnHEykY2byLSi1W2CgOdCSAN0lFqOAzVYo3NHOEpOUEOK_28KOTc1I20LPOn6x37AaE3KvvVKoahuJkdKAMCpnAaZEOOY_4_eKXo/s0/69995901_473288099888433_2692034833403609088_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicLY4o_Uw4isYjx5aqmHMqPs2pZcTqtbDooFFJXhFmZnHEykY2byLSi1W2CgOdCSAN0lFqOAzVYo3NHOEpOUEOK_28KOTc1I20LPOn6x37AaE3KvvVKoahuJkdKAMCpnAaZEOOY_4_eKXo/s1600/69995901_473288099888433_2692034833403609088_o.jpg",
+        "filename": "69995901_473288099888433_2692034833403609088_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicLY4o_Uw4isYjx5aqmHMqPs2pZcTqtbDooFFJXhFmZnHEykY2byLSi1W2CgOdCSAN0lFqOAzVYo3NHOEpOUEOK_28KOTc1I20LPOn6x37AaE3KvvVKoahuJkdKAMCpnAaZEOOY_4_eKXo/s1600/69995901_473288099888433_2692034833403609088_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw2ZLbKpXa3lmXf6WFVNH1mEM-XXHepjOBflciuBQ3zIqzKfA5sTAOCQcGOdLB-daiSaxvy3SKZxsljpWha16hyC6JoAZ-zN859NefwIqRE3bZgGaTDpG2nuCIfUamlXkuloYKFe91YwF6/s0/69997436_473288413221735_2579117738010083328_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw2ZLbKpXa3lmXf6WFVNH1mEM-XXHepjOBflciuBQ3zIqzKfA5sTAOCQcGOdLB-daiSaxvy3SKZxsljpWha16hyC6JoAZ-zN859NefwIqRE3bZgGaTDpG2nuCIfUamlXkuloYKFe91YwF6/s1600/69997436_473288413221735_2579117738010083328_o.jpg",
+        "filename": "69997436_473288413221735_2579117738010083328_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw2ZLbKpXa3lmXf6WFVNH1mEM-XXHepjOBflciuBQ3zIqzKfA5sTAOCQcGOdLB-daiSaxvy3SKZxsljpWha16hyC6JoAZ-zN859NefwIqRE3bZgGaTDpG2nuCIfUamlXkuloYKFe91YwF6/s1600/69997436_473288413221735_2579117738010083328_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKEkMaRhFU2Cwm305pZPahkblbNv4uCA_t4Xtt3tw40QJeJEBd74g-dDyWXHfy9pp1f3iMFHQiCRHbyGadWbZmwb9gREmuPi5s-n5PNn6D4Kdma5RTinf4nEF6YTlBK0EC0g9LBlhE8clH/s0/70175809_473288229888420_92629559672832000_o.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKEkMaRhFU2Cwm305pZPahkblbNv4uCA_t4Xtt3tw40QJeJEBd74g-dDyWXHfy9pp1f3iMFHQiCRHbyGadWbZmwb9gREmuPi5s-n5PNn6D4Kdma5RTinf4nEF6YTlBK0EC0g9LBlhE8clH/s1600/70175809_473288229888420_92629559672832000_o.jpg",
+        "filename": "70175809_473288229888420_92629559672832000_o.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKEkMaRhFU2Cwm305pZPahkblbNv4uCA_t4Xtt3tw40QJeJEBd74g-dDyWXHfy9pp1f3iMFHQiCRHbyGadWbZmwb9gREmuPi5s-n5PNn6D4Kdma5RTinf4nEF6YTlBK0EC0g9LBlhE8clH/s1600/70175809_473288229888420_92629559672832000_o.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 213,
+          "originalWidth": 1600,
+          "originalHeight": 1067
+        },
+        "caption": null
+      }
+    ],
+    "tags": [
+      "Okopanec - Borinka"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "trojkopec Okopanec, Borinka (Malé Karpaty)"
+      },
+      {
+        "label": "Nadmorská výška",
+        "value": "460–531 m n. m."
+      },
+      {
+        "label": "Rozloha",
+        "value": "vnútorná plocha cca 51 ha"
+      },
+      {
+        "label": "Zvláštnosť",
+        "value": "valy obopínajú tri vrcholy kopca"
+      }
+    ],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Doposiaľ málo známe, ale veľmi rozsiahle hradisko sa nachádza v Borinke, na členitom trojkopci s príznačným názvom Okopanec. Jeho spôsob opevnenia je veľmi neobvyklý, pretože valy sú umiestnené takým spôsobom, že obopínajú až tri vrcholy kopca, čo dobre vidieť na priloženej mapke, ale oveľa viac si túto neobvyklosť človek uvedomí až priamo na mieste, keď vidí, ako val klesá zo svahu jedného kopca a následne sa opäť zdvíha a vystupuje na svah ďalšieho kopca. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Prístup na hradisko",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n \n Z Borinky pokračujete po asfaltke až pod Dračí hrádok, kde je potrebné auto zaparkovať a ďalej pokračujete od odbočky Medené Hámre cestou pre cyklistov vedúcou na sever. Po cca 2 kilometroch pohodlnej cesty sa ocitnete priamo pod Okopancom. Tu je potrebné (najlepšie podľa turistickej mapy) trafiť na lesnú cestu, ktorá vedie doprava priamo na vrchol Okopanca. Samozrejme tí zdatnejší to môžu zobrať aj mimo cesty cez les, avšak upozorňujem, že sú tam aj zle priechodné úseky a mladinou husto zarastené úseky, ktoré Vám cestu poriadne znepríjemnia. Preto by som viac odporúčal vyššie spomenutú lesnú cestu. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-kYHR1Tpfl9PxRcAecPMvLBPDsLF__6FM_kb0-ufu_UwDzmcYn-GrN2_RpIucDMVvYkFMfwQpnDQP6g9oo51cxZnZMBaCzzrnfFOSVQmdIViAbumEad5vtTV3Hc5XO6q85fEZXSiE3yo/s0/obr..12.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-kYHR1Tpfl9PxRcAecPMvLBPDsLF__6FM_kb0-ufu_UwDzmcYn-GrN2_RpIucDMVvYkFMfwQpnDQP6g9oo51cxZnZMBaCzzrnfFOSVQmdIViAbumEad5vtTV3Hc5XO6q85fEZXSiE3yo/s1600/obr..12.jpg",
+          "filename": "obr..12.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-kYHR1Tpfl9PxRcAecPMvLBPDsLF__6FM_kb0-ufu_UwDzmcYn-GrN2_RpIucDMVvYkFMfwQpnDQP6g9oo51cxZnZMBaCzzrnfFOSVQmdIViAbumEad5vtTV3Hc5XO6q85fEZXSiE3yo/s1600/obr..12.jpg",
+            "displayedWidth": 224,
+            "displayedHeight": 320,
+            "originalWidth": 1121,
+            "originalHeight": 1600
+          }
+        },
+        "alt": "Okopanec (Borinka)",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Článok o hradisku publikoval Zdenek Farkaš a Vladimír Turčan v našom zborníku "
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/2019/09/nase-niekolkomesacne-usilie-bude-uz.html",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Hradiská-Svedkovia dávnych čias 2"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ". Z ich článku vyberáme: Už samotné pomenovanie evokuje priekopu doplnenú vnútorným aj vonkajším násypom obklopujúcu útvar nepravidelnej kružnice, prispôsobenej terénu, s vnútornou plochou okolo 51 ha. Fortifikácia leží vo vnútri Malých Karpát a kontroluje spojnicu dvoch dnešných komunikácií umožňujúcich prechod cez pohorie medzi dnešnou Stupavou a Lozornom a naň nadväzujúcou komunikáciou smerujúcou k Sv. Juru. Dominantný, vnútorne členený kopec s nadmorskou výškou od 460 po 531 m n. m. je zo západu chránený strmými skalnatými zrázmi klesajúcimi do krasového údolia Prepadlé so Stupavským potokom. Zo severu ho chráni údolie Cúrskeho potoka a z juhu skalnatý žľab s drobným vodným tokom Jajcajov jarok. Prevýšenie medzi plochou fortifikácie a dnami dominantných údolí tak dosahuje 80 a viac metrov. Prístupnejší terén je len z východnej strany, obrátený k masívu Hviezdy. Napriek tomu, že svah údolia Prepadlé tvoria jemnozrnné vápence, tak vrcholová časť je tvorená granitmi a granodioritmi, v údolíčkach a eróznych žľaboch doplnenými deluviálnymi sedimentmi. Preto opevnenie nemalo núdzu o vodu, okrem blízkych potokov a niekoľkých doteraz aktívnych prameňov v jeho bezprostrednom okolí sa v minulosti priamo na jeho ploche nachádzali najmenej tri, dnes bahnom zanesené pramene či studničky."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrUxJN-wTmTZslZ5Heq6NIaTF0sj3LPoH7I7Sp0R6bZaEbMjLfFl-Rloyrm1gZotASP3c2F4MfJjW1bmE8hAyGZKgdzK8lPZhSVI6mI81YrlmF8s0VTMBQV6jB5CNwN0lRIVbeQMhoVlD0/s0/LIDAR.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrUxJN-wTmTZslZ5Heq6NIaTF0sj3LPoH7I7Sp0R6bZaEbMjLfFl-Rloyrm1gZotASP3c2F4MfJjW1bmE8hAyGZKgdzK8lPZhSVI6mI81YrlmF8s0VTMBQV6jB5CNwN0lRIVbeQMhoVlD0/s1600/LIDAR.jpg",
+          "filename": "LIDAR.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrUxJN-wTmTZslZ5Heq6NIaTF0sj3LPoH7I7Sp0R6bZaEbMjLfFl-Rloyrm1gZotASP3c2F4MfJjW1bmE8hAyGZKgdzK8lPZhSVI6mI81YrlmF8s0VTMBQV6jB5CNwN0lRIVbeQMhoVlD0/s1600/LIDAR.jpg",
+            "displayedWidth": 275,
+            "displayedHeight": 320,
+            "originalWidth": 1379,
+            "originalHeight": 1600
+          }
+        },
+        "alt": "Na zábere z LIDARu dobre vidieť niektoré časti valu a priekopy",
+        "caption": "Na zábere z LIDARu dobre vidieť niektoré časti valu a priekopy",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Priebeh opevnenia",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n \n Veľký rozsah opevnenia, os západ-východ dosahuje 871 m a sever-juh 832 m, spolu s geografickými danosťami, predovšetkým strmými zrázmi, ovplyvnili aj charakter opevnenia. Vo všeobecnosti však pozostáva z mohutnej, do kamenistého podložia zahĺbenej priekopy, z ktorej materiál sa dostával v rôznej miere ako na vnútornú, tak sčasti aj vonkajšiu stranu. Pred archeologickým výskumom, ktorý sa tu doteraz neuskutočnil, možno len predpokladať vnútornú konštrukciu valu. Podľa geodetických rezov opevnenie na severnej strane hradiska nad žľabom s jaskyňou Stará garda dosahovalo šírku okolo 20 m a vonkajší násyp je aspoň v súčasnosti vyšší, ako vnútorný. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Šírka umelej depresie medzi vrcholmi obidvoch „valov“ je 9 až 10 m, šírka základu vnútorného násypu je 7 m a vonkajšieho aspoň 6 m. Dnešná hĺbka priekopy voči vrcholu vnútorného valu je 1,4 m. Na hrane prirodzeného svahu je vnútorný val naznačený iba nevýrazným zvlnením terénu, oproti ktorému leží súčasné dno priekopy, prebieha ňou lesná komunikácia, nižšie o 2,3 m. V južnom sektore opevnenia, svah klesajúci k drobnému vodnému toku pretína asi 4,5 m široká, akoby hrotitá priekopa, s dnešným dnom ležiacim v hĺbke 0,8 m oproti vrcholu vonkajšieho násypu. Rozdiel oproti vnútornému areálu opevnenia je však až 3 m. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF7Cg0cR7C8iduIK7mwXg15Bl8lEUAPaW9-6ZHoV2AUC4w7OeZlMN1NGEjhPDOrIEvt8CuaPc3XMN0b7xjlCBbOixMXqFa6uuEP9HEgHnjLbjr6U9lUYCde7DL5TSNojHx0pen1HbAMEhp/s0/valy+prierezy.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF7Cg0cR7C8iduIK7mwXg15Bl8lEUAPaW9-6ZHoV2AUC4w7OeZlMN1NGEjhPDOrIEvt8CuaPc3XMN0b7xjlCBbOixMXqFa6uuEP9HEgHnjLbjr6U9lUYCde7DL5TSNojHx0pen1HbAMEhp/s1600/valy+prierezy.jpg",
+          "filename": "valy+prierezy.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF7Cg0cR7C8iduIK7mwXg15Bl8lEUAPaW9-6ZHoV2AUC4w7OeZlMN1NGEjhPDOrIEvt8CuaPc3XMN0b7xjlCBbOixMXqFa6uuEP9HEgHnjLbjr6U9lUYCde7DL5TSNojHx0pen1HbAMEhp/s1600/valy+prierezy.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 259,
+            "originalWidth": 1600,
+            "originalHeight": 1297
+          }
+        },
+        "alt": "Profily valov a priekop",
+        "caption": "Profily valov a priekop",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Datovanie",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n \n Násypy, alebo aspoň ich náznaky pred vonkajšou hranou priekopy, v kombinácii s hlavnou hradbou sú nie iba v malokarpatskej oblasti charakteristické predovšetkým pre včasný stredovek (Neštich nad Svätým Jurom, Modra, Zámčisko, Dračí hrádok a pod.), pretrvávajú však aj pri neskorších drevozemných opevneniach a uplatnenie, avšak v podstatne mohutnejšej podobe, našli aj pri kamenných hradoch, hlavne na miestach, kde terén umožňoval ľahký prienik protivníka k päte hradby. Súčasný stav archeologického výskumu však neumožňuje tento obranný prvok považovať v prípade Okopanca za jednoznačné chronologické kritérium.\n \n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nepočetné archeologické nálezy, ktoré získalo SNM, umožňujú aspoň niektoré aktivity na Okopanci zaradiť do včasnostredovekého (slovanského) obdobia. Z koreňov vývratu nad údolíčkom pretínajúcim západnú časť opevnenej plochy sa údajne vyzdvihol malý súbor železných predmetov, pozostávajúci z dvoch škrabadiel na pluh (tzv. otka) a dvoch dnes nezvestných strmeňov. Podarilo sa získať aj informácie o náleze dvojice ostrôh. Nemožno vylúčiť, že však ide o jeden a ten istý nález, pretože druhý „očitý“ svedok nevedel aký je rozdiel v účele a morfológii medzi strmeňom a ostrohou. Zaujímavejším nálezom však je včasnostredoveká železná motyka, nájdená v západnej časti hradiska. Nálezy pochopiteľne obnovili záujem o opevnenú polohu. Pri jej opätovnom geodetickom zameraní sa uskutočnil aj povrchový prieskum pomocou detektoru kovov, ktorým sa v západnej časti opevnenej plochy podarilo nájsť v blízkosti valu dve ďalšie motyky. Obidve ležali plytko pod povrchom vo vrstve svetlej žltohnedej zeminy bez akejkoľvek kultúrnej vrstvy. Tá sa, podobne ako zlomky keramiky, nezistila na celej ploche hradiska, a to ani vo výkopoch, vývratoch, či ryhách spôsobených nešetrným približovaním drevnej hmoty na skládky. Motyky budili dojem, akoby ich tam niekto vyhodil alebo zabudol pri práci na výstavbe opevnenia. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RBk53YFOa7yRp0FyKl87rIN35UMV8rKOwB7vE-ie-R_hYpil9RNZYm61DS2H-8LqrBYPxvKQAqxqEnz3HjK-i_mnlnTfXr-AmyMtz_lgqjGqpQwvjD4dOlDqNCVQ7eZzExvxK1EiWE30/s0/Mapka+Laco+S%25CC%258Cubovic%25CC%258C.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RBk53YFOa7yRp0FyKl87rIN35UMV8rKOwB7vE-ie-R_hYpil9RNZYm61DS2H-8LqrBYPxvKQAqxqEnz3HjK-i_mnlnTfXr-AmyMtz_lgqjGqpQwvjD4dOlDqNCVQ7eZzExvxK1EiWE30/s1600/Mapka+Laco+S%25CC%258Cubovic%25CC%258C.jpg",
+          "filename": "Mapka+Laco+S%CC%8Cubovic%CC%8C.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2RBk53YFOa7yRp0FyKl87rIN35UMV8rKOwB7vE-ie-R_hYpil9RNZYm61DS2H-8LqrBYPxvKQAqxqEnz3HjK-i_mnlnTfXr-AmyMtz_lgqjGqpQwvjD4dOlDqNCVQ7eZzExvxK1EiWE30/s1600/Mapka+Laco+S%25CC%258Cubovic%25CC%258C.jpg",
+            "displayedWidth": 320,
+            "displayedHeight": 136,
+            "originalWidth": 888,
+            "originalHeight": 380
+          }
+        },
+        "alt": "Okopanec a k nemu najbližšie hradiská z obdobia Slovanov (mapka: Ladislav Šubovič)",
+        "caption": "Okopanec a k nemu najbližšie hradiská z obdobia Slovanov (mapka: Ladislav Šubovič)",
+        "position": "right",
+        "showCaption": true,
+        "width": "60",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "„Otky“ spolu s párom strmeňov tvorili malý súbor kovových predmetov, pravdepodobne z majetku jednotlivca, aj keď v pomerne nezvyklej kombinácii výstroje jazdca a pracovných nástrojov, známych aj z iných lokalít v malokarpatskej oblasti. V predpolí Zámčiska nad Modrou sa našli pracovnou činnosťou výrazne opotrebovaná radlička spolu s krojidlom. Obidva prípady môžu súvisieť s úschovou neveľkého osobného majetku, azda ohrozeného nepriaznivými spoločenskými okolnosťami. Motyky podľa tvaru možno datovať do včasného stredoveku. Charakteristický je kolmý otvor pre porisko a vejárovite tvarované ostrie. Otka, niekedy nazývaná aj styk sú malé železné nástroje, používané s krátkou násadou, používané v rôznych sférach ľudskej činnost – na čistenie pluhu od nalepenej zeminy, odkôrovanie opracovanie dreva a pod. Motyky aj otky bývajú bežnou súčasťou veľkomoravských depotov. Podľa tvaru možno do tohto horizontu zaradiť aj nálezy z Okopanca."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZtqoAOEc5TJw6f4Wa6FojXEiq-gD8hzCtfV7Exj-Pe1p2xIKCWvA8qjuOcStQZkFT_rdHvgtEOnGWOhfDEf662ctbaJSv6Qztzba40hNfkYPBoo-eFgDdNQ3sLaRZu2_0kWqBPAOhWAi/s0/sekerky1.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZtqoAOEc5TJw6f4Wa6FojXEiq-gD8hzCtfV7Exj-Pe1p2xIKCWvA8qjuOcStQZkFT_rdHvgtEOnGWOhfDEf662ctbaJSv6Qztzba40hNfkYPBoo-eFgDdNQ3sLaRZu2_0kWqBPAOhWAi/s1600/sekerky1.jpg",
+          "filename": "sekerky1.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJZtqoAOEc5TJw6f4Wa6FojXEiq-gD8hzCtfV7Exj-Pe1p2xIKCWvA8qjuOcStQZkFT_rdHvgtEOnGWOhfDEf662ctbaJSv6Qztzba40hNfkYPBoo-eFgDdNQ3sLaRZu2_0kWqBPAOhWAi/s1600/sekerky1.jpg",
+            "displayedWidth": 284,
+            "displayedHeight": 320,
+            "originalWidth": 1422,
+            "originalHeight": 1600
+          }
+        },
+        "alt": "Sekerky nájdené na Okopanci",
+        "caption": "Sekerky nájdené na Okopanci",
+        "position": "left",
+        "showCaption": true,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pravdepodobnou funkciou hradiska bolo stráženie niektorej z ciest, vedúcich cez Malé Karpaty z moravskej strany na Nitriansko. Najbližšími opevneniami z obdobia slovanov sú Dračíhrádok a Neštich v Svätom Juri."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lit: ",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": "\n \n Zdeněk Farkaš – Vladimír Turčan: Včasnostredoveké nálezy z malokarpatských opevnených polôh Dračí hrádok a Okopanec a hromadný nález kovaní opaska z Modry, Hradiská-Svedkovia dávnych čias 2, Dolná Mariková 2019\n \n Foto (Orgoň a Michal Krajčovič):\n \n "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

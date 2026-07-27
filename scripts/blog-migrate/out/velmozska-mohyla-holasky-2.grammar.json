@@ -1,0 +1,24 @@
+{
+ "changes": [
+  {
+   "before": "začiatok 4. storočia pnl.)",
+   "after": "začiatok 4. storočia pred n. l.)",
+   "rule": "B typografia (pred n. l.)"
+  },
+  {
+   "before": "komory z dubového dreva s rozmermi 5,25 x 5,30 m a 5 x 5 m",
+   "after": "…s rozmermi 5,25 × 5,30 m a 5 × 5 m",
+   "rule": "B typografia (×)"
+  },
+  {
+   "before": "ktorá ako následne zistil nebola osamotená",
+   "after": "ktorá, ako následne zistil, nebola osamotená",
+   "rule": "A1 uzavretie vsuvky"
+  },
+  {
+   "before": "o posmrtné hostině nebožtíků v záhrobí",
+   "after": "o posmrtnej hostine nebožtíkov v záhrobí",
+   "rule": "A8 bohemizmus/tvary (hostině nebožtíků→hostine nebožtíkov)"
+  }
+ ]
+}

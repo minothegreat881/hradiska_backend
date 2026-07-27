@@ -1,0 +1,8 @@
+{ "changes":[
+  {"before":"Už začiatkom XIX. Storočia tu boli odkryté","after":"Už začiatkom XIX. storočia tu boli odkryté","rule":"A9 malé písmeno (storočia)"},
+  {"before":"prieskum bol vykonaný v rokoch 1991-1996, 2005-2009","after":"…v rokoch 1991 – 1996, 2005 – 2009","rule":"B typografia (en dash)"},
+  {"before":"strminami (obr. 5) so sklonom 20-40° a vysokými 30 m","after":"…so sklonom 20 – 40° a vysokými 30 m","rule":"B typografia (en dash)"},
+  {"before":"mierzanowickiej\" (2100-1650 p.n.l.,","after":"mierzanowickiej\" (2100 – 1650 pred n. l.,","rule":"B typografia (en dash, pred n. l.)"},
+  {"before":"lištami a a rebrovaním","after":"lištami a rebrovaním","rule":"B zdvojené „a\""},
+  {"before":"V rokoch 1650-1350 pr.n.l. tu žila","after":"V rokoch 1650 – 1350 pred n. l. tu žila","rule":"B typografia (en dash, pred n. l.)"},
+  {"before":"(780-1031 n.l.) sa tu nachádzao obrovské sídlo","after":"(780 – 1031 n. l.) sa tu nachádzalo obrovské sídlo","rule":"B typografia + A8 preklep (nachádzao→nachádzalo)"}]}

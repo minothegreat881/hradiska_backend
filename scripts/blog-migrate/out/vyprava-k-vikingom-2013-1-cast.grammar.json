@@ -1,0 +1,39 @@
+{
+ "changes": [
+  {
+   "before": "Rozhodla sa že sa s nami podelí",
+   "after": "Rozhodla sa, že sa s nami podelí",
+   "rule": "A1 čiarka pred že"
+  },
+  {
+   "before": "v južnom Švédsku- Ale je Stones",
+   "after": "v južnom Švédsku — Ale je Stones",
+   "rule": "B pomlčka"
+  },
+  {
+   "before": "Na skalnatom podlaží nad morom,medzi pasúcimi sa stádami kráv, sa týči",
+   "after": "…nad morom, medzi pasúcimi sa stádami kráv sa týči",
+   "rule": "B chýbajúca medzera + A1"
+  },
+  {
+   "before": "do tvaru lode.Podľa povesti je tu pochovaný legendárny kráľ Ale.Podľa výzkumov",
+   "after": "…do tvaru lode. Podľa povesti je tu pochovaný legendárny kráľ Ale. Podľa výskumov",
+   "rule": "B medzery + A8 (výzkumov→výskumov)"
+  },
+  {
+   "before": "Vedúci archeológov Sodeberg-tvrdí",
+   "after": "Vedúci archeológov Söderberg tvrdí",
+   "rule": "B pomlčka→medzera (meno)"
+  },
+  {
+   "before": "v r. 1958,prvé archeologické výskumz prebiehali v r.1989",
+   "after": "v r. 1958, prvé archeologické výskumy prebiehali v r. 1989",
+   "rule": "B medzery + A8 (výskumz→výskumy)"
+  },
+  {
+   "before": "kosti z obdobia asi 600 rokov pnl.Taktiež objavili zvyšky ohniska z tohoto obdobia",
+   "after": "…asi 600 rokov pred Kr. Taktiež objavili zvyšky ohniska z tohto obdobia",
+   "rule": "B typografia (pred Kr., medzera) + A8 (tohoto→tohto)"
+  }
+ ]
+}

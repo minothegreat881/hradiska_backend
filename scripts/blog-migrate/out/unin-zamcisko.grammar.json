@@ -1,0 +1,8 @@
+{ "changes":[
+  {"before":"ktorý hradisko v roku 1927 objavil uvádza","after":"ktorý hradisko v roku 1927 objavil, uvádza","rule":"A1 uzavretie vloženej vety"},
+  {"before":"výšku v najmohutnejšom úseku 4-6 metrov","after":"výšku v najmohutnejšom úseku 4 – 6 metrov","rule":"B typografia (en dash)"},
+  {"before":"s hlbokou 8-10 metrovou priekopou","after":"s hlbokou 8 – 10 metrovou priekopou","rule":"B typografia"},
+  {"before":"maďarovsko-věteřovká kultúra","after":"maďarovsko-věteřovská kultúra","rule":"A8 preklep (chýbajúce s)"},
+  {"before":"sliezsko-plátenickej kultúry (9 storočie pred Kr.)","after":"sliezsko-plátenickej kultúry (9. storočie pred Kr.)","rule":"A8 bodka za radovou číslovkou"},
+  {"before":"depot unětickej kultúry","after":"depot únětickej kultúry","rule":"A8 diakritika (caption, cross-field)"},
+  {"before":"nepodarilo doprátrať k relevantným","after":"nepodarilo dopátrať k relevantným","rule":"A8 preklep"}]}

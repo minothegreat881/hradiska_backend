@@ -1,0 +1,8 @@
+{ "changes":[
+  {"before":"masívu Učovník (759m.n.m)","after":"masívu Učovník (759 m n. m.)","rule":"B typografia (medzery, m n. m.)"},
+  {"before":"výška je 565, 00 – 574, 00 m.n.m.","after":"výška je 565,00 – 574,00 m n. m.","rule":"B typografia (desatinná čiarka, m n. m.)"},
+  {"before":"ktorou preteká potom Malá Zolná","after":"ktorou preteká potok Malá Zolná","rule":"A8 preklep (potom→potok)"},
+  {"before":"Najstaršie osidlenie hradiska","after":"Najstaršie osídlenie hradiska","rule":"A8 diakritika"},
+  {"before":"nájdený želený depot a v ňom tv sekáčik","after":"nájdený železný depot a v ňom tzv. sekáčik","rule":"A8 preklep (želený→železný, tv→tzv.)"},
+  {"before":"evidujeme aj intenzivne spracovávanie","after":"evidujeme aj intenzívne spracovanie","rule":"A8 diakritika + bohemizmus"},
+  {"before":"Okrem ťažby a spracovania rúd, je pravdepodobné že hradisko","after":"Okrem ťažby a spracovania rúd je pravdepodobné, že hradisko","rule":"A1 čiarka (presun: von medzi členmi, dnu pred že)"}]}

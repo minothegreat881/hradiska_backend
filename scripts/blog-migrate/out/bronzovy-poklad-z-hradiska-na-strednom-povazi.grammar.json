@@ -1,0 +1,34 @@
+{
+ "changes": [
+  {
+   "before": "názory na používanie detektoru kovov",
+   "after": "názory na používanie detektora kovov",
+   "rule": "A4 pád (genitív detektora)"
+  },
+  {
+   "before": "ktorých spája rovnaký cieľ hoci správna cesta k cieľu",
+   "after": "…rovnaký cieľ, hoci správna cesta k cieľu",
+   "rule": "A1 čiarka pred hoci"
+  },
+  {
+   "before": "že sa naozaj jedná o výšinné hradisko",
+   "after": "že naozaj ide o výšinné hradisko",
+   "rule": "A7 bohemizmus (jedná sa o→ide o)"
+  },
+  {
+   "before": "Naviac pod hradiskom z opačnej strany",
+   "after": "Navyše pod hradiskom z opačnej strany",
+   "rule": "A7 bohemizmus (naviac→navyše)"
+  },
+  {
+   "before": "Aj keď je to prvý signál, ktoré len málokedy vyjdú",
+   "after": "…prvý signál, ktoré len málokedy vyjdú",
+   "rule": "FLAG — pozri review (zhoda signál)"
+  },
+  {
+   "before": "ako sa veci robiť dajú, ak všetci ťaháme sa jeden povraz",
+   "after": "…ak všetci ťaháme za jeden povraz",
+   "rule": "A8 preklep (sa→za)"
+  }
+ ]
+}

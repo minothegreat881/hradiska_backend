@@ -75,6 +75,37 @@
     },
     "blockedAt": {
       "type": "datetime"
+    },
+    "avatar": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": ["images"]
+    },
+    "warnsCount": {
+      "type": "integer",
+      "default": 0,
+      "min": 0
+    },
+    "preModerated": {
+      "type": "boolean",
+      "default": false
+    },
+    "notifyReply": {
+      "type": "boolean",
+      "default": true
+    },
+    "notifyLike": {
+      "type": "boolean",
+      "default": true
+    },
+    "notifyPost": {
+      "type": "boolean",
+      "default": true
+    },
+    "notifyEmail": {
+      "type": "boolean",
+      "default": false
     }
   }
 }

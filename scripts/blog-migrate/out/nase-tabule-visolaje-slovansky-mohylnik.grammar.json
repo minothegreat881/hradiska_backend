@@ -1,0 +1,19 @@
+{
+ "changes": [
+  {
+   "before": "významné miesto našich slovanských predkov - ",
+   "after": "významné miesto našich slovanských predkov — mohylové pohrebisko z obdobia Veľkej Moravy.",
+   "rule": "B pomlčka + doplnené z excerptu"
+  },
+  {
+   "before": "prišli utáboriť Slovania zo , ktorí sa rozhodli",
+   "after": "prišli utáboriť Slovania, ktorí sa rozhodli",
+   "rule": "B chýbajúce meno skupiny (odstránené „zo\") — pozri FLAG"
+  },
+  {
+   "before": "za originálny obrázok mohlníka",
+   "after": "za originálny obrázok mohylníka",
+   "rule": "A8 preklep (mohlníka→mohylníka)"
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "changes": [
+  {
+   "before": "sme sa zišli na hradisku  nad Modrou",
+   "after": "sme sa zišli na hradisku Zámčisko nad Modrou",
+   "rule": "B dvojitá medzera + doplnené z excerptu"
+  },
+  {
+   "before": "Obrázok hradiska - detail opevnenia - pre nás vytvoril",
+   "after": "Obrázok hradiska — detail opevnenia — pre nás vytvoril",
+   "rule": "B pomlčky (vsuvka)"
+  }
+ ]
+}

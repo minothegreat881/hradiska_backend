@@ -1,0 +1,29 @@
+{
+ "changes": [
+  {
+   "before": "V sobotu 7.11.2015 naše",
+   "after": "V sobotu 7. 11. 2015 naše",
+   "rule": "B dátum"
+  },
+  {
+   "before": "bojovníci z 9.-10. storočia",
+   "after": "bojovníci z 9. – 10. storočia",
+   "rule": "B en dash"
+  },
+  {
+   "before": "z tŕnia a šípov, kvoli ktorým",
+   "after": "z tŕnia a šípov, kvôli ktorým",
+   "rule": "A8 diakritika"
+  },
+  {
+   "before": "už A. Petrovský Šichman",
+   "after": "už A. Petrovský-Šichman",
+   "rule": "B spojovník (meno)"
+  },
+  {
+   "before": "chôdze od dediny sme tak sprístupnili",
+   "after": "chôdze od dediny, sme tak sprístupnili",
+   "rule": "A1 vložená veta"
+  }
+ ]
+}

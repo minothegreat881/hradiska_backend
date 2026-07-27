@@ -1,0 +1,19 @@
+{
+ "changes": [
+  {
+   "before": "na hradisku Pružina - Mesciká",
+   "after": "na hradisku Pružina – Mesciská",
+   "rule": "A8 preklep (Mesciká→Mesciská) + pomlčka"
+  },
+  {
+   "before": "Oprava stála 50 Eur",
+   "after": "Oprava stála 50 eur",
+   "rule": "A9 mena malým"
+  },
+  {
+   "before": "Verme že vandali si ju už viac nebudú",
+   "after": "Verme, že vandali si ju už viac nebudú",
+   "rule": "A1 čiarka pred že"
+  }
+ ]
+}

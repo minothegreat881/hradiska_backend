@@ -1,0 +1,14 @@
+{
+ "changes": [
+  {
+   "before": "triskelia s jej viacerými variantmi",
+   "after": "triskelia s ich viacerými variantmi",
+   "rule": "A3 zhoda (triskelia → ich)"
+  },
+  {
+   "before": "známe taranisove koleso",
+   "after": "známe Taranisovo koleso",
+   "rule": "A9 vlastné meno + zhoda (koleso s. rod)"
+  }
+ ]
+}

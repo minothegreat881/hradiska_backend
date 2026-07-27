@@ -83,6 +83,9 @@ export default {
     // Set up public permissions for API access
     await setupPublicPermissions(strapi);
 
+    // Set up member/staff (non-public) permissions for profil + notifikácie + push
+    await setupMemberPermissions(strapi);
+
     // Seed sample aktuality (only on first run, if collection is empty)
     await seedAktuality(strapi);
   },
@@ -246,4 +249,63 @@ async function setupPublicPermissions(strapi: Core.Strapi) {
   }
 
   console.log('🔓 Public API permissions configured');
+}
+
+/**
+ * Oprávnenia pre prihlásených (profil, notifikácie, zdieľania, push).
+ * Grantuje sa VŠETKÝM ne-public rolám (Member aj staff `authenticated`) — moderačné
+ * akcie (moderation-warning.create) si staff-only aj tak stráži controller.
+ * Idempotentné: existujúce permission preskočí.
+ */
+async function setupMemberPermissions(strapi: Core.Strapi) {
+  const roles = await strapi.db.query('plugin::users-permissions.role').findMany({
+    where: { type: { $ne: 'public' } },
+  });
+  if (!roles?.length) {
+    console.log('⚠️ Žiadne ne-public roly, preskakujem member permissions');
+    return;
+  }
+
+  const actions = [
+    'api::notification.notification.mine',
+    'api::notification.notification.unreadCount',
+    'api::notification.notification.markAllRead',
+    'api::notification.notification.markRead',
+    'api::share.share.create',
+    'api::share.share.mine',
+    'api::push-subscription.push-subscription.subscribe',
+    'api::push-subscription.push-subscription.unsubscribe',
+    'api::moderation-warning.moderation-warning.create',
+    // vlastný účet/profil
+    'api::account.account.getMe',
+    'api::account.account.updateMe',
+    'api::account.account.deleteMe',
+    // vlastný komentár – zabezpečí, že Member rola má aj tieto po čistej inštalácii
+    'api::blog-comment.blog-comment.update',
+    'api::blog-comment.blog-comment.delete',
+    'api::blog-comment.blog-comment.mine',
+    'api::blog-comment.blog-comment.mineAll',
+    'api::blog-comment.blog-comment.like',
+    'api::blog-comment.blog-comment.unlike',
+    // reakcie (lajky/obľúbené)
+    'api::reaction.reaction.create',
+    'api::reaction.reaction.delete',
+    'api::reaction.reaction.find',
+    'api::reaction.reaction.minePosts',
+  ];
+
+  for (const role of roles) {
+    for (const action of actions) {
+      const existing = await strapi.db.query('plugin::users-permissions.permission').findOne({
+        where: { action, role: role.id },
+      });
+      if (!existing) {
+        await strapi.db.query('plugin::users-permissions.permission').create({
+          data: { action, role: role.id },
+        });
+        console.log(`  ✓ ${role.type}: ${action}`);
+      }
+    }
+  }
+  console.log('🔐 Member/staff permissions configured');
 }

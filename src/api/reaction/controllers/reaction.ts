@@ -52,7 +52,51 @@ export default factories.createCoreController('api::reaction.reaction', ({ strap
       data: { targetType, targetId, user: user.id } as any,
     });
     await bumpCommentLikes(strapi, targetType, targetId, +1);
+
+    // Notifikácia „lajk" autorovi komentára (agregovaná v notification service).
+    if (targetType === 'comment') {
+      try {
+        const c = await strapi.documents('api::blog-comment.blog-comment').findOne({
+          documentId: targetId,
+          populate: { user: { fields: ['id'] }, post: { fields: ['id'] } } as any,
+        });
+        const authorId = (c as any)?.user?.id;
+        if (authorId) {
+          await strapi.service('api::notification.notification').notify({
+            type: 'like', recipientId: authorId, actorId: user.id,
+            commentId: (c as any).id, postId: (c as any)?.post?.id ?? null,
+            text: ((c as any)?.content || '').slice(0, 160),
+          });
+        }
+      } catch { /* notifikácia je vedľajší efekt */ }
+    }
     return { data: created };
+  },
+
+  /**
+   * GET /reactions/mine-posts — moje obľúbené články (reakcia targetType='post').
+   * `targetId` je documentId článku → dohľadáme detaily pre kartu v profile.
+   */
+  async minePosts(ctx) {
+    const user = ctx.state?.user;
+    if (!user) return ctx.unauthorized();
+    const reactions = await strapi.documents('api::reaction.reaction').findMany({
+      filters: { user: { id: user.id }, targetType: 'post' } as any,
+      sort: { createdAt: 'desc' }, pagination: { pageSize: 500 } as any,
+    });
+    const ids = reactions.map((r: any) => r.targetId);
+    if (!ids.length) return { data: [] };
+    const posts = await strapi.documents('api::blog-post.blog-post').findMany({
+      filters: { documentId: { $in: ids } } as any,
+      fields: ['title', 'slug'],
+      populate: { category: { fields: ['name', 'slug'] }, coverImage: { fields: ['url', 'formats'] } } as any,
+      pagination: { pageSize: 500 } as any,
+    });
+    const byId: Record<string, any> = {};
+    for (const p of posts) byId[(p as any).documentId] = p;
+    // zachovaj poradie podľa času lajku
+    const data = reactions.map((r: any) => byId[r.targetId]).filter(Boolean);
+    return { data };
   },
 
   async delete(ctx) {

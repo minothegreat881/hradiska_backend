@@ -1,0 +1,525 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\horne-plachtince.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-9024902712398244619",
+    "bloggerPostUrl": "http://www.hradiska.sk/2018/03/horne-plachtince.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/9024902712398244619/comments/default",
+    "extractedAt": "2026-07-21T14:08:28.555Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 16,
+      "captionedImages": 6,
+      "separatorImages": 10
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Horné Plachtince - Pohanský vrch",
+    "slug": "horne-plachtince-pohansky-vrch",
+    "excerpt": "Hradisko Pohanský vrch leží v Krupinskej vrchovine v katastri obce Horné Plachtince, od ktorej severného okraja je vzdialené približne 2,5 km severozápadným smerom. Rozprestiera sa v južnej časti ostrohu, vychádzajúceho z dlhého horského hrebeňa,…",
+    "authorName": "Orgon",
+    "publishedAt": "2018-03-19T19:32:00.005+01:00",
+    "originalPublishedDate": "2018-03-19T19:32:00.005+01:00",
+    "updatedAt": "2020-12-30T14:31:17.610+01:00",
+    "readingTime": 2,
+    "featured": false,
+    "coverImage": {
+      "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VOyBPSZHwqmbOh0xRSxZZUqPGKFnRyq6vZdbbvU4qQC66w3JjA3JoE0Ud7j_8VkD6dJCq9xXLkXE8bwgLNa6D92Z2tmUUQGYdcyDIoY40ySUzHzU_fJwAy2VHppm5whyzBCy09o5vxq7/s0/Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+      "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VOyBPSZHwqmbOh0xRSxZZUqPGKFnRyq6vZdbbvU4qQC66w3JjA3JoE0Ud7j_8VkD6dJCq9xXLkXE8bwgLNa6D92Z2tmUUQGYdcyDIoY40ySUzHzU_fJwAy2VHppm5whyzBCy09o5vxq7/s1600/Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+      "filename": "Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+      "blogger": {
+        "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VOyBPSZHwqmbOh0xRSxZZUqPGKFnRyq6vZdbbvU4qQC66w3JjA3JoE0Ud7j_8VkD6dJCq9xXLkXE8bwgLNa6D92Z2tmUUQGYdcyDIoY40ySUzHzU_fJwAy2VHppm5whyzBCy09o5vxq7/s2340/Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+        "displayedWidth": null,
+        "displayedHeight": 320,
+        "originalWidth": 1080,
+        "originalHeight": 2340
+      }
+    },
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VOyBPSZHwqmbOh0xRSxZZUqPGKFnRyq6vZdbbvU4qQC66w3JjA3JoE0Ud7j_8VkD6dJCq9xXLkXE8bwgLNa6D92Z2tmUUQGYdcyDIoY40ySUzHzU_fJwAy2VHppm5whyzBCy09o5vxq7/s0/Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VOyBPSZHwqmbOh0xRSxZZUqPGKFnRyq6vZdbbvU4qQC66w3JjA3JoE0Ud7j_8VkD6dJCq9xXLkXE8bwgLNa6D92Z2tmUUQGYdcyDIoY40ySUzHzU_fJwAy2VHppm5whyzBCy09o5vxq7/s1600/Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+        "filename": "Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VOyBPSZHwqmbOh0xRSxZZUqPGKFnRyq6vZdbbvU4qQC66w3JjA3JoE0Ud7j_8VkD6dJCq9xXLkXE8bwgLNa6D92Z2tmUUQGYdcyDIoY40ySUzHzU_fJwAy2VHppm5whyzBCy09o5vxq7/s2340/Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+          "displayedWidth": null,
+          "displayedHeight": 320,
+          "originalWidth": 1080,
+          "originalHeight": 2340
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihr6hLE02Z4VoPr8tgIueLsfITCOMXsbPEqSSVqt1pIE69UYNqjVDOYn3eJsdn6TsxsOxIz7x1SsJHritlszlvwTgFTXHwj38Ah-u8OFd_1yYvFE9ALMKrqtbHouFbYFYLKJFvBapMG4F4/s0/23032926_182431428974103_2911258451096587182_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihr6hLE02Z4VoPr8tgIueLsfITCOMXsbPEqSSVqt1pIE69UYNqjVDOYn3eJsdn6TsxsOxIz7x1SsJHritlszlvwTgFTXHwj38Ah-u8OFd_1yYvFE9ALMKrqtbHouFbYFYLKJFvBapMG4F4/s1600/23032926_182431428974103_2911258451096587182_n.jpg",
+        "filename": "23032926_182431428974103_2911258451096587182_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihr6hLE02Z4VoPr8tgIueLsfITCOMXsbPEqSSVqt1pIE69UYNqjVDOYn3eJsdn6TsxsOxIz7x1SsJHritlszlvwTgFTXHwj38Ah-u8OFd_1yYvFE9ALMKrqtbHouFbYFYLKJFvBapMG4F4/s1600/23032926_182431428974103_2911258451096587182_n.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 720,
+          "originalHeight": 960
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB__28FwYJ6zSZMIBQGqIDi6x0EX7zrzCVGnM-0l0UBsVVSdkffO3IFtEoPHqNXqt6GGijMF91xLythYK11TfLDOqIAZofMzHJYUrhQpPVqaHyX5dbeGiT6S87Au0Md2bWTuKA5l25ktsf/s0/23031710_182431265640786_1124595558119155419_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB__28FwYJ6zSZMIBQGqIDi6x0EX7zrzCVGnM-0l0UBsVVSdkffO3IFtEoPHqNXqt6GGijMF91xLythYK11TfLDOqIAZofMzHJYUrhQpPVqaHyX5dbeGiT6S87Au0Md2bWTuKA5l25ktsf/s1600/23031710_182431265640786_1124595558119155419_n.jpg",
+        "filename": "23031710_182431265640786_1124595558119155419_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB__28FwYJ6zSZMIBQGqIDi6x0EX7zrzCVGnM-0l0UBsVVSdkffO3IFtEoPHqNXqt6GGijMF91xLythYK11TfLDOqIAZofMzHJYUrhQpPVqaHyX5dbeGiT6S87Au0Md2bWTuKA5l25ktsf/s1600/23031710_182431265640786_1124595558119155419_n.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 720,
+          "originalHeight": 960
+        },
+        "caption": "Veľký črep nádoby s uškom"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBio0-l33MOz-6D6axcyqrSninbyJZKzwyPUAoabuV33gsk1OxtFRAes4_5DhyphenhyphenaV801GSDgmH4a7r7YiuMDZ_ROHe4lHiYHoaSiADR-pQX-nsFemenbOBm_KnzX9uAVK8PD9PRbezCJHL/s0/23032364_182431728974073_4522992048540754884_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBio0-l33MOz-6D6axcyqrSninbyJZKzwyPUAoabuV33gsk1OxtFRAes4_5DhyphenhyphenaV801GSDgmH4a7r7YiuMDZ_ROHe4lHiYHoaSiADR-pQX-nsFemenbOBm_KnzX9uAVK8PD9PRbezCJHL/s1600/23032364_182431728974073_4522992048540754884_n.jpg",
+        "filename": "23032364_182431728974073_4522992048540754884_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBio0-l33MOz-6D6axcyqrSninbyJZKzwyPUAoabuV33gsk1OxtFRAes4_5DhyphenhyphenaV801GSDgmH4a7r7YiuMDZ_ROHe4lHiYHoaSiADR-pQX-nsFemenbOBm_KnzX9uAVK8PD9PRbezCJHL/s1600/23032364_182431728974073_4522992048540754884_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": "Krásny výhľad z hradiska na okolitý kraj"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgidqcMOWRlfSZYA5MJlFk6xey_U19z34GFx3gAQLfvF4IdEVoJ8ytCJs1LiCwaA_sCQMAieVM7VwD-QzOxGhUA2AzYtZE4JW83GYWpABee0_ZcrhbtXpMN9m0jcQ9SxNDOq01VXPdrzb96/s0/23032912_182431345640778_6247099744671484104_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgidqcMOWRlfSZYA5MJlFk6xey_U19z34GFx3gAQLfvF4IdEVoJ8ytCJs1LiCwaA_sCQMAieVM7VwD-QzOxGhUA2AzYtZE4JW83GYWpABee0_ZcrhbtXpMN9m0jcQ9SxNDOq01VXPdrzb96/s1600/23032912_182431345640778_6247099744671484104_n.jpg",
+        "filename": "23032912_182431345640778_6247099744671484104_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgidqcMOWRlfSZYA5MJlFk6xey_U19z34GFx3gAQLfvF4IdEVoJ8ytCJs1LiCwaA_sCQMAieVM7VwD-QzOxGhUA2AzYtZE4JW83GYWpABee0_ZcrhbtXpMN9m0jcQ9SxNDOq01VXPdrzb96/s1600/23032912_182431345640778_6247099744671484104_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": "Kamenný múrik sa nachádza na mieste, kde by aj mohol mať význam z hľadiska opevnenia, takže je otázne či ne nový, alebo pôvodný"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxhZUOA6LcbngW8_A7dPySDrwDiDc6FhttrRXYh-DCbIvuAQwNajBqMo3mlNua0j26kecTu6Co-D-9OnbSsLzAvietmcufSs85sFhFS2GgQlJiixfcRCRut03vOplIzGOl4ncuFDvneOq6/s0/23130593_182431588974087_289912018818917760_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxhZUOA6LcbngW8_A7dPySDrwDiDc6FhttrRXYh-DCbIvuAQwNajBqMo3mlNua0j26kecTu6Co-D-9OnbSsLzAvietmcufSs85sFhFS2GgQlJiixfcRCRut03vOplIzGOl4ncuFDvneOq6/s1600/23130593_182431588974087_289912018818917760_n.jpg",
+        "filename": "23130593_182431588974087_289912018818917760_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxhZUOA6LcbngW8_A7dPySDrwDiDc6FhttrRXYh-DCbIvuAQwNajBqMo3mlNua0j26kecTu6Co-D-9OnbSsLzAvietmcufSs85sFhFS2GgQlJiixfcRCRut03vOplIzGOl4ncuFDvneOq6/s1600/23130593_182431588974087_289912018818917760_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuy6IOxzIv5Hx4QnQlFsWCpgoBKELuPhdOs4NGsc6Sx7VHrkCOJV7RCfeyv6cfvZx8GzqrPaGBONbX-P-nZ5JhHjnZJu4GY3rRU_bZGKGN-JidBV-w9k7Bn4u3Qa0sqVDAg2xvuNaaDTcp/s0/23131608_182431615640751_8116984829050360416_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuy6IOxzIv5Hx4QnQlFsWCpgoBKELuPhdOs4NGsc6Sx7VHrkCOJV7RCfeyv6cfvZx8GzqrPaGBONbX-P-nZ5JhHjnZJu4GY3rRU_bZGKGN-JidBV-w9k7Bn4u3Qa0sqVDAg2xvuNaaDTcp/s1600/23131608_182431615640751_8116984829050360416_n.jpg",
+        "filename": "23131608_182431615640751_8116984829050360416_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuy6IOxzIv5Hx4QnQlFsWCpgoBKELuPhdOs4NGsc6Sx7VHrkCOJV7RCfeyv6cfvZx8GzqrPaGBONbX-P-nZ5JhHjnZJu4GY3rRU_bZGKGN-JidBV-w9k7Bn4u3Qa0sqVDAg2xvuNaaDTcp/s1600/23131608_182431615640751_8116984829050360416_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKJHaK_1_LVHHRiEzqDEnlGVAR-hxlNEFXTzHhqCKuY8JK7kmznNmoq-iEMKKGUNw80Z3A7Lg_NSJmWzTMX018zMiBrunkI4-Vxckgt-9KGCEsdmRQpoZgHqG0z5EHxdVy85ChjnENb5ue/s0/23131649_182431542307425_7621236167188009836_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKJHaK_1_LVHHRiEzqDEnlGVAR-hxlNEFXTzHhqCKuY8JK7kmznNmoq-iEMKKGUNw80Z3A7Lg_NSJmWzTMX018zMiBrunkI4-Vxckgt-9KGCEsdmRQpoZgHqG0z5EHxdVy85ChjnENb5ue/s1600/23131649_182431542307425_7621236167188009836_n.jpg",
+        "filename": "23131649_182431542307425_7621236167188009836_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKJHaK_1_LVHHRiEzqDEnlGVAR-hxlNEFXTzHhqCKuY8JK7kmznNmoq-iEMKKGUNw80Z3A7Lg_NSJmWzTMX018zMiBrunkI4-Vxckgt-9KGCEsdmRQpoZgHqG0z5EHxdVy85ChjnENb5ue/s1600/23131649_182431542307425_7621236167188009836_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3D-s73r6Tf2Q1q-d4KUjURpXnlwtIo600fO_GviPJ1goPbKvGKDn7rSDU93u9-VVnXI29A4iP-TroNb7Eous-dqWByPpCV5jX16Mzv_5fFMzVhAGrthFSnc-hKIyc0DrdlOYUz6gl3ZT5/s0/23131685_182431372307442_546697454787039352_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3D-s73r6Tf2Q1q-d4KUjURpXnlwtIo600fO_GviPJ1goPbKvGKDn7rSDU93u9-VVnXI29A4iP-TroNb7Eous-dqWByPpCV5jX16Mzv_5fFMzVhAGrthFSnc-hKIyc0DrdlOYUz6gl3ZT5/s1600/23131685_182431372307442_546697454787039352_n.jpg",
+        "filename": "23131685_182431372307442_546697454787039352_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3D-s73r6Tf2Q1q-d4KUjURpXnlwtIo600fO_GviPJ1goPbKvGKDn7rSDU93u9-VVnXI29A4iP-TroNb7Eous-dqWByPpCV5jX16Mzv_5fFMzVhAGrthFSnc-hKIyc0DrdlOYUz6gl3ZT5/s1600/23131685_182431372307442_546697454787039352_n.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 720,
+          "originalHeight": 960
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2QV9h-2MBjVRiLIDva6tyQazfBuGMElNLP5sIcUwea1DfsCR0_KWE86vE3neS2Neolnj4eOvPhgGsESX-NV2aJ9IPW4F0ZU_K13LSW68D5X-8O6x-aJcOgJ3F9qsz38xJ7WwOdyjZ-n4/s0/23131736_182431325640780_2650044668328816542_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2QV9h-2MBjVRiLIDva6tyQazfBuGMElNLP5sIcUwea1DfsCR0_KWE86vE3neS2Neolnj4eOvPhgGsESX-NV2aJ9IPW4F0ZU_K13LSW68D5X-8O6x-aJcOgJ3F9qsz38xJ7WwOdyjZ-n4/s1600/23131736_182431325640780_2650044668328816542_n.jpg",
+        "filename": "23131736_182431325640780_2650044668328816542_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN2QV9h-2MBjVRiLIDva6tyQazfBuGMElNLP5sIcUwea1DfsCR0_KWE86vE3neS2Neolnj4eOvPhgGsESX-NV2aJ9IPW4F0ZU_K13LSW68D5X-8O6x-aJcOgJ3F9qsz38xJ7WwOdyjZ-n4/s1600/23131736_182431325640780_2650044668328816542_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-l0QfxRmZyHELntVA8590cW5v1s1UxkwEJyCyXhWfY7lj4T2eFoObnaxzk5PedE9s7i62hZu5qZvRT-4BMMAudjqgOf5XjndJoWYCtcYTZiHAezg4hwlz8nr7pBABvO23ddQbOx2Dbkiq/s0/23131983_182431668974079_6173634969003504417_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-l0QfxRmZyHELntVA8590cW5v1s1UxkwEJyCyXhWfY7lj4T2eFoObnaxzk5PedE9s7i62hZu5qZvRT-4BMMAudjqgOf5XjndJoWYCtcYTZiHAezg4hwlz8nr7pBABvO23ddQbOx2Dbkiq/s1600/23131983_182431668974079_6173634969003504417_n.jpg",
+        "filename": "23131983_182431668974079_6173634969003504417_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-l0QfxRmZyHELntVA8590cW5v1s1UxkwEJyCyXhWfY7lj4T2eFoObnaxzk5PedE9s7i62hZu5qZvRT-4BMMAudjqgOf5XjndJoWYCtcYTZiHAezg4hwlz8nr7pBABvO23ddQbOx2Dbkiq/s1600/23131983_182431668974079_6173634969003504417_n.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 720,
+          "originalHeight": 960
+        },
+        "caption": "Zrejme laténsky črep"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUFGbvv_4WIG33bL3nRA2Vh8BkYNG5wbu-VBfy3jqO7Xh4PLHE7B4NW7g5HJ7XdTYDPBqRSaDlGy4mB-0s4DKQlozCZhTyVM-7Hf5VtjPHJFmyXDOTPpU2KqeRoA33N7vcIohuxOO9q-iT/s0/23172605_182431698974076_1969729092860514178_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUFGbvv_4WIG33bL3nRA2Vh8BkYNG5wbu-VBfy3jqO7Xh4PLHE7B4NW7g5HJ7XdTYDPBqRSaDlGy4mB-0s4DKQlozCZhTyVM-7Hf5VtjPHJFmyXDOTPpU2KqeRoA33N7vcIohuxOO9q-iT/s1600/23172605_182431698974076_1969729092860514178_n.jpg",
+        "filename": "23172605_182431698974076_1969729092860514178_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUFGbvv_4WIG33bL3nRA2Vh8BkYNG5wbu-VBfy3jqO7Xh4PLHE7B4NW7g5HJ7XdTYDPBqRSaDlGy4mB-0s4DKQlozCZhTyVM-7Hf5VtjPHJFmyXDOTPpU2KqeRoA33N7vcIohuxOO9q-iT/s1600/23172605_182431698974076_1969729092860514178_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVySFvmGxf4a37ekXrXURFTrW9tBPxFdDpNku87y4hX8Eeos468hyz6wEFuYixjG451h9M08pigN2MP0mhb_amK-X65XzlpROHHpnv937fgkbNZ1Hm-DXRVzkDjENe49EiQRjMWgbLDFdt/s0/23231433_182431645640748_3359803897637748964_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVySFvmGxf4a37ekXrXURFTrW9tBPxFdDpNku87y4hX8Eeos468hyz6wEFuYixjG451h9M08pigN2MP0mhb_amK-X65XzlpROHHpnv937fgkbNZ1Hm-DXRVzkDjENe49EiQRjMWgbLDFdt/s1600/23231433_182431645640748_3359803897637748964_n.jpg",
+        "filename": "23231433_182431645640748_3359803897637748964_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVySFvmGxf4a37ekXrXURFTrW9tBPxFdDpNku87y4hX8Eeos468hyz6wEFuYixjG451h9M08pigN2MP0mhb_amK-X65XzlpROHHpnv937fgkbNZ1Hm-DXRVzkDjENe49EiQRjMWgbLDFdt/s1600/23231433_182431645640748_3359803897637748964_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFC7exl267b54rGs-GS8mgQJg4wzAFgOZMupQKs9rKj7lzY3udt9Rc3SpeaeYoMu3cyNiq4aeG-qNsGrW6cLWPJoYmAEv_BvefbHAmi5PH9qEebrrR9uInQKo6vZBmGTWARs2aUN06i_M-/s0/23231460_182431225640790_769334755941491987_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFC7exl267b54rGs-GS8mgQJg4wzAFgOZMupQKs9rKj7lzY3udt9Rc3SpeaeYoMu3cyNiq4aeG-qNsGrW6cLWPJoYmAEv_BvefbHAmi5PH9qEebrrR9uInQKo6vZBmGTWARs2aUN06i_M-/s1600/23231460_182431225640790_769334755941491987_n.jpg",
+        "filename": "23231460_182431225640790_769334755941491987_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFC7exl267b54rGs-GS8mgQJg4wzAFgOZMupQKs9rKj7lzY3udt9Rc3SpeaeYoMu3cyNiq4aeG-qNsGrW6cLWPJoYmAEv_BvefbHAmi5PH9qEebrrR9uInQKo6vZBmGTWARs2aUN06i_M-/s1600/23231460_182431225640790_769334755941491987_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": "Brána"
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQ8YkqQAM01o-OsCqr54QPacIvYXuyyOBEwKJdt4zzFq_AP1AZ5hIp19NaUUpjRhttNclEFhj5sguymN0u3DSinxQaMmVvXDrWsp57PXya9MgN6gu5B2Up5PRR7DfxLos1Qvh1S6_eXqt/s0/23231593_182431305640782_7589516684249819842_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQ8YkqQAM01o-OsCqr54QPacIvYXuyyOBEwKJdt4zzFq_AP1AZ5hIp19NaUUpjRhttNclEFhj5sguymN0u3DSinxQaMmVvXDrWsp57PXya9MgN6gu5B2Up5PRR7DfxLos1Qvh1S6_eXqt/s1600/23231593_182431305640782_7589516684249819842_n.jpg",
+        "filename": "23231593_182431305640782_7589516684249819842_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfQ8YkqQAM01o-OsCqr54QPacIvYXuyyOBEwKJdt4zzFq_AP1AZ5hIp19NaUUpjRhttNclEFhj5sguymN0u3DSinxQaMmVvXDrWsp57PXya9MgN6gu5B2Up5PRR7DfxLos1Qvh1S6_eXqt/s1600/23231593_182431305640782_7589516684249819842_n.jpg",
+          "displayedWidth": 240,
+          "displayedHeight": 320,
+          "originalWidth": 720,
+          "originalHeight": 960
+        },
+        "caption": null
+      },
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPjo2D8if83joVNqd5CBoDcqTYKXPiLYUg3azWBFbGNJXqMD1Lc5GM7zadWTy7NDHBD986Vo3t7h_wRqW19KK5tDJTfTnqs6HWOXD8A9cpLtwoco9SrK8tj3V1NbldBul92xLz7LpzABnh/s0/23316430_182431562307423_3177437239612317374_n.jpg",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPjo2D8if83joVNqd5CBoDcqTYKXPiLYUg3azWBFbGNJXqMD1Lc5GM7zadWTy7NDHBD986Vo3t7h_wRqW19KK5tDJTfTnqs6HWOXD8A9cpLtwoco9SrK8tj3V1NbldBul92xLz7LpzABnh/s1600/23316430_182431562307423_3177437239612317374_n.jpg",
+        "filename": "23316430_182431562307423_3177437239612317374_n.jpg",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPjo2D8if83joVNqd5CBoDcqTYKXPiLYUg3azWBFbGNJXqMD1Lc5GM7zadWTy7NDHBD986Vo3t7h_wRqW19KK5tDJTfTnqs6HWOXD8A9cpLtwoco9SrK8tj3V1NbldBul92xLz7LpzABnh/s1600/23316430_182431562307423_3177437239612317374_n.jpg",
+          "displayedWidth": 320,
+          "displayedHeight": 240,
+          "originalWidth": 960,
+          "originalHeight": 720
+        },
+        "caption": "Vnútorná plocha hradiska, vpravo val"
+      }
+    ],
+    "tags": [
+      "Horné Plachtince - Pohanský vrch"
+    ],
+    "category": null,
+    "location": null,
+    "keyFacts": [
+      {
+        "label": "Poloha",
+        "value": "Pohanský vrch (501 m), Krupinská vrchovina"
+      },
+      {
+        "label": "Opevnenie",
+        "value": "deltoid 350–400 × 180–200 m; severný val patrí k najväčším na východe"
+      },
+      {
+        "label": "Kultúra",
+        "value": "pilínska a kyjatická; centrálne hradisko"
+      },
+      {
+        "label": "Zvláštnosť",
+        "value": "žiarové pohrebisko v južnej časti"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "eneolit",
+        "title": "Najstaršie osídlenie",
+        "description": "Nález sekeromlatu (G. Balaša)."
+      },
+      {
+        "year": "mladšia doba bronzová",
+        "title": "Kyjatická kultúra",
+        "description": "Hlavná fáza; centrálne hradisko."
+      },
+      {
+        "year": "neskôr",
+        "title": "Kelti a Slovania",
+        "description": "Využitie a oprava valov, palisády."
+      }
+    ],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Hradisko Pohanský vrch leží v Krupinskej vrchovine v katastri obce Horné Plachtince, od ktorej severného okraja je vzdialené približne 2,5 km severozápadným smerom. Rozprestiera sa v južnej časti ostrohu, vychádzajúceho z dlhého horského hrebeňa, ktorý sa tiahne od severu a z tohto smeru je preto relatívne dobre prístupný. Celý hrebeň s vrcholom v maximálnej nadmorskej výške 501 m, orientovaný v smere S-J, je značne úzky a od západu zovretý Sucharským a od východu Plachtinským potokom. Jeho prevýšenie od spomenutých potokov je výrazné. Vzdialenosť medzi oboma potokmi, ktoré sa zlievajú na južnom úpätí Pohanského vrchu v nadmorskej výške 255 m, je v priemere 1 km. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Z konfigurácie terénu vychádza aj systém opevnenia hradiska. Jeho plocha vymedzená vnútornými valmi má tvar nepravidelného deltoidu s …cca 350 – 400 × 180 – 200 m. Valy, ktoré sledujú túto konfiguráciu, resp. líniu vrstevníc, sú obzvlášť zreteľné na severnej a južnej strane hradiska, kde sú zrejme aj pôvodné vstupy. Severný val je veľmi mohutný a patrí medzi najväčšie na východnom Slovensku. Zo severnej strany, v predpolí hradiska sa nachádzajú ešte v severozápadnej časti dva podporné valy, ktoré možno priamo súvisia s hlavným opevnením areálu hradiska. Dlhšie strany hradiska nevykazujú stopy po výraznej fortifikácii, zrejme boli chránené dnes už bližšie neidentifikovateľným palisádovým systémom. Pohanský vrch predstavuje typ centrálneho hradiska, okolo ktorého boli sústredené neopevnené sídliská a osady pilínskej a kyjatickej kultúry. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VOyBPSZHwqmbOh0xRSxZZUqPGKFnRyq6vZdbbvU4qQC66w3JjA3JoE0Ud7j_8VkD6dJCq9xXLkXE8bwgLNa6D92Z2tmUUQGYdcyDIoY40ySUzHzU_fJwAy2VHppm5whyzBCy09o5vxq7/s0/Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VOyBPSZHwqmbOh0xRSxZZUqPGKFnRyq6vZdbbvU4qQC66w3JjA3JoE0Ud7j_8VkD6dJCq9xXLkXE8bwgLNa6D92Z2tmUUQGYdcyDIoY40ySUzHzU_fJwAy2VHppm5whyzBCy09o5vxq7/s1600/Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+          "filename": "Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4VOyBPSZHwqmbOh0xRSxZZUqPGKFnRyq6vZdbbvU4qQC66w3JjA3JoE0Ud7j_8VkD6dJCq9xXLkXE8bwgLNa6D92Z2tmUUQGYdcyDIoY40ySUzHzU_fJwAy2VHppm5whyzBCy09o5vxq7/s2340/Screenshot_2020-12-30-14-28-35-509_com.android.chrome.jpg",
+            "displayedWidth": null,
+            "displayedHeight": 320,
+            "originalWidth": 1080,
+            "originalHeight": 2340
+          }
+        },
+        "alt": "Horné Plachtince - Pohanský vrch",
+        "caption": "",
+        "position": "right",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "O hradisku sa zmieňuje už Eisner v roku 1933, ktorý navyše odkazuje na ešte staršiu literatúru, takže je zrejmé, že hradisko bolo známe od nepamäti. V roku 1993 bola časť hradiska poškodená absolútne bezohľadnou ťažbou dreva, pričom mechanizmy poškodili val a veľkú časť kultúrnej vrstvy hradiska. Následne tam dr. Václav Furmánek vykonal zber črepového materiálu, ktorý bol odkrytý v dôsledku narušenia hradiska. Najstaršie doložené osídlenie Pohanského vrchu je z obdobia eneolitu. Gejza Balaša uvádza nález sekeromlatu, získaného zberom bez bližších nálezových okolností. Črepy nájdené pri výskume v 90. rokoch preukázali osídlenie hradiska v mladšej dobe bronzovej (kyjatická kultúra). Ďalší črepový materiál, nájdený na hradisku tiež preukazuje jeho osídlenie Keltami a Slovanmi, ktorí zrejme využili a opravili už postavené valy z doby bronzovej a samozrejme ich konštrukciu doplnili drevenými palisádami a nadstavbami. Zaujímavým údajom je, že v južnej časti opevnenej plochy bolo zistené aj žiarové pohrebisko. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "imageRef": {
+          "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihr6hLE02Z4VoPr8tgIueLsfITCOMXsbPEqSSVqt1pIE69UYNqjVDOYn3eJsdn6TsxsOxIz7x1SsJHritlszlvwTgFTXHwj38Ah-u8OFd_1yYvFE9ALMKrqtbHouFbYFYLKJFvBapMG4F4/s0/23032926_182431428974103_2911258451096587182_n.jpg",
+          "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihr6hLE02Z4VoPr8tgIueLsfITCOMXsbPEqSSVqt1pIE69UYNqjVDOYn3eJsdn6TsxsOxIz7x1SsJHritlszlvwTgFTXHwj38Ah-u8OFd_1yYvFE9ALMKrqtbHouFbYFYLKJFvBapMG4F4/s1600/23032926_182431428974103_2911258451096587182_n.jpg",
+          "filename": "23032926_182431428974103_2911258451096587182_n.jpg",
+          "blogger": {
+            "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihr6hLE02Z4VoPr8tgIueLsfITCOMXsbPEqSSVqt1pIE69UYNqjVDOYn3eJsdn6TsxsOxIz7x1SsJHritlszlvwTgFTXHwj38Ah-u8OFd_1yYvFE9ALMKrqtbHouFbYFYLKJFvBapMG4F4/s1600/23032926_182431428974103_2911258451096587182_n.jpg",
+            "displayedWidth": 240,
+            "displayedHeight": 320,
+            "originalWidth": 720,
+            "originalHeight": 960
+          }
+        },
+        "alt": "Horné Plachtince - Pohanský vrch",
+        "caption": "",
+        "position": "left",
+        "showCaption": false,
+        "width": "40",
+        "aspectRatio": "auto",
+        "rounded": true,
+        "shadow": true
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Na hradisko vedie náučný chodník, lemovaný informačnými tabuľami, na ktorých sa síce pomaly objavuje zub času, avšak vďaka Perúnovi aj za to. V každom prípade za náučný chodník patrí Plachtinciam pochvala."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lit:"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "V. Furmánek, O. Ožďáni: Nálezy keramiky z hradiska kyjatickej kultúry v Horných Plachtinciach, AVANS 1995"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "BALAŠA, G. 1960: Praveké osídlenie stredného Slovenska. Banská Bystrica."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "http://www.pierog.org/view.php?cisloclanku=2009070003"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "https://okresvk.wordpress.com/tag/horne-plachtince/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Foto (Orgoň):"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.sources",
+        "title": "Zdroje a literatúra",
+        "intro": null,
+        "items": [
+          {
+            "text": "http://www.pierog.org/view.php?cisloclanku=2009070003",
+            "url": "http://www.pierog.org/view.php?cisloclanku=2009070003"
+          },
+          {
+            "text": "https://okresvk.wordpress.com/tag/horne-plachtince/",
+            "url": "https://okresvk.wordpress.com/tag/horne-plachtince/"
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "type": "external-url",
+        "url": "http://www.pierog.org/view.php?cisloclanku=2009070003",
+        "title": "http://www.pierog.org/view.php?cisloclanku=2009070003"
+      },
+      {
+        "type": "external-url",
+        "url": "https://okresvk.wordpress.com/tag/horne-plachtince/",
+        "title": "https://okresvk.wordpress.com/tag/horne-plachtince/"
+      },
+      {
+        "type": "attribution",
+        "text": "Foto (Orgoň):"
+      }
+    ]
+  }
+}

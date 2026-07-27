@@ -1,0 +1,29 @@
+{
+ "changes": [
+  {
+   "before": "Jednu takúto udalosť poisujú aj Fuldské anály",
+   "after": "Jednu takúto udalosť opisujú aj Fuldské anály",
+   "rule": "A8 preklep (poisujú→opisujú)"
+  },
+  {
+   "before": "pasáž okolo nemožného úniku z mesta, môže byť vymyslená",
+   "after": "pasáž okolo nemožného úniku z mesta môže byť vymyslená",
+   "rule": "A1 nadbytočná čiarka"
+  },
+  {
+   "before": "Keď kráľ videl že Rastislava nemôže pokoriť",
+   "after": "Keď kráľ videl, že Rastislava nemôže pokoriť",
+   "rule": "A1 čiarka pred že"
+  },
+  {
+   "before": "Mohlo by sa jednať práve o hradisko Devín",
+   "after": "Mohlo by ísť práve o hradisko Devín",
+   "rule": "A7 bohemizmus"
+  },
+  {
+   "before": "Jedná sa pravdepodobne o prvú takúto kresbu",
+   "after": "Ide pravdepodobne o prvú takúto kresbu",
+   "rule": "A7 bohemizmus (jedná sa o→ide o)"
+  }
+ ]
+}

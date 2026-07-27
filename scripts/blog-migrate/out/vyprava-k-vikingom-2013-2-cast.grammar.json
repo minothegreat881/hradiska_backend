@@ -1,0 +1,39 @@
+{
+ "changes": [
+  {
+   "before": "podnikla naša členka - Ľubka",
+   "after": "podnikla naša členka — Ľubka",
+   "rule": "B pomlčka"
+  },
+  {
+   "before": "veľký skanzen kde je zachytený",
+   "after": "veľký skanzen, kde je zachytený",
+   "rule": "A1 čiarka"
+  },
+  {
+   "before": "Potešilo ma, že Hamar je take významné",
+   "after": "…že Hamar je také významné",
+   "rule": "A8 dĺžeň (také)"
+  },
+  {
+   "before": "veterného mlynu nemeckého typu.Tento ma zaujme",
+   "after": "veterného mlyna nemeckého typu. Tento ma zaujme",
+   "rule": "A4 pád (mlyna) + B medzera"
+  },
+  {
+   "before": "od najstarších obydlí ,z obdobia 700 rokov pnl,až po 18.storočie",
+   "after": "od najstarších obydlí z obdobia 700 rokov pred Kr. až po 18. storočie",
+   "rule": "B medzery + pred Kr."
+  },
+  {
+   "before": "dômyselného system pre ďalšie upotrebenie",
+   "after": "dômyselného systému na ďalšie využitie",
+   "rule": "A8 systému + A7 bohemizmus (upotrebenie→využitie)"
+  },
+  {
+   "before": "peknou a čistučkou kamennom plážou",
+   "after": "peknou a čistučkou kamennou plážou",
+   "rule": "A3 zhoda (kamennou)"
+  }
+ ]
+}

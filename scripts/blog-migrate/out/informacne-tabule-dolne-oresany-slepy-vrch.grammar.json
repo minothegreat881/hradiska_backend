@@ -1,0 +1,29 @@
+{
+ "changes": [
+  {
+   "before": "V horúci júnový deň 13.6.2015 sa konala ďalšia akcia nášho Občianskeho združenia Hradiská - osadenie",
+   "after": "…13. 6. 2015 sa konala ďalšia akcia nášho Občianskeho združenia Hradiská — osadenie",
+   "rule": "B dátum + pomlčka"
+  },
+  {
+   "before": "ktorá nielen že prisľúbila financovnie oboch tabúľ",
+   "after": "ktorá nielenže prisľúbila financovanie oboch tabúľ",
+   "rule": "A8 nielenže + preklep (financovnie→financovanie)"
+  },
+  {
+   "before": "archeológ KPU Trnava pán Mgr. Matúš Sládok",
+   "after": "archeológ KPÚ Trnava pán Mgr. Matúš Sládok",
+   "rule": "A8 diakritika (KPÚ)"
+  },
+  {
+   "before": "na hradisko zabezpečil vyviezol všetok potrebný materiál",
+   "after": "na hradisko vyviezol všetok potrebný materiál",
+   "rule": "A5 zdvojené sloveso"
+  },
+  {
+   "before": "o vyvezenie Keltov v a ich výstroja",
+   "after": "o vyvezenie Keltov a ich výstroja",
+   "rule": "B artefakt (nadbytočné „v\")"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "changes": [
+  {
+   "before": "pochádza z lokality Bogit pri Zbruči (…) vzdialená 1,5 km",
+   "after": "…vzdialenej 1,5 km",
+   "rule": "A3 zhoda"
+  },
+  {
+   "before": "so šírkou strany 29 - 32 cm",
+   "after": "so šírkou strany 29 – 32 cm",
+   "rule": "B typografia (en dash)"
+  },
+  {
+   "before": "ktorý pridržiava vyššie položenej sféry",
+   "after": "ktorý pridržiava vyššie položené sféry",
+   "rule": "A4 pád (akuzatív)"
+  },
+  {
+   "before": "ako symbol slnko",
+   "after": "ako symbol slnka",
+   "rule": "A4 pád (genitív)"
+  },
+  {
+   "before": "Novgorodu.Pretože je známy",
+   "after": "Novgorodu. Pretože je známy",
+   "rule": "B medzera"
+  },
+  {
+   "before": "Rusanova - Timoščuk",
+   "after": "Rusanova-Timoščuk",
+   "rule": "B spojovník (mená)"
+  },
+  {
+   "before": "kultový charakter.Otázkou",
+   "after": "kultový charakter. Otázkou",
+   "rule": "B medzera"
+  },
+  {
+   "before": "na prevedenie a polykefalite sochy",
+   "after": "na prevedenie a polykefalitu sochy",
+   "rule": "A4 pád (akuzatív)"
+  },
+  {
+   "before": "že by sa mohlo jednať o výtvor",
+   "after": "že by mohlo ísť o výtvor",
+   "rule": "A7 bohemizmus"
+  },
+  {
+   "before": "Turkotatari vytvárali",
+   "after": "Turkotatári vytvárali",
+   "rule": "A8 dĺžeň"
+  }
+ ]
+}

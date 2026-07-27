@@ -1,0 +1,14 @@
+{
+ "changes": [
+  {
+   "before": "Nakoľko tam nie je recepcia",
+   "after": "Keďže tam nie je recepcia",
+   "rule": "A7 bohemizmus (nakoľko→keďže)"
+  },
+  {
+   "before": "možno to robilo aj kvalitné lukášove pivo",
+   "after": "možno to robilo aj kvalitné Lukášovo pivo",
+   "rule": "A9 vlastné meno + A3 zhoda (pivo s. rod)"
+  }
+ ]
+}

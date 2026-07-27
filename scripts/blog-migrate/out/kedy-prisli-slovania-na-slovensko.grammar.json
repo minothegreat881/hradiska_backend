@@ -1,0 +1,39 @@
+{
+ "changes": [
+  {
+   "before": "kde bola táto kultúra prvý krát odborne popísaná",
+   "after": "…prvýkrát odborne opísaná",
+   "rule": "A8 prvýkrát + A7 popísaná→opísaná"
+  },
+  {
+   "before": "nositeľov kultúr zo staršej dobe železnej",
+   "after": "nositeľov kultúr zo staršej doby železnej",
+   "rule": "A4 pád (genitív doby)"
+  },
+  {
+   "before": "napriek svojmu provokatívnemu názvu J )",
+   "after": "napriek svojmu provokatívnemu názvu)",
+   "rule": "B artefakt (Wingdings smajlík „J\")"
+  },
+  {
+   "before": "vpády Avarov v 7. - 8. storočí",
+   "after": "vpády Avarov v 7. – 8. storočí",
+   "rule": "B en dash"
+  },
+  {
+   "before": "či Turkov v 16. - 17. storočí a opäť maďarizácia na konci 19. storočia )",
+   "after": "…v 16. – 17. storočí a opäť maďarizácia na konci 19. storočia)",
+   "rule": "B en dash + medzera pred )"
+  },
+  {
+   "before": "Historická revue 12/2016, str. 12-20",
+   "after": "…str. 12 – 20",
+   "rule": "B en dash"
+  },
+  {
+   "before": "Historická revue 12/2016, str. 64-71)",
+   "after": "…str. 64 – 71)",
+   "rule": "B en dash"
+  }
+ ]
+}

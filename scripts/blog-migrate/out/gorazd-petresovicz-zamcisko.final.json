@@ -1,0 +1,117 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\gorazd-petresovicz-zamcisko.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-7088026718121230605",
+    "bloggerPostUrl": "http://www.hradiska.sk/2013/09/gorazd-petresovicz-zamcisko.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/7088026718121230605/comments/default",
+    "extractedAt": "2026-07-21T14:07:58.391Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 0,
+      "nonMapIframeSrcs": [],
+      "italicCaptionCount": 0,
+      "totalImages": 0,
+      "captionedImages": 0,
+      "separatorImages": 0
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroImages",
+      "zeroCitations",
+      "noLocation"
+    ]
+  },
+  "blogPost": {
+    "title": "Gorazd Petresovicz: Zámčisko",
+    "slug": "gorazd-petresovicz-zamcisko",
+    "excerpt": "Gorazd Petresovicz poskytol pre našu stránku túto skvelú poéziu - báseň o hradisku Zámčisko (pri Modre). Ďakujeme! Zámčisko nad mestom sa vypína,hora krásna visutá,a v tej hore horičke,aj Ty kráčaš si po cestičke,",
+    "authorName": "Unknown",
+    "publishedAt": "2013-09-18T12:49:00.000+02:00",
+    "originalPublishedDate": "2013-09-18T12:49:00.000+02:00",
+    "updatedAt": "2013-09-18T12:54:44.221+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Gorazd Petresovicz poskytol pre našu stránku túto skvelú poéziu - báseň o hradisku"
+              },
+              {
+                "type": "link",
+                "url": "http://www.hradiska.sk/search/label/Z%C3%A1m%C4%8Disko%20-%20Modra",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Zámčisko (pri Modre)."
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Ďakujeme!\n \n \n \n "
+              },
+              {
+                "type": "text",
+                "text": "Zámčisko",
+                "bold": true,
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "\n \nnad mestom sa vypína,\nhora krásna visutá,\na v tej hore horičke,\naj Ty kráčaš si po cestičke,",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.quote-block",
+        "text": "zrazu vítajú Ťa hradieb skaliská,tie pozostatky Zámčiska,Matka Zem ich pre nás chráni,prikrývkou pôdy tajomstvo predkov bráni,"
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "tajomstvo národa v sláve slova\nnárod, ktorý už dosť má boja,",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "\npredkovia naši zhynuli tu pred časom v boji,\ntu kde Láska k predkom, potomkov spoluprácou znovu v sile spojí\nbez zbraní a bez boja\nprácou krásu obnovia",
+                "italic": true
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "citations": []
+  }
+}

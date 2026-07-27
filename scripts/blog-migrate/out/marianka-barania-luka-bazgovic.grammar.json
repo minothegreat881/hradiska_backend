@@ -1,0 +1,13 @@
+{ "changes":[
+  {"before":"nadmorskou výškou 384,5 m n.m.","after":"nadmorskou výškou 384,5 m n. m.","rule":"B typografia"},
+  {"before":"rozmerom približne 320 x 220 metrov","after":"rozmerom približne 320 × 220 metrov","rule":"B typografia (×)"},
+  {"before":"niekdajšou bránou tzv.kliešťového tvaru","after":"niekdajšou bránou tzv. kliešťového tvaru","rule":"B typografia (medzera)"},
+  {"before":"výskum sa na hradisku konal v rokoch 1986-1990","after":"výskum sa na hradisku konal v rokoch 1986 – 1990","rule":"B typografia (en dash)"},
+  {"before":"na tzv.prechodný, velaticko - podolský horizont","after":"na tzv. prechodný, velaticko-podolský horizont","rule":"B typografia (medzera; spojovník bez medzier)"},
+  {"before":"vzácny železný nôž z prelomi doby bronzovej","after":"vzácny železný nôž z prelomu doby bronzovej","rule":"A8 preklep (prelomi→prelomu)"},
+  {"before":"Nakoľko sa v násype valu vyskytli","after":"Keďže sa v násype valu vyskytli","rule":"A7 bohemizmus"},
+  {"before":"stavebná sutina ktorú na miesto niekto","after":"stavebná sutina, ktorú na miesto niekto","rule":"A1 čiarka pred vzťažným zámenom"},
+  {"before":"Jednalo sa teda o sekundárne miesto","after":"Išlo teda o sekundárne miesto","rule":"A7 bohemizmus (jednať sa o→ísť o)"},
+  {"before":"Zloženie zo 61% medi a 38% arzénu","after":"Zloženie zo 61 % medi a 38 % arzénu","rule":"B typografia (medzera pred %)"},
+  {"before":"a to ako tvarom, atak aj zložením","after":"a to tak tvarom, ako aj zložením","rule":"A8 preklep (atak→ako; poradie)"},
+  {"before":"nejde o funkčný výrobok ale o nedokončený polotovar","after":"nejde o funkčný výrobok, ale o nedokončený polotovar","rule":"A1 čiarka pred ale"}]}

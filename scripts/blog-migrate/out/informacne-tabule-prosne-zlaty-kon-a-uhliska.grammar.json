@@ -1,0 +1,39 @@
+{
+ "changes": [
+  {
+   "before": "Dňa 5.4.2014 naše OZ Hradiská spolu s pánom Štefanom Žilovcom  zorganizovalo osadenie informačných tabúľ na  a na  Naše",
+   "after": "Dňa 5. 4. 2014 naše OZ Hradiská spolu s pánom Štefanom Žilovcom (Finančné centrum) zorganizovalo osadenie informačných tabúľ na hrádku púchovskej kultúry Zlatý kôň a na obetisku púchovskej kultúry Uhliská. Naše",
+   "rule": "B dátum + doplnené z excerptu (chýbali cieľové lokality)"
+  },
+  {
+   "before": "v neposlednom rade kelti z Havránku",
+   "after": "v neposlednom rade Kelti z Havránku",
+   "rule": "A9 etnonymum veľkým"
+  },
+  {
+   "before": "Po prvý krát naše osádzanie",
+   "after": "Po prvýkrát naše osádzanie",
+   "rule": "A8 pravopis (prvýkrát)"
+  },
+  {
+   "before": "chalani presne vedeli čo majú robiť",
+   "after": "chalani presne vedeli, čo majú robiť",
+   "rule": "A1 čiarka"
+  },
+  {
+   "before": "poslal Anton Petrovský Šichman",
+   "after": "poslal Anton Petrovský-Šichman",
+   "rule": "B spojovník (meno)"
+  },
+  {
+   "before": "Naviac nám keltský druid Brendyx porozprával ničo o tom, akým spôsobom sa v minulosti vykonávali u keltov",
+   "after": "Navyše nám keltský druid Brendyx porozprával niečo o tom, akým spôsobom sa v minulosti vykonávali u Keltov",
+   "rule": "A7 bohemizmus (naviac) + A8 preklep (ničo→niečo) + A9 Keltov"
+  },
+  {
+   "before": "cenu každej tabule vo výške 150 Eur",
+   "after": "cenu každej tabule vo výške 150 eur",
+   "rule": "A9 mena malým"
+  }
+ ]
+}

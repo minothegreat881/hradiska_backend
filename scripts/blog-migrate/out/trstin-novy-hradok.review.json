@@ -1,0 +1,8 @@
+{
+  "_agent": "grammar-sk FLAG — nahlásené, NEZMENENÉ, čaká na človeka",
+  "flags": [
+    { "type": "BIBLIO_IN_BODY", "detail": "Posledný rich-text „Lit: Matúš Sládok: Správa o archeologickom náleze, KPU Trnava, 2021\" patrí do content.sources, nie do tela." },
+    { "type": "NAME_INCONSISTENT", "detail": "Priesmyk: „Biksárskom\" (blok 7) vs „Biksárdsky/Biksárdskom\" (blok 9). Zjednotiť — pravdepodobne Biksárdsky (Biksárd = Buková). Potvrdiť." },
+    { "type": "LOCATION_MANUAL", "detail": "Článok neuvádza súradnice (žiadna mapa v zdroji). Location.name = 'Trstín – Nový hrádok', lat/lng treba doplniť ručne, alebo článok bez mapy." }
+  ]
+}

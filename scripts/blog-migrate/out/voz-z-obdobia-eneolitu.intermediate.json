@@ -1,0 +1,119 @@
+{
+  "$meta": {
+    "sourceFeed": "C:\\Users\\milan\\Desktop\\Git-Projects\\hradiska-strapi\\scripts\\blog-migrate\\data\\voz-z-obdobia-eneolitu.json",
+    "sourceLabel": null,
+    "postId": "tag:blogger.com,1999:blog-6818054921907446479.post-3388338947559936012",
+    "bloggerPostUrl": "http://www.hradiska.sk/2017/04/voz-z-obdobia-eneolitu.html",
+    "repliesLink": "http://www.hradiska.sk/feeds/3388338947559936012/comments/default",
+    "extractedAt": "2026-07-21T14:07:41.505Z",
+    "coverImageNeedsReview": true,
+    "commentCount": 0,
+    "comments": [],
+    "checks": {
+      "nativeHeadings": [],
+      "nativeHeadingCount": 0,
+      "mapIframeCount": 0,
+      "mapIframeSrcs": [],
+      "nonMapIframeCount": 1,
+      "nonMapIframeSrcs": [
+        "https://www.youtube.com/embed/rH4FHpnNuVE?feature=player_embedded"
+      ],
+      "italicCaptionCount": 0,
+      "totalImages": 1,
+      "captionedImages": 0,
+      "separatorImages": 1
+    },
+    "poemCount": 0,
+    "poemSingleFlags": [],
+    "sanityFlags": [
+      "zeroCitations",
+      "noLocation",
+      "hasNonMapIframes"
+    ]
+  },
+  "blogPost": {
+    "title": "Voz z obdobia eneolitu",
+    "slug": "voz-z-obdobia-eneolitu",
+    "excerpt": "Dwarf digital archeology v spolupráci s Nikollou Hamašovou sa pokúsili o rekonštrukciu možného vzhľadu voza z obdobia badenskej kultúry (3500-2800/2600 pred Kr. - eneolit) na základe prepojenia originálnych dokladov a hlinených modelov vozíkov,…",
+    "authorName": "Orgon",
+    "publishedAt": "2017-04-23T10:23:00.002+02:00",
+    "originalPublishedDate": "2017-04-23T10:23:00.002+02:00",
+    "updatedAt": "2017-04-23T10:23:15.513+02:00",
+    "readingTime": 1,
+    "featured": false,
+    "coverImage": null,
+    "gallery": [
+      {
+        "sourceUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilCvba6Dr19_uuIrbeXmcScpDv7joGev50_uSCXSPOm5lzXyM-D4p4nfr371a2oqyhUbLjXbRqpFW4dPixObp4RmDSfgw5QPTCCVV3jXCGqEaVZf4kxRtfOU6PWY8JPALCo5Ah0lFedBs/s0/Sni%25CC%2581mka+obrazovky+2017-04-23+o%25C2%25A010.16.47.png",
+        "fallbackUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilCvba6Dr19_uuIrbeXmcScpDv7joGev50_uSCXSPOm5lzXyM-D4p4nfr371a2oqyhUbLjXbRqpFW4dPixObp4RmDSfgw5QPTCCVV3jXCGqEaVZf4kxRtfOU6PWY8JPALCo5Ah0lFedBs/s1600/Sni%25CC%2581mka+obrazovky+2017-04-23+o%25C2%25A010.16.47.png",
+        "filename": "Sni%CC%81mka+obrazovky+2017-04-23+o%C2%A010.16.47.png",
+        "blogger": {
+          "anchorHref": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilCvba6Dr19_uuIrbeXmcScpDv7joGev50_uSCXSPOm5lzXyM-D4p4nfr371a2oqyhUbLjXbRqpFW4dPixObp4RmDSfgw5QPTCCVV3jXCGqEaVZf4kxRtfOU6PWY8JPALCo5Ah0lFedBs/s1600/Sni%25CC%2581mka+obrazovky+2017-04-23+o%25C2%25A010.16.47.png",
+          "displayedWidth": 320,
+          "displayedHeight": 180,
+          "originalWidth": null,
+          "originalHeight": null
+        },
+        "caption": null
+      }
+    ],
+    "tags": [],
+    "category": null,
+    "location": null,
+    "keyFacts": [],
+    "timeline": [],
+    "quotes": [],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dwarf digital archeology v spolupráci s "
+              },
+              {
+                "type": "link",
+                "url": "https://www.facebook.com/nikollh1",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Nikollou Hamašovou"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " sa pokúsili o rekonštrukciu možného vzhľadu voza z obdobia badenskej kultúry (3500-2800/2600 pred Kr. - eneolit) na základe prepojenia originálnych dokladov a hlinených modelov vozíkov, ktoré pochádzajú z tohto obdobia. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Badenská kultúra bola rozšírená aj na Slovensku a jej nositelia sa považujú na našom území aj za prvých budovateľov hradísk..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "rH4FHpnNuVE",
+        "url": "https://www.youtube.com/embed/rH4FHpnNuVE",
+        "caption": ""
+      }
+    ],
+    "citations": []
+  }
+}

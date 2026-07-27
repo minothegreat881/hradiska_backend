@@ -1,0 +1,34 @@
+{
+ "changes": [
+  {
+   "before": "možno sa v budúcnosti najde aj vydavateľ",
+   "after": "možno sa v budúcnosti nájde aj vydavateľ",
+   "rule": "A8 diakritika"
+  },
+  {
+   "before": "udalosť ktorá je jadrom príbehu",
+   "after": "udalosť, ktorá je jadrom príbehu",
+   "rule": "A1 čiarka"
+  },
+  {
+   "before": "Písali sa nielen donačne listiny v kráľovskej kancelárrii",
+   "after": "Písali sa nielen donačné listiny v kráľovskej kancelárii",
+   "rule": "A3 zhoda + A8 preklep (kancelárrii→kancelárii)"
+  },
+  {
+   "before": "a jedná z nich, tzv. Uhorsko-poľská kronika",
+   "after": "a jedna z nich, tzv. Uhorsko-poľská kronika",
+   "rule": "A8 dĺžeň (jedna)"
+  },
+  {
+   "before": "lebo bola až priveľmi bolestivá.Ale nielen vtedajšie Uhorsko",
+   "after": "…až priveľmi bolestivá. Ale nielen vtedajšie Uhorsko",
+   "rule": "B typografia (medzera)"
+  },
+  {
+   "before": "sú jediným skutočne historickým článkom, „Vpády Mongolov na Slovensko v roku 1241\" od Františka Uličného uverejnenie",
+   "after": "…od Františka Uličného uverejnený",
+   "rule": "A3 zhoda (uverejnený)"
+  }
+ ]
+}

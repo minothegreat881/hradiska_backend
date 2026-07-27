@@ -1,0 +1,29 @@
+{
+ "changes": [
+  {
+   "before": "zorganizovalo  spolu s MO Matice Slovenskej",
+   "after": "zorganizovalo Občianske združenie Hradiská spolu s MO Matice slovenskej",
+   "rule": "B dvojitá medzera + doplnený podmet z excerptu; „Matice slovenskej\" malé s"
+  },
+  {
+   "before": "oddychoej zóny",
+   "after": "oddychovej zóny",
+   "rule": "A8 preklep"
+  },
+  {
+   "before": "žili naši slovanskí predkovia sa môže dozvedieť",
+   "after": "žili naši slovanskí predkovia, sa môže dozvedieť",
+   "rule": "A1 uzavretie vloženej vety"
+  },
+  {
+   "before": "Pokrstili sme ju symbolicky - vínom",
+   "after": "Pokrstili sme ju symbolicky — vínom",
+   "rule": "B pomlčka"
+  },
+  {
+   "before": "chceli umiestniť na hradiku Pružina",
+   "after": "chceli umiestniť na hradisku Pružina",
+   "rule": "A8 preklep (hradiku→hradisku)"
+  }
+ ]
+}

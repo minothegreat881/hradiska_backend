@@ -1,0 +1,17 @@
+{
+  "_agent": "grammar-sk v7 — vetná korektúra + typografia + cross-field, chránené zóny",
+  "changes": [
+    { "before": "Krátko na to sme sa na toto miesto", "after": "Krátko nato sme sa na toto miesto", "rule": "A8 pravopis (nato = potom)" },
+    { "before": "s použitím detektoru kovov", "after": "s použitím detektora kovov", "rule": "A4 pád (genitív neživ. m.r. -a)" },
+    { "before": "ohlásili na KPU Trnava", "after": "ohlásili na KPÚ Trnava", "rule": "A8 diakritika (KPÚ) — cross-field všade" },
+    { "before": "je črepy obtiažne datovať", "after": "je črepy ťažké datovať", "rule": "A7 bohemizmus (obtiažne→ťažké)" },
+    { "before": "Ďaľšou zaujímavou mincou", "after": "Ďalšou zaujímavou mincou", "rule": "A8 pravopis (ľ→l)" },
+    { "before": "olovených striel ktoré sa podľa tvaru", "after": "olovených striel, ktoré sa podľa tvaru", "rule": "A1 čiarka pred vzťažným zámenom" },
+    { "before": "ako nepotrebný odpad ukázali ako dôležité", "after": "ako nepotrebný odpad, ukázali ako dôležité", "rule": "A1 uzavretie vloženej vety" },
+    { "before": "bitky z pred niekoľkých storočí", "after": "bitky spred niekoľkých storočí", "rule": "A8 pravopis (spred)" },
+    { "before": "nakoľko sa kvôli efektivite používalo", "after": "keďže sa kvôli efektivite používalo", "rule": "A7 bohemizmus (nakoľko→keďže)" },
+    { "before": "samotné valové opevnenie sa nepodarilo", "after": "samotné valové opevnenie, sa nepodarilo", "rule": "A1 uzavretie vloženej vety (kedy…)" },
+    { "before": "nakoľko pre fortifikácie v tomto období", "after": "keďže pre fortifikácie v tomto období", "rule": "A7 bohemizmus (nakoľko→keďže)" },
+    { "before": "300-400 až takmer 4 000 padlých", "after": "300 – 400 až takmer 4 000 padlých", "rule": "B typografia (en dash rozsah)" }
+  ]
+}
