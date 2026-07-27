@@ -89,6 +89,9 @@ export default {
     // Staff-only: správa používateľov (find/update/destroy) — LEN rola Authenticated
     await setupStaffUserPermissions(strapi);
 
+    // Po potvrdení e-mailu presmeruj používateľa na frontend (nie na backend IP)
+    await setupAuthRedirects(strapi);
+
     // Seed sample aktuality (only on first run, if collection is empty)
     await seedAktuality(strapi);
   },
@@ -346,4 +349,27 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
     }
   }
   console.log('🛡️  Staff user-management permissions configured');
+}
+
+/**
+ * Po potvrdení e-mailu (a resete hesla) presmeruje používateľa na FRONTEND,
+ * nie na backend IP. Bez toho users-permissions po potvrdení skončí na server.url.
+ * Idempotentné: nastaví len ak sa líši.
+ */
+async function setupAuthRedirects(strapi: Core.Strapi) {
+  const frontend = process.env.FRONTEND_URL || 'https://webdesignforhradiskask.vercel.app';
+  const store = strapi.store({ type: 'plugin', name: 'users-permissions' });
+  const advanced: any = await store.get({ key: 'advanced' });
+  if (!advanced) {
+    console.log('⚠️ users-permissions advanced settings nenájdené, preskakujem redirect');
+    return;
+  }
+  const desired = `${frontend}/prihlasenie?potvrdene=1`;
+  if (advanced.email_confirmation_redirection !== desired) {
+    advanced.email_confirmation_redirection = desired;
+    await store.set({ key: 'advanced', value: advanced });
+    console.log(`  ✓ email_confirmation_redirection = ${desired}`);
+  } else {
+    console.log('  ↷ email_confirmation_redirection už nastavené');
+  }
 }
