@@ -30,6 +30,36 @@ export default ({ env }) => ({
   secrets: {
     encryptionKey: env('ENCRYPTION_KEY'),
   },
+  // Obnova hesla správcu Strapi panela (/admin → „Zabudnuté heslo?").
+  // Strapi posiela ODKAZ na nastavenie hesla, nikdy samotné heslo — odkaz vedie
+  // na `admin.absoluteUrl` + /auth/reset-password?code=…, čiže lokálne na
+  // localhost:1337, na serveri na PUBLIC_URL. Bez tejto sekcie by šla anglická
+  // predvolená šablóna Strapi; `from` inak spadne na EMAIL_FROM z plugins.ts.
+  //
+  // POZOR: adresa účtu musí byť skutočná schránka — inak odkaz nemá kam prísť.
+  // Adresu si každý správca nastaví sám v paneli (vpravo hore → Profile → Email).
+  forgotPassword: {
+    from: env('EMAIL_FROM', 'milanhrabkovsky@gmail.com'),
+    replyTo: env('EMAIL_REPLY_TO', 'milanhrabkovsky@gmail.com'),
+    emailTemplate: {
+      subject: 'Obnova hesla — správa Hradiska.sk',
+      text: `Dobrý deň,
+
+požiadali ste o obnovu hesla k správcovskému účtu Hradiska.sk.
+
+Nové heslo si nastavíte na tomto odkaze:
+<%= url %>
+
+Ak ste o obnovu nežiadali, tento e-mail ignorujte — heslo zostáva nezmenené.
+
+— OZ Hradiská`,
+      html: `<p>Dobrý deň,</p>
+<p>požiadali ste o obnovu hesla k <strong>správcovskému účtu</strong> Hradiska.sk.</p>
+<p><a href="<%= url %>">Nastaviť nové heslo</a></p>
+<p>Ak ste o obnovu nežiadali, tento e-mail ignorujte — heslo zostáva nezmenené.</p>
+<p>— OZ Hradiská</p>`,
+    },
+  },
   flags: {
     nps: env.bool('FLAG_NPS', true),
     promoteEE: env.bool('FLAG_PROMOTE_EE', true),

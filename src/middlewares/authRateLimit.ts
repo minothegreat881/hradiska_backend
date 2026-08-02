@@ -14,6 +14,8 @@ type Bucket = { max: number; windowMs: number };
 // Limity per skupina auth-ciest (počet POST pokusov / okno).
 const RULES: Array<{ test: RegExp; bucket: Bucket }> = [
   { test: /\/api\/auth\/forgot-password$/, bucket: { max: 5, windowMs: 15 * 60_000 } },
+  // „Zabudli ste heslo?" v admine — posiela e-mail, takže prísnejší strop.
+  { test: /\/api\/account\/forgot-password$/, bucket: { max: 5, windowMs: 15 * 60_000 } },
   { test: /\/api\/auth\/reset-password$/, bucket: { max: 10, windowMs: 15 * 60_000 } },
   { test: /\/api\/auth\/local\/register$/, bucket: { max: 10, windowMs: 60 * 60_000 } },
   { test: /\/api\/auth\/(local|email-confirmation|send-email-confirmation)$/, bucket: { max: 15, windowMs: 15 * 60_000 } },
