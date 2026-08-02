@@ -59,12 +59,17 @@ export default (_config: unknown, { strapi }: { strapi: any }) => {
       const retryAfter = Math.ceil((e.resetAt - now) / 1000);
       ctx.set('Retry-After', String(retryAfter));
       strapi?.log?.warn?.(`[authRateLimit] blokované ${ip} na ${path} (prekročený limit ${rule.bucket.max})`);
+      // Do hlášky patrí aj čas — bez neho človek háda, či je chyba v hesle
+      // alebo v limite, a skúša dokola (čím si okno len predlžuje).
+      const wait = retryAfter >= 60
+        ? `${Math.ceil(retryAfter / 60)} min`
+        : `${retryAfter} s`;
       ctx.status = 429;
       ctx.body = {
         error: {
           status: 429,
           name: 'TooManyRequests',
-          message: 'Priveľa pokusov. Skúste to prosím neskôr.',
+          message: `Priveľa pokusov. Skúste to znova o ${wait}.`,
         },
       };
       return;
