@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "domovska_galeria",
+  "info": {
+    "singularName": "domovska-galeria",
+    "pluralName": "domovska-galerie",
+    "displayName": "Domovská galéria",
+    "description": "Fotky do sekcie „Vybraná fotogaléria\" na domovskej stránke. Poradie v zozname = poradie dlaždíc; prvá je veľká (2×2). Kým je prázdna, frontend si fotky vyberie sám z galérií článkov v kategórii `aktuality`."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "fotky": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

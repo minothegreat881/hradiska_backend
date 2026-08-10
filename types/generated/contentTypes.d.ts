@@ -712,6 +712,36 @@ export interface ApiBlogTagBlogTag extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiDomovskaGaleriaDomovskaGaleria
+  extends Struct.SingleTypeSchema {
+  collectionName: 'domovska_galeria';
+  info: {
+    description: 'Fotky do sekcie \u201EVybran\u00E1 fotogal\u00E9ria" na domovskej str\u00E1nke. Poradie v zozname = poradie dla\u017Ed\u00EDc; prv\u00E1 je ve\u013Ek\u00E1 (2\u00D72). K\u00FDm je pr\u00E1zdna, frontend si fotky vyberie s\u00E1m z gal\u00E9ri\u00ED \u010Dl\u00E1nkov v kateg\u00F3rii `aktuality`.';
+    displayName: 'Domovsk\u00E1 gal\u00E9ria';
+    pluralName: 'domovska-galerie';
+    singularName: 'domovska-galeria';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    fotky: Schema.Attribute.Media<'images', true>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::domovska-galeria.domovska-galeria'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiModerationWarningModerationWarning
   extends Struct.CollectionTypeSchema {
   collectionName: 'moderation_warnings';
@@ -798,12 +828,17 @@ export interface ApiNotificationNotification
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    fileId: Schema.Attribute.Integer;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
       'api::notification.notification'
     > &
       Schema.Attribute.Private;
+    photoComment: Schema.Attribute.Relation<
+      'manyToOne',
+      'api::photo-comment.photo-comment'
+    >;
     post: Schema.Attribute.Relation<'manyToOne', 'api::blog-post.blog-post'>;
     publishedAt: Schema.Attribute.DateTime;
     read: Schema.Attribute.Boolean &
@@ -852,6 +887,7 @@ export interface ApiPhotoCommentPhotoComment
       Schema.Attribute.SetMinMaxLength<{
         maxLength: 200;
       }>;
+    likes: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
@@ -1531,6 +1567,7 @@ declare module '@strapi/strapi' {
       'api::blog-comment.blog-comment': ApiBlogCommentBlogComment;
       'api::blog-post.blog-post': ApiBlogPostBlogPost;
       'api::blog-tag.blog-tag': ApiBlogTagBlogTag;
+      'api::domovska-galeria.domovska-galeria': ApiDomovskaGaleriaDomovskaGaleria;
       'api::moderation-warning.moderation-warning': ApiModerationWarningModerationWarning;
       'api::notification.notification': ApiNotificationNotification;
       'api::photo-comment.photo-comment': ApiPhotoCommentPhotoComment;

@@ -229,6 +229,9 @@ async function setupPublicPermissions(strapi: Core.Strapi) {
     // Aktuality
     { action: 'api::aktualita.aktualita.find' },
     { action: 'api::aktualita.aktualita.findOne' },
+    // Domovská galéria (single type) — kurátorské fotky do sekcie
+    // „Vybraná fotogaléria" na domovskej stránke. Len čítanie.
+    { action: 'api::domovska-galeria.domovska-galeria.find' },
     // Blog comments: návštevník vie POST nový komentár + GET schválené (admin moderation cez controller)
     { action: 'api::blog-comment.blog-comment.create' },
     { action: 'api::blog-comment.blog-comment.find' },
