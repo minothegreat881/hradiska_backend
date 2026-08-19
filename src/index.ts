@@ -374,24 +374,95 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
 }
 
 /**
- * Po potvrdení e-mailu (a resete hesla) presmeruje používateľa na FRONTEND,
- * nie na backend IP. Bez toho users-permissions po potvrdení skončí na server.url.
- * Idempotentné: nastaví len ak sa líši.
+ * Adresy, ktoré chodia používateľovi do e-mailu, musia ukazovať na FRONTEND,
+ * nie na backend IP a už vôbec nie na localhost.
+ *
+ * Obe hodnoty žijú v databáze (plugin store), nie v konfiguračnom súbore —
+ * dajú sa preklikať v admine a raz nastavená vývojová adresa tam potom ostane
+ * aj na produkcii. Presne to sa stalo odkazu na obnovu hesla: v e-maile chodil
+ * `http://localhost:3000`. Bootstrap ich preto zakaždým zrovná podľa
+ * `FRONTEND_URL`.
+ *
+ * Idempotentné: zapisuje len to, čo sa naozaj líši.
  */
 async function setupAuthRedirects(strapi: Core.Strapi) {
-  const frontend = process.env.FRONTEND_URL || 'https://webdesignforhradiskask.vercel.app';
+  const frontend = (process.env.FRONTEND_URL || 'https://webdesignforhradiskask.vercel.app').replace(/\/$/, '');
   const store = strapi.store({ type: 'plugin', name: 'users-permissions' });
+
   const advanced: any = await store.get({ key: 'advanced' });
   if (!advanced) {
-    console.log('⚠️ users-permissions advanced settings nenájdené, preskakujem redirect');
+    console.log('⚠️ users-permissions advanced settings nenájdené, preskakujem adresy');
     return;
   }
-  const desired = `${frontend}/prihlasenie?potvrdene=1`;
-  if (advanced.email_confirmation_redirection !== desired) {
-    advanced.email_confirmation_redirection = desired;
-    await store.set({ key: 'advanced', value: advanced });
-    console.log(`  ✓ email_confirmation_redirection = ${desired}`);
-  } else {
-    console.log('  ↷ email_confirmation_redirection už nastavené');
+
+  // Kam skončí človek po kliknutí na potvrdenie registrácie.
+  const potvrdenie = `${frontend}/prihlasenie?potvrdene=1`;
+  // Základ odkazu na obnovu hesla; šablóna k nemu pripája `?code=<token>`.
+  // Túto hodnotu berie users-permissions ako `URL` (controllers/auth.js).
+  const obnova = `${frontend}/reset-hesla`;
+
+  let zmenene = false;
+  if (advanced.email_confirmation_redirection !== potvrdenie) {
+    advanced.email_confirmation_redirection = potvrdenie;
+    console.log(`  ✓ email_confirmation_redirection = ${potvrdenie}`);
+    zmenene = true;
   }
+  if (advanced.email_reset_password !== obnova) {
+    console.log(`  ✓ email_reset_password = ${obnova} (bolo: ${advanced.email_reset_password ?? 'nenastavené'})`);
+    advanced.email_reset_password = obnova;
+    zmenene = true;
+  }
+  if (zmenene) await store.set({ key: 'advanced', value: advanced });
+  else console.log('  ↷ adresy v e-mailoch už sedia');
+
+  await opravAdresyVSablonach(strapi, frontend);
+}
+
+/**
+ * Šablóny e-mailov sa dajú prepísať v admine — a presne tam vznikla chyba
+ * s obnovou hesla. V texte šablóny bol odkaz napísaný NATVRDO:
+ *
+ *   <a href="http://localhost:3000/reset-hesla?code=<%= TOKEN %>">
+ *
+ * Nastavenie `email_reset_password` sa tým obišlo, lebo `<%= URL %>` sa
+ * v šablóne vôbec nevyskytovalo. Opraviť samotné nastavenie by teda nestačilo.
+ *
+ * Odkaz sa preto vracia späť na `<%= URL %>`. Šablóna tak prestane vedieť
+ * o doméne a pri prechode na hradiska.sk sa nebude musieť prepisovať —
+ * stačí `FRONTEND_URL`.
+ */
+async function opravAdresyVSablonach(strapi: Core.Strapi, frontend: string) {
+  const store = strapi.store({ type: 'plugin', name: 'users-permissions' });
+  const email: any = await store.get({ key: 'email' });
+  if (!email) return;
+
+  let zmenene = false;
+
+  const sprava = email.reset_password?.options?.message;
+  if (typeof sprava === 'string') {
+    // Celý odkaz vrátane cesty — `URL` už `/reset-hesla` obsahuje, inak by
+    // sa cesta zdvojila.
+    const opravena = sprava.replace(/https?:\/\/[^"'<>\s]*?\/reset-hesla/g, '<%= URL %>');
+    if (opravena !== sprava) {
+      email.reset_password.options.message = opravena;
+      console.log('  ✓ šablóna „reset_password": natvrdo napísaný odkaz nahradený za <%= URL %>');
+      zmenene = true;
+    }
+  }
+
+  /* Poistka na zvyšok: akákoľvek vývojová adresa v ktorejkoľvek šablóne.
+     Bez `test()` zámerne — výraz s `g` si pamätá poslednú pozíciu, takže
+     druhé volanie na ďalšej šablóne by ju preskočilo. Porovnáva sa výsledok. */
+  const miestna = /https?:\/\/(localhost|127\.0\.0\.1)(:\d+)?/g;
+  for (const kluc of Object.keys(email)) {
+    const text = email[kluc]?.options?.message;
+    if (typeof text !== 'string') continue;
+    const opravena = text.replace(miestna, frontend);
+    if (opravena === text) continue;
+    email[kluc].options.message = opravena;
+    console.log(`  ✓ šablóna „${kluc}": vývojová adresa nahradená za ${frontend}`);
+    zmenene = true;
+  }
+
+  if (zmenene) await store.set({ key: 'email', value: email });
 }
