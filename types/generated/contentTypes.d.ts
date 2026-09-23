@@ -913,6 +913,77 @@ export interface ApiPhotoCommentPhotoComment
   };
 }
 
+export interface ApiPripomienkaPripomienka extends Struct.CollectionTypeSchema {
+  collectionName: 'pripomienky';
+  info: {
+    description: 'Pozn\u00E1mka redaktora pripnut\u00E1 na konkr\u00E9tny prvok str\u00E1nky (chyba webu alebo pozn\u00E1mka k obsahu).';
+    displayName: 'Pripomienka';
+    pluralName: 'pripomienky';
+    singularName: 'pripomienka';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    druh: Schema.Attribute.Enumeration<['chyba', 'obsah']> &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'chyba'>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::pripomienka.pripomienka'
+    > &
+      Schema.Attribute.Private;
+    nadpisStranky: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 255;
+      }>;
+    otisokTextu: Schema.Attribute.Text &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
+    popisPrvku: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 255;
+      }>;
+    publishedAt: Schema.Attribute.DateTime;
+    selektor: Schema.Attribute.Text &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 1000;
+      }>;
+    sirkaOkna: Schema.Attribute.Integer;
+    stav: Schema.Attribute.Enumeration<
+      ['nova', 'riesi-sa', 'hotova', 'zamietnuta']
+    > &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'nova'>;
+    text: Schema.Attribute.Text &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 2000;
+      }>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    url: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
+    user: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
+    x: Schema.Attribute.Float;
+    y: Schema.Attribute.Float;
+    zariadenie: Schema.Attribute.Enumeration<['pocitac', 'mobil']> &
+      Schema.Attribute.DefaultTo<'pocitac'>;
+  };
+}
+
 export interface ApiPushSubscriptionPushSubscription
   extends Struct.CollectionTypeSchema {
   collectionName: 'push_subscriptions';
@@ -1576,6 +1647,7 @@ declare module '@strapi/strapi' {
       'api::moderation-warning.moderation-warning': ApiModerationWarningModerationWarning;
       'api::notification.notification': ApiNotificationNotification;
       'api::photo-comment.photo-comment': ApiPhotoCommentPhotoComment;
+      'api::pripomienka.pripomienka': ApiPripomienkaPripomienka;
       'api::push-subscription.push-subscription': ApiPushSubscriptionPushSubscription;
       'api::reaction.reaction': ApiReactionReaction;
       'api::share.share': ApiShareShare;
