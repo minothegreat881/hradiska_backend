@@ -364,6 +364,14 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
     'api::blog-category.blog-category.delete',
     'api::blog-tag.blog-tag.update',
     'api::blog-tag.blog-tag.delete',
+    // Pripomienky — poznámky pripnuté na prvok stránky (nástroj na webe, 09/2026).
+    // Celé je to iba pre redakciu: verejná ani členská rola na ne nemá NIČ,
+    // takže čitateľ ich ani nevidí. Controller si staff overuje ešte raz sám.
+    'api::pripomienka.pripomienka.find',
+    'api::pripomienka.pripomienka.findOne',
+    'api::pripomienka.pripomienka.create',
+    'api::pripomienka.pripomienka.update',
+    'api::pripomienka.pripomienka.delete',
   ];
 
   for (const action of actions) {

@@ -1,0 +1,72 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pripomienky",
+  "info": {
+    "singularName": "pripomienka",
+    "pluralName": "pripomienky",
+    "displayName": "Pripomienka",
+    "description": "Poznámka redaktora pripnutá na konkrétny prvok stránky (chyba webu alebo poznámka k obsahu)."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "text": {
+      "type": "text",
+      "required": true,
+      "maxLength": 2000
+    },
+    "druh": {
+      "type": "enumeration",
+      "enum": ["chyba", "obsah"],
+      "default": "chyba",
+      "required": true
+    },
+    "stav": {
+      "type": "enumeration",
+      "enum": ["nova", "riesi-sa", "hotova", "zamietnuta"],
+      "default": "nova",
+      "required": true
+    },
+    "url": {
+      "type": "string",
+      "required": true,
+      "maxLength": 500
+    },
+    "nadpisStranky": {
+      "type": "string",
+      "maxLength": 255
+    },
+    "selektor": {
+      "type": "text",
+      "maxLength": 1000
+    },
+    "popisPrvku": {
+      "type": "string",
+      "maxLength": 255
+    },
+    "otisokTextu": {
+      "type": "text",
+      "maxLength": 500
+    },
+    "x": {
+      "type": "float"
+    },
+    "y": {
+      "type": "float"
+    },
+    "sirkaOkna": {
+      "type": "integer"
+    },
+    "zariadenie": {
+      "type": "enumeration",
+      "enum": ["pocitac", "mobil"],
+      "default": "pocitac"
+    },
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    }
+  }
+}
