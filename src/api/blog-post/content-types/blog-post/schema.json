@@ -34,6 +34,11 @@
         "images"
       ]
     },
+    "coverPosition": {
+      "type": "string",
+      "default": "center center",
+      "maxLength": 50
+    },
     "gallery": {
       "type": "media",
       "multiple": true,
