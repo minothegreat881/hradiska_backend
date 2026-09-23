@@ -357,6 +357,13 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
     'api::photo-comment.photo-comment.find',
     'api::photo-comment.photo-comment.update',
     'api::photo-comment.photo-comment.delete',
+    // Správa kategórií a štítkov v admine (obrazovky pribudli 09/2026).
+    // Verejná rola má na oboje iba čítanie, zápis smie len staff.
+    'api::blog-category.blog-category.create',
+    'api::blog-category.blog-category.update',
+    'api::blog-category.blog-category.delete',
+    'api::blog-tag.blog-tag.update',
+    'api::blog-tag.blog-tag.delete',
   ];
 
   for (const action of actions) {
@@ -370,7 +377,7 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
       console.log(`  ✓ staff: ${action}`);
     }
   }
-  console.log('🛡️  Staff user-management + photo-comment moderation permissions configured');
+  console.log('🛡️  Staff: používatelia, moderácia fotiek, kategórie a štítky');
 }
 
 /**
