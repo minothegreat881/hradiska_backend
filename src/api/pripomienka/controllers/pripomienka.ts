@@ -1,44 +1,73 @@
 import { factories } from '@strapi/strapi';
 
 /**
- * PRIPOMIENKY — poznámky redaktora pripnuté na konkrétny prvok stránky.
+ * PRIPOMIENKY — poznámky pripnuté na konkrétny prvok stránky.
  *
  * Slúžia na dve veci naraz: nahlásenie chyby webu (`druh: 'chyba'`) a
  * redakčnú poznámku k obsahu (`druh: 'obsah'`). Vznikajú kliknutím priamo
  * na webe, čítajú sa v administrácii.
  *
- * Bezpečnosť — celé je to IBA PRE STAFF:
- *   - práva má len rola `authenticated` (viď `setupStaffUserPermissions`
- *     v src/index.ts), ale kontrola je aj tu v každej akcii; čitateľ s rolou
- *     Member nesmie pripomienky ani čítať, nieto písať,
- *   - `user` a `stav` pri vytvorení určuje SERVER, nie klient,
- *   - 20 zápisov za minútu na účet, nech sa preklikom nezaplní databáza.
+ * KTO ČO SMIE
+ *   • písať a čítať — KTOKOĽVEK, aj neprihlásený. Web je zatiaľ technický,
+ *     verejnosť naň nechodí a testeri naň dostávajú odkaz; keby sa to malo
+ *     zmeniť, stačí z `setupPublicPermissions` v src/index.ts odobrať
+ *     `create`/`find` a zvyšok kódu ostáva.
+ *   • meniť stav a mazať — LEN REDAKCIA (rola `authenticated`).
+ *
+ * ČO URČUJE SERVER, NIE KLIENT
+ *   `stav` je pri vytvorení vždy `nova`, `user` sa berie z tokenu (neprihlásený
+ *   ostane bez autora) a `zariadenie` sa dopočíta zo šírky okna.
+ *
+ * OBMEDZENIE RÝCHLOSTI
+ *   prihlásený 20/min na účet, neprihlásený 10/min na IP. Pamäť je v procese —
+ *   po reštarte sa zabudne, čo pri tomto použití stačí (rovnaký prístup ako
+ *   `src/middlewares/authRateLimit.ts`).
  */
 const isStaff = (user: any) => user?.role?.type === 'authenticated';
 
 const LEN = { text: 2000, url: 500, nadpis: 255, selektor: 1000, popis: 255, otisok: 500 };
 const orez = (v: any, max: number) => (typeof v === 'string' ? v.slice(0, max) : undefined);
 
+/** Počítadlo zápisov podľa IP pre neprihlásených. */
+const hostia = new Map<string, number[]>();
+const hostPrekrocil = (ip: string, limit = 10) => {
+  const teraz = Date.now();
+  const cerstve = (hostia.get(ip) ?? []).filter((t) => teraz - t < 60_000);
+  cerstve.push(teraz);
+  hostia.set(ip, cerstve);
+  if (hostia.size > 500) hostia.clear();   // jednoduchá poistka proti rastu
+  return cerstve.length > limit;
+};
+
 export default factories.createCoreController('api::pripomienka.pripomienka', ({ strapi }) => ({
   async find(ctx) {
-    if (!isStaff(ctx.state?.user)) return ctx.forbidden('Pripomienky vidí len redakcia.');
+    /* Neprihlásený nesmie ťahať, čo si zmyslí: `populate` sa mu prepíše na
+       prezývku autora, aby sa cez reláciu nedal vytiahnuť e-mail účtu. */
+    if (!isStaff(ctx.state?.user)) {
+      ctx.query = { ...ctx.query, populate: { user: { fields: ['username'] } } } as any;
+    }
     return super.find(ctx);
   },
 
   async findOne(ctx) {
-    if (!isStaff(ctx.state?.user)) return ctx.forbidden('Pripomienky vidí len redakcia.');
+    if (!isStaff(ctx.state?.user)) {
+      ctx.query = { ...ctx.query, populate: { user: { fields: ['username'] } } } as any;
+    }
     return super.findOne(ctx);
   },
 
   async create(ctx) {
     const user = ctx.state?.user;
-    if (!isStaff(user)) return ctx.forbidden('Pripomienky píše len redakcia.');
 
-    const minuteAgo = new Date(Date.now() - 60_000).toISOString();
-    const recent = await strapi.documents('api::pripomienka.pripomienka').count({
-      filters: { user: { id: user.id }, createdAt: { $gt: minuteAgo } } as any,
-    });
-    if (recent >= 20) return ctx.tooManyRequests('Priveľa pripomienok za krátky čas. Skúste o chvíľu.');
+    if (user) {
+      const minuteAgo = new Date(Date.now() - 60_000).toISOString();
+      const recent = await strapi.documents('api::pripomienka.pripomienka').count({
+        filters: { user: { id: user.id }, createdAt: { $gt: minuteAgo } } as any,
+      });
+      if (recent >= 20) return ctx.tooManyRequests('Priveľa pripomienok za krátky čas. Skúste o chvíľu.');
+    } else if (hostPrekrocil(ctx.request.ip || 'neznama')) {
+      return ctx.tooManyRequests('Priveľa pripomienok za krátky čas. Skúste o chvíľu.');
+    }
 
     const body = ctx.request.body?.data ?? {};
     if (!String(body.text || '').trim()) return ctx.badRequest('Pripomienka nemá text.');
@@ -63,17 +92,16 @@ export default factories.createCoreController('api::pripomienka.pripomienka', ({
         sirkaOkna: sirka,
         // Zariadenie sa neberie od klienta — dopočíta sa zo šírky okna.
         zariadenie: sirka && sirka < 768 ? 'mobil' : 'pocitac',
-        user: user.id,
+        user: user ? user.id : null,
       } as any,
-      populate: { user: { fields: ['id', 'username', 'email'] } } as any,
+      populate: { user: { fields: ['username'] } } as any,
     });
 
     ctx.body = { data: created };
   },
 
   async update(ctx) {
-    const user = ctx.state?.user;
-    if (!isStaff(user)) return ctx.forbidden('Pripomienky mení len redakcia.');
+    if (!isStaff(ctx.state?.user)) return ctx.forbidden('Stav pripomienky mení len redakcia.');
 
     // Meniť sa smie stav, druh a text — nič iné (kotva na prvok ostáva, ako bola).
     const body = ctx.request.body?.data ?? {};

@@ -236,6 +236,13 @@ async function setupPublicPermissions(strapi: Core.Strapi) {
     { action: 'api::blog-comment.blog-comment.create' },
     { action: 'api::blog-comment.blog-comment.find' },
     { action: 'api::blog-comment.blog-comment.findOne' },
+    /* Pripomienky: web je zatiaľ technický (verejnosť naň nechodí) a testeri
+       naň dostávajú odkaz, takže pripomienku smie napísať aj neprihlásený.
+       Meniť stav a mazať smie NAĎALEJ len redakcia — tie akcie tu nie sú.
+       Controller neprihlásenému obmedzuje rýchlosť podľa IP a nevydá o autorovi
+       nič okrem prezývky. */
+    { action: 'api::pripomienka.pripomienka.create' },
+    { action: 'api::pripomienka.pripomienka.find' },
   ];
 
   for (const perm of permissions) {
