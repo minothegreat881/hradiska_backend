@@ -101,8 +101,37 @@ export default ({ strapi }: { strapi: any }) => ({
       filters: { email },
       populate: { role: { fields: ['type'] } },
     });
-    // Len správcovia. Členovia majú vlastný tok cez /api/auth/forgot-password.
-    if (!user || user.blocked || user.role?.type !== 'authenticated') return ok;
+
+    /* Každý koniec tejto cesty sa zapisuje do logu.
+       Odpoveď volajúcemu je zámerne vždy rovnaká (inak by sa formulár dal
+       použiť na zisťovanie, kto je v systéme), ale to znamená, že nikto —
+       ani správca — nevie rozoznať „poslali sme" od „nespravili sme nič".
+       Presne to sa stalo: adresa patrila ČLENSKÉMU účtu, server ticho
+       neposlal nič a odpovedal „poslali sme na ňu e-mail". V logu nebola
+       ani stopa. Odteraz má každý prípad svoj riadok. */
+    if (!user) {
+      strapi.log?.info?.(`[account.forgotPassword] ${email}: taký účet neexistuje — neposlané`);
+      return ok;
+    }
+    if (user.blocked) {
+      strapi.log?.warn?.(`[account.forgotPassword] ${email}: účet je zablokovaný — neposlané`);
+      return ok;
+    }
+
+    /* Člen, nie správca. Predtým tu cesta končila naprázdno. Teraz sa žiadosť
+       odovzdá členskému toku, takže človek e-mail naozaj dostane — len s
+       odkazom do členskej zóny, kam jeho účet patrí. Odpoveď ostáva rovnaká,
+       takže sa formulárom stále nedá zistiť, aká rola k adrese patrí. */
+    if (user.role?.type !== 'authenticated') {
+      try {
+        await strapi.plugin('users-permissions').controller('auth').forgotPassword(ctx);
+        strapi.log?.info?.(`[account.forgotPassword] ${email}: členský účet — odovzdané členskému toku`);
+      } catch (e: any) {
+        strapi.log?.error?.(`[account.forgotPassword] ${email}: členský tok zlyhal: ${e?.message || e}`);
+      }
+      ctx.body = ok;
+      return ok;
+    }
 
     const token = makeToken();
     const newPassword = derivePassword(token);
@@ -139,10 +168,11 @@ Ak ste o nové heslo nežiadali, tento e-mail ignorujte — nič sa nezmenilo.
 Ak ste o nové heslo nežiadali, e-mail ignorujte — nič sa nezmenilo.</p>
 <p>— OZ Hradiská</p>`,
       });
+      strapi.log?.info?.(`[account.forgotPassword] ${email}: správcovský účet — e-mail odoslaný`);
     } catch (e: any) {
       // Chybu neprezrádzame volajúcemu (nech sa nedá skúmať, kto v systéme je),
       // ale do logu patrí — inak by sa nefunkčné SMTP nedalo odhaliť.
-      strapi.log?.error?.(`[account.forgotPassword] odoslanie zlyhalo: ${e?.message || e}`);
+      strapi.log?.error?.(`[account.forgotPassword] ${email}: ODOSLANIE ZLYHALO: ${e?.message || e}`);
     }
     return ok;
   },

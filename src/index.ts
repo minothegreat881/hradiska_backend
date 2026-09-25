@@ -94,8 +94,52 @@ export default {
 
     // Seed sample aktuality (only on first run, if collection is empty)
     await seedAktuality(strapi);
+
+    // Skúška odosielania e-mailov pri štarte — viď funkciu nižšie.
+    await skontrolujOdosielanieMailov(strapi);
   },
 };
+
+/**
+ * Skúška prihlásenia na SMTP pri štarte servera.
+ *
+ * Heslo k odosielaniu je Gmail App Password a to sa dá kedykoľvek zrušiť —
+ * v Google účte, zmenou hesla, aj automaticky. Kým sa o tom nedozvieme,
+ * server vyzerá zdravo a mlčky neodošle obnovu hesla ani overenie účtu.
+ * Človek, ktorý sa nevie prihlásiť a nedostane e-mail, nemá ako pokračovať.
+ *
+ * Preto sa hneď po štarte skúsi prihlásiť na SMTP a výsledok ide do logu.
+ * Je to jedno spojenie na server pri štarte, žiadna odoslaná správa.
+ */
+async function skontrolujOdosielanieMailov(strapi: Core.Strapi) {
+  const host = process.env.SMTP_HOST;
+  const user = process.env.SMTP_USER;
+  const pass = process.env.SMTP_PASS;
+  if (!host || !user || !pass) {
+    strapi.log?.error?.('[e-mail] SMTP nie je nastavené — obnova hesla ani overenie účtu NEBUDÚ fungovať.');
+    return;
+  }
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-var-requires
+    const nodemailer = require('nodemailer');
+    const transport = nodemailer.createTransport({
+      host,
+      port: Number(process.env.SMTP_PORT || 587),
+      secure: String(process.env.SMTP_SECURE) === 'true',
+      auth: { user, pass },
+      connectionTimeout: 15000,
+      greetingTimeout: 15000,
+    });
+    await transport.verify();
+    strapi.log?.info?.(`[e-mail] odosielanie pripravené (${host}:${process.env.SMTP_PORT || 587}, účet ${user})`);
+  } catch (e: any) {
+    strapi.log?.error?.(
+      `[e-mail] SMTP NEFUNGUJE (${e?.code || 'chyba'}): ${e?.message || e}
+` +
+      '         Obnova hesla ani overenie účtu sa neodošlú. Skontroluj App Password v .env.'
+    );
+  }
+}
 
 /**
  * Stiahne obrázok z URL, uloží do temp a uploadne do Strapi Media Library.
