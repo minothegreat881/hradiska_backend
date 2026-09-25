@@ -913,6 +913,59 @@ export interface ApiPhotoCommentPhotoComment
   };
 }
 
+export interface ApiPostovaSpravaPostovaSprava
+  extends Struct.CollectionTypeSchema {
+  collectionName: 'postove_spravy';
+  info: {
+    description: 'Odch\u00E1dzaj\u00FAci e-mail vo fronte. Zap\u00ED\u0161e sa sk\u00F4r, ne\u017E sa odo\u0161le, tak\u017Ee sa nestrat\u00ED ani pri v\u00FDpadku odosielate\u013Ea \u010Di re\u0161tarte servera.';
+    displayName: 'Po\u0161tov\u00E1 spr\u00E1va';
+    pluralName: 'postove-spravy';
+    singularName: 'postova-sprava';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    dalsiPokus: Schema.Attribute.DateTime;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::postova-sprava.postova-sprava'
+    > &
+      Schema.Attribute.Private;
+    odoslanaCez: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 60;
+      }>;
+    pokusov: Schema.Attribute.Integer & Schema.Attribute.DefaultTo<0>;
+    poslednaChyba: Schema.Attribute.Text &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 1000;
+      }>;
+    predmet: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
+    prijemca: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 320;
+      }>;
+    publishedAt: Schema.Attribute.DateTime;
+    stav: Schema.Attribute.Enumeration<['caka', 'odoslana', 'zlyhala']> &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'caka'>;
+    telo: Schema.Attribute.Text;
+    teloHtml: Schema.Attribute.Text;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiPripomienkaPripomienka extends Struct.CollectionTypeSchema {
   collectionName: 'pripomienky';
   info: {
@@ -1647,6 +1700,7 @@ declare module '@strapi/strapi' {
       'api::moderation-warning.moderation-warning': ApiModerationWarningModerationWarning;
       'api::notification.notification': ApiNotificationNotification;
       'api::photo-comment.photo-comment': ApiPhotoCommentPhotoComment;
+      'api::postova-sprava.postova-sprava': ApiPostovaSpravaPostovaSprava;
       'api::pripomienka.pripomienka': ApiPripomienkaPripomienka;
       'api::push-subscription.push-subscription': ApiPushSubscriptionPushSubscription;
       'api::reaction.reaction': ApiReactionReaction;
