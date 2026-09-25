@@ -448,6 +448,8 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
     // Zoznam účtov s rolou pre admin obrazovku „Používatelia" (staff-only).
     // `/api/users` reláciu `role` zahadzuje, preto vlastný endpoint.
     'api::account.account.staffUsers',
+    // Stav odosielania e-mailov pre budíček v administrácii (staff-only).
+    'api::account.account.stavPosty',
     // Zmena vlastného hesla priamo v admine (POST /api/auth/change-password).
     'plugin::users-permissions.auth.changePassword',
     // Moderácia komentárov k fotkám (galéria) — staff vidí všetky statusy a smie
