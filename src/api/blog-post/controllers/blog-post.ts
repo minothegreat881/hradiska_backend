@@ -131,6 +131,19 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
 
     ctx.set('Cache-Control', 'public, max-age=300');
     ctx.set('X-Index-Version', CACHE.version);
+
+    /* `?bezTextu=1` — tá istá tabuľka bez plných znení článkov.
+       Mapa z indexu potrebuje len súradnice, názov a náhľad, ale sťahovala
+       celý index: 3,39 MB pred kompresiou, z toho 2,77 MB je pole `text`
+       (namerané na 365 článkoch). Po vynechaní textu ostáva ~0,6 MB pred
+       kompresiou a ~40 kB po nej. Hľadanie na webe volá endpoint ďalej bez
+       parametra a dostane plný index. */
+    if (ctx.query?.bezTextu === '1' || ctx.query?.bezTextu === 'true') {
+      // `excerpt` a `cover` ostávajú — mapa ich ukazuje v karte lokality.
+      const bezTextu = CACHE.entries.map(({ text, metaTitle, metaDescription, ...zvysok }) => zvysok);
+      return { version: CACHE.version, count: bezTextu.length, items: bezTextu };
+    }
+
     return { version: CACHE.version, count: CACHE.entries.length, items: CACHE.entries };
   },
 }));
