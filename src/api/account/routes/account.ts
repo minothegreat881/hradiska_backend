@@ -25,6 +25,14 @@ export default {
       config: { policies: [] },
     },
     {
+      // Stav odosielania e-mailov pre budíček v administrácii. Staff-only
+      // (kontrola v controlleri). Dva segmenty, takže nekoliduje s /account/me.
+      method: 'GET',
+      path: '/account/stav-posty',
+      handler: 'account.stavPosty',
+      config: { policies: [] },
+    },
+    {
       method: 'GET',
       path: '/account/me',
       handler: 'account.getMe',

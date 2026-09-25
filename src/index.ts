@@ -2,6 +2,7 @@ import type { Core } from '@strapi/strapi';
 import fs from 'fs';
 import path from 'path';
 import os from 'os';
+import { zapisStavSmtp } from './api/postova-sprava/services/posta';
 
 // Predefined categories for Hradiska.sk
 const CATEGORIES = [
@@ -97,8 +98,50 @@ export default {
 
     // Skúška odosielania e-mailov pri štarte — viď funkciu nižšie.
     await skontrolujOdosielanieMailov(strapi);
+
+    // Každý e-mail na webe ide odteraz cez frontu s opakovaním.
+    zapojPostu(strapi);
   },
 };
+
+/**
+ * Zapojenie fronty pošty.
+ *
+ * Prečo sa prepisuje metóda pluginu a nevolá sa fronta z každého miesta:
+ * väčšinu e-mailov (overenie účtu, obnova členského hesla) posiela plugin
+ * `users-permissions` sám, zvnútra. Do jeho kódu sa nedá zasiahnuť, ale dá
+ * sa vymeniť metóda, ktorú na odoslanie používa. Takto ide cez frontu
+ * úplne všetko a nikde sa na to nesmie zabudnúť.
+ *
+ * Pôvodná metóda sa nezahadzuje — je to hlavný odosielateľ, ktorý fronta
+ * volá ako prvý. Náhradných si fronta pridáva sama podľa `.env`.
+ */
+function zapojPostu(strapi: Core.Strapi) {
+  const posta: any = strapi.service('api::postova-sprava.posta');
+  const emailService: any = strapi.plugin('email').service('email');
+  const povodneOdoslanie = emailService.send.bind(emailService);
+
+  emailService.send = async (sprava: any) => {
+    await posta.posli(sprava, povodneOdoslanie);
+    // Volajúcemu sa nevyhadzuje chyba zámerne: o osud správy sa odteraz
+    // stará fronta a ten, kto o heslo požiadal, nemá dostať 500-ku preto,
+    // že pošta má zlý deň.
+    return true;
+  };
+
+  // Ďalšie pokusy o nedoručené správy. Minúta je dosť často na to, aby sa
+  // krátky výpadok siete zahojil sám, a dosť zriedka na to, aby to server
+  // nezaťažovalo.
+  const interval = setInterval(() => {
+    posta.spracujFrontu(povodneOdoslanie).catch((e: any) =>
+      strapi.log?.error?.(`[posta] spracovanie fronty zlyhalo: ${e?.message || e}`)
+    );
+  }, 60_000);
+  // Nech interval nedrží proces pri živote pri vypínaní.
+  (interval as any).unref?.();
+
+  strapi.log?.info?.('[posta] fronta e-mailov je zapojená (opakovanie o 1, 5, 15, 60 a 240 minút)');
+}
 
 /**
  * Skúška prihlásenia na SMTP pri štarte servera.
@@ -131,13 +174,17 @@ async function skontrolujOdosielanieMailov(strapi: Core.Strapi) {
       greetingTimeout: 15000,
     });
     await transport.verify();
-    strapi.log?.info?.(`[e-mail] odosielanie pripravené (${host}:${process.env.SMTP_PORT || 587}, účet ${user})`);
+    const sprava = `odosielanie pripravené (${host}:${process.env.SMTP_PORT || 587}, účet ${user})`;
+    strapi.log?.info?.(`[e-mail] ${sprava}`);
+    zapisStavSmtp(true, sprava);
   } catch (e: any) {
+    const sprava = `SMTP nefunguje (${e?.code || 'chyba'}): ${e?.message || e}`;
     strapi.log?.error?.(
-      `[e-mail] SMTP NEFUNGUJE (${e?.code || 'chyba'}): ${e?.message || e}
+      `[e-mail] ${sprava}
 ` +
       '         Obnova hesla ani overenie účtu sa neodošlú. Skontroluj App Password v .env.'
     );
+    zapisStavSmtp(false, sprava);
   }
 }
 

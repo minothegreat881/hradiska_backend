@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "postove_spravy",
+  "info": {
+    "singularName": "postova-sprava",
+    "pluralName": "postove-spravy",
+    "displayName": "Poštová správa",
+    "description": "Odchádzajúci e-mail vo fronte. Zapíše sa skôr, než sa odošle, takže sa nestratí ani pri výpadku odosielateľa či reštarte servera."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "prijemca": { "type": "string", "required": true, "maxLength": 320 },
+    "predmet": { "type": "string", "maxLength": 500 },
+    "telo": { "type": "text" },
+    "teloHtml": { "type": "text" },
+    "stav": {
+      "type": "enumeration",
+      "enum": ["caka", "odoslana", "zlyhala"],
+      "default": "caka",
+      "required": true
+    },
+    "pokusov": { "type": "integer", "default": 0 },
+    "dalsiPokus": { "type": "datetime" },
+    "odoslanaCez": { "type": "string", "maxLength": 60 },
+    "poslednaChyba": { "type": "text", "maxLength": 1000 }
+  }
+}

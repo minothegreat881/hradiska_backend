@@ -273,6 +273,19 @@ Ak ste o nové heslo nežiadali, e-mail ignorujte — nič sa nezmenilo.</p>
   },
 
   /** GET /account/me — profil + štatistiky pre hlavičku profilu */
+  /**
+   * GET /account/stav-posty — podklad pre budíček v administrácii.
+   *
+   * Vracia, či sa server vie prihlásiť na SMTP, koľko správ čaká vo fronte
+   * a koľko ich nadobro zlyhalo. Bez tohto je výpadok pošty neviditeľný až
+   * do chvíle, keď niekto potrebuje obnoviť heslo — teda vtedy, keď už je
+   * neskoro.
+   */
+  async stavPosty(ctx: any) {
+    if (!isStaff(ctx.state?.user)) return ctx.forbidden('Len pre správcov.');
+    return strapi.service('api::postova-sprava.posta').stav();
+  },
+
   async getMe(ctx: any) {
     const user = ctx.state?.user;
     if (!user) return ctx.unauthorized();
