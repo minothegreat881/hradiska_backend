@@ -66,6 +66,10 @@ interface IndexEntry {
 // Cache indexu v pamäti. `null` = treba prestaviť (nastavuje lifecycle).
 let CACHE: { builtAt: number; version: string; entries: IndexEntry[] } | null = null;
 
+// Počty článkov podľa kategórie — to isté, len oddelene, nech sa nemusí
+// stavať celý index kvôli číslam v hlavičke a na dlaždiciach.
+let POCTY: Record<string, number> | null = null;
+
 export default factories.createCoreController('api::blog-post.blog-post', ({ strapi }) => ({
   /** GET /api/blog-posts/search-index — kompaktný index pre klientske hľadanie. */
   async searchIndex(ctx) {
@@ -146,9 +150,37 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
 
     return { version: CACHE.version, count: CACHE.entries.length, items: CACHE.entries };
   },
+
+  /**
+   * GET /api/pocty-kategorii — počet publikovaných článkov v každej kategórii.
+   *
+   * Hlavička aj dlaždice na domovskej si predtým pýtali počet zvlášť pre každú
+   * kategóriu: 24 samostatných ciest na server pri každom načítaní stránky
+   * (namerané). Bajtov to bolo málo, ale 24 spiatočných ciest je na pomalom
+   * pripojení citeľných. Tu je to jedna odpoveď, navyše z pamäte.
+   */
+  async poctyKategorii(ctx) {
+    if (!POCTY) {
+      const kategorie = await strapi.documents('api::blog-category.blog-category').findMany({
+        fields: ['slug'],
+        start: 0,
+        limit: 200,
+      } as any);
+      const vysledok: Record<string, number> = {};
+      for (const k of kategorie as any[]) {
+        vysledok[k.slug] = await strapi.documents('api::blog-post.blog-post').count({
+          filters: { category: { slug: k.slug } },
+        } as any);
+      }
+      POCTY = vysledok;
+    }
+    ctx.set('Cache-Control', 'public, max-age=300');
+    return { pocty: POCTY };
+  },
 }));
 
-/** Zneplatní cache indexu. Volá lifecycle pri zmene článku. */
+/** Zneplatní cache indexu aj počtov. Volá lifecycle pri zmene článku. */
 export function invalidateSearchIndex(): void {
   CACHE = null;
+  POCTY = null;
 }

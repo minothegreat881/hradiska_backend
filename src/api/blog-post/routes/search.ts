@@ -15,5 +15,12 @@ export default {
       handler: 'blog-post.searchIndex',
       config: { auth: false, policies: [], middlewares: [] },
     },
+    {
+      // Počty článkov podľa kategórie v jednej odpovedi — viď controller.
+      method: 'GET',
+      path: '/pocty-kategorii',
+      handler: 'blog-post.poctyKategorii',
+      config: { auth: false, policies: [], middlewares: [] },
+    },
   ],
 };
