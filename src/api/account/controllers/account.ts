@@ -6,6 +6,7 @@
  * `getMe`/`updateMe` pracujú tiež len s vlastným účtom.
  */
 import crypto from 'crypto';
+import { vyplnit } from '../../../maily';
 
 const USER = 'plugin::users-permissions.user';
 const COMMENT = 'api::blog-comment.blog-comment';
@@ -158,15 +159,13 @@ Kým odkaz nepotvrdíte, pôvodné heslo funguje ďalej.
 Ak ste o nové heslo nežiadali, tento e-mail ignorujte — nič sa nezmenilo.
 
 — OZ Hradiská`,
-        html: `<p>Dobrý deň,</p>
-<p>požiadali ste o nové heslo do administrácie <strong>Hradiska.sk</strong>.</p>
-<p style="font-size:15px">Vaše nové heslo:<br>
-<code style="display:inline-block;margin-top:6px;padding:10px 14px;background:#f4efe3;border:1px solid #e6d9bd;border-radius:8px;font-size:18px;letter-spacing:1px">${newPassword}</code></p>
-<p>Začne platiť až po potvrdení (odkaz platí 1 hodinu):</p>
-<p><a href="${url}" style="display:inline-block;padding:10px 18px;background:#8a5316;color:#fbf3e2;text-decoration:none;border-radius:8px">Potvrdiť nové heslo</a></p>
-<p style="color:#6b5d48;font-size:13px">Kým odkaz nepotvrdíte, pôvodné heslo funguje ďalej.<br>
-Ak ste o nové heslo nežiadali, e-mail ignorujte — nič sa nezmenilo.</p>
-<p>— OZ Hradiská</p>`,
+        /* HTML podoba je hotová šablóna z dizajnérskeho handoffu (src/maily).
+           Text vyššie ostáva ako textová alternatíva — v schránke bez HTML
+           musí byť správa čitateľná rovnako. */
+        html: vyplnit('nove-heslo-admin', {
+          NOVE_HESLO: newPassword,
+          POTVRDIT_HESLO_URL: url,
+        }),
       });
       strapi.log?.info?.(`[account.forgotPassword] ${email}: správcovský účet — e-mail odoslaný`);
     } catch (e: any) {

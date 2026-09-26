@@ -1,4 +1,5 @@
 import { factories } from '@strapi/strapi';
+import { oznamNovyKomentar, odkazNaClanok } from '../../../maily/oznamenia';
 
 /**
  * Komentáre k článkom.
@@ -72,6 +73,23 @@ export default factories.createCoreController(
         } as any,
         populate: { user: true } as any,
       });
+
+      // Oznámenie správcom — každý nový komentár, nielen odpoveď.
+      try {
+        const post: any = await strapi.documents('api::blog-post.blog-post').findOne({
+          documentId: body.post, fields: ['title', 'slug'] as any,
+        });
+        await oznamNovyKomentar(strapi, {
+          autor: user.displayName || user.username || user.email,
+          kdeVeta: post?.title ? `komentoval(a) článok „${post.title}“.` : 'pridal(a) komentár.',
+          komentar: body.content,
+          caka: preMod,
+          odkaz: odkazNaClanok(post?.slug),
+          autorId: user.id,
+        });
+      } catch (e: any) {
+        strapi.log?.error?.(`[maily] oznámenie o komentári zlyhalo: ${e?.message || e}`);
+      }
 
       // Notifikácia „odpoveď" autorovi rodičovského komentára (inReplyTo = jeho documentId).
       // Neblokuje odpoveď na komentár, ak sa nedá vytvoriť.

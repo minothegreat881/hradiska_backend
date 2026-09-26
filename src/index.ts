@@ -3,6 +3,7 @@ import fs from 'fs';
 import path from 'path';
 import os from 'os';
 import { zapisStavSmtp } from './api/postova-sprava/services/posta';
+import { sablona, ZNACKA, dopisTextovuVerziu } from './maily';
 
 // Predefined categories for Hradiska.sk
 const CATEGORIES = [
@@ -101,6 +102,9 @@ export default {
 
     // Každý e-mail na webe ide odteraz cez frontu s opakovaním.
     zapojPostu(strapi);
+
+    // Šablóny e-mailov, ktoré posiela plugin, do šatu webu.
+    await zapisSablonyPluginu(strapi);
   },
 };
 
@@ -122,7 +126,7 @@ function zapojPostu(strapi: Core.Strapi) {
   const povodneOdoslanie = emailService.send.bind(emailService);
 
   emailService.send = async (sprava: any) => {
-    await posta.posli(sprava, povodneOdoslanie);
+    await posta.posli(dopisTextovuVerziu(sprava), povodneOdoslanie);
     // Volajúcemu sa nevyhadzuje chyba zámerne: o osud správy sa odteraz
     // stará fronta a ten, kto o heslo požiadal, nemá dostať 500-ku preto,
     // že pošta má zlý deň.
@@ -141,6 +145,45 @@ function zapojPostu(strapi: Core.Strapi) {
   (interval as any).unref?.();
 
   strapi.log?.info?.('[posta] fronta e-mailov je zapojená (opakovanie o 1, 5, 15, 60 a 240 minút)');
+}
+
+/**
+ * Šablóny pluginu `users-permissions` v šate webu.
+ *
+ * Plugin si telá e-mailov drží v databáze (nastavenia v administrácii), nie
+ * v kóde. Aby sa podoba e-mailov nedala stratiť pri obnove databázy a aby
+ * bola v gite, zapisujú sa sem pri každom štarte — ale len keď sa naozaj
+ * líšia, nech sa databáza nezapisuje zbytočne.
+ *
+ * Predmety a odosielateľ sa NEPREPISUJÚ: tie sa dajú nastaviť v administrácii
+ * a sú tam nastavené správne.
+ */
+async function zapisSablonyPluginu(strapi: Core.Strapi) {
+  try {
+    const store = strapi.store({ type: 'plugin', name: 'users-permissions', key: 'email' });
+    const teraz: any = (await store.get({})) || {};
+
+    const nove = {
+      reset_password: sablona('obnova-hesla')
+        .split('{{NASTAVIT_HESLO_URL}}').join('<%= URL %>?code=<%= TOKEN %>') + ZNACKA('obnova-hesla'),
+      email_confirmation: sablona('overenie-emailu')
+        .split('{{OVERIT_EMAIL_URL}}').join('<%= URL %>?confirmation=<%= CODE %>') + ZNACKA('overenie-emailu'),
+    };
+
+    let zmenene = false;
+    for (const [kluc, telo] of Object.entries(nove)) {
+      if (!teraz[kluc]?.options) continue;            // šablónu, ktorá tam nie je, nevyrábame
+      if (teraz[kluc].options.message === telo) continue;
+      teraz[kluc].options.message = telo;
+      zmenene = true;
+    }
+    if (zmenene) {
+      await store.set({ value: teraz });
+      strapi.log?.info?.('[maily] šablóny obnovy hesla a overenia e-mailu prepísané do šatu webu');
+    }
+  } catch (e: any) {
+    strapi.log?.error?.(`[maily] šablóny pluginu sa nepodarilo zapísať: ${e?.message || e}`);
+  }
 }
 
 /**

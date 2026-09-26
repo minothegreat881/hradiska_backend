@@ -1,4 +1,5 @@
 import { factories } from '@strapi/strapi';
+import { oznamNovyKomentar, odkazNaFotku } from '../../../maily/oznamenia';
 
 /**
  * Komentáre k fotkám (lightbox v galérii článku).
@@ -46,6 +47,20 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
       } as any,
       populate: { user: true } as any,
     });
+
+    // Oznámenie správcom — každý nový komentár pod fotografiou.
+    try {
+      await oznamNovyKomentar(strapi, {
+        autor: user.displayName || user.username || user.email,
+        kdeVeta: 'komentoval(a) fotografiu v galérii.',
+        komentar: body.content,
+        caka: false,
+        odkaz: odkazNaFotku(body.fileId),
+        autorId: user.id,
+      });
+    } catch (e: any) {
+      strapi.log?.error?.(`[maily] oznámenie o foto-komentári zlyhalo: ${e?.message || e}`);
+    }
 
     // Notifikácia „odpoveď" autorovi rodičovského foto-komentára (galéria).
     if (body.inReplyTo) {
