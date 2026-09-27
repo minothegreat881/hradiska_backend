@@ -15,6 +15,12 @@ const allowedPatterns: RegExp[] = [
   /^https:\/\/.*\.ngrok\.app$/,
   /^https:\/\/.*\.ngrok\.dev$/,
   /^https:\/\/.*\.trycloudflare\.com$/,
+  /* Natívna schránka (Capacitor). Appka nebeží na webovej doméne — Android
+     ju otvára ako `https://localhost`, iOS ako `capacitor://localhost`.
+     Bez týchto dvoch by v aplikácii zlyhalo každé volanie na API. */
+  /^capacitor:\/\/localhost$/,
+  /^https:\/\/localhost$/,
+  /^ionic:\/\/localhost$/,
 ];
 
 function isAllowedOrigin(origin: string): boolean {
