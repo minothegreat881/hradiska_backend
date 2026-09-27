@@ -452,6 +452,10 @@ async function setupMemberPermissions(strapi: Core.Strapi) {
     /* nahlásenie príspevku — smie ho podať len prihlásený člen; čítať
        a vybavovať ho vie iba redakcia (viď zoznam nižšie) */
     'api::nahlasenie.nahlasenie.create',
+    /* blokovanie iného člena — vlastný zoznam, vlastné rozhodnutie */
+    'api::blokovanie.blokovanie.moje',
+    'api::blokovanie.blokovanie.create',
+    'api::blokovanie.blokovanie.delete',
     // upload — aby si člen vedel nahrať vlastný avatar (POST /api/upload)
     'plugin::upload.content-api.upload',
   ];

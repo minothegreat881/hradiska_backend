@@ -205,6 +205,9 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
         const u: any = meta.get(d.documentId);
         d.authorName = u?.displayName || u?.username || 'Zmazaný účet';
         d.authorAvatar = avatarUrl(u?.avatar);
+        /* Číslo účtu autora — kvôli blokovaniu; viď rovnaká poznámka
+           v `blog-comment`. Nič iné o účte von neide. */
+        d.authorId = u?.id ?? null;
         d.mine = !!(uid && u?.id === uid);
         d.likeCount = likeCount.get(d.documentId) || 0;
         d.myLikeId = myLike.get(d.documentId) || null;

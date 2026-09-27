@@ -717,6 +717,43 @@ export interface ApiBlogTagBlogTag extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiBlokovanieBlokovanie extends Struct.CollectionTypeSchema {
+  collectionName: 'blokovania';
+  info: {
+    description: '\u010Clen si zablokoval in\u00E9ho \u010Dlena \u2014 jeho pr\u00EDspevky sa mu prestan\u00FA zobrazova\u0165.';
+    displayName: 'Blokovanie';
+    pluralName: 'blokovania';
+    singularName: 'blokovanie';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    kohoId: Schema.Attribute.Integer & Schema.Attribute.Required;
+    kohoMeno: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 120;
+      }>;
+    kto: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::blokovanie.blokovanie'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+  };
+}
+
 export interface ApiDomovskaGaleriaDomovskaGaleria
   extends Struct.SingleTypeSchema {
   collectionName: 'domovska_galeria';
@@ -1759,6 +1796,7 @@ declare module '@strapi/strapi' {
       'api::blog-comment.blog-comment': ApiBlogCommentBlogComment;
       'api::blog-post.blog-post': ApiBlogPostBlogPost;
       'api::blog-tag.blog-tag': ApiBlogTagBlogTag;
+      'api::blokovanie.blokovanie': ApiBlokovanieBlokovanie;
       'api::domovska-galeria.domovska-galeria': ApiDomovskaGaleriaDomovskaGaleria;
       'api::moderation-warning.moderation-warning': ApiModerationWarningModerationWarning;
       'api::nahlasenie.nahlasenie': ApiNahlasenieNahlasenie;

@@ -170,7 +170,17 @@ export default factories.createCoreController(
           pagination: { pageSize: ids.length } as any,
         });
         const avById = new Map(rows.map((r: any) => [r.documentId, avatarUrl(r.user?.avatar)]));
-        response.data.forEach((d: any) => { d.authorAvatar = avById.get(d.documentId) ?? null; });
+        /* `authorId` je číslo účtu autora — nič viac. Ide von preto, aby si
+           čitateľ mohol niekoho zablokovať a jeho príspevky nevidel: zoznam
+           komentárov sa ťahá BEZ tokenu (viď poznámka v `CommentSection`),
+           takže server nevie, kto sa pýta, a odfiltrovať to musí prehliadač.
+           O autorovi to neprezradí nič, čo by už neprezradilo meno pod
+           komentárom — len to, že dva komentáre sú od toho istého účtu. */
+        const idById = new Map(rows.map((r: any) => [r.documentId, r.user?.id ?? null]));
+        response.data.forEach((d: any) => {
+          d.authorAvatar = avById.get(d.documentId) ?? null;
+          d.authorId = idById.get(d.documentId) ?? null;
+        });
       }
       return response;
     },

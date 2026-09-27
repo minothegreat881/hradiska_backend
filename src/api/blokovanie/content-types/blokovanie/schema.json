@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blokovania",
+  "info": {
+    "singularName": "blokovanie",
+    "pluralName": "blokovania",
+    "displayName": "Blokovanie",
+    "description": "Člen si zablokoval iného člena — jeho príspevky sa mu prestanú zobrazovať."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "kto": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    },
+    "kohoId": {
+      "type": "integer",
+      "required": true
+    },
+    "kohoMeno": {
+      "type": "string",
+      "maxLength": 120
+    }
+  }
+}
