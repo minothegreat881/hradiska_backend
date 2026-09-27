@@ -77,7 +77,28 @@ export function odkazNaClanok(slug?: string | null): string {
   return slug ? `${FRONTEND()}/blog/${slug}#komentare` : FRONTEND();
 }
 
-/** Odkaz na fotografiu v galérii — otvorí sa rovno svetelný box s diskusiou. */
-export function odkazNaFotku(fileId?: number | string | null): string {
-  return fileId ? `${FRONTEND()}/galeria?fotoFile=${encodeURIComponent(String(fileId))}` : `${FRONTEND()}/galeria`;
+/**
+ * Odkaz na fotografiu.
+ *
+ * Fotografie z galérií žijú V ČLÁNKOCH, nie na stránke fotoarchívu — tá ich
+ * len zhŕňa. Svetelný box s diskusiou otvára `?fotoFile=<id>` na článku
+ * (`HistoricalGallery`), na fotoarchíve ten parameter nerobí nič. Odkaz preto
+ * najprv nájde článok, do ktorého fotografia patrí; až keď ho nenájde,
+ * pošle čitateľa aspoň do fotoarchívu.
+ */
+export async function odkazNaFotku(strapi: Core.Strapi, fileId?: number | string | null): Promise<string> {
+  const archiv = `${FRONTEND()}/galeria`;
+  if (!fileId) return archiv;
+  try {
+    const clanky: any[] = await strapi.documents('api::blog-post.blog-post').findMany({
+      filters: { gallery: { id: fileId } } as any,
+      fields: ['slug'] as any,
+      pagination: { pageSize: 1 } as any,
+    });
+    const slug = clanky?.[0]?.slug;
+    if (slug) return `${FRONTEND()}/blog/${slug}?fotoFile=${encodeURIComponent(String(fileId))}`;
+  } catch (e: any) {
+    strapi.log?.error?.(`[maily] článok k fotografii ${fileId} sa nenašiel: ${e?.message || e}`);
+  }
+  return archiv;
 }

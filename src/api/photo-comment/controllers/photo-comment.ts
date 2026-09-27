@@ -55,7 +55,7 @@ export default factories.createCoreController('api::photo-comment.photo-comment'
         kdeVeta: 'komentoval(a) fotografiu v galérii.',
         komentar: body.content,
         caka: false,
-        odkaz: odkazNaFotku(body.fileId),
+        odkaz: await odkazNaFotku(strapi, body.fileId),
         autorId: user.id,
       });
     } catch (e: any) {
