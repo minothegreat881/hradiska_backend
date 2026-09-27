@@ -72,6 +72,62 @@ export async function oznamNovyKomentar(
   strapi.log?.info?.(`[maily] nový komentár od ${v.autor} — oznámené ${prijemcovia.length} správcom`);
 }
 
+/** Slovné znenie dôvodu — v e-maile má stáť veta, nie kľúč z číselníka. */
+const DOVODY: Record<string, string> = {
+  spam: 'spam alebo reklama',
+  urazka: 'urážka alebo útok na človeka',
+  nevhodne: 'nevhodný obsah',
+  nepravda: 'nepravdivé tvrdenie',
+  ine: 'iné',
+};
+
+/**
+ * OZNÁMENIE SPRÁVCOM O NAHLÁSENOM PRÍSPEVKU.
+ *
+ * Nahlásenie samo o sebe nič neskryje — rozhoduje redakcia. Preto sa musí
+ * dozvedieť hneď; keby čakalo na to, kým si niekto otvorí administráciu,
+ * sporný príspevok by na webe visel aj týždeň.
+ */
+export async function oznamNahlasenie(
+  strapi: Core.Strapi,
+  v: { kto: string; dovod: string; poznamka: string; autorObsahu: string; obsah: string; odkaz: string }
+) {
+  const prijemcovia = await spravcovia(strapi);
+  if (!prijemcovia.length) {
+    strapi.log?.info?.('[maily] nahlásenie: žiadny správca s adresou — neposlané');
+    return;
+  }
+
+  const dovod = DOVODY[v.dovod] || DOVODY.ine;
+  const kdeVeta = v.autorObsahu
+    ? `nahlásil(a) príspevok od ${v.autorObsahu}. Dôvod: ${dovod}.`
+    : `nahlásil(a) príspevok. Dôvod: ${dovod}.`;
+  const stav = v.poznamka
+    ? `Poznámka od nahlasovateľa: ${v.poznamka}`
+    : 'Príspevok je zatiaľ zverejnený — nahlásenie ho samo neskryje.';
+  const orezany = v.obsah.length > 1200 ? `${v.obsah.slice(0, 1200)}…` : v.obsah;
+  const odkaz = v.odkaz || FRONTEND();
+
+  const html = vyplnitSurove('novy-komentar', {
+    AUTOR: escapujHtml(v.kto),
+    KDE_VETA: escapujHtml(kdeVeta),
+    KOMENTAR: textDoHtml(orezany),
+    STAV: escapujHtml(stav),
+    ODKAZ_URL: escapujHtml(odkaz),
+  });
+  const text = textNovyKomentar({ autor: v.kto, kdeVeta, komentar: orezany, stav, odkaz });
+  const subject = `Nahlásený príspevok — ${dovod}`;
+
+  for (const prijemca of prijemcovia) {
+    try {
+      await strapi.plugin('email').service('email').send({ to: prijemca.email, subject, text, html });
+    } catch (e: any) {
+      strapi.log?.error?.(`[maily] nahlásenie pre ${prijemca.email} zlyhalo: ${e?.message || e}`);
+    }
+  }
+  strapi.log?.info?.(`[maily] nahlásenie od ${v.kto} — oznámené ${prijemcovia.length} správcom`);
+}
+
 /** Odkaz na komentár pod článkom. Bez slugu vedie aspoň na domovskú. */
 export function odkazNaClanok(slug?: string | null): string {
   return slug ? `${FRONTEND()}/blog/${slug}#komentare` : FRONTEND();

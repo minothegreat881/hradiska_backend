@@ -1,0 +1,58 @@
+{
+  "kind": "collectionType",
+  "collectionName": "nahlasenia",
+  "info": {
+    "singularName": "nahlasenie",
+    "pluralName": "nahlasenia",
+    "displayName": "Nahlásenie",
+    "description": "Nahlásený komentár od čitateľa. Text komentára sa ukladá odpisom, aby ostal čitateľný aj po jeho zmazaní."
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "druh": {
+      "type": "enumeration",
+      "enum": ["komentar", "fotokomentar"],
+      "required": true
+    },
+    "cielDocumentId": {
+      "type": "string",
+      "required": true,
+      "maxLength": 64
+    },
+    "dovod": {
+      "type": "enumeration",
+      "enum": ["spam", "urazka", "nevhodne", "nepravda", "ine"],
+      "default": "ine",
+      "required": true
+    },
+    "poznamka": {
+      "type": "text",
+      "maxLength": 1000
+    },
+    "stav": {
+      "type": "enumeration",
+      "enum": ["nove", "vybavene", "zamietnute"],
+      "default": "nove",
+      "required": true
+    },
+    "odpisObsahu": {
+      "type": "text",
+      "maxLength": 2000
+    },
+    "autorObsahu": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "url": {
+      "type": "string",
+      "maxLength": 500
+    },
+    "user": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "plugin::users-permissions.user"
+    }
+  }
+}

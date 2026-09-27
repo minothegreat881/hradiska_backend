@@ -449,6 +449,9 @@ async function setupMemberPermissions(strapi: Core.Strapi) {
     'api::photo-comment.photo-comment.create',
     'api::photo-comment.photo-comment.update',
     'api::photo-comment.photo-comment.delete',
+    /* nahlásenie príspevku — smie ho podať len prihlásený člen; čítať
+       a vybavovať ho vie iba redakcia (viď zoznam nižšie) */
+    'api::nahlasenie.nahlasenie.create',
     // upload — aby si člen vedel nahrať vlastný avatar (POST /api/upload)
     'plugin::upload.content-api.upload',
   ];
@@ -515,6 +518,10 @@ async function setupStaffUserPermissions(strapi: Core.Strapi) {
     'api::pripomienka.pripomienka.create',
     'api::pripomienka.pripomienka.update',
     'api::pripomienka.pripomienka.delete',
+    'api::nahlasenie.nahlasenie.find',
+    'api::nahlasenie.nahlasenie.findOne',
+    'api::nahlasenie.nahlasenie.update',
+    'api::nahlasenie.nahlasenie.delete',
   ];
 
   for (const action of actions) {

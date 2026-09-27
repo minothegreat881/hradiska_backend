@@ -797,6 +797,69 @@ export interface ApiModerationWarningModerationWarning
   };
 }
 
+export interface ApiNahlasenieNahlasenie extends Struct.CollectionTypeSchema {
+  collectionName: 'nahlasenia';
+  info: {
+    description: 'Nahl\u00E1sen\u00FD koment\u00E1r od \u010Ditate\u013Ea. Text koment\u00E1ra sa uklad\u00E1 odpisom, aby ostal \u010Ditate\u013En\u00FD aj po jeho zmazan\u00ED.';
+    displayName: 'Nahl\u00E1senie';
+    pluralName: 'nahlasenia';
+    singularName: 'nahlasenie';
+  };
+  options: {
+    draftAndPublish: false;
+  };
+  attributes: {
+    autorObsahu: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 120;
+      }>;
+    cielDocumentId: Schema.Attribute.String &
+      Schema.Attribute.Required &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 64;
+      }>;
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    dovod: Schema.Attribute.Enumeration<
+      ['spam', 'urazka', 'nevhodne', 'nepravda', 'ine']
+    > &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'ine'>;
+    druh: Schema.Attribute.Enumeration<['komentar', 'fotokomentar']> &
+      Schema.Attribute.Required;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::nahlasenie.nahlasenie'
+    > &
+      Schema.Attribute.Private;
+    odpisObsahu: Schema.Attribute.Text &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 2000;
+      }>;
+    poznamka: Schema.Attribute.Text &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 1000;
+      }>;
+    publishedAt: Schema.Attribute.DateTime;
+    stav: Schema.Attribute.Enumeration<['nove', 'vybavene', 'zamietnute']> &
+      Schema.Attribute.Required &
+      Schema.Attribute.DefaultTo<'nove'>;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    url: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 500;
+      }>;
+    user: Schema.Attribute.Relation<
+      'manyToOne',
+      'plugin::users-permissions.user'
+    >;
+  };
+}
+
 export interface ApiNotificationNotification
   extends Struct.CollectionTypeSchema {
   collectionName: 'notifications';
@@ -1698,6 +1761,7 @@ declare module '@strapi/strapi' {
       'api::blog-tag.blog-tag': ApiBlogTagBlogTag;
       'api::domovska-galeria.domovska-galeria': ApiDomovskaGaleriaDomovskaGaleria;
       'api::moderation-warning.moderation-warning': ApiModerationWarningModerationWarning;
+      'api::nahlasenie.nahlasenie': ApiNahlasenieNahlasenie;
       'api::notification.notification': ApiNotificationNotification;
       'api::photo-comment.photo-comment': ApiPhotoCommentPhotoComment;
       'api::postova-sprava.postova-sprava': ApiPostovaSpravaPostovaSprava;
