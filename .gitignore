@@ -82,6 +82,8 @@ ssl
 nbproject
 public/uploads/*
 !public/uploads/.gitkeep
+# Vydania mobilnej aplikácie — APK a zip balíky webu (desiatky MB, žijú na serveri).
+public/app/
 .tsbuildinfo
 .eslintcache
 
