@@ -642,6 +642,15 @@ export interface ApiBlogPostBlogPost extends Struct.CollectionTypeSchema {
       }>;
     featured: Schema.Attribute.Boolean & Schema.Attribute.DefaultTo<false>;
     gallery: Schema.Attribute.Media<'images', true>;
+    galleryColumns: Schema.Attribute.Integer &
+      Schema.Attribute.SetMinMax<
+        {
+          max: 4;
+          min: 2;
+        },
+        number
+      > &
+      Schema.Attribute.DefaultTo<3>;
     keyFacts: Schema.Attribute.Component<'sidebar.key-fact', true>;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<

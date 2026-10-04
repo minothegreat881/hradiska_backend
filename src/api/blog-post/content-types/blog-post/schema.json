@@ -47,6 +47,13 @@
         "images"
       ]
     },
+    "galleryColumns": {
+      "type": "integer",
+      "required": false,
+      "default": 3,
+      "min": 2,
+      "max": 4
+    },
     "category": {
       "type": "relation",
       "relation": "manyToOne",
