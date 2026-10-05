@@ -21,7 +21,7 @@ const { createStrapi } = require('@strapi/strapi');
 
 const KOREN = resolve(__dirname, '..', '..');
 const UID = 'api::blog-post.blog-post';
-const TAG = 'api::tag.tag';
+const TAG = 'api::blog-tag.blog-tag';
 const arg = (m, d = null) => (process.argv.find((a) => a.startsWith(m))?.slice(m.length)) ?? d;
 const ZAPIS = process.argv.includes('--zapis');
 const SLUG = arg('--slug=');
