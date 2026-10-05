@@ -1,0 +1,232 @@
+{
+ "slug": "liptovsky-hrad",
+ "data": {
+  "title": "Liptovský hrad – a 3D visualisation of the vanished county castle",
+  "slug": "liptovsky-hrad-3d-visualisation",
+  "excerpt": "Another visual reconstruction: Dwarf Digital and hradiskami.sk have modelled the vanished Liptovský hrad, the castle that gave the whole Liptov region its name, following Peter Gutek's reconstruction of 2006. Built in the second quarter of the 13th century on a hill at 1000 m above sea level, it became the county castle of Liptov, and in 1474 Matthias Corvinus had it demolished down to the foundations.",
+  "metaTitle": "Liptovský hrad – a 3D visualisation of a lost castle",
+  "metaDescription": "A 3D visualisation of the vanished Liptovský hrad, based on the reconstruction by Peter Gutek and produced by Dwarf Digital together with Hradiska.sk.",
+  "keyFacts": [
+   {
+    "label": "Site",
+    "value": "the hill of Hrad in the Chočské vrchy mountains, above the village of Kaľameny",
+    "icon": "map"
+   },
+   {
+    "label": "Elevation",
+    "value": "1000 m",
+    "icon": "mountain"
+   },
+   {
+    "label": "Foundation of the castle",
+    "value": "the second quarter of the 13th century",
+    "icon": "calendar"
+   },
+   {
+    "label": "First written mention",
+    "value": "1262",
+    "icon": "scroll"
+   },
+   {
+    "label": "End of the castle",
+    "value": "15th century (demolished down to the foundations in 1474)",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1262",
+    "title": "The first written mention",
+    "description": "The oldest documented written mention of Liptovský hrad.",
+    "type": "event"
+   },
+   {
+    "year": "1313–1337",
+    "title": "The owners Matúš Čák and magister Donč",
+    "description": "The castle probably belonged to Matúš Čák, and later to the royal count of Zvolen, magister Donč.",
+    "type": "event"
+   },
+   {
+    "year": "around 1340",
+    "title": "The break-up of the Zvolen county",
+    "description": "The Zvolen county broke up into smaller counties and Liptovský hrad became the county castle of Liptov.",
+    "type": "event"
+   },
+   {
+    "year": "1397",
+    "title": "The castle occupied by Moravian armies",
+    "description": "The castle was occupied by the armies of the Moravian margrave Procop and of Duke Vladislav of Opole, supporters of the Bohemian king Wenceslas IV.",
+    "type": "event"
+   },
+   {
+    "year": "1406",
+    "title": "Nicholas Garai obtains the castle",
+    "description": "Nicholas Garai obtained the castle and the office of count of Liptov.",
+    "type": "event"
+   },
+   {
+    "year": "1441",
+    "title": "Occupation by the Hussites",
+    "description": "The castle was probably occupied by the Hussites.",
+    "type": "event"
+   },
+   {
+    "year": "1445–1447",
+    "title": "The brigandage of Ladislav Rikolfi",
+    "description": "Rikolfi was accused of brigandage and imprisoned; the king later pardoned him on condition that he demolish the castle, which had been the centre of robbing expeditions.",
+    "type": "event"
+   },
+   {
+    "year": "1453",
+    "title": "The castle as a deserted place",
+    "description": "A charter of this year refers to the castle only as a deserted place.",
+    "type": "event"
+   },
+   {
+    "year": "1459",
+    "title": "The property of Peter Komorovský",
+    "description": "King Matthias Corvinus granted the Liptov castles and Orava Castle to Peter Komorovský, whom he appointed count of Liptov and Orava.",
+    "type": "event"
+   },
+   {
+    "year": "1474",
+    "title": "The demolition of the castle",
+    "description": "After the peace of Spišská Nová Ves, Matthias Corvinus took the estates from Komorovský and had the buildings and the walls of Liptovský hrad demolished down to the foundations.",
+    "type": "event"
+   },
+   {
+    "year": "1975–1987",
+    "title": "Archaeological excavation",
+    "description": "An archaeological excavation was carried out and the uncovered foundations of the buildings were conserved.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4555,
+    "alt": "A 3D reconstruction of a stone castle on a steeply scarped hill and of a wooden watchtower with a palisade"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We bring you another exceptional visual reconstruction. This time "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/dwarfdigital/?fref=ts",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dwarf Digital"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " together with "
+       },
+       {
+        "type": "link",
+        "url": "http://hradiskami.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "hradiskami.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " has set about visualising the vanished Liptovský hrad. The 3D visualisation was created according to the reconstruction by Peter Gutek (2006), to whom great thanks are due for his patient comments during the modelling of the castle. For the archaeological documentation we thank Martin Furman. Literature used: Miroslav Slámka et al.: Kamenní strážcovia II (Stone Guardians II). Bratislava: Slovenský skauting, 2011."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "As the website "
+       },
+       {
+        "type": "link",
+        "url": "http://liptov.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "LIPTOV.SK"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " states, Liptovský hrad, also called hrad Liptov, Liptovský starý hrad, Veľký hrad liptovský or Sielnický hrad, gave its name to the whole region. It probably owes its name to its original owner Ľuboto – Ľubtov hrad; through Hungarianisation it changed to Ľubtov and later to Liptov.\n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "G6PC5Mr0SX0",
+    "url": "https://www.youtube.com/embed/G6PC5Mr0SX0",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "„The conserved foundations of the castle, situated in an extreme position on the hill called Hrad in the Chočské vrchy mountains at an elevation of 1000 m above sea level, are open to visitors. Its ruins document the ground plan and the functions of a feudal seat that was destroyed and abandoned in the 15th century. The castle came into being in the second quarter of the 13th century. The first written mention of it is from 1262. Originally it was royal and was to protect the borders of the country. At first the deputy of the count of Zvolen resided here. At the beginning of the 14th century it probably belonged to Matúš Čák, and in 1313–1337 to the royal count of Zvolen, magister Donč. Around 1340 the Zvolen county broke up into smaller counties, which had their own castles as administrative centres. Liptovský hrad became the county castle of Liptov, and from 1396 it is also referred to with the epithet Great (Magnum castrum, Magnum castrum Liptovience). In 1397 the castle was occupied by the armies of the Moravian margrave Procop and of Duke Vladislav of Opole, supporters of the Bohemian king Wenceslas IV. In 1399 King Sigismund praised the merits of the nobles in the defence of the castle and rewarded them with donations in Liptov and in the mining region. Thus in 1406 Nicholas Garai obtained the castle and the office of count of Liptov. In 1441 the castle was probably occupied by the Hussites. This may be inferred from the royal donations of 1440 and 1441 to Ladislav Rikolfi of Šarišská Kamenica, which carried the condition that the new owner would have the castle repaired. In 1445 Rikolfi was accused of brigandage and imprisoned. In 1447 the king pardoned him on condition that he would demolish the castle, which had been the centre of robbing expeditions. A charter of 1453 already refers only to a deserted place. In the following year, 1454, John Hunyadi granted estates in Liptov to the Pongrác family. Besides Likava and Liptovský Hrádok, also Liptovský hrad, with the requirement that it be repaired. In 1459 King Matthias Corvinus granted all three Liptov castles and Orava Castle to Peter Komorský, whom he appointed count of Liptov and Orava. Komorovský, however, joined the rebellious nobility, which sympathised with the Polish kings. After concluding the peace of Spišská Nová Ves in 1474 with the Polish king Vladislaus Jagiellon, Matthias Corvinus took the estates from Komorovský and had the buildings and the walls of Liptovský hrad demolished down to the foundations. For more than five hundred years the foundations of the castle were overgrown by dense forest; only the relief of the terrain and the remains of a single wall marked the place where the castle had stood. In 1975 to 1987 an archaeological excavation was carried out and the uncovered foundations of the buildings were conserved. The ruins of Liptovský hrad can be reached by a marked path from the village of Kaľameny. The open-air archaeological exhibition at Liptov Castle above the village of Kaľameny is a detached exhibition of the Liptov Museum in Ružomberok. The remains of the uncovered architecture, after structural and conservation works based on the archaeological excavation, are accessible to the public. Admission to the castle grounds is free.“"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Liptovský hrad",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

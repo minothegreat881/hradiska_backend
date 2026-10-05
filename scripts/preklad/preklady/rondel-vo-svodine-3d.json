@@ -1,0 +1,97 @@
+{
+ "slug": "rondel-vo-svodine-3d",
+ "data": {
+  "title": "The roundel at Svodín – a 3D visualisation of a Neolithic enclosure",
+  "slug": "svodin-neolithic-roundel-3d",
+  "excerpt": "Together with the Dwarf digital archeology project we present a 3D visualisation of the Neolithic roundel discovered at Svodín. This monumental circular enclosure of the Lengyel culture had four gateways, and two of them were aligned on the setting of the high Moon.",
+  "metaTitle": "The roundel at Svodín – a Neolithic enclosure in 3D",
+  "metaDescription": "A 3D visualisation of the Neolithic roundel at Svodín – a monumental circular structure with timber palisades, ditches and four gateways to the cardinal points.",
+  "keyFacts": [
+   {
+    "label": "Location",
+    "value": "The village of Svodín",
+    "icon": "map"
+   },
+   {
+    "label": "Type of structure",
+    "value": "A circular plan enclosed by timber palisades and ditches, with four gateways oriented to the cardinal points",
+    "icon": "building"
+   },
+   {
+    "label": "Period",
+    "value": "The Late Neolithic (4900–4500 BC), the Lengyel culture",
+    "icon": "calendar"
+   },
+   {
+    "label": "Astronomical orientation",
+    "value": "The south-western gateway pointed to the setting of the high Moon (June–September, a cycle of 18.6 years), the north-western gateway to it in the period December–April",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "4900–4500 BC",
+    "title": "The roundel is built",
+    "description": "The roundel was created in the Late Neolithic and belongs to the Lengyel culture.",
+    "type": "era"
+   }
+  ],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In cooperation with the Dwarf digital archeology project we bring you this remarkable new 3D visualisation of the Neolithic roundel which was discovered in the village of Svodín."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "Xp-rTAFbrrA",
+    "url": "https://www.youtube.com/embed/Xp-rTAFbrrA",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "A roundel is a monumental structure with a circular plan bounded by timber palisades and ditches, with four gateways which are mostly oriented to the cardinal points. It occurs in Slovakia, Moravia, Bohemia, Hungary, Bavaria, the Rhineland and also in Britain. These prehistoric structures date from the Late Neolithic (4900–4500 BC) and belong to the so-called Lengyel culture. Roundels are therefore older than the Egyptian pyramids or the famous English Stonehenge."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "One of the best-known roundels is precisely the one at Svodín. Its south-western gateway is oriented towards the direction in which the high Moon (at the maximum of its 18.6-year cycle) sets in the months from June to September. From December to April the Moon set in the direction of the north-western gateway. Each of the gateways into the roundel was oriented towards a particular point on the horizon where the Moon rose or set. At these extreme positions of the rising and setting of the Moon above the Svodín roundel the Sun could never rise or set. \n \n Roundels were built in a single construction phase in the middle of extensive settlements covering 13 to 30 hectares, which consisted of large post-built houses. Four symmetrically placed, opposing entrances usually led into the roundels, but these only rarely shared a common axis. Their orientation towards the main cardinal points positively invites an investigation of possible connections with the movement of the heavenly bodies, with the solstices or with the equinox (such an orientation of structures was not, however, used in the Neolithic).\n \n An analysis of the orientation of the roundels in Slovakia revealed a principle according to which a large proportion of the roundels were primarily oriented towards the directions of the setting of the Moon. They therefore also had an important astronomical role: their orientation enriched the rituals with a calendar which gave them a firm time frame in the worship of the Sun and the Moon. Whether they could also have been used as fortifications against enemies is not known, although their construction could have offered such a possibility.\n\nOrgoň"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "items": []
+   }
+  ]
+ }
+}
