@@ -1,0 +1,84 @@
+{
+ "slug": "pribinova-druzina",
+ "data": {
+  "title": "Pribina's retinue – the names of 9th-century magnates",
+  "slug": "pribina-retinue-names-of-magnates",
+  "excerpt": "The Conversio Bagoariorum et Carantanorum records the names of the members of Pribina's retinue who were present at the consecration of the church at his fortified seat on the river Sála in 850. They are probably the names of the magnates who were forced to leave Nitrava together with Pribina after Mojmír seized it.",
+  "metaTitle": "Pribina's retinue – names of 9th-century magnates",
+  "metaDescription": "The Conversio Bagoariorum et Carantanorum preserves the names of Pribina's retinue — magnates who left Nitrava after Mojmír seized it by military force.",
+  "keyFacts": [
+   {
+    "label": "Source",
+    "value": "The Conversio Bagoariorum et Carantanorum (On the Conversion of the Bavarians and the Carantanians)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Event",
+    "value": "The consecration of the church at Pribina's fortified seat on the river Sála",
+    "icon": "building"
+   },
+   {
+    "label": "Dating",
+    "value": "The year 850",
+    "icon": "calendar"
+   },
+   {
+    "label": "Significance",
+    "value": "The names of 15 members of Pribina's retinue – probably magnates of Nitrava from the first third of the 9th century",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1st third of the 9th c.",
+    "title": "Pribina leaves Nitrava",
+    "description": "Pribina and his retinue had to leave Nitrava after it was seized militarily by Mojmír.",
+    "type": "event"
+   },
+   {
+    "year": "850",
+    "title": "The consecration of the church on the Sála",
+    "description": "Archbishop Liupram consecrated a church in honour of Saint Mary the Mother of God at Pribina's fortified seat on the river Sála, in the presence of Pribina's retinue.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Besides a great deal of other exceptional information, the Conversio Bagoariorum et Carantanorum also brings us one piece of information of extraordinary interest to us – the names of the members of Pribina's retinue, and thus probably the names of the magnates of Nitrava in the first third of the 9th century who, together with Pribina, were forced to leave Nitrava after it was seized militarily by Mojmír."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "So what names did our magnates bear? Read on:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "When, however, some opportunity presented itself in the meantime, then at the request of the faithful men of the aforesaid king Pribina received in benefice a certain part of Lower Pannonia around the river called Sála. Thereupon he settled there and began to build a fortified seat in a certain marshy grove on the bank of the Sála. From all sides he gathered people together and multiplied the number of his subjects. For him (Pribina) Archbishop Adalram had once consecrated a church on his own estate beyond the Danube, at the place called Nitrava. When, therefore, he had built the aforesaid fortified seat, he first had a church erected in it, which in the year 850 was consecrated in honour of Saint Mary the Mother of God by Archbishop Liupram while he was zealously exercising the priestly office in that land. Present at the consecration were: Koceľ, Unzat, Chotemír, Ľutemír, Skrben, Siliz, Vlkina, Vitemír, Trebic, Prisnec, Zemin, Žeška, Grimišin, Gojmír, Žitislav (in the Latin version Chezil, Unzat, Chotemir, Liutemir, Zcurben, Siliz, Wlkina, Witemir, Trebiz, Brisnuz, Zuemir, Zeska, Crimisin, Goimer, Zistilo) Amalrich, Altwart, Wilhelm, Fridepercht Scroť Gunther, another Gunther, Arfrid, Nidrich, Isanpero, Rato, Deotrich, another Deotrich, Madalprecht, Engilhast, Waltker and Deotpald. The magnates present saw and heard the negotiations between Liupram and Pribina on the day when the church was consecrated, that is, on the ninth day before the kalends of February.",
+    "author": "Conversio Bagoariorum et Carantanorum",
+    "source": "On the Conversion of the Bavarians and the Carantanians (9th century)"
+   }
+  ]
+ }
+}

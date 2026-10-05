@@ -1,0 +1,192 @@
+{
+ "slug": "skalka-zahadny-kostolik-na-hradisku",
+ "data": {
+  "title": "Skalka – the mysterious little church on the Chochel hillfort",
+  "slug": "skalka-mysterious-church-on-chochel-hillfort",
+  "excerpt": "Dwarf Digital Archeology has made a visualisation of the mysterious little church that stood on the Slavic hillfort of Chochel at Skalka nad Váhom. Its nave measured only 5.3 × 5.4 – 5.6 m, it may have been built while Great Moravia still existed, and a grave inside it held a man whose head had been removed and whose torso was weighted down with eleven stones.",
+  "metaTitle": "Skalka – a mysterious church on a Slavic hillfort",
+  "metaDescription": "A visualisation of the mysterious church on the Chochel hillfort at Skalka nad Váhom, perhaps from the time of Great Moravia, with a vampire grave inside.",
+  "keyFacts": [
+   {
+    "label": "Location",
+    "value": "the Slavic hillfort of Chochel, Skalka nad Váhom",
+    "icon": "star"
+   },
+   {
+    "label": "The church",
+    "value": "nave 5.3 × 5.4 – 5.6 m + apse (6.2 m); the walls may have been of timber",
+    "icon": "star"
+   },
+   {
+    "label": "Dating",
+    "value": "possibly already from the time of Great Moravia (M. Hanuliak)",
+    "icon": "star"
+   },
+   {
+    "label": "Peculiarity",
+    "value": "a vampire grave in the interior (anti-vampire practices)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9th c. / Great Moravia",
+    "title": "The sacral building",
+    "description": "A little church at the intersection of the axes of the hillfort.",
+    "type": "event"
+   },
+   {
+    "year": "after the church was built",
+    "title": "An anti-vampire burial",
+    "description": "An individual without a skull, weighted down with 11 stones.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5800,
+    "caption": "A visualisation of the possible appearance of the little church, from the workshop of Dwarf Digital Archeology",
+    "alt": "A visualisation of the possible appearance of the little church, from the workshop of Dwarf Digital Archeology"
+   },
+   {
+    "mediaId": 5801,
+    "caption": "The hillfort marked out (L. Šubovič)",
+    "alt": "The hillfort marked out (L. Šubovič)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf Digital Archeology has created an interesting visualisation of the mysterious little church that stood on the Slavic hillfort of Chochel at Skalka nad Váhom."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In the central part of the Slavic "
+       },
+       {
+        "type": "link",
+        "url": "/blog/skalka-nad-vahom",
+        "children": [
+         {
+          "type": "text",
+          "text": "hillfort of Chochel (Skalka nad Váhom)"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", at the intersection of its longitudinal and transverse axes, a sacral building was erected. It consisted of a nave of irregular square plan and a shallowly curved semicircular apse. Its external dimensions are given as 5.3 × 5.4 – 5.6 m, or 6.2 m including the apse. The longitudinal axis of the building, running through the centre of the apse, has a SE – NW direction and is therefore deflected by 43° from the sacral axis laid out on an E – W line. On the southern side two small square projections adjoin the wall; these are evidently the remains of the foundations of a neck-like porch covering the entrance portal."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The building has survived in the form of one or two of the lowest courses of foundation masonry, built of quarried stone of local provenance bonded with mortar. In some stretches of the perimeter masonry the stones were bonded only with clay. The interior floor was covered, in the manner of a terracotta bond, with thin flat sandstone slabs. The complete absence of stones from around the sacral building raises doubts as to whether its perimeter walls, and possibly also the neck-like porch over the entrance portal, were built of this material. Had that been the case, their volume would not have been negligible; it can be estimated at more than 30 m³. The excavation, however, did not record even fragments of mortar binding, which would have remained in place even if the masonry had been dismantled and the stones carried away for secondary use elsewhere. It therefore cannot be ruled out that the walls of the sacral building were built of timber. The concentrated occurrence of iron cramps and nails around the sacral building likewise belongs among the evidence for the use of timber and for the structural joining of some of its parts. The course of the foundation masonry uncovered by the excavation resembles the stone footings of timber sacral buildings, which were made by several techniques in both the Early and the High Middle Ages. From the 10th – 12th centuries such buildings are attested in neighbouring Austria and Poland, but in greater numbers in the countries of western and northern Europe. In most cases they were sacral makeshifts, which after a certain time were replaced with stone ones. According to Milan Hanuliak it is likely that the church was built while Great Moravia still existed. Several circumstances suggest this, such as the siting of the building, common in the 9th century but not occurring in the period when sacral architecture developed in the Hungarian state in the 11th and 12th centuries."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "A visualisation of the possible appearance of the little church, from the workshop of Dwarf Digital Archeology",
+    "alt": "A visualisation of the possible appearance of the little church, from the workshop of Dwarf Digital Archeology",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "A vampire in the sanctuary on the hillfort"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "At first sight the case of the individual from the grave placed in the interior of the sacral building might recall the application of the principle enshrined in the Lex Salica, according to which a sacral building was to be erected over the grave of an important individual. The deceased from the interior of the sanctuary on the Skalka hillfort, however, can hardly have belonged to the contemporary category of more important individuals, because anti-vampire practices were carried out on him, including the subsequent removal of the head and the weighting of the upper part of the torso with eleven stones. As has been mentioned, the skeleton lacked the skull together with five cervical vertebrae, which were subsequently removed from the grave."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Manifestations of this kind are termed posterior anti-vampire practices in the local literature, and they were carried out above all at non-church cemeteries with several lingering manifestations of the pagan rite. From the milieu of Great Moravia we know of several cases of so-called vampire graves, in which individuals were, for ritual reasons, mutilated after death or after burial – above all by the removal of a limb or of the head – or weighted down with large boulders. The purpose of these practices may have been, for example, to ensure that the deceased could not rise from the grave and do evil to the living."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "The hillfort marked out (L. Šubovič)",
+    "alt": "The hillfort marked out (L. Šubovič)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

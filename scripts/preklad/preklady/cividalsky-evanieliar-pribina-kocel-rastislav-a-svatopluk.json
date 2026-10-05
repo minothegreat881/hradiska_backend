@@ -1,0 +1,117 @@
+{
+ "slug": "cividalsky-evanieliar-pribina-kocel-rastislav-a-svatopluk",
+ "data": {
+  "title": "The Cividale Gospel Book – Pribina, Koceľ, Rastislav and Svatopluk",
+  "slug": "cividale-gospel-book-great-moravian-names",
+  "excerpt": "The Cividale Gospel Book is among the most important sources for the beginnings of Slavic history, and its margins carry the names of Svatopluk, Rastislav, Koceľ and Pribina. From the beginning of the second half of the 9th century the monks of Aquileia entered in it the names of the distinguished visitors to their monastery.",
+  "metaTitle": "The Cividale Gospel Book – Svatopluk, Pribina, Rastislav",
+  "metaDescription": "The Cividale Gospel Book, one of the most important sources for the earliest Slovak history, carries the names of Svatopluk, Pribina, Rastislav and Koceľ.",
+  "keyFacts": [
+   {
+    "label": "Manuscript",
+    "value": "The Cividale Gospel Book (the Gospel of St Mark)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Dating of the text",
+    "value": "the 4th – 7th century, copied in the Aquileian village of Monastero",
+    "icon": "calendar"
+   },
+   {
+    "label": "Entries of names",
+    "value": "The middle of the 9th century to the 10th century",
+    "icon": "users"
+   },
+   {
+    "label": "Notable names",
+    "value": "Svatopluk, Rastislav, Koceľ, Pribina and other Great Moravian and Pannonian visitors",
+    "icon": "crown"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "4th – 7th c.",
+    "title": "The original text is written",
+    "description": "The original text of the Cividale Gospel Book was written in the Aquileian village of Monastero.",
+    "type": "event"
+   },
+   {
+    "year": "mid-9th c.",
+    "title": "The entries of Great Moravian names begin",
+    "description": "The monks of Aquileia began to enter in the gospel book the names of distinguished visitors, including the Great Moravian and Pannonian rulers.",
+    "type": "event"
+   },
+   {
+    "year": "8th – 10th c.",
+    "title": "The period of the name entries",
+    "description": "The entering of names in the margins, and later also between the lines of the gospel book, took place roughly in this period.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 4214,
+    "caption": "Koceľ and Pribina",
+    "alt": "Koceľ and Pribina"
+   },
+   {
+    "mediaId": 4215,
+    "caption": "Rastislav",
+    "alt": "Rastislav"
+   },
+   {
+    "mediaId": 4216,
+    "caption": "Svatopluk, Svätožizňa (his wife), Predslav (his son)",
+    "alt": "Svatopluk, Svätožizňa (his wife), Predslav (his son)"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "THE CIVIDALE GOSPEL BOOK is among the most important sources relating to the beginnings of Slavic history, and especially to that of the Slovaks, Bulgarians, Croats and Slovenes. It contains the names of our rulers in the Early Middle Ages - Svatopluk, Pribina and Rastislav. Like many other such monuments, it too has until now not been available online in good quality. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The original text of the Cividale Gospel Book was probably written between the 4th and the 7th century in the Aquileian village of Monastero. For a long time one part of the gospel book — the Gospel of St Mark — was regarded as his authentic manuscript. Today we know that it is only one of many copies. Its exceptional historical importance, however, lies in the marginal entries of the names of distinguished visitors to the monastery mentioned. The making of the entries of names of Great Moravian and Pannonian provenance can essentially be dated to the beginning of the second half of the 9th century. It is assumed that the monks of Aquileia, out of gratitude for the gifts brought to them and out of respect for the visitors, hit upon the idea of entering their names in the most sacred of books. The entering of names continued roughly from the 8th to the 10th century. And so, alongside Lombard and Byzantine rulers, as well as other dignitaries and perhaps also merchants from various parts of Europe, there appear entries of Slavic names such as: Svatopluk, Svätožizňa, Predslav, Rastislav, Koceľ, Pribina, Michael, Sondoke, Braslav, Trpimír. The entries suggest that the distinguished visitors used the monastery of Aquileia as a convenient place to rest after long journeys, which led chiefly to Rome and Venice. In the gospel book the names are at first entered in the order of the folios. Later, however, once the space in the margins of the first folios had been used up, the spaces between the lines of the biblical text itself also began to be used unsystematically."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Koceľ and Pribina",
+    "alt": "Koceľ and Pribina",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "items": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "slug": "zvolen-motova-kresba",
+ "data": {
+  "title": "Zvolen - Môťová – a drawing of a Great Moravian hillfort",
+  "slug": "zvolen-motova-hillfort-drawing",
+  "excerpt": "We present a new drawing of a hillfort – this time Zvolen - Môťová, probably one of the administrative centres of Great Moravia, where one of the magnates governing the county is likely to have had his seat. The site was first surveyed by Štefan Janšák in the 1930s and investigated by Dr Marta Mácelová at the turn of the 1980s and 1990s.",
+  "metaTitle": "Zvolen - Môťová – a Great Moravian hillfort drawn",
+  "metaDescription": "A drawing of the hillfort at Zvolen - Môťová, probably one of the administrative centres of Great Moravia; it was first surveyed by Štefan Janšák in the 1930s.",
+  "keyFacts": [
+   {
+    "label": "Function of the hillfort",
+    "value": "probably an administrative centre of Great Moravia, the seat of a magnate - the governor of the county",
+    "icon": "crown"
+   },
+   {
+    "label": "First survey",
+    "value": "Štefan Janšák, the 1930s",
+    "icon": "scroll"
+   },
+   {
+    "label": "Archaeological excavation",
+    "value": "Dr Marta Mácelová, the turn of the 1980s and 1990s",
+    "icon": "users"
+   },
+   {
+    "label": "Period shown in the drawing",
+    "value": "the 9th century",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "the 1930s",
+    "title": "The first survey of the hillfort",
+    "description": "The hillfort was first surveyed by Štefan Janšák.",
+    "type": "event"
+   },
+   {
+    "year": "the turn of the 1980s and 1990s",
+    "title": "Dr Mácelová's excavation",
+    "description": "The hillfort was investigated by Dr Marta Mácelová, who drew attention to the position of the gateway, to the ditch, to the layout of the buildings and to the magnate's house.",
+    "type": "discovery"
+   },
+   {
+    "year": "the 9th century",
+    "title": "The period shown in the drawing",
+    "description": "The drawing records an artistic impression of the possible appearance of the hillfort in the 9th century.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 6317,
+    "alt": "A drawing of a hillfort with two lines of defensive walls, a gate tower, houses and a cattle enclosure"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We present a new drawing of a hillfort – this time the important hillfort of "
+       },
+       {
+        "type": "link",
+        "url": "/blog/zvolen-motova-hradok-priekopa",
+        "children": [
+         {
+          "type": "text",
+          "text": "Zvolen - Môťová"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", which was probably one of the administrative centres of Great Moravia and which was most likely the seat of one of the magnates – the governors of the county. The hillfort was first surveyed by Štefan Janšák in the 1930s, and at the turn of the 1980s and 1990s it was investigated by Dr Marta Mácelová. After consulting her, and also on the basis of Š. Janšák's description from the 1930s (when the hillfort had not yet been devastated by Roma and by the owners of holiday cabins), we have attempted to create another artistic impression of the possible appearance of the hillfort in the 9th century. Dr Mácelová drew our attention above all to the place where the gateway – the entrance to the hillfort – was located, to the deep ditch from which the hillfort took its name, to the attested and presumed layout of the buildings, and also to the part of the hillfort in which the house where the magnate lived probably stood. This is the largest log building in the picture – close to the gateway. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "It should be recalled, however, that despite our efforts to come as close as possible to reality, this is still only our non-specialist impression and not an archaeological reconstruction. The drawing has not been authorised by Dr Mácelová, because there is not enough scientific evidence for that. The excavation that was carried out at the hillfort does not allow us to form an accurate picture of the layout of its buildings. The built-up area was probably denser, but we have drawn the houses where archaeologists assume them to have been on the basis of finds (for example the remains of hearths) in the places where the landowners allowed them to dig trenches. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The drawing was made for our website by our collaborator Tomáš Humaj."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
