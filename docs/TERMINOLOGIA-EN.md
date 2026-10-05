@@ -463,7 +463,7 @@ odteraz pre celý web.
 | prelamovaný | openwork | |
 | tkáčske (ihlancovité) závažie | (pyramidal) loom weight | |
 | ihlica | pin | *pečatidlová hlavica* → seal-headed pin |
-| jazykovitá rukoväť (meča) | tongue-hilted | |
+| jazykovitá rukoväť (meča) | **flange-hilted sword** | *tongue-hilted* je doslovný, v literatúre sa používa flange-hilted |
 | loďkovitá spona | boat-shaped fibula | |
 | náramenica | armlet, upper-arm ring | odlíšiť od *náramok* = bracelet |
 | birituálny hrob / pohrebisko | biritual grave / cemetery | |
@@ -477,6 +477,10 @@ odteraz pre celý web.
 | juhohalštatský | southern Hallstatt | |
 | kultúra Vekerzug | the Vekerzug culture | |
 | zverný štýl | animal style | |
+| sekera s krídelkami | **winged axe** | nie *axe with wings* |
+| spiecť (val ohňom) | **fuse**; pri roztavení *vitrify* | *vitrified rampart* je ustálený pojem |
+| štvorboká veža | **rectangular tower** | *square* len keď je naozaj štvorcová |
+| nadpriemerne vyspelý | remarkably advanced | nie *exceptionally* — to je silnejšie než originál |
 
 ---
 
