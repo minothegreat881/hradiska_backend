@@ -1,0 +1,249 @@
+{
+ "slug": "surany-3d-rekonstrukcia",
+ "data": {
+  "title": "Šurany – a 3D reconstruction of the vanished castle",
+  "slug": "surany-castle-3d-reconstruction",
+  "excerpt": "We have prepared an idealised reconstruction of Šurany Castle from the period of the Turkish wars. The castle, which stood at the place known as Podzámeček and was protected by two arms of the Nitra that could be made to flood at will, no longer stands today; its most famous period came with the anti-Turkish wars and its captain Tomáš Bosniak.",
+  "metaTitle": "Šurany – a 3D reconstruction of the vanished castle",
+  "metaDescription": "An idealised 3D reconstruction of Šurany Castle from the period of the Turkish wars, which no longer stands today — it once stood at a place called Podzámeček.",
+  "keyFacts": [
+   {
+    "label": "Site",
+    "value": "Šurany, the locality of Podzámeček",
+    "icon": "map"
+   },
+   {
+    "label": "Period of construction",
+    "value": "1382 – 1403",
+    "icon": "calendar"
+   },
+   {
+    "label": "Most famous period",
+    "value": "The anti-Turkish wars, Captain Tomáš Bosniak",
+    "icon": "sword"
+   },
+   {
+    "label": "Defence of the castle",
+    "value": "Encircled by the river Nitra, with the arms flooded by means of sluice gates",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1382 – 1403",
+    "title": "The castle built",
+    "description": "Šurany Castle was evidently built in these years.",
+    "type": "event"
+   },
+   {
+    "year": "1403",
+    "title": "First mention as the castle of Voivode Ctibor",
+    "description": "In this year the castle is already mentioned as the castle of Voivode Ctibor.",
+    "type": "event"
+   },
+   {
+    "year": "1580",
+    "title": "Birth of Tomáš Bosniak",
+    "description": "The captain and owner of the castle Tomáš Bosniak was born; he became famous as a successful fighter against the Turks.",
+    "type": "event"
+   },
+   {
+    "year": "19 December 1634",
+    "title": "Death of Tomáš Bosniak",
+    "description": "The captain of the castle Tomáš Bosniak died.",
+    "type": "event"
+   },
+   {
+    "year": "10 October 1663",
+    "title": "The castle taken by the Turks",
+    "description": "The Turks took Šurany Castle and held it until October 1684.",
+    "type": "event"
+   },
+   {
+    "year": "14 September 1710",
+    "title": "The castle taken by the imperial army",
+    "description": "After it was taken by the imperial army, no one cared for the damaged castle any longer and the ruins were left without an owner.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4248,
+    "alt": "A 3D reconstruction of a masonry manor house with a bastion and a gate tower"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We have prepared for you an idealised reconstruction of Šurany Castle from the period of the Turkish wars. Unfortunately the castle no longer stands today."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The portal "
+       },
+       {
+        "type": "link",
+        "url": "http://hrady.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "hrady.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " states of the castle that it stood in what is today Šurany, at the place known as Podzámeček. As late as 1889, when Michal Matunák wrote about this castle, ruins were still visible on its site. Today you would look for them in vain."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The perimeter of the castle was encircled by the river Nitra – by two of its arms. Šurany Castle had the ground plan of a rhomboid. Two main arms and several further arms of the Nitra provided it with reliable protection. The individual arms were flooded as required by means of sluice gates, and the fields and meadows could be flooded as well, which made any siege of the castle more difficult for potential attackers."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Hrady.sk further states that the castle was evidently built in the years 1382 to 1403. In 1403 it is already mentioned as the castle of Voivode Ctibor. In the following years the castle was a centre of rich life. Its most famous period, however, came in the time of the anti-Turkish wars. An important figure was its owner and captain Tomáš Bosniak. He was born probably in 1580 and died on 19 December 1634, and during his lifetime he became famous as a successful fighter against the Turks. His daughter Žofia Bosniaková married the palatine Wesselényi; she died at "
+       },
+       {
+        "type": "link",
+        "url": "http://www.hrady.sk/strecno/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Strečno"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " Castle and her body survived in mummified form until 2009, when, for incomprehensible reasons, it was "
+       },
+       {
+        "type": "link",
+        "url": "https://nasazilina.sme.sk/c/4374437/podpalac-znicil-vzacnu-mumiu-zofie-bosniakovej.html",
+        "children": [
+         {
+          "type": "text",
+          "text": "destroyed by an arsonist."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Šurany – a 3D reconstruction",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "HpF2qTdq1js",
+    "url": "https://www.youtube.com/embed/HpF2qTdq1js",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The Turks probably took Šurany Castle on 10 October 1663 and held it until October 1684. At the end of the 17th and the beginning of the 18th century it was in the hands of Francis Rákóczi II. His estates' rebellion also brought about the demise of the castle. After it was taken by the imperial army on 14 September 1710, no one cared for the damaged castle. The ruins of the castle were left without an owner."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Besides the 3D video we have also prepared a virtual tour of the castle. Just click on the link below and you can choose for yourself which part of the castle precinct you will visit."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "http://bit.ly/surany",
+        "children": [
+         {
+          "type": "text",
+          "text": "CLICK HERE FOR A VIRTUAL TOUR OF ŠURANY CASTLE"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Source of the text: www.hrady.sk"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In creating the model we drew on the documentation of RNDr. Miroslav Eliáš (Eliáš, Miroslav. Pamätný spis k dejinám Šurianskeho hradu (A Memorandum on the History of Šurany Castle). – 1st ed. – Šurany: Mestské kultúrne stredisko, 2006) and on his model of the castle, which is kept in the Town Museum in Šurany. Valuable expert advice was also contributed by Ing. Peter Gutek."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

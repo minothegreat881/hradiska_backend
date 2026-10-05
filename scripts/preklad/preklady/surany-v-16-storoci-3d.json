@@ -1,0 +1,174 @@
+{
+ "slug": "surany-v-16-storoci-3d",
+ "data": {
+  "title": "Šurany in the 16th century in 3D",
+  "slug": "surany-in-the-16th-century-3d",
+  "excerpt": "Šurany is first mentioned in a charter of the Hungarian king Béla II of 3 September 1138 as “villa Suran”, and by the second half of the 14th century a castle stood here to which 12 villages and hamlets belonged. Our 3D visualisation shows the town and the adjoining castle at the height of their prosperity in the 16th century.",
+  "metaTitle": "Šurany in the 16th century – a 3D reconstruction",
+  "metaDescription": "A 3D reconstruction of Šurany and its castle in the 16th century; the town is first mentioned in 1138 as “villa Suran” in a charter of King Béla II.",
+  "keyFacts": [
+   {
+    "label": "First written mention",
+    "value": "3 September 1138 (a charter of Béla II, “villa Suran”)",
+    "icon": "scroll"
+   },
+   {
+    "label": "Period depicted",
+    "value": "the 16th century, the heyday of the town and the castle",
+    "icon": "calendar"
+   },
+   {
+    "label": "Figures connected with the castle",
+    "value": "Captain Tomáš Bosniak and his daughter Žofia",
+    "icon": "crown"
+   },
+   {
+    "label": "Basis for the visualisation",
+    "value": "RNDr. Miroslav Eliáš and the First Military Survey of Hungary",
+    "icon": "map"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1138",
+    "title": "First written mention of Šurany",
+    "description": "Šurany is first mentioned in a charter of the Hungarian king Béla II of 3 September 1138 as “villa Suran”.",
+    "type": "event"
+   },
+   {
+    "year": "14th century",
+    "title": "Foundation of Šurany Castle",
+    "description": "By the second half of the 14th century Šurany Castle already stood here, and 12 villages and hamlets belonged to it.",
+    "type": "event"
+   },
+   {
+    "year": "1663 – 1684",
+    "title": "Occupation by the Turks",
+    "description": "The castle was occupied by the Turks.",
+    "type": "event"
+   },
+   {
+    "year": "28 April 1644",
+    "title": "The death of Žofia Bosniaková",
+    "description": "The daughter of Captain Tomáš Bosniak died; her incorrupt body later rested in the Loreto chapel at Teplička nad Váhom.",
+    "type": "event"
+   },
+   {
+    "year": "1725",
+    "title": "Demolition of the castle",
+    "description": "The castle was largely demolished.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4603,
+    "alt": "A 3D reconstruction of a small town with rendered houses with thatched roofs, a church in the background"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "As "
+       },
+       {
+        "type": "link",
+        "url": "http://www.surany.sk/mesto/historia",
+        "children": [
+         {
+          "type": "text",
+          "text": "the website of the town of Šurany"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " states, Šurany is first mentioned in a charter of the Hungarian king Béla II of 3 September 1138 as “villa Suran”. By the second half of the 14th century Šurany Castle already stood here and 12 villages and hamlets belonged to it. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In 1663 – 1684 it was occupied by the Turks and in 1725 it was largely demolished. Among the important figures connected with this castle were the castle captain Baron Tomáš Bosniak and his daughter Žofia. Her incorrupt body (she died on 28 April 1644) rested – until it was destroyed by a psychopath – in the Loreto chapel at Teplička nad Váhom near Strečno, where she lived with her husband Fraňo Wesselényi. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "lYHjBSLqUFQ",
+    "url": "https://www.youtube.com/embed/lYHjBSLqUFQ",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/dwarfdigital/?fref=nf",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dwarf digital archeology"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " and hradiska.sk, on the occasion of the Night of Museums event held on 20 May 2017, attempted in cooperation with the Šurany Town Museum to create a 3D visualisation of the possible appearance of the town of Šurany and the adjoining castle in the period of its prosperity in the 16th century. In creating the model we drew on material by RNDr. Miroslav Eliáš (Eliáš, Miroslav. Pamätný spis k dejinám Šurianskeho hradu [A memorandum on the history of Šurany Castle]. - 1st ed. - Šurany: Mestské kultúrne stredisko, 2006) and consulted the details with him. Another important source was the First Military Survey of Hungary, on which the urban layout of the town in the 18th century is still clearly visible and on which the ruin (Rudera) of the by then abandoned castle is also marked. The second military survey of the mid-19th century no longer recorded this ruin, even though that survey is generally far more precise than the first. It is therefore likely that by this period the castle no longer showed even the signs of a clearly visible ruin. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Šurany in the 16th century in 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

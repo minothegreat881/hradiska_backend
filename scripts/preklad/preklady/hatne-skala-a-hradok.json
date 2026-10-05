@@ -1,0 +1,120 @@
+{
+ "slug": "hatne-skala-a-hradok",
+ "data": {
+  "title": "Hatné – Skala and Hrádok: a drawing of two small forts",
+  "slug": "hatne-skala-and-hradok-drawing",
+  "excerpt": "Tomáš Humaj has drawn a slightly romantic impression of both small forts in the village of Hatné, based partly on the present-day situation and partly on a surviving legend according to which the two were joined by a leather bridge. The appearance, equipment and armament of the retinue in the drawing can be placed in the 9th century.",
+  "metaTitle": "Hatné – Skala and Hrádok: a romantic drawing",
+  "metaDescription": "A slightly romantic drawing of both small forts at Hatné by Tomáš Humaj, based on the present-day situation and on a legend recorded in the 19th century.",
+  "keyFacts": [
+   {
+    "label": "Author of the drawing",
+    "value": "Tomáš Humaj",
+    "icon": "users"
+   },
+   {
+    "label": "Small forts shown",
+    "value": "Both small forts in the village of Hatné (Skala and Hrádok)",
+    "icon": "map"
+   },
+   {
+    "label": "Period of the retinue's armament",
+    "value": "the 9th century (Great Moravia)",
+    "icon": "sword"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "the end of the 19th century",
+    "title": "The legend is recorded",
+    "description": "The legend of a leather bridge joining the two small forts was recorded for the first time.",
+    "type": "event"
+   },
+   {
+    "year": "the 1930s",
+    "title": "Štefan Janšák mentions the legend",
+    "description": "Štefan Janšák mentions the legend of the leather bridge between the small forts again in his work.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4310,
+    "caption": "The drawing is called The Local Chieftain's Return from Battle",
+    "alt": "The drawing is called The Local Chieftain's Return from Battle"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Our collaborator Tomáš Humaj has created another splendid drawing of a hillfort. This time we let our imagination off the rein a little and drew a slightly romantic impression of both of the "
+       },
+       {
+        "type": "link",
+        "url": "/blog/hatne",
+        "children": [
+         {
+          "type": "text",
+          "text": "small forts in the village of Hatné"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", based partly on the present-day situation and partly on a surviving legend. According to this legend, which was recorded as early as the end of the 19th century and is mentioned again by Štefan Janšák in the 1930s, the two small forts were joined by a leather bridge. In reality it has not so far been proved archaeologically that both small forts were occupied at the same time, let alone that a leather bridge existed, but what if…"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The rampart of the small fort on Skala was probably somewhat lower than in the picture, and the signal turrets have not so far been confirmed archaeologically. The other parts of the drawing, however, are based on the knowledge available to us about the shape and ground plan of both hillforts in the past, and about the way houses and wooden palisade structures were built in the time of Great Moravia. The appearance, equipment and armament of the retinue can likewise be placed in the period of the 9th century."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "The drawing is called The Local Chieftain's Return from Battle",
+    "alt": "The drawing is called The Local Chieftain's Return from Battle",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Thanks for a splendid piece of work. The picture will form part of the information panel that our Hradiská civic association will put up at the hillfort in Hatné in the future."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

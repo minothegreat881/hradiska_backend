@@ -1,0 +1,120 @@
+{
+ "slug": "nitrianska-blatnica-rotunda-3d",
+ "data": {
+  "title": "Nitrianska Blatnica – the rotunda of St George in 3D",
+  "slug": "nitrianska-blatnica-rotunda-3d-reconstruction",
+  "excerpt": "The church of St George stands in woodland at 450 m above sea level on the Marhát massif, almost 5 km from Nitrianska Blatnica, and is known informally as “Blatnický Ďurko”. The latest research indicates that it was built in the pre-Romanesque period, possibly as early as the time of Great Moravia, and Dwarf digital archeology has visualised how it may then have looked.",
+  "metaTitle": "Nitrianska Blatnica – the rotunda of St George in 3D",
+  "metaDescription": "A 3D visualisation of the rotunda of St George on the Marhát massif near Nitrianska Blatnica, built in the pre-Romanesque period, perhaps under Great Moravia.",
+  "keyFacts": [
+   {
+    "label": "Site",
+    "value": "the church of St George, c. 5 km from Nitrianska Blatnica (the Marhát massif)",
+    "icon": "building"
+   },
+   {
+    "label": "Dating",
+    "value": "9th – beginning of the 10th century (the time of Great Moravia)",
+    "icon": "calendar"
+   },
+   {
+    "label": "3D visualisation",
+    "value": "Dwarf digital archeology in cooperation with hradiska.sk",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9th – early 10th c.",
+    "title": "The presumed construction of the rotunda",
+    "description": "According to the latest research by Jozef Dorica, the rotunda may have been built as early as the time of the Great Moravian Empire.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4558,
+    "alt": "A painted reconstruction of a white rotunda with a circular nave and an apse in the landscape"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "At a distance of 6 km east of the manorial court at Ducové, already on the Nitra side of the Marhát massif, in a belt of woodland at an elevation of 450 m above sea level and almost 5 km from Nitrianska Blatnica, stands the church of St George, a traditional place of pilgrimage for the inhabitants of the surrounding parts of the Váh and Nitra regions. It is also known by the informal name “Blatnický Ďurko”."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "As the latest research, above all that of Jozef Dorica carried out in recent years, indicates, the rotunda was built in the pre-Romanesque period, which, together with its position within the grounds of a magnate's residence, suggests that the rotunda may have been built as early as the time of the Great Moravian Empire, in the 9th or at the beginning of the 10th century."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "1j0X6f0ekS4",
+    "url": "https://www.youtube.com/embed/1j0X6f0ekS4",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf digital archeology, in cooperation with www.hradiska.sk, have attempted to create a visualisation of the possible appearance of the rotunda in the time of Great Moravia. As a basis for furnishing the interior we used photographs of the Sankt Prokulus Kirche of the 8th/9th century, which still stands in Naturno in Italy and in which the original altar and even part of the decoration have been preserved. For the cross and the chalice that are placed on the altar we took our inspiration from pictures in the so-called "
+       },
+       {
+        "type": "link",
+        "url": "http://digital.wlb-stuttgart.de/sammlungen/sammlungsliste/werksansicht/?no_cache=1&tx_dlf%5Bid%5D=1343&tx_dlf%5Bpage%5D=1&tx_dlf%5Bdouble%5D=1&cHash=9ae1462941d5c039f9a4e6c1f37a591a",
+        "children": [
+         {
+          "type": "text",
+          "text": "Stuttgart Psalter"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", which shows interesting details of life in the Early Middle Ages. Thanks go to the archaeologists Hana Chorvátová and Miloš Bernart for providing some of the material. The wider surroundings of the rotunda are modelled only approximately, following the contour lines, but not exactly, since we had no lidar images of the site available. The visualisation also includes an approximate depiction of the later Baroque rebuilding of the rotunda. Here, however, we did not focus on details, since the Baroque rebuilding is relatively well known. Music – Gregorian Chant – Deus, Deus Meus."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Nitrianska Blatnica – the rotunda in 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "slug": "detva-kalamarka-3-d",
+ "data": {
+  "title": "Detva – Kalamárka in 3D: a visualisation of the Slavic hillfort",
+  "slug": "detva-kalamarka-3d-visualisation",
+  "excerpt": "The 3D graphic artist Matej Haulík has visualised the possible appearance of the Slavic hillfort of Detva – Kalamárka, using a lidar model of the terrain supplied by Dr Tibor Lieskovský and advice from Dr Peter Šalkovský, who excavated the site. Because the hillfort stands on a high rock with vertical crags, a solid timber-and-earth rampart with a gateway was needed only on the south-eastern side.",
+  "metaTitle": "Detva – Kalamárka in 3D: the Slavic hillfort",
+  "metaDescription": "A 3D visualisation of the possible appearance of the Slavic hillfort of Detva – Kalamárka by Matej Haulík, built on a lidar model of the terrain.",
+  "keyFacts": [
+   {
+    "label": "Site",
+    "value": "Detva - Kalamárka",
+    "icon": "map"
+   },
+   {
+    "label": "Author of the 3D visualisation",
+    "value": "Matej Haulík",
+    "icon": "users"
+   },
+   {
+    "label": "Expert consultation",
+    "value": "Dr Peter Šalkovský (the Institute of Archaeology SAS)",
+    "icon": "book"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4580,
+    "alt": "A 3D reconstruction of a gateway with a tower, a stone wall and a palisade on a rocky ridge"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In May we were approached by the talented 3D graphic artist Matej Haulík with a project for a 3D visualisation of the possible appearance of the Slavic hillfort of "
+       },
+       {
+        "type": "link",
+        "url": "/blog/detva-kalamarka",
+        "children": [
+         {
+          "type": "text",
+          "text": "Detva - Kalamárka"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". He had already studied up on many things, we advised him on some of the details, I asked Dr Tibor Lieskovský for help with the 3D model of the terrain, and we also asked Dr Peter Šalkovský of the Institute of Archaeology of the Slovak Academy of Sciences, who carried out the excavation at the hillfort, for his advice. Our thanks go to everyone involved, and I am very glad that in this way I can present another Slavic hillfort in 3D."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "As for the model of the hill itself, we started, as I have already indicated, from the lidar model provided to us by Tibor Lieskovský, which helped a great deal. Around most of the perimeter of the hillfort no timber-and-earth rampart has survived, because it would not even have made logical sense, since the hillfort stands on a high rock with vertical crags. It was more easily accessible only from the south-east. It was precisely there that the Slavs built a solid timber-and-earth rampart and a gateway. Around the perimeter of the other parts of the hillfort no more than an enclosing fence may be assumed, for the safety of people and animals."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Detva – Kalamárka in 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The buildings inside are the typical small Slavic log buildings; one of them is larger in size, since we assume it to be the dwelling of the lord of the hillfort. Besides these, there are also farm buildings at the hillfort. Dr Šalkovský pointed out to us that the excavation did not prove such dense building as we have modelled, but with ground-level buildings that are not sunk into the ground this is sometimes difficult to prove. The wooden idol is the author's imagination, we have no archaeological evidence for it, but I think it has brought the hillfort interestingly to life."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
