@@ -1,0 +1,272 @@
+{
+ "slug": "kamenec-pod-vtacnikom-bystricany-povesti",
+ "data": {
+  "title": "The Stone Lord – a legend of the hillfort at Bystričany",
+  "slug": "kamenec-pod-vtacnikom-bystricany-stone-lord-legend",
+  "excerpt": "The first of the legends attached to the hillfort of Kamenec pod Vtáčnikom/Bystričany, published with the permission of its author Mária Mjartanová-Oršulová and of Iveta Géczyová, director of the Upper Nitra Museum in Prievidza. It tells of the proud lord of the castle on the hill of Hrádok, who was turned into a boulder when he could not obtain the bird’s milk that a village girl had asked of him.",
+  "metaTitle": "The Stone Lord – a legend of the Bystričany hillfort",
+  "metaDescription": "A legend attached to the hillfort of Kamenec pod Vtáčnikom/Bystričany, published in the book Bystričany – dianie v obci od prvopočiatkov (2010).",
+  "keyFacts": [
+   {
+    "label": "Author",
+    "value": "Mária Mjartanová-Oršulová",
+    "icon": "book"
+   },
+   {
+    "label": "Site",
+    "value": "Hrádok pod Vtáčnikom, the village of Bystričany",
+    "icon": "map"
+   },
+   {
+    "label": "Motif",
+    "value": "The proud lord of the castle turned into a stone boulder after failing to meet the condition of “bird’s milk”",
+    "icon": "star"
+   },
+   {
+    "label": "Source",
+    "value": "I. Géczyová et al.: Bystričany – dianie v obci od prvopočiatkov, 2010",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "in the past",
+    "title": "A castle on Hrádok",
+    "description": "On the highest and least accessible spot above Bystričany stood a castle whose lord was renowned for his proud and godless nature.",
+    "type": "event"
+   },
+   {
+    "year": "the meeting with the maiden",
+    "title": "The condition of bird’s milk",
+    "description": "The lord of the castle demanded a village girl as the lady of the castle; on the advice of old granny Drozdíčka she set him the condition that she would come only if he handed her bird’s milk in greeting.",
+    "type": "event"
+   },
+   {
+    "year": "midnight",
+    "title": "Turned to stone",
+    "description": "When the lord could not meet the condition, at midnight he cursed the heavens, the castle crumbled to pieces and he was turned into a boulder with the likeness of a human head.",
+    "type": "event"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 4120,
+    "alt": "A black-and-white photograph of a rock tower above a wooded slope"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "With the kind permission of the author Mária Mjartanová-Oršulová and by agreement with PhDr. Iveta Géczyová, director of the Upper Nitra Museum in Prievidza, we bring you the first legend attached to the hillfort of  "
+       },
+       {
+        "type": "link",
+        "url": "/blog/kamenec-pod-vtacnikom-bystricany",
+        "children": [
+         {
+          "type": "text",
+          "text": "Kamenec pod Vtáčnikom/Bystričany"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". My thanks go to both of them for their cooperation and their kindness. The legend was published in the book Bystričany – dianie v obci od prvopočiatkov (Bystričany – life in the village from its earliest beginnings). The second legend from this site can be found in the article O starom Krištofovi (Of Old Krištof). "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In this connection I would draw attention to an issue that troubles more than one person interested in the history, the walking or the rock climbing around Hrádok.  "
+       },
+       {
+        "type": "link",
+        "url": "http://www.outdoorfilmy.sk/clanok/328/lezecka-oblast-hradok-nenechajme-ju-znicit",
+        "children": [
+         {
+          "type": "text",
+          "text": "A quarrying company intends to extract andesite there, and there is a danger that the quarrying will damage the site of Hrádok itself."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "The Stone Lord"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "On the western foot of the Vtáčnik mountains lies the picturesque village of Bystričany. It probably took its name from the Bystrá brook, which flows through the whole village and gives it the character of a brook-side village. Below Rovne there is a wooded hill called Hrádok, where in the past a castle stood on the highest and least accessible spot."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "And what sort of castle would it be if it had no lord of its own? It had one indeed, and no ordinary one at that. Among the common folk all manner of things were said about him. That he was a man of crooked character, a squanderer and a godless fellow. And something more besides. Those who feasted with him day and night maintained that he had never known love and that no tear had ever fallen from his eyes. Yet despite these qualities ascribed to him he was held in respect among the people, and no one dared say a wrong word to him. And he would indeed have fared badly, for the lord trifled with no one and reached straight for his sword."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "He surrounded himself with nothing but riches and, however much money he squandered on all sorts of amusements, his property did not dwindle – quite the opposite. He was the wealthiest of the lords round about, so it was even whispered that he was perhaps in league with the devil himself, and that the devil turned his money from denarii into guldens. “There is nothing in this world that I lack any more,” he often mused. “I have everything that a man’s soul could ask for.”"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Kamenec pod Vtáčnikom / Bystričany – legends",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Once, somewhere in the middle of summer, when the sun was already beating down hard and the ears of rye were catching fire in the fields, he took a fancy to go down into the valley. For who could endure the dark chambers of the castle at such a time? He had his best horse saddled and set out to hunt. He needed no escort. At such moments he felt best alone. Only with great effort did he force his way through the dense forest, which swallowed him whole, as though he had sunk into water. He came out onto the meadows known as Pitvory. There he halted, for he thought he had heard singing."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "He leapt down from his horse and, holding it by the bridle, walked in the direction from which the singing came. Then he caught sight of her. A maiden. She was so absorbed in raking hay that she did not notice him until he was quite close. At the sight of this fragile creature his heart began to pound hard. What was this? In his breast there was being born such a strange, mingled feeling as he had never felt before. “Who are you, fair maiden?” he flattered her, “ and to whom do you belong?” “From the village here. And who are you, sir, that you ask so inquisitively?” “A bold one,” thought the lord.” And do you not know me? I am the lord of that castle yonder, and all this round about belongs to me. So you too are mine. Am I not right?” He took her by the hand. Yet however much he tried to look dignified, he did not awaken her trust. She tore herself away from him. He felt that the hand he had held in his was all covered with calluses. “Will you not come with me to the castle?” he asked plainly, for he knew that this serf girl knew nothing of the choice words with which court ladies are addressed at court. “To the castle, sir? And what would I do there? I know nothing of noble manners, it is my lot to stay here.” “And why should you have to work? Do you think that one cannot live without work? I shall make you the lady of the castle, will you?” “Oh, I do not believe your talk and …. and I must take counsel with my parents.” “I do not mind, then, but know that you will not escape me so easily.” “I shall find you wherever you may hide. And then ….” he did not finish, mounted his horse and vanished at a swift gallop."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "At first the maiden thought it was only a bad dream, but the trampled grass reminded her that it was real, and she remained sitting there, lost in thought."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "From that moment she stopped singing, a twilight of uncertainty settled on her soul and she did not know what to do. “I shall go to old granny Drozdíčka, she will give me the best advice.” “Well, child of mine, here is the advice. You will find it hard to defend yourself against him, you are only a serf’s daughter and such a lord may deal with you as he pleases. I tell you what, come tomorrow after sunset and by then I shall think of something.” “Well then, granny of mine, how is it?” Those were her first words when they met. “I tell you only one thing: set the lord a condition, that you will go to the castle only if he hands you bird’s milk in greeting.” “Bird’s milk?” “But surely… well, that is just the point. I do not believe that he could manage it.”"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "And so it came to pass. The lord arrived and the maiden was already waiting for him. This time she was bolder, for the old granny’s advice pleased her. “Bird’s milk, you say? Very well, you shall have it, but then make yourself ready.” On his arrival at the castle he had his counsellors summoned, and they only shook their heads sadly. But they wondered even more that he should wish to fulfil a condition set by an ordinary village girl. “Your Grace, why should you fulfil the condition? She is your serf. Carry her off by force.” “Fools, your advice is bad. I have given my word as a nobleman, and a nobleman must keep his word even if he should fall in doing so. And I shall keep my word.” Exactly at midnight he went out to the highest place in the castle and in a mighty voice cursed the heavens, calling on all the spirits for help, and after a short while his voice was cut short by a mighty rumbling, after which the castle crumbled to pieces and he was turned into a boulder."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Many, many years passed, and this boulder with the likeness of a human head reminded the people of the neighbourhood of that sad event. Until one day the stonecutters came and removed the head of the “stone lord”, because it was in their way as they quarried stone on the aforementioned Hrádok, of which there is still an abundance here to this day."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}
