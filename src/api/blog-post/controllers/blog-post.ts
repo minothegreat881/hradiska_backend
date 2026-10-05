@@ -80,8 +80,13 @@ interface IndexEntry {
   text: string;           // plný čistý text tela + metadát
 }
 
-// Cache indexu v pamäti. `null` = treba prestaviť (nastavuje lifecycle).
-let CACHE: { builtAt: number; version: string; entries: IndexEntry[] } | null = null;
+/* Cache indexu v pamäti — pre KAŽDÝ jazyk vlastná tabuľka. Anglická stránka
+   musí hľadať a odporúčať v anglických článkoch, nie v slovenských; preto je
+   index per jazyk a `?locale=` hovorí, ktorý sa vráti. Prázdny záznam =
+   treba prestaviť (maže lifecycle pri každej zmene článku). */
+type IndexCache = { builtAt: number; version: string; entries: IndexEntry[] };
+const CACHE: Record<string, IndexCache> = {};
+const JAZYKY = ['sk', 'en'] as const;
 
 // Počty článkov podľa kategórie — to isté, len oddelene, nech sa nemusí
 // stavať celý index kvôli číslam v hlavičke a na dlaždiciach.
@@ -90,7 +95,12 @@ let POCTY: Record<string, number> | null = null;
 export default factories.createCoreController('api::blog-post.blog-post', ({ strapi }) => ({
   /** GET /api/blog-posts/search-index — kompaktný index pre klientske hľadanie. */
   async searchIndex(ctx) {
-    if (!CACHE) {
+    /* Jazyk z dopytu. Neznámy jazyk nehádžeme ako chybu — index je verejný
+       a stránke stačí, že dostane slovenský (pôvodný) obsah. */
+    const ziadany = String(ctx.query?.locale || 'sk');
+    const jazyk = (JAZYKY as readonly string[]).includes(ziadany) ? ziadany : 'sk';
+
+    if (!CACHE[jazyk]) {
       const entries: IndexEntry[] = [];
       const limit = 50;
       // Document service stránkuje cez start/limit (NIE page/pageSize — to ticho
@@ -98,6 +108,7 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
       // max iterácie, keby sa podmienka konca niekedy pošmykla.
       for (let start = 0, guard = 0; guard < 200; start += limit, guard++) {
         const batch = await strapi.documents('api::blog-post.blog-post').findMany({
+          locale: jazyk,
           fields: ['title', 'slug', 'excerpt', 'metaTitle', 'metaDescription', 'authorName', 'originalPublishedDate', 'publishedAt'],
           populate: {
             blocks: true,
@@ -152,11 +163,18 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
         }
         if (batch.length < limit) break;
       }
-      CACHE = { builtAt: Date.now(), version: String(Date.now()), entries };
+      CACHE[jazyk] = { builtAt: Date.now(), version: String(Date.now()), entries };
     }
 
+    const index = CACHE[jazyk];
+
     ctx.set('Cache-Control', 'public, max-age=300');
-    ctx.set('X-Index-Version', CACHE.version);
+    ctx.set('X-Index-Version', index.version);
+    ctx.set('X-Index-Locale', jazyk);
+    /* Dve rôzne odpovede na tej istej adrese — bez tohto by ich sprostredkujúca
+       cache (prehliadač, nginx) poplietla a anglická stránka by dostala
+       slovenský index. */
+    ctx.set('Vary', 'Accept-Encoding');
 
     /* `?bezTextu=1` — tá istá tabuľka bez plných znení článkov.
        Mapa z indexu potrebuje len súradnice, názov a náhľad, ale sťahovala
@@ -166,11 +184,11 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
        parametra a dostane plný index. */
     if (ctx.query?.bezTextu === '1' || ctx.query?.bezTextu === 'true') {
       // `excerpt` a `cover` ostávajú — mapa ich ukazuje v karte lokality.
-      const bezTextu = CACHE.entries.map(({ text, metaTitle, metaDescription, coverOg, ...zvysok }) => zvysok);
-      return { version: CACHE.version, count: bezTextu.length, items: bezTextu };
+      const bezTextu = index.entries.map(({ text, metaTitle, metaDescription, coverOg, ...zvysok }) => zvysok);
+      return { version: index.version, locale: jazyk, count: bezTextu.length, items: bezTextu };
     }
 
-    return { version: CACHE.version, count: CACHE.entries.length, items: CACHE.entries };
+    return { version: index.version, locale: jazyk, count: index.entries.length, items: index.entries };
   },
 
   /**
@@ -203,6 +221,6 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
 
 /** Zneplatní cache indexu aj počtov. Volá lifecycle pri zmene článku. */
 export function invalidateSearchIndex(): void {
-  CACHE = null;
+  for (const j of Object.keys(CACHE)) delete CACHE[j];
   POCTY = null;
 }
