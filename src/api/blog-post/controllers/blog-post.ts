@@ -44,6 +44,22 @@ function coverUrl(cover: any): string | null {
   return cover.formats?.small?.url || cover.formats?.thumbnail?.url || cover.url || null;
 }
 
+/**
+ * Obálka pre sociálne náhľady (`og:image`).
+ *
+ * Náhľad vyššie je 500 px široký — v zozname je to správne, ale do hlavičky
+ * stránky patrí čo najväčší obrázok: Facebook aj LinkedIn chcú aspoň 1200 px
+ * a menší zmenšia na kartu veľkosti poštovej známky. Preto originál... pokiaľ
+ * nie je neúmerne ťažký (`size` je v kB): nad ~4 MB by sa scraperom nestiahol,
+ * tam sa radšej použije zmenšenina `large`.
+ */
+function coverOgUrl(cover: any): string | null {
+  if (!cover) return null;
+  const f = cover.formats || {};
+  if ((cover.size ?? 0) <= 4000) return cover.url || f.large?.url || null;
+  return f.large?.url || f.medium?.url || cover.url || null;
+}
+
 interface IndexEntry {
   slug: string;
   title: string;
@@ -52,6 +68,7 @@ interface IndexEntry {
   categorySlug: string;
   tags: string[];
   cover: string | null;
+  coverOg: string | null; // tá istá obálka v plnej veľkosti — do `og:image`
   place: string | null;   // názov lokality (ak má article location)
   hasLocation: boolean;   // pre delenie roletky Lokality vs Články
   metaTitle: string;      // SEO titulok (pre prerender hlavičky)
@@ -90,9 +107,13 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
             location: true,
             category: { fields: ['name', 'slug'] } as any,
             tags: { fields: ['name'] } as any,
-            coverImage: { fields: ['url', 'formats'] } as any,
+            coverImage: { fields: ['url', 'formats', 'size'] } as any,
           } as any,
           sort: 'publishedAt:desc',
+          /* LEN PUBLIKOVANÉ. Bez toho sa do verejného indexu dostal aj koncept —
+             rozpísaný článok sa dá nájsť hľadaním a prerender mu vyrobí vlastnú
+             stránku s hlavičkou (našlo sa takto testovacie „dsadsad"). */
+          status: 'published',
           start,
           limit,
         } as any);
@@ -117,6 +138,7 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
             categorySlug: p.category?.slug || '',
             tags: (p.tags || []).map((t: any) => t.name).filter(Boolean),
             cover: coverUrl(p.coverImage),
+            coverOg: coverOgUrl(p.coverImage),
             place: p.location?.name || null,
             hasLocation: !!p.location?.name,
             metaTitle: p.metaTitle || '',
@@ -144,7 +166,7 @@ export default factories.createCoreController('api::blog-post.blog-post', ({ str
        parametra a dostane plný index. */
     if (ctx.query?.bezTextu === '1' || ctx.query?.bezTextu === 'true') {
       // `excerpt` a `cover` ostávajú — mapa ich ukazuje v karte lokality.
-      const bezTextu = CACHE.entries.map(({ text, metaTitle, metaDescription, ...zvysok }) => zvysok);
+      const bezTextu = CACHE.entries.map(({ text, metaTitle, metaDescription, coverOg, ...zvysok }) => zvysok);
       return { version: CACHE.version, count: bezTextu.length, items: bezTextu };
     }
 
