@@ -61,7 +61,8 @@ async function main() {
     if (!sk) throw new Error(`slovenský článok so slugom ${slug} sa nenašiel`);
     const documentId = sk.documentId;
 
-    const POPULATE = { coverImage: true, gallery: true, tags: true, category: true, blocks: true, keyFacts: true, timeline: true, quotes: true, location: true };
+    const POPULATE = { coverImage: true, gallery: true, tags: true, category: true, keyFacts: true, timeline: true, quotes: true, location: true,
+      blocks: { populate: '*' } };
 
     /* SNÍMKA SLOVENSKÉHO KONCEPTU. Strapi 5 pri zakladaní novej jazykovej
        verzie prepíše koncept pôvodného jazyka — overené na kópii, aj bez
@@ -70,7 +71,7 @@ async function main() {
 
     /* Odtlačok slovenskej verzie PRED zápisom — po zápise sa porovná. */
     const predSk = await app.documents(UID).findOne({ documentId, locale: 'sk', status: 'published',
-      populate: { coverImage: true, gallery: true, tags: true, category: true, blocks: true, location: true } });
+      populate: POPULATE });
     const odtlacok = (d) => JSON.stringify({
       title: d.title, slug: d.slug, excerpt: d.excerpt, metaTitle: d.metaTitle,
       blokov: (d.blocks || []).length, cover: d.coverImage?.id ?? null,
@@ -100,7 +101,28 @@ async function main() {
       featured: !!predSk.featured,
       readingTime: predSk.readingTime ?? null,
       originalPublishedDate: predSk.originalPublishedDate ?? null,
+      location: predSk.location ? (({ id, ...z }) => z)(predSk.location) : null,
     };
+
+    /* Obrázky v blokoch a bibliografia v Zdrojoch sa neprekladajú — prekladateľ
+       ich ani nepozná (sú to id médií). Dopĺňajú sa pozične zo slovenskej
+       verzie; bez toho je anglický článok bez fotiek a bez zoznamu literatúry.
+       Overené agentom `terminolog-hradiska` na prvej vzorke. */
+    const skBloky = predSk.blocks || [];
+    data.blocks = (data.blocks || []).map((b, i) => {
+      const zo = skBloky[i];
+      if (!zo || zo.__component !== b.__component) return b;
+      const von = { ...b };
+      for (const pole of ['image', 'images', 'secondImage']) {
+        if (zo[pole] === undefined) continue;
+        const idcka = Array.isArray(zo[pole]) ? zo[pole].map((m) => m?.id ?? m) : (zo[pole]?.id ?? zo[pole] ?? null);
+        if (von[pole] === undefined || von[pole] === null || (Array.isArray(von[pole]) && !von[pole].length)) von[pole] = idcka;
+      }
+      if (b.__component === 'content.sources' && Array.isArray(zo.items) && !(b.items || []).length) {
+        von.items = zo.items.map(({ id, ...z }) => z);
+      }
+      return von;
+    });
 
     /* DVA KROKY, NIE JEDEN. `update({ status: 'published' })` zapísal anglický
        text do PUBLIKOVANEJ SLOVENSKEJ verzie — overené na kópii. Najprv sa teda
@@ -130,17 +152,26 @@ async function main() {
 
     /* 1 · anglická verzia existuje a sedí */
     const en = await app.documents(UID).findOne({ documentId, locale: 'en', status: 'published',
-      populate: { coverImage: true, gallery: true, tags: true, category: true, blocks: true } });
+      populate: POPULATE });
+    const spocitaj = (bloky) => (bloky || []).reduce((a, b) => {
+      a.medii += (b.image ? 1 : 0) + (b.images || []).length + (b.secondImage ? 1 : 0);
+      a.zdroje += (b.items || []).length;
+      return a;
+    }, { medii: 0, zdroje: 0 });
+    const vSk = spocitaj(predSk.blocks), vEn = spocitaj(en?.blocks);
     const enOk = en && en.title === data.title && en.slug === data.slug
-      && (en.blocks || []).length === (data.blocks || []).length;
+      && (en.blocks || []).length === (data.blocks || []).length
+      && vEn.medii === vSk.medii && vEn.zdroje === vSk.zdroje
+      && !!en.location === !!predSk.location;
 
     /* 2 · slovenská verzia sa NEPOHLA — to je tu to podstatné */
     const poSk = await app.documents(UID).findOne({ documentId, locale: 'sk', status: 'published',
-      populate: { coverImage: true, gallery: true, tags: true, category: true, blocks: true } });
+      populate: POPULATE });
     const skOk = odtlacok(poSk) === predOdtlacok;
 
     console.log(`\nanglická verzia zapísaná: ${enOk ? 'áno' : 'NIE'}`);
     console.log(`  médiá zdieľané: cover ${en?.coverImage?.id ?? '—'} · galéria ${(en?.gallery || []).length} · štítky ${(en?.tags || []).length} · kategória ${en?.category?.id ?? '—'}`);
+    console.log(`  v blokoch: obrázkov ${vEn.medii}/${vSk.medii} · položiek zdrojov ${vEn.zdroje}/${vSk.zdroje} · poloha ${en?.location ? 'áno' : 'NIE'}`);
     const poSkKoncept = await app.documents(UID).findOne({ documentId, locale: 'sk', status: 'draft', populate: POPULATE });
     const kOdtlacok = (d) => JSON.stringify({ t: d.title, s: d.slug, e: d.excerpt, mt: d.metaTitle,
       b: (d.blocks || []).length, f: (d.keyFacts || []).length, o: (d.timeline || []).length });

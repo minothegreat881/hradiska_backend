@@ -425,6 +425,47 @@ period*, *the Migration Period*). *Time* v odbornom texte nepoužívaj.
 
 ---
 
+## 11b. Doplnené pri prvej vzorke (Molpír)
+
+Termíny, ktoré v slovníku chýbali a pri preklade sa museli rozhodnúť. Platia
+odteraz pre celý web.
+
+| slovensky | anglicky | poznámka |
+|---|---|---|
+| nádvorie (hradiska) | **enclosure** | *courtyard* nepoužívať ani v citáte; predhradie ostáva *bailey* |
+| naše územie | **the territory of present-day Slovakia** | nikdy *our territory* — slovakizmus, viď §11.6 |
+| bašta, bastión | **bastion** | |
+| štvorboká veža | square tower | |
+| podmurovka | stone footing | |
+| stavebná obeta | foundation offering | *in the foundations of the house* |
+| kultové miesto | cult place | |
+| obetisko | sacrificial site; vnútri objektu aj *sacrificial place* | |
+| kopulová pec | domed oven | |
+| lupa (železná) | (iron) bloom | |
+| téglik | crucible | |
+| strelka | arrowhead; v praveku aj *projectile point* | |
+| faléra | phalera | |
+| erbovité kovanie | escutcheon-shaped mount | |
+| prelamovaný | openwork | |
+| tkáčske (ihlancovité) závažie | (pyramidal) loom weight | |
+| ihlica | pin | *pečatidlová hlavica* → seal-headed pin |
+| jazykovitá rukoväť (meča) | tongue-hilted | |
+| loďkovitá spona | boat-shaped fibula | |
+| náramenica | armlet, upper-arm ring | odlíšiť od *náramok* = bracelet |
+| birituálny hrob / pohrebisko | biritual grave / cemetery | |
+| pamiatková obnova | conservation | |
+| AÚ SAV | the Institute of Archaeology of the Slovak Academy of Sciences | ďalej *the Institute* |
+| Považie / Pomoravie | the Váh region / the Morava region | |
+| Jablonický priesmyk | the Jablonica Pass | pomenované priesmyky: *the X Pass* |
+| kalenderberská kultúra | the Kalenderberg culture | |
+| stredodunajská mohylová kultúra | the Middle Danube Tumulus culture | |
+| východohalštatský kultúrny okruh | the Eastern Hallstatt cultural sphere | |
+| juhohalštatský | southern Hallstatt | |
+| kultúra Vekerzug | the Vekerzug culture | |
+| zverný štýl | animal style | |
+
+---
+
 ## 12. Falošní priatelia — zoznam na kontrolu
 
 | v texte | zlý preklad | správne |
@@ -447,6 +488,8 @@ period*, *the Migration Period*). *Time* v odbornom texte nepoužívaj.
 | gombík | button | **gombík** |
 | akropola | citadel | **acropolis** |
 | Sloveni | Slovenes, Slovaks | **the Slavs / the Moravians** |
+| naše územie | our territory | **the territory of present-day Slovakia** |
+| nádvorie | courtyard | **enclosure** |
 | tatársky vpád | Tatar invasion | **the Mongol invasion** |
 | kataster obce | cadastre | **cadastral area of the village** |
 | archeológ | archeologist | **archaeologist** |
