@@ -1,0 +1,38 @@
+{
+ "slug": "rozhovor-o-hradiskach",
+ "data": {
+  "title": "An interview about the work of the Hradiská civic association",
+  "slug": "interview-about-the-hradiska-civic-association",
+  "excerpt": "",
+  "metaTitle": "Interview about the Hradiská civic association",
+  "metaDescription": "An interview about the work of the Hradiská civic association and its efforts on behalf of the knowledge and protection of Slavic hillforts.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "An interview about the work of our Hradiská civic association"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "JwEbqTXA6rU",
+    "url": "https://www.youtube.com/embed/JwEbqTXA6rU",
+    "caption": ""
+   }
+  ]
+ }
+}
