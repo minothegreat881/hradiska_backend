@@ -603,6 +603,11 @@ export interface ApiBlogPostBlogPost extends Struct.CollectionTypeSchema {
   options: {
     draftAndPublish: true;
   };
+  pluginOptions: {
+    i18n: {
+      localized: true;
+    };
+  };
   attributes: {
     authorName: Schema.Attribute.String &
       Schema.Attribute.SetMinMaxLength<{
@@ -652,12 +657,11 @@ export interface ApiBlogPostBlogPost extends Struct.CollectionTypeSchema {
       > &
       Schema.Attribute.DefaultTo<3>;
     keyFacts: Schema.Attribute.Component<'sidebar.key-fact', true>;
-    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    locale: Schema.Attribute.String;
     localizations: Schema.Attribute.Relation<
       'oneToMany',
       'api::blog-post.blog-post'
-    > &
-      Schema.Attribute.Private;
+    >;
     location: Schema.Attribute.Component<'sidebar.location', false>;
     metaDescription: Schema.Attribute.Text &
       Schema.Attribute.SetMinMaxLength<{
