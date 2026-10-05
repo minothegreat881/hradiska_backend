@@ -484,11 +484,79 @@ odteraz pre celý web.
 
 ---
 
+## 11c. Doplnené pri druhej dávke (Rekomberek, Detva – Kalamárka, Veľký Tríbeč)
+
+Termíny, ktoré pri týchto troch článkoch chýbali a terminológ ich musel
+rozhodnúť. Platia odteraz pre celý web.
+
+**Opevnenie a terén**
+
+| slovensky | anglicky | poznámka |
+|---|---|---|
+| obvodový val | **circuit rampart** | |
+| pomocný val | **auxiliary rampart** | |
+| predsunutý val | **outwork** | *outlying / advanced rampart* je prijateľné |
+| škrupinová konštrukcia (valu) | **shell construction** | nem. *Schalenkonstruktion* |
+| roštová konštrukcia | **grillage**; priečna → *transverse grillage* | |
+| blokáda (predlžené valy pri bráne) | **blocking work** | *blockade* je po anglicky vojenská/námorná blokáda — v citáte dobového autora ponechať „blokáda" s glosou |
+| areál (hradiska) | **enclosure** | nadväzuje na §11b (nádvorie → *enclosure*) |
+| kóta | **spot height** | britská geodetická konvencia |
+| ostroh | **promontory** | nie *spur*, keď ide o ostrožnú polohu |
+| stredné Podunajsko | **the Middle Danube region** | región veľkým začiatočným písmenom |
+| Nitrianske hory (Janšákov názov Tríbeča) | **the Nitra hills** | |
+| magistrála (turistická) | **long-distance trail** | *the red Ponitrie long-distance trail* |
+
+**Nálezy a keramika**
+
+| slovensky | anglicky | poznámka |
+|---|---|---|
+| čerieslo | **coulter** | radlica = *ploughshare* (§6) |
+| prevliečka (opaska) | **belt loop** | alt. *strap slide*; nákončie = *strap end* |
+| perlovec, perlový vzor | **beaded pattern, beading** | perleť = *mother-of-pearl* → §12 |
+| obtáčaná keramika | **wheel-finished pottery** | na kruhu točená = *wheel-thrown* |
+| hrebeňová výzdoba | **combed decoration** | |
+| rímsovite vytiahnutý okraj | **cornice-like everted rim** | |
+| závitnica (výzdoba) | **spiral line** | |
+| výrazný črep | **diagnostic sherd** | nie *distinctive* |
+| kovový zliatok | **casting lump**, *melt lump* | *ingot* je zakázaný (§11.7) |
+| kresadlo | **fire-steel** | |
+| oslička | **whetstone** | |
+| dlátko | **small chisel** | |
+| skoba | **cramp** | |
+| podkova | **horseshoe** | |
+| nálezový komplex | **find assemblage** | |
+
+**Obdobia, ľudia, inštitúcie**
+
+| slovensky | anglicky | poznámka |
+|---|---|---|
+| kyjatická kultúra | **the Kyjatice culture** | |
+| blatnicko-mikulčický horizont | **the Blatnica–Mikulčice horizon** | |
+| Bielochorváti, Bielochorvátske kniežatstvo | **the White Croats, the White Croatian principality** | |
+| Arpádovci | **the Árpáds** | |
+| komitát | **comitatus** (*the Zvolen comitatus*) | **kolízia:** §7 používa *comitatus* ako latinský výraz pre družinu. Pri územnej správe sa píše s menom stolice („the Zvolen comitatus"), pri družine *retinue / warband* |
+| prvá doba železná (hallštattská) | **the first Iron Age (the Hallstatt period)** | **len v citátoch dobových autorov**; v redakčnom texte *the Early Iron Age* |
+| LLS, letecké laserové skenovanie | **airborne laser scanning (ALS)** | „produkty LLS" = *ALS data* |
+| sondáž | **test trenching** | sonda = *trench* (§10) |
+| Zadunajsko, zadunajská časť Maďarska | **Transdanubia, Transdanubian Hungary** | |
+| Pamiatkový úrad SR | **the Monuments Board of the Slovak Republic** | |
+| Krajský pamiatkový úrad X | **the Regional Monuments Board in X** | |
+| Rakúska antropologická spoločnosť vo Viedni | **the Anthropological Society in Vienna** | bez *Austrian* — tak sa spoločnosť menuje |
+| AVANS | **the AVANS yearbook** | |
+| AÚ SAV | prvý výskyt **the Institute of Archaeology of the Slovak Academy of Sciences**, ďalej *the Institute of Archaeology SAS* | §11b |
+| poznatky (výsledky výskumu) | **insights** | nie *findings* — koliduje s *finds* (nálezy) |
+
+---
+
 ## 12. Falošní priatelia — zoznam na kontrolu
 
 | v texte | zlý preklad | správne |
 |---|---|---|
 | val | valley, wall, embankment | **rampart** |
+| perleťový (vzor) | mother-of-pearl | **beaded** — slovenské slovo je prepis nem. *Perlmuster* |
+| blokáda (pri bráne) | blockade | **blocking work** |
+| poznatky | findings | **insights** |
+| kovový zliatok | ingot | **casting lump** |
 | hradisko | castle, stronghold, fort | **hillfort** |
 | hrad (stredoveký) | hillfort | **castle** |
 | črep | shard | **sherd** |
