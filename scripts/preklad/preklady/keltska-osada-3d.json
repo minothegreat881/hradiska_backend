@@ -1,0 +1,98 @@
+{
+ "slug": "keltska-osada-3d",
+ "data": {
+  "title": "A Celtic settlement in 3D",
+  "slug": "celtic-settlement-3d-visualisation",
+  "excerpt": "Our new 3D visualisation presents an idealised impression of a Celtic settlement in the territory of southern Slovakia. Besides larger log buildings the Celts used semi-sunken buildings similar to those later known among the Slavs, and the walls of their daub-plastered houses could be coloured and even carry painted decoration.",
+  "metaTitle": "A Celtic settlement in 3D – southern Slovakia",
+  "metaDescription": "A 3D visualisation of an idealised Celtic settlement in southern Slovakia: log buildings, semi-sunken buildings and houses with painted daub walls.",
+  "keyFacts": [
+   {
+    "label": "Culture",
+    "value": "Celtic (La Tène)",
+    "icon": "users"
+   },
+   {
+    "label": "Location",
+    "value": "southern Slovakia",
+    "icon": "map"
+   },
+   {
+    "label": "Period depicted",
+    "value": "around 2,000 years ago",
+    "icon": "calendar"
+   },
+   {
+    "label": "Expert advice",
+    "value": "Radovan Čambal, Branislav Kovár",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "around 2,000 years ago",
+    "title": "A Celtic settlement in southern Slovakia",
+    "description": "The visualisation shows the idealised appearance of a 2,000-year-old Celtic settlement.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6318,
+    "alt": "A 3D reconstruction of a house with a gabled thatched roof and a gable painted red"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We present to you our new 3D visualisation. This time it is an idealised impression of a Celtic settlement in the territory of southern Slovakia. Besides larger log buildings, the Celts used semi-sunken buildings similar to those we know later among the Slavs, but they were bigger and differed in certain details."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Houses with daub “plaster” could have had coloured walls and even painted decoration. We have also used typical Celtic pottery, weapons and a loom. A walk through a 2,000-year-old Celtic village has an atmosphere all of its own."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "xvJt3ZmRpCM",
+    "url": "https://www.youtube.com/embed/xvJt3ZmRpCM",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "For their expert help we thank the archaeologists Radovan Čambal and Branislav Kovár."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

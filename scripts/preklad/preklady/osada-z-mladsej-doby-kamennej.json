@@ -1,0 +1,106 @@
+{
+ "slug": "osada-z-mladsej-doby-kamennej",
+ "data": {
+  "title": "A Neolithic village – a 3D reconstruction of the New Stone Age",
+  "slug": "neolithic-village-3d-reconstruction",
+  "excerpt": "During the relatively short span known as the “Neolithic revolution”, people moved from hunting and gathering to a settled, farming way of life. Our 3D reconstruction shows a small village of the Lengyel culture at the beginning of the 5th millennium BC, with painted house walls, windows, idols, a sanctuary and a roundel in the background.",
+  "metaTitle": "A Neolithic village – the New Stone Age in 3D",
+  "metaDescription": "A 3D reconstruction of a village of the Lengyel culture from the start of the 5th millennium BC, with painted houses, idols, a sanctuary and a roundel.",
+  "keyFacts": [
+   {
+    "label": "Culture",
+    "value": "the Lengyel culture",
+    "icon": "users"
+   },
+   {
+    "label": "Period",
+    "value": "the beginning of the 5th millennium BC (the Neolithic, the New Stone Age)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Features shown",
+    "value": "painted house walls, windows, idols, a sanctuary, a circular roundel",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "5th millennium BC",
+    "title": "A Neolithic village of the Lengyel culture",
+    "description": "The reconstruction shows a small village from the beginning of the 5th millennium BC, from the period of the Lengyel culture.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4560,
+    "alt": "A reconstruction of a long Neolithic house with a painted gable and a thatched roof"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The mystical period of the Neolithic, or the New Stone Age, has fascinated researchers and those interested in history alike for whole decades. During a relatively short span of time, also called the “Neolithic revolution”, people managed to move from the hunter-gatherer way of life practised until then, which depended to a large extent on nature, to a settled, farming way of life, in which people began to grow crops and, in general, to reshape nature in their own image and to change it.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "What is no less fascinating, however, is the enormous progress in technology. Our Neolithic ancestors were able, for instance, to build large long Neolithic houses that were extraordinarily demanding to construct at that time. Pottery of the Neolithic period often has very fine shapes and, above all, exceptional decoration of a kind that we often do not find even several millennia later. The production of agricultural and craft tools from stone also reached its peak at that time. Last but not least, great changes also took place in religion, to which the enormous Neolithic sanctuaries and circular enclosures known as roundels bear witness. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "A village of the New Stone Age",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "np_74gH4s4I",
+    "url": "https://www.youtube.com/embed/np_74gH4s4I",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We are trying to bring this ancient period, several millennia distant from today, closer to you with our ideal reconstruction of a small Neolithic village (the Lengyel culture, the beginning of the 5th millennium BC), in a form in which no one has yet shown it in a 3D animation. We have used coloured paintings on the walls of the houses, windows, idols and a sanctuary, and in the background you may notice a roundel and other interesting features. Please step into the time machine and travel 7 millennia back...\n \n "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

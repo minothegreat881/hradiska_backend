@@ -1,0 +1,133 @@
+{
+ "slug": "utok-frankov-na-hradisko",
+ "data": {
+  "title": "A Frankish attack on a hillfort",
+  "slug": "frankish-attack-on-a-great-moravian-hillfort",
+  "excerpt": "In the time of Great Moravia, Frankish armies repeatedly campaigned against the hillforts of Moravia and present-day Slovakia, and they did not always manage to take them. The Annals of Fulda describe the siege of Rastislav in the fort of Dowina in 864, and Tomáš Humaj has drawn the scene of the defenders repelling an assault.",
+  "metaTitle": "A Frankish attack on a hillfort – Devín in 864",
+  "metaDescription": "How the Franks attacked Great Moravian hillforts: the Annals of Fulda describe the siege of Rastislav at Dowina (Devín) in 864, with a drawing by T. Humaj.",
+  "keyFacts": [
+   {
+    "label": "Topic",
+    "value": "Frankish attacks on Great Moravian hillforts; a drawing by T. Humaj",
+    "icon": "star"
+   },
+   {
+    "label": "Source",
+    "value": "the Annals of Fulda (the siege of Devín, 864)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "864",
+    "title": "The siege of Devín (Dowina)",
+    "description": "King Louis besieged Rastislav but was unable to subdue him; negotiations followed.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5612,
+    "alt": "A drawing of an attack on a hillfort: an army with shields assaulting a wooden palisade across a ditch"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In the period of Great Moravia the territory of present-day Moravia and Slovakia became the target of several military campaigns by the Frankish army under the leadership of the king or of Frankish commanders. In the course of these campaigns there were undoubtedly frequent sieges and battles for the Great Moravian hillforts, which were often very well fortified for their time, so that the Frankish army probably did not always manage to take them."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "One such event is described by the Annals of Fulda as well, in the part in which they report on the siege of Devín:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.quote-block",
+    "text": "The year 864. In August the king, Louis, set out with a great army across the Danube and besieged Rastislav in a certain fort which in the language of that people is called Dowina (that is, Maiden). He, however, did not dare to fight the royal armies, and when he became convinced that he had nowhere to flee, compelled by circumstances he handed over as many hostages, and of such a kind, as the king desired.",
+    "author": null,
+    "source": "The Annals of Fulda (for the year 864)"
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "A Frankish attack on a hillfort",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "As Lukáš Krajčír writes in his article on Devín, in interpreting this report one has to take into account the bias of the Annals of Fulda. The king may indeed have besieged Rastislav with his army, but he was unable to subdue him; the passage about the impossibility of escaping from the town may be an invention. The same goes for the claim that Rastislav did not dare to face him: rather the opposite – Louis did not dare to take the hillfort and needlessly shed the blood of many soldiers. Or else he did attempt to take the hillfort and launched one or possibly more assaults on the ramparts, but Rastislav's soldiers in Devín managed to repel these assaults. When the king saw that he could not subdue Rastislav, he decided to negotiate with him."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Our collaborator Tomáš Humaj has drawn a scene capturing an attack by Frankish soldiers on a Great Moravian hillfort. It could be the hillfort of Devín itself. It is probably the first drawing of its kind to show the defenders of a Great Moravian hillfort in the course of repelling an attack."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "A Frankish attack on a hillfort",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

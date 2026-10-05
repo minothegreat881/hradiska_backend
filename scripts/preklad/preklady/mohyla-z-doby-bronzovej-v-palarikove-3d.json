@@ -1,0 +1,95 @@
+{
+ "slug": "mohyla-z-doby-bronzovej-v-palarikove-3d",
+ "data": {
+  "title": "A Bronze Age burial mound at Palárikovo in 3D",
+  "slug": "palarikovo-bronze-age-burial-mound-3d",
+  "excerpt": "After the Slavic sanctuary at Most pri Bratislave, our collaborator Igor Furugláš presents another unique 3D visualisation: the burial mound at Palárikovo. Pavel Dvořák explains why the rich Late Bronze Age warrior’s grave at the bottom of the mound held no body at all.",
+  "metaTitle": "A Bronze Age burial mound at Palárikovo in 3D",
+  "metaDescription": "A 3D visualisation of the Bronze Age burial mound at Palárikovo, examined by Jozef Paulík before it was levelled: the cenotaph of a warrior. By Igor Furugláš.",
+  "keyFacts": [
+   {
+    "label": "Period",
+    "value": "the Late Bronze Age",
+    "icon": "calendar"
+   },
+   {
+    "label": "Site",
+    "value": "Palárikovo, southern Slovakia",
+    "icon": "map"
+   },
+   {
+    "label": "Type of grave",
+    "value": "a cenotaph (a warrior's symbolic grave)",
+    "icon": "shield"
+   },
+   {
+    "label": "Excavation",
+    "value": "Jozef Paulík",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "the Late Bronze Age",
+    "title": "A warrior's cenotaph in the burial mound",
+    "description": "The archaeologist Jozef Paulík examined the burial mound at Palárikovo and found a rich warrior’s grave at the bottom of it, in which, however, the dead man was not lying — it was a symbolic grave (a cenotaph) for someone who had died far away on a military campaign.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "After the Slavic sanctuary at Most pri Bratislave we present you with another unique 3D visualisation from the workshop of our collaborator Igor Furugláš. The burial mound at Palárikovo."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "Pavel Dvořák says of it:"
+       }
+      ],
+      "level": 2
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "When the archaeologist Jozef Paulík examined the burial mound at Palárikovo in southern Slovakia, which was to be levelled to the ground as part of land-drainage works, he discovered an unbelievably strange thing. At the bottom of the mound there was the rich grave of a warrior from the time of the Late Bronze Age, for whom the mound had indeed been built, but who was not lying in the grave. It is a so-called cenotaph, a symbolic grave which was built for a person who had died, for example, somewhere far away on a military campaign. It was believed that the dead without a grave do harm, and that is why a cenotaph was made for them and they were invited to enter.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "dswsbEtcyts",
+    "url": "https://www.youtube.com/embed/dswsbEtcyts",
+    "caption": ""
+   }
+  ]
+ }
+}

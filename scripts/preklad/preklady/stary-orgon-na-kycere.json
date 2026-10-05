@@ -1,0 +1,84 @@
+{
+ "slug": "stary-orgon-na-kycere",
+ "data": {
+  "title": "Starý Orgoň on Kýčera – the last pagan chieftain",
+  "slug": "stary-orgon-on-kycera-painting",
+  "excerpt": "Starý Orgoň, the figure who has accompanied this website ever since it was founded, comes from an old legend about the last pagan chieftain, who withdrew with his followers deep into the mountains in the heart of the Javorníky and there resisted the spread of the new faith. A painting by Azraelangelo now shows him among the authentic “runic” rocks, whose mysterious carved signs can be observed even today.",
+  "metaTitle": "Starý Orgoň on Kýčera – the last pagan chieftain",
+  "metaDescription": "The legend of Starý Orgoň, the last pagan chieftain, who resisted the new faith in the heart of the Javorníky, in a painting by Azraelangelo.",
+  "keyFacts": [
+   {
+    "label": "Illustrator",
+    "value": "Azraelangelo",
+    "icon": "star"
+   },
+   {
+    "label": "Site",
+    "value": "Orgoňova Kýčera, the Javorníky mountains",
+    "icon": "mountain"
+   },
+   {
+    "label": "Subject",
+    "value": "The legend of the last pagan chieftain",
+    "icon": "scroll"
+   },
+   {
+    "label": "Detail",
+    "value": "Authentic “runic” rocks with mysterious carved signs",
+    "icon": "book"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4122,
+    "alt": "A painting of a bearded man in a tunic and cloak sitting on a boulder carved with signs in a forest beside a stone idol"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Starý Orgoň is a figure who has accompanied this website ever since it was founded. His origin lies in an old "
+       },
+       {
+        "type": "link",
+        "url": "/blog/legenda-o-orgonovej-kycere",
+        "children": [
+         {
+          "type": "text",
+          "text": "legend about the last pagan chieftain"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " who withdrew with his followers deep into the hard-to-reach mountains in the heart of the Javorníky and there resisted the spread of the new faith. I was all the more pleased when I received a lovely gift from my wife – a painting of Starý Orgoň on Kýčera. Its author is Azraelangelo, whom I hereby thank for the splendid work he has done."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The setting, and especially the “runic” rocks with their mysterious carved signs, is authentic – the artist drew them after the real surviving appearance in which they can be observed even today."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

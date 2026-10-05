@@ -1,0 +1,89 @@
+{
+ "slug": "prosne-zlaty-kon-kresba-a-lacka",
+ "data": {
+  "title": "Prosné – Zlatý kôň in a drawing by A. Lacko",
+  "slug": "prosne-zlaty-kon-drawing-by-a-lacko",
+  "excerpt": "Antonín Lacko has drawn an artistic visualisation of the Celtic small fort of Zlatý kôň, whose remains can be seen above the village of Prosné. The narrow, elongated site followed the mountain ridge and probably served the people of the Púchov culture as a refuge in times of danger.",
+  "metaTitle": "Prosné – Zlatý kôň in a drawing by A. Lacko",
+  "metaDescription": "Antonín Lacko's visualisation of the Celtic Púchov culture small fort of Zlatý kôň above Prosné, a ridge-top refuge with a timber-and-earth rampart.",
+  "keyFacts": [
+   {
+    "label": "Site",
+    "value": "Prosné - Zlatý kôň",
+    "icon": "mountain"
+   },
+   {
+    "label": "Illustrator",
+    "value": "Antonín Lacko",
+    "icon": "users"
+   },
+   {
+    "label": "Culture",
+    "value": "Celtic (the Púchov culture)",
+    "icon": "shield"
+   },
+   {
+    "label": "Type of site",
+    "value": "a refuge (small fort)",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6330,
+    "alt": "A pen drawing of a hillfort with a timber palisade and log houses among spruce trees"
+   },
+   {
+    "mediaId": 3647,
+    "caption": "A. Lacko",
+    "alt": "A. Lacko"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Our collaborator Antonín Lacko has drawn this artistic visualisation of the Celtic "
+       },
+       {
+        "type": "link",
+        "url": "/blog/prosne-zlaty-kon",
+        "children": [
+         {
+          "type": "text",
+          "text": "(Púchov culture) small fort of Zlatý kôň"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " for our site; its remains can be seen above the village of Prosné. In the right-hand part of the drawing you can see that the people of the Púchov culture built a timber-and-earth rampart with a timber palisade here, while in the left-hand part the steep slope meant that it was enough simply to set up a timber fence and no rampart had to be built. The small fort probably served as a refuge for the inhabitants of the surrounding settlements in times of danger from the Germanic peoples or other enemies. The small fort had a narrow, elongated shape and followed the mountain ridge."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Our thanks go to the artist, who even risked his life while painting (he was attacked by a wild boar – evidently the guardian of the hillfort).\n \n And as a curiosity, here is the same drawing with a night-time effect..."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

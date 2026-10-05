@@ -1,0 +1,173 @@
+{
+ "slug": "divin-3d",
+ "data": {
+  "title": "Divín 3D – a Gothic castle above the road to the mines",
+  "slug": "divin-castle-3d-reconstruction",
+  "excerpt": "Divín is the ruin of a Gothic castle in the village of Divín, built at the turn of the 12th and 13th centuries to protect the road into the central Slovak mining region and first mentioned in writing in 1329. Our 3D reconstruction shows it at the height of its glory in the early 17th century, when it belonged to the Balaša family.",
+  "metaTitle": "Divín 3D – a Gothic castle above the road to the mines",
+  "metaDescription": "A 3D reconstruction of the Gothic castle of Divín, built at the turn of the 12th and 13th centuries to protect the road into the central Slovak mining region.",
+  "keyFacts": [
+   {
+    "label": "Location",
+    "value": "Divín (Lučenec district)",
+    "icon": "map"
+   },
+   {
+    "label": "Foundation of the castle",
+    "value": "the turn of the 12th and 13th centuries",
+    "icon": "calendar"
+   },
+   {
+    "label": "First written mention",
+    "value": "1329",
+    "icon": "scroll"
+   },
+   {
+    "label": "Type of building",
+    "value": "a Gothic castle, later a Renaissance manor house",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "the turn of the 12th and 13th centuries",
+    "title": "Foundation of Divín Castle",
+    "description": "The castle was built to protect the road into the central Slovak mining region, probably by a member of the Lošonci family of Lučenec.",
+    "type": "event"
+   },
+   {
+    "year": "1329",
+    "title": "First written mention",
+    "description": "The earliest attested written mention of Divín Castle.",
+    "type": "event"
+   },
+   {
+    "year": "1469",
+    "title": "The castle granted to Michal Orság",
+    "description": "After an unsuccessful conspiracy against the king, Matthias Corvinus granted the castle to Michal Orság.",
+    "type": "event"
+   },
+   {
+    "year": "1559",
+    "title": "Construction of a new bailey",
+    "description": "Under the ownership of the Balaša family a new bailey was built, with a bastion and two corner bastions.",
+    "type": "event"
+   },
+   {
+    "year": "1575 – 1593",
+    "title": "Occupation by the Turks",
+    "description": "The Turks took the castle after a long siege and occupied it until 1593, when it was retaken by the royal army together with Bálint Balaša.",
+    "type": "event"
+   },
+   {
+    "year": "1683",
+    "title": "The castle captured and set on fire",
+    "description": "Imperial troops captured the castle and set it on fire because of the predatory excesses of its owner Imrich Balaša.",
+    "type": "event"
+   },
+   {
+    "year": "the early 17th century",
+    "title": "The height of its glory",
+    "description": "The period shown in the 3D reconstruction, when the castle belonged to the Balaša family.",
+    "type": "event"
+   },
+   {
+    "year": "the second half of the 17th century",
+    "title": "Construction of the Renaissance manor house",
+    "description": "In the centre of the village of Divín, below the castle hill, Imrich III Balaša had a Renaissance manor house built.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4554,
+    "alt": "A 3D reconstruction of a stone castle on a hill in mist"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Divín Castle is the ruin of a Gothic castle whose remains lie in the village of Divín."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The castle was built at the turn of the 12th and 13th centuries to protect the road into the central Slovak mining region. The first written mention dates from 1329. It was probably built by a member of the Lošonci family of Lučenec, but after an unsuccessful conspiracy against the king, in which Žigmund and Štefan of Lučenec also took part, Matthias Corvinus granted it to Michal Orság in 1469. Shortly afterwards it was already owned by Ján Nádašdy Ongor, and after his death Žigmund Balaša seized the castle by force. Under the ownership of the Balaša family a new bailey with modern defensive features, that is, a bastion and two corner bastions, was built in 1559. Even these measures, however, did not prevent the Turks from taking it in 1575 after a long siege and period of threat; they occupied it until 1593, when it was retaken by the royal army together with Bálint Balaša. The castle was doomed by the predatory excesses of its owner Imrich Balaša: in 1683 imperial troops captured it and set it on fire. The castle has preserved the masonry and the layout of a medieval castle. It is gradually being uncovered by archaeological excavation and conserved."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Divín 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We present an idealised 3D reconstruction of Divín Castle from the period of its greatest glory at the beginning of the 17th century, when it belonged to the Balaša family. We prepared this reconstruction together with a 3D reconstruction of the Zichy manor house, from a later period, which you will find below."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "f817RDwdLeg",
+    "url": "https://www.youtube.com/embed/f817RDwdLeg",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In the centre of the village of Divín, directly below the Divín castle hill, stands a Renaissance manor house which Imrich III Balaša had built in the second half of the 17th century. The manor house has been declared a national cultural monument. It is surrounded by a fortress wall with four massive bastions. It forms a striking architectural landmark of the village."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

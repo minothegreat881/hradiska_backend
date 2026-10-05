@@ -1,0 +1,81 @@
+{
+ "slug": "basen-o-orgonovi",
+ "data": {
+  "title": "A poem about Orgoň – the last Slavic druid",
+  "slug": "poem-about-orgon-last-slavic-druid",
+  "excerpt": "A poem by Lucia J. about Orgoň the Old, the last Slavic druid who did not accept the cross. When the army with the cross turns his temple to ruins, he curses the god Parom; Parom strikes him down with a thunderbolt, and ever since his soul has groaned imprisoned in a stone with strange runes at Orgoňova kýčera.",
+  "metaTitle": "A poem about Orgoň – the last Slavic druid",
+  "metaDescription": "A poem about Orgoň the Old, the last Slavic druid who refused the cross, his curse upon the god Parom and his soul imprisoned in a stone with strange runes.",
+  "keyFacts": [
+   {
+    "label": "Author",
+    "value": "Lucia J.",
+    "icon": "users"
+   },
+   {
+    "label": "Form",
+    "value": "A poem",
+    "icon": "book"
+   },
+   {
+    "label": "Character",
+    "value": "Orgoň the Old, the Slavic druid, the last who did not accept the cross",
+    "icon": "star"
+   },
+   {
+    "label": "Site",
+    "value": "Orgoňova kýčera",
+    "icon": "mountain"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "the coming of the army",
+    "title": "The cross or death",
+    "description": "An army with the cross comes into the land and forces the inhabitants to give up the old faith; all accept the cross except Orgoň the Old, who remains well hidden.",
+    "type": "event"
+   },
+   {
+    "year": "the curse",
+    "title": "Orgoň's curse",
+    "description": "Orgoň, the Slavic druid, strikes his hand upon the wood as a hammer upon a wedge and curses the god Parom for allowing his temple to perish.",
+    "type": "event"
+   },
+   {
+    "year": "the thunderbolt",
+    "title": "His disappearance and the imprisonment of his soul",
+    "description": "The angered god of thunder Parom strikes with a thunderbolt; not a trace of Orgoň remains and his soul stays imprisoned in a stone with strange runes at Orgoňova kýčera.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4122,
+    "alt": "A painting of a bearded man in a tunic and cloak, sitting on a boulder carved with signs in a forest beside a stone idol"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.poem",
+    "text": "But how beautiful it is,\nthat Slavic nation,\nwhich calls upon nature\nand dwells beneath the Tatras.\n\nBut suddenly, in the distance,\nan army draws near,\nfear flashes from their eyes,\nwith God upon the cross.\n\n“Come now, girl, accept the cross,\nor you will pay dearly for it!\nThrow the idol into the forest!”\n\nAnd the girl nods her head,\nshe fears for her life.\n\nThey all accepted the cross,\nthey gathered up their things,\nthey went down into the valley\nand left the forest behind.\n\nAll of them but one,\nwell hidden away,\nOrgoň the Old.\n\n“Parom, you god of heaven,\nwhy did you allow this?\nYour temple has turned to ruins.\nWhy have you forsaken us?”\n\nHe struck his hand upon the wood,\nas a hammer upon a wedge.\n“I, Orgoň, the Slavic druid,\nI curse you, Parom!”\n\nAnd as he spoke the words,\na thunderbolt struck him.\nTruly he had angered\nthe god of thunder, Parom.\n\nNot a trace left of him –\nof his robe or of his belt.\nOrgoň's soul –\nin prison, in a stone.\n\nIn prison, in a stone\nhis soul is groaning,\nwith strange runes\nthat no one can master.\n\nAn uncommon stone\nthat looks quite common,\nwith strange runes –\nOrgoňova kýčera.",
+    "title": "A poem about Orgoň",
+    "author": "Lucia J.",
+    "source": null
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "A poem about Orgoň",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

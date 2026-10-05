@@ -1,0 +1,113 @@
+{
+ "slug": "tabula-nosice-hradisko",
+ "data": {
+  "title": "An information panel at the Nosice hillfort",
+  "slug": "nosice-hillfort-information-panel",
+  "excerpt": "On All Saints' Day – Samhain in Celtic mythology – we installed an information panel at the Púchov-culture hillfort at Nosice, at the third attempt after bad weather had thwarted the earlier dates. It is already the 19th panel made by our civic association Hradiská, this time with the town of Púchov contributing the funding.",
+  "metaTitle": "An information panel at the Nosice hillfort",
+  "metaDescription": "The 19th information panel of the Hradiská civic association, set up on Samhain at the Púchov-culture hillfort at Nosice, funded by the town of Púchov.",
+  "keyFacts": [
+   {
+    "label": "Activity",
+    "value": "the association's 19th information panel — the Púchov-culture hillfort at Nosice",
+    "icon": "star"
+   },
+   {
+    "label": "Partners",
+    "value": "the town of Púchov, the SAA; drawing by A. Lacko",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "—",
+    "title": "The Nosice panel",
+    "description": "Installed on All Saints' Day (Samhain), at the third attempt because of the weather.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5492,
+    "alt": "The Nosice – Hradisko information panel under a wooden shelter in an autumn forest"
+   },
+   {
+    "mediaId": 5505,
+    "caption": "The rampart of the fortification",
+    "alt": "The rampart of the fortification"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "On All Saints' Day, or Samhain in Celtic mythology, we organised (at the third attempt, because of unfavourable weather on the previous dates) the installation of an information panel at the "
+       },
+       {
+        "type": "link",
+        "url": "/blog/nosice-hradisko",
+        "children": [
+         {
+          "type": "text",
+          "text": "Púchov-culture hillfort at Nosice"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". The panel was made, as usual, by our civic association Hradiská, this time in cooperation with the "
+       },
+       {
+        "type": "link",
+        "url": "http://puchovodedicstvo.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Puchovo dedičstvo civic association"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " and the Slovak Association of Archaeologists, and the town of Púchov contributed to it financially. It is already our 19th information panel in order. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Apart from the lads from our association, particular thanks go to Peter Valach, who helped us at the outset with obtaining the necessary consents, and also to Miloš Vrábel for bringing in the material, without which installing the panel would have been unrealistic. For providing finds from the excavation and for expert consultation we also thank the archaeologist Milan Horňák. The panel was of course placed with the permission of the Regional Monuments Board in Trenčín. For the drawing of the hillfort we are indebted to Antonín Lacko."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The Nosice – Hradisko information panel",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "slug": "nosice-hradisko-3d",
+ "data": {
+  "title": "Nosice – the hillfort in 3D",
+  "slug": "nosice-puchov-culture-hillfort-3d",
+  "excerpt": "A 3D visualisation of the Púchov culture hillfort at Nosice, made by Naj from the ground plan drawn by Martin Olšovský, which can be regarded as the most accurate one available at present. The short video gives a reasonably good impression of the approximate appearance of the hillfort's defences 2,000 years ago.",
+  "metaTitle": "Nosice – a 3D visualisation of the hillfort",
+  "metaDescription": "A 3D visualisation of the Púchov culture hillfort at Nosice and its defences, based on the most accurate ground plan of the site, by Martin Olšovský.",
+  "keyFacts": [
+   {
+    "label": "Culture",
+    "value": "the Púchov culture",
+    "icon": "users"
+   },
+   {
+    "label": "Period depicted",
+    "value": "the defences of the hillfort around 2,000 years ago",
+    "icon": "calendar"
+   },
+   {
+    "label": "Basis of the visualisation",
+    "value": "ground plan after a drawing by Martin Olšovský (the book Po stopách predkov)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "around 2,000 years ago",
+    "title": "The defences of the Púchov culture hillfort",
+    "description": "The 3D visualisation shows the approximate appearance of the defences of the hillfort at Nosice some 2,000 years ago.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6326,
+    "alt": "A 3D model of a hillfort with terraced ramparts, a palisade and a watchtower on a hill"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Today Naj gave us a pleasant surprise with his attempt at a 3D visualisation of the "
+       },
+       {
+        "type": "link",
+        "url": "/blog/nosice-hradisko",
+        "children": [
+         {
+          "type": "text",
+          "text": "Púchov culture hillfort at Nosice."
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " For the ground plan he drew on a drawing by Martin Olšovský published in the book Po stopách predkov (In the Footsteps of Our Ancestors), and it should be said that his plan can be regarded as the most accurate one available at present."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The short video gives a reasonably good impression of the approximate appearance of the defences of the hillfort 2,000 years ago."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "Ifb28OllFLA",
+    "url": "https://www.youtube.com/embed/Ifb28OllFLA",
+    "caption": ""
+   }
+  ]
+ }
+}

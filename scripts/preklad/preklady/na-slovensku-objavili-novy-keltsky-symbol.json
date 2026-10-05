@@ -1,0 +1,122 @@
+{
+ "slug": "na-slovensku-objavili-novy-keltsky-symbol",
+ "data": {
+  "title": "A previously unknown Celtic symbol discovered in Slovakia",
+  "slug": "new-celtic-symbol-discovered-in-slovakia",
+  "excerpt": "In 2018 a unique Celtic clay figurine more than 2,000 years old was found at Tvrdošovce; it was given the name Furiorix and bears a hitherto unknown symbol right on its chest. The archaeologist Radoslav Čambal describes it as a regular lozenge in relief set within a circle – a find that at present has no parallels in the eastern Celtic world.",
+  "metaTitle": "A new Celtic symbol discovered in Slovakia",
+  "metaDescription": "The clay figurine Furiorix from Tvrdošovce, over 2,000 years old, bears a hitherto unknown Celtic symbol: a lozenge in a circle, with no parallels so far known.",
+  "keyFacts": [
+   {
+    "label": "Find",
+    "value": "a Celtic clay figurine, \"Furiorix\" (Tvrdošovce, >2,000 years old)",
+    "icon": "star"
+   },
+   {
+    "label": "Symbol",
+    "value": "a lozenge in relief within a circle — hitherto unknown in the eastern Celtic world",
+    "icon": "star"
+   },
+   {
+    "label": "Specialist",
+    "value": "Radoslav Čambal (Slovak National Museum)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5517,
+    "alt": "A red circular symbol with a lozenge and a solar disc on a black background"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Celtic symbols are usually taken to be above all triskeles with their several variants, the well-known wheel of Taranis or the Celtic cross. In 2018, however, a unique find of a Celtic clay figurine more than 2,000 years old was made in Slovakia (at Tvrdošovce); it was given the name „Furiorix“ and bears right on its chest a hitherto unknown, apparently Celtic symbol. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Radoslav Čambal, an archaeologist of the Slovak National Museum, states of the symbol that it depicts a regular lozenge in relief, placed within a circle formed by an incised groove. In the centre of the lozenge and beside each of its sides there are concentric rings in relief. Above the upper point of the lozenge is a crescent-shaped arc with its ends pointing downwards, terminating in small balls. This is for the time being an absolutely unique find, which at the moment has no parallels in the eastern Celtic world."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "You can read about this symbol and about other unique finds in the book "
+       },
+       {
+        "type": "link",
+        "url": "http://www.skrytepoklady.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Skryté poklady"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " (Hidden Treasures), which can still be obtained at this address: "
+       },
+       {
+        "type": "link",
+        "url": "http://www.skrytepoklady.sk/about/",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.skrytepoklady.sk/about"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "A previously unknown Celtic symbol discovered in Slovakia",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

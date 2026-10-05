@@ -1,0 +1,118 @@
+{
+ "slug": "interaktivna-mapa-hradisk",
+ "data": {
+  "title": "An interactive map of Slovakia's hillforts",
+  "slug": "interactive-map-of-slovak-hillforts",
+  "excerpt": "Together with the podmevon.sk website we have prepared an interactive map of Slovakia marking many of the known hillforts of the Slavs, the Celts and other cultures. Most of the hillforts carry a picture and a link to our article about the site.",
+  "metaTitle": "An interactive map of Slovakia's hillforts",
+  "metaDescription": "An interactive map of Slovakia marking the hillforts of the Slavs, the Celts and other cultures, created together with the podmevon.sk website.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5015,
+    "alt": "A screenshot of a map of Slovakia with a circle marked around a selected site"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Together with the exceptional website "
+       },
+       {
+        "type": "link",
+        "url": "http://www.podmevon.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.podmevon.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " we bring you our newest joint project – an interactive map of Slovakia on which you will find many of the known hillforts of the Slavs, the Celts and other cultures marked. From now on you will always find the map with the hillforts marked on it at the bottom of our page. The map can of course be zoomed in and out, and it can also be switched to satellite mode and to the mode of the hiking map of Slovakia. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Most of the hillforts have a picture of the hillfort and a link to the article about that hillfort which we have on our site www.hradiska.sk attached to them. Clicking on the green hillfort icon opens a \"bubble\" in which you will find the picture of the hillfort mentioned and a \"more information\" button, and it is this button that will take you to our site."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "I also recommend visiting the "
+       },
+       {
+        "type": "link",
+        "url": "http://www.podmevon.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.podmevon.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " server itself, not only when searching for hillforts but also for the many other monuments and tourist attractions of which you will find hundreds on the map, while the individual entries can be filtered elegantly so that the map shows only the kind of monument you choose. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "An interactive map of hillforts",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "A direct link to the www.podmevon.sk site can now also be found in the side panel of our website."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

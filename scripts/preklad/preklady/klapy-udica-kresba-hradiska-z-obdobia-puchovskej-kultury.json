@@ -1,0 +1,138 @@
+{
+ "slug": "klapy-udica-kresba-hradiska-z-obdobia-puchovskej-kultury",
+ "data": {
+  "title": "Klapy (Udiča) – a drawing of the hillfort in the Púchov culture period",
+  "slug": "klapy-udica-puchov-culture-hillfort-drawing",
+  "excerpt": "Hillforts in the mountains of northern Slovakia follow a recurring pattern: a larger hill with fairly steep slopes, a low rampart and, behind it, a dense network of small settlement terraces. Our member Nika (Art by Vesna) has drawn Klapy above Udiča as it may once have looked, using aerial photographs and a lidar model of the site.",
+  "metaTitle": "Klapy (Udiča) – a Púchov culture hillfort drawn",
+  "metaDescription": "A drawing of the Klapy hillfort near Udiča in the Púchov culture period: a steep hill with a low rampart and a dense network of small settlement terraces.",
+  "keyFacts": [
+   {
+    "label": "Site",
+    "value": "Klapy (Udiča)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Illustrator",
+    "value": "Nika (Art by Vesna)",
+    "icon": "users"
+   },
+   {
+    "label": "Periods of occupation",
+    "value": "the Lusatian culture, the Púchov culture (the La Tène and Roman periods)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Basis for the drawing",
+    "value": "aerial photographs and a lidar 3D model (Ing. Tibor Lieskovský)",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "the Final Bronze Age – the Hallstatt period",
+    "title": "The beginnings of this type of fortification",
+    "description": "The practice of building fortifications and upland settlements with a dense network of settlement terraces was first used in the mountain regions of Slovakia by the people of the Lusatian culture.",
+    "type": "era"
+   },
+   {
+    "year": "the La Tène period – the Roman period",
+    "title": "Occupation by the people of the Púchov culture",
+    "description": "Klapy was among the hillforts that were richly occupied in this later period too, as the luxury objects found there show.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4268,
+    "alt": "A drawing of the Klapy hillfort on its hill with lines of palisades, a Celtic horse in the corner"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We have already written in the past about "
+       },
+       {
+        "type": "link",
+        "url": "/blog/klapy-keltske-hradisko",
+        "children": [
+         {
+          "type": "text",
+          "text": "the Klapy hillfort"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", which lies in the cadastral area of the village of Udiča. We have likewise written about several other hillforts that have a very similar manner of construction and arrangement of houses. These are occupations of larger hills with fairly steep slopes, on which there is a low rampart and behind it a fairly dense network of small settlement terraces, on which the houses and farm buildings of the inhabitants were probably situated. From our experience of the excavations we have taken part in recently, it is quite clear that this way of building fortifications and upland settlements began to be used in the mountain regions of Slovakia by the people of the Lusatian culture at some point around the transition from the Final Bronze Age to the Hallstatt period. Most of them were then occupied in later periods by the people of the Púchov culture as well (the La Tène and Roman periods); some of them were occupied in this later period only to a lesser extent and by less wealthy inhabitants, but some, including Klapy, were very wealthy in the Púchov culture period too, as is shown by the luxury objects that were found there. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We often find this type of occupation in the mountain regions of northern Slovakia. So far, however, there is only a minimum of depictions of what such a hillfort might have looked like in antiquity. Most ordinary people interested in history therefore find it hard to imagine what such a hillfort may originally have looked like. We are therefore very glad that our member "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/profile.php?id=100080242262501",
+        "children": [
+         {
+          "type": "text",
+          "text": "Nika (Art by Vesna"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "), who draws very beautifully, undertook to try to draw such a hillfort – specifically Klapy – in such a way that it would come as close as possible to our idea of its original appearance. As a basis we used, besides the aerial photographs we had taken in the past, our own insights from the site, but above all we were greatly helped by the lidar "
+       },
+       {
+        "type": "link",
+        "url": "https://sketchfab.com/3d-models/hradisko-klapy-a-okolie-013d95e76765461790f04f8b6632e969?fbclid=IwAR0lW0d42oZ8zwWBbWN6RGbyVBZ_eVhcPzkUIm96BF5yBIEtzK28WtfOVkg",
+        "children": [
+         {
+          "type": "text",
+          "text": "model of the hillfort provided to us by Ing. Tibor Lieskovský"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". The picture captures both the course of the presumed fortification and the possible appearance of the buildings on the individual terraces. In the foreground there are kilns for firing pottery; here we drew on the find of such kilns in nearby Nosice. Below the hillfort there were settlements of the Púchov culture period, where it can reasonably be assumed that such production areas with kilns and other installations were also located. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Klapy (Udiča) - a drawing of the hillfort in the Púchov culture period",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "slug": "casopis-o-hradiskach-v-tlacenej-podobe",
+ "data": {
+  "title": "The Digitálne HRADISKÁ magazine in printed form?",
+  "slug": "digitalne-hradiska-magazine-in-print",
+  "excerpt": "We are considering printing and selling the Digitálne HRADISKÁ magazine, which at present can only be downloaded as a PDF. Because we would have to fund the whole print run from our own limited resources, we are first asking readers whether they would buy a printed copy at all.",
+  "metaTitle": "The Digitálne Hradiská magazine in print?",
+  "metaDescription": "We are weighing up printing and selling the Digitálne Hradiská magazine, which is so far available only as a PDF download from the internet. Would you buy it?",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5080,
+    "alt": "The cover and an open double-page spread of the digitálne Hradiská magazine on the theme of Celtic lowland settlements"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Friends, we are considering the possibility of printing and selling the Digitálne HRADISKÁ magazine, which at the moment can be downloaded from the net in PDF format. Since we would have to fund the whole printing exclusively from our own limited resources, we cannot risk the sale of the magazine causing us an excessive loss that would endanger the activity of the association.\n \n It is clear from the printer's quotation that if we printed, say, 300 copies, a single copy would have to cost between 4 and 5 euros. Otherwise we would be deep in the red. If, however, 1,000 copies were printed, the price could be around 2.50 euros. The question, though, is whether you would be interested in a printed version at all. It would of course have the occasional typos that occur in the PDF version corrected."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Here, in the top left-hand corner, you will find a poll in which we ask whether you would buy the magazine if it were published in printed form. Please mark the relevant option in it, and from that we shall have a basic idea of whether it makes sense to go on with printing the magazine. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "A magazine about hillforts in printed form",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "slug": "vyuzitie-rozsirenej-reality-pri-popularizacii-archeologie",
+ "data": {
+  "title": "Using “augmented reality” to popularise archaeology",
+  "slug": "augmented-reality-popularising-archaeology",
+  "excerpt": "Dwarf digital archaeology and our portal hradiska.sk are working on a project exploring how so-called augmented reality can be used to popularise archaeology. A single app can be taught to recognise published plans and pictures, so that a leaflet, a book or an information panel brings the reconstruction to life.",
+  "metaTitle": "Augmented reality in popularising archaeology",
+  "metaDescription": "A project of Dwarf digital archaeology and hradiska.sk exploring how augmented reality can open archaeology up to the wider, non-specialist public.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5078,
+    "alt": "A hand holding a tablet showing augmented reality above a leaflet with a drawing of a castle"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf digital archaeology, in cooperation with our portal hradiska.sk, is working on a new project – the possibilities of using so-called “augmented reality” in popularising archaeology. The technology of “augmented reality” has been around for some time and many specialists know it. But we are also interested in the non-specialist public! Since people outside the scientific sphere do not come across this technology very much, we are bringing you a demonstration of how and where it can all be used. We take the view that even some smaller museums and heritage sites know little about its possibilities. It would be good, though, if this technology became part of some projects, publications and educational trails..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Let us take an example that occurred to us: we can upload a database of several images into an augmented-reality app, and once they are scanned and recognised by the app, the augmented reality will be displayed to you on the basis of a scan of any published form, be it a leaflet, a book, a panel and so on. The ground plan of a castle, for instance, more or less does not change from one publication to another, and the app will recognise the images even when they are in a slightly different form (with contour lines, without them and so on). This way we do not need to create our own trigger images, and the augmented reality will respond to everything it recognises – so, as they say, open source."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Using “augmented reality” to popularise archaeology",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "6A_grDf3gLM",
+    "url": "https://www.youtube.com/embed/6A_grDf3gLM",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In our forthcoming magazine we will prepare a series of articles for you about interesting technologies and their use in the sphere of archaeology and history."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

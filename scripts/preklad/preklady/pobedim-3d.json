@@ -1,0 +1,134 @@
+{
+ "slug": "pobedim-3d",
+ "data": {
+  "title": "Pobedim 3D – a reconstruction of a destroyed Slavic hillfort",
+  "slug": "pobedim-hradistia-hillfort-3d-reconstruction",
+  "excerpt": "Our collaborator Naj has made a 3D reconstruction of the well-known Slavic hillfort of Pobedim – Hradištia, which was destroyed, apparently by a military attack, in the course of the 9th or perhaps the 10th century. Thanks to that, a great many interesting finds survived there and were recovered during the excavations of the 1970s led by Darina Bialeková.",
+  "metaTitle": "Pobedim 3D – a destroyed Slavic hillfort",
+  "metaDescription": "A 3D reconstruction of the Slavic hillfort of Pobedim-Hradištia, destroyed by a military attack in the 9th or 10th century, which preserved many finds.",
+  "keyFacts": [
+   {
+    "label": "Site",
+    "value": "Pobedim – Hradištia (a Slavic hillfort)",
+    "icon": "building"
+   },
+   {
+    "label": "Demise of the hillfort",
+    "value": "the 9th or perhaps the 10th century (a military attack)",
+    "icon": "sword"
+   },
+   {
+    "label": "Excavation",
+    "value": "the 1970s, led by Darina Bialeková",
+    "icon": "scroll"
+   },
+   {
+    "label": "3D visualisation",
+    "value": "Naj",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9th–10th century",
+    "title": "Demise of the hillfort",
+    "description": "The hillfort was destroyed, apparently by a military attack, in the course of the 9th or perhaps the 10th century.",
+    "type": "event"
+   },
+   {
+    "year": "the 1970s",
+    "title": "Archaeological excavation",
+    "description": "A great many interesting finds survived at the hillfort and were discovered during the excavations led by Darina Bialeková.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4567,
+    "alt": "A three-dimensional map of the Váh region with the hillfort in the marshland and the surrounding sites marked"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Our collaborator Naj comes with another attempt at a reconstruction of a hillfort. This is the well-known Slavic hillfort of "
+       },
+       {
+        "type": "link",
+        "url": "/blog/pobedim",
+        "children": [
+         {
+          "type": "text",
+          "text": "Pobedim – Hradištia."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The hillfort was destroyed, apparently by a military attack, in the course of the 9th or perhaps the 10th century. For that reason a great many interesting finds survived at the hillfort, which were discovered during the excavations of the 1970s led by the eminent Slovak archaeologist Darina Bialeková."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "For the visualisation the author drew on the published plan of the fortifications, according to which the hillfort was divided into 2 parts – Hradištia and Podhradištia. The internal layout of the buildings in the visualisation is the author’s free notion and is not supported by archaeological excavation. Archaeologists may have at their disposal a plan of the built-up area of the hillfort, which, however, has not been published. If we had it, the visualisation could be duly adjusted according to it, so that it would correspond to reality even more closely.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Pobedim 3D",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We thank the author and look forward to further visualisations of hillforts..."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

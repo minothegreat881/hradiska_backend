@@ -1,0 +1,130 @@
+{
+ "slug": "velmozska-mohyla-holasky-1",
+ "data": {
+  "title": "Holásky 1 – a two-storey magnate’s barrow near Brno",
+  "slug": "holasky-1-hallstatt-magnate-barrow",
+  "excerpt": "A few days ago we presented the Hallstatt barrow no. 2 at Brno-Holásky; barrow no. 1 is even more interesting, because it had 2 storeys. It contained the burial of a warrior with an iron sword and a spear, probably laid on a wooden funeral wagon, and in the centre of the chamber the skeleton of a girl with a gold temple ring.",
+  "metaTitle": "Holásky 1 – a two-storey magnate’s barrow",
+  "metaDescription": "The Hallstatt magnate’s barrow Holásky 1 near Brno had two storeys and held the burial of a warrior, judging by the rich grave goods it contained.",
+  "keyFacts": [
+   {
+    "label": "Grave type",
+    "value": "The burial of a warrior on a wooden funeral wagon",
+    "icon": "sword"
+   },
+   {
+    "label": "Grave goods",
+    "value": "An iron flange-hilted sword, a spear, horse harness",
+    "icon": "shield"
+   },
+   {
+    "label": "Finds",
+    "value": "Amphora-shaped storage vessels, painted amphorae, two embossed bronze bowls, amber beads",
+    "icon": "star"
+   },
+   {
+    "label": "The second person buried",
+    "value": "The skeleton of a girl with a small gold earring/temple ring and a matching bronze piece",
+    "icon": "users"
+   },
+   {
+    "label": "Construction of the barrow",
+    "value": "Two storeys (two levels of the burial chamber)",
+    "icon": "building"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "the Hallstatt period",
+    "title": "Construction of the barrow",
+    "description": "The barrow dates from the Hallstatt period, as does the neighbouring barrow no. 2 at the Brno-Holásky site.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4607,
+    "alt": "A 3D reconstruction of the interior of a chamber grave with painted walls, vessels and a wagon"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "A few days ago we presented the Hallstatt barrow from Brno-Holásky to you. That was the so-called "
+       },
+       {
+        "type": "link",
+        "url": "/blog/velmozska-mohyla-holasky-2",
+        "children": [
+         {
+          "type": "text",
+          "text": "barrow number 2"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". This barrow – number 1 – is, however, even more interesting. It had 2 storeys. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The barrow contained the burial of a warrior, which can be judged from the grave goods. The remains of the person buried did not survive in the damp soil and we can judge the position of the deceased only from the placing of the weapons. By his right hand he had an iron sword with a flange hilt and one spear. Archaeologists conclude that the man buried lay on a wooden funeral wagon. In the southern part of the grave, by the wall of the chamber, lay the remains of horse harness, ornaments and amber beads. In the north-western corner of the chamber there was a group of amphora-shaped storage vessels and amphorae with painted decoration, and also two embossed bronze bowls. In the centre of the chamber lay the skeleton of a girl, who had a gold temple ring on the right side of her head and a bronze one on the left. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The Holásky 1 magnate’s barrow",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "hnC1EgjhuF0",
+    "url": "https://www.youtube.com/embed/hnC1EgjhuF0",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The visualisation is once again the work of Dwarf digital archeology, with expert help from Martin Golec and Zuzana Mírová. And of course … hradiská.sk. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

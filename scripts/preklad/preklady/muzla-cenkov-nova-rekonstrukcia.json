@@ -1,0 +1,159 @@
+{
+ "slug": "muzla-cenkov-nova-rekonstrukcia",
+ "data": {
+  "title": "Mužla-Čenkov – a new reconstruction of the hillfort",
+  "slug": "muzla-cenkov-new-hillfort-reconstruction",
+  "excerpt": "A Slavic hillfort with a dominant guard and military role stood at Mužla-Čenkov on the bank of the Danube in the 9th and 10th centuries. A year after the first attempt, Dwarf digital archeology has substantially improved the visualisation of the site as it may have looked at the end of the 9th century, and has added a virtual tour.",
+  "metaTitle": "Mužla-Čenkov – a new reconstruction of the hillfort",
+  "metaDescription": "A new reconstruction of the Slavic guard hillfort at Mužla-Čenkov of the 9th and 10th centuries, on the bank of the Danube at today's border with Hungary.",
+  "keyFacts": [
+   {
+    "label": "Period of occupation",
+    "value": "9th – 10th century (of greatest importance during Great Moravia)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Location",
+    "value": "Mužla-Čenkov, the locality of Vilmakert, the bank of the Danube on the border with Hungary",
+    "icon": "map"
+   },
+   {
+    "label": "Role of the hillfort",
+    "value": "guard and military",
+    "icon": "shield"
+   },
+   {
+    "label": "Collaboration on the visualisation",
+    "value": "Hradiská.sk and Dwarf digital archeology",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9th – 10th century",
+    "title": "The existence of the Slavic hillfort",
+    "description": "A Slavic hillfort with a dominant guard and military role extended over the locality of Vilmakert near Mužla-Čenkov.",
+    "type": "event"
+   },
+   {
+    "year": "end of the 9th century",
+    "title": "The period shown in the visualisation",
+    "description": "The new visualisation seeks to give an approximate idea of how the Slavic hillfort at Mužla looked sometime at the end of the 9th century.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4556,
+    "alt": "A 3D reconstruction of a rampart with a stone facing and of a ditch, with a settlement by the river in the background"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "A Slavic hillfort extended over the site of Mužla-Čenkov in the 9th and 10th centuries; parts of it lie in what is today the locality of Vilmakert. It can be counted among the hillforts with a dominant guard and military role. The site lies directly on the bank of the Danube, on today's border with Hungary. Thanks to its favourable position it was already occupied in prehistory, but it acquired its greatest importance in the period of the existence of Great Moravia."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "A year ago Hradiská.sk, in cooperation with Dwarf digital archeology, already attempted to create "
+       },
+       {
+        "type": "link",
+        "url": "/blog/muzla-cenkov-3d-vizualizacia-hradiska",
+        "children": [
+         {
+          "type": "text",
+          "text": "an approximate picture of the hillfort"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " in the period of its heyday. Our basis was two monographs by the archaeologists who excavated the hillfort."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "oDujLc1u4-w",
+    "url": "https://www.youtube.com/embed/oDujLc1u4-w",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Over the course of the year the equipment, the software and above all Dwarf's experience in the field of 3D visualisation advanced so far that we decided on a fundamental improvement of the original visualisation. As in the previous case, we are seeking to give an approximate idea of how the Slavic hillfort at Mužla looked sometime at the end of the 9th century."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Besides the video, you can also make use of a virtual tour of the hillfort, in which you choose for yourself which part of the hillfort you want to visit: "
+       },
+       {
+        "type": "link",
+        "url": "http://www.dwarfdigital.cz/muzla/",
+        "children": [
+         {
+          "type": "text",
+          "text": "VIRTUAL TOUR"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The course of the fortification, its composition and the density of the houses follow fairly closely the evidence from the archaeologists that we had available. Besides the dwelling houses, the hillfort of course also contained countless farm buildings, storage pits, refuse pits and all manner of objects of everyday use and clutter, which made up the everyday reality of the hillfort. We modelled some of these additional features, but even so this cannot, of course, be an exact reconstruction of everything that stood on the hillfort."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mužla-Čenkov – a new reconstruction of the hillfort",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

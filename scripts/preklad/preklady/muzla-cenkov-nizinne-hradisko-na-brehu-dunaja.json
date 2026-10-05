@@ -1,0 +1,82 @@
+{
+ "slug": "muzla-cenkov-nizinne-hradisko-na-brehu-dunaja",
+ "data": {
+  "title": "Mužla-Čenkov – a lowland fortified settlement on the bank of the Danube",
+  "slug": "muzla-cenkov-lowland-fortified-settlement-danube",
+  "excerpt": "Our collaborator Tomáš Humaj has drawn the Great Moravian lowland fortified settlement of Mužla-Čenkov on the bank of the Danube. The drawing follows the excavation publication closely for the timber-and-earth rampart with its stone facing, the gateway and the buildings; only the circular sanctuary in the middle of the site is a free addition that archaeology has not yet attested.",
+  "metaTitle": "Mužla-Čenkov – a lowland fort on the Danube",
+  "metaDescription": "Tomáš Humaj's drawing of the Great Moravian lowland fortified settlement at Mužla-Čenkov, with its timber-and-earth rampart and stone facing.",
+  "keyFacts": [
+   {
+    "label": "Type",
+    "value": "a drawing of the Great Moravian lowland fortified settlement of Mužla-Čenkov (T. Humaj)",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5477,
+    "alt": "A pen drawing of a lowland fortified settlement with a gateway, a small bridge over the ditch and buildings inside"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Thanks to our industrious collaborator Tomáš Humaj we bring you another drawing of a Great Moravian hillfort. This time it is the "
+       },
+       {
+        "type": "link",
+        "url": "/blog/muzla-cenkov",
+        "children": [
+         {
+          "type": "text",
+          "text": "lowland fortified settlement of Mužla - Čenkov on the bank of the Danube"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". It should again be noted that this is not an exact archaeological reconstruction; we do, however, have a detailed publication from the excavation of this site at our disposal, and we therefore tried to keep as close to reality as possible, especially as regards the fortification, the gateway and the buildings. The rampart was formed by a timber-and-earth structure with a front stone facing of quarried stone. There was undoubtedly a timber palisade on the crown of the rampart. On the side adjoining the Danube there was a drop of several metres, so it was enough here to build only a timber palisade."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The only element not yet archaeologically attested is the circular sanctuary in the middle of the site. Here we let our imagination off the leash a little, in view of the archaeologists' assumption that pagans lived at the hillfort ... "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mužla - Čenkov – a lowland fortified settlement on the bank of the Danube",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

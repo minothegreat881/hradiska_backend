@@ -1,0 +1,177 @@
+{
+ "slug": "bojna-3d-rekonstrukcia-slovanskeho-hradiska",
+ "data": {
+  "title": "Bojná – a 3D reconstruction of the Slavic hillfort",
+  "slug": "bojna-3d-reconstruction-slavic-hillfort",
+  "excerpt": "Bojná is beyond doubt the best-known Slavic hillfort in Slovakia: the oldest bell in central Europe, gilded plaques from a portable altar and a well-preserved helmet of the 9th century all come from here. Together with Dwarf Digital we built a 3D visualisation of the hillfort as it looked in the 9th century, keeping as close as possible to the archaeological evidence.",
+  "metaTitle": "Bojná – a 3D reconstruction of a Slavic hillfort",
+  "metaDescription": "A 3D reconstruction of Bojná, the best-known Slavic hillfort in Slovakia, home to the oldest bell in central Europe and a helmet of the 9th century.",
+  "keyFacts": [
+   {
+    "label": "Site",
+    "value": "Bojná",
+    "icon": "map"
+   },
+   {
+    "label": "Period",
+    "value": "9th century",
+    "icon": "calendar"
+   },
+   {
+    "label": "Authors of the 3D visualisation",
+    "value": "Dwarf Digital (Igor) and Alexander Filip",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "9th century",
+    "title": "The heyday of the Bojná hillfort",
+    "description": "King Svätopluk ruled in the Principality of Nitra, our ancestors had a strong army and powerful hillforts, while a new religion was making its way here from other parts of Europe.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4541,
+    "alt": "A 3D reconstruction of the gateway of a Slavic hillfort, with a tower, a palisade and a warrior with a shield"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bojná is beyond doubt the best-known Slavic hillfort in Slovakia. With extraordinary finds such as the oldest bell in central Europe, gilded plaques from a portable altar and an exceptionally well-preserved helmet of the 9th century, it has toppled from their pedestal all the hillforts previously known in Slovakia, be it Pobedim, Ducové or countless others."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We had been toying with the possibility of creating a 3D visualisation of it for quite some time. When the mayor of Bojná, Mr Jozef Stankovský, approached us in the spring with a tentative question as to whether we might give it a try, I did not hesitate for a second. And I have to say that the same goes for Igor ("
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/dwarfdigital/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dwarf Digital"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "). The decision to go ahead was taken very quickly."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "RuzF8DTGhSo",
+    "url": "https://www.youtube.com/embed/RuzF8DTGhSo",
+    "caption": ""
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "From the very outset we set ourselves the goal of creating the most precise 3D visualisation of a Slavic hillfort we could, one that would at the same time be a feast for the eyes, that would show even non-specialists as clearly as possible what the hillfort looked like in the 9th century, and that would at the same time keep as faithfully as possible to the archaeological evidence. The ground plan of the hillfort and the exact places where dwelling houses, the fortification and the gateway were documented were discussed with Zbigniew Robak of the Institute of Archaeology of the Slovak Academy of Sciences, so that they would be as accurate as possible."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Bojná – a 3D reconstruction of the Slavic hillfort",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Since we wanted to breathe life into the hillfort so that it would not be merely a ghost town, we worked with Alexander Filip to create original figures of the inhabitants of the hillfort, using Slavic living-history groups such as Slavibor and Veľkomoravania as our models, and our friends brought them to life with their voices. The commentary for the video was recorded for us by Mr Ján Haruštiak, director of the "
+       },
+       {
+        "type": "link",
+        "url": "http://divadlopodbalkonom.sk/kontakt/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Divadlo pod Balkónom"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " theatre in Banská Bystrica."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Igor mixed all of this into a working cocktail that offers a truly amazing visual and acoustic experience. So travel with us back to the 9th century, when King Svätopluk ruled in Great Moravia, our ancestors had a strong army and powerful hillforts, and a new religion was beginning to make its way here from other parts of Europe, a religion that gradually started to push out the old gods…"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Orgoň"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

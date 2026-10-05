@@ -1,0 +1,97 @@
+{
+ "slug": "bina-kresba",
+ "data": {
+  "title": "Bíňa – a drawing of a vast hillfort with three ramparts",
+  "slug": "bina-hillfort-drawing-three-ramparts",
+  "excerpt": "The hillfort of Bíňa covered more than 100 hectares and was surrounded by as many as three rings of massive ramparts, of which the outer and the middle one are still clearly visible in the village today. Tomáš Humaj has drawn our artistic impression of how this hillfort, home to an elite in the time of Great Moravia, may have looked.",
+  "metaTitle": "Bíňa – a drawing of the vast hillfort",
+  "metaDescription": "A drawing of the vast hillfort of Bíňa (over 100 ha), surrounded by three rings of massive ramparts, where an elite lived in the time of Great Moravia.",
+  "keyFacts": [
+   {
+    "label": "Area of the hillfort",
+    "value": "more than 100 hectares",
+    "icon": "map"
+   },
+   {
+    "label": "Fortification",
+    "value": "three rings of massive ramparts",
+    "icon": "shield"
+   },
+   {
+    "label": "Period of elite occupation",
+    "value": "the time of Great Moravia",
+    "icon": "crown"
+   },
+   {
+    "label": "Author of the drawing",
+    "value": "Tomáš Humaj",
+    "icon": "users"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Great Moravia",
+    "title": "Occupation of the hillfort by an elite",
+    "description": "An elite lived at the hillfort in the time of Great Moravia.",
+    "type": "event"
+   },
+   {
+    "year": "the reign of Stephen I",
+    "title": "Possible building of the outer rampart",
+    "description": "It cannot be ruled out that the outer rampart was built only later, during the struggles of the future Hungarian king Stephen I with his opponent Koppány.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6327,
+    "alt": "A pencil drawing: a hillfort with three lines of ramparts with a palisade and gateways"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "I am very glad that we can present another drawing of a hillfort, this time the vast (more than 100 hectares) "
+       },
+       {
+        "type": "link",
+        "url": "/blog/bina",
+        "children": [
+         {
+          "type": "text",
+          "text": "hillfort of Bíňa"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", which was surrounded by as many as three rings of massive ramparts. The outer and the middle rampart are clearly visible in the village even today. An elite lived at the hillfort in the time of Great Moravia, and it cannot be ruled out that the outer rampart was built only later – during the struggles of the future Hungarian king Stephen I with his opponent Koppány. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "So here is our artistic impression of the possible appearance of the hillfort, drawn once again by our collaborator Tomáš Humaj. As for the buildings inside, we chose the principle that “sometimes less is more”. The space behind the outer rampart was probably not built up and could therefore have served as a mustering ground for an army (which would indeed have suited Vajk's army as well); on the other hand, buildings of a grander kind may be assumed in the inner fortified area – the acropolis. The side adjoining the Hron was formed by a steep drop, where there was no need to build ramparts and a simple palisade was enough. On the riverbank we have allowed ourselves to put up a simple jetty and a small fishing hamlet. We hope you like the drawing, and I thank Tomáš for his patience and for the high quality of the work he has done."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "slug": "tabula-na-hradisku-holis-nimnica",
+ "data": {
+  "title": "A new information panel at the Holíš hillfort above Nimnica",
+  "slug": "holis-nimnica-hillfort-information-panel",
+  "excerpt": "On 16 August 2020 our Hradiská civic association, together with enthusiasts from Nimnica, installed a new information panel at Holíš, a hilltop settlement of the Púchov culture on a prominent hill rising above the spa at Nimnica. The heavy panel had to be carried uphill by hand, and it was ceremonially unveiled in front of the public that afternoon.",
+  "metaTitle": "Information panel at the Holíš hillfort, Nimnica",
+  "metaDescription": "In 2020 the Hradiská civic association installed a new information panel at Holíš, a Púchov culture hilltop settlement above the spa at Nimnica.",
+  "keyFacts": [
+   {
+    "label": "Activity",
+    "value": "an information panel at the Púchov culture settlement of Holíš (Nimnica)",
+    "icon": "star"
+   },
+   {
+    "label": "Date",
+    "value": "16 August 2020",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "2020",
+    "title": "Panel at Holíš",
+    "description": "The Hradiská civic association + the group from Nimnica (M. Vrábel); funded by the village of Nimnica.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 5507,
+    "alt": "The Holíš hillfort information panel with text, a drawing of the hillfort and photographs of finds"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "On Sunday 16 August 2020 our Hradiská civic association, in cooperation with a group of enthusiasts from Nimnica gathered around Miloš Vrábel, installed a new information panel at the Púchov culture hilltop settlement of Holíš, a prominent hill rising above the spa at Nimnica. The panel was made, as always, by "
+       },
+       {
+        "type": "text",
+        "text": "Cenwood"
+       },
+       {
+        "type": "text",
+        "text": " and the graphics were taken care of by the Bros brothers. The heavy panel, along with the other tools and the material needed to install it, had to be carried by hand from the off-road vehicles a good way further uphill, but we managed it all without major problems. After installing the panel we had some refreshment, and at 3 p.m. we ceremonially unveiled the panel in the presence of the public. We are glad that, despite the often difficult access on high hills, many enthusiasts always come to our panel unveilings and support us by their presence."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Besides our members and the group from Nimnica mentioned above, our thanks also go to the village of Nimnica, which will fund the panel. We look forward again to the next hillfort where we will put up a new panel. Orgoň"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The information panel at the Holíš hillfort (Nimnica)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   }
+  ]
+ }
+}

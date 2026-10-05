@@ -1,0 +1,133 @@
+{
+ "slug": "slovanska-svatyna-v-moste-pri-bratislave-3d",
+ "data": {
+  "title": "The Slavic sanctuary at Most pri Bratislave in 3D",
+  "slug": "most-pri-bratislave-slavic-sanctuary-3d",
+  "excerpt": "A 3D visualisation by our collaborator Igor Furugláš shows how the pagan sanctuary discovered at Most pri Bratislave may have looked. It is based above all on the articles of the archaeologist Vladimír Turčan, with the addition of a light wicker fence separating the sacred world from the profane – an element not attested archaeologically.",
+  "metaTitle": "Slavic sanctuary at Most pri Bratislave – 3D",
+  "metaDescription": "A 3D visualisation of the possible appearance of the pagan sanctuary discovered at Most pri Bratislave, based on the work of the archaeologist Vladimír Turčan.",
+  "keyFacts": [
+   {
+    "label": "Author of the 3D visualisation",
+    "value": "Igor Furugláš",
+    "icon": "users"
+   },
+   {
+    "label": "Location",
+    "value": "Most pri Bratislave",
+    "icon": "map"
+   },
+   {
+    "label": "Expert basis",
+    "value": "The research of the archaeologist Vladimír Turčan",
+    "icon": "book"
+   },
+   {
+    "label": "Enclosure",
+    "value": "In the reconstruction the sanctuary was surrounded by a light wicker fence, which is not, however, attested archaeologically",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "c. 1,300 years ago",
+    "title": "Worship of the Slavic gods",
+    "description": "In the sanctuary our Slavic ancestors worshipped the ancient Slavic gods.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4317,
+    "caption": "The sanctuary in a mysterious haze...",
+    "alt": "The sanctuary in a mysterious haze..."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We present to you a 3D visualisation of the possible appearance of "
+       },
+       {
+        "type": "link",
+        "url": "/blog/most-pri-bratislave-prva-staroslovanska-svatyna-na-slovensku",
+        "children": [
+         {
+          "type": "text",
+          "text": "the pagan sanctuary that was discovered at Most pri Bratislave."
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " It is the work of our collaborator Igor Furugláš, who created this model for our site. Great thanks are due to him for it."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We drew on the materials available to us, above all on the articles of the archaeologist Vladimír Turčan, who excavated the sanctuary. Unlike an exact reconstruction, we take the view that the sanctuary ought to have been enclosed at least by a light wicker fence, which would thus have symbolically separated the sacred world from the profane. The enclosing of sanctuaries is documented at other sites too, and so we hold that it could have been similar at Most. This element was not, however, attested archaeologically, which is understandable if the fence was not massive and had only a simpler construction."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Take a walk through the pagan sanctuary of our Slavic ancestors, who 1,300 years ago worshipped the ancient Slavic gods in it..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "The sanctuary in a mysterious haze...",
+    "alt": "The sanctuary in a mysterious haze...",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "v6pIyCJeN6I",
+    "url": "https://www.youtube.com/embed/v6pIyCJeN6I",
+    "caption": ""
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "4eLfXhhNGOs",
+    "url": "https://www.youtube.com/embed/4eLfXhhNGOs",
+    "caption": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "slug": "3d-rekonstrukcie",
+ "data": {
+  "title": "3D reconstructions of hillforts and of life in the past",
+  "slug": "3d-reconstructions-of-hillforts",
+  "excerpt": "Slovakia badly lacks good-quality archaeological visualisations, and our site tries to make up for this with drawings and 3D models of hillforts and of life in the Early Middle Ages and in prehistory. In January 2017 the Dwarf digital archeology project was founded, partly in cooperation with the Hradiská civic association, to raise the standard of such visualisations together with archaeologists.",
+  "metaTitle": "3D reconstructions of hillforts",
+  "metaDescription": "Good-quality archaeological visualisations and 3D reconstructions of hillforts and of life in the Early Middle Ages and prehistory from hradiska.sk.",
+  "keyFacts": [
+   {
+    "label": "Project",
+    "value": "Dwarf digital archeology – in cooperation with the Hradiská civic association",
+    "icon": "custom"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "January 2017",
+    "title": "The Dwarf digital archeology project is founded",
+    "description": "A project aimed at better 3D visualisations in archaeology came into being in cooperation with the Hradiská civic association and with several archaeologists.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6328,
+    "alt": "A 3D reconstruction of a circular Slavic hillfort with a timber palisade and ramparts, seen from above"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In Slovakia we currently feel a great lack of good-quality archaeological visualisations, reconstructions and conjectural reconstructions. Our site is trying to improve this unhappy state of affairs at least in part, by occasionally publishing various drawings and 3D visualisations of hillforts and of life in the Early Middle Ages and in prehistory."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In January 2017 a new project called Dwarf digital archeology came into being, partly in cooperation with our civic association Hradiská. Its aim is to take the quality of 3D visualisations in archaeology to a higher level, and cooperation with several archaeologists was established for this purpose."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "You can look at the project's page here: "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/dwarfdigital/?fref=ts",
+        "children": [
+         {
+          "type": "text",
+          "text": "Dwarf digital archeology"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": "."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "A preview of some of the models in progress:"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

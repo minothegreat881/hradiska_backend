@@ -1,0 +1,94 @@
+{
+ "slug": "divinka-velky-vrch-v-dobe-latenskej-kresba",
+ "data": {
+  "title": "Divinka – Veľký Vrch in the La Tène period (a drawing)",
+  "slug": "divinka-velky-vrch-in-the-la-tene-period-drawing",
+  "excerpt": "Divinka – Veľký Vrch is one of the largest hillforts in Slovakia; it was occupied as early as the Bronze Age by the Lusatian culture and then by the people of the Púchov culture, and last of all it was renewed by the Slavs. Our collaborator Naj has taken on the hard task of making a 3D model of how the hillfort might have looked in the time of the Celts.",
+  "metaTitle": "Divinka – Veľký Vrch in the La Tène period",
+  "metaDescription": "An artistic drawing of one of Slovakia's largest hillforts, Divinka – Veľký Vrch, in the La Tène period, when it was held by the Púchov culture.",
+  "keyFacts": [
+   {
+    "label": "Site",
+    "value": "Divinka – Veľký Vrch",
+    "icon": "mountain"
+   },
+   {
+    "label": "Period depicted",
+    "value": "the La Tène period (the people of the Púchov culture)",
+    "icon": "calendar"
+   },
+   {
+    "label": "Illustrator",
+    "value": "Naj",
+    "icon": "users"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 2870,
+    "caption": "The presumed appearance of the hillfort in the La Tène period (the Púchov culture); author of the 3D model: Naj",
+    "alt": "The presumed appearance of the hillfort in the La Tène period (the Púchov culture); author of the 3D model: Naj"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "One of the largest hillforts in Slovakia, "
+       },
+       {
+        "type": "link",
+        "url": "/blog/hradisko-velky-vrch-divinka",
+        "children": [
+         {
+          "type": "text",
+          "text": "Divinka – Veľký Vrch"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", was occupied as early as the Bronze Age by the Lusatian culture and subsequently by the people of the Púchov culture. The last to renew the hillfort were our Slavic ancestors. Our collaborator Naj has taken on the hard task of creating a possible appearance of the hillfort at the time when the Celts, or more precisely the people of the Púchov culture, lived on it. Creating a 3D model of such a large and broken-up hillfort is very hard and demanding on graphics and on the performance of the computer. The advantage of modelling in 3D, however, is that once it is finished practically any view of the hillfort can be generated. To begin with we present several views of the hillfort from a greater distance, and after some time we shall bring detailed views as well. We again point out that this is our own idea of what the hillfort looked like and not a scientific reconstruction, even though we consulted an archaeologist on some of the details."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Divinka – Veľký Vrch in the La Tène period (a drawing)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "children": [
+       {
+        "type": "text",
+        "text": "A few newer, more detailed views:\n \n "
+       }
+      ],
+      "level": 2
+     }
+    ]
+   }
+  ]
+ }
+}
