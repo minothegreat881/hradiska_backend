@@ -36,22 +36,12 @@
       "required": false,
       "allowedTypes": [
         "images"
-      ],
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      ]
     },
     "coverPosition": {
       "type": "string",
       "default": "center center",
-      "maxLength": 50,
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "maxLength": 50
     },
     "gallery": {
       "type": "media",
@@ -59,93 +49,48 @@
       "required": false,
       "allowedTypes": [
         "images"
-      ],
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      ]
     },
     "galleryColumns": {
       "type": "integer",
       "required": false,
       "default": 3,
       "min": 2,
-      "max": 4,
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "max": 4
     },
     "category": {
       "type": "relation",
       "relation": "manyToOne",
       "target": "api::blog-category.blog-category",
-      "inversedBy": "posts",
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "inversedBy": "posts"
     },
     "tags": {
       "type": "relation",
       "relation": "manyToMany",
       "target": "api::blog-tag.blog-tag",
-      "inversedBy": "posts",
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "inversedBy": "posts"
     },
     "authorName": {
       "type": "string",
-      "maxLength": 100,
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "maxLength": 100
     },
     "featured": {
       "type": "boolean",
-      "default": false,
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "default": false
     },
     "readingTime": {
       "type": "integer",
-      "min": 1,
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "min": 1
     },
     "originalPublishedDate": {
       "type": "datetime",
-      "description": "Pôvodný publish dátum (napr. z Blogger migrácie). Strapi managed publishedAt sa nastavuje pri publish action; frontend zobrazuje originalPublishedDate || publishedAt.",
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "description": "Pôvodný publish dátum (napr. z Blogger migrácie). Strapi managed publishedAt sa nastavuje pri publish action; frontend zobrazuje originalPublishedDate || publishedAt."
     },
     "comments": {
       "type": "relation",
       "relation": "oneToMany",
       "target": "api::blog-comment.blog-comment",
-      "mappedBy": "post",
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "mappedBy": "post"
     },
     "metaTitle": {
       "type": "string",
@@ -175,12 +120,7 @@
     "location": {
       "type": "component",
       "repeatable": false,
-      "component": "sidebar.location",
-      "pluginOptions": {
-        "i18n": {
-          "localized": false
-        }
-      }
+      "component": "sidebar.location"
     },
     "keyFacts": {
       "type": "component",
