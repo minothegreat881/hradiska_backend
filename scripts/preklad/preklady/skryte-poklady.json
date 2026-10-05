@@ -1,0 +1,40 @@
+{
+ "slug": "skryte-poklady",
+ "data": {
+  "title": "Hidden Treasures – a book on the finds from Tvrdošovce",
+  "slug": "hidden-treasures-tvrdosovce-finds",
+  "excerpt": "The Hradiská civic association helped to prepare and publish a new book on the latest archaeological finds from the extensive settlement at Tvrdošovce, an excavation in which its members took part. The volume is filled with professional colour photographs of finds from the time of the Celts and the Germanic peoples, many of which have no parallel in Slovakia.",
+  "metaTitle": "Hidden Treasures – a book on the Tvrdošovce finds",
+  "metaDescription": "A new book presents the latest archaeological finds from the extensive settlement at Tvrdošovce, in colour photographs of Celtic and Germanic artefacts.",
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The Hradiská civic association helped to prepare and publish a new book on the latest archaeological finds from the extensive settlement in the village of Tvrdošovce, an excavation in which members of our association also took part. The book contains countless professional colour photographs of finds from the time of the Celts and the Germanic peoples, as well as from other periods, many of which have no parallel in Slovakia. Only a limited number of copies has been published, and I therefore recommend that anyone who wants to obtain this exceptional book should visit our "
+       },
+       {
+        "type": "link",
+        "url": "http://www.skrytepoklady.sk/about/",
+        "children": [
+         {
+          "type": "text",
+          "text": "order form"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " as soon as possible."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

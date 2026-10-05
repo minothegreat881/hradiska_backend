@@ -1,0 +1,58 @@
+{
+ "slug": "kniha-ozivena-archeologia",
+ "data": {
+  "title": "Oživená archeológia – a full-colour book of our visualisations",
+  "slug": "ozivena-archeologia-book-of-visualisations",
+  "excerpt": "Dwarf Digital Archeology, in cooperation with hradiska.sk, is publishing an exceptional full-colour printed book with our most interesting visualisations. It costs 15 euros and the print run is limited to 100 copies.",
+  "metaTitle": "Oživená archeológia – a book of our visualisations",
+  "metaDescription": "Dwarf Digital Archeology and hradiska.sk are publishing Oživená archeológia, a full-colour book of our most interesting visualisations, limited to 100 copies.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf Digital Archeology, in cooperation with hradiska.sk, is publishing an exceptional full-colour printed book with our most interesting visualisations. It costs 15 euros and the print run is limited to 100 copies."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "On the website "
+       },
+       {
+        "type": "link",
+        "url": "http://www.ozivena-archeologia.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.ozivena-archeologia.sk"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " you can read about our latest publication, and we are also opening it for ordering. Once we receive your order we will process it, send you an information e-mail and then post the book to you."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

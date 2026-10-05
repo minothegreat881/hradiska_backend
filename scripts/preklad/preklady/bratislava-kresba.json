@@ -1,0 +1,65 @@
+{
+ "slug": "bratislava-kresba",
+ "data": {
+  "title": "Bratislava – a drawing of the Great Moravian hillfort of Breslava",
+  "slug": "bratislava-breslava-drawing",
+  "excerpt": "Our collaborators Adam and Iveta have drawn an artistic impression of the hillfort of Breslava in the time of Great Moravia, on the site where Bratislava Castle now stands. The drawing shows the foundations of a secular building, possibly a magnate's palace, and the Great Moravian basilica whose foundations are open to visitors at the castle today.",
+  "metaTitle": "Bratislava – a drawing of Great Moravian Breslava",
+  "metaDescription": "An artistic impression of the hillfort of Breslava (Pressburg) in the time of Great Moravia, on the site of today's castle, with a palace and a basilica.",
+  "keyFacts": [
+   {
+    "label": "Authors of the drawing",
+    "value": "Adam and Iveta",
+    "icon": "users"
+   },
+   {
+    "label": "Period depicted",
+    "value": "Great Moravia",
+    "icon": "calendar"
+   },
+   {
+    "label": "Foundations found",
+    "value": "A secular building (possibly a magnate's palace) and a basilica",
+    "icon": "building"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6324,
+    "alt": "A colour drawing of a fortified hillfort on a hill, with buildings inside it and a settlement below"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Our collaborators Adam and Iveta have drawn for us an artistic impression of the hillfort of "
+       },
+       {
+        "type": "link",
+        "url": "/blog/bratislava",
+        "children": [
+         {
+          "type": "text",
+          "text": "Breslava (Breslauaspurch, Pressburg, Bratislava)"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " in the time of Great Moravia. The hillfort stood on the site where the castle rises today. In the left-hand part, where the ground is raised, the foundations of a more important secular building were found (possibly a magnate's palace), and on the right we can see the Great Moravian basilica, whose foundations are open to visitors at the castle. The rampart was of timber-and-earth construction, with a stone front revetment and a palisade on its crown. Slavic occupation has also been proven below the castle. A toll station probably stood on the bank of the Danube. Thank you."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

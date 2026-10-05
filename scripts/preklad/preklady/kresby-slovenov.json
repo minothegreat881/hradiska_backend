@@ -1,0 +1,43 @@
+{
+ "slug": "kresby-slovenov",
+ "data": {
+  "title": "Drawings of the early Slavs",
+  "slug": "drawings-of-the-early-slavs",
+  "excerpt": "Pictures showing our Slavic ancestors in the Early Middle Ages are few and far between, so every new attempt to portray them is welcome. These drawings of the Slavs were made for us by our collaborator E. M., and more of his work is to come.",
+  "metaTitle": "Drawings of the early Slavs by E. M.",
+  "metaDescription": "Pictures of our Slavic ancestors in the Early Middle Ages are rare, which makes these new drawings by our collaborator E. M. all the more welcome.",
+  "keyFacts": [
+   {
+    "label": "Author of the drawing",
+    "value": "E. M.",
+    "icon": "users"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 6334,
+    "alt": "A sketch of three Slavic warriors with an axe, a spear and a knife"
+   },
+   {
+    "mediaId": 3231,
+    "alt": "The header of the Slovanské hradiská website with the logo and the address hradiska.sk"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Pictures that depict our ancestors, the Slavs, in the period of the Early Middle Ages are few and far between, so every new attempt to portray them is welcome. It is all the more pleasing when the drawings are of artistic quality as well. That is the case not only with the previous scene of victory by Tomáš, but also with our collaborator E. M., who drew these Slavs for us, and in the near future we can look forward to further excellent drawings by him. Thank you."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

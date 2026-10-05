@@ -1,0 +1,78 @@
+{
+ "slug": "podcast-praveke-mece",
+ "data": {
+  "title": "Podcast – prehistoric and medieval swords",
+  "slug": "podcast-prehistoric-swords",
+  "excerpt": "The second episode of the podcast from Dwarf Digital, this time devoted specially to the making of prehistoric and medieval swords. One of the swords discussed is shown in the picture.",
+  "metaTitle": "Podcast – prehistoric and medieval swords",
+  "metaDescription": "The second episode of the Historický trpaslík podcast by Dwarf Digital, on the making of prehistoric and medieval swords, with the guest Robert Môc.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The second episode of the podcast from Dwarf Digital, this time devoted specially to the making of prehistoric and medieval swords."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "This sword was talked about as well."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://soundcloud.com/user-219290067",
+        "children": [
+         {
+          "type": "text",
+          "text": "Historický trpaslík"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " · "
+       },
+       {
+        "type": "link",
+        "url": "https://soundcloud.com/user-219290067/historicky-trpaslik-02-rober-moc-o-meci",
+        "children": [
+         {
+          "type": "text",
+          "text": "Historický trpaslík 02, Robert Môc – O meči"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

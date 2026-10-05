@@ -1,0 +1,65 @@
+{
+ "slug": "zbornik-ii-uz-je-vytlaceny",
+ "data": {
+  "title": "Hillfort volume II has been printed!",
+  "slug": "hillfort-volume-two-has-been-printed",
+  "excerpt": "Our second volume on hillforts has been printed and from next week we will begin sending it out to everyone who ordered a copy. Not all the books are reserved yet, so there is still time to order one.",
+  "metaTitle": "Hillfort volume II has been printed",
+  "metaDescription": "The second volume on hillforts is printed and distribution to those who ordered begins next week; not all copies are reserved, so orders are still welcome.",
+  "mediaTexts": [
+   {
+    "mediaId": 5104,
+    "caption": "This was how much there was in mid-November.",
+    "alt": "This was how much there was in mid-November."
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Our second volume on hillforts has now been printed, and from next week we will begin distributing it to everyone who has ordered it."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "For those who have not managed it yet, I have good news: not all the books are reserved so far, so if you are interested, do not hesitate and "
+       },
+       {
+        "type": "text",
+        "text": "send an order",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": " to the address "
+       },
+       {
+        "type": "text",
+        "text": "zbornik.hradiska@gmail.com",
+        "bold": true
+       },
+       {
+        "type": "text",
+        "text": ". I would remind you that the first volume sold out within a month in 2016 and that no reprint is planned."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

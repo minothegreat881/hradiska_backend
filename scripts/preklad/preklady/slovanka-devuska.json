@@ -1,0 +1,44 @@
+{
+ "slug": "slovanka-devuska",
+ "data": {
+  "title": "Slovanka (Devuška) – a drawing of a Slavic semi-sunken log building",
+  "slug": "slovanka-slavic-semi-sunken-log-building-drawing",
+  "excerpt": "The drawing “Slovanka” by our collaborator Peter Bros shows a Slavic semi-sunken log building, modelled on the reconstructed 9th-century log building at the hillfort in Bojná. Most of the Slavs lived in unfortified settlements, and part of one of them is what the picture shows.",
+  "metaTitle": "Slovanka – a Slavic semi-sunken log building in a drawing",
+  "metaDescription": "Peter Bros’s drawing “Slovanka” shows a Slavic semi-sunken log building modelled on the reconstructed 9th-century building at the hillfort in Bojná.",
+  "keyFacts": [
+   {
+    "label": "Author of the drawing",
+    "value": "Peter Bros",
+    "icon": "users"
+   },
+   {
+    "label": "Model for the building",
+    "value": "The reconstructed 9th-century log building at the hillfort in Bojná",
+    "icon": "building"
+   }
+  ],
+  "mediaTexts": [
+   {
+    "mediaId": 6325,
+    "alt": "A painting of a Slavic woman in a white embroidered dress holding a bowl in front of a semi-sunken log building"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "This beautiful drawing, “Slovanka”, was made for us by our collaborator Peter Bros. It shows a Slavic semi-sunken log building, modelled on a reconstructed log building of the 9th century (Great Moravia) erected at the hillfort in Bojná. Most of the Slavs lived in unfortified settlements. Part of one of them is exactly what we see in this picture. Thank you."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

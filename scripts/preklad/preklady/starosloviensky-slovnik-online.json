@@ -1,0 +1,58 @@
+{
+ "slug": "starosloviensky-slovnik-online",
+ "data": {
+  "title": "An Old Church Slavonic dictionary online",
+  "slug": "old-church-slavonic-dictionary-online",
+  "excerpt": "The Cyrillo-Methodian mission translated religious and legal books for the needs of Great Moravia. Our collaborator Stanislava has put together an online overview of the most interesting Old Church Slavonic words connected with hillforts and with the life of the Slavs on them.",
+  "metaTitle": "An Old Church Slavonic dictionary online",
+  "metaDescription": "How the Cyrillo-Methodian mission rendered Greek and Latin texts in Old Church Slavonic — and an online guide to Slavonic words tied to hillfort life.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The Cyrillo-Methodian mission translated religious and legal books for the needs of Great Moravia. How did they translate Greek and Latin texts into Old Church Slavonic?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "This is what our collaborator Stanislava, who has long been devoted to the Glagolitic script and to Old Church Slavonic, has looked into. On the website you will find at "
+       },
+       {
+        "type": "link",
+        "url": "https://staroslovienskyjazyk.blogspot.com/",
+        "children": [
+         {
+          "type": "text",
+          "text": "this link"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", she has set out briefly and clearly the most interesting Old Church Slavonic words that relate to hillforts and to the life of the Slavs on them. There are many words to do with fighting, the fortified settlement, sacrifice, money, sailing, burial and buildings. So read on to see how the individual words sounded in the 10th and 11th centuries. "
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

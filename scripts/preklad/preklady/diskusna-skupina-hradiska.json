@@ -1,0 +1,50 @@
+{
+ "slug": "diskusna-skupina-hradiska",
+ "data": {
+  "title": "The Hradiská discussion group",
+  "slug": "hradiska-discussion-group",
+  "excerpt": "Our discussion group about the hillforts of the Slavs, the Celts and other cultures already has almost 1,250 members. If you want current information on the subjects of our distant past, join us.",
+  "metaTitle": "The Hradiská discussion group",
+  "metaDescription": "A discussion group about the hillforts of the Slavs, the Celts and other cultures, with almost 1,250 members — join the talk about our distant past.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Our discussion group about the hillforts of the Slavs, the Celts and other cultures already has almost 1,250 members. If you want to learn current information on the subjects of our distant past, join us. You will find the discussion group at this address:"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/groups/118846781525141/730961070313706/?notif_t=like",
+        "children": [
+         {
+          "type": "text",
+          "text": "HRADISKÁ – DISKUSIA"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

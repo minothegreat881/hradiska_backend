@@ -1,0 +1,48 @@
+{
+ "slug": "surany-3d-v-noci-muzei",
+ "data": {
+  "title": "Šurany in 3D – an animation of the castle for Museum Night",
+  "slug": "surany-3d-animation-museum-night",
+  "excerpt": "This Saturday, for Museum Night, we will present at the museum in Šurany a complete 3D animation of Šurany and Šurany Castle as they looked in the 15th century. The video runs for over 8 minutes and is our best animation so far.",
+  "metaTitle": "Šurany in 3D – a castle animation for Museum Night",
+  "metaDescription": "A complete 3D animation of Šurany and Šurany Castle in the 15th century, presented at the museum in Šurany for Museum Night. It runs over 8 minutes.",
+  "keyFacts": [
+   {
+    "label": "Period depicted",
+    "value": "Šurany and Šurany Castle in the 15th century",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "15th century",
+    "title": "The appearance of Šurany and Šurany Castle",
+    "description": "The 3D animation presented at the museum in Šurany during Museum Night shows how Šurany and Šurany Castle may have looked in the 15th century.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6333,
+    "alt": "A 3D reconstruction of a water castle with a bridge and a hamlet in marshland"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "This Saturday, at the museum in Šurany, we will present a complete 3D animation of Šurany and Šurany Castle as they looked in the 15th century, on the occasion of Museum Night. The video runs for over 8 minutes. It is our best animation so far. If you are not far away, do not miss it!"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

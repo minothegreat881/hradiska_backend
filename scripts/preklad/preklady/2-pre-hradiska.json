@@ -1,0 +1,53 @@
+{
+ "slug": "2-pre-hradiska",
+ "data": {
+  "title": "2% of your taxes for Hradiská – our results for 2016",
+  "slug": "two-percent-of-taxes-for-hradiska-2016",
+  "excerpt": "If you have not yet decided where to send 2% of your taxes, here is what our civic association achieved in 2016. We assisted at official archaeological excavations, published our volume on hillforts, prepared further information panels and began work on high-quality 3D reconstructions.",
+  "metaTitle": "2% of your taxes for Hradiská – results for 2016",
+  "metaDescription": "What the Hradiská civic association did in 2016: help at official archaeological excavations, a published volume, new information panels and 3D reconstructions.",
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "If you have not yet decided to whom you will give 2% of your taxes, we offer you the results of our work in 2016. All the finds come from official archaeological excavations at which we assisted. We published our volume on hillforts and prepared further information panels. We have also begun to work on high-quality 3D reconstructions of hillforts and buildings. In addition, of course, new hillforts have been added to the website. We are also engaged in the rescue and protection of hillforts."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://drive.google.com/open?id=0Bz79Vf5Wo5JwUzlHdE1LVFdVZEU",
+        "children": [
+         {
+          "type": "text",
+          "text": "You can download the form for donating 2% here."
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "HzdB-CxSyV8",
+    "url": "https://www.youtube.com/embed/HzdB-CxSyV8",
+    "caption": ""
+   }
+  ]
+ }
+}

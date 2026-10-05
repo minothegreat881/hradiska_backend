@@ -1,0 +1,98 @@
+{
+ "slug": "svaty-jur-nestich-3d",
+ "data": {
+  "title": "Svätý Jur – Neštich in 3D, a mighty Slavic hillfort",
+  "slug": "svaty-jur-nestich-3d-visualisation",
+  "excerpt": "The hillfort of Neštich at Svätý Jur is among the most important and the mightiest Slavic hillforts in Slovakia. Jakub Španiel has created a very striking visualisation of how it may have looked at the end of the 9th century, with 3D lidar data provided by Tibor Lieskovský.",
+  "metaTitle": "Svätý Jur – Neštich in 3D, a mighty hillfort",
+  "metaDescription": "A striking 3D visualisation of the Neštich hillfort at Svätý Jur at the end of the 9th century, one of the mightiest Slavic hillforts in Slovakia.",
+  "keyFacts": [
+   {
+    "label": "Creator of the visualisation",
+    "value": "Jakub Španiel (jakubspaniel.eu)",
+    "icon": "users"
+   },
+   {
+    "label": "Period depicted",
+    "value": "The end of the 9th century",
+    "icon": "calendar"
+   },
+   {
+    "label": "Source data",
+    "value": "3D lidar, provided by Tibor Lieskovský",
+    "icon": "scroll"
+   },
+   {
+    "label": "Location",
+    "value": "Svätý Jur – Neštich",
+    "icon": "map"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "end of the 9th century",
+    "title": "The appearance of the hillfort as depicted",
+    "description": "The visualisation captures how the hillfort may have looked at the end of the 9th century.",
+    "type": "era"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6319,
+    "alt": "A reconstruction of an elongated hillfort with two enclosures and a defensive wall, seen from a bird's-eye view"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The hillfort of "
+       },
+       {
+        "type": "link",
+        "url": "/blog/hradisko-svaty-jur-nestich",
+        "children": [
+         {
+          "type": "text",
+          "text": "Neštich at Svätý Jur"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " is among the most important and the mightiest Slavic hillforts in Slovakia. Our collaborator Jakub Španiel ( "
+       },
+       {
+        "type": "link",
+        "url": "http://www.jakubspaniel.eu",
+        "children": [
+         {
+          "type": "text",
+          "text": "www.jakubspaniel.eu"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " ) has created a very striking visualisation of how the hillfort may have looked at the end of the 9th century. We thank Tibor Lieskovský for the 3D lidar data, which are an invaluable help."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "G3XV7sUC2MQ",
+    "url": "https://www.youtube.com/embed/G3XV7sUC2MQ",
+    "caption": null
+   }
+  ]
+ }
+}

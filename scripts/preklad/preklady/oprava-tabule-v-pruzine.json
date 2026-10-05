@@ -1,0 +1,41 @@
+{
+ "slug": "oprava-tabule-v-pruzine",
+ "data": {
+  "title": "Repairing the information panel at Pružina – Mesciská",
+  "slug": "pruzina-mesciska-information-panel-repair",
+  "excerpt": "Sometime during the autumn, somebody damaged our information panel at the Pružina – Mesciská hillfort. With the support of the municipality of Pružina we repaired it, at a cost of 50 euros that could have been spent on other things.",
+  "metaTitle": "Repair of the information panel at Pružina – Mesciská",
+  "metaDescription": "Vandals damaged our information panel at the Pružina – Mesciská hillfort; with the support of the municipality of Pružina we repaired it for 50 euros.",
+  "keyFacts": [
+   {
+    "label": "Activity",
+    "value": "Repair of the damaged Pružina – Mesciská information panel",
+    "icon": "star"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "—",
+    "title": "Repair of the panel",
+    "description": "We repaired the panel with the support of the municipality of Pružina (50 euros).",
+    "type": "event"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Sometime during the autumn, somebody damaged our information panel at the Pružina – Mesciská hillfort. With the support of the municipality of Pružina we therefore repaired it this week. The repair cost 50 euros, which could have been spent on other things. Let us hope that the vandals will take no further notice of it."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

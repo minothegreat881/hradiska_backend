@@ -1,0 +1,60 @@
+{
+ "slug": "vidiecke-opevnene-sidlisko",
+ "data": {
+  "title": "A rural fortified settlement – everyday life on a hillfort",
+  "slug": "rural-fortified-settlement-drawing",
+  "excerpt": "Peter Bros has drawn everyday life on a rural fortified settlement of a kind that is nothing out of the ordinary in the mountainous parts of Slovakia, in the period from the 8th to the 11th century. The simply fortified lower part held the ordinary population, while the upper part served the armed contingent and, in the event of danger, as a refuge.",
+  "metaTitle": "A rural fortified settlement – life on a hillfort",
+  "metaDescription": "A drawing by Peter Bros of everyday life on a rural fortified Slavic settlement in the mountainous parts of Slovakia between the 8th and 11th century.",
+  "keyFacts": [
+   {
+    "label": "Period",
+    "value": "8th – 11th century",
+    "icon": "calendar"
+   },
+   {
+    "label": "Type of settlement",
+    "value": "a rural fortified settlement",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6320,
+    "alt": "A drawing of a fortified rural settlement with log houses, a watchtower and animals"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Our collaborator Peter Bros has drawn another interesting glimpse into the life of our Slavic forebears. It does not show any particular hillfort, but its configuration is nothing out of the ordinary in the mountainous parts of Slovakia. The drawing shows everyday life on a hillfort in the period from the 8th to the 11th century. The lower part, where the ordinary population was concentrated, is fairly simply fortified; the upper part served the armed contingent and at the same time acted as a watchpost and, in the event of danger, also as a refuge."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Thank you."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

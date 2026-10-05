@@ -1,0 +1,57 @@
+{
+ "slug": "falosne-runove-napisy-na-skalach",
+ "data": {
+  "title": "Forged runic inscriptions on rocks – the publication of 1933",
+  "slug": "forged-runic-inscriptions-on-rocks-1933",
+  "excerpt": "A scan of the original printed publication of 1933 devoted to runic inscriptions on rocks. The inscriptions it records later proved to be forgeries.",
+  "metaTitle": "Forged runic inscriptions on rocks (1933)",
+  "metaDescription": "A scan of the original 1933 publication on runic inscriptions on rocks, inscriptions that later proved to be forgeries. The complete booklet page by page.",
+  "keyFacts": [
+   {
+    "label": "Type of document",
+    "value": "A scan of the original printed publication",
+    "icon": "scroll"
+   },
+   {
+    "label": "Subject",
+    "value": "Runic inscriptions on rocks, later identified as forgeries",
+    "icon": "book"
+   },
+   {
+    "label": "Dating",
+    "value": "Published in 1933",
+    "icon": "calendar"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "1933",
+    "title": "The publication appears",
+    "description": "The original printed publication documenting and questioning the runic inscriptions on rocks was published.",
+    "type": "event"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We present a scan of the original printed publication of 1933, which is devoted to runic inscriptions on rocks. These inscriptions later proved to be forgeries."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}

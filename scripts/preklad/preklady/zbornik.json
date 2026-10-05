@@ -1,0 +1,50 @@
+{
+ "slug": "zbornik",
+ "data": {
+  "title": "Our proceedings Hradiská – svedkovia dávnych čias, now free on Academia",
+  "slug": "hradiska-proceedings-free-on-academia",
+  "excerpt": "2 years ago we published the proceedings Hradiská – svedkovia dávnych čias (Hillforts – Witnesses of Ancient Times). The print run of 500 copies sold out at once, so we have decided to make the whole volume freely available on Academia.",
+  "metaTitle": "The Hradiská proceedings, now free on Academia",
+  "metaDescription": "The sold-out proceedings Hradiská – svedkovia dávnych čias, printed in 500 copies, are now freely available in full online on the Academia portal.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "2 years ago we published the proceedings Hradiská – svedkovia dávnych čias (Hillforts – Witnesses of Ancient Times). Its print run of 500 copies sold out immediately and it then became quite difficult to get hold of. We have therefore decided to publish the whole volume on Academia, so that it becomes accessible to everyone interested. Take it as a present under the Christmas tree."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://www.academia.edu/35501046/Hradisk%C3%A1_-_Svedkovia_d%C3%A1vnych_%C4%8Dias_-_full",
+        "children": [
+         {
+          "type": "text",
+          "text": "THE PROCEEDINGS"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

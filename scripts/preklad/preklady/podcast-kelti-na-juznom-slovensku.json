@@ -1,0 +1,78 @@
+{
+ "slug": "podcast-kelti-na-juznom-slovensku",
+ "data": {
+  "title": "Podcast – the Celts in southern Slovakia",
+  "slug": "podcast-celts-in-southern-slovakia",
+  "excerpt": "A new podcast by our collaborators from Dwarf Digital, devoted specially to the Celts in the territory of southern Slovakia. The first guest of the host Igor was Radoslav Čambal, an archaeologist of the Slovak National Museum.",
+  "metaTitle": "Podcast – the Celts in southern Slovakia",
+  "metaDescription": "The Historický trpaslík podcast by Dwarf Digital, devoted to the Celts in southern Slovakia; the guest is the museum archaeologist Radoslav Čambal.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We bring you something new – a podcast by our collaborators from Dwarf Digital, devoted specially to the Celts in the territory of southern Slovakia."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We hope that as many such detailed and interesting podcasts as possible will follow. The first guest of the host Igor was Radoslav Čambal, an archaeologist of the Slovak National Museum."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "link",
+        "url": "https://soundcloud.com/user-219290067",
+        "children": [
+         {
+          "type": "text",
+          "text": "Historický trpaslík"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " · "
+       },
+       {
+        "type": "link",
+        "url": "https://soundcloud.com/user-219290067/historicky-trpaslik-01-radoslav-cambal-kelti-na-slovensku-1",
+        "children": [
+         {
+          "type": "text",
+          "text": "Historický trpaslík 01, Radoslav Čambal – Kelti na Slovensku"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

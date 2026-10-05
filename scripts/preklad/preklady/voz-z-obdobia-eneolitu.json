@@ -1,0 +1,73 @@
+{
+ "slug": "voz-z-obdobia-eneolitu",
+ "data": {
+  "title": "An Eneolithic wagon – a reconstruction of a Baden culture vehicle",
+  "slug": "eneolithic-wagon-baden-culture-reconstruction",
+  "excerpt": "Dwarf Digital Archeology has attempted to reconstruct the possible appearance of a wagon of the Baden culture, dated to 3500–2800/2600 BC. The reconstruction combines original evidence with the clay models of carts that survive from this period, whose makers are regarded as the first builders of hillforts in the territory of present-day Slovakia.",
+  "metaTitle": "An Eneolithic wagon of the Baden culture reconstructed",
+  "metaDescription": "A reconstruction of the possible appearance of a Baden culture wagon (3500–2800/2600 BC) based on clay cart models; its makers were the first hillfort builders.",
+  "keyFacts": [
+   {
+    "label": "Type",
+    "value": "A reconstruction of a Baden culture wagon (Eneolithic)",
+    "icon": "star"
+   },
+   {
+    "label": "Dating",
+    "value": "3500–2800/2600 BC",
+    "icon": "star"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dwarf Digital Archeology, in collaboration with "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/nikollh1",
+        "children": [
+         {
+          "type": "text",
+          "text": "Nikolla Hamašová"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", has attempted to reconstruct the possible appearance of a wagon from the period of the Baden culture (3500–2800/2600 BC – the Eneolithic) by combining original evidence with the clay models of carts that come from this period."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The Baden culture was also widespread in Slovakia, and in the territory of present-day Slovakia its makers are regarded as the first builders of hillforts."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "rH4FHpnNuVE",
+    "url": "https://www.youtube.com/embed/rH4FHpnNuVE",
+    "caption": ""
+   }
+  ]
+ }
+}

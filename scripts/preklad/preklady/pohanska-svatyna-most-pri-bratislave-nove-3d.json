@@ -1,0 +1,58 @@
+{
+ "slug": "pohanska-svatyna-most-pri-bratislave-nove-3d",
+ "data": {
+  "title": "The pagan sanctuary at Most pri Bratislave – a new 3D video",
+  "slug": "most-pri-bratislave-pagan-sanctuary-new-3d-video",
+  "excerpt": "How might the old pagan rituals of the Slavs have looked? A new video breathes some atmosphere into our earlier visualisation of the Slavic sanctuary that once stood at Most pri Bratislave.",
+  "metaTitle": "Pagan sanctuary at Most pri Bratislave – new 3D",
+  "metaDescription": "A new 3D video breathing a little atmosphere into the old pagan rituals of the Slavs at the Slavic sanctuary that stood at Most pri Bratislave.",
+  "keyFacts": [
+   {
+    "label": "Location",
+    "value": "Most pri Bratislave",
+    "icon": "map"
+   },
+   {
+    "label": "Subject of the visualisation",
+    "value": "the pagan rituals of the early Slavs at a Slavic sanctuary",
+    "icon": "star"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "How might the old pagan rituals of the Slavs have looked? In the new video we have tried to breathe a little atmosphere into our earlier visualisation of the Slavic sanctuary that stood at Most pri Bratislave. You can find more about the site here: "
+       },
+       {
+        "type": "link",
+        "url": "/blog/most-pri-bratislave-prva-staroslovanska-svatyna-na-slovensku",
+        "children": [
+         {
+          "type": "text",
+          "text": "/blog/most-pri-bratislave-prva-staroslovanska-svatyna-na-slovensku"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "v6pIyCJeN6I",
+    "url": "https://www.youtube.com/embed/v6pIyCJeN6I",
+    "caption": ""
+   }
+  ]
+ }
+}

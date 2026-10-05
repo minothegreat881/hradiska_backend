@@ -1,0 +1,54 @@
+{
+ "slug": "velkomoravske-hradiska",
+ "data": {
+  "title": "Veľkomoravské hradiská – a new book from Dajama",
+  "slug": "velkomoravske-hradiska-new-book",
+  "excerpt": "This month the Dajama publishing house brought out a new and exceptionally interesting book, Veľkomoravské hradiská (Great Moravian Hillforts). Our site www.hradiska.sk also contributed to its content.",
+  "metaTitle": "Veľkomoravské hradiská – a new book from Dajama",
+  "metaDescription": "Veľkomoravské hradiská, a new book from the Dajama publishing house, to whose content the hradiska.sk website also contributed. Well worth reading.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "This month the Dajama publishing house brought out a new and exceptionally interesting book – Veľkomoravské hradiská (Great Moravian Hillforts). Our site www.hradiska.sk also contributed to its content. It really is well worth it, so do not hesitate."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "You will find it HERE: "
+       },
+       {
+        "type": "link",
+        "url": "http://www.dajamabooks.sk/index.aspx?PageType=1&Kod=396&Kateg=1",
+        "children": [
+         {
+          "type": "text",
+          "text": "VEĽKOMORAVSKÉ HRADISKÁ"
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

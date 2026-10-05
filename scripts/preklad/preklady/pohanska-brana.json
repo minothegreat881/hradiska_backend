@@ -1,0 +1,66 @@
+{
+ "slug": "pohanska-brana",
+ "data": {
+  "title": "Pohanská – the gateway of the Celtic oppidum",
+  "slug": "pohanska-oppidum-gateway-reconstruction",
+  "excerpt": "An artistic impression of the gateway and part of the fortification of the Celtic oppidum of Pohanská. The gateway, with a double pincer-shaped fortification, stood in the north-eastern part of the hillfort; the drawing is the work of Haden Sutton.",
+  "metaTitle": "Pohanská – the gateway of the Celtic oppidum",
+  "metaDescription": "An artistic reconstruction of the gateway with a double pincer-shaped fortification at the Celtic oppidum of Pohanská, as drawn by Haden Sutton.",
+  "keyFacts": [
+   {
+    "label": "Artist",
+    "value": "Haden Sutton",
+    "icon": "users"
+   },
+   {
+    "label": "Type of fortification",
+    "value": "A double pincer-shaped fortification",
+    "icon": "shield"
+   },
+   {
+    "label": "Position of the gateway",
+    "value": "The north-eastern part of the hillfort",
+    "icon": "map"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3551,
+    "caption": "An artistic reconstruction of the entrance gateway and part of the fortification",
+    "alt": "An artistic reconstruction of the entrance gateway and part of the fortification"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "We present an artistic impression of the appearance of the gateway and part of the fortification of the "
+       },
+       {
+        "type": "link",
+        "url": "/blog/pohanska-keltske-oppidum",
+        "children": [
+         {
+          "type": "text",
+          "text": "Celtic oppidum of Pohanská"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". The gateway, with a double pincer-shaped fortification, stood in the north-eastern part of the hillfort. The drawing is the work of Haden Sutton, to whom we owe great thanks."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

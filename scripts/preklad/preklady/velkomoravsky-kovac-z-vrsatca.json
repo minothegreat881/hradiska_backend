@@ -1,0 +1,74 @@
+{
+ "slug": "velkomoravsky-kovac-z-vrsatca",
+ "data": {
+  "title": "A Great Moravian smith from Vršatec – a drawing",
+  "slug": "great-moravian-smith-from-vrsatec-drawing",
+  "excerpt": "The find of a smithy from the time of Great Moravia, discovered at Vršatec close to the castle, lies behind this drawing by Tomáš Humaj. He drew the smith at work so that his clothing and the things in the workshop would correspond as closely as possible to Great Moravian finds from the territory of present-day Slovakia.",
+  "metaTitle": "A Great Moravian smith from Vršatec – a drawing",
+  "metaDescription": "A drawing by Tomáš Humaj of a Great Moravian smith at work, inspired by the find of a smithy from the time of Great Moravia at Vršatec, near the castle.",
+  "keyFacts": [
+   {
+    "label": "Author of the drawing",
+    "value": "Tomáš Humaj",
+    "icon": "users"
+   },
+   {
+    "label": "The find",
+    "value": "A smithy from the time of Great Moravia at Vršatec",
+    "icon": "map"
+   }
+  ],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6321,
+    "alt": "A drawing of a smith in his workshop, hammer in hand beside the furnace, with weapons and tools around him"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The find of a "
+       },
+       {
+        "type": "link",
+        "url": "/blog/vrsatecky-kovac-z-cias-velkej-moravy",
+        "children": [
+         {
+          "type": "text",
+          "text": "smithy from the time of Great Moravia"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", which was discovered at Vršatec close to the castle, has always fascinated me. I was therefore immensely pleased when Tomáš Humaj undertook to draw this smith at work for us. Here is the result."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Tomáš tried to draw him in such a way that the picture — the smith's clothing and the things in the workshop — would correspond as closely as possible to Great Moravian finds from the territory of present-day Slovakia. We thank the author for this splendid drawing."
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}

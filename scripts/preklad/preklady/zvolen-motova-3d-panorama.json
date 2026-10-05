@@ -1,0 +1,37 @@
+{
+ "slug": "zvolen-motova-3d-panorama",
+ "data": {
+  "title": "Zvolen – Môťová, a 3D panorama of the Great Moravian hillfort",
+  "slug": "zvolen-motova-hillfort-3d-panorama",
+  "excerpt": "Take a look around the Great Moravian hillfort of Zvolen – Môťová. Click on the image, then hold down the left mouse button and move the mouse in any direction; turning the scroll wheel lets you zoom in.",
+  "metaTitle": "Zvolen – Môťová, a 3D panorama of the hillfort",
+  "metaDescription": "An interactive 3D panorama of the Great Moravian hillfort of Zvolen – Môťová, which you can freely look around by turning the view and zooming in.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Take a look around the Great Moravian hillfort of Zvolen – Môťová ...\n \n Just click on the image, and once the image opens hold down the left mouse button and move the mouse in any direction. By turning the scroll wheel you can zoom the image in ..."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "blogger",
+    "embedId": null,
+    "url": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdwarfdigital%2Fposts%2F1860559607552870%3A0&width=500",
+    "caption": "A 360° panorama of the Zvolen – Môťová hillfort (Dwarf Digital Archeology)"
+   }
+  ]
+ }
+}

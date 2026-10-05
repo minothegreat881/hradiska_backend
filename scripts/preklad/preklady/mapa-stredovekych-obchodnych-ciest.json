@@ -1,0 +1,51 @@
+{
+ "slug": "mapa-stredovekych-obchodnych-ciest",
+ "data": {
+  "title": "A map of medieval trade routes",
+  "slug": "map-of-medieval-trade-routes",
+  "excerpt": "Martin Janmansson has published what is probably the most detailed online map of medieval trade routes in Europe, Asia and Africa in the 11th and 12th centuries. It covers major and minor places, land and sea routes, canals and roads, although the place names used in it are rather inconsistent.",
+  "metaTitle": "A map of medieval trade routes (11th–12th c.)",
+  "metaDescription": "Probably the most detailed online map of medieval trade routes in Europe, Asia and Africa in the 11th and 12th centuries, made by Martin Janmansson.",
+  "keyFacts": [],
+  "timeline": [],
+  "quotes": [],
+  "mediaTexts": [],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Martin Janmansson has created an interesting map and published it on the "
+       },
+       {
+        "type": "link",
+        "url": "https://merchantmachine.co.uk/medieval-trade-routes/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Merchant Machine"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": " website. It is probably the most detailed map of medieval trade routes in Europe, Asia and Africa in the 11th and 12th centuries that is available online. It covers major and minor places, major and minor routes, sea routes, canals and roads. It is a pity that the place names used in it are rather inconsistent, sometimes in their present-day form, sometimes in a late medieval one and so on. I do think, however, that it is worth a closer look. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "blogger",
+    "embedId": null,
+    "url": "https://easyzoom.com/embed/ec482e04c2b240d4969c14156bb6836f",
+    "caption": "An interactive map of medieval trade routes (EasyZoom)"
+   }
+  ]
+ }
+}
