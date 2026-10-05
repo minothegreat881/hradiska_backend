@@ -59,6 +59,20 @@ Karpaty), *the Little Hungarian Plain*, *the Spiš region*, *the Orava region*.
 s diakritikou:** *Štefan Janšák*, *Anton Petrovský-Šichman*, *Karol Pieta*,
 *Alexander Ruttkay*, *Peter Šalkovský*, *Peter Schreiber*.
 
+**Titulok a perex sa neprekladajú doslovne — píšu sa pre anglického čitateľa.**
+Rozhodnuté 5. 10. 2026 a platí pre celý web. Slovenský titulok `Molpír` je
+v angličtine `Molpír – a Hallstatt hillfort above Smolenice`: názov lokality
+sám o sebe anglickému čitateľovi ani vyhľadávaču nepovie nič. Perex sa
+nepreberá odrezaný z prvého odseku, ale sa napíše ako dve celé vety. Platí
+pritom §0: fakt v perexe musí byť v tele článku, nič sa nepridáva.
+
+Telo článku sa naopak prekladá verne — rozširovanie, krátenie ani „vylepšovanie"
+tvrdení doň nepatrí.
+
+**Čísla sa neopravujú ani vtedy, keď vyzerajú podozrivo.** V článku o Molpíre
+je „chrám vytesaný do skaly (202 × 6 m)"; preklad to prevzal tak, ako to je.
+Opraviť to môže iba autor v slovenskej verzii — prekladateľ to nanajvýš oznámi.
+
 **Citácie prameňov** sa prekladajú ako citát. Ak má prameň zavedený anglický
 preklad, použije sa jeho znenie a uvedie sa zdroj. Autorské básne a povesti sa
 prekladajú ako literárny text; keď sa pri preklade stráca zmysel, text sa označí
