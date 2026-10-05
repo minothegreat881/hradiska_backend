@@ -663,6 +663,7 @@ export interface ApiBlogPostBlogPost extends Struct.CollectionTypeSchema {
       'api::blog-post.blog-post'
     >;
     location: Schema.Attribute.Component<'sidebar.location', false>;
+    mediaTexts: Schema.Attribute.Component<'shared.media-text', true>;
     metaDescription: Schema.Attribute.Text &
       Schema.Attribute.SetMinMaxLength<{
         maxLength: 160;

@@ -30,7 +30,7 @@ const LEN = arg('--len=');
 const POPULATE = {
   coverImage: true, gallery: true, tags: true, category: true,
   keyFacts: true, timeline: true, quotes: true, location: true,
-  blocks: { populate: '*' },
+  mediaTexts: true, blocks: { populate: '*' },
 };
 
 /** Textové polia, ktoré sa preberajú z anglickej verzie. */
@@ -139,6 +139,9 @@ async function main() {
            publikovanie by tú slovenčinu vytiahlo na web. */
         title: en.title, slug: en.slug, excerpt: en.excerpt,
         metaTitle: en.metaTitle, metaDescription: en.metaDescription,
+        /* Popisy fotiek v galérii patria jazyku, nie štruktúre — posielajú sa
+           znova z anglickej verzie, inak by ich prepísala slovenčina. */
+        mediaTexts: (en.mediaTexts || []).map(({ id, ...z }) => z),
         blocks: bloky,
         coverImage: sk.coverImage?.id ?? null,
         coverPosition: sk.coverPosition ?? null,
@@ -159,6 +162,7 @@ async function main() {
           keyFacts: (k.keyFacts || []).map(({ id, ...z }) => z),
           timeline: (k.timeline || []).map(({ id, ...z }) => z),
           quotes: (k.quotes || []).map(({ id, ...z }) => z),
+          mediaTexts: (k.mediaTexts || []).map(({ id, ...z }) => z),
         });
         await app.documents(UID).update({ documentId, locale: 'sk', data: naZapis(skKoncept) });
 

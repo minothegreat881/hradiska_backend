@@ -58,6 +58,11 @@
       "min": 2,
       "max": 4
     },
+    "mediaTexts": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.media-text"
+    },
     "category": {
       "type": "relation",
       "relation": "manyToOne",

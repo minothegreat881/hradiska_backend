@@ -1,0 +1,85 @@
+import fs from 'fs';
+
+const sk = JSON.parse(fs.readFileSync('molpir-sk.json', 'utf8'));
+
+/* Preklad: [index bloku][index uzla] = reťazec (nahradí celý uzol jedným textom)
+   alebo pole reťazcov (nahradí textové listy v poradí, zachová odkazy). */
+const P = {
+  2: { 0: ['Molpír hillfort – national cultural monument', ' by ', 'Pamiatkovy_Urad_SR', ' on ', 'Sketchfab'] },
+  1: { 0: 'On the Molpír hill above Smolenice in the Lesser Carpathians, a large hillfort covering 12–14 hectares stood in roughly the 6th century BC (the Early Iron Age – the Hallstatt period). It was built by the people of the Kalenderberg culture, which belongs to the Eastern Hallstatt cultural sphere. The hillfort consisted of three enclosures protected by ramparts. The imposing fortification was built of dry-laid stone, reinforced with earth fills and timber structures. The foundations of towers, fortified gates and a circular bastion were found here. A row of timber log houses was built against the inner face of the uppermost rampart. The best-protected upper enclosure, the “acropolis”, also held rows of terraces with dwellings.' },
+  3: { 0: 'As early as 1890 and 1895, the Smolenice parish priest N. Sándorfi investigated the Molpír site on the eastern spur of the Lesser Carpathians. He identified a fortification with three defensive walls and prehistoric occupation, and examined 23 graves of the Middle Danube Tumulus culture, most of them under a mound. The grave goods already represent the classic Tumulus culture, with a flange-hilted sword (the Smolenice–Szombor type) and a pin with a seal-shaped head. Excavation of the barrow cemetery was continued in 1970–72 by the Institute of Archaeology of the Slovak Academy of Sciences; Siegrid Dušeková uncovered 15 barrows with 51 biritual graves; the urn and inhumation graves contained numerous pottery and bronze goods (razors, jewellery, knives), and even gold wires were found. Several barrows date from the Slavic period, along with a number of finds from the pre-Great Moravian period.' },
+  5: {
+    0: 'The hillfort of the Kalenderberg culture was systematically excavated in 1963–71 by the Institute of Archaeology of the Slovak Academy of Sciences (Mikuláš Dušek, from 1967 together with Siegrid Dušeková). Its whole area can be divided into three parts — two baileys and the acropolis — covering 12 ha in total. The construction of the fortification was remarkably advanced: a 2 m wide rampart had dry-laid stone walls 0.5 m thick on both faces, with a stone-and-earth fill between them. The wall of the acropolis was reinforced with a timber box construction, and its stone gate was strengthened by rectangular towers and protected from the side by an oval bastion.',
+    1: 'Only the upper bailey and the acropolis were inhabited; the houses stood on artificial terraces and were arranged along streets. On the acropolis they were also built against the inner face of the fortification. They were 6–10 m long and about 3 m wide, with one, two or three rooms. They were built in log construction on stone footings, their walls were plastered with clay on both sides, and the floor was treated in the same way, sometimes paved with flat stones. Heating was provided by simple hearths and by domed ovens. Outside the houses, six ovens stood together on the acropolis, probably under a timber shelter, and served for baking bread. Another oven, next to one of the houses, contained smelting residues and an iron bloom — this is the oldest iron-smelting furnace in the territory of present-day Slovakia. The acropolis also had a cistern cut into the rock (35.5 × 5.5 × 1.5 m), which may have served another purpose as well (its walls were lined with clay). A cult place, the so-called temple, was cut into the rock (202 × 6 m). It contained three sacrificial places burnt red, beside them the skull and bones of a child of about two years, broken crescent-shaped idols and geometric idols in the form of pyramidal loom weights. Another piece of evidence for cult practice is a foundation offering in the foundations of one of the houses.',
+  },
+  7: { 0: 'The economy of the settlement was based on craft production — besides iron smelting (tools, weapons, knives), bronze casting (crucibles), the production of stone querns and weaving — and on trade. Contact with the advanced southern Hallstatt world is documented by boat-shaped fibulae, pins, amber and glass beads, and by pottery imitations of bronze vessels.' },
+  8: { 0: 'The demise of the hillfort is connected with the large number of metal arrowheads found on both the inner and the outer side of the ramparts; the only victim of the military conflict, however, is a defender killed in the third gate. The attackers used the same arrowheads as the defenders. The end was therefore not brought by attackers from the east, but by mutual conflicts between local groups between 570 and 560 BC, probably connected with the emerging culture of the nomads in the Carpathian Basin known as the Vekerzug culture. Its emergence is also echoed by the first objects decorated in a different (animal) style, which we find in the youngest layers of the hillfort.' },
+  9: { 0: 'Parts of the fortification, the gate, the cult feature and the cistern have been conserved and presented at the site. Information panels forming part of an educational trail tell visitors about the individual features.' },
+  11: {
+    0: 'The site held an exceptional position above all in the Early Iron Age (the 8th–7th centuries BC), when Molpír was built at a crossroads of trade routes and served as a central hillfort with a developed economic and religious-cult life. It arose in a strategically very advantageous place, through which a trade route connecting south-eastern and northern Europe ran. The proximity of the Jablonica Pass also allowed direct connection and cultural contact between the Váh and the Morava regions. The rich finds from Molpír document varied cultural contacts with nearby and distant parts of Europe, attested in material of clay, bronze, iron, bone and antler, but also glass and amber. Of key importance are several unique objects with parallels in south-eastern Europe and Transylvania, as well as on the upper Danube.',
+    1: 'Renewed excavation led by S. Stegmann-Rajtár documented, besides the Early Iron Age (Hallstatt) occupation, also Celtic and early medieval occupation. The aim of the 2008 excavation was therefore to recognise the stratigraphy of the site in more detail and to define the individual phases of occupation. Precise documentation of the settlement features allowed us to form a picture of how the occupation developed, and the rich finds brought the life of the hillfort\u2019s inhabitants closer as a whole. Even the limited extent of the fieldwork confirmed unambiguously that this is an important place which, on the basis of its unique finds, matters not only for Slovakia but for the whole of Central Europe. It was precisely in the formative period of the Early Iron Age that the first cultural unification of the Central European region took place, and the territory of western Slovakia was part of it.',
+    2: 'In his book Stopy dávnej minulosti 2 (Traces of the Distant Past 2), Dvořák describes the hillfort as follows:',
+    3: '“The hillfort had three parts, two enclosures and the acropolis. They were separated by the undulations in the terrain already mentioned. It was assumed that these were the remains of ramparts of stone and earth, but the very first trenches dug by Mikuláš Dušek showed that they were stone walls two metres thick and about three metres high, probably topped with a timber palisade. This considerably raised the standing of the place; the idea took hold that it was the seat of someone important, perhaps a prince. The exceptional nature of the situation was also indicated by the results of the excavation. The first enclosure with the gate was empty, almost nothing was found there, evidently nobody lived there permanently; it may have served only in times of danger as a refuge for the people of the surrounding area. In the second enclosure stood the dwellings of craftsmen. It is remarkable that they were built on artificial terraces cut into the slope, to which we shall return. The third part of the hillfort, the acropolis, was protected by an ingenious wall. At the front stood a stone wall and four metres further another one. In the space between the walls were timber box compartments filled with earth. They formed a solid wall three and a half metres high, resistant to fire, probably with a timber palisade on top. Such walls were built by the Celts, but only centuries later. \u201CMurus gallicus\u201D is what Gaius Julius Caesar called them, who had to take them by siege. In pre-Celtic times they were known only in the Mediterranean, home to Europe’s earliest civilisations.',
+    4: 'Immediately behind the wall was a row of houses. They stood one next to another, roughly the same size, ten metres long and three and a half metres wide. Further houses were built in the middle of the acropolis, again on terraces cut into the slope. They were not empty: in the debris lay jewellery, bronze tools, amber and glass beads, beautifully decorated pottery. One of the houses stood out from all the others: it had two wings and a total length of almost 25 metres. It may have served as the seat of the Molpír prince, a palace, but unlike the houses by the walls it was almost empty \u2014 without gold, without bronze, without amber. That was a striking circumstance, and moreover it was incredibly destroyed; an unknown force had scattered its walls several metres away. It was not the only striking circumstance. The acropolis was entered through a gate, which was uncovered together with the ruts of cart wheels worn into the bedrock. It was protected by two watchtowers on both sides of the entrance and by an oval bastion standing a little apart. They guarded it, but could not save it. In the gateway, face down with his head turned towards the fort, lay a dead man. His body was buried by stones from the collapsed gate. The excavation pointed more and more to a great drama. At Molpír 62 houses were investigated; in several of them lay dead people, who confirmed the idea of a tragedy and sudden destruction.',
+  },
+  13: {
+    0: 'For example, in the house designated by the archaeologists as number seven, two skeletons lay under the collapsed structure beside the hearth: an adult on one side, a child on the other. In the princely palace, too, the remains of a skull were found, and an isolated, possibly severed head of a girl of about eighteen. Traces of the catastrophe were found in other places as well. Pots stood on the hearths, with fires burning beneath them just before the destruction came. There were traces of fire on the wall too \u2014 of a huge conflagration that fused the stones of the inner rampart into a solid mass. The destruction came suddenly and ravaged with absolute thoroughness. The most precious things remained in the houses: jewellery, bronze tools, amber and glass beads, pottery, fibulae, sickles, a knife, a necklace, an armlet, but also a fish hook, hundreds of spindle whorls and an enormous quantity of sherds, from which the researchers managed to glue together dozens of complete vessels. At the time of the attack they were therefore whole, unbroken; they were destroyed only by the attack or by the time that followed.',
+    1: 'From beneath the ground emerged things that testified to the exceptional standing of the hillfort. The presence of horsemen and foot soldiers was attested by horse bits, winged axes, spearheads, arrowheads, parts of a bronze helmet and scales from armour.”',
+    2: 'As mentioned at the beginning, the hillfort was used again by the Slavs, and the Molpír hillfort ranks among the oldest Slavic hillforts in the territory of present-day Slovakia. As Drahoslav Hulínek and Michal Čajka state: “To the period around 800 we can assign in Slovakia the beginnings of the use, and of the probable (so far not unambiguously established) structural modification, of the original fortifications of the prehistoric fortified settlement at Smolenice-Molpír. The more marked social importance of the hillfort is confirmed by several finds — a cast phalera with a moulded dog\u2019s head, spurs, an escutcheon-shaped mount decorated with a palmette on a punched background, a horse bit, a bronze bracelet with a rhomboid cross-section and open ends, and an openwork bronze strap end of tongue-shaped form.” The find of spurs likewise underlines the importance of this hillfort in the 8th–9th centuries.',
+  },
+};
+
+/* Obrázky a zdroje */
+const OBRAZKY = {
+  0: { alt: 'A partial reconstruction of the entrance gate to the acropolis', caption: 'A partial reconstruction of the entrance gate to the acropolis' },
+  4: { alt: 'A reconstructed section of the fortification', caption: 'A reconstructed section of the fortification' },
+  6: { alt: 'The sacrificial place', caption: 'The sacrificial place' },
+  10: { alt: 'The cistern', caption: 'The cistern' },
+  12: { alt: 'Views from the hillfort', caption: 'Views from the hillfort' },
+  14: { alt: 'A partial reconstruction of the bastion', caption: 'A partial reconstruction of the bastion' },
+};
+const ZDROJE = { title: 'Sources and literature' };
+
+/* ── prepis uzla pri zachovaní štruktúry ─────────────────────────────────── */
+function nahradListy(uzol, texty, poc) {
+  if (uzol.type === 'text') { const t = texty[poc.i++]; return { ...uzol, text: t !== undefined ? t : uzol.text }; }
+  if (uzol.children) return { ...uzol, children: uzol.children.map((d) => nahradListy(d, texty, poc)) };
+  return uzol;
+}
+
+const bloky = sk.blocks.map((b, i) => {
+  const von = { __component: b.__component };
+  for (const [k, v] of Object.entries(b)) {
+    if (['__component', 'id'].includes(k)) continue;
+    if (k === 'image' || k === 'images' || k === 'secondImage') { von[k] = Array.isArray(v) ? v.map((m) => m?.id ?? m) : (v && typeof v === 'object' ? v.id : v ?? null); continue; }
+    von[k] = v;
+  }
+  if (b.__component === 'content.rich-text' && P[i]) {
+    von.body = b.body.map((uzol, j) => {
+      const p = P[i][j];
+      if (p === undefined) return uzol;
+      if (Array.isArray(p)) return nahradListy(uzol, p, { i: 0 });
+      return { ...uzol, children: [{ type: 'text', text: p }] };
+    });
+  }
+  if (b.__component === 'content.image-block' && OBRAZKY[i]) Object.assign(von, OBRAZKY[i]);
+  if (b.__component === 'content.sources') Object.assign(von, ZDROJE);
+  return von;
+});
+
+const vystup = {
+  slug: 'molpir',
+  data: {
+    title: 'Molpír – a Hallstatt hillfort above Smolenice',
+    slug: 'molpir-hallstatt-hillfort-smolenice',
+    excerpt: 'On the Molpír hill above Smolenice in the Lesser Carpathians stood a large hillfort of the Kalenderberg culture, covering 12–14 hectares in the 6th century BC. Its three enclosures held towers, fortified gates, a bastion and the oldest known iron-smelting furnace in the territory of present-day Slovakia.',
+    metaTitle: 'Molpír – Hallstatt hillfort above Smolenice',
+    metaDescription: 'A 12–14 ha Hallstatt hillfort of the Kalenderberg culture stood on Molpír above Smolenice in the 6th century BC, with towers, gates and a bastion.',
+    blocks: bloky,
+  },
+};
+
+fs.writeFileSync('C:/Users/milan/Desktop/Git-Projects/hradiska-strapi/scripts/preklad/preklady/molpir.json', JSON.stringify(vystup, null, 1));
+console.log('blokov:', bloky.length, '| metaTitle:', vystup.data.metaTitle.length, 'znakov | metaDescription:', vystup.data.metaDescription.length, 'znakov');
+const nepr = sk.blocks.map((b, i) => (b.__component === 'content.rich-text' && !P[i]) ? i : null).filter((x) => x !== null);
+console.log('nepreložené rich-text bloky:', nepr.length ? nepr : 'žiadne');

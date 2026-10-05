@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shared_media_texts",
+  "info": {
+    "displayName": "Media Text",
+    "icon": "picture",
+    "description": "Popis a alt JEDNEJ fotografie pre jazykovú verziu článku. Knižnica médií má popis len jeden pre celý web, takže anglická galéria by inak stála po slovensky. Fotografia sa vyberá podľa id súboru v médiách."
+  },
+  "options": {},
+  "attributes": {
+    "mediaId": {
+      "type": "integer",
+      "required": true
+    },
+    "caption": {
+      "type": "text"
+    },
+    "alt": {
+      "type": "string",
+      "maxLength": 255
+    }
+  }
+}

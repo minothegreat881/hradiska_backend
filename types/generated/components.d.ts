@@ -138,6 +138,23 @@ export interface ContentSources extends Struct.ComponentSchema {
   };
 }
 
+export interface SharedMediaText extends Struct.ComponentSchema {
+  collectionName: 'components_shared_media_texts';
+  info: {
+    description: 'Popis a alt JEDNEJ fotografie pre jazykov\u00FA verziu \u010Dl\u00E1nku. Kni\u017Enica m\u00E9di\u00ED m\u00E1 popis len jeden pre cel\u00FD web, tak\u017Ee anglick\u00E1 gal\u00E9ria by inak st\u00E1la po slovensky. Fotografia sa vyber\u00E1 pod\u013Ea id s\u00FAboru v m\u00E9di\u00E1ch.';
+    displayName: 'Media Text';
+    icon: 'picture';
+  };
+  attributes: {
+    alt: Schema.Attribute.String &
+      Schema.Attribute.SetMinMaxLength<{
+        maxLength: 255;
+      }>;
+    caption: Schema.Attribute.Text;
+    mediaId: Schema.Attribute.Integer & Schema.Attribute.Required;
+  };
+}
+
 export interface SharedQuote extends Struct.ComponentSchema {
   collectionName: 'components_shared_quotes';
   info: {
@@ -297,6 +314,7 @@ declare module '@strapi/strapi' {
       'content.quote-block': ContentQuoteBlock;
       'content.rich-text': ContentRichText;
       'content.sources': ContentSources;
+      'shared.media-text': SharedMediaText;
       'shared.quote': SharedQuote;
       'shared.source-item': SharedSourceItem;
       'sidebar.key-fact': SidebarKeyFact;

@@ -33,7 +33,10 @@ const ZAPIS = process.argv.includes('--zapis');
 const SUBOR = arg('--subor=');
 if (!SUBOR) { console.error('chýba --subor=<cesta k JSON s prekladom>'); process.exit(1); }
 
-const POLIA = ['title', 'slug', 'excerpt', 'metaTitle', 'metaDescription', 'blocks', 'keyFacts', 'timeline', 'quotes'];
+const POLIA = ['title', 'slug', 'excerpt', 'metaTitle', 'metaDescription', 'blocks', 'keyFacts', 'timeline', 'quotes',
+  /* popisy fotiek v galérii pre tento jazyk — knižnica médií má popis jeden
+     pre celý web, takže anglická galéria by inak stála po slovensky */
+  'mediaTexts'];
 
 /** Čo sa nesmie dostať do zápisu — zdieľané polia a technické kľúče. */
 const ZAKAZANE = ['coverImage', 'gallery', 'galleryColumns', 'coverPosition', 'category', 'tags',
@@ -62,7 +65,7 @@ async function main() {
     const documentId = sk.documentId;
 
     const POPULATE = { coverImage: true, gallery: true, tags: true, category: true, keyFacts: true, timeline: true, quotes: true, location: true,
-      blocks: { populate: '*' } };
+      mediaTexts: true, blocks: { populate: '*' } };
 
     /* SNÍMKA SLOVENSKÉHO KONCEPTU. Strapi 5 pri zakladaní novej jazykovej
        verzie prepíše koncept pôvodného jazyka — overené na kópii, aj bez
@@ -147,6 +150,7 @@ async function main() {
       keyFacts: (k.keyFacts || []).map(({ id, ...z }) => z),
       timeline: (k.timeline || []).map(({ id, ...z }) => z),
       quotes: (k.quotes || []).map(({ id, ...z }) => z),
+      mediaTexts: (k.mediaTexts || []).map(({ id, ...z }) => z),
     });
     await app.documents(UID).update({ documentId, locale: 'sk', data: naZapis(skKoncept) });
 
