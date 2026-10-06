@@ -529,3 +529,26 @@ nedokončené vety, mŕtve odkazy a chýbajúce časti textu.
 **povesti-viazane-k-poloham-hradiste-a-koscelisko**
 : pozn. [2] hovorí o „Jazerka", telo nazýva polohu „Jezero" a značku [2] v tele vôbec nemá
 
+**hradiste-pod-vratnom**
+: telo hovorí o „archeologickom ústave v Trenčianskom Svätom Martine" — ústav bol v **Turčianskom** Svätom Martine
+
+**zemianske-podhradie-martakova-skala**
+: prevliečka má byť „101 cm long" (sedí s originálom, ale pri prevliečke je to zrejme chyba autora)
+
+**varin-nezbudska-lucka-gabrisova**
+: „v Ovčiarnom" — obec pri Bánovej sa menuje Ovčiarsko; veta „Najmä hrubostenné nádoby s natavenými zvyškami." je zlomok bez kontextu
+
+**spisske-tomasovce**
+: pôvodná anglická príloha autora („English:") tvrdí 12 ha, telo 5–6 ha
+
+**ducove-kostolec**
+: dva počty hrobov — 1 545 a 1 900 podľa Dvořáka
+
+**vysny-kubin-ostra-skala**
+: kľúčové fakty majú „stredná doba rímska", telo „mladšia doba rímska" o tom istom hrebeni
+
+**hatne**
+: perex pripisuje rozobranie hrádku kameňolomu, telo miestnym ľuďom
+
+**pobedim**
+: anglický slug `pobedim-slavic-lowland-hillfort` nesie „hillfort", hoci ide o nížinné opevnené sídlisko — slug ostáva kvôli sitemape
