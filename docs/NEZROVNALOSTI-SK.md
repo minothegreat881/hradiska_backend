@@ -552,3 +552,21 @@ nedokončené vety, mŕtve odkazy a chýbajúce časti textu.
 
 **pobedim**
 : anglický slug `pobedim-slavic-lowland-hillfort` nesie „hillfort", hoci ide o nížinné opevnené sídlisko — slug ostáva kvôli sitemape
+
+**nitra** (popis fotky, mediaId 3032)
+: slovenský popis je odseknutý v polovici — „Lupka z modrej turistickej značky od Dražoviec na" (chýba cieľ). Preklad to prebral verne („…from Dražovce to"), opraviť treba originál.
+
+**moravany-nad-vahom-hradiste**
+: dve kóty tej istej výšky — 371 m (Janšák, telo a časová os) a 369 m (kľúčové fakty)
+
+**moslimovia-o-madaroch-pred-zaujatim-vlasti**
+: rieka je v tele „Temes", v časovej osi „Temeš"
+
+**hradok-nad-vahom**
+: „68 menších exemplárov dlhých 165–1200 mm", pričom stredné majú 250–300 mm — 1200 mm pri „menších" nevychádza, vyzerá to na preklep
+
+**novohrad-nograd-h**
+: kľúčový fakt „Spracovanie: Kvetka" — meno sa v texte článku nikde nevyskytuje
+
+**informacne-tabule-prosne-zlaty-kon-a-uhliska**
+: časová os tvrdí, že tabule „financovala obec Udiča", telo hovorí len o prísľube starostu
