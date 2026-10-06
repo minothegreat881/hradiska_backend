@@ -1,0 +1,659 @@
+{
+ "slug": "vojenstvo-na-velkej-morave-a-taktika-obrany-hradisk",
+ "data": {
+  "title": "Warfare in Great Moravia and the defence tactics of its hillforts",
+  "slug": "great-moravian-warfare-hillfort-defence",
+  "excerpt": "Forget the myth of a dove-like nation: war – and often offensive war – was an ordinary part of life in 9th-century Moravia, and the written sources record 65 military events connected with Great Moravia. This article follows the armament and tactics of the Mojmirid princes and their mounted retinues, and then asks how the timber-and-earth ramparts of their hillforts actually worked in combat – and why Frankish armies, which still had no siege engines, found them so hard to take.",
+  "metaTitle": "Warfare in Great Moravia and hillfort defence tactics",
+  "metaDescription": "The military power of the Mojmirid princes, the armament of their mounted retinues and the tactics that made Great Moravian hillforts so hard to take.",
+  "keyFacts": [
+   {
+    "label": "Topic",
+    "value": "Warfare and the tactics of hillfort defence in Great Moravia",
+    "icon": "sword"
+   },
+   {
+    "label": "Size of the army",
+    "value": "Cavalry some 5,000–8,000 men; infantry up to 20,000–25,000 at maximum mobilisation",
+    "icon": "shield"
+   },
+   {
+    "label": "Key authors",
+    "value": "Alexander Ruttkay, Matej Ruttkay, Rudolf Procházka",
+    "icon": "book"
+   },
+   {
+    "label": "Defensive tactics",
+    "value": "Concentration at a central hillfort, a waiting tactic, a plundering counter-offensive",
+    "icon": "shield"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "623",
+    "title": "Wogastisburg",
+    "description": "The Slavs under the leadership of Samo held out against the armies of the Frankish king Dagobert – the earliest written report of the use of a fortification (the Chronicle of Fredegar).",
+    "type": "event"
+   },
+   {
+    "year": "from 846",
+    "title": "Wars with the Frankish Empire",
+    "description": "Great Moravia waged a series of defensive wars with the East Frankish kings Louis the German and Arnulf, in which fortified hillforts played a key role.",
+    "type": "event"
+   },
+   {
+    "year": "864",
+    "title": "The siege of „Rastislav’s“ hillfort",
+    "description": "A Frankish army besieged the central fortification most often identified with Devín or Mikulčice.",
+    "type": "event"
+   },
+   {
+    "year": "after 892",
+    "title": "Wars with the Magyars",
+    "description": "After 892 Great Moravia also faced defensive wars against Magyar raids.",
+    "type": "event"
+   },
+   {
+    "year": "first half of the 10th century",
+    "title": "The demise of the Great Moravian hillforts",
+    "description": "Most hillforts (Pobedim, Břeclav-Pohansko, Líšeň, Znojmo-Hradiště and others) came to an end or were captured in the period of the collapse of Great Moravia.",
+    "type": "event"
+   },
+   {
+    "year": "1017",
+    "title": "The first attested siege engines in Central Europe",
+    "description": "Thietmar of Merseburg records the use of war machines at the siege of Niemcza in Silesia by the Emperor Henry III.",
+    "type": "event"
+   },
+   {
+    "year": "1142",
+    "title": "The Moravians used siege engines",
+    "description": "The army of Conrad of Znojmo used siege engines at the siege of Prague and set fire to the monastery of St George.",
+    "type": "event"
+   },
+   {
+    "year": "1168",
+    "title": "The fall of Arkona",
+    "description": "During the siege of Arkona the Danes burned the tower, the superstructures and the upper part of a massive Slavic fortification.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 3936,
+    "alt": "A drawing of King Svatopluk on horseback with a sword and a banner"
+   },
+   {
+    "mediaId": 3937,
+    "caption": "The appearance of a horseman and a foot soldier in the time of Great Moravia",
+    "alt": "The appearance of a horseman and a foot soldier in the time of Great Moravia"
+   },
+   {
+    "mediaId": 3938,
+    "caption": "The probable appearance of a Great Moravian magnate",
+    "alt": "The probable appearance of a Great Moravian magnate"
+   },
+   {
+    "mediaId": 3939,
+    "caption": "A Frankish horseman in the 9th century",
+    "alt": "A Frankish horseman in the 9th century"
+   },
+   {
+    "mediaId": 3940,
+    "caption": "A depiction of a battle from a 9th-century chronicle",
+    "alt": "A depiction of a battle from a 9th-century chronicle"
+   },
+   {
+    "mediaId": 3941,
+    "caption": "the Great Moravian hillfort of Gars Thunau in Lower Austria had a box rampart and a stone front facing",
+    "alt": "the Great Moravian hillfort of Gars Thunau in Lower Austria had a box rampart and a stone front facing"
+   },
+   {
+    "mediaId": 3932,
+    "caption": "An assault on the hillfort of Behren-Lubchin (Germany)",
+    "alt": "An assault on the hillfort of Behren-Lubchin (Germany)"
+   },
+   {
+    "mediaId": 3942,
+    "caption": "The hillfort of Chotěbuz in northern Moravia",
+    "alt": "The hillfort of Chotěbuz in northern Moravia"
+   },
+   {
+    "mediaId": 3944,
+    "caption": "Chotěbuz - a view from inside the hillfort",
+    "alt": "Chotěbuz - a view from inside the hillfort"
+   },
+   {
+    "mediaId": 3946,
+    "caption": "The siege of a town in the 9th century",
+    "alt": "The siege of a town in the 9th century"
+   },
+   {
+    "mediaId": 3947,
+    "caption": "An assault on the hillfort of Mecklenburg",
+    "alt": "An assault on the hillfort of Mecklenburg"
+   },
+   {
+    "mediaId": 3955,
+    "caption": "The feared Frankish cavalry",
+    "alt": "The feared Frankish cavalry"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Warfare in Great Moravia"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "How did our ancestors fare when it came to fighting? Let us quickly forget the myth of a dove-like nation. War – and often offensive war at that – was evidently an ordinary part of life not only for the ruling class, but also for the class of free men. As Alexander Ruttkay notes, the military power of the Mojmirid princes and of the circle of magnates rested on the military retinue, that is, on an armed escort of mounted warriors who formed part of the leading social stratum. It is an interesting finding that the written sources contain information on 65 military events altogether relating to Great Moravia. The main weapons of the Great Moravian aristocracy were "
+       },
+       {
+        "type": "link",
+        "url": "/blog/zbrane-nitranov-v-casoch-velkej-moravy",
+        "children": [
+         {
+          "type": "text",
+          "text": "double-edged swords"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". Handling them from the saddle was aided by an important element – one not yet widespread in all parts of Europe at that time – the rigid stirrup. In controlling the horse, spurs were dominant. It was precisely the sword and spurs that in the 9th century still marked a fairly pronounced difference between armament of the West and Central European type and East European, or steppe, armament and way of fighting. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The main reward of the members of the retinue for their reliable service to the ruler was military booty. That too is why the organisation of military campaigns was directly indispensable. The cult of heroes as an ethical model evidently became, here as well, the theme of songs and legends, which, sadly, have not survived from the depths of the ages in any more coherent, literarily elaborated form.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Warfare in Great Moravia and the defence tactics of its hillforts",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The second – substantially larger – part of the armies in the 9th century was, in accordance with ancient traditions, the so-called military levy of free men within neighbourhood or kinship communities. Infantry predominated in this part of the forces, and the main weapons were various forms of battle axe. The large wooden bow was also a predominantly infantry weapon. A truly universal piece of military equipment for both cavalry and infantry was the spear combined with the shield. Metal helmets and mail, or possibly scale armour, were however apparently used at that time only by the higher social strata. More widespread were various forms of protective clothing combining leather and textile."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "On the strategy and tactics in the warfare of our ancestors, above all in the period of the reign of Rastislav and Svatopluk, or indeed of his sons, we are informed primarily in connection with the East Frankish state. On the whole, flexible military and strategic approaches on the part of our princes can be recognised: the search for suitable alliances with Byzantium and for the support of the papal curia in order to create a strategic balance against the constant Frankish threat, and efforts to defend the eastern parts of the territory at the end of the 9th century against the Old Hungarian onslaught."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Our warriors – a horseman and a foot soldier",
+    "alt": "Our warriors – a horseman and a foot soldier",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The core of the Great Moravian armies was formed by the cavalry (some 5,000–8,000 men, while the number of infantry at maximum deployment – which was probably only exceptional – could perhaps reach as many as 20,000–25,000). Full „mobilisation“ in the early medieval conditions of information, organisation and communication must have taken a fairly long time – up to several weeks when an attack was being organised. The prince put his immediate retinue on combat alert, his messengers announced the „mobilisation order“, and the military levy of free men was then organised on the basis of instructions from the fortified centres. The detachments then advanced to the place of common muster. Defensive mobilisation was much faster. It involved concentrating the detachments within the region of competence of the individual administrative centres – which also served as refuges (hillforts as places of refuge). An analysis of the written reports testifies to a very well organised defence on the part of our ancestors, and to a mighty system of hillforts that was difficult to take in that period. Also characteristic was a waiting tactic, which counted on exhausting the enemy in protracted skirmishes and sieges, and on his retreat, during which he was often struck by a surprise blow combined with pursuit and a plundering counter-offensive.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "A member of the Great Moravian nobility on horseback",
+    "alt": "A member of the Great Moravian nobility on horseback",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "On the practical use of fortifications in the 7th–8th centuries we have only a single written report, namely the record in the Chronicle of Fredegar about the famous Wogastisburg, which was inscribed in a notable way into the history of the Slavs and at which the Slavs under the leadership of Samo held out against the armies of the Frankish king Dagobert. In the period after Samo’s death and the presumed demise of his empire, however, the Frankish Empire most probably retained its interest in gaining control of the territory of Bohemia, Moravia and Slovakia. In this period the greater part of the territory of Slovakia and Moravia did not fall under the direct military influence of the Avar Khaganate, whose power gradually weakened in the course of the 8th century, and it may reasonably be assumed that in parallel the first nobility was forming and growing stronger, which subsequently played an important role in the building of the first hillforts in the territory of present-day Slovakia. \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "It is beyond dispute that in the series of defensive wars which Great Moravia waged with the Frankish Empire from about 846 and with the Magyars after 892, fortified hillforts played a key role. The defensive strategy in the struggle with the armies of the East Frankish kings Louis the German and Arnulf took two basic forms. In the event of an attack by large forces drawn from a substantial part of the empire, the Moravians avoided a pitched battle and concentrated their armies, headed by the ruler, on the defence of a particular hillfort of central importance, towards which the main blow of the imperial corps was usually directed. At the same time a small-scale war was waged against the attacker. The defence of the key site was as a rule successful, which offset any partial setbacks and the devastation of the country. It is very likely that the reports for the years 855, 869 and 871 concern the same central fortified complex, whereas in 864 the hillfort that was attacked is most often identified with Devín. In these tactics one can discern elements similar to those already used by Samo more than 200 years earlier against Dagobert. In cases where the territory of Moravia was attacked by a smaller army from individual parts of the Frankish empire, the Moravian armies more often engaged in open battles (for example in 869, 871 and 872). Such a strategy, as Procházka notes, corresponded to the character of the fighting of the early medieval Czech and Polish states against the German empire in the 10th–12th centuries, from which we are moreover better informed both about encounters in the border zone making use of natural obstacles and about the taking of castles. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "A Frankish horseman in the 9th century",
+    "alt": "A Frankish horseman in the 9th century",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In the battle formation a frontal line was deployed, with the cavalry forces at the front, and in depth two echelons were sometimes used. There are also reports of detachments kept in reserve. The possibility of the commander directly conducting the battle evidently ended with the order to attack, which began a charge by the cavalry with levelled spears. If this blow did not bring decisive success, then in the further course of the battle the numerical superiority of the infantry and its better manoeuvring ability often told on the cramped battlefield. At such moments even mounted warriors fighting in a common formation would dismount and strengthen the ranks of the infantry. The markedly unruly character of early medieval wars was matched by the disorder of the defeated side’s retreat, which usually turned into headlong flight. Fleeing Frankish warriors, for example, were finished off even by the ordinary Slavic population, and the written reports mention a considerable number of warriors who drowned in rivers while fleeing."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "A depiction of a battle from a 9th-century chronicle",
+    "alt": "A depiction of a battle from a 9th-century chronicle",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "The defence of hillforts"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "For the building of hillforts it is of important significance that mechanical war machines appeared in Central Europe probably only around the turn of the millennium, and that therefore at the time when Great Moravia existed they were not used for taking towns and hillforts. In accordance with the reports of contemporary chroniclers, we assume that the main form of fighting for fortified places was a direct assault or a blockade combined with the plundering of the hinterland.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "What were the defensive qualities of timber-and-earth fortifications? All of them, even the simplest, if in good condition, forced the opponent, by a difference in height of at least about three metres, to use auxiliary means during a siege; this both eliminated the direct impact of his numerical superiority and put him at a disadvantage in fighting at a distance with bows or slings, and later also in direct clashes. Of course, the moral factor cannot be omitted either – we are defending our homes, our property; you want to destroy this property of ours, to take it from us. A simple palisade could, however, be broken through or set alight, and a ditch filled in or bridged. A great weakness of a shell-construction rampart with a timber front was also its low resistance to fire. Should the front wall be breached and the fortification partly destroyed, however, a barrier in the form of the body of the rampart still stood in the way of penetration into the interior, provided it was sufficiently wide. Even better qualities in this respect were shown by a fortification with a stone wall (facing) turned towards the enemy – as we know it from several hillforts in Moravia and Slovakia.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "the Great Moravian hillfort of Gars-Thunau in Lower Austria had a box rampart and a stone front facing",
+    "alt": "the Great Moravian hillfort of Gars-Thunau in Lower Austria had a box rampart and a stone front facing",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Nevertheless, the possibility of the attacker mechanically breaching the rampart was evidently taken into account. Procházka regards this as one of the reasons why shell-construction and other ramparts usually reach a width of more than four metres. This applies to box constructions as well, especially where several rows of log chambers were involved – to make a breach here, several walls one behind another had to be broken through. A height difference of about four metres above a ditch that might already have been filled in was not, however, insurmountable for the enemy, especially if the timber superstructure of the rampart had already been damaged. If the first attackers had already penetrated to the crown of the rampart, a wall-walk several metres wide made it possible to concentrate enough defenders at the threatened point and to gain local numerical superiority in close combat. That is perhaps the second reason why shell-construction and box ramparts were built wider in comparison with the later, but higher and more resistant walls of stone and mortar. In the case of a sloping grillage construction and a simple earthen bank, a further structural and technical constraint is added – the height and width of the wall-walk are directly proportional to the width of the base. We see, then, that timber-and-earth ramparts, in the form in which we can reconstruct them on the basis of the excavated evidence, were a compromise between structural and technical requirements, especially as regards stability, and the needs of defence. Their great weakness was evidently in most cases the timber superstructures (breastworks). Despite that, the Great Moravian fortresses were an insurmountable obstacle for Frankish armies, which did not yet use war machines, as several contemporary sources testify (for example about Rastislav’s immense hillfort).\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "An assault on the hillfort of Behren-Lubchin (Germany)",
+    "alt": "An assault on the hillfort of Behren-Lubchin (Germany)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "As has already been indicated above, the body of the rampart had to reach a sufficient height so that its top could not be reached by ordinary means. The average height of the rampart (without the breastwork) was 3 m (and more), which corresponds to the assumption stated above. A certain risk is posed by a horseman, who could reach the crest of the rampart from the back of his horse as from a raised point. The strategic placing of a ditch or a watercourse in front of the ramparts, however, presents an obstacle to riders that markedly reduces this risk. Body height also had to be taken into account in building the gateways and towers and their chambers. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The height of the timber breastwork on the crown of the body of the rampart had to be derived from body height. It had to be at least 170 cm, because the figure given above for the height of a person is an average and the builders certainly reckoned with protecting individuals of above-average height. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "The hillfort of Chotěbuz in northern Moravia",
+    "alt": "The hillfort of Chotěbuz in northern Moravia",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In creating the breastwork a further dimension derived from body height is important, namely the height up to waist level. The breastwork could best fulfil its purpose if it was formed in the shape of crenellation, that is, if it alternated panels covering the whole body of the defender with embrasures that gave the defender room to defend the rampart. In a person 170 cm tall the waist reaches a height of about 90 cm. The edge of the embrasure of the breastwork thus reached a height of about 90 cm (3 feet), and above the level of the defender’s waist an open space was created that was sufficient for defending the rampart. The defender could lean out over the edge of the rampart and visually check the area at the base of the rampart and its forefield. \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Considerations as to how many defenders the Great Moravian hillforts were built for cannot, according to Procházka, be reliably substantiated so far. A coefficient of 1 defender per 5 m of the length of the fortification is hypothetically accepted, which may be regarded as a kind of „coefficient of defensibility“. It is, however, very likely that some hillforts, with areas mostly in the range of 10–28 ha, were designed to hold as many people as possible. It may be assumed that in 864 or 869, for example, when the Frankish army stood before „Rastislav’s ineffable fortress“, usually identified with Mikulčice (or sometimes with Velehrad), the core of the army of the Great Moravian ruler stood behind its ramparts. We know from later sources that attacks were usually concentrated on defined sections of a particular circuit of ramparts, so that the defence usually did not cover the whole defensive line evenly.\n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Warfare in Great Moravia and the defence tactics of its hillforts",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Some of the Middle Hillfort-period fortifications in the area under study bear traces of fire. This concerns above all the hillforts of Břeclav-Pohansko, Líšeň and Znojmo-Hradiště, where the timber elements of perhaps substantial parts of the circuit fortification burned, that is, the reinforcement and the rear wall. At Mikulčice the fire evidently affected only the area of the north-eastern gateway. Even more evidence of fire is known from the fortifications of Slovak hillforts, where the destructive element struck the ramparts of Bratislava, both sites in Devínska Nová Ves, Jur pri Bratislave, Hronský Beňadik, Majcichov, Pobedim and Festunok – Tlmače. Although some sites (Pobedim, Břeclav-Pohansko, the fortified manorial court at Strachotín) came to an end as early as during the 9th century, in the case of most of the others we assume their capture, or demise, in the first half of the 10th century, that is, in the period of the collapse of Great Moravia. Given the successful resistance of the Great Moravian hillforts to the aggression of the Frankish empire, and what we know of the way the Magyar light cavalry fought, we must necessarily come to the conclusion that the fate of these remarkable fortified complexes was decided at the beginning of the 10th century outside their ramparts. Despite that, indications have been obtained that testify to the participation of Magyar archers in the taking of some Great Moravian sites. It is above all leaf-shaped, that is, rhombic and deltoid arrowheads, found in conspicuous concentrations at some places on the Mikulčice acropolis, that should be connected with these attackers. Procházka states that evidence of a massacre might be provided by the finds of numerous graves on the slope outside the rampart of the Mikulčice acropolis, and perhaps also by some of the graves in the surface layer inside. It is likely that after the main blows directed against the centres of the Mojmirid domain the country fell into chaos and internal fighting, in which Magyar units also intervened. It was probably then that some fortifications on the edge of the old South Moravian settlement area were destroyed, for example Brno-Líšeň, Radslavice – Zelená Hora or Znojmo, and Gars-Thunau in Lower Austria evidently belongs here as well. It may be noted that, unlike Mikulčice or Břeclav-Pohansko, at Uherské Hradiště and Staré Město evidence of the burning of the fortification or other indications of a violent end are lacking. Something similar essentially applies to Nitra as well, although there it is difficult to draw unambiguous conclusions, given that the greater part of the fortifications has not survived."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Chotěbuz – a view from inside the hillfort",
+    "alt": "Chotěbuz – a view from inside the hillfort",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In the 11th century siege technique was enriched by mechanical machines capable of hurling missiles of various kinds. They could not, it is true, breach timber-and-earth fortifications of sufficient width, but it was within their power to shatter the superstructures and, above all, to start a fire with incendiary substances. Of their first use by the Moravians we learn in 1142, when the army of Conrad of Znojmo besieged Prague and set fire to the monastery of St George. The defenders too sometimes had similar means at their disposal. Between 1112 and 1116 the deployment of machines is already attested in the description of the siege of several castles – Nakło and Wyszogród, in the latter case including a siege tower, which testifies to their common familiarity in the environment of the Central European states at the beginning of the 12th century. The massive ramparts of the Piast castles were marked by a high resistance to mechanical breaching. In comparison with fortifications with a stone front wall, however, as we know them from the Great Moravian environment, they contained a higher proportion of timber, which increased the danger of fire. \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Warfare in Great Moravia and the defence tactics of its hillforts",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Siege towers and battering rams were used earlier still, at least in the 10th century. In Central Europe, among the earliest references are the statements of Thietmar of Merseburg about the use of war machines at the siege of Niemcza in Silesia by the Emperor Henry III in 1017. Likewise, the defenders sometimes supplemented their installations with improvised towers, as emerges from the description of the Danish campaign of 1171 against the Obodrites. \n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The whole history of Great Moravia suggests that the pillar of its defensive strategy appears to have been, apart from natural obstacles such as watercourses and mountain ranges with occasional abatis, a network of hillforts, especially those situated in the peripheral parts of the realm. From the defensive point of view these sites above all anchored the state territory against its neighbours, and their garrisons could intercept attacks by smaller enemy forces. The key role in military campaigns was, however, played by the main centres, control of which decided the outcome of conflicts. The decrease in the area of hillforts in the 10th and 11th centuries restricted their role as refuges above all to professional armed forces, even though some sites could offer refuge at least to part of the rural population, or to its armed component, the levy. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "The siege of a town in the 9th century",
+    "alt": "The siege of a town in the 9th century",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The course of the wars of the Great Moravian period, and also in the 11th–12th centuries, demonstrates the effectiveness of a defence by withdrawal into a fortress, which often forced the attacker to negotiate after devastating the country – though this holds true for most of the Middle Ages. The devastation of the country was effective above all in internal wars, and it sometimes happened that in such a case the defenders preferred to surrender voluntarily. Only rarely do we learn of a castle being taken by assault or by capitulation. From some surviving written reports we also learn that hillforts represented a substantial military problem for the Old Hungarians as well, who with their nomadic way of fighting were evidently incapable of directly taking the more important hillforts. The devastation of the hinterland which they perpetrated, however, caused the population great economic difficulties.\n \n"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Among the best known foreign sources on the taking of hillforts is the description of the siege of Arkona by the Danes in 1168, in the course of which they managed to burn the tower, the superstructures and the upper part of an exceptionally massive Slavic fortification. Remarkable information is also provided by the Livonian chronicle, which frequently and in considerable detail describes the taking of the hillforts of the Baltic peoples by the Order of the Brothers of the Sword at the beginning of the 13th century. The timber-and-earth fortifications of the Balts under attack were able to put up a long resistance even to the war machines routinely deployed against them. One of the siege means used here was piles of timber, which the crusaders concentrated at the foot of the ramparts and then set alight, thereby sometimes succeeding in setting the fortification on fire and spreading the blaze to the buildings inside. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "An assault on the hillfort of Mecklenburg",
+    "alt": "An assault on the hillfort of Mecklenburg",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "intro": null,
+    "items": []
+   }
+  ]
+ }
+}
