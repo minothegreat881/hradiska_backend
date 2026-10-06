@@ -1,0 +1,751 @@
+{
+ "slug": "obisovce-straza",
+ "data": {
+  "title": "Obišovce – Stráža, one of the largest hillforts in eastern Slovakia",
+  "slug": "obisovce-straza-hillfort-eastern-slovakia",
+  "excerpt": "Stráža above Obišovce is one of the largest hillforts in eastern Slovakia: a mountain ridge with two summits, more than 1,000 m long and covering some 47 ha, whose ramparts have still not been reliably dated. It is also a site with a sad reputation – around the turn of the millennium looters stole an enormous hoard of Bronze Age vessels and gold here, while in 2020 an honest finder’s report led to the recovery of a smaller hoard of bronzes, now kept in the East Slovak Museum in Košice.",
+  "metaTitle": "Obišovce-Stráža – one of eastern Slovakia’s largest hillforts",
+  "metaDescription": "A national cultural monument and one of the largest hillforts in eastern Slovakia (47 ha, over 1,000 m long) in the Čierna hora massif above the Hornád.",
+  "keyFacts": [
+   {
+    "label": "Location",
+    "value": "Cadastral area of the village of Obišovce, the Čierna hora massif, above the confluence of the Hornád and the Svinka",
+    "icon": "map"
+   },
+   {
+    "label": "Elevation",
+    "value": "484 and 510 m (two summits)",
+    "icon": "mountain"
+   },
+   {
+    "label": "Dimensions of the hillfort",
+    "value": "Length exceeds 1,000 m, width 481 m, area c. 47 ha",
+    "icon": "mountain"
+   },
+   {
+    "label": "Heritage status",
+    "value": "National cultural monument, hillfort no. ÚZPF 4418/0",
+    "icon": "shield"
+   },
+   {
+    "label": "Type of hillfort",
+    "value": "Upland type – an elongated irregular ellipse with a transversely placed acropolis on the western side",
+    "icon": "shield"
+   },
+   {
+    "label": "Origin of the name Stráža",
+    "value": "From the function of guarding (strážiť) – watching over borders and the trade routes through the valleys of the Hornád, the Svinka and the Torysa towards Poland",
+    "icon": "flag"
+   },
+   {
+    "label": "Water source",
+    "value": "Inside the fortified area, on the southern side next to the rampart, protected by steep sunken tracks",
+    "icon": "water"
+   },
+   {
+    "label": "The stolen hoard from Obišovce",
+    "value": "Said to have been c. 60 bronze vessels and gold ornaments of the Bronze Age, stolen by looters around the turn of the millennium",
+    "icon": "crown"
+   },
+   {
+    "label": "Hoard discovered in 2020",
+    "value": "13 metal objects, of which 11 artefacts could be reconstructed",
+    "icon": "star"
+   },
+   {
+    "label": "Where the hoard is kept",
+    "value": "The East Slovak Museum in Košice",
+    "icon": "building"
+   },
+   {
+    "label": "Material analysis (XRF)",
+    "value": "Suggests recycled material from Carpathian and Alpine copper ore deposits",
+    "icon": "custom"
+   },
+   {
+    "label": "Source of the research documentation",
+    "value": "Monuments Board, Bratislava / Regional Monuments Board in Košice, PUSR Obišovce, Košice 2014",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "Bronze Age (dating uncertain)",
+    "title": "Unclear dating of the ramparts",
+    "description": "The date at which the ramparts were built has not been firmly established; both the Bronze Age and the period of Great Moravia are considered, since the excavations carried out so far, in the 1960s and the 1990s, produced no insights into their construction.",
+    "type": "construction"
+   },
+   {
+    "year": "the Late Bronze Age",
+    "title": "Finds of two bronze spirals",
+    "description": "Two bronze spirals of the Late Bronze Age were discovered at the hillfort.",
+    "type": "discovery"
+   },
+   {
+    "year": "turn of the Late and Final Bronze Age",
+    "title": "The period of the Stráža hillfort and a possible link with the hoard",
+    "description": "The Stráža hillfort is placed at the turn of the Late and Final Bronze Age; according to the study, a connection between the nearby bronze hoard and this very hillfort cannot be ruled out.",
+    "type": "event"
+   },
+   {
+    "year": "Early Iron Age (Hallstatt period)",
+    "title": "Hallstatt finds",
+    "description": "Finds of the Early Iron Age – the Hallstatt period – were discovered at the hillfort.",
+    "type": "discovery"
+   },
+   {
+    "year": "Roman period, 3rd century AD",
+    "title": "Find of a coin of Herennia Etruscilla",
+    "description": "A bronze mount, a finger ring and a coin of Herennia Etruscilla, wife of the emperor Trajan Decius, of the 3rd century AD were discovered.",
+    "type": "discovery"
+   },
+   {
+    "year": "period of the Principality of Nitra",
+    "title": "Finds from the period of the Principality of Nitra",
+    "description": "Finds from the period of the Principality of Nitra were discovered at the hillfort.",
+    "type": "discovery"
+   },
+   {
+    "year": "period of Great Moravia and its fall",
+    "title": "Finds from the time of Great Moravia",
+    "description": "Pottery, a socketed arrowhead and a bronze strap end of the period of Great Moravia and its fall were discovered.",
+    "type": "discovery"
+   },
+   {
+    "year": "the Middle Ages",
+    "title": "Signals passed on by fire and smoke",
+    "description": "In the Middle Ages, as the Hungarian state was taking shape, signals were passed on by fire and smoke from the summit of Stráža to Lysá Stráž near Terňa and from there on to the summit of Sľubica in the southern part of the Branisko range on the Spiš side.",
+    "type": "event"
+   },
+   {
+    "year": "the Middle Ages",
+    "title": "Medieval finds of arrowheads",
+    "description": "Medieval arrowheads were discovered at the hillfort.",
+    "type": "discovery"
+   },
+   {
+    "year": "the 1960s and the 1990s",
+    "title": "Archaeological excavations of the hillfort",
+    "description": "Excavations of the hillfort were carried out in these years, but they produced no insights into the construction of the ramparts and no precise date for their origin.",
+    "type": "event"
+   },
+   {
+    "year": "in the past",
+    "title": "Looting of the hillfort by metal detectorists",
+    "description": "In the past the hillfort was intensively looted by metal detectorists.",
+    "type": "destruction"
+   },
+   {
+    "year": "turn of the millennium",
+    "title": "Theft of the enormous hoard from Obišovce",
+    "description": "An enormous hoard – said to have been 60 bronze vessels and gold ornaments of the Bronze Age – was stolen by looters around the turn of the millennium; some of the objects later appeared at two foreign auctions.",
+    "type": "destruction"
+   },
+   {
+    "year": "2020",
+    "title": "Discovery of the hoard from Obišovce",
+    "description": "The hoard of bronze objects was discovered as a chance archaeological find in the forested part of the cadastral area, on a rocky slope above the village; the finder reported it to the Regional Monuments Board in Košice.",
+    "type": "discovery"
+   },
+   {
+    "year": "12 June 2026",
+    "title": "Article supplemented with a contribution from the Regional Monuments Board in Košice",
+    "description": "The article was supplemented on the basis of a Facebook post by the Regional Monuments Board in Košice.",
+    "type": "event"
+   },
+   {
+    "year": "13 June 2026",
+    "title": "Public presentation of the hoard at the East Slovak Museum in Košice",
+    "description": "A public event with the first presentation of the hoard from Obišovce takes place at the East Slovak Museum in Košice.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 6383,
+    "alt": "A view across a meadow to the wooded ridge of the hillfort, backlit in autumn"
+   },
+   {
+    "mediaId": 1742,
+    "alt": "A contour map with the black outline of the archaeological site"
+   },
+   {
+    "mediaId": 1743,
+    "caption": "part of the ridge with the western acropolis (Kveta)",
+    "alt": "part of the ridge with the western acropolis (Kveta)"
+   },
+   {
+    "mediaId": 1744,
+    "caption": "view of part of the ridge with the hillfort and the eastern acropolis from the opposite ridge above Licartovce. this ridge is separated from Stráža by the valley of the Svinka (Kveta)",
+    "alt": "view of part of the ridge with the hillfort and the eastern acropolis from the opposite ridge above Licartovce. this ridge is separated from Stráža by the valley of the Svinka (Kveta)"
+   },
+   {
+    "mediaId": 1745,
+    "caption": "The western acropolis (Kveta)",
+    "alt": "The western acropolis (Kveta)"
+   },
+   {
+    "mediaId": 1746,
+    "caption": "The gateway into the western acropolis (Kveta)",
+    "alt": "The gateway into the western acropolis (Kveta)"
+   },
+   {
+    "mediaId": 1747,
+    "alt": "A panorama of wooded hills with the western and eastern acropolis and Kysak Castle marked"
+   },
+   {
+    "mediaId": 1748,
+    "caption": "The terrace below the western acropolis (Kveta)",
+    "alt": "The terrace below the western acropolis (Kveta)"
+   },
+   {
+    "mediaId": 1749,
+    "caption": "Plan of the hillfort after Slivka/Vallašek, 1991",
+    "alt": "Plan of the hillfort after Slivka/Vallašek, 1991"
+   },
+   {
+    "mediaId": 1750,
+    "caption": "Photo: Michal Novák",
+    "alt": "Photo: Michal Novák"
+   },
+   {
+    "mediaId": 1751,
+    "alt": "A drawing plate of pottery fragments and wire spirals with a scale"
+   },
+   {
+    "mediaId": 1752,
+    "caption": "A hair spiral of the Bronze Age. Photograph provided for the purposes of the monograph on the village of Obišovce by Dr Miroššayová",
+    "alt": "A hair spiral of the Bronze Age. Photograph provided for the purposes of the monograph on the village of Obišovce by Dr Miroššayová"
+   },
+   {
+    "mediaId": 1753,
+    "alt": "Drawings of spearheads, an arrowhead and bronze mounts with a scale"
+   },
+   {
+    "mediaId": 1754,
+    "caption": "Herennia Etruscilla",
+    "alt": "Herennia Etruscilla"
+   },
+   {
+    "mediaId": 1755,
+    "alt": "The slope of the hillfort with the body of the rampart in leafless woodland"
+   },
+   {
+    "mediaId": 1756,
+    "alt": "A bronze situla with handles and a set of bronze bowls on a white background"
+   },
+   {
+    "mediaId": 1757,
+    "alt": "A lidar hillshade with the lines of the ramparts clearly legible"
+   },
+   {
+    "mediaId": 1758,
+    "alt": "A beech wood on the plateau of the hillfort in autumn"
+   },
+   {
+    "mediaId": 1759,
+    "alt": "The rampart of the hillfort in a beech wood, covered with leaves"
+   },
+   {
+    "mediaId": 1760,
+    "alt": "A ditch and rampart in an autumn beech wood"
+   },
+   {
+    "mediaId": 1761,
+    "alt": "An autumn beech wood on the crown of the hillfort"
+   },
+   {
+    "mediaId": 1762,
+    "alt": "The body of the rampart in a beech wood with roots on the surface"
+   },
+   {
+    "mediaId": 1763,
+    "alt": "An autumn beech wood on the slope of the hillfort"
+   },
+   {
+    "mediaId": 1764,
+    "alt": "The ditch of the hillfort in an autumn wood, backlit"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The hillfort of Obišovce – Stráža is one of the largest hillforts in eastern Slovakia. It is a national cultural monument. It lies in the western part of the cadastral area of the village of Obišovce – in the Čierna hora massif, above the confluence of the Hornád and the Svinka. It is formed by a section of a mountain ridge with two summits. These lie at elevations of 484 and 510 m. The maximum length of the hillfort exceeds 1,000 m, its width 481 m. It covers a considerable area – c. 47 ha. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Obišovce – Stráža",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The name Stráža is derived from the function of guarding. In the past this meant guarding borders or an important territory, but in our case it was probably the guarding of the passage through the valleys of the Hornád, the Svinka and also the Torysa, along which ancient and later also medieval trade routes ran on northwards as far as Poland. It was from this very summit that, in the Middle Ages, as the Hungarian state was taking shape, signals were passed on by fire and smoke to Lysá Stráž near Terňa and from there on to the summit of Sľubica in the southern part of the Branisko range on the Spiš side. (information taken from the website of the village of Obišovce)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "As the research documentation of the Monuments Board in Bratislava states (great thanks for providing it and for permission to publish parts of it go to Mgr. Martin Pristáš of the Regional Monuments Board in Košice), "
+       },
+       {
+        "type": "text",
+        "text": "„it is an upland type of hillfort. The plan of the hillfort forms an elongated irregular ellipse, with a transversely placed acropolis on the western side. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Stráža in the background. The hill in the foreground is Zámčisko with the Obišovce fortlet (Kveta)",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The rampart links the summits of Stráža in such a way that on the eastern side it runs directly across the summit, while on the western side it encircles the summit plateau. The western summit plateau is encircled by a further rampart, which creates the acropolis. On the northern side of the hillfort (outside its fortified area) there are two parallel breaks of slope, which may be the remains either of ramparts or of terraces. Further pronounced breaks of slope, also used as forest tracks, are on the north-eastern side of the hillfort, likewise in two lines. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "part of the ridge with the western acropolis (Kveta)",
+    "alt": "part of the ridge with the western acropolis (Kveta)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The rampart of the hillfort is interrupted in several places, in both shorter and longer stretches. Forest tracks cross the rampart in several places. It is likely that one of these gaps lies at the position of the original entrance, with the entrance on the northern side of the hillfort coming into consideration above all. The rampart is hard to read along a certain stretch on the eastern side (where the ground falls away steeply), and on the southern, or rather south-western, side it is absent. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The massiveness, that is the height and width of the ramparts, differs from place to place. The most massive ramparts are on the western side of the hillfort. The ramparts of the acropolis are relatively inconspicuous and in places reach only c. 0.5 m (mainly on the eastern side). The interior of the hillfort is formed by the ridge linking the two summits and by the southern slopes. Inside the fortified area, but outside the acropolis, there is a water source on the southern side, close to the rampart.“",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The excavations carried out so far, in the 1960s and the 1990s, produced no insights into the construction of the ramparts. Nor has the dating of their origin been firmly established. Both the Bronze Age and the period of Great Moravia are considered. Finds from several historical periods have, however, been discovered here. These are finds from the Late Bronze Age (2 bronze spirals), the Early Iron Age – the Hallstatt period, the Roman period (a bronze mount, a finger ring, a coin of Herennia Etruscilla – wife of the emperor Trajan Decius – 3rd century AD), the period of the Principality of Nitra, of Great Moravia and its fall (pottery, a socketed arrowhead, a bronze strap end) and the Middle Ages (arrowheads). In the past the hillfort was intensively looted by metal detectorists."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "view of part of the ridge with the hillfort and the eastern acropolis from the opposite ridge above Licartovce. this ridge is separated from Stráža by the valley of the Svinka (Kveta)",
+    "alt": "view of part of the ridge with the hillfort and the eastern acropolis from the opposite ridge above Licartovce. this ridge is separated from Stráža by the valley of the Svinka (Kveta)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "As for the present state of the site, our contributor Kvetka M., from whom several of the photographs also come, writes about the hillfort: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "A road, today already a wide one, traverses the southern side, following the line of the rampart. Before it was widened and surfaced a few years ago, it could be seen that it ran along the rampart. Several steep sunken tracks, protected by the rampart, open onto this rampart from the south-east and the south. One of them is passable in its lower part even for heavier machinery. In places these sunken tracks were cut into the rock. The ground below the southern rampart is very steep, which is why the sunken tracks had of necessity to be protected. This southern rampart also protected the water sources, which rise on the slope roughly in the middle of the fortified enclosure. The water there is not drinkable today, because there is always some animal carcass in it. Hunters have built hides close to the water, but they do not maintain the springs. Halfway down the slope the water disappears. It is possible that the springs were more abundant in the past, because below that part of the slope there is a deep ravine. Into it, in turn, the loggers have thrown brushwood in order to „tidy up“ after themselves. The ground to the north-west is a broad, only gently undulating mountain ridge, which can be reached comfortably from the north, and this is why the hillfort had to be protected on this side. ",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "The western acropolis (Kveta)",
+    "alt": "The western acropolis (Kveta)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Compiled by Orgoň. Great thanks for help with the article go to Martin Schuster and Kveta M. The article was supplemented with a post from the "
+       },
+       {
+        "type": "link",
+        "url": "https://www.facebook.com/kultura.vychodu",
+        "children": [
+         {
+          "type": "text",
+          "text": "Facebook page"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ". The hillfort is not marked by any information panel."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "THE HOARD FROM OBIŠOVCE"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "The gateway into the western acropolis (Kveta)",
+    "alt": "The gateway into the western acropolis (Kveta)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Obišovce is one of the important archaeological sites. Unfortunately, though, with a sad reputation. In the more distant past, bronze wheels from a war chariot were discovered here. One of them ended up in Britain, where it did not survive the bombing by the Nazi air force. Another was probably lost somewhere overseas. Fate, however, had the harshest blow of all still in store for the history of this place. An enormous hoard was stolen by looters around the turn of the millennium. It was said to comprise 60 bronze vessels and gold ornaments of the Bronze Age. At two foreign auctions, which objects from this illegally obtained hoard reached, at least some of the precious items were documented. These were bronze buckets, cauldrons and cups, as well as a massive situla decorated with bird motifs. Besides them, cups of gold were also said to have been there, but it was not possible to document those. Objects of this kind served as a drinking set for serving alcohol on special occasions, or else belonged to the local nobility. Gold temple rings, bronze spirals and neck rings, and a gold „sceptre“ originating from western Europe were also documented. A smaller bronze hoard, which an honest finder reported, was luckier. It is currently the subject of research. The documented finds from the auctions have been published, but, sadly, together with further unknown dozens of finds from Obišovce they are lost for ever. The local elite living at the hillfort in this place must have been extremely wealthy and important. Illegal looters, unfortunately, make it impossible for us to study our shared and immensely rich history and rob the whole of society of our common past. So be responsible, and in the event of a chance find contact a museum, the Monuments Board or an institute of archaeology. In such cases the reward is not only a good feeling. The photograph shows part of the lost hoard from Obišovce. "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Photographs by Michal Novák: "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Added on 12 June 2026 on the basis of a Facebook post by the Regional Monuments Board in Košice ",
+        "bold": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "THE UNIQUE OBIŠOVCE HOARD"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "As part of the European Archaeology Days we present to you exclusively, and for the first time in full, the story of the assemblage of bronze objects from Obišovce (Košice-okolie district)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Known today as the „hoard from Obišovce“, it was originally discovered as a chance archaeological find in the forested part of the cadastral area, on a rocky slope above the village, in 2020. The finder reported the discovery to the Regional Monuments Board in Košice, which then carried out an inspection there, and all the individual artefacts of the hoard were professionally lifted out of a crevice in the rock. In administrative proceedings, the Monuments Board of the Slovak Republic awarded the honest finder a finder’s reward."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "This is a model example of cooperation between archaeologists from various institutions in the process that follows a reported chance archaeological find. After the official procedures (the Regional Monuments Board, the Monuments Board) comes specialist analysis (the Monuments Board, the Slovak National Museum, the Institute of Archaeology of the Slovak Academy of Sciences), and at the end there is deposition and presentation in the museum responsible for the area (the East Slovak Museum in Košice)."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The precious assemblage contained 13 metal objects, of which 11 artefacts could be reconstructed. They are two toothed plates terminating at both ends in an elongated surface with a perforation, a cast plate in the shape of a fishbone with a circular terminal (or of a stylised human figure) and with two eyelets on the underside, also an original small figurine in the shape of a water bird with a wide opening, as well as a spiral circular ornament (a bracelet?), and in addition two smaller and two larger discs with a loop on the underside and a sheet of metal rolled into a tube."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "All the objects were also subjected to an analysis of the elemental composition of the alloy by means of X-ray fluorescence (XRF), and with interesting results. Several of them showed very high values of tin, where in the case of the decorative pieces this may have been precisely the maker’s intention. On the basis of the presence of trace elements it moreover also appears that the analysed objects were made of recycled material originating from Carpathian and Alpine copper ore deposits, a hypothesis whose verification and refinement is the subject of further work."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Obišovce is among the important find spots of hoards of non-ferrous metal objects of the Bronze Age. In the past, prestige objects originating in distant regions of central and western Europe were discovered there. The analysed bronze artefacts were part of dress and/or of horse harness. Several of the objects among them, which are typical of this area, provide further evidence of contacts with more distant regions and underline the importance of the territory of present-day Obišovce in the Late and Final Bronze Age. This may have formed part of an economic or religious centre with a prominent position within the east Slovak area. In view of the find spot, a connection between the hoard and the nearby Stráža hillfort of the turn of the Late and Final Bronze Age (more than 45 ha, with extensive fortifications) cannot be ruled out."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The hoard of bronze objects from Obišovce provides valuable information about the dynamics of social development, the redistribution of metals and potential long-distance contacts in the region. At the same time it underlines the need for systematic research into upland enclosures and hillforts situated in the immediate vicinity of hoards of non-ferrous metal objects."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The text draws on the latest co-authored specialist study (Makarová – Olšav – Pristáš), available online "
+       },
+       {
+        "type": "link",
+        "url": "https://www.archeologickemuzeum.sk/swift_data/source/archeologicke_muzeum/zborniky/z35/06-Makarova-Olsav-Pristas.pdf",
+        "children": [
+         {
+          "type": "text",
+          "text": "here"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ":"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "A public event with the first presentation of the hoard takes place this coming Saturday, 13 June 2026, at the East Slovak Museum in Košice – for you "
+       },
+       {
+        "type": "link",
+        "url": "https://www.vsmuzeum.sk/l/europske-dni-archeologie2/",
+        "children": [
+         {
+          "type": "text",
+          "text": "here"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ":"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "intro": "Literature:",
+    "items": []
+   }
+  ]
+ }
+}
