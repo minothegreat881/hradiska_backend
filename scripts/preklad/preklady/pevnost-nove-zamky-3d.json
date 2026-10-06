@@ -1,120 +1,120 @@
 {
- "slug": "pevnost-nove-zamky-3d",
- "data": {
-  "title": "The fortress of Nové Zámky – a 3D reconstruction",
-  "slug": "nove-zamky-fortress-3d-reconstruction",
-  "excerpt": "The first fortress at Nové Zámky was built in 1545 on the left bank of the River Nitra and belonged to the Hungarian system of castles and fortresses raised against the Turks. In 1663 the new fortress fell to the Ottoman army despite a stubborn defence, and our member Igor Furugláš has brought it back to life in a 3D visualisation.",
-  "metaTitle": "The fortress of Nové Zámky – a 3D reconstruction",
-  "metaDescription": "A 3D reconstruction of the anti-Ottoman fortress of Nové Zámky, built in 1545 on the River Nitra and taken by the Turkish army after a stubborn defence in 1663.",
-  "keyFacts": [
-   {
-    "label": "Foundation",
-    "value": "1545, by decision of the Archbishop of Esztergom Pál Várday",
-    "icon": "calendar"
-   },
-   {
-    "label": "Location",
-    "value": "The left bank of the River Nitra",
-    "icon": "map"
-   },
-   {
-    "label": "Purpose",
-    "value": "Part of the Hungarian defensive system of castles and fortresses against the Turks",
-    "icon": "shield"
-   },
-   {
-    "label": "Demise",
-    "value": "1663 – taken by the Turkish army despite a stubborn defence",
-    "icon": "sword"
-   }
-  ],
-  "timeline": [
-   {
-    "year": "1545",
-    "title": "The first fortress is built",
-    "description": "The first fortress at Nové Zámky was built by decision of the Archbishop of Esztergom Pál Várday to defend his estates, on the left bank of the River Nitra.",
-    "type": "founding"
-   },
-   {
-    "year": "1663",
-    "title": "The fortress is taken by the Turkish army",
-    "description": "Despite a stubborn defence, the new fortress could not withstand the superior numbers of the Turkish army.",
-    "type": "battle"
-   }
-  ],
-  "quotes": [],
-  "mediaTexts": [],
-  "blocks": [
-   {
-    "__component": "content.poem",
-    "text": "God admonished us a thousand years past,\nwhen there was written the six hundred sixty-third.\nThere came the Turk, the Tatar, a cruel enemy,\nand quartered his army below Nové Zámky.\n\nSince we would not fear the Lord God,\nnor love our neighbour as ourselves with our hearts,\nnor walk here according to His commandments,\nbut trod His holy word underfoot,\n\ndwelling safely in our dear homeland,\ngiving no thought to any misfortune of ours,\ntaking our pleasure in the delights of the flesh,\nfollowing nothing but greed and pride.",
-    "title": null,
-    "author": null,
-    "source": null
-   },
-   {
-    "__component": "content.embed",
-    "provider": "youtube",
-    "embedId": "-I6TidJRdQk",
-    "url": "https://www.youtube.com/embed/-I6TidJRdQk",
-    "caption": ""
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The first fortress at Nové Zámky was built by decision of the Archbishop of Esztergom Pál Várday to defend his estates, on the left bank of the River Nitra, in 1545. It belonged to the Hungarian defensive system of castles and fortresses raised to protect against the Turks. After its destruction a new fortress was built, which, however, despite a stubborn defence could not withstand the superior numbers of the Turkish army in 1663."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "A member and collaborator of our association, Igor Furugláš, decided to bring this important ancient fortress back to life by means of a 3D visualisation; its fall meant many years of subjection to the Turks for the Kingdom of Hungary. We have tried to keep to the surviving parameters of the fortifications and of the buildings inside them as they are known today. The commentary for the video was recorded for us by the actor and director of the "
-       },
-       {
-        "type": "link",
-        "url": "http://divadlopodbalkonom.sk/category/predstavenia/",
-        "children": [
-         {
-          "type": "text",
-          "text": "Divadlo pod balkónom theatre"
-         }
+  "slug": "pevnost-nove-zamky-3d",
+  "data": {
+    "title": "The fortress of Nové Zámky – a 3D reconstruction",
+    "slug": "nove-zamky-fortress-3d-reconstruction",
+    "excerpt": "The first fortress at Nové Zámky was built in 1545 on the left bank of the River Nitra and belonged to the Hungarian system of castles and fortresses raised against the Turks. In 1663 the new fortress fell to the Turkish army despite a stubborn defence, and our member Igor Furugláš has brought it back to life in a 3D visualisation.",
+    "metaTitle": "The fortress of Nové Zámky – a 3D reconstruction",
+    "metaDescription": "A 3D reconstruction of the anti-Ottoman fortress of Nové Zámky, built in 1545 on the River Nitra and taken by the Turkish army after a stubborn defence in 1663.",
+    "keyFacts": [
+      {
+        "label": "Foundation",
+        "value": "1545, by decision of the Archbishop of Esztergom Pál Várday",
+        "icon": "calendar"
+      },
+      {
+        "label": "Location",
+        "value": "The left bank of the River Nitra",
+        "icon": "map"
+      },
+      {
+        "label": "Purpose",
+        "value": "Part of the Hungarian defensive system of castles and fortresses against the Turks",
+        "icon": "shield"
+      },
+      {
+        "label": "Demise",
+        "value": "1663 – taken by the Turkish army despite a stubborn defence",
+        "icon": "sword"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "1545",
+        "title": "The first fortress is built",
+        "description": "The first fortress at Nové Zámky was built by decision of the Archbishop of Esztergom Pál Várday to defend his estates, on the left bank of the River Nitra.",
+        "type": "founding"
+      },
+      {
+        "year": "1663",
+        "title": "The fortress is taken by the Turkish army",
+        "description": "Despite a stubborn defence, the new fortress could not withstand the superior numbers of the Turkish army.",
+        "type": "battle"
+      }
+    ],
+    "quotes": [],
+    "mediaTexts": [],
+    "blocks": [
+      {
+        "__component": "content.poem",
+        "text": "God admonished us a thousand years past,\nwhen there was written the six hundred sixty-third.\nThere came the Turk, the Tatar, a cruel enemy,\nand quartered his army below Nové Zámky.\n\nSince we would not fear the Lord God,\nnor love our neighbour as ourselves with our hearts,\nnor walk here according to His commandments,\nbut trod His holy word underfoot,\n\ndwelling safely in our dear homeland,\ngiving no thought to any misfortune of ours,\ntaking our pleasure in the delights of the flesh,\nfollowing nothing but greed and pride.",
+        "title": null,
+        "author": null,
+        "source": null
+      },
+      {
+        "__component": "content.embed",
+        "provider": "youtube",
+        "embedId": "-I6TidJRdQk",
+        "url": "https://www.youtube.com/embed/-I6TidJRdQk",
+        "caption": ""
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "The first fortress at Nové Zámky was built by decision of the Archbishop of Esztergom Pál Várday to defend his estates, on the left bank of the River Nitra, in 1545. It belonged to the Hungarian defensive system of castles and fortresses raised to protect against the Turks. After its destruction a new fortress was built, which, however, despite a stubborn defence could not withstand the superior numbers of the Turkish army in 1663."
+              }
+            ]
+          }
         ]
-       },
-       {
-        "type": "text",
-        "text": " Ján Harry Haruštiak, for which he has our great thanks. Judge for yourselves whether the reconstruction has come off..."
-       }
-      ]
-     }
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "A member and collaborator of our association, Igor Furugláš, decided to bring this important historic fortress back to life by means of a 3D visualisation; its fall meant many years of subjection to the Turks for the Kingdom of Hungary. We have tried to keep to the surviving parameters of the fortifications and of the buildings inside them as they are known today. The commentary for the video was recorded for us by the actor and director of the "
+              },
+              {
+                "type": "link",
+                "url": "http://divadlopodbalkonom.sk/category/predstavenia/",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Divadlo pod balkónom theatre"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " Ján Harry Haruštiak, for which he has our great thanks. Judge for yourselves whether the reconstruction has come off..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Orgoň"
+              }
+            ]
+          }
+        ]
+      }
     ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Orgoň"
-       }
-      ]
-     }
-    ]
-   }
-  ]
- }
+  }
 }
