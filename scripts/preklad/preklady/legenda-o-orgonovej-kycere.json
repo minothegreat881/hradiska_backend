@@ -1,0 +1,553 @@
+{
+ "slug": "legenda-o-orgonovej-kycere",
+ "data": {
+  "title": "The legend of Orgoňova Kýčera – the last worshipper of Perún",
+  "slug": "legend-of-orgonova-kycera",
+  "excerpt": "The exceptional book Kráľ Matej pod Manínom gathers old tales from the Marikovská and Papradnianska valleys. One of them tells of old Orgoň, one of the last worshippers of the pagan idols, who withdrew with his retinue deep into the Javorníky and founded the hamlet of Orgoňovce beneath the hill that today bears his name – and of the mysterious inscription on the rocks of Šúvalky that is said to be his last message.",
+  "metaTitle": "The legend of Orgoňova Kýčera: Orgoň the pagan",
+  "metaDescription": "An old tale from the Javorníky: Orgoň, one of the last worshippers of Perún, withdrew into the mountains and left a mysterious inscription on a rock.",
+  "keyFacts": [
+   {
+    "label": "Authors",
+    "value": "Štefan Meliš, Stanislav Muntág (Kráľ Matej pod Manínom, 2002)",
+    "icon": "book"
+   },
+   {
+    "label": "Site",
+    "value": "Orgoňova Kýčera (960 m a.s.l.), the Javorníky – the Marikovská and Papradnianska valleys",
+    "icon": "mountain"
+   },
+   {
+    "label": "Motif",
+    "value": "The last worshipper of Perún and the Slavic gods, a mysterious inscription on a rock",
+    "icon": "star"
+   },
+   {
+    "label": "Source",
+    "value": "Kráľ Matej pod Manínom, Matica slovenská, 2002",
+    "icon": "scroll"
+   }
+  ],
+  "timeline": [
+   {
+    "year": "the end of paganism",
+    "title": "The Orgoň folk leave for the mountains",
+    "description": "Old Orgoň, one of the last worshippers of the pagan gods, left with his retinue deep into the mountains beneath Javorník after the death of Bolesław the Brave of Poland and the spread of Christianity, and founded the hamlet of Orgoňovce.",
+    "type": "event"
+   },
+   {
+    "year": "years later",
+    "title": "Missionary priests and tax collectors arrive",
+    "description": "The chieftains seated at Trenčín Castle sent missionary priests and tax collectors into the borderland, and they demanded tithes from the Orgoň folk for the ruler and for the church.",
+    "type": "event"
+   },
+   {
+    "year": "a stormy night",
+    "title": "Orgoň’s disappearance",
+    "description": "After a stormy night on the sacred hill, when Orgoň asked the gods in vain why they had forsaken him, he vanished without a trace.",
+    "type": "event"
+   },
+   {
+    "year": "later",
+    "title": "The mysterious inscription at Šúvalky",
+    "description": "Years later a mysterious inscription carved into one of the stones of Šúvalky was discovered, regarded as Orgoň’s last message; the hill has borne the name Orgoňova Kýčera ever since.",
+    "type": "event"
+   }
+  ],
+  "quotes": [],
+  "mediaTexts": [
+   {
+    "mediaId": 4122,
+    "alt": "A painting of a bearded man in a tunic and cloak sitting on a boulder with carved signs, in a forest beside a stone idol"
+   },
+   {
+    "mediaId": 4076,
+    "caption": "Antonín Lacko: Starý Orgoň (Old Orgoň)",
+    "alt": "Antonín Lacko: Starý Orgoň (Old Orgoň)"
+   },
+   {
+    "mediaId": 4129,
+    "caption": "Orgoň’s signs on the rocks",
+    "alt": "Orgoň’s signs on the rocks"
+   },
+   {
+    "mediaId": 4132,
+    "caption": "A view from Orgoňova Kýčera over the Marikovská valley",
+    "alt": "A view from Orgoňova Kýčera over the Marikovská valley"
+   }
+  ],
+  "blocks": [
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "An exceptional book came into my hands, "
+       },
+       {
+        "type": "link",
+        "url": "http://www.pantarhei.sk/knihy/melis-stefan/kral-matej-pod-maninom",
+        "children": [
+         {
+          "type": "text",
+          "text": "Kráľ Matej pod Manínom"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", in which the authors Štefan Meliš and Mgr. Stanislav Muntág collected and worked up a number of old tales and legends from the Marikovská and Papradnianska valleys. For this fantastic achievement the authors have my great respect and thanks. The book also contains several tales relating to the period of the end of paganism in Slovakia. From among them I have picked one very interesting tale – The Secret of Orgoňova Kýčera. With its height of 960 m this hill is one of the highest in the Javorníky and the highest in the area of the Marikovská and Papradnianska valleys. At present its summit can be reached, on the one hand, from Besné, along an ancient road that leads through the hamlets of Bracinovce and Abovce, alongside the Besniansky brook and right up beneath the summit of the Kýčera, where it peters out a few dozen metres below the top. Besides that, the summit can also be reached along the blue waymarked trail from both Dolná and Horná Mariková. Personally, however, I consider the original old road, lined with an ancient stone wall, to be far more exciting. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The legend of Orgoňova Kýčera",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "With the kind consent of the authors of the book, Štefan Meliš and "
+       },
+       {
+        "type": "link",
+        "url": "http://www.vydavatel.sk/",
+        "children": [
+         {
+          "type": "text",
+          "text": "Mgr. Stanislav Muntág"
+         }
+        ]
+       },
+       {
+        "type": "text",
+        "text": ", we bring you the whole legend of Orgoňova Kýčera, taken from the book mentioned. At the same time I point out that any further reproduction of the legend is possible only with the consent of both authors. \n \n "
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The Secret of Orgoňova Kýčera"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Deep in the bosom of the Javorníky, not far from the wall of the main ridge, there rises a broad solitary hill, widely spreading, encircled by steep precipices that fall away into the narrow side valleys of the Marikovská and Papradnianska valleys. On the sunny side of the hill the little valley of Rovné bites into its hollows. Why did they name it so, when you will scarcely find a level spot in it? There is an answer to that too, and the tale knows it, but of that elsewhere. At the very end of Rovné lies the small hamlet of Orgoňovce, a few timber cottages huddled beneath the broad back of Orgoňova Kýčera. Orgoňovce remembers all manner of times, even those ancient ones at the dawn of history, when a new and mighty religion was subduing towns and villages by the force of the cross and the sword, of love and of violence.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The legend of Orgoňova Kýčera",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Old Orgoň was one of the last worshippers of the pagan idols in our parts. Stubbornly he resisted the new order; to his last breath he held to the faith of his fathers.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "– Orgoň, Orgoň, one cannot defy God! – his friends, of whom he had ever fewer, would sometimes rebuke him."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "– Nor the king! – some of them added.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "While the land north of Trenčín Castle was partly no man’s land and partly under the dominion of Bolesław the Brave of Poland, who had swiftly subjugated the territory of the collapsed Principality of Nitra as far as the Danube, Orgoň and those like him were able to resist the superior force of the new faith and of its propagators – missionary priests, bishops and chieftains who had adopted the new order and strove to assert it in their domains. After the death of the Brave, the violent adventurer Bolesław, however, his fragile empire fell apart like a house of cards, and the southern potentates – the successors of the famous King Stephen – step by step extended their lordship along the Váh."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Bad times came for Orgoň and his fellow believers. In vain did they invoke their divine protectors – the thunder-wielding Perún, the squat ox-headed Veles, the sunny Svarog, the victorious Svantovít. In vain did they pay homage to the beautiful Vesna, and they even conjured the cold Morena to send death upon their persecutors. The once mighty deities were suddenly as if deaf and blind, paralysed by the power of some foreign three-headed God who had no form at all – nobody knew what he looked like, and indeed he was said to have died somewhere on a cross and to be subduing the whole world now. Whoever did not submit to him, did not have himself baptised, did not pay tithes to the church, him the priests of the new religion cursed. The ruler drove him from the land he tilled."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "But Orgoň was a hard head. He would rather leave of his own accord. Hardly had they carried out Morena in the spring and honoured the symbols of the ever-young Vesna when he set out with his retinue, with a handful of those faithful to the old gods; they packed what they could, drove the cattle out of the pens and set off to meet an unknown fate. Deep in the mountains, in a valley beneath Javorník, not far from the borders of the Kingdom of Bohemia, they came upon a wild no man’s land, an inhospitable waste amid the forests at the foot of a steep hill that towers far and wide above the rest."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Here they settled. They cleared the primeval forest and burned off the thickets of scrub to gain pasture for the cattle. They ploughed the steep slopes on the southern foot of the hill and sowed grain. Amid the mountains they founded a hamlet – Orgoňovce. In the valley on the other side of the high hill stood a sacred grove with weathered wooden statues of the Old Slavic deities. Round about were scattered the holdings of other settlers who were old believers. On the bare crown of the hill stood an ancient sacrificial site. The Orgoň folk set up a huge spit here and impaled the finest ox on it. The old pagan priest led the sacrificial rite. They sacrificed to Perún, that he might protect them, and to Veles, that he might grant them a harvest."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "And the gods looked indulgently upon their sacrifice. The spring rains watered the field, the sunny Svarog leaned with his warmth into the southern hillside and drove the stalks of grain upwards. At the end of summer the yellowing ears grew heavy with grain. The Orgoň folk rejoiced in the good harvest and in gratitude for it made offerings to the gods. They gathered at the sacred place on the summit of the hill, celebrated the end of the harvest and sang ancient songs."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "In this way they lived many years in seclusion, in the harsh bosom of the mountains. But the new order penetrated everywhere unstoppably, even into the deserted mountain valleys. Missionary priests came together with the tax collectors. They were sent by the chieftain to whom the lord of Trenčín Castle had assigned the borderland in the north of his domain. The king, residing somewhere on the fertile plains beyond the Danube, was concerned to consolidate the frontiers of that great empire which the recently nomadic, freshly Christianised Hungarian tribes had founded on the ruins of the ancient and glorious land of Nitra. The whole surrounding world was gradually submitting to the new order that the foreign faith brought with it. In the temples of the new religion they invoked an unknown god in an unknown tongue, and his priests taught the people some unknown script which the whole world was said to understand."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "But Orgoň did not understand that script, nor all those new arrangements, and he did not want to understand them. The tax collectors took from them a tenth part of the harvest for the ruler and another tenth for the priests of the new religion. Orgoň burned with anger and involuntarily reached for the sword that dangled at his belt. But the tax collectors were accompanied by a retinue of soldiers armed to the teeth. How to resist such superior force? Orgoň set out to the other side of the hill, to the shabby hut in which the old pagan priest hid from the world of the ill-disposed."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "– Father, advise me. Even those closest to me are turning away from me. Today they forced me to pay a levy to the priests who are converting the people to a foreign faith."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The pagan priest nodded his head in silence.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "– Down in Pagaňov you will no longer find anyone who has not betrayed our faith! – Orgoň went on sadly. – My beloved Lesana looks lovingly at the young man from the Hecej family. And they too have indeed already abandoned the faith of their fathers... We have been left alone."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The pagan priest is silent, nods his grey head and gazes fixedly at the lush trees of the sacred grove, which quietly murmur their evening song. It seems to Orgoň that a tear glistened on the wrinkled, weather-beaten cheek of the aged priest."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "– Father, tell me, where are our mighty gods, if they do not intervene? Why does Perún not punish our enemies when they tear down his sacrificial sites? Us, who are faithful to him, he visits with lightning and burns our harvest, and them he does not chastise?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The pagan priest again nods his head in silence, as if he were afraid to utter the answer he suspects."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "– Where have our gods gone? – Orgoň presses on tirelessly, asks himself, asks the gods, pleads desperately with his eyes, conjures them in spirit to tell him, to speak, to answer at least from afar, from the unknown into which they were all at once unstoppably vanishing. I do not know, – the pagan priest replies quietly, and yet I shall remain faithful to them until death, he finishes almost inaudibly."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Dusk was falling, leaden clouds hung over the mountains. Orgoň slowly scrambles up the steep canyon of the brook onto the stony crest of Šúvalky and along it right up to the crown of the sacred hill. He sits down at the abandoned sacrificial site, by the huge spit on which they had brought bloody gifts to the gods. He stays sitting there even at the first claps of thunder. Silently, resignedly he sits, while Perún speaks angrily and hurls lightning from the dark sky onto the mountain tops. He sits there like a human sacrifice, offering himself to the enraged deity, offering his own self in exchange for an explanation of that riddle. Where have you gone, our gods? And where shall we go without you?"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "From that stormy night Orgoň was gone. No one knew where he had vanished to."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Years later they discovered some strange inscription on one of the stones of Šúvalky. It was in the times when Christianity had wiped out even the last nests of pagan idolatry around the former sacred hill. Somehow word spread that this inscription, carved into the rock in some unknown, ancient script, was Orgoň’s last message. The message of a man who vanished no one knows where, together with his gods."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "All that remained of him was the name of the hill – Orgoňova Kýčera. The place on which the sacrificial site stood is still called Rožeň to this day. On one side of the hill crouches the abandoned mountain homestead of Orgoňovce, on the other stretches the valley of Modlatín – once the sacred seat of the pagan idols."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "And only the mysterious inscription on one of the stones of Šúvalky.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "There are also those who claim that it is not Orgoň’s message after all. According to them it is most likely a cipher with which the brigand Šmarhan, one of the later inhabitants of this wilderness, marked the hiding place in which he stowed a copper pot with a golden treasure."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Who knows! Perhaps one day someone will come who will decipher the mysterious inscription and crack the secret of Orgoňova Kýčera.",
+        "italic": true
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "intro": null,
+    "items": []
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Antonín Lacko: Starý Orgoň (Old Orgoň)",
+    "alt": "Antonín Lacko: Starý Orgoň (Old Orgoň)",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   }
+  ]
+ }
+}
