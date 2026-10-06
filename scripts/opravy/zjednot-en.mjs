@@ -40,6 +40,11 @@ const NAHRADY = [
   [/\brock bedrock\b/g, 'bedrock', '§11e skalné podložie'],
   [/\brock subsoil\b/g, 'bedrock', '§11e skalné podložie'],
   [/\bopen-air archaeological museum\b/g, 'archaeological open-air museum', '§11d skanzen'],
+  [/\bwestern Europe\b/g, 'Western Europe', 'región sa píše veľkým (§0)'],
+  [/\bwest(ern)? European\b/g, 'Western European', 'to isté v prívlastku'],
+  [/\beast(ern)? European\b/g, 'Eastern European', 'to isté v prívlastku'],
+  [/crown of the rampart/g, 'crest of the rampart', '§11e koruna valu'],
+  [/\bin the terrain\b/g, 'on the ground', '§11e terénna situácia'],
 ];
 
 const fronta = readdirSync(PREKLADY)

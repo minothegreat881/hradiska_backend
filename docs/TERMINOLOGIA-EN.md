@@ -1207,6 +1207,27 @@ Veci, pri ktorých sa dávky rozchádzali a ktoré sú odteraz rozhodnuté takto
 | **plavebná komora** | **lock** |
 | **vicinálna cesta** | **vicinal road** |
 | **ostroha s háčikmi** | **spur with hooked terminals** |
+| **otka** | **goad**, ale keď slovenský text otku sám vysvetľuje ako škrabadlo na pluh, ponechať „otka" s glosou *(plough scraper)* — inak by preklad odporoval článku |
+| **poklad v povesti** | **treasure**; *hoard* ostáva pre archeologický depot |
+| **osada** | **settlement** (malá = *hamlet*) — nie *village*, to je dnešná obec |
+| **ideová, ideálna rekonštrukcia** | **conjectural reconstruction** — nie *ideal*, to po anglicky znamená „dokonalý" |
+| **sídlisková vrstva** | **settlement layer**; *occupation layer* ostáva pre kultúrnu vrstvu (§5) |
+| **sypaný val** | **dumped rampart** |
+| **dlhý neolitický dom** | **Neolithic longhouse** |
+| **panské sídlo** | **lordly seat** |
+| **Archeologický ústav SAV** | pri prvom výskyte plný tvar *the Institute of Archaeology of the Slovak Academy of Sciences*, ďalej **the Institute of Archaeology SAS** |
+| **Nestorova kronika** | **the Nestor Chronicle** (Povesť vremennych let = *the Primary Chronicle*) |
+| **hospodárske zvieratá** | **livestock** — odlíšiť od *domestic animals* (domáce zvieratá) |
+| **odpadová jama** | **refuse pit** |
+| **archeologická pamiatka** | **archaeological heritage item** — nie *find*, to je nález |
+| **temeno vrchu** | **the summit** — nie *the crown* |
+| **pevnôstka** | **small fortress** — *small fort* je mimo rímskeho kontextu zakázané |
+| **Polovci a Kumáni** | *the Polovtsians* a *the Cumans* sú v angličtine ten istý národ; keď ich originál menuje vedľa seba, ponechať oboje a pridať glosu |
+| **dolina v názve** | ako potok: **the Mariková valley**, *the Marikovská dolina valley* pri prvom výskyte |
+| **kultúra s kanelovanou keramikou** | **the Channelled Ware culture**; keramika = *channelled pottery* |
+| **kresacie kamene** | **strike-a-light stones** (jednotné *strike-a-light flint* len pri výslovnom pazúriku) |
+| **valové opevnenie** | **rampart defences** / **rampart fortification** — *enclosure* je vyhradené pre areál a nádvorie |
+| **mohylový rítus** | **the mound burial rite** |
 
 ---
 
