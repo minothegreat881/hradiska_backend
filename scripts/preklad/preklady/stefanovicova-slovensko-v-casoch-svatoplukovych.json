@@ -102,6 +102,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "The Principality of Nitra – the probable extent of its territory",
+    "alt": "The Principality of Nitra – the probable extent of its territory",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -114,19 +127,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "The Principality of Nitra – the probable extent of its territory",
-    "alt": "The Principality of Nitra – the probable extent of its territory",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -273,21 +273,6 @@
        {
         "type": "text",
         "text": "The expansion of Svatopluk's Moravia did not outlive its creator. The advanced central region of the empire, whose eastern part was formed by the territory of present-day Slovakia, did not manage to integrate the newly conquered territories, which were at a different level of development. The causes were internal disputes within the empire, which erupted after Svatopluk's death, but above all the external threat from the nomadic Magyar tribes, which had been making occasional raids as early as the 860s. From 896 the Magyars already represented an acute danger, to which Great Moravia — already shorn of most of the territories conquered by Svatopluk — finally succumbed, although its advanced economy and culture long survived."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "heading",
-      "level": 2,
-      "children": [
-       {
-        "type": "text",
-        "text": "TATIANA ŠTEFANOVIČOVÁ"
        }
       ]
      }

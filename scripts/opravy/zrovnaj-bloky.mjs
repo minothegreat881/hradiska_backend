@@ -30,15 +30,22 @@ const ZAPIS = process.argv.includes('--zapis');
 const VSETKY = process.argv.includes('--vsetky');
 const slugy = process.argv.slice(2).filter((a) => !a.startsWith('--'));
 
+const pockaj = (ms) => new Promise((r) => setTimeout(r, ms));
+
+/* Web má obmedzenie počtu požiadaviek a pri 364 článkoch sa doň narazí.
+   Pri 429 sa čaká a skúša znova — inak by článok tichom prepadol. */
 async function skBloky(slug) {
   const q = new URLSearchParams();
   q.set('filters[slug][$eq]', slug);
   q.set('populate[blocks][populate]', '*');
-  const r = await fetch(`${API}/api/blog-posts?${q}`);
-  if (!r.ok) throw new Error(`API ${r.status}`);
-  const j = await r.json();
-  if (!j.data?.length) throw new Error('slovenský článok sa nenašiel');
-  return (j.data[0].blocks || []).map((b) => b.__component);
+  for (let pokus = 1; ; pokus++) {
+    const r = await fetch(`${API}/api/blog-posts?${q}`);
+    if (r.status === 429 && pokus <= 8) { await pockaj(2000 * pokus); continue; }
+    if (!r.ok) throw new Error(`API ${r.status}`);
+    const j = await r.json();
+    if (!j.data?.length) throw new Error('slovenský článok sa nenašiel');
+    return (j.data[0].blocks || []).map((b) => b.__component);
+  }
 }
 
 /** Preusporiada `bloky` tak, aby ich typy šli v poradí `poradie`. */
@@ -62,7 +69,7 @@ const fronta = slugy.length
   ? slugy
   : readdirSync(PREKLADY).filter((f) => f.endsWith('.json') && !f.startsWith('_')).map((f) => basename(f, '.json'));
 
-let rozidenych = 0, zrovnanych = 0, naRuku = 0;
+let rozidenych = 0, zrovnanych = 0, naRuku = 0, overenych = 0, nedostupnych = 0;
 for (const slug of fronta) {
   const cesta = resolve(PREKLADY, `${slug}.json`);
   let d;
@@ -71,7 +78,7 @@ for (const slug of fronta) {
   if (!Array.isArray(bloky)) continue;
 
   let poradie;
-  try { poradie = await skBloky(slug); } catch (e) { console.log(`!! ${slug}: ${e.message}`); continue; }
+  try { poradie = await skBloky(slug); overenych++; } catch (e) { console.log(`!! ${slug}: ${e.message}`); nedostupnych++; continue; }
 
   const teraz = bloky.map((b) => b.__component);
   if (teraz.length === poradie.length && teraz.every((t, i) => t === poradie[i])) continue;
@@ -90,5 +97,5 @@ for (const slug of fronta) {
   zrovnanych++;
 }
 
-console.log(`\nrozídených ${rozidenych} · zrovnaných ${zrovnanych} · na ruku ${naRuku}`);
+console.log(`\noverených ${overenych} · rozídených ${rozidenych} · zrovnaných ${zrovnanych} · na ruku ${naRuku} · nedostupných ${nedostupnych}`);
 if (!ZAPIS && rozidenych) console.log('(nasucho — nič sa nezapísalo)');

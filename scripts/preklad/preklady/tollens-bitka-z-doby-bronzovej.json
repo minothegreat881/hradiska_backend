@@ -82,6 +82,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Fig. 1 Dead Bronze Age warriors",
+    "alt": "Fig. 1 Dead Bronze Age warriors",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -125,15 +138,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "Fig. 1 Dead Bronze Age warriors",
-    "alt": "Fig. 1 Dead Bronze Age warriors",
+    "caption": "Fig. 2 Bronze Age warriors",
+    "alt": "Fig. 2 Bronze Age warriors",
     "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "center",
+    "position": "right",
     "pairWithNext": false
    },
    {
@@ -165,19 +178,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "Fig. 2 Bronze Age warriors",
-    "alt": "Fig. 2 Bronze Age warriors",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -186,20 +186,6 @@
        {
         "type": "text",
         "text": "In 1996 an amateur archaeologist found a piece of bone from an upper arm, the bone sticking out of the steep river bank. This was the first clue that the Tollense Valley, about 120 kilometres north of Berlin, was hiding a terrible secret. The flint of an arrowhead was firmly embedded in one end of the humerus, and it prompted archaeologists to dig a small test trench, which yielded more bones, a shattered skull and a 73-centimetre club resembling a baseball bat. All the artefacts were radiocarbon dated to around 1250 BC, which suggests that they come from a single episode of the European Bronze Age. "
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Now, after a series of excavations between 2009 and 2015, researchers have begun to understand the battle and its surprising implications for Bronze Age society. Along a three-kilometre stretch of the river Tollense, archaeologists from the Mecklenburg-Vorpommern Department of Historic Preservation (MVPDHP) and from the University of Greifswald (UG) have discovered wooden clubs, bronze spearheads and arrowheads of flint and bronze. They also found an enormous quantity of bones: the remains of at least five horses and more than 100 men. The bones of hundreds more that may remain unrecovered, and the thousands more who may have fought but survived, suggest the enormous scale of the battle. "
        }
       ]
      }
@@ -217,6 +203,20 @@
     "shadow": true,
     "position": "right",
     "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "Now, after a series of excavations between 2009 and 2015, researchers have begun to understand the battle and its surprising implications for Bronze Age society. Along a three-kilometre stretch of the river Tollense, archaeologists from the Mecklenburg-Vorpommern Department of Historic Preservation (MVPDHP) and from the University of Greifswald (UG) have discovered wooden clubs, bronze spearheads and arrowheads of flint and bronze. They also found an enormous quantity of bones: the remains of at least five horses and more than 100 men. The bones of hundreds more that may remain unrecovered, and the thousands more who may have fought but survived, suggest the enormous scale of the battle. "
+       }
+      ]
+     }
+    ]
    },
    {
     "__component": "content.rich-text",
@@ -317,6 +317,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Tollense – a Bronze Age battle",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -345,19 +358,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Tollense – a Bronze Age battle",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "center",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -370,6 +370,19 @@
       ]
      }
     ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Tollense – a Bronze Age battle",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -412,19 +425,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Tollense – a Bronze Age battle",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -692,6 +692,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Tollense – a Bronze Age battle",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -704,19 +717,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Tollense – a Bronze Age battle",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
