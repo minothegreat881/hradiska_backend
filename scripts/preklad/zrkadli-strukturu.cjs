@@ -121,6 +121,19 @@ async function main() {
       if (rovnake) continue;
 
       const { bloky, naPreklad, nepouzite } = priraď(sk.blocks || [], en.blocks || []);
+
+      /* POISTKA. Keď sa štruktúry rozídu natoľko, že by anglický článok dostal
+         slovenský text do viac než dvoch blokov, zrkadlenie sa ho NEDOTKNE.
+         Bez tejto poistky cron v jedenástich článkoch prepísal anglické telo
+         slovenským a publikoval ho — článok mal anglický slug a slovenský
+         obsah. Takýto prípad patrí človeku, nie automatu. */
+      if (naPreklad > 2) {
+        console.log(`• ${sk.slug} → ${en.slug}`);
+        console.log(`    !! PRESKOČENÉ: ${naPreklad} blokov by dostalo slovenský text`);
+        console.log('       (štruktúru treba zrovnať vo vstupnom súbore prekladu)');
+        chyb++;
+        continue;
+      }
       zmenenych++; textovNaPreklad += naPreklad;
       console.log(`• ${sk.slug} → ${en.slug}`);
       console.log(`    sk: ${stavba(sk.blocks)}`);
