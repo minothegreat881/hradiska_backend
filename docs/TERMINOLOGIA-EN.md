@@ -1158,6 +1158,11 @@ Veci, pri ktorých sa dávky rozchádzali a ktoré sú odteraz rozhodnuté takto
 | **Havolania** | **the Hevelli** (ustálený anglický tvar) |
 | **Burgward** | **stronghold wardenship (Burgward)**; úradník = *warden* |
 | **slovenské úvodzovky v anglickom texte** | „text“ → “text” — rieši `scripts/opravy/uvodzovky-en.cjs` |
+| **delenie laténu** | včasná → *Early*, **mladšia → the later La Tène period**, neskorá → *Late* (LT D). Pri dobe bronzovej je naopak mladšia = *Late*, neskorá = *Final* |
+| **„pevnosť"** mimo rímskeho kontextu | **fortress**; `fort` ostáva pre rímske objekty a pre hrádok (*small fort / fortlet*) |
+| **mince veľkobystereckého typu** | **the Veľký Bysterec type** — nie moravská *Velká Bystřice* |
+| **župný hrad** (uhorské obdobie) | **comital castle** |
+| **číselné rozsahy** | bez medzier okolo spojovníka: *1000–700 BC*, *9th–11th century*, *0.3–0.8 m* |
 
 ---
 
