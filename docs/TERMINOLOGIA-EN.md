@@ -1221,7 +1221,7 @@ Veci, pri ktorých sa dávky rozchádzali a ktoré sú odteraz rozhodnuté takto
 | **odpadová jama** | **refuse pit** |
 | **archeologická pamiatka** | **archaeological heritage item** — nie *find*, to je nález |
 | **temeno vrchu** | **the summit** — nie *the crown* |
-| **pevnôstka** | **small fortress** — *small fort* je mimo rímskeho kontextu zakázané |
+| **pevnôstka** | **small fortress** — *small fort* je mimo rímskeho kontextu zakázané. Keď článok ten istý objekt volá aj „hrádok", má prednosť **fortlet**, aby sa objekt nemenoval dvoma termínmi |
 | **Polovci a Kumáni** | *the Polovtsians* a *the Cumans* sú v angličtine ten istý národ; keď ich originál menuje vedľa seba, ponechať oboje a pridať glosu |
 | **dolina v názve** | ako potok: **the Mariková valley**, *the Marikovská dolina valley* pri prvom výskyte |
 | **kultúra s kanelovanou keramikou** | **the Channelled Ware culture**; keramika = *channelled pottery* |
