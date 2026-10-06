@@ -1,653 +1,653 @@
 {
- "slug": "domy-slovenov",
- "data": {
-  "title": "Houses of the Slavs – from sunken huts to the first timber palaces",
-  "slug": "houses-of-the-slavs-early-medieval-dwellings",
-  "excerpt": "A house was never merely a shelter: it was the space in which a family lived, worked and met its social and ritual needs. Peter Šalkovský traces the Slavic dwelling from the sunken-featured building, the main house type of the 6th to 10th centuries, through ground-level log-built and post-built houses to the first timber palatial halls.",
-  "metaTitle": "Houses of the Slavs – from sunken huts to log houses",
-  "metaDescription": "How the early Slavs built and heated their homes: from the sunken-featured building with its stone oven to ground-level log houses and timber palaces.",
-  "keyFacts": [
-   {
-    "label": "Author",
-    "value": "Peter Šalkovský",
-    "icon": "book"
-   },
-   {
-    "label": "Subject",
-    "value": "The development of the Slavic dwelling from sunken-featured buildings to ground-level log houses and palatial halls",
-    "icon": "scroll"
-   },
-   {
-    "label": "Period",
-    "value": "6th – 13th century (with roots reaching back into prehistory)",
-    "icon": "calendar"
-   },
-   {
-    "label": "Typology",
-    "value": "Square, oval and circular sunken-featured buildings; ground-level log houses; palatial hall buildings",
-    "icon": "building"
-   }
-  ],
-  "timeline": [
-   {
-    "year": "6th century",
-    "title": "The first mention of Slavic dwellings",
-    "description": "The Byzantine historian Procopius writes of “white huts, scattered apart from one another” among the Slavs.",
-    "type": "event"
-   },
-   {
-    "year": "turn of the 6th–7th c.",
-    "title": "The testimony of Maurice",
-    "description": "A military treatise states that the Slavs “live in woods, by waters, and make many exits from their dwellings”.",
-    "type": "event"
-   },
-   {
-    "year": "around 880",
-    "title": "The account of Hárun ben Jahib",
-    "description": "The Arab travel writer describes Slavic houses built of timber.",
-    "type": "event"
-   },
-   {
-    "year": "10th century",
-    "title": "Arab geographers on sunken huts",
-    "description": "Omar Ibn Rusta describes the dwellings of the eastern Slavs as pits sunk into the ground with a stone oven and a pointed timber roof.",
-    "type": "event"
-   },
-   {
-    "year": "1147",
-    "title": "The account of Bishop Otto of Freising",
-    "description": "Passing through Hungary in the summer of that year, he describes the flimsy dwellings of the inhabitants, built mainly of reeds.",
-    "type": "event"
-   },
-   {
-    "year": "8th – 9th century",
-    "title": "The rise of ground-level houses",
-    "description": "Alongside sunken-featured buildings, ground-level log-built and post-built dwellings begin to gain ground.",
-    "type": "event"
-   },
-   {
-    "year": "9th – 10th century",
-    "title": "The peak of the stone oven",
-    "description": "Stone ovens reached the peak of their distribution in the territory of present-day Slovakia; from the 11th century their use gradually declined in favour of clay ovens.",
-    "type": "event"
-   }
-  ],
-  "quotes": [],
-  "mediaTexts": [
-   {
-    "mediaId": 3885,
-    "alt": "Drawing of the plans, sections and reconstructions of square sunken-featured buildings, from a specialist publication"
-   }
-  ],
-  "blocks": [
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "heading",
-      "level": 2,
-      "children": [
-       {
-        "type": "text",
-        "text": "In the beginning was the sunken-featured building"
-       }
-      ]
-     }
+  "slug": "domy-slovenov",
+  "data": {
+    "title": "Houses of the Slavs – from sunken huts to the first timber palaces",
+    "slug": "houses-of-the-slavs-early-medieval-dwellings",
+    "excerpt": "A house was never merely a shelter: it was the space in which a family lived, worked and met its social and ritual needs. Peter Šalkovský traces the Slavic dwelling from the sunken-featured building, the main house type of the 6th to 10th centuries, through ground-level log-built and post-built houses to the first timber palatial halls.",
+    "metaTitle": "Houses of the Slavs – from sunken huts to log houses",
+    "metaDescription": "How the early Slavs built and heated their homes: from the sunken-featured building with its stone oven to ground-level log houses and timber palaces.",
+    "keyFacts": [
+      {
+        "label": "Author",
+        "value": "Peter Šalkovský",
+        "icon": "book"
+      },
+      {
+        "label": "Subject",
+        "value": "The development of the Slavic dwelling from sunken-featured buildings to ground-level log houses and palatial halls",
+        "icon": "scroll"
+      },
+      {
+        "label": "Period",
+        "value": "6th – 13th century (with roots reaching back into prehistory)",
+        "icon": "calendar"
+      },
+      {
+        "label": "Typology",
+        "value": "Square, oval and circular sunken-featured buildings; ground-level log houses; palatial hall buildings",
+        "icon": "building"
+      }
+    ],
+    "timeline": [
+      {
+        "year": "6th century",
+        "title": "The first mention of Slavic dwellings",
+        "description": "The Byzantine historian Procopius writes of “white huts, scattered apart from one another” among the Slavs.",
+        "type": "event"
+      },
+      {
+        "year": "turn of the 6th–7th c.",
+        "title": "The testimony of Maurice",
+        "description": "A military treatise states that the Slavs “live in woods, by waters, and make many exits from their dwellings”.",
+        "type": "event"
+      },
+      {
+        "year": "around 880",
+        "title": "The account of Hárun ben Jahib",
+        "description": "The Arab travel writer describes Slavic houses built of timber.",
+        "type": "event"
+      },
+      {
+        "year": "10th century",
+        "title": "Arab geographers on sunken huts",
+        "description": "Omar Ibn Rusta describes the dwellings of the eastern Slavs as pits sunk into the ground with a stone oven and a pointed timber roof.",
+        "type": "event"
+      },
+      {
+        "year": "1147",
+        "title": "The account of Bishop Otto of Freising",
+        "description": "Passing through Hungary in the summer of that year, he describes the flimsy dwellings of the inhabitants, built mainly of reeds.",
+        "type": "event"
+      },
+      {
+        "year": "8th – 9th century",
+        "title": "The rise of ground-level houses",
+        "description": "Alongside sunken-featured buildings, ground-level log-built and post-built dwellings begin to gain ground.",
+        "type": "event"
+      },
+      {
+        "year": "9th – 10th century",
+        "title": "The peak of the stone oven",
+        "description": "Stone ovens reached the peak of their distribution in the territory of present-day Slovakia; from the 11th century their use gradually declined in favour of clay ovens.",
+        "type": "event"
+      }
+    ],
+    "quotes": [],
+    "mediaTexts": [
+      {
+        "mediaId": 3885,
+        "alt": "Drawing of the plans, sections and reconstructions of square sunken-featured buildings, from a specialist publication"
+      }
+    ],
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "In the beginning was the sunken-featured building"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "The house, as part of building culture, is an important source for understanding society from prehistory to the present day. It was not merely a construction, a structure that gave a person and his family shelter and protection from the climate and from other adverse influences of the natural environment. It was above all a space in which people, usually related by blood, lived, met part of their basic biological, social, cultural and ritual needs, and pursued domestic production, which was the main or a supplementary source of their livelihood."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "At first the choice of dwelling type was governed mainly by natural factors, by practical needs and by the means available to the community. Later, once a particular type of building and its interior had become part of social tradition, these factors receded. Houses — their appearance, size, the placing of the hearth, of the entrance and so on — were determined exclusively by older cultural tradition."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "caption": "",
+        "alt": "Houses of the Slavs",
+        "width": "50",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "showCaption": false,
+        "rounded": true,
+        "shadow": true,
+        "position": "right",
+        "pairWithNext": false
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Written sources contribute only modestly to our knowledge of the Slavic dwelling in the Early Middle Ages. The Byzantine historian Procopius, for instance, writes in the 6th century only of “white huts, scattered apart from one another”, and the legend of St Demetrius mentions certain “wattled huts” of the Slavs of Thessalonica. At the turn of the 6th and 7th centuries Maurice states that the Slavs “live in woods, by waters, and make many exits from their dwellings”. Around 880 the Arab travel writer Hárun ben Jahib describes Slavic houses of timber, as does the Spanish-Jewish merchant Ibrahim Ibn Jakub a hundred years later. Another Arab geographer, Omar Ibn Rusta, describes in the 10th century dwellings probably in the territory of the eastern Slavs as pits sunk into the ground, fitted with a stone oven and with a pointed timber roof. An anonymous Persian geographer writes that “the Slavs spend the winter in pits and underground huts”. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "caption": "",
+        "alt": "Houses of the Slavs",
+        "width": "60",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "showCaption": false,
+        "rounded": true,
+        "shadow": true,
+        "position": "right",
+        "pairWithNext": false
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "From the 11th century mentions of houses do become more frequent (for example in the law codes of the Hungarian kings Stephen I, Ladislaus and Coloman and in royal charters), but without any detail of their appearance and construction. In the 12th century the German Helmold of Bosau mentions simple wattled buildings among the Baltic Rani. Perhaps the most concrete description of contemporary houses is given by Bishop Otto of Freising, who passed through Hungary in the summer of 1147. He writes that the inhabitants of Hungary spend the whole of summer and autumn in tents and that their dwellings are very flimsy, built only of reeds, rarely of timber and still more rarely of stone. This statement, however, evidently concerns only the warmer, low-lying areas of the Danube region."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Various other documentary sources from the 11th–13th centuries commonly mention ground-level timber houses and, occasionally, stone ones as well. We also know the names of some of the buildings in the princely residences of the 10th–12th centuries. Mentions of sunken-featured buildings, by contrast, are absent, although we know that their use continued, above all in the village setting. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "caption": "",
+        "alt": "Houses of the Slavs",
+        "width": "60",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "showCaption": false,
+        "rounded": true,
+        "shadow": true,
+        "position": "left",
+        "pairWithNext": false
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "The linguistic evidence on the question is likewise only general. Various Slavic languages have preserved what is evidently the original term for the sunken hut – ziemianka, zemľanka, zemunica. The words koliba, chalupa, chata, chyža and burdej also have old but mostly non-Slavic roots; kuča and salaš are probably younger. Here too, however, any earlier, early medieval context that would specify the formal appearance and the building technique of the individual house types is lacking."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "In this situation archaeology has shown what it can do. Over several decades it has gradually accumulated, across the broad territory of east-central Europe occupied by the Slavs in the 6th–10th centuries, several thousand ground plans of dwellings with many structural elements, building details and traces of their internal fittings. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "What, then, in broad outline, is the picture of the Slavic house at which archaeological research has so far arrived?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "caption": "",
+        "alt": "Houses of the Slavs",
+        "width": "60",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "showCaption": false,
+        "rounded": true,
+        "shadow": true,
+        "position": "center",
+        "pairWithNext": false
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "SUNKEN-FEATURED BUILDINGS – HOUSES FOR ANY WEATHER"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "The main type of Slavic dwelling was the house more or less sunk into the ground – the sunken-featured building. Such buildings occurred as early as the Palaeolithic as one of the universal forms of dwelling in the loess regions of east-central Europe. In central Europe they were generally known from the Hallstatt period."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "In western and central Europe, however, sunken-featured buildings occurred in the pre-Slavic Late Roman cultures only rarely, or only in the function of a farm building. East of the Carpathians they appear in various modifications in the pre-Slavic cultures of the Prut, Dniester and middle Dnieper basins, that is, in the territories described as the original homeland of the Slavs. It is here that the Slavs first appear, with the typical early Slavic culture, from the 4th–5th centuries onwards. From here this form of house spread together with the migrating peoples. In the 6th–10th centuries several types of sunken-featured building are known across the broad area settled by the Slavs. The most widespread were those called quadratic, after their square ground plan, or rather after their squared sunken part."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "caption": "",
+        "alt": "Houses of the Slavs",
+        "width": "60",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "showCaption": false,
+        "rounded": true,
+        "shadow": true,
+        "position": "right",
+        "pairWithNext": false
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Their dimensions in area and in depth were relatively uniform. Smaller ground plans (6–12 m²) predominated, but large sunken buildings (15–20 m²) were not rare either. The construction pits of Slavic buildings were usually 70 to 90 cm deep; deeper ones occur above all in the East Slavic milieu. The Slavs only rarely dug a construction pit shallower than 50 cm. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Most of them had, above all, log-built walls set inside the pit, or merely lighter and lower log frames placed outside around the perimeter of the sunken part. In the territories north of the Danube, log-built sunken buildings were followed in frequency by sunken buildings with a supporting structure for the roof. Light walls woven only from wattle are encountered among the Slavs still more rarely."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "The typical fitting of a sunken-featured building was the stone oven. These were built directly on the floor and usually had a rectangular, more rarely a horseshoe-shaped plan. The lower part and the mouth of the oven were built of large, often flat stones and the upper part of smaller stones. The stones were laid without any bonding material, although clay or sherds are occasionally found between them. The main function of the stone oven, especially in winter, was to heat the dwelling. In the warmer parts of the year it was hardly used at all. Cooking and baking were done on open surface hearths or in clay ovens in the open space of the yard, or else a fire was lit on a hearth in the mouth of the oven or just in front of it. In the territory of present-day Slovakia stone ovens reached the peak of their distribution in the 9th–10th centuries. From the 11th century their use gradually declined. They were progressively replaced by clay ovens, which were superior both technologically and in use. Only a few houses, above all in the Slavic west and north-west, had merely a hearth instead of an oven."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "caption": "",
+        "alt": "Houses of the Slavs",
+        "width": "50",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "showCaption": false,
+        "rounded": true,
+        "shadow": true,
+        "position": "right",
+        "pairWithNext": false
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Alongside this basic type of dwelling fitting, modifications of it, caused in part by the influence of neighbouring cultures, have been found already in the territory of the original homeland of the Slavs. These include, for example, clay ovens, hearths in the centre and central posts (supports). During the migration at the end of the 5th and in the 6th century the Slavs moved in two main streams – a northern one over the Carpathians and a south-eastern one along the Danube. In the process certain innovations in Slavic building culture came about. In the northern stream in particular there crystallised new types of long, rectangular and oval, bowl-shaped sunken buildings, which were also adopted by some regions inside the Carpathian arc, above all eastern Slovakia. In both streams the last type of sunken building – that with a circular plan – was already known."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Long rectangular sunken buildings formed a relatively little-widespread developmental line of the Slavic house, concentrated above all in the territories of the West Slavs. They were mostly sunken buildings with log-built walls, or with the roof resting directly on the ground, most often fitted with a stone-lined hearth and relatively often with clay interior ovens as well. In construction and interior they were related to the more widespread oval sunken buildings and may be regarded as a peripheral building culture of the Slavs. Sunken buildings with an oval and irregular bowl-shaped plan were most widespread among the West and North-West Slavs. The proof that this was a distinct building phenomenon is their equipment with stone-lined hearths, while stone vaulted ovens do not occur in them. The spread of similar houses in the south-east and east (and partly in the west as well) is evidently connected with Proto-Bulgarian and Avar influence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "caption": "",
+        "alt": "Houses of the Slavs",
+        "width": "40",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "showCaption": false,
+        "rounded": true,
+        "shadow": true,
+        "position": "right",
+        "pairWithNext": false
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "In the Slavic milieu circular sunken buildings and sunken yurts were used for dwelling only exceptionally – they make up less than 1% of houses, even though they ought to occur in greater numbers above all in the lowlands of the Carpathian Basin and on the lower Danube. This is evidently an expression of the direct penetration of members of nomadic and pastoral cultures into the Slavic milieu and of their adaptation to the harsher climatic conditions of east-central Europe. They can be reconstructed as dwellings with a cylindrical, conical or else lattice timber frame for the walls and with a roof that was either fixed or collapsible, set inside or outside the construction pit. Structurally, the sunken circular houses derived from true ground-level felt or woven yurts. In these the upper ring – the tono – was fixed on two to four vertical supporting posts resting on the floor, on either side of the hearth. In the southern stream of the expansion new elements of the Slavic house arose under the influence of the steppe peoples of the northern Black Sea region and of their integration into the Prague-type culture. A certain role was also played here by synthesis with the Romance-Byzantine or Proto-Romanian occupation of the lower Danube region."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "caption": "",
+        "alt": "Houses of the Slavs",
+        "width": "40",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "showCaption": false,
+        "rounded": true,
+        "shadow": true,
+        "position": "right",
+        "pairWithNext": false
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "From the 7th century the building cultures of the peoples of the Avar Khaganate also occur in the Middle Danube region. North and west of the Danube, however, these manifestations gradually weakened, and Slavic building culture there was mostly enriched by impulses from the west and the north."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "These processes created a north–south oriented basis for the differentiation of Slavic house-building in the 8th–9th centuries, when ground-level log-built and post-built dwellings also began to gain ground."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "level": 2,
+            "children": [
+              {
+                "type": "text",
+                "text": "GROUND-LEVEL HOUSES AND THE FIRST PALACES"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Besides tradition and socio-economic development, the emergence and the building technology of ground-level houses were influenced by a damp soil environment and, in the north-west, also by a shortage of timber and a relatively more favourable climate. Damp, waterlogged soil and a high water table forced the inhabitants of such regions to build ground-level dwellings, sometimes even on earthen banks or timber sleepers. Ground-level log houses together make up only about 6% of the finds of the Slavic house, though in reality there may have been more of them."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "caption": "",
+        "alt": "Houses of the Slavs",
+        "width": "40",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "showCaption": false,
+        "rounded": true,
+        "shadow": true,
+        "position": "left",
+        "pairWithNext": false
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "We know of true log buildings, or log buildings without any post support for the roof, that is, frame-built ones, and of log buildings fitted with gable posts (supports), which had a somewhat differently constructed roof truss and different walls. Progressive trends are represented by one- and three-roomed log buildings on a stone base or on a dry stone footing running round the whole perimeter, with floors finished in various ways – in mortar or in timber."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "The summit of the development of the early medieval Slavic house was the timber palatial building, either without foundations or on dry, or possibly mortared, stone foundations. Some of them already had, or may have had, walls entirely of stone. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "The typical heating installation in log buildings was the open hearth, especially the stone-lined hearth and the distinctive hearth paved with stones. The influence of Germanic flat and long hearths is discernible here."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "The shortage of timber in the north-west, in the Elbe region and the Baltic, showed itself in a preference for constructions that used less wood – either shorter pieces, planks, poles or wattle. This undoubtedly happened under the influence of the Germanic peoples, or rather of the Scandinavian-Norman population, among whom houses with wattled walls were generally widespread."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.image-block",
+        "caption": "",
+        "alt": "Houses of the Slavs",
+        "width": "40",
+        "aspectRatio": "auto",
+        "objectPosition": "center center",
+        "showCaption": false,
+        "rounded": true,
+        "shadow": true,
+        "position": "left",
+        "pairWithNext": false
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "The Slavs rarely built ground-level houses of post construction; they make up barely 3% of the finds and are almost absent in the milieu of the East and South Slavs. Large post-built houses with wattled walls and an internal or external support system for the roof likewise derived from foreign, chiefly Germanic, building models."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "A separate category is represented by the isolated long hall houses – palatial buildings of far more than usual size."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Peter Šalkovský"
+              }
+            ],
+            "level": 2
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Reproduced with the author's permission from the page http://www.historickarevue.com/archiv_2000-7b.html"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Illustrations taken from: Peter Šalkovský: DOM A DEDINA STREDNÉHO PODUNAJSKA VO VČASNOM STREDOVEKU (The House and the Village of the Middle Danube Region in the Early Middle Ages), ZBORNÍK NA POČESŤ JOZEFA HOŠŠA (ed. J. Zábojník). BRATISLAVA 2006, 107 – 128.\n Photographs – Orgoň – the Modrá archaeological open-air museum (near Uherské Hradiště)"
+              }
+            ]
+          }
+        ]
+      }
     ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The house, as part of building culture, is an important source for understanding society from prehistory to the present day. It was not merely a construction, a structure that gave a person and his family shelter and protection from the climate and from other adverse influences of the natural environment. It was above all a space in which people, usually related by blood, lived, met part of their basic biological, social, cultural and ritual needs, and pursued domestic production, which was the main or a supplementary source of their livelihood."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "At first the choice of dwelling type was governed mainly by natural factors, by practical needs and by the means available to the community. Later, once a particular type of building and its interior had become part of social tradition, these factors receded. Houses — their appearance, size, the placing of the hearth, of the entrance and so on — were determined exclusively by older cultural tradition."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Houses of the Slavs",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Written sources contribute only modestly to our knowledge of the Slavic dwelling in the Early Middle Ages. The Byzantine historian Procopius, for instance, writes in the 6th century only of “white huts, scattered apart from one another”, and the legend of St Demetrius mentions certain “wattled huts” of the Slavs of Thessalonica. At the turn of the 6th and 7th centuries Maurice states that the Slavs “live in woods, by waters, and make many exits from their dwellings”. Around 880 the Arab travel writer Hárun ben Jahib describes Slavic houses of timber, as does the Spanish-Jewish merchant Ibrahim Ibn Jakub a hundred years later. Another Arab geographer, Omar Ibn Rusta, describes in the 10th century dwellings probably in the territory of the eastern Slavs as pits sunk into the ground, fitted with a stone oven and with a pointed timber roof. An anonymous Persian geographer writes that “the Slavs spend the winter in pits and underground huts”. "
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Houses of the Slavs",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "From the 11th century mentions of houses do become more frequent (for example in the law codes of the Hungarian kings Stephen I, Ladislaus and Coloman and in royal charters), but without any detail of their appearance and construction. In the 12th century the German Helmold of Bosau mentions simple wattled buildings among the Baltic Rani. Perhaps the most concrete description of contemporary houses is given by Bishop Otto of Freising, who passed through Hungary in the summer of 1147. He writes that the inhabitants of Hungary spend the whole of summer and autumn in tents and that their dwellings are very flimsy, built only of reeds, rarely of timber and still more rarely of stone. This statement, however, evidently concerns only the warmer, low-lying areas of the Danube region."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Various other documentary sources from the 11th–13th centuries commonly mention ground-level timber houses and, occasionally, stone ones as well. We also know the names of some of the buildings in the princely residences of the 10th–12th centuries. Mentions of sunken-featured buildings, by contrast, are absent, although we know that their use continued, above all in the village setting. "
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Houses of the Slavs",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The linguistic evidence on the question is likewise only general. Various Slavic languages have preserved what is evidently the original term for the sunken hut – ziemianka, zemľanka, zemunica. The words koliba, chalupa, chata, chyža and burdej also have old but mostly non-Slavic roots; kuča and salaš are probably younger. Here too, however, any earlier, early medieval context that would specify the formal appearance and the building technique of the individual house types is lacking."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "In this situation archaeology has shown what it can do. Over several decades it has gradually accumulated, across the broad territory of east-central Europe occupied by the Slavs in the 6th–10th centuries, several thousand ground plans of dwellings with many structural elements, building details and traces of their internal fittings. "
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "What, then, in broad outline, is the picture of the Slavic house at which archaeological research has so far arrived?"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Houses of the Slavs",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "center",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "heading",
-      "level": 2,
-      "children": [
-       {
-        "type": "text",
-        "text": "SUNKEN-FEATURED BUILDINGS – HOUSES FOR ANY WEATHER"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The main type of Slavic dwelling was the house more or less sunk into the ground – the sunken-featured building. Such buildings occurred as early as the Palaeolithic as one of the universal forms of dwelling in the loess regions of east-central Europe. In central Europe they were generally known from the Hallstatt period."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "In western and central Europe, however, sunken-featured buildings occurred in the pre-Slavic Late Roman cultures only rarely, or only in the function of a farm building. East of the Carpathians they appear in various modifications in the pre-Slavic cultures of the Prut, Dniester and middle Dnieper basins, that is, in the territories described as the original homeland of the Slavs. It is here that the Slavs first appear, with the typical early Slavic culture, from the 4th–5th centuries onwards. From here this form of house spread together with the migrating peoples. In the 6th–10th centuries several types of sunken-featured building are known across the broad area settled by the Slavs. The most widespread were those called quadratic, after their square ground plan, or rather after their squared sunken part."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Houses of the Slavs",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Their dimensions in area and in depth were relatively uniform. Smaller ground plans (6–12 m²) predominated, but large sunken buildings (15–20 m²) were not rare either. The construction pits of Slavic buildings were usually 70 to 90 cm deep; deeper ones occur above all in the East Slavic milieu. The Slavs only rarely dug a construction pit shallower than 50 cm. "
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Most of them had, above all, log-built walls set inside the pit, or merely lighter and lower log frames placed outside around the perimeter of the sunken part. In the territories north of the Danube, log-built sunken buildings were followed in frequency by sunken buildings with a supporting structure for the roof. Light walls woven only from wattle are encountered among the Slavs still more rarely."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The typical fitting of a sunken-featured building was the stone oven. These were built directly on the floor and usually had a rectangular, more rarely a horseshoe-shaped plan. The lower part and the mouth of the oven were built of large, often flat stones and the upper part of smaller stones. The stones were laid without any bonding material, although clay or sherds are occasionally found between them. The main function of the stone oven, especially in winter, was to heat the dwelling. In the warmer parts of the year it was hardly used at all. Cooking and baking were done on open surface hearths or in clay ovens in the open space of the yard, or else a fire was lit on a hearth in the mouth of the oven or just in front of it. In the territory of present-day Slovakia stone ovens reached the peak of their distribution in the 9th–10th centuries. From the 11th century their use gradually declined. They were progressively replaced by clay ovens, which were superior both technologically and in use. Only a few houses, above all in the Slavic west and north-west, had merely a hearth instead of an oven."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Houses of the Slavs",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Alongside this basic type of dwelling fitting, modifications of it, caused in part by the influence of neighbouring cultures, have been found already in the territory of the original homeland of the Slavs. These include, for example, clay ovens, hearths in the centre and central posts (supports). During the migration at the end of the 5th and in the 6th century the Slavs moved in two main streams – a northern one over the Carpathians and a south-eastern one along the Danube. In the process certain innovations in Slavic building culture came about. In the northern stream in particular there crystallised new types of long, rectangular and oval, bowl-shaped sunken buildings, which were also adopted by some regions inside the Carpathian arc, above all eastern Slovakia. In both streams the last type of sunken building – that with a circular plan – was already known."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Long rectangular sunken buildings formed a relatively little-widespread developmental line of the Slavic house, concentrated above all in the territories of the West Slavs. They were mostly sunken buildings with log-built walls, or with the roof resting directly on the ground, most often fitted with a stone-lined hearth and relatively often with clay interior ovens as well. In construction and interior they were related to the more widespread oval sunken buildings and may be regarded as a peripheral building culture of the Slavs. Sunken buildings with an oval and irregular bowl-shaped plan were most widespread among the West and North-West Slavs. The proof that this was a distinct building phenomenon is their equipment with stone-lined hearths, while stone vaulted ovens do not occur in them. The spread of similar houses in the south-east and east (and partly in the west as well) is evidently connected with Proto-Bulgarian and Avar influence."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Houses of the Slavs",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "In the Slavic milieu circular sunken buildings and sunken yurts were used for dwelling only exceptionally – they make up less than 1% of houses, even though they ought to occur in greater numbers above all in the lowlands of the Carpathian Basin and on the lower Danube. This is evidently an expression of the direct penetration of members of nomadic and pastoral cultures into the Slavic milieu and of their adaptation to the harsher climatic conditions of east-central Europe. They can be reconstructed as dwellings with a cylindrical, conical or else lattice timber frame for the walls and with a roof that was either fixed or collapsible, set inside or outside the construction pit. Structurally, the sunken circular houses derived from true ground-level felt or woven yurts. In these the upper ring – the tono – was fixed on two to four vertical supporting posts resting on the floor, on either side of the hearth. In the southern stream of the expansion new elements of the Slavic house arose under the influence of the steppe peoples of the northern Black Sea region and of their integration into the Prague-type culture. A certain role was also played here by synthesis with the Romance-Byzantine or Proto-Romanian occupation of the lower Danube region."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Houses of the Slavs",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "From the 7th century the building cultures of the peoples of the Avar Khaganate also occur in the Middle Danube region. North and west of the Danube, however, these manifestations gradually weakened, and Slavic building culture there was mostly enriched by impulses from the west and the north."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "These processes created a north–south oriented basis for the differentiation of Slavic house-building in the 8th–9th centuries, when ground-level log-built and post-built dwellings also began to gain ground."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "heading",
-      "level": 2,
-      "children": [
-       {
-        "type": "text",
-        "text": "GROUND-LEVEL HOUSES AND THE FIRST PALACES"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Besides tradition and socio-economic development, the emergence and the building technology of ground-level houses were influenced by a damp soil environment and, in the north-west, also by a shortage of timber and a relatively more favourable climate. Damp, waterlogged soil and a high water table forced the inhabitants of such regions to build ground-level dwellings, sometimes even on earthen banks or timber sleepers. Ground-level log houses together make up only about 6% of the finds of the Slavic house, though in reality there may have been more of them."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Houses of the Slavs",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "We know of true log buildings, or log buildings without any post support for the roof, that is, frame-built ones, and of log buildings fitted with gable posts (supports), which had a somewhat differently constructed roof truss and different walls. Progressive trends are represented by one- and three-roomed log buildings on a stone base or on a dry stone footing running round the whole perimeter, with floors finished in various ways – in mortar or in timber."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The summit of the development of the early medieval Slavic house was the timber palatial building, either without foundations or on dry, or possibly mortared, stone foundations. Some of them already had, or may have had, walls entirely of stone. "
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The typical heating installation in log buildings was the open hearth, especially the stone-lined hearth and the distinctive hearth paved with stones. The influence of Germanic flat and long hearths is discernible here."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The shortage of timber in the north-west, in the Elbe region and the Baltic, showed itself in a preference for constructions that used less wood – either shorter pieces, planks, poles or wattle. This undoubtedly happened under the influence of the Germanic peoples, or rather of the Scandinavian-Norman population, among whom houses with wattled walls were generally widespread."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Houses of the Slavs",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The Slavs rarely built ground-level houses of post construction; they make up barely 3% of the finds and are almost absent in the milieu of the East and South Slavs. Large post-built houses with wattled walls and an internal or external support system for the roof likewise derived from foreign, chiefly Germanic, building models."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "A separate category is represented by the isolated long hall houses – palatial buildings of far more than usual size."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "heading",
-      "children": [
-       {
-        "type": "text",
-        "text": "Peter Šalkovský"
-       }
-      ],
-      "level": 2
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Reproduced with the author's permission from the page http://www.historickarevue.com/archiv_2000-7b.html"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Illustrations taken from: Peter Šalkovský: DOM A DEDINA STREDNÉHO PODUNAJSKA VO VČASNOM STREDOVEKU (The House and the Village of the Middle Danube Region in the Early Middle Ages), ZBORNÍK NA POČESŤ JOZEFA HOŠŠA (ed. J. Zábojník). BRATISLAVA 2006, 107 – 128.\n Photographs – Orgoň – the Modrá open-air museum (near Uherské Hradiště)"
-       }
-      ]
-     }
-    ]
-   }
-  ]
- }
+  }
 }

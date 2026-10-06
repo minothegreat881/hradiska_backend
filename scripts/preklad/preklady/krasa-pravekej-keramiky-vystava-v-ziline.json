@@ -1,55 +1,55 @@
 {
- "slug": "krasa-pravekej-keramiky-vystava-v-ziline",
- "data": {
-  "title": "The Beauty of Prehistoric Pottery – an exhibition in Žilina",
-  "slug": "beauty-of-prehistoric-pottery-zilina-exhibition",
-  "excerpt": "The Považské Museum in Žilina has installed an exhibition of prehistoric pottery in the attic of the tower of Budatín Castle. It presents the vessels of the Lusatian culture of the Bronze Age and the Early Iron Age and those of the Púchov culture of the later Iron Age, two cultures that dominate the archaeology of north-western Slovakia.",
-  "metaTitle": "The Beauty of Prehistoric Pottery – exhibition in Žilina",
-  "metaDescription": "An exhibition at Budatín Castle in Žilina presents the pottery of the Lusatian and Púchov cultures, from the Bronze Age to the end of the Iron Age.",
-  "blocks": [
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "In the attic of the tower of Budatín Castle, the Považské Museum in Žilina has prepared an exhibition entitled "
-       },
-       {
-        "type": "text",
-        "text": "Krása pravekej keramiky (The Beauty of Prehistoric Pottery)",
-        "bold": true
-       },
-       {
-        "type": "text",
-        "text": ". It will acquaint visitors with the various types of vessels used by the people of the Lusatian culture in the Bronze Age and the Early Iron Age. The Late and Final Iron Age will be represented by the pottery of the people of the Púchov culture. Both cultures are dominantly represented in the region of north-western Slovakia. Handmade pottery, made without the use of the potter’s wheel and decorated with various ornamental motifs, predominates."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "link",
-        "url": "http://pmza.sk/krasa-pravekej-keramiky/",
-        "children": [
-         {
-          "type": "text",
-          "text": "You can find out more about the exhibition HERE"
-         }
+  "slug": "krasa-pravekej-keramiky-vystava-v-ziline",
+  "data": {
+    "title": "The Beauty of Prehistoric Pottery – an exhibition in Žilina",
+    "slug": "beauty-of-prehistoric-pottery-zilina-exhibition",
+    "excerpt": "The Považie Museum in Žilina has installed an exhibition of prehistoric pottery in the attic of the tower of Budatín Castle. It presents the vessels of the Lusatian culture of the Bronze Age and the Early Iron Age and those of the Púchov culture of the later Iron Age, two cultures that dominate the archaeology of north-western Slovakia.",
+    "metaTitle": "The Beauty of Prehistoric Pottery – exhibition in Žilina",
+    "metaDescription": "An exhibition at Budatín Castle in Žilina presents the pottery of the Lusatian and Púchov cultures, from the Bronze Age to the end of the Iron Age.",
+    "blocks": [
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "In the attic of the tower of Budatín Castle, the Považie Museum in Žilina has prepared an exhibition entitled "
+              },
+              {
+                "type": "text",
+                "text": "Krása pravekej keramiky (The Beauty of Prehistoric Pottery)",
+                "bold": true
+              },
+              {
+                "type": "text",
+                "text": ". It will acquaint visitors with the various types of vessels used by the people of the Lusatian culture in the Bronze Age and the Early Iron Age. The Late and Final Iron Age will be represented by the pottery of the people of the Púchov culture. Both cultures are dominantly represented in the region of north-western Slovakia. Handmade pottery, made without the use of the potter’s wheel and decorated with various ornamental motifs, predominates."
+              }
+            ]
+          }
         ]
-       }
-      ]
-     }
+      },
+      {
+        "__component": "content.rich-text",
+        "body": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "link",
+                "url": "http://pmza.sk/krasa-pravekej-keramiky/",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "You can find out more about the exhibition HERE"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     ]
-   }
-  ]
- }
+  }
 }
