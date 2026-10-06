@@ -10,8 +10,9 @@
  *
  * Párovanie blokov nie je podľa poradia (to by sa po vložení odseku rozsypalo),
  * ale podľa odtlačku: obrázky, galérie a vložené videá sú kotvy (majú id médií),
- * textové bloky sa medzi kotvami priraďujú v poradí. Blok, ktorý v angličtine
- * náprotivok nemá, dostane slovenský text a vypíše sa ako „na preklad".
+ * textové bloky sa medzi kotvami priraďujú v poradí. Keď niektorý textový
+ * blok náprotivok v angličtine nemá, článok sa PRESKOČÍ a nahlási — slovenský
+ * text sa do anglickej verzie nedostane.
  *
  *   node scripts/preklad/zrkadli-strukturu.cjs                 # nasucho
  *   node scripts/preklad/zrkadli-strukturu.cjs --zapis
@@ -122,15 +123,18 @@ async function main() {
 
       const { bloky, naPreklad, nepouzite } = priraď(sk.blocks || [], en.blocks || []);
 
-      /* POISTKA. Keď sa štruktúry rozídu natoľko, že by anglický článok dostal
-         slovenský text do viac než dvoch blokov, zrkadlenie sa ho NEDOTKNE.
-         Bez tejto poistky cron v jedenástich článkoch prepísal anglické telo
-         slovenským a publikoval ho — článok mal anglický slug a slovenský
-         obsah. Takýto prípad patrí človeku, nie automatu. */
-      if (naPreklad > 2) {
+      /* POISTKA. Do anglického článku sa slovenský text nedostane ANI RAZ:
+         keď by hoci jediný textový blok ostal po slovensky, zrkadlenie sa
+         článku nedotkne a nahlási ho. Bez tejto poistky cron v štrnástich
+         článkoch prepísal anglické telo slovenským a publikoval ho — článok
+         mal anglický slug a slovenský obsah. Takýto prípad patrí človeku:
+         nový odsek treba preložiť vo vstupnom súbore. Štruktúru bez nového
+         textu (poprehadzované bloky, pridaný či zmazaný obrázok) zrkadlenie
+         zvládne samo. */
+      if (naPreklad > 0) {
         console.log(`• ${sk.slug} → ${en.slug}`);
         console.log(`    !! PRESKOČENÉ: ${naPreklad} blokov by dostalo slovenský text`);
-        console.log('       (štruktúru treba zrovnať vo vstupnom súbore prekladu)');
+        console.log('       (nový odsek treba preložiť vo vstupnom súbore prekladu)');
         chyb++;
         continue;
       }
