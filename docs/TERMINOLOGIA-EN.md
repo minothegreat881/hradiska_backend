@@ -1228,6 +1228,13 @@ Veci, pri ktorých sa dávky rozchádzali a ktoré sú odteraz rozhodnuté takto
 | **kresacie kamene** | **strike-a-light stones** (jednotné *strike-a-light flint* len pri výslovnom pazúriku) |
 | **valové opevnenie** | **rampart defences** / **rampart fortification** — *enclosure* je vyhradené pre areál a nádvorie |
 | **mohylový rítus** | **the mound burial rite** |
+| **valasi** | **the Vlachs**, *Vlach shepherds* — **nikdy** *Wallachian* (to je Valašsko v Rumunsku) |
+| **turecké vojny** | **the Ottoman wars**, protiturecké = *the anti-Ottoman wars* |
+| **stupeň a fáza pri laténe** | ustálené jednotky chronológie sa píšu **phase LT C2**, *fáza* či *stupeň* kultúry opisne = **stage** (predpúchovský stupeň = *the pre-Púchov stage*) |
+| **zaniknutý** (hrad, sídlisko) | **vanished** — nie *abandoned*, to je opustený |
+| **Mestské múzeum v X** | **the Town Museum in X** |
+| **Slovenská asociácia archeológov** | **the Slovak Association of Archaeologists** (skratku nezavádzať) |
+| **„v poradí" (19. v poradí)** | vynechať — *in order* je kalk |
 
 ---
 
