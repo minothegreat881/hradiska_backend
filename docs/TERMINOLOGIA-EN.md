@@ -1172,6 +1172,41 @@ Veci, pri ktorých sa dávky rozchádzali a ktoré sú odteraz rozhodnuté takto
 | **výšinné sídlisko** | **hilltop settlement** — nie *upland settlement* |
 | **po rodičoch (zdedené, ostalo)** | **left behind by one's parents** — nie *after their parents* |
 | **mená autorov pod článkom a bibliografia** | do anglického tela sa NEPRIDÁVAJÚ, keď ich slovenčina ako blok nemá; bibliografia v bloku Zdrojov ostáva po slovensky |
+| **dvorec** | **manorial court**; *veľmožský dvorec* = **magnate's court**. *Magnate's residence* v korpuse nepoužívať (zjednotené) |
+| **hrádok** | **fortlet**; *small fort* len tam, kde ide o rímsky objekt |
+| **podhradie** | *suburbium*, v množnom čísle **suburbia** — nie *bailey*, to je **predhradie** |
+| **hradištná kultúra** | **the Hillfort-period culture** |
+| **záhrobie** | **the afterlife** — nie *afterworld* |
+| **koruna valu** | **the crest of the rampart** |
+| **skalné podložie** | **bedrock** — nie *rock bedrock* ani *rock subsoil* |
+| **radové pohrebisko** | **row cemetery** |
+| **navážka** | **made-up layer** |
+| **nálezová situácia** | **find situation** |
+| **maďarizácia** | **Magyarisation** (pomaďarčenie = *Hungarianisation*) |
+| **nevýrazný val** | **a slight rampart** — nie *low* |
+| **hromadný nález** | **mass find** (poklad/depot = *hoard*) |
+| **turistická trasa, značka** | **walking route**, **waymarked path**, **waymarker** |
+| **Verecký priesmyk, Bukovský priesmyk** | **the Veretsky Pass**, **the Buková Pass** |
+| **Jordanesovi Veneti** | **the Venethi** |
+| **alt fotografie bez popisu** | keď autor fotke v slovenčine popis nedal, anglický `alt` sa NEVYMÝŠĽA (platí pre `mediaTexts` aj pre obrázkový blok) |
+| **stredná Európa** | **Central Europe** (región, teda veľké začiatočné písmeno) — rovnako *Western Asia*, *Eastern Europe* |
+| **potok v názve** | slovenský názov sa ponecháva a pri prvom výskyte sa doplní *stream*: „the Bystričiansky potok stream", ďalej už len „the Bystričiansky potok" |
+| **terénna situácia** | **the situation on the ground** — nie *ground situation* |
+| **Čendo Žrec** | ponechať ako meno, neprekladať na *the pagan priest* |
+| **živánska** | ponechať so glosou: **the živánska roast** |
+| **paženie** | **shuttering** |
+| **guľatina, klieštiny** | **roundwood**, **tie-beams** |
+| **včasná doba dejinná** | **the Early Historical period** |
+| **Bratislavský samosprávny kraj** | **the Bratislava Self-Governing Region** |
+| **Turci** (16.–17. stor.) | **the Ottomans** — nie *the Turks* |
+| **bašta, nárožná bašta** | **bastion**, **corner bastion** — bez prívlastku *tower-like*; tým sa kolízia bašta/bastión uzatvára |
+| **bukovohorská kultúra** | **the Bükk culture** |
+| **travertínová kopa, skalné mesto** | **travertine mound**, **rock city** |
+| **zemepán** | **local lord**, podľa kontextu *landowner* — nie *landlord* |
+| **légiový tábor** | **legionary fortress** |
+| **plavebná komora** | **lock** |
+| **vicinálna cesta** | **vicinal road** |
+| **ostroha s háčikmi** | **spur with hooked terminals** |
 
 ---
 
