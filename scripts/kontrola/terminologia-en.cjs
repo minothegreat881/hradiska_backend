@@ -33,7 +33,9 @@ const JSON_VYSTUP = (process.argv.find((a) => a.startsWith('--json=')) || '').sl
 const PRAVIDLA = [
   /* §12 — falošní priatelia, ktoré sú zakázané vždy */
   { id: 'shard', vzor: /\bshards?\b/gi, tvrde: true, spravne: 'sherd' },
-  { id: 'archeologist', vzor: /\barcheolog/gi, tvrde: true, spravne: 'archaeolog…' },
+  /* Len ANGLICKÉ tvary. Slovenské a české „Archeologický ústav" či
+     „Archeologické rozhledy" v bibliografii sú správne tak, ako sú. */
+  { id: 'archeologist', vzor: /archeolog(y|ist|ists|ical|ically)/gi, tvrde: true, spravne: 'archaeolog…' },
   { id: 'our-territory', vzor: /\bour (territory|land|country)\b/gi, tvrde: true, spravne: 'the territory of present-day Slovakia' },
   { id: 'slovenes', vzor: /\bSlovenes?\b/g, tvrde: true, spravne: 'the Slavs / the Moravians' },
   { id: 'tatar', vzor: /\bTatar invasion\b/gi, tvrde: true, spravne: 'the Mongol invasion' },
@@ -60,13 +62,15 @@ const PRAVIDLA = [
   { id: 'courtyard', vzor: /\bcourtyard\b/gi, tvrde: false, spravne: 'nádvorie hradiska = enclosure; stredoveký hrad = courtyard je OK' },
   { id: 'citadel', vzor: /\bcitadel\b/gi, tvrde: false, spravne: 'akropola = acropolis' },
   { id: 'button', vzor: /\bbuttons?\b/gi, tvrde: false, spravne: 'veľkomoravský gombík = gombík; doba bronzová = button je OK' },
-  { id: 'slovak-9st', vzor: /\bSlovaks?\b/g, tvrde: false, spravne: 'pre 9. stor. the Slavs/the Moravians; pri dnešnom Slovensku OK' },
+  { id: 'slovak-9st', vzor: /Slovaks|Slovak (nobleman|prince|tribes?|population|ancestors)/g, tvrde: false, spravne: 'pre 9. stor. the Slavs/the Moravians' },
   { id: 'locality', vzor: /\blocality\b/gi, tvrde: false, spravne: 'site' },
   { id: 'oven', vzor: /\bovens?\b/gi, tvrde: false, spravne: 'železiarska pec = smelting furnace; kopulová pec = domed oven je OK' },
 
   /* Rozídené preklady tej istej inštitúcie alebo pojmu */
   { id: 'nejed-povazie', vzor: /Pova[žz]sk[ée] Museum|Pova[žz]ie Museum/g, tvrde: false, spravne: 'zjednotiť: the Považie Museum in Žilina' },
   { id: 'nejed-hillfort-period', vzor: /hillfort period|Hillfort period|Hillfort-period/g, tvrde: false, spravne: 'zjednotiť veľké písmená' },
+  { id: 'nejed-nitra-kniez', vzor: /Nitra Principality/g, tvrde: false, spravne: 'zjednotiť: the Principality of Nitra' },
+  { id: 'nejed-velkomor', vzor: /Great Moravia period/g, tvrde: false, spravne: 'zjednotiť: the Great Moravian period' },
 ];
 
 const zbierajText = (n, out) => {
