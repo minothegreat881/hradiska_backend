@@ -890,7 +890,7 @@ alebo na kontext, v ktorom termín platí.
 | pospolitý ľud | common folk |
 | posvätný háj | sacred grove |
 | Potisie | the Tisza region |
-| Považské múzeum v Žiline | the Považské Museum in Žilina |
+| Považské múzeum v Žiline | **the Považie Museum in Žilina** (tak prevažuje v korpuse; „the Považské Museum" nepoužívať) |
 | Povesť vremennych let | ponechať + (the Primary Chronicle) |
 | Povislie | the Vistula region |
 | POZN: „Sloveni" ostáva nepreložené tam, kde je to metajazyková pasáž o etnonyme (Slovania | Sloveni → Slováci) |
