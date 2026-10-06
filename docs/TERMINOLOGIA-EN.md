@@ -1146,6 +1146,21 @@ alebo na kontext, v ktorom termín platí.
 
 ---
 
+## 11e. Rozhodnutia pri terminologickej kontrole celého blogu
+
+Veci, pri ktorých sa dávky rozchádzali a ktoré sú odteraz rozhodnuté takto:
+
+| vec | rozhodnutie |
+|---|---|
+| **župan** | pri slovanskom/veľkomoravskom úradníkovi ponechať **župan** (pl. *župans*); pri uhorskej stolici **ispán**, prípadne *count (ispán)* pri prvom výskyte. „Count of Zvolen" je teda správne pre uhorské obdobie, nie pre 9. storočie |
+| **Považské múzeum v Žiline** | **the Považie Museum in Žilina** (tak prevažuje v korpuse) |
+| **nížinné poľské hradiská** (Biskupin a séria „Polish hillforts") | ponechať **hillfort** — je to autorov pojem a názov série; §11.1 „lowland fortified settlement" platí pre slovenské nížinné hradiská opisované ako sídliská |
+| **Havolania** | **the Hevelli** (ustálený anglický tvar) |
+| **Burgward** | **stronghold wardenship (Burgward)**; úradník = *warden* |
+| **slovenské úvodzovky v anglickom texte** | „text“ → “text” — rieši `scripts/opravy/uvodzovky-en.cjs` |
+
+---
+
 ## 12. Falošní priatelia — zoznam na kontrolu
 
 | v texte | zlý preklad | správne |
