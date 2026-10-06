@@ -72,6 +72,19 @@
   ],
   "blocks": [
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The Old Hungarians in written sources",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -123,19 +136,6 @@
     "text": "Meanwhile Arnulf, king of those peoples who dwell in the north, being unable to overcome Svatopluk, duke of the Moravians, of whom we made mention above and who manfully withstood him in battle, removed – alas – those strongly fortified obstacles of which we said before that they are commonly called barriers (abatis?), and called to his aid the people of the Hungarians, greedy, bold, not knowing almighty God, well versed in every crime and craving only for slaughter and plunder – if indeed that can be called aid which not long afterwards, when he had died, became a grave danger, nay even destruction, both to his own people and to the other peoples living to the south and the west. What then? Svatopluk is overcome, subdued, made tributary; but not he alone. O you blind desire of King Arnulf for power! O those unhappy and bitter days! The overthrow of a single man becomes the ruin of all Europe. Blind ambition, to how many wives do you bring widowhood, to fathers the death of their children, to maidens dishonour, to priests and to the people of God captivity, to churches abandonment and to inhabited lands desolation! But let us return to the matter. So, after the defeat of Svatopluk, duke of the Moravians, Arnulf ruled in the peace that followed. The Hungarians meanwhile, when they had observed the outcome and had surveyed the land, were devising evil in their hearts, which came to light later.",
     "author": "Liudprand of Cremona",
     "source": "Liudprand’s chronicle, the 10th century"
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "The Old Hungarians in written sources",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -225,12 +225,6 @@
     "text": "In that same year, which was the eight hundred and eighty-ninth of the Christian era, our neighbours the Hungarians, who in their own language call themselves Magyars... came, after crossing the Don, into Europe and into Sarmatian Germania. Some assert that they left their fathers’ seats for the sake of better soil, others that it was in order to relieve the all too great number of kings at home, others that they were driven out by their neighbours, while a part again asserts that they were invited by Arnulf against the Slavs and Svatopluk, whose empire was at that time the most extensive in lower Germania, and that they were let into Germania by him.\nBut I shall return to the Hungarians: they, wandering for three years through the territory of the eastern part of great Germania and through the territories of both Sarmatias, passed through very savage peoples across extensive wastes and plains, seeking their sustenance by pillage, plunder and hunting. Only in the fourth year do they obtain permanent seats from Arnulf. Then they fall upon Dacia – which stretches, together with the Danube, towards the east – beyond the river Tisza. They slaughter and destroy the Avars and the Huns (of whom we said that they had been pushed out and driven from Noricum and from the Pannonias by Pippin and the Bavarians) and occupy their land, and hold it to this day. Then they took over in Europe the nation and the name of the Avars and the Huns as their own. They dwelt here by the Danube and lived partly in Dacia, partly in the Pannonias and in Noricum, for five hundred and nine years up to that time.\nThen these Hungarians afflict the Venedi with destruction rather than with defeat, those who inhabited Dacia and were obedient to Svatopluk, the Moravian king. They subdue the whole of Dacia and here to this day they are called \"the Hungarians in Great Germania\". After the death of Arnulf and the killing of the Moravian kings Mojmír and Svatopluk they occupy part of Moravia and, crossing the Danube, fall upon Bavaria. From the kingdom of the Bavarians they tear away Pannonia lying by the Danube: they drink human blood, but such things it will be fitting to set out only in their proper places. Now I shall return to the sequence of events. (...)",
     "author": "Johannes Aventinus",
     "source": "Annales Boiorum (1517 – 1521)"
-   },
-   {
-    "__component": "content.sources",
-    "title": "Sources and literature",
-    "intro": null,
-    "items": []
    }
   ]
  }

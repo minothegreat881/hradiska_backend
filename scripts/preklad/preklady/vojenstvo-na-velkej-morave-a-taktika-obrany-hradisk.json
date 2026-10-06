@@ -157,6 +157,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Warfare in Great Moravia and the defence tactics of its hillforts",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -200,15 +213,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "",
-    "alt": "Warfare in Great Moravia and the defence tactics of its hillforts",
+    "caption": "Our warriors – a horseman and a foot soldier",
+    "alt": "Our warriors – a horseman and a foot soldier",
     "width": "50",
     "aspectRatio": "auto",
     "objectPosition": "center center",
-    "showCaption": false,
+    "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "right",
+    "position": "left",
     "pairWithNext": false
    },
    {
@@ -241,33 +254,6 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "Our warriors – a horseman and a foot soldier",
-    "alt": "Our warriors – a horseman and a foot soldier",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The core of the Great Moravian armies was formed by the cavalry (some 5,000–8,000 men, while the number of infantry at maximum deployment – which was probably only exceptional – could perhaps reach as many as 20,000–25,000). Full „mobilisation“ in the early medieval conditions of information, organisation and communication must have taken a fairly long time – up to several weeks when an attack was being organised. The prince put his immediate retinue on combat alert, his messengers announced the „mobilisation order“, and the military levy of free men was then organised on the basis of instructions from the fortified centres. The detachments then advanced to the place of common muster. Defensive mobilisation was much faster. It involved concentrating the detachments within the region of competence of the individual administrative centres – which also served as refuges (hillforts as places of refuge). An analysis of the written reports testifies to a very well organised defence on the part of our ancestors, and to a mighty system of hillforts that was difficult to take in that period. Also characteristic was a waiting tactic, which counted on exhausting the enemy in protracted skirmishes and sieges, and on his retreat, during which he was often struck by a surprise blow combined with pursuit and a plundering counter-offensive.\n \n "
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
     "caption": "A member of the Great Moravian nobility on horseback",
     "alt": "A member of the Great Moravian nobility on horseback",
     "width": "50",
@@ -287,7 +273,7 @@
       "children": [
        {
         "type": "text",
-        "text": "On the practical use of fortifications in the 7th–8th centuries we have only a single written report, namely the record in the Chronicle of Fredegar about the famous Wogastisburg, which was inscribed in a notable way into the history of the Slavs and at which the Slavs under the leadership of Samo held out against the armies of the Frankish king Dagobert. In the period after Samo’s death and the presumed demise of his empire, however, the Frankish Empire most probably retained its interest in gaining control of the territory of Bohemia, Moravia and Slovakia. In this period the greater part of the territory of Slovakia and Moravia did not fall under the direct military influence of the Avar Khaganate, whose power gradually weakened in the course of the 8th century, and it may reasonably be assumed that in parallel the first nobility was forming and growing stronger, which subsequently played an important role in the building of the first hillforts in the territory of present-day Slovakia. \n \n"
+        "text": "The core of the Great Moravian armies was formed by the cavalry (some 5,000–8,000 men, while the number of infantry at maximum deployment – which was probably only exceptional – could perhaps reach as many as 20,000–25,000). Full „mobilisation“ in the early medieval conditions of information, organisation and communication must have taken a fairly long time – up to several weeks when an attack was being organised. The prince put his immediate retinue on combat alert, his messengers announced the „mobilisation order“, and the military levy of free men was then organised on the basis of instructions from the fortified centres. The detachments then advanced to the place of common muster. Defensive mobilisation was much faster. It involved concentrating the detachments within the region of competence of the individual administrative centres – which also served as refuges (hillforts as places of refuge). An analysis of the written reports testifies to a very well organised defence on the part of our ancestors, and to a mighty system of hillforts that was difficult to take in that period. Also characteristic was a waiting tactic, which counted on exhausting the enemy in protracted skirmishes and sieges, and on his retreat, during which he was often struck by a surprise blow combined with pursuit and a plundering counter-offensive.\n \n "
        }
       ]
      }
@@ -301,7 +287,7 @@
       "children": [
        {
         "type": "text",
-        "text": "It is beyond dispute that in the series of defensive wars which Great Moravia waged with the Frankish Empire from about 846 and with the Magyars after 892, fortified hillforts played a key role. The defensive strategy in the struggle with the armies of the East Frankish kings Louis the German and Arnulf took two basic forms. In the event of an attack by large forces drawn from a substantial part of the empire, the Moravians avoided a pitched battle and concentrated their armies, headed by the ruler, on the defence of a particular hillfort of central importance, towards which the main blow of the imperial corps was usually directed. At the same time a small-scale war was waged against the attacker. The defence of the key site was as a rule successful, which offset any partial setbacks and the devastation of the country. It is very likely that the reports for the years 855, 869 and 871 concern the same central fortified complex, whereas in 864 the hillfort that was attacked is most often identified with Devín. In these tactics one can discern elements similar to those already used by Samo more than 200 years earlier against Dagobert. In cases where the territory of Moravia was attacked by a smaller army from individual parts of the Frankish empire, the Moravian armies more often engaged in open battles (for example in 869, 871 and 872). Such a strategy, as Procházka notes, corresponded to the character of the fighting of the early medieval Czech and Polish states against the German empire in the 10th–12th centuries, from which we are moreover better informed both about encounters in the border zone making use of natural obstacles and about the taking of strongholds. \n \n "
+        "text": "On the practical use of fortifications in the 7th–8th centuries we have only a single written report, namely the record in the Chronicle of Fredegar about the famous Wogastisburg, which was inscribed in a notable way into the history of the Slavs and at which the Slavs under the leadership of Samo held out against the armies of the Frankish king Dagobert. In the period after Samo’s death and the presumed demise of his empire, however, the Frankish Empire most probably retained its interest in gaining control of the territory of Bohemia, Moravia and Slovakia. In this period the greater part of the territory of Slovakia and Moravia did not fall under the direct military influence of the Avar Khaganate, whose power gradually weakened in the course of the 8th century, and it may reasonably be assumed that in parallel the first nobility was forming and growing stronger, which subsequently played an important role in the building of the first hillforts in the territory of present-day Slovakia. \n \n"
        }
       ]
      }
@@ -319,6 +305,20 @@
     "shadow": true,
     "position": "left",
     "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "It is beyond dispute that in the series of defensive wars which Great Moravia waged with the Frankish Empire from about 846 and with the Magyars after 892, fortified hillforts played a key role. The defensive strategy in the struggle with the armies of the East Frankish kings Louis the German and Arnulf took two basic forms. In the event of an attack by large forces drawn from a substantial part of the empire, the Moravians avoided a pitched battle and concentrated their armies, headed by the ruler, on the defence of a particular hillfort of central importance, towards which the main blow of the imperial corps was usually directed. At the same time a small-scale war was waged against the attacker. The defence of the key site was as a rule successful, which offset any partial setbacks and the devastation of the country. It is very likely that the reports for the years 855, 869 and 871 concern the same central fortified complex, whereas in 864 the hillfort that was attacked is most often identified with Devín. In these tactics one can discern elements similar to those already used by Samo more than 200 years earlier against Dagobert. In cases where the territory of Moravia was attacked by a smaller army from individual parts of the Frankish empire, the Moravian armies more often engaged in open battles (for example in 869, 871 and 872). Such a strategy, as Procházka notes, corresponded to the character of the fighting of the early medieval Czech and Polish states against the German empire in the 10th–12th centuries, from which we are moreover better informed both about encounters in the border zone making use of natural obstacles and about the taking of strongholds. \n \n "
+       }
+      ]
+     }
+    ]
    },
    {
     "__component": "content.rich-text",
@@ -622,6 +622,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "An assault on the hillfort of Mecklenburg",
+    "alt": "An assault on the hillfort of Mecklenburg",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -634,19 +647,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "An assault on the hillfort of Mecklenburg",
-    "alt": "An assault on the hillfort of Mecklenburg",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.sources",

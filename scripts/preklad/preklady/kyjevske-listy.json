@@ -179,6 +179,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The Kiev Missal",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -191,19 +204,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "The Kiev Missal",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "center",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -250,6 +250,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The Kiev Missal",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -262,19 +275,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "The Kiev Missal",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -348,6 +348,21 @@
     ]
    },
    {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "heading",
+      "level": 2,
+      "children": [
+       {
+        "type": "text",
+        "text": "Story three: Demetrius"
+       }
+      ]
+     }
+    ]
+   },
+   {
     "__component": "content.image-block",
     "caption": "",
     "alt": "The Kiev Missal",
@@ -364,12 +379,11 @@
     "__component": "content.rich-text",
     "body": [
      {
-      "type": "heading",
-      "level": 2,
+      "type": "paragraph",
       "children": [
        {
         "type": "text",
-        "text": "Story three: Demetrius"
+        "text": "The unknown damaged Glagolitic manuscripts found in 1975 were photographed on Sinai in 2007 using the technology of the Austrian Academy of Sciences and were examined by the team of Heinz Miklas from the University of Vienna. A connection between the texts and the Kiev Missal emerged. The same hand wrote the opening page of the Kiev Missal as well as the Sinai manuscripts designated Sin. Slav. 3/N and Sin. Slav. 5/N. The same person also wrote in Cyrillic and in Greek in these documents. The codex Sin. Slav. 3/N gives the name Demetrius, and the manuscript was given the title Psalterium Demetrii Sinaitici. The opening page of the Kiev Missal, added later, thus acquired an author. Demetrius also wrote the codex designated Sin. Slav. 5/N, and it contains a prayer concerning Aligernus. If this is Aligernus, the abbot of Montecassino, he died in 986. Demetrius therefore could not have written the codex before that year. 4,5"
        }
       ]
      }
@@ -379,11 +393,13 @@
     "__component": "content.rich-text",
     "body": [
      {
-      "type": "paragraph",
+      "type": "heading",
+      "level": 2,
       "children": [
        {
         "type": "text",
-        "text": "The unknown damaged Glagolitic manuscripts found in 1975 were photographed on Sinai in 2007 using the technology of the Austrian Academy of Sciences and were examined by the team of Heinz Miklas from the University of Vienna. A connection between the texts and the Kiev Missal emerged. The same hand wrote the opening page of the Kiev Missal as well as the Sinai manuscripts designated Sin. Slav. 3/N and Sin. Slav. 5/N. The same person also wrote in Cyrillic and in Greek in these documents. The codex Sin. Slav. 3/N gives the name Demetrius, and the manuscript was given the title Psalterium Demetrii Sinaitici. The opening page of the Kiev Missal, added later, thus acquired an author. Demetrius also wrote the codex designated Sin. Slav. 5/N, and it contains a prayer concerning Aligernus. If this is Aligernus, the abbot of Montecassino, he died in 986. Demetrius therefore could not have written the codex before that year. 4,5"
+        "text": "Linguistics",
+        "bold": true
        }
       ]
      }
@@ -401,22 +417,6 @@
     "shadow": true,
     "position": "right",
     "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "heading",
-      "level": 2,
-      "children": [
-       {
-        "type": "text",
-        "text": "Linguistics",
-        "bold": true
-       }
-      ]
-     }
-    ]
    },
    {
     "__component": "content.rich-text",
@@ -761,6 +761,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The Kiev Missal",
+    "width": "40",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -787,19 +800,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "The Kiev Missal",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",

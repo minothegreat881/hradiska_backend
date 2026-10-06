@@ -88,6 +88,19 @@
   ],
   "blocks": [
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "A replica set of armament on grass: helmet, shield, swords in scabbards, axes, spears and a bow",
+    "width": "60",
+    "position": "right",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -141,15 +154,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "",
-    "alt": "Weapons of the Nitrans in the time of Great Moravia",
-    "width": "40",
+    "caption": "A magnate’s sword from Turčianska Blatnica",
+    "alt": "A magnate’s sword from Turčianska Blatnica",
+    "width": "60",
+    "position": "left",
     "aspectRatio": "auto",
     "objectPosition": "center center",
-    "showCaption": false,
+    "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "right",
     "pairWithNext": false
    },
    {
@@ -167,19 +180,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "A magnate’s sword from Turčianska Blatnica",
-    "alt": "A magnate’s sword from Turčianska Blatnica",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -194,6 +194,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zbrane Nitranov v časoch Veľkej Moravy",
+    "width": "100",
+    "position": "left",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -206,6 +219,19 @@
       ]
      }
     ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zbrane Nitranov v časoch Veľkej Moravy",
+    "width": "100",
+    "position": "center",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -225,13 +251,13 @@
     "__component": "content.image-block",
     "caption": "The hoard – the luxurious equipment of a magnate from Turčianska Blatnica",
     "alt": "The hoard – the luxurious equipment of a magnate from Turčianska Blatnica",
-    "width": "60",
+    "width": "100",
+    "position": "center",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "center",
     "pairWithNext": false
    },
    {
@@ -260,15 +286,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "",
-    "alt": "Weapons of the Nitrans in the time of Great Moravia",
-    "width": "60",
+    "caption": "A bearded axe from Diviacka Nová Ves",
+    "alt": "A bearded axe from Diviacka Nová Ves",
+    "width": "40",
+    "position": "right",
     "aspectRatio": "auto",
     "objectPosition": "center center",
-    "showCaption": false,
+    "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "left",
     "pairWithNext": false
    },
    {
@@ -301,15 +327,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "A bearded axe from Diviacka Nová Ves",
-    "alt": "A bearded axe from Diviacka Nová Ves",
-    "width": "40",
+    "caption": "",
+    "alt": "Zbrane Nitranov v časoch Veľkej Moravy",
+    "width": "50",
+    "position": "center",
     "aspectRatio": "auto",
     "objectPosition": "center center",
-    "showCaption": true,
+    "showCaption": false,
     "rounded": true,
     "shadow": true,
-    "position": "left",
     "pairWithNext": false
    },
    {
@@ -337,19 +363,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Weapons of the Nitrans in the time of Great Moravia",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "center",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -372,19 +385,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Weapons of the Nitrans in the time of Great Moravia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -411,6 +411,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Zbrane Nitranov v časoch Veľkej Moravy",
+    "width": "40",
+    "position": "right",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -426,15 +439,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "",
-    "alt": "Weapons of the Nitrans in the time of Great Moravia",
-    "width": "50",
+    "caption": "Fragments of a Great Moravian bow from Mikulčice",
+    "alt": "Fragments of a Great Moravian bow from Mikulčice",
+    "width": "100",
+    "position": "right",
     "aspectRatio": "auto",
     "objectPosition": "center center",
-    "showCaption": false,
+    "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "right",
     "pairWithNext": false
    },
    {
@@ -450,6 +463,19 @@
       ]
      }
     ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "A depiction of a Great Moravian archer on a disc mount from Mikulčice",
+    "alt": "A depiction of a Great Moravian archer on a disc mount from Mikulčice",
+    "width": "50",
+    "position": "left",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -481,130 +507,16 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "A depiction of a Great Moravian archer on a disc mount from Mikulčice",
-    "alt": "A depiction of a Great Moravian archer on a disc mount from Mikulčice",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.image-block",
     "caption": "",
-    "alt": "Weapons of the Nitrans in the time of Great Moravia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Weapons of the Nitrans in the time of Great Moravia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The source of the illustrations in this article is Ruttkay’s typology of weapons in Great Moravia "
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Fragments of a Great Moravian bow from Mikulčice",
-    "alt": "Fragments of a Great Moravian bow from Mikulčice",
+    "alt": "Zbrane Nitranov v časoch Veľkej Moravy",
     "width": "60",
+    "position": "center",
     "aspectRatio": "auto",
     "objectPosition": "center center",
-    "showCaption": true,
+    "showCaption": false,
     "rounded": true,
     "shadow": true,
-    "position": "right",
     "pairWithNext": false
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "References:",
-        "italic": true
-       },
-       {
-        "type": "text",
-        "text": " Beranová Magdalena: Slované (Prague 2000) Hanuliak Milan: Veľkomoravské pohrebiská (Nitra, 2004) Chropovský Bohuslav: Slované (Bratislava 1989) Košta, J.: Přehled vývoje mečů karolinského typu (2005) Ruttkay Alexander: Zbrane a výzbroj na Slovensku v 9. až polovici 14. stor. (1975–1976) Ruttkay Alexander: Umenie kované v zbraniach (1978) Ruttkay Alexander, Ruttkay Matej, Šalkovský Peter: Slovensko vo včasnom stredoveku (Nitra 2002) Journals: Slovenská archeológia "
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Authors: "
-       },
-       {
-        "type": "link",
-        "url": "http://gvozd.livinghistory.sk/",
-        "children": [
-         {
-          "type": "text",
-          "text": "Gvozd"
-         }
-        ]
-       },
-       {
-        "type": "text",
-        "text": ", editing: "
-       },
-       {
-        "type": "link",
-        "url": "http://livinghistory.sk/forum/profile.php?mode=viewprofile&u=39",
-        "children": [
-         {
-          "type": "text",
-          "text": "Müsha"
-         }
-        ]
-       },
-       {
-        "type": "text",
-        "text": ", taken over from this interesting website: http://livinghistory.sk/web.php?cl=zbrane_nitranov http://rodolesie.sk/index.php?option=com_content&task=view&id=57&Itemid=91 http://www.velkomoravane.eu/historie.php "
-       }
-      ]
-     }
-    ]
    },
    {
     "__component": "content.sources",

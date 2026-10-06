@@ -103,6 +103,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Map of Gaul at the time of the anti-Roman revolts, with the important hillforts marked",
+    "alt": "Map of Gaul at the time of the anti-Roman revolts, with the important hillforts marked",
+    "width": "50",
+    "position": "right",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -118,15 +131,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "Map of Gaul at the time of the anti-Roman revolts, with the important hillforts marked",
-    "alt": "Map of Gaul at the time of the anti-Roman revolts, with the important hillforts marked",
-    "width": "40",
+    "caption": "Around Alesia the Romans built two lines of siege works – an inner one against the defenders of Alesia and an outer one against Gallic relief from outside.",
+    "alt": "Around Alesia the Romans built two lines of siege works – an inner one against the defenders of Alesia and an outer one against Gallic relief from outside.",
+    "width": "50",
+    "position": "left",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "right",
     "pairWithNext": false
    },
    {
@@ -144,36 +157,10 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "Around Alesia the Romans built two lines of siege works – an inner one against the defenders of Alesia and an outer one against Gallic relief from outside.",
-    "alt": "Around Alesia the Romans built 2 lines of siege works – to hold off the enemy from Alesia and from outside",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.quote-block",
     "text": "At the common council (of the Gauls, who had earlier risen against Roman rule under the very able commander Vercingetorix – note by Orgoň) Avaricum too was discussed: whether they should set fire to it or defend it. The Bituriges threw themselves at the feet of all the Gauls present, begging them not to force them to burn with their own hands the most beautiful town of perhaps the whole of Gaul, which was both the protection and the ornament of their tribe. They said they would easily defend it because of its natural position, for it was surrounded by a river and a marsh and had only a single, very narrow approach. Their request was granted, although Vercingetorix was at first against it, but then agreed under the influence of their pleading and the sympathy of all those present. They chose defenders fit to defend the town.\n16/ Vercingetorix set off slowly after Caesar and chose for his camp a place protected by marshes and thickets, sixteen miles from Avaricum. There he had himself informed regularly by his trusted scouting patrols of everything that was being done at Avaricum, and accordingly gave orders as to what was to be done. He lay in wait for all our detachments that went out to gather fodder and grain, and when they had to go a good distance from the camp, he attacked them group by group and did them damage; although our men, as far as could be reckoned, guarded against this by not going out at the same time nor by the same road.\n \n ",
     "author": "Gaius Iulius Caesar",
     "source": "Commentaries on the Gallic War (De Bello Gallico), Book VII"
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "The defeated Vercingetorix comes before the victorious Caesar after the lost battle of Alesia",
-    "alt": "The defeated Vercingetorix comes before the victorious Caesar after the lost battle of Alesia",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.quote-block",
@@ -185,13 +172,13 @@
     "__component": "content.image-block",
     "caption": "The Roman siege of the oppidum of Burnswark in Britain",
     "alt": "The Roman siege of the oppidum of Burnswark in Britain",
-    "width": "40",
+    "width": "100",
+    "position": "left",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "left",
     "pairWithNext": false
    },
    {
@@ -202,15 +189,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "Gaius Iulius Caesar",
-    "alt": "Gaius Iulius Caesar",
-    "width": "40",
+    "caption": "The defeated Vercingetorix comes before the victorious Caesar after the lost battle of Alesia",
+    "alt": "The defeated Vercingetorix comes before the victorious Caesar after the lost battle of Alesia",
+    "width": "100",
+    "position": "right",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "right",
     "pairWithNext": false
    },
    {
@@ -222,14 +209,14 @@
    {
     "__component": "content.image-block",
     "caption": "",
-    "alt": "Gaius Iulius Caesar: the construction of Celtic hillforts and the capture of Avaricum",
-    "width": "50",
+    "alt": "Gaius Iulius Caesar: Konštrukcia keltských hradísk a dobývanie Avarica",
+    "width": "100",
+    "position": "right",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
     "rounded": true,
     "shadow": true,
-    "position": "right",
     "pairWithNext": false
    },
    {
@@ -240,15 +227,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "The construction of Celtic hillforts; number 4 is the “Avaricum” type",
-    "alt": "The construction of Celtic hillforts, number 4 is the \"Avaricum\" type",
-    "width": "40",
+    "caption": "Gaius Iulius Caesar",
+    "alt": "Gaius Iulius Caesar",
+    "width": "60",
+    "position": "center",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "right",
     "pairWithNext": false
    },
    {
