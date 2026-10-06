@@ -516,3 +516,16 @@ nedokončené vety, mŕtve odkazy a chýbajúce časti textu.
 
 **zvolen-motova-hradok-priekopa**
 : blok 1 uvádza šírku valu pri päte 14,5 m, blok 9 a keyFacts 18 m
+
+**hana-chorvatova-lunice**
+: pozn. 2 cituje „Hrubý 1955", pozn. 10 „Hrubý 1955a" (ten istý titul); pozn. 4 a 9 sú tá istá citácia Kiss 1983, 77–155 duplicitne; „v Dolných Věstoniciach" (česky Dolní Věstonice)
+
+**m-szoke-najnovsie-vyskumy**
+: pozn. 36 „Ausstel- lungsband" (rozlomené slovo zo sadzby), pozn. 37 „Arbreiter 1988" (= Arbeiter), pozn. 33 visiaci apostrof
+
+**p-schreiber-vcasnostredoveke-osidlenie**
+: pozn. 6 je redundantná („analogické strelky, ktoré majú svoje analógie")
+
+**povesti-viazane-k-poloham-hradiste-a-koscelisko**
+: pozn. [2] hovorí o „Jazerka", telo nazýva polohu „Jezero" a značku [2] v tele vôbec nemá
+
