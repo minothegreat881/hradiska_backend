@@ -570,3 +570,6 @@ nedokončené vety, mŕtve odkazy a chýbajúce časti textu.
 
 **informacne-tabule-prosne-zlaty-kon-a-uhliska**
 : časová os tvrdí, že tabule „financovala obec Udiča", telo hovorí len o prísľube starostu
+
+**turcianske-jaseno-hradiste** (časová os, položky 2 a 3)
+: v SLOVENSKEJ verzii je v poli roku značka z prípravy obsahu — „⚠ NEISTÝ" a „⚠ NEISTÝ (slovanské obdobie)". Zobrazuje sa na webe; anglický preklad ju verne prekladá („⚠ UNCERTAIN"). Opraviť treba slovenčinu, potom prepíše aj angličtinu.
