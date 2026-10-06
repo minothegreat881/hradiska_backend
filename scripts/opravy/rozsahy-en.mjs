@@ -24,10 +24,13 @@ const slugy = process.argv.slice(2).filter((a) => !a.startsWith('--'));
 
 /* číslo (aj poradové, aj s desatinnou časťou) – pomlčka v medzerách – číslo */
 const VZOR = /(\d+(?:[.,]\d+)?(?:st|nd|rd|th)?)[  ]+[–—-][  ]+(?=\d)/g;
+/* percento sa v angličtine píše bez medzery (§11e) */
+const VZOR_PERCENT = /(\d)[  ]+%/g;
 
 const uprav = (t) => {
   let pocet = 0;
-  const von = t.replace(VZOR, (_, cislo) => { pocet++; return `${cislo}–`; });
+  let von = t.replace(VZOR, (_, cislo) => { pocet++; return `${cislo}–`; });
+  von = von.replace(VZOR_PERCENT, (_, cislo) => { pocet++; return `${cislo}%`; });
   return { text: von, pocet };
 };
 
@@ -51,7 +54,7 @@ for (const slug of fronta) {
         const r = uprav(v);
         if (r.pocet) {
           if (ukazky.length < 3) {
-            const i = v.search(VZOR);
+            const i = Math.max(0, Math.min(...[v.search(VZOR), v.search(VZOR_PERCENT)].filter((x) => x >= 0)));
             ukazky.push(v.slice(Math.max(0, i - 25), i + 35).replace(/\s+/g, ' '));
           }
           n[k] = r.text;

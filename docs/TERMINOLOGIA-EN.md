@@ -1162,7 +1162,16 @@ Veci, pri ktorých sa dávky rozchádzali a ktoré sú odteraz rozhodnuté takto
 | **„pevnosť"** mimo rímskeho kontextu | **fortress**; `fort` ostáva pre rímske objekty a pre hrádok (*small fort / fortlet*) |
 | **mince veľkobystereckého typu** | **the Veľký Bysterec type** — nie moravská *Velká Bystřice* |
 | **župný hrad** (uhorské obdobie) | **comital castle** |
-| **číselné rozsahy** | bez medzier okolo spojovníka: *1000–700 BC*, *9th–11th century*, *0.3–0.8 m* |
+| **číselné rozsahy** | bez medzier okolo spojovníka: *1000–700 BC*, *9th–11th century*, *0.3–0.8 m*. Hromadne rieši `scripts/opravy/rozsahy-en.mjs` |
+| **percentá** | v anglickom texte **bez medzery**: *2%*, nie *2 %* (slovenská typografia medzeru vyžaduje, anglická nie) |
+| **anketa na webe** | **poll** — nie *survey*, to je v §10 vyhradené pre terénny prieskum |
+| **rolnička** | **rattle**; *pellet bell* v korpuse nepoužívať |
+| **vedma, žena-vedma** | **wise woman** |
+| **ženské spoločenstvá (Weiberbünde)** | **women's associations** |
+| **predná Ázia** | **Western Asia** — nie *the Near East* |
+| **výšinné sídlisko** | **hilltop settlement** — nie *upland settlement* |
+| **po rodičoch (zdedené, ostalo)** | **left behind by one's parents** — nie *after their parents* |
+| **mená autorov pod článkom a bibliografia** | do anglického tela sa NEPRIDÁVAJÚ, keď ich slovenčina ako blok nemá; bibliografia v bloku Zdrojov ostáva po slovensky |
 
 ---
 
