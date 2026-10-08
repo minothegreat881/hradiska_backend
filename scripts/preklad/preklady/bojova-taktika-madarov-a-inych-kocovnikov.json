@@ -210,6 +210,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "a Hungarian arrow quiver",
+    "alt": "a Hungarian arrow quiver",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -233,19 +246,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "a Hungarian arrow quiver",
-    "alt": "a Hungarian arrow quiver",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -260,33 +260,10 @@
     ]
    },
    {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "heading",
-      "level": 2,
-      "children": [
-       {
-        "type": "text",
-        "text": "Compiled by Orgoň from:"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "K. Meszterházy: Taktika Maďarov v čase ich príchodu do Karpatskej kotliny a ich zbrane so zvláštnym zreteľom na tulce (The tactics of the Hungarians at the time of their arrival in the Carpathian Basin and their weapons, with particular regard to quivers). Bitka pri Bratislave v roku 907 a jej význam pre vývoj stredného Podunajska (The Battle of Bratislava in 907 and its significance for the development of the Middle Danube region). SAHI, 2008"
-       }
-      ]
-     }
-    ]
+    "__component": "content.sources",
+    "title": "Sources and literature",
+    "intro": null,
+    "items": []
    }
   ]
  }

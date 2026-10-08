@@ -104,6 +104,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "A map from G. Fusek’s article (Historická revue 12/2016, p. 13)",
+    "alt": "A map from G. Fusek’s article (Historická revue 12/2016, p. 13)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -147,15 +160,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "A map from G. Fusek’s article (Historická revue 12/2016, p. 13)",
-    "alt": "A map from G. Fusek’s article (Historická revue 12/2016, p. 13)",
+    "caption": "Typical pottery of the Prague type (Institute of Archaeology of the Czech Academy of Sciences)",
+    "alt": "Typical pottery of the Prague type (Institute of Archaeology of the Czech Academy of Sciences)",
     "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "right",
+    "position": "left",
     "pairWithNext": false
    },
    {
@@ -181,19 +194,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Typical pottery of the Prague type (Institute of Archaeology of the Czech Academy of Sciences)",
-    "alt": "Typical pottery of the Prague type (Institute of Archaeology of the Czech Academy of Sciences)",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -251,12 +251,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.sources",
-    "title": "Sources and literature",
-    "intro": null,
-    "items": []
    }
   ]
  }

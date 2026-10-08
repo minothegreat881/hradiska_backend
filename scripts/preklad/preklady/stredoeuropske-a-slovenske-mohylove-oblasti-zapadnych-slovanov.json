@@ -151,6 +151,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -163,19 +176,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "center",
-    "pairWithNext": false
    },
    {
     "__component": "content.poem",
@@ -199,6 +199,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "A solitary barrow at Visolaje. It too fell victim to looters…",
+    "alt": "A solitary barrow at Visolaje. It too fell victim to looters…",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -211,19 +224,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "A solitary barrow at Visolaje. It too fell victim to looters…",
-    "alt": "A solitary barrow at Visolaje. It too fell victim to looters…",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -242,6 +242,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -254,19 +267,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -285,6 +285,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "There stands, there stands a barrow …",
+    "alt": "There stands, there stands a barrow …",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -297,19 +310,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "There stands, there stands a barrow …",
-    "alt": "There stands, there stands a barrow …",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -404,7 +404,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "60",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -540,6 +540,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -585,19 +598,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -700,6 +700,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -712,19 +725,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -771,6 +771,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -783,19 +796,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -845,7 +845,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -872,7 +872,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
+    "width": "50",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -913,7 +913,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -953,6 +953,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -976,7 +989,7 @@
     "showCaption": false,
     "rounded": true,
     "shadow": true,
-    "position": "left",
+    "position": "right",
     "pairWithNext": false
    },
    {
@@ -992,19 +1005,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -1040,7 +1040,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -1138,7 +1138,7 @@
     "__component": "content.image-block",
     "caption": "A long barrow",
     "alt": "A long barrow",
-    "width": "60",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -1180,7 +1180,7 @@
     "__component": "content.image-block",
     "caption": "Two barrows from the Váh region",
     "alt": "Two barrows from the Váh region",
-    "width": "50",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -1222,7 +1222,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
+    "width": "50",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -1264,7 +1264,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -1306,7 +1306,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -1345,6 +1345,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Looted barrows in the north-western Váh region. They are a sad sight.",
+    "alt": "Looted barrows in the north-western Váh region. They are a sad sight.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -1357,19 +1370,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Looted barrows in the north-western Váh region. They are a sad sight.",
-    "alt": "Looted barrows in the north-western Váh region. They are a sad sight.",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -1441,13 +1441,13 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
     "rounded": true,
     "shadow": true,
-    "position": "left",
+    "position": "right",
     "pairWithNext": false
    },
    {
@@ -1494,19 +1494,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "Barrows. By Alnoth",
-    "alt": "Barrows. By Alnoth",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -1521,6 +1508,19 @@
       ]
      }
     ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Barrows. By Alnoth",
+    "alt": "Barrows. By Alnoth",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -1540,7 +1540,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -1562,58 +1562,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "One of Š. Meliš’s sketch maps of the barrow cemeteries",
-    "alt": "One of Š. Meliš’s sketch maps of the barrow cemeteries",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Barrow regions of the West Slavs in Central Europe and Slovakia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.sources",

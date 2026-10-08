@@ -83,19 +83,6 @@
     "source": "information leaflet: Raně středověké hroby vampírů z Modré u Velehradu"
    },
    {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Vampires in Great Moravia",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.quote-block",
     "text": "Grave 1 / 2010\n\nThe grave was discovered in April 2010 in a trench dug for the laying of a low-voltage cable. Below the ground surface a conspicuous cluster of large sandstone blocks of irregular shape was first discovered. After the cluster of stones had been partly dismantled, it became apparent that for the most part they covered a grave pit. In it, in an extended position, lay the incomplete and poorly preserved skeleton of a juvenile individual. Only the long bones of the lower limbs and the skull survived in relatively good condition. The frontal bone of the skull of the buried individual had been pierced by a large angular stone, which was still contained in it at the time the grave was uncovered. According to the anthropologist Jana Langová of the Museum of South-East Moravia in Zlín, the skeleton in the grave belonged to a child who died at the age of 8-9 (age category Infans II). The injury to the skull, caused by a blow with a large stone, corresponds to a post-mortem intervention. Otherwise no further traces of violent intervention, injuries or pathological manifestations or changes were found on the bones. Beneath the skull a typical Great Moravian bronze earring was discovered, originally perhaps with a single basket pendant. The grave was probably planned from the very outset with the purpose that a \"dangerous\" individual would be laid in it.\n\nData on the age of the graves\n\nBoth graves can be dated at the earliest to the Early Middle Ages, that is, to the time of Great Moravia or to the period immediately following it, i.e. to the 9th and the first half of the 10th century. Let us add that the dating of the graves to the 9th and the first half of the 10th century is contradicted neither by the orientation of the grave pits, or rather the position of the deceased, which with slight deviations follows a W–E direction, nor by the find of the typical bronze earring.\n\nInterpretation\n\nAs we have already indicated, graves 1 / 2002 and 1 / 2010 in no way fit, by their character, into the framework of ordinary burial in the Early Middle Ages. This is chiefly because the skeletal remains of the two small children buried in them bear clear traces of violent intervention on the part of the survivors. On the basis of the interventions described, the children buried in both graves may be regarded as \"vampires\". From the point of view of early medieval people, and indeed from that of people today, these were representatives of the most dangerous form of revenant, that is, a buried individual with the possibility of returning to the world of the living, who was credited with the ability to rise at night and go to suck the blood of people and animals alike, and further to cause various epidemics and many other calamities.\n\nConclusion\n\nGraves 1 / 2002 and 1 / 2010 from Modrá near Velehrad substantially add to our insights into the burial rite of the early Slavs in the Early Middle Ages. Both were evidently buried in the period of the final existence of the Great Moravian state or in the time immediately following, that is, between the close of the 9th century and the middle of the 10th. There is no doubt that the belief in vampires is as old as humanity itself. It was a belief deeply rooted among people for ages, one whose associated practices, sometimes of a very harsh and even morbid character, were not restricted, let alone halted, even by the Catholic Church. In some parts of the world these practices are applied to this day.",
     "author": "Luděk Galuška, Miroslav Vaškových",
@@ -155,6 +142,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Vampires in Great Moravia",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -190,12 +190,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.sources",
-    "title": "Sources and literature",
-    "intro": null,
-    "items": []
    }
   ]
  }

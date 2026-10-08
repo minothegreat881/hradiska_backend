@@ -133,6 +133,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Mysterious signs carved into rocks in the Váh region",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -145,19 +158,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Mysterious signs carved into rocks in the Váh region",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -397,20 +397,6 @@
     ]
    },
    {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "This year (2013) the archaeologist Peter Schreiber attempted an interpretation of the signs on Orgoňova Kýčera; in an article for the website of the village of Horná Mariková he states that „the slopes of Orgoňova Kýčera were in the past more deforested than they are today, which depended on human occupation. The hills therefore offered a good view over the wide surroundings of the Mariková and Papradno valleys, as well as views out into the Váh region. Purely theoretically, the signs carved into the rock on Orgoňova Kýčera could thus represent a kind of „map“ or „schematic plan“. The signs themselves consist of zigzag lines, small crosses, circles and semicircles. In the middle there is a zigzag line with four peaks. It could indicate the ridge of Kýčera together with the summits and spot heights of the surrounding hills: Suchovrch (774.9 m a.s.l.), Vrchoňa (883.0 m a.s.l.) and the unnamed spot height of 936.7 m a.s.l. east of Orgoňova Kýčera. The other carved signs, which are to the left and right of the zigzag line, could thus represent the hamlets in the wider surroundings of Kýčera. The signs could, however, have had a different function as well, as boundary marks defining the border between the Mariková and the Papradno valleys.“ At the same time he points out that this is only one of several possible interpretations, and that it cannot be ruled out that the signs are older than the 18th century mentioned. In this he refers to the attested occupation of Mariková in the Early Iron Age, the Roman period and the Middle Ages.  "
-       }
-      ]
-     }
-    ]
-   },
-   {
     "__component": "content.image-block",
     "caption": "Antonín Lacko drew this impression of Old Orgoň on Kýčera for us. Many thanks to him!",
     "alt": "Antonín Lacko drew this impression of Old Orgoň on Kýčera for us. Many thanks to him!",
@@ -424,10 +410,18 @@
     "pairWithNext": false
    },
    {
-    "__component": "content.sources",
-    "title": "Sources and literature",
-    "intro": null,
-    "items": []
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "This year (2013) the archaeologist Peter Schreiber attempted an interpretation of the signs on Orgoňova Kýčera; in an article for the website of the village of Horná Mariková he states that „the slopes of Orgoňova Kýčera were in the past more deforested than they are today, which depended on human occupation. The hills therefore offered a good view over the wide surroundings of the Mariková and Papradno valleys, as well as views out into the Váh region. Purely theoretically, the signs carved into the rock on Orgoňova Kýčera could thus represent a kind of „map“ or „schematic plan“. The signs themselves consist of zigzag lines, small crosses, circles and semicircles. In the middle there is a zigzag line with four peaks. It could indicate the ridge of Kýčera together with the summits and spot heights of the surrounding hills: Suchovrch (774.9 m a.s.l.), Vrchoňa (883.0 m a.s.l.) and the unnamed spot height of 936.7 m a.s.l. east of Orgoňova Kýčera. The other carved signs, which are to the left and right of the zigzag line, could thus represent the hamlets in the wider surroundings of Kýčera. The signs could, however, have had a different function as well, as boundary marks defining the border between the Mariková and the Papradno valleys.“ At the same time he points out that this is only one of several possible interpretations, and that it cannot be ruled out that the signs are older than the 18th century mentioned. In this he refers to the attested occupation of Mariková in the Early Iron Age, the Roman period and the Middle Ages.  "
+       }
+      ]
+     }
+    ]
    }
   ]
  }

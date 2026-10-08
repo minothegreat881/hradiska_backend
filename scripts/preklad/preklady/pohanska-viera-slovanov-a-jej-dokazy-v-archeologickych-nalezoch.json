@@ -166,6 +166,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Most pri Bratislave",
+    "alt": "Most pri Bratislave",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -194,19 +207,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "Most pri Bratislave",
-    "alt": "Most pri Bratislave",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -230,7 +230,7 @@
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "right",
+    "position": "left",
     "pairWithNext": false
    },
    {
@@ -283,7 +283,7 @@
     "__component": "content.image-block",
     "caption": "The Zbruch idol",
     "alt": "The Zbruch idol",
-    "width": "40",
+    "width": "30",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -321,6 +321,20 @@
     ]
    },
    {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "A valuable archaeological contribution to the discussion of Slavic paganism is also the find of a two-headed idol at a settlement of the 11th–12th centuries on Fischerinsel near Neubrandenburg. It bears witness to the cult of a twin deity, which also played an important role in other Indo-European religious systems, for example among the Indians, the Iranians, the Hittites, the Greeks (Kastor and Polydeukes) and the Romans (Castor and Pollux). For the Slavs it is not attested in any of the older sources. We may therefore regard the existence of the Twins among the Slavs as demonstrated, but their name is uncertain. Nor do the other finds of wooden idols (Braak, Behren - Lubchin, Jankowo) permit identification with known deities."
+       }
+      ]
+     }
+    ]
+   },
+   {
     "__component": "content.image-block",
     "caption": "",
     "alt": "The pagan faith of the Slavs and its evidence in archaeological finds",
@@ -341,20 +355,6 @@
       "children": [
        {
         "type": "text",
-        "text": "A valuable archaeological contribution to the discussion of Slavic paganism is also the find of a two-headed idol at a settlement of the 11th–12th centuries on Fischerinsel near Neubrandenburg. It bears witness to the cult of a twin deity, which also played an important role in other Indo-European religious systems, for example among the Indians, the Iranians, the Hittites, the Greeks (Kastor and Polydeukes) and the Romans (Castor and Pollux). For the Slavs it is not attested in any of the older sources. We may therefore regard the existence of the Twins among the Slavs as demonstrated, but their name is uncertain. Nor do the other finds of wooden idols (Braak, Behren - Lubchin, Jankowo) permit identification with known deities."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
         "text": "Figurines",
         "bold": true
        },
@@ -365,19 +365,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "The pagan faith of the Slavs and its evidence in archaeological finds",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -402,13 +389,13 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "The pagan faith of the Slavs and its evidence in archaeological finds",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
     "rounded": true,
     "shadow": true,
-    "position": "right",
+    "position": "center",
     "pairWithNext": false
    },
    {
@@ -424,19 +411,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "The pagan faith of the Slavs and its evidence in archaeological finds",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -469,9 +443,9 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "Animal figurines from Mikulčice",
-    "alt": "Animal figurines from Mikulčice",
-    "width": "60",
+    "caption": "",
+    "alt": "The pagan faith of the Slavs and its evidence in archaeological finds",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -525,9 +499,9 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "Galuška: Slované, doteky předkú",
-    "alt": "Galuška: Slované, doteky předkú",
-    "width": "50",
+    "caption": "",
+    "alt": "The pagan faith of the Slavs and its evidence in archaeological finds",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -552,15 +526,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "An urn with human remains - the cremation rite",
-    "alt": "An urn with human remains - the cremation rite",
-    "width": "60",
+    "caption": "Animal figurines from Mikulčice",
+    "alt": "Animal figurines from Mikulčice",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "left",
+    "position": "center",
     "pairWithNext": false
    },
    {
@@ -593,23 +567,9 @@
     ]
    },
    {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "A separate group of magical motifs is formed by ideograms, graphic symbols: the circle, the cross, the swastika, the svarga, the triquetra, the bicycle, the rosette, lunulae, the pentagram, the hexagram, the hand and their variants. They appear on vessels, jewellery, weapons, tools, stones and other objects with a quite obvious magical function, protective and creative. They are widespread across all continents, in some cases as early as the Palaeolithic, without cultural, ethnic or chronological boundaries, as a kind of ancient world script which, in its multiplicity of meanings, was understood without words. They expressed the experience of the forces of nature and at the same time the idea that these forces act through their symbol as well, which was their concentration: an ideogram placed on the base of a vessel protected the food and multiplied it; on a sword or an axe it gave the warrior greater strength; on spindle whorls, a firm thread; on pendants, finger rings or a bracelet it protected the owner against evil forces, and so on.\n \n "
-       }
-      ]
-     }
-    ]
-   },
-   {
     "__component": "content.image-block",
-    "caption": "Pagan symbolism in folk woodcarving survived into the 20th century",
-    "alt": "Pagan symbolism in folk woodcarving survived into the 20th century",
+    "caption": "Galuška: Slované, doteky předkú",
+    "alt": "Galuška: Slované, doteky předkú",
     "width": "40",
     "aspectRatio": "auto",
     "objectPosition": "center center",
@@ -627,7 +587,7 @@
       "children": [
        {
         "type": "text",
-        "text": "That is also why these ideograms survived in Christian culture too, which often gave them merely a different meaning, as in the case of the cross, and we encounter them in folk culture as well, often right up to the present day: on folk costumes, embroidery, painted Easter eggs, jewellery, furniture, chests, lamps, sledges, wagons, beams, and the windows and doors of dwellings, in potters’ and masons’ marks and the like. "
+        "text": "A separate group of magical motifs is formed by ideograms, graphic symbols: the circle, the cross, the swastika, the svarga, the triquetra, the bicycle, the rosette, lunulae, the pentagram, the hexagram, the hand and their variants. They appear on vessels, jewellery, weapons, tools, stones and other objects with a quite obvious magical function, protective and creative. They are widespread across all continents, in some cases as early as the Palaeolithic, without cultural, ethnic or chronological boundaries, as a kind of ancient world script which, in its multiplicity of meanings, was understood without words. They expressed the experience of the forces of nature and at the same time the idea that these forces act through their symbol as well, which was their concentration: an ideogram placed on the base of a vessel protected the food and multiplied it; on a sword or an axe it gave the warrior greater strength; on spindle whorls, a firm thread; on pendants, finger rings or a bracelet it protected the owner against evil forces, and so on.\n \n "
        }
       ]
      }
@@ -637,14 +597,13 @@
     "__component": "content.rich-text",
     "body": [
      {
-      "type": "heading",
+      "type": "paragraph",
       "children": [
        {
         "type": "text",
-        "text": "Orgoň"
+        "text": "That is also why these ideograms survived in Christian culture too, which often gave them merely a different meaning, as in the case of the cross, and we encounter them in folk culture as well, often right up to the present day: on folk costumes, embroidery, painted Easter eggs, jewellery, furniture, chests, lamps, sledges, wagons, beams, and the windows and doors of dwellings, in potters’ and masons’ marks and the like. "
        }
-      ],
-      "level": 2
+      ]
      }
     ]
    },

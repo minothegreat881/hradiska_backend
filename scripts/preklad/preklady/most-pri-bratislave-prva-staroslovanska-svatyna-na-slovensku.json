@@ -147,13 +147,6 @@
     "caption": ""
    },
    {
-    "__component": "content.embed",
-    "provider": "youtube",
-    "embedId": "v6pIyCJeN6I",
-    "url": "https://www.youtube.com/embed/v6pIyCJeN6I",
-    "caption": ""
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -166,6 +159,13 @@
       ]
      }
     ]
+   },
+   {
+    "__component": "content.embed",
+    "provider": "youtube",
+    "embedId": "v6pIyCJeN6I",
+    "url": "https://www.youtube.com/embed/v6pIyCJeN6I",
+    "caption": ""
    },
    {
     "__component": "content.rich-text",
@@ -209,19 +209,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "Inside the sanctuary (author: Haden Sutton)",
-    "alt": "Inside the sanctuary (author: Haden Sutton)",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -235,6 +222,19 @@
       ]
      }
     ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "Inside the sanctuary (author: Haden Sutton)",
+    "alt": "Inside the sanctuary (author: Haden Sutton)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -426,13 +426,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.embed",
-    "provider": "youtube",
-    "embedId": "FkBjNWg4q1A",
-    "url": "https://www.youtube.com/embed/FkBjNWg4q1A",
-    "caption": "Kupala – a celebration of the summer solstice."
    },
    {
     "__component": "content.rich-text",
