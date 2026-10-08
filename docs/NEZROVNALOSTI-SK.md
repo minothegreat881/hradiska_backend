@@ -573,3 +573,6 @@ nedokončené vety, mŕtve odkazy a chýbajúce časti textu.
 
 **turcianske-jaseno-hradiste** (časová os, položky 2 a 3)
 : v SLOVENSKEJ verzii je v poli roku značka z prípravy obsahu — „⚠ NEISTÝ" a „⚠ NEISTÝ (slovanské obdobie)". Zobrazuje sa na webe; anglický preklad ju verne prekladá („⚠ UNCERTAIN"). Opraviť treba slovenčinu, potom prepíše aj angličtinu.
+
+**liptovsky-hrad**
+: odkaz v tele vedie na `http://hradiskami.sk/` — tá doména neexistuje (nepripojí sa). Správne je `hradiska.sk`; v angličtine opravené, v slovenčine ostáva.
