@@ -37,17 +37,17 @@ const PRAVIDLA = [
      „Archeologické rozhledy" v bibliografii sú správne tak, ako sú. */
   { id: 'archeologist', vzor: /archeolog(y|ist|ists|ical|ically)/gi, tvrde: true, spravne: 'archaeolog…' },
   { id: 'our-territory', vzor: /\bour (territory|land|country)\b/gi, tvrde: true, spravne: 'the territory of present-day Slovakia' },
-  { id: 'slovenes', vzor: /\bSlovenes?\b/g, tvrde: true, spravne: 'the Slavs / the Moravians' },
+  { id: 'slovenes', vzor: /\bSlovenes?\b/g, tvrde: false, spravne: 'Sloveni = the Slavs; Slovinci = Slovenes je správne' },
   { id: 'tatar', vzor: /\bTatar invasion\b/gi, tvrde: true, spravne: 'the Mongol invasion' },
-  { id: 'findings', vzor: /\bfindings?\b/gi, tvrde: true, spravne: 'find / finds / insights' },
-  { id: 'settling', vzor: /\bsettling\b/gi, tvrde: true, spravne: 'occupation' },
-  { id: 'mother-of-pearl', vzor: /\bmother-of-pearl\b/gi, tvrde: true, spravne: 'beaded' },
-  { id: 'blockade', vzor: /\bblockade\b/gi, tvrde: true, spravne: 'blocking work' },
+  { id: 'findings', vzor: /\bfindings\b/g, tvrde: true, spravne: 'find / finds / insights' },  // gerundium „on finding…" je v poriadku
+  { id: 'settling', vzor: /\b(the settling|settling of the)\b/gi, tvrde: true, spravne: 'occupation' },  // sloveso „settling there" je správne
+  { id: 'mother-of-pearl', vzor: /\bmother-of-pearl\b/gi, tvrde: false, spravne: 'perlovaný = beaded; perleťový = mother-of-pearl je OK' },
+  { id: 'blockade', vzor: /\bblockade\b/gi, tvrde: false, spravne: 'Janšákova blokáda = blocking work; obliehacia taktika = blockade je OK' },
   { id: 'axe-with-wings', vzor: /\baxe with wings\b/gi, tvrde: true, spravne: 'winged axe' },
   { id: 'housing-estate', vzor: /\bhousing estate\b/gi, tvrde: true, spravne: 'settlement' },
 
   /* Veľké písmená a ustálené tvary */
-  { id: 'Early-Medieval-adj', vzor: /\bEarly Medieval\b/g, tvrde: true, spravne: 'early medieval (malým)' },
+  { id: 'Early-Medieval-adj', vzor: /\bEarly Medieval\b/g, tvrde: false, spravne: 'early medieval (malým); v preklade názvu diela je veľké OK' },
   { id: 'Great-Moravian-Empire', vzor: /\bGreat Moravian Empire\b/gi, tvrde: true, spravne: 'Great Moravia' },
   { id: 'middle-danube', vzor: /\bmiddle Danube\b/g, tvrde: true, spravne: 'the Middle Danube region' },
   { id: 'la-tene', vzor: /\bLatene\b|\bLa Tene\b/g, tvrde: true, spravne: 'La Tène' },
