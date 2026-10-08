@@ -160,7 +160,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Warfare in Great Moravia and the defence tactics of its hillforts",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -215,7 +215,7 @@
     "__component": "content.image-block",
     "caption": "Our warriors – a horseman and a foot soldier",
     "alt": "Our warriors – a horseman and a foot soldier",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -297,7 +297,7 @@
     "__component": "content.image-block",
     "caption": "A Frankish horseman in the 9th century",
     "alt": "A Frankish horseman in the 9th century",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -338,7 +338,7 @@
     "__component": "content.image-block",
     "caption": "A depiction of a battle from a 9th-century chronicle",
     "alt": "A depiction of a battle from a 9th-century chronicle",
-    "width": "50",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -394,7 +394,7 @@
     "__component": "content.image-block",
     "caption": "the Great Moravian hillfort of Gars-Thunau in Lower Austria had a box rampart and a stone front facing",
     "alt": "the Great Moravian hillfort of Gars-Thunau in Lower Austria had a box rampart and a stone front facing",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -411,7 +411,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Nevertheless, the possibility of the attacker mechanically breaching the rampart was evidently taken into account. Procházka regards this as one of the reasons why shell-construction and other ramparts usually reach a width of more than four metres. This applies to box constructions as well, especially where several rows of log chambers were involved – to make a breach here, several walls one behind another had to be broken through. A height difference of about four metres above a ditch that might already have been filled in was not, however, insurmountable for the enemy, especially if the timber superstructure of the rampart had already been damaged. If the first attackers had already penetrated to the crown of the rampart, a wall-walk several metres wide made it possible to concentrate enough defenders at the threatened point and to gain local numerical superiority in close combat. That is perhaps the second reason why shell-construction and box ramparts were built wider in comparison with the later, but higher and more resistant walls of stone and mortar. In the case of a sloping grillage construction and a simple earthen bank, a further structural and technical constraint is added – the height and width of the wall-walk are directly proportional to the width of the base. We see, then, that timber-and-earth ramparts, in the form in which we can reconstruct them on the basis of the excavated evidence, were a compromise between structural and technical requirements, especially as regards stability, and the needs of defence. Their great weakness was evidently in most cases the timber superstructures (breastworks). Despite that, the Great Moravian fortresses were an insurmountable obstacle for Frankish armies, which did not yet use war machines, as several contemporary sources testify (for example about Rastislav’s immense hillfort).\n \n "
+        "text": "Nevertheless, the possibility of the attacker mechanically breaching the rampart was evidently taken into account. Procházka regards this as one of the reasons why shell-construction and other ramparts usually reach a width of more than four metres. This applies to box constructions as well, especially where several rows of log chambers were involved – to make a breach here, several walls one behind another had to be broken through. A height difference of about four metres above a ditch that might already have been filled in was not, however, insurmountable for the enemy, especially if the timber superstructure of the rampart had already been damaged. If the first attackers had already penetrated to the crest of the rampart, a wall-walk several metres wide made it possible to concentrate enough defenders at the threatened point and to gain local numerical superiority in close combat. That is perhaps the second reason why shell-construction and box ramparts were built wider in comparison with the later, but higher and more resistant walls of stone and mortar. In the case of a sloping grillage construction and a simple earthen bank, a further structural and technical constraint is added – the height and width of the wall-walk are directly proportional to the width of the base. We see, then, that timber-and-earth ramparts, in the form in which we can reconstruct them on the basis of the excavated evidence, were a compromise between structural and technical requirements, especially as regards stability, and the needs of defence. Their great weakness was evidently in most cases the timber superstructures (breastworks). Despite that, the Great Moravian fortresses were an insurmountable obstacle for Frankish armies, which did not yet use war machines, as several contemporary sources testify (for example about Rastislav’s immense hillfort).\n \n "
        }
       ]
      }
@@ -421,7 +421,7 @@
     "__component": "content.image-block",
     "caption": "An assault on the hillfort of Behren-Lubchin (Germany)",
     "alt": "An assault on the hillfort of Behren-Lubchin (Germany)",
-    "width": "40",
+    "width": "50",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -462,7 +462,7 @@
     "__component": "content.image-block",
     "caption": "The hillfort of Chotěbuz in northern Moravia",
     "alt": "The hillfort of Chotěbuz in northern Moravia",
-    "width": "50",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -503,7 +503,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "Warfare in Great Moravia and the defence tactics of its hillforts",
-    "width": "40",
+    "width": "50",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -631,7 +631,7 @@
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "right",
+    "position": "left",
     "pairWithNext": false
    },
    {

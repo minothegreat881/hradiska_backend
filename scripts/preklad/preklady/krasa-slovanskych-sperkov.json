@@ -14,7 +14,7 @@
    },
    {
     "label": "Period",
-    "value": "Great Moravia (9th – 10th centuries)",
+    "value": "Great Moravia (9th–10th centuries)",
     "icon": "calendar"
    },
    {
@@ -30,7 +30,7 @@
   ],
   "timeline": [
    {
-    "year": "9th – 10th century",
+    "year": "9th–10th century",
     "title": "The period of Great Moravia",
     "description": "The great majority of the jewellery described belongs to this period; it was worn by various social classes – from the common people to the most prominent magnates.",
     "type": "event"
@@ -82,7 +82,7 @@
     "showCaption": false,
     "rounded": true,
     "shadow": true,
-    "position": "center",
+    "position": "left",
     "pairWithNext": false
    },
    {
@@ -211,7 +211,7 @@
     "showCaption": false,
     "rounded": true,
     "shadow": true,
-    "position": "left",
+    "position": "right",
     "pairWithNext": false
    },
    {
@@ -305,7 +305,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "The beauty of Slavic jewellery",
-    "width": "50",
+    "width": "40",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -498,7 +498,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "The beauty of Slavic jewellery",
-    "width": "40",
+    "width": "50",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,

@@ -153,6 +153,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "An artist's impression of the appearance of the hillfort (the Lusatian culture). Author: Naj",
+    "alt": "An artist's impression of the appearance of the hillfort (the Lusatian culture). Author: Naj",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -193,15 +206,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "An artist's impression of the appearance of the hillfort (the Lusatian culture). Author: Naj",
-    "alt": "An artist's impression of the appearance of the hillfort (the Lusatian culture). Author: Naj",
-    "width": "50",
+    "caption": "An amphora, the Lusatian culture, the Final Bronze Age",
+    "alt": "An amphora, the Lusatian culture, the Final Bronze Age",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "right",
+    "position": "left",
     "pairWithNext": false
    },
    {
@@ -217,19 +230,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "An amphora, the Lusatian culture, the Final Bronze Age",
-    "alt": "An amphora, the Lusatian culture, the Final Bronze Age",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.sources",

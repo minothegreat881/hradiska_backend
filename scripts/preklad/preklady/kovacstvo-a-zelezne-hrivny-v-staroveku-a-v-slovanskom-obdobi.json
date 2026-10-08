@@ -36,7 +36,7 @@
     "type": "event"
    },
    {
-    "year": "3rd – 2nd millennium BC",
+    "year": "3rd–2nd millennium BC",
     "title": "The first iron-smelting furnaces",
     "description": "The first iron-smelting furnaces begin to operate in the Near East and in Anatolia, aimed above all at weapons and objects of exceptional importance.",
     "type": "event"
@@ -60,7 +60,7 @@
     "type": "event"
    },
    {
-    "year": "9th – 10th century",
+    "year": "9th–10th century",
     "title": "Axe-shaped bars as currency",
     "description": "Axe-shaped currency bars are used as a generally accepted currency in the territory of Slovakia, Bohemia and Moravia – the direct forerunner of money.",
     "type": "event"
@@ -95,6 +95,19 @@
    }
   ],
   "blocks": [
+   {
+    "__component": "content.image-block",
+    "caption": "Types of bar: 1,2 – currency bar, 3,4 – double-pointed bars, 5,6 – blooms",
+    "alt": "Types of bar: 1,2 – currency bar, 3,4 – double-pointed bars, 5,6 – blooms",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
    {
     "__component": "content.rich-text",
     "body": [
@@ -133,19 +146,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "Types of bar: 1,2 – currency bar, 3,4 – double-pointed bars, 5,6 – blooms",
-    "alt": "Types of bar: 1,2 – currency bar, 3,4 – double-pointed bars, 5,6 – blooms",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -176,6 +176,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Loaf-shaped blooms",
+    "alt": "Loaf-shaped blooms",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -188,19 +201,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Loaf-shaped blooms",
-    "alt": "Loaf-shaped blooms",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -309,7 +309,7 @@
     "__component": "content.image-block",
     "caption": "Axe-shaped currency bars from the time of Great Moravia",
     "alt": "Axe-shaped currency bars from the time of Great Moravia",
-    "width": "60",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -419,6 +419,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Axe-shaped currency bars from Pobedim (9th century)",
+    "alt": "Axe-shaped currency bars from Pobedim (9th century)",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -440,19 +453,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Axe-shaped currency bars from Pobedim (9th century)",
-    "alt": "Axe-shaped currency bars from Pobedim (9th century)",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",

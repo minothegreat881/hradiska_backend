@@ -63,6 +63,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Štefan Janšák: Impregnable Hillforts",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.quote-block",
     "text": "We are as superstitious as the farmers and shepherds, who see upon how many chances the success of their labour depends, and as the commanders and warriors whose all but accomplished success is spoilt by a chance wind, rain or a harsh sun. We are not ashamed of our superstition. Why, even Napoleon had his palm read, and the foremost statesmen of Rome judged the outcome of their undertakings by the colouring of the entrails of sacrificial animals. They suffered from superstition because they had to protect themselves before the public in the event of failure. And we suffer from it so that failure in the search for hillforts should not deter us.",
     "author": "Štefan Janšák",
@@ -85,19 +98,6 @@
     "text": "We are on our first spring excursion and so we spare neither lungs, breath nor legs. We stride towards the steepest hill, to all appearances lightly and without effort. Only when trickles of sweat flood our eyes and glue our clothes to our bodies do we come to our senses and put a little prudence into our outing. But it is already too late. Excessive zeal has drenched us in a sweat that has had no time to dry even in the spring sun. The low bushes, full of dew, saw to that, emptying their still undried waterfalls down our breasts at every step. Their roguery is abetted by waist-high grass and by the forest undergrowth of broad-leaved plants, every one of which has poured out its hidden stores upon us, soaking clothing and footwear to the skin. Such a bath in warm air and beautiful sunshine is not unpleasant even when it turns out that „Turecká“ conceals nothing beneath its mysterious name. But at least we are standing on an eminence which allows us to perform the task of the cockerel in the fairy tale who flew up into a tree. Barely two kilometres away, yet separated from us by a system of deep and densely overgrown gullies, a genuinely new hill beckons to us. Perhaps that will be the longed-for ideal! Without hesitation, almost without reflection, we set off in a straight line.",
     "author": "Štefan Janšák",
     "source": "Lovci hlinených perál (1934)"
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Štefan Janšák: Impregnable Hillforts",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.quote-block",

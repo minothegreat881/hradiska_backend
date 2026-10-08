@@ -72,7 +72,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "A Frankish attack on a hillfort",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -96,6 +96,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "A Frankish attack on a hillfort",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -108,19 +121,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "A Frankish attack on a hillfort",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.sources",

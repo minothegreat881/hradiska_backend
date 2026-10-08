@@ -94,6 +94,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Veles",
+    "alt": "Veles",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "center",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -125,19 +138,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Veles",
-    "alt": "Veles",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -405,7 +405,7 @@
       "url": null
      },
      {
-      "text": "3. ČAPLOVIČ, D.: Pohanské náboženstvo Slovanov – kontexty a hodnoty. In: Studia Archeologica Slovaca Mediaevalia, III/IV, 2000 – 2001, p. 99; JORDAN, M.: Encyklopedie..., p. 488; PROFANTOVÁ, N.-PROFANT, M.: Encyklopedie slovanských bohů a mýtů. Praha : Libri, 2002, pp. 229 – 230.",
+      "text": "3. ČAPLOVIČ, D.: Pohanské náboženstvo Slovanov – kontexty a hodnoty. In: Studia Archeologica Slovaca Mediaevalia, III/IV, 2000–2001, p. 99; JORDAN, M.: Encyklopedie..., p. 488; PROFANTOVÁ, N.-PROFANT, M.: Encyklopedie slovanských bohů a mýtů. Praha : Libri, 2002, pp. 229–230.",
       "url": null
      },
      {
@@ -413,7 +413,7 @@
       "url": null
      },
      {
-      "text": "5. VÁŇA, Z.: K současnému stavu studia slovanského pohanství. In: Památky archeologické, LXXVI, 1985, 1, p. 241; NIEDERLE, L.: Slovanské starožitnosti. Oddíl kulturní. Praha: Bursík & Kohout, 1916, pp. 112 – 116; ELIADE, M.: Dejiny náboženských predstáv a ideí. III. Bratislava : Agora, 1997, p. 37.",
+      "text": "5. VÁŇA, Z.: K současnému stavu studia slovanského pohanství. In: Památky archeologické, LXXVI, 1985, 1, p. 241; NIEDERLE, L.: Slovanské starožitnosti. Oddíl kulturní. Praha: Bursík & Kohout, 1916, pp. 112–116; ELIADE, M.: Dejiny náboženských predstáv a ideí. III. Bratislava : Agora, 1997, p. 37.",
       "url": null
      },
      {
@@ -433,11 +433,11 @@
       "url": null
      },
      {
-      "text": "10. PODOLINSKÁ, T.: O ceste tam a zase spiatky alebo o probléme metempsychósis u starých Keltov. In: Kováč, M.- Kovács, A.-Podolinská, T. (eds.): Cesty na druhý svet. Bratislava : CERES, 2005, pp. 177 – 195.",
+      "text": "10. PODOLINSKÁ, T.: O ceste tam a zase spiatky alebo o probléme metempsychósis u starých Keltov. In: Kováč, M.- Kovács, A.-Podolinská, T. (eds.): Cesty na druhý svet. Bratislava : CERES, 2005, pp. 177–195.",
       "url": null
      },
      {
-      "text": "11. VLČKOVÁ, J.: Encyklopedie keltské mytologie, pp. 312 – 313. In medieval Europe it was even held by tradition that the island of Ireland – insula Hiberniae – was the place from which it was supposedly possible to enter purgatory. KOŽIAK, R.: Špecifické črty vývoja kresťanstva a monasticizmu v Írsku v ranom stredoveku. In: Rehole a kláštory v stredoveku. Ed. R. Kožiak, V. Múcska. Bratislava : Chronos, 2002, p. 31.",
+      "text": "11. VLČKOVÁ, J.: Encyklopedie keltské mytologie, pp. 312–313. In medieval Europe it was even held by tradition that the island of Ireland – insula Hiberniae – was the place from which it was supposedly possible to enter purgatory. KOŽIAK, R.: Špecifické črty vývoja kresťanstva a monasticizmu v Írsku v ranom stredoveku. In: Rehole a kláštory v stredoveku. Ed. R. Kožiak, V. Múcska. Bratislava : Chronos, 2002, p. 31.",
       "url": null
      },
      {
@@ -457,7 +457,7 @@
       "url": null
      },
      {
-      "text": "16. DINZELBACHER, P.: Poslední věci člověka. Nebe, peklo, očistec ve středověku. Praha : Vyšehrad, 2004. pp. 14 – 24.",
+      "text": "16. DINZELBACHER, P.: Poslední věci člověka. Nebe, peklo, očistec ve středověku. Praha : Vyšehrad, 2004. pp. 14–24.",
       "url": null
      },
      {
@@ -469,11 +469,11 @@
       "url": null
      },
      {
-      "text": "19. STURLUSSON, S.: Edda, pp. 67 – 72.",
+      "text": "19. STURLUSSON, S.: Edda, pp. 67–72.",
       "url": null
      },
      {
-      "text": "20. VÁŇA, Z.: Svět slovanských bohů a démonů, pp. 46 – 49.",
+      "text": "20. VÁŇA, Z.: Svět slovanských bohů a démonů, pp. 46–49.",
       "url": null
      },
      {
@@ -481,15 +481,15 @@
       "url": null
      },
      {
-      "text": "22. VÁŇA, Z.: K současnému stavu studia slovanského pohanství, p. 236; CHARVÁT, P.: Předkřesťanské ideologie. v raném českém středověku. In: Studia mediaevalia pragensia, 1988, 1, pp. 84 – 85.",
+      "text": "22. VÁŇA, Z.: K současnému stavu studia slovanského pohanství, p. 236; CHARVÁT, P.: Předkřesťanské ideologie. v raném českém středověku. In: Studia mediaevalia pragensia, 1988, 1, pp. 84–85.",
       "url": null
      },
      {
-      "text": "23. CHORVÁT, K.: Znali Slovania peklo? In: Slovenské pohľady, XIV, 1894, pp. 228 – 229. Similarly, in Germanic mythology the realm ruled by the goddess Hel did not bear the negative image of a hellish place for sinners either. The Christian meaning of hell was taken on only by the later Christianised form of the word (German Hölle). DE REU, M.: The Missionaries: The First Contact between Paganism and Christianity. In: The Pagan Middle Ages. Ed. L. Milis. [n.p.] : Boydell Brewer, 1998, pp. 19–21.",
+      "text": "23. CHORVÁT, K.: Znali Slovania peklo? In: Slovenské pohľady, XIV, 1894, pp. 228–229. Similarly, in Germanic mythology the realm ruled by the goddess Hel did not bear the negative image of a hellish place for sinners either. The Christian meaning of hell was taken on only by the later Christianised form of the word (German Hölle). DE REU, M.: The Missionaries: The First Contact between Paganism and Christianity. In: The Pagan Middle Ages. Ed. L. Milis. [n.p.] : Boydell Brewer, 1998, pp. 19–21.",
       "url": null
      },
      {
-      "text": "24. BYLINA, S.: La peur et l'espérance eschatologique dans la première christianisation des Slaves. In: SWIERKOSZ-LENART, S.W.: Le origini e lo sviluppo della cristianitá slavo-bizantina. Ed. S. W. Świerkosz-Lenart. Roma : Istituto Storico Italiano per il Medioevo, 1992, pp. 207 – 209.",
+      "text": "24. BYLINA, S.: La peur et l'espérance eschatologique dans la première christianisation des Slaves. In: SWIERKOSZ-LENART, S.W.: Le origini e lo sviluppo della cristianitá slavo-bizantina. Ed. S. W. Świerkosz-Lenart. Roma : Istituto Storico Italiano per il Medioevo, 1992, pp. 207–209.",
       "url": null
      },
      {
@@ -497,7 +497,7 @@
       "url": null
      },
      {
-      "text": "26. NIEDERLE, L.: Slovanské starožitnosti. Oddíl kulturní, pp. 31 – 34; VÁŇA, Z.: Svět dávných Slovanů, p. 83.",
+      "text": "26. NIEDERLE, L.: Slovanské starožitnosti. Oddíl kulturní, pp. 31–34; VÁŇA, Z.: Svět dávných Slovanů, p. 83.",
       "url": null
      },
      {

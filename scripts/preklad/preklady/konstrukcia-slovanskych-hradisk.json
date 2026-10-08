@@ -19,7 +19,7 @@
    },
    {
     "label": "Height of defensive walls",
-    "value": "Even over 10 m from the foot to the crown of the rampart",
+    "value": "Even over 10 m from the foot to the crest of the rampart",
     "icon": "mountain"
    },
    {
@@ -116,7 +116,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "The construction of Slavic hillforts",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -175,7 +175,7 @@
     "__component": "content.image-block",
     "caption": "1: palisade (a – closely set posts, b – wattle, c – horizontal logs braced by posts, d – slot technique), 2: ditches (a – pointed, b – trough-shaped), 3: rampart with a palisade, 4: bank with a stone mantle, 5: box construction, 6: box construction within an earthen bank, 7: rampart with a mantle and an underlying grillage, 8: (a – grillage of the interleaved kind, b – plan of a chambered, framed skeleton, c – bidirectional interleaved grillage)",
     "alt": "Diagram of the types of palisade, ditch and construction of Slavic defensive walls",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -225,7 +225,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "The construction of Slavic hillforts",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -247,19 +247,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "The construction of Slavic hillforts",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -306,6 +293,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The construction of Slavic hillforts",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -336,7 +336,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Slavic defensive walls reached heights of even over 10 m, measured from the foot to the crown of the rampart. The height of the palisade itself, or the length of the abatis, was up to 2 m."
+        "text": "Slavic defensive walls reached heights of even over 10 m, measured from the foot to the crest of the rampart. The height of the palisade itself, or the length of the abatis, was up to 2 m."
        }
       ]
      }

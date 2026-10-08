@@ -182,24 +182,10 @@
     ]
    },
    {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "Several distinguished guests came to the site to support us: the discoverer of the Zlatý kôň small fort, Mr Štefan Meliš, together with almost all the members of the archaeological club in Považská Bystrica (Messrs Olšovský, Zemančík, Janech, Miko), the archaeologist Jozef Moravčík, who led the club in the past, the archaeologist of the Považie Museum in Žilina Andrea Slaná, the archaeologist of the Regional Monuments Board in Žilina Katarína Vlaszatá, the archaeologist Peter Schreiber, the discoverer of the sacrificial site Mr Kondrčík and, not least, the Celts from Havránok – the Vae Victis association – and many other interesting guests. For the first time our panel installation did not escape the representatives of the media either."
-       }
-      ]
-     }
-    ]
-   },
-   {
     "__component": "content.image-block",
     "caption": "The marked spot where we put the panel",
     "alt": "The marked spot where we put the panel",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -216,11 +202,38 @@
       "children": [
        {
         "type": "text",
+        "text": "Several distinguished guests came to the site to support us: the discoverer of the Zlatý kôň small fort, Mr Štefan Meliš, together with almost all the members of the archaeological club in Považská Bystrica (Messrs Olšovský, Zemančík, Janech, Miko), the archaeologist Jozef Moravčík, who led the club in the past, the archaeologist of the Považie Museum in Žilina Andrea Slaná, the archaeologist of the Regional Monuments Board in Žilina Katarína Vlaszatá, the archaeologist Peter Schreiber, the discoverer of the sacrificial site Mr Kondrčík and, not least, the Celts from Havránok – the Vae Victis association – and many other interesting guests. For the first time our panel installation did not escape the representatives of the media either."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
         "text": "The first one we put up was the information panel below the Zlatý kôň hillfort. Our co-organiser Mr Štefan Žilovec helped us out not only by obtaining the necessary consents from the landowners, but also by creating (clearing) the spot where we put the panel up, and by providing a lorry that carried both panels out into terrain that is hard to reach."
        }
       ]
      }
     ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "The lads from the Hradiská association putting up the panel",
+    "alt": "The lads from the Hradiská association putting up the panel",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -235,19 +248,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "The lads from the Hradiská association putting up the panel",
-    "alt": "The lads from the Hradiská association putting up the panel",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -281,7 +281,7 @@
     "__component": "content.image-block",
     "caption": "Antonín Lacko showing his drawing of the small fort, which we also put on the panel",
     "alt": "Antonín Lacko showing his drawing of the small fort, which we also put on the panel",
-    "width": "60",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,

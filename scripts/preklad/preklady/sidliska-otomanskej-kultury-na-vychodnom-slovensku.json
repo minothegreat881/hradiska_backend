@@ -191,7 +191,7 @@
     "__component": "content.image-block",
     "caption": "Fig. 1 – Map of the fortified sites studied (Google Earth).",
     "alt": "Fig. 1 – Map of the fortified sites studied (Google Earth).",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -232,7 +232,7 @@
     "__component": "content.image-block",
     "caption": "Tab. I – Chronological table (the division of the Otomani culture after Furmánek/Veliačik/Vladár 1991, 82, 84; supplemented and synchronised with further literature).",
     "alt": "Tab. I – Chronological table (the division of the Otomani culture after Furmánek/Veliačik/Vladár 1991, 82, 84; supplemented and synchronised with further literature).",
-    "width": "60",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -349,7 +349,7 @@
       "children": [
        {
         "type": "text",
-        "text": "The demise and decline of the fortified settlements is relatively sudden. At the end of the later stage the culture begins to stagnate and the individual fortified settlements gradually come to an end. The Otomani complex in eastern Slovakia breaks up and survives only at a local level (Tab. I). Opinions on the demise of the Otomani culture differ in central European scholarship. The connection is to be sought in the change of the historical situation at the transition of phases BB1/BB2 (Vladár 2012, 390)"
+        "text": "The demise and decline of the fortified settlements is relatively sudden. At the end of the later stage the culture begins to stagnate and the individual fortified settlements gradually come to an end. The Otomani complex in eastern Slovakia breaks up and survives only at a local level (Tab. I). Opinions on the demise of the Otomani culture differ in Central European scholarship. The connection is to be sought in the change of the historical situation at the transition of phases BB1/BB2 (Vladár 2012, 390)"
        }
       ]
      }
@@ -399,6 +399,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Fig. 2 – Plan of the fortified settlements and the cemetery at Nižná Myšľa (adapted after Olexa 2003, 41, Tab. V) 1, 2 – rampart and ditch of fortified settlement I; 3, 4 – rampart and ditch of fortified settlement II; 5 – cemetery.",
+    "alt": "Fig. 2 – Plan of the fortified settlements and the cemetery at Nižná Myšľa (adapted after Olexa 2003, 41, Tab. V) 1, 2 – rampart and ditch of fortified settlement I; 3, 4 – rampart and ditch of fortified settlement II; 5 – cemetery.",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -425,19 +438,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Fig. 2 – Plan of the fortified settlements and the cemetery at Nižná Myšľa (adapted after Olexa 2003, 41, Tab. V) 1, 2 – rampart and ditch of fortified settlement I; 3, 4 – rampart and ditch of fortified settlement II; 5 – cemetery.",
-    "alt": "Fig. 2 – Plan of the fortified settlements and the cemetery at Nižná Myšľa (adapted after Olexa 2003, 41, Tab. V) 1, 2 – rampart and ditch of fortified settlement I; 3, 4 – rampart and ditch of fortified settlement II; 5 – cemetery.",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -483,6 +483,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Fig. 3 – Schematic plan of the settlement at Barca I (after Kabát 1955, 595, fig. 259).",
+    "alt": "Fig. 3 – Schematic plan of the settlement at Barca I (after Kabát 1955, 595, fig. 259).",
+    "width": "50",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -495,19 +508,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Fig. 3 – Schematic plan of the settlement at Barca I (after Kabát 1955, 595, fig. 259).",
-    "alt": "Fig. 3 – Schematic plan of the settlement at Barca I (after Kabát 1955, 595, fig. 259).",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -581,6 +581,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Fig. 4 – Sequence of layers at Barca I (after Kabát 1955, 597, fig. 260).",
+    "alt": "Fig. 4 – Sequence of layers at Barca I (after Kabát 1955, 597, fig. 260).",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -593,19 +606,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Fig. 4 – Sequence of layers at Barca I (after Kabát 1955, 597, fig. 260).",
-    "alt": "Fig. 4 – Sequence of layers at Barca I (after Kabát 1955, 597, fig. 260).",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "center",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -668,7 +668,7 @@
     "__component": "content.image-block",
     "caption": "Fig. 5 – The fortified settlement at Spišský Štvrtok – Myšia Hôrka 1 – the floor of a hut and a street (after Kabát 1955, 613, fig. 287);",
     "alt": "Fig. 5 – The fortified settlement at Spišský Štvrtok – Myšia Hôrka 1 – the floor of a hut and a street (after Kabát 1955, 613, fig. 287);",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -714,7 +714,7 @@
       "children": [
        {
         "type": "text",
-        "text": "In the Early Bronze Age we encounter fortified settlements across a wider central European territory. The fortified settlements of the Otomani culture were the first settlements of this kind in eastern Slovakia. The very fact that they came into being documents a certain social advancement. The ingenious system of fortification of the settlements, the systematic built-up layout and the number of specific finds only confirm this."
+        "text": "In the Early Bronze Age we encounter fortified settlements across a wider Central European territory. The fortified settlements of the Otomani culture were the first settlements of this kind in eastern Slovakia. The very fact that they came into being documents a certain social advancement. The ingenious system of fortification of the settlements, the systematic built-up layout and the number of specific finds only confirm this."
        }
       ]
      }
@@ -744,7 +744,7 @@
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "center",
+    "position": "right",
     "pairWithNext": false
    },
    {
@@ -866,7 +866,7 @@
     "__component": "content.image-block",
     "caption": "Fig. 7 – The fortified settlement at Spišský Štvrtok – Myšia hôrka 1 – plan of the hillfort (adapted after Vladár 1975, 18);",
     "alt": "Fig. 7 – The fortified settlement at Spišský Štvrtok – Myšia hôrka 1 – plan of the hillfort (adapted after Vladár 1975, 18);",
-    "width": "40",
+    "width": "50",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -1096,7 +1096,7 @@
     "__component": "content.image-block",
     "caption": "2 – a model of the hillfort (Vladár 2012, 391, fig. 6).",
     "alt": "2 – a model of the hillfort (Vladár 2012, 391, fig. 6).",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -1193,6 +1193,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Fortified settlements of the Otomani culture in eastern Slovakia",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -1219,19 +1232,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Fortified settlements of the Otomani culture in eastern Slovakia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -1422,7 +1422,7 @@
     "__component": "content.image-block",
     "caption": "Fig. 9 – Plan of the fortified settlement at Trzcinica (adapted after Gancarski 2011, 95, Ryc. 12)1 – the settlement of the Pleszów group and of the earlier phase of the Otomani–Füzesabony culture; 2 – the extent of the latest phase of the settlement of the Otomani–Füzesabony culture; 3 – the fortification ditch.",
     "alt": "Fig. 9 – Plan of the fortified settlement at Trzcinica (after Gancarski 2011, 95, Ryc. 12) 1 – the settlement of the Pleszów group and of the earlier phase of the Otomani–Füzesabony culture; 2 – the extent of the latest phase; 3 – the fortification ditch",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,

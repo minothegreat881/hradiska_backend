@@ -108,6 +108,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Germanic brooches from Western Slovakia",
+    "alt": "Germanic brooches from Western Slovakia",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -134,19 +147,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Germanic brooches from Western Slovakia",
-    "alt": "Germanic brooches from Western Slovakia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -225,7 +225,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "The Marcomanni and the Quadi",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -292,6 +292,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "A bronze pot from Western Slovakia",
+    "alt": "A bronze pot from Western Slovakia",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -320,19 +333,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "A bronze pot from Western Slovakia",
-    "alt": "A bronze pot from Western Slovakia",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -341,20 +341,6 @@
        {
         "type": "text",
         "text": "The inscription is on a stone slab measuring 175 × 76 cm, which originally served as the gravestone of the Roman citizen Quintus Atilius Primus. In 1976 it was discovered by the administrator of the Roman Catholic parish during repairs to the church in Boldog."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "It is the oldest Roman inscription discovered in Slovakia, as it dates from the 1st century AD. At first glance the inscription is brief, since it has only 11 lines, but it conceals unusually extensive information. Besides the name it contains biographical data on the deceased and his relatives, on their origin and on who had the gravestone made. The most important, however, is the information on the life career of Q. Atilius Primus. He was an officer, a centurion of the famous XV Legion garrisoned in the 1st century at Carnuntum, and at the same time, according to the interpretation of T. Kolník, he also held the post of interpreter to the legion, probably of both the Celtic and the Germanic language. After retiring he was a negotiator – a merchant. It is precisely in this information that the greatest historical value of the Boldog inscription lies."
        }
       ]
      }
@@ -372,6 +358,20 @@
     "shadow": true,
     "position": "left",
     "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "It is the oldest Roman inscription discovered in Slovakia, as it dates from the 1st century AD. At first glance the inscription is brief, since it has only 11 lines, but it conceals unusually extensive information. Besides the name it contains biographical data on the deceased and his relatives, on their origin and on who had the gravestone made. The most important, however, is the information on the life career of Q. Atilius Primus. He was an officer, a centurion of the famous XV Legion garrisoned in the 1st century at Carnuntum, and at the same time, according to the interpretation of T. Kolník, he also held the post of interpreter to the legion, probably of both the Celtic and the Germanic language. After retiring he was a negotiator – a merchant. It is precisely in this information that the greatest historical value of the Boldog inscription lies."
+       }
+      ]
+     }
+    ]
    },
    {
     "__component": "content.rich-text",
@@ -632,7 +632,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "The Marcomanni and the Quadi",
-    "width": "40",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -730,7 +730,7 @@
     "__component": "content.image-block",
     "caption": "A riding spur from Western Slovakia",
     "alt": "A riding spur from Western Slovakia",
-    "width": "40",
+    "width": "50",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -783,19 +783,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "The Marcomanni and the Quadi",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -808,6 +795,19 @@
       ]
      }
     ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The Marcomanni and the Quadi",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -882,6 +882,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "The Marcomanni and the Quadi",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -908,19 +921,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "The Marcomanni and the Quadi",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -961,7 +961,7 @@
     "showCaption": false,
     "rounded": true,
     "shadow": true,
-    "position": "left",
+    "position": "center",
     "pairWithNext": false
    },
    {
@@ -1125,7 +1125,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "The Marcomanni and the Quadi",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -1296,7 +1296,7 @@
     "__component": "content.image-block",
     "caption": "",
     "alt": "The Marcomanni and the Quadi",
-    "width": "50",
+    "width": "60",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -1414,7 +1414,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Phase 1 (165/6 – 171/172)",
+        "text": "Phase 1 (165/6–171/172)",
         "italic": true
        },
        {
@@ -1433,7 +1433,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Phase 2 (171/172 – 174)",
+        "text": "Phase 2 (171/172–174)",
         "italic": true
        },
        {
@@ -1466,7 +1466,7 @@
       "children": [
        {
         "type": "text",
-        "text": "Phase 3 (175 – 179/180)",
+        "text": "Phase 3 (175–179/180)",
         "italic": true
        },
        {

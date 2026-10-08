@@ -104,6 +104,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "The Uhliská site – the area investigated is shown in black",
+    "alt": "The Uhliská site – the area investigated is shown in black",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -116,19 +129,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "The Uhliská site – the area investigated is shown in black",
-    "alt": "The Uhliská site – the area investigated is shown in black",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "center",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -166,10 +166,16 @@
     ]
    },
    {
+    "__component": "content.quote-block",
+    "text": "The small objects found at Prosné were practically all deformed and broken, because they were deliberately damaged during the rites and thrown into the sacrificial fires. Many sherds had also passed through fire, as they were secondarily burnt. The whole area of the site appeared as a dark patch in the light clayey soil, intensively mixed with charcoal and ash.\n\nThe sacrificial pit was evidently cleaned out regularly, which is why only objects from the last period of its use were found here. Among the pottery, vessels thrown on the potter's wheel predominated, decorated with incised, pattern-burnished and relief decoration, and fragments of painted vessels were also found, which in the territory occupied by the Púchov culture were produced only at hillforts (oppida). The sacrificial site served a wider region within a radius of 20–30 km, and the inhabitants of the settlements of this territory came here regularly to make offerings over a long period. The sacrificial site at Prosné is an exceptional site of the Púchov culture within the whole of Slovakia, and perhaps in the future other similar sites will be discovered in further regions of Slovakia.",
+    "author": "Jozef Moravčík",
+    "source": "K. Pieta, J. Moravčík: Spätlatènezeitliche Opferplatz in Prosné, Slovenská archeológia XVIII-2, 1980"
+   },
+   {
     "__component": "content.image-block",
     "caption": "",
     "alt": "Prosné – the Celtic sacrificial site",
-    "width": "50",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": false,
@@ -177,12 +183,6 @@
     "shadow": true,
     "position": "left",
     "pairWithNext": false
-   },
-   {
-    "__component": "content.quote-block",
-    "text": "The small objects found at Prosné were practically all deformed and broken, because they were deliberately damaged during the rites and thrown into the sacrificial fires. Many sherds had also passed through fire, as they were secondarily burnt. The whole area of the site appeared as a dark patch in the light clayey soil, intensively mixed with charcoal and ash.\n\nThe sacrificial pit was evidently cleaned out regularly, which is why only objects from the last period of its use were found here. Among the pottery, vessels thrown on the potter's wheel predominated, decorated with incised, pattern-burnished and relief decoration, and fragments of painted vessels were also found, which in the territory occupied by the Púchov culture were produced only at hillforts (oppida). The sacrificial site served a wider region within a radius of 20–30 km, and the inhabitants of the settlements of this territory came here regularly to make offerings over a long period. The sacrificial site at Prosné is an exceptional site of the Púchov culture within the whole of Slovakia, and perhaps in the future other similar sites will be discovered in further regions of Slovakia.",
-    "author": "Jozef Moravčík",
-    "source": "K. Pieta, J. Moravčík: Spätlatènezeitliche Opferplatz in Prosné, Slovenská archeológia XVIII-2, 1980"
    },
    {
     "__component": "content.rich-text",
@@ -200,6 +200,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "",
+    "alt": "Prosné – the Celtic sacrificial site",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": false,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -212,19 +225,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "",
-    "alt": "Prosné – the Celtic sacrificial site",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": false,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -256,6 +256,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "An impression of what the sacrificial site looked like",
+    "alt": "An impression of what the sacrificial site looked like",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -268,19 +281,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "An impression of what the sacrificial site looked like",
-    "alt": "An impression of what the sacrificial site looked like",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -327,6 +327,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Jewellery that was offered as a sacrifice",
+    "alt": "Jewellery that was offered as a sacrifice",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -339,19 +352,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Jewellery that was offered as a sacrifice",
-    "alt": "Jewellery that was offered as a sacrifice",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "right",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -369,6 +369,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "Further objects that were offered",
+    "alt": "Further objects that were offered",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -381,19 +394,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "Further objects that were offered",
-    "alt": "Further objects that were offered",
-    "width": "40",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",

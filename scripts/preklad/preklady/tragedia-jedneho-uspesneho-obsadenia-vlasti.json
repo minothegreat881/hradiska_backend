@@ -167,6 +167,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "The Roman fort on Sibrik Hill at Visegrád, which was rebuilt into a stronghold in the Early Middle Ages. A successful 3D visualisation of the fort in the Early Middle Ages (by Pazirik, www.pazirik.hu)",
+    "alt": "The Roman fort on Sibrik Hill at Visegrád, which was rebuilt into a stronghold in the Early Middle Ages. A successful 3D visualisation of the fort in the Early Middle Ages (by Pazirik, www.pazirik.hu)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -180,19 +193,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "The Roman fort on Sibrik Hill at Visegrád, which was rebuilt into a stronghold in the Early Middle Ages. A successful 3D visualisation of the fort in the Early Middle Ages (by Pazirik, www.pazirik.hu)",
-    "alt": "The Roman fort on Sibrik Hill at Visegrád, which was rebuilt into a stronghold in the Early Middle Ages. A successful 3D visualisation of the fort in the Early Middle Ages (by Pazirik, www.pazirik.hu)",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "center",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -241,6 +241,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "A spur from Visegrád",
+    "alt": "A spur from Visegrád",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -285,19 +298,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "A spur from Visegrád",
-    "alt": "A spur from Visegrád",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -348,7 +348,7 @@
     "__component": "content.image-block",
     "caption": "A 3D model of the church at Visegrád (c. 10th/11th century)",
     "alt": "A 3D model of the church at Visegrád (c. 10th/11th century)",
-    "width": "60",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,

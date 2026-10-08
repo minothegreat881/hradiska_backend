@@ -25,7 +25,7 @@ const PREKLADY = resolve(TU, '..', 'preklad', 'preklady');
 const LIMITY = [
   ['title', 255], ['slug', 255], ['excerpt', 500], ['metaTitle', 70], ['metaDescription', 160],
   ['year', 50], ['label', 255], ['value', 255], ['caption', 500], ['alt', 255], ['description', 500],
-  ['source', 255], ['author', 255],   // `text` citátu a zdrojov limit nemá
+  // `text`, `source` a `author` citátu sú bez maxLength — nekontrolujú sa
 ];
 const LIMIT = new Map(LIMITY);
 /* Koniec, ktorý nemá kde skončiť. Pozor: po anglicky sa veta legitímne končí

@@ -3,7 +3,7 @@
  "data": {
   "title": "Skalka – the mysterious little church on the Chochel hillfort",
   "slug": "skalka-mysterious-church-on-chochel-hillfort",
-  "excerpt": "Dwarf Digital Archeology has made a visualisation of the mysterious little church that stood on the Slavic hillfort of Chochel at Skalka nad Váhom. Its nave measured only 5.3 × 5.4 – 5.6 m, it may have been built while Great Moravia still existed, and a grave inside it held a man whose head had been removed and whose torso was weighted down with eleven stones.",
+  "excerpt": "Dwarf Digital Archeology has made a visualisation of the mysterious little church that stood on the Slavic hillfort of Chochel at Skalka nad Váhom. Its nave measured only 5.3 × 5.4–5.6 m, it may have been built while Great Moravia still existed, and a grave inside it held a man whose head had been removed and whose torso was weighted down with eleven stones.",
   "metaTitle": "Skalka – a mysterious church on a Slavic hillfort",
   "metaDescription": "A visualisation of the mysterious church on the Chochel hillfort at Skalka nad Váhom, perhaps from the time of Great Moravia, with a vampire grave inside.",
   "keyFacts": [
@@ -14,7 +14,7 @@
    },
    {
     "label": "The church",
-    "value": "nave 5.3 × 5.4 – 5.6 m + apse (6.2 m); the walls may have been of timber",
+    "value": "nave 5.3 × 5.4–5.6 m + apse (6.2 m); the walls may have been of timber",
     "icon": "star"
    },
    {
@@ -92,21 +92,7 @@
        },
        {
         "type": "text",
-        "text": ", at the intersection of its longitudinal and transverse axes, a sacral building was erected. It consisted of a nave of irregular square plan and a shallowly curved semicircular apse. Its external dimensions are given as 5.3 × 5.4 – 5.6 m, or 6.2 m including the apse. The longitudinal axis of the building, running through the centre of the apse, has a SE – NW direction and is therefore deflected by 43° from the sacral axis laid out on an E – W line. On the southern side two small square projections adjoin the wall; these are evidently the remains of the foundations of a neck-like porch covering the entrance portal."
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "__component": "content.rich-text",
-    "body": [
-     {
-      "type": "paragraph",
-      "children": [
-       {
-        "type": "text",
-        "text": "The building has survived in the form of one or two of the lowest courses of foundation masonry, built of quarried stone of local provenance bonded with mortar. In some stretches of the perimeter masonry the stones were bonded only with clay. The interior floor was covered, in the manner of a terracotta bond, with thin flat sandstone slabs. The complete absence of stones from around the sacral building raises doubts as to whether its perimeter walls, and possibly also the neck-like porch over the entrance portal, were built of this material. Had that been the case, their volume would not have been negligible; it can be estimated at more than 30 m³. The excavation, however, did not record even fragments of mortar binding, which would have remained in place even if the masonry had been dismantled and the stones carried away for secondary use elsewhere. It therefore cannot be ruled out that the walls of the sacral building were built of timber. The concentrated occurrence of iron cramps and nails around the sacral building likewise belongs among the evidence for the use of timber and for the structural joining of some of its parts. The course of the foundation masonry uncovered by the excavation resembles the stone footings of timber sacral buildings, which were made by several techniques in both the Early and the High Middle Ages. From the 10th – 12th centuries such buildings are attested in neighbouring Austria and Poland, but in greater numbers in the countries of western and northern Europe. In most cases they were sacral makeshifts, which after a certain time were replaced with stone ones. According to Milan Hanuliak it is likely that the church was built while Great Moravia still existed. Several circumstances suggest this, such as the siting of the building, common in the 9th century but not occurring in the period when sacral architecture developed in the Hungarian state in the 11th and 12th centuries."
+        "text": ", at the intersection of its longitudinal and transverse axes, a sacral building was erected. It consisted of a nave of irregular square plan and a shallowly curved semicircular apse. Its external dimensions are given as 5.3 × 5.4–5.6 m, or 6.2 m including the apse. The longitudinal axis of the building, running through the centre of the apse, has a SE – NW direction and is therefore deflected by 43° from the sacral axis laid out on an E – W line. On the southern side two small square projections adjoin the wall; these are evidently the remains of the foundations of a neck-like porch covering the entrance portal."
        }
       ]
      }
@@ -116,7 +102,7 @@
     "__component": "content.image-block",
     "caption": "A visualisation of the possible appearance of the little church, from the workshop of Dwarf Digital Archeology",
     "alt": "A visualisation of the possible appearance of the little church, from the workshop of Dwarf Digital Archeology",
-    "width": "60",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
@@ -124,6 +110,20 @@
     "shadow": true,
     "position": "center",
     "pairWithNext": false
+   },
+   {
+    "__component": "content.rich-text",
+    "body": [
+     {
+      "type": "paragraph",
+      "children": [
+       {
+        "type": "text",
+        "text": "The building has survived in the form of one or two of the lowest courses of foundation masonry, built of quarried stone of local provenance bonded with mortar. In some stretches of the perimeter masonry the stones were bonded only with clay. The interior floor was covered, in the manner of a terracotta bond, with thin flat sandstone slabs. The complete absence of stones from around the sacral building raises doubts as to whether its perimeter walls, and possibly also the neck-like porch over the entrance portal, were built of this material. Had that been the case, their volume would not have been negligible; it can be estimated at more than 30 m³. The excavation, however, did not record even fragments of mortar binding, which would have remained in place even if the masonry had been dismantled and the stones carried away for secondary use elsewhere. It therefore cannot be ruled out that the walls of the sacral building were built of timber. The concentrated occurrence of iron cramps and nails around the sacral building likewise belongs among the evidence for the use of timber and for the structural joining of some of its parts. The course of the foundation masonry uncovered by the excavation resembles the stone footings of timber sacral buildings, which were made by several techniques in both the Early and the High Middle Ages. From the 10th–12th centuries such buildings are attested in neighbouring Austria and Poland, but in greater numbers in the countries of western and northern Europe. In most cases they were sacral makeshifts, which after a certain time were replaced with stone ones. According to Milan Hanuliak it is likely that the church was built while Great Moravia still existed. Several circumstances suggest this, such as the siting of the building, common in the 9th century but not occurring in the period when sacral architecture developed in the Hungarian state in the 11th and 12th centuries."
+       }
+      ]
+     }
+    ]
    },
    {
     "__component": "content.rich-text",
@@ -155,6 +155,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "The hillfort marked out (L. Šubovič)",
+    "alt": "The hillfort marked out (L. Šubovič)",
+    "width": "100",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -167,19 +180,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "The hillfort marked out (L. Šubovič)",
-    "alt": "The hillfort marked out (L. Šubovič)",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.sources",

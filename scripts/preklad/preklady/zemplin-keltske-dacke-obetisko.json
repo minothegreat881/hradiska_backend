@@ -88,6 +88,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "A Celtic sacrificial site – an attempt at a reconstruction of an offering at Havránok.",
+    "alt": "A Celtic sacrificial site - an attempt at a reconstruction of an offering at Havránok",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "right",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -102,19 +115,6 @@
     ]
    },
    {
-    "__component": "content.image-block",
-    "caption": "A Celtic sacrificial site – an attempt at a reconstruction of an offering at Havránok.",
-    "alt": "A Celtic sacrificial site - an attempt at a reconstruction of an offering at Havránok",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "center",
-    "pairWithNext": false
-   },
-   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -127,6 +127,19 @@
       ]
      }
     ]
+   },
+   {
+    "__component": "content.image-block",
+    "caption": "The Zemplín hillfort on a 1950s orthophoto map with clearly visible ramparts.",
+    "alt": "The Zemplín hillfort on a 1950s orthophoto map with clearly visible ramparts.",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
@@ -144,15 +157,15 @@
    },
    {
     "__component": "content.image-block",
-    "caption": "The Zemplín hillfort on a 1950s orthophoto map with clearly visible ramparts.",
-    "alt": "The Zemplín hillfort on a 1950s orthophoto map with clearly visible ramparts.",
-    "width": "40",
+    "caption": "An astragal belt – a reconstruction.",
+    "alt": "An astragal belt - a reconstruction.",
+    "width": "100",
     "aspectRatio": "auto",
     "objectPosition": "center center",
     "showCaption": true,
     "rounded": true,
     "shadow": true,
-    "position": "left",
+    "position": "center",
     "pairWithNext": false
    },
    {
@@ -168,19 +181,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "An astragal belt – a reconstruction.",
-    "alt": "An astragal belt - a reconstruction.",
-    "width": "60",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "center",
-    "pairWithNext": false
    },
    {
     "__component": "content.sources",

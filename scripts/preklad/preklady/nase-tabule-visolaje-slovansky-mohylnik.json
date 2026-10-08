@@ -136,6 +136,19 @@
     ]
    },
    {
+    "__component": "content.image-block",
+    "caption": "The barrows are beautifully visible on the lidar map (source of ALS data: ÚGKK SR)",
+    "alt": "The barrows are beautifully visible on the lidar map (source of ALS data: ÚGKK SR)",
+    "width": "60",
+    "aspectRatio": "auto",
+    "objectPosition": "center center",
+    "showCaption": true,
+    "rounded": true,
+    "shadow": true,
+    "position": "left",
+    "pairWithNext": false
+   },
+   {
     "__component": "content.rich-text",
     "body": [
      {
@@ -148,19 +161,6 @@
       ]
      }
     ]
-   },
-   {
-    "__component": "content.image-block",
-    "caption": "The barrows are beautifully visible on the lidar map (source of ALS data: ÚGKK SR)",
-    "alt": "The barrows are beautifully visible on the lidar map (source of ALS data: ÚGKK SR)",
-    "width": "50",
-    "aspectRatio": "auto",
-    "objectPosition": "center center",
-    "showCaption": true,
-    "rounded": true,
-    "shadow": true,
-    "position": "left",
-    "pairWithNext": false
    },
    {
     "__component": "content.rich-text",
